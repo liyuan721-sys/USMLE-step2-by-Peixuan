@@ -1,6 +1,6 @@
 # 内分泌、糖尿病与代谢 (Endocrine, Diabetes & Metabolism) 笔记
 
-> UWorld Step 2 CK · 高频考点大纲
+ UWorld Step 2 CK · 高频考点大纲
 
 ## 1. 糖尿病 (Diabetes Mellitus)
 - 1 型 vs 2 型 vs MODY vs LADA
