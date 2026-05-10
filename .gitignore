@@ -3,11 +3,20 @@
 .claude/
 
 # 图片（避免误推版权材料，如 UWorld / NBME 截图、教材插图）
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.webp
+# 使用大小写不敏感模式，跨平台（Linux/macOS）也能可靠忽略
+*.[pP][nN][gG]
+*.[jJ][pP][gG]
+*.[jJ][pP][eE][gG]
+*.[gG][iI][fF]
+*.[wW][eE][bB][pP]
+*.[bB][mM][pP]
+*.[tT][iI][fF]
+*.[tT][iI][fF][fF]
+*.[sS][vV][gG]
+*.[hH][eE][iI][cC]
+*.[hH][eE][iI][fF]
+*.[aA][vV][iI][fF]
+*.[iI][cC][oO]
 
 # PDF（教材、题库导出等版权材料）
-*.pdf
+*.[pP][dD][fF]
