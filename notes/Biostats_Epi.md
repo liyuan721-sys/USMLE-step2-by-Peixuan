@@ -19,15 +19,15 @@
 
 ## 二、诊断指标(必背)
 
-| 指标 | 公式 | 含义 | 备注 |
-|---|---|---|---|
-| **Sensitivity (Sn)** | a / (a+c) | 病人里测出阳的比例 | **SnNout**:Sn 高,阴性可排除 |
-| **Specificity (Sp)** | d / (b+d) | 没病的里测出阴的比例 | **SpPin**:Sp 高,阳性可确诊 |
-| **PPV** | a / (a+b) | 测阳里真有病的比例 | **随 prevalence 升高而升高** |
-| **NPV** | d / (c+d) | 测阴里真没病的比例 | **随 prevalence 升高而降低** |
-| **Prevalence** | (a+c) / total | 患病率 | 影响 PPV/NPV,不影响 Sn/Sp |
-| **Accuracy** | (a+d) / total | 总体正确率 | 较少考 |
-
+| 指标                   | 公式            | 含义         | 备注                     |
+| -------------------- | ------------- | ---------- | ---------------------- |
+| **Sensitivity (Sn)** | a / (a+c)     | 病人里测出阳的比例  | **SnNout**:Sn 高,阴性可排除  |
+| **Specificity (Sp)** | d / (b+d)     | 没病的里测出阴的比例 | **SpPin**:Sp 高,阳性可确诊   |
+| **PPV**              | a / (a+b)     | 测阳里真有病的比例  | **随 prevalence 升高而升高** |
+| **NPV**              | d / (c+d)     | 测阴里真没病的比例  | **随 prevalence 升高而降低** |
+| **Prevalence**       | (a+c) / total | 患病率        | 影响 PPV/NPV,不影响 Sn/Sp   |
+| **Accuracy**         | (a+d) / total | 总体正确率      | 较少考                    |
+![[Pasted image 20260510151406.png|524]]
 ### 关键概念:Sn/Sp 是检测的"固有属性",PPV/NPV 受人群影响
 
 - 罕见病(低 prevalence)→ PPV 低,即使 test 很准也容易假阳
