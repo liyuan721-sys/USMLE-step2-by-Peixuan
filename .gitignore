@@ -1,2 +1,13 @@
+# 本地编辑器与工具配置
 .obsidian/
 .claude/
+
+# 图片（避免误推版权材料，如 UWorld / NBME 截图、教材插图）
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+
+# PDF（教材、题库导出等版权材料）
+*.pdf
