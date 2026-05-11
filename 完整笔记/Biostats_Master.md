@@ -66,19 +66,19 @@
 
 ### 核心公式(必背)
 
-| 公式 | 写法 |
-|---|---|
-| **Sensitivity** | `a / (a + c)` |
-| **Specificity** | `d / (b + d)` |
-| **PPV** | `a / (a + b)` |
-| **NPV** | `d / (c + d)` |
-| **Prevalence** | `(a + c) / total` |
-| **Accuracy** | `(a + d) / total` |
-| **Relative Risk (RR)** | `[a/(a+b)] / [c/(c+d)]` |
-| **Odds Ratio (OR)** | `(a × d) / (b × c)` |
-| **Attributable Risk (AR)** | `a/(a+b) − c/(c+d)` |
+| 公式                                | 写法                               |
+| --------------------------------- | -------------------------------- |
+| **Sensitivity**                   | `a / (a + c)`                    |
+| **Specificity**                   | `d / (b + d)`                    |
+| **PPV**                           | `a / (a + b)`                    |
+| **NPV**                           | `d / (c + d)`                    |
+| **Prevalence**                    | `(a + c) / total`                |
+| **Accuracy**                      | `(a + d) / total`                |
+| **Relative Risk (RR)**            | `[a/(a+b)] / [c/(c+d)]`          |
+| **Odds Ratio (OR)**               | `(a × d) / (b × c)`              |
+| **Attributable Risk (AR)**        | `a/(a+b) − c/(c+d)`              |
 | **Absolute Risk Reduction (ARR)** | `c/(c+d) − a/(a+b)`(对照组率 − 治疗组率) |
-
+![[Pasted image 20260511103127.png]]
 ---
 
 ## 二、诊断试验 — Sn / Sp / PPV / NPV / LR / Accuracy / ROC
