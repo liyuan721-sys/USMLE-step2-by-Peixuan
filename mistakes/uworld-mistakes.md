@@ -1,6 +1,11 @@
 # UWorld 错题整理
-###  [2026-05-10] Hill's criteria:看到剂量分层 + RR 单调递增 = 选 dose-response
+
+## 2026-05-10
+
+### Hill's criteria:看到剂量分层 + RR 单调递增 = 选 dose-response
+
 #biostats #causality #dose-response 🟡
+
 - **来源**:UW Q20787
 - **题干要点**:RCT 比较运动 vs 标准护理对糖尿病停药率影响,运动组按剂量分 T1/T2/T3 三组,RR 随剂量从 12.1→25.2→38.9 单调递增
 - **正确答案**:B — 更大运动量与更高停药率显著相关(= biological gradient / dose-response)
@@ -18,7 +23,7 @@
 - C. 12 个月随访时长 — 错。follow-up 时长是研究设计要素,但**不是 Hill's criteria**
 - D. RCT 主结果(intensive vs standard 有显著关联)— 错。这是题干已给的信息,不是 "additional" 支持
 
-### [2026-05-10] OR 方向陷阱 + case-control 不能算 risk
+### OR 方向陷阱 + case-control 不能算 risk
 
 #biostats #odds-ratio #case-control #方向陷阱 🔴
 
@@ -45,7 +50,9 @@
 2. **Case-control 永远算 OR,不算 RR/risk**(选项里说 "risk" 还涉及 case-control → 警惕)
 3. **Adjusted OR 仍显著 → 有 unmeasured confounders**(经典考点,常考"种族健康差异"vignette)
 
-### [2026-05-11] ARP vs RR/ARI/NNH:"attributed to" + 两组 risk = (Re−Ru)/Re,分母是暴露组
+## 2026-05-11
+
+### ARP vs RR/ARI/NNH:"attributed to" + 两组 risk = (Re−Ru)/Re,分母是暴露组
 
 #biostats #ARP #relative-risk 🔴
 
@@ -76,3 +83,59 @@
 1. **"attributed to" + 两组 risk → 9 成是 ARP**;分母是 exposed 组
 2. **NNH/NNT 单位是人数**,不是 %;选项给你 "13" 不带%号就要警惕
 3. **题外**:HIV(+) 产妇喂养——**资源充足国家 → 配方奶**,**资源匮乏国家 → 母乳**(水源污染/感染风险 > 母乳传播风险)
+
+> [!example]- Biostats / ARR 反推样本量 (Q20057)
+> 
+> ## 一句话识别
+> 给 ARR + 给一组发病人数 + 问样本量 n → **必须先算 Rt，再 n = 病例数 / Rt**
+> 
+> ## 核心思路（2 步）
+> Step 1: 用 ARR 反推 Rt
+>    Rt = Rc − ARR = 0.16 − 0.10 = **0.06**
+> Step 2: 用 Rt 反推 n
+>    n = 病例数 / Rt = 12 / 0.06 = **200** ✅
+> 
+> ## 反推公式速查
+> 
+> | 已知 | 求 | 公式 |
+> |------|-----|------|
+> | ARR + Rc | Rt | Rt = Rc − ARR |
+> | Rt + 发病数 | n | n = 发病数 / Rt |
+> | NNT | ARR | ARR = 1/NNT |
+> | RR + Rc | Rt | Rt = RR × Rc |
+> 
+> ## 我为什么错
+> 选了 C. 160 = **跳过"先算 Rt"这关键一步**，用了错误的比例当分母
+> **核心陷阱**：反推 n 必须用**那一组自己的 Risk**（不是 ARR，不是另一组的 Rc）
+> 
+> ## 记忆挂钩
+> **"桶装水"**：水 ÷ 水位 = 桶大小
+> - 桶 = n（要求的样本量）
+> - 水 = 发病数（题目给的 12）
+> - 水位 = 那一组的 Risk（必须先算出 Rt，不是直接给的）
+> 
+> ## Stem 模式速诊
+> 
+> | 关键词组合 | 考点 |
+> |-----------|------|
+> | "given ARR" + "数 of patients with X" + 问 n in [某组] | 反推 n |
+> | "given NNT" → 问 ARR | NNT 反推 |
+> | "given RR" + "Rc" → 问 Rt | RR 反推 |
+> | "given OR + odds" → 反推 prevalence | OR 反推 |
+> 
+> ## 关联
+> - [[完整笔记/Biostats_Master#反推公式]]
+> - [[完整笔记/_衍生_高频评分_公式#流行病学反推]]
+> - [[mistakes/uworld-mistakes]] 搜 Q20430（上一道 ARP）
+> 
+> ## 跨科考点（OB / 手术）
+> - 剖宫产术后切口感染预防 = **Cephalexin** 口服
+> - 加 metronidazole = 覆盖厌氧菌
+> - 适应症：**肥胖产妇**（感染高风险）
+> 
+> ## 复盘
+> - [ ] 1 周后重做这题
+> - [ ] 默写"桶装水"反推思路
+> - [ ] 加 #薄弱点 到 [[完整笔记/Biostats_Master]]
+> - [ ] 找 3 道反推题练习
+> - [ ] 加 #考前必看
