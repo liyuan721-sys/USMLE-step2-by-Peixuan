@@ -250,6 +250,40 @@ NNH ↔ NNT  （公式镜像：人数）
 | Rt      | Risk in **treated** group               |
 | Rc      | Risk in **control** group               |
 
+## 流行病学指标"一家人"速查
+
+| 场景 | 问什么 | 人话例子 | 缩写 | 全称 | 公式 |
+|------|--------|----------|------|------|------|
+| 害人 | 增加多少风险？ | "吸烟者比不吸烟者多 18% 得癌" | **ARI** | Absolute Risk Increase | Re − Ru |
+| 害人 | 害了多大比例？ | "吸烟者的癌，90% 是吸烟害的" | **ARP** | Attributable Risk Percentage | (Re−Ru) / Re |
+| 害人 | 多少人害 1 个？ | "6 个人吸烟，多 1 个得癌" | **NNH** | Number Needed to Harm | 1 / ARI |
+| 救人 | 减少多少风险？ | "吃药比不吃药少 3% 心梗" | **ARR** | Absolute Risk Reduction | Rc − Rt |
+| 救人 | 减少多大比例？ | "吃药相对少 37% 心梗" | **RRR** | Relative Risk Reduction | ARR / Rc = 1 − RR |
+| 救人 | 多少人救 1 个？ | "33 人吃药，多救 1 个" | **NNT** | Number Needed to Treat | 1 / ARR |
+
+> [!tip] 字母拆解
+> A = Absolute（绝对）/ Attributable（归因）
+> R = Risk（风险）/ Relative（相对）/ Reduction（减少）
+> I = Increase（增加，害人信号）
+> P = Percentage（百分比）
+> N = Number Needed（所需人数）
+> T = Treat（治疗，救人信号）
+> H = Harm（伤害，害人信号）
+> 
+
+## 💡 公式分母规律（自己总结）
+
+**核心**：百分比题（ARP / RRR），分母总是**大的那个数**
+
+| 公式 | 分母 | 原因 |
+|------|------|------|
+| ARP = (Re−Ru) / **Re** | Re（暴露组，大）| 问"暴露组里多少 %" |
+| RRR = (Rc−Rt) / **Rc** | Rc（对照组，大）| 问"baseline 减少多少 %" |
+
+**通用规律**：百分比 = 差值 / 那个总参照（大的）
+
+#难记 #生物统计
+
 ### 暴露 / 危害情境（5 个指标）
 
 | 缩写                 | 全称                                         | 公式                            | 含义           | 单位  |
