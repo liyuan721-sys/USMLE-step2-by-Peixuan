@@ -307,10 +307,22 @@ ROC 曲线绘制:**纵轴 = Sensitivity**,**横轴 = 1 − Specificity**(不是 
 
 ### 三大核心(必懂)
 
-1. **关联强度(Strength of Association)** — RR / OR 偏离 1.0 越远,关联越强
-2. **剂量-反应关系(Dose-Response)** — 暴露剂量↑ → 风险呈**单调阶梯式**↑
+1. **Temporality(时序)**→ 唯一"必须满足"的硬性条件,因在果前
+2. **关联强度(Strength of Association)** — RR / OR 偏离 1.0 越远,关联越强
+3. **剂量-反应关系(Dose-Response)** — 暴露剂量↑ → 风险呈**单调阶梯式**↑
    - 例:吸烟量 1→2→3 PPD,癌症 RR 2.4→3.0→4.1(明显阶梯)
-3. **可逆性(Reversibility)** — 撤除暴露后风险下降 = **最强实验证据**
+
+**### 加分项(偶尔考) - 
+1. **生物学合理性 (Plausibility)** — 与已知机制一致 
+- **一致性 (Consistency)** — 多个研究在不同人群得到相同结论 
+- **可逆性 (Reversibility / Experimental evidence)** — 撤除暴露后风险下降 = 最强实验证据 
+- **特异性 (Specificity)** — 一个原因对应一个结局(现已不太强调) 
+- 
+- ### ⚠️ 不要混淆
+- **Hill's specificity**(一因一果) ≠ **诊断 specificity**(test 排除疾病能力) 
+- **Temporality 是"必要"不"充分"** — 只有时序不够证明因果,选项里写"because A preceded B, A causes B" 是错的(USMLE 绝对化陷阱)
+- 
+1. 可逆性(Reversibility)** — 撤除暴露后风险下降 = **最强实验证据**
 
 ### 其他常考
 
