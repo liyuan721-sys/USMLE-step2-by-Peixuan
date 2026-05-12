@@ -1263,3 +1263,128 @@
 > - [ ] 默写 "Recall vs Reporting" 一刀切区分
 > - [ ] 找 3 道类似 Reporting bias 题（UWorld 搜 "anonymous" / "self-reported"）
 > - [ ] 关键习惯：以后做 bias 题先看 stem 有没有"主动排除某些 bias 的暗号"
+
+> [!example]- [2026-05-12] Biostats / Null Hypothesis (Q3941)
+> 
+> ## Stem 模式
+> Cross-sectional study（用 **prevalence** + **某时点** 锁定）→ 问 **best statement of null hypothesis**。
+> 干扰项里**至少有一个**"方向对（表达无差异）但用错术语（risk / cause / affect）"的陷阱选项 — 这是 USMLE 双重叠加陷阱模板。
+> 
+> ## 核心概念
+> 
+> **Null hypothesis (H0)** = "无差异 / 无关联 / 无效应"，是研究者**想推翻**的假设。
+> 
+> Cross-sectional 的 H0 必须用**最中性的"association"措辞**，不能用：
+> - ❌ "risk"（cohort/RCT 语言）
+> - ❌ "incidence"（前瞻性语言）
+> - ❌ "causes / affects"（暗示因果方向）
+> 
+> ## 普适规则
+> 
+> ### Null vs Alternative
+> 
+> | 概念 | 缩写 | 内容 | 角色 |
+> |---|---|---|---|
+> | Null hypothesis | H0 | 无差异/无关联/无效应 | 研究者想**推翻** |
+> | Alternative hypothesis | H1 (Ha) | 有差异/有关联/有效应 | 研究者想**支持** |
+> 
+> **统计推断核心逻辑**：
+> - p < 0.05 → **reject H0** → 支持 H1
+> - p ≥ 0.05 → **fail to reject H0** → ⚠️ 不等于"证明 H0 为真"，只是"证据不够"
+> 
+> ### Study Design 决定术语 ⭐⭐
+> 
+> | Study Design | 可用测量术语 | 不能用 |
+> |---|---|---|
+> | RCT / Cohort | **RR (Relative Risk), Risk, Incidence** | — |
+> | Case-control | **OR (Odds Ratio)** | ❌ 不能算 RR / Incidence |
+> | Cross-sectional | **Prevalence, POR** | ❌ 不能算 Risk / Incidence |
+> | **任何设计** | **Association**（最通用、最中性） | — |
+> 
+> ### 做题 SOP（3 步定位 Null hypothesis）
+> 
+> 1. **识别 study design**（找 stem 里 prevalence / incidence / cases vs controls / randomized 等线索）
+> 2. **排除 H1 选项**（任何陈述"有关联 / 有差异 / 更多 / 更易"的都是 H1）
+> 3. **在剩余选项里选措辞和 design 匹配的**：
+>    - Cross-sectional → 选用 "association" / "prevalence" 的
+>    - Cohort/RCT → 选用 "risk" / "incidence" 的
+>    - Case-control → 选用 "OR = 1" 的
+>    - **不确定时，选 "association" 永远安全**
+> 
+> ## 易混陷阱（普适）
+> 
+> ### USMLE Null hypothesis 题三大错误类型
+> 
+> | 错误类型 | 表现 | 例子 |
+> |---|---|---|
+> | **方向错** | 写成 H1（陈述"有关联"）| "Colon cancer is more prevalent in CRP+" |
+> | **设计错** ⭐ | 方向对但术语和 design 不匹配 | Cross-sectional 用 "risk" / "incidence" |
+> | **时序错** | 暗示因果方向（cross-sectional 无法判定）| "Cancer does not affect CRP" |
+> 
+> **正确选项 = 同时通过这三道关**：表达"无" + 措辞中性 + 不暗示时序。
+> 
+> ### Risk vs Prevalence vs Odds vs Association 区分
+> 
+> - **Risk** = 前瞻性概念（新发病例 / 起始人群）→ 仅 cohort/RCT 能算
+> - **Prevalence** = 某时点患病比例 → cross-sectional 专属
+> - **Odds** = case-control 用（无法算 incidence 时的替代）
+> - **Association** = 中性万能词，任何 design 都适用 ⭐
+> 
+> ## 我为什么错
+> 
+> 选了 **D. The risk of colon cancer is the same for subjects with and without elevated CRP**。
+> 
+> - **不知道这个考点**：没意识到不同 study design 对应不同的"测量语言"
+> - **概念部分对**：把"null = 表达无差异"理解对了一半（D 确实表达了"无差异"）
+> - **没匹配 design**：stem 里 "prevalence" 和 "at a given point in time" 已经明确告诉是 cross-sectional，但没把这条信息和 D 的 "risk" 用词对应起来
+> 
+> **核心陷阱**：USMLE 把两个考点叠加在一题 ——
+> 1. 你要知道 null = 无关联
+> 2. 你**还要**知道 study design 决定术语
+> 
+> 只满足 (1) 不够，会被 D 钓到。**必须两个都满足才能选对**。
+> 
+> ## Memory Hook
+> 
+> **Null = "没有"** + **"没有"的措辞必须配 study design**
+> 
+> 口诀：
+> - **"想证 A，先假非 A"** — Null 永远是研究者想证明的反面
+> - **"Risk 是 cohort 的，Prevalence 是 cross-sectional 的，Odds 是 case-control 的，Association 是所有人的"**
+> - 不确定时，选 **"no association"** 永远安全
+> 
+> 法庭类比：H0 = "无罪推定"，需要"超出合理怀疑"的证据（p < 0.05）才能推翻。Fail to reject H0 ≠ 证明无罪，只是"证据不够"。
+> 
+> ## 🤔 我的提问 / 卡点
+> 
+> - **Q: D 和 E 都说"无关联"，区别在哪？**
+>   → D 用 "**risk**"，E 用 "**association**"。Risk 是 cohort/RCT 专属术语，cross-sectional 只能算 prevalence 不能算 risk。E 的 "association" 中性万能 → cross-sectional 唯一安全表达。
+> 
+> - **Q: 为什么 B 错？它也说"不影响"**
+>   → B 说 "cancer does not affect CRP" — 暗示了**反向因果方向**（cancer → CRP）。Cross-sectional 无法判定时序，不能写出"谁影响谁"的措辞，必须用对称的"无关联"。
+> 
+> ## 🔗 关联
+> 
+> - 🔁 同主题错题：
+>   - 首道 Hypothesis testing / Null hypothesis 题
+>   - 关联到 study design 系列：
+>     - [[mistakes/uworld-mistakes#Q12684]] Cross-sectional 识别（本题正是其衍生考法）
+>     - [[mistakes/uworld-mistakes#Q12685]] Reporting bias（同日 Biostats）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/Biostats_Master]]
+>   - [[完整笔记/专题笔记/Biostats_6指标决策树_纯净版]]（RR/OR/Prevalence 区分基础）
+>   - 待生成草稿：`2026-05-12_Hypothesis_testing主笔记草稿_v1.md`（今日产出）
+> - 🏥 跨学科：无（纯 Biostats）
+> - 🌱 TODO（待生成衍生）：
+>   - 等积累 3+ 道 Hypothesis testing 题（Type I/II / Power / p / CI）→ 请 Claude Code 整合 + 升级今日草稿 → 生成 [[完整笔记/专题笔记/_衍生_USMLE_统计推断]]
+>   - 本题也是未来 [[完整笔记/专题笔记/USMLE_Study_Design决策树]] 的素材（"不同 design 对应不同测量术语"章节）
+>   - 可补充进 [[完整笔记/专题笔记/_衍生_高频陷阱]]：USMLE 双重叠加陷阱（语义对 + design 不对）
+> 
+> ## ✅ 复盘行动
+> 
+> - [ ] 1 周后重做 Q3941
+> - [ ] 默写 "Risk / Odds / Prevalence / Association" 各对应哪种 study design
+> - [ ] 默写 H0 vs H1 逻辑（reject H0 ≠ 证明 H1，fail to reject ≠ 证明 H0）
+> - [ ] 找 2-3 道类似 Null hypothesis 题（UWorld 搜 "null hypothesis"）
+> - [ ] 关键习惯：以后看到 Biostats 题，**先识别 study design**，再用 design 排除"用错术语"的选项
+> - [ ] 进阶：学习 Type I / II error + Power + p-value 解读
