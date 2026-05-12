@@ -72,7 +72,7 @@
 >   - ARI = Re−Ru = **7.7%**(单位:比例差)
 >   - ARP = (Re−Ru)/Re = **68.75%**(单位:百分比)← 本题答案
 >   - NNH = 1/ARI ≈ **13 人**(单位:人数,不是%)
-> - **关联笔记**:[[完整笔记/Biostats_Master#RR / RRR / ARR 互补关系深度推导]] / [[notes/Biostats_Epi]]
+> - **关联笔记**:[[完整笔记/Peixuan分科笔记/Biostats_Master#RR / RRR / ARR 互补关系深度推导]] / [[notes/Biostats_Epi]]
 > - **重做次数**:☐ 1st
 > - **状态**:🔴 概念混淆(分母方向)
 > 
@@ -127,8 +127,8 @@
 > | "given OR + odds" → 反推 prevalence | OR 反推 |
 > 
 > ## 关联
-> - [[完整笔记/Biostats_Master#反推公式]]
-> - [[完整笔记/_衍生_高频评分_公式#流行病学反推]]
+> - [[完整笔记/Peixuan分科笔记/Biostats_Master#反推公式]]
+> - [[完整笔记/专题笔记/_衍生_高频评分_公式#流行病学反推]]
 > - [[mistakes/uworld-mistakes]] 搜 Q20430（上一道 ARP）
 > 
 > ## 跨科考点（OB / 手术）
@@ -139,7 +139,7 @@
 > ## 复盘
 > - [ ] 1 周后重做这题
 > - [ ] 默写"桶装水"反推思路
-> - [ ] 加 #薄弱点 到 [[完整笔记/Biostats_Master]]
+> - [ ] 加 #薄弱点 到 [[完整笔记/Peixuan分科笔记/Biostats_Master]]
 > - [ ] 找 3 道反推题练习
 > - [ ] 加 #考前必看
 
@@ -198,14 +198,14 @@
 > 同样数据问 LR− → 0.25/0.85 = 0.29 ✅
 > 
 > ## 关联
-> - [[完整笔记/Biostats_Master#诊断试验]]
-> - [[完整笔记/Biostats_Master#LR]]
+> - [[完整笔记/Peixuan分科笔记/Biostats_Master#诊断试验]]
+> - [[完整笔记/Peixuan分科笔记/Biostats_Master#LR]]
 > - [[notes/Biostats_Epi]]
 > 
 > ## 复盘
 > - [ ] 1 周后重做
 > - [ ] 默写"Sens = 有病阳性；Spec = 无病阴性"
-> - [ ] 加 #薄弱点 #考前必看 到 [[Biostats_Master#诊断试验]]
+> - [ ] 加 #薄弱点 #考前必看 到 [[完整笔记/Peixuan分科笔记/Biostats_Master#诊断试验]]
 
 > [!example]- [2026-05-11] Biostats / ROC 曲线 + Cutoff 跷跷板 (Q7711)
 > 
@@ -280,17 +280,17 @@
 > - **确诊**（怕误诊）→ 高 cutoff → Spec↑
 > 
 > ## 关联
-> - [[完整笔记/Biostats_Master#ROC]]
-> - [[完整笔记/Biostats_Master#Cutoff]]
-> - [[完整笔记/Biostats_Master#AUC]]
-> - [[完整笔记/_衍生_高频陷阱#ROC]]
+> - [[完整笔记/Peixuan分科笔记/Biostats_Master#ROC]]
+> - [[完整笔记/Peixuan分科笔记/Biostats_Master#Cutoff]]
+> - [[完整笔记/Peixuan分科笔记/Biostats_Master#AUC]]
+> - [[完整笔记/专题笔记/_衍生_高频陷阱#ROC]]
 > 
 > ## 复盘
 > - [ ] 1 周后重做
 > - [ ] 默写"跷跷板"完整表（含 AUC 不变 ⭐）
 > - [ ] 画 ROC 曲线 + 标关键点（左上角/对角线/AUC）
 > - [ ] 默写 AUC vs Accuracy 区别
-> - [ ] 加 #薄弱点 #难记 #考前必看 到 [[Biostats_Master#ROC]]
+> - [ ] 加 #薄弱点 #难记 #考前必看 到 [[完整笔记/Peixuan分科笔记/Biostats_Master#ROC]]
 
 > [!example]- [2026-05-11] Biostats / Matching 控制 Confounding (Q4182)
 > 
@@ -356,17 +356,17 @@
 > | 处理 | **消除**（控制）| **报告**（分层）|
 > 
 > ## 关联
-> - [[完整笔记/Biostats_Master#Bias]]
-> - [[完整笔记/Biostats_Master#Confounding]]
-> - [[完整笔记/Biostats_Master#Study Design]]
-> - [[完整笔记/_衍生_高频陷阱#Biostats偏倚]]
+> - [[完整笔记/Peixuan分科笔记/Biostats_Master#Bias]]
+> - [[完整笔记/Peixuan分科笔记/Biostats_Master#Confounding]]
+> - [[完整笔记/Peixuan分科笔记/Biostats_Master#Study Design]]
+> - [[完整笔记/专题笔记/_衍生_高频陷阱#Biostats偏倚]]
 > 
 > ## 复盘
 > - [ ] 1 周后重做
 > - [ ] 默写 8 大偏倚 + 控制方法
 > - [ ] 默写"5 大控制 Confounding 方法"
 > - [ ] 区分 Confounding vs Effect Modification
-> - [ ] 加 #薄弱点 #难记 #考前必看 到 [[Biostats_Master#Bias]]
+> - [ ] 加 #薄弱点 #难记 #考前必看 到 [[完整笔记/Peixuan分科笔记/Biostats_Master#Bias]]
 
 > [!example]- [2026-05-11] Biostats / PPV NPV vs Prevalence (Q21656)
 > 
@@ -433,16 +433,16 @@
 > | "diagnosis/confirm" | Spec 高 + PPV 高 |
 > 
 > ## 关联
-> - [[完整笔记/Biostats_Master#PPV NPV]]
-> - [[完整笔记/Biostats_Master#筛查 vs 确诊]]
-> - [[完整笔记/_衍生_高频陷阱#PPV NPV 方向]]
+> - [[完整笔记/Peixuan分科笔记/Biostats_Master#PPV NPV]]
+> - [[完整笔记/Peixuan分科笔记/Biostats_Master#筛查 vs 确诊]]
+> - [[完整笔记/专题笔记/_衍生_高频陷阱#PPV NPV 方向]]
 > 
 > ## 复盘
 > - [ ] 1 周后重做
 > - [ ] 默写"PP 同向，NP 反向"
 > - [ ] 默写"SnNout / SpPin"
 > - [ ] 区分"选 sens/spec 高的原因 ≠ 因为 NPV/PPV 高"
-> - [ ] 加 #薄弱点 #难记 #考前必看 到 [[Biostats_Master#PPV NPV]]
+> - [ ] 加 #薄弱点 #难记 #考前必看 到 [[完整笔记/Peixuan分科笔记/Biostats_Master#PPV NPV]]
 
 > [!example]- [2026-05-11] Biostats / HR 解读 (Q7688)
 >
@@ -500,19 +500,19 @@
 > - **元层面诊断**：两题都是"不知道概念 + 不会看表" → 需要建立**看表 SOP**（4 步法）
 >
 > ## 🔗 关联
-> - [[完整笔记/Biostats_Master#Hazard Ratio]]
-> - [[完整笔记/Biostats_Master#RR vs OR vs HR]]
-> - [[完整笔记/Biostats_Master#Confidence Interval 跨 1]]
-> - [[完整笔记/_衍生_高频陷阱#HR 方向陷阱]]
-> - [[完整笔记/肾#Hyperkalemia 鉴别]]
-> - [[完整笔记/_衍生_高频评分_公式#利尿剂电解质效应对比]]
+> - [[完整笔记/Peixuan分科笔记/Biostats_Master#Hazard Ratio]]
+> - [[完整笔记/Peixuan分科笔记/Biostats_Master#RR vs OR vs HR]]
+> - [[完整笔记/Peixuan分科笔记/Biostats_Master#Confidence Interval 跨 1]]
+> - [[完整笔记/专题笔记/_衍生_高频陷阱#HR 方向陷阱]]
+> - [[完整笔记/Peixuan分科笔记/肾#Hyperkalemia 鉴别]]
+> - [[完整笔记/专题笔记/_衍生_高频评分_公式#利尿剂电解质效应对比]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 + 默写 HR/RR/OR 对比表
 > - [ ] 默写**4 类利尿剂对 K+ 的影响**
 > - [ ] 默写**Thiazide 五大副作用**（"3 Hypo + 3 Hyper"）
-> - [ ] 给 [[完整笔记/Biostats_Master]] 加 #薄弱点（HR 部分）
-> - [ ] 整理"看表 SOP（4 步法）"到 [[完整笔记/_衍生_高频评分_公式]]
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/Biostats_Master]] 加 #薄弱点（HR 部分）
+> - [ ] 整理"看表 SOP（4 步法）"到 [[完整笔记/专题笔记/_衍生_高频评分_公式]]
 > - [ ] 找 3 道 HR 题练习（重点：CI 跨 1 判断）
 
 > [!example]- [2026-05-11] Biostats / Study Design Factorial 识别 (Q7688-Item2)
@@ -576,16 +576,16 @@
 > - **关键认知升级**：下次读 stem 时**主动数 "randomized" 出现次数**或**数有几个独立变量**
 >
 > ## 🔗 关联
-> - [[完整笔记/Biostats_Master#Study Design 4 类对比]]
-> - [[完整笔记/Biostats_Master#RCT]]
-> - [[完整笔记/_衍生_高频陷阱#Factorial vs Parallel]]
-> - [[完整笔记/_衍生_高频评分_公式#Study Design 决策树]]
+> - [[完整笔记/Peixuan分科笔记/Biostats_Master#Study Design 4 类对比]]
+> - [[完整笔记/Peixuan分科笔记/Biostats_Master#RCT]]
+> - [[完整笔记/专题笔记/_衍生_高频陷阱#Factorial vs Parallel]]
+> - [[完整笔记/专题笔记/_衍生_高频评分_公式#Study Design 决策树]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 + 默写 RCT 4 类指纹
 > - [ ] 默写 **Study Design 决策树**（RCT 4 类 + 观察性 3 类）
-> - [ ] 整理"**Factorial 的 stem 指纹**"到 [[完整笔记/_衍生_高频陷阱]]
-> - [ ] 给 [[完整笔记/Biostats_Master]] 加 #薄弱点（Study Design 部分）
+> - [ ] 整理"**Factorial 的 stem 指纹**"到 [[完整笔记/专题笔记/_衍生_高频陷阱]]
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/Biostats_Master]] 加 #薄弱点（Study Design 部分）
 > - [ ] 找 3 道 study design 题（Factorial vs Parallel 辨析）
 > - [ ] **刷题时主动数 "randomized" 次数**（养成习惯）
 
@@ -686,23 +686,23 @@
 > - **元层面顿悟**：评价研究质量时，**只看 design 本身**，不脑补 stem 没说的信息
 >
 > ## 🔗 关联
-> - [[完整笔记/Biostats_Master#Study Design 决策树]]
-> - [[完整笔记/Biostats_Master#证据等级金字塔]]
-> - [[完整笔记/Biostats_Master#Case Series vs Cohort vs RCT]]
-> - [[完整笔记/Biostats_Master#观察性 vs 实验性研究]]
-> - [[完整笔记/_衍生_高频陷阱#未提及不等于不存在]]
-> - [[完整笔记/_衍生_高频陷阱#样本量万能论]]
-> - [[完整笔记/儿科#Pompe 病]]
-> - [[完整笔记/_衍生_核心疾病专题#Lysosomal storage disease]]
+> - [[完整笔记/Peixuan分科笔记/Biostats_Master#Study Design 决策树]]
+> - [[完整笔记/Peixuan分科笔记/Biostats_Master#证据等级金字塔]]
+> - [[完整笔记/Peixuan分科笔记/Biostats_Master#Case Series vs Cohort vs RCT]]
+> - [[完整笔记/Peixuan分科笔记/Biostats_Master#观察性 vs 实验性研究]]
+> - [[完整笔记/专题笔记/_衍生_高频陷阱#未提及不等于不存在]]
+> - [[完整笔记/专题笔记/_衍生_高频陷阱#样本量万能论]]
+> - [[完整笔记/Peixuan分科笔记/儿科#Pompe 病]]
+> - [[专题笔记#Lysosomal storage disease]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 + 默写 Study Design 决策树
 > - [ ] 默写 **证据等级金字塔**
 > - [ ] 默写 **观察性研究 4 类对比表**（分组依据 / 时间方向 / 有无对照）
-> - [ ] 整理"**三不原则**"到 [[完整笔记/_衍生_高频陷阱]]
-> - [ ] 整理"**Bias 状态判断原则**"到 [[完整笔记/_衍生_高频陷阱]]
-> - [ ] 给 [[完整笔记/Biostats_Master]] 加 #薄弱点（Study Design 部分）
-> - [ ] 在 [[完整笔记/儿科]] 补 Pompe disease 笔记（婴儿型 GAA 缺陷、酶替代治疗）
+> - [ ] 整理"**三不原则**"到 [[完整笔记/专题笔记/_衍生_高频陷阱]]
+> - [ ] 整理"**Bias 状态判断原则**"到 [[完整笔记/专题笔记/_衍生_高频陷阱]]
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/Biostats_Master]] 加 #薄弱点（Study Design 部分）
+> - [ ] 在 [[完整笔记/Peixuan分科笔记/儿科]] 补 Pompe disease 笔记（婴儿型 GAA 缺陷、酶替代治疗）
 > - [ ] 找 3 道 study design 题（observational vs experimental 辨析）
 > - [ ] **下次刷题习惯：读 stem 先定位 study type**
 
@@ -786,21 +786,21 @@
 > - **元层面顿悟**：判断 design 适配性的 2 个问题：① **怎么找到研究对象？**（从暴露端 vs 疾病端）② **需要等多久？**（前瞻 vs 回顾）
 >
 > ## 🔗 关联
-> - [[完整笔记/Biostats_Master#Case-Control vs Cohort 终极对比]]
-> - [[完整笔记/Biostats_Master#Study Design 决策树]]
-> - [[完整笔记/Biostats_Master#最佳 vs 最合适原则]]
-> - [[完整笔记/_衍生_高频陷阱#层级 vs 适配陷阱]]
-> - [[完整笔记/_衍生_高频陷阱#cohort 不等于主动暴露]]
-> - [[完整笔记/_衍生_高频评分_公式#Study Design 场景适配]]
-> - [[完整笔记/外科#头颈部肿瘤]]（Adenoid cystic carcinoma）
+> - [[完整笔记/Peixuan分科笔记/Biostats_Master#Case-Control vs Cohort 终极对比]]
+> - [[完整笔记/Peixuan分科笔记/Biostats_Master#Study Design 决策树]]
+> - [[完整笔记/Peixuan分科笔记/Biostats_Master#最佳 vs 最合适原则]]
+> - [[完整笔记/专题笔记/_衍生_高频陷阱#层级 vs 适配陷阱]]
+> - [[完整笔记/专题笔记/_衍生_高频陷阱#cohort 不等于主动暴露]]
+> - [[完整笔记/专题笔记/_衍生_高频评分_公式#Study Design 场景适配]]
+> - [[完整笔记/Peixuan分科笔记/外科#头颈部肿瘤]]（Adenoid cystic carcinoma）
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 + 默写 Case-Control vs Cohort 终极对比表
 > - [ ] 默写 **"Rare + Latent + Risk factors = Case-Control 金三角"**
 > - [ ] 默写 **"罕见性决定 design" 决策法则**
-> - [ ] 整理 **"最佳 vs 最合适"原则** 到 [[完整笔记/_衍生_高频陷阱]]
-> - [ ] 整理 **"USMLE Study Design 3 层问法"** 到 [[完整笔记/_衍生_高频评分_公式]]
-> - [ ] 在 [[完整笔记/Biostats_Master]] 加 #薄弱点（Case-Control 部分）
+> - [ ] 整理 **"最佳 vs 最合适"原则** 到 [[完整笔记/专题笔记/_衍生_高频陷阱]]
+> - [ ] 整理 **"USMLE Study Design 3 层问法"** 到 [[完整笔记/专题笔记/_衍生_高频评分_公式]]
+> - [ ] 在 [[完整笔记/Peixuan分科笔记/Biostats_Master]] 加 #薄弱点（Case-Control 部分）
 > - [ ] 找 3 道场景适配题练习（rare disease vs rare exposure 辨析）
 > - [ ] **下次刷题主动识别 stem 关键词**：rare / latent / common / multiple outcomes
 
@@ -822,7 +822,7 @@
 > - **必须用 stem 限定亚组的 ARR**
 > - NNT 越小药越有效
 >
-> ## 📋 广告题 5 步 SOP（见 [[USMLE广告题解题策略]]）
+> ## 📋 广告题 5 步 SOP（见 [[完整笔记/专题笔记/USMLE广告题解题策略]]）
 > ```
 > Step 1: 识别 composite endpoint
 > Step 2: 看 RRR vs ARR 差异（戏剧化陷阱）
@@ -897,10 +897,10 @@
 >   - [[mistakes/uworld-mistakes#Q107183]] RRR 计算（亚组限定 + 分母法则）
 >   - [[mistakes/uworld-mistakes#Q20057]] ARR 反推样本量（早上）
 >   - [[mistakes/uworld-mistakes#Q20430]] ARP 阳性归因比（早上）
-> - 📚 主笔记：[[完整笔记/Biostats_Master]] / [[USMLE广告题解题策略]]
-> - 🏥 跨学科：[[完整笔记/心内]]（ACS / NSTEMI / 抗血小板药 — Efrenzia 类似 ticagrelor，新型 P2Y12 抑制剂）
-> - 🌱 TODO（待生成衍生）：Biostats 章节复习完后，请 Claude Code 整合所有"广告/摘要解读"类错题 → 扩充 [[USMLE广告题解题策略]]
-> - 🌱 TODO（待生成衍生）：整合"亚组限定 + 数据筛选"类错题（Q7709 + Q107183 + Q7688 + 未来）→ 生成 [[完整笔记/_衍生_高频陷阱/Biostats 读题 SOP — 亚组限定与数据定位]]
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]] / [[完整笔记/专题笔记/USMLE广告题解题策略]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（ACS / NSTEMI / 抗血小板药 — Efrenzia 类似 ticagrelor，新型 P2Y12 抑制剂）
+> - 🌱 TODO（待生成衍生）：Biostats 章节复习完后，请 Claude Code 整合所有"广告/摘要解读"类错题 → 扩充 [[完整笔记/专题笔记/USMLE广告题解题策略]]
+> - 🌱 TODO（待生成衍生）：整合"亚组限定 + 数据筛选"类错题（Q7709 + Q107183 + Q7688 + 未来）→ 生成 [[完整笔记/专题笔记/_衍生_高频陷阱/Biostats 读题 SOP — 亚组限定与数据定位]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 + 默写广告题 5 步 SOP + 5 大陷阱
@@ -908,7 +908,7 @@
 > - [ ] 默写 **NNT = 1/ARR**（强化区分 RRR）
 > - [ ] 默写 **6 个问题 framework**
 > - [ ] 找 3 道 NBME 广告题练习
-> - [ ] 在 [[完整笔记/心内]] 补 ACS 抗血小板药对比（clopidogrel / ticagrelor / prasugrel）
+> - [ ] 在 [[完整笔记/Peixuan分科笔记/心内]] 补 ACS 抗血小板药对比（clopidogrel / ticagrelor / prasugrel）
 > - [ ] **下次广告题主动按 SOP 走，不被大字数字忽悠**
 
 > [!example]- [2026-05-11] Biostats / Clinical Trial Phase III 识别 (Q20058)
@@ -921,7 +921,7 @@
 > ## 🔑 核心概念
 > **Phase III** = **大样本 RCT 对比 placebo/standard treatment**，在 **affected patients** 中评估 **efficacy + safety**，**FDA 批准前的关键证据**
 >
-> ## 📊 5 阶段指纹速记（详见 [[USMLE临床试验分期]]）
+> ## 📊 5 阶段指纹速记（详见 [[完整笔记/专题笔记/USMLE临床试验分期]]）
 > | Phase | 受试者 | 样本量 | 核心问题 |
 > |---|---|---|---|
 > | Preclinical | 动物 | — | 能不能用于人？|
@@ -975,18 +975,18 @@
 >   - [[mistakes/uworld-mistakes#Q7708]] Efrenzia 广告题（Phase III 后的真实广告）
 >   - [[mistakes/uworld-mistakes#Q20283]] Case-Control vs Cohort（观察性 vs 实验性 study design）
 > - 📚 主笔记：
-> - [[USMLE临床试验分期]] ⭐ 今日新建
-> - 🌱 TODO（待生成衍生）：Biostats 章节复习完后，请 Claude Code 整合所有 Phase 相关错题 → 扩充 [[USMLE临床试验分期]]
-> - 🌱 TODO（待生成衍生）：整合"药物开发流程"相关错题（Phase + FDA 审批 + 撤市经典案例如 Vioxx）→ 生成 [[完整笔记/_衍生_核心疾病专题/药物开发与上市流程]]
+> - [[完整笔记/专题笔记/USMLE临床试验分期]] ⭐ 今日新建
+> - 🌱 TODO（待生成衍生）：Biostats 章节复习完后，请 Claude Code 整合所有 Phase 相关错题 → 扩充 [[完整笔记/专题笔记/USMLE临床试验分期]]
+> - 🌱 TODO（待生成衍生）：整合"药物开发流程"相关错题（Phase + FDA 审批 + 撤市经典案例如 Vioxx）→ 生成 [[完整笔记/专题笔记/_衍生_核心疾病专题/药物开发与上市流程]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 + 默写 5 阶段速查表
 > - [ ] 默写 **Phase III 五大指纹**（Large + Multicenter + Affected + Randomized + Controlled）
 > - [ ] 默写 **5 步识别 SOP**
 > - [ ] 默写 **Phase II vs Phase III 边界**
-> - [ ] 在 [[完整笔记/血液肿瘤]] 补 pegfilgrastim / G-CSF 相关笔记
+> - [ ] 在 [[完整笔记/Peixuan分科笔记/血液肿瘤]] 补 pegfilgrastim / G-CSF 相关笔记
 > - [ ] 找 3 道 Phase 识别题（特别是 Phase II vs III 辨析）
 
 > [!example]- [2026-05-11] Biostats / Internal Validity + Blinding (Q22363)
 > 题目主旨：Blinded raters 对主观量表评估的作用 → 减少 measurement bias → 提升 Internal validity
-> 详见主笔记：[[完整笔记/_衍生_核心基本专题/USMLE临床试验分期#Part 2：临床试验质量评价]]
+> 详见主笔记：[[完整笔记/专题笔记/USMLE临床试验分期#Part 2：临床试验质量评价]]
