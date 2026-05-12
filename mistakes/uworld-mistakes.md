@@ -1388,3 +1388,174 @@
 > - [ ] 找 2-3 道类似 Null hypothesis 题（UWorld 搜 "null hypothesis"）
 > - [ ] 关键习惯：以后看到 Biostats 题，**先识别 study design**，再用 design 排除"用错术语"的选项
 > - [ ] 进阶：学习 Type I / II error + Power + p-value 解读
+
+> [!example]- [2026-05-12] Biostats / OR-CI 表格判读 + Confounding (Q21248)
+> 
+> ## Stem 模式
+> 
+> **Vignette 套两题**（同一研究 abstract）：
+> - **Item 1**：给 case-control 研究的 OR 表（含 **Bivariate + Multivariate** 双栏 + 95% CI），问哪个是该患者发病的"最显著危险因素"
+> - **Item 2**：问该研究的"最大缺陷 / most concern"
+> 
+> 经典套路：双栏 OR 表 + 表脚 "(adjusted for age, sex, X)" + 故意把某个 bivariate OR 设得**很惊人**（如 11.84）但 multivariate CI 跨 1.0 → 钓不看 CI 的考生。
+> 
+> ## 核心概念
+> 
+> ### Item 1: OR 表判读三步法
+> 
+> 1. **只看 Multivariate (adjusted) 那栏** — Bivariate 没控制 confounder，不可信
+> 2. **看 95% CI 是否跨 null value (1.0)** — 跨 1.0 = 不显著，无论点估计多大都不行
+> 3. **看患者真的暴露了吗** — 显著 + 暴露 = 答案
+> 
+> ### Item 2: Confounding 应用
+> 
+> 看到"调整了 A, B, C"→ 立刻想"D, E, F 没调整呢？"= **Residual confounding**（残余混杂）
+> 
+> ## 普适规则
+> 
+> ### 95% CI 判读规则 ⭐
+> 
+> | 测量指标 | Null value | CI 跨 null → | CI 完全偏离 → |
+> |---|---|---|---|
+> | RR / OR / HR（比值类）| **1.0** | 不显著 | 显著 |
+> | Mean difference / RD（差值类）| **0** | 不显著 | 显著 |
+> 
+> **口诀**：**"看比值盯 1，看差值盯 0"**
+> 
+> ### Bivariate vs Multivariate 角色
+> 
+> | 维度 | Bivariate (Unadjusted) | Multivariate (Adjusted) ⭐ |
+> |---|---|---|
+> | 控制 confounder? | ❌ | ✅ |
+> | 哪个可信? | ❌ 容易被 confounding 扭曲 | ✅ **真实关联** |
+> | 看哪个? | ❌ 不看 | ✅ 永远以此为准 |
+> | 关注差异时机 | bivariate ≠ multivariate 差很大 → 强 confounding 信号 |
+> 
+> ### Confounding 在表里的表现
+> 
+> 一个变量 bivariate **很强**，multivariate **消失/缩小且 CI 跨 1.0** → 它的"表观关联"主要来自其他 confounder（或它本身就是被调整的变量）。
+> 
+> ### 做题 SOP（OR 表题）
+> 
+> ```
+>      看到 OR 表 + 问"显著危险因素"
+>                |
+>                ▼
+>       Step 1: 锁定 Multivariate 栏
+>                |
+>                ▼
+>       Step 2: 逐行看 CI 是否跨 1.0
+>           跨 1.0 → 划掉
+>           不跨 → 候选
+>                |
+>                ▼
+>       Step 3: 候选 vs 患者状态
+>           没暴露 → 划掉
+>           暴露 → ✅ 答案
+> ```
+> 
+> ### Item 2 干扰项排除模板
+> 
+> | 选项类型 | 适用场景 | 在 case-control 里是否成立 |
+> |---|---|---|
+> | Differential mortality | RCT / Cohort（有 follow-up）| ❌ Case-control 没有时间维度 |
+> | Lack of power | 没显著结果时考虑 | ❌ 本题已有多个显著结果 → power 够 |
+> | Limited adjustment for confounders | adjusted 变量少 + 临床上还有其他可能 confounder | ✅ 本题答案 |
+> | Misclassification | 诊断标准模糊 / 主观 | ❌ pRIFLE 是客观分级标准 |
+> 
+> ## 易混陷阱（普适）
+> 
+> ### 三大 OR 表判读陷阱
+> 
+> | 陷阱 | 表现 | 修复 |
+> |---|---|---|
+> | **只看点估计 OR** | 被 OR 11.84 震住直接选 | 永远先看 CI |
+> | **看错栏** | 只看 bivariate，忽略 multivariate | "Adjusted 才算数" |
+> | **忽略表脚** | 没读 "(adjusted for X, Y, Z)" | 表脚告诉你**哪些变量被当作 confounder 控制** — 这些变量在 multivariate 里失去显著性是设计使然 |
+> 
+> ### "Significant" 的两层含义
+> 
+> - **统计显著（statistical significance）**：CI 不跨 null / p < 0.05
+> - **临床显著（clinical significance）**：效应量大、对临床决策有意义
+> - USMLE 默认问"statistically significant" — 用 CI 判
+> 
+> ### 干扰项配对陷阱（Item 1）
+> 
+> 出题人会**针对患者状态**设计陷阱：
+> - 患者有 acyanotic → 给"acyanotic 是危险因素"的错选项（实际 cyanotic 才是）
+> - 患者 CPB 150 min → 给"CPB duration"的错选项（已被调整掉）
+> - 患者 moderate acidosis → 给"moderate acidosis"（其实 moderate 不显著，severe 也跨 1.0）
+> 
+> **永远先看 CI 排除不显著的，再核对患者状态**。
+> 
+> ## 我为什么错（Item 1）
+> 
+> 选了 **B. Duration of bypass 150 min**。
+> 
+> - **被 Bivariate OR 11.84 震住** — 数字最大 → 直觉觉得"它最危险"
+> - **没看 Multivariate**：调整后 OR 7.47 但 CI 0.91-16.84 **跨 1.0 不显著**
+> - **没看表脚**：(adjusted for age, sex, **and CPB duration**) — CPB duration 本身就是被调整的目标，它在多变量里失去显著性是设计使然
+> - **不知道这个考点**：不知道 OR 表判读必须**先看 multivariate，再看 CI**
+> 
+> **核心陷阱**：USMLE 故意把 bivariate OR 设计得"很惊人"，钓只看点估计、不看 CI、不区分 adjusted/unadjusted 的考生。**点估计 + CI 是一体的，只看点估计 = 半个 Biostats**。
+> 
+> ## Item 2 我做对了什么
+> 
+> 选 **C. Limited adjustment for potential confounders** ✅
+> 
+> 思路：研究只调整了 age, sex, CPB duration，但**术前 creatinine / proteinuria / ACE inhibitor 使用**等临床上重要的肾功能相关 confounder 没调整 → 残余 confounding。
+> 
+> 排除其他选项：
+> - A. Differential mortality → case-control 没 follow-up，不适用
+> - B. Lack of power → 已有多个显著结果，说明 power 够
+> - D. Misclassification → pRIFLE 是客观分级，不易误分类
+> 
+> ## Memory Hook
+> 
+> **OR 表三步：① 看 multivariate ② CI 不跨 1.0 ③ 患者真的暴露** — 三条同时满足才是答案。
+> 
+> 类比：
+> - **OR + CI 是"双胞胎"** — 永远一起判读，只看 OR = 只看身高不看体重
+> - **Bivariate vs Multivariate = 生肉 vs 熟肉** — 没"调味"（调整 confounder）的是生肉，不可信
+> - **OR 再大，跨 1.0 就废**
+> 
+> 口诀：
+> - **"看比值盯 1，看差值盯 0"**（CI 跨 null = 不显著）
+> - **"调过的才算数"**（adjusted 优先）
+> - **"看到 adjusted for X, Y, Z → 这些就是被控制的 confounder"**
+> 
+> ## 🤔 我的提问 / 卡点
+> 
+> - **Q: 主笔记缺不少内容，要手动加还是让 Claude 生成草稿？**
+>   → 工作流确定：刷题阶段我（Claude）生成错题卡 + 更新草稿；章节复习完让 Claude Code 整合草稿+错题→正式主笔记。**不手动改主笔记**。
+>   → 草稿用版本递增（v1 → v2），不每次新建。
+> 
+> ## 🔗 关联
+> 
+> - 🔁 同主题错题：
+>   - **Q21248 Item 2 同 vignette** — Confounding（做对了，同 stem 两考点 = 高频考法）
+>   - 同日 Biostats 系列：
+>     - [[mistakes/uworld-mistakes#Q12685]] Reporting bias
+>     - [[mistakes/uworld-mistakes#Q107800]] ROC 最佳 cutoff
+>     - [[mistakes/uworld-mistakes#Q3941]] Null hypothesis（同样涉及"CI 跨 null value"概念）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/Biostats_Master]]
+>   - [[完整笔记/专题笔记/Biostats_6指标决策树_纯净版]]（RR/OR 区分基础）
+>   - 待生成主笔记：Hypothesis testing 草稿 v2（本题填充 CI 章节 + 新增 OR 表判读小节）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/儿科]] / [[完整笔记/Peixuan分科笔记/外科]]：CPB 后 AKI 是儿心外术后高频并发症（本题考的是 Biostats，但临床背景可引）
+> - 🌱 TODO（待生成衍生）：
+>   - 等积累更多 OR/CI 题（forest plot / Kaplan-Meier 等）→ 请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_USMLE_OR_CI判读]] 或并入统计推断主笔记
+>   - 本题已用于更新 Hypothesis testing 草稿 v2（CI 章节 + OR 表判读）
+>   - 本题也是未来 [[完整笔记/专题笔记/_衍生_USMLE_Bias_5大鉴别]] 的 Confounding 章节实战案例（Item 2）
+> 
+> ## ✅ 复盘行动
+> 
+> - [ ] 1 周后重做 Q21248 整套 vignette
+> - [ ] 默写 OR 表判读三步法
+> - [ ] 默写 "CI 跨 null value" 规则（比值类跨 1.0，差值类跨 0）
+> - [ ] 默写 Bivariate vs Multivariate 角色差异
+> - [ ] 找 2-3 道类似 OR 表 / Forest plot 题（UWorld 搜 "odds ratio" / "confidence interval" / "multivariate"）
+> - [ ] **关键习惯**：看到 OR/RR/HR 题 → 永远先问"CI 跨 null value 了吗？"
+> - [ ] **关键习惯**：看到 unadjusted / adjusted 两栏 → 永远看 adjusted
+> - [ ] **关键习惯**：表脚 "(adjusted for X, Y, Z)" 永远要读 — 它告诉你哪些变量被当作 confounder
