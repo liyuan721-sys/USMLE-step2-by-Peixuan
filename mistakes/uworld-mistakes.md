@@ -504,7 +504,7 @@
 > - [[完整笔记/Peixuan分科笔记/Biostats_Master#RR vs OR vs HR]]
 > - [[完整笔记/Peixuan分科笔记/Biostats_Master#Confidence Interval 跨 1]]
 > - [[完整笔记/专题笔记/_衍生_高频陷阱#HR 方向陷阱]]
-> - [[完整笔记/Peixuan分科笔记/肾#Hyperkalemia 鉴别]]
+> - [[完整笔记/Peixuan分科笔记/肾脏#Hyperkalemia 鉴别]]
 > - [[完整笔记/专题笔记/_衍生_高频评分_公式#利尿剂电解质效应对比]]
 >
 > ## ✅ 复盘行动
@@ -984,7 +984,7 @@
 > - [ ] 默写 **Phase III 五大指纹**（Large + Multicenter + Affected + Randomized + Controlled）
 > - [ ] 默写 **5 步识别 SOP**
 > - [ ] 默写 **Phase II vs Phase III 边界**
-> - [ ] 在 [[完整笔记/Peixuan分科笔记/血液肿瘤]] 补 pegfilgrastim / G-CSF 相关笔记
+> - [ ] 在 [[完整笔记/Peixuan分科笔记/hematology oncology]] 补 pegfilgrastim / G-CSF 相关笔记
 > - [ ] 找 3 道 Phase 识别题（特别是 Phase II vs III 辨析）
 
 > [!example]- [2026-05-11] Biostats / Internal Validity + Blinding (Q22363)
