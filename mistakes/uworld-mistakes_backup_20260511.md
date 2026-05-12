@@ -52,39 +52,42 @@
 
 ## 2026-05-11
 
-### ARP vs RR/ARI/NNH:"attributed to" + 两组 risk = (Re−Ru)/Re,分母是暴露组
+> [!example]- [2026-05-11] Biostats / ARP 阳性归因比 (Q20430)
+> 
+> ## 一句话识别
+> ARP vs RR/ARI/NNH:"attributed to" + 两组 risk = (Re−Ru)/Re,分母是暴露组
+> 
+> #biostats #ARP #relative-risk 🔴
+> 
+> - **来源**:UW Q20430
+> - **题干要点**:HIV(+) 产妇 RCT 母乳 vs 配方奶,24mo 母亲死亡率 11.2% vs 3.5% (p=0.02),问母乳组中**归因于母乳**的死亡占百分之几
+> - **正确答案**:E — 68.8% (ARP = (0.112−0.035)/0.112 × 100 ≈ 68.75%)
+> - **我选了**:B — 3.5%(把 unexposed risk 当成"non-attributable %",分母搞反)
+> - **关键 buzzword / 识别公式**:
+>   - **"attributed to (exposure)" + 给了两组 risk → ARP**
+>   - **ARP = (Re−Ru)/Re = (RR−1)/RR**,分母永远是 **exposed 组**
+>   - "母乳组里多少死亡是母乳害的"→ 自然除以**母乳组**总死亡
+> - **一家人速查**(Re=0.112, Ru=0.035):
+>   - RR = Re/Ru = **3.2 倍**(单位:倍数)
+>   - ARI = Re−Ru = **7.7%**(单位:比例差)
+>   - ARP = (Re−Ru)/Re = **68.75%**(单位:百分比)← 本题答案
+>   - NNH = 1/ARI ≈ **13 人**(单位:人数,不是%)
+> - **关联笔记**:[[完整笔记/Biostats_Master#RR / RRR / ARR 互补关系深度推导]] / [[notes/Biostats_Epi]]
+> - **重做次数**:☐ 1st
+> - **状态**:🔴 概念混淆(分母方向)
+> 
+> **干扰项分析**:
+> - A. **3.2** — RR(倍数,不是百分比)。陷阱:题问 "percentage",3.2 连百分号都没有
+> - B. **3.5**(选的)— Risk_unexposed。**核心思路错位**:想成"3.5% 是本来就会死的(不归因)"→ 但题问的是"归因%",不是"不归因%";且 Risk_unexposed 的分母是配方奶组**总人数**,而 "non-attributable %" 的分母应该是母乳组**死亡人数**,两者分母不同
+> - C. **11.2** — Risk_exposed。是 ARP 公式的**分母**,不是答案
+> - D. **13.0** — NNH(人数,不是%)。看到带小数的两位数 → 警惕单位陷阱
+> 
+> **⚠️ CK 高频陷阱**:
+> 1. **"attributed to" + 两组 risk → 9 成是 ARP**;分母是 exposed 组
+> 2. **NNH/NNT 单位是人数**,不是 %;选项给你 "13" 不带%号就要警惕
+> 3. **题外**:HIV(+) 产妇喂养——**资源充足国家 → 配方奶**,**资源匮乏国家 → 母乳**(水源污染/感染风险 > 母乳传播风险)
 
-#biostats #ARP #relative-risk 🔴
-
-- **来源**:UW Q20430
-- **题干要点**:HIV(+) 产妇 RCT 母乳 vs 配方奶,24mo 母亲死亡率 11.2% vs 3.5% (p=0.02),问母乳组中**归因于母乳**的死亡占百分之几
-- **正确答案**:E — 68.8% (ARP = (0.112−0.035)/0.112 × 100 ≈ 68.75%)
-- **我选了**:B — 3.5%(把 unexposed risk 当成"non-attributable %",分母搞反)
-- **关键 buzzword / 识别公式**:
-  - **"attributed to (exposure)" + 给了两组 risk → ARP**
-  - **ARP = (Re−Ru)/Re = (RR−1)/RR**,分母永远是 **exposed 组**
-  - "母乳组里多少死亡是母乳害的"→ 自然除以**母乳组**总死亡
-- **一家人速查**(Re=0.112, Ru=0.035):
-  - RR = Re/Ru = **3.2 倍**(单位:倍数)
-  - ARI = Re−Ru = **7.7%**(单位:比例差)
-  - ARP = (Re−Ru)/Re = **68.75%**(单位:百分比)← 本题答案
-  - NNH = 1/ARI ≈ **13 人**(单位:人数,不是%)
-- **关联笔记**:[[完整笔记/Biostats_Master#RR / RRR / ARR 互补关系深度推导]] / [[notes/Biostats_Epi]]
-- **重做次数**:☐ 1st
-- **状态**:🔴 概念混淆(分母方向)
-
-**干扰项分析**:
-- A. **3.2** — RR(倍数,不是百分比)。陷阱:题问 "percentage",3.2 连百分号都没有
-- B. **3.5**(选的)— Risk_unexposed。**核心思路错位**:想成"3.5% 是本来就会死的(不归因)"→ 但题问的是"归因%",不是"不归因%";且 Risk_unexposed 的分母是配方奶组**总人数**,而 "non-attributable %" 的分母应该是母乳组**死亡人数**,两者分母不同
-- C. **11.2** — Risk_exposed。是 ARP 公式的**分母**,不是答案
-- D. **13.0** — NNH(人数,不是%)。看到带小数的两位数 → 警惕单位陷阱
-
-**⚠️ CK 高频陷阱**:
-1. **"attributed to" + 两组 risk → 9 成是 ARP**;分母是 exposed 组
-2. **NNH/NNT 单位是人数**,不是 %;选项给你 "13" 不带%号就要警惕
-3. **题外**:HIV(+) 产妇喂养——**资源充足国家 → 配方奶**,**资源匮乏国家 → 母乳**(水源污染/感染风险 > 母乳传播风险)
-
-> [!example]- Biostats / ARR 反推样本量 (Q20057)
+> [!example]- [2026-05-11] Biostats / ARR 反推样本量 (Q20057)
 > 
 > ## 一句话识别
 > 给 ARR + 给一组发病人数 + 问样本量 n → **必须先算 Rt，再 n = 病例数 / Rt**
@@ -139,3 +142,228 @@
 > - [ ] 加 #薄弱点 到 [[完整笔记/Biostats_Master]]
 > - [ ] 找 3 道反推题练习
 > - [ ] 加 #考前必看
+
+> [!example]- [2026-05-11] Biostats / LR+ 阳性似然比 (Q107214)
+> 
+> ## 一句话识别
+> 给 2×2 表 + 问 LR+ → **LR+ = 有病阳性率 / 无病阳性率 = Sens / (1−Spec)**
+> 
+> ## 核心公式（按意义算）
+> - LR+ = (有病阳性) / (无病阳性) = Sens / (1−Spec)
+> - LR− = (有病阴性) / (无病阴性) = (1−Sens) / Spec
+> 
+> 本题：
+> - Sens = 375/500 = 0.75
+> - Spec = 680/800 = 0.85; 1−Spec = 0.15
+> - LR+ = 0.75/0.15 = **5** ✅
+> - LR− = 0.25/0.85 = 0.29
+> 
+> ## 🤔 我的提问 / 卡点（学习路径）⭐
+> 
+> 1. **"LR 跟敏感性特异性我联系不上，但我能算 LR"**
+>    → 顿悟：LR 公式和直观语言是"翻译"关系
+>    → "Sens = 有病阳性" 这 2 句话是地基
+> 
+> 2. **"我知道了，Sens = 有病阳性，Spec = 无病阴性"**
+>    → 这就是我的**核心记忆挂钩** ⭐
+>    → 剩下 4 个格子全靠"1 减"推出
+> 
+> ## 核心 2 句话（我的顿悟）⭐
+> **Sens = 有病阳性**
+> **Spec = 无病阴性**
+> 剩下全靠"1 减"：1−Sens = 有病阴性；1−Spec = 无病阳性
+> 
+> ## 4 大分母法则
+> 
+> | 分母 | 指标 |
+> |------|------|
+> | 有病组 | Sens |
+> | 无病组 | Spec |
+> | 阳性组 | PPV |
+> | 阴性组 | NPV |
+> 
+> ## 我为什么错
+> 选了 C. 15 = 瞎凑数字
+> **核心陷阱**：把 LR− (0.29) 和 LR+ (5) 配对当干扰项；不熟悉 LR+ 公式
+> 
+> ## 记忆挂钩
+> "LR+ 看阳性那行，两组比值相除"
+> "LR− 看阴性那行，两组比值相除"
+> 
+> ## 受 prevalence 影响吗？
+> - Sens, Spec, LR+, LR− → ❌ 不受
+> - PPV, NPV → ✅ 受
+> 
+> ## 同类题验证（自己做对了 ✅）
+> 同样数据问 LR− → 0.25/0.85 = 0.29 ✅
+> 
+> ## 关联
+> - [[完整笔记/Biostats_Master#诊断试验]]
+> - [[完整笔记/Biostats_Master#LR]]
+> - [[notes/Biostats_Epi]]
+> 
+> ## 复盘
+> - [ ] 1 周后重做
+> - [ ] 默写"Sens = 有病阳性；Spec = 无病阴性"
+> - [ ] 加 #薄弱点 #考前必看 到 [[Biostats_Master#诊断试验]]
+
+> [!example]- [2026-05-11] Biostats / ROC 曲线 + Cutoff 跷跷板 (Q7711)
+> 
+> ## 一句话识别
+> **问 1**：ROC 上移 + sens 数据 46%→70% → **aspirin 增加 sensitivity**
+> **问 2**：Cutoff 1→4 μg/g（升高）→ **假阳性 ↓**（跷跷板规则）
+> 
+> ## 🤔 我的提问 / 卡点（学习路径）⭐
+> 
+> 1. **"我不明白这题的意思，两问全选错了"**
+>    → 顿悟：题目信息量大时要**先简化故事**
+>    → aspirin 让 ROC 上移 = sens ↑（46→70%）
+> 
+> 2. **"哪里看到的 46%, 70%, 82%, 79% 这些数字"**
+>    → 重要追问 ⭐ — 数字不在 ROC 图本身，而在右侧解释文字
+>    → 学到：**主动验证数据来源**比被动接受重要
+> 
+> 3. **"ROC 曲线下面积 = accuracy?"**
+>    → 精确区分：AUC ≈ accuracy 但不完全等同
+>    → AUC = 检测**整体能力**（不依赖 cutoff）
+>    → Accuracy = 特定 cutoff 下的表现（依赖 cutoff + prevalence）
+> 
+> ## 核心规则：Cutoff "跷跷板"⭐
+> 
+> | 指标 | Cutoff ↑（严）| Cutoff ↓（宽）|
+> |------|--------------|--------------|
+> | 真阳性 TP | ↓ | ↑ |
+> | 假阴性 FN | ↑ | ↓ |
+> | 真阴性 TN | ↑ | ↓ |
+> | **假阳性 FP** | **↓** ⭐ | ↑ |
+> | Sensitivity | ↓ | ↑ |
+> | Specificity | ↑ | ↓ |
+> | AUC | **不变** ⭐ | **不变** |
+> 
+> ## ROC 曲线移动方向
+> - 上移 → Sens ↑
+> - 左移 → Spec ↑
+> - 左上角 = 完美检测
+> - 整体上移 → AUC ↑ → accuracy ↑
+> 
+> ## AUC vs Accuracy（我的提问引出）
+> - **AUC**：检测整体能力（跨所有 cutoff，不依赖 cutoff，不受 prevalence 影响）
+> - **Accuracy**：特定 cutoff 下"测对的比例"（依赖 cutoff，受 prevalence 影响）
+> - Cutoff 改变 → Accuracy 变 + **AUC 不变** ⭐
+> - 检测本身改进（如加 aspirin）→ ROC 曲线移 + AUC 变 + Accuracy 变
+> 
+> ## 本题数据（来自 stem 文字 + 子图标注）
+> 
+> | 状态 | Sens | Spec |
+> |------|------|------|
+> | 不用 aspirin (cutoff=1) | 46% | 82% |
+> | 用 aspirin (cutoff=1) | **70%** | **79%** |
+> | 用 aspirin (cutoff=4) | **60%** | **90%** |
+> 
+> 数字来源：第一张图右侧文字 + 第二张图子图标注 + 第三张图解释
+> 
+> ## 本题机制（aspirin 为何 sens↑）
+> Aspirin → 抑制血小板 → 肠道病灶更易出血 → iFOBT 更易测阳 → **Sens ↑**
+> 
+> ## 我为什么错
+> - 问 1 选 B（降低 sens）= 把 "aspirin 副作用" 误解为"干扰检测"
+> - 问 2 选 C（真阳性 ↑）= 混淆"真阳性人数 (TP)" vs "真阳性率 (PPV)"
+> **核心陷阱**：cutoff ↑ → 阳性数全面 ↓（TP 和 FP 都 ↓，不是质量 ↑）
+> 
+> ## 记忆挂钩
+> **"老师改考卷"**：及格线提高 → 及格人数减少 + 及格者质量更高
+> - cutoff ↑ = 标准变严 = 阳性数 ↓
+> - Sens ↓（漏诊 ↑）+ Spec ↑（误诊 ↓）
+> 
+> ## 应用场景
+> - **筛查**（怕漏诊）→ 低 cutoff → Sens↑
+> - **确诊**（怕误诊）→ 高 cutoff → Spec↑
+> 
+> ## 关联
+> - [[完整笔记/Biostats_Master#ROC]]
+> - [[完整笔记/Biostats_Master#Cutoff]]
+> - [[完整笔记/Biostats_Master#AUC]]
+> - [[完整笔记/_衍生_高频陷阱#ROC]]
+> 
+> ## 复盘
+> - [ ] 1 周后重做
+> - [ ] 默写"跷跷板"完整表（含 AUC 不变 ⭐）
+> - [ ] 画 ROC 曲线 + 标关键点（左上角/对角线/AUC）
+> - [ ] 默写 AUC vs Accuracy 区别
+> - [ ] 加 #薄弱点 #难记 #考前必看 到 [[Biostats_Master#ROC]]
+
+> [!example]- [2026-05-11] Biostats / Matching 控制 Confounding (Q4182)
+> 
+> ## 一句话识别
+> Case-control + 邻居匹配 + 控制 age/race → **匹配是为了控制 Confounding** ✅
+> 
+> ## 🤔 我的提问 / 卡点（学习路径）⭐
+> 
+> 1. 选了 **B. Recall bias**
+>    → 看到 "case-control + interviewed" 条件反射想 recall bias
+>    → 没看清题目问"匹配能解决什么"，而不是"这种 study 有什么 bias"
+> 
+> 2. **顿悟**：题目问的"角度"比 bias 类型本身更关键
+>    → 匹配是"专药"，只治 confounding
+> 
+> ## 核心规则
+> **Matching（匹配）= 控制 Confounding 的专药**
+> - 让 case 和 control 在某变量上一致（如 age, race）
+> - 消除该变量作为 confounder 的可能
+> - 不能解决其他类型的 bias
+> 
+> ## 8 大偏倚速查 ⭐
+> 
+> | 偏倚 | 控制方法 |
+> |------|----------|
+> | Selection bias | Random sampling |
+> | **Recall bias** | Medical records（不靠 interview）|
+> | Observer bias | **Blinding**（盲法）|
+> | Ascertainment bias | Standardized criteria |
+> | **Confounding** | **Matching/Stratification/Regression/Randomization/Restriction** ⭐ |
+> | Lead-time bias | Compare mortality（不比生存期）|
+> | Length bias | Compare mortality |
+> | Hawthorne effect | Blinding |
+> 
+> ## 控制 Confounding 5 大方法
+> | 方法 | 阶段 |
+> |------|------|
+> | Randomization | 设计阶段（金标准）|
+> | Restriction | 设计阶段 |
+> | **Matching** ⭐ | 设计阶段 |
+> | Stratification | 分析阶段 |
+> | Multivariate regression | 分析阶段 |
+> 
+> ## 我为什么错
+> 选了 B. Recall bias = 看到 "case-control + interviewed" 条件反射想 recall bias
+> **核心陷阱**：混淆"case-control **的固有问题**（recall bias）"和"**匹配能解决什么**（confounding）"
+> 题目问的是"匹配能控制什么"，不是"这种 study 有什么问题"
+> 
+> ## 记忆挂钩
+> **"约会配对"**：matching = 强制配同龄同种族
+> → 消除"基础特征差异"（confounding）
+> → 但不能消除"双方回忆问题"（recall bias）或"选样本偏差"（selection bias）
+> 
+> **看到 stem 关键词反应**：
+> - "matched on age/race" → 立刻想"控制 confounding"
+> - "interviewed patients" → 想"可能 recall bias"
+> - "researcher knew group" → 想"observer bias / 需要盲法"
+> 
+> ## Confounding vs Effect Modification（高频区分）
+> | | Confounding | Effect Modification |
+> |---|-------------|---------------------|
+> | 是什么 | 假关联 | 真的不同效应 |
+> | 处理 | **消除**（控制）| **报告**（分层）|
+> 
+> ## 关联
+> - [[完整笔记/Biostats_Master#Bias]]
+> - [[完整笔记/Biostats_Master#Confounding]]
+> - [[完整笔记/Biostats_Master#Study Design]]
+> - [[完整笔记/_衍生_高频陷阱#Biostats偏倚]]
+> 
+> ## 复盘
+> - [ ] 1 周后重做
+> - [ ] 默写 8 大偏倚 + 控制方法
+> - [ ] 默写"5 大控制 Confounding 方法"
+> - [ ] 区分 Confounding vs Effect Modification
+> - [ ] 加 #薄弱点 #难记 #考前必看 到 [[Biostats_Master#Bias]]
