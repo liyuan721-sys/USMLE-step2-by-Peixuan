@@ -14,15 +14,13 @@ aliases:
   - Monosomy X
   - 45,XO
 related:
-  # === 主战场学科笔记 ===
-  - "[[完整笔记/GYN]]"
-  - "[[完整笔记/儿科]]"
-  - "[[完整笔记/心内]]"
-  - "[[完整笔记/endocrine]]"
-  - "[[完整笔记/肾脏]]"
-  # === 衍生工具 ===
-  - "[[完整笔记/_衍生_高频陷阱]]"
-  - "[[完整笔记/_衍生_鉴别诊断速查]]"
+  - "[[GYN]]"
+  - "[[儿科]]"
+  - "[[心内]]"
+  - "[[完整笔记/Peixuan分科笔记/endocrine]]"
+  - "[[肾脏]]"
+  - "[[_衍生_高频陷阱]]"
+  - "[[_衍生_鉴别诊断速查]]"
   - "[[完整笔记/_衍生_Screening_Guidelines]]"
 status: 跨科核心概念
 ---
@@ -224,7 +222,7 @@ Aortic Size Index (ASI) > 25 mm/m² = 高风险
 - ✅ Cardiac MRI（金标准）
 - ✅ ASI 计算
 
-**详见** → [[完整笔记/心内]]
+**详见** → [[心内]]
 
 ---
 
@@ -254,7 +252,7 @@ Aortic Size Index (ASI) > 25 mm/m² = 高风险
 - ⚠️ **但**：心血管风险高，妊娠死亡率上升
 - **必须**先做 Echo + cardiac MRI
 
-**详见** → [[完整笔记/GYN]]
+**详见** → [[GYN]]
 
 ---
 
@@ -592,15 +590,15 @@ Young female + chest pain + 既往:
 ## 十二、相关笔记（双链网络）
 
 ### 主战场
-- [[完整笔记/GYN]] — Primary amenorrhea / 不孕
-- [[完整笔记/儿科]] — 矮小 + GH 治疗
-- [[完整笔记/心内]] — Bicuspid AV / CoA / Dissection
-- [[完整笔记/endocrine]] — 性腺减退 + Hashimoto
-- [[完整笔记/肾脏]] — 马蹄肾
+- [[GYN]] — Primary amenorrhea / 不孕
+- [[儿科]] — 矮小 + GH 治疗
+- [[心内]] — Bicuspid AV / CoA / Dissection
+- [[完整笔记/Peixuan分科笔记/endocrine]] — 性腺减退 + Hashimoto
+- [[肾脏]] — 马蹄肾
 
 ### 衍生工具
-- [[完整笔记/_衍生_高频陷阱]] — Turner 经典陷阱
-- [[完整笔记/_衍生_鉴别诊断速查]] — Primary amenorrhea / 矮小综合征
+- [[_衍生_高频陷阱]] — Turner 经典陷阱
+- [[_衍生_鉴别诊断速查]] — Primary amenorrhea / 矮小综合征
 - [[完整笔记/_衍生_Screening_Guidelines]] — Turner 随访
 
 ### 错题

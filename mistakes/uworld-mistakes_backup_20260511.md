@@ -72,7 +72,7 @@
 >   - ARI = Re−Ru = **7.7%**(单位:比例差)
 >   - ARP = (Re−Ru)/Re = **68.75%**(单位:百分比)← 本题答案
 >   - NNH = 1/ARI ≈ **13 人**(单位:人数,不是%)
-> - **关联笔记**:[[完整笔记/Biostats_Master#RR / RRR / ARR 互补关系深度推导]] / [[notes/Biostats_Epi]]
+> - **关联笔记**:[[Biostats_Master#RR / RRR / ARR 互补关系深度推导]] / [[notes/Biostats_Epi]]
 > - **重做次数**:☐ 1st
 > - **状态**:🔴 概念混淆(分母方向)
 > 
@@ -127,8 +127,8 @@
 > | "given OR + odds" → 反推 prevalence | OR 反推 |
 > 
 > ## 关联
-> - [[完整笔记/Biostats_Master#反推公式]]
-> - [[完整笔记/_衍生_高频评分_公式#流行病学反推]]
+> - [[Biostats_Master#反推公式]]
+> - [[_衍生_高频评分_公式#流行病学反推]]
 > - [[mistakes/uworld-mistakes]] 搜 Q20430（上一道 ARP）
 > 
 > ## 跨科考点（OB / 手术）
@@ -139,7 +139,7 @@
 > ## 复盘
 > - [ ] 1 周后重做这题
 > - [ ] 默写"桶装水"反推思路
-> - [ ] 加 #薄弱点 到 [[完整笔记/Biostats_Master]]
+> - [ ] 加 #薄弱点 到 [[Biostats_Master]]
 > - [ ] 找 3 道反推题练习
 > - [ ] 加 #考前必看
 
@@ -198,8 +198,8 @@
 > 同样数据问 LR− → 0.25/0.85 = 0.29 ✅
 > 
 > ## 关联
-> - [[完整笔记/Biostats_Master#诊断试验]]
-> - [[完整笔记/Biostats_Master#LR]]
+> - [[Biostats_Master#诊断试验]]
+> - [[Biostats_Master#LR]]
 > - [[notes/Biostats_Epi]]
 > 
 > ## 复盘
@@ -280,10 +280,10 @@
 > - **确诊**（怕误诊）→ 高 cutoff → Spec↑
 > 
 > ## 关联
-> - [[完整笔记/Biostats_Master#ROC]]
-> - [[完整笔记/Biostats_Master#Cutoff]]
-> - [[完整笔记/Biostats_Master#AUC]]
-> - [[完整笔记/_衍生_高频陷阱#ROC]]
+> - [[Biostats_Master#ROC]]
+> - [[Biostats_Master#Cutoff]]
+> - [[Biostats_Master#AUC]]
+> - [[_衍生_高频陷阱#ROC]]
 > 
 > ## 复盘
 > - [ ] 1 周后重做
@@ -356,10 +356,10 @@
 > | 处理 | **消除**（控制）| **报告**（分层）|
 > 
 > ## 关联
-> - [[完整笔记/Biostats_Master#Bias]]
-> - [[完整笔记/Biostats_Master#Confounding]]
-> - [[完整笔记/Biostats_Master#Study Design]]
-> - [[完整笔记/_衍生_高频陷阱#Biostats偏倚]]
+> - [[Biostats_Master#Bias]]
+> - [[Biostats_Master#Confounding]]
+> - [[Biostats_Master#Study Design]]
+> - [[_衍生_高频陷阱#Biostats偏倚]]
 > 
 > ## 复盘
 > - [ ] 1 周后重做
@@ -433,9 +433,9 @@
 > | "diagnosis/confirm" | Spec 高 + PPV 高 |
 > 
 > ## 关联
-> - [[完整笔记/Biostats_Master#PPV NPV]]
-> - [[完整笔记/Biostats_Master#筛查 vs 确诊]]
-> - [[完整笔记/_衍生_高频陷阱#PPV NPV 方向]]
+> - [[Biostats_Master#PPV NPV]]
+> - [[Biostats_Master#筛查 vs 确诊]]
+> - [[_衍生_高频陷阱#PPV NPV 方向]]
 > 
 > ## 复盘
 > - [ ] 1 周后重做
@@ -500,19 +500,19 @@
 > - **元层面诊断**：两题都是"不知道概念 + 不会看表" → 需要建立**看表 SOP**（4 步法）
 >
 > ## 🔗 关联
-> - [[完整笔记/Biostats_Master#Hazard Ratio]]
-> - [[完整笔记/Biostats_Master#RR vs OR vs HR]]
-> - [[完整笔记/Biostats_Master#Confidence Interval 跨 1]]
-> - [[完整笔记/_衍生_高频陷阱#HR 方向陷阱]]
+> - [[Biostats_Master#Hazard Ratio]]
+> - [[Biostats_Master#RR vs OR vs HR]]
+> - [[Biostats_Master#Confidence Interval 跨 1]]
+> - [[_衍生_高频陷阱#HR 方向陷阱]]
 > - [[完整笔记/肾#Hyperkalemia 鉴别]]
-> - [[完整笔记/_衍生_高频评分_公式#利尿剂电解质效应对比]]
+> - [[_衍生_高频评分_公式#利尿剂电解质效应对比]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 + 默写 HR/RR/OR 对比表
 > - [ ] 默写**4 类利尿剂对 K+ 的影响**
 > - [ ] 默写**Thiazide 五大副作用**（"3 Hypo + 3 Hyper"）
-> - [ ] 给 [[完整笔记/Biostats_Master]] 加 #薄弱点（HR 部分）
-> - [ ] 整理"看表 SOP（4 步法）"到 [[完整笔记/_衍生_高频评分_公式]]
+> - [ ] 给 [[Biostats_Master]] 加 #薄弱点（HR 部分）
+> - [ ] 整理"看表 SOP（4 步法）"到 [[_衍生_高频评分_公式]]
 > - [ ] 找 3 道 HR 题练习（重点：CI 跨 1 判断）
 
 > [!example]- [2026-05-11] Biostats / Study Design Factorial 识别 (Q7688-Item2)
@@ -576,16 +576,16 @@
 > - **关键认知升级**：下次读 stem 时**主动数 "randomized" 出现次数**或**数有几个独立变量**
 >
 > ## 🔗 关联
-> - [[完整笔记/Biostats_Master#Study Design 4 类对比]]
-> - [[完整笔记/Biostats_Master#RCT]]
-> - [[完整笔记/_衍生_高频陷阱#Factorial vs Parallel]]
-> - [[完整笔记/_衍生_高频评分_公式#Study Design 决策树]]
+> - [[Biostats_Master#Study Design 4 类对比]]
+> - [[Biostats_Master#RCT]]
+> - [[_衍生_高频陷阱#Factorial vs Parallel]]
+> - [[_衍生_高频评分_公式#Study Design 决策树]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 + 默写 RCT 4 类指纹
 > - [ ] 默写 **Study Design 决策树**（RCT 4 类 + 观察性 3 类）
-> - [ ] 整理"**Factorial 的 stem 指纹**"到 [[完整笔记/_衍生_高频陷阱]]
-> - [ ] 给 [[完整笔记/Biostats_Master]] 加 #薄弱点（Study Design 部分）
+> - [ ] 整理"**Factorial 的 stem 指纹**"到 [[_衍生_高频陷阱]]
+> - [ ] 给 [[Biostats_Master]] 加 #薄弱点（Study Design 部分）
 > - [ ] 找 3 道 study design 题（Factorial vs Parallel 辨析）
 > - [ ] **刷题时主动数 "randomized" 次数**（养成习惯）
 
@@ -686,22 +686,303 @@
 > - **元层面顿悟**：评价研究质量时，**只看 design 本身**，不脑补 stem 没说的信息
 >
 > ## 🔗 关联
-> - [[完整笔记/Biostats_Master#Study Design 决策树]]
-> - [[完整笔记/Biostats_Master#证据等级金字塔]]
-> - [[完整笔记/Biostats_Master#Case Series vs Cohort vs RCT]]
-> - [[完整笔记/Biostats_Master#观察性 vs 实验性研究]]
-> - [[完整笔记/_衍生_高频陷阱#未提及不等于不存在]]
-> - [[完整笔记/_衍生_高频陷阱#样本量万能论]]
-> - [[完整笔记/儿科#Pompe 病]]
-> - [[完整笔记/_衍生_核心疾病专题#Lysosomal storage disease]]
+> - [[Biostats_Master#Study Design 决策树]]
+> - [[Biostats_Master#证据等级金字塔]]
+> - [[Biostats_Master#Case Series vs Cohort vs RCT]]
+> - [[Biostats_Master#观察性 vs 实验性研究]]
+> - [[_衍生_高频陷阱#未提及不等于不存在]]
+> - [[_衍生_高频陷阱#样本量万能论]]
+> - [[儿科#Pompe 病]]
+> - [[专题笔记#Lysosomal storage disease]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 + 默写 Study Design 决策树
 > - [ ] 默写 **证据等级金字塔**
 > - [ ] 默写 **观察性研究 4 类对比表**（分组依据 / 时间方向 / 有无对照）
-> - [ ] 整理"**三不原则**"到 [[完整笔记/_衍生_高频陷阱]]
-> - [ ] 整理"**Bias 状态判断原则**"到 [[完整笔记/_衍生_高频陷阱]]
-> - [ ] 给 [[完整笔记/Biostats_Master]] 加 #薄弱点（Study Design 部分）
-> - [ ] 在 [[完整笔记/儿科]] 补 Pompe disease 笔记（婴儿型 GAA 缺陷、酶替代治疗）
+> - [ ] 整理"**三不原则**"到 [[_衍生_高频陷阱]]
+> - [ ] 整理"**Bias 状态判断原则**"到 [[_衍生_高频陷阱]]
+> - [ ] 给 [[Biostats_Master]] 加 #薄弱点（Study Design 部分）
+> - [ ] 在 [[儿科]] 补 Pompe disease 笔记（婴儿型 GAA 缺陷、酶替代治疗）
 > - [ ] 找 3 道 study design 题（observational vs experimental 辨析）
 > - [ ] **下次刷题习惯：读 stem 先定位 study type**
+
+> [!example]- [2026-05-11] Biostats / Case-Control vs Cohort 场景适配 (Q20283)
+>
+> ## 🎯 Stem 模式
+> "**Rare disease** + **Long latent period** + **Find risk factors**" → **Case-Control 金三角** → 秒选 case-control
+>
+> ## 🔑 核心概念
+> **"Most appropriate" study design = 场景适配**，不是抽象证据等级
+> - **Case-Control** = "侦探破案" — 从已确诊病例倒查暴露
+> - **Cohort** = "盯职业人群" — 找到已暴露的人前瞻跟踪
+> - **两者不是谁更好，是谁更适合**
+>
+> ## 🌟 "最佳" vs "最合适" 原则 ⭐ 今日核心 take-away
+> | 概念 | 含义 | 决策方式 |
+> |---|---|---|
+> | **Best evidence level** | 抽象层级：RCT > Cohort > Case-control | 选金字塔最上层 |
+> | **Most appropriate** ⭐ | **场景适配**：哪个能回答这个问题 | 看疾病特点 + 研究问题 |
+>
+> → 看到 "**most appropriate**" 不要默认选最高等级！要看**场景**
+>
+> ## 📊 "罕见性" 决定 design（核心决策法则）
+> ```
+> 病罕见 (rare disease)   → Case-Control（去医院找病人最快）
+> 暴露罕见 (rare exposure) → Cohort（找暴露人群最快，跟踪他们）
+> 都罕见                   → 难做（nested case-control / registry）
+> 都常见                   → 都能做（看成本/速度）
+> ```
+>
+> ## 🆚 Case-Control vs Cohort 终极对比
+> | 维度 | Case-Control | Cohort（前瞻）|
+> |---|---|---|
+> | **方向** | 结局 → 暴露（反向）| 暴露 → 结局（正向）|
+> | **分组依据** | 按**疾病状态** | 按**暴露状态** |
+> | **指标** | **OR** | **RR / HR** |
+> | **能算 incidence？** | ❌ 不能 | ✅ 能 |
+> | **罕见病** | ✅ **最佳** | ❌ 招不到病人 |
+> | **罕见暴露** | ❌ 招不到暴露者 | ✅ **最佳** |
+> | **长潜伏期** | ✅ **最佳** | ❌ 等不起 |
+> | **多个 risk factors** | ✅ 一次研究多个 | ✅ 可 |
+> | **多个 outcomes** | ❌ 一次研究一个 | ✅ 一次研究多个 |
+> | **Recall bias** | ⚠️ 高 | ✅ 低 |
+> | **时间成本** | 短（数月）| 长（数年-数十年）|
+> | **证据等级** | ⭐⭐ | ⭐⭐⭐ |
+>
+> ## 🏭 Cohort 罕见暴露的来源（重要：cohort 不是"主动暴露"）
+> Cohort 是**观察性研究** — 暴露**已经存在**，研究者**只找到这些人 + 跟踪**：
+> 1. **职业人群**：石棉→船厂工人 / 放射→核电站员工 / 化学品→化工厂
+> 2. **特殊事件**：原爆幸存者 / 灾区居民 / 越战退伍军人（Agent Orange）
+> 3. **登记数据库**：罕见药物使用者 / 罕见手术患者 / 遗传病登记
+>
+> → 如果研究者**主动**给一组人暴露 → 那是 **RCT**，不是 cohort
+>
+> ## ❌ 我为什么错
+> - **选了 D（Cohort study）**
+> - **错因**：① 不知道 Case-Control 在"罕见病/长潜伏期"的独家优势 ② "证据等级最高 = 最合适"的误解（层级 vs 适配混淆）③ 没识别 stem 的双重指纹："rare" + "long latent period"
+> - **核心陷阱**：**"层级 vs 适配"陷阱** — 按抽象证据等级选 Cohort，但 USMLE 问的是 "most appropriate"（场景适配），而罕见病 + 长潜伏期是 **Case-Control 的独家场景**
+>
+> ## 🎴 Memory Hook
+> - **"Rare + Latent + Risk factors = Case-Control 金三角"**
+> - **场景 → 设计映射**：
+>   ```
+>   罕见病 / 长潜伏期 / 多 risk factors → Case-Control 🔍 "侦探破案"
+>   罕见暴露 / 多 outcomes / 算 incidence → Cohort 🏭 "盯职业人群"
+>   ```
+> - **方向口诀**：**"病-暴 vs 暴-病"**
+>   - Case-control：先有**病**，倒查**暴**露
+>   - Cohort：先有**暴**露，等出**病**
+>
+> ## 🔑 USMLE Study Design 题 3 层问法
+> 1. **"What IS the design?"** → 识别（用 stem 指纹）
+> 2. **"Limitation/strength?"** → 评价（从设计本质推）
+> 3. **"MOST APPROPRIATE design?"** ⭐ → 选择（场景适配，不是抽象层级）
+>
+> → 第 3 类题型不能用证据金字塔做！要看场景
+>
+> ## 🤔 我的提问 / 卡点
+> - **Q：为啥 cohort 适合罕见暴露？故意去暴露吗？**
+>   → 学到：**Cohort 是观察性研究，研究者不主动暴露**。罕见暴露的人**已经存在**（如石棉工人、核电站员工），研究者只是**找到他们 + 跟踪**。如果是主动分配暴露 → 那是 **RCT**。修正了"cohort = 主动暴露"的概念混淆
+> - **元层面顿悟**：判断 design 适配性的 2 个问题：① **怎么找到研究对象？**（从暴露端 vs 疾病端）② **需要等多久？**（前瞻 vs 回顾）
+>
+> ## 🔗 关联
+> - [[Biostats_Master#Case-Control vs Cohort 终极对比]]
+> - [[Biostats_Master#Study Design 决策树]]
+> - [[Biostats_Master#最佳 vs 最合适原则]]
+> - [[_衍生_高频陷阱#层级 vs 适配陷阱]]
+> - [[_衍生_高频陷阱#cohort 不等于主动暴露]]
+> - [[_衍生_高频评分_公式#Study Design 场景适配]]
+> - [[外科#头颈部肿瘤]]（Adenoid cystic carcinoma）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 + 默写 Case-Control vs Cohort 终极对比表
+> - [ ] 默写 **"Rare + Latent + Risk factors = Case-Control 金三角"**
+> - [ ] 默写 **"罕见性决定 design" 决策法则**
+> - [ ] 整理 **"最佳 vs 最合适"原则** 到 [[_衍生_高频陷阱]]
+> - [ ] 整理 **"USMLE Study Design 3 层问法"** 到 [[_衍生_高频评分_公式]]
+> - [ ] 在 [[Biostats_Master]] 加 #薄弱点（Case-Control 部分）
+> - [ ] 找 3 道场景适配题练习（rare disease vs rare exposure 辨析）
+> - [ ] **下次刷题主动识别 stem 关键词**：rare / latent / common / multiple outcomes
+
+> [!example]- [2026-05-11] Biostats / 广告题双题：复合终点 + NNT (Q7708 + Q7709, Efrenzia)
+>
+> ## 🎯 Stem 模式
+> **Q7708（Item 1）**："Based on drug ad, ... decrease which event?" → **找驱动复合终点差异的 outcome**（其他 outcomes 通常无显著差异）
+> **Q7709（Item 2）**："Need to treat ... to prevent 1 ..." + **亚组限定** → **NNT = 1 / ARR**（用对应亚组的 ARR）
+>
+> ## 🔑 核心概念
+>
+> ### 概念 1：Composite Endpoint（复合终点）拆解
+> - **复合终点** = 多个 outcome 打包（如 CV death + MI + stroke）
+> - **总差异常由单个 outcome 驱动**，其他 outcomes 可能无显著差异
+> - **必须拆开看 individual components**，特别是 mortality 和 safety
+>
+> ### 概念 2：NNT 计算
+> - **NNT = 1 / ARR**（不是 1/RRR！）
+> - **必须用 stem 限定亚组的 ARR**
+> - NNT 越小药越有效
+>
+> ## 📋 广告题 5 步 SOP（见 [[USMLE广告题解题策略]]）
+> ```
+> Step 1: 识别 composite endpoint
+> Step 2: 看 RRR vs ARR 差异（戏剧化陷阱）
+> Step 3: 找哪个 outcome 真正驱动差异
+> Step 4: 查 safety data（藏在小字 / 末页）
+> Step 5: 区分广告说的 vs 题目问的
+> ```
+>
+> ## ⚠️ 广告题 5 大陷阱
+> 1. **RRR 夸大效益**（大字 RRR vs 小字 ARR）
+> 2. **Composite endpoint 掩盖真相**（单一驱动 / 反方向信号）
+> 3. **Safety 藏在小字**（bleeding 等副作用）
+> 4. **"Treatment of choice" 是营销语**
+> 5. **Subgroup analysis 过度解读**
+>
+> ## 📊 复合终点 3 种情况
+> | 情况 | 特征 | 解读 |
+> |---|---|---|
+> | **A 均匀贡献** | 各 outcome 都显著降低 | 真正全面效益（最强证据）|
+> | **B 单一驱动** ⬅ Efrenzia | 只 1 个 outcome 显著，其他无差 | 警惕：药只防 X，不防 Y |
+> | **C 相反信号** | 1 个降低、1 个增加，复合"无差" | 危险：药害被掩盖 |
+>
+> ## 🆚 Hard vs Soft Outcomes
+> - **Hard**：Death, MI, Stroke（客观、临床重要）
+> - **Soft**：Hospitalization, Revascularization, Symptom relief（主观、临床意义低）
+> - **All-cause mortality 是最硬的硬终点** — 若无差异，药效需打折扣
+>
+> ## 🧮 NNT 速查 + 临床解读
+> | NNT | 临床意义 |
+> |---|---|
+> | 1-10 | 极有效 |
+> | 10-25 | 不错（Efrenzia UA/NSTEMI+DM 在这）|
+> | 25-50 | 一般 |
+> | 50-100 | 边际效益 |
+> | >100 | 临床意义低 |
+>
+> ## 🚫 NNT 计算两大陷阱
+> 1. **NNT = 1/RRR 错记**（应为 1/ARR）— 易导致严重低估治疗成本
+> 2. **亚组错位**：忽略 stem 双重限定（如"with diabetes" + "UA/NSTEMI"）
+>
+> ## 🎴 Memory Hook
+> - **"打包数字看着大，拆开才知真相在哪一只"** 📦
+> - **"RRR 大字骗眼睛，ARR 小字才真心"**
+> - **"NNT 必用 ARR，亚组限定双 check"**
+> - **NNT 救人 KPI**：数字越小，"救人效率"越高
+>
+> ## 📍 6 个问题 framework（看 composite endpoint RCT 必问）
+> 1. 复合包含哪些 outcomes？
+> 2. Hard outcomes 还是 soft outcomes 为主？
+> 3. 总效果显著吗？
+> 4. 各 component 单独看谁显著？⭐
+> 5. Mortality 有无差异？
+> 6. 有反方向信号吗？
+>
+> ## ❌ Q7708 / Q7709 我都做对了 ✅
+> **关键验证**：
+> - Q7708：确认是看了广告第 3 页 "primarily due to MI" 这句吗？还是凭感觉选的？
+> - Q7709：第一反应是 NNT = 1/ARR 还是 1/RRR？（如果是 1/RRR → 危险信号）
+>
+> **未来可能踩坑**：
+> - 复合终点的"反方向信号"题（情况 C）
+> - Forest plot 识别哪个 component 显著
+> - "What is misleading about this ad?" 批判性问法
+>
+> ## 🤔 我的提问 / 卡点
+> - **Q：复合终点的差异只能归因于某个 outcome 是什么意思？**
+>   → 学到：总差异 = 各 component 差异之和；如果其他 components 不显著，总差异就**完全来自**那个显著的 component（如 Efrenzia 只防 MI，不防 stroke / death）
+> - **元层面顿悟**：广告永远用"打包数字"，临床医生要会"拆包"看真相；这是 Critical Appraisal 的核心
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#Q107183]] RRR 计算（亚组限定 + 分母法则）
+>   - [[mistakes/uworld-mistakes#Q20057]] ARR 反推样本量（早上）
+>   - [[mistakes/uworld-mistakes#Q20430]] ARP 阳性归因比（早上）
+> - 📚 主笔记：[[Biostats_Master]] / [[USMLE广告题解题策略]]
+> - 🏥 跨学科：[[心内]]（ACS / NSTEMI / 抗血小板药 — Efrenzia 类似 ticagrelor，新型 P2Y12 抑制剂）
+> - 🌱 TODO（待生成衍生）：Biostats 章节复习完后，请 Claude Code 整合所有"广告/摘要解读"类错题 → 扩充 [[USMLE广告题解题策略]]
+> - 🌱 TODO（待生成衍生）：整合"亚组限定 + 数据筛选"类错题（Q7709 + Q107183 + Q7688 + 未来）→ 生成 [[完整笔记/_衍生_高频陷阱/Biostats 读题 SOP — 亚组限定与数据定位]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 + 默写广告题 5 步 SOP + 5 大陷阱
+> - [ ] 默写 **复合终点 3 种情况**（均匀 / 单一驱动 / 相反信号）
+> - [ ] 默写 **NNT = 1/ARR**（强化区分 RRR）
+> - [ ] 默写 **6 个问题 framework**
+> - [ ] 找 3 道 NBME 广告题练习
+> - [ ] 在 [[心内]] 补 ACS 抗血小板药对比（clopidogrel / ticagrelor / prasugrel）
+> - [ ] **下次广告题主动按 SOP 走，不被大字数字忽悠**
+
+> [!example]- [2026-05-11] Biostats / Clinical Trial Phase III 识别 (Q20058)
+>
+> ## 🎯 Stem 模式
+> "**Large multicenter** + **affected patients** + **randomized + placebo-controlled** + **efficacy**" → **Phase III**
+>
+> 这 5 个指纹同时满足 → 秒选 Phase III
+>
+> ## 🔑 核心概念
+> **Phase III** = **大样本 RCT 对比 placebo/standard treatment**，在 **affected patients** 中评估 **efficacy + safety**，**FDA 批准前的关键证据**
+>
+> ## 📊 5 阶段指纹速记（详见 [[USMLE临床试验分期]]）
+> | Phase | 受试者 | 样本量 | 核心问题 |
+> |---|---|---|---|
+> | Preclinical | 动物 | — | 能不能用于人？|
+> | **I** | **健康志愿者** | 小 20-100 | **Is it safe?** + MTD + PK |
+> | **II** | 少病人 | 中 100-300 | **Does it work?** + optimal dose |
+> | **III** ⭐ | **大量病人** | 大 数百-数千 | **Better than current?** + FDA 批准 |
+> | **IV** | 上市后病人 | 极大 | **Long-term / rare AE?** |
+>
+> ## 🎴 Memory Hook
+> - **5 阶段口诀**：**S**afe(I) → **W**ork(II) → **B**etter(III) → **L**ong-term(IV)
+> - **Phase III 五大指纹**：Large + Multicenter + Affected patients + Randomized + Placebo/Standard 对照
+> - **核心判别**：看到 placebo-controlled + large + randomized → **Phase III**
+>
+> ## ⚠️ 4 大易错陷阱
+> 1. **受试者类型**：Phase I = 健康志愿者；II/III/IV = 病人（**例外**：肿瘤药 Phase I 也在病人做）
+> 2. **样本量误判**：small + efficacy → Phase II；large + efficacy + randomized → Phase III
+> 3. **忽略对照**：没对照的"efficacy"研究 → Phase II；有对照 + 随机化 → Phase III
+> 4. **Phase IV ≠ "safety phase"**：所有 Phase 都监测 safety，IV 特指**上市后** long-term / rare AE
+>
+> ## 🆚 Phase II vs Phase III（高频辨析）
+> | 维度 | Phase II | Phase III |
+> |---|---|---|
+> | 样本量 | 100-300 | 数百-数千 |
+> | 目的 | **初步** efficacy + 找剂量 | **确证** efficacy + safety |
+> | 随机化 | 可选 | **必须** |
+> | 对照 | 不一定 | **必须** |
+> | 关键问题 | "Does it work?" | "Better than current?" |
+>
+> ## 📋 5 步识别 Phase（SOP）
+> 1. 在人身上做吗？No → Preclinical
+> 2. 健康志愿者 vs 病人？Healthy → 多半 Phase I
+> 3. 样本量大不大？Small (<300) → 多半 Phase II
+> 4. 上市了没？Yes → Phase IV；No → Phase III
+> 5. 有 randomized + 对照吗？Yes → 强化 Phase III 判断
+>
+> ## ✅ Q20058 我做对了
+> **关键验证**：是不是真的会用 5 个指纹排除其他选项？
+> - A Preclinical：人身上做了 → 排
+> - B Phase I：1000 人 + 病人 → 排
+> - C Phase II：1000 人 + multicenter + placebo → 排
+> - E Phase IV：还没上市评估 → 排
+> - **D Phase III ✅**
+>
+> ## 🤔 我的提问 / 卡点
+> - **元层面顿悟**：本题确认了 5 阶段框架的稳健性 — 5 个指纹中只要满足 3-4 个就基本能定 Phase III
+> - **下次练习重点**：Phase II vs Phase III 的边界题（样本量 200-500 那种）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#Q7688]] HR 解读（同为大型 multicenter RCT = Phase III）
+>   - [[mistakes/uworld-mistakes#Q7708]] Efrenzia 广告题（Phase III 后的真实广告）
+>   - [[mistakes/uworld-mistakes#Q20283]] Case-Control vs Cohort（观察性 vs 实验性 study design）
+> - 📚 主笔记：
+> - [[USMLE临床试验分期]] ⭐ 今日新建
+> - 🌱 TODO（待生成衍生）：Biostats 章节复习完后，请 Claude Code 整合所有 Phase 相关错题 → 扩充 [[USMLE临床试验分期]]
+> - 🌱 TODO（待生成衍生）：整合"药物开发流程"相关错题（Phase + FDA 审批 + 撤市经典案例如 Vioxx）→ 生成 [[完整笔记/_衍生_核心疾病专题/药物开发与上市流程]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 + 默写 5 阶段速查表
+> - [ ] 默写 **Phase III 五大指纹**（Large + Multicenter + Affected + Randomized + Controlled）
+> - [ ] 默写 **5 步识别 SOP**
+> - [ ] 默写 **Phase II vs Phase III 边界**
+> - [ ] 在 [[完整笔记/血液肿瘤]] 补 pegfilgrastim / G-CSF 相关笔记
+> - [ ] 找 3 道 Phase 识别题（特别是 Phase II vs III 辨析）
