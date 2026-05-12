@@ -910,3 +910,79 @@
 > - [ ] 找 3 道 NBME 广告题练习
 > - [ ] 在 [[完整笔记/心内]] 补 ACS 抗血小板药对比（clopidogrel / ticagrelor / prasugrel）
 > - [ ] **下次广告题主动按 SOP 走，不被大字数字忽悠**
+
+> [!example]- [2026-05-11] Biostats / Clinical Trial Phase III 识别 (Q20058)
+>
+> ## 🎯 Stem 模式
+> "**Large multicenter** + **affected patients** + **randomized + placebo-controlled** + **efficacy**" → **Phase III**
+>
+> 这 5 个指纹同时满足 → 秒选 Phase III
+>
+> ## 🔑 核心概念
+> **Phase III** = **大样本 RCT 对比 placebo/standard treatment**，在 **affected patients** 中评估 **efficacy + safety**，**FDA 批准前的关键证据**
+>
+> ## 📊 5 阶段指纹速记（详见 [[USMLE临床试验分期]]）
+> | Phase | 受试者 | 样本量 | 核心问题 |
+> |---|---|---|---|
+> | Preclinical | 动物 | — | 能不能用于人？|
+> | **I** | **健康志愿者** | 小 20-100 | **Is it safe?** + MTD + PK |
+> | **II** | 少病人 | 中 100-300 | **Does it work?** + optimal dose |
+> | **III** ⭐ | **大量病人** | 大 数百-数千 | **Better than current?** + FDA 批准 |
+> | **IV** | 上市后病人 | 极大 | **Long-term / rare AE?** |
+>
+> ## 🎴 Memory Hook
+> - **5 阶段口诀**：**S**afe(I) → **W**ork(II) → **B**etter(III) → **L**ong-term(IV)
+> - **Phase III 五大指纹**：Large + Multicenter + Affected patients + Randomized + Placebo/Standard 对照
+> - **核心判别**：看到 placebo-controlled + large + randomized → **Phase III**
+>
+> ## ⚠️ 4 大易错陷阱
+> 1. **受试者类型**：Phase I = 健康志愿者；II/III/IV = 病人（**例外**：肿瘤药 Phase I 也在病人做）
+> 2. **样本量误判**：small + efficacy → Phase II；large + efficacy + randomized → Phase III
+> 3. **忽略对照**：没对照的"efficacy"研究 → Phase II；有对照 + 随机化 → Phase III
+> 4. **Phase IV ≠ "safety phase"**：所有 Phase 都监测 safety，IV 特指**上市后** long-term / rare AE
+>
+> ## 🆚 Phase II vs Phase III（高频辨析）
+> | 维度 | Phase II | Phase III |
+> |---|---|---|
+> | 样本量 | 100-300 | 数百-数千 |
+> | 目的 | **初步** efficacy + 找剂量 | **确证** efficacy + safety |
+> | 随机化 | 可选 | **必须** |
+> | 对照 | 不一定 | **必须** |
+> | 关键问题 | "Does it work?" | "Better than current?" |
+>
+> ## 📋 5 步识别 Phase（SOP）
+> 1. 在人身上做吗？No → Preclinical
+> 2. 健康志愿者 vs 病人？Healthy → 多半 Phase I
+> 3. 样本量大不大？Small (<300) → 多半 Phase II
+> 4. 上市了没？Yes → Phase IV；No → Phase III
+> 5. 有 randomized + 对照吗？Yes → 强化 Phase III 判断
+>
+> ## ✅ Q20058 我做对了
+> **关键验证**：是不是真的会用 5 个指纹排除其他选项？
+> - A Preclinical：人身上做了 → 排
+> - B Phase I：1000 人 + 病人 → 排
+> - C Phase II：1000 人 + multicenter + placebo → 排
+> - E Phase IV：还没上市评估 → 排
+> - **D Phase III ✅**
+>
+> ## 🤔 我的提问 / 卡点
+> - **元层面顿悟**：本题确认了 5 阶段框架的稳健性 — 5 个指纹中只要满足 3-4 个就基本能定 Phase III
+> - **下次练习重点**：Phase II vs Phase III 的边界题（样本量 200-500 那种）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#Q7688]] HR 解读（同为大型 multicenter RCT = Phase III）
+>   - [[mistakes/uworld-mistakes#Q7708]] Efrenzia 广告题（Phase III 后的真实广告）
+>   - [[mistakes/uworld-mistakes#Q20283]] Case-Control vs Cohort（观察性 vs 实验性 study design）
+> - 📚 主笔记：
+> - [[USMLE临床试验分期]] ⭐ 今日新建
+> - 🌱 TODO（待生成衍生）：Biostats 章节复习完后，请 Claude Code 整合所有 Phase 相关错题 → 扩充 [[USMLE临床试验分期]]
+> - 🌱 TODO（待生成衍生）：整合"药物开发流程"相关错题（Phase + FDA 审批 + 撤市经典案例如 Vioxx）→ 生成 [[完整笔记/_衍生_核心疾病专题/药物开发与上市流程]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 + 默写 5 阶段速查表
+> - [ ] 默写 **Phase III 五大指纹**（Large + Multicenter + Affected + Randomized + Controlled）
+> - [ ] 默写 **5 步识别 SOP**
+> - [ ] 默写 **Phase II vs Phase III 边界**
+> - [ ] 在 [[完整笔记/血液肿瘤]] 补 pegfilgrastim / G-CSF 相关笔记
+> - [ ] 找 3 道 Phase 识别题（特别是 Phase II vs III 辨析）
