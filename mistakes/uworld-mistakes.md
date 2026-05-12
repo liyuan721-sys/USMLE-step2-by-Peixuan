@@ -1737,3 +1737,121 @@
 > 主题:: OR-CI 表格判读
 > 状态:: 🟡
 > 错因:: 知识
+
+> [!example]- [2026-05-12] Biostats / Study Design 判定 — Cohort vs Case-Control (Q20435)
+> 
+> ## Stem 模式
+> 研究先按"有/无某诊断"分两组（matched control）→ 多年后查另一个疾病的发生率 → 问 study design。
+> 
+> ## 核心概念
+> **Cohort 的本质 = "按 exposure 分组，比较 incidence"**
+> - 时间方向（pro/retro）只决定数据收集方向，不改变 cohort 的本质
+> - Retrospective Cohort：暴露分组后，从历史病历回查结局
+> 
+> ## 普适规则 — Study Design 判定 3 步 SOP
+> ```
+> Q1：研究问"A → B"？
+>     → A = exposure, B = outcome（不管 A 叫不叫 "diagnosis"）
+> 
+> Q2：研究先按什么分两组？
+>     ├─ 按 exposure 分 → COHORT
+>     │   ├─ Outcome 已发生，回查历史 → Retrospective
+>     │   └─ Outcome 未发生，前瞻追踪 → Prospective
+>     ├─ 按 outcome 分 → CASE-CONTROL（always retro, 算 OR）
+>     └─ 同时测 exposure + outcome → CROSS-SECTIONAL（算 prevalence）
+> 
+> Q3：算什么指标？
+>     Cohort → RR / Incidence
+>     Case-Control → OR
+>     Cross-sectional → Prevalence
+> ```
+> 
+> ## High-Yield 对比表 — Observational Study 四类
+> 
+> | 维度 | Case-Control | Cohort (Retro) | Cohort (Pro) | Cross-Sectional |
+> |---|---|---|---|---|
+> | **分组依据** | Outcome（有病/无病）| Exposure（暴露/未暴露）| Exposure | 都不分组，同时测 |
+> | **方向** | 回顾找暴露 | 回顾查结局 | 前瞻追结局 | 横断面 snapshot |
+> | **数据时间** | 历史 | 历史病历 | 未来追踪 | 当下 |
+> | **算什么** | **OR** | **RR** | **RR** | **Prevalence** |
+> | **能否算 incidence** | ❌ | ✅ | ✅ | ❌（只能算 prevalence）|
+> | **适用** | 罕见病、长潜伏期 | 罕见暴露、多结局 | 因果证据最强（观察性中）| 现况调查、生成假设 |
+> | **Stem 触发词** | "cases who had X vs controls who didn't" | "exposed vs non-exposed, review records" | "follow up for X years" | "at one point in time" |
+> 
+> ## 易混陷阱（普适）
+> 
+> ### ⚠️ 陷阱 1：Diagnosis ≠ Outcome
+> "Diagnosis of X" 是中性词，可以是 exposure 也可以是 outcome。
+> 判定标准 = 看研究问"A→B"的方向，不看哪个词带 "diagnosis"。
+> 
+> | "Diagnosis of X" 角色 | 例子 |
+> |---|---|
+> | Exposure | 精神疾病诊断 → 看是否导致 AMI |
+> | Outcome | 吸烟 → 看是否导致肺癌诊断 |
+> | Confounder | 糖尿病诊断 → 同时影响吸烟和 CVD |
+> 
+> ### ⚠️ 陷阱 2：Matched ≠ Case-Control
+> Matching（年龄/性别匹配）是**控制混杂的统计手段**，cohort 和 case-control 都能用。
+> 判定 study design 的**唯一标准**是"按什么分组"。
+> 
+> ### ⚠️ 陷阱 3：Retrospective Cohort ≠ Case-Control
+> 两者都用"历史数据"，但：
+> - Retrospective Cohort：按 **exposure** 分组 → 查 outcome
+> - Case-Control：按 **outcome** 分组 → 查 exposure
+> 
+> ## 我为什么错（个性化）
+> **选了 A（Case-Control）。真实错因：把"诊断"误认为"结局"**
+> - 看到 "diagnosis of schizophrenia" → 大脑自动等价 "diagnosis = disease = outcome"
+> - 于是误判：按 outcome 分组 → Case-Control ❌
+> - 真相：精神疾病诊断在本题是 **exposure**，AMI 才是 outcome
+> - 二次误导：matched control 触发了"case-control 标志"的条件反射
+> 
+> **核心教训**：读 stem 第一步永远是问"研究问什么因果方向"，而不是被名词触发条件反射。
+> 
+> ## Memory Hook
+> 
+> > **三句话保命口诀**：
+> > 1. **"Diagnosis ≠ Outcome"** — 诊断只是标签，不代表它是结局
+> > 2. **"看研究问什么，不看用什么词"** — A→B 中 A 就是 exposure
+> > 3. **"Matched ≠ Case-Control"** — matching 是统计手段，谁都能用
+> 
+> > **类比 — 侦探办案**：
+> > - Cohort：盯一群嫌疑人（exposed），看谁犯罪（outcome）
+> > - Case-Control：先找罪犯（cases），回头查谁接触毒品（exposure）
+> > - Cross-sectional：今天去监狱，同时数吸毒 + 犯罪人数
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点（学习路径）
+> 
+> | 我问的关键问题 | 学到了什么 |
+> |---|---|
+> | "为什么选 case-control 错？" | 判定 design 看**分组依据**，不看 matching |
+> | （自己识别）"我没分清诊断和暴露因素" | **真正的根本错因** — "diagnosis" 是中性词，可以是 exposure 也可以是 outcome |
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#Q7688]] Study Design 判定（Item 2）
+>   - [[mistakes/uworld-mistakes#Q20090]] Cohort vs Case-Control 鉴别
+>   - [[mistakes/uworld-mistakes#Q20283]] Cross-sectional 识别
+>   - [[mistakes/uworld-mistakes#Q20058]] Observational study 类型
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - 🏥 跨学科：暂无
+> - 🌱 TODO（待生成衍生）：等 Biostats 章节复习完，请 Claude Code 整合 **Q7688 + Q20090 + Q20283 + Q20058 + Q20435** 这 5 道 Study Design 错题 → 生成 [[完整笔记/专题笔记/USMLE_Study_Design决策树]]
+>   - **必须包含**：4 类 observational study 对比表 + 3 步判定 SOP + "Diagnosis ≠ Outcome" 陷阱专节 + "Matched ≠ Case-Control" 陷阱专节
+>   - **素材已齐，明天可生成** ✅
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q20435（验证 3 步 SOP 是否内化）
+> - [ ] 默写 Observational Study 4 类对比表（不看笔记）
+> - [ ] 默写 Study Design 3 步判定 SOP
+> - [ ] 明天让 Claude Code 生成 [[完整笔记/专题笔记/USMLE_Study_Design决策树]]
+> - [ ] 下次看到 "diagnosis of X" → 强制问"X 是 exposure 还是 outcome"
+> - [ ] 下次看到 "matched control" → 强制问"按什么分组"
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: Study Design 判定
+> 状态:: 🟡
+> 错因:: 知识
