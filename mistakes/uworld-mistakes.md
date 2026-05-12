@@ -986,3 +986,7 @@
 > - [ ] 默写 **Phase II vs Phase III 边界**
 > - [ ] 在 [[完整笔记/血液肿瘤]] 补 pegfilgrastim / G-CSF 相关笔记
 > - [ ] 找 3 道 Phase 识别题（特别是 Phase II vs III 辨析）
+
+> [!example]- [2026-05-11] Biostats / Internal Validity + Blinding (Q22363)
+> 题目主旨：Blinded raters 对主观量表评估的作用 → 减少 measurement bias → 提升 Internal validity
+> 详见主笔记：[[完整笔记/_衍生_核心基本专题/USMLE临床试验分期#Part 2：临床试验质量评价]]
