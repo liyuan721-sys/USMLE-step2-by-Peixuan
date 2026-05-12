@@ -705,3 +705,101 @@
 > - [ ] 在 [[完整笔记/儿科]] 补 Pompe disease 笔记（婴儿型 GAA 缺陷、酶替代治疗）
 > - [ ] 找 3 道 study design 题（observational vs experimental 辨析）
 > - [ ] **下次刷题习惯：读 stem 先定位 study type**
+
+> [!example]- [2026-05-11] Biostats / Case-Control vs Cohort 场景适配 (Q20283)
+>
+> ## 🎯 Stem 模式
+> "**Rare disease** + **Long latent period** + **Find risk factors**" → **Case-Control 金三角** → 秒选 case-control
+>
+> ## 🔑 核心概念
+> **"Most appropriate" study design = 场景适配**，不是抽象证据等级
+> - **Case-Control** = "侦探破案" — 从已确诊病例倒查暴露
+> - **Cohort** = "盯职业人群" — 找到已暴露的人前瞻跟踪
+> - **两者不是谁更好，是谁更适合**
+>
+> ## 🌟 "最佳" vs "最合适" 原则 ⭐ 今日核心 take-away
+> | 概念 | 含义 | 决策方式 |
+> |---|---|---|
+> | **Best evidence level** | 抽象层级：RCT > Cohort > Case-control | 选金字塔最上层 |
+> | **Most appropriate** ⭐ | **场景适配**：哪个能回答这个问题 | 看疾病特点 + 研究问题 |
+>
+> → 看到 "**most appropriate**" 不要默认选最高等级！要看**场景**
+>
+> ## 📊 "罕见性" 决定 design（核心决策法则）
+> ```
+> 病罕见 (rare disease)   → Case-Control（去医院找病人最快）
+> 暴露罕见 (rare exposure) → Cohort（找暴露人群最快，跟踪他们）
+> 都罕见                   → 难做（nested case-control / registry）
+> 都常见                   → 都能做（看成本/速度）
+> ```
+>
+> ## 🆚 Case-Control vs Cohort 终极对比
+> | 维度 | Case-Control | Cohort（前瞻）|
+> |---|---|---|
+> | **方向** | 结局 → 暴露（反向）| 暴露 → 结局（正向）|
+> | **分组依据** | 按**疾病状态** | 按**暴露状态** |
+> | **指标** | **OR** | **RR / HR** |
+> | **能算 incidence？** | ❌ 不能 | ✅ 能 |
+> | **罕见病** | ✅ **最佳** | ❌ 招不到病人 |
+> | **罕见暴露** | ❌ 招不到暴露者 | ✅ **最佳** |
+> | **长潜伏期** | ✅ **最佳** | ❌ 等不起 |
+> | **多个 risk factors** | ✅ 一次研究多个 | ✅ 可 |
+> | **多个 outcomes** | ❌ 一次研究一个 | ✅ 一次研究多个 |
+> | **Recall bias** | ⚠️ 高 | ✅ 低 |
+> | **时间成本** | 短（数月）| 长（数年-数十年）|
+> | **证据等级** | ⭐⭐ | ⭐⭐⭐ |
+>
+> ## 🏭 Cohort 罕见暴露的来源（重要：cohort 不是"主动暴露"）
+> Cohort 是**观察性研究** — 暴露**已经存在**，研究者**只找到这些人 + 跟踪**：
+> 1. **职业人群**：石棉→船厂工人 / 放射→核电站员工 / 化学品→化工厂
+> 2. **特殊事件**：原爆幸存者 / 灾区居民 / 越战退伍军人（Agent Orange）
+> 3. **登记数据库**：罕见药物使用者 / 罕见手术患者 / 遗传病登记
+>
+> → 如果研究者**主动**给一组人暴露 → 那是 **RCT**，不是 cohort
+>
+> ## ❌ 我为什么错
+> - **选了 D（Cohort study）**
+> - **错因**：① 不知道 Case-Control 在"罕见病/长潜伏期"的独家优势 ② "证据等级最高 = 最合适"的误解（层级 vs 适配混淆）③ 没识别 stem 的双重指纹："rare" + "long latent period"
+> - **核心陷阱**：**"层级 vs 适配"陷阱** — 按抽象证据等级选 Cohort，但 USMLE 问的是 "most appropriate"（场景适配），而罕见病 + 长潜伏期是 **Case-Control 的独家场景**
+>
+> ## 🎴 Memory Hook
+> - **"Rare + Latent + Risk factors = Case-Control 金三角"**
+> - **场景 → 设计映射**：
+>   ```
+>   罕见病 / 长潜伏期 / 多 risk factors → Case-Control 🔍 "侦探破案"
+>   罕见暴露 / 多 outcomes / 算 incidence → Cohort 🏭 "盯职业人群"
+>   ```
+> - **方向口诀**：**"病-暴 vs 暴-病"**
+>   - Case-control：先有**病**，倒查**暴**露
+>   - Cohort：先有**暴**露，等出**病**
+>
+> ## 🔑 USMLE Study Design 题 3 层问法
+> 1. **"What IS the design?"** → 识别（用 stem 指纹）
+> 2. **"Limitation/strength?"** → 评价（从设计本质推）
+> 3. **"MOST APPROPRIATE design?"** ⭐ → 选择（场景适配，不是抽象层级）
+>
+> → 第 3 类题型不能用证据金字塔做！要看场景
+>
+> ## 🤔 我的提问 / 卡点
+> - **Q：为啥 cohort 适合罕见暴露？故意去暴露吗？**
+>   → 学到：**Cohort 是观察性研究，研究者不主动暴露**。罕见暴露的人**已经存在**（如石棉工人、核电站员工），研究者只是**找到他们 + 跟踪**。如果是主动分配暴露 → 那是 **RCT**。修正了"cohort = 主动暴露"的概念混淆
+> - **元层面顿悟**：判断 design 适配性的 2 个问题：① **怎么找到研究对象？**（从暴露端 vs 疾病端）② **需要等多久？**（前瞻 vs 回顾）
+>
+> ## 🔗 关联
+> - [[完整笔记/Biostats_Master#Case-Control vs Cohort 终极对比]]
+> - [[完整笔记/Biostats_Master#Study Design 决策树]]
+> - [[完整笔记/Biostats_Master#最佳 vs 最合适原则]]
+> - [[完整笔记/_衍生_高频陷阱#层级 vs 适配陷阱]]
+> - [[完整笔记/_衍生_高频陷阱#cohort 不等于主动暴露]]
+> - [[完整笔记/_衍生_高频评分_公式#Study Design 场景适配]]
+> - [[完整笔记/外科#头颈部肿瘤]]（Adenoid cystic carcinoma）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 + 默写 Case-Control vs Cohort 终极对比表
+> - [ ] 默写 **"Rare + Latent + Risk factors = Case-Control 金三角"**
+> - [ ] 默写 **"罕见性决定 design" 决策法则**
+> - [ ] 整理 **"最佳 vs 最合适"原则** 到 [[完整笔记/_衍生_高频陷阱]]
+> - [ ] 整理 **"USMLE Study Design 3 层问法"** 到 [[完整笔记/_衍生_高频评分_公式]]
+> - [ ] 在 [[完整笔记/Biostats_Master]] 加 #薄弱点（Case-Control 部分）
+> - [ ] 找 3 道场景适配题练习（rare disease vs rare exposure 辨析）
+> - [ ] **下次刷题主动识别 stem 关键词**：rare / latent / common / multiple outcomes
