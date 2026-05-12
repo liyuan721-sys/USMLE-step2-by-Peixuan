@@ -367,3 +367,79 @@
 > - [ ] 默写"5 大控制 Confounding 方法"
 > - [ ] 区分 Confounding vs Effect Modification
 > - [ ] 加 #薄弱点 #难记 #考前必看 到 [[Biostats_Master#Bias]]
+
+> [!example]- [2026-05-11] Biostats / PPV NPV vs Prevalence (Q21656)
+> 
+> ## 一句话识别
+> 同一检测两组 NPV 不同 → **必定是 prevalence 不同**
+> NPV ↑ → Prevalence ↓ → 无病人比例 ↑
+> 
+> ## 核心规则
+> **PP 同向，NP 反向**
+> - Prevalence ↑ → PPV ↑（正相关）
+> - Prevalence ↑ → NPV ↓（负相关）
+> 
+> ## Prevalence 影响表
+> 
+> | 指标 | 受 prevalence 影响 |
+> |------|------------------|
+> | Sens, Spec, LR+, LR− | ❌ 不受 |
+> | **PPV, NPV** | **✅ 受** |
+> | Accuracy | ✅ 受 |
+> 
+> 口诀：**S 和 L 不受，P 和 N 受**
+> 
+> ## 我为什么错
+> 选了"prevalence A > B" = **方向搞反**
+> NPV 高在 A → A 组无病人多 → prevalence **低**（不是高）
+> **核心陷阱**：NPV 与 prevalence **负相关**，不是正相关
+> 
+> ## 语言陷阱
+> "Prevalence 低" ≡ "无病人比例高"（同一件事，包装不同）
+> 
+> ## 记忆挂钩
+> **"海里捞鱼"**：
+> - 鱼少（低 prevalence）→ 说没鱼基本真没鱼 → NPV ↑
+> - 鱼多（高 prevalence）→ 捞到多半是鱼 → PPV ↑
+> 
+> ## 筛查 vs 确诊（USMLE 核心）⭐
+> 
+> **正确因果链**（注意方向不要倒置）：
+> 
+> | 阶段 | 筛查 | 确诊 |
+> |------|------|------|
+> | 临床目的 | 怕漏诊 (rule OUT) | 怕误诊 (rule IN) |
+> | **设计选择** | **Sens 高** | **Spec 高** |
+> | 应用人群 | 普通人群 | 有症状人群 |
+> | 人群 Prevalence | 低 | 高 |
+> | 应用结果 | NPV 高 | PPV 高 |
+> 
+> **必背口诀**：
+> - **SnNout**: Sens 高 → 阴性 rules **N**egatives **out**
+> - **SpPin**: Spec 高 → 阳性 rules **P**ositives **in**
+> 
+> **关键认知**：
+> - ❌ 错误：选 sens 高是因为 NPV 高
+> - ✅ 正确：选 sens 高是因为**怕漏诊**，NPV 高是副产品
+> 
+> ## Stem 模式速诊
+> 
+> | 关键词 | 反应 |
+> |--------|------|
+> | 同一检测 + 两组 PPV/NPV 不同 | Prevalence 不同 |
+> | NPV 高 | 该组 prevalence 低 |
+> | PPV 高 | 该组 prevalence 高 |
+> | "screening" | Sens 高 + NPV 高 |
+> | "diagnosis/confirm" | Spec 高 + PPV 高 |
+> 
+> ## 关联
+> - [[完整笔记/Biostats_Master#PPV NPV]]
+> - [[完整笔记/Biostats_Master#筛查 vs 确诊]]
+> - [[完整笔记/_衍生_高频陷阱#PPV NPV 方向]]
+> 
+> ## 复盘
+> - [ ] 1 周后重做
+> - [ ] 默写"PP 同向，NP 反向"
+> - [ ] 默写"SnNout / SpPin"
+> - [ ] 区分"选 sens/spec 高的原因 ≠ 因为 NPV/PPV 高"
+> - [ ] 加 #薄弱点 #难记 #考前必看 到 [[Biostats_Master#PPV NPV]]
