@@ -588,3 +588,120 @@
 > - [ ] 给 [[完整笔记/Biostats_Master]] 加 #薄弱点（Study Design 部分）
 > - [ ] 找 3 道 study design 题（Factorial vs Parallel 辨析）
 > - [ ] **刷题时主动数 "randomized" 次数**（养成习惯）
+
+> [!example]- [2026-05-11] Biostats / Case Series 局限性 + 证据等级 (Q20090)
+>
+> ## 🎯 Stem 模式
+> "Single report + 小样本 + 全员接受治疗 + 与历史/published outcomes 比较（**no control group**）" → **Case Series** → 证据等级低 → **不足以推荐治疗**
+>
+> ## 🔑 核心概念
+> **Case Series（病例系列）** = 描述性观察研究，**无对照组**
+> - 只能描述（describe），**不能证明因果（causation）**
+> - **无论样本量多大**，case series 都不足以推荐新疗法
+> - **只有 RCT 才能确立因果关系**
+>
+> ## 🌲 Study Design 决策树（必背）
+> ```
+>                 Study Design 研究设计
+>                         │
+>         ┌───────────────┴───────────────┐
+>    Observational 观察性            Experimental 实验性
+>    (无随机化)                      (有随机化)
+>         │                               │
+>         ├── 描述性 Descriptive          ├── Parallel
+>         │   ├── Case report (n=1)      ├── Cross-over
+>         │   └── Case series (无对照)   ├── Factorial
+>         │                              └── Cluster
+>         ├── 分析性 Analytic
+>         │   ├── Cohort (前瞻/回顾)
+>         │   └── Case-control (回顾)
+>         │
+>         └── Cross-sectional (横断面)
+> ```
+>
+> ## 📊 证据等级金字塔
+> ```
+> Meta-analysis / Systematic review  ⭐⭐⭐⭐⭐
+> RCT                                ⭐⭐⭐⭐
+> Cohort (前瞻 > 回顾)               ⭐⭐⭐
+> Case-control                       ⭐⭐
+> Cross-sectional                    ⭐⭐
+> Case series                        ⭐  ← 本题
+> Case report (n=1)                  ⭐
+> Expert opinion                     ★
+> ```
+>
+> ## 🆚 观察性研究 4 类对比
+> | 类型 | 分组依据 | 时间方向 | 有对照？ |
+> |---|---|---|---|
+> | **Case series** | — | 描述性 | ❌ 无 |
+> | **Cohort** | 按**暴露**分组 | 前瞻/回顾 | ✅ |
+> | **Case-control** | 按**结局**分组 | 回顾 | ✅ |
+> | **Cross-sectional** | 同时测暴露+结局 | "快照" | ✅ |
+>
+> ## ⚠️ Case Series 证据不足的根本原因
+> 1. **没有同期对照组** — 不知道"不治疗"或"标准治疗"会怎样
+> 2. **没有随机化** — 无法控制 confounding
+> 3. **使用历史对照** — 不公平比较（时代、医疗水平、人群差异）
+> 4. **选择方法未知** — selection bias **状态未知**
+>
+> → 这些是**设计层面**的根本缺陷，**不需要假设任何具体情况**（如病情轻重）
+>
+> ## ❌ 我为什么错
+> - **选了 E（No evidence of selection bias）**
+> - **错因**：① 不知道 case series 缺 control group 是设计层面的根本缺陷 ② 把"stem 没提 selection bias"误读为"已排除 selection bias"
+> - **核心陷阱**：**"信息缺失陷阱"** — 把"未知"当成"不存在"
+>
+> ## 🚨 "三不"原则（评价研究质量时）⭐ 今日核心 take-away
+> 1. **不脑补 stem 没说的信息**（不替 stem 编解释）
+> 2. **不混淆"未知"和"无"**（stem 没提 ≠ 已排除）
+> 3. **不用"可能性"代替"证据"**（脑补的可能性不是证据）
+>
+> → 真正能说的：**只看 design 本身有没有缺陷**
+>
+> ## 🔓 USMLE "Bias 状态判断"原则
+> | Stem 情况 | 正确解读 |
+> |---|---|
+> | Stem 没提到某 bias | **未知**，不能说"已排除"或"已存在" |
+> | "Randomly assigned" | **已排除** confounding |
+> | "Double-blind" | **已排除** observer bias |
+> | "High compliance + low attrition" | **已排除** attrition/selection bias |
+>
+> **规则**：只能排除**stem 明确说"已控制"的 bias**
+>
+> ## 🎴 Memory Hook
+> - **"看到 case series（无对照），永远选'证据不足'"** — 不管结果多好、样本多大
+> - **Case Series = "故事会"** 📖 → 没说"另外没吃药的怎么样" → **没对照**
+> - **RCT = "公平擂台"** 🥊 → 掷硬币分组 → **只有擂台能定胜负**
+> - **口诀**："实验最强，对照次之，描述最弱"
+>
+> ## ⚠️ 干扰项三大陷阱（普适）
+> 1. **"样本量万能论"**：以为放大样本就能解决一切 — 但观察性研究的局限是**设计层面**的（A 的陷阱）
+> 2. **"层级倒置"**：把观察性研究排在 RCT 之上 — **RCT > Cohort > Case-control > Cross-sec > Case series**（B 的陷阱）
+> 3. **"预设结论"**：把"应该做 RCT"和"RCT 一定显示有效"混为一谈 — RCT 是**验证工具**，不是预言机（C 的陷阱）
+>
+> ## 🤔 我的提问 / 卡点
+> - **Q：题目哪里说是轻症了？**
+>   → 学到：**Stem 完全没说**病情轻重 — 我之前脑补了。**Stem 没说 = 状态未知**，不能用"可能是轻症"作为证据。这正好印证 E 选项的陷阱（"未提及 ≠ 不存在"），强化了"三不原则"
+> - **元层面顿悟**：评价研究质量时，**只看 design 本身**，不脑补 stem 没说的信息
+>
+> ## 🔗 关联
+> - [[完整笔记/Biostats_Master#Study Design 决策树]]
+> - [[完整笔记/Biostats_Master#证据等级金字塔]]
+> - [[完整笔记/Biostats_Master#Case Series vs Cohort vs RCT]]
+> - [[完整笔记/Biostats_Master#观察性 vs 实验性研究]]
+> - [[完整笔记/_衍生_高频陷阱#未提及不等于不存在]]
+> - [[完整笔记/_衍生_高频陷阱#样本量万能论]]
+> - [[完整笔记/儿科#Pompe 病]]
+> - [[完整笔记/_衍生_核心疾病专题#Lysosomal storage disease]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 + 默写 Study Design 决策树
+> - [ ] 默写 **证据等级金字塔**
+> - [ ] 默写 **观察性研究 4 类对比表**（分组依据 / 时间方向 / 有无对照）
+> - [ ] 整理"**三不原则**"到 [[完整笔记/_衍生_高频陷阱]]
+> - [ ] 整理"**Bias 状态判断原则**"到 [[完整笔记/_衍生_高频陷阱]]
+> - [ ] 给 [[完整笔记/Biostats_Master]] 加 #薄弱点（Study Design 部分）
+> - [ ] 在 [[完整笔记/儿科]] 补 Pompe disease 笔记（婴儿型 GAA 缺陷、酶替代治疗）
+> - [ ] 找 3 道 study design 题（observational vs experimental 辨析）
+> - [ ] **下次刷题习惯：读 stem 先定位 study type**
