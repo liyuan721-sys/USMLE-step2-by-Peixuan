@@ -803,3 +803,110 @@
 > - [ ] 在 [[完整笔记/Biostats_Master]] 加 #薄弱点（Case-Control 部分）
 > - [ ] 找 3 道场景适配题练习（rare disease vs rare exposure 辨析）
 > - [ ] **下次刷题主动识别 stem 关键词**：rare / latent / common / multiple outcomes
+
+> [!example]- [2026-05-11] Biostats / 广告题双题：复合终点 + NNT (Q7708 + Q7709, Efrenzia)
+>
+> ## 🎯 Stem 模式
+> **Q7708（Item 1）**："Based on drug ad, ... decrease which event?" → **找驱动复合终点差异的 outcome**（其他 outcomes 通常无显著差异）
+> **Q7709（Item 2）**："Need to treat ... to prevent 1 ..." + **亚组限定** → **NNT = 1 / ARR**（用对应亚组的 ARR）
+>
+> ## 🔑 核心概念
+>
+> ### 概念 1：Composite Endpoint（复合终点）拆解
+> - **复合终点** = 多个 outcome 打包（如 CV death + MI + stroke）
+> - **总差异常由单个 outcome 驱动**，其他 outcomes 可能无显著差异
+> - **必须拆开看 individual components**，特别是 mortality 和 safety
+>
+> ### 概念 2：NNT 计算
+> - **NNT = 1 / ARR**（不是 1/RRR！）
+> - **必须用 stem 限定亚组的 ARR**
+> - NNT 越小药越有效
+>
+> ## 📋 广告题 5 步 SOP（见 [[USMLE广告题解题策略]]）
+> ```
+> Step 1: 识别 composite endpoint
+> Step 2: 看 RRR vs ARR 差异（戏剧化陷阱）
+> Step 3: 找哪个 outcome 真正驱动差异
+> Step 4: 查 safety data（藏在小字 / 末页）
+> Step 5: 区分广告说的 vs 题目问的
+> ```
+>
+> ## ⚠️ 广告题 5 大陷阱
+> 1. **RRR 夸大效益**（大字 RRR vs 小字 ARR）
+> 2. **Composite endpoint 掩盖真相**（单一驱动 / 反方向信号）
+> 3. **Safety 藏在小字**（bleeding 等副作用）
+> 4. **"Treatment of choice" 是营销语**
+> 5. **Subgroup analysis 过度解读**
+>
+> ## 📊 复合终点 3 种情况
+> | 情况 | 特征 | 解读 |
+> |---|---|---|
+> | **A 均匀贡献** | 各 outcome 都显著降低 | 真正全面效益（最强证据）|
+> | **B 单一驱动** ⬅ Efrenzia | 只 1 个 outcome 显著，其他无差 | 警惕：药只防 X，不防 Y |
+> | **C 相反信号** | 1 个降低、1 个增加，复合"无差" | 危险：药害被掩盖 |
+>
+> ## 🆚 Hard vs Soft Outcomes
+> - **Hard**：Death, MI, Stroke（客观、临床重要）
+> - **Soft**：Hospitalization, Revascularization, Symptom relief（主观、临床意义低）
+> - **All-cause mortality 是最硬的硬终点** — 若无差异，药效需打折扣
+>
+> ## 🧮 NNT 速查 + 临床解读
+> | NNT | 临床意义 |
+> |---|---|
+> | 1-10 | 极有效 |
+> | 10-25 | 不错（Efrenzia UA/NSTEMI+DM 在这）|
+> | 25-50 | 一般 |
+> | 50-100 | 边际效益 |
+> | >100 | 临床意义低 |
+>
+> ## 🚫 NNT 计算两大陷阱
+> 1. **NNT = 1/RRR 错记**（应为 1/ARR）— 易导致严重低估治疗成本
+> 2. **亚组错位**：忽略 stem 双重限定（如"with diabetes" + "UA/NSTEMI"）
+>
+> ## 🎴 Memory Hook
+> - **"打包数字看着大，拆开才知真相在哪一只"** 📦
+> - **"RRR 大字骗眼睛，ARR 小字才真心"**
+> - **"NNT 必用 ARR，亚组限定双 check"**
+> - **NNT 救人 KPI**：数字越小，"救人效率"越高
+>
+> ## 📍 6 个问题 framework（看 composite endpoint RCT 必问）
+> 1. 复合包含哪些 outcomes？
+> 2. Hard outcomes 还是 soft outcomes 为主？
+> 3. 总效果显著吗？
+> 4. 各 component 单独看谁显著？⭐
+> 5. Mortality 有无差异？
+> 6. 有反方向信号吗？
+>
+> ## ❌ Q7708 / Q7709 我都做对了 ✅
+> **关键验证**：
+> - Q7708：确认是看了广告第 3 页 "primarily due to MI" 这句吗？还是凭感觉选的？
+> - Q7709：第一反应是 NNT = 1/ARR 还是 1/RRR？（如果是 1/RRR → 危险信号）
+>
+> **未来可能踩坑**：
+> - 复合终点的"反方向信号"题（情况 C）
+> - Forest plot 识别哪个 component 显著
+> - "What is misleading about this ad?" 批判性问法
+>
+> ## 🤔 我的提问 / 卡点
+> - **Q：复合终点的差异只能归因于某个 outcome 是什么意思？**
+>   → 学到：总差异 = 各 component 差异之和；如果其他 components 不显著，总差异就**完全来自**那个显著的 component（如 Efrenzia 只防 MI，不防 stroke / death）
+> - **元层面顿悟**：广告永远用"打包数字"，临床医生要会"拆包"看真相；这是 Critical Appraisal 的核心
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#Q107183]] RRR 计算（亚组限定 + 分母法则）
+>   - [[mistakes/uworld-mistakes#Q20057]] ARR 反推样本量（早上）
+>   - [[mistakes/uworld-mistakes#Q20430]] ARP 阳性归因比（早上）
+> - 📚 主笔记：[[完整笔记/Biostats_Master]] / [[USMLE广告题解题策略]]
+> - 🏥 跨学科：[[完整笔记/心内]]（ACS / NSTEMI / 抗血小板药 — Efrenzia 类似 ticagrelor，新型 P2Y12 抑制剂）
+> - 🌱 TODO（待生成衍生）：Biostats 章节复习完后，请 Claude Code 整合所有"广告/摘要解读"类错题 → 扩充 [[USMLE广告题解题策略]]
+> - 🌱 TODO（待生成衍生）：整合"亚组限定 + 数据筛选"类错题（Q7709 + Q107183 + Q7688 + 未来）→ 生成 [[完整笔记/_衍生_高频陷阱/Biostats 读题 SOP — 亚组限定与数据定位]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 + 默写广告题 5 步 SOP + 5 大陷阱
+> - [ ] 默写 **复合终点 3 种情况**（均匀 / 单一驱动 / 相反信号）
+> - [ ] 默写 **NNT = 1/ARR**（强化区分 RRR）
+> - [ ] 默写 **6 个问题 framework**
+> - [ ] 找 3 道 NBME 广告题练习
+> - [ ] 在 [[完整笔记/心内]] 补 ACS 抗血小板药对比（clopidogrel / ticagrelor / prasugrel）
+> - [ ] **下次广告题主动按 SOP 走，不被大字数字忽悠**
