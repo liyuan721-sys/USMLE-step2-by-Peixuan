@@ -240,6 +240,28 @@ AUC = 整个 ROC 曲线下的面积，不依赖任何特定 cutoff：
 - 反映**所有可能 cutoff** 下的综合表现
 - 数值在 0.5-1.0
 
+```
+       y = Sensitivity (TPR)
+       
+   1.0 |  *(0,1) 完美点                    *E (0.9, 1.0)
+       |   ←最佳目标
+   0.9 |          *C (0.2, 0.9)   *D (0.4, 0.9)
+       |          ^^^ BEST
+   0.7 |     *B (0.2, 0.7)
+       |
+   0.5 |                  . . .
+       |              . . .
+   0.3 |*A (0.0, 0.3)
+       |          . . .
+   0.0 +-----.-.-.------------------------- x = 1-Specificity (FPR)
+       0.0   0.2   0.4   0.6   0.8   1.0
+
+   说明：
+   - 对角线 (. . .) = 随机猜测 (AUC = 0.5)
+   - 完美点 (0, 1) = 左上角：100% 敏感 + 0% 误伤
+   - 最佳 cutoff = 距离左上角最近的点
+```
+
 **AUC(曲线下面积)解读:**
 
 | AUC 范围 | 诊断价值 |
@@ -249,6 +271,27 @@ AUC = 整个 ROC 曲线下的面积，不依赖任何特定 cutoff：
 | 0.7 – 0.9 | 中等 |
 | **> 0.9** | 极高 |
 | **= 1.0** | 完美(现实不存在) |
+
+### High-Yield Summary Table — ROC 速查
+
+#### 关键概念
+
+| 术语      | 全称                  | 含义   | 同义词                 | y/x 轴     |
+| ------- | ------------------- | ---- | ------------------- | --------- |
+| **TPR** | True Positive Rate  | 真阳性率 | **Sensitivity**     | y 轴       |
+| **FPR** | False Positive Rate | 假阳性率 | **1 - Specificity** | x 轴       |
+| **TNR** | True Negative Rate  | 真阴性率 | **Specificity**     | (1 - x 轴) |
+| **FNR** | False Negative Rate | 假阴性率 | **1 - Sensitivity** | (1 - y 轴) |
+
+#### Cutoff 调整的临床权衡
+
+| 临床情境                                           | 偏好                | 选择策略                        |
+| ---------------------------------------------- | ----------------- | --------------------------- |
+| **致死、可治、需要早抓**（HIV、败血症、心梗、self-harm screening） | 高 **Sensitivity** | 选 ROC **右上角**附近的点（多抓不漏）     |
+| **侵入性确诊试验、误诊代价大**（活检、化疗、手术）                    | 高 **Specificity** | 选 ROC **左下角**附近的点（宁可错过不可错杀） |
+| **筛查 → 确诊 两阶段**                                | 先高 Sens，再高 Spec   | 筛查用敏感切点，确诊用特异切点             |
+| **"最佳诊断准确度"题**                                 | 平衡                | 选**最靠近左上角**的点 ⭐             |
+[!success] 一句话锁定 **ROC 选最佳 = "瞄左上角 (0,1)，最近的就是答案"**
 
 ## 📊 AUC vs Accuracy（容易混）
 
@@ -643,9 +686,23 @@ RR < 1：暴露/治疗组**减少**风险（保护）
 | **2** | **有效性 + 副作用**                    | 患者(几百)       |
 | **3** | **与现行标准对比**(关键 RCT)              | 大量患者(几千)     |
 | **4** | **上市后监测**(real-world、依从性、罕见 ADR) | 广泛人群         |
-s
+
 > **研究伦理 / 知情同意 / IRB 详见 [[Ethics_Master#十四研究伦理-irb--efic]]**(任何 phase 都需先有 IRB 批准)
 
+#### Study Design 决定术语 ⭐tag: #薄弱点
+
+|Study Design|可用测量|不能用|
+|---|---|---|
+|**RCT / Cohort**|RR (Relative Risk), Risk, Incidence|OR 也可，但首选 RR|
+|**Case-control**|OR (Odds Ratio)|❌ 不能算 RR / Incidence|
+|**Cross-sectional**|Prevalence, POR (prevalence OR)|❌ 不能算 RR / Incidence / "Risk"|
+[!tip] 一刀切原则 
+写 null hypothesis / 描述结果时，**用 "association" 永远是安全的**（任何 design 都适用）。
+看到 "risk" "incidence" → 必须 cohort/RCT；
+看到 "OR" → 多半 case-control；
+看到 "prevalence" → cross-sectional
+
+|**任何设计**|Association（最中性、最通用）|—|
 ---
 
 ## 六、Hill 因果判定标准(Hill's Criteria) ⭐独有
