@@ -990,3 +990,276 @@
 > [!example]- [2026-05-11] Biostats / Internal Validity + Blinding (Q22363)
 > 题目主旨：Blinded raters 对主观量表评估的作用 → 减少 measurement bias → 提升 Internal validity
 > 详见主笔记：[[完整笔记/专题笔记/USMLE临床试验分期#Part 2：临床试验质量评价]]
+
+## 2026-05-12
+
+> [!example]- [2026-05-12] Biostats / ROC 最佳 cutoff (Q107800)
+> 
+> ## Stem 模式
+> 给 ROC 曲线图 + 标注几个 cut point（A-E）+ 每个点的 (TPR, FPR) 坐标 → 问 "best diagnostic accuracy" 是哪个。
+> 通常会**故意放两个极端陷阱**：
+> - 一个点 FPR = 0% 但 TPR 很低（看起来"零误伤"）
+> - 一个点 TPR = 100% 但 FPR 极高（看起来"全抓住"）
+> 
+> ## 核心概念
+> 
+> **ROC = Receiver Operating Characteristic curve**
+> - y 轴 = **Sensitivity (TPR)** = 真阳性率
+> - x 轴 = **1 - Specificity (FPR)** = 假阳性率
+> 
+> **最佳 cutoff = 距离左上角 (0, 1) 最近的点** = TPR 高 + FPR 低 的最优平衡。
+> 
+> ## 普适规则
+> 
+> ### ROC 几何示意
+> 
+> ```
+>        y = Sensitivity (TPR)
+>        
+>    1.0 |  *(0,1) 完美点                    
+>        |   <-- 最佳目标
+>    0.9 |          *⭐ BEST 点      
+>        |          (左上角附近)
+>    0.7 |     
+>        |
+>    0.5 |                  . . .  
+>        |              . . .
+>    0.3 |                              <-- 太保守区
+>        |          . . .
+>    0.0 +-----.-.-.------------------------- x = 1-Specificity (FPR)
+>        0.0   0.2   0.4   0.6   0.8   1.0
+> 
+>    . . . 对角线 = 随机猜测 (AUC = 0.5，无诊断价值)
+>    完美点 (0, 1) = 100% 敏感 + 0% 误伤（现实不存在）
+> ```
+> 
+> ### 4 个关键位置
+> 
+> | 位置 | 含义 | 临床解读 |
+> |---|---|---|
+> | **(0, 1) 左上角** | TPR=100%, FPR=0% | 完美试验目标 |
+> | **(0, 0) 左下角** | 全判阴性 | cutoff 极高，谁都不诊断 |
+> | **(1, 1) 右上角** | 全判阳性 | cutoff 极低，全民确诊 |
+> | **对角线** | 随机猜测 | AUC = 0.5，无价值 |
+> 
+> ### Cutoff 移动的影响
+> 
+> - **Cutoff ↑**（更严）→ TPR ↓ + FPR ↓ → 点向左下移
+> - **Cutoff ↓**（更松）→ TPR ↑ + FPR ↑ → 点向右上移
+> - 不可能同时让 TPR ↑ 又 FPR ↓（除非换更好的试验）
+> 
+> ### 做题 SOP（4 步）
+> 
+> 1. **认轴**：y = Sensitivity (TPR)；x = 1 - Specificity (FPR)
+> 2. **找左上**：哪个点最靠近 (0, 1)？
+> 3. **比邻近点**：
+>    - TPR 相同时，选 FPR 更低的
+>    - FPR 相同时，选 TPR 更高的
+> 4. **排极端**：FPR = 0% 的点（漏诊多）和 TPR = 100% 的点（误诊多）通常都不是答案
+> 
+> ### AUC（曲线下面积）解读
+> 
+> | AUC | 评价 |
+> |---|---|
+> | 0.5 | 等于扔硬币（对角线） |
+> | 0.7 - 0.8 | 中等 |
+> | 0.8 - 0.9 | 良好 |
+> | 0.9+ | 优秀 |
+> | 1.0 | 完美（曲线完全贴左上） |
+> 
+> ## 易混陷阱（普适）
+> 
+> ### 两端极端陷阱
+> 
+> | 陷阱类型 | 表面诱惑 | 真实问题 |
+> |---|---|---|
+> | **A 型**（FPR = 0%, TPR 低）| "零误伤" | 漏诊大量真病人，临床灾难 |
+> | **E 型**（TPR = 100%, FPR 高）| "全抓住" | 误诊大量健康人，全民假阳性 |
+> 
+> USMLE **永远在测试你能否拒绝极端，选择平衡点**。
+> 
+> ### 临床偏好调整（不同情境选不同 cutoff）
+> 
+> | 临床情境 | 偏好 | 选 ROC 上的位置 |
+> |---|---|---|
+> | 致死可治、需早抓（HIV / 败血症 / MI）| 高 Sensitivity | 偏右上（多抓不漏） |
+> | 侵入性确诊、误诊代价大（活检 / 化疗 / 手术）| 高 Specificity | 偏左下（宁可错过） |
+> | 筛查 → 确诊 两阶段 | 先 Sens 后 Spec | 筛查右上，确诊左下 |
+> | "best diagnostic accuracy" 题 ⭐ | 平衡 | 左上角附近 |
+> 
+> ## 我为什么错
+> 
+> 选了 **A (77 ng/mL, TPR=30%, FPR=0%)**。
+> 
+> - **概念混淆**：把"最佳 cutoff"等同于"最低 FPR"。最佳 ≠ 单一指标极致，而是两个指标的最优平衡
+> - **没建立几何直觉**：没意识到"最佳 = 最靠近左上角"。建立这个直觉后看图秒选
+> - **临床思维缺失**：TPR = 30% 在肾上腺功能不全诊断里是灾难（漏掉 70% 真病人 → adrenal crisis 死亡风险）。FPR = 0% 对应"我只敢确诊百分百肯定的"——临床上毫无用处
+> 
+> **核心陷阱**：A 选项的设计就是用"看起来完美的 0% FPR"诱骗考生忽略 TPR。
+> 
+> ## Memory Hook
+> 
+> **ROC 选最佳 = "瞄左上角 (0, 1)，最近的就是答案"**
+> 
+> 类比：ROC 像爬山，**左上角是山顶**（完美），所有点都在通往山顶的不同路径上。最佳 cutoff = **离山顶直线距离最近的营地**。
+> 
+> 口诀：**"敏特相搏，左上为王"**（Sensitivity 和 Specificity 互相博弈，最佳点在左上角）
+> 
+> 极端两端都是坑：FPR=0% 漏诊多，TPR=100% 误诊多 — 都不是答案。
+> 
+> ## 🤔 我的提问 / 卡点
+> 
+> - **Q: ROC 图怎么找最佳点？**
+>   → 不是算公式，是**几何直觉**——找距离 (0,1) 最近的点。本题 C(0.2, 0.9) 显然比 B(0.2, 0.7) 高、比 D(0.4, 0.9) 左、比 E(0.9, 1.0) 左很多。
+> 
+> - **Q: 笔记格式怎么处理 ASCII 图？**
+>   → 只用半角字符（`|` `-` `*` `+`），避免全角（`┤` `●` `┘`）混排错位；必须包在 ` ``` ` 代码块里；Obsidian 友好替代方案 = 坐标表 + 文字描述。
+> 
+> ## 🔗 关联
+> 
+> - 🔁 同主题错题：
+>   - 首题，等后续 ROC / AUC 题积累
+>   - 广义"敏感性/特异性"族：如有 Q5589 等 6 指标题
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/Biostats_Master]]
+>   - [[完整笔记/专题笔记/Biostats_6指标决策树_纯净版]]（ROC 是 Sens/Spec 的图形扩展）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/endocrine]]（临床背景：肾上腺功能不全 ITT vs GST 诊断切点 —— 内分泌可能直接考 ITT/GST 流程，但本题考的是 Biostats）
+> - 🌱 TODO（待生成衍生）：
+>   - 等积累 2-3 道 ROC 题后，请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_ROC曲线判读]] 或并入 [[完整笔记/专题笔记/Biostats_6指标决策树_纯净版]] 作为图形章节
+>   - 同时可作为未来 [[完整笔记/专题笔记/USMLE_Study_Design决策树]]（诊断试验评估章节）的素材
+> 
+> ## ✅ 复盘行动
+> 
+> - [ ] 1 周后重做 Q107800
+> - [ ] 默写 ROC 两轴定义（y = TPR = Sens；x = FPR = 1 - Spec）
+> - [ ] 默写"最佳 cutoff = 最靠近左上角"规则
+> - [ ] 找 2-3 道类似 ROC 题练习（UWorld 搜 "ROC" / "receiver operating"）
+> - [ ] 关键习惯：看到诊断试验题，先问"这是 2x2 表问题（PPV/NPV）还是 ROC 问题（cutoff）"
+> - [ ] 进阶：学习 AUC（曲线下面积）的解读，也是高频考点
+
+> [!example]- [2026-05-12] Biostats / Reporting bias (Q12685)
+> 
+> ## Stem 模式
+> 同人群、当面 vs 匿名两次调查 → 结果不同。话题自带社会污名（含糖饮料、肥胖、酒精、毒品、性、家暴、体重）。Stem 主动写明"response rate and demographics comparable"——出题人在喊话："Ascertainment / Nonresponse 不是答案。"
+> 
+> ## 核心概念
+> **Reporting bias** = 受访者因社会压力 **故意** 改答案（少报/多报暴露）。
+> 属于 **Measurement bias（测量层面）**，不是 selection bias。
+> 
+> ## 普适规则
+> 
+> ### 5 大 selection bias（"挑人有问题"）
+> 
+> | Bias | Stem 关键词 | 一刀切口诀 |
+> |---|---|---|
+> | **Ascertainment** | convenience sample / 非随机抽样 | 撒网地方不对 |
+> | **Nonresponse** | response rate 30% | 不上钩 |
+> | **Berkson** | hospital-based controls | 在医院找对照 |
+> | **Neyman** | rapidly fatal / 暴露长期前 | 早死早愈漏网 |
+> | **Attrition** | X% lost to follow-up | 上钩又跑了 |
+> 
+> ### 4 大 measurement bias（"测人有问题"）
+> 
+> | Bias | Stem 关键词 | 一刀切口诀 |
+> |---|---|---|
+> | **Recall** | "asked to recall" + 暴露很久前 | 想不起来（脑子） |
+> | **Reporting** ⭐ | anonymous vs in-person / 污名话题 | 不想说（嘴） |
+> | **Observer** | not blinded / 主观评分 | 研究者手抖 |
+> | **Surveillance** | monitored more closely | 查得多就发现得多 |
+> 
+> ### 做题 SOP（3 步定位）
+> 
+> 1. 看 stem **主动排除**了什么？（"response rate comparable" → 直接划掉 selection bias）
+> 2. 问题出在"挑人"还是"测人"？
+>    - 挑人 → Selection 5 选 1
+>    - 测人 → Measurement 4 选 1
+> 3. 找最具体的"暗号词" → 90% 题里都有一个明确指向
+> 
+> ## 易混陷阱（普适）
+> 
+> ### Recall vs Reporting ⭐ 最高频混淆
+> 
+> | 维度 | Recall | Reporting |
+> |---|---|---|
+> | 本质 | 想不起来（记忆问题） | 不想说（社会压力） |
+> | 是否故意 | ❌ 不故意 | ✅ 故意 |
+> | 触发词 | "asked to recall" + 暴露很久前 | anonymous vs in-person / 污名话题 |
+> | 典型场景 | 畸形婴儿妈妈回忆孕期用药 | 含糖饮料/酒精/毒品/体重自报 |
+> | 典型 design | Case-control (retrospective) | 任何设计都可能 |
+> 
+> **口诀**：想不起来 = Recall（脑子）；不想说 = Reporting（嘴）
+> 
+> ### Berkson vs Neyman
+> 
+> | 维度 | Berkson | Neyman |
+> |---|---|---|
+> | 出问题的组 | **对照组**（住院对照不健康） | **病例组**（致死病的病例漏掉） |
+> | 触发词 | "controls from hospitalized" | "rapidly fatal" / "long latency" |
+> | 经典例子 | 咖啡-胰腺癌（消化溃疡当对照） | 雪铲-MI（猝死者不进医院） |
+> 
+> **口诀**：住院对照 = Berkson；病例没机会进研究 = Neyman
+> 
+> ### RCT ≠ 万能
+> 
+> | 偏倚 | RCT 能消除吗 |
+> |---|---|
+> | Confounding | ✅ 能（随机化核心作用） |
+> | Selection（招募阶段） | ⚠️ 部分能 |
+> | Recall / Reporting | ❌ 不能（测量层面） |
+> | Observer | ⚠️ 要靠 blinding |
+> | Surveillance | ⚠️ 要靠协议规定相同监测频率 |
+> 
+> Randomization 只解决"分组前"差异，测量过程 bias 要靠 blinding + 标准化操作。
+> 
+> ## 我为什么错
+> 
+> 选了 **A. Ascertainment bias**。
+> 
+> - **没看清 stem 暗号**："response rate and demographics comparable" 这句话就是出题人主动给你排除 Ascertainment / Nonresponse 的提示，看到这句话 A 和 D 必须立刻划掉
+> - **概念混淆**：把"两次结果不同 → 偏倚"等同于"选择偏倚"。其实 bias 大类分两支 —— Selection（谁进入）vs Measurement（怎么测出来）。本题是测量层面
+> - **忽略社会污名信号**：含糖饮料 + 肥胖 = USMLE 在喊"Reporting bias"
+> 
+> ## Memory Hook
+> 
+> **"当面不敢说，匿名才说真" = Reporting bias**
+> 
+> 类比：**警察问酒驾** vs **匿名问酒驾** — 两次答案不同就是 Reporting。
+> 
+> USMLE 偏爱的"reporting 触发组合"：含糖饮料 / 酒精 / 毒品 / 性行为 / 家暴 / 体重 / BMI。
+> 
+> ## 🤔 我的提问 / 卡点
+> 
+> - **Q: 不明白 ascertainment 什么意思？**
+>   → Ascertainment = "确认/查明"研究对象时的偏倚 = 抽样偏倚（sampling bias）。本质：撒网的地方不对，捞上来的鱼不能代表整个海。Stem 触发词：convenience sample / 单一诊所招募 / sample ≠ target population。
+>   → **本题选 A 错的根本原因**：没读到 stem 那句"sample comparable"的暗号。
+> 
+> - **Q: Berkson 是找的对照太重是吗？**
+>   → 直觉对，但要精确：Berkson 是用"住院病人"做对照 → 对照组本身就不健康/已有暴露 → 病例-对照差异被稀释/扭曲。
+>   → 是 ascertainment 的一种特殊形式（父子关系），但 USMLE 当并列选项考。看到 "hospital-based controls" 闭眼选 Berkson。
+> 
+> - **Q: Neyman 怎么理解？**
+>   → "暴露太早，研究太晚 — 早死的和早愈的都不在了"。研究池里只剩"中等病程"患者，不代表所有发病者。
+>   → 经典：雪铲-MI（猝死者直接死在自家院子里，没机会被研究）/ 重度饮酒-食管癌（重度饮酒者先死于其他原因）。
+>   → 触发词：rapidly fatal / long latency / exposure long before assessment。
+> 
+> ## 🔗 关联
+> 
+> - 🔁 同主题错题：
+>   - Q12684 (Item 1 同 vignette) — Observational study identification（做对了，但同一 stem 两个考点 = 高频考法）
+>   - [[mistakes/uworld-mistakes#Q3941]] Bias 鉴别题（如已建）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/Biostats_Master]]
+>   - [[完整笔记/专题笔记/_衍生_高频陷阱]]
+> - 🏥 跨学科：无（纯 Biostats）
+> - 🌱 TODO（待生成衍生）：
+>   - 等 Biostats 章节复习完，请 Claude Code 整合 Bias 系列错题（Q12685 + Q3941 + Q20090 + 后续）→ 生成 [[完整笔记/专题笔记/_衍生_USMLE_Bias_5大鉴别]]，骨架：Selection (5) vs Measurement (4) 两大类对比 + Stem 触发词速查 + 经典错题引用
+>   - 已有草稿（见今日产出 `2026-05-12_Bias主笔记草稿_v1.md`）可直接作为雏形
+> 
+> ## ✅ 复盘行动
+> 
+> - [ ] 1 周后重做 Q12684 + Q12685 整套 vignette
+> - [ ] 默写 5 大 selection bias + 4 大 measurement bias 触发词（不看答案）
+> - [ ] 默写 "Recall vs Reporting" 一刀切区分
+> - [ ] 找 3 道类似 Reporting bias 题（UWorld 搜 "anonymous" / "self-reported"）
+> - [ ] 关键习惯：以后做 bias 题先看 stem 有没有"主动排除某些 bias 的暗号"
