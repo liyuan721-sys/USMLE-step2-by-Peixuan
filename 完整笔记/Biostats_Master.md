@@ -479,16 +479,71 @@ RR < 1：暴露/治疗组**减少**风险（保护）
 
 ## 五、研究设计(6+2 种,必须秒认)
 
-| 设计 | 一句话识别 | 报告指标 | 优点 | 缺点 |
-|---|---|---|---|---|
-| **Cross-sectional** | "在某时点同时测暴露和疾病" | Prevalence | 快、便宜 | 无因果 |
-| **Case-control** | "已有病的 vs 没病的,回头查暴露" | **OR** | 适合**罕见病** | Recall bias |
-| **Cohort(prospective)** | "暴露 vs 不暴露,往前追踪" | **RR、Incidence** | 可推因果 | 慢、贵 |
-| **Cohort(retrospective)** | "用既往记录追踪" | RR | 较快 | 数据质量差 |
-| **RCT** | "随机分组干预" | RR、ARR、NNT | **最高证据等级** | 贵、伦理限制 |
-| **Crossover trial** | "受试者先 A 后 B,自己做自己对照" | 同 RCT | 控制个体差异 | **残留效应(carry-over)** |
-| **Meta-analysis** | "汇总多个研究" | 综合 RR/OR | **增加 power、缩窄 CI** | 各研究异质性、发表偏倚 |
-| **Case series / report** | "几例描述" | 无 | 发现新病 | 无对照,不能推因果 |
+| 设计                        | 一句话识别                | 报告指标             | 优点                 | 缺点                   |
+| ------------------------- | -------------------- | ---------------- | ------------------ | -------------------- |
+| **Cross-sectional**       | "在某时点同时测暴露和疾病"       | Prevalence       | 快、便宜               | 无因果                  |
+| **Case-control**          | "已有病的 vs 没病的,回头查暴露"  | **OR**           | 适合**罕见病**          | Recall bias          |
+| **Cohort(prospective)**   | "暴露 vs 不暴露,往前追踪"     | **RR、Incidence** | 可推因果               | 慢、贵                  |
+| **Cohort(retrospective)** | "用既往记录追踪"            | RR               | 较快                 | 数据质量差                |
+| **RCT**                   | "随机分组干预"             | RR、ARR、NNT       | **最高证据等级**         | 贵、伦理限制               |
+| **Crossover trial**       | "受试者先 A 后 B,自己做自己对照" | 同 RCT            | 控制个体差异             | **残留效应(carry-over)** |
+| **Meta-analysis**         | "汇总多个研究"             | 综合 RR/OR         | **增加 power、缩窄 CI** | 各研究异质性、发表偏倚          |
+| **Case series / report**  | "几例描述"               | 无                | 发现新病               | 无对照,不能推因果            |
+
+### Study Design 7 大类型 ⭐⭐
+
+| 类型                                    | 实验/观察       | 有对照？    | 时间方向 | 核心特征                  | 证据等级  |
+| ------------------------------------- | ----------- | ------- | ---- | --------------------- | ----- |
+| **Systematic review / Meta-analysis** | 综合          | —       | —    | 汇总多个 RCT              | ⭐⭐⭐⭐⭐ |
+| **RCT**                               | 实验性         | ✅ 同期    | 前瞻   | **随机化**消除 confounding | ⭐⭐⭐⭐  |
+| **Cohort（前瞻）**                        | 观察性         | ✅ 同期    | 前瞻   | 按**暴露**分组，等 outcome   | ⭐⭐⭐   |
+| **Cohort（回顾）**                        | 观察性         | ✅       | 回顾   | 用旧档案查暴露和 outcome      | ⭐⭐⭐   |
+| **Case-control**                      | 观察性         | ✅       | 回顾   | 按**结局**分组，查暴露         | ⭐⭐    |
+| **Cross-sectional**                   | 观察性         | ✅ 同时    | 同时   | "快照" — 同时测暴露+结局       | ⭐⭐    |
+| **Case series ⬅️**                    | 观察性 **描述性** | ❌ **无** | —    | 描述一群病人 + outcome      | ⭐     |
+| **Case report**                       | 观察性 描述性     | ❌       | —    | 描述 **1 个**罕见病人        | ⭐     |
+| **Expert opinion**                    | —           | —       | —    | 个人意见，无数据              | ★     |
+
+> [!info]+ Study Design 研究设计决策树（v1 标准版）
+> ```
+>                         研究设计 Study Design
+>                               │
+>               ┌───────────────┴───────────────┐
+>               │                               │
+>        观察性 Observational            实验性 Experimental
+>        (研究者不控制干预)               (研究者控制并随机分配干预)
+>               │                               │
+>    ┌──────────┼──────────┐                    │
+>    │          │          │                    │
+> 描述性       分析性     横断面              4 类 RCT
+> Descriptive Analytic   Cross-               │
+>    │          │       sectional             ├── Parallel-group
+>    │          │          │                  ├── Cross-over
+>    ├─ Case    ├─ Cohort  └─ "快照"          ├── Factorial ⭐
+>    │  report  │  (前瞻/回顾)                 └── Cluster
+>    │  (n=1)   │
+>    │          └─ Case-control
+>    └─ Case      (回顾性)
+>       series
+>       (一群人，
+>        无对照)
+> ```
+
+研究设计 = 观察 vs 实验
+
+观察性 (Observational)：
+  描述：Case report (1人) / Case series (一群,无对照)
+  分析：Cohort (按暴露) / Case-control (按结局)
+  快照：Cross-sectional
+
+实验性 (Experimental) — 4 类 RCT：
+  Parallel    │ 1 变量，同期
+  Cross-over  │ 同一人前后换
+  Factorial   │ ≥2 变量同时随机 ⭐
+  Cluster     │ 按群体随机
+
+证据等级：
+  Meta > RCT > Cohort > Case-ctrl > Cross-sec > Case series > Case report
 
 ### Meta-analysis 的核心机制
 
@@ -572,6 +627,12 @@ RR < 1：暴露/治疗组**减少**风险（保护）
 | **Lead-time bias**              | 提前期偏倚 | 早期诊断让生存"显得"延长         | 比较死亡率而非生存期                      | 筛查发现早期癌看似活更久    |
 | **Length bias**                 | 病程偏倚  | 筛查更易发现进展慢的病           | 比较死亡率                           | 慢病比急病更易筛出       |
 |  **Hawthorne effect**           | 霍桑效应  | 受试者知道被观察改变行为          | 盲法 / 隐瞒研究目的                     | 病人知道在被观察就乖乖吃药   |
+
+> **Latency period**
+
+**Core Concept**: **Latency period** = the time delay between **exposure (or intervention)** and **detectable outcome**. Applies to both disease pathogenesis (e.g., HPV → cervical cancer) and risk modifiers (e.g., statin → CV event reduction).
+
+**核心概念**：**潜伏期** = **暴露/干预** 与 **可观测结局** 之间的时间延迟。既适用于**致病过程**（HPV → 宫颈癌需 10-20 年），也适用于**风险调节因素**（statin → CV 事件减少需 ≥1 年）。
 
 ### 选样 / 抽样
 

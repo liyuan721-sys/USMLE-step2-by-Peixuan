@@ -443,3 +443,148 @@
 > - [ ] 默写"SnNout / SpPin"
 > - [ ] 区分"选 sens/spec 高的原因 ≠ 因为 NPV/PPV 高"
 > - [ ] 加 #薄弱点 #难记 #考前必看 到 [[Biostats_Master#PPV NPV]]
+
+> [!example]- [2026-05-11] Biostats / HR 解读 (Q7688)
+>
+> ## 🎯 Stem 模式
+> "Which factor **most significantly increases risk**" + **HR 表格** → 找**最大的 HR（>1 且 CI 不跨 1）**
+>
+> ## 🔑 核心概念
+> **Hazard Ratio (HR, 风险比)** = 含**时间维度**的事件率比值
+> - 分母 = **person-years**（不是人数）→ "**per 100 patient-years**" 是 HR 的语言
+> - 来自 **Cox proportional hazards model**，配套 **Kaplan-Meier 曲线** + **Log-rank test**
+> - **= 1 无效 / > 1 危险 / < 1 保护 / CI 跨 1 不显著（一票否决）**
+>
+> ## 📊 通用 HR/RR/OR 表格题 SOP（必背）
+> ```
+> Step 1: 这是什么指标？(HR/RR/OR → 决定 =1/>1/<1 含义)
+> Step 2: 题目问 max 还是 min？("increase"→最大>1; "protective"→最小<1)
+> Step 3: 看 CI 是否跨 1（跨 1 = 不显著 = 一票否决，无论点估计多大）
+> Step 4: 把选项映射到表的对应行
+> ```
+>
+> ## 🆚 HR vs RR vs OR
+> | 指标 | 分母 | 含时间？ | 适用研究 | 配套 |
+> |---|---|---|---|---|
+> | **HR** | person-years | ✅ 是 | RCT/Cohort + 随访不等长 / 关心 time-to-event | Cox + KM 曲线 |
+> | **RR** | persons | ❌ 否 | RCT / Cohort | 2×2 表 |
+> | **OR** | odds | ❌ 否 | Case-control | 2×2 表 |
+>
+> ## 💊 利尿剂对 K+ 影响（本题关键医学知识）
+> | 类别 | 对 K+ | 机制 |
+> |---|---|---|
+> | **Thiazide / Loop** | ⬇️ **降钾** | 远端 Na+ 增加 → K+ 排泄↑ |
+> | **K+-sparing**（spironolactone, amiloride）| ⬆️ 升钾 | 拮抗醛固酮 / 阻 ENaC |
+> | **ACE-I / ARB** | ⬆️ 升钾 | ↓ 醛固酮 |
+>
+> → ACE-I 患者**加 thiazide = 保护性对冲**（HR < 1）
+>
+> ## ❌ 我为什么错
+> - **选了 B（加 thiazide）**
+> - **错因**：① 不知道 HR 概念 → 不会读表 ② 以为"加药=危险"，没看 HR 方向 ③ 不知道 thiazide 是**降钾药**
+> - **核心陷阱**：**HR 方向陷阱** — 看到"add a drug"凭直觉选"危险"，没去查 HR 数值方向；同时混淆 thiazide 电解质效应
+>
+> ## ⚠️ 表格题三大坑（普适）
+> 1. **方向坑**：HR<1 是保护，不是危险
+> 2. **CI 坑**：HR 看似>1 但 CI 跨 1 = 不显著
+> 3. **直觉坑**：凭印象（"加药=危险"）而不是看数据
+>
+> ## 🎴 Memory Hook
+> - **"HR 找最大，跨 1 不算数"**
+> - **"Thi-azide 把 K 踢出去"** → thiazide 降钾
+> - HR 几何想象：=1 地平线 / >1 山峰 / <1 山谷 / CI 跨 1 = 桥跨过地平线（不显著）
+>
+> ## 🤔 我的提问 / 卡点
+> - **Q：HR 的时间维度怎么体现？**
+>   → 学到：HR 分母是 **person-years**（不是人数）；来自 Cox 模型；图里 "per 100 patient-years" 就是时间体现；适合**随访不等长**或**关心 time-to-event** 的研究
+> - **元层面诊断**：两题都是"不知道概念 + 不会看表" → 需要建立**看表 SOP**（4 步法）
+>
+> ## 🔗 关联
+> - [[完整笔记/Biostats_Master#Hazard Ratio]]
+> - [[完整笔记/Biostats_Master#RR vs OR vs HR]]
+> - [[完整笔记/Biostats_Master#Confidence Interval 跨 1]]
+> - [[完整笔记/_衍生_高频陷阱#HR 方向陷阱]]
+> - [[完整笔记/肾#Hyperkalemia 鉴别]]
+> - [[完整笔记/_衍生_高频评分_公式#利尿剂电解质效应对比]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 + 默写 HR/RR/OR 对比表
+> - [ ] 默写**4 类利尿剂对 K+ 的影响**
+> - [ ] 默写**Thiazide 五大副作用**（"3 Hypo + 3 Hyper"）
+> - [ ] 给 [[完整笔记/Biostats_Master]] 加 #薄弱点（HR 部分）
+> - [ ] 整理"看表 SOP（4 步法）"到 [[完整笔记/_衍生_高频评分_公式]]
+> - [ ] 找 3 道 HR 题练习（重点：CI 跨 1 判断）
+
+> [!example]- [2026-05-11] Biostats / Study Design Factorial 识别 (Q7688-Item2)
+>
+> ## 🎯 Stem 模式
+> Stem 出现 **"randomized to ... AND TO ..."** 句式 → **≥2 个独立变量同时随机化** → **Factorial design**
+>
+> "AND TO" 是 Factorial 的**金标准指纹**
+>
+> ## 🔑 核心概念
+> **Factorial design (析因设计)** = 同一 RCT 中**同时随机化 ≥2 个独立干预变量**，一次试验回答多个问题（主效应 + 交互效应）
+> - 2 变量 × 各 N 水平 → N×N 网格（如 3 药 × 2 BP 目标 = 6 组）
+> - 优势：一次测多个干预；劣势：复杂、可能交互
+>
+> ## 📐 Study Design 识别 SOP（必背）
+> ```
+> Step 1: 有 "randomized" 吗？
+>   ✅ 有 → RCT 家族（4 选 1）
+>   ❌ 没 → 观察性（cohort/case-ctrl/cross-sec）
+>
+> Step 2 (RCT)：数有几个独立变量同时随机化？
+>   1 个 → Parallel 或 Cross-over
+>   ≥2 个 → Factorial ⭐
+>
+> Step 3 (1 变量)：每人接受几种治疗？
+>   1 种（同期对比）→ Parallel
+>   2 种（前后换 + washout）→ Cross-over
+>
+> 特殊：按"群体"随机？→ Cluster
+> ```
+>
+> ## 🆚 RCT 4 类对比
+> | 设计 | 核心特征 | Stem 指纹 |
+> |---|---|---|
+> | **Parallel** | 1 变量，各组只 1 种治疗，同期 | "Group A gets X, Group B gets Y" |
+> | **Cross-over** | 同一人先后 2 种治疗 + washout | "Patients received A, then washout, then B" |
+> | **Factorial** | **≥2 独立变量同时随机化** | "randomized to A/B/C **AND TO** X/Y" ⭐ |
+> | **Cluster** | 按**群体**（学校/医院/社区）随机 | "Hospitals/schools **were randomized**" |
+>
+> ## ⚠️ 高频陷阱
+> 1. **多中心 ≠ Cluster** — "21 medical centers" 只是多中心，**按医院随机**才是 cluster
+> 2. **第二个变量盲点** — 只看到第一个 randomized 就停止思考，漏掉 stem 里的第二个变量
+> 3. **Cross-over 治疗时长长 = 不合理** — Cross-over 通常短期可逆病
+>
+> ## ❌ 我为什么错
+> - **选了 D（Parallel-group）**
+> - **错因**：① 不知道 Factorial 的"指纹"概念 ② 漏读 stem 里第二个独立变量（BP 目标） ③ 看到"3 个药分组"就默认 Parallel
+> - **核心陷阱**：**"第二个变量盲点"** — Factorial 题的 USMLE 出题模板就是**把第二个变量藏在 stem 里**
+>
+> ## 🎴 Memory Hook
+> - **"两个变量同时随机 = Factorial"**
+> - **几何想象**：
+>   - Factorial = **格子表格** (2×2, 2×3 矩阵)
+>   - Parallel = **两条平行线** (永不相交)
+>   - Cross-over = **X 字形** (先 A 后 B 交叉)
+>   - Cluster = **一锅端** (整个群体同组)
+> - **指纹句式**：`"randomized to ... AND TO ..."` 是 Factorial DNA
+>
+> ## 🤔 我的提问 / 卡点
+> - **元层面诊断**：两题都是"不知道概念 + 不会看 stem" → 需要建立**Study Design 识别 SOP**（3 步法）
+> - **关键认知升级**：下次读 stem 时**主动数 "randomized" 出现次数**或**数有几个独立变量**
+>
+> ## 🔗 关联
+> - [[完整笔记/Biostats_Master#Study Design 4 类对比]]
+> - [[完整笔记/Biostats_Master#RCT]]
+> - [[完整笔记/_衍生_高频陷阱#Factorial vs Parallel]]
+> - [[完整笔记/_衍生_高频评分_公式#Study Design 决策树]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 + 默写 RCT 4 类指纹
+> - [ ] 默写 **Study Design 决策树**（RCT 4 类 + 观察性 3 类）
+> - [ ] 整理"**Factorial 的 stem 指纹**"到 [[完整笔记/_衍生_高频陷阱]]
+> - [ ] 给 [[完整笔记/Biostats_Master]] 加 #薄弱点（Study Design 部分）
+> - [ ] 找 3 道 study design 题（Factorial vs Parallel 辨析）
+> - [ ] **刷题时主动数 "randomized" 次数**（养成习惯）
