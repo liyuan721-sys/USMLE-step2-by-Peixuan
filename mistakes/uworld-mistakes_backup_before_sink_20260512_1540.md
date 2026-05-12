@@ -53,6 +53,10 @@
 ## 2026-05-11
 
 > [!example]- [2026-05-11] Biostats / ARP 阳性归因比 (Q20430)
+> 学科:: Biostats
+> 主题:: ARP 阳性归因比
+> 状态:: 
+> 错因:: 
 > 
 > ## 一句话识别
 > ARP vs RR/ARI/NNH:"attributed to" + 两组 risk = (Re−Ru)/Re,分母是暴露组
@@ -86,15 +90,12 @@
 > 1. **"attributed to" + 两组 risk → 9 成是 ARP**;分母是 exposed 组
 > 2. **NNH/NNT 单位是人数**,不是 %;选项给你 "13" 不带%号就要警惕
 > 3. **题外**:HIV(+) 产妇喂养——**资源充足国家 → 配方奶**,**资源匮乏国家 → 母乳**(水源污染/感染风险 > 母乳传播风险)
-> 
-> ---
-> 
-> 学科:: Biostats
-> 主题:: ARP 阳性归因比
-> 状态:: 
-> 错因:: 
 
 > [!example]- [2026-05-11] Biostats / ARR 反推样本量 (Q20057)
+> 学科:: Biostats
+> 主题:: ARR 反推样本量
+> 状态:: 
+> 错因:: 
 > 
 > ## 一句话识别
 > 给 ARR + 给一组发病人数 + 问样本量 n → **必须先算 Rt，再 n = 病例数 / Rt**
@@ -149,15 +150,12 @@
 > - [ ] 加 #薄弱点 到 [[完整笔记/Peixuan分科笔记/Biostats_Master]]
 > - [ ] 找 3 道反推题练习
 > - [ ] 加 #考前必看
-> 
-> ---
-> 
-> 学科:: Biostats
-> 主题:: ARR 反推样本量
-> 状态:: 
-> 错因:: 
 
 > [!example]- [2026-05-11] Biostats / LR+ 阳性似然比 (Q107214)
+> 学科:: Biostats
+> 主题:: LR+ 阳性似然比
+> 状态:: 
+> 错因:: 
 > 
 > ## 一句话识别
 > 给 2×2 表 + 问 LR+ → **LR+ = 有病阳性率 / 无病阳性率 = Sens / (1−Spec)**
@@ -220,15 +218,12 @@
 > - [ ] 1 周后重做
 > - [ ] 默写"Sens = 有病阳性；Spec = 无病阴性"
 > - [ ] 加 #薄弱点 #考前必看 到 [[完整笔记/Peixuan分科笔记/Biostats_Master#诊断试验]]
-> 
-> ---
-> 
-> 学科:: Biostats
-> 主题:: LR+ 阳性似然比
-> 状态:: 
-> 错因:: 
 
 > [!example]- [2026-05-11] Biostats / ROC 曲线 + Cutoff 跷跷板 (Q7711)
+> 学科:: Biostats
+> 主题:: ROC 曲线 + Cutoff 跷跷板
+> 状态:: 
+> 错因:: 
 > 
 > ## 一句话识别
 > **问 1**：ROC 上移 + sens 数据 46%→70% → **aspirin 增加 sensitivity**
@@ -312,15 +307,12 @@
 > - [ ] 画 ROC 曲线 + 标关键点（左上角/对角线/AUC）
 > - [ ] 默写 AUC vs Accuracy 区别
 > - [ ] 加 #薄弱点 #难记 #考前必看 到 [[完整笔记/Peixuan分科笔记/Biostats_Master#ROC]]
-> 
-> ---
-> 
-> 学科:: Biostats
-> 主题:: ROC 曲线 + Cutoff 跷跷板
-> 状态:: 
-> 错因:: 
 
 > [!example]- [2026-05-11] Biostats / Matching 控制 Confounding (Q4182)
+> 学科:: Biostats
+> 主题:: Matching 控制 Confounding
+> 状态:: 
+> 错因:: 
 > 
 > ## 一句话识别
 > Case-control + 邻居匹配 + 控制 age/race → **匹配是为了控制 Confounding** ✅
@@ -395,15 +387,12 @@
 > - [ ] 默写"5 大控制 Confounding 方法"
 > - [ ] 区分 Confounding vs Effect Modification
 > - [ ] 加 #薄弱点 #难记 #考前必看 到 [[完整笔记/Peixuan分科笔记/Biostats_Master#Bias]]
-> 
-> ---
-> 
-> 学科:: Biostats
-> 主题:: Matching 控制 Confounding
-> 状态:: 
-> 错因:: 
 
 > [!example]- [2026-05-11] Biostats / PPV NPV vs Prevalence (Q21656)
+> 学科:: Biostats
+> 主题:: PPV NPV vs Prevalence
+> 状态:: 
+> 错因:: 
 > 
 > ## 一句话识别
 > 同一检测两组 NPV 不同 → **必定是 prevalence 不同**
@@ -478,15 +467,12 @@
 > - [ ] 默写"SnNout / SpPin"
 > - [ ] 区分"选 sens/spec 高的原因 ≠ 因为 NPV/PPV 高"
 > - [ ] 加 #薄弱点 #难记 #考前必看 到 [[完整笔记/Peixuan分科笔记/Biostats_Master#PPV NPV]]
-> 
-> ---
-> 
-> 学科:: Biostats
-> 主题:: PPV NPV vs Prevalence
-> 状态:: 
-> 错因:: 
 
 > [!example]- [2026-05-11] Biostats / HR 解读 (Q7688)
+> 学科:: Biostats
+> 主题:: HR 解读
+> 状态:: 
+> 错因:: 
 >
 > ## 🎯 Stem 模式
 > "Which factor **most significantly increases risk**" + **HR 表格** → 找**最大的 HR（>1 且 CI 不跨 1）**
@@ -556,15 +542,12 @@
 > - [ ] 给 [[完整笔记/Peixuan分科笔记/Biostats_Master]] 加 #薄弱点（HR 部分）
 > - [ ] 整理"看表 SOP（4 步法）"到 [[完整笔记/专题笔记/_衍生_高频评分_公式]]
 > - [ ] 找 3 道 HR 题练习（重点：CI 跨 1 判断）
-> 
-> ---
-> 
-> 学科:: Biostats
-> 主题:: HR 解读
-> 状态:: 
-> 错因:: 
 
 > [!example]- [2026-05-11] Biostats / Study Design Factorial 识别 (Q7688-Item2)
+> 学科:: Biostats
+> 主题:: Study Design Factorial 识别
+> 状态:: 
+> 错因:: 
 >
 > ## 🎯 Stem 模式
 > Stem 出现 **"randomized to ... AND TO ..."** 句式 → **≥2 个独立变量同时随机化** → **Factorial design**
@@ -637,15 +620,12 @@
 > - [ ] 给 [[完整笔记/Peixuan分科笔记/Biostats_Master]] 加 #薄弱点（Study Design 部分）
 > - [ ] 找 3 道 study design 题（Factorial vs Parallel 辨析）
 > - [ ] **刷题时主动数 "randomized" 次数**（养成习惯）
-> 
-> ---
-> 
-> 学科:: Biostats
-> 主题:: Study Design Factorial 识别
-> 状态:: 
-> 错因:: 
 
 > [!example]- [2026-05-11] Biostats / Case Series 局限性 + 证据等级 (Q20090)
+> 学科:: Biostats
+> 主题:: Case Series 局限性 + 证据等级
+> 状态:: 
+> 错因:: 
 >
 > ## 🎯 Stem 模式
 > "Single report + 小样本 + 全员接受治疗 + 与历史/published outcomes 比较（**no control group**）" → **Case Series** → 证据等级低 → **不足以推荐治疗**
@@ -761,15 +741,12 @@
 > - [ ] 在 [[完整笔记/Peixuan分科笔记/儿科]] 补 Pompe disease 笔记（婴儿型 GAA 缺陷、酶替代治疗）
 > - [ ] 找 3 道 study design 题（observational vs experimental 辨析）
 > - [ ] **下次刷题习惯：读 stem 先定位 study type**
-> 
-> ---
-> 
-> 学科:: Biostats
-> 主题:: Case Series 局限性 + 证据等级
-> 状态:: 
-> 错因:: 
 
 > [!example]- [2026-05-11] Biostats / Case-Control vs Cohort 场景适配 (Q20283)
+> 学科:: Biostats
+> 主题:: Case-Control vs Cohort 场景适配
+> 状态:: 
+> 错因:: 
 >
 > ## 🎯 Stem 模式
 > "**Rare disease** + **Long latent period** + **Find risk factors**" → **Case-Control 金三角** → 秒选 case-control
@@ -866,15 +843,12 @@
 > - [ ] 在 [[完整笔记/Peixuan分科笔记/Biostats_Master]] 加 #薄弱点（Case-Control 部分）
 > - [ ] 找 3 道场景适配题练习（rare disease vs rare exposure 辨析）
 > - [ ] **下次刷题主动识别 stem 关键词**：rare / latent / common / multiple outcomes
-> 
-> ---
-> 
-> 学科:: Biostats
-> 主题:: Case-Control vs Cohort 场景适配
-> 状态:: 
-> 错因:: 
 
 > [!example]- [2026-05-11] Biostats / 广告题双题：复合终点 + NNT (Q7708 + Q7709, Efrenzia)
+> 学科:: Biostats
+> 主题:: 广告题双题：复合终点 + NNT
+> 状态:: 
+> 错因:: 
 >
 > ## 🎯 Stem 模式
 > **Q7708（Item 1）**："Based on drug ad, ... decrease which event?" → **找驱动复合终点差异的 outcome**（其他 outcomes 通常无显著差异）
@@ -980,15 +954,12 @@
 > - [ ] 找 3 道 NBME 广告题练习
 > - [ ] 在 [[完整笔记/Peixuan分科笔记/心内]] 补 ACS 抗血小板药对比（clopidogrel / ticagrelor / prasugrel）
 > - [ ] **下次广告题主动按 SOP 走，不被大字数字忽悠**
-> 
-> ---
-> 
-> 学科:: Biostats
-> 主题:: 广告题双题：复合终点 + NNT
-> 状态:: 
-> 错因:: 
 
 > [!example]- [2026-05-11] Biostats / Clinical Trial Phase III 识别 (Q20058)
+> 学科:: Biostats
+> 主题:: Clinical Trial Phase III 识别
+> 状态:: 
+> 错因:: 
 >
 > ## 🎯 Stem 模式
 > "**Large multicenter** + **affected patients** + **randomized + placebo-controlled** + **efficacy**" → **Phase III**
@@ -1063,28 +1034,22 @@
 > - [ ] 默写 **Phase II vs Phase III 边界**
 > - [ ] 在 [[完整笔记/Peixuan分科笔记/hematology oncology]] 补 pegfilgrastim / G-CSF 相关笔记
 > - [ ] 找 3 道 Phase 识别题（特别是 Phase II vs III 辨析）
-> 
-> ---
-> 
-> 学科:: Biostats
-> 主题:: Clinical Trial Phase III 识别
-> 状态:: 
-> 错因:: 
 
 > [!example]- [2026-05-11] Biostats / Internal Validity + Blinding (Q22363)
-> 题目主旨：Blinded raters 对主观量表评估的作用 → 减少 measurement bias → 提升 Internal validity
-> 详见主笔记：[[完整笔记/专题笔记/USMLE临床试验分期#Part 2：临床试验质量评价]]
-> 
-> ---
-> 
 > 学科:: Biostats
 > 主题:: Internal Validity + Blinding
 > 状态:: 
 > 错因:: 
+> 题目主旨：Blinded raters 对主观量表评估的作用 → 减少 measurement bias → 提升 Internal validity
+> 详见主笔记：[[完整笔记/专题笔记/USMLE临床试验分期#Part 2：临床试验质量评价]]
 
 ## 2026-05-12
 
 > [!example]- [2026-05-12] Biostats / ROC 最佳 cutoff (Q107800)
+> 学科:: Biostats
+> 主题:: ROC 最佳 cutoff
+> 状态:: 
+> 错因:: 
 > 
 > ## Stem 模式
 > 给 ROC 曲线图 + 标注几个 cut point（A-E）+ 每个点的 (TPR, FPR) 坐标 → 问 "best diagnostic accuracy" 是哪个。
@@ -1228,15 +1193,12 @@
 > - [ ] 找 2-3 道类似 ROC 题练习（UWorld 搜 "ROC" / "receiver operating"）
 > - [ ] 关键习惯：看到诊断试验题，先问"这是 2x2 表问题（PPV/NPV）还是 ROC 问题（cutoff）"
 > - [ ] 进阶：学习 AUC（曲线下面积）的解读，也是高频考点
-> 
-> ---
-> 
-> 学科:: Biostats
-> 主题:: ROC 最佳 cutoff
-> 状态:: 
-> 错因:: 
 
 > [!example]- [2026-05-12] Biostats / Reporting bias (Q12685)
+> 学科:: Biostats
+> 主题:: Reporting bias
+> 状态:: 
+> 错因:: 
 > 
 > ## Stem 模式
 > 同人群、当面 vs 匿名两次调查 → 结果不同。话题自带社会污名（含糖饮料、肥胖、酒精、毒品、性、家暴、体重）。Stem 主动写明"response rate and demographics comparable"——出题人在喊话："Ascertainment / Nonresponse 不是答案。"
@@ -1361,15 +1323,12 @@
 > - [ ] 默写 "Recall vs Reporting" 一刀切区分
 > - [ ] 找 3 道类似 Reporting bias 题（UWorld 搜 "anonymous" / "self-reported"）
 > - [ ] 关键习惯：以后做 bias 题先看 stem 有没有"主动排除某些 bias 的暗号"
-> 
-> ---
-> 
-> 学科:: Biostats
-> 主题:: Reporting bias
-> 状态:: 
-> 错因:: 
 
 > [!example]- [2026-05-12] Biostats / Null Hypothesis (Q3941)
+> 学科:: Biostats
+> 主题:: Null Hypothesis
+> 状态:: 
+> 错因:: 
 > 
 > ## Stem 模式
 > Cross-sectional study（用 **prevalence** + **某时点** 锁定）→ 问 **best statement of null hypothesis**。
@@ -1493,13 +1452,6 @@
 > - [ ] 找 2-3 道类似 Null hypothesis 题（UWorld 搜 "null hypothesis"）
 > - [ ] 关键习惯：以后看到 Biostats 题，**先识别 study design**，再用 design 排除"用错术语"的选项
 > - [ ] 进阶：学习 Type I / II error + Power + p-value 解读
-> 
-> ---
-> 
-> 学科:: Biostats
-> 主题:: Null Hypothesis
-> 状态:: 
-> 错因:: 
 
 > [!example]- [2026-05-12] Biostats / OR-CI 表格判读 + Confounding (Q21248)
 > 
