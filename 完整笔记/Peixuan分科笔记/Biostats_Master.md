@@ -691,6 +691,35 @@ s
 
 > 关键:**记情境,不是记定义**。CK 给场景让你认。
 
+### High-Yield Summary Table — Bias 5 大鉴别（速查）tag: #薄弱点
+
+#### Selection Bias（谁进入研究有问题）
+
+| Bias                         | 一句话本质                  | Stem 关键句                                  | 经典场景                |
+| ---------------------------- | ---------------------- | ----------------------------------------- | ------------------- |
+| **Ascertainment (Sampling)** | 抽样方式非随机 → 样本不代表目标人群    | "selected from..." / "convenience sample" | 只在白天问 → 漏掉上班人群      |
+| **Berkson**                  | 用**住院**患者做对照 → 对照不健康   | "controls from hospitalized patients"     | 找住院对照研究咖啡-MI        |
+| **Nonresponse**              | 不应答者与应答者**系统性不同**      | "response rate was 30%" + 不应答者特征不同        | 邮寄问卷只 30% 回         |
+| **Neyman (Prevalence)**      | 暴露很早发生 → **早死/早愈**患者被漏 | "long before disease assessment" + 致死病    | 雪铲 → MI 关系，但早死的没进医院 |
+| **Attrition**                | 失访者与留下者**系统性不同**       | "X% lost to follow-up" + 失访者特征不同          | 长期随访研究中差的脱落了        |
+- **Ascertainment** = 总称：抽样有问题（撒网撒错了）
+- **Berkson** = 一种特定的 Ascertainment：**专指"在医院里挑对照"** 这种特殊错误抽样
+[!success] Berkson 一句话锁定 **"在医院里找对照 = Berkson"**
+类比记忆：**B**erkson = **B**ed (住院床) — 看到"hospital / hospitalized controls"就闭眼选。
+
+**Neyman bias 的本质**：用 prevalence（现存病人）去研究一个本应该用 incidence（新发病人）来研究的问题。
+
+#### Measurement / Observational Bias（怎么测出来有问题）
+
+|Bias|一句话本质|Stem 关键句|谁有问题|
+|---|---|---|---|
+|**Recall**|受访者**想不起来**|"asked to recall..." + retrospective|受访者（记忆）|
+|**Reporting** ⭐|受访者**故意改答案**（社会压力）|"anonymous vs in-person" / 污名话题|受访者（主动）|
+|**Observer (Interviewer)**|**研究者**测/录时偏差|"researcher knew group assignment"|研究者|
+|**Surveillance (Detection)**|暴露组**被查得更多** → 多检出|"monitored more closely"|研究者（监测频率）|
+
+> [!tip] 一刀切口诀 **"问问题谁说谎 = Reporting；测东西谁手抖 = Observer；想不起来 = Recall；查得多 = Surveillance"**
+
 #### USMLE 必背：8 种偏倚的"控制方法"
 
 | 偏倚类型                            | 中文    | 定义                    | 控制方法                            | 例子              |
