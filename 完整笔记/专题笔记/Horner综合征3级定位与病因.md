@@ -257,7 +257,7 @@ type: 专题笔记
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#Q20435]] Syringomyelia 病程演变（一级 Horner 阶段 2，本笔记直接来源题）
+  - [[mistakes/uworld-mistakes#AMBOSS-Syringo62]] Syringomyelia 病程演变（一级 Horner 阶段 2，本笔记直接来源题）
   - （等后续 Pancoast / 颈动脉夹层 / Wallenberg / Cluster headache 错题积累）
 
 - 📚 主笔记：

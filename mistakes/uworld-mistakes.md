@@ -1855,3 +1855,431 @@
 > 主题:: Study Design 判定
 > 状态:: 🟡
 > 错因:: 知识
+
+> [!example]- [2026-05-12] 神经 / Pseudodementia vs AD (AMBOSS-Pseudo78)
+> 
+> ## Stem 模式
+> 78 岁男 + **5 周** 健忘 + 危险行为（门没关 / 水龙头开着）+ 失眠 (6-7×/night) + 疲乏 + **lost interest in piano** + PMR + **blunt affect** + labs 正常 (TSH/B12/folate) + **"concerned about memory lapses"** → 问下一步治疗。
+> 
+> ## 核心概念
+> **老年期抑郁可伪装成痴呆 (Pseudodementia)，认知缺陷在 SSRI 4-6 周后可逆**。USMLE 反复考"老人健忘 ≠ 自动 AD" — 必先排可治痴呆 8 大。
+> 
+> ## 普适规则
+> 
+> ### Pseudodementia 5 钩子（病人**自己**抱怨；AD 是被**家属**带来）
+> 1. 起病数周-月（**快**，不是数年）
+> 2. **病人自己关心**（自知力存在）⭐
+> 3. 回答 **"我不知道"**（放弃式）— vs AD confabulation
+> 4. **抑郁征核心**（≥ 5/9 DSM-5 MDD）
+> 5. **抑郁先于认知**
+> 
+> ### DSM-5 MDD 9 项 = SIG E CAPS + 抑郁情绪（≥ 5/9，≥ 2 周）
+> **S**leep / **I**nterest loss / **G**uilt / **E**nergy↓ / **C**oncentration↓ / **A**ppetite / **P**sychomotor agitation/retardation / **S**uicidal + **D**epressed mood
+> 
+> ### Pseudodementia vs AD 终极鉴别
+> 
+> | 维度 | Pseudodementia | AD |
+> |---|---|---|
+> | 起病 | **数周-月** | 数年 |
+> | 自知力 | **过度自责** | 缺乏 ("我没问题") |
+> | 主诉来源 | **病人自己** | 家属带来 |
+> | 回答模式 | "我不知道" | 编造 / 错答 |
+> | 抑郁征 | **核心** | 可有但非核心 |
+> | 治疗 | **SSRI** | Donepezil → Memantine |
+> | 预后 | **可逆** ⭐ | 不可逆 |
+> 
+> ### 治疗 — SSRI（老人 Citalopram ≤ 20 mg/d，QT 警告）
+> 4-6 周认知应改善 → 不改善 = 重查 dementia
+> 
+> ## 易混陷阱（普适）
+> 
+> | 陷阱 | 表现 | 修复 |
+> |---|---|---|
+> | "老人 + 健忘 = AD" | 反射性选 Donepezil | 先查可治 8 大 (Pseudo/B12/甲减/神经梅毒/Lyme/NPH/cSDH/药物毒性) |
+> | 漏看速度词 | 5 周 → 不可能 AD | "Over the past X weeks/months" 触发"AD？太快了" |
+> | 漏看自知力 | concerned = pseudo 招牌 | "Patient is concerned about..." 必扫 |
+> | 漏看抑郁标志 | PMR / blunt / 兴趣丧失 / 失眠 / 疲乏 5 个都在 stem | 强制症状交集 — 哪个病能解释最多？ |
+> 
+> ## 我为什么错
+> 
+> 选了 **A. Donepezil**（按 AD 治）。错因 = **pattern**（答题方法）。
+> 
+> - **反射性诊断**：看到 78 岁 + 健忘就跳 AD → Donepezil
+> - **没扫全 stem**：5 个抑郁标志 (PMR / blunt / 兴趣丧失 / 失眠 / 疲乏) 全漏
+> - **没识别 "concerned about memory"** = pseudo 金标准（AD 缺乏自知力）
+> - **没用可治痴呆 8 大 schema**：labs 正常 + 抑郁征 + 速度快 → 直指 Pseudodementia
+> 
+> 核心陷阱：**老人 + 健忘 ≠ 自动 AD** — 必须先排可治痴呆 8 大。
+> 
+> ## Memory Hook
+> 
+> "**Pseudodementia patients complain; AD patients are brought in**"
+> 
+> 看到 "**concerned about memory + lost interest + sleep disturbance**" → 0.5 秒锁 Pseudodementia → **SSRI**（不是 Donepezil）
+> 
+> Pseudodementia 5 个"特别"：起病特别快 / 病人特别担心 / 回答特别消极 ("我不知道") / 抑郁特别明显 / 特别可治（SSRI 4-6 周→逆转）
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 
+> - **Q: 5 周健忘为什么不是 AD？**
+>   → AD 起病**数年**（"got lost in own neighborhood" stem 类型）。5 周 = 触发 "Pseudo / B12 / 甲减 / NPH / cSDH / 药物" 分支。
+> 
+> - **Q: Citalopram 老年人为什么 ≤ 20 mg/d？**
+>   → QT 延长 risk — FDA 老人 (≥ 60) 上限 20 mg/d，>40 mg/d 有 Torsades 风险。
+> 
+> ## 🔗 关联
+> 
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#AMBOSS-CJD57]] CJD 误选 FTD（同"反射性诊断 + 单一症状导向"）
+>   - 等积累更多痴呆题 → AD / VaD / LBD 实战
+> - 📚 主笔记：
+>   - [[完整笔记/专题笔记/_衍生_老年痴呆鉴别决策树]]（可治痴呆 8 大 + Pseudo 5 钩子直接收录）
+>   - [[完整笔记/Peixuan分科笔记/psych]]（MDD / SSRI）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/psych]](MDD 诊断标准 SIG E CAPS)
+>   - [[完整笔记/Peixuan分科笔记/心内]](Citalopram QT 延长 / 老人 ≤ 20 mg/d)
+> - 🌱 TODO：等积累 ≥ 4 道痴呆错题 → 升级 [[完整笔记/专题笔记/_衍生_老年痴呆鉴别决策树]] v2
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做
+> - [ ] 默写 DSM-5 MDD 9 项（SIG E CAPS + 抑郁情绪）
+> - [ ] 默写 Pseudodementia vs AD 终极鉴别表
+> - [ ] 默写可治痴呆 8 大
+> - [ ] 关键习惯：看到 "concerned about memory" → 立刻怀疑 Pseudo（不是 AD）
+> 
+> ---
+> 
+> 学科:: 神经
+> 主题:: Pseudodementia 鉴别
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-05-12] 神经 / CJD 招牌识别 (AMBOSS-CJD57)
+> 
+> ## Stem 模式
+> 57 岁男 + **2 个月**进展性认知下降（3 周内 ADL 不能）+ **diffuse involuntary muscle jerking** + **provoked by loud noises** + akinetic mutism + **EEG: triphasic periodic sharp-wave complexes** → 问诊断。
+> 
+> ## 核心概念
+> **CJD = prion 病**，三联：**RPD (数周-月) + Startle myoclonus + EEG 周期性尖波**。12 月内致死，无治疗。
+> 
+> ## 普适规则
+> 
+> ### CJD 4 大金标准（2+ 几乎不会错）
+> 1. **快速进展性痴呆**（数周-月，< 12 月致死）
+> 2. **Startle myoclonus**（响声诱发）⭐ 招牌
+> 3. **EEG triphasic periodic sharp-wave complexes**（1 Hz）⭐
+> 4. **CSF 14-3-3 protein / RT-QuIC**
+> 
+> ### 5 种不自主运动鉴别 ⭐
+> 
+> | 运动 | 特点 | 标志病 |
+> |---|---|---|
+> | **Tremor**（震颤）| **节律性来回** | PD / 小脑 / ET |
+> | **Chorea**（舞蹈）| 不规则流畅快速 | **Huntington** / Sydenham / SLE |
+> | **Athetosis** | 缓慢扭转蛇形 | HD 晚期 / 脑瘫 |
+> | **Myoclonus**（肌阵挛）⭐ | **突发、短促、闪电样** | **CJD** ⭐ / AD 晚期 / 缺氧 / 癫痫 |
+> | **Tic** | 可短暂抑制 | Tourette |
+> | **Dystonia** | 持续扭转 | 急性 EPS / 肌张力障碍 |
+> 
+> ### CJD vs FTD 镜像对照（选项常并列）
+> 
+> | 维度 | CJD | FTD |
+> |---|---|---|
+> | 病程 | **数周-月** | **数年** (6-9 年生存) |
+> | 首发 | 快速认知 + 神经体征 | **行为 / 性格改变** |
+> | 记忆 | 严重受累 | **相对保留**（MMSE 正常）|
+> | 运动 | **Startle myoclonus** ⭐ | 晚期 parkinsonism |
+> | EEG | **周期性尖波** | 非特异 |
+> | 饮食 | 无特殊 | **Hyperorality + 偏甜** |
+> 
+> ## 易混陷阱（普适）
+> 
+> - **"jerking" ≠ 震颤 ≠ 舞蹈 = myoclonus**（独立概念，必须建立）
+> - **"Blunt affect" 是多义症状**（PD / 抑郁 / 精分 / FTD / CJD / AD 晚期都可能）— 不能单独锁定方向
+> - **修饰语必扫**："provoked by loud noises" = startle = CJD 招牌
+> - **EEG 旁白必扫**：题 stem 给 EEG = 诊断锁定钥匙，不要忽略
+> 
+> ## 我为什么错
+> 
+> 选了 **I. FTD**。错因 = **pattern**（答题方法）。
+> 
+> - **症状词识别错**：把 myoclonus（闪电样）误读为帕金森样震颤
+> - **被 blunt affect 带偏方向**：以为是 masked facies → 帕金森谱 → FTD（"最近邻"匹配）
+> - **漏看 startle 修饰语**："provoked by loud noises" = CJD 招牌被忽略
+> - **漏看 EEG**：题 stem 直接给 "triphasic periodic sharp-wave complexes" = CJD 锁定金标准
+> - **漏看 2 个月**：太快 ≠ AD / FTD / PD / HD（这些都数年）
+> 
+> 核心陷阱：**被单一症状带偏 + 没做症状交集**。
+> 
+> ## Memory Hook
+> 
+> **"Myoclonus = 闪电、瞬间、被电了一下"** → CJD 招牌
+> 
+> CJD = "数周烂掉 + 响声电一下 + EEG 尖波" 三联
+> 
+> 看到 "**jerking provoked by loud noises / startle**" → 0.5 秒锁 CJD
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 
+> - **Q: myoclonus 怎么和震颤区分？**
+>   → Tremor = **节律性来回**（钟摆）；Myoclonus = **突发、短促、闪电样**（被电了）。CJD 的 myoclonus 还 provoked by startle。
+> 
+> - **Q: 为什么 FTD 排除？**
+>   → FTD 数年进展（不是 2 月）+ 招牌是行为/语言改变（不是 mutism + EEG 异常）+ 无 myoclonus + 无周期性尖波。
+> 
+> ## 🔗 关联
+> 
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#AMBOSS-Pseudo78]] Pseudodementia 误选 Donepezil（同"反射性诊断 + 单一症状导向"模式）
+>   - 等后续 PD / HD / TD / Wilson 不自主运动题积累
+> - 📚 主笔记：
+>   - [[完整笔记/专题笔记/_衍生_老年痴呆鉴别决策树]]（CJD 4 大金标准 + 痴呆速度分类）
+>   - [[完整笔记/Peixuan分科笔记/neuro]]
+> - 🏥 跨学科：无（CJD 纯 Neuro）
+> - 🌱 TODO：等积累 ≥ 3 道不自主运动错题（PD/HD/TD/Wilson）→ 生成 [[完整笔记/专题笔记/_衍生_不自主运动5种鉴别]]
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做
+> - [ ] 默写 5 种不自主运动鉴别表
+> - [ ] 默写 CJD 4 大金标准
+> - [ ] 默写 CJD vs FTD 镜像对照
+> - [ ] 关键习惯：看到不自主运动词 → 强制问"是震颤 / 舞蹈 / myoclonus / tic / dystonia 哪一种？"
+> 
+> ---
+> 
+> 学科:: 神经
+> 主题:: CJD 招牌识别
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-05-12] 神经 / Syringomyelia 病程演变 (AMBOSS-Syringo62)
+> 
+> ## Stem 模式
+> 62 岁女 + **MVC 3 年前 (whiplash)** + 1 年进展性双上肢感觉异常 + **手指无痛烫伤数次** + 双侧上肢/上胸 **披肩样温觉↓ + 触觉正常** → 问 further evaluation most likely to show?
+> 
+> ## 核心概念
+> **Syringomyelia 是时间轴疾病**：脊髓中央管空洞**从内向外扩展**，离中央近的纤维先废。"披肩痛温↓" 只是阶段 1，**阶段 2 = Horner**。
+> 
+> ## 普适规则
+> 
+> ### Syringomyelia 5 幕剧（从内向外烂）⭐⭐
+> 
+> ```
+> 1️⃣ 前白连合 (anterior white commissure)
+>    → 双侧披肩样痛温↓（"painless burns on hands"）
+>    → 触觉 / 本体觉 / 运动 全部正常
+> 
+> 2️⃣ 外侧角 (T1-T2 lateral horn)
+>    → 一级交感神经元 → 同侧 **Horner**（ptosis/miosis/anhidrosis）⭐
+> 
+> 3️⃣ 前角 (anterior horn)
+>    → 上肢 **LMN 征**（biceps reflex ↓ 不是 ↑！萎缩 / flaccid）
+> 
+> 4️⃣ 外侧 CST
+>    → 下肢 **UMN 征**（hyperreflexia + Babinski +）
+> 
+> 5️⃣ Sacral sparing 最后破（CST 最外侧）
+>    → 骶段功能最后才丢
+> ```
+> 
+> ⭐ **核心解剖逻辑**：空洞从中央向外扩展 → 谁离中央近谁先废
+> 
+> ### 病因
+> - **Chiari I malformation**（最常见）⭐
+> - 创伤后（whiplash / MVC 数年后）
+> - 脊髓肿瘤（ependymoma）
+> - 脊髓栓系（tethered cord）
+> 
+> ### Syringomyelia vs Central Cord Syndrome
+> 
+> | 特征 | Syringomyelia | Central Cord |
+> |---|---|---|
+> | 起病 | **慢性**（数月-年）| **急性**（创伤即刻）|
+> | 年龄 | 年轻 | 老人 |
+> | Stem | "Painless burns on hands" | "Fell + neck pain + weak arms" |
+> | 病理 | 中央空洞 (cyst) | 中央灰质水肿 |
+> 
+> ## 易混陷阱（普适）
+> 
+> ### 干扰项配对（本题）
+> 
+> | 选项 | 为什么错 |
+> |---|---|
+> | A. **Exaggerated biceps reflex (↑)** | **方向反了**！Syrinx 在 C5-T1 损伤**前角细胞** → biceps ↓ (LMN)，不是 ↑。UMN 征出现在损伤平面**以下**（下肢）|
+> | B. ↓ MMSE | Syringomyelia 不影响认知（MMSE↓ 见于 B12 SCD / Tabes paralytic dementia）|
+> | C. ↓ Anal wink reflex | **Sacral sparing** 是 Syringomyelia 特征 — 骶段最后才累 |
+> | D. Jaw deviation | CN V 运动核在脑桥，颈段 syrinx 累及不到 |
+> | **E. Drooping of eyelid** ✅ | Horner 阶段 2 — 完美匹配病程下一步 |
+> 
+> ## 我为什么错
+> 
+> **知识缺口型**（不是答题方法问题）。错因 = **知识**。
+> 
+> 原话："以前只知道披肩征，从来没听过 Horner 跟这个有关系"
+> 
+> - 对 Syringomyelia 的知识结构是"**一个症状的疾病**"（披肩痛温↓）
+> - 没建立"**时间轴疾病，按阶段发展**"的模型
+> - 没意识到 **T1-T2 lateral horn = 一级交感** 这个关键解剖关联
+> - Horner 在脑中只关联 Pancoast / 颈动脉夹层 / Wallenberg，**没关联 Syringomyelia**
+> 
+> 核心陷阱：**单症状疾病模型 vs 病程演变疾病模型** — 很多疾病不是"一个症状"，而是"按时间多症状"。
+> 
+> ## Memory Hook
+> 
+> **"5 幕剧：披肩 → Horner → 上肢软 → 下肢硬 → 骶段最后"**
+> 
+> 演员出场顺序 = 离中央距离的顺序（中央 → 外侧）
+> 
+> **看到 "painless burns on hands" + Chiari/whiplash 史** → 锁 Syringomyelia → **next step = Horner (ptosis)**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 
+> - **Q: 为什么 biceps reflex 是 ↓ 不是 ↑？**
+>   → Syrinx 累及 C5-T1 前角细胞 = LMN 损伤 → 反射 ↓ + 肌萎缩 + flaccid。UMN 征（↑）出现在损伤平面**以下**（下肢），不在上肢。
+> 
+> - **Q: Horner 怎么和 Syringomyelia 关联？**
+>   → T1-T2 lateral horn = 一级交感神经元起点。空洞扩到外侧角时损伤一级交感 → 同侧 Horner = Syringomyelia 阶段 2 招牌。
+> 
+> ## 🔗 关联
+> 
+> - 🔁 同主题错题：
+>   - 此为首道脊髓不全损伤错题，等后续 Central Cord / Brown-Séquard / Anterior cord / Cauda 积累
+> - 📚 主笔记：
+>   - [[完整笔记/专题笔记/Horner综合征3级定位与病因]]（一级 Horner 来源题，5 幕剧 + Horner 关联完整）⭐
+>   - [[完整笔记/Peixuan分科笔记/neuro]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/眼科]]（Horner ptosis vs CN III palsy 鉴别）
+>   - [[完整笔记/Peixuan分科笔记/外科]]（颈脊髓 MRI / 减压手术指征）
+>   - [[完整笔记/Peixuan分科笔记/儿科]]（Chiari I + Syringomyelia + Tethered cord 神经管发育谱）
+> - 🌱 TODO：等积累 ≥ 3 道脊髓不全损伤错题 → 生成 [[完整笔记/专题笔记/_衍生_脊髓不全损伤综合征鉴别]]
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做
+> - [ ] 默写 Syringomyelia 5 幕剧
+> - [ ] 默写 Horner 3 级定位
+> - [ ] 关键习惯：看到时间轴病（Syringomyelia / MS / PD）→ 问"现在在哪一阶段，下一阶段什么征？"
+> 
+> ---
+> 
+> 学科:: 神经
+> 主题:: Syringomyelia 病程演变
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-12] 心血管 / Leriche 综合征 + PAD 三联 (AMBOSS-Leriche49)
+> 
+> ## Stem 模式
+> 49 岁建筑工男 + **35 PY 吸烟** + BMI 34 + BP 169/98 + 父冠心病 + **6 月 ED (sildenafil 无效)** + 腰背 + 大腿痛 + 走路加重休息缓解 + HbA1c 6.2% (< 6.5%) → 问下一步 PE 体征。
+> 
+> ## 核心概念
+> **Leriche = 主髂分叉 (aortoiliac) 闭塞**：三条下游血管同时缺血 → 三联（双侧大腿/臀 claudication + ED + 股动脉↓）。
+> 
+> ## 普适规则
+> 
+> ### Leriche 三联征 ⭐
+> 1. **双侧大腿/臀部 claudication**（臀肌 + 大腿肌缺血）
+> 2. **ED**（内髂动脉 → 海绵体灌注↓，sildenafil 无效）
+> 3. **股动脉搏动 ↓/消失**（PE 体征）
+> 
+> ### Vascular vs Neurogenic Claudication 金表 ⭐
+> 
+> | 特征 | Vascular (PAD/Leriche) | Neurogenic (Lumbar spinal stenosis) |
+> |---|---|---|
+> | 走路加重 | ✅ | ✅（两者都加重）|
+> | 休息缓解 | ✅ **站着就缓解** | ✅ **需坐下/弯腰** |
+> | 站立不动 | 缓解 | ❌ 不缓解 |
+> | 骑自行车 | 加重 | ✅ **不加重**（弯腰位）|
+> | Pulse | ↓ | 正常 |
+> | 影像 | CTA / MRA | MRI 腰椎 |
+> 
+> ⭐ **黄金口诀**：站立缓解 = Vascular；弯腰缓解 = Neurogenic
+> 
+> ### PAD 治疗优先级（USMLE 必考顺序）
+> 1. **戒烟** > 一切
+> 2. **Antiplatelet (ASA / clopidogrel) + Statin** = 降 MI/Stroke 死亡率（不改善走路）
+> 3. **HbA1c < 7% + 控 BP**
+> 4. Claudication 无 rest pain → **Supervised Exercise Therapy** ⭐ 首选
+> 5. 二线：**Cilostazol**（PDE3i；**HF 禁用**）
+> 6. CLI / 顽固症状 → Revascularization (PTA / Bypass)
+> 
+> ## 易混陷阱（普适）
+> 
+> ### 干扰项配对（本题）
+> 
+> | 选项 | 为什么错 |
+> |---|---|
+> | **A. ↓ Bilateral femoral pulses** ✅ | Leriche 体征 — 完美匹配 |
+> | B. INO (Internuclear ophthalmoplegia) | MS / 卒中；此人双侧慢性 + 强血管高危 ≠ MS（young female + R&R）|
+> | C. Palmar/plantar rash | Secondary syphilis；4 性伴 + 套不规律是诱饵 — 二期梅毒不引起 claudication |
+> | D. JVD | 右心衰；CAD 风险因素 ≠ 当前 HF（无水肿/dyspnea/啰音）|
+> | E. ↓ Anal tone | Spinal stenosis 是**坐下/弯腰缓解**；本题站立缓解 → 排除 |
+> | F. Painless foot ulcer | DM autonomic；**HbA1c 6.2% < 6.5%** 排除 DM；PAD 溃疡 painful |
+> 
+> ### 性史 / 数字陷阱
+> - **4 个性伴 + 套不规律**是 red herring（诱你选梅毒）
+> - **HbA1c 6.2%** 故意贴近 6.5% — 让你以为 DM，实际**排除 DM**
+> - **风险因素 ≠ 当前疾病**（CAD 风险 ≠ 当下 HF）
+> 
+> ## 我为什么错
+> 
+> "没思路" — **完全不认识 Leriche 这个名词**。错因 = **知识**（schema 缺失）。
+> 
+> - 没建立 "PAD 三联征" schema：ED + 大腿痛 + sildenafil 无效 → 不能 cluster 成一个诊断
+> - 没有 "aortoiliac 闭塞同时影响 3 条下游 → 3 个症状" 的解剖映射
+> - Stem 信号无法组成 cohesive picture → 任何选项都解释不掉全部信息 → 选不出来
+> 
+> 核心陷阱：**看到 ED 不要只想泌尿/心理** → 想血管/神经/激素四大方向；**sildenafil 无效**强烈提示**血管源**（不是 cGMP 问题）。
+> 
+> ## Memory Hook
+> 
+> **"主动脉分叉堵车，三条路同时瘫痪"** — 内髂 → ED / 臀肌 → 屁股痛 / 股总 → 腿痛 + 脉弱
+> 
+> **男性 + 双侧大腿臀痛 + ED + sildenafil 无效 + 双股动脉摸不到** → 0.5 秒锁 Leriche
+> 
+> "**Sildenafil 无效 ED**" → 血管源（不是 cGMP 问题）
+> "**走路加重 + 站立缓解 + 脉↓**" → Vascular claudication
+> "**坐下/弯腰缓解**" → Neurogenic claudication
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 
+> - **Q: 为什么 sildenafil 无效就提示血管源？**
+>   → Sildenafil = PDE5i 扩血管平滑肌（cGMP 增多）。但**没血流可扩 = 不起作用**（上游主髂闭塞 → 海绵体灌注↓）。心理性 / cGMP 异常 ED 用 sildenafil 有效。
+> 
+> - **Q: HbA1c 6.2% 是不是 DM？**
+>   → < 6.5% = 排除 DM（pre-diabetes 5.7-6.4%）。本题故意贴近阈值钓选 F（DM 神经性溃疡）。
+> 
+> ## 🔗 关联
+> 
+> - 🔁 同主题错题：此为首道 PAD/Leriche 错题，等后续 Buerger / DVT / Compartment 积累
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/心内]]（PAD 章节）
+>   - [[完整笔记/Peixuan分科笔记/外科]]（血管外科 PTA vs Bypass）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/心内]]（PAD = CAD 等危症，全身动脉粥样硬化）
+>   - [[完整笔记/Peixuan分科笔记/endocrine]]（DM 风险因素 + ABI 假性升高 in CKD/DM 钙化）
+>   - [[完整笔记/Peixuan分科笔记/neuro]]（neurogenic claudication 鉴别）
+> - 🌱 TODO：
+>   - 等下肢缺血题积累 → 生成 [[完整笔记/专题笔记/_衍生_下肢缺血鉴别]]（PAD / Buerger / DVT / Compartment）
+>   - 等 ED 题积累 → 生成 [[完整笔记/专题笔记/_衍生_ED鉴别诊断]]（血管 / 神经 / 心理 / 内分泌 / Peyronie）
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做
+> - [ ] 默写 Leriche 三联征
+> - [ ] 默写 Vascular vs Neurogenic claudication 金表
+> - [ ] 默写 PAD 治疗优先级（戒烟 → ASA+Statin → Exercise → Cilostazol → Revasc）
+> - [ ] 关键习惯：看到 ED → 强制问"是血管 / 神经 / 心理 / 内分泌 / Peyronie 哪种？"
+> 
+> ---
+> 
+> 学科:: 心血管
+> 主题:: Leriche 综合征 / PAD 三联
+> 状态:: 🟡
+> 错因:: 知识
