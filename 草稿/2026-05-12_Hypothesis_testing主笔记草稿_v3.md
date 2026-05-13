@@ -515,8 +515,8 @@ USMLE 默认双尾，除非 stem 明说单向假设。
 ## 11. 关联
 
 - 🔁 **相关错题**：
-  - [[mistakes/uworld-mistakes#Q3941]] Null hypothesis（第 1 章主素材）
-  - [[mistakes/uworld-mistakes#Q21248]] OR/CI 表判读 + Confounding（第 5, 6, 7, 8, 9 章主素材）
+  - [[mistakes/uworld-mistakes#^Q3941]] Null hypothesis（第 1 章主素材）
+  - [[mistakes/uworld-mistakes#^Q21248]] OR/CI 表判读 + Confounding（第 5, 6, 7, 8, 9 章主素材）
   - 待补充：Type I/II / Power / p / 统计检验 系列题
 - 📚 **主笔记**：
   - [[完整笔记/Peixuan分科笔记/Biostats_Master]]

@@ -74,7 +74,7 @@ USMLE-step2-by-Peixuan/
 | **学科笔记** | `[[完整笔记/Peixuan分科笔记/学科名]]` | `[[完整笔记/Peixuan分科笔记/Biostats_Master]]` |
 | **专题/衍生** | `[[完整笔记/专题笔记/笔记名]]` | `[[完整笔记/专题笔记/_衍生_高频陷阱]]` |
 | **错题数据源** | `[[mistakes/uworld-mistakes]]` | — |
-| **错题内部跳转** | `[[mistakes/uworld-mistakes#Q#####]]` | `[[mistakes/uworld-mistakes#Q12685]]` |
+| **错题内部跳转** | `[[mistakes/uworld-mistakes#^Q#####]]` | `[[mistakes/uworld-mistakes#^Q12685]]` |
 | **跨科主题** | 双归属（学科 + 专题）| — |
 
 ### ❌ 禁止行为
@@ -202,8 +202,8 @@ type: 专题笔记
 ```markdown
 ## 🔗 关联
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#Q#####]] 主题一句话
-  - [[mistakes/uworld-mistakes#Q#####]] 主题一句话
+  - [[mistakes/uworld-mistakes#^Q#####]] 主题一句话
+  - [[mistakes/uworld-mistakes#^Q#####]] 主题一句话
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/学科名]] / [[完整笔记/专题笔记/笔记名]]
 - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/学科]]（关联点一句话）
 - 🌱 TODO（待生成衍生）：等 X 章节复习完，整合 [具体错题主题] → 生成 [[完整笔记/专题笔记/_衍生_具体名]]

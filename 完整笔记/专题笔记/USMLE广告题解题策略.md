@@ -231,9 +231,9 @@ tags:
 ## 🔗 关联
 
 - 🔁 关联错题：
-  - [[mistakes/uworld-mistakes#Q7708]] Efrenzia Item 1 — 复合终点拆解
-  - [[mistakes/uworld-mistakes#Q7709]] Efrenzia Item 2 — NNT + 亚组限定
-  - [[mistakes/uworld-mistakes#Q107183]] RRR 计算（"半步陷阱"）
+  - [[mistakes/uworld-mistakes#^Q7708-Q7709-Efrenzia]] Efrenzia Item 1 — 复合终点拆解
+  - [[mistakes/uworld-mistakes#^Q7709]] Efrenzia Item 2 — NNT + 亚组限定
+  - [[mistakes/uworld-mistakes#^Q107183]] RRR 计算（"半步陷阱"）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
 - 🌱 TODO（待生成衍生）：未来积累更多广告题后，请 Claude Code 整合 → 扩充本笔记 + 生成 [[完整笔记/专题笔记/_衍生_高频陷阱/Critical Appraisal 综合]]
 

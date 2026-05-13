@@ -12,7 +12,7 @@ type: 专题笔记
 > [!info] 笔记用途
 > Horner 综合征是一个**跨多疾病的高价值 schema** — 解剖通路决定病因谱，**伴随征决定定位等级**。
 > USMLE 几乎不会单独考"Horner 是什么"，而是考"Horner + X 伴随征 → 哪种病？"
-> 来源：Q20435 病程错题（Syringomyelia → Horner 演变）+ Neuro HY200 听课素材整合。
+> 来源：AMBOSS-Syringo62 病程错题（Syringomyelia → Horner 演变）+ Neuro HY200 听课素材整合。
 
 ---
 
@@ -97,7 +97,7 @@ type: 专题笔记
 
 ### 一级（中枢）三大经典 stem
 
-> [!example]- ① Syringomyelia（脊髓空洞）⭐ — Q20435 来源题
+> [!example]- ① Syringomyelia（脊髓空洞）⭐ — AMBOSS-Syringo62 来源题
 > **Stem 模式**：62 岁女性 + 数年前车祸 / Chiari I → 1 年进展性上肢感觉异常 + **手部无痛烫伤** + 上肢/上胸**披肩样温觉↓但触觉正常** → 问"病程下一步最可能见到？"
 > 
 > **锁定**：披肩痛温↓ + 触觉保留 + Chiari I/whiplash 史 → Syringomyelia
@@ -257,7 +257,7 @@ type: 专题笔记
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#AMBOSS-Syringo62]] Syringomyelia 病程演变（一级 Horner 阶段 2，本笔记直接来源题）
+  - [[mistakes/uworld-mistakes#^AMBOSS-Syringo62]] Syringomyelia 病程演变（一级 Horner 阶段 2，本笔记直接来源题）
   - （等后续 Pancoast / 颈动脉夹层 / Wallenberg / Cluster headache 错题积累）
 
 - 📚 主笔记：

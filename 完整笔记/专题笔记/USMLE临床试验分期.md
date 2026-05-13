@@ -377,11 +377,11 @@ tags:
 ## 🔗 关联
 
 - 🔁 关联错题：
-  - [[mistakes/uworld-mistakes#Q20058]] Phase III 识别（Pegfilgrastim）
-  - [[mistakes/uworld-mistakes#Q22363]] Internal Validity + Blinding（PD psychosis）
-  - [[mistakes/uworld-mistakes#Q7688]] HR 解读（大型 multicenter RCT = Phase III）
-  - [[mistakes/uworld-mistakes#Q7708]] Efrenzia Item 1（Phase III 后广告解读）
-  - [[mistakes/uworld-mistakes#Q3941]] Bias 5 类（Measurement bias 是 Internal validity 的威胁之一）
+  - [[mistakes/uworld-mistakes#^Q20058]] Phase III 识别（Pegfilgrastim）
+  - [[mistakes/uworld-mistakes#^Q22363]] Internal Validity + Blinding（PD psychosis）
+  - [[mistakes/uworld-mistakes#^Q7688]] HR 解读（大型 multicenter RCT = Phase III）
+  - [[mistakes/uworld-mistakes#^Q7708-Q7709-Efrenzia]] Efrenzia Item 1（Phase III 后广告解读）
+  - [[mistakes/uworld-mistakes#^Q3941]] Bias 5 类（Measurement bias 是 Internal validity 的威胁之一）
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/Biostats_Master]]
   - [[完整笔记/专题笔记/USMLE广告题解题策略]]

@@ -975,9 +975,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#Q107183]] RRR 计算（亚组限定 + 分母法则）
->   - [[mistakes/uworld-mistakes#Q20057]] ARR 反推样本量（早上）
->   - [[mistakes/uworld-mistakes#Q20430]] ARP 阳性归因比（早上）
+>   - [[mistakes/uworld-mistakes#^Q107183]] RRR 计算（亚组限定 + 分母法则）
+>   - [[mistakes/uworld-mistakes#^Q20057]] ARR 反推样本量（早上）
+>   - [[mistakes/uworld-mistakes#^Q20430]] ARP 阳性归因比（早上）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]] / [[完整笔记/专题笔记/USMLE广告题解题策略]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（ACS / NSTEMI / 抗血小板药 — Efrenzia 类似 ticagrelor，新型 P2Y12 抑制剂）
 > - 🌱 TODO（待生成衍生）：Biostats 章节复习完后，请 Claude Code 整合所有"广告/摘要解读"类错题 → 扩充 [[完整笔记/专题笔记/USMLE广告题解题策略]]
@@ -1060,9 +1060,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#Q7688]] HR 解读（同为大型 multicenter RCT = Phase III）
->   - [[mistakes/uworld-mistakes#Q7708]] Efrenzia 广告题（Phase III 后的真实广告）
->   - [[mistakes/uworld-mistakes#Q20283]] Case-Control vs Cohort（观察性 vs 实验性 study design）
+>   - [[mistakes/uworld-mistakes#^Q7688]] HR 解读（同为大型 multicenter RCT = Phase III）
+>   - [[mistakes/uworld-mistakes#^Q7708-Q7709-Efrenzia]] Efrenzia 广告题（Phase III 后的真实广告）
+>   - [[mistakes/uworld-mistakes#^Q20283]] Case-Control vs Cohort（观察性 vs 实验性 study design）
 > - 📚 主笔记：
 > - [[完整笔记/专题笔记/USMLE临床试验分期]] ⭐ 今日新建
 > - 🌱 TODO（待生成衍生）：Biostats 章节复习完后，请 Claude Code 整合所有 Phase 相关错题 → 扩充 [[完整笔记/专题笔记/USMLE临床试验分期]]
@@ -1360,7 +1360,7 @@
 > 
 > - 🔁 同主题错题：
 >   - Q12684 (Item 1 同 vignette) — Observational study identification（做对了，但同一 stem 两个考点 = 高频考法）
->   - [[mistakes/uworld-mistakes#Q3941]] Bias 鉴别题（如已建）
+>   - [[mistakes/uworld-mistakes#^Q3941]] Bias 鉴别题（如已建）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/Biostats_Master]]
 >   - [[完整笔记/专题笔记/_衍生_高频陷阱]]
@@ -1489,8 +1489,8 @@
 > - 🔁 同主题错题：
 >   - 首道 Hypothesis testing / Null hypothesis 题
 >   - 关联到 study design 系列：
->     - [[mistakes/uworld-mistakes#Q12684]] Cross-sectional 识别（本题正是其衍生考法）
->     - [[mistakes/uworld-mistakes#Q12685]] Reporting bias（同日 Biostats）
+>     - [[mistakes/uworld-mistakes#^Q12684]] Cross-sectional 识别（本题正是其衍生考法）
+>     - [[mistakes/uworld-mistakes#^Q12685]] Reporting bias（同日 Biostats）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/Biostats_Master]]
 >   - [[完整笔记/专题笔记/Biostats_6指标决策树_纯净版]]（RR/OR/Prevalence 区分基础）
@@ -1720,9 +1720,9 @@
 > - 🔁 同主题错题：
 >   - **Q21248 Item 2 同 vignette** — Confounding（做对了，同 stem 两考点 = 高频考法）
 >   - 同日 Biostats 系列：
->     - [[mistakes/uworld-mistakes#Q12685]] Reporting bias
->     - [[mistakes/uworld-mistakes#Q107800]] ROC 最佳 cutoff
->     - [[mistakes/uworld-mistakes#Q3941]] Null hypothesis（同样涉及"CI 跨 null value"概念）
+>     - [[mistakes/uworld-mistakes#^Q12685]] Reporting bias
+>     - [[mistakes/uworld-mistakes#^Q107800]] ROC 最佳 cutoff
+>     - [[mistakes/uworld-mistakes#^Q3941]] Null hypothesis（同样涉及"CI 跨 null value"概念）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/Biostats_Master]]
 >   - [[完整笔记/专题笔记/Biostats_6指标决策树_纯净版]]（RR/OR 区分基础）
@@ -1849,10 +1849,10 @@
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#Q7688]] Study Design 判定（Item 2）
->   - [[mistakes/uworld-mistakes#Q20090]] Cohort vs Case-Control 鉴别
->   - [[mistakes/uworld-mistakes#Q20283]] Cross-sectional 识别
->   - [[mistakes/uworld-mistakes#Q20058]] Observational study 类型
+>   - [[mistakes/uworld-mistakes#^Q7688]] Study Design 判定（Item 2）
+>   - [[mistakes/uworld-mistakes#^Q20090]] Cohort vs Case-Control 鉴别
+>   - [[mistakes/uworld-mistakes#^Q20283]] Cross-sectional 识别
+>   - [[mistakes/uworld-mistakes#^Q20058]] Observational study 类型
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
 > - 🏥 跨学科：暂无
 > - 🌱 TODO（待生成衍生）：等 Biostats 章节复习完，请 Claude Code 整合 **Q7688 + Q20090 + Q20283 + Q20058 + Q20435** 这 5 道 Study Design 错题 → 生成 [[完整笔记/专题笔记/USMLE_Study_Design决策树]]
@@ -1951,7 +1951,7 @@
 > ## 🔗 关联
 > 
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#AMBOSS-CJD57]] CJD 误选 FTD（同"反射性诊断 + 单一症状导向"）
+>   - [[mistakes/uworld-mistakes#^AMBOSS-CJD57]] CJD 误选 FTD（同"反射性诊断 + 单一症状导向"）
 >   - 等积累更多痴呆题 → AD / VaD / LBD 实战
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/_衍生_老年痴呆鉴别决策树]]（可治痴呆 8 大 + Pseudo 5 钩子直接收录）
@@ -2054,7 +2054,7 @@
 > ## 🔗 关联
 > 
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#AMBOSS-Pseudo78]] Pseudodementia 误选 Donepezil（同"反射性诊断 + 单一症状导向"模式）
+>   - [[mistakes/uworld-mistakes#^AMBOSS-Pseudo78]] Pseudodementia 误选 Donepezil（同"反射性诊断 + 单一症状导向"模式）
 >   - 等后续 PD / HD / TD / Wilson 不自主运动题积累
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/_衍生_老年痴呆鉴别决策树]]（CJD 4 大金标准 + 痴呆速度分类）
