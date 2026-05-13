@@ -2,53 +2,168 @@
 
 ## 2026-05-10
 
-### Hill's criteria:看到剂量分层 + RR 单调递增 = 选 dose-response
+> [!example]- [2026-05-10] Biostats / Hill's criteria — Dose-Response 识别 (Q20787)
+> ^Q20787
+> 
+> ## Stem 模式
+> RCT 比较运动 vs 标准护理对糖尿病停药率，运动组按剂量分 T1/T2/T3 三组，RR 随剂量从 12.1→25.2→38.9 **单调递增** → 问 "additional support" 这是因果（非偶然）的哪条证据？
+> 
+> ## 核心概念
+> **剂量分层 + 结果单调 = Hill's biological gradient (dose-response)**
+> Hill's criteria 是因果推断的 9 条经典准则；USMLE 高频考其中 3 条（dose-response / temporality / strength of association）。
+> 
+> ## 普适规则
+> 
+> ### Hill's 三大金刚（USMLE 高频）
+> | 准则 | Stem 触发词 | 例子 |
+> |---|---|---|
+> | **Dose-response (biological gradient)** ⭐ | "剂量分层 + 结果单调" / T1/T2/T3 + RR 递增 | 本题 RR 12.1→25.2→38.9 |
+> | **Temporality** | 暴露**先于**结局 | RCT 天然满足 |
+> | **Strength of association** | RR / OR 数值大 | RR > 3 等 |
+> 
+> ### "Additional support" 解题原则 ⭐
+> - 题问 "**additional**" → 排除**已经在题干主结果里的信息**
+> - 主结果 = "intensive vs standard 显著关联" → 这是 stem 已给的，**不算 additional**
+> - Additional = stem 在主结果之外**额外提供的信息**（如本题的剂量分层 + 单调）
+> 
+> ## 易混陷阱（普适）
+> 
+> ### 干扰项分析
+> | 选项 | 为什么错 |
+> |---|---|
+> | A. "Bias completely eliminated" | **"completely" = USMLE 经典绝对化陷阱**；RCT 也不可能完全消除 bias |
+> | C. 12 个月随访时长 | follow-up 时长是研究设计要素，**不是 Hill's criteria** |
+> | D. RCT 主结果（intensive vs standard 有显著关联）| 这是 stem 已给的信息，**不是 "additional" 支持** |
+> 
+> ## 我为什么错 / 纠结
+> 
+> 选了 **B（做对但 Mark）** — 纠结点：B vs D
+> 
+> - 不确定 "additional support" 到底排除什么
+> - 没建立 "主结果 vs additional information" 的分辨原则
+> - 知识层不熟：Hill's 9 条只能背出几条名字，不会快速应用
+> 
+> 错因 = **pattern**（识别 dose-response 的模式未自动化）。
+> 
+> ## Memory Hook
+> 
+> > **"剂量分层 + 结果单调 → dose-response"** — 0.5 秒锁定
+> > 
+> > **"Additional support" 题型** = 排除 stem 主结果，找额外信号
+> > 
+> > Hill's 三金刚：**Dose-response / Temporality / Strength**
+> 
+> ---
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q20227]] OR 方向陷阱（同日 Biostats）
+>   - 待积累更多 Hill's / 因果推断题
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - 🏥 跨学科：无
+> - 🌱 TODO：等积累 ≥ 3 道因果推断题 → 生成 [[完整笔记/专题笔记/_衍生_因果推断与Hills准则]]
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q20787（验证模式自动化）
+> - [ ] 默写 Hill's 三金刚
+> - [ ] 默写"additional support 排除主结果"规则
+> - [ ] 关键习惯：看到 RR / 风险按剂量递增 → 立刻喊"dose-response"
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: Hill's criteria — Dose-Response
+> 状态:: 🟡
+> 错因:: pattern
 
-#biostats #causality #dose-response 🟡
-
-- **来源**:UW Q20787
-- **题干要点**:RCT 比较运动 vs 标准护理对糖尿病停药率影响,运动组按剂量分 T1/T2/T3 三组,RR 随剂量从 12.1→25.2→38.9 单调递增
-- **正确答案**:B — 更大运动量与更高停药率显著相关(= biological gradient / dose-response)
-- **我选了**:B(做对但 Mark)— 纠结点:B vs D
-- **关键 buzzword / 识别公式**:
-  - "**剂量分层 + 结果单调** → dose-response" 
-  - "**additional support**" → 排除已在题干主结果里的信息(D 是 RCT 主结果,不算 additional)
-  - **Hill's 三大金刚**:dose-response / temporality / strength of association
-- **关联笔记**:[[Biostats_Master#Causality / Hill's criteria]]
-- **重做次数**:☐ 1st
-- **状态**:🟡 不熟(Mark)
-
-**干扰项分析**:
-- A. "Bias completely eliminated" — 错。"completely" 是 USMLE 经典绝对化陷阱,RCT 也不可能完全消除 bias
-- C. 12 个月随访时长 — 错。follow-up 时长是研究设计要素,但**不是 Hill's criteria**
-- D. RCT 主结果(intensive vs standard 有显著关联)— 错。这是题干已给的信息,不是 "additional" 支持
-
-### OR 方向陷阱 + case-control 不能算 risk
-
-#biostats #odds-ratio #case-control #方向陷阱 🔴
-
-- **来源**: UW Q20227
-- **题干要点**: Case-control 研究,Black vs Non-Hispanic White 女性的 pregnancy-related death,未调整 OR = 3.07 (95% CI 2.78-4.20),调整后 OR = 2.65 (95% CI 2.12-3.45) 仍显著
-- **正确答案**: B — 调整后关联仍显著,提示有**未被研究纳入的外部因素**(如结构性歧视)在起作用
-- **我选了**: D — 错因:**方向陷阱 + risk/odds 混淆**(双重陷阱)
-- **关键 buzzword / 识别公式**:
-  - **OR > 1 → 暴露组 odds 高于 reference 组**(谁是暴露谁是 reference,看题干"X compared to Y" — X 是暴露)
-  - **Case-control 只能算 OR,不能算 risk/RR**(因为不是从暴露追到结局,是从结局倒推暴露)
-  - "**adjusted OR 仍显著**" → 残留关联 → 暗示有**未测量的混杂**(unmeasured confounders / external factors)
-- **关联笔记**: [[Biostats_Master#Odds Ratio]] / [[Biostats_Master#Study Design - Case-Control]]
-- **重做次数**: ☐ 1st
-- **状态**: 🔴 反复错
-
-**干扰项分析**:
-- A. "primarily due to poverty / low prenatal care" — 错。这些因素已经在 adjusted model 里 controlled 了,关联仍显著说明这些**不是主因** 
-- C. "case-control design 不能得出 statistically significant conclusions" — 错。case-control **可以**做 OR + CI,这是其核心用途(尤其对罕见结局)
-- **D. "NHW 是 Black 的 3 倍"** — 错。**方向反了**。题干 "Black compared to NHW" 意思是 Black 是暴露组,OR 3.07 = Black 的 odds 是 NHW 的 3 倍。USMLE 经典反向陷阱
-- E. "调整 contraception use → advanced maternal age contributes" — 错。研究**没有**调整 contraception use,而且 maternal age >35 的 p = 0.12 不显著
-
-**⚠️ CK 高频陷阱**:
-1. **OR 方向永远看"X compared to Y" — X 是暴露,Y 是 reference**
-2. **Case-control 永远算 OR,不算 RR/risk**(选项里说 "risk" 还涉及 case-control → 警惕)
-3. **Adjusted OR 仍显著 → 有 unmeasured confounders**(经典考点,常考"种族健康差异"vignette)
+> [!example]- [2026-05-10] Biostats / OR 方向陷阱 + Case-Control 不能算 risk (Q20227)
+> ^Q20227
+> 
+> ## Stem 模式
+> Case-control 研究：**Black vs Non-Hispanic White** 女性 pregnancy-related death，未调整 OR = 3.07 (95% CI 2.78-4.20)，调整后 OR = 2.65 (95% CI 2.12-3.45) **仍显著** → 问最可能结论。
+> 
+> ## 核心概念
+> **Adjusted OR 仍显著 → 有 unmeasured confounders（残留关联指向未测量的外部因素，如结构性歧视）**
+> 
+> ## 普适规则
+> 
+> ### OR 方向铁律 ⭐
+> - **OR > 1 → 暴露组 odds 高于 reference 组**
+> - 谁是暴露 / 谁是 reference 看 stem **"X compared to Y"** → **X 是暴露**，Y 是 reference
+> - 本题："Black compared to NHW" → Black 是暴露，OR 3.07 = **Black 的 odds 是 NHW 的 3 倍**
+> 
+> ### Case-control 测量铁律
+> - **Case-control 只能算 OR**（odds ratio）— **不能算 risk / RR**
+> - 原因：不是从暴露追到结局（前瞻），而是从结局倒推暴露（回顾）→ 没有分母 = total exposed
+> - **看到 case-control + 选项里说 "risk" → 立刻警惕**
+> 
+> ### Adjusted vs Unadjusted OR 解读
+> | 情况 | 含义 |
+> |---|---|
+> | Adj OR ≈ Unadj OR | 这些 confounders 没解释关联 → 真实关联 / 或有 unmeasured |
+> | Adj OR < Unadj OR 但仍显著 | 部分关联被解释 + **残留有 unmeasured confounders** ← 本题 |
+> | Adj OR → 1（不显著）| 关联完全由调整的 confounders 解释 |
+> 
+> ## 易混陷阱（普适）
+> 
+> ### 干扰项分析
+> | 选项 | 为什么错 |
+> |---|---|
+> | A. "primarily due to poverty / low prenatal care" | 这些已经在 adjusted model 里 controlled，**关联仍显著说明它们不是主因** |
+> | C. "case-control 不能得出 statistically significant conclusions" | Case-control **可以**做 OR + CI，这是其核心用途（罕见结局首选）|
+> | **D. "NHW 是 Black 的 3 倍"** ⭐ 我选的 | **方向反了** — Black 是暴露，OR 3.07 = Black 的 odds 是 NHW 的 3 倍。USMLE 经典反向陷阱 |
+> | E. "调整 contraception use → maternal age contributes" | 研究**没有**调整 contraception use；且 maternal age > 35 的 p = 0.12 **不显著** |
+> 
+> ### ⚠️ CK 高频陷阱（普适）
+> 1. **OR 方向永远看 "X compared to Y" — X 是暴露，Y 是 reference**
+> 2. **Case-control 永远算 OR，不算 RR / risk**（选项里说 "risk" 涉及 case-control → 警惕）
+> 3. **Adjusted OR 仍显著 → 有 unmeasured confounders**（经典考点，常考"种族健康差异" vignette）
+> 
+> ## 我为什么错
+> 
+> 选了 **D. "NHW 是 Black 的 3 倍"**。错因 = **干扰项**（双重陷阱：方向 + risk/odds 混淆）。
+> 
+> - **方向陷阱**：没识别 "X compared to Y" 中 X 是暴露组，把 OR 3.07 反向理解
+> - **概念混淆**：把 odds 当成 risk，case-control 里没注意"不能算 risk"的铁律
+> - **被 stem 顺序迷惑**：题干先说 NHW 再说 Black，惯性把 NHW 当作"主语"
+> 
+> 核心陷阱：**USMLE 把方向反向 + 术语混用同时埋一个选项**，钓不看"X compared to Y"语序的人。
+> 
+> ## Memory Hook
+> 
+> > **"X compared to Y" → X 是暴露**（X 在前）
+> > 
+> > **Case-control = OR 专属**（永远不能说 risk）
+> > 
+> > **Adjusted OR 仍显著 → 还有没调的 confounder**（"残留 = 未测量"）
+> > 
+> > 类比：**赛跑成绩 "A 比 B 快"** → A 是被比较对象（暴露），B 是基准（reference）
+> 
+> ---
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q20787]] Hill's criteria（同日 Biostats）
+>   - [[mistakes/uworld-mistakes#^Q20283]] Case-Control vs Cohort 场景适配
+>   - [[mistakes/uworld-mistakes#^Q21248]] OR-CI 表格判读 + Confounding
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/OB]]（pregnancy-related death 流行病学 / 种族差异）
+> - 🌱 TODO：等积累 ≥ 3 道 OR 方向 / case-control 错题 → 整合到 [[完整笔记/专题笔记/Biostats_6指标决策树_纯净版]] 或生成 [[完整笔记/专题笔记/_衍生_OR_RR方向陷阱]]
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q20227（验证方向陷阱是否还会中招）
+> - [ ] 默写 "X compared to Y → X 是暴露" 铁律
+> - [ ] 默写 Case-control 不能算 risk 的原因（无分母 = total exposed）
+> - [ ] 默写 Adjusted OR 仍显著 → unmeasured confounders 含义
+> - [ ] 关键习惯：看到 OR 题 → 强制找 "X compared to Y"，圈出 X / Y
+> - [ ] 关键习惯：看到 case-control + 选项有 "risk" → 红灯
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: OR 方向陷阱 + Case-control 不能算 risk
+> 状态:: 🔴
+> 错因:: 干扰项
 
 ## 2026-05-11
 
