@@ -2305,3 +2305,231 @@
 > 主题:: Leriche 综合征 / PAD 三联
 > 状态:: 🟡
 > 错因:: 知识
+
+> [!example]- [2026-05-12] Biostats / RCT 质量评估 — Randomization Success 判定 (Q4121)
+> ^Q4121
+> 
+> ## Stem 模式
+> RCT 的 Table 1 显示两组 baseline characteristics（age, race, HTN 等）相似 → 问最可能的结论。
+> 
+> ## 核心概念
+> **Baseline 相似 = Randomization 成功**
+> - Randomization 是 RCT 独有工具，能控制 known + UNKNOWN confounders
+> - Table 1（baseline characteristics）= randomization 的"体检报告"
+> - 基线相似 → 混杂因素被均匀分配 → 两组可比
+> 
+> ## 普适规则 — Biostats 题黄金 SOP
+> 
+> ### 🎯 "题目给什么 → 只能推什么"
+> | Stem 给的信息 | 只能推出的结论 |
+> |---|---|
+> | Table 1（baseline 相似）| Randomization 成功 ✅ |
+> | Sample size + effect size + α | Power 评估 |
+> | Outcome 数据 + p 值 | Positive / negative study |
+> | 盲法描述 | Observer bias 控制 |
+> | 分配方法描述 | Allocation concealment 评估 |
+> 
+> **铁律**：不给的信息 → 不能瞎推（USMLE 选项陷阱专坑这个）
+> 
+> ## 高频对比表 1 — RCT 4 大质量评估维度 ⭐
+> 
+> | 维度 | 评估什么 | 看什么信息判定 | 工具 |
+> |---|---|---|---|
+> | **Randomization success** | 两组可比性 / confounders 均匀分配 | **Table 1**（baseline 相似？）| Randomization |
+> | **Adequate sample size** | 是否有足够 power | Sample size calculation（n + effect + α + β）| Power calculation |
+> | **Power** | 1−β = 检测真实差异的能力 | n + effect size + α + variability，**与 baseline 无关** | 公式：Power = 1−β |
+> | **Bias control** | Observer / performance / recall bias | 是否 blinded（single/double/triple）| Blinding |
+> 
+> ## 高频对比表 2 — RCT 3 大质控工具（按时间线）⭐
+> 
+> | 工具 | 发生时间 | 防什么 | 怎么做 | 怎么验证 |
+> |---|---|---|---|---|
+> | **Randomization** | 分组**那一刻** | Confounding（known + unknown）| 随机数表 / 计算机 | Table 1 基线相似 |
+> | **Allocation concealment** | 分组**前** | **Selection bias** | 不透明信封 / 中央分配 | 描述分配方法 |
+> | **Blinding** | 分组**后**整个过程 | **Observer / performance bias** | 安慰剂外观一致 / 编码药物 | 描述盲法实施 |
+> 
+> ### Allocation Concealment 速记
+> - 定义：分组**前**，招募者和受试者都**不能预知**下一个人会被分到哪组
+> - 没有它的灾难：医生预知分组 → 给重症选新药、轻症选安慰剂 → selection bias
+> - 实现方法：不透明信封 / 中央分配系统 / 预编码药物
+> - **vs Randomization**：随机化是"用什么方法分组"，AC 是"分组前能不能预知"
+> - **vs Blinding**：AC 在分组**前**，blinding 在分组**后**
+> 
+> ## 高频对比表 3 — Randomization vs Matching（同样产生"基线相似"，机制完全不同）⭐
+> 
+> | | Randomization | Matching |
+> |---|---|---|
+> | **出现在** | RCT | Observational（cohort / case-control）|
+> | **过程** | 先随机分组 → 后看基线 | 先选一组 → 按特征配对选另一组 |
+> | **相似的本质** | 随机化的**副产品**（被动）| 人为强制的**结果**（主动）|
+> | **控制 confounders** | known + **UNKNOWN** | **只控制 known** 的那些变量 |
+> | **Stem 关键动词** | "**randomly assigned**" / "randomized" | "**matched**" / "selected to match" |
+> 
+> ## 易混陷阱（普适）
+> 
+> ### ⚠️ 陷阱 1：把 RCT 的"基线相似"误认为 matching
+> RCT 里基线相似 = **randomization** 的副产品，**不是 matching**。
+> **判定铁律**：看动词。"randomly assigned" → randomization；"matched" → matching。
+> 
+> ### ⚠️ 陷阱 2：把 "large-scale" 等同于 "power 大"
+> "Large-scale" 是描述性词，不是统计判定。Power 需要 **n + effect size + α + variability** 4 类信息才能评估，光说"大规模"不够。
+> 
+> ### ⚠️ 陷阱 3：Randomization ≠ Allocation Concealment
+> 一个研究可以"randomized"但**没有 allocation concealment**（如奇偶分配 — 医生能预知）。两者必须分开评估。
+> 
+> ### ⚠️ 陷阱 4：Randomization 防 confounding，Blinding 防 bias
+> - **Randomization → 控制 confounding**（已知+未知混杂因素）
+> - **Blinding → 控制 bias**(observer / performance bias)
+> - 两者**不能互换**，是完全不同的工具
+> 
+> ## Power 深度速记 ⭐
+> 
+> ### 4 大决定因素
+> | 因素 | 关系 | 比喻 |
+> |---|---|---|
+> | **Sample size (n)** | n ↑ → Power ↑ | 渔网大小，网越大越能捞鱼 |
+> | **Effect size** | ES ↑ → Power ↑ | 差异越明显越容易看出 |
+> | **α 水平** | α ↑ → Power ↑（但 Type I error 也↑）| 大门门槛 |
+> | **Variability** | 变异 ↓ → Power ↑ | 数据越集中信号越清晰 |
+> 
+> ### ⚠️ 反直觉警告：α 和 Power 是**同向**变化 ⭐
+> 
+> **错误直觉**：α 大 = 标准松 = 研究质量差 = Power 小 ❌
+> **正确逻辑**：α 大 = 拒绝 H₀ 的门槛低 = 真假差异都更容易被宣布"显著" = Power ↑ + Type I error ↑（同时上升）
+> 
+> | α 变化 | 大门比喻 | Power | Type I (α) |
+> |---|---|---|---|
+> | α ↑(标准**松**，如 0.10) | 大门**敞开**，谁都能进 | **↑**(真差异容易抓到) | **↑**(假差异也被误判) |
+> | α ↓(标准**严**，如 0.01) | 大门**紧闭**，严查 | **↓**(真差异被漏掉) | **↓**(不冤枉无差异) |
+> 
+> **核心**：α 和 Power **同向**变化；α 和 β **反向**变化（Power = 1−β）。
+> **代价**：调高 α 提升 Power 的同时增加假阳性 → 学术界不接受 → 实践中 α 固定 0.05 → 实际**调控 Power 只能靠 n**。
+> 
+> ### 📊 一张表锁死所有调整关系 ⭐⭐⭐
+> 
+> | 调整 | α (Type I) | β (Type II) | Power (1−β) |
+> |---|---|---|---|
+> | **α ↑**（门槛松）| ↑ | ↓ | **↑** |
+> | **α ↓**（门槛严）| ↓ | ↑ | **↓** |
+> | **n ↑**（样本量大）| **不变** | ↓ | **↑** |
+> | **Effect size ↑**（效应大）| **不变** | ↓ | **↑** |
+> | **Variability ↓**（数据集中）| **不变** | ↓ | **↑** |
+> 
+> **规律**：
+> - **α 和 β**（n 固定时）→ **反比**（跷跷板）
+> - **α 和 Power** → **正比**（因 Power = 1−β）
+> - **n / Effect size / Variability** → **只影响 β 和 Power，不碰 α**
+> 
+> ### 🎯 终极口诀（背这一句就够）⭐
+> 
+> > **"α 和 β 反，β 和 Power 反，所以 α 和 Power 正"**
+> > 
+> > 推导：
+> > - α ↕ β（反）
+> > - β ↕ Power（反，因为 Power = 1−β）
+> > - 反的反 = 正 → **α 和 Power 同向** ✅
+> 
+> ### ⚠️ 应用层易错点（2026-05-12 暴露的 3 个盲点）
+> 
+> **盲点 1：方向感 — 反比时要真的反过来**
+> - 每次看到 α 变化，**先画箭头**：α ↑ → β ↓ → Power ↑
+> - 陷阱：理论懂"反比"，应用时方向搞反
+> 
+> **盲点 2：n 是"独立变量"，不碰 α**
+> - α 是研究者主动设定（默认 0.05），不是算出来的
+> - 不管 n 多大，α 仍是 0.05
+> - 口诀：**"n 只动 β 和 Power，不碰 α 和 Effect"**
+> 
+> **盲点 3：USMLE 题干约束词必读**
+> - "**不增加假阳性**" / "without increasing Type I" → **排除调 α 的选项**
+> - "**仅增加 Power**" → 只能选改 n / effect / variability
+> - 陷阱：只看后半句"增加 Power"，忽略前半句的约束 → 错选"调高 α"
+> 
+> **黄金答题套路**：
+> - 问"如何提升 Power" → 优先选 **"增加 sample size"**（唯一不动 α 的合法手段）
+> - 问"如何降低 Type I" → 选"调低 α"（但代价是 Power 也降）
+> - "p > 0.05 但仍想确认无差异" → 检查是否 **underpowered**（n 是否够）
+> 
+> ### 4 种假设检验结果
+> | | H₀ 真（无差异）| H₀ 假（有差异）|
+> |---|---|---|
+> | **说"无差异"** | ✅ 正确 | ❌ Type II (β) |
+> | **说"有差异"** | ❌ Type I (α) | ✅ **Power (1−β)** |
+> 
+> ### Power 判定铁律
+> 评估 Power 需要：**n + effect size + α + variability**
+> Table 1 完全不包含这些信息 → **Table 1 无法判 Power**
+> 
+> ## 我为什么错（个性化）
+> **选了 C（Power is big）。真实错因：双层陷阱**
+> 
+> ### 错因 1（深层）：上一题（Q20435）的 matching 概念污染了本题判断
+> - 刚学完"matched control 是 cohort 也能用"
+> - 看到本题"两组相似" → 大脑联想"是不是 matching 做的？"
+> - **忽略了 stem 关键词 "randomly assigned"** — 这才是真正的判定信号
+> - 没识别"动词决定机制"的原则
+> 
+> ### 错因 2（表层）：过度联想 + 不懂 Power
+> - 没把"randomization successful"当成"直接答案"
+> - 觉得正确答案不会"这么简单"，转而选了听起来更复杂的 C
+> - 实际上**完全不懂 Power 需要哪些信息**（不知道 Table 1 和 Power 无关）
+> 
+> **核心教训**：
+> 1. **看动词**："randomly assigned" → randomization；"matched" → matching
+> 2. **直球选答案**：Biostats 题往往有直接答案，不要绕弯
+> 3. **题目给什么 → 只能推什么**：Table 1 只能判 randomization
+> 
+> ## Memory Hook
+> 
+> > **三句话保命口诀**：
+> > 1. **"看动词，不看结果"** — Randomly assigned → randomization；Matched → matching
+> > 2. **"题目给什么 → 只能推什么"** — Table 1 → randomization；n+effect → power
+> > 3. **"Randomization 防 confounding，Blinding 防 bias，AC 防 selection bias"** — 三个工具不能互换
+> 
+> > **类比 — 抽签 vs 配对相亲**：
+> > - **Randomization** = 抽签分组，运气好两边均匀（被动相似）
+> > - **Matching** = 红娘按特征配对，故意造相似（主动相似）
+> 
+> > **Power 类比 — 侦探破案**：
+> > - Power = 真有罪时成功定罪的概率
+> > - n 大 = 证据多；Effect size 大 = 罪行明显
+> > - Type I (α) = 冤枉好人；Type II (β) = 放过坏人
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点（学习路径）
+> 
+> | 我问的关键问题 | 学到了什么 |
+> |---|---|
+> | "我以为两组相似是被 matched 的结果，怎么区分？" | **真实错因暴露** — 上一题的 matching 概念污染了本题；判定铁律 = 看动词（randomly assigned vs matched）|
+> | "Allocation concealment 这个概念以前没见过" | RCT 的 3 大质控工具（按时间线）：randomization（分组那一刻）+ AC（分组前）+ blinding（分组后）|
+> | "对 Power 概念不熟悉" | Power = 1−β；4 大决定因素 = n + effect + α + variability；与 Table 1 无关 |
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q20435]] Cohort vs Case-Control（matched control 概念 — 上一题，导致本题概念污染）
+>   - [[mistakes/uworld-mistakes#^Q7688]] Study Design 判定
+>   - 本题是 **RCT 质量评估**首题，等后续题积累
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（carvedilol 是 systolic HF 三大 mortality-benefit β-blocker 之一：carvedilol / metoprolol succinate / bisoprolol）
+> - 🌱 TODO（待生成衍生）：
+>   - 等 Biostats 章节复习完，请 Claude Code 整合 **RCT 质量评估类错题**（目前 Q4121，需积累到 3+ 道）→ 生成 [[完整笔记/专题笔记/USMLE_RCT质量评估]]
+>     - **必须包含**：RCT 4 大质量评估表 + 3 大质控工具按时间线表 + Randomization vs Matching 区分表 + Allocation concealment 专节 + Power 4 大决定因素 + "题目给什么→只能推什么" SOP
+>   - 等 Biostats 章节复习完，请 Claude Code 整合 **Bias 类错题**（Q3941 + Q20090 + Q4121 涉及的 selection / observer bias）→ 生成 [[完整笔记/专题笔记/USMLE_Bias_5大鉴别]]
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q4121（验证是否还会被 matching 概念污染）
+> - [ ] 默写 **RCT 4 大质量评估维度表**
+> - [ ] 默写 **RCT 3 大质控工具时间线表**（Randomization / AC / Blinding）
+> - [ ] 默写 **Randomization vs Matching 区分表**
+> - [ ] 默写 **Power 4 大决定因素** + 4 种假设检验结果
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/Biostats_Master]] 加 #薄弱点（Biostats 基础概念欠扎实）
+> - [ ] 下次看到"baseline 相似" → 强制问"是 randomized 还是 matched？"（看动词）
+> - [ ] 下次看到 Biostats 题 → 强制问"stem 给了什么数据？只能推什么结论？"
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: RCT 质量评估 — Randomization Success
+> 状态:: 🟡
+> 错因:: 知识
