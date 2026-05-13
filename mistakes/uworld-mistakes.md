@@ -53,6 +53,7 @@
 ## 2026-05-11
 
 > [!example]- [2026-05-11] Biostats / ARP 阳性归因比 (Q20430)
+> ^Q20430
 > 
 > ## 一句话识别
 > ARP vs RR/ARI/NNH:"attributed to" + 两组 risk = (Re−Ru)/Re,分母是暴露组
@@ -95,6 +96,7 @@
 > 错因:: 
 
 > [!example]- [2026-05-11] Biostats / ARR 反推样本量 (Q20057)
+> ^Q20057
 > 
 > ## 一句话识别
 > 给 ARR + 给一组发病人数 + 问样本量 n → **必须先算 Rt，再 n = 病例数 / Rt**
@@ -158,6 +160,7 @@
 > 错因:: 
 
 > [!example]- [2026-05-11] Biostats / LR+ 阳性似然比 (Q107214)
+> ^Q107214
 > 
 > ## 一句话识别
 > 给 2×2 表 + 问 LR+ → **LR+ = 有病阳性率 / 无病阳性率 = Sens / (1−Spec)**
@@ -229,6 +232,7 @@
 > 错因:: 
 
 > [!example]- [2026-05-11] Biostats / ROC 曲线 + Cutoff 跷跷板 (Q7711)
+> ^Q7711
 > 
 > ## 一句话识别
 > **问 1**：ROC 上移 + sens 数据 46%→70% → **aspirin 增加 sensitivity**
@@ -321,6 +325,7 @@
 > 错因:: 
 
 > [!example]- [2026-05-11] Biostats / Matching 控制 Confounding (Q4182)
+> ^Q4182
 > 
 > ## 一句话识别
 > Case-control + 邻居匹配 + 控制 age/race → **匹配是为了控制 Confounding** ✅
@@ -404,6 +409,7 @@
 > 错因:: 
 
 > [!example]- [2026-05-11] Biostats / PPV NPV vs Prevalence (Q21656)
+> ^Q21656
 > 
 > ## 一句话识别
 > 同一检测两组 NPV 不同 → **必定是 prevalence 不同**
@@ -487,6 +493,7 @@
 > 错因:: 
 
 > [!example]- [2026-05-11] Biostats / HR 解读 (Q7688)
+> ^Q7688
 >
 > ## 🎯 Stem 模式
 > "Which factor **most significantly increases risk**" + **HR 表格** → 找**最大的 HR（>1 且 CI 不跨 1）**
@@ -565,6 +572,7 @@
 > 错因:: 
 
 > [!example]- [2026-05-11] Biostats / Study Design Factorial 识别 (Q7688-Item2)
+> ^Q7688-Item2
 >
 > ## 🎯 Stem 模式
 > Stem 出现 **"randomized to ... AND TO ..."** 句式 → **≥2 个独立变量同时随机化** → **Factorial design**
@@ -646,6 +654,7 @@
 > 错因:: 
 
 > [!example]- [2026-05-11] Biostats / Case Series 局限性 + 证据等级 (Q20090)
+> ^Q20090
 >
 > ## 🎯 Stem 模式
 > "Single report + 小样本 + 全员接受治疗 + 与历史/published outcomes 比较（**no control group**）" → **Case Series** → 证据等级低 → **不足以推荐治疗**
@@ -770,6 +779,7 @@
 > 错因:: 
 
 > [!example]- [2026-05-11] Biostats / Case-Control vs Cohort 场景适配 (Q20283)
+> ^Q20283
 >
 > ## 🎯 Stem 模式
 > "**Rare disease** + **Long latent period** + **Find risk factors**" → **Case-Control 金三角** → 秒选 case-control
@@ -875,6 +885,7 @@
 > 错因:: 
 
 > [!example]- [2026-05-11] Biostats / 广告题双题：复合终点 + NNT (Q7708 + Q7709, Efrenzia)
+> ^Q7708-Q7709-Efrenzia
 >
 > ## 🎯 Stem 模式
 > **Q7708（Item 1）**："Based on drug ad, ... decrease which event?" → **找驱动复合终点差异的 outcome**（其他 outcomes 通常无显著差异）
@@ -989,6 +1000,7 @@
 > 错因:: 
 
 > [!example]- [2026-05-11] Biostats / Clinical Trial Phase III 识别 (Q20058)
+> ^Q20058
 >
 > ## 🎯 Stem 模式
 > "**Large multicenter** + **affected patients** + **randomized + placebo-controlled** + **efficacy**" → **Phase III**
@@ -1072,6 +1084,7 @@
 > 错因:: 
 
 > [!example]- [2026-05-11] Biostats / Internal Validity + Blinding (Q22363)
+> ^Q22363
 > 题目主旨：Blinded raters 对主观量表评估的作用 → 减少 measurement bias → 提升 Internal validity
 > 详见主笔记：[[完整笔记/专题笔记/USMLE临床试验分期#Part 2：临床试验质量评价]]
 > 
@@ -1085,6 +1098,7 @@
 ## 2026-05-12
 
 > [!example]- [2026-05-12] Biostats / ROC 最佳 cutoff (Q107800)
+> ^Q107800
 > 
 > ## Stem 模式
 > 给 ROC 曲线图 + 标注几个 cut point（A-E）+ 每个点的 (TPR, FPR) 坐标 → 问 "best diagnostic accuracy" 是哪个。
@@ -1237,6 +1251,7 @@
 > 错因:: 
 
 > [!example]- [2026-05-12] Biostats / Reporting bias (Q12685)
+> ^Q12685
 > 
 > ## Stem 模式
 > 同人群、当面 vs 匿名两次调查 → 结果不同。话题自带社会污名（含糖饮料、肥胖、酒精、毒品、性、家暴、体重）。Stem 主动写明"response rate and demographics comparable"——出题人在喊话："Ascertainment / Nonresponse 不是答案。"
@@ -1370,6 +1385,7 @@
 > 错因:: 
 
 > [!example]- [2026-05-12] Biostats / Null Hypothesis (Q3941)
+> ^Q3941
 > 
 > ## Stem 模式
 > Cross-sectional study（用 **prevalence** + **某时点** 锁定）→ 问 **best statement of null hypothesis**。
@@ -1502,6 +1518,7 @@
 > 错因:: 
 
 > [!example]- [2026-05-12] Biostats / OR-CI 表格判读 + Confounding (Q21248)
+> ^Q21248
 > 
 > ## Stem 模式
 > 
@@ -1739,6 +1756,7 @@
 > 错因:: 知识
 
 > [!example]- [2026-05-12] Biostats / Study Design 判定 — Cohort vs Case-Control (Q20435)
+> ^Q20435
 > 
 > ## Stem 模式
 > 研究先按"有/无某诊断"分两组（matched control）→ 多年后查另一个疾病的发生率 → 问 study design。
@@ -1857,6 +1875,7 @@
 > 错因:: 知识
 
 > [!example]- [2026-05-12] 神经 / Pseudodementia vs AD (AMBOSS-Pseudo78)
+> ^AMBOSS-Pseudo78
 > 
 > ## Stem 模式
 > 78 岁男 + **5 周** 健忘 + 危险行为（门没关 / 水龙头开着）+ 失眠 (6-7×/night) + 疲乏 + **lost interest in piano** + PMR + **blunt affect** + labs 正常 (TSH/B12/folate) + **"concerned about memory lapses"** → 问下一步治疗。
@@ -1957,6 +1976,7 @@
 > 错因:: pattern
 
 > [!example]- [2026-05-12] 神经 / CJD 招牌识别 (AMBOSS-CJD57)
+> ^AMBOSS-CJD57
 > 
 > ## Stem 模式
 > 57 岁男 + **2 个月**进展性认知下降（3 周内 ADL 不能）+ **diffuse involuntary muscle jerking** + **provoked by loud noises** + akinetic mutism + **EEG: triphasic periodic sharp-wave complexes** → 问诊断。
@@ -2057,6 +2077,7 @@
 > 错因:: pattern
 
 > [!example]- [2026-05-12] 神经 / Syringomyelia 病程演变 (AMBOSS-Syringo62)
+> ^AMBOSS-Syringo62
 > 
 > ## Stem 模式
 > 62 岁女 + **MVC 3 年前 (whiplash)** + 1 年进展性双上肢感觉异常 + **手指无痛烫伤数次** + 双侧上肢/上胸 **披肩样温觉↓ + 触觉正常** → 问 further evaluation most likely to show?
@@ -2173,6 +2194,7 @@
 > 错因:: 知识
 
 > [!example]- [2026-05-12] 心血管 / Leriche 综合征 + PAD 三联 (AMBOSS-Leriche49)
+> ^AMBOSS-Leriche49
 > 
 > ## Stem 模式
 > 49 岁建筑工男 + **35 PY 吸烟** + BMI 34 + BP 169/98 + 父冠心病 + **6 月 ED (sildenafil 无效)** + 腰背 + 大腿痛 + 走路加重休息缓解 + HbA1c 6.2% (< 6.5%) → 问下一步 PE 体征。
