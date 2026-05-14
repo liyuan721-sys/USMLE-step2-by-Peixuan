@@ -13,9 +13,10 @@ tags:
 > 单套题的**学习导航中心**。读取 [[_做题结果_NBME12]] 表格数据，
 > 按"学科 × 4 种状态"任意组合筛选题目，点击跳转到 breakdown 学习。
 > 
-> 📂 配套文件：
+> 📂 配套文件（v6.2）：
 > - 做题结果（输入）：[[_做题结果_NBME12]]
-> - 题目详解：[[NBME12_breakdown]]
+> - 题目详解（4 Section）：[[NBME12_S1_breakdown]] · [[NBME12_S2_breakdown]] · [[NBME12_S3_breakdown]] · [[NBME12_S4_breakdown]]
+> - 套题入口：[[NBME12_套题索引]]
 > - 全局视图：[[NBME_全局学习Dashboard]]
 
 ---
@@ -37,7 +38,8 @@ if (!path) {
   let currentSection = null;
   
   for (const line of lines) {
-    const sectionMatch = line.match(/^### Section (\d+)/);
+    // 兼容 ## 或 ### Section 标题（容错）
+    const sectionMatch = line.match(/^#{2,3}\s+Section\s*(\d+)/);
     if (sectionMatch) {
       currentSection = parseInt(sectionMatch[1]);
       continue;
@@ -45,19 +47,24 @@ if (!path) {
     
     if (line.match(/^\|\s*\d+\s*\|/)) {
       const cells = line.split("|").map(c => c.trim()).filter((c, i, arr) => i > 0 && i < arr.length - 1);
-      if (cells.length >= 4) {
+      // v6.2 表格 8 列：Q# | 学科 | 主题 | HY | r/w | mk | 选 | 备注
+      if (cells.length >= 6) {
         const qid = cells[0];
         const subject = cells[1];
-        const rw = cells[2].toLowerCase();
-        const mk = cells[3].toLowerCase();
-        const choice = cells[4] || "";
-        const note = cells[5] || "";
+        const topic = cells[2];
+        const hy = cells[3];
+        const rw = cells[4].toLowerCase();
+        const mk = cells[5].toLowerCase();
+        const choice = cells[6] || "";
+        const note = cells[7] || "";
         
         records.push({
           qid: qid.padStart(3, "0"),
           qidRaw: qid,
           section: currentSection,
           subject,
+          topic,
+          hy: parseInt(hy) || 0,
           result: rw === "r" ? "right" : (rw === "w" ? "wrong" : "blank"),
           mark: mk === "m",
           my_choice: choice,
@@ -70,6 +77,14 @@ if (!path) {
   // 储存到全局供后续查询用
   window._learnDashRecords = records;
   window._learnDashNbme = dv.current().nbme;
+  
+  // v6.2 拆 Section：helper 函数，根据 qid 决定指向哪个 Section 文件
+  window._qLinkSection = (r) => {
+    const nbme = window._learnDashNbme;
+    const qn = parseInt(r.qidRaw);
+    const sec = qn <= 50 ? "S1" : qn <= 100 ? "S2" : qn <= 150 ? "S3" : "S4";
+    return `[[NBME${nbme}_${sec}_breakdown#^Q${r.qid}|Q${r.qid}]]`;
+  };
   
   // 统计
   const right = records.filter(r => r.result === "right");
@@ -148,7 +163,7 @@ if (records.length > 0) {
 
 ```dataviewjs
 const records = window._learnDashRecords || [];
-const nbme = window._learnDashNbme;
+const qLink = window._qLinkSection;
 const pseudo = records.filter(r => r.result === "right" && r.mark);
 
 if (pseudo.length === 0) {
@@ -164,7 +179,7 @@ if (pseudo.length === 0) {
   for (const [subj, items] of Object.entries(grouped).sort()) {
     dv.header(4, `${subj} (${items.length} 道)`);
     dv.list(items.map(r => 
-      `[[NBME${nbme}_breakdown#Q${r.qid}|Q${r.qid}]]${r.my_choice ? " — 选了 " + r.my_choice : ""}${r.my_note ? " | " + r.my_note : ""}`
+      `${qLink(r)} **${r.topic || ""}** [HY:${r.hy}]${r.my_choice ? " — 选了 " + r.my_choice : ""}${r.my_note ? " | " + r.my_note : ""}`
     ));
   }
 }
@@ -176,7 +191,7 @@ if (pseudo.length === 0) {
 
 ```dataviewjs
 const records = window._learnDashRecords || [];
-const nbme = window._learnDashNbme;
+const qLink = window._qLinkSection;
 const cleanWrong = records.filter(r => r.result === "wrong" && !r.mark);
 
 if (cleanWrong.length === 0) {
@@ -192,7 +207,7 @@ if (cleanWrong.length === 0) {
   for (const [subj, items] of Object.entries(grouped).sort()) {
     dv.header(4, `${subj} (${items.length} 道)`);
     dv.list(items.map(r => 
-      `[[NBME${nbme}_breakdown#Q${r.qid}|Q${r.qid}]]${r.my_choice ? " — 选了 " + r.my_choice : ""}${r.my_note ? " | " + r.my_note : ""}`
+      `${qLink(r)} **${r.topic || ""}** [HY:${r.hy}]${r.my_choice ? " — 选了 " + r.my_choice : ""}${r.my_note ? " | " + r.my_note : ""}`
     ));
   }
 }
@@ -204,7 +219,7 @@ if (cleanWrong.length === 0) {
 
 ```dataviewjs
 const records = window._learnDashRecords || [];
-const nbme = window._learnDashNbme;
+const qLink = window._qLinkSection;
 const markedWrong = records.filter(r => r.result === "wrong" && r.mark);
 
 if (markedWrong.length === 0) {
@@ -220,7 +235,7 @@ if (markedWrong.length === 0) {
   for (const [subj, items] of Object.entries(grouped).sort()) {
     dv.header(4, `${subj} (${items.length} 道)`);
     dv.list(items.map(r => 
-      `[[NBME${nbme}_breakdown#Q${r.qid}|Q${r.qid}]]${r.my_choice ? " — 选了 " + r.my_choice : ""}${r.my_note ? " | " + r.my_note : ""}`
+      `${qLink(r)} **${r.topic || ""}** [HY:${r.hy}]${r.my_choice ? " — 选了 " + r.my_choice : ""}${r.my_note ? " | " + r.my_note : ""}`
     ));
   }
 }
@@ -234,7 +249,7 @@ if (markedWrong.length === 0) {
 
 ```dataviewjs
 const records = window._learnDashRecords || [];
-const nbme = window._learnDashNbme;
+const qLink = window._qLinkSection;
 const cleanRight = records.filter(r => r.result === "right" && !r.mark);
 
 if (cleanRight.length === 0) {
@@ -250,7 +265,7 @@ if (cleanRight.length === 0) {
   for (const [subj, items] of Object.entries(grouped).sort()) {
     dv.header(4, `${subj} (${items.length} 道)`);
     dv.list(items.map(r => 
-      `[[NBME${nbme}_breakdown#Q${r.qid}|Q${r.qid}]]`
+      `${qLink(r)} ${r.topic || ""}`
     ));
   }
 }
@@ -267,7 +282,7 @@ if (cleanRight.length === 0) {
 const TARGET_SUBJECT = "心内";
 
 const records = window._learnDashRecords || [];
-const nbme = window._learnDashNbme;
+const qLink = window._qLinkSection;
 const filtered = records.filter(r => r.subject === TARGET_SUBJECT);
 
 if (filtered.length === 0) {
@@ -287,7 +302,7 @@ if (filtered.length === 0) {
     if (items.length > 0) {
       dv.header(4, `${label} (${items.length} 道)`);
       dv.list(items.map(r => 
-        `[[NBME${nbme}_breakdown#Q${r.qid}|Q${r.qid}]]${r.my_choice ? " — 选了 " + r.my_choice : ""}${r.my_note ? " | " + r.my_note : ""}`
+        `${qLink(r)} **${r.topic || ""}** [HY:${r.hy}]${r.my_choice ? " — 选了 " + r.my_choice : ""}${r.my_note ? " | " + r.my_note : ""}`
       ));
     }
   }
@@ -309,7 +324,11 @@ if (filtered.length === 0) {
 
 【输入】
 - 做题结果：[[_做题结果_NBME12]]
-- 题目详解：[[NBME12_breakdown]]
+- 题目详解（4 Section）：
+  - [[NBME12_S1_breakdown]] Q001-Q050
+  - [[NBME12_S2_breakdown]] Q051-Q100
+  - [[NBME12_S3_breakdown]] Q101-Q150
+  - [[NBME12_S4_breakdown]] Q151-Q200
 
 【复盘优先级】
 1. 伪掌握（r/w=r + mk=m）— 最高优先级
@@ -319,7 +338,7 @@ if (filtered.length === 0) {
 【输出 NBME12_复盘报告.md】
 
 1. 总体表现：估分、正确率、学科正确率排行
-2. 三类问题题深度分析
+2. 三类问题题深度分析（引用题号用 `[[NBME12_S{N}_breakdown#^Q###]]` 格式）
 3. 陷阱模式归类：trap_type / thinking_error_type / stem_pattern
 4. 关联到 vault：哪些主笔记加 #薄弱点
 5. 考前必看清单：基于本套 + [[薄弱点]] 的 15-25 个考点

@@ -15,7 +15,8 @@ tags:
 # NBME 12 做题结果（第 1 刷）
 
 > [!info] 套题信息
-> - **题目详解**：[[NBME12_breakdown]]
+> - **套题入口**：[[NBME12_套题索引]]（含 4 Section 文件链接）
+> - **题目详解**：[[NBME12_S1_breakdown]] · [[NBME12_S2_breakdown]] · [[NBME12_S3_breakdown]] · [[NBME12_S4_breakdown]]
 > - **学习视图**：[[NBME12_学习Dashboard]]
 > - **全局视图**：[[NBME_全局学习Dashboard]]
 > - **二刷文件**（如有）：[[_做题结果_NBME12_R2]]
@@ -78,7 +79,8 @@ const records = [];
 let currentSection = null;
 
 for (const line of lines) {
-  const sectionMatch = line.match(/^### Section (\d+)/);
+  // 兼容 ## 或 ### Section 标题
+  const sectionMatch = line.match(/^#{2,3}\s+Section\s*(\d+)/);
   if (sectionMatch) {
     currentSection = parseInt(sectionMatch[1]);
     continue;
@@ -147,6 +149,13 @@ dv.table(["指标", "数值", "说明"],
 const records = window._nbmeRecords || [];
 const nbme = window._nbmeNumber;
 
+// v6.2 拆 Section：根据 qid 自动指向对应 Section 文件
+const qLink = (r) => {
+  const qn = parseInt(r.qidRaw);
+  const sec = qn <= 50 ? "S1" : qn <= 100 ? "S2" : qn <= 150 ? "S3" : "S4";
+  return `[[NBME${nbme}_${sec}_breakdown#^Q${r.qid}|Q${r.qid}]]`;
+};
+
 const pseudo = records.filter(r => r.result === "right" && r.mark);
 const cleanWrong = records.filter(r => r.result === "wrong" && !r.mark);
 const markedWrong = records.filter(r => r.result === "wrong" && r.mark);
@@ -155,7 +164,7 @@ if (pseudo.length > 0) {
   dv.header(3, `⚠️ 伪掌握（${pseudo.length} 道）— 最高优先级`);
   dv.paragraph("**🔴 真考翻车高危区**：标记了但答对，意味着你不踏实。");
   dv.list(pseudo.map(r => 
-    `[[NBME${nbme}_breakdown#Q${r.qid}|Q${r.qid}]] [${r.subject || "?"}] **${r.topic || ""}** [HY:${r.hy}]${r.my_choice ? " — 选了 " + r.my_choice : ""}${r.my_note ? " | " + r.my_note : ""}`
+    `${qLink(r)} [${r.subject || "?"}] **${r.topic || ""}** [HY:${r.hy}]${r.my_choice ? " — 选了 " + r.my_choice : ""}${r.my_note ? " | " + r.my_note : ""}`
   ));
 }
 
@@ -163,7 +172,7 @@ if (cleanWrong.length > 0) {
   dv.header(3, `🔴 干净错（${cleanWrong.length} 道）— 完全盲区`);
   dv.paragraph("没标记直接错 = 完全不知道这是个考点。");
   dv.list(cleanWrong.map(r => 
-    `[[NBME${nbme}_breakdown#Q${r.qid}|Q${r.qid}]] [${r.subject || "?"}] **${r.topic || ""}** [HY:${r.hy}]${r.my_choice ? " — 选了 " + r.my_choice : ""}${r.my_note ? " | " + r.my_note : ""}`
+    `${qLink(r)} [${r.subject || "?"}] **${r.topic || ""}** [HY:${r.hy}]${r.my_choice ? " — 选了 " + r.my_choice : ""}${r.my_note ? " | " + r.my_note : ""}`
   ));
 }
 
@@ -171,7 +180,7 @@ if (markedWrong.length > 0) {
   dv.header(3, `🟡 标记错（${markedWrong.length} 道）— 自知盲区`);
   dv.paragraph("知道自己不会，针对性补即可。");
   dv.list(markedWrong.map(r => 
-    `[[NBME${nbme}_breakdown#Q${r.qid}|Q${r.qid}]] [${r.subject || "?"}] **${r.topic || ""}** [HY:${r.hy}]${r.my_choice ? " — 选了 " + r.my_choice : ""}${r.my_note ? " | " + r.my_note : ""}`
+    `${qLink(r)} [${r.subject || "?"}] **${r.topic || ""}** [HY:${r.hy}]${r.my_choice ? " — 选了 " + r.my_choice : ""}${r.my_note ? " | " + r.my_note : ""}`
   ));
 }
 

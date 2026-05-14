@@ -30,7 +30,8 @@ if (pages.length === 0) {
     let currentSection = null;
     
     for (const line of lines) {
-      const sectionMatch = line.match(/^### Section (\d+)/);
+      // 兼容 ## 或 ### Section 标题
+      const sectionMatch = line.match(/^#{2,3}\s+Section\s*(\d+)/);
       if (sectionMatch) {
         currentSection = parseInt(sectionMatch[1]);
         continue;
@@ -38,19 +39,25 @@ if (pages.length === 0) {
       
       if (line.match(/^\|\s*\d+\s*\|/)) {
         const cells = line.split("|").map(c => c.trim()).filter((c, i, arr) => i > 0 && i < arr.length - 1);
-        if (cells.length >= 4) {
+        // v6.2 表格 8 列：Q# | 学科 | 主题 | HY | r/w | mk | 选 | 备注
+        if (cells.length >= 6) {
           const qid = cells[0];
           const subject = cells[1];
-          const rw = cells[2].toLowerCase();
-          const mk = cells[3].toLowerCase();
-          const choice = cells[4] || "";
-          const note = cells[5] || "";
+          const topic = cells[2];
+          const hy = cells[3];
+          const rw = cells[4].toLowerCase();
+          const mk = cells[5].toLowerCase();
+          const choice = cells[6] || "";
+          const note = cells[7] || "";
           
           allRecords.push({
             qid: qid.padStart(3, "0"),
+            qidRaw: qid,
             nbme: page.nbme,
             section: currentSection,
             subject,
+            topic,
+            hy: parseInt(hy) || 0,
             result: rw === "r" ? "right" : (rw === "w" ? "wrong" : "blank"),
             mark: mk === "m",
             my_choice: choice,
@@ -63,6 +70,13 @@ if (pages.length === 0) {
   
   // 储存全局
   window._allNbmeRecords = allRecords;
+  
+  // v6.2 拆 Section：helper 函数，根据 qid 决定指向哪个 Section 文件
+  window._qLinkGlobal = (r) => {
+    const qn = parseInt(r.qidRaw);
+    const sec = qn <= 50 ? "S1" : qn <= 100 ? "S2" : qn <= 150 ? "S3" : "S4";
+    return `[[NBME${r.nbme}_${sec}_breakdown#^Q${r.qid}|NBME${r.nbme} Q${r.qid}]]`;
+  };
   
   const right = allRecords.filter(r => r.result === "right");
   const wrong = allRecords.filter(r => r.result === "wrong");
@@ -205,7 +219,7 @@ if (pseudo.length === 0) {
   for (const [subj, items] of sorted) {
     dv.header(4, `${subj} (${items.length} 道)`);
     dv.list(items.map(r => 
-      `[[NBME${r.nbme}_breakdown#Q${r.qid}|NBME${r.nbme} Q${r.qid}]]${r.my_choice ? " — 选了 " + r.my_choice : ""}${r.my_note ? " | " + r.my_note : ""}`
+      `${window._qLinkGlobal(r)} **${r.topic || ""}** [HY:${r.hy}]${r.my_choice ? " — 选了 " + r.my_choice : ""}${r.my_note ? " | " + r.my_note : ""}`
     ));
   }
 }
@@ -236,7 +250,7 @@ if (cleanWrong.length === 0) {
   for (const [subj, items] of sorted) {
     dv.header(4, `${subj} (${items.length} 道)`);
     dv.list(items.map(r => 
-      `[[NBME${r.nbme}_breakdown#Q${r.qid}|NBME${r.nbme} Q${r.qid}]]${r.my_choice ? " — 选了 " + r.my_choice : ""}${r.my_note ? " | " + r.my_note : ""}`
+      `${window._qLinkGlobal(r)} **${r.topic || ""}** [HY:${r.hy}]${r.my_choice ? " — 选了 " + r.my_choice : ""}${r.my_note ? " | " + r.my_note : ""}`
     ));
   }
 }
@@ -267,7 +281,7 @@ if (markedWrong.length === 0) {
   for (const [subj, items] of sorted) {
     dv.header(4, `${subj} (${items.length} 道)`);
     dv.list(items.map(r => 
-      `[[NBME${r.nbme}_breakdown#Q${r.qid}|NBME${r.nbme} Q${r.qid}]]${r.my_choice ? " — 选了 " + r.my_choice : ""}${r.my_note ? " | " + r.my_note : ""}`
+      `${window._qLinkGlobal(r)} **${r.topic || ""}** [HY:${r.hy}]${r.my_choice ? " — 选了 " + r.my_choice : ""}${r.my_note ? " | " + r.my_note : ""}`
     ));
   }
 }
@@ -303,7 +317,7 @@ if (filtered.length === 0) {
     if (items.length > 0) {
       dv.header(4, `${label} (${items.length} 道)`);
       dv.list(items.map(r => 
-        `[[NBME${r.nbme}_breakdown#Q${r.qid}|NBME${r.nbme} Q${r.qid}]]${r.my_choice ? " — 选了 " + r.my_choice : ""}${r.my_note ? " | " + r.my_note : ""}`
+        `${window._qLinkGlobal(r)} **${r.topic || ""}** [HY:${r.hy}]${r.my_choice ? " — 选了 " + r.my_choice : ""}${r.my_note ? " | " + r.my_note : ""}`
       ));
     }
   }
