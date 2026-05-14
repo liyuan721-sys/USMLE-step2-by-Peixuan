@@ -2905,3 +2905,178 @@
 > 主题:: Ruptured AAA vs 出血胰腺炎（Grey Turner 多病因鉴别）
 > 状态:: 🟡
 > 错因:: pattern
+
+---
+
+> [!example]- [2026-05-14] 内分泌 / 急诊 / Adrenal Crisis vs Anaphylaxis (Q17169)
+> ^Q17169
+> 
+> ## Stem 模式
+> 慢性病程（数月）+ 应激事件触发（手术 / 操作 / 麻醉）+ **难治性低血压**（refractory to fluids）+ **无过敏征**（无皮疹 / 喉水肿 / wheezing）+ **PAI 五联指纹**（Na↓ / K↑ / HCO3↓ / Glu↓ / Eos↑）→ **Adrenal crisis on chronic PAI**
+> 
+> ## 核心概念
+> **PAI 危象主要由醛固酮缺乏驱动**（容量丢失 + 高钾），cortisol 缺乏使升压药无效（α₁ 受体需 cortisol 才能工作）。这就是为什么 PAI crisis 比单纯 cortisol 缺乏（如外源激素停药）更凶险 —— **原发缺三样，继发 / 三发只缺一样**。
+> 
+> ## 普适规则
+> 
+> **① PAI 五联实验室指纹（必背锁定法）**
+> 
+> | 指标 | 改变 | 机制 |
+> |---|---|---|
+> | **Na** | ↓（≈ 130）| Aldo↓ 排 Na + cortisol↓ 致 ADH↑ |
+> | **K** | ↑（≈ 5.1）| Aldo↓ → K 潴留 |
+> | **HCO3** | ↓（≈ 20）| Aldo↓ → H+ 排泌↓（正常 AG 代酸，HARDASS 的 A）|
+> | **Glucose** | ↓（< 70）| Cortisol↓ → 糖异生↓ |
+> | **Eos** | ↑（> 5%）| Cortisol↓ → 解除 Eos 抑制 |
+> 
+> **见任意 3 个 → 想 PAI；4 个 → 高度怀疑；5 个 → 几乎确诊**
+> 
+> **② Adrenal Crisis vs Anaphylaxis 鉴别**
+> 
+> | 维度 | Adrenal Crisis | Anaphylaxis |
+> |---|---|---|
+> | 病程 | 慢性背景 + 急性触发 | 纯急性，分钟内 |
+> | 皮肤 / 气道 | 无急性皮疹 / 喉水肿 | **必有**皮疹 / 喉水肿 / wheezing |
+> | SaO2 | 正常 | 多 < 90% |
+> | Na / K / Glu | Na↓ / K↑ / Glu↓ | 正常 |
+> | 对补液反应 | **Refractory** | 部分有效 |
+> | 第一步处理 | **Hydrocortisone IV + 补液** | **IM epinephrine** |
+> 
+> **③ 三种 AI 鉴别（原发 vs 继发 vs 三发）**
+> 
+> | | Primary (PAI) | Secondary (垂体) | Tertiary (外源激素停药) |
+> |---|---|---|---|
+> | Cortisol | ↓ | ↓ | ↓ |
+> | Aldosterone | **↓↓** | 正常 | 正常 |
+> | ACTH | ↑↑ | ↓ | ↓ |
+> | K | **↑** | 正常 | 正常 |
+> | 皮肤色素 | **有** | 无 | 无 |
+> | 危象严重度 | 最重 | 中 | 中 |
+> | 治疗 | hydrocortisone + fludrocortisone | hydrocortisone | hydrocortisone |
+> 
+> **口诀**："原发缺三样，继发 / 三发只缺一样" → PAI crisis 最凶
+> 
+> **④ 应激分级 + Stress Dose Steroid（围手术期高频）**
+> 
+> | 级别 | 典型情境 | Stress Dose |
+> |---|---|---|
+> | 轻度 | 牙科 / 局部小手术 / 内镜（无镇静）| 维持原剂量 或 hydrocortisone 25 mg IV |
+> | **中度** | **内镜 + 镇静**（本题）/ 疝 / 胆囊 / 关节镜 / 中等感染 | Hydrocortisone **50 mg IV** + 25 mg q8h × 24h |
+> | 重度 | 大手术 / 重症脓毒症 / 严重创伤 / 烧伤 | Hydrocortisone **100 mg IV** + 50 mg q8h × 48-72h |
+> | 危象 | 已发生 crisis | **100 mg IV bolus** + 200 mg/24h infusion |
+> 
+> **首选 hydrocortisone**（同时有糖 + 部分盐皮质活性），dexamethasone 用于不干扰 cortisol 测定时
+> 
+> **⑤ Eos↑ 完整鉴别（修正 "Eos↑ = 过敏" 反射）**
+> 
+> ```
+> Eos↑ → 先看伴随线索：
+> ├─ 伴 Na↓ / K↑ / Glu↓ ────→ ★ PAI / Addison's
+> ├─ 伴皮疹 / wheezing ───→ Anaphylaxis
+> ├─ 伴用药 + 皮疹 + 发热 ─→ DRESS
+> ├─ 伴旅行 / 移民 ──────→ 寄生虫
+> ├─ 伴哮喘 + 鼻息肉 ────→ AERD / EGPA
+> ├─ 伴食管 / 食物过敏 ──→ 嗜酸性食管炎
+> └─ 伴 AKI + 用药 + 皮疹 → AIN
+> ```
+> 
+> **⑥ "应激" 完整清单**（PAI 患者遇到任何一个都警惕 crisis）
+> - 手术 / 内镜 + 镇静 / 拔牙 / 介入操作
+> - 感染（任何）/ 创伤 / 烧伤
+> - DKA / 大出血 / MI / 卒中 / 分娩
+> - 药物：**Etomidate**（11β-羟化酶抑制）/ 酮康唑 / Rifampin
+> 
+> ## 易混陷阱（普适）
+> - ❌ **症状不特异 → 死记症状**：体重↓ / GI / 疲劳 单独看极不特异，**必须靠"组合 + 实验室指纹 + 慢性病程"三层锁定**
+> - ❌ **Eos↑ = 过敏**：Eos↑ 在 PAI 是 cortisol 缺乏的"反向指纹"，不是过敏证据
+> - ❌ **GI 症状几个月 = 来就诊的原因**：USMLE 不写废话，慢性病程是诊断核心舞台
+> - ❌ **"refractory to fluids" 不当线索**：补液无效是 adrenal crisis 的**特征性表现**（α₁ 受体无 cortisol 不工作）
+> - ❌ **SaO2 95% on room air = 正常**：注意 "on what FiO2"——若 on 2L NC 则隐性低氧；on RA = 真正常 = 排除呼吸源性休克
+> - ❌ **Imaging unrevealing = 没线索**：在 USMLE 里 ≈ 90% 是引导你想内分泌 / 功能性病因
+> - ❌ **答案选项陷阱**：PAI crisis 主要驱动因素 = **aldosterone deficiency**，不是 cortisol deficiency（UWorld 立场）
+> 
+> ## 我为什么错
+> - 选了：**B. Anaphylaxis**
+> - 错因：**pattern**（在两个看似合理诊断间错切换 — 看到 Na↓ / K↑ 想 A，又看到 Eos 12% + propofol 暴露切换到 B；默认 Eos↑ = 过敏的反射映射）
+> - 核心陷阱：**症状不特异 → 看实验室指纹**。症状是干扰项，指纹才是锚点
+> 
+> **具体错位**：
+> - ☑ 没整合"慢性背景 + 急性触发"双时间轴（数月病程 + 10kg 减重是 PAI 舞台，propofol 只是按下开关）
+> - ☑ 不知 Eos↑ 是 PAI 经典指纹（默认 Eos↑ → 过敏）
+> - ☑ 忽略阴性体征：stem 写 "no oropharyngeal abnormality, no wheezing, no skin rash" + SaO2 95% 共 5 条反向证据全部排除 anaphylaxis，被五联里 Eos 一项拽过去
+> - ☑ 没用 "refractory to fluids" 做判别
+> 
+> ## Memory Hook
+> 
+> **🎯 指纹思维**（最重要的认知升级）：
+> > "症状不特异时，回到实验室。**PAI 五联指纹 = 全 USMLE 内分泌最特征的组合**。看到 4-5 项同现 → 直接锁定，跳过症状迷雾。"
+> 
+> **一句话锁定**：
+> > "数月减重 + 操作中突然倒下 + 补液无效 + 低钠高钾高嗜酸 = 肾上腺危象，先给氢可的松。"
+> 
+> **类比**：
+> - **PAI 患者 = 没电池的备用发电机**：平时勉强，应激就完蛋
+> - **Cortisol = 血管的"扩音器"**：没它，肾上腺素再吼血管也听不见
+> - **"原发缺三样，继发 / 三发只缺一样"**：PAI 危象最凶
+> 
+> **🔍 阴性体征红圈扫读法**（USMLE 读题升级）：
+> ```
+> 做题流程：
+> 1. 第一遍：定位阳性核心症状 → 初步诊断 1-2 个
+> 2. 第二遍：扫所有 no / without / negative / normal / unremarkable → "红圈"标记
+> 3. 第三遍：每个候选诊断 × 阴性体征核对
+> 4. 反推：如果答案是 X，stem 应该写什么？现在写了什么相反的？
+> ```
+> 高频触发语言：no / no evidence of / negative for / without / denies / unremarkable / X is normal / imaging unrevealing / **no improvement with X**（最关键）
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 
+> | 我问的关键问题 | 学到了什么 |
+> |---|---|
+> | Cortisol 减少会嗜酸增高？ | 对，cortisol 是 Eos 生理抑制因子；缺乏时解除抑制 → PAI 指纹之一 |
+> | 两者都低血压休克，如何鉴别？ | 病程（慢 / 急）+ 皮肤气道（有 / 无）+ SaO2（正常 / 降）+ 对补液反应（无效 / 有效）+ 实验室指纹（5 联 / 正常）|
+> | GI 病史是否就是来就诊原因？ | 不，USMLE 不写废话；10kg 减重 + 数月慢性 = PAI 诊断核心舞台 |
+> | Addison's 为什么有体重下降 + GI 症状？ | 4 通路：食欲↓（cortisol↓ 致食欲↓）+ 容量丢失 + 糖异生缺陷致肌肉分解 + 慢性疲劳致活动↓ |
+> | 症状非特异认不出来怎么办？ | **指纹思维**：跳过症状看实验室；建立"实验室指纹诊断大全" |
+> | 读题时忽略阴性体征怎么办？ | **红圈扫读法**：每道题强制扫 no / without 并核对每个候选诊断 |
+> | 麻药算应激吗？ | 算（中度应激）；触发因素是 propofol + 操作 + 禁食 + 焦虑的复合应激 |
+> | SaO2 95% 算降低吗？PAI 怎么解释？ | 正常下限，不算 hypoxemia；PAI 不影响 SaO2，95% 的作用是排除 anaphylaxis / PE 而非 PAI 证据；**必看 "on what FiO2"** |
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 本题首张内分泌 / 急诊 AI 卡，等后续 PAI / Cushing / 继发 AI / 应激剂量激素题积累
+> - 📚 主笔记：
+>   - [[完整笔记/专题笔记/_衍生_肾上腺皮质功能不全决策树]] ⭐（本题落地的衍生笔记）
+>   - [[完整笔记/Peixuan分科笔记/endocrine]] / [[完整笔记/Peixuan分科笔记/心内]]（休克鉴别）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/外科]]（围手术期 stress dose 激素管理）
+>   - [[完整笔记/Peixuan分科笔记/感染]]（Waterhouse-Friderichsen → 急性 AI）
+>   - [[完整笔记/专题笔记/_衍生_主动脉急症决策树]]（与昨日 Q4212 形成"难治性休克"系列）
+>   - [[完整笔记/专题笔记/_衍生_实验室指纹诊断大全]] ⭐（PAI 五联触发本索引建立）
+> - 🌱 TODO（待生成衍生）：
+>   - 累计 3+ 道"难治性休克鉴别"题（adrenal crisis / cardiogenic / 主动脉破裂失血 / 神经源 / 脓毒症）→ 生成 [[完整笔记/专题笔记/_衍生_难治性休克鉴别]]
+>   - 累计 3+ 道"嗜酸增高鉴别"题 → 生成 [[完整笔记/专题笔记/_衍生_嗜酸增高鉴别诊断]]
+>   - 累计 3+ 道阴性体征陷阱题后 → 生成 [[完整笔记/专题笔记/_衍生_读题策略_阴性体征]]
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q17169，目标 < 90 秒选 A
+> - [ ] 默写 **PAI 五联指纹** + 每项机制
+> - [ ] 默写 **Adrenal Crisis vs Anaphylaxis 6 项鉴别**
+> - [ ] 默写 **三种 AI 鉴别表**（原发 / 继发 / 三发）
+> - [ ] 默写 **应激分级 + stress dose**（4 个级别 + hydrocortisone 剂量）
+> - [ ] 默写 **Eos↑ 6 路鉴别决策树**
+> - [ ] 找类似题：① secondary AI ② 围手术期 stress dose ③ Waterhouse-Friderichsen ④ etomidate 诱发 AI ⑤ 长期激素停药致 crisis
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/endocrine]] 加 #要做题
+> - [ ] **建立"指纹思维"习惯**：以后做内分泌 / 代谢题，先扫实验室异常组合再看症状
+> - [ ] **建立"阴性体征红圈扫读"习惯**：每道 UW 题强制走三遍读题流程
+> - [ ] **修正 "Eos↑ = 过敏" 反射**：见 Eos↑ 强制走 6 路决策树
+> - [ ] **建立"慢性背景 + 急性触发"思维**：见"数月-数年症状" + "突发事件"默认想慢性病急性失代偿
+> 
+> ---
+> 
+> 学科:: 内分泌
+> 主题:: Adrenal Crisis vs Anaphylaxis（PAI 五联指纹）
+> 状态:: 🟡
+> 错因:: pattern
