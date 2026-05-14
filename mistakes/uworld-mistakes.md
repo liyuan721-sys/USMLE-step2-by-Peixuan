@@ -2648,3 +2648,162 @@
 > 主题:: RCT 质量评估 — Randomization Success
 > 状态:: 🟡
 > 错因:: 知识
+
+---
+
+## 2026-05-14
+
+> [!example]- [2026-05-14] Heme-Onc / 抗凝药拮抗剂 4 对（复盘 self-test）
+> 
+> ## Stem 模式
+> 
+> "在吃 [Warfarin / UFH / Dabigatran / Apixaban] 的患者 + 急性出血（ICH / GI bleed / 大手术前）→ 拮抗剂 / 逆转策略?"
+> 
+> ## 核心概念
+> 
+> 不同抗凝药 → 不同拮抗剂；**不能一律 FFP**。每个 DOAC 有特异性逆转药，按靶点（IIa vs Xa）配对。
+> 
+> ## 普适规则
+> 
+> | 抗凝药 | 拮抗剂 | 起效 | 备注 |
+> |---|---|---|---|
+> | **UFH** | **Protamine sulfate** | 几分钟 | 与 heparin 负电荷结合 |
+> | **LMWH**（Enoxaparin）| Protamine（只中和 60%）| 部分有效 | 效果不全，仅紧急时用 |
+> | **Warfarin** + 严重出血/ICH | **4F-PCC + Vit K**（不是单独 FFP！）| PCC 几分钟；Vit K 6-24h | PCC 立刻补 II/VII/IX/X；Vit K 修复肝合成 |
+> | **Dabigatran**（抗 IIa）| **Idarucizumab** | 5 分钟 | 单克隆抗体 |
+> | **Xa-DOAC**（Apixaban / Rivaroxaban / Edoxaban）| **Andexanet alfa** | 几分钟 | 重组诱饵 Xa |
+> | **Fondaparinux** | 无特异拮抗 | — | 4F-PCC 部分有效 |
+> 
+> ## 易混陷阱（普适）
+> 
+> - **Warfarin 严重出血 ≠ 单独 FFP**：FFP 因子浓度低、需大量输注、TACO 风险 → **4F-PCC + Vit K** 才是首选
+> - **Idarucizumab 只对 Dabigatran**（抗 IIa），不能用于 Xa-DOAC
+> - **Andexanet alfa 只对 Xa-DOAC**，不能用于 Dabigatran
+> - **LMWH 用 Protamine 只中和 60%**，效果不全
+> - UFH 静脉用量过大 → Protamine 也要分次用（避免低血压 / 过敏）
+> 
+> ## 我为什么错
+> 
+> - 选了：5/14 复盘 4 对全空（"以上都不记得"）+ 题 4 出血处理 4 道全部"不会"
+> - 错因：**知识** — 这块完全零基础，从未系统接触
+> - 核心陷阱：4 个药名 + 4 个拮抗剂名 = 8 个新词，不背就只能猜
+> 
+> ## Memory Hook
+> 
+> - **Idar-a-ru** → 抗 **II-a** (Dabigatran)
+> - **And-ex-anet** → 抗 **X-a** (Apixaban / Rivaroxaban)
+> - **Protamine** → "拉硫酸根" → 与 Heparin 负电荷结合
+> - **Warfarin → 4F-PCC + Vit K** 三件套：**PCC 立刻补因子，Vit K 长效修肝**
+> - 一句话：**"看到 Warfarin ICH 不要 FFP，先想 PCC + Vit K"**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 
+> | 我问的关键问题 | 学到了什么 |
+> |---|---|
+> | "Warfarin ICH 为什么不直接 FFP？" | FFP 因子浓度低 + 需要大量输注（TACO 风险）+ 起效慢；**PCC = 浓缩 II/VII/IX/X + 几分钟起效** = 首选 |
+> | "Dabigatran 和 Apixaban 拮抗剂为什么不一样？" | 作用靶点不同（IIa vs Xa），抗体 / 诱饵蛋白**特异性结合** → 必须配对 |
+> | "LMWH 为什么 Protamine 只中和 60%？" | Protamine 主要中和 anti-IIa 活性；LMWH 主要靠 anti-Xa 活性，anti-Xa 部分中和不全 |
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 本卡是抗凝药拮抗剂首张卡，等积累
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/hematology oncology]] / [[完整笔记/Peixuan分科笔记/心内]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（Warfarin ICH 紧急逆转最常见 stem）；[[完整笔记/Peixuan分科笔记/GI]]（DOAC GI 出血逆转）
+> - 🌱 TODO（待生成衍生）：等抗凝出血题积累到 3+ 道 → 请 Claude Code 整合到 [[完整笔记/专题笔记/_衍生_抗凝药拮抗剂_4对]]
+>   - **必须包含**：4 对拮抗剂表 + 起效时间 + 适应/禁忌 + Warfarin 急性出血 SOP（4F-PCC + Vit K 而非 FFP）+ 特异性配对原理（IIa vs Xa）
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 4 道出血处理情境题
+> - [ ] 默写 4 对拮抗剂表（含起效时间）
+> - [ ] 找 3 道 UW 抗凝出血题
+> - [ ] 手动加 #考前必看 / #薄弱点 标签（高频 + 完全空白）
+> 
+> ---
+> 
+> 学科:: Heme-Onc
+> 主题:: 抗凝药拮抗剂选择
+> 状态:: 🟡
+> 错因:: 知识
+
+---
+
+> [!example]- [2026-05-14] 肺 / PE 不稳定第一步 — TTE vs TEE，溶栓 vs 取栓（复盘 self-test）
+> 
+> ## Stem 模式
+> 
+> "SBP < 90 + 严重呼吸困难 + 怀疑 PE → 下一步?"
+> 干扰项常包括：CTPA / TEE / 紧急外科取栓 / IVC filter。
+> 
+> ## 核心概念
+> 
+> 不稳定 PE = 高死亡率 → **床旁 TTE 评估 RV strain** → **tPA 溶栓**（**不是 TEE，不是取栓**）。
+> 
+> ## 普适规则
+> 
+> | PE 情境 | 诊断第一步 | 治疗第一步 |
+> |---|---|---|
+> | 稳定 + 低/中可疑 | **D-dimer**（阴性可排）| 抗凝待结果 |
+> | 稳定 + 高可疑（Wells > 4）| **CTPA**（不做 d-dimer）| **经验性抗凝**同时进行 |
+> | **不稳定**（SBP < 90 / shock）| **床旁 TTE**（看 RV strain）| **tPA 溶栓** + 抗凝 |
+> | 抗凝禁忌（近期大出血 / ICH）| CTPA | **IVC filter** |
+> | tPA 禁忌 / 溶栓失败 | — | 外科 / 导管取栓（catheter embolectomy） |
+> 
+> ## 易混陷阱（普适）
+> 
+> - **TTE ≠ TEE**
+>   - **TTE**（Trans**t**horacic）= 床旁、无创、首选；不稳定 PE 看 RV
+>   - **TEE**（Trans**e**sophageal）= 食管探头、需镇静；用于**主动脉夹层** / **心内膜炎** / **心房血栓**
+> - **不稳定 PE → 溶栓 not 取栓**
+>   - tPA 是一线（如无禁忌）
+>   - 外科 / 导管取栓只在 tPA 禁忌或溶栓失败时
+> - **Wells > 4 高可疑 → 直接 CTPA**，不做 d-dimer（浪费时间 + 假阴风险）
+> - **不稳定不等 CTPA**：先床旁 TTE 看 RV → 立刻经验性 tPA（CTPA 需要搬病人去 CT 室，不稳定 PE 风险大）
+> - **不要把 stroke LVO 取栓概念搬到 PE**：解剖位置不同，PE 是肺远端弥漫栓子，导管难达
+> 
+> ## 我为什么错
+> 
+> - 选了：诊断写 **TEE** / 治疗写 "取栓?"
+> - 错因：**知识 + 易混**（TTE/TEE 缩写混；溶栓/取栓概念错搬）
+> - 核心陷阱：把"血管内取栓 = stroke 的 LVO 治疗"概念错搬到 PE
+> 
+> ## Memory Hook
+> 
+> - **T-T-E** = **T**op (体表) + **T**horacic + **T**rauma bay = 急诊床旁不稳定 PE
+> - **T-E-E** = **E**sophagus = 主动脉夹层（看降主动脉）/ 心内膜炎（看瓣膜）/ 房颤血栓
+> - 不稳定 PE → **"溶栓 not 取栓"**（PE 是肺动脉远端弥漫栓子，导管难达 → 溶栓全身扩散更合理）
+> - **Stroke LVO** 才取栓（颈内 / MCA M1 近端可达）
+> - **TTE 看不稳定 PE 的 4 个征**：RV dilation / RV hypokinesis / **McConnell sign**（RV 自由壁运动减弱、心尖部正常）/ D-shaped LV
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 
+> | 我问的关键问题 | 学到了什么 |
+> |---|---|
+> | "为什么 PE 不取栓但 Stroke 取栓？" | 解剖 + 导管可达性：PE = 肺动脉远端弥漫栓子，导管难全清；Stroke LVO = 近端大血管（颈内 / MCA M1），导管可达 |
+> | "TTE 是看什么？怎么提示 PE？" | RV dilation / RV hypokinesis / **McConnell sign** / D-shaped LV → 急性右心衰提示大 PE |
+> | "不稳定 PE 为什么不直接 CTPA？" | 不稳定 = 搬动风险大，先床旁 TTE 看 RV 决定是否经验性 tPA；CTPA 仅在能搬动 + 怀疑高时做 |
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 本卡是 PE 第一张卡，等积累
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/pulmonary]] / [[完整笔记/Peixuan分科笔记/心内]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（stroke LVO 取栓窗口 ≤24h 对比 PE 不取栓）；[[完整笔记/Peixuan分科笔记/hematology oncology]]（抗凝禁忌时 IVC filter）
+> - 🌱 TODO（待生成衍生）：等 PE / DVT / MI / Stroke / ALI 五急症错题积累到 3+ 道 → 请 Claude Code 整合到 [[完整笔记/专题笔记/_衍生_5急症第一件事决策表]]
+>   - **必须包含**：诊断 vs 治疗双列 + Wells 切点（DVT≥2, PE>4）+ TTE vs CTPA 选择逻辑 + 抗凝禁忌分支 + tPA 禁忌时的 IVC filter / 外科取栓分支
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做"不稳定 PE 第一步"情境题
+> - [ ] 默写 PE 5 情境 → 诊断 / 治疗第一步双列表
+> - [ ] 找 3 道 UW 不稳定 PE 题
+> - [ ] 找 1 道 TEE 适应症题（主动脉夹层 / 心内膜炎）对比记忆
+> - [ ] 手动加 #考前必看 / #薄弱点 标签
+> 
+> ---
+> 
+> 学科:: 肺
+> 主题:: PE 不稳定第一步
+> 状态:: 🟡
+> 错因:: 知识
