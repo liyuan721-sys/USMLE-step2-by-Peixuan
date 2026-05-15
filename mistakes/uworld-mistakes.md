@@ -4513,3 +4513,480 @@
 > 主题:: Orthostatic Hypotension 两型（容量 vs 神经源）+ 晕厥 4 类鉴别
 > 状态:: 🟡
 > 错因:: 知识
+
+> [!example]- [2026-05-14] 心内 / 晕厥 / Classic Vasovagal Syncope → No Further Testing (Q21579)
+> ^Q21579
+> 
+> ## Stem 模式
+> 中年女性 + **情绪应激**（赶车）+ 经典前驱（**sweaty + warm**）+ **< 1 min** 失意识 + **立即清醒无 postictal** + 体检 / ECG / 体位测试均正常 → **Classic Vasovagal Syncope** → **No further testing**
+> 
+> ## 核心概念
+> 经典 vasovagal **靠病史诊断**（history alone）：典型 prodrome + 触发 + 短暂 + 立即清醒 + 体检 ECG 正常 → **不需要任何检查**。检查只在**不典型 / 反复 / 红旗**时做。**典型 + 无红旗 → No further testing** 是 USMLE 越来越高频的"反向应用框架"题型。
+> 
+> **UWorld 官方速查表：Clues to etiology of syncope**（本地截屏）：
+> 
+> ![[{0AE45501-AAE4-4239-B13D-93EEEE90B76B}.png]]
+> 
+> ## 普适规则
+> 
+> **① 晕厥 6 大类完整分类系统 ⭐⭐⭐**
+> 
+> ```
+> ① 反射性晕厥（Reflex / Neurally-Mediated）
+>    - Vasovagal（情绪 / 看血 / 长站）★ 本题
+>    - Situational（特定行为：排尿 / 排便 / 咳嗽 / 吞咽 / 举重）
+>    - Carotid sinus hypersensitivity（颈部刺激，> 60 岁）
+> 
+> ② Orthostatic Hypotension
+>    - 容量型（脱水 / 失血 / 利尿剂）
+>    - 神经源型（DM / Parkinson / MSA / 高龄）
+>    - 药物诱发（α 阻滞 / TCA / 抗 HTN）
+> 
+> ③ Cardiac Syncope ⚠️ 红旗类
+>    - 心律失常（VT / VF / AV 阻滞 / LQT / Brugada）
+>    - 流出道梗阻（HCM / AS / PE）
+>    - 心衰致低 CO
+> 
+> ④ Cerebrovascular（罕见）
+>    - Subclavian steal（手臂活动）
+>    - Vertebrobasilar TIA（伴局灶征）
+> 
+> ⑤ 非晕厥（鉴别诊断）
+>    - Seizure ⭐ 见规则 ⑪
+>    - Psychogenic / Conversion
+>    - 代谢（低血糖 / 低 Na）
+> 
+> ⑥ 其他特殊
+>    - Post-prandial（餐后老年）
+>    - Pregnancy supine hypotensive
+> ```
+> 
+> **② 反射性晕厥 3 子型对比 ⭐**
+> 
+> | 维度 | **Vasovagal**（本题）| **Situational** | **Carotid sinus** |
+> |---|---|---|---|
+> | 触发 | 情绪 / 看血 / 长站 / 疼痛 | **特定生理行为** | 颈部刺激（剃须 / 紧领 / 转头）|
+> | 典型患者 | 任何年龄（年轻多）| 中老年 + 慢病 | **> 60 岁** + 颈动脉粥样硬化 |
+> | 前驱 | **典型 5 联**（sweat / warm / 恶心）| 短暂或无 | 短暂或无 |
+> | HR | ↓（迷走）| ↓（迷走）| ↓（显著缓）|
+> | 诊断 | 病史 | 触发因素特殊 | **Carotid massage**（HR↓ > 3s 或 SBP↓ > 50）|
+> | 治疗 | 教育 + counterpressure | 治根本病 + 行为修改 | 起搏器（严重）|
+> 
+> **③ Situational Syncope 8 种触发场景**
+> 
+> | 触发 | 机制 | 经典 stem |
+> |---|---|---|
+> | **Micturition**（排尿）| Valsalva + 副交感 | 中老年男性 BPH + 夜间排尿 |
+> | **Defecation**（排便）| Valsalva + 反射 | 老年便秘用力排便 |
+> | **Cough**（咳嗽）| Valsalva 持续 | COPD + 长串咳嗽 |
+> | **Swallow**（吞咽）| 食管刺激迷走 | 吞冷饮 / 冰激凌 |
+> | **Weight-lifting**（举重）| Valsalva 屏气 | 健身房用力时 |
+> | **Sneeze / Laugh** | Valsalva 短爆发 | 大笑 / 喷嚏后 |
+> | **Trumpet / 吹奏 / 潜水** | 持续 Valsalva | 演奏 / 屏气潜水 |
+> | **Post-prandial**（餐后）| 内脏血流↑ | 老年人 30 min after large meal |
+> 
+> **④ Vasovagal 双相反射机制（Bezold-Jarisch）**
+> 
+> ```
+> T=0: 触发（情绪 / 疼痛 / 看血 / 长站）
+>    ↓
+> ─── 第 1 相：交感激活 (T=0-30s) ───
+> - 心率 ↑ + 心肌强收缩
+> - 出汗 ↑（汗腺胆碱能交感）★ prodrome
+> - 温暖感（皮肤血流↑）★ prodrome
+>    ↓
+> ─── 第 2 相：心室异常感受 (T=30-60s) ───
+> - 站立 → 下肢血液淤积 → 心室容量↓
+> - 但交感激活让心室强烈收缩 → "空射"
+> - 左室机械感受器（C 纤维）异常激活
+> - 误传"心脏过满"信号到脑干
+>    ↓
+> ─── 第 3 相：反常迷走爆发 (T=60-90s) ───
+> - 副交感 ↑↑↑ → HR ↓↓
+> - 交感 ↓↓↓ → 血管扩张
+> - BP 急剧↓
+>    ↓
+> ─── 第 4 相：晕厥 ───
+> - 脑灌注↓ → 失意识
+> - 倒地后水平体位 → 血液回流 → 立即清醒
+> ```
+> 
+> **关键反陷阱**：晕厥时 HR ↓（迷走爆发），不是 ↑（很多人误以为心率代偿上升）。
+> 
+> **⑤ Vasovagal 5 联指纹（必背）**
+> 
+> | # | 元素 | 描述 | 本题 ✓ |
+> |---|---|---|---|
+> | 1 | **触发** | 情绪 / 疼痛 / 看血 / 长站 / 拥挤 / 排尿排便 | 赶车应激 ✓ |
+> | 2 | **Prodrome** | sweat + warm + 恶心 + 视暗 / 听弱 | sweat + warm ✓ |
+> | 3 | **短暂** | < 1 分钟 | 1 min ✓ |
+> | 4 | **自发恢复** | 立即清醒 | ✓ |
+> | 5 | **无 postictal** | 无 confusion / 失忆 / 抽搐 | ✓ |
+> 
+> **见这 5 个 → 直接诊断 vasovagal，不需要任何检查**
+> 
+> **⑥ 晕厥 7 维分类框架 ⭐⭐⭐**（最重要方法论）
+> 
+> 口诀：**"触前心醒，背伴ECG"**
+> 
+> | 维度 | 主作用 | 关键鉴别 |
+> |---|---|---|
+> | **1. 触发** | 区分各亚型 | 运动 = Cardiac；情绪 = Vasovagal；站起 = OH；排尿 = Situational |
+> | **2. 前驱** | 反射 vs 心源 vs 癫痫 | 有前驱 ≈ 反射 / OH；无前驱 ≈ Cardiac；**aura（局灶）= Seizure** |
+> | **3. HR** | 区分反射 vs OH 亚型 | ↓ = Vasovagal / Situational；↑ ≥ 30 = 容量 OH；不动 = 神经源 OH |
+> | **4. 清醒** | 晕厥 vs 癫痫 vs Conversion | 立即 = 晕厥；延迟 = Seizure；> 5min = Conversion |
+> | **5. 背景** | 调整概率权重 | > 60 → 心源↑；DM → 自主 OH↑；BPH → 排尿性 Situational |
+> | **6. 伴随** | 排查严重病因 | 胸痛 → MI / PE；舌咬 → Seizure；腹痛 → AAA / 异位 |
+> | **7. ECG** | 心源筛查 | 异常 = 锁定 Cardiac 亚型 |
+> 
+> **⑦ 晕厥 5 大类完整决策表**
+> 
+> | 维度 | **Vasovagal** | **Cardiac** | **OH 容量型** | **OH 神经源** | **Seizure** |
+> |---|---|---|---|---|---|
+> | 触发 | 情绪 / 看血 / 站久 | **运动 / 卧位 / 无** | **站起来** | **站起来** | 闪光 / 睡眠剥夺 / 停药 |
+> | 背景 | 任何 | **> 60 / 心病史 / 家族猝死** | 年轻 + 急性脱水 | **> 60 / DM / Parkinson** | 癫痫病史 |
+> | 前驱 | **Prodrome（全身）** | **无** | 有（头晕）| 有 | **Aura（局灶）** ⭐ |
+> | HR | **↓** | 异常 | **↑ ≥ 30** | **不变** | 不定 |
+> | 清醒 | **立即** | 立即 | 立即 | 立即 | **延迟 + postictal** ⭐ |
+> | 伴随 | 无红旗 | **胸痛 / 心悸 / 呼吸困难** | 脱水四联 | 自主神经三联 | **舌咬 / 失禁 / 抽搐 / automatism** |
+> | ECG | 正常 | **异常** | 正常 | 正常 | 正常 |
+> | 下一步 | **不查** | Echo + Holter | 床旁 BP / HR | autonomic testing | **EEG + MRI** |
+> 
+> **⑧ 晕厥"红旗"10 条**（必查，提示心源性）
+> 
+> 口诀：**"运动卧 5 心家电杂老伤"**
+> 1. **运动**中
+> 2. **卧**位
+> 3. **5** 分钟以上失意识
+> 4. **心**悸 / 胸痛 / 呼吸困难
+> 5. **家**族年轻猝死（< 50 岁）
+> 6. 已知**结构性**心脏病
+> 7. ECG / **电**生理异常
+> 8. 心**杂**音
+> 9. **老**年（> 60）
+> 10. 严重外**伤**（提示突发无防御）
+> 
+> **⑨ Tilt-Table Testing 精确适应症 ⭐**
+> 
+> ```
+> 4 大适应症：
+> 1. 反复不明原因晕厥 + 床旁评估阴性
+> 2. 鉴别 vasovagal vs OH（典型场景困难）
+> 3. 怀疑 POTS（年轻女性 + 站立心悸 + BP 不降）
+> 4. 评估治疗效果 / 长期随访
+> 
+> 不需要 tilt-table：
+> ❌ 典型 vasovagal（本题）
+> ❌ 单次发作
+> ❌ 床旁 OH 测试已阳性
+> ❌ 已知心源性 → 应做 Echo / Holter
+> ❌ 已知癫痫 → 应做 EEG / MRI
+> ```
+> 
+> **核心原理**：被动倾斜（60-70°）= 去掉"肌肉泵代偿"，纯粹考察自主神经反射 + 血容量。比主动站立更能诱发隐匿性 vasovagal / OH。
+> 
+> **⑩ "No further testing" 答题方法论 ⭐⭐⭐**
+> 
+> ```
+> USMLE 答题 3 步：
+> 1. 诊断已经清楚吗？（典型病史 + 无红旗 → 通常清楚）
+> 2. 进一步检查能改变处理吗？（不能 → 不查）
+> 3. 选项里有 "No further testing" 或 "observation"？很可能是答案
+> 
+> 经典 "No further testing" USMLE 场景：
+> ★ 典型 vasovagal（本题 Q21579）
+> ★ 典型 GERD（年轻 + 经典烧心 + 无报警征 → PPI 试验）
+> ★ 单纯性头痛（无红旗 → 不做 CT）
+> ★ 自限性病毒感染（流感 / 普通感冒 → 支持治疗）
+> ★ 典型偏头痛（无红旗 → 不做影像）
+> ★ 低风险 ACS 评分（HEART score 低 → 出院）
+> ```
+> 
+> **⑪ Seizure 的 "Prodrome vs Aura vs Postictal" 三阶段 ⭐⭐⭐**（晕厥 vs 癫痫鉴别核心）
+> 
+> ```
+> Seizure 5 期：
+> T= -hours/days  ── Prodrome（前驱期，模糊）
+>                    数小时-数天的非特异不适
+>                    （烦躁 / 疲劳 / 头痛 / 情绪改变）
+>                    ★ 不属于发作本身
+>                          ↓
+> T= -seconds     ── Aura（先兆，局灶性）⭐
+>                    数秒-30 秒，局灶性症状
+>                    ★ **已经是发作的一部分**（focal seizure）
+>                    ★ 反映癫痫起源脑区
+>                          ↓
+> T= 0            ── Ictal phase（发作期）
+>                    强直 / 阵挛 / 失张力 / 失神 / automatism
+>                          ↓
+> T= +minutes     ── Postictal phase（发作后期）⭐ 金标准鉴别
+>                    意识混乱 / 嗜睡 / Todd 麻痹（15-30+ min）
+>                          ↓
+> T= +hours       ── Recovery（恢复期）
+> ```
+> 
+> **晕厥 prodrome vs Seizure aura 本质区别**：
+> 
+> | 维度 | **晕厥 prodrome**（vasovagal）| **Seizure aura** |
+> |---|---|---|
+> | 时间 | 30-60s | **数秒-30s** |
+> | 性质 | **全身性**（反射反应）| **局灶性**（癫痫本身）|
+> | EEG | 正常 | **局灶性放电** |
+> | 典型症状 | sweat / warm / 恶心 / 视暗 | **嗅觉 / 视觉 / déjà vu / 上腹 rising** |
+> | 后续 | 渐进失意识 → 立即清醒 | 进入 ictal → **postictal confusion** |
+> 
+> **⑪a Seizure 内部两种"前驱"区别（关键概念）⭐**
+> 
+> | 维度 | **Seizure Prodrome（前驱期）** | **Seizure Aura（先兆）** |
+> |---|---|---|
+> | **时间** | 数小时-数天 | 数秒-30 秒 |
+> | **性质** | 非特异，模糊不适 | **局灶性，特异** |
+> | **是否癫痫电活动** | 否（推测是神经化学改变）| **是**（focal seizure 的开始）|
+> | **EEG** | 通常正常 | **局灶性放电** |
+> | **常见症状** | 烦躁 / 疲劳 / 头痛 / 失眠 / 情绪改变 | 嗅觉幻觉 / 视觉幻觉 / déjà vu / 上腹不适 / 麻木 |
+> | **临床意义** | 患者自我警报 | 提示**癫痫起源部位** |
+> 
+> **核心区别**：prodrome 在发作"前"（不是发作本身），aura 是发作"开始"（已是 focal seizure）。USMLE stem 写 "felt anxious for several days before episode" = prodrome；写 "smelled burning rubber 10 seconds before LOC" = aura。
+> 
+> **⑪b Vasovagal vs Seizure 完整鉴别表 ⭐⭐⭐**（最终金标准）
+> 
+> | 维度 | **Vasovagal**（本题 Q21579）| **Seizure** |
+> |---|---|---|
+> | **触发** | 情绪 / 看血 / 长站 | 闪光 / 睡眠剥夺 / 停药 |
+> | **前驱性质** | **Prodrome**（反射反应）| **Aura**（局灶发作）|
+> | **前驱时长** | 30-60 秒 | 数秒-30 秒 |
+> | **前驱症状** | 全身性（sweat / warm / 恶心 / 视暗）| 局灶性（嗅觉 / 视觉 / 感觉 / déjà vu）|
+> | **意识** | 渐进失意识 | 突然失意识（局灶后扩散到全身）|
+> | **抽搐** | **罕见**（短暂缺氧 "convulsive syncope" 可有）| **常有**（强直 / 阵挛）|
+> | **舌咬伤** | 罕见 | **常有**（**侧舌咬** ⭐）|
+> | **大小便失禁** | 罕见 | 常有 |
+> | **持续** | < 1 min | 数分钟 |
+> | **恢复** | **立即清醒** | **Postictal confusion**（5-30 min+）⭐ 金标准 |
+> | **HR** | ↓（迷走介导）| 不定 |
+> | **诊断** | 病史 | **EEG / MRI** |
+> 
+> > [!success] 终极金标准
+> > **判断 seizure vs vasovagal = "postictal confusion"**
+> > - **立即清醒 → 晕厥**
+> > - **延迟清醒 + confusion → seizure**
+> > 
+> > 其他特征都可能"重叠"（如 convulsive syncope 也有短暂抽搐），唯独 postictal confusion 是 seizure 的"印章"。
+> 
+> **⑫ Seizure Aura 各脑叶定位（USMLE 高频）⭐**
+> 
+> | Aura 类型 | 起源脑叶 | 典型 stem 描述 |
+> |---|---|---|
+> | **嗅觉幻觉**（焦糊味）| **颞叶** | "smelled burning rubber" |
+> | **Déjà vu**（"似曾相识"）| **颞叶** | "feeling I've been here before" |
+> | **Jamais vu**（"陌生感"）| **颞叶** | "familiar place suddenly felt unfamiliar" |
+> | **上腹 rising sensation** | **颞叶**（最常见 55%）| "something rising from stomach to chest" |
+> | **视觉幻觉**（闪光 / 几何图案）| **枕叶** | "flashing lights / geometric patterns" |
+> | **听觉幻觉**（嗡嗡 / 音乐）| **颞叶上回** | "buzzing sound / music" |
+> | **躯体感觉异常**（一侧麻木）| **顶叶** | "numbness / tingling in one limb" |
+> | **运动**（局部抽搐）| **额叶** | "twitching of one arm" |
+> | **恐惧 / 焦虑**（强烈情绪）| **杏仁核 / 颞叶内侧** | "sudden intense fear without reason" |
+> | **自主神经**（潮红 / 心悸 / 出汗）| **岛叶 / 颞叶** | ⚠️ 易误为 vasovagal |
+> 
+> **⑬ Déjà vu 详解**
+> 
+> ```
+> Déjà vu = 法语"already seen"
+> 体验："这个新场景我以前经历过"的强烈错觉
+> 
+> 两种来源：
+> ① 正常生理（60-70% 健康人有过，多 15-25 岁）
+>    - 偶发 + 数秒 + 无伴随 → 无病理意义
+> ② 颞叶癫痫 aura ⭐ USMLE 考点
+>    - 反复频繁 + 伴其他症状（嗅觉 / 上腹 / 恐惧）
+>    - 后续 ictal phase（automatism / 失意识 / postictal）
+> 
+> 机制：
+> 颞叶内侧"熟悉感开关"被错误激活
+> （海马 + 杏仁核 + 内嗅皮层异常放电）
+> ```
+> 
+> **相关词**：
+> - **Déjà vécu**（"已经经历过"）：更强版本，几乎专属癫痫
+> - **Jamais vu**（"从未见过"）：相反体验，也见于颞叶癫痫
+> 
+> **⑭ 颞叶癫痫"三联"特征（USMLE 必背）**
+> 
+> ```
+> ① Aura（数秒）
+>    - 上腹 rising / déjà vu / 嗅觉 / 恐惧
+> ② Ictal phase（1-2 min）
+>    - **Automatism**（自动症）★
+>      - Lip-smacking（咂嘴）⭐ 最经典
+>      - Chewing / picking at clothes / wandering
+>    - Impaired awareness（意识受损）
+> ③ Postictal（15-30+ min）
+>    - Confusion / 头痛 / 嗜睡
+>    - 不记得发作过程
+> ```
+> 
+> 治疗：抗癫痫药（Carbamazepine / Lamotrigine / Levetiracetam）
+> 
+> **⑮ Convulsive Syncope 陷阱**（容易误为 seizure）
+> 
+> ```
+> 晕厥时短暂抽搐 (myoclonic jerks)：
+> - 脑灌注↓ → 皮层抑制解除 → 短暂运动激活
+> - 持续 < 15 秒
+> - **无 postictal**
+> - 病史符合晕厥（有触发 + 前驱）
+> → 仍是 vasovagal / OH，不是 seizure
+> 
+> 真正 seizure：
+> - 抽搐 > 1 min
+> - **Postictal confusion**
+> - 舌咬伤 / 失禁
+> - 无典型晕厥触发
+> ```
+> 
+> ## 易混陷阱（普适）
+> - ❌ **晕厥都要查 Holter / Echo / Tilt-table**：典型 vasovagal 病史诊断，不需检查
+> - ❌ **Vasovagal = 单纯迷走过强**：错！是**双相反射**（先交感激活，后迷走爆发）
+> - ❌ **晕厥时 HR 应该上升代偿**：错！vasovagal 时 HR 反而 ↓（迷走介导）
+> - ❌ **Prodrome 有"冰冷苍白"**：错！典型 prodrome 是"sweat + warm"（第 1 相交感激活）；晚期才苍白
+> - ❌ **Tilt-table 是 vasovagal 诊断金标准**：错！典型 vasovagal 靠病史；tilt-table 用于反复 / 不典型
+> - ❌ **看到"心梗家族史"就选心源性检查**：错！本题父亲 MI 不算年轻猝死，不构成红旗
+> - ❌ **反射性晕厥只有 vasovagal**：错！还有 Situational 和 Carotid sinus 两子型
+> - ❌ **Situational = vasovagal**：错！触发不同，处理也不同（治根本病而非教育避诱因）
+> - ❌ **运动中晕厥用 vasovagal 框架**：错！运动中 = Cardiac 红旗（HCM / LQT1 / AS）
+> - ❌ **Seizure prodrome = Seizure aura**：错！prodrome 是数小时-天的模糊不适；aura 是数秒的局灶性发作开始 ⭐
+> - ❌ **Déjà vu 一定是癫痫**：错！正常人 60-70% 有过；**反复 + 伴随症状**才是颞叶癫痫
+> - ❌ **看到"晕厥 + 短暂抽搐"诊断 seizure**：错！可能是 convulsive syncope（无 postictal）
+> - ❌ **颞叶癫痫的自主症状（心悸 / 出汗）= vasovagal**：错！岛叶 / 颞叶 aura 可包含这些；区别在 postictal
+> 
+> ## 我为什么错
+> - 选了：**A. 24-h Holter monitoring**（思路："晕厥要排除心源性 → Holter 看看心律"；但忽略了 stem 已给出 vasovagal 完整 5 联指纹）
+> - 错因：**pattern**（"过度评估倾向"反射 — 默认选"做更多检查"；**第 2 次掉进同陷阱**，与 Q19889 钝性胸创联动）
+> - 核心陷阱：**"知道鉴别框架 ≠ 会答 '不查' 题"** — NBME 230 → 250 关键瓶颈
+> 
+> **具体错位**：
+> - ☑ **过度评估倾向**（与 Q19889 第 2 次掉进同陷阱）
+> - ☑ **学完晕厥框架后"反向应用失败"**：知道 4 类，但不会"如果无红旗就不查"
+> - ☑ **没识别"经典 vasovagal" 5 联指纹**：情绪 + sweat + warm + 1min + 立即清醒
+> - ☑ **被干扰项拽走**："心梗家族史 + 高血压 + amlodipine"是分散注意力的线索
+> - ☑ **没用阴性体征确认排除**：体检 / ECG / 体位测试全正常 = 排除其他病因
+> 
+> ## Memory Hook
+> 
+> **🎯 一句话锁定**：
+> > "赶车 + 出汗温暖 + 1 分钟晕 + 立即清醒 + 体检正常 = 经典 Vasovagal → No further testing"
+> 
+> **🎯 Vasovagal 5 联指纹**：
+> > 触发 + Prodrome (sweat / warm / 恶心) + < 1 min + 立即清醒 + 无 postictal
+> 
+> **🎯 晕厥红旗 10 条口诀**：
+> > **"运动卧 5 心家电杂老伤"**
+> 
+> **🎯 晕厥 7 维分类框架口诀**：
+> > **"触前心醒，背伴 ECG"** — 每道晕厥题用这 7 个字扫一遍
+> 
+> **🎯 反射性晕厥 3 子型类比**：
+> > - **Vasovagal** = "情绪型"（心理触发）
+> > - **Situational** = "生理动作型"（排尿 / 咳嗽等）
+> > - **Carotid sinus** = "颈部刺激型"（老人剃须）
+> 
+> **🎯 类比"金毛犬"理解 No further testing**：
+> > 见到典型金毛犬不必做基因检测确认 → 5 个 vasovagal 特征都到位 = 形象明确 → 再做检查 = 浪费时间 + 钱 + 患者焦虑
+> 
+> **🎯 "过度评估倾向"修正**（与 Q19889 联动）：
+> > 今日已 2 次掉进同一陷阱（Q19889 / Q21579）→ 下一次必须警惕
+> > **见 "next step" 题 → 先问"诊断清楚吗？无红旗吗？" → 可能是"不查 / 观察 / 出院"**
+> 
+> **🎯 双相反射时序记忆**：
+> > T=0-30s 交感激活（出汗 + 温暖）→ T=30-60s 心室异常感受 → T=60-90s 迷走爆发（HR↓ BP↓）→ 晕厥 → 倒地后立即清醒
+> 
+> **🎯 Seizure prodrome vs aura 终极鉴别**：
+> > - **晕厥 prodrome** = 反射反应（全身：sweat / warm / 恶心，30-60s）
+> > - **Seizure aura** = 局灶发作开始（局灶：嗅觉 / 视觉 / déjà vu / 上腹，数秒）
+> > - **判别金标准** = **Postictal confusion**（seizure 有，晕厥无）
+> 
+> **🎯 颞叶癫痫 4 大经典 aura**（最高频考点）：
+> > 1. **上腹 rising sensation**（最常见 55%）
+> > 2. **Déjà vu / Jamais vu**
+> > 3. **嗅觉幻觉**（焦糊味）
+> > 4. **恐惧 / 焦虑感**（无外因）
+> > → 后续常出现 **lip-smacking automatism**（咂嘴自动症）
+> 
+> **🎯 Déjà vu 判别口诀**：
+> > "偶发 + 无伴随" = 正常（无病理）
+> > "反复 + automatism / postictal" = 颞叶癫痫 aura
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 
+> | 我问的关键问题 | 学到了什么 |
+> |---|---|
+> | 先交感激活，再迷走激活，最后晕倒？ | 完全正确！双相反射（Bezold-Jarisch）|
+> | OH 要进一步检查吗？Tilt-table 适应症？ | 多数 OH 床旁 BP / HR 就能确诊；Tilt-table 仅用于反复 / 不典型 / POTS |
+> | 3 维（前驱 + HR + 清醒）就能分所有 syncope？ | 80% 适用，但需 4 补充维度；7 维框架是完整版 |
+> | Situational 在哪里？ | 反射性 3 子型之一；8 种触发场景 |
+> | Seizure 算是有前驱吗？ | 有，但 prodrome（数小时-天）和 aura（数秒局灶发作开始）完全不同；金标准是 postictal confusion |
+> | Déjà vu 是啥？ | 法语"already seen"；正常人偶尔有（无意义），反复 + 伴 automatism = 颞叶癫痫 aura |
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q21638]] Orthostatic Hypotension（同日，与本题对比：Q21638 是真 OH，本题是 vasovagal 不是 OH）
+>   - [[mistakes/uworld-mistakes#^Q3910]] LQTS（同日，心源性晕厥代表，与本题反射性形成对比）
+>   - [[mistakes/uworld-mistakes#^Q4725]] PEA（今日，急救场景的晕厥）
+>   - [[mistakes/uworld-mistakes#^Q19889]] 钝性胸创（同日，**"过度评估倾向"陷阱第 2 次出现** ⭐）
+> - 📚 主笔记：
+>   - [[完整笔记/专题笔记/_衍生_晕厥鉴别决策树]] ⭐（本题大量补充该衍生：Vasovagal 5 联 / 7 维框架 / Situational 8 种 / Seizure aura 详解 / 颞叶癫痫 / convulsive syncope）
+>   - [[完整笔记/专题笔记/_衍生_读题策略_临床决策与题型识别|读题策略 — 反向应用框架]] ⭐（"知道分类不会用 → 不查"是本题方法论缺口）
+>   - [[完整笔记/Peixuan分科笔记/心内]]（晕厥鉴别完整框架）
+>   - [[完整笔记/Peixuan分科笔记/neuro]]（颞叶癫痫 + aura 定位 + 抗癫痫药）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/neuro]]（与癫痫鉴别 — 本题方法论核心补充）
+>   - [[完整笔记/Peixuan分科笔记/psych]]（Conversion disorder 鉴别）
+> - 🌱 TODO（待生成衍生）：
+>   - 累计 3+ 道"No further testing"题（vasovagal / 典型 GERD / 偏头痛 / 病毒感染）→ 生成 [[完整笔记/专题笔记/_衍生_USMLE_NoTest题型]]
+>   - 累计 3+ 道"过度评估倾向"陷阱题 → 升级 [[完整笔记/专题笔记/_衍生_读题策略_临床决策与题型识别]] 添加新 Part
+>   - 累计 3+ 道反射性晕厥题（vasovagal / situational / carotid sinus）→ 补 _衍生_晕厥鉴别决策树 Part 3
+>   - 累计 3+ 道癫痫题（focal / generalized / status / aura 定位）→ 生成 [[完整笔记/专题笔记/_衍生_癫痫aura脑叶定位]]
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q21579，目标 < 60 秒选 E
+> - [ ] 默写 **Vasovagal 5 联指纹**
+> - [ ] 默写 **Vasovagal 双相反射机制**（4 相时序）
+> - [ ] 默写 **晕厥 6 大类完整分类系统**
+> - [ ] 默写 **反射性晕厥 3 子型对比**（Vasovagal / Situational / Carotid sinus）
+> - [ ] 默写 **Situational 8 种触发场景**
+> - [ ] 默写 **晕厥 7 维分类框架**（"触前心醒，背伴 ECG"）
+> - [ ] 默写 **晕厥 5 大类完整决策表**
+> - [ ] 默写 **晕厥红旗 10 条**（"运动卧 5 心家电杂老伤"）
+> - [ ] 默写 **Tilt-table 4 大适应症 + 5 个不需要场景**
+> - [ ] 默写 **"No further testing" 答题三步**
+> - [ ] 默写 **Seizure 5 期时序**（prodrome → aura → ictal → postictal → recovery）
+> - [ ] 默写 **晕厥 prodrome vs seizure aura 核心区别**
+> - [ ] 默写 **Seizure 内部 prodrome vs aura 区别表**
+> - [ ] 默写 **Vasovagal vs Seizure 完整鉴别表 12 行**
+> - [ ] 默写 **金标准**：postictal confusion = seizure 印章 ⭐
+> - [ ] 默写 **颞叶癫痫 4 大 aura + automatism + postictal**
+> - [ ] 默写 **Seizure aura 各脑叶定位表**（颞 / 枕 / 顶 / 额）
+> - [ ] 默写 **Convulsive syncope 与真正 seizure 鉴别**
+> - [ ] 找类似题：
+>   - ① Situational syncope（排尿 / 咳嗽 / 排便 / 吞咽）
+>   - ② Carotid sinus hypersensitivity（老年剃须）
+>   - ③ 反复不明晕厥 → tilt-table
+>   - ④ POTS（年轻女性）
+>   - ⑤ 颞叶癫痫 + déjà vu / 嗅觉 aura + automatism
+>   - ⑥ Convulsive syncope（晕厥伴短暂抽搐）
+>   - ⑦ 其他 "No further testing"（典型 GERD / 偏头痛 / 自限感染）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加 #薄弱点（晕厥）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/neuro]] 加 #薄弱点（癫痫 aura）
+> - [ ] **建立"反向应用框架"思维**：分类不只是确诊用，也用来"排除 + 不查"
+> - [ ] **修正"过度评估倾向"**：第 2 次掉进，必须警惕（与 Q19889 联动）
+> - [ ] **建立"7 维 + 红旗"扫读习惯**：每道晕厥题先用 7 维分类，再核对 10 条红旗
+> - [ ] **建立"典型 + 无红旗 → No testing"反射**
+> - [ ] **建立"prodrome vs aura"鉴别习惯**：前者全身反射，后者局灶发作；金标准是 postictal confusion
+> 
+> ---
+> 
+> 学科:: 心血管
+> 主题:: 经典 Vasovagal → No Further Testing + Seizure aura 鉴别 + 颞叶癫痫
+> 状态:: 🟡
+> 错因:: pattern
