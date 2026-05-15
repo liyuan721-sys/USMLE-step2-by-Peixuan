@@ -2883,6 +2883,7 @@
 >   - 本题首张 AAA / 主动脉急症卡，等积累
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/_衍生_主动脉急症决策树]] ⭐（本题落地的衍生笔记）
+>   - [[完整笔记/专题笔记/_衍生_读题策略_临床决策与题型识别|读题策略 Part 7 — 体征 ≠ 疾病]] ⭐（本题贡献的方法论模块）
 >   - [[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/Peixuan分科笔记/外科]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/GI]]（出血性胰腺炎是 AAA 最常考鉴别；Grey Turner 在心血管 / GI 共享）
 > - 🌱 TODO（待生成衍生）：
@@ -3049,12 +3050,13 @@
 >   - 本题首张内分泌 / 急诊 AI 卡，等后续 PAI / Cushing / 继发 AI / 应激剂量激素题积累
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/_衍生_肾上腺皮质功能不全决策树]] ⭐（本题落地的衍生笔记）
+>   - [[完整笔记/专题笔记/_衍生_实验室指纹诊断大全]] ⭐（PAI 五联触发本索引建立）
+>   - [[完整笔记/专题笔记/_衍生_读题策略_临床决策与题型识别|读题策略 Part 5 + 6 — 指纹思维 + 慢性 / 急性双轴]] ⭐（本题贡献的方法论模块）
 >   - [[完整笔记/Peixuan分科笔记/endocrine]] / [[完整笔记/Peixuan分科笔记/心内]]（休克鉴别）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/外科]]（围手术期 stress dose 激素管理）
 >   - [[完整笔记/Peixuan分科笔记/感染]]（Waterhouse-Friderichsen → 急性 AI）
 >   - [[完整笔记/专题笔记/_衍生_主动脉急症决策树]]（与昨日 Q4212 形成"难治性休克"系列）
->   - [[完整笔记/专题笔记/_衍生_实验室指纹诊断大全]] ⭐（PAI 五联触发本索引建立）
 > - 🌱 TODO（待生成衍生）：
 >   - 累计 3+ 道"难治性休克鉴别"题（adrenal crisis / cardiogenic / 主动脉破裂失血 / 神经源 / 脓毒症）→ 生成 [[完整笔记/专题笔记/_衍生_难治性休克鉴别]]
 >   - 累计 3+ 道"嗜酸增高鉴别"题 → 生成 [[完整笔记/专题笔记/_衍生_嗜酸增高鉴别诊断]]
@@ -3232,6 +3234,7 @@
 >   - 本题首张 procedure & patient safety 卡，等后续 NG / ET / 胸管 / LP / Foley 题积累
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/_衍生_侵入操作安全流程大全]] ⭐（本题落地的衍生笔记，覆盖 20+ 操作）
+>   - [[完整笔记/专题笔记/_衍生_读题策略_临床决策与题型识别|读题策略 Part 1 — 题型识别 4 信号]] ⭐（本题贡献的方法论模块）
 >   - [[完整笔记/Peixuan分科笔记/外科]]（侵入操作 + procedure safety）
 >   - [[完整笔记/Peixuan分科笔记/感染]]（脓毒症 1h bundle vs procedure safety 优先级）
 > - 🏥 跨学科：
@@ -3259,5 +3262,221 @@
 > 
 > 学科:: 外科
 > 主题:: 程序性安全 — CVC 置入后必做 CXR
+> 状态:: 🟡
+> 错因:: pattern
+
+---
+
+> [!example]- [2026-05-14] 外科 / 创伤 / 肢体血管创伤 Hard vs Soft Signs (Q3354)
+> ^Q3354
+> 
+> ## Stem 模式
+> 穿透伤（枪伤 / 刀伤）+ **远端肢体异常表现叠加**（cool + feeble pulses）+ **伤口处血肿** → **2+ Hard signs → 立即手术探查**（跳过影像）
+> 
+> ## 核心概念
+> 肢体血管创伤的核心决策 = **Hard signs vs Soft signs**：
+> - **Hard signs（任 1 项）→ 立即 OR**，跳过影像
+> - **Soft signs → IEI（伤侧远端 SBP / 健侧近端 SBP）→ ≤ 0.9 → CT angio → 选择性手术**
+> 
+> ## 普适规则
+> 
+> **① Hard signs 4 项（"4B's of Hard"）⭐ 必背**
+> 
+> | 项 | 4B 速记 | 中文 | 病理学含义 |
+> |---|---|---|---|
+> | 1 | **B**lood spurting | 搏动出血（pulsatile bleeding）| 动脉破口在喷 |
+> | 2 | **B**ruit / thrill | 杂音 / 震颤 | AV fistula / 假性动脉瘤"在漏" |
+> | 3 | **B**ulging hematoma | 扩大血肿（expanding）| "正在出血"到组织内 |
+> | 4 | **B**loodless distal | 远端缺血（6P 任 1 项）| 远端"没血" = 主血管闭塞 / 内膜剥离 |
+> 
+> **② Soft signs 4 项（"HDBN"）**
+> 
+> | 项 | HDBN 速记 | 中文 |
+> |---|---|---|
+> | 1 | **H**istory of hemorrhage | 既往大量出血史（已止）|
+> | 2 | **D**iminished pulses | 脉减弱**但还能摸到** |
+> | 3 | **B**ony injury near vessel | 邻近骨损伤 |
+> | 4 | **N**eurologic abnormality | 神经异常（孤立的）|
+> 
+> **③ 底层逻辑（最值得记的核心）**
+> 
+> | | Hard | Soft |
+> |---|---|---|
+> | 性质 | "**现在正在发生**" | "**过去 / 邻近 / 弱**" |
+> | 临床决策 | 必须立即修 | 先评估 |
+> | 时态 | 现在进行时 | 过去时 / 间接证据 |
+> 
+> **④ 完整决策树**
+> 
+> ```
+> Penetrating extremity injury
+>         │
+>         ▼
+> 检查 4B's of Hard
+>         │
+>    有 ≥ 1 项？
+>    ┌──┴──┐
+>    是    否
+>    │     │
+>    ▼     ▼
+>  ⭐ 直接 OR    检查 HDBN of Soft
+> （± 术中 angio） │
+>              有 ≥ 1 项？
+>              ┌──┴──┐
+>              是    否
+>              │     │
+>              ▼     ▼
+>             IEI    观察 / 系列查体
+>          ┌────┴────┐
+>         > 0.9     ≤ 0.9
+>          │         │
+>          ▼         ▼
+>         观察     CT angio → 选择性手术
+> ```
+> 
+> **⑤ 6P 缺血表现速记**（远端缺血 = Hard sign）
+> 
+> | P | 含义 |
+> |---|---|
+> | Pain | 疼痛（早期，与损伤不成比例）|
+> | Pallor | 苍白 |
+> | Paresthesia | 感觉异常 |
+> | Paralysis | 瘫痪（晚期）|
+> | Pulselessness | 无脉（晚期）|
+> | Poikilothermia | 冷（cool to touch）★ 本题 |
+> 
+> **⑥ IEI（Injured Extremity Index）公式**
+> 
+> ```
+> IEI = 伤侧远端 SBP / 健侧近端 SBP
+> （类似 ABI）
+> 
+> > 0.9 → 正常，观察
+> ≤ 0.9 → 异常 → CT angio
+> ```
+> 
+> **⑦ ⭐ "质变升级"规则**（最容易掉的陷阱）
+> 
+> 单一 soft 表现 + 远端缺血任 1 项 = **整体升级为 Hard**：
+> 
+> | 单独看 | 组合后 | 整体分类 |
+> |---|---|---|
+> | Feeble pulses（Soft）| + cool / pale / paresthesia | **Hard**（distal ischemia）|
+> | Small hematoma（不算 hard）| + 进行性扩大 | **Hard**（expanding）|
+> | History of bleeding（Soft）| + bruit | **Hard**（bruit）|
+> | Neurologic abnormality（Soft）| + 缺血表现 | **Hard**（distal ischemia）|
+> 
+> ## 易混陷阱（普适）
+> - ❌ **"no active bleeding" = 排除 hard signs**：只排除 4B 的 1 项（Blood spurting），还有 3 项要核对
+> - ❌ **Feeble pulses 一定是 Soft**：单独是 Soft，但 + cool / pale / 6P 任 1 项 = 整体升级为 Hard（distal ischemia）
+> - ❌ **Stem 写"hematoma"无 "expanding"前缀就不算 hard**：创伤后**新发血肿** + 心动过速 + 低血压 → 高度可疑 expanding
+> - ❌ **Hard signs 也要先做影像确认**：错！hard signs = 跳过影像直接 OR（影像 = 延误）
+> - ❌ **Distal ischemia 必须 pulseless 才算**：错！6P 任 1 项就够（cool to touch 也算）
+> - ❌ **AV fistula / pseudoaneurysm 是 Soft**：错！表现为 bruit / thrill = Hard sign
+> 
+> ## 我为什么错
+> - 选了：**D. Doppler ultrasonography**
+> - 错因：**pattern**（"看到 'no active bleeding' 就觉得排除了 hard sign"→ 走 soft sign 路径 → 选影像评估 = 反向阴性体征陷阱）
+> - 核心陷阱：**"反向阴性体征陷阱" — 见 no X 不能直接排除整个类别，必须把完整 criteria（4 项 / 5 项）逐项核对**
+> 
+> **具体错位**：
+> - ☑ 反向阴性体征陷阱：只核对一项阴性（no active bleeding）就以为排除整个类别
+> - ☑ 未核对完整 4B 清单：忽略 hematoma（Bulging）+ cool / feeble（Bloodless distal）两条 hard signs
+> - ☑ 未识别"质变升级"：feeble + cool 组合 ≠ 单纯 feeble
+> - ☑ C/D 之间纠结说明已在错误路径：浪费时间在不重要的细节
+> 
+> ## Memory Hook
+> 
+> **🎯 完整记忆法套餐**：
+> 
+> **底层逻辑**（最核心）：
+> - **Hard = "现在正在出问题"** → 直接 OR
+> - **Soft = "过去 / 邻近 / 弱"** → 先评估
+> 
+> **首字母速记**：
+> - **4B's of Hard**: **B**lood spurting / **B**ruit-thrill / **B**ulging hematoma / **B**loodless distal
+> - **HDBN of Soft**: **H**istory hemorrhage / **D**iminished pulses / **B**ony injury / **N**eurologic abnormality
+> 
+> **对子法**（极端 vs 轻微）：
+> 1. 喷血（Hard）vs 流过血（Soft）
+> 2. 无脉（Hard）vs 弱脉（Soft）
+> 3. 血管本身在出问题（Hard）vs 骨头打到附近（Soft）
+> 4. 神经因缺血损伤（Hard）vs 单纯神经异常（Soft）
+> 
+> **一句话锁定**：
+> > "枪伤 + 血肿 + 脚冷脉弱 = 立刻进 OR，别浪费时间做影像。"
+> 
+> **🎯 阴性体征扫读法 v2 升级**（基于昨日 Q17169 + 今日新陷阱）：
+> 
+> 见到 "no X" 时：
+> 1. 先问：**X 属于哪个完整 criteria 清单？**（hard signs 4 项 / Light's / Wells / Jones 等）
+> 2. **把完整清单列出**，逐项核对
+> 3. 不止看缺失的那 1 项，**其他 3 项也要逐项扫**
+> 4. ≥ 1 项满足 → 类别诊断成立
+> 
+> **🎯 类比记忆**：
+> - **Hard signs = "红码"**：任 1 亮起 → 直接手术，不停留
+> - **Soft signs = "黄码"**：做 IEI → 异常 → 影像 → 手术
+> - **Q3354 陷阱**："no active bleeding" 只熄灭了 4B 中 1 个，剩 3 个还在亮
+> 
+> **🎯 类似"质变陷阱"USMLE 高频**：
+> - **Light's criteria for exudate**（任 1 项即 exudate）
+> - **SIRS criteria for sepsis**（任 2 项）
+> - **Jones criteria for rheumatic fever**
+> - **Wells score for PE / DVT**
+> - **HEART score for ACS**
+> - **APACHE / Ranson for pancreatitis**
+> - **Centor criteria for strep**
+> 
+> → 看到所有 "criteria / signs / score" 类标准 → **逐项核对，不能只看 1 项就下结论**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 
+> | 我问的关键问题 | 学到了什么 |
+> |---|---|
+> | 看到 "no active bleeding" 就觉得排除 hard signs | 反向阴性陷阱；只排除 1 项（B-Blood spurting），还有 3B 要核对 |
+> | 总记不住 hard / soft 各 4 项 | 5 套记忆法：底层逻辑 + 4B / HDBN + 对子 + 身体定位 + 故事法；推荐"底层逻辑 + 4B / HDBN"组合 |
+> | Feeble pulse 是 Hard 还是 Soft？ | **单独是 Soft；+ cool / pale / paresthesia = 组合升级为 Hard（distal ischemia）**；Q3354 即此陷阱 |
+> | 5/5 自测全中 | 4B / HDBN 记忆法已固化 |
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 本题首张外科 / 创伤血管损伤卡，等后续 compartment syndrome / 急性动脉闭塞 / 颈部贯通伤 / 钝性血管伤积累
+> - 📚 主笔记：
+>   - [[完整笔记/专题笔记/外周血管病专题_v1]] ⭐（C.3 Hard Signs 决策 + Rutherford 分级 + 黄金 6h 窗口）
+>   - [[完整笔记/专题笔记/_衍生_读题策略_临床决策与题型识别|读题策略 Part 2 + 4 — criteria 完整核对 + 质变升级]] ⭐（本题贡献的方法论模块）
+>   - [[完整笔记/Peixuan分科笔记/外科]]（血管创伤 + 创伤一般原则）
+>   - [[完整笔记/Peixuan分科笔记/骨科]]（开放骨折 + compartment syndrome — 共享 6P）
+> - 🏥 跨学科：
+>   - [[完整笔记/专题笔记/_衍生_主动脉急症决策树]]（与 Q4212 同属"难治性休克 + 跳过影像直接 OR"系列）
+>   - [[完整笔记/专题笔记/_衍生_侵入操作安全流程大全]]（与 Q3504 共享"临床优先级决策"方法论）
+>   - [[完整笔记/Peixuan分科笔记/心内]]（与 Q4212 / Q3504 形成"紧急血管损伤"系列）
+>   - [[完整笔记/Peixuan分科笔记/感染]]（穿透伤 → 破伤风预防 + 抗生素时机）
+> - 🌱 TODO（待生成衍生）：
+>   - ⭐ **立即可建**（与 Q3504 程序题方法论合并）：累计 5+ 道"临床决策 vs 影像延误"题（hard signs 直接手术 / 张力气胸不等 CXR / CVC 置后必拍片 / 心包填塞 echo / Rutherford IIb 跳影像）→ 生成 [[完整笔记/专题笔记/_衍生_临床优先级_跳过影像决策]]
+>   - 累计 3+ 道创伤题（穿透 / 钝伤 / 开放骨折 / 头部 / 颈部贯通）→ 生成 [[完整笔记/专题笔记/_衍生_创伤评估与处理]]
+>   - 累计 3+ 道肢体缺血题（hard signs / compartment / 急性动脉闭塞 / 慢性 PAD）→ 生成 [[完整笔记/专题笔记/_衍生_肢体缺血决策树]]
+>   - ⭐ **方法论合并**：累计 3+ 道"反向阴性体征 / criteria 不完整核对"陷阱题 → 升级 [[完整笔记/专题笔记/_衍生_读题策略_阴性体征]] 添加 v2 章节"完整 criteria 清单核对"
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q3354，目标 < 60 秒选 E
+> - [ ] 默写 **4B's of Hard**（Blood spurting / Bruit / Bulging hematoma / Bloodless distal）
+> - [ ] 默写 **HDBN of Soft**（History / Diminished / Bony / Neuro）
+> - [ ] 默写 **Hard vs Soft 决策树**（hard → OR；soft → IEI → CT → 选择性手术）
+> - [ ] 默写 **6P 缺血表现**
+> - [ ] 默写 **IEI 公式 + 阈值**
+> - [ ] 默写 **质变升级规则**（feeble + cool = Hard）
+> - [ ] 找类似题：① compartment syndrome ② 急性动脉闭塞（Rutherford 分级）③ 开放骨折处理 ④ 颈部贯通伤分区
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/外科]] 加 #要做题（血管创伤章节）
+> - [ ] **建立"完整 criteria 清单"读题习惯**：见 "no X" 先想 X 属于哪个完整清单，把剩余项也核对
+> - [ ] **建立"质变升级"思维**：单一软体征 + 远端异常 = 整体可能升级为硬体征
+> - [ ] **强化"临床优先级 = 跳过影像"思维**：hard signs / 张力气胸 / 失代偿性休克 → 跳影像直接处理
+> 
+> ---
+> 
+> 学科:: 外科
+> 主题:: 肢体血管创伤 Hard vs Soft Signs（criteria 完整核对）
 > 状态:: 🟡
 > 错因:: pattern
