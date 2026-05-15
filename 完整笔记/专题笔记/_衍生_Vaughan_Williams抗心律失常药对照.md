@@ -196,6 +196,65 @@ Phase 0 →     ↘
 | **Torsades de Pointes** | **Magnesium IV**（不论血 Mg）| 反复发作 → 加快心率（Isoproterenol / overdrive pacing） |
 | **WPW + AFib** | **Procainamide / 电复律** | **绝对禁忌 AV 结阻滞剂**（β / Ca / Adenosine / Digoxin → 致 VF）|
 
+### 7.6 症状性心动过缓 + AV Block 决策树 ⭐
+
+> [!info] "先 Pacer 再用药"原则
+> 高阶 AV block / Mobitz II / 完全 AVB / 宽 QRS 逸搏 → **优先经皮起搏 (TCP)**，**不要等 atropine 起效**。
+
+```
+症状性心动过缓 (HR < 50 + 灌注差: 低血压 / 意识差 / 缺血胸痛 / 急性心衰):
+        │
+        ▼
+   定位: AV 结水平 vs 结下?
+        │
+   ┌────┴────┐
+   │         │
+   AV 结    结下 (His-Purkinje)
+   (结上)   ↓
+   ↓        - Mobitz II
+   - 窦缓    - 完全 AVB + 宽 QRS 逸搏
+   - 1° AVB  - 前壁 MI 相关
+   - Mobitz I - 双 / 三束支阻滞 + 晕厥
+   - 下壁 MI 相关
+   │         │
+   ▼         ▼
+ Atropine    Atropine 常无效
+ 1 mg IV     ★ 别等 — 立即:
+ q3-5 min    ① 经皮起搏 (TCP)
+ max 3 mg    ② 经静脉起搏 (TVP)
+   │         ③ 过渡: Epi / Dopamine 输注
+   ▼              ④ 永久起搏器 (PPM)
+ 无效?
+   │
+   ▼
+ 同上 → TCP/TVP
+```
+
+> [!warning] Atropine 起效部位（核心机制）
+> Atropine 抗 M2 → 解除迷走 → ↑cAMP → SAN 起搏↑ + AVN 传导↑
+> - **结上有效**（迷走 / 药物 / 下壁 MI 致 AV 结缺血）
+> - **结下无效**（His-Purkinje 不受迷走支配）→ Mobitz II 不要等 atropine 起效
+
+#### "下壁 MI vs 前壁 MI"对 AV Block 的区别
+
+| MI 部位 | 责任血管 | AV block 类型 | 处理 |
+|---|---|---|---|
+| **下壁 MI**（II / III / aVF）| **RCA**（供 AV 结）| 1° / Mobitz I / 短暂完全 AVB（窄 QRS 逸搏）| Atropine 多有效，多可逆 |
+| **前壁 MI**（V1-V4）| **LAD**（供 His-Purkinje）| Mobitz II / 完全 AVB + 宽 QRS 逸搏 | **立即起搏**，高死亡风险 |
+
+### 7.7 ICD 植入适应症速查 ⭐
+
+> [!success] USMLE 高频"何时上 ICD"
+> 看到任一条 + 排除可逆病因 → ICD 评估 / 植入：
+
+| 适应证 | 关键阈值 |
+|---|---|
+| **二级预防**：心脏骤停幸存者 / 反复持续性 VT / 不明原因晕厥 + EPS 阳性 | 不需 EF 阈值 |
+| **一级预防**：缺血性心肌病 + **EF ≤ 35%** + **持续性 VT** ⭐ | EF ≤ 35% + 持续 VT |
+| 一级预防：非缺血性心肌病 + EF ≤ 35% + NYHA II-III + 已优化药物 ≥ 3 月 | EF ≤ 35% |
+| **遗传通道病**：Brugada syndrome（有症状 / VF 幸存者）/ LQTS（β-blocker 失败 / 心脏骤停幸存者）/ CPVT 重型 / ARVC | 高危分层 |
+| **HCM** + 猝死高危特征（家族猝死 / 室壁 ≥ 30 mm / 不明晕厥 / NSVT）| HCM 风险分层 |
+
 ---
 
 ## Part 8. 3 禁忌组合 ⭐⭐⭐
@@ -205,6 +264,58 @@ Phase 0 →     ↘
 | **LQTS + Class IA / III**（Quinidine / Sotalol / Ibutilide / Dofetilide）| 延长 QT → TdP | **β-blocker**（II）✓ |
 | **WPW + AFib + AV 结阻滞剂**（β / Ca / Adenosine / Digoxin）| 旁路下传↑ → **VF** | **Procainamide / 电复律** ✓ |
 | **结构性心脏病 / MI 后 + Class IC**（Flecainide / Propafenone）| 致命性心律失常 ↑（CAST 试验）| Amiodarone / β-blocker ✓ |
+
+### 8.4 AF + WPW（Pre-excited AF）专节 ⭐⭐⭐
+
+> [!danger] 致命组合
+> 房颤冲动绕过 AV 结，**经旁路（accessory pathway）直接下传** → 旁路无递减传导 → **极快心室率 (>200/min) + 宽 QRS + 不规则 + 多形** → **极易蜕变为 VF → 猝死**。
+
+#### Peixuan "4V 识别"口诀 ⭐（反复打磨）
+
+> [!success] 识别 AF + WPW 的 4 个 V
+> **"Irregular + Wide + Very fast + Variable"**
+>
+> - **I**rregular（不规则）— 不规则的不规则 = AF 性质
+> - **W**ide QRS（≥ 120 ms，由 delta 波 + 旁路非生理传导致）
+> - **V**ery fast（**> 200/min**，常 250-300）
+> - **V**ariable（多形性 QRS，**形态逐拍变化** — 因为每拍下传比例不同）
+>
+> 见到 **4V 全占 → 一律按 pre-excited AF 处理 → 禁 AV 结阻滞**
+
+#### 慢性 AF vs WPW-AF（pre-excited AF）鉴别
+
+| 维度 | **慢性 AF**（普通 AF）| **WPW + AF**（pre-excited AF） |
+|---|---|---|
+| **QRS** | **窄**（< 120 ms） | **宽 + 多形**（≥ 120 ms） |
+| **HR** | 通常 < 200/min（AV 结递减传导滤过）| **> 200/min**（旁路无滤过）|
+| **节律** | irregularly irregular | 不规则但极快，**易误为 VT** |
+| **进展** | 渐进失代偿 | **急性失代偿 + VF 风险** |
+| **稳定患者处理** | **频率控制**（β / 非 DHP CCB / Digoxin）| **Procainamide 或 Ibutilide**（延长旁路不应期）|
+| **不稳定处理** | 同步电复律 | **立即同步电复律** |
+
+#### "禁用 4 药" — ABCD 记忆法（必考）
+
+> [!danger] WPW + AFib 绝对禁忌（ABCD）
+> - **A**denosine（短暂封 AV 结 → 强迫所有冲动走旁路 → VF）
+> - **B**eta-blocker
+> - **C**a channel blocker（非 DHP：Verapamil / Diltiazem）
+> - **D**igoxin
+>
+> 任一封 AV 结 → 旁路成为唯一下传路径 → 心室率飙升 → VF。
+
+#### AVNRT vs AVRT（容易混的 SVT 亚型）
+
+| 维度 | **AVNRT**（房室结折返）| **AVRT**（orthodromic）| **AVRT**（antidromic / pre-excited） |
+|---|---|---|---|
+| 折返环 | **AV 结内** slow-fast 双径 | **AV 结下行 + 旁路逆行** | **旁路下行 + AV 结逆行** |
+| QRS | **窄** | **窄**（因为下行经 AV 结）| **宽 + delta** |
+| P 波 | 埋在 QRS / **逆 P 紧贴 QRS 后**（"pseudo R'"）| **逆 P 在 ST 段内**（RP > 70 ms）| 多变 |
+| 急性处理 | 迷走 → **Adenosine** | 迷走 → Adenosine | **如 pre-excited AF：禁 Adenosine！** |
+| 长期 | β-blocker / Ca / **导管消融** | **导管消融首选** | 消融 + 同上 |
+
+> [!warning] 关键陷阱
+> - **WPW 患者**在窦律下有 delta 波；但 orthodromic AVRT 发作时 **delta 消失**（因为冲动下行走 AV 结）→ 容易误判为普通 AVNRT
+> - **Pre-excited AF** = 唯一一种"WPW 患者 + 不能给 adenosine"的情况；其他规则窄 QRS SVT 仍可给 adenosine
 
 ---
 
@@ -300,6 +411,52 @@ Phase 0 →     ↘
 > - 10% 题选 ICD（已发生心脏骤停 / 反复事件）
 > - LQT3 加 Mexiletine
 > - 几乎不选其他抗心律失常药（IA / III 都禁忌）
+
+### 11.4 离子通道病鉴别小节（Brugada 重点）⭐⭐⭐
+
+> [!info] 一句话
+> LQTS 之外的"年轻人 + 结构正常心脏 + 猝死风险"还有这几个通道病，Stem 触发关键词不同。
+
+| 综合征 | 基因 / 通道 | **ECG 特征** | **触发 / 临床** | 治疗 |
+|---|---|---|---|---|
+| **Brugada syndrome** ⭐ | **SCN5A**（Na 通道功能↓）| **V1-V3 Type 1 coved ST↑ ≥ 2 mm + T 倒置** | **年轻 / 中年男性 + 夜间 / 休息时晕厥 + 家族猝死 + 发热 / 可卡因 / TCA 触发** | **ICD**（高危）；急性 VF storm → **Isoproterenol**；长期 → **Quinidine**（部分适合）；**积极退热** |
+| **CPVT**（儿茶酚胺敏感性 PVT）| RyR2 / CASQ2（Ca 钙释放异常）| **静息 ECG 正常**；运动 / 应激诱发 **双向 / 多形 VT** | **儿童 / 青少年 + 运动 / 情绪 → 晕厥 / 猝死**；家族史 | **β-blocker (Nadolol)** + 限运动；难治 → flecainide + ICD |
+| **Andersen-Tawil (LQT7)** | KCNJ2 | **U 波明显** + 轻度 QT 延长 + 双向 VT | **周期性肌肉麻痹 + 颜面畸形（小下颌 / 低耳）+ 心律失常** | β-blocker / 钾盐 |
+| **ARVC**（致心律失常性右室心肌病）| Desmosomal | **V1-V3 T 倒** + **Epsilon 波**（QRS 终末) | 年轻运动员 + 运动诱发 VT / 猝死 | β-blocker + ICD + 避运动 |
+| **Timothy syndrome (LQT8)** | CACNA1C（L 型 Ca）| 长 QT + AV block | 婴幼儿 + 长 QT + **并指 / 心脏畸形 / 自闭** | β-blocker + ICD（差） |
+
+#### Brugada 重点细节
+
+> [!danger] Brugada Pattern vs Syndrome
+> - **Pattern**：只有 ECG（无症状）
+> - **Syndrome**：Pattern + 临床事件（晕厥 / VT / VF / 家族猝死）→ **ICD** 倾向
+
+| 题眼 | 下一步 |
+|---|---|
+| 年轻男 + 夜间 / 静息晕厥 + 家族猝死 | **ICD 评估** |
+| 发热后典型 ECG + 晕厥 | **积极退热 + 监护** |
+| ECG 不典型但高度怀疑 | **Na 通道阻滞诱发试验**（procainamide / **flecainide** / **ajmaline** / pilsicainide）→ 在 V1-V3 "unmask" Type 1 |
+| 反复 VF storm | **Isoproterenol**（急性）± **Quinidine**（长期） |
+| V1-V3 ST↑ 但鉴别困难 | 把 V1-V2 **放到高位（第 2-3 肋间）** → 更易显现 Type 1 |
+
+#### Brugada 鉴别（V1-V3 ST 抬高 4 鉴别）
+
+| 病因 | 关键鉴别点 |
+|---|---|
+| **Brugada Type 1** | **Coved（下斜）ST↑** + T 倒 + **无胸痛** + 夜间晕厥 / 家族史 / 发热触发 |
+| **STEMI**（前间壁）| ST↑ + **胸痛** + reciprocal changes + Troponin↑ |
+| **早复极**（Benign early repolarization）| ST↑ 在 V2-V5 + 凹面向上 + 年轻健康 |
+| **RBBB** | rsR' (兔耳) 在 V1 + 终末宽 S 在 I/V6 + QRS ≥ 120 ms |
+| **Saddleback Type 2 Brugada** | 鞍背样 — 假阳性多，需诱发试验 |
+
+#### WPW Delta 波 + 宽 QRS（与本节通道病做 ECG 对比）
+
+> [!warning] WPW ECG 三联（与遗传通道病的鉴别参考）
+> - **Delta 波**（QRS 起始斜坡，"slurred upstroke"）
+> - **短 PR**（< 120 ms / < 3 小格）
+> - **宽 QRS**（≥ 120 ms / **≥ 3 小格**）
+>
+> 区别于 Brugada / LQTS：WPW 有 **delta + short PR + 旁路下传** 的特征；通道病多在窦律时 PR / QRS 正常，靠特征性 ST/T 形态识别。
 
 ---
 
@@ -440,4 +597,4 @@ Phase 0 →     ↘
   - Day 4：题练 + Part 14 陷阱
   - Day 5：默写 + Part 12 Memory Hook
 
-**Last updated**: 2026-05-14 v1
+**Last updated**: 2026-05-14 v1.1 — 整合心内.md：Part 8.4 新增 AF+WPW 专节（Peixuan 4V 口诀 + 慢性 AF vs WPW-AF 对比表 + ABCD 禁忌 + AVNRT vs AVRT 鉴别）；Part 7.6 新增症状性心动过缓 + AV block 决策树（atropine 起效部位 + 下/前壁 MI 对比）；Part 7.7 新增 ICD 适应证速查（EF ≤ 35% + 持续 VT 等）；Part 11.4 新增离子通道病鉴别小节（Brugada 重点 + CPVT + Andersen-Tawil + Timothy + ARVC + V1-V3 ST↑ 4 鉴别 + WPW delta 3 联）
