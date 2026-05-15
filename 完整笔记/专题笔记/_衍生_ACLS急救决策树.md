@@ -163,11 +163,204 @@ ROSC → 复苏后管理（targeted temp / 心导管 / ICU）
 | **高 K** | 透析患者 / CKD / 横纹肌溶解 / TLS | **Ca + insulin + glucose + Kayexalate + 透析** |
 | **低 K** | 利尿剂 / 呕吐腹泻 | 补 K + Mg |
 | **Hypothermia** | 暴露史 / 溺水 / 老人 | **复温**（"不死直到温暖死"）|
-| **Tension pneumo** | 创伤 / 机械通气 / 气管偏 | **针刺减压** 2-3 IS midclavicular |
-| **Tamponade** | 尿毒症 / 创伤 / 抗凝 / 主动脉夹层 | **心包穿刺** subxiphoid |
-| **Toxins** | 中毒史 / 用药史 | 解毒剂（Naloxone / Flumazenil / Glucagon / NaHCO3 for TCA / Insulin for CCB）|
+| **Tension pneumo** | 创伤 / 机械通气 / 气管偏 / 一侧呼吸音消失 + 鼓音 | **针刺减压**（详 3.2.1）→ 立即胸管 |
+| **Tamponade** | 尿毒症 / 创伤 / 抗凝 / 主动脉夹层 / Beck 三联 | **心包穿刺** subxiphoid（详 3.2.2）|
+| **Toxins** | 中毒史 / 用药史 | 解毒剂逐药对照（详 3.2.3）|
 | **PE** | DVT / 长期卧床 / 高凝 | **tPA 溶栓** |
 | **MI** | 胸痛先发 / CAD 史 | **心导管 / PCI** |
+
+### 3.2.1 张力性气胸针刺减压（Needle Thoracostomy）⭐
+
+> [!danger] 临床诊断，不等 CXR
+> 张力性气胸 = **临床诊断**：一侧呼吸音消失 + 同侧叩诊鼓音 + 气管向对侧偏 + JVD + 低血压。**立即针刺减压，不等影像**。
+
+#### 穿刺点选择（新旧对照，USMLE 都考）
+
+| 路径 | 位点 | 适用 |
+|---|---|---|
+| **经典路径**（ATLS 旧版 + 多数教科书）| **2nd ICS, midclavicular line**（第 2 肋间，锁骨中线）| 儿童 + 体型瘦小成人 |
+| **更新路径**（ATLS 第 10 版 / 2018 起推荐）| **4th-5th ICS, anterior axillary line**（第 4-5 肋间，腋前线，乳头水平）| **成人首选**（胸壁更薄、命中率↑、避开内乳动脉）|
+
+> [!info] 为什么改路径？
+> 多项 CT 研究显示成人前胸壁在 2nd ICS 厚度常 > 5 cm（特别是肥胖 / 肌肉发达者），标准 5 cm 针可能**够不到胸膜腔**。腋前线第 4-5 肋间胸壁薄、解剖标志清晰，命中率从 ~50% 升到 ~95%。
+
+#### 操作要点
+
+```
+1. 器材：14-16 gauge 留置针，长度 ≥ 5 cm（成人）
+2. 标志：
+   - 经典：锁骨中点正下方，第 2 肋间隙
+   - 更新：胸大肌外侧缘 + 乳头水平 + 第 4-5 肋间
+3. 进针：沿肋骨上缘垂直胸壁刺入
+   （避开下缘的肋间神经血管束 V-A-N，由上到下排列）
+4. 听到"嘶嘶"气流 + 患者血流动力学迅速改善 = 成功
+5. 留置外鞘 + 拔出针芯 → 临时减压
+6. 立即放胸管（28-32 Fr）于第 4-5 ICS, midaxillary line
+   ★ 针刺减压是临时桥接，不是终点
+```
+
+#### 高频陷阱
+
+| 陷阱 | 正确做法 |
+|---|---|
+| ❌ 等 CXR 再穿刺 | ✓ 临床诊断立即穿，CXR 用于穿后确认 |
+| ❌ 穿在下缘 | ✓ 沿肋骨**上缘**进针 |
+| ❌ 5 cm 针穿肥胖成人 2nd ICS | ✓ 改腋前线 4-5 ICS 或用更长针 |
+| ❌ 针刺后不放胸管 | ✓ 必须随后放胸管确证持续引流 |
+| ❌ 双侧同时减压（无确凿双侧征）| ✓ 单侧确诊先做单侧 |
+
+### 3.2.2 心包穿刺（Pericardiocentesis）⭐
+
+> [!danger] 急救指征
+> Beck 三联（hypotension + JVD + muffled heart sounds）+ 床旁 echo 显示**心包积液 + RV diastolic collapse** = 立即心包穿刺。不等 CT。
+
+#### 三种入路对照
+
+| 路径 | 位点 | 进针方向 | 优缺点 |
+|---|---|---|---|
+| **Subxiphoid**（剑突下）⭐ 急救首选 | 剑突左下方 1-2 cm | 向**左肩**方向，与皮肤 30-45° | ✓ 远离冠脉 / 内乳动脉；✓ 不需特殊体位；✗ 路径较长 |
+| **Apical**（心尖） | 心尖搏动外侧（第 5-6 肋间，腋前线内）| 向**右肩**方向 | ✓ 路径短；✗ 易伤肺 / LAD |
+| **Parasternal**（胸骨旁）| 第 5 肋间，胸骨左缘旁开 1-2 cm | 垂直 | ✗ **易伤内乳动脉**，少用 |
+
+#### 操作要点（subxiphoid 标准流程）
+
+```
+1. 器材：18 G spinal needle 或 pericardiocentesis kit，
+        长 7-10 cm，连接 20 mL 注射器 + 三通
+2. 体位：仰卧 30-45° 抬头位（积液重力下沉到心包下部 → 易抽）
+3. 进针点：剑突左下方约 1-2 cm
+4. 方向：朝**左肩尖**方向，与皮肤成 30-45°
+   （而不是垂直 — 垂直会刺向腹腔）
+5. 监测：
+   - 持续 ECG → 触到心外膜会出现 ST↑ / PVC → 立即回撤
+   - 床旁 echo 引导 ⭐ 首选（可识别最安全窗口 + 实时看针尖）
+6. 抽吸：边进针边轻负压抽吸
+7. 抽出液体：
+   - 心包腔血液 ★ "不凝固"（纤维素被剥离）
+   - 心室血液 → "立即凝固" → 撤针重定位
+8. 完成：留置 pigtail catheter 连接负压引流 24-72 h
+```
+
+#### USMLE 高频陷阱
+
+| 陷阱 | 正确做法 |
+|---|---|
+| ❌ 不稳定 tamponade 先做 CT | ✓ 床旁 echo + 立即穿刺 |
+| ❌ 抽出血就放弃（以为穿到心室）| ✓ 看是否凝固，不凝 = 心包腔出血 |
+| ❌ 慢性大量积液 + 稳定 + 立即穿刺 | ✓ 慢性积液 → 心包窗手术（pericardial window），更持久 |
+| ❌ 单纯 IV 补液处理 tamponade | ✓ 补液仅作桥接（提高 right-sided preload），定性治疗仍是引流 |
+| ❌ 抗凝相关大量积液 → 继续抗凝 | ✓ 立即停 + 凝血纠正 + 引流 |
+
+### 3.2.3 解毒剂详解（Toxins 5T 核心）⭐⭐⭐
+
+> [!info] 框架
+> 表型识别 → 一线解毒剂 → 二线 / 联合。**ACLS 场景下最高频 5 类**：Opioid / BZD / β-B / CCB / TCA。其他（CO / cyanide / dig / 醇类 / methemoglobin / APAP / ASA）作扩展记忆。
+
+#### A. Opioid（阿片类）— 心搏 / 呼吸骤停常因
+
+| 项目 | 详情 |
+|---|---|
+| **常见药** | Heroin / Morphine / Fentanyl / Oxycodone / Methadone |
+| **表现** | **针尖瞳孔 (miosis)** + 呼吸抑制（< 12/min）+ 意识抑制 + 心动过缓 + 低血压 |
+| **解毒剂** | **Naloxone**（μ 受体竞争性拮抗）|
+| **剂量** | **0.04-0.4 mg IV/IM/IN q2-3 min** titrate；持续输注 = 2/3 of effective bolus dose/h |
+| **起效** | IV 1-2 min；IM/IN 2-5 min |
+| **半衰期** | **30-90 min**（短于多数阿片，特别是 methadone / fentanyl）→ 监护下需重复或输注 |
+| **戒断风险** | 突然全量逆转 → 剧烈戒断（HTN / 心动过速 / N/V / 焦虑 / 肺水肿）→ 起始低剂量 |
+| **USMLE 陷阱** | "Fentanyl OD 后 naloxone 一次见效又再昏迷" → 长效阿片 + 短效拮抗 → 持续输注 |
+
+#### B. Benzodiazepine（苯二氮䓬）
+
+| 项目 | 详情 |
+|---|---|
+| **常见药** | Midazolam / Lorazepam / Diazepam / Alprazolam |
+| **表现** | 意识抑制 + 共济失调 + 呼吸抑制（**单纯 BZD 罕单独致死**）|
+| **解毒剂** | **Flumazenil 0.2 mg IV q1min，max 1 mg** |
+| **关键警示** | **ACLS 中极少用 Flumazenil** ⭐ |
+| **禁忌** | ① 长期 BZD 使用者（撤药致**难治性癫痫**）② TCA 共服（BZD 在保护其癫痫，撤掉则惊厥）③ 未知共服药物 ④ 癫痫病史 |
+| **USMLE 陷阱** | 不明中毒 + 昏迷 → **首选 Naloxone + 支持通气**，**不**给 Flumazenil |
+
+#### C. β-blocker（β 受体阻滞剂）中毒
+
+| 项目 | 详情 |
+|---|---|
+| **常见药** | Propranolol（最毒，过血脑屏障 + Na 阻）/ Metoprolol / Atenolol |
+| **表现** | 心动过缓 + 低血压 + AV block + **低血糖**（β 阻 → 糖原分解↓）+ 支气管痉挛 + 意识抑制 |
+| **一线解毒** | **Glucagon 3-10 mg IV bolus → 1-5 mg/h 输注** |
+| **机制** | 旁路 β 受体 → 直接激活心肌 Gs → ↑ cAMP → ↑ HR + 收缩力 |
+| **副作用** | 严重 N/V（常）→ 必备防误吸 |
+| **二线** | High-dose insulin / glucose（同 CCB 中毒）/ IV 钙 / Atropine / 经皮起搏 / Lipid emulsion（脂溶性如 propranolol）|
+
+#### D. Calcium Channel Blocker（CCB，非 DHP）中毒 ⭐ 最致命
+
+| 项目 | 详情 |
+|---|---|
+| **常见药** | **Verapamil**（最致命）/ Diltiazem（非 DHP）；DHP 类（amlodipine 高剂量）也可 |
+| **表现** | 心动过缓 + 低血压 + AV block + 意识抑制 + **高血糖**（β 细胞 Ca 通道阻 → 胰岛素分泌↓）⭐ 与 β-B 鉴别点 |
+| **解毒阶梯** | 见下表 |
+
+```
+CCB 中毒 5 步阶梯：
+Step 1: IV calcium
+   - Calcium gluconate 3-6 g IV 或 Calcium chloride 1-3 g IV
+   - 机制：提高细胞外 Ca → 推动残余通道开放
+   - 中重度需重复给
+
+Step 2: High-dose Insulin-Euglycemia (HIE) ★ 一线（中-重度）
+   - Regular insulin 1 U/kg IV bolus → 0.5-1 U/kg/h 输注
+   - 同时 D50 维持血糖正常
+   - 机制：CCB 中毒时心肌从游离脂肪酸代谢转向依赖葡萄糖 →
+     大量胰岛素 = 心肌"代谢支持"，改善 inotropy
+
+Step 3: Vasopressors
+   - Norepinephrine 首选（α 收缩 + 弱 β1）
+   - 严重时 Epi
+
+Step 4: Glucagon（同 β-B）— 效果弱于 β-B 中毒
+
+Step 5: Lipid emulsion 20%
+   - 1.5 mL/kg IV bolus → 0.25 mL/kg/min × 10 min
+   - "脂质池"捕获脂溶性药物（verapamil 脂溶性高）
+
+Step 6 (refractory): VA-ECMO
+```
+
+> [!warning] β-B vs CCB 鉴别（高频陷阱）
+> 表现高度重叠，关键鉴别 = **血糖**：
+> - β-B 中毒 → **低**血糖（糖原分解↓）
+> - CCB 中毒 → **高**血糖（胰岛素分泌↓）
+
+#### E. TCA（三环类抗抑郁药）中毒 ⭐⭐⭐ 高频
+
+| 项目 | 详情 |
+|---|---|
+| **常见药** | Amitriptyline / Nortriptyline / Imipramine / Doxepin / Clomipramine / Desipramine |
+| **表现 — "3 C's"** | **C**ardiotoxicity（QRS > 100 ms + QT 长 → VT / VF / 心搏停）+ **C**onvulsions（癫痫）+ **C**oma（昏迷）+ 抗胆碱（口干 / 视力模糊 / 尿潴留 / 肠麻 / 高热 / 谵妄）+ α1 阻（直立低血压）|
+| **诊断 ECG** | **Terminal R wave in aVR > 3 mm** 或 **R/S ratio in aVR > 0.7** ⭐ 经典指纹 |
+| **一线解毒** | **NaHCO₃ 1-2 mEq/kg IV bolus → 持续输注** |
+| **目标** | 血 pH **7.45-7.55** + QRS **< 100 ms** |
+| **机制（双效）** | ① **碱化** → ↑ TCA 与白蛋白结合 → ↓ 游离活性药；② **Na 负荷** → 克服 TCA 对心肌 Na 通道阻滞 |
+| **指征** | QRS > 100 ms / 室性心律失常 / 低血压 / 癫痫 / 任何意识改变 + 已知 TCA 摄入 |
+| **禁忌药** | ❌ Class IA / IC（同样阻 Na，加重传导阻滞）❌ Flumazenil（即使共服 BZD，会去除癫痫保护）❌ Physostigmine（虽然抗胆碱症状 — 但 TCA 中毒不用，加重心毒）|
+| **癫痫处理** | **Benzodiazepines**（首选）→ phenobarbital；**避免 phenytoin**（Na 通道阻，加重 TCA 心毒）|
+
+#### F. 其他必背解毒剂（扩展）
+
+| 中毒 | 表型指纹 | 解毒剂 |
+|---|---|---|
+| **CO 中毒** | 头痛 + 群发 + 樱桃红肤 + SaO₂ 假正常（pulse ox）+ 真低 SaO₂（co-oximetry）| **100% O₂ via NRB**；HBO（妊娠 / COHb > 25% / 神经症状 / 意识丧失）|
+| **Cyanide** | 烟雾吸入 / 硝普钠长用 + "almond breath" + 静脉血氧↑（细胞用不了 O₂）+ 严重乳酸酸中毒 | **Hydroxocobalamin 5 g IV**（首选，尿变红）或 Na thiosulfate + nitrites |
+| **Methemoglobinemia** | 苯佐卡因 / dapsone / 亚硝酸盐 + **chocolate-brown blood** + 紫绀不响应 O₂ + SaO₂ ~85% | **Methylene blue 1-2 mg/kg IV**（G6PD 缺陷禁用） |
+| **Digoxin** | 黄绿视 + N/V + 任何心律（双向 VT 经典）+ 高 K | **Digoxin-specific Fab (Digibind)** |
+| **Acetaminophen** | 24h 无症状 → 24-72h 肝损 → 暴肝衰 | **N-acetylcysteine (NAC)** PO 140 mg/kg load → 70 mg/kg q4h × 17，或 IV 21h 方案 |
+| **Salicylate** | 早期呼吸碱 + 后期 AG 代酸 + 高热 + 耳鸣 | **NaHCO₃ 尿液碱化**（目标尿 pH 7.5-8）+ 透析（重）|
+| **Methanol / Ethylene glycol** | AG 代酸 + 渗透 gap↑（甲醇 → 视神经；乙二醇 → 草酸钙肾结石）| **Fomepizole**（首选）或乙醇 + 透析 |
+| **Iron** | 5 期（GI → quiescent → 休克 → 肝衰 → 肠瘢痕）+ 影像见铁丸 | **Deferoxamine** IV |
+| **有机磷 / 神经毒**| SLUDGE-M + 烟碱 + CNS | **Atropine**（抗 M，先大剂量）+ **Pralidoxime (2-PAM)**（再生 AChE）|
+| **β-agonist / 茶碱**| 心动过速 + 低 K + 震颤 | 支持 + 严重时 β-blocker（仅特定情况）|
+
+> [!success] 一句话锁定 5T 解毒剂顺序
+> **"阿片 Naloxone，BZD 别用 Flumazenil（ACLS 中），β-B Glucagon，CCB 钙 + 高胰岛素，TCA NaHCO₃ 看 QRS"**
 
 ### 3.3 高频考点：哪些可逆因有特异治疗
 
@@ -455,7 +648,7 @@ VF/VT  PEA/  ▼       ▼
 ## 📋 文件元信息
 
 - **建立**：2026-05-14（由 Q4725 PEA 房颤陷阱触发）
-- **状态**：v1 完整版（12 个 Part：方法论 + 4 节律 + ACLS 算法 + 5H5T + 用药 + 三种电击 + 急救分类决策 + 房颤决策 + ROSC + PALS + Memory Hook + 跨学科陷阱）
+- **状态**：v1.1（2026-05-15 扩展 Part 3.2 — 新增 3.2.1 张力性气胸穿刺点新旧路径 + 3.2.2 心包穿刺三入路 + subxiphoid 标准流程 + 3.2.3 解毒剂详解 5T 核心 + 扩展）
 - **应试目标**：USMLE Step 2 CK 急救 + ICU + 围手术期 ACLS 模块
 - **复习节奏**：
   - 考前每周扫 Part 0 + Part 10（Memory Hook）+ Part 12（陷阱）
@@ -467,4 +660,4 @@ VF/VT  PEA/  ▼       ▼
   - Day 4：三种"电"方式（Part 5） + 房颤决策（Part 7）
   - Day 5：全套默写 + ROSC 管理（Part 8）
 
-**Last updated**: 2026-05-14 v1
+**Last updated**: 2026-05-15 v1.1（扩展 3.2.1 张力性气胸 / 3.2.2 心包穿刺 / 3.2.3 解毒剂详解）
