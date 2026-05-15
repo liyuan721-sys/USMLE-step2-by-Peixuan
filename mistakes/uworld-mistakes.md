@@ -3496,6 +3496,11 @@
 > 
 > **① 钝性胸创完整决策树**
 > 
+> ![[{97EDC4FC-B930-442E-84D2-8A302E2BF024}.png]]
+> *(UWorld 官方决策图)*
+> 
+> 文字版：
+> 
 > ```
 > Blunt chest trauma
 >         │
@@ -3716,3 +3721,283 @@
 > 主题:: 钝性胸创 BCI 评估（诊断阶梯不跳级）
 > 状态:: 🟡
 > 错因:: pattern
+
+---
+
+> [!example]- [2026-05-14] 心血管 / 电生理 / 先天性 LQTS (Jervell & Lange-Nielsen) (Q3910)
+> ^Q3910
+> 
+> ## Stem 模式
+> 儿童 + **先天性双侧感音神经性聋**（cochlear implants）+ **运动诱发晕厥**（无 postictal）+ **家族猝死**（兄弟游泳猝死）+ QT 520 ms → **Jervell & Lange-Nielsen syndrome (LQT1 纯合, AR)** → **β-blocker (propranolol or nadolol)**
+> 
+> ## 核心概念
+> **遗传性离子通道病 ≠ 抗心律失常药治疗。**
+> LQTS 的一线 = **β-blocker（Class II）**，几乎所有其他抗心律失常药（IA / IC / III）都**禁用**（延长 QT）。LQT1 对 β-blocker 反应最好，是首选。Class IB（Mexiletine）是例外——缩短 QT，LQT3 特别有用。
+> 
+> ## 普适规则
+> 
+> **① LQTS 双分类系统（USMLE 高频混淆点）**
+> 
+> ```
+>                先天性长 QT 综合征
+>                       │
+>          ┌────────────┴────────────┐
+>          ▼                         ▼
+>     按"基因"分                  按"临床表型"分
+>     LQT1, 2, 3...17             Romano-Ward vs J&L-N
+>     (哪个通道坏了)              (聋 / 不聋 + AD / AR)
+> ```
+> 
+> 一个患者**同时拥有两个标签**：基因标签（LQT1/2/3）+ 临床标签（Romano-Ward 或 J&L-N）。
+> 
+> **② Romano-Ward vs Jervell & Lange-Nielsen**
+> 
+> | | Romano-Ward | **J&L-N** |
+> |---|---|---|
+> | 遗传 | **AD**（杂合）| **AR**（纯合）|
+> | 受累 | 仅心脏 | **心脏 + 双侧感音神经性聋** ★ |
+> | 基因 | LQT1/2/3/...17 任一杂合 | **必是 KCNQ1 纯合（= LQT1 范畴）** |
+> | 表型严重度 | 中 | 重 |
+> | 占比 | 大多数 LQTS | 罕见（< 1%）|
+> 
+> **③ 杂合 vs 纯合的"基因剂量效应"**
+> 
+> ```
+> KCNQ1 (LQT1) 基因：
+> - 正常 / 正常 → IKs 100% → QT 正常 + 听力正常
+> - 突变 / 正常（杂合）→ IKs 50% → LQT (Romano-Ward), 听力正常
+> - 突变 / 突变（纯合）→ IKs ~0% → 严重 LQT + 聋 (J&L-N)
+> 
+> 为什么只有 LQT1 纯合能形成 J&L-N：
+> - IKs 是"辅助型"复极 → 纯合可代偿存活
+> - LQT2 (IKr) / LQT3 (Na) 是"主力型" → 纯合多胚胎死亡
+> → LQT2 / 3 临床上几乎都是杂合 (Romano-Ward)
+> ```
+> 
+> **④ LQT1 / 2 / 3 三亚型完整对比 ⭐⭐⭐**
+> 
+> | 维度 | **LQT1** | **LQT2** | **LQT3** |
+> |---|---|---|---|
+> | 基因 | KCNQ1 | KCNH2 (hERG) | SCN5A |
+> | 通道 | IKs↓ | IKr↓ | INa 持续 |
+> | 占比 | 35% | 30% | 10% |
+> | **触发** | **运动 / 游泳** ★ | **听铃 / 惊吓 / 产后 / 低 K** | **睡眠 / 安静** |
+> | Stem 关键词 | "drowned / swim / running" | "alarm clock / postpartum / startled" | "found dead in bed" |
+> | **ECG T 波** | **宽底** | **切迹 / 双相** | **长 ST + 晚出 T** |
+> | 性别偏好 | 1:1 | **女性多** | 男性多 |
+> | 猝死率 | 中 | 中-高 | **最高** ⭐ |
+> | β-blocker 反应 | **极好** ⭐⭐⭐ | 中等 ⭐⭐ | **较差** ⭐ |
+> | **特殊治疗** | 严格避游泳 | **补 K + Mg** | **Mexiletine (IB)** ⭐ |
+> | ICD 阈值 | 高 | 中 | **低** |
+> | 运动限制 | **严格** + 避游泳 | 中度 | **不严格**（运动反保护）|
+> | J&L-N 可能 | **可能（纯合）** | 极罕见 | 不出现 |
+> 
+> **⑤ 三型治疗共同 + 个性化框架**
+> 
+> ```
+> 共同（所有 LQT）：
+> 1. 避免延长 QT 药物（IA / III / macrolides / 抗精神病 / SSRIs / 抗呕吐 / methadone）
+> 2. β-blocker（propranolol / nadolol）★ 一线
+> 3. 严重 → ICD
+> 4. β-blocker 失败 → LCSD
+> 
+> 个性化：
+> - LQT1：严格避游泳 + 避剧烈运动
+> - LQT2：补 K 至 4.5-5.0 + 补 Mg + 避惊吓 + 产后监护
+> - LQT3：加 Mexiletine + ICD 阈值低 + 不严格限运动
+> - J&L-N：同 LQT1 但更严重 → 早期考虑 ICD
+> ```
+> 
+> **⑥ Vaughan Williams 抗心律失常药简化框架**
+> 
+> "1 钠 2 β 3 钾 4 钙"——心肌动作电位各时相对应：
+> 
+> | Class | 通道 | 代表药 | QT 效应 | LQTS 可用？|
+> |---|---|---|---|---|
+> | **IA** | Na（中速）| Quinidine, Procainamide, Disopyramide | **延长 QT** ⭐ | ❌ |
+> | **IB** | Na（快速）| **Lidocaine** (IV), **Mexiletine** (口服) | **缩短 QT** | ✓ 安全；LQT3 特别用 |
+> | **IC** | Na（慢速）| Flecainide, Propafenone | ↑QRS（不长 QT）| 谨慎 |
+> | **II** | β-blocker | **Propranolol, Nadolol** ★, Metoprolol, Esmolol | 不影响 | ✓ **一线** |
+> | **III** | K | **Amiodarone**, **Sotalol**, Ibutilide, Dofetilide | **延长 QT** ⭐⭐（amiodarone 例外）| ❌ |
+> | **IV** | Ca (非 DHP) | Verapamil, Diltiazem | 不影响 | ✓ 安全 |
+> | 其他 | — | **Adenosine** (SVT), **Magnesium** (TdP), Digoxin | 不影响 | ✓ |
+> 
+> **⑦ 必背 12 药 + 5 急救场景 + 3 禁忌组合**
+> 
+> 12 必背药：Quinidine / Procainamide / Lidocaine / Mexiletine / Flecainide / Propranolol / Nadolol / Metoprolol / Esmolol / Amiodarone / Sotalol / Verapamil + Diltiazem + Adenosine
+> 
+> 5 急救场景：
+> 1. SVT 急性 → **Adenosine IV push**
+> 2. 室速稳定 → **Amiodarone / Lidocaine IV**
+> 3. 室颤 / 无脉室速 → **电除颤**
+> 4. **Torsades de Pointes → Magnesium IV**（不论血 Mg）
+> 5. WPW + 房颤 → **Procainamide / 电复律**（不用 AV 结阻滞剂）
+> 
+> 3 禁忌组合：
+> 1. **LQTS + Class IA / III** → 延长 QT
+> 2. **WPW + 房颤 + AV 结阻滞剂**（β / Ca / Adenosine / Digoxin）→ 致室颤
+> 3. **结构性心脏病 / 心梗后 + Class IC**（Flecainide）→ 增死亡率（CAST 试验）
+> 
+> **⑧ Torsades de Pointes 急诊处理**
+> 
+> ```
+> 1. 不稳定（无脉 / 持续）→ 电除颤
+> 2. ⭐ Magnesium IV ⭐ 一线（1-2g bolus + 维持）
+> 3. 停延长 QT 药 + 纠正 K / Mg / Ca
+> 4. 反复发作 → 加快心率（overdrive pacing / Isoproterenol）
+>    ★ 不用 β-blocker / 抗心律失常（急性期反加重）
+> ```
+> 
+> **⑨ QT 延长完整病因表（基于 UWorld 官方表）⭐⭐⭐**
+> 
+> | 大类 | 子类 | 具体 |
+> |---|---|---|
+> | **Acquired**（获得性）| **药物** | • Macrolides & Fluoroquinolones |
+> | | | • Antiemetics（**Ondansetron**）|
+> | | | • Azoles（**Fluconazole**）|
+> | | | • Antipsychotics / TCAs / **SSRIs**（尤 Citalopram）|
+> | | | • Some opioids（**Methadone, Oxycodone**）|
+> | | | • **Class IA**（Quinidine）|
+> | | | • **Class III**（Dofetilide, Sotalol）|
+> | | **电解质** | ↓ Magnesium / ↓ Potassium / ↓ Calcium |
+> | **Congenital**（先天性）| Romano-Ward | AD，仅心脏 |
+> | | **Jervell & Lange-Nielsen** | AR + **感音神经性聋** ★ |
+> 
+> > [!tip] Peixuan 口诀（5 行助记）
+> > - **"IA，III 类 QT 长"**（抗心律失常）
+> > - **"大环三环喹诺酮"**（Macrolides + TCA + Fluoroquinolones）
+> > - **"抗精抗吐昂丹司琼"**（抗精神病 + Ondansetron）
+> > - **"氯喹噻嗪阿唑钠"**（Chloroquine + Thiazide 致低 K 间接 + Azoles + Na 类）
+> > - **"哪位鸦片镁钾钙（降低）"**（Methadone + opioids + ↓ Mg / K / Ca）
+> 
+> **⑩ 心源性 vs 癫痫晕厥鉴别（本题排除 A / C 的关键）**
+> 
+> | | **心源性**（本题）| 癫痫 |
+> |---|---|---|
+> | 起病 | 突发，无前驱 | 可有 aura |
+> | 持续 | **< 1 min** | 数分钟 |
+> | 恢复 | **立即清醒，无 confusion** ⭐ | **Postictal confusion** ★ |
+> | 强直抽搐 | 罕见(短暂缺氧)| 常有 |
+> | 舌咬伤 | 通常无 | **常有** |
+> | 大小便 | 通常无 | **常有** |
+> | 诱因 | 运动 / 听觉 / 应激 | 睡眠剥夺 / 闪光 / 停药 |
+> 
+> ## 易混陷阱（普适）
+> - ❌ **遗传性离子通道病 → 用抗心律失常药**：错！LQTS 反而**禁用**大多数抗心律失常药（IA / III 延长 QT）
+> - ❌ **Quinidine 是 LQTS 治疗**：错！Quinidine = IA = 经典 acquired LQTS 元凶
+> - ❌ **Sotalol 是 β-blocker 所以 LQTS 可用**：错！Sotalol K 通道阻滞主导，仍延长 QT，禁忌
+> - ❌ **Amiodarone 延长 QT 所以禁忌**：错！Amiodarone 致 TdP 罕见（多通道效应），可用于 LQTS（但谨慎）
+> - ❌ **LQT2 / 3 也可以是 J&L-N**：错！J&L-N 几乎必是 LQT1 纯合（KCNQ1，少数 KCNE1）
+> - ❌ **LQTS 都要严格限制运动**：错！LQT3 运动反而保护，不严格限制
+> - ❌ **β-blocker 缩短 QT**：错！β-blocker 不直接缩短 QT，是通过抑制交感预防 TdP 触发
+> - ❌ **Torsades 用 β-blocker 急救**：错！急性期会加重；急救用 Magnesium + 加快心率
+> - ❌ **见到心律失常都查 ECG 看图**：USMLE 不要求看图诊断 LQT，stem 文字会给 QT 数字
+> 
+> ## 我为什么错
+> - 选了：**E. Quinidine**
+> - 错因：**知识**（认出疾病但**不知 β-blocker 是 LQTS 一线**；**抗心律失常药 Vaughan Williams 分类不熟**：误以为 Quinidine 是 III 类 / Sotalol 是单纯 β-blocker）
+> - 核心陷阱：**"遗传性离子通道病 ≠ 抗心律失常药" + "Vaughan Williams 分类知识盲点"**
+> 
+> **具体错位**：
+> - ☑ 认出疾病但不知一线治疗：知道 LQTS 但不知 β-blocker
+> - ☑ "先天性病 → 抗心律失常药"反射误：误以为遗传性离子通道病要用针对性药；其实禁用大多数
+> - ☑ 抗心律失常药分类不熟：Quinidine = IA（强延长 QT），Sotalol / Ibutilide = III
+> - ☑ ECG 不会看 → 放弃读图：但 stem 文字已给 QT 520 ms，不需读图
+> 
+> ## Memory Hook
+> 
+> **🎯 触发口诀（最实用）**：
+> > **"游泳 1，听铃 2，睡觉 3"**
+> > - LQT1 → 游泳 / 运动
+> > - LQT2 → 听铃 / 惊吓 / 产后 / 低 K
+> > - LQT3 → 睡觉 / 安静
+> 
+> **🎯 ECG T 波口诀**：
+> > **"1 宽 2 双 3 晚"**
+> > - LQT1：宽底 T
+> > - LQT2：切迹 / 双相
+> > - LQT3：长 ST + 晚出 T
+> 
+> **🎯 治疗特殊点口诀**：
+> > **"1 β 救命，2 补 K 防铃,3 美西律救场"**
+> > - LQT1：β-blocker 最有效
+> > - LQT2：β-blocker + 补 K + 避惊吓
+> > - LQT3：β-blocker + Mexiletine + ICD 阈值低
+> 
+> **🎯 Vaughan Williams 框架**：
+> > **"1 钠 2 β 3 钾 4 钙"** + **"1A 长，1B 短，2β 4 钙是真朋友，3 全长（除阿米奥），1C 不动 QRS 宽"**
+> 
+> **🎯 QT 延长病因口诀（Peixuan 5 行助记）**：
+> > 1. **"IA，III 类 QT 长"**
+> > 2. **"大环三环喹诺酮"**
+> > 3. **"抗精抗吐昂丹司琼"**
+> > 4. **"氯喹噻嗪阿唑钠"**
+> > 5. **"哪位鸦片镁钾钙（降低）"**
+> 
+> **🎯 类比理解**：
+> - LQTS 心脏 = **充电慢的手机**：复极慢 → 高心率时来不及充满 → 触发崩溃 (TdP)
+> - β-blocker = **让手机用慢点**：减慢心率，给心脏足够时间复极
+> - 游泳 / 听铃 / 惊吓 = **突然高负荷使用**：手机崩溃
+> - Quinidine / Sotalol = **把充电速度调更慢**：火上浇油
+> 
+> **🎯 J&L-N "血统"识别**：
+> > 聋 + LQT + AR → 必是 KCNQ1 纯合 = LQT1 范畴 → β-blocker 反应好 + 早期 ICD 考虑
+> 
+> **🎯 遗传性心律失常治疗哲学（最核心）**：
+> > **"避诱因 + β-blocker + ICD"** = 90% 答案
+> > 90% 的题选 β-blocker，10% 选 ICD（已发生心脏骤停或反复事件）
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 
+> | 我问的关键问题 | 学到了什么 |
+> |---|---|
+> | 遗传性离子通道病应该如何治疗？ | 不是用"对症"抗心律失常药；正确路径 = β-blocker + ICD + 避诱因 |
+> | 三亚型临床症状再讲清楚 | 触发 / ECG / 性别 / 猝死率 / β-blocker 反应都有差异 |
+> | LQT1 / 2 / 3 vs Romano-Ward / J&L-N 怎么对应？ | 双分类系统：基因层（LQT1 / 2 / 3）+ 临床层（RW / J&L-N）；J&L-N 必是 LQT1 纯合 |
+> | 所有 LQT 治疗都一样吗？ | 共同框架 90% 同；个性化 10%：LQT2 补 K，LQT3 加 Mexiletine，LQT1 严格避运动 |
+> | LQT2 / 3 是不是也是杂合？ | 是！LQT1 / 2 / 3 都默认杂合（Romano-Ward, AD）；只有 LQT1 纯合形成 J&L-N；LQT2 / 3 纯合多胚胎死亡 |
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 本题首张心内 / 电生理 / 遗传性心律失常卡，等后续 Brugada / CPVT / ARVC / 获得性 QT 延长积累
+> - 📚 主笔记：
+>   - [[完整笔记/专题笔记/_衍生_Vaughan_Williams抗心律失常药对照]] ⭐（本题落地的衍生笔记，15 个 Part 全套）
+>   - [[完整笔记/Peixuan分科笔记/心内]]（LQTS + Vaughan Williams + Torsades）
+>   - [[完整笔记/Peixuan分科笔记/儿科]]（儿童心源性晕厥 + 先天性遗传病）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/感染]]（macrolides / fluoroquinolones / azoles → 获得性 LQTS — 开抗生素时常考点）
+>   - [[完整笔记/Peixuan分科笔记/psych]]（抗精神病 / 抗抑郁致 QT 延长 — 精神科开药考点）
+>   - 与 Q4212 主动脉急症形成"心内紧急"系列
+> - 🌱 TODO（待生成衍生）：
+>   - 累计 3+ 道遗传性心律失常题 → 生成 [[完整笔记/专题笔记/_衍生_遗传性心律失常综合征]]（含 LQT1-3 / Brugada / CPVT / ARVC / J&L-N / Andersen-Tawil / Timothy 全套）
+>   - 累计 3+ 道获得性 QT 延长题（药物 + 电解质）→ 生成 [[完整笔记/专题笔记/_衍生_获得性LQTS病因清单]]
+>   - 累计 3+ 道晕厥鉴别题 → 生成 [[完整笔记/专题笔记/_衍生_晕厥鉴别决策树]]（心源 vs 神经 vs 血管迷走 vs 体位 vs 癫痫）
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q3910，目标 < 60 秒选 D
+> - [ ] 默写 **Vaughan Williams 4 大类 + 代表药 + QT 效应**（用 "1A 长 1B 短 2β 4 钙是真朋友 3 全长"口诀）
+> - [ ] 默写 **LQT1 / 2 / 3 三亚型对比**（基因 / 触发 / ECG / 猝死率 / β-blocker 反应 / 特殊治疗）
+> - [ ] 默写 **三亚型触发口诀**（游泳 1 / 听铃 2 / 睡觉 3）
+> - [ ] 默写 **三亚型 ECG 口诀**（1 宽 2 双 3 晚）
+> - [ ] 默写 **三亚型治疗个性化口诀**（1 β 救命 / 2 补 K 防铃 / 3 美西律救场）
+> - [ ] 默写 **J&L-N vs Romano-Ward 鉴别**（AR + 聋 vs AD 仅心；J&L-N = LQT1 纯合）
+> - [ ] 默写 **Torsades 急诊处理**（Magnesium → pacing / Iso，禁 β-blocker）
+> - [ ] 默写 **QT 延长 5 行口诀**（IA III / 大环三环喹诺酮 / 抗精抗吐昂丹 / 氯喹噻嗪阿唑钠 / 哪位鸦片镁钾钙）
+> - [ ] 默写 **12 必背抗心律失常药**
+> - [ ] 默写 **5 急救场景**
+> - [ ] 默写 **3 禁忌组合**
+> - [ ] 找类似题：① Brugada syndrome ② CPVT ③ 获得性 QT 延长 ④ TdP 急救 ⑤ Andersen-Tawil
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加 #要做题（电生理 + 抗心律失常药）
+> - [ ] **建立"遗传性离子通道病 ≠ 抗心律失常药"思维**：LQTS 反而禁用大多数；β-blocker 是基础
+> - [ ] **修正"看 ECG 才能诊断"误区**：USMLE 题 stem 文字会给 QT 数字，不必读图
+> - [ ] **建立"基因 + 临床"双标签认知**：LQT1 / 2 / 3 基因层；Romano-Ward / J&L-N 临床层
+> - [ ] **5 天专攻抗心律失常药计划**：Day1 框架 → Day2 12 药 → Day3 3 表 → Day4 题练 → Day5 默写
+> 
+> ---
+> 
+> 学科:: 心血管
+> 主题:: 先天性 LQTS（J&L-N + LQT1 / 2 / 3 + Vaughan Williams + QT 延长病因）
+> 状态:: 🟡
+> 错因:: 知识
