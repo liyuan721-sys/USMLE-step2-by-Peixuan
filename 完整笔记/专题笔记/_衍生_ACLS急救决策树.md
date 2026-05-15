@@ -344,7 +344,7 @@ Step 6 (refractory): VA-ECMO
 | **禁忌药** | ❌ Class IA / IC（同样阻 Na，加重传导阻滞）❌ Flumazenil（即使共服 BZD，会去除癫痫保护）❌ Physostigmine（虽然抗胆碱症状 — 但 TCA 中毒不用，加重心毒）|
 | **癫痫处理** | **Benzodiazepines**（首选）→ phenobarbital；**避免 phenytoin**（Na 通道阻，加重 TCA 心毒）|
 
-#### F. 其他必背解毒剂（扩展）
+#### F. 其他必背解毒剂（扩展）#薄弱点
 
 | 中毒 | 表型指纹 | 解毒剂 |
 |---|---|---|
