@@ -4990,3 +4990,483 @@
 > 主题:: 经典 Vasovagal → No Further Testing + Seizure aura 鉴别 + 颞叶癫痫
 > 状态:: 🟡
 > 错因:: pattern
+
+## 2026-05-15
+
+> [!example]- [2026-05-15] 心血管 / Type B 主动脉夹层降压**顺序** (复盘 self-test Q07)
+> ^STQ20260515-07
+> 
+> ## Stem 模式
+> 
+> 58 岁男，撕裂样胸背痛，CT 确诊 Stanford **Type B**，BP 190/110，HR 105 → 问**最先**给哪个降压药？
+> 
+> ## 核心概念
+> 
+> 主动脉夹层降压**顺序**：**β-blocker（esmolol/labetalol）先降 HR < 60** → **再加 nitroprusside/NTG 降 SBP < 120**。
+> 单纯先给 vasodilator → **reflex tachycardia + ↑dP/dt → 撕裂面扩展**。
+> 
+> ## 普适规则
+> 
+> ### 夹层降压 SOP
+> 
+> | 步骤 | 药物 | 目标 | 原理 |
+> |---|---|---|---|
+> | Step 1 | **IV β-blocker**（esmolol 首选 / labetalol）⭐ | HR < 60 | 降 dP/dt，减小血流冲击 |
+> | Step 2 | + IV nitroprusside / NTG | SBP 100-120 | 进一步降压（HR 已控制后才能加） |
+> | 镇痛 | IV morphine / fentanyl | 缓解疼痛 → 间接降 HR/BP | 必加 |
+> 
+> ### 分型与治疗（联动）
+> 
+> | 类型 | 累及范围 | 治疗 |
+> |---|---|---|
+> | **Type A**（Stanford A / DeBakey I/II）| 升主动脉 ± 弓 ± 降 | **立即外科**（替换升主动脉） |
+> | **Type B**（Stanford B / DeBakey III）| 只累及左锁骨下远端 | **药物降压为主**（β-blocker + vasodilator）；并发症（破裂/缺血）才手术 / TEVAR |
+> 
+> ## 易混陷阱（普适）
+> 
+> - ❌ **单独 NTG / Nitroprusside / Hydralazine** → reflex tachycardia → 撕裂扩展（绝对错）
+> - ❌ **Amlodipine / 口服降压**：起效太慢，急性夹层用不上
+> - ⚠️ **β-blocker 禁忌**（重度 AS / 急性心衰 / AV block）→ 改用 **非二氢吡啶 CCB（diltiazem/verapamil）IV**
+> - ⚠️ Type A 不要纠结药物 → **直接 OR**（药物只是过渡）
+> 
+> ## 我为什么错
+> 
+> - 选了：B（IV NTG）+ ?
+> - 错因：**知识**（顺序题 — 知道夹层需降压但没记"先 HR 后 BP"原则）
+> - 核心陷阱：看到 BP 190/110 第一反应"先扩血管"，忽略 HR 105 才是更重要的撕裂驱动力
+> 
+> ## Memory Hook
+> 
+> > **"先关水龙头（β-阻 HR），再开下水道（vasodilator）"**
+> > 
+> > 夹层 = **撕裂面被 dP/dt 推开** → 降 dP/dt 比降 BP 更优先
+> > 
+> > 顺序口诀：**"BB → NTG → 镇痛"**（永远 β 先）
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 
+> | 我问的关键问题 | 学到了什么 |
+> |---|---|
+> | "BP 190 难道不该先降 BP 吗？" | 撕裂动力 = dP/dt（血压变化率），不是绝对压；HR↑会让 dP/dt 飙升 → 必须先压 HR |
+> | "Type B 什么时候需要手术？" | 默认药物，**有并发症才手术**：破裂、malperfusion（肾/肠/肢端缺血）、难控疼痛/血压、夹层快速扩展 |
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 本卡是夹层降压顺序首张，等积累
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/专题笔记/_衍生_主动脉急症决策树]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/外科]]（Type A 立即手术）
+> - 🌱 TODO：无（衍生 Part 6.5 已覆盖该顺序，对比检查 ✓）
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q07（验证"先 β 后 vasodilator"反射）
+> - [ ] 默写 **夹层降压 3 步 SOP**
+> - [ ] 默写 **Type A vs B 治疗分流**
+> - [ ] 找 3 道 UW 夹层 / AAA 急诊题
+> 
+> ---
+> 
+> 学科:: 心血管
+> 主题:: 主动脉夹层降压顺序（β-blocker 先于 vasodilator）
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-15] 神经 / 癫痫 vs 晕厥鉴别 — 舌咬部位陷阱 (复盘 self-test Q32)
+> ^STQ20260515-32
+> 
+> ## Stem 模式
+> 
+> 28 岁男目击 LOC 后，问哪个特征**最可靠**区分 generalized tonic-clonic seizure vs vasovagal syncope？选项里有 "tongue biting on the tip" 和 "postictal confusion > 10 min"。
+> 
+> ## 核心概念
+> 
+> **舌侧缘（lateral）咬伤 = seizure 特异**；**舌尖（tip）咬伤 = syncope 也可见**。
+> 选项写 "on the tip" 是**干扰项陷阱** — 真正最可靠区分点是 **prolonged postictal confusion（5-30+ min）**。
+> 
+> ## 普适规则
+> 
+> ### Seizure vs Syncope 鉴别铁律
+> 
+> | 特征 | Seizure | Syncope | 谁更特异？ |
+> |---|---|---|---|
+> | **舌咬部位** ⭐ | **侧缘（lateral）** | 偶尔**舌尖（tip）** | **侧缘 → seizure**（题干 "tip" 是陷阱） |
+> | **Postictal confusion** ⭐⭐⭐ | **5-30+ min**（金标准）| < 1 min 完全清醒 | **延迟清醒 = seizure 印章** |
+> | Aura | 局灶性（嗅 / 视 / déjà vu）| 全身性 prodrome（眼黑/出汗/恶心）| 局灶 → seizure |
+> | Jerking | 持续节律性 1-2 min | 可有短暂 myoclonic（convulsive syncope）| 短暂抽搐 ≠ seizure |
+> | Incontinence | 可有 | 也可有 | 不可靠 |
+> | LOC 持续 | > 1 min | < 30 秒 | 时长 alone 不够 |
+> | 触发 | 闪光 / 睡眠剥夺 / 戒酒 / 漏药 | 站立 / 疼痛 / 见血 / 排尿 | 看触发 |
+> 
+> ### "最可靠区分点"排序（USMLE）
+> 1. ⭐⭐⭐ **Prolonged postictal confusion** → seizure 金标准
+> 2. ⭐⭐ **Lateral tongue biting** → seizure
+> 3. ⭐⭐ **局灶 aura**（déjà vu / 嗅幻觉 / automatism）→ seizure
+> 4. ⭐ Witnessed prolonged jerking（> 1-2 min 持续抽搐）→ seizure
+> 
+> ## 易混陷阱（普适）
+> 
+> - ❌ "Tongue biting" 不分部位 → 错，**必须看部位**（tip = syncope 也行）
+> - ❌ "Jerking" alone → 错，**convulsive syncope** 也有短暂 myoclonic jerks（脑灌注不足）
+> - ❌ "Incontinence" → 两者都可见，**不可靠**
+> - ❌ "LOC > 30 秒" → syncope 也可，不可靠
+> - ✅ **Postictal confusion** 是最可靠的"印章"，几乎不会假阳性
+> 
+> ## 我为什么错
+> 
+> - 选了：C（tongue biting on the tip）
+> - 错因：**干扰项**（被题干 "tip" 字眼吸引，忘了"侧缘 = 特异"细节，把"咬舌"笼统当 seizure）
+> - 核心陷阱：USMLE 题干把"tip"明写 → **检验你知不知道 lateral 才是 specific**
+> 
+> ## Memory Hook
+> 
+> > **"咬侧不咬尖"** — Seizure 咬**侧缘**（lateral），syncope 偶尔咬**舌尖**（tip）
+> > 
+> > **最可靠印章 = postictal confusion > 5 min**（晕厥 < 1 min 立刻清醒）
+> > 
+> > 三件套优先级：**Postictal > Lateral tongue > 局灶 aura**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 
+> | 我问的关键问题 | 学到了什么 |
+> |---|---|
+> | "Tip 咬舌为什么不算 seizure？" | Syncope 跌倒时舌头碰到牙也可能咬尖；只有**侧缘**是 tonic-clonic 时牙关紧咬咬住的特异部位 |
+> | "Convulsive syncope 怎么和 seizure 区分？" | Jerks 短（< 15 秒）+ 无 postictal confusion + 触发是站立/疼痛 → 仍是 syncope |
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q19889]] 经典 Vasovagal + Seizure aura 鉴别（2026-05-14 同主题）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/专题笔记/_衍生_晕厥鉴别决策树]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Psych]]（PNES 非癫痫性发作鉴别）
+> - 🌱 TODO：无（衍生 Part 8.3 已含 lateral 咬伤 + postictal confusion 金标准 ✓）
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q32（验证不被 "tip" 陷阱拐走）
+> - [ ] 默写 **Seizure vs Syncope 7 行鉴别表**
+> - [ ] 默写 **"最可靠区分点" 4 级优先级**
+> - [ ] 反射训练：看到"tongue biting"先查部位（lateral？tip？）
+> 
+> ---
+> 
+> 学科:: 神经
+> 主题:: Seizure vs Syncope 鉴别（舌咬部位 + postictal confusion）
+> 状态:: 🟡
+> 错因:: 干扰项
+
+> [!example]- [2026-05-15] 心血管 / Class IB 独特机制 — 缩短 QT (复盘 self-test Q38)
+> ^STQ20260515-38
+> 
+> ## Stem 模式
+> 
+> 问：Class IB 抗心律失常药（lidocaine, mexiletine）相对其他类，**独特**的电生理效应是哪条？
+> 
+> ## 核心概念
+> 
+> **Class IB 独特 = 缩短 APD/QT**（所有其他 Na 通道阻滞剂要么不变要么延长 QT）。机制 → 临床：**LQT3（SCN5A 持续性晚 Na 电流）用 mexiletine** 正是为了把延长的 QT 拉回来。
+> 
+> ## 普适规则
+> 
+> ### Vaughan Williams Class I 三亚类核心对比 ⭐
+> 
+> | 亚类 | 代表药 | Na 通道结合 | APD/QT 影响 | 适应症 |
+> |---|---|---|---|---|
+> | **IA** | Quinidine, Procainamide, Disopyramide | 中等亲和 | **↑ QT**（也阻 K 通道）| AFib / VT；procainamide 用于 WPW + AFib |
+> | **IB** ⭐ | **Lidocaine, Mexiletine** | 快结合快解离 | **↓ QT**（独特！）| **缺血性 VT**（lidocaine）/ **LQT3**（mexiletine） |
+> | **IC** | Flecainide, Propafenone, Encainide | 慢结合慢解离 | **↑ QRS**（QT 微变）| **结构正常心脏**的 AFib（pill-in-pocket）；**禁用 post-MI**（CAST trial）|
+> 
+> ### 各类 ECG 标志
+> 
+> | 类 | 主要 ECG 变化 |
+> |---|---|
+> | IA | **QT ↑** |
+> | IB | **QT ↓** ⭐ 独特 |
+> | IC | **QRS ↑**（QT 基本不变）|
+> | II（β-blocker）| **PR ↑** + HR ↓ |
+> | III（amiodarone, sotalol, dofetilide）| **QT ↑↑** |
+> | IV（diltiazem, verapamil）| **PR ↑** + HR ↓ |
+> 
+> ### IB → 临床 = LQT3 用 mexiletine
+> 
+> - LQT3 病因 = SCN5A 突变 → **late Na current 持续流入** → APD 延长 → QT 延长
+> - Mexiletine 阻断 **late Na current** → 缩短 APD/QT → 救命
+> - **β-blocker 在 LQT3 效果差**（不是肾上腺素触发），所以 mexiletine 是关键
+> 
+> ## 易混陷阱（普适）
+> 
+> - ❌ "PR prolongation" = II/IV 类（AV 阻断）特征，**不是 IB**
+> - ❌ "QRS widening" = IC 类特征
+> - ❌ 把 IB 当 III 类（"延长 QT"）→ 完全反了
+> - ⚠️ Class III 也有缩短 QT 的例外吗？没有，III 一律 ↑ QT
+> 
+> ## 我为什么错
+> 
+> - 选了：D（PR prolongation）+ ?
+> - 错因：**知识**（机制层面不熟 — 知道 Q31 临床用 mexiletine 治 LQT3，但没串到"IB → QT 缩短"机制）
+> - 核心陷阱：Q31（临床应用）做对了 ≠ Q38（机制）能做对；**机制层面是反向题**，必须独立记忆
+> 
+> ## Memory Hook
+> 
+> > **"IB 短 QT，独此一家"**
+> > 
+> > 类联想：
+> > - IA → A 字像 ↑ → **QT ↑**
+> > - IB → B 字像 ↓ → **QT ↓** ⭐
+> > - IC → C = "QRS Coupled" → **QRS ↑**
+> > 
+> > 临床闭环：**LQT3 → late Na 漏 → mexiletine 堵 → QT 回正**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 
+> | 我问的关键问题 | 学到了什么 |
+> |---|---|
+> | "为什么只有 IB 缩短 QT？" | IB 快结合快解离 + 优先结合**激活/失活态** Na 通道 → 在缺血/去极化组织优先作用 → APD↓ |
+> | "Lidocaine 为啥不用于 AFib？" | AFib 是房性 + 心房 Na 通道少受 IB 影响；IB 主要管缺血性室性心律失常 |
+> | "Class III amiodarone 反例为什么没有？" | 没有；III 类核心机制 = K 阻断 → 一律 ↑ APD/QT |
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 本卡是 Class IB 机制首张，等积累
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/专题笔记/_衍生_Vaughan_Williams抗心律失常药对照]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（LQT3 syncope/猝死与神经病学交叉）
+> - 🌱 TODO：无（衍生 Part 2.3 已覆盖 IB → QT↓ + LQT3 应用 ✓）
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q38（验证机制反射）
+> - [ ] 默写 **Class I 三亚类 ECG 标志表**（IA↑QT / IB↓QT / IC↑QRS）
+> - [ ] 默写 **5 类抗心律失常药 ECG 标志**
+> - [ ] 反射训练：看到 "lidocaine/mexiletine" → 0.5 秒喊 "缩短 QT"
+> 
+> ---
+> 
+> 学科:: 心血管
+> 主题:: Class IB 抗心律失常药独特缩短 QT
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-15] 内分泌 / Primary vs Secondary AI **独有**鉴别点 (复盘 self-test Q45)
+> ^STQ20260515-45
+> 
+> ## Stem 模式
+> 
+> 问：哪个特征在**原发性肾上腺皮质功能不全（Addison）有，继发性没有**？选项含"低 cortisol / 低血糖 / 嗜酸 / 高 K + 色素沉着 / 乏力"。
+> 
+> ## 核心概念
+> 
+> **Primary 独有 = 高 K + 色素沉着**（aldo↓ + ACTH/α-MSH↑）。
+> Secondary（垂体）只 cortisol↓，**aldo 正常**（RAAS 独立于 ACTH），所以**无高 K 无色素沉着**。
+> 共同症状（低 cortisol / 低糖 / 嗜酸 / 乏力 / 低 Na）都不能用来鉴别。
+> 
+> ## 普适规则
+> 
+> ### Primary vs Secondary AI 鉴别铁律
+> 
+> | 特征 | Primary（1°，肾上腺烂）| Secondary（2°，垂体烂）| 鉴别价值 |
+> |---|---|---|---|
+> | **Cortisol** | ↓ | ↓ | 共同（无鉴别）|
+> | **ACTH** | **↑↑** | ↓ | 实验室金标准 |
+> | **Aldosterone** | **↓** | 正常（RAAS 独立）| 关键差异 |
+> | **K⁺** | **↑（高 K）** ⭐ | 正常 | **独有 1°** |
+> | **Na⁺** | ↓（双重机制：aldo↓ + ADH↑）| ↓（仅 ADH↑，cortisol 抑制 ADH↓）| 共同（程度不同）|
+> | **色素沉着** | **有（掌纹/口腔/瘢痕）** ⭐ | 无 | **独有 1°** |
+> | 低血糖 | + | + | 共同 |
+> | 嗜酸 ↑ | + | + | 共同 |
+> | 乏力 | + | + | 共同 |
+> 
+> ### 机制闭环
+> 
+> ```
+> Primary (Addison)             Secondary (垂体)
+> ───────────────────           ───────────────────
+> 肾上腺 → 全废                 垂体 → ACTH↓
+>   ├─ Cortisol↓ ←─┐              └─ Cortisol↓
+>   └─ Aldo↓        │           Aldo 正常（RAAS）
+>                   │
+> ACTH↑↑（无负反馈） │
+>   └─ α-MSH↑ → 色素 ⭐
+> 
+> Aldo↓ → K↑ + Na↓ ⭐
+> ```
+> 
+> ### 病因速记
+> 
+> | 类型 | 常见病因 |
+> |---|---|
+> | **1° Addison**（美国）| **自身免疫性肾上腺炎**（最常，70%）；TB（发展中国家最常）；APS-2；adrenal hemorrhage（Waterhouse-Friderichsen）；转移癌 |
+> | **2°**（垂体）| 长期外源 GC 突停 ⭐ 最常；垂体瘤 / Sheehan / 手术放疗 |
+> | **3°**（下丘脑）| 慢性外源 GC 抑制 CRH |
+> 
+> ## 易混陷阱（普适）
+> 
+> - ❌ "低 cortisol / 低糖 / 嗜酸 / 乏力" → **共同症状，不能鉴别**
+> - ❌ 选 fatigue 当鉴别点 → 经典分心选项
+> - ⚠️ 2° AI 也有低 Na（cortisol↓ → ADH 反馈解除），但**没有高 K**
+> - ⚠️ 长期外源 GC **突然停药** = 急性 2° AI（最常见原因，临床高频）
+> 
+> ## 我为什么错
+> 
+> - 选了：E（Fatigue）
+> - 错因：**知识**（题问"独有"，但被共同症状选项分心；忘了 aldo↓ 才是 1° 的核心鉴别）
+> - 核心陷阱：USMLE 题问"only in primary" → **必须锁定 aldo 驱动的高 K + ACTH 驱动的色素**
+> 
+> ## Memory Hook
+> 
+> > **"K 和黑只在 1°"** — High **K**alemia + Hyper**pigmentation** = Primary 独有
+> > 
+> > 机制闭环：
+> > - 1° = **肾上腺全废** → cortisol↓ + **aldo↓**（→ K↑）+ ACTH↑（→ MSH → 色素）
+> > - 2° = **只垂体死** → 只 cortisol↓，**aldo 不动**（RAAS 独立）
+> > 
+> > 共同症状 = 低 cortisol 直接后果（低糖 / 嗜酸 / 乏力 / 低 Na）→ **不能鉴别**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 
+> | 我问的关键问题 | 学到了什么 |
+> |---|---|
+> | "为什么 2° 没有高 K？" | Aldo 主要受 RAAS（K + Ang II）调控，**不受 ACTH 调控**；ACTH↓ 不影响 aldo |
+> | "为什么 1° 有色素沉着？" | ACTH 与 α-MSH 来自同一前体 POMC；ACTH↑↑ → α-MSH 副产物 → 黑素细胞 → 掌纹/口腔黏膜/瘢痕色素沉着 |
+> | "2° 的 Na 为什么也低？" | Cortisol 平时**抑制 ADH**；cortisol↓ → ADH 解除抑制 → 水潴留 → 稀释性低 Na |
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 本卡是 Primary vs Secondary AI 鉴别首张，等积累
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/endocrine]] / [[完整笔记/专题笔记/_衍生_肾上腺皮质功能不全决策树]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/肾脏]]（高 K 急诊鉴别）；[[完整笔记/Peixuan分科笔记/感染]]（TB 致 1° AI）
+> - 🌱 TODO：无（衍生 Part 2.1 已含 1° vs 2° 鉴别表 ✓）
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q45（验证"K + 黑 → 1°"反射）
+> - [ ] 默写 **1° vs 2° AI 9 行鉴别表**
+> - [ ] 默写 **AI 病因速记**（1°/2°/3°）
+> - [ ] 反射训练：看到"hyperpigmentation + hyperK" → 0.5 秒喊 Addison
+> 
+> ---
+> 
+> 学科:: 内分泌
+> 主题:: Primary vs Secondary AI 鉴别（高 K + 色素 = 1° 独有）
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-15] 外科 / 侵入操作安全 — 气管插管 gold std + Basilar fx 禁忌 (复盘 self-test Q48-Q49)
+> ^STQ20260515-48-49
+> 
+> ## Stem 模式
+> 
+> **Q48**：60 岁男插管后，确认**气管 vs 食管**位置的金标准？
+> **Q49**：18 岁高速 MVC 后 raccoon eyes + Battle sign + 鼻 CSF 漏，要减压胃 → 用什么管？
+> 
+> ## 核心概念
+> 
+> - **Q48 答案**：**Sustained ETCO2 waveform on capnography = gold standard**（区分气管 vs 食管）；**CXR 只确认深度 depth**，不区分位置
+> - **Q49 答案**：Basilar skull fracture → **任何经鼻管禁忌**（NGT / Dobhoff / nasotracheal）→ **必须经口（OGT）**
+> 
+> ## 普适规则
+> 
+> ### Q48 — 气管插管位置确认 5 法对比
+> 
+> | 方法 | 区分气管 vs 食管？ | 确认深度？ | 可靠性 |
+> |---|---|---|---|
+> | **Sustained ETCO2 waveform（capnography）** ⭐ | **金标准** | × | **5-6 次稳定波 = 确定气管** |
+> | Colorimetric CO2 detector | 是（弱版本）| × | 假阴性（心跳停 → 无 CO2 流） |
+> | Bilateral breath sounds | 不可靠 | 部分 | 胃声可传播误导 |
+> | Chest rise | 不可靠 | × | 主观 |
+> | SpO2 > 92% | × | × | 延迟，不能即时确认 |
+> | **CXR** | × | **确认深度（tip 2-4 cm above carina）** | 用于排除右主支气管插管 |
+> 
+> ### Q49 — Basilar skull fracture 三联征 → 经鼻管绝对禁忌
+> 
+> | 临床体征 | 提示 |
+> |---|---|
+> | **Raccoon eyes（双眶周淤青）** | 前颅窝骨折 |
+> | **Battle sign（耳后淤青）** | 中颅窝骨折 |
+> | **CSF rhinorrhea / otorrhea** | 硬膜撕裂 |
+> | **Hemotympanum** | 中颅窝 |
+> 
+> **禁忌管路**：NGT / **Dobhoff**（也是经鼻细管）/ Nasotracheal intubation → 风险**经筛板进入颅内**
+> **正确**：**Orogastric tube（OGT）** 经口
+> 
+> ### 通用"经鼻禁忌"红旗清单
+> 
+> - Basilar skull fracture
+> - 严重颜面骨折 / Le Fort II/III
+> - 鼻骨骨折
+> - 鼻部肿瘤 / 重度鼻中隔偏曲
+> - 食管狭窄 / 静脉曲张（相对禁忌）
+> 
+> ## 易混陷阱（普适）
+> 
+> ### Q48
+> - ❌ "Bilateral breath sounds" → **不可靠**（食管插管也可传播气声到肺野）
+> - ❌ "Chest rise" → 主观
+> - ❌ "SpO2 > 92%" → 延迟指标
+> - ❌ "CXR" → **是 depth 工具，不是 position 工具**（trap：很多学生选 CXR 觉得"客观"）
+> - ✅ Capnography 是真正即时 + 客观的金标准
+> 
+> ### Q49
+> - ❌ "改 Dobhoff" → **Dobhoff 也是经鼻**！同样禁忌
+> - ❌ "等 CT 颈椎清" → 颈椎不是这里问题，颅底骨折才是
+> - ❌ "PEG 现在做" → 急诊不做 PEG（择期）
+> - ✅ **OGT 是唯一对的答案**
+> - ⚠️ 同理：basilar fx 病人 **NPA（nasopharyngeal airway）也禁忌**
+> 
+> ## 我为什么错
+> 
+> ### Q48
+> - 选了：E（CXR 确认 tip 2-4cm above carina）
+> - 错因：**知识**（混淆了 position 确认 vs depth 确认；CXR 是 depth 工具）
+> - 核心陷阱：CXR 看似"客观"，但**速度慢 + 只看深度，不能 0 秒区分气管/食管**
+> 
+> ### Q49
+> - 选了：D（Dobhoff tube）
+> - 错因：**知识**（不知道 Dobhoff = 也是经鼻管）
+> - 核心陷阱：Dobhoff 名字像"特殊管"，但**插入路径仍是鼻 → 鼻咽 → 食管**，颅底骨折同样禁忌
+> 
+> ## Memory Hook
+> 
+> > **Q48** — **"听诊看胸都不算，CO2 波形才作数；CXR 只看深浅，不看对错"**
+> > 
+> > 一句口诀：**"位置看 CO2，深度看 X 光"**
+> > 
+> > **Q49** — **"鼻漏脑水 = 鼻子一律封死"**
+> > 
+> > 经鼻禁忌三联：**NGT / Dobhoff / Nasotracheal** 全部 OUT；**只剩 OGT**
+> > 
+> > 三联征口诀：**"熊猫眼 + 耳后青 + 鼻流水 = 颅底骨折"**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 
+> | 我问的关键问题 | 学到了什么 |
+> |---|---|
+> | "Capnography 怎么区分气管 vs 食管？" | 食管无肺通气 → 无 CO2 流 → 几次后波形消失；气管持续呼气 → 5-6 次**稳定方波** = 确认气管 |
+> | "为什么 CXR 不是金标准？" | CXR 拍片要 5-15 分钟 + 只能看气管隆突距离（depth），无法 0 秒识别"现在管在食管还是气管" |
+> | "Dobhoff 不是用于喂食吗，为啥也禁鼻？" | 路径完全相同（鼻 → 咽 → 食管），细 ≠ 安全；颅底缺损时任何细管都可能误入颅内 |
+> | "Basilar fx 临床急诊还能干啥？" | **避免擤鼻 / 经鼻吸引 / 经鼻通气**；评估 CSF leak（glucose+ / halo sign）；预防性抗生素有争议 |
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 本卡是侵入操作安全首张自测，等积累
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/外科]] / [[完整笔记/专题笔记/_衍生_侵入操作安全流程大全]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（颅底骨折评估）；[[完整笔记/Peixuan分科笔记/pulmonary]]（插管 + 通气）
+> - 🌱 TODO：建议给衍生加补丁 — **明确写"任何经鼻管禁忌，包括 nasotracheal intubation 和 NPA"**（详见对话末尾增量清单）
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q48 + Q49
+> - [ ] 默写 **气管插管确认 5 法对比表**（capnography vs CXR vs auscultation）
+> - [ ] 默写 **Basilar fx 三联征 + 经鼻禁忌清单**
+> - [ ] 反射训练：
+>   - 看到"confirm ET tube placement" → 0.5 秒喊 capnography
+>   - 看到"raccoon eyes / Battle sign / CSF rhinorrhea" → 0.5 秒喊"经鼻一律 OUT，走 OGT"
+> 
+> ---
+> 
+> 学科:: 外科
+> 主题:: 侵入操作安全（气管插管金标准 + Basilar fx 经鼻禁忌）
+> 状态:: 🟡
+> 错因:: 知识
