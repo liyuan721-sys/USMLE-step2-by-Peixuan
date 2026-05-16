@@ -7075,3 +7075,119 @@
 > 主题:: AS 体征 / S3 vs S4 机制（压力 vs 容量超负荷）
 > 状态:: 🟡
 > 错因:: 知识
+
+> [!example]- [2026-05-16] 儿科 / Tetralogy of Fallot (Q2429)
+> ^Q2429
+>
+> ## Stem 模式
+> 数月-数岁婴儿 + **喂奶/哭闹时发紫**（Tet spell）+ **Single S2** + LUSB **crescendo-decrescendo** 杂音 + 4 肢 BP 相等 + 中心性紫绀（唇舌）→ TOF
+>
+> ## 核心概念
+> TOF = 最常见的紫绀型先心病（>1 岁），**胚胎漏斗部间隔前上偏移**导致 4 个缺陷
+> Tet spell = RVOT 阻塞动态加重 + SVR 下降 → 右→左分流↑ → 紫绀
+> 首选下一步：诊断 = Echo；急性 Tet spell = Knee-to-chest + O₂ + Morphine
+>
+> ## 普适规则
+>
+> **TOF 4 缺陷（PROVe）**：
+> - **P**ulmonary stenosis (RVOT 阻塞) — 杂音来源
+> - **R**V Hypertrophy — boot-shaped 心影来源
+> - **O**verriding aorta — 骑跨 VSD
+> - **V**SD（大型）
+>
+> **先心病诊断 5 步框架**（最关键）：
+> 1. **紫**绀吗？→ 紫绀走 5T+H, 非紫绀走 VAPP/阻塞
+> 2. **时**间窗？→ 24-48h / 数周 / 数月 / 成年 各对应不同病
+> 3. **S**2？→ Single (5T) / 固定分裂 (ASD) / 响亮 P2 (PH)
+> 4. **杂**音？→ 位置 + 形状（Holosystolic / Crescendo-decrescendo / Continuous）
+> 5. **压**力差？→ 4 肢 BP, 排除 CoA
+>
+> **杂音形状鉴别**：
+>
+> | 形状 | 病 |
+> |---|---|
+> | Holosystolic (▭▭▭) | VSD / MR / TR |
+> | Crescendo-decrescendo (▲▼) | **TOF / AS / PS** |
+> | Continuous machine-like | PDA |
+> | 收缩+舒张 | Truncus |
+>
+> **Tet Spell 急性处理 7 步 (KOMI-PB-bicarb)**：
+> K**nee-chest → **O**₂ → **M**orphine → **I**V fluids → **P**henylephrine (↑SVR) → **B**eta-blocker (↓RVOT 痉挛) → **bicarb**（纠酸）
+> 禁忌：β-agonist（加重痉挛）/ Diuretics（减 preload）
+>
+> ## 易混陷阱（普适）
+> - **紫绀必想 5T+H**，绝不选 VSD/ASD/PDA（左→右不会紫绀，除非 Eisenmenger）⭐
+> - **VSD 杂音 = Holosystolic at LLSB；TOF 杂音 = Crescendo-decrescendo at LUSB**（不要混）⭐
+> - **TOF 杂音来源是 RVOT 阻塞（PS），不是 VSD**（大 VSD 压差小无杂音）
+> - **Single S2 强烈提示 RVOT 阻塞 / 共干**（TOF, Truncus, severe PS, TGA）⭐
+> - **固定分裂 S2 → ASD**（USMLE 经典 100% 锁定）
+> - TGA / HLHS 在 24-48h 发病, 不可能 3 月才表现
+> - Tet spell 诱因：哭闹 / 喂奶 / 排便 / 早晨醒来（Valsalva → SVR↓）
+> - Squatting 缓解机制：↑SVR → ↓ 右→左分流
+>
+> ## 我为什么错
+> - 选了 C. Isolated VSD
+> - 思路："婴儿 + 心脏杂音 → VSD（最常见先心病）"
+> - 根本错因：
+>   - **完全忽略了紫绀这个核心特征** — VSD 不会紫绀
+>   - 没听 Single S2 这个关键线索
+>   - 没听杂音"形状"（c-d ≠ holosystolic）
+>   - 没识别 tet spell 模式（喂奶/哭闹时发紫 = TOF 教科书）
+> - 核心陷阱：**没立起来"先紫绀分类→后细分"的诊断框架，只是堆症状找最像的**
+>
+> ## Memory Hook
+> - **TOF 4 缺陷**：**PROVe** (PS, RVH, Overriding aorta, VSD)
+> - **紫绀型 5T+H**：TOF, TGA, Truncus, Tricuspid atresia, TAPVR, HLHS
+> - **非紫绀型 VAPP**：VSD, ASD, PDA + 阻塞 (CoA, AS, PS)
+> - **CXR 4 大经典征**：
+>   - **Boot-shaped** → TOF ⭐
+>   - **Egg-on-string** → TGA
+>   - **Snowman** → TAPVR (supra)
+>   - **"3" sign** → CoA
+> - **杂音口诀**：VSD 全平台 / TOF 菱形 / PDA 机器响 / ASD 固定分裂
+> - **诊断 5 步**：**"紫-时-S-杂-压"** ⭐⭐⭐（必背！）
+> - **Tet spell 处理**：屈膝吸氧 + 镇静补液 + 缩血管减痉挛 + 纠酸
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> 1. **"先心病的诊断框架没见立起来，不知道该怎么想"** ⭐ 核心卡点
+>    → 学到了 **5 步法（紫-时-S-杂-压）**，每步砍掉一半选项
+>    → 学到了**第 0 层分类**：先紫绀 vs 非紫绀（决定走 5T+H 还是 VAPP）
+>    → 学到了**时间窗砍选项**（24-48h vs 数月 vs 成年）
+>    → 学到了 **S2 一秒判半题**（固定分裂→ASD; Single→5T 紫绀型）
+>    → 学到了**杂音"位置+形状"**比单看位置更精确
+>    → 学到了用 4 肢 BP 锁定 CoA
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：（儿科先心病首道，等积累 ASD/VSD/PDA/CoA/TGA 后建立横向链接）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/儿科]]（先心病章节）
+>   - [[草稿/2026-05-16_先心病诊断框架_主笔记草稿_v2]]（今日生成 ⭐ 待章节复习后整合）
+>   - [[完整笔记/专题笔记/_衍生_新生儿先心病系统化总结]]（已有相关衍生 — 时间×紫绀×杂音三轴）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/心内]]（心脏听诊 — 杂音形状 / S2 异常 / 成人 TOF post-repair 并发症）
+> - 🌱 TODO（待生成衍生）：
+>   - 等积累 5-8 道先心病题后，整合 → [[完整笔记/专题笔记/_衍生_先天性心脏病完整图谱]]
+>   - 整合 "Tet Spell 处理 SOP" → [[完整笔记/专题笔记/_衍生_TetSpell处理]]
+>   - 整合 "心脏杂音定位+形状鉴别" → [[完整笔记/专题笔记/_衍生_心脏杂音鉴别]]
+>   - 整合 "S2 异常鉴别" → [[完整笔记/专题笔记/_衍生_S2异常鉴别]]
+>   - 整合 "儿科 CXR 经典征" → [[完整笔记/专题笔记/_衍生_儿科CXR经典征]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q2429
+> - [ ] 默写诊断 5 步法（紫-时-S-杂-压）⭐ 最重要
+> - [ ] 默写 5T+H 紫绀型 + VAPP 非紫绀型完整列表
+> - [ ] 默写 TOF 4 缺陷（PROVe）+ Tet spell 处理 7 步（KOMI-PB-bicarb）
+> - [ ] 默写 4 大 CXR 经典征（boot, egg, snowman, 3 sign）
+> - [ ] 默写 S2 异常对应病（固定分裂→ASD, Single→5T, 响亮 P2→PH）
+> - [ ] 默写杂音形状鉴别（Holosystolic / Crescendo-decrescendo / Continuous）
+> - [ ] **用框架强制做 10 道先心病题**，每题写下 5 步答案，不要跳步
+> - [ ] 在 [[完整笔记/Peixuan分科笔记/儿科]] 加 #薄弱点 先心病
+>
+> ---
+>
+> 学科:: 心血管
+> 主题:: TOF / 先心病紫绀分类与 5 步诊断框架
+> 状态:: 🟡
+> 错因:: pattern
