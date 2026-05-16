@@ -195,6 +195,27 @@ Phase 0 →     ↘
 | **室颤 / 无脉室速** | **电除颤**（不等药）| 复苏后 Amiodarone |
 | **Torsades de Pointes** | **Magnesium IV**（不论血 Mg）| 反复发作 → 加快心率（Isoproterenol / overdrive pacing） |
 | **WPW + AFib** | **Procainamide / 电复律** | **绝对禁忌 AV 结阻滞剂**（β / Ca / Adenosine / Digoxin → 致 VF）|
+| **PEA / Asystole** | **CPR + Epinephrine 1 mg IV q3-5 min + 找 5H5T 可逆病因** | 不再用 atropine（见 7.5）|
+| **VF / 无脉性 VT 难治** | 除颤 ≥ 3 次后 → **Amiodarone 300 mg IV bolus**（150 mg 重复）；备选 Lidocaine | 复苏后维持 amiodarone |
+
+### 7.5 Atropine 已从 Asystole / PEA 协议中删除（2010 ACLS 起更新）⭐
+
+> [!danger] 心脏骤停**不再推荐** atropine
+> 2010 ACLS 删除 atropine 用于 asystole / PEA（无生存获益证据）。USMLE 把这条做成**干扰项陷阱**。
+> 
+> | 场景 | 用 atropine？ | 用什么 |
+> |---|---|---|
+> | **Asystole** | ❌ **不用**（2010 删除）| **CPR + Epinephrine 1 mg IV q3-5 min + 找 5H5T** |
+> | **PEA** | ❌ **不用**（2010 删除）| 同上 |
+> | **Symptomatic bradycardia**（结上 / 迷走过强 / 下壁 MI）| ✅ **用** 0.5-1 mg IV q3-5 min（max 3 mg）| 见 7.6 决策树 |
+> | **Mobitz II / 完全 AVB + 宽 QRS 逸搏**（结下）| ⚠️ **多无效，别等** | 直接 TCP / TVP |
+> 
+> **5H**：**H**ypoxia / **H**ypovolemia / **H**ydrogen ion（acidosis）/ **H**ypo-Hyper-K / **H**ypothermia
+> **5T**：**T**oxin / **T**amponade / **T**ension pneumothorax / **T**hrombosis（PE / MI）/ **T**rauma
+> 
+> **USMLE 题型**：
+> - "60-year-old in asystole, what's NOT recommended?" → **Atropine**（trap）
+> - "PEA after CPR, next step?" → **Epinephrine + 找 H&T**（不是 atropine、不是除颤）
 
 ### 7.6 症状性心动过缓 + AV Block 决策树 ⭐
 

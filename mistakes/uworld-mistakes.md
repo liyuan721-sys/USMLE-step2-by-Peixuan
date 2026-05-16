@@ -5244,7 +5244,7 @@
 > 
 > 学科:: 心血管
 > 主题:: Class IB 抗心律失常药独特缩短 QT
-> 状态:: 🟡
+> 状态:: 🔴
 > 错因:: 知识
 
 > [!example]- [2026-05-15] 内分泌 / Primary vs Secondary AI **独有**鉴别点 (复盘 self-test Q45)
@@ -5371,7 +5371,7 @@
 > 
 > | 方法 | 区分气管 vs 食管？ | 确认深度？ | 可靠性 |
 > |---|---|---|---|
-> | **Sustained ETCO2 waveform（capnography）** ⭐ | **金标准** | × | **5-6 次稳定波 = 确定气管** |
+> | **Sustained ETCO2 waveform（capnography呼气末二氧化碳监测）** ⭐ | **金标准** | × | **5-6 次稳定波 = 确定气管** |
 > | Colorimetric CO2 detector | 是（弱版本）| × | 假阴性（心跳停 → 无 CO2 流） |
 > | Bilateral breath sounds | 不可靠 | 部分 | 胃声可传播误导 |
 > | Chest rise | 不可靠 | × | 主观 |
