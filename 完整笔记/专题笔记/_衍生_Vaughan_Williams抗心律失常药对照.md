@@ -581,6 +581,94 @@ Phase 0 →     ↘
 - **Mexiletine = 快充贴**：缩短充电时间（缩短 QT）
 - **WPW + AF**（Q3069 触发）：**AV 节点 = 收费站（限速 100-160）**，**旁路 = 没限速村路（200-300）**。AV blocker（ABCD-V）= 关收费站 → 车全涌村路 → **翻车 = VFib**。Procainamide = 在村路上撒钉子 → 把村路也限速 → 安全。
 
+### 12.10 4 大类 ECG 双向锁死表 ⭐⭐⭐（来源 STQ20260516-15）
+
+> [!danger] 双向锁死（反向题专用 — 见 ECG 反查 class）
+> 单向记忆（class → ECG）会在反向题（ECG → class）翻车。**4 行口诀双向锁死**：
+>
+> - **QT 缩短 → IB**（独家！只可能是 IB，4 大类里只有 IB 缩短 APD）
+> - **QRS 显著增宽 → IC**（最强！4 大类里 QRS 增宽幅度最大）
+> - **QT 延长 → IA 或 III**（双胞胎，看副作用 / 临床场景区分）
+> - **PR 延长 → II 或 IV**（双胞胎，看是否影响哮喘 / HF 区分）
+
+#### 双向速查表（左→右 = 给 class 查 ECG；右→左 = 见 ECG 反查 class）
+
+| Class | 代表药 | APD | **ECG 标志** | 锁死分组 |
+|---|---|---|---|---|
+| **IA** | Quinidine, Procainamide | **延长** | **QT 延长** + 轻度 QRS↑ | QT 长双胞胎 ① |
+| **IB** | **Lidocaine, Mexiletine** | **缩短** | **QT 缩短** | **独家** ⭐ |
+| **IC** | Flecainide, Propafenone | 不变 | **QRS 显著增宽** | **最强** ⭐ |
+| **II** | β-blocker | — | **PR 延长** + HR↓ | PR 长双胞胎 ① |
+| **III** | Amiodarone, Sotalol | **延长** | **QT 延长** | QT 长双胞胎 ② |
+| **IV** | Verapamil, Diltiazem | — | **PR 延长** + HR↓ | PR 长双胞胎 ② |
+
+#### 双胞胎区分要点
+
+**QT 长双胞胎（IA vs III）**：
+- **IA**（Quinidine）：副作用 **Cinchonism**（耳鸣/视觉异常）/ TTP；用于 WPW+AF
+- **IA**（Procainamide）：**药物性狼疮**；用于 WPW+AF
+- **III**（Amiodarone）：肺纤维化 / 甲状腺 / 角膜微沉积；广谱（AF/VT/VF）
+- **III**（Sotalol）：β-blocker 兼 K 阻 → **TdP 风险高**；AF/VT
+
+**PR 长双胞胎（II vs IV）**：
+- **II**（β-blocker）：**哮喘 / COPD 相对禁忌**；MI 后 / HFrEF **首选**
+- **IV**（非 DHP Ca）：**HFrEF 禁忌**（负性肌力）；**WPW+AF 禁忌**（ABCD-V）
+
+> [!warning] 单向 → 双向陷阱（STQ20260516-15 触发）
+> 5/15 Class IB 强化追踪 Q1 做对（mexiletine → QT 短）= 单向掌握；
+> 5/16 反向题（哪个 ECG 配对正确）失误 = **没建全表**。
+>
+> 教训：单点 ≠ 全表。任何 class 学完都要立刻做 4 大类对比表。
+
+### 12.11 CAST 临床应用反向决策树 ⭐⭐⭐（来源 STQ20260516-16）
+
+> [!danger] CAST 没有时间窗！
+> CAST 试验（1989）：post-MI 患者用 Flecainide / Encainide → **死亡率↑ 2-3 倍**（瘢痕周围慢传导 + 折返）。
+> **"5 年前的 MI"也禁** — 瘢痕是永久解剖结构。
+
+#### Class IC 使用决策树
+
+```
+患者是否有结构性心脏病 / 心肌缺血史？
+  │
+  ├─ 否（年轻 + 心超正常 + 无 CAD / MI / HF）
+  │     ↓
+  │     ✅ Flecainide / Propafenone（pill-in-the-pocket AFib 转复）
+  │
+  └─ 是（任一）：
+      ↓
+      ❌ 绝对禁忌 IC — CAST 死亡率↑ 2-3 倍
+      ↓
+      ✅ 替代：Amiodarone / β-blocker / Sotalol（评 QT）
+```
+
+#### "结构性心脏病" 完整定义（SHD = 禁 IC）
+
+| 类型 | 例子 | Flecainide |
+|---|---|---|
+| **缺血** | Prior MI（**任何时间**）/ CAD / UA | ❌ 禁 |
+| **HFrEF** | EF < 40% / NYHA II-IV | ❌ 禁 |
+| **肥厚** | HCM / 严重 LVH | ❌ 禁 |
+| **瓣膜** | 严重 AS / 严重 MR | ❌ 禁 |
+| **心肌病** | DCM / RCM / ARVC | ❌ 禁 |
+| **传导异常** | LBBB / 二度 III 度 AVB | ❌ 谨慎 |
+| **结构正常** | **Lone AFib + 年轻 + EF 正常** | ✅ **唯一适应症** |
+
+#### "远期 MI 干扰项"识别（USMLE 高频）
+
+> [!warning] 5 年 / 10 年前 MI 干扰项陷阱
+> 题干故意写"prior MI 5 years ago"测试是否真懂 CAST：
+> - 你以为：远期 = 安全
+> - 真相：**瘢痕永久 → 永久禁 IC**
+>
+> 反射弧："prior MI" 出现在选项 → 自动排除 flecainide
+
+> [!success] CAST 反向题 SOP（Peixuan）
+> 1. 圈出题干 "safest" / "best candidate" 这种正向反问词
+> 2. 扫所有选项找 SHD 关键词：**prior MI / EF / HF / HCM / AS / LVH**
+> 3. **任一命中 → 排除**
+> 4. 剩下的"年轻 + 健康 + lone AFib"= 正解
+
 ### 12.9 Class I 三亚类速记（Q3069 触发）⭐
 
 > **"Ia 抑 pathway（WPW+AF），Ib 治室性（VT / MI 后），Ic 怕结构病（CAST 试验）"**
@@ -663,6 +751,8 @@ Phase 0 →     ↘
 - 🔁 **同主题错题**：
   - [[mistakes/uworld-mistakes#^Q3910]] J&L-N LQTS（首张电生理 / 抗心律失常药卡）
   - [[mistakes/uworld-mistakes#^STQ20260515-38]] Class IB 独特机制 — 缩短 QT（Vaughan-Williams 三亚类对比）
+  - [[mistakes/uworld-mistakes#^STQ20260516-15]] Vaughan Williams 4 大类 ECG 双向锁死（反向题）→ Part 12.10
+  - [[mistakes/uworld-mistakes#^STQ20260516-16]] CAST 临床应用反向（远期 MI 干扰项）→ Part 12.11
   - [[mistakes/uworld-mistakes#^Q3069]] WPW + Preexcited AF → Procainamide（Class I 三亚类适应症陷阱 + ABCD-V 禁忌 + Digoxin 双重雷）
   - 等后续 Brugada / CPVT / 获得性 QT / TdP / 更多 WPW / SVT 错题积累
 - 📚 **主笔记**：
@@ -696,7 +786,12 @@ Phase 0 →     ↘
   - Day 4：题练 + Part 14 陷阱
   - Day 5：默写 + Part 12 Memory Hook
 
-**Last updated**: 2026-05-15 v1.3 — Q4456 增量（老年间歇性 AV 阻滞）：
+**Last updated**: 2026-05-16 v1.4 — STQ20260516-15/16 增量（4 大类 ECG 双向锁死 + CAST 反向决策树）：
+- Part 12.10 新增 **4 大类 ECG 双向锁死表**（独家 / 最强 / 双胞胎三档分组 + 双胞胎区分要点）
+- Part 12.11 新增 **CAST 临床应用反向决策树**（"远期 MI 干扰项"识别 + 反向题 SOP）
+- 反链 5/16 两张自测错题 → Class IB 强化追踪从单药扩展到全表
+
+**v1.3**（2026-05-15）— Q4456 增量（老年间歇性 AV 阻滞）：
 - Part 7.6.x 新增 **传导系统病变 7 大病因**（Lenègre/Lev / 缺血 / 药物 / Lyme / 风湿热 / 浸润 / 术后）
 - Part 7.6.x 新增 **间歇性 AV 阻滞识别陷阱**（"PR 长 + QRS 长 + 反复无诱因晕厥 → EP study + PPM"反射弧 + 老化电线类比）
 - 反链到晕厥衍生 Part 5.4.x-z

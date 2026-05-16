@@ -6564,3 +6564,246 @@
 > 主题:: HCM 临床表现与治疗
 > 状态:: 🟢
 > 错因:: 知识
+
+> [!example]- [2026-05-16] Heme / LMWH 逆转剂局限（自测反向题）(STQ20260516-05)
+> ^STQ20260516-05
+>
+> ## Stem 模式
+> 抗凝逆转剂配对反向题（"哪个 INCORRECT"），选项含 LMWH → protamine 完全逆转 anti-Xa
+>
+> ## 核心概念
+> Protamine 对 UFH 是 100% 中和（强碱性 + UFH 强酸性 → 离子结合中和），但对 LMWH **只能逆转 ~60% 的 anti-Xa 活性**。LMWH 分子链短 → 与 protamine 结合位点少 → 反转不完全。
+>
+> ## 普适规则：抗凝逆转剂速查
+>
+> | 抗凝药 | 逆转剂 | 完整性 |
+> |---|---|---|
+> | **Warfarin**（严重出血）| **4-factor PCC + IV vitamin K** | 完全（PCC 即时 + Vit K 维持）|
+> | Warfarin（INR 高无出血）| Vitamin K oral / hold dose | — |
+> | **UFH** | **Protamine sulfate** | **完全（100%）** |
+> | **LMWH**（enoxaparin / dalteparin）| Protamine（**部分**）| **~60% anti-Xa；无完全逆转剂** ⭐ |
+> | Fondaparinux | **无逆转剂**（rFVIIa 试验性）| — |
+> | **Dabigatran**（II 抑）| **Idarucizumab**（monoclonal Fab）| 完全 |
+> | **Apixaban / Rivaroxaban / Edoxaban**（Xa 抑）| **Andexanet alfa** | 完全（昂贵；备 4F-PCC 替代）|
+> | Argatroban / Bivalirudin（DTI IV）| **无逆转剂** + 半衰期短（停药即可）| — |
+> | tPA / Alteplase（溶栓）| **Cryoprecipitate + TXA**（如出血）| — |
+>
+> ## 易混陷阱（普适）
+> - ❌ LMWH 严重出血 → protamine 完全逆转 → **错**（只逆转 ~60%）
+> - ❌ Apixaban 严重出血 → idarucizumab → **错**（那是 dabigatran 的；Xa 抑用 andexanet）
+> - ❌ Warfarin 严重颅内出血 → 单独 vitamin K → **错**（必须 PCC，Vit K 单独要 12-24h 才起效）
+> - ❌ Fondaparinux 用 protamine → **错**（无效，化学结构不同）
+>
+> ## 我为什么错（个性化）
+> - 我选了：D（apixaban / rivaroxaban → andexanet）— 这是正确配对
+> - 漏看反向题词："哪个 **INCORRECT**" → 应选 LMWH-protamine 这条
+> - 根本错因：☑ 反向题阅读 ☑ LMWH-protamine 不完全的细节没记牢
+> - 核心陷阱：**反向题陷阱** — "INCORRECT/EXCEPT" 题型每周至少错 1 道
+>
+> ## Memory Hook
+> - "**短链短抓**"：LMWH 分子短 → protamine 抓不全 → 只能逆 60%
+> - "**Da-bi 找 Ida**" / "**Xa 找 Andex**"（Dabigatran → Idarucizumab；Xa 抑 → Andexanet）
+> - "**反向题先圈题干 INCORRECT/NOT/EXCEPT**"（自定 SOP）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 暂无（自测错点，未在对话中深入）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （首张抗凝逆转剂卡，等后续 warfarin reversal / DOAC reversal 题积累）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/hematology oncology]]
+>   - [[完整笔记/专题笔记/急性血栓事件_抗凝抗板专题_v1]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/心内]]（机械瓣 / AFib 抗凝选择）
+>   - [[完整笔记/Peixuan分科笔记/外科]]（围术期抗凝桥接 + 逆转）
+> - 🌱 TODO（待生成衍生）：
+>   - 累计 3+ 道反向题（INCORRECT/EXCEPT）→ 生成 [[完整笔记/专题笔记/_衍生_反向题陷阱SOP]]
+>   - 累计 3+ 道抗凝逆转题 → 整合到 [[完整笔记/专题笔记/急性血栓事件_抗凝抗板专题_v1]] 增量
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后默写完整抗凝逆转剂表（9 个药 + 逆转剂 + 完整性）
+> - [ ] 自测反向题前先圈出 "INCORRECT/NOT/EXCEPT" — 形成 SOP
+> - [ ] UWorld 搜 "anticoagulant reversal" 做 5 题
+>
+> ---
+>
+> 学科:: Heme-Onc
+> 主题:: 抗凝逆转剂完整性 + 反向题陷阱
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-05-16] 心内 / Vaughan Williams 全表 ECG 双向锁死（自测）(STQ20260516-15)
+> ^STQ20260516-15
+>
+> ## Stem 模式
+> 配对反向题："哪个 Vaughan Williams class 配 ECG 标志正确"
+>
+> ## 核心概念
+> 抗心律失常药 4 大类的**核心 ECG 标志**必须**双向**记住：见到 ECG 改变能反查 class，给 class 能正答 ECG。Class IB 是**唯一缩短 QT 的**（独家），Class IC 是**最强 QRS 增宽**（最强），IA/III 都延长 QT（双胞胎），II/IV 都延长 PR（双胞胎）。
+>
+> ## 普适规则：双向锁死表 ⭐⭐⭐
+>
+> | Class | 代表药 | APD 影响 | **核心 ECG 标志** | 双向锁死 |
+> |---|---|---|---|---|
+> | **IA** | Quinidine, Procainamide, Disopyramide | **延长** | **QT 延长** + QRS 轻度增宽 | 看到 QT 长 → IA/III 选 |
+> | **IB** | **Lidocaine, Mexiletine** | **缩短** | **QT 缩短** ⭐**独家** | 看到 QT 短 → 只能是 IB |
+> | **IC** | Flecainide, Propafenone | 不变 | **QRS 显著增宽** ⭐**最强** | 看到 QRS 强增宽 → IC |
+> | **II** | β-blocker | — | **PR 延长** + HR↓ | 看到 PR 长 → II/IV 选 |
+> | **III** | Amiodarone, Sotalol, Ibutilide, Dofetilide | **延长** | **QT 延长** | 看到 QT 长 → IA/III 选 |
+> | **IV** | Verapamil, Diltiazem | — | **PR 延长** + HR↓ | 看到 PR 长 → II/IV 选 |
+>
+> ## 双向锁死口诀 ⭐（Peixuan 自创，反复打磨）
+>
+> > [!success] 4 行锁死
+> > - **QT 缩短 → IB**（独家！只可能是 IB）
+> > - **QRS 显著增宽 → IC**（最强！4 大类里增宽幅度最大）
+> > - **QT 延长 → IA 或 III**（双胞胎，看副作用 / 临床场景区分）
+> > - **PR 延长 → II 或 IV**（双胞胎，看是否影响哮喘 / HF 区分）
+>
+> ## 易混陷阱（普适）
+> - ❌ IA → QT 缩短 → **错**（IA 延长 QT，Quinidine syncope = TdP 经典）
+> - ❌ IB → QRS 增宽 → **错**（IB 不影响 QRS，只缩短 QT）
+> - ❌ III → PR 缩短 → **错**（Class III 是 K 阻滞 → QT 延长）
+> - ❌ IV → QT 延长 → **错**（Class IV 是 Ca 阻滞 → PR 延长 + HR↓）
+> - ❌ Sotalol 是 β-blocker 所以不影响 QT → **错**（K 阻滞主导，QT 延长 + TdP 高风险）
+>
+> ## 我为什么错（个性化）
+> - 我选了：A（IA → QT 缩短）
+> - 我的思路：把 IA 和 IB 完全记反了；只记住 IB → QT 缩短，反向题时把"短"错配给了 IA
+> - 根本错因：☑ 单向记忆（只记 IB → 短，没双向记 IA → 长）☑ 反向题没有锁死表
+> - 核心陷阱：5/15 Class IB 强化追踪 Week 1 Q1 做对了（mexiletine → QT 短），以为记牢了；但**整张 4 大类表没建起来** → 反向题立刻露馅
+>
+> ## Memory Hook
+> - **"独家 / 最强 / 双胞胎"** 三档分组：
+>   - **独家**：QT 短 = IB
+>   - **最强**：QRS 强增宽 = IC
+>   - **双胞胎**：QT 长 = IA / III；PR 长 = II / IV
+> - 类比：**4 大类像 4 个家庭** — IB 是独子（独家），IC 是大力士（最强），IA/III 是延长 QT 的姊妹，II/IV 是延长 PR 的姊妹
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q: Class IB 强化追踪 Week 1 Q1 做对了，为什么今天还错？
+>   → 学到：**单点掌握 ≠ 全表掌握**。Mexiletine 单药 → QT 短 是点；4 大类 ECG 双向锁死是面。强化追踪要扩展到全表。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q3910]] J&L-N LQTS（首张电生理卡）
+>   - [[mistakes/uworld-mistakes#^STQ20260515-38]] Class IB 独特机制 — 缩短 QT
+>   - [[mistakes/uworld-mistakes#^STQ20260516-16]] CAST 临床应用反向（同日同根问题）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/心内]]
+>   - [[完整笔记/专题笔记/_衍生_Vaughan_Williams抗心律失常药对照]]（Part 12.10 双向锁死表已增量）
+> - 🏥 跨学科：
+>   - [[完整笔记/专题笔记/_衍生_晕厥鉴别决策树]]（LQTS 触发与 Class IB Mexiletine 治疗）
+>   - [[完整笔记/Peixuan分科笔记/儿科]]（先天 LQTS → 触发 / 治疗用药选择）
+> - 🌱 TODO（待生成衍生）：
+>   - 已有 [[完整笔记/专题笔记/_衍生_Vaughan_Williams抗心律失常药对照]] — 本次增量进 Part 12.10
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后默写"双向锁死 4 行口诀"
+> - [ ] 1 周后默写 4 大类 ECG 标志 + 代表药
+> - [ ] Class IB 强化追踪 Week 1.5 加做 3 题（覆盖 IA/IB/IC + II/IV 全表）
+> - [ ] UWorld 搜 "antiarrhythmic ECG" / "Vaughan Williams" 做 5 题
+>
+> ---
+>
+> 学科:: 心血管
+> 主题:: Vaughan Williams 4 大类 ECG 双向锁死
+> 状态:: 🔴
+> 错因:: 知识
+
+> [!example]- [2026-05-16] 心内 / CAST trial 临床应用反向（自测）(STQ20260516-16)
+> ^STQ20260516-16
+>
+> ## Stem 模式
+> "哪个患者**最安全**用 flecainide" — 选项里混入 post-MI / EF↓ / HCM / 严重 AS / lone AFib
+>
+> ## 核心概念
+> CAST 试验（1989）：post-MI 患者用 flecainide / encainide 抑制 PVC → **死亡率反而上升 2-3 倍**。机制：缺血 / 瘢痕组织里 IC 药造成**慢传导 + 折返** → 致命性 VT/VF。**铁律**：Class IC **仅用于结构正常的心脏**（lone AFib / pill-in-the-pocket）。
+>
+> ## 普适规则：Class IC（Flecainide / Propafenone）使用决策
+>
+> ```
+> 患者是否有结构性心脏病 / 心肌缺血史？
+>   │
+>   ├─ 否（年轻 + 心超正常 + 无 CAD / MI / HF）
+>   │     ↓
+>   │     ✅ 可用 Flecainide / Propafenone（pill-in-the-pocket AFib 转复）
+>   │
+>   └─ 是（任一）：
+>       - Post-MI（即使 5 年前 — 瘢痕依然在）
+>       - CAD / 缺血性心肌病
+>       - HFrEF（EF ↓）
+>       - HCM
+>       - 严重 AS / 主动脉狭窄
+>       - 持续性 VT 病史
+>       ↓
+>       ❌ 绝对禁忌 — CAST 试验：死亡率 ↑ 2-3 倍
+>       ↓
+>       ✅ 替代：Amiodarone / β-blocker / Sotalol（评估 QT）
+> ```
+>
+> ## "结构性心脏病"扩展定义（USMLE 高频考点）
+>
+> | 类型 | 例子 | Flecainide 可否 |
+> |---|---|---|
+> | **缺血** | Prior MI（任何时间）/ CAD / 不稳定型心绞痛 | ❌ 禁 |
+> | **HFrEF** | EF < 40% / NYHA II-IV | ❌ 禁 |
+> | **肥厚** | HCM / 严重 LVH | ❌ 禁 |
+> | **瓣膜** | 严重 AS / 严重 MR | ❌ 禁 |
+> | **心肌病** | 扩张 / 限制 / ARVC | ❌ 禁 |
+> | **传导异常** | LBBB / 二度 III 度 AVB | ❌ 谨慎（IC 进一步抑传导）|
+> | **结构正常** | Lone AFib / SVT 在年轻健康人 | ✅ 可 |
+>
+> ## 易混陷阱（普适）
+> - ❌ "5 年前的 MI 不算结构性病" → **错**（瘢痕永久存在 → 永久禁 IC）
+> - ❌ "HCM 心率快用 flecainide" → **错**（HCM 是结构性病，禁 IC；用 β-blocker / 非 DHP CCB）
+> - ❌ "Lone AFib 必须 amiodarone" → **错**（年轻健康心脏首选 flecainide / propafenone pill-in-pocket，避免 amiodarone 长期毒性）
+> - ❌ 把 CAST 用于 IA / III 类 → **错**（CAST **仅针对 IC**；IA/III 在 SHD 也用，但有 QT 监测）
+>
+> ## 我为什么错（个性化）
+> - 我选了：A（65 岁，5 年前 MI）
+> - 我的思路：误以为 "5 年前的 MI 已远期 = 可以用"
+> - 根本错因：☑ 知识 — 不知道 CAST 应用没有"时间窗豁免" ☑ pattern — 选项里有"35 岁健康女性 lone AFib"才是正解，但没识别这个 pattern
+> - 核心陷阱：**"远期 MI" 干扰项** — USMLE 故意用 5 年 / 10 年的远期 MI 测试是否真的懂 CAST。瘢痕永久 → 永久禁
+>
+> ## Memory Hook
+> - "**CAST 没有时间窗**" — MI 1 天前 vs 10 年前 → 都禁 IC
+> - "**心脏有疤就别 C**" — 任何 SHD（缺血 / 肥 / 衰 / 瓣 / 心肌病）都禁 Class IC
+> - **类比**：IC 是"强力胶水" — 健康木板上能用（lone AFib），有裂缝的木板（SHD）用了反而裂得更大（折返 VT）
+> - **配对**：lone AFib + 健康心 → flecainide ✓；任何 SHD → amiodarone（或 β / sotalol）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q: 5 年前的 MI 为什么也禁？
+>   → 学到：瘢痕组织是永久解剖结构，IC 在瘢痕周围造成慢传导 → 折返环不需要"急性缺血"，只需要"传导不均"。这就是 CAST 没有时间窗的根本原因。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^STQ20260516-15]] Vaughan Williams 双向锁死（同日同根问题）
+>   - [[mistakes/uworld-mistakes#^STQ20260515-38]] Class IB 独特机制（Class I 三亚类系列）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/心内]]
+>   - [[完整笔记/专题笔记/_衍生_Vaughan_Williams抗心律失常药对照]]（Part 2.4 CAST 试验 + Part 14 陷阱表已有，本次扩 Part 12.11 反向应用决策树）
+> - 🏥 跨学科：
+>   - [[完整笔记/专题笔记/急性血栓事件_抗凝抗板专题_v1]]（post-MI 患者用药选择交叉）
+> - 🌱 TODO（待生成衍生）：
+>   - 累计 3+ 道"远期 MI 干扰项"题 → 拆出 [[完整笔记/专题笔记/_衍生_远期病史干扰项陷阱]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后默写 "Class IC 禁忌：缺/HFrEF/肥/瓣/心肌病/传导/✅ 结构正常"
+> - [ ] 1 周后默写 CAST 试验机制（瘢痕 + 慢传导 + 折返）
+> - [ ] Class IB 强化追踪 Week 1.5 Q3 覆盖此点
+> - [ ] UWorld 搜 "flecainide" / "antiarrhythmic post-MI" 做 5 题
+>
+> ---
+>
+> 学科:: 心血管
+> 主题:: CAST 试验临床应用反向 (Class IC 禁忌)
+> 状态:: 🔴
+> 错因:: 知识
