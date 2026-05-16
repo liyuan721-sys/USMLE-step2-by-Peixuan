@@ -6236,6 +6236,331 @@
 > ---
 >
 > 学科:: 心血管
-> 主题:: Acute Pericarditis 用药（按病因切换）
+> 主题:: 胸痛鉴别 / 各病因（症状 + 治疗）
 > 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-15] 心内 / Costochondritis（胸痛鉴别）(Q4650)
+> ^Q4650
+>
+> ## Stem 模式
+> 年轻女性 + Sharp **localized** 胸骨旁痛 + **动作/呼吸加重** + 运动后起病 + **触诊压痛可重现** + 生命体征/ECG/CXR 正常 → **Costochondritis（肋软骨炎）**
+>
+> ## 核心概念
+> Costochondritis = 临床 + 排除性诊断的肌骨胸痛
+> - 决定性体征 = **Tenderness to palpation**（按压可重现疼痛）
+> - 自限性（数周-1 年）
+> - 初始管理 = **Reassurance + NSAID/APAP**（不需检查）
+>
+> ## 普适规则 — 胸痛鉴别系统对照表 ⭐⭐⭐
+>
+> | 类别 | 性质 | 加重 | 缓解 | 决定性体征 | 首选 |
+> |---|---|---|---|---|---|
+> | **Costochondritis** | Sharp, **localized** | Movement / Inspiration | 休息 | **Palpation tenderness** ⭐ | Reassurance + NSAID |
+> | **ACS / Angina** | Dull pressure, **radiating** | Exertion | Rest, nitrates | ECG/troponin 异常 | ECG → Troponin → Stress |
+> | **Pericarditis** | Sharp, pleuritic | Inspiration, **lying flat** | **前倾** | Friction rub + PR depression | NSAID + Colchicine |
+> | **GERD** | **Burning** | **Postprandial, supine, bending** | Antacids | 无压痛 | PPI trial |
+> | **PE** | Pleuritic, sudden | Inspiration | — | Tachycardia + hypoxia + ↑ D-dimer | CTA |
+> | **Aortic dissection** | **Tearing, radiating to back** | — | — | BP 双臂不等 / 纵隔增宽 | CT angiography |
+> | **Esophageal spasm** | **Crushing**, mimics ACS | Cold/hot drinks | **Nitrates（迷惑点！）** | ECG/troponin 正常 | Manometry |
+>
+> ## 三个 P 鉴别胸痛（核心口诀）⭐
+> - **P**alpation 阳性 → **肌骨**（Costochondritis）
+> - **P**leuritic + **P**ositional（前倾缓解）→ **心包**（Pericarditis）
+> - **P**ostprandial + supine 加重 → **消化**（GERD）
+>
+> ## 五大加重诱因鉴别表（核心卡点）⭐
+>
+> | 加重诱因 | 病种 | 机制 |
+> |---|---|---|
+> | **Movement / Palpation / Inspiration** | **Costochondritis / 肌骨** | 胸壁运动牵拉炎症 |
+> | **Inspiration / Lying flat**（前倾**缓解**）| **Pericarditis** | 心包脏壁层摩擦 |
+> | **Postprandial / Supine / Bending** | **GERD** | 体位促胃酸反流 |
+> | **Exertion / Emotion**（休息缓解）| **Stable angina** | 氧需-氧供失衡 |
+> | **Cold / hot drinks** | **Esophageal spasm** | 食管平滑肌痉挛 |
+>
+> ## 胸痛鉴别决策树（完整版）
+>
+> ```
+> 胸痛
+> ├── 生命体征不稳 / 急性发作？
+> │   ├── YES → ACS / PE / Dissection / Pneumothorax → 立即 ECG + CXR + Troponin
+> │   └── NO → 继续
+> │
+> ├── Tenderness to palpation？
+> │   ├── YES → Costochondritis（最常见！）→ Reassurance + NSAID
+> │   └── NO → 继续
+> │
+> ├── Pleuritic（呼吸加重）？
+> │   ├── YES + friction rub / PR depression → Pericarditis
+> │   ├── YES + tachycardia / hypoxia → PE
+> │   └── NO → 继续
+> │
+> ├── Exertional + relieved by rest？
+> │   ├── YES → Stable angina → Stress test
+> │   └── NO → 继续
+> │
+> ├── Burning + postprandial / supine？
+> │   ├── YES → GERD → PPI trial
+> │   └── NO → 继续
+> │
+> └── Crushing + mimics ACS but ECG/troponin normal → Esophageal spasm → Manometry
+> ```
+>
+> ## 易混陷阱（普适）
+> 1. **"动作加重" ≠ "GERD"** — GERD 是 postprandial/supine/bending；movement/inspiration 加重是肌骨或心包
+> 2. **Tenderness to palpation 是 costochondritis 的指纹** — 看到就锁定，看不到就排除
+> 3. **家族 MI 史 ≠ 必须做心源性检查** — 体征+ECG 阴性时，年轻女性 ACS 仍极低
+> 4. **Esophageal spasm 是迷惑点**：nitrates 能缓解（因为是平滑肌），但 ECG/troponin 正常
+> 5. **能用一根手指指出来 = 体表/肌骨；弥漫/放射 = 内脏**
+> 6. **临床诊断 ≠ 需要进一步检查** — 病史+体征足够时，加做检查 = 过度医疗
+>
+> ## 我为什么错
+> - 选 C（Esophageal pH testing）→ 把"sharp, localized, left of sternum"误读为 GERD
+> - 根本陷阱：
+>   - 没建立胸痛鉴别系统树（不知按"机械/内脏/心源"分层）
+>   - **忽略了决定性体征 "tenderness to palpation"** — 这是 costochondritis 金标准
+>   - 混淆"加重诱因"—— 把 movement/inspiration 误读为 GERD-like
+>   - 可能被父亲 MI 史分散注意力
+>
+> ## Memory Hook
+> - **"一根手指能指出来 + 按一下就疼 + ECG/CXR 正常 → Costochondritis → 安抚就行"**
+> - Costochondritis = **挫伤后的瘀青** — 按了痛，自限性
+> - 胸痛 5 大鉴别 = **5 把钥匙开 5 把锁** — 每病一个独家"加重诱因"
+> - Tenderness to palpation = **costochondritis 的指纹**
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q：胸痛鉴别不熟悉？→ A：靠"三个 P"分流 + 决定性体征锁定（palpation tenderness → 肌骨；friction rub → 心包；radiating to back → dissection）
+> - Q：为什么不需要进一步检查？→ A：临床诊断已成立 + 危险病因被基础检查排除 → reassurance 即治疗
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q12374]] Acute viral pericarditis（pleuritic + friction rub + PR depression → NSAID + colchicine）— 同 family "胸痛鉴别 / 各病因"
+>   - （胸痛鉴别 2/3 道，再积累 1 道触发衍生笔记）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/心内]]
+>   - [[完整笔记/专题笔记/_衍生_高频陷阱]]（动作加重 ≠ GERD / 家族史诱导反射陷阱）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/消化腺]]（GERD 加重诱因 + PPI trial 流程）
+>   - [[完整笔记/Peixuan分科笔记/骨科]]（肌骨胸痛归属）
+> - 🌱 TODO（待生成衍生）：
+>   - ⭐ **接近触发**：本题 + Q12374 已积累 2 道，再 1 道（ACS / PE / dissection / esophageal spasm 任一）→ 请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_胸痛鉴别速查]]（5 大类 + 三个 P + 加重诱因表 + 决策树）
+>   - 等 GI 章节复习完 → 整合 GERD 阶梯诊断（empirical PPI → endoscopy → pH testing）→ 生成 [[完整笔记/专题笔记/GERD诊断流程]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做：不看选项说出诊断 + 处理
+> - [ ] 默写"胸痛鉴别系统对照表" + "三个 P 鉴别口诀"
+> - [ ] 找 3-5 道类似题：GERD / esophageal spasm / stable angina / PE 各 1 道
+> - [ ] **关键提醒**：以后胸痛题第一步问"有无 tenderness to palpation" → 直接锁定/排除 costochondritis
+>
+> ---
+>
+> 学科:: 心血管
+> 主题:: 胸痛鉴别 / 各病因（症状 + 治疗）
+> 状态:: 🔴
+> 错因:: 知识
+
+## 2026-05-16
+
+> [!example]- [2026-05-16] 心内 / Statin 不耐受处理 (Q17515)
+> ^Q17515
+>
+> ## Stem 模式
+> ASCVD 患者（近期 MI + DES）服 high-intensity statin (rosuvastatin) 出现肌痛 → 自行停药 → 问下一步降脂方案
+>
+> ## 核心概念
+> Statin intolerance ≠ statin discontinuation。Mild myalgia 时优先在 statin 类内调整（换药 / 降阶 / rechallenge），而不是放弃 statin 改用其他类。
+>
+> ## 普适规则：Statin 副作用处理 SOP
+> ```
+> 出现肌肉症状
+>   │
+>   ▼
+> CK 检测 + 评估严重程度
+>   │
+>   ├─ Rhabdomyolysis（CK >10× ULN + 肌红蛋白尿）→ 永久停 statin → 改 ezetimibe / PCSK9i
+>   │
+>   └─ Mild myalgia（90% 患者）
+>         ├─ ① 查 TSH（亚临床甲减 ↑ 风险）+ 药物相互作用 + Vit D
+>         ├─ ② 短暂停药 2-4 周 → 症状消失 → rechallenge 同药
+>         ├─ ③ 换另一种 high-intensity statin（atorva ↔ rosuva）
+>         ├─ ④ 降到 moderate-intensity（prava / pitava / fluva — 肌毒最低）
+>         ├─ ⑤ 隔日服药（every-other-day dosing）
+>         └─ ⑥ 仍不行 → Ezetimibe / PCSK9i 替代
+> ```
+>
+> ## Statin 强度速查表
+>
+> | 强度 | LDL ↓ | 代表药 | 适应证 |
+> |---|---|---|---|
+> | High | ≥50% | Atorva 40-80 / Rosuva 20-40 | ASCVD / LDL≥190 / DM 高风险 / 10yr ≥20% |
+> | Moderate | 30-49% | Atorva 10-20 / Rosuva 5-10 / **Prava / Pitava / Fluva** | High 不耐受；10yr 7.5-20% |
+>
+> ## 降脂药定位（普适）
+>
+> | 药物 | 地位 | 适应证 |
+> |---|---|---|
+> | Statin | 1st line 永远 | ASCVD / 高 LDL / 高风险 |
+> | Ezetimibe | 2nd line add-on | Statin 最大量仍不达标 / 完全不耐受 |
+> | PCSK9i | 3rd line add-on | Statin + Ezetimibe 仍不达标 / Very high-risk ASCVD |
+> | Fibrate | **不在 ASCVD 链** | **TG ≥500** 防胰腺炎 |
+> | Fish oil | 特殊 | TG ≥500 辅助；icosapent ethyl 例外（REDUCE-IT） |
+>
+> ## 易混陷阱（普适）
+> - ❌ Myalgia 立刻弃 statin 改 ezetimibe → 应先换药/降阶
+> - ❌ LDL 不达标直接上 PCSK9i → 应先加 ezetimibe
+> - ❌ ASCVD 患者用 fibrate 防 MI → fibrate 只防胰腺炎（TG ≥500）
+> - ❌ "Lifestyle only" 用于二级预防 → 二级预防必须药物 + lifestyle
+> - ❌ Fish oil 防 ASCVD → 证据不一致（除 icosapent ethyl）
+>
+> ## 我为什么错（个性化）
+> - 我选了：E（蒙对）
+> - 我的思路：不熟悉降脂药使用原则，凭"感觉 statin 还是要用"蒙
+> - 根本错因：☑ 不知道这个考点 ☑ Statin 强度分级不清 ☑ 二线药适应证模糊
+> - 核心陷阱：以为"肌肉痛 = 不能用 statin" → 错。Mild myalgia 是可处理的，不是禁忌
+>
+> ## Memory Hook
+> - "**统计 + 依折 + 单抗**"（Statin → +Ezetimibe → +PCSK9i）
+> - "**轻痛换药，重溶弃药**"（Myalgia 换 / Rhabdo 弃）
+> - "**TG <150 / 150-499 / ≥500**" — 只有 ≥500 才用 fibrate 防胰腺炎
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q: 降脂药的治疗升级是什么？→ 学到：Statin → +Ezetimibe → +PCSK9i 的"加药链" vs Myalgia 换药的"换药链"，两条线不混
+> - Q: ASCVD risk 记忆方法及临床应用？→ 学到："病高糖险"4 类直接用 statin；"5-7.5-20"三个分水岭；Pooled Cohort 9 变量；Risk Enhancers 8 条
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （首题，心内降脂药主题，等后续 statin add-on / PCSK9i / TG 管理 / ASCVD risk 计算题积累）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/心内]]
+>   - [[完整笔记/专题笔记/USMLE降脂药与ASCVD风险管理]]（今日新建，16 Part 完整框架）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/endocrine]]（statin 前查 TSH；DM + ASCVD risk）
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（CKD 是 risk enhancer）
+>   - [[完整笔记/Peixuan分科笔记/免疫，疫苗]]（RA / SLE 慢性炎症是 enhancer）
+> - 🌱 TODO（待生成衍生）：
+>   - 等积累 5+ 道降脂药/Statin 副作用题后 → 生成 [[完整笔记/专题笔记/_衍生_Statin副作用速查]]
+>   - 等积累 ASCVD risk 计算题后 → 生成 [[完整笔记/专题笔记/_衍生_ASCVD_RiskEnhancers]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q17515（盲做）
+> - [ ] 默写 Statin 强度分级表（high/moderate 代表药 + 剂量）
+> - [ ] 默写 Myalgia vs Rhabdo 鉴别 5 点
+> - [ ] 默写 "病高糖险"4 类 + "5-7.5-20"三阈值
+> - [ ] UWorld 搜 "statin" / "ASCVD primary prevention" 做 5-10 题
+>
+> ---
+>
+> 学科:: 心血管
+> 主题:: Statin 不耐受 / ASCVD 降脂药选择
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-16] 心内 / 肥厚性心肌病 HCM 临床表现与治疗 (Q2686 + Q22660)
+> ^Q2686-Q22660
+>
+> **Stem 模式**
+> - 年轻人 + 运动性晕厥/胸痛/呼吸困难
+> - 家族年轻猝死史（"grandfather/father died suddenly at age 40 from heart attack"）
+> - 左下胸骨缘 systolic murmur（**不放射颈部**，区分 AS）
+> - S4 gallop + prominent LV impulse
+> - Echo: 非对称性室间隔肥厚 + 动态 LVOT 梗阻
+>
+> **核心概念**
+> - AD 遗传 sarcomere 突变 → 非对称室间隔肥厚 → **动态 LVOT 梗阻**
+> - 反直觉核心：**LV 容量越小，梗阻越重**（与 AS 的固定梗阻完全相反）
+> - 所有治疗围绕一条：**增加 LV 血容量**
+>
+> **普适规则 — 治疗决策树**
+> ```
+> 无症状 → 定期随访
+> 有症状 → β-blocker (metoprolol) 一线
+>          ↓ 不耐受 (如哮喘)
+>          非二氢吡啶 CCB (verapamil / diltiazem)
+> SCD 高危 (晕厥/家族猝死/持续 VT) → 加 ICD
+> 房颤 → 控律 + 抗凝
+> 难治性 + LVOT 梗阻 → 室间隔消融 / 心肌切除
+> 难治性 + 无梗阻 → 心脏移植
+> ```
+>
+> **β-blocker 两个机制（必背）**
+> 1. Negative chronotropy → 延长舒张期 → ↑ LV 充盈 → ↑ LV 舒张末容量
+> 2. Negative inotropy → ↑ LV 收缩末容量
+> 整周期 ↑ LV 容量 → LVOT 梗阻 ↓
+>
+> **HCM 禁忌药对照表（高频陷阱）**
+>
+> | 药物 | 机制 | 为何禁 |
+> |---|---|---|
+> | DHP-CCB (amlodipine) | ↓ 后负荷 | LV 排空更彻底 → 梗阻 ↑ |
+> | ACEI / ARB (lisinopril) | ↓ 前+后负荷 | 同上 |
+> | 硝酸酯 (isosorbide) | ↓ 前负荷 | LV 装血少 → 梗阻 ↑ |
+> | 利尿剂 | ↓ 前负荷 | 同上 |
+> | Digoxin | 正性变力 | 收缩更猛 → 梗阻 ↑ |
+>
+> **共同机制**：所有"减少 LV 容量"的药都加重 HCM 梗阻
+>
+> **杂音随动作变化（vs AS 鉴别）**
+>
+> | 操作 | LV 容量 | HCM | AS |
+> |---|---|---|---|
+> | Valsalva / 站立 | ↓ | 变响 ⬆ | 变弱 ⬇ |
+> | 蹲下 / 抬腿 / 握拳 | ↑ | 变弱 ⬇ | 变响 ⬆ |
+>
+> 一句话锁定：**"杂音随 Valsalva 变响" = HCM**
+>
+> **易混陷阱（普适）**
+> - HCM vs AS：都引起 exertional syncope，但 AS 杂音放射颈部 + Valsalva 变弱 + 老年人为主
+> - HCM 哮喘患者 → verapamil（不是 diltiazem，因 diltiazem 有轻度血管扩张）
+> - HCM 选 ICD 看 SCD 风险（晕厥史 / 家族猝死 / 持续 VT），不是默认全装
+> - Septal ablation / myectomy = 难治 + 有梗阻 才用，不是一线
+> - Valve replacement = AS 的治疗，HCM 不需要
+>
+> **我为什么错（个性化）**
+> 这两题都做对了 ✅，记录关键判断点供未来复习：
+> - Q2686 一线 → metoprolol（β-blocker 默认一线）
+> - Q22660 哮喘患者 → verapamil（β-blocker 相对禁忌时的替代）
+> - 关键识别点：看到 "asthma" + HCM → 立刻想到非二氢吡啶 CCB
+>
+> **Memory Hook**
+> - HCM 的心室 = **挤压过紧的水管**
+> - 越想让水快流（脱水/扩血管/加快心率），管子被挤得越扁
+> - 解决办法：**让水管多装水，把肥厚的壁撑开**
+> - HCM 怕"**空、瘪、猛**"：怕心室空（脱水）、怕血管瘪（扩血管药）、怕收缩猛（正性变力药）
+>
+> ---
+>
+> 🤔 **我的提问 / 卡点**
+> 暂无 — 这两题做对后直接归纳，未深入提问。未来复习时可主动测试：
+> - 为什么 β-blocker 改善 LVOT 梗阻？（答：两个负性 → ↑ LV 容量）
+> - 哮喘 + HCM 选什么？为什么不选 diltiazem？（答：verapamil；diltiazem 有轻度血管扩张）
+> - HCM 杂音 Valsalva 变响 vs AS 变弱，机制？（答：动态 vs 固定梗阻）
+>
+> 🔗 **关联**
+> - 🔁 同主题错题：
+>   - （首批 HCM 题，等后续题积累）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/心内]]
+>   - [[完整笔记/专题笔记/_衍生_新生儿先心病系统化总结]]（Part 3.3 HCM vs AS Valsalva 反向动作试验已涵盖；本卡补成人 HCM 治疗 + 5 禁忌药）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/pulmonary]]（哮喘 → β-blocker 相对禁忌 → 选 verapamil）
+> - 🌱 TODO（待生成衍生）：
+>   - 等心内章节再积累 2-3 道杂音相关题后，请 Claude Code 整合「HCM / AS / MVP / MR 杂音随 Valsalva-蹲下变化」→ 生成 [[完整笔记/专题笔记/_衍生_杂音动作鉴别表]]
+>   - 等收集到 "动态梗阻 vs 固定梗阻" 相关题目（HCM / AS / 主动脉夹层等）→ 生成 [[完整笔记/专题笔记/_衍生_HCM_vs_AS对比]]
+>
+> ✅ **复盘行动**
+> - [ ] 1 周后默写 β-blocker 治疗 HCM 的两个机制
+> - [ ] 默写 HCM 禁忌药 5 类 + 共同机制（↓ LV 容量）
+> - [ ] 默写 HCM vs AS 杂音随 Valsalva / 蹲下变化表
+> - [ ] 找 3 道运动员晕厥鉴别题（HCM / AS / 长 QT / Brugada / ARVC）
+>
+> ---
+>
+> 学科:: 心血管
+> 主题:: HCM 临床表现与治疗
+> 状态:: 🟢
 > 错因:: 知识
