@@ -6889,3 +6889,100 @@
 > 主题:: 酒精性心肌病 (AIC) / DCM 病因学
 > 状态:: 🟡
 > 错因:: pattern
+
+> [!example]- [2026-05-16] 心内 / Malignant Pericardial Effusion (Q20254)
+> ^Q20254
+>
+> ## Stem 模式
+> 癌症病史（尤其肺癌）+ 亚急性 dyspnea + CXR **心影大 + 肺野清** + Beck triad（不必全）→ 心包积液 ± 早期 tamponade
+>
+> ## 核心概念
+> CXR 心影大 + 肺野清 = **心包积液**（不是心衰！）
+> 首选下一步 = **Echocardiography**（确诊 + 评估量 + 评估 tamponade + 指导穿刺）
+>
+> ## 普适规则
+>
+> **心影大 CXR 鉴别表（4 病因）**：
+> | 病因 | 肺野 | 啰音 | 起病 | 首选下一步 |
+> |---|---|---|---|---|
+> | CHF | **淤血/水肿** | 有 | 慢性+急性恶化 | BNP + Echo |
+> | Pericardial effusion | **清** | 无 | 亚急性 | **Echo** |
+> | Tamponade | **清** | 无 | 急性恶化 | Echo → 穿刺 |
+> | Dilated CM | 可清可淤 | ± | 慢性 | Echo |
+>
+> **Pericardiocentesis 适应症决策树**：
+> - Tamponade（血流动力学不稳）→ 急诊穿刺
+> - 怀疑恶性/化脓/结核 → 诊断性穿刺（送 cytology/culture）
+> - 病因明 + 量小 + 稳定 → 治原发病 + Echo 随访（**不穿**）
+>
+> **MPE 速查**：
+> 最常见原发瘤 = **Lung > Breast > GI > Lymphoma > Melanoma**
+> ECG: ↓QRS voltage, **electrical alternans**
+> Echo: large effusion ± RA/RV collapse
+> 防复发: pericardial window / 长期 catheter
+>
+> ## 易混陷阱（普适）
+> - "心影大"≠ 一定心衰，**必须先看肺野**
+> - 心包积液给 **furosemide** = 降 preload → 加重/诱发 tamponade（致死陷阱）
+> - 创伤性 tamponade → **穿刺救命**
+> - 主动脉夹层 → tamponade → **绝对不穿**（拔塞子致死，直接 OR）⭐
+> - CKD (Cr↑) → CT 造影禁忌（即使想做 CTA 排 PE 也不行）
+>
+> ## 我为什么错
+> - 选了 D. Furosemide therapy
+> - 思路："心影扩大 → 心衰 → 利尿剂"
+> - 根本错因：
+>   - 没看清 "lungs are clear bilaterally" + "no edema" 两个关键阴性体征
+>   - 被单一影像锚定（anchoring bias），忽略 "lung cancer a year ago" 这个最响的钟
+> - 核心陷阱：**心影大 ≠ 心衰，鉴别点在肺野**
+>
+> ## Memory Hook
+> - **"癌症 + 心影大 + 肺野清 = MPE，找 Echo"**
+> - 画面：**心脏 = 桃子在塑料袋里**
+>   - 心衰 = 桃子肿 + 袋外漏水（肺水肿）
+>   - MPE = 桃子正常 + **袋里灌满水**（心包积液）→ 影子大但肺干净
+> - **"心包积液给利尿，前负荷掉人难逃"**
+>
+> ## 🤔 我的提问 / 卡点
+> 1. **"Pericardial effusion 不需要 pericardiocentesis 吗?"** → 学到了穿刺适应症决策树（稳不稳 + 啥病因 + 量多大）
+> 2. **"创伤性 vs 主动脉夹层心包压塞处理是否相反?"** → 学到了"创伤穿，夹层切"原则；夹层时心包血肿是止血塞子，穿刺致死
+> 3. **"Cardiac Tamponade 如何评估?"** → 学到 Beck triad + Pulsus paradoxus + ECG (low voltage + electrical alternans) + Echo (RA/RV collapse + IVC plethora)
+> 4. **"Pulsus paradoxus vs Kussmaul 怎么分?"** → 学到 P 看袖带（血压）, K 看脖子（JVP）; P→Tamponade, K→Constrictive
+> 5. **"Constrictive 也有 equalization?"** → 学到都有, 但 Constrictive 是"舒张中晚期"均衡 + RV 曲线 Square root sign
+> 6. **"为什么 Restrictive LV>>RV?"** → 学到 LV 壁厚 (10-12mm) >> RV 壁厚 (3-5mm), 浸润性病在 LV 影响更大
+> 7. **"Restrictive 为什么 BNP 高?"** → 心肌本身被浸润 → 室壁张力↑ → BNP↑↑; Constrictive 心肌正常 → BNP 不高
+> 8. **"JVP 波形各段对应什么?"** → 学到 a-c-x-v-y 5 段; 异常模式 (Cannon a/Giant a/Giant v/X 深 Y 消失/M-W 双谷)
+> 9. **"RV 曲线和 JVP 一样吗?"** → 不一样但对应; JVP Y 谷 ≈ RV Dip; 都反映同一右心系统
+> 10. **"Low voltage ECG 都见于什么?"** → 学到 5C5O 分类 (心内 vs 心外); 经典反差 "壁厚 + low voltage = Amyloid"
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：（首道心包病题，等后续 tamponade/constrictive/pericarditis 题积累）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/心内]]
+>   - [[草稿/2026-05-16_心包心肌病谱_主笔记草稿_v2]]（今日生成 ⭐ — 心包病谱 + 限制性 CM + JVP 深度专题 + RV 曲线 + BNP + Low Voltage ECG）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（恶性肿瘤心包转移 / Amyloid）
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（CKD → 造影剂禁忌，排除 A 选项的关键背景）
+>   - [[完整笔记/Peixuan分科笔记/外科]]（创伤性 tamponade / 主动脉夹层手术）
+> - 🌱 TODO（待生成衍生）：
+>   - 等积累 3-5 道心包病题后，请 Claude Code 整合 → [[完整笔记/专题笔记/_衍生_心包疾病谱]]（Pericarditis → Effusion → Tamponade → Constrictive）
+>   - 整合"心影大 CXR 鉴别"主题错题 → [[完整笔记/专题笔记/_衍生_心影大鉴别诊断]]
+>   - 整合"Tamponade 禁忌操作"（不穿夹层 / 不利尿 / 不溶栓）→ [[完整笔记/专题笔记/_衍生_Tamponade禁忌]]
+>   - 整合"Low Voltage ECG 鉴别"（5C5O）→ [[完整笔记/专题笔记/_衍生_LowVoltage鉴别]]
+>   - 整合"JVP 波形鉴别"（草稿 v2 第五章已有完整 13 节素材）→ [[完整笔记/专题笔记/_衍生_JVP波形鉴别]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q20254
+> - [ ] 默写"心影大 CXR 鉴别表"（4 病因 × 5 鉴别点）
+> - [ ] 默写 MPE 三联：**癌症史 + 心影大 + 肺野清 → Echo**
+> - [ ] 默写 Pericardiocentesis 适应症决策树（稳/不稳 × 病因）
+> - [ ] 默写"创伤穿 vs 夹层切"原则
+> - [ ] 默写 Tamponade 禁忌三药（利尿/扩血管/β-阻）
+> - [ ] 找 UWorld 心包病题练 5-10 道（pericarditis / effusion / tamponade / constrictive 全谱）
+>
+> ---
+>
+> 学科:: 心血管
+> 主题:: Malignant Pericardial Effusion / 心影大鉴别
+> 状态:: 🟡
+> 错因:: pattern
