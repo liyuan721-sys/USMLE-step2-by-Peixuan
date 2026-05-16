@@ -263,6 +263,28 @@ Phase 0 →     ↘
 | **下壁 MI**（II / III / aVF）| **RCA**（供 AV 结）| 1° / Mobitz I / 短暂完全 AVB（窄 QRS 逸搏）| Atropine 多有效，多可逆 |
 | **前壁 MI**（V1-V4）| **LAD**（供 His-Purkinje）| Mobitz II / 完全 AVB + 宽 QRS 逸搏 | **立即起搏**，高死亡风险 |
 
+#### 7.6.x 传导系统病变 7 大病因（USMLE 高频）⭐（来源 Q4456）
+
+| 病因 | 机制 | 典型场景 |
+|---|---|---|
+| **特发性纤维化**（Lenègre / Lev 病）⭐ | 老化 + HTN 累积损伤 | **老年 + 长期 HTN**（Q4456 经典：PR 长 + QRS 长 + 反复无诱因晕厥）|
+| **缺血性**（下壁 MI）| RCA → AV 节点供血 | 急性下壁 MI + 心动过缓 |
+| **药物**：β / CCB / Digoxin / Amiodarone | AV 节点抑制 | 老年新用药后晕厥 |
+| **Lyme 病** | 莱姆心肌炎 | 年轻 + 流行区旅行 + 红斑 + 关节炎 |
+| **风湿热** | 急性期 PR 延长（Jones criteria minor）| 儿童 + GAS 感染后 |
+| **结节病 / 淀粉样变** | 浸润性心肌病 | 心肌肥厚 + 传导异常 + 多器官受累 |
+| **主动脉瓣手术 / TAVR 后** | 主动脉环邻近 His 束 | 术后新发 AV block，部分需永久起搏器 |
+
+> [!warning] 间歇性 AV 阻滞识别陷阱 ⭐（Q4456 触发）
+> - **当下 ECG 正常 ≠ 排除间歇性 AV 阻滞**
+> - 看 **传导间期（PR / QRS）+ 反复发作病史**，不是当下心率数字
+> - **PR 长 + QRS 长** = 双系统弥漫病变（AV 节点 + His-Purkinje）= 高风险 → 建议 **EP study + 永久起搏器（PPM）**
+> - 类比：老化电线接触不良 — 平时灯亮，偶尔闪一下；ECG 拍到的是灯亮瞬间，但电线本身已告诉你它有问题
+>
+> **反射弧**："老年 + 反复晕厥 + PR 延长 + QRS 延长" → 间歇性 AV block → **EP study + PPM**
+
+🔗 完整 Cardiac Syncope 5 大病因 stem/ECG 速查 + Syncope 4 大类鉴别：见 [[完整笔记/专题笔记/_衍生_晕厥鉴别决策树]] Part 5.4.x-z
+
 ### 7.7 ICD 植入适应症速查 ⭐
 
 > [!success] USMLE 高频"何时上 ICD"
@@ -337,6 +359,45 @@ Phase 0 →     ↘
 > [!warning] 关键陷阱
 > - **WPW 患者**在窦律下有 delta 波；但 orthodromic AVRT 发作时 **delta 消失**（因为冲动下行走 AV 结）→ 容易误判为普通 AVNRT
 > - **Pre-excited AF** = 唯一一种"WPW 患者 + 不能给 adenosine"的情况；其他规则窄 QRS SVT 仍可给 adenosine
+
+### 8.5 WPW 三种心律状态对照（窦律 vs AVRT vs Preexcited AF）⭐（来源 Q3069）
+
+> [!info] 同一个 WPW 患者，可以表现为三种完全不同的心律 — 治疗截然相反
+> 关键判别点：**节律齐不齐 + Delta 波是否存在 + QRS 宽窄**
+
+| 状态 | 节律 | Delta 波 | QRS | 治疗（稳定）| 治疗（不稳定）|
+|---|---|---|---|---|---|
+| **窦律 + WPW** | 齐 | **Yes**（旁路待机）| 宽 | 无需急性处理 / 长期可**消融** | NA |
+| **AVRT**（orthodromic 最常见）| 齐 | **No**（顺行经 AV 节点）| **窄** | **Adenosine** / 迷走 | 同步电复律 |
+| **Preexcited AF** | **不齐** | **间断有** | **宽 + 多形** | **Procainamide** ⚠️ | 同步电复律 |
+
+> [!success] 三状态 Delta 波口诀
+> - 窦律：**有** Delta（旁路"待机"，未参与心律失常）
+> - AVRT：**Delta 消失**（冲动顺 AV 节点下传，旁路仅逆传形成折返）→ QRS 变窄
+> - Preexcited AF：**间断有** Delta（冲动有时走 AV 节点、有时走旁路）→ QRS 宽且形态变化
+
+### 8.6 Digoxin 在 WPW+AF 是"双重雷"⭐（来源 Q3069）
+
+> [!danger] Digoxin 双重打击（比其他 AV blocker 更危险）
+> 1. **关 AV 节点**（与 ABCD 其他成员共享的雷）→ 冲动绕走旁路
+> 2. **缩短旁路不应期** → 旁路传得**更快**
+>
+> → 双重叠加：Digoxin 不只是"另一个 AV blocker"，而是**主动让旁路变快**，比 β / Ca / Adenosine 更狠
+>
+> USMLE 易考点：题目问"以下哪个药在 WPW+AF 中**最不能给**"，Digoxin 是常见正确答案
+
+### 8.7 Procainamide vs Amiodarone 选择（WPW+AF 稳定）⭐（来源 Q3069）
+
+| 药 | 在 WPW+AF 的地位 | 注意 |
+|---|---|---|
+| **Procainamide** ⭐ | **经典首选**（USMLE Step 2 答案）| 直接降低旁路传导，不阻 AV 节点 |
+| **Ibutilide** | 备选 | III 类，延长旁路不应期 |
+| **Amiodarone** | **有争议**，不作首选 | 多通道效应包括**轻度阻 AV 节点** → 理论上可能加重旁路下传 |
+
+> [!warning] USMLE 答题陷阱
+> 看到 WPW+AF 稳定题，如果选项同时给 Procainamide 和 Amiodarone → 选 **Procainamide**（即使 Amio "也能用"）。
+>
+> 反直觉点：**Amiodarone 的"广谱印象"在 WPW+AF 中失效**。
 
 ---
 
@@ -507,7 +568,9 @@ Phase 0 →     ↘
 
 ### 12.7 急救场景一句话
 
-> **"SVT 找腺苷，室速找胺碘，室颤先电击，扭转找镁离，WPW 找普鲁卡因"**
+> **"SVT 找腺苷，室速找胺碘，室颤先电击，扭转找镁离，WPW+AF 找普鲁卡因"**
+>
+> **WPW 看节律**：**齐 adeno，不齐 procain**（Q3069 触发）
 
 ### 12.8 类比理解
 
@@ -516,6 +579,19 @@ Phase 0 →     ↘
 - **游泳 / 听铃 / 惊吓 = 突然高负荷使用**：手机崩溃
 - **Quinidine / Sotalol = 把充电速度调更慢**：火上浇油
 - **Mexiletine = 快充贴**：缩短充电时间（缩短 QT）
+- **WPW + AF**（Q3069 触发）：**AV 节点 = 收费站（限速 100-160）**，**旁路 = 没限速村路（200-300）**。AV blocker（ABCD-V）= 关收费站 → 车全涌村路 → **翻车 = VFib**。Procainamide = 在村路上撒钉子 → 把村路也限速 → 安全。
+
+### 12.9 Class I 三亚类速记（Q3069 触发）⭐
+
+> **"Ia 抑 pathway（WPW+AF），Ib 治室性（VT / MI 后），Ic 怕结构病（CAST 试验）"**
+
+- **Ia**（Procainamide / Quinidine）：Na 阻 + K 阻 → APD↑ → SVT / AF / **WPW+AF**
+- **Ib**（Lidocaine / Mexiletine）：Na 阻偏爱缺血 / 去极化心肌 → 仅室性有效；**对房性 / SVT 无效**
+- **Ic**（Flecainide / Propafenone）：Na 阻最强 → AFib 转复；**结构性心脏病禁用**（CAST 试验）
+
+> [!warning] Lidocaine ≠ Procainamide 易混（虽都阻 Na⁺）
+> - Lidocaine 看似"Na 阻 = 万能" → 实际**只治 VT**，对 SVT / AF / WPW+AF 完全无效
+> - 选 WPW+AF 用药时，看到 Lidocaine 选项 → 排除（这是 Ib，不是 Ia）
 
 ---
 
@@ -586,7 +662,9 @@ Phase 0 →     ↘
 
 - 🔁 **同主题错题**：
   - [[mistakes/uworld-mistakes#^Q3910]] J&L-N LQTS（首张电生理 / 抗心律失常药卡）
-  - 等后续 Brugada / CPVT / 获得性 QT / TdP / WPW / SVT 错题积累
+  - [[mistakes/uworld-mistakes#^STQ20260515-38]] Class IB 独特机制 — 缩短 QT（Vaughan-Williams 三亚类对比）
+  - [[mistakes/uworld-mistakes#^Q3069]] WPW + Preexcited AF → Procainamide（Class I 三亚类适应症陷阱 + ABCD-V 禁忌 + Digoxin 双重雷）
+  - 等后续 Brugada / CPVT / 获得性 QT / TdP / 更多 WPW / SVT 错题积累
 - 📚 **主笔记**：
   - [[完整笔记/Peixuan分科笔记/心内]]（电生理 + 心律失常）
   - [[完整笔记/Peixuan分科笔记/儿科]]（儿童心源性晕厥 + 先天性遗传病）
@@ -618,4 +696,17 @@ Phase 0 →     ↘
   - Day 4：题练 + Part 14 陷阱
   - Day 5：默写 + Part 12 Memory Hook
 
-**Last updated**: 2026-05-14 v1.1 — 整合心内.md：Part 8.4 新增 AF+WPW 专节（Peixuan 4V 口诀 + 慢性 AF vs WPW-AF 对比表 + ABCD 禁忌 + AVNRT vs AVRT 鉴别）；Part 7.6 新增症状性心动过缓 + AV block 决策树（atropine 起效部位 + 下/前壁 MI 对比）；Part 7.7 新增 ICD 适应证速查（EF ≤ 35% + 持续 VT 等）；Part 11.4 新增离子通道病鉴别小节（Brugada 重点 + CPVT + Andersen-Tawil + Timothy + ARVC + V1-V3 ST↑ 4 鉴别 + WPW delta 3 联）
+**Last updated**: 2026-05-15 v1.3 — Q4456 增量（老年间歇性 AV 阻滞）：
+- Part 7.6.x 新增 **传导系统病变 7 大病因**（Lenègre/Lev / 缺血 / 药物 / Lyme / 风湿热 / 浸润 / 术后）
+- Part 7.6.x 新增 **间歇性 AV 阻滞识别陷阱**（"PR 长 + QRS 长 + 反复无诱因晕厥 → EP study + PPM"反射弧 + 老化电线类比）
+- 反链到晕厥衍生 Part 5.4.x-z
+
+**v1.2**（2026-05-15）— Q3069 增量（WPW + Preexcited AF → Procainamide）：
+- Part 8.5 新增 **WPW 三种心律状态对照**（窦律 / AVRT / Preexcited AF — Delta 波 + QRS + 治疗对照）
+- Part 8.6 新增 **Digoxin "双重雷" 机制**（关 AV 节点 + 缩短旁路不应期）
+- Part 8.7 新增 **Procainamide vs Amiodarone 选择**（USMLE 首选 Procainamide；Amio 有争议）
+- Part 12.7 更新急救一句话："齐 adeno，不齐 procain"
+- Part 12.8 新增 **AV 节点 = 收费站 / 旁路 = 村路** 类比
+- Part 12.9 新增 **Class I 三亚类速记口诀**："Ia 抑 pathway，Ib 治室性，Ic 怕结构病" + Lidocaine ≠ Procainamide 易混陷阱
+
+**v1.1**（2026-05-14）— 整合心内.md：Part 8.4 新增 AF+WPW 专节（Peixuan 4V 口诀 + 慢性 AF vs WPW-AF 对比表 + ABCD 禁忌 + AVNRT vs AVRT 鉴别）；Part 7.6 新增症状性心动过缓 + AV block 决策树（atropine 起效部位 + 下/前壁 MI 对比）；Part 7.7 新增 ICD 适应证速查（EF ≤ 35% + 持续 VT 等）；Part 11.4 新增离子通道病鉴别小节（Brugada 重点 + CPVT + Andersen-Tawil + Timothy + ARVC + V1-V3 ST↑ 4 鉴别 + WPW delta 3 联）

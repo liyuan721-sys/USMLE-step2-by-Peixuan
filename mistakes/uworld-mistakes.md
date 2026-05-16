@@ -3984,7 +3984,7 @@
 > ---
 > 
 > 学科:: 心血管
-> 主题:: 先天性 LQTS（J&L-N + LQT1 / 2 / 3 + Vaughan Williams + QT 延长病因）
+> 主题:: Vaughan-Williams 抗心律失常药分类
 > 状态:: 🟡
 > 错因:: 知识
 
@@ -5243,7 +5243,7 @@
 > ---
 > 
 > 学科:: 心血管
-> 主题:: Class IB 抗心律失常药独特缩短 QT
+> 主题:: Vaughan-Williams 抗心律失常药分类
 > 状态:: 🔴
 > 错因:: 知识
 
@@ -5468,5 +5468,774 @@
 > 
 > 学科:: 外科
 > 主题:: 侵入操作安全（气管插管金标准 + Basilar fx 经鼻禁忌）
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-15] 心内 / WPW + Preexcited AF — 抗心律失常药选择 (Q3069)
+> ^Q3069
+>
+> ## Stem 模式
+> 已知 **WPW** + 急性发作 + **irregularly irregular** + 极快心率（>180）+ 血流动力学**稳定** → **Preexcited AF**
+> （对比：WPW + 节律**齐** → AVRT，治疗完全不同）
+>
+> ## 核心概念
+> Preexcited AF 稳定 → **Procainamide（Ia）**
+> 机制：阻 Na⁺ 通道 → 直接抑制 accessory pathway（pathway 依赖 Na⁺ 电流，类心肌特性），同时不解除 AV 节点保护
+>
+> ## 机制图 — 为什么 WPW+AF 禁用 AV blocker
+> ```
+> 正常 AF（无 WPW）              Preexcited AF（WPW + AF）
+> ═══════════════════           ═══════════════════════════
+>   心房乱颤 350-600/min            心房乱颤 350-600/min
+>        │                              │
+>        ▼                        ┌─────┴─────┐
+>   AV 节点（减速器）              │           │
+>   慢钙离子通道                 AV 节点    Accessory Pathway
+>   有不应期                    (慢, 安全)  (快, 类心肌, Na⁺ 通道)
+>        │                        │            │
+>        ▼                        ▼            ▼
+>   心室率 100-160             心室 ~150    心室 200-300 ⚠️
+>   （安全）                                可退化为 VFib（致命）
+> ```
+> **关键推论**：给 AV blocker（ABCD-V）→ 关掉左边"安全通道" → 全部冲动走右边旁路 → VFib
+> → 所以 WPW+AF 必须用 **Procainamide**（直接降低旁路本身的传导）
+>
+> ## 普适规则 — WPW + 心动过速治疗决策树
+> ```
+> WPW + tachyarrhythmia
+>     │
+>     ├─ 血流动力学不稳定？
+>     │   └─ YES → 同步电复律（任何节律都一样）
+>     │
+>     └─ 稳定 → 看节律
+>         │
+>         ├─ 规则齐（窄 QRS）→ AVRT
+>         │   └─ Adenosine / 迷走动作 → 失败再电复律
+>         │
+>         └─ 不齐（宽 QRS, 变形态）→ Preexcited AF
+>             └─ Procainamide（首选） / Ibutilide（备选）
+>             └─ ⚠️ 禁用：ABCD-V
+> ```
+>
+> ## 普适规则 — WPW 三种心律状态对照
+>
+> | 状态 | 节律 | Delta 波 | QRS | 治疗（稳定） | 治疗（不稳定） |
+> |---|---|---|---|---|---|
+> | **窦律 + WPW** | 齐 | Yes | Wide | 无需急性处理 / 长期可**消融** | NA |
+> | **AVRT**（orthodromic 最常见） | 齐 | **No**（顺行经 AV 节点） | **窄** | **Adenosine** / 迷走 | 同步电复律 |
+> | **Preexcited AF** | **不齐** | 间断有 | **宽** | **Procainamide** ⚠️ | 同步电复律 |
+>
+> **三状态记忆口诀**：
+> - 窦律：有 Delta 波（旁路在"待机"，但还没参与心律失常）
+> - AVRT：**Delta 波消失**（冲动顺着 AV 节点下传，旁路只参与逆传形成折返）→ QRS 变窄
+> - Preexcited AF：**间断有 Delta 波**（冲动有时走 AV 节点、有时走旁路）→ QRS 宽且形态变化
+>
+> ## 普适规则 — Vaughan-Williams 抗心律失常分类（高频考点）
+>
+> | 类 | 机制 | 代表药 | 主要用于 | 特殊点 |
+> |---|---|---|---|---|
+> | **Ia** | Na⁺ 阻（中度）+ K⁺ 阻 → APD↑ | **Procainamide**, Quinidine, Disopyramide | SVT / VT / **WPW+AF** | QT↑ → torsades；procainamide → 狼疮样综合征 |
+> | **Ib** | Na⁺ 阻（弱，偏好缺血/去极化心肌）→ APD↓ | **Lidocaine**, Mexiletine | **室性**心律失常（特别是缺血后 VT）| 对房性/SVT **无效** |
+> | **Ic** | Na⁺ 阻（强）→ 传导↓↓，APD 不变 | **Flecainide**, Propafenone | AF（无结构性心脏病）| 有结构性心脏病禁用 |
+> | **II** | β 阻 → AV 节点抑制 | Metoprolol, Esmolol | 速率控制 / 缺血保护 | **AV blocker** |
+> | **III** | K⁺ 阻 → APD↑↑ | **Amiodarone**, Ibutilide, Sotalol, Dofetilide | AF / VT 广谱 | QT↑；amiodarone 多脏器毒性 |
+> | **IV** | 非二氢吡啶 CCB → AV 节点抑制 | Verapamil, Diltiazem | SVT / 速率控制 | **AV blocker** |
+> | 其他 | AV 节点阻 | **Adenosine**, **Digoxin** | AVRT/AVNRT（adeno）/ HF 房颤（dig）| **AV blocker** |
+>
+> **记忆要点**：
+> - **"Ia 抑制 pathway，Ib 治室性，Ic 怕结构病"**
+> - **Lidocaine ≠ Procainamide**：都是 Na⁺ 阻，但 Ib 偏爱去极化的心室肌，对房性无效
+>
+> ## 易混陷阱（普适）
+>
+> | 易混 | 区分关键 |
+> |---|---|
+> | AVRT vs Preexcited AF | **节律齐不齐**；齐=AVRT, 不齐=AF |
+> | Adenosine 治 SVT vs WPW+AF 禁 adenosine | 看是 AVRT（齐）还是 AF（不齐）|
+> | Procainamide vs Lidocaine（都阻 Na⁺）| Ia 治 SVT/AF，Ib 只治 VT |
+> | Procainamide vs Amiodarone（WPW+AF）| Procainamide 经典首选；amiodarone 有争议（可能阻 AV 节点）|
+> | 急性 vs 长期 WPW 管理 | 急性=药物/电；**长期根治=导管消融**（本患者已拒绝）|
+>
+> ## ⚠️ AV 节点阻滞剂"避雷家族"（WPW+AF 全员禁用）
+> **ABCD-V**：**A**denosine / **B**eta-blocker / **C**CB（verapamil, diltiazem）/ **D**igoxin / **V**erapamil
+> 机制：关闭 AV 节点这条"安全慢通道" → 房颤冲动全走旁路 → 心室率 250-300 → **退化为 VFib → 猝死**
+> Digoxin 额外雷：**缩短旁路不应期** → 让旁路传得更快（双重打击）
+>
+> ## 我为什么错
+> - 看到 "WPW + 心动过速 + 既往 SVT 病史" → 条件反射 = AVRT → 选 adenosine
+> - **忽略了 "irregularly irregular" 这个 AF 标志词**
+> - **不知道 WPW 也会发生 AF**（约 1/3 WPW 患者出现 preexcited AF）
+> - 抗心律失常药 Vaughan-Williams 分类不熟，混淆 Ia / Ib（都是 Na⁺ 阻但适应症完全不同）
+>
+> ## Memory Hook
+> - **"WPW 看节律：齐 adeno，不齐 procain"**
+> - **"ABCD-V 全员避雷，留 P 单挑"**（Procainamide）
+> - 类比：AV 节点 = 收费站（限速），旁路 = 没限速村路。AV blocker = 关收费站 → 车全涌村路 → 翻车
+> - **"Ia 抑 pathway，Ib 治室性"**（解决 Procainamide vs Lidocaine 混淆）
+>
+> ---
+>
+> ## 🤔 我的卡点（学习路径）
+> - Q：疾病机理懂，但药物机理 / 分类不熟 → **本次重点 = Vaughan-Williams 分类系统化**
+> - 学到：
+>   - Ia / Ib / Ic 同属 Na⁺ 阻但适应症完全不同（不能笼统记"Na 阻"）
+>   - Lidocaine 对 SVT/AF 无效（Ib 选择性作用于室肌）
+>   - Digoxin 在 WPW 是"双重雷"（不只是 AV 阻，还缩短旁路不应期）
+>   - Amiodarone 在 WPW+AF 中**不是首选**（与笼统印象"广谱"相反）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q3910]] J&L-N LQTS（首张抗心律失常药 / Vaughan-Williams 卡）
+>   - [[mistakes/uworld-mistakes#^STQ20260515-38]] Class IB 独特机制 — 缩短 QT（Vaughan-Williams 三亚类对比）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/专题笔记/_衍生_Vaughan_Williams抗心律失常药对照]]（本次增量更新：Part 8.4 + 新增 8.5 WPW 三状态对照 + Digoxin 双重雷 + 收费站/村路类比）
+> - 🏥 跨学科：无
+> - 🌱 TODO（待生成衍生）：
+>   - ✅ Vaughan-Williams 衍生**已建**（[[完整笔记/专题笔记/_衍生_Vaughan_Williams抗心律失常药对照]]）；本次错题增量已并入
+>   - 等心内"心律失常"章节复习完，请 Claude Code 整合 [WPW / AVRT / AVNRT / AF / SVT 急性处理 / 不稳定 vs 稳定] 类错题 → 生成 [[完整笔记/专题笔记/_衍生_心律失常急性处理决策树]]
+>   - 等积累 AV blocker 相关错题（β / CCB / 地高辛 / 腺苷）→ 整合 → 可考虑生成 [[完整笔记/专题笔记/_衍生_AV节点阻滞剂适应症与禁忌]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q3069
+> - [ ] **默写 Vaughan-Williams 7 类**（机制 + 代表药 + 适应症 + 主要副作用）
+> - [ ] 默写 "WPW+AF 五大禁药"（ABCD-V）+ 为什么 digoxin 是双重雷
+> - [ ] 默写 Ia vs Ib vs Ic 的区别（特别是为何 lidocaine 不能治 SVT）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加 #薄弱点（抗心律失常药分类）
+> - [ ] 找 3 道类似题：WPW+AVRT、WPW+AF、抗心律失常药副作用题
+>
+> ---
+>
+> 学科:: 心血管
+> 主题:: Vaughan-Williams 抗心律失常药分类
+> 状态:: 🔴
+> 错因:: 知识
+
+> [!example]- [2026-05-15] 心内 / 老年晕厥 — 间歇性 AV 阻滞识别 (Q4456)
+> ^Q4456
+>
+> ## Stem 模式
+> 老年人 + **无前驱**晕厥 + **反复发作头晕**（间歇性）+ ECG 示 **PR 延长 + QRS 延长**（双系统传导异常）+ LVH 但 **EF 正常** + 无体位性低血压 + QTc 正常 → **间歇性高度 AV 阻滞**（bradyarrhythmia）
+>
+> ## 核心概念
+> Bradyarrhythmia ≠ 当下心率慢 → **bradyarrhythmia = 心率有"间歇性变慢/停搏"的潜在风险**
+> ECG 当下"正常" **不能排除**间歇性 AV 阻滞。看**传导间期（PR、QRS）+ 病史（反复晕厥）**，不是看当下数字。
+>
+> ## 机制图 — 为什么"心率 64"也可以是 bradyarrhythmia
+> ```
+> 正常传导系统                       本患者的传导系统
+> ═══════════════                    ═══════════════════════
+>    SA 节点                            SA 节点 ✓ (64/min 正常)
+>       │                                  │
+>       ▼                                  ▼
+>    AV 节点（PR < 200ms）              AV 节点（PR 延长）⚠️
+>       │                                  │
+>       ▼                                  ▼
+>    His 束                             His 束 ⚠️ 纤维化
+>       │                                  │
+>       ▼                                  ▼
+>    左右束支（QRS <120ms）             左右束支（QRS 延长）⚠️
+>       │                                  │
+>       ▼                                  ▼
+>    Purkinje → 心室                    Purkinje → 心室
+>
+>    稳定 60-100 bpm                  现在：勉强能传 (64 bpm)
+>                                     某一刻：传导突然完全失败
+>                                     → 心室停搏几秒
+>                                     → 晕厥
+>                                     → 然后又自己恢复 ✓
+>                                     → 下次再 ECG："看起来正常"
+> ```
+> **关键推论**：PR 延长 + QRS 延长 = **双系统弥漫病变**（AV 节点 + His-Purkinje）→ 提示 bifascicular/trifascicular block → 高风险进展为完全性 AV 阻滞
+>
+> ## 普适规则 — Cardiac Syncope 5 大病因鉴别（高频考点）
+>
+> | 病因 | 关键 stem 线索 | ECG 线索 |
+> |---|---|---|
+> | **Aortic stenosis / HCM** | 运动诱发晕厥 + 收缩期杂音 | LVH（但有杂音）|
+> | **VT** | 无前驱 + 心肌病 / 既往 MI | 持续 VT，**EF 降低** |
+> | **Sick sinus syndrome** | 前驱**疲劳 / 头晕** | **Sinus pauses** |
+> | **Advanced AV block** | 反复**无诱因**晕厥 | **PR 延长 / Bifascicular block / Dropped QRS** |
+> | **Torsades de pointes** | 无前驱 + **延长 QT 药物 / 低 K⁺/Mg²⁺** | QTc 延长 |
+>
+> ## 普适规则 — Syncope 4 大类鉴别（病史导向）
+>
+> | 类型 | 前驱 | 诱因 | 恢复 | 排除依据 |
+> |---|---|---|---|---|
+> | **Vasovagal** | 恶心 / 出汗 / 视物模糊 | 情绪 / 久站 / 疼痛 | 快 | 无前驱症状 |
+> | **Orthostatic** | 站起头晕 | 体位变化 | 平躺即缓解 | 卧立 BP 差 < 20 mmHg |
+> | **Cardiac** | **无前驱**或短暂心悸 | 任何时候 | 快，可能受伤 | 看 ECG / 超声 |
+> | **Seizure** | Aura | — | **慢**（postictal confusion）| 无 postictal |
+>
+> ## 普适规则 — 传导系统病变常见病因（USMLE 高频）
+>
+> | 病因 | 机制 | 典型场景 |
+> |---|---|---|
+> | **特发性纤维化**（Lenègre/Lev 病）| 老化 + HTN 累积损伤 | 老年 + 长期 HTN（本题）|
+> | **缺血性**（下壁 MI）| RCA → AV 节点供血 | 急性下壁 MI + 心动过缓 |
+> | **药物**：β/CCB/Digoxin/Amiodarone | AV 节点抑制 | 老年人新用药后晕厥 |
+> | **Lyme 病** | 莱姆心肌炎 | 年轻 + 旅行 + 红斑 |
+> | **风湿热** | 急性期 PR 延长 | 儿童 + 链球菌感染后 |
+> | **结节病 / 淀粉样变** | 浸润性心肌病 | 心肌肥厚 + 传导异常 |
+> | **主动脉瓣手术**或 TAVR 后 | 主动脉环邻近 His 束 | 术后新发 AV block |
+>
+> ## 易混陷阱（普适）
+>
+> | 易混 | 区分关键 |
+> |---|---|
+> | "心率正常" vs "无心律失常" | **当下正常 ≠ 间歇性发作不存在**；看 PR/QRS 间期 + 反复发作病史 |
+> | **LVH = 收缩功能差**❌ | **LVH = 舒张障碍（HFpEF）+ EF 正常或偏高**；除非失代偿期 |
+> | Cardiac syncope vs Vasovagal | Cardiac **无前驱**；Vasovagal 有恶心/出汗/视物模糊前驱 |
+> | Syncope vs Seizure | Syncope 恢复快无 postictal；Seizure 有 aura + postictal confusion |
+> | TdP vs 其他 VT | TdP 需 **QTc 延长** + 多形性；本题 QTc 正常 → 排除 |
+> | LVH 病因 | HTN（向心性 + 高电压无杂音）vs HCM（不对称 + 杂音）vs AS（杂音 + 运动晕厥）|
+>
+> ## 我为什么错
+> - 看到 LVH + 高血压 + 老年人晕厥 → 想到"结构性心脏病 → 收缩力下降 → 晕厥"，选了 **C. Decreased contractility**
+> - **根本错因 1**：**"心率 64 = 正常"** 的思维定式 → 没把 PR/QRS 延长这两个 ECG 异常和"间歇性 bradyarrhythmia"挂钩
+> - **根本错因 2**：**LVH ≠ 收缩功能差**。LVH 主要造成舒张障碍（HFpEF），EF 通常正常甚至偏高。题目给了 EF 55% 就直接排除了 C
+> - **根本错因 3**：忽略了 "intermittent" 暗示（反复发作 + 当下 ECG 正常 = 间歇性病变的典型表现）
+> - **对传导阻滞的临床情景不熟**：没意识到老年 + 长期 HTN = 传导系统纤维化（Lenègre/Lev 病）的经典背景
+>
+> ## Memory Hook
+> - **"心率正常 ≠ 没有心律失常"** —— 看传导间期 + 反复发作病史
+> - **"PR 长 + QRS 长 + 老年晕厥 = pacemaker 候选人"**
+> - **"LVH ≠ 收缩↓；LVH = 舒张↓ + EF 正常"**
+> - 类比：间歇性 AV 阻滞 = 老化电线接触不良。平时灯亮（心率 64 正常），偶尔闪一下（晕厥）；ECG 拍到的是灯亮的瞬间，但电线本身（PR/QRS 延长）已经告诉你它有问题 → **别只看灯亮不亮，看电线**
+>
+> ---
+>
+> ## 🤔 我的卡点（学习路径）
+> - Q：对传导阻滞的病因 + 临床情景不熟 → **本次重点 = 间歇性病变的识别陷阱 + 传导系统病因列表**
+> - 学到：
+>   - bradyarrhythmia 是"潜在风险"概念，不是"当下慢"概念
+>   - PR 延长（AV 节点/His 上段）+ QRS 延长（His-Purkinje）= 双系统病变 = 高风险
+>   - 老年 + 长期 HTN 的传导异常 = Lenègre/Lev 病（特发性纤维化）的经典背景
+>   - LVH 默认 EF 正常（HFpEF），不要等同于 systolic dysfunction
+>   - 反复发作 + 当下正常 = 间歇性病变的标志（适用于所有间歇性心律失常题）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q3069]] WPW + Preexcited AF（同为心律失常急性识别；那题"快"，本题"慢"；共同点：都需根据 ECG 模式分类）
+>   - [[mistakes/uworld-mistakes#^Q21579]] 经典 Vasovagal（Syncope 4 大类鉴别母题，本题增 Cardiac 子型详解）
+>   - [[mistakes/uworld-mistakes#^Q21638]] Volume-mediated OH（Syncope 4 大类对照）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/专题笔记/_衍生_晕厥鉴别决策树]]（本次增量并入 Part 5 Cardiac Syncope）/ [[完整笔记/专题笔记/_衍生_Vaughan_Williams抗心律失常药对照]]（Part 7.6 扩展传导系统病变 7 大病因）
+> - 🏥 跨学科：无
+> - 🌱 TODO（待生成衍生）：
+>   - ✅ 晕厥鉴别衍生**已建** v2（[[完整笔记/专题笔记/_衍生_晕厥鉴别决策树]]）；本次错题增量已并入
+>   - 等积累 3-5 道**缓慢性心律失常**错题（SSS / 一/二/三度 AV block / bifascicular block / 起搏器适应症）→ 整合 → 生成 [[完整笔记/专题笔记/_衍生_缓慢性心律失常与起搏器适应症]]
+>   - 等积累 LVH 相关错题（HTN / HCM / AS / 主动脉缩窄 / HFpEF vs HFrEF）→ 整合 → 生成 [[完整笔记/专题笔记/_衍生_LVH病因与功能影响]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q4456
+> - [ ] **默写 Cardiac Syncope 5 大病因表**（病因 + stem 线索 + ECG 线索）
+> - [ ] **默写 Syncope 4 大类鉴别表**（前驱 / 诱因 / 恢复 / 排除依据）
+> - [ ] **默写传导系统病变 7 大病因**（特发性纤维化 / 缺血 / 药物 / Lyme / 风湿热 / 浸润性 / 术后）
+> - [ ] 记反射弧：**"老年 + 反复晕厥 + PR 延长 + QRS 延长" → 间歇性 AV block → EP study + pacemaker**
+> - [ ] 记反射弧：**"LVH" 出现 → 默认 EF 正常 / HFpEF / 舒张障碍**
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加 #薄弱点（晕厥鉴别 + 缓慢性心律失常 + 传导阻滞病因）
+> - [ ] 找类似题：间歇性 AV 阻滞 / SSS / Stokes-Adams 发作 / 起搏器适应症
+>
+> ---
+>
+> 学科:: 心血管
+> 主题:: Cardiac Syncope / 间歇性 AV 阻滞 + 传导系统病变
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-15] 儿科 / 新生儿 — IDM 一过性 HCM (Q20421)
+> ^Q20421
+>
+> ## Stem 模式
+> **控制不佳的妊娠糖尿病母亲** + 新生儿 + **巨大儿（99th%）+ 肩难产 + 锁骨骨折** + 收缩期喷射性杂音 + 超声示 **室间隔肥厚 + 小 LV 腔** + **SpO₂ 95%（不发绀）** → **IDM-HCM（一过性肥厚型心肌病）**
+>
+> ## 核心概念
+> IDM-HCM 由**胎儿高胰岛素血症**驱动，出生后母体葡萄糖供应中断 → 胰岛素正常化 → **1 岁前自发消退（spontaneous regression）**。
+> 急性期支持治疗：**IV fluid + β-blocker**（降低收缩力、增加 LV 充盈、减轻动态 LVOT 梗阻）
+> **禁用**：inotropes（加重梗阻）、利尿剂（减少 LV 容量加重梗阻）
+>
+> ## 机制图 — 为什么 IDM 妈生出心脏肥厚的宝宝
+> ```
+> 母亲控制不佳的糖尿病
+>         │
+>         ▼  (葡萄糖自由穿过胎盘；胰岛素不过胎盘)
+>    胎儿高血糖
+>         │
+>         ▼  (胎儿胰岛 β 细胞代偿性增生)
+>    胎儿高胰岛素血症 ⚠️ 核心驱动
+>         │
+>         ├─────────────┬─────────────┬─────────────┐
+>         ▼             ▼             ▼             ▼
+>    全身合成代谢↑   糖原+脂肪沉积   新生儿低血糖   红细胞生成↑
+>    （anabolic）   于室间隔        （母体葡萄糖   （慢性宫内
+>         │        ⚠️室间隔对       中断,胰岛素    缺氧→EPO↑）
+>    Macrosomia    胰岛素特别敏感   还高）          │
+>    肩难产        ↓               ↓              Polycythemia
+>    锁骨骨折      室间隔肥厚      Hypoglycemia    高胆红素血症
+>    臂丛损伤      + 小 LV 腔
+>                  ↓
+>                  动态 LVOT 梗阻
+>                  ↓
+>                  收缩期喷射性杂音
+>                  + 呼吸窘迫
+> ```
+> **出生后**：母体葡萄糖中断 → 胰岛素正常化 → 室间隔逐渐变薄 → **1 岁前自愈**
+>
+> ## 普适规则 — IDM 并发症全图（"T 字诀"：全部 Transient）
+>
+> | 系统 | 并发症 | 机制 | 预后 |
+> |---|---|---|---|
+> | 生长 | **Macrosomia**（>90th%）| 胰岛素 = anabolic | — |
+> | 产伤 | 肩难产 / **锁骨骨折** / **Erb palsy**（臂丛 C5-C6） | 巨大儿过产道 | 多数恢复 |
+> | 代谢 | **新生儿低血糖**（最常见！最紧急！）| 母体葡萄糖中断，胰岛素仍高 | 一过性 |
+> | 代谢 | 低钙、低镁 | 母体糖尿病干扰甲状旁腺 | 一过性 |
+> | 血液 | **Polycythemia** + 高胆红素血症 | 慢性宫内缺氧 → EPO↑ | 一过性 |
+> | 呼吸 | **RDS**（即使足月）| 高胰岛素延迟肺成熟 / 抑制 surfactant | 一过性 |
+> | 心脏 | **Transient HCM** ⭐ | 室间隔糖原+脂肪沉积 | **1 岁前自愈** |
+> | **结构畸形**（控制差的孕前糖尿病更高发）| **Caudal regression syndrome**、心脏畸形（VSD/TGA/situs inversus）、NTD | 早期器官形成期高血糖 | **永久** |
+>
+> **关键区分**：
+> - **妊娠糖尿病（GDM）**：影响**晚期** → 大部分一过性问题（HCM、低血糖等）
+> - **孕前糖尿病（pregestational）**：影响**早期器官形成** → 真结构畸形（caudal regression 等）
+>
+> ## 普适规则 — IDM-HCM vs 遗传性 HCM 鉴别（必背）
+>
+> | 特征 | IDM-HCM | 遗传性 HCM |
+> |---|---|---|
+> | 病因 | 高胰岛素 | β-myosin heavy chain 基因突变 |
+> | 形态 | 室间隔肥厚 + 小 LV 腔 | 不对称室间隔肥厚 ± SAM |
+> | LVOT 梗阻 | 动态 | 动态，可有 SAM |
+> | 治疗 | 支持（IV fluid + β-blocker），**禁 inotropes / 利尿剂** | β-blocker / CCB / 手术 / ICD |
+> | 预后 | **1 岁前自愈** | 终身存在，**SCD 风险** ⚠️ |
+> | 家族史 | 无 | 常有 |
+>
+> ## 普适规则 — 新生儿心脏杂音 / 心脏病速查（针对你的卡点）⭐
+>
+> ### 1. 是否发绀（SpO₂）= 第一分诊关键
+>
+> | SpO₂ 正常（>92%）| SpO₂ 低 / 发绀 |
+> |---|---|
+> | 左→右分流 或 阻塞性 | 右→左分流 或 混合 |
+> | VSD, ASD, PDA, **IDM-HCM** ⭐, AS, PS, CoA | TOF, d-TGA, TAPVR, Truncus, Tricuspid atresia, HLHS, Ebstein |
+> | 通常**不**导管依赖 | 多数**导管依赖** → 需 **PGE1** |
+>
+> ### 2. 杂音性质 → 病因定位
+>
+> | 杂音 | 时相 / 性质 | 位置 | 提示病变 |
+> |---|---|---|---|
+> | **Systolic ejection murmur**（喷射性）| 收缩期，crescendo-decrescendo | RUSB（AS）/ LUSB（PS）/ 左胸（HCM）| **流出道梗阻**：AS / PS / **HCM / IDM-HCM** ⭐ |
+> | **Holosystolic**（全收缩）| 收缩全程，plateau 形 | LLSB（VSD）/ apex（MR）| **分流或反流**：VSD / MR / TR |
+> | **Continuous "machinery"**（机器样）| 整个心动周期 | 左锁骨下 | **PDA** |
+> | **Diastolic decrescendo** | 舒张期 | LSB | AR / PR |
+> | **Diastolic rumble** | 舒张中晚期 | apex | MS（罕见于新生儿）|
+> | **Fixed split S2** | — | — | **ASD** |
+> | **Single S2** | — | — | TOF / d-TGA / HLHS / truncus |
+>
+> ### 3. 杂音随动作变化（识别 HCM 的金标准）
+>
+> | 动作 | 前负荷变化 | HCM 杂音 | AS 杂音 |
+> |---|---|---|---|
+> | **Valsalva**（屏气用力）| ↓ 静脉回流 → ↓ LV 容量 | **↑↑**（梗阻加重）| ↓ |
+> | **下蹲 / 抬腿 / 握拳** | ↑ 静脉回流 → ↑ LV 容量 | ↓ | ↑ |
+> | **站立**（突然）| ↓ 静脉回流 | ↑ | ↓ |
+>
+> **逻辑**：HCM = **动态**梗阻，LV 越小、梗阻越重 → 减少前负荷 = 加重杂音；AS = **固定**梗阻，前负荷↑ = 流过梗阻血流↑ = 杂音响
+>
+> ### 4. 新生儿先心病快速识别表
+>
+> | 病变 | SpO₂ | 杂音 | 关键特征 | 治疗 |
+> |---|---|---|---|---|
+> | **VSD** | 正常 | **Holosystolic LLSB** | 最常见 CHD | 小→自闭 / 大→手术 |
+> | **ASD** | 正常 | **Fixed split S2** + RUSB 收缩中期 | 反常栓塞风险 | 多数自闭 |
+> | **PDA** | 正常 | **Continuous machinery** 左锁骨下 | 早产儿多见 | **Indomethacin** 关闭 |
+> | **AS / 二瓣化** | 正常 | Systolic ejection RUSB → 颈部 | Ejection click | β-blocker / 手术 |
+> | **CoA** | 正常 / 上下肢差 | 后背可闻 | **上下肢血压差** + Turner 综合征 | 手术 |
+> | **IDM-HCM** ⭐ | 正常 | **Systolic ejection** + IDM 背景 | 室间隔肥厚 + 小 LV | **支持 + β-blocker** → 自愈 |
+> | **TOF** | ↓ | Systolic ejection LUSB（PS 杂音）+ single S2 | Tet spells（蹲位缓解）/ Boot-shaped heart | 手术 |
+> | **d-TGA** | ↓↓ | **常无杂音** + single S2 | **生后立即发绀** | **PGE1** + 房隔造口 + 手术 |
+> | **HLHS** | ↓↓ | Single S2 + 弱搏动 | 全发绀 + 休克样 | **PGE1** + 分期手术 |
+> | **TAPVR** | ↓ | Fixed split S2 | "Snowman" 心影 | 手术 |
+> | **Truncus** | ↓ | Systolic + 单一 S2 | 常合并 22q11 缺失 | 手术 |
+>
+> ### 5. PGE1（前列腺素 E1）适应症 = 维持 PDA
+>
+> **用 PGE1**（导管依赖型，发绀）：HLHS / d-TGA / Critical AS or PS / Severe TOF / Tricuspid atresia / Pulmonary atresia / CoA(critical) — 共同点：**生存依赖 PDA 维持**
+> **不用 PGE1**：**IDM-HCM** ⭐ / VSD / ASD / 简单 PDA / TTN / 胎粪吸入
+>
+> ## 易混陷阱（普适）
+>
+> | 易混 | 区分关键 |
+> |---|---|
+> | IDM-HCM vs 遗传性 HCM | IDM = **transient**（1 岁前自愈）；遗传性 = 终身 + SCD 风险 |
+> | IDM-HCM vs HLHS（你的选项 A/C/D 思路）| HLHS **必然发绀**（SpO₂<92%）；本题 SpO₂ 95% 直接排除 |
+> | HCM 杂音 vs AS 杂音 | **Valsalva**：HCM↑，AS↓；动作试验是鉴别金标准 |
+> | Systolic ejection vs Holosystolic | Ejection = **流出道梗阻**（AS/PS/HCM）；Holo = **分流/反流**（VSD/MR/TR）|
+> | 妊娠糖尿病 vs 孕前糖尿病 | 妊娠 → **晚期** → 一过性问题；孕前 → **早期器官形成** → 真结构畸形 |
+> | IDM-HCM 治疗：用 β-blocker | **禁用 inotropes / 利尿剂**（减容量加重动态梗阻，与 HFrEF 治疗相反！）|
+>
+> ## 我为什么错
+> - **卡点 1：对杂音不熟** → 看到"systolic ejection murmur"没立刻定位到"流出道梗阻"（AS/PS/HCM），更没把它和超声"室间隔肥厚"对应起来 → 没识别出 HCM
+> - **卡点 2：IDM 心脏影响没条件反射** → 看到"母亲控制不佳的糖尿病 + 巨大儿 + 锁骨骨折"应该立刻在脑中铺开 IDM 并发症列表，**心脏 = 一过性 HCM** 是其中一项，但没建立这个反射
+> - 因此走错路径：把"心脏结构异常 + 新生儿"过度联想成严重 CHD（HLHS / 需要移植 / 需要 PGE1）
+> - **根本错因**：
+>   - ☑ **不知道这个考点**：IDM-HCM 这个独立疾病实体
+>   - ☑ **概念混淆**：把"结构异常 = 严重 = 不可逆"等同
+>   - ☑ **模式识别没建立**：IDM 三联征（巨大儿 + 锁骨骨折 + 室间隔肥厚）没形成整体识别
+>
+> ## Memory Hook
+> - **"IDM 三联征：巨大儿 + 锁骨骨折 + 室间隔肥厚 → 全部 transient"**
+> - **"IDM 的 T 字诀"**：**T**ransient HCM、**T**ransient hypoglycemia、**T**ransient polycythemia、**T**ransient RDS — 全是 transient
+> - **"新生儿 SpO₂ 95% = 不发绀 = 不是导管依赖型 CHD = 不需要 PGE1"**
+> - 杂音口诀：**"喷射看梗阻（AS/PS/HCM），全收缩看分流（VSD/MR/TR），机器声看 PDA，分裂固定看 ASD"**
+> - HCM Valsalva：**"动态梗阻怕空腔" → Valsalva 减容量 → 腔更小 → 梗阻更重 → 杂音更响**
+> - 类比：IDM-HCM = 婴儿吃太胖的心脏。母亲血糖太高 → 胎儿一直"加餐"（高胰岛素）→ 室间隔被"喂胖"。出生后"断奶"（母体糖供应停）→ 几个月就"瘦回来"
+>
+> ---
+>
+> ## 🤔 我的卡点（学习路径）
+> - Q1：对杂音不熟 → **本次重点 = 杂音 6 大模式 + HCM/AS 鉴别动作试验**
+> - Q2：IDM 心脏影响没条件反射 → **本次重点 = IDM 并发症全图（特别是 HCM 部分）**
+> - 学到：
+>   - 杂音分类先按**时相**（systolic/diastolic/continuous）→ 再按**性质**（ejection/holo/rumble）→ 再按**位置**
+>   - HCM vs AS 的金鉴别 = **Valsalva 反应方向相反**
+>   - IDM 几乎所有问题都是 **transient**（除非控制差的孕前糖尿病 → 真结构畸形）
+>   - "新生儿心脏异常" ≠ 一定严重 / 一定 PGE1 / 一定手术 → 先看 SpO₂ 分诊
+>   - 妊娠糖尿病 vs 孕前糖尿病 = 影响时期不同 → 并发症性质不同
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （首题，等后续儿科 / 新生儿 / IDM / 杂音题积累）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/儿科]]
+>   - [[完整笔记/Peixuan分科笔记/newborn care and screening]]
+>   - [[完整笔记/专题笔记/_衍生_新生儿先心病系统化总结]]（本次新建，三轴：时间 / 紫绀 / 杂音）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/endocrine]]（母体糖尿病的胎儿影响 / 胰岛素 anabolic 作用）
+>   - [[完整笔记/Peixuan分科笔记/OB]]（妊娠糖尿病管理）
+>   - [[完整笔记/Peixuan分科笔记/心内]]（HCM vs IDM-HCM / 杂音鉴别）
+> - 🌱 TODO（待生成衍生）：
+>   - ✅ 新生儿先心病系统化总结**已建**（[[完整笔记/专题笔记/_衍生_新生儿先心病系统化总结]]）；本次错题增量已并入
+>   - 等积累 3-5 道 **IDM 相关**错题（HCM / 低血糖 / 多血症 / RDS / 产伤 / caudal regression）→ 整合 → 生成 [[完整笔记/专题笔记/_衍生_IDM糖尿病母亲婴儿并发症全图]]
+>   - 等积累 3-5 道 **HCM 谱系**错题（遗传性 HCM / SAM / SCD / 运动员猝死 / β-blocker vs 手术 / Valsalva 动作）→ 整合 → 生成 [[完整笔记/专题笔记/_衍生_HCM谱系（遗传性vsIDM）]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q20421
+> - [ ] **默写 IDM 并发症全图**（按系统分类，10+ 条）
+> - [ ] **默写 IDM-HCM vs 遗传性 HCM 鉴别表**
+> - [ ] **默写 新生儿先心病快速识别表**（11 种病变 × SpO₂ / 杂音 / 治疗）
+> - [ ] **默写 杂音 6 大模式**（ejection / holosystolic / continuous / diastolic decrescendo / diastolic rumble / fixed split S2）
+> - [ ] **默写 HCM vs AS 的 Valsalva / 下蹲反应**（这是高频考点）
+> - [ ] **默写 PGE1 适应症 vs 非适应症**
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/儿科]] 加 #薄弱点（新生儿心脏病 + IDM + 杂音）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加 #薄弱点（杂音识别 + HCM）
+> - [ ] 记反射弧：**"母亲糖尿病 + 巨大儿 + 锁骨骨折" → 立刻把 IDM 所有 transient 并发症过一遍**
+> - [ ] 记反射弧：**"新生儿 SpO₂ 正常" → 不是导管依赖型 CHD → 不需要 PGE1**
+> - [ ] 记反射弧：**"systolic ejection murmur" → 流出道梗阻（AS / PS / HCM）→ 用 Valsalva 鉴别 HCM**
+> - [ ] 找类似题：HLHS（导管依赖 → 对比）、d-TGA、TOF、CoA、其他 IDM 并发症题
+>
+> ---
+>
+> 学科:: 儿科
+> 主题:: 新生儿先心病 / 杂音 + 时序鉴别
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-15] 儿科 / 心内 — VSD 婴儿期心衰发病机制 (Q16280)
+> ^Q16280
+>
+> ## Stem 模式
+> **1 月龄** + **不发绀**（never turned blue, SpO₂ 95%）+ **喂养困难 + 进食时出汗苍白** + 呼吸急促 + 双肺啰音 + 肝大 3 cm + **4/6 holosystolic LLSB 杂音 + thrill** + 宽脉压（90/46）→ **中-大型 VSD 引起左→右分流 → 高输出量心衰**
+>
+> ## 核心概念
+> VSD 心衰 = **容量超载型 high-output failure**（不是泵衰竭，LV 收缩力**正常**）
+> 根本血流动力学异常 = **肺血流增加（pulmonary overcirculation）**
+> 发病时机依赖 **PVR 下降曲线**：胎儿期高 → 出生后渐降 → **1-2 月降至最低 = 分流峰值 = 症状最重**
+>
+> ## 机制图 — VSD 自然病程时序（解答"为什么不在出生时发病"）
+> ```
+> 胎儿期（in utero）
+> ─────────────────
+>    PVR 高（=SVR）→ 双侧压力相等 → **几乎无分流** → 无症状 ✓
+>
+> 出生 0-2 周（postnatal transition）
+> ─────────────────────────────
+>    肺开始呼吸 → PVR 开始↓
+>    脐带剪断 → SVR↑
+>    PVR 还没降到底（肺血管重塑需 4-8 周）
+>    分流较小 → 症状轻（杂音可能已出现）
+>
+> ** 1-2 月龄 ⭐（本题）**
+> ─────────────────────────────
+>    PVR 降至接近成人水平
+>    SVR/PVR 差最大 → 左→右分流 ↑↑↑ 达峰值
+>    ↓
+>    肺血流↑↑ → 肺淤血 → 肺静脉回流↑
+>    ↓
+>    左房 + 左室容量超载（要泵 = 体循环 + 分流量）
+>    ↓
+>    **高输出量心衰**（LV 收缩力正常但跟不上回流）
+>
+> 多年后（未治疗）
+> ─────────────────
+>    持续肺血流↑ → 肺血管**重塑**（平滑肌增生 + 内膜增厚）
+>    PVR ↑↑↑ 缓慢上升
+>    ↓
+>    PVR > SVR → 分流**反转**为右→左
+>    ↓
+>    **Eisenmenger 综合征** → 发绀 + 杵状指 → 不可逆
+> ```
+>
+> ## ⭐ VSD 心衰的解剖时序（解答"1 个月怎么就右心衰了？"）
+>
+> **关键澄清**：VSD 婴儿期的肝大 ≠ 严格意义的右心衰，而是**左心容量超载 + 体循环淤血的早期表现**
+>
+> ### 血流路径决定哪个心腔最重
+> ```
+> 左室收缩
+>    │
+>    ├──→ 主动脉（正常路径）
+>    │
+>    └──→ 经 VSD → 右室（"路过"，舒张期排空到肺动脉）
+>                    │
+>                    ▼
+>                肺血流↑↑
+>                    │
+>                    ▼
+>                肺静脉回流↑ → 左房 → 左室
+>                    │
+>                    ▼
+>                ⚠️ 真正的容量负荷最重处：LA + LV
+>                （LV 要泵的总量 = 体循环血量 + 分流量）
+> ```
+>
+> ### 谁先衰？
+>
+> | 心腔 | 受累程度 | 机制 |
+> |---|---|---|
+> | **LA + LV** ⭐最重 | 重 | 肺循环回流的血量 = 体循环 + 分流量 → 长期容量过载 |
+> | **RV** | 中 | 收缩期被左室"挤入"额外血液，但舒张期就排空了（不像真正的容量滞留）|
+> | **RA** | 最轻 | VSD 不涉及房水平 |
+>
+> **→ VSD 心衰本质 = 左心衰为主**
+>
+> ### 那 1 个月就摸到 3 cm 肝大怎么解释？
+>
+> | 机制 | 解释 |
+> |---|---|
+> | **(a) 婴儿肝脏解剖差异** ⭐ | 婴儿正常肝缘可达**肋下 1-2 cm**（成人不可触及才算正常）；血管床顺应性高 → 轻度静脉压↑即反映为肝大；本题 3 cm = **轻度淤血**，非严重右心衰 |
+> | **(b) 体循环淤血早期征象** | 大量分流 → 整个循环系统轻度压力升高 → 敏感的婴儿肝静脉先反映出来 |
+> | **(c) 左心衰传导（晚期机制）** | 左心衰 → 肺静脉压↑ → 肺动脉压↑ → 右室后负荷↑ → 体循环淤血 → 肝大；这是后期机制，1 月龄通常还没到这步 |
+>
+> ### VSD 心衰症状出现的解剖时序（先后顺序）
+>
+> ```
+> 1️⃣ 肺淤血（最先）
+>    → 呼吸急促 + retractions + 双肺啰音
+>
+> 2️⃣ 左心容量超载 + 交感激活
+>    → 喂养困难（婴儿版"运动不耐受"）
+>    → 出汗 + 苍白（交感激活 + 灌注不足）
+>    → 心动过速
+>
+> 3️⃣ 体循环淤血（婴儿敏感的肝脏先反映）
+>    → 肝大（轻度，3 cm 在婴儿属于早期信号）
+>    → 体重不增
+>
+> 4️⃣ 真正的双室泵衰竭（晚期，如未治疗）
+>    → 严重肝大 + 腹水 + 颈静脉怒张
+> ```
+>
+> **结论**：本题 1 月龄的肝大 = 第 3 步**早期体循环淤血**，**不是**第 4 步严重右心泵衰竭。
+> UWorld 措辞 "signs of right-sided heart failure (eg, hepatomegaly)" 在临床上偏松——更准确应说"**体循环淤血征象**"。
+>
+> ## 普适规则 — 婴儿心衰 vs 成人心衰对照（识别陷阱）
+>
+> | 成人心衰 | 婴儿心衰 | 解剖/生理基础 |
+> |---|---|---|
+> | 爬楼气短 / 运动不耐受 | **Poor feeding**（吃奶 = 婴儿最大体力活动）| 吃奶能量消耗约 = 成人慢走 |
+> | 端坐呼吸 | **Diaphoresis with feeds**（喂奶时出汗）| 交感激活 |
+> | 夜间阵发性呼吸困难 | 呼吸急促 + retractions（轻度回缩）| 同肺淤血机制 |
+> | 下肢水肿 | **肝大 + 体重不增** | 婴儿无重力依赖性水肿 |
+> | 颈静脉怒张 | 难评估 → **肝大替代** | 婴儿颈短 |
+> | BNP↑ | BNP↑ | 同 |
+> | "正常肝缘不可触及" | **正常肝缘可达肋下 1-2 cm** | 婴儿肝解剖位置低 + 软 |
+>
+> **关键陷阱**：婴儿肝缘 3 cm = **轻度异常**（不是严重右心衰）；正常婴儿可达 1-2 cm
+>
+> ## 普适规则 — VSD 杂音反直觉规律（高频考点）
+>
+> | 特征 | 表现 | 机制 |
+> |---|---|---|
+> | 时相 | **Holosystolic**（全收缩）| 整个收缩期跨 VSD 压差都存在 |
+> | 位置 | **LLSB**（左下胸骨缘）| 经典位置 |
+> | 性质 | "Blowing"吹风样 | — |
+> | 强度 | **小 VSD 杂音越响** ⚠️反直觉 | 小孔 → 高湍流 → 大声 |
+> | Thrill | **≥4/6 一定有 thrill** | 4/6 = 触觉震颤 |
+> | **大 VSD** | 杂音**反而轻** | 压差小 → 湍流少 |
+> | **Eisenmenger 后** | 杂音**消失** | 双侧压力又相等，无压差 = 无杂音 |
+>
+> ## 普适规则 — 左→右分流 3 大 CHD 鉴别
+>
+> | 病变 | 杂音 | S2 | 经典特征 | 发病时机 | 治疗 |
+> |---|---|---|---|---|---|
+> | **VSD** ⭐ | Holosystolic LLSB + thrill | 正常 | 最常见 CHD | **1-2 月**（PVR 谷底） | 小→自闭 / 大→手术 |
+> | **ASD** | RUSB ejection + **Fixed split S2** | **固定分裂** | 多无症状到成人 | **儿童期到成年**（更迟）| 多数自闭 / 大→介入 |
+> | **PDA** | **Continuous "machinery"** 左锁骨下 | 正常 | 早产儿 / 母亲风疹 | 早产儿出生即可见 | **Indomethacin**（早产）/ 手术 |
+>
+> **时序记忆**：**VSD 最早（1-2 月）→ PDA 看胎龄 → ASD 最晚**（依赖各自的"压差出现窗口"）
+>
+> ## 易混陷阱（普适）
+>
+> | 易混 | 区分关键 |
+> |---|---|
+> | "肝大 = 右心衰" | 肝大 = **体循环淤血征象**；可由左心衰、容量超载或右心衰任一原因；婴儿肝更敏感 |
+> | "心衰 = 收缩力差" | VSD 心衰 = **容量超载 + LV 收缩力正常**（high-output failure）→ 选项 A（contractility ↓）错 |
+> | "VSD 增加 LV afterload" | ❌反直觉：VSD 是 LV "**减压阀**"——血液经 VSD 走低阻肺循环，afterload **↓**或正常 → 选项 C 错 |
+> | "VSD 右→左分流" | 当下 SpO₂ 95% / never turned blue → ❌排除；右→左是 **Eisenmenger 晚期**才出现 |
+> | "先心病出生立刻发病" | **左→右分流 CHD 都"延迟发病"**（依赖 PVR 下降）；发绀型才出生立即发病 |
+> | 小 VSD vs 大 VSD 杂音 | **小 VSD 杂音更响**（湍流大）；大 VSD 杂音反轻 |
+> | VSD vs IDM-HCM（[[mistakes/uworld-mistakes#^Q20421]]）| VSD = 分流 + 进行性恶化；IDM-HCM = 流出道梗阻 + 一过性自愈；两题共用"婴儿不发绀 + 收缩期杂音"的分诊框架 |
+>
+> ## 我为什么错 / 卡点
+> - **卡点 1：对 VSD 发病时序不清晰** → 不理解为什么"先天性"病偏偏 1 个月才发作
+>   - 学到：左→右分流 CHD 都依赖 **PVR 下降曲线**，**胎儿期压力相等无分流**，PVR 降到底（1-2 月）才达分流峰值
+> - **卡点 2：误以为 1 个月就严重右心衰** → 不理解婴儿肝大的真实含义
+>   - 学到：婴儿肝大 ≠ 严格右心衰；本质是**左心容量超载 + 体循环淤血**；婴儿肝脏解剖上更敏感（正常可达 1-2 cm）
+> - **根本错因（如果选错）**：
+>   - ☑ 时序生理理解空缺：把 CHD 和"出生立刻发病"等同
+>   - ☑ 心衰类型混淆：没区分容量超载心衰 vs 泵衰竭
+>   - ☑ 婴儿解剖知识空缺：正常婴儿肝缘 1-2 cm 可触及
+>
+> ## Memory Hook
+> - **"PVR 决定 VSD 的脸色——高时安静，低时心衰，再高就发紫"**（一句话概括 4 阶段）
+> - **"VSD 婴儿不在出生时哭，在 1 个月时哭"**（PVR 降的过程）
+> - **"婴儿肝缘 1-2 cm 是正常的"**（不要看到肝大就联想严重右心衰）
+> - **"婴儿心衰 = 看吃奶"**：poor feeding + diaphoresis with feeds = 婴儿版"运动不耐受"
+> - **"小 VSD 大声响，大 VSD 反而轻；Eisenmenger 后杂音消失"**
+> - **"VSD 反而帮 LV 减压"**（afterload ↓ 不 ↑，反直觉考点）
+> - 类比：VSD = 左右两室之间的"违章小门"
+>   - 胎儿期：两边客流量一样 → 没人挤
+>   - 出生 1-2 月：右室那边突然变空旷（PVR 降）→ 左室人群拼命往右挤 → 肺这边人满为患 → 肺水肿 + LV 累
+>   - 多年后：肺被挤怕了装防爆门（血管重塑）→ 右室压力暴涨 → 反过来从右往左挤 → 全身缺氧（Eisenmenger）
+>
+> ---
+>
+> ## 🤔 我的卡点（学习路径）
+> - Q1：1 个月就右心衰太快？
+>   → 学到：**不是真正的右心衰**，是**左心容量超载 + 体循环淤血**的早期表现；婴儿肝脏解剖敏感（正常可触 1-2 cm，3 cm 属轻度异常）
+> - Q2：VSD 心衰发病时序逻辑
+>   → 学到：依赖 **PVR 下降曲线**；胎儿期 PVR=SVR 无分流，1-2 月 PVR 最低分流峰值，未治疗多年后 PVR 反弹 → Eisenmenger
+> - Q3：VSD 心衰是什么类型？
+>   → 学到：**容量超载型 high-output failure**，LV 收缩力**正常**（不是泵衰竭）
+> - Q4：左→右分流 CHD 解剖时序
+>   → 学到：VSD 最早发病（1-2 月）；PDA 看胎龄；ASD 最晚（成年期才有症状）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q20421]] IDM-HCM（同为新生儿/婴儿不发绀心脏病；那题流出道梗阻 + 一过性自愈，本题分流 + 进行性恶化；共用"婴儿不发绀 + 收缩期杂音"分诊框架）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/儿科]]
+>   - [[完整笔记/Peixuan分科笔记/心内]]
+>   - [[完整笔记/Peixuan分科笔记/newborn care and screening]]
+>   - [[完整笔记/专题笔记/_衍生_新生儿先心病系统化总结]]（本次增量并入：Part 1.3 VSD 4 阶段时序 + 新增 Part 1.5 婴儿心衰 vs 成人心衰对照 + Part 4.1 VSD 行扩展反直觉规律 + Part 8 陷阱）
+> - 🏥 跨学科：无
+> - 🌱 TODO（待生成衍生）：
+>   - ✅ 新生儿先心病系统化总结**已建** v1.1（[[完整笔记/专题笔记/_衍生_新生儿先心病系统化总结]]）；本次错题增量已并入 v1.2
+>   - 等积累 3-5 道**左→右分流 CHD**错题（VSD / ASD / PDA + Eisenmenger）→ 整合 → 生成 [[完整笔记/专题笔记/_衍生_左向右分流CHD时序与Eisenmenger]]（重点：PVR 时序、发病窗口、手术时机、为何"先心病不一定生后发病"）
+>   - 等积累 3-5 道**婴儿心衰**错题（VSD / 大 PDA / CoA / 心肌病 / IDM-HCM）→ 整合 → 生成 [[完整笔记/专题笔记/_衍生_婴儿心衰识别（吃奶/出汗/肝大）]]（重点：婴儿心衰 vs 成人心衰对照、婴儿肝大的真实意义、容量超载 vs 泵衰竭）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q16280
+> - [ ] **默写 VSD 自然病程 4 阶段**（in utero / postnatal transition / infancy / late childhood）+ 每阶段 PVR 状态 + 临床
+> - [ ] **默写 VSD 心衰症状出现的解剖时序**（肺淤血 → 喂养困难 → 体循环淤血 → 严重双室衰）
+> - [ ] **默写婴儿心衰 vs 成人心衰对照表**（特别是"婴儿肝缘 1-2 cm 正常"这一条）
+> - [ ] **默写左→右分流 3 大 CHD 鉴别**（VSD / ASD / PDA 杂音 + S2 + 发病时机 + 治疗）
+> - [ ] **默写 VSD 杂音反直觉规律**（小 VSD 大声 / 大 VSD 小声 / Eisenmenger 后消失）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/儿科]] 加 #薄弱点（先心病时序 + 婴儿心衰识别）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加 #薄弱点（VSD 时序 / Eisenmenger）
+> - [ ] 记反射弧：**"1-2 月龄 + 喂养困难 + 出汗 + 不发绀 + LLSB holosystolic + thrill" → 大 VSD + 高输出量心衰**
+> - [ ] 记反射弧：**婴儿肝缘 ≤2 cm 正常；> 2 cm 早期淤血；> 4-5 cm 才考虑严重右心衰**
+> - [ ] 记反射弧：**任何先天性左→右分流 CHD 发病时机 → 跟 PVR 下降曲线走**（不是"出生立刻发病"）
+> - [ ] 找类似题：大 PDA（同左→右分流时序）、ASD（时序更晚）、Eisenmenger（晚期表现）、CoA 婴儿心衰
+>
+> ---
+>
+> 学科:: 儿科
+> 主题:: 新生儿先心病 / 杂音 + 时序鉴别
+> 状态:: 🔴
+> 错因:: 知识
+
+> [!example]- [2026-05-15] 心内 / Acute Pericarditis 首选治疗 (Q12374)
+> ^Q12374
+>
+> ## Stem 模式
+> Pleuritic 胸痛（吞咽/深呼吸加重）+ 病毒前驱（sore throat + myalgia 数日前）+ Friction rub（LSB, scratchy）+ 弥漫 PR depression → **Acute Viral/Idiopathic Pericarditis**
+>
+> ## 核心概念
+> Viral/Idiopathic pericarditis 一线 = **NSAID + Colchicine 联用**
+> - NSAID：抗炎止痛（治当下）
+> - Colchicine：抑制中性粒细胞 → 复发率减半（防未来）
+>
+> ## 普适规则 — 不同病因心包炎用药对照表 ⭐
+>
+> | 病因 | 首选 | 禁用/避免 | 理由 |
+> |---|---|---|---|
+> | Viral / Idiopathic | **NSAID + Colchicine** | 一线 steroid（↑复发） | 抗炎+防复发 |
+> | **Post-MI <1 周**（peri-infarction）| **Aspirin（高剂量）** | **NSAID / Steroid**（妨碍愈合，↑ rupture）| 心肌脆弱期 |
+> | Dressler（post-MI 2-10 周）| NSAID + Colchicine 或 ASA | — | 心肌已愈合 |
+> | **Uremic** | **透析**（治本）| NSAID（肾毒性）| 清除尿毒素 |
+> | Autoimmune (SLE/RA) | 治原发病 + NSAID ± steroid | — | 控免疫病 |
+> | Bacterial (purulent) | **引流 + IV 抗生素** | 单 NSAID | 化脓需引流 |
+> | TB | 抗结核 + steroid | — | 防 constrictive |
+>
+> ## Aspirin 剂量决定作用
+> - **81 mg（low-dose）= 抗血小板**（不抗炎，治不了 pericarditis）
+> - **650-1000 mg q6-8h（high-dose）= 抗炎**（pericarditis / 川崎 / 风湿热可用）
+>
+> ## 易混陷阱（普适）
+> 1. **抗凝在 pericarditis 中是禁忌**（致心包出血/tamponade）— vs ACS 必用抗凝 → 靠 pleuritic（pericarditis）vs pressure（ACS）鉴别
+> 2. **Low-dose ASA ≠ 抗炎**（剂量决定一切，看到 "low-dose aspirin" 治 pericarditis 直接排除）
+> 3. **Steroid 一线 = 错**（仅在 NSAID 禁忌/失败、或 TB/autoimmune 才用，单用 steroid ↑ 复发率）
+> 4. **Acetaminophen / Opioid ≠ 治疗**（无抗炎作用）
+> 5. **Post-MI 早期"反射性"用 NSAID = 大错**（必须切换为 high-dose ASA）
+>
+> ## 我为什么错
+> - 选 D（正确），但用药记忆模糊 — "蒙对"而非"掌握"
+> - 根本陷阱：不同病因 pericarditis 用药差异不熟；如换成 post-MI <1 周 / uremic / SLE 场景大概率翻车
+>
+> ## Memory Hook
+> - **NSAID = 灭火器**（灭当下炎症）
+> - **Colchicine = 防火门**（防复发）
+> - **Steroid = 拆迁队**（用力过猛，留隐患）
+> - **Aspirin = 特殊型号灭火器**（剂量足才抗炎）
+> - 口诀："**病毒心包炎 → 布洛芬 + 秋水仙**；**心梗 1 周内心包炎 → 只用阿司匹林**（其他 NSAID 让心脏裂）"
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q：心包炎首选治疗记不清？→ A：viral/idiopathic 默认 NSAID + colchicine；其他病因按对照表切换
+> - Q：不同机制心包炎用药如何区分？→ A：按"病因决定治疗"——viral 抗炎、post-MI 早期单 ASA、uremic 透析、bacterial 引流、TB 抗结核+steroid
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （首题，等后续 pericarditis / post-MI 并发症 / ACS 鉴别题积累）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/心内]]
+>   - [[完整笔记/专题笔记/_衍生_高频陷阱]]（剂量决定作用 / 反射性用药陷阱 — 本次新增"low-dose ASA ≠ 抗炎"+"Steroid 一线 ↑ 复发"两条普适陷阱）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（uremic pericarditis → 透析为首选，非 NSAID）
+>   - [[完整笔记/Peixuan分科笔记/感染]]（viral prodrome → coxsackie/adeno/echo/influenza/HIV）
+> - 🌱 TODO（待生成衍生）：
+>   - 等心内 post-MI 并发症章节复习完 → 请 Claude Code 整合 [pericarditis 不同病因用药 + post-MI 时间轴并发症] → 生成 [[完整笔记/专题笔记/_衍生_心包炎用药对照_按病因]]
+>   - 等积累 3+ 道 ACS vs pericarditis 鉴别题 → 生成 [[完整笔记/专题笔记/_衍生_胸痛鉴别速查]]（pleuritic vs pressure、抗凝禁忌区）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做：换 post-MI <1 周 / uremic / SLE 场景能否切换正确用药
+> - [ ] 默写"不同病因心包炎用药对照表"（凭记忆画）
+> - [ ] 默写 Aspirin 剂量-作用映射（low vs high）
+> - [ ] 找 3 道类似题：post-MI 早期、uremic、bacterial purulent
+>
+> ---
+>
+> 学科:: 心血管
+> 主题:: Acute Pericarditis 用药（按病因切换）
 > 状态:: 🟡
 > 错因:: 知识
