@@ -7280,3 +7280,72 @@
 > 主题:: Digoxin toxicity / 老年多药患者用药列表逐药扫描
 > 状态:: 🟡
 > 错因:: pattern
+
+> [!example]- [2026-05-16] 心内 / Symptomatic Bradycardia → Atropine 1st line (Q2141)
+> ^Q2141
+>
+> ## Stem 模式
+> HR 30 + syncope/lightheadedness/疲劳 + BP 82/44 + 嗜睡 + 末梢冷 + capillary refill 3s + ECG **sinus bradycardia**（结上）+ 无 BB/CCB 用药史 → "most appropriate next step?"
+>
+> ## 核心概念
+> 症状性 sinus bradycardia + 不稳定 → **Atropine 1 mg IV** 是 ACLS 1st line（结上水平有效）
+> 完整决策树 + 缓 vs 速反向用药逻辑见 [[完整笔记/专题笔记/_衍生_Vaughan_Williams抗心律失常药对照]] **Part 7.6 / 7.6.y / 7.6.z**（今日同步整合 v1.6）
+>
+> ## 普适规则（精简，详细去 Part 7.6）
+> - **1st line**: Atropine 1 mg IV (q3-5 min, max 3 mg)
+> - **2nd line**: TCP / TVP（同时可 dopamine 5-20 mcg/kg/min 或 epi 2-10 mcg/min）
+> - **结上有效，结下无效**（Mobitz II / 3° → 别等 atropine，直接起搏）
+> - **缓时禁 5 药**：β-blocker / non-DHP CCB / Digoxin / Adenosine / Amiodarone
+>
+> ## 易混陷阱 — D vs E 干扰项（Q2141 核心学习点）⭐
+>
+> | 选项 | 用于什么 | 为什么本题错 |
+> |---|---|---|
+> | A. Adenosine | SVT 终止折返 | **加重缓** + 用错心律 |
+> | B. Amiodarone | AF / VT / VF | 负性变时 → **加重缓** |
+> | **C. Atropine ✅** | 症状性窦缓 / 结上 AV 阻滞 | 1st line |
+> | **D. Glucagon** | **明确 BB / CCB 中毒**特异解毒 | Stem **无 BB/CCB 用药史** → 没指征；"看到缓 + 低 BP 就想 BB 中毒"是 trap |
+> | **E. Norepinephrine** | 脓毒症休克 / 严重低血压（升 α）| 本题低血压是**缓的果不是因**（HR↓→CO↓→BP↓）；NE 不增 HR + α 收缩加重外周缺血；**先 ↑HR，BP 自动回升** |
+>
+> ## Memory Hook
+> - **缓 vs 速反向**："治速的药 = 缓时全禁"（BB / CCB / Digoxin / Adenosine / Amiodarone）
+> - **缓 + 低 BP 反射弧**：先 atropine 升 HR，**不**先 NE 升 α
+> - **缓 + 低 BP + 有 BB/CCB 史** → Glucagon（特异）；**没 BB/CCB 史** → Atropine（一般）
+> - **结上 atropine，结下起搏**（Mobitz II / 3° 不要试 atropine）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点 1：缓 + 低血压时为什么不选 NE 升压？
+>   → 学到：缓时低血压是 HR↓→CO↓→BP↓ 的果，**先纠正 HR，BP 会自动回升**；NE 升 α 但不增 HR，且加重外周缺血
+> - 卡点 2：Glucagon 什么时候用？
+>   → 学到：**仅明确 BB / CCB 中毒**才用（机制：绕过 β 受体直接 ↑cAMP）；没用药史就别选
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q4456]] 老年间歇性 AV 阻滞（PR 长 + QRS 长 → EP study + PPM；结下水平 atropine 无效）
+>   - [[mistakes/uworld-mistakes#^Q4454]] Digoxin toxicity（缓 + GI + 神经三联，"治速的药"用错时致命）
+> - 📚 主笔记 + 已有衍生：
+>   - [[完整笔记/Peixuan分科笔记/心内]]（心律失常 / ACLS）
+>   - [[完整笔记/专题笔记/_衍生_Vaughan_Williams抗心律失常药对照]] **Part 7.6 + 7.6.y + 7.6.z**（今日同步整合 v1.6 — 缓 vs 速反向 / 5 大禁用药 / D vs E 陷阱）⭐
+>   - [[完整笔记/专题笔记/_衍生_晕厥鉴别决策树]]（症状性缓属心源性晕厥红旗）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/感染]]（Lyme carditis → AVB）
+>   - [[完整笔记/Peixuan分科笔记/neuro]]（Cushing 反射 = HTN + 缓 + 不规则呼吸）
+>   - [[完整笔记/Peixuan分科笔记/endocrine]]（甲减 → 缓）
+> - 🌱 TODO：
+>   - 等积累 ACLS 心动过速 + 不稳定 SVT/AF/VT 错题 → 整合 [[完整笔记/专题笔记/_衍生_ACLS用药决策树]]（缓 vs 速 用药逻辑对称）
+>
+> ## ✅ 复盘行动
+> - [ ] 默写"症状性缓 ACLS 流程"（atropine → TCP/TVP → dopamine/epi infusion）
+> - [ ] 默写"缓时禁用 5 大类"（BB / CCB / Digoxin / Adenosine / Amiodarone）
+> - [ ] 默写"D vs E 干扰项 — 没 BB 史不选 Glucagon；缓的低血压先升 HR 不升 α"
+> - [ ] 默写"结上 atropine，结下起搏"
+> - [ ] UWorld 搜：symptomatic bradycardia / AV block management / BB toxicity 各 2-3 题
+>
+> ---
+>
+> 学科:: 心血管
+> 主题:: Symptomatic bradycardia ACLS / Atropine 1st line / Glucagon-NE 干扰项
+> 状态:: 🟢
+> 错因:: 知识

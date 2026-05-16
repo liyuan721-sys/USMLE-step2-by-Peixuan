@@ -319,10 +319,50 @@ HFrEF + AFib + 用药列表含 Digoxin + 多系统亚急性症状
  同上 → TCP/TVP
 ```
 
+<!-- 📌 TODO: 嵌入 UWorld 原图 "Management of symptomatic bradycardia"（Q2141）
+     用户需先在 Obsidian 中粘贴该图，Obsidian Linter 会自动以 {GUID}.png 保存到 attachments；
+     拿到 GUID 后替换本注释为：![[{GUID}.png]]
+     图内容：Pulse <50 + symptoms → 评估稳定性 → 不稳定 → Atropine 1 mg IV (q3-5 min, max 3 mg)
+            → 持续不稳定 → TCP / TVP（同时可试 dopamine 5-20 mcg/kg/min 或 epi 2-10 mcg/min）
+            → 查潜在病因（sinus node dysfunction / acute MI / medication toxicity） -->
+
+
 > [!warning] Atropine 起效部位（核心机制）
 > Atropine 抗 M2 → 解除迷走 → ↑cAMP → SAN 起搏↑ + AVN 传导↑
 > - **结上有效**（迷走 / 药物 / 下壁 MI 致 AV 结缺血）
 > - **结下无效**（His-Purkinje 不受迷走支配）→ Mobitz II 不要等 atropine 起效
+
+### 7.6.y 心动过缓时禁用 5 大类 ⭐⭐（来源 Q2141）
+
+> [!danger] 缓 vs 速 用药逻辑**完全相反**
+> - **缓** → 正性变时（**Atropine / Epi / Dopamine / 起搏**）
+> - **速** → 负性变时（β-blocker / CCB / Adenosine / Amiodarone / Digoxin）
+> - 选错 = 致命加重
+
+```
+🚫 心动过缓时禁用 — 5 大类负性变时药
+─────────────────────────────────
+1. β-blocker（任何）
+2. Non-DHP CCB（verapamil / diltiazem）
+3. Digoxin
+4. Adenosine
+5. Amiodarone
+
+记忆：所有"治速"的药 = 缓时全禁
+```
+
+### 7.6.z 缓时升压用药选择 — D vs E 干扰项陷阱 ⭐（Q2141 经典）
+
+> [!warning] 看到"低血压 + 缓"不要立刻选 NE / Glucagon
+> 缓时低血压的**因果链**：**HR↓ → CO↓ → BP↓**。所以**先↑HR，BP 自动回升**，不是直接升压。
+>
+> | 干扰项 | 用于什么 | 在 Q2141 为什么错 |
+> |---|---|---|
+> | **Norepinephrine** | 脓毒症休克 / 严重低血压（升 α）| 不增 HR；α 收缩可加重外周缺血；本题低血压是缓的果，不是因 |
+> | **Glucagon** | **明确 BB / CCB 中毒**特异解毒（绕过 β 受体 ↑cAMP）| 本题**无 BB/CCB 用药史** → 没指征 |
+> | **Atropine ✅** | 症状性窦缓 / 结上 AV 阻滞 | 1st line（ACLS）|
+>
+> **反射弧**："低血压 + 缓 + **没 BB/CCB 史**" → Atropine **不是** Glucagon / NE
 
 #### "下壁 MI vs 前壁 MI"对 AV Block 的区别
 
@@ -823,6 +863,7 @@ HFrEF + AFib + 用药列表含 Digoxin + 多系统亚急性症状
   - [[mistakes/uworld-mistakes#^STQ20260516-16]] CAST 临床应用反向（远期 MI 干扰项）→ Part 12.11
   - [[mistakes/uworld-mistakes#^Q3069]] WPW + Preexcited AF → Procainamide（Class I 三亚类适应症陷阱 + ABCD-V 禁忌 + Digoxin 双重雷）
   - [[mistakes/uworld-mistakes#^Q4454]] Digoxin Toxicity（综合征三联 + DIG-SICK + first step = dig level not echo + DigiFab）→ 触发 Part 6.1
+  - [[mistakes/uworld-mistakes#^Q2141]] Symptomatic Bradycardia → Atropine 1st line（缓 vs 速反向 + 5 大禁用药 + D Glucagon / E NE 干扰项）→ 触发 Part 7.6.y + 7.6.z
   - 等后续 Brugada / CPVT / 获得性 QT / TdP / 更多 WPW / SVT 错题积累
 - 📚 **主笔记**：
   - [[完整笔记/Peixuan分科笔记/心内]]（电生理 + 心律失常）
@@ -855,7 +896,13 @@ HFrEF + AFib + 用药列表含 Digoxin + 多系统亚急性症状
   - Day 4：题练 + Part 14 陷阱
   - Day 5：默写 + Part 12 Memory Hook
 
-**Last updated**: 2026-05-16 v1.5 — Q4454 增量（Digoxin Toxicity 综合管理）：
+**Last updated**: 2026-05-16 v1.6 — Q2141 增量（缓 vs 速反向 + Glucagon/NE 干扰项）：
+- **Part 7.6** 嵌入位置预留 UW 原图 "Management of symptomatic bradycardia"（TODO 注释，等用户保存图后填 GUID）
+- **Part 7.6.y** 新增 **心动过缓时禁用 5 大类**（β-blocker / non-DHP CCB / Digoxin / Adenosine / Amiodarone）+ "缓 vs 速 用药逻辑完全相反"原则 callout
+- **Part 7.6.z** 新增 **缓时升压用药 D vs E 干扰项陷阱**（Glucagon 仅 BB/CCB 中毒；NE 不增 HR + 缓的低血压先升 HR 不升 α；反射弧"低血压+缓+没BB/CCB史→Atropine不是Glucagon/NE"）
+- **关联**反链 Q2141
+
+**v1.5**（2026-05-16）— Q4454 增量（Digoxin Toxicity 综合管理）：
 - **Part 6.1** 新增 **Digoxin Toxicity 综合管理** — 综合征三联（GI + 神经 + 缓慢心律）+ DIG-SICK 助记 + 5 大中毒扳机（老年/AKI/furosemide/药物互作/CKD 未调剂量）+ Workup SOP（first step = dig level + K⁺ + Cr，**不是** Echo）+ 3 档解毒分级（停药 → Atropine+Lidocaine → DigiFab）+ Dig 中毒高钾禁 Ca²⁺ / Class IA-IC 特殊禁忌 + HF 急加重 vs Dig 毒性鉴别 5 维表
 - **关联**反链 Q4454 错题卡
 - 与 [[草稿/2026-05-16_老年多药患者诊断思维_v1]] 互补分工：Vaughan Williams 6.1 = 药物本身深度；老年多药 = "用药列表逐药扫描"方法论
