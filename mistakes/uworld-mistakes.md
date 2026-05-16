@@ -5618,7 +5618,7 @@
 > ## 核心概念
 > Bradyarrhythmia ≠ 当下心率慢 → **bradyarrhythmia = 心率有"间歇性变慢/停搏"的潜在风险**
 > ECG 当下"正常" **不能排除**间歇性 AV 阻滞。看**传导间期（PR、QRS）+ 病史（反复晕厥）**，不是看当下数字。
->![[{9F5BB061-E782-4E9F-AA9E-A54C94E7644D}.png]]
+>
 > ## 机制图 — 为什么"心率 64"也可以是 bradyarrhythmia
 > ```
 > 正常传导系统                       本患者的传导系统
@@ -5655,6 +5655,9 @@
 > | **Sick sinus syndrome** | 前驱**疲劳 / 头晕** | **Sinus pauses** |
 > | **Advanced AV block** | 反复**无诱因**晕厥 | **PR 延长 / Bifascicular block / Dropped QRS** |
 > | **Torsades de pointes** | 无前驱 + **延长 QT 药物 / 低 K⁺/Mg²⁺** | QTc 延长 |
+>
+> > [!info] UWorld 原图（5 大病因 × clues 对照）
+> > ![[{9F5BB061-E782-4E9F-AA9E-A54C94E7644D}.png]]
 >
 > ## 普适规则 — Syncope 4 大类鉴别（病史导向）
 >
