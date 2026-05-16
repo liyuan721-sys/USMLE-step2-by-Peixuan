@@ -6807,3 +6807,85 @@
 > 主题:: CAST 试验临床应用反向 (Class IC 禁忌)
 > 状态:: 🔴
 > 错因:: 知识
+
+> [!example]- [2026-05-16] 心内 / 酒精性心肌病 AIC (Q2692)
+> ^Q2692
+>
+> **Stem 模式**
+> 慢性进展性 dyspnea + 长期大量饮酒 ≥5 yr + HFrEF (EF↓, LV dilated) + 冠脉造影干净 + MCV↑ + AST/ALT>2:1 + 三系轻度受累
+>
+> **核心概念**
+> AIC = 乙醇/乙醛直接毒性 → 收缩力↓ → eccentric hypertrophy → LV cavity dilation。属于**病因可去除的 DCM** → **完全戒酒**是唯一能逆转 LV 功能的治疗，效果远超任何 HFrEF 标准药物。
+>
+> **普适规则 — 心衰题答题三步法**
+> 1. **形态**：echo/CXR → HFrEF(DCM) vs HFpEF(HCM/RCM)
+> 2. **病因**：扫 social hx + family hx + labs + 影像 → 有无可去除毒物 / 可治原发病
+> 3. **治疗匹配**：
+>    - 病因可去除 → **优先病因治疗**（戒酒 / 控速 / 停药 / 血运重建）
+>    - 病因不可去除 → 标准 HFrEF（ACEi/ARNI + BB + MRA + SGLT2i + 利尿剂）
+>
+> **可逆性 DCM 病因对照（必背）**
+>
+> | 病因 | Stem 线索 | 最佳治疗 | 可逆性 |
+> |---|---|---|---|
+> | Alcohol | >80g/d × >5yr, AST/ALT>2:1, MCV↑ | 完全戒酒 | 高 |
+> | Tachycardia-induced | 长期 AF/SVT, HR>100 | 控速 | 高 |
+> | Peripartum (PPCM) | 产前 1m ~ 产后 5m | HFrEF 标准药 + 后续避孕 | 中-高 |
+> | Doxorubicin | 累积>400 mg/m² | 停药 + HFrEF | 部分 |
+> | Viral myocarditis | 病毒前驱症 + troponin↑ | 支持治疗 | 部分自发 |
+> | Ischemic CMP | CAD 危险因素 / 既往 MI | 血运重建 + ACEi/BB | 部分 |
+> | Idiopathic/Familial | 家族史 | 标准 HFrEF | 低 |
+>
+> **慢性酒精三大实验室指纹（一眼锁定）**
+> - MCV >100（无 B12/叶酸缺乏的大细胞）
+> - AST/ALT >2:1（"AST is higher"）
+> - 三系轻度受累（贫血 + 血小板↓ ± WBC↓）
+>
+> **易混陷阱（普适）**
+> - 问 "reverse LV dysfunction" → 选**病因治疗**，不选 HFrEF 标准药
+> - 问 "manage HFrEF" → 才选 ACEi/ARNI+BB+MRA+SGLT2i
+> - 看到 HFrEF 不要条件反射 ACEi —— 先问"病因能不能拿掉"
+> - 长 pack-year 吸烟史是红鲱鱼，冠脉干净就排除 ischemic
+> - 酒精性肝炎用激素 ≠ AIC 用激素（AIC 激素**无效**）
+>
+> **我为什么错**
+> 选 C (ACEi)。看到 EF 25% 条件反射 "HFrEF → ACEi"，忽略了：
+> ① 长期饮酒史藏在 social hx 一句话里没当回事
+> ② 没扫 MCV 和 AST/ALT 比值（3 条酒精指纹全漏）
+> ③ 没注意问题措辞 "**reverse** LV dysfunction" → 暗示病因可去除
+> **根本错因**：形态诊断做对（DCM），病因诊断漏掉（酒精），所以治疗选错。
+>
+> **Memory Hook**
+> "心肌是被酒泡了 15 年的海绵 —— ACEi 是用力拧，戒酒才是把海绵拿出来晾干。拧得再用力，不拿出来都没用。"
+>
+> **🤔 我的提问 / 卡点**
+> - 卡点：看出来扩心病，没想到病因是酒精
+>   → 学到：DCM 题必须**形态 + 病因**双确诊，否则治疗必错
+> - 隐性卡点：没扫 CBC/LFT
+>   → 学到：USMLE 给完整 labs 不是装饰，**MCV + AST/ALT 比值**是必扫项
+>
+> **🔗 关联**
+> - 🔁 同主题错题：（首题，等心衰病因学错题积累）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/心内]]
+>   - [[完整笔记/专题笔记/_衍生_实验室指纹诊断大全]]（Part 5.5 慢性酒精性多系统指纹 — 本卡触发新建）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/消化腺]]（AST/ALT>2:1 + MCV↑ 同源指纹）
+>   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（酒精性 macrocytosis 鉴别）
+> - 🌱 TODO（待生成衍生）：
+>   - 心内章节复习完 → 整合 AIC + PPCM + Tachy-induced + Doxo + Ischemic CMP → [[完整笔记/专题笔记/_衍生_DCM病因学与可逆性对照]]
+>   - 已建指纹大全 Part 5.5（慢性酒精性多系统指纹）；继续积累 2-3 道酒精多系统题后 → 拆 [[完整笔记/专题笔记/_衍生_慢性酒精中毒实验室指纹]]（MCV/AST-ALT/三系/B1B6 完整版）
+>
+> **✅ 复盘行动**
+> - [ ] 1 周后重做 Q2692（重点：能否一眼锁定 alcohol clue + MCV/LFT）
+> - [ ] 默写心衰题三步法 + 可逆性 DCM 对照表
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加 #薄弱点（心衰病因学）
+> - [ ] UWorld 搜 alcoholic / peripartum / tachycardia-induced CMP 各 2 题
+> - [ ] 强制习惯：见完整 CBC+LFT 必扫 MCV 和 AST/ALT
+>
+> ---
+>
+> 学科:: 心血管
+> 主题:: 酒精性心肌病 (AIC) / DCM 病因学
+> 状态:: 🟡
+> 错因:: pattern
