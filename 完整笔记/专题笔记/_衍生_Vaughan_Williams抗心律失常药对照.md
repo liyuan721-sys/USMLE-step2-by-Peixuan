@@ -184,6 +184,74 @@ Phase 0 →     ↘
 | **Digoxin** | Na/K-ATPase 抑制 | HFrEF + AFib 控率（罕用）| 治疗指数窄 + 低 K 增毒 + 黄绿视 |
 | **Ivabradine** | If 通道（窦房结）| HFrEF 窦速 / 不耐 β-blocker | 不影响传导 / 收缩力 |
 
+### 6.1 Digoxin Toxicity 综合管理 ⭐⭐（来源 Q4454）
+
+> [!danger] 中毒综合征三联（必识别）
+> **GI**（恶心 / 食欲↓ / 呕吐）+ **神经**（confusion / **黄绿视** / 乏力）+ **缓慢心律**（AV block / 室早 / 缓慢 AFib）
+>
+> 任何老年 HFrEF+AFib 患者出现三联中 ≥2 项 + 用药列表里有 Digoxin → **先查 dig level，不要先查 Echo**。
+
+**DIG-SICK 助记**：
+- **D**igestive（N/V、食欲↓）
+- **I**rregular bradycardia（缓慢心律 / AV block / 室早 / **缓慢 AFib 室率** ⭐）
+- **G**reen/Yellow vision（黄视/绿视）⭐ 高度特异但易漏问
+- **S**enior（老年 = 先验概率↑）
+- **I**ncreased by diuretics（**furosemide → 低钾 → 增毒**）
+- **C**onfusion（神经症状）
+- **K**⁺ low（低钾放大 Na/K-ATPase 抑制效应）
+
+**中毒"扳机"**（USMLE stem 常见诱因）：
+- 老年（基线 GFR↓ → 半衰期延长）
+- **AKI / 脱水**（剂量未减 → 浓度飙升）
+- **新加 furosemide / HCTZ**（→ 低钾 / 低镁 → 增毒）
+- **新加 amiodarone / verapamil / quinidine / propafenone**（药物互作 → dig 浓度↑↑）
+- **CKD 未按 GFR 调剂量**
+
+**Workup SOP**：
+
+```
+HFrEF + AFib + 用药列表含 Digoxin + 多系统亚急性症状
+        ↓
+第一步：血 Digoxin level + K⁺ + Mg²⁺ + Cr
+        ↓
+不是：Echo / CXR / stress test / BNP / TFT
+        ↓
+（注意：dig level 在"正常范围"≠ 排除中毒；
+ 临床三联 + 低钾 + ECG 共同判断；
+ 浓度依赖性表现：浓度越高 + 钾越低 → 心律越严重）
+```
+
+**解毒 / 处理**：
+
+| 严重度 | 处理 |
+|---|---|
+| **轻症**（仅 GI / 偶发早搏） | 停 dig + 纠正 K⁺/Mg²⁺ + 观察浓度下降 |
+| **中度**（持续 AV block / 症状性缓慢） | 停 dig + **Atropine**（症状性心动过缓）+ **Lidocaine**（控室性心律，不加重 AV block） |
+| **重症** ⭐ | **DigiFab**（digoxin-specific Fab fragments）IV — 适应症：致命心律 / **K⁺ >5.5** / hemodynamic compromise / 大量摄入 / 浓度极高 |
+
+> [!danger] Digoxin 中毒 + 高钾时的特殊禁忌
+> ❌ **禁 IV Ca²⁺ 稳膜**（虽然普通高钾 protocol 用 Ca²⁺）— Dig 中毒时 Ca²⁺ 加重心律失常（"stone heart" 现象）
+> ❌ **禁 Class IA / IC 抗心律失常药**（Procainamide / Flecainide → 加重 AV 阻滞）
+> ✅ 高钾处理：胰岛素+葡萄糖 / β2-agonist / 透析 — 但**最快有效**的还是 **DigiFab**（结合 dig → K⁺ 自动回降）
+
+**HF 急性加重 vs Digoxin 毒性鉴别 ⭐**：
+
+| 维度 | HF 急加重 | Digoxin 毒性 |
+|---|---|---|
+| 起病 | 数小时-1 天，戏剧化 | 数日-数周，渗透式 |
+| 症状方向 | 单系统（肺水肿 / JVD↑ / 水肿↑ / SpO₂↓） | **多系统**（GI + 神经 + 心律） |
+| 触发 | 不依从 / 感染 / 缺血 | 脱水 / AKI / 新加药 / 低钾 |
+| 心率 | 多偏快（代偿） | **偏慢**（AV block / 缓慢 AFib） |
+| 第一步 | BNP / CXR / Echo / ECG | **Dig level + K⁺ + Cr** |
+
+> [!tip] 一句话锁定
+> **"老年 HFrEF + AFib + Digoxin 在用药列表 + 任何新发亚急性症状 → 先查 [dig level + K⁺ + Cr]，不是 echo"**
+
+**交叉引用**：
+- **机制**：Part 6 表（Na/K-ATPase 抑制 → 细胞内 Ca²⁺↑ → 正性变力 + 增强迷走 + 缩短心房不应期）
+- **WPW 双重雷**：Part 8.6（额外缩短旁路不应期 → Preexcited AF 中最不能给）
+- **老年多药患者整体方法论**：[[草稿/2026-05-16_老年多药患者诊断思维_v1]]（"用药列表逐药扫描"思维 + 5 大疾病组合标准用药套餐 + 8 类副作用速查）
+
 ---
 
 ## Part 7. 5 急救场景 ⭐⭐⭐
@@ -754,6 +822,7 @@ Phase 0 →     ↘
   - [[mistakes/uworld-mistakes#^STQ20260516-15]] Vaughan Williams 4 大类 ECG 双向锁死（反向题）→ Part 12.10
   - [[mistakes/uworld-mistakes#^STQ20260516-16]] CAST 临床应用反向（远期 MI 干扰项）→ Part 12.11
   - [[mistakes/uworld-mistakes#^Q3069]] WPW + Preexcited AF → Procainamide（Class I 三亚类适应症陷阱 + ABCD-V 禁忌 + Digoxin 双重雷）
+  - [[mistakes/uworld-mistakes#^Q4454]] Digoxin Toxicity（综合征三联 + DIG-SICK + first step = dig level not echo + DigiFab）→ 触发 Part 6.1
   - 等后续 Brugada / CPVT / 获得性 QT / TdP / 更多 WPW / SVT 错题积累
 - 📚 **主笔记**：
   - [[完整笔记/Peixuan分科笔记/心内]]（电生理 + 心律失常）
@@ -786,7 +855,12 @@ Phase 0 →     ↘
   - Day 4：题练 + Part 14 陷阱
   - Day 5：默写 + Part 12 Memory Hook
 
-**Last updated**: 2026-05-16 v1.4 — STQ20260516-15/16 增量（4 大类 ECG 双向锁死 + CAST 反向决策树）：
+**Last updated**: 2026-05-16 v1.5 — Q4454 增量（Digoxin Toxicity 综合管理）：
+- **Part 6.1** 新增 **Digoxin Toxicity 综合管理** — 综合征三联（GI + 神经 + 缓慢心律）+ DIG-SICK 助记 + 5 大中毒扳机（老年/AKI/furosemide/药物互作/CKD 未调剂量）+ Workup SOP（first step = dig level + K⁺ + Cr，**不是** Echo）+ 3 档解毒分级（停药 → Atropine+Lidocaine → DigiFab）+ Dig 中毒高钾禁 Ca²⁺ / Class IA-IC 特殊禁忌 + HF 急加重 vs Dig 毒性鉴别 5 维表
+- **关联**反链 Q4454 错题卡
+- 与 [[草稿/2026-05-16_老年多药患者诊断思维_v1]] 互补分工：Vaughan Williams 6.1 = 药物本身深度；老年多药 = "用药列表逐药扫描"方法论
+
+**v1.4**（2026-05-16）— STQ20260516-15/16 增量（4 大类 ECG 双向锁死 + CAST 反向决策树）：
 - Part 12.10 新增 **4 大类 ECG 双向锁死表**（独家 / 最强 / 双胞胎三档分组 + 双胞胎区分要点）
 - Part 12.11 新增 **CAST 临床应用反向决策树**（"远期 MI 干扰项"识别 + 反向题 SOP）
 - 反链 5/16 两张自测错题 → Class IB 强化追踪从单药扩展到全表
