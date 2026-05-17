@@ -24,23 +24,23 @@ parent_topic: 先天性心脏病 - 病种详解
 
 ## 总目录
 
-| § | 病 | 类别 | 关键体征 | 综合征 |
-|---|---|---|---|---|
-| 1 | [[#§1. TGA（D-Transposition of Great Arteries）⭐⭐\|**TGA** (D-Transposition)]] | 紫绀 / 混合 | Egg on string + single S2 | **糖妈** |
-| 2 | [[#§2. TOF（Tetralogy of Fallot）⭐⭐\|**TOF**]] | 紫绀 / 肺血少 | Tet spells + Boot heart | DiGeorge 15-20% |
-| 3 | [[#§3. Truncus Arteriosus（共同动脉干）⭐⭐\|**Truncus arteriosus**]] | 紫绀 + 心衰 | 单一 S2 + 洪脉 + 脉压宽 | **DiGeorge ~50%** |
-| 4 | [[#§4. Tricuspid Atresia（三尖瓣闭锁）\|**Tricuspid atresia**]] | 紫绀 / 肺血少 | 左心轴偏（罕见在新生儿）⭐ | — |
-| 5 | [[#§5. TAPVR（Total Anomalous Pulmonary Venous Return）\|**TAPVR**]] | 紫绀 / 肺血多 | Snowman + fixed split S2 | — |
-| 6 | [[#§6. HLHS（Hypoplastic Left Heart Syndrome）⭐\|**HLHS**]] | 体循环休克 | 全身灰白 + 4 肢弱脉 | — |
-| 7 | [[#§7. IAA（Interrupted Aortic Arch）⭐⭐\|**IAA**]] | 差异性紫绀 | 下肢脉消 + 上下肢 BP 悬殊 | **DiGeorge 50-90%** ⭐⭐ |
-| 8 | [[#§8. Coarctation of the Aorta（主动脉缩窄）⭐\|**Coarctation**]] | 上下肢 BP 差 | 上肢高 BP / 股动脉弱 | **Turner** |
-| 9 | [[#§9. Critical AS（Critical Aortic Stenosis）\|**Critical AS**]] | 体循环灌注差 | LV 流出受阻 / 4 肢弱脉 | — |
-| 10 | [[#§10. Pulmonary Atresia / Critical PS\|**Pulm atresia / Critical PS**]] | 紫绀 / PDA 依赖 | RVOT 梗阻 / 单一 S2 | 部分 DiGeorge |
-| 11 | [[#§11. VSD（Ventricular Septal Defect）⭐\|**VSD**]] | 左→右 | Holosystolic LLSB | Down / Trisomy 13/18 |
-| 12 | [[#§12. ASD（Atrial Septal Defect）\|**ASD**]] | 左→右 | **Fixed split S2** + LUSB 喷射音 | **Holt-Oram**（拇指）|
-| 13 | [[#§13. PDA（Patent Ductus Arteriosus）\|**PDA**]] | 左→右 | **连续机器样**杂音 | **先天 Rubella** |
-| 14 | [[#§14. AV Canal Defect / CAVSD（Atrioventricular Canal Defect）⭐\|**AV Canal Defect (CAVSD)**]] | 大 ASD + 大 VSD | 早期严重 CHF | **Down** ⭐ |
-| 15 | [[#§15. IDM-HCM（Hypertrophic Cardiomyopathy of Infant of Diabetic Mother）\|**IDM-HCM**]] | 功能性 LVH | 糖妈儿，1 岁内自愈 | 糖尿病母亲 |
+| §   | 病                                                                                              | 类别            | 关键体征                          | 综合征                    |
+| --- | ---------------------------------------------------------------------------------------------- | ------------- | ----------------------------- | ---------------------- |
+| 1   | [[#§1. TGA（D-Transposition of Great Arteries）⭐⭐\|**TGA** (D-Transposition)]]                   | 紫绀 / 混合       | Egg on string + single S2     | **糖妈**                 |
+| 2   | [[#§2. TOF（Tetralogy of Fallot）⭐⭐\|**TOF**]]                                                   | 紫绀 / 肺血少      | Tet spells + Boot heart       | DiGeorge 15-20%        |
+| 3   | [[#§3. Truncus Arteriosus（共同动脉干）⭐⭐\|**Truncus arteriosus**]]                                   | 紫绀 + 心衰       | 单一 S2 + 洪脉 + 脉压宽              | **DiGeorge ~50%**      |
+| 4   | [[#§4. Tricuspid Atresia（三尖瓣闭锁）\|**Tricuspid atresia**]]                                       | 紫绀 / 肺血少      | 左心轴偏（罕见在新生儿）⭐                 | —                      |
+| 5   | [[#§5. TAPVR（Total Anomalous Pulmonary Venous Return）\|**TAPVR**]]                             | 紫绀 / 肺血多      | Snowman + fixed split S2      | —                      |
+| 6   | [[#§6. HLHS（Hypoplastic Left Heart Syndrome）⭐\|**HLHS**]]                                      | 体循环休克         | 全身灰白 + 4 肢弱脉                  | —                      |
+| 7   | [[#§7. IAA（Interrupted Aortic Arch）⭐⭐\|**IAA**]]                                               | 差异性紫绀         | 下肢脉消 + 上下肢 BP 悬殊              | **DiGeorge 50-90%** ⭐⭐ |
+| 8   | [[#§8. Coarctation of the Aorta（主动脉缩窄）⭐\|**Coarctation**]]                                     | 上下肢 BP 差      | 上肢高 BP / 股动脉弱                 | **Turner**             |
+| 9   | [[#§9. Critical AS（Critical Aortic Stenosis）\|**Critical AS**]]                                | 体循环灌注差        | LV 流出受阻 / 4 肢弱脉               | —                      |
+| 10  | [[#§10. Pulmonary Atresia / Critical PS\|**Pulm atresia / Critical PS**]]                      | 紫绀 / PDA 依赖   | RVOT 梗阻 / 单一 S2               | 部分 DiGeorge            |
+| 11  | [[#§11. VSD（Ventricular Septal Defect）⭐\|**VSD**]]                                             | 左→右           | Holosystolic LLSB             | Down / Trisomy 13/18   |
+| 12  | [[#§12. ASD（Atrial Septal Defect）\|**ASD**]]                                                   | 左→右           | **Fixed split S2** + LUSB 喷射音 | **Holt-Oram**（拇指）      |
+| 13  | [[#§13. PDA（Patent Ductus Arteriosus）\|**PDA**]]                                               | 左→右           | **连续机器样**杂音                   | **先天 Rubella**         |
+| 14  | [[#§14. AV Canal Defect / CAVSD（Atrioventricular Canal Defect）⭐\|**AV Canal Defect (CAVSD)**]] | 大 ASD + 大 VSD | 早期严重 CHF                      | **Down** ⭐             |
+| 15  | [[#§15. IDM-HCM（Hypertrophic Cardiomyopathy of Infant of Diabetic Mother）\|**IDM-HCM**]]       | 功能性 LVH       | 糖妈儿，1 岁内自愈                    | 糖尿病母亲                  |
 
 ---
 
@@ -147,7 +147,7 @@ parent_topic: 先天性心脏病 - 病种详解
 
 ### 病理
 - 体循环 + 肺循环血 在共干水平混合
-- PVR 下降后 → 肺血流↑↑ → **早期严重心衰**
+- PVR 下降后 → 肺血流↑↑ → <font color="#ff0000">**早期严重心衰**</font>
 - 紫绀**轻**（充分混合）但心衰**重**
 
 ### 临床
@@ -157,7 +157,7 @@ parent_topic: 先天性心脏病 - 病种详解
 - 心尖收缩期杂音 + 舒张早期 click
 
 ### CXR
-- 心增大 + 肺血流↑
+- <font color="#ff0000">心增大 + 肺血流↑</font>
 
 ### 诊断
 - Echo

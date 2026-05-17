@@ -112,7 +112,7 @@ ACC/AHA 指南规定：以下 4 类患者**不算 risk，直接上 statin**。
 > - 用 **TC 和 HDL**，**不直接用 LDL**
 > - 适用范围：**40-75 岁**（<40 / >75 不准）
 > - Black / non-black 公式不同
-> - LDL 不在公式 ≠ 不重要：**LDL 决定治疗强度，TC/HDL 决定风险**
+> - LDL 不在公式 ≠ 不重要：**LDL 决定治疗强度，TC/HDL 决定风险** #难记
 
 ---
 
@@ -205,19 +205,20 @@ CAC = 0    CAC 1-99    CAC ≥100 或 ≥75th %ile
 ---
 
 ## 九、降脂药全景（核心）
+#难记
 
-| 药物 | 机制 | LDL ↓ | TG ↓ | 主要适应证 | ASCVD 事件 ↓？ |
-|---|---|---|---|---|---|
-| **Statin** | HMG-CoA 还原酶抑制 | +++ | + | 一线，所有 ASCVD / 高风险 | ✅ 一线证据 |
-| **Ezetimibe** | 抑制肠 NPC1L1 | + | - | Statin add-on / 替代 | ✅ 弱于 statin |
-| **PCSK9i** | 抑制 LDL-R 降解 | +++ | - | Statin 不耐受 / 不达标 / FH | ✅ |
-| **Bempedoic acid** | ATP-citrate lyase | + | - | Statin 完全不耐受替代 | ✅（新药） |
-| **Inclisiran** | siRNA → PCSK9 | +++ | - | PCSK9 抗体替代（q6mo） | ✅ |
-| **Fibrate**（fenofibrate） | PPAR-α | - | +++ | **TG ≥500** 防胰腺炎 | ❌（TG 正常时） |
-| **Fish oil**（普通）| Omega-3 | - | ++ | TG ≥500 辅助 | 不一致 |
-| **Icosapent ethyl** | 高纯 EPA | - | ++ | Statin + TG 150-499 + ASCVD/DM | ✅（REDUCE-IT） |
-| **Bile acid sequestrant** | 胆汁酸结合 | + | ↑（反升）| 不常用 | 限定 |
-| **Niacin** | ↓ VLDL 合成 | + | + | 几乎淘汰 | ❌ |
+| 药物                        | 机制                | LDL ↓ | TG ↓  | 主要适应证                          | ASCVD 事件 ↓？  |
+| ------------------------- | ----------------- | ----- | ----- | ------------------------------ | ------------ |
+| **Statin**                | HMG-CoA 还原酶抑制     | +++   | +     | 一线，所有 ASCVD / 高风险              | ✅ 一线证据       |
+| **Ezetimibe**             | 抑制肠 NPC1L1        | +     | -     | Statin add-on / 替代             | ✅ 弱于 statin  |
+| **PCSK9i**                | 抑制 LDL-R 降解       | +++   | -     | Statin 不耐受 / 不达标 / FH          | ✅            |
+| **Bempedoic acid**        | ATP-citrate lyase | +     | -     | Statin 完全不耐受替代                 | ✅（新药）        |
+| **Inclisiran**            | siRNA → PCSK9     | +++   | -     | PCSK9 抗体替代（q6mo）               | ✅            |
+| **Fibrate**（fenofibrate）  | PPAR-α            | -     | +++   | **TG ≥500** 防胰腺炎               | ❌（TG 正常时）    |
+| **Fish oil**（普通）          | Omega-3           | -     | ++    | TG ≥500 辅助                     | 不一致          |
+| **Icosapent ethyl**       | 高纯 EPA            | -     | ++    | Statin + TG 150-499 + ASCVD/DM | ✅（REDUCE-IT） |
+| **Bile acid sequestrant** | 胆汁酸结合             | +     | ↑（反升） | 不常用                            | 限定           |
+| **Niacin**                | ↓ VLDL 合成         | +     | +     | 几乎淘汰                           | ❌            |
 
 > [!warning] Icosapent ethyl ≠ 普通鱼油
 > 高纯 EPA 制剂，REDUCE-IT 试验显示在 statin 基础上 + TG 150-499 + ASCVD/DM 患者可进一步降低 ASCVD 事件。是**唯一**有 ASCVD 事件证据的 omega-3 制剂。
