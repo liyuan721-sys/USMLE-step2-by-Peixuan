@@ -300,6 +300,24 @@ QRS 节律 (规律, 室率 35):    QRS  ─  QRS  ─  QRS
 > 如果患者 AV block 在阿托品后**改善** → 阻滞在 AV 结 (近端)
 > 如果阿托品**无效甚至恶化** → 阻滞在 His 下 (远端) → 危险
 
+> [!danger] Atropine 在 3° AV block / Mobitz II 的反致 asystole 机制 ⭐⭐⭐
+> **3° AV block / Mobitz II 大多位于 His-Purkinje 远端（infranodal）— 没有迷走支配**，atropine 无作用。
+> 
+> **反致命机制**：
+> 1. Atropine → 窦房结率↑（更多 P 波） — 但 AV 通道仍堵
+> 2. P 与 QRS 越发分离
+> 3. 部分病人**逸搏被抑制**（窦性脉冲 retrograde 抑制 His-Purkinje pacemaker）
+> 4. → **心率反而更慢 / asystole**
+> 
+> **结论**：3° AV block / Mobitz II 看到就**跳过 atropine，直接 transcutaneous pacing**。
+> 
+> **ACLS 2020 原文**："Atropine is **unlikely to be effective** for 2nd-degree type II or 3rd-degree AV block. **Transcutaneous pacing is the preferred initial treatment**."
+> 
+> **例外**：3° AV block + 窄 QRS 逸搏（提示 AV 结水平阻滞，如 inferior MI 后）→ atropine **可能**短暂有效作为桥接，但仍不应延误起搏。
+
+> [!tip] Atropine 适用边界一句话
+> **"Atropine 治结上，pacing 治结下"** — Atropine for supra-Hisian（AV 结及以上）；Pacing for infra-Hisian / high-grade block。
+
 ---
 
 ## 7. 处理总决策树
@@ -379,6 +397,8 @@ AV Block 患者
 6. **完全 AV block + 窄 QRS → AV 结/junction，不是浦肯野**
 7. **先天性 3° AV block**：要追问母亲 SLE/Sjögren 病史 / 抗 SSA/Ro
 8. **1° AV block 在儿童 + 链球菌后**：想 **风湿热**（Jones 主要标准）
+9. **3° AV block + atropine 是经典 distractor** ⭐：infranodal block 用 atropine **可能反致 asystole**，UWorld 高频陷阱选项。看到 3° AV block 不稳定 → **直接 transcutaneous pacing**，跳过 atropine（详见 §6 danger callout）。
+10. **Mobitz II + atropine 同理无效**：阻滞在 His-Purkinje，无迷走支配，直接 pacing → PPM。
 
 ---
 
