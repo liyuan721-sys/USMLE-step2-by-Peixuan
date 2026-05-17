@@ -7349,3 +7349,83 @@
 > 主题:: Symptomatic bradycardia ACLS / Atropine 1st line / Glucagon-NE 干扰项
 > 状态:: 🟢
 > 错因:: 知识
+
+> [!example]- [2026-05-16] 心内 / 急性失代偿性心衰（ADHF）初始管理 (Q6945)
+> ^Q6945
+>
+> **Stem 模式**
+> 渐进性 SOB + 干咳 + 端坐呼吸 + JVD + 双肺啰音 + 化疗/放疗史 + BP 偏高 + Afib + 辅助呼吸肌
+>
+> **核心概念**
+> ADHF 合并呼吸衰竭 → 首选 **NIPPV（BiPAP）**，无效再插管。化疗（蒽环类）+ 胸部放疗 → 心脏毒性 → 慢性背景。
+>
+> **普适规则**
+>
+> ① **ADHF 5 锚点**（≥3 个即锁定）：
+> Orthopnea / JVD / Bilateral crackles / 下肢水肿 / S3
+> → **"端坐 + 颈怒 + 双啰"三件套 = ADHF**
+>
+> ② **Respiratory failure 4 锚点**（≥2 个 → 需呼吸支持）：
+> 辅助呼吸肌 / 不能说完整句子 / RR ≥ 28 / SpO2<90% 或意识改变
+>
+> ③ **ADHF 4 象限分型**（决定治疗）：
+>
+> | 分型 | BP | 灌注 | 治疗 |
+> |---|---|---|---|
+> | Warm & Wet | 正常/高 | 好 | Nitrates + Lasix |
+> | Cold & Wet (shock) | 低 | 差 | Inotropes（dobutamine） |
+> | Warm & Dry | 正常 | 好 | 慢病管理 |
+> | Cold & Dry | 低 | 差 | 谨慎补液 ± inotrope |
+>
+> ④ **LMNOP vs ABC**：
+> - LMNOP = 清单（防遗漏：Lasix / ~~Morphine~~ / Nitrates / Oxygen-NIPPV / Position）
+> - ABC = 优先级（决定 next step）
+> - **考试问 next step → 永远走 ABC**
+>
+> **易混陷阱**
+> - ADHF（crackles，干咳/粉红泡沫痰）vs COPD AE（wheezing，脓痰，吸烟史）→ 激素只用于 COPD
+> - JVD + SOB ≠ 填塞（填塞要 Beck 三联：JVD + 低血压 + 心音遥远，且通常无肺水肿）
+> - 看到心衰就给 dobutamine = 错；**只有 cardiogenic shock（低血压 + 灌注差）才用**
+> - Afib 急诊不抗凝；先救呼吸，长期再抗凝（CHA2DS2-VASc）
+>
+> **我为什么错**
+> 停在"病因层"（化疗→心脏病→停药），没走到"当前急性诊断层"（ADHF + 呼衰）。把 ADHF 错认为 COPD AE，选了"补液 + 激素"——双重反向操作（ADHF 是容量超负荷，不能补液；激素只用于气道炎症）。
+>
+> **Memory Hook**
+> - **"先救命，再救心，再救病因"**：救命=NIPPV/插管，救心=利尿+扩血管，救病因=停化疗+抗凝
+> - ADHF = 海绵泡透了 → BiPAP 把水"压回"（PEEP）→ 利尿"拧干"
+> - 蒽环类 = "doxo-rubbish-heart"（doxorubicin → DCM，剂量依赖）
+> - 放疗心脏 = restrictive CMP / 缩窄性心包炎 / 加速冠脉病变
+>
+> ---
+>
+> **🤔 我的提问 / 卡点**
+> - "临床情景不熟悉，诊断不知道" → 学到：ADHF 5 锚点识别法
+> - "考虑到放化疗导致心脏病，但不知道其他处理" → 学到：从"病因层"走到"急性诊断层"，"next step"永远走 ABC
+> - "LMNOP 分先后吗？" → 学到：LMNOP=清单（防漏项），ABC=优先级（决定顺序），两个不同维度
+>
+> **🔗 关联**
+> - 🔁 同主题错题：（首题，等后续 ADHF / NIPPV / cardiogenic shock 题积累）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/心内]]
+>   - [[完整笔记/Peixuan分科笔记/pulmonary]]（NIPPV 适应证）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/hematology oncology]]（蒽环类心脏毒性 / 放疗心脏并发症）
+> - 🌱 TODO：
+>   - 等心内+呼吸章节复习完 → 整合 [ADHF 5锚点 + 呼衰4锚点 + 4象限分型 + LMNOP/ABC] → 生成 [[完整笔记/专题笔记/_衍生_急性心衰急诊处理SOP]]
+>   - 等积累 5+ 道急诊 next step 错题 → 生成 [[完整笔记/专题笔记/_衍生_USMLE急诊题ABC优先级]]
+>   - 等血液肿瘤复习完 → 整合化疗/放疗心脏毒性 → 生成 [[完整笔记/专题笔记/_衍生_肿瘤治疗心脏并发症]]
+>
+> **✅ 复盘行动**
+> - [ ] 1 周后重做 Q6945
+> - [ ] 默写 ADHF vs COPD AE 鉴别表
+> - [ ] 默写 ADHF 4 象限分型 + 对应治疗
+> - [ ] 默写 NIPPV 适应证 + 禁忌证
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加 #薄弱点
+> - [ ] 找 3 道类似题（UWorld: "decompensated heart failure" / "NIPPV" / "doxorubicin cardiotoxicity"）
+>
+> ---
+>
+> 学科:: 心血管
+> 主题:: ADHF 初始管理 / NIPPV / 4 象限分型 / 病因层 vs 急性诊断层
+> 状态:: 🔴
+> 错因:: pattern
