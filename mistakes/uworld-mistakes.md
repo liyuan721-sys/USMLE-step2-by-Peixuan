@@ -7098,6 +7098,11 @@
 > - **O**verriding aorta — 骑跨 VSD
 > - **V**SD（大型）
 >
+> > [!info] UWorld 原图 — Tetralogy of Fallot 解剖 + R→L 分流机制
+> > ![[{6EBEDA9F-A2FC-47FF-8172-005EF61E257D}.png]]
+> > 左：解剖图，4 个 PROVe 缺陷直接标注（Narrowed RVOT / Overriding aorta / Concentric RV hypertrophy / Large VSD）
+> > 右：循环示意，去氧血通过 VSD R→L 分流入主动脉 → 中心性紫绀
+>
 > **先心病诊断 5 步框架**（最关键）：
 > 1. **紫**绀吗？→ 紫绀走 5T+H, 非紫绀走 VAPP/阻塞
 > 2. **时**间窗？→ 24-48h / 数周 / 数月 / 成年 各对应不同病
