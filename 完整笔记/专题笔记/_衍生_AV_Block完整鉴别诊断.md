@@ -189,20 +189,20 @@ QRS 节律 (规律, 室率 35):    QRS  ─  QRS  ─  QRS
 
 ### 4.1 按 Stem 关键词定位
 
-| Stem 关键词组合 | 最可能诊断 | 备注 |
-|---|---|---|
-| 老年人 + 体检 + PR 0.24s 无症状 | **1° AV block (退化)** | 不需治疗 |
-| 28 岁运动员 + 体检 PR 0.22s | **1° AV block (高迷走)** | 生理性 |
-| 漏跳感 + 慢性 + 无症状 + PR 渐长漏拍 | **Mobitz I** | 观察 |
-| 晕厥 + PR 恒定突然漏 + QRS 宽 | **Mobitz II** | **PPM** |
-| 晕厥 + HR 35 + AV 分离 | **3° AV block** | **PPM** |
-| **新生儿** HR 慢 + AV 分离 + 母亲自身免疫病 | **先天性 3° AV block** | 抗 SSA/Ro 跨胎盘 ⭐ |
-| **蜱叮咬 + 游走性红斑 + Bell 麻痹 + AV block** | **Lyme 心肌炎** | 多西环素，**不需 PPM** ⭐ |
-| **儿童 + 链球菌咽炎后 + 关节痛 + 1° AV block** | **风湿热** | Jones 主要标准 |
-| **急性下壁 STEMI** + 新发 AV block | **RCA 闭塞引起**，多 Mobitz I，可逆 |
-| **急性前壁 STEMI** + 新发 AV block | **LAD 闭塞引起**，多 Mobitz II/3°，需 PPM ⭐ |
-| 主动脉瓣置换术后 + 新发 AV block | **术后机械性损伤**，常需 PPM |
-| A-fib + 突然规则缓慢心室律 | **A-fib + 3° AV block** (地高辛中毒经典) |
+| Stem 关键词组合                           | 最可能诊断                               | 备注                |
+| ------------------------------------ | ----------------------------------- | ----------------- |
+| 老年人 + 体检 + PR 0.24s 无症状              | **1° AV block (退化)**                | 不需治疗              |
+| 28 岁运动员 + 体检 PR 0.22s                | **1° AV block (高迷走)**               | 生理性               |
+| 漏跳感 + 慢性 + 无症状 + PR 渐长漏拍             | **Mobitz I**                        | 观察                |
+| 晕厥 + PR 恒定突然漏 + QRS 宽                | **Mobitz II**                       | **PPM**           |
+| 晕厥 + HR 35 + AV 分离                   | **3° AV block**                     | **PPM**           |
+| **新生儿** HR 慢 + AV 分离 + 母亲自身免疫病       | **先天性 3° AV block**                 | 抗 SSA/Ro 跨胎盘 ⭐    |
+| **蜱叮咬 + 游走性红斑 + Bell 麻痹 + AV block** | **Lyme 心肌炎**                        | 多西环素，**不需 PPM** ⭐ |
+| **儿童 + 链球菌咽炎后 + 关节痛 + 1° AV block**  | **风湿热**                             | Jones 主要标准        |
+| **急性下壁 STEMI** + 新发 AV block         | **RCA 闭塞引起**，多 Mobitz I，可逆          |                   |
+| **急性前壁 STEMI** + 新发 AV block         | **LAD 闭塞引起**，多 Mobitz II/3°，需 PPM ⭐ |                   |
+| 主动脉瓣置换术后 + 新发 AV block               | **术后机械性损伤**，常需 PPM                  |                   |
+| A-fib + 突然规则缓慢心室律                    | **A-fib + 3° AV block** (地高辛中毒经典)   |                   |
 
 > [!info] UWorld 原图 — Atrial fibrillation with rapid ventricular response（鉴别参考）
 > ![[{CF935E23-DD70-4220-B76D-D892959A6B68}.png]]
