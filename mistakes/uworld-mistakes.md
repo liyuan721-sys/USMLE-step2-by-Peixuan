@@ -7434,3 +7434,119 @@
 > 主题:: ADHF 初始管理 / NIPPV / 4 象限分型 / 病因层 vs 急性诊断层
 > 状态:: 🔴
 > 错因:: pattern
+
+> [!example]- [2026-05-16] 心内 / Mobitz I vs II AV Block 鉴别 (Q3766)
+> ^Q3766
+>
+> ## Stem 模式
+> 中老年 + 慢性"漏跳感" + 无血流动力学不稳 + ECG "irregular rhythm" + 表格对比 Mobitz I/II → 二度 AV block 鉴别题
+>
+> ## 核心概念
+> **PR 渐进延长 → 漏 QRS → 重置 = Mobitz I (Wenckebach)**，阻滞在 AV 结，良性，仅观察
+> **PR 恒定 → 突然漏 QRS = Mobitz II**，阻滞在 His 下，进展风险高，需 PPM
+>
+> ## 普适规则
+>
+> ### AV Block 5 种类型速查表
+>
+> | 类型 | ECG 核心 | 阻滞部位 | 处理 |
+> |---|---|---|---|
+> | 1° | PR > 0.20s 恒定，无漏 | AV 结 | 观察 |
+> | 2° Mobitz I | PR 渐进延长 → 漏 → 重置 | AV 结 (近端) | 观察 |
+> | 2° Mobitz II | PR 恒定 → 突然漏 | His-Purkinje (远端) | **PPM** |
+> | 2:1 | 每 2 P 跟 1 QRS，难分 I/II | 需进一步检查 | 视类型 |
+> | 3° (完全) | P 与 QRS 完全分离 | 任何层级 | **PPM** |
+>
+> ### AV Block 病因 → Stem 关键词
+> - 老年体检 + PR 长无症状 → 1° (退化)
+> - 运动员 + PR 长 → 1° (高迷走)
+> - **下壁 MI** (RCA) + AV block → 多为 Mobitz I，多可逆
+> - **前壁 MI** (LAD) + 新发 AV block → Mobitz II / 3°，几乎都需 PPM
+> - **新生儿 + 母亲 SLE/Sjögren** → 先天性 3° AV block (抗 SSA/Ro 跨胎盘) ⭐
+> - **蜱叮咬 + EM 皮疹 + Bell 麻痹 + AV block** → Lyme 心肌炎，多西环素，**通常不需 PPM** ⭐
+> - **链球菌咽炎后 + 儿童 + 1° AV block** → 风湿热 (Jones 标准之一)
+> - 心脏术后 (主动脉瓣置换、室间隔肌切除) → 常需 PPM
+>
+> ### 完全 AV Block 逸搏定位 (USMLE 简化版) ⭐
+>
+> | QRS 宽度 | 逸搏类型 | 解剖位置 | 频率 | 稳定性 |
+> |---|---|---|---|---|
+> | **窄** | Junctional escape | AV 结 / His 近端 | 40-60 | 稳定 |
+> | **宽** | Ventricular escape | His 远端 / 浦肯野 / 心室 | 20-40 | 不稳定，易猝死 |
+>
+> **不要纠结于"结性 vs 希氏束"细分（超纲），只记二分法**
+> - 窄 = 近端 = 稳定 = junctional
+> - 宽 = 远端 = 危险 = ventricular
+>
+> ### 自主神经/药物对 AV 结的反应 (鉴别 Mobitz I vs II 的工具)
+>
+> | 干预 | Mobitz I | Mobitz II |
+> |---|---|---|
+> | 阿托品 / 运动 (迷走 ↓) | **改善** | 无效或加重 |
+> | 颈动脉按压 (迷走 ↑) | **加重** | 改善 |
+> | β-blocker / CCB / digoxin | 诱发或加重 | 影响小 |
+>
+> ## 易混陷阱
+> 1. **"漏 QRS" ≠ 自动 Mobitz II**：二度 AV block 都有漏拍，必须看 PR 模式才能区分 I/II
+> 2. **R-R 间期 ≠ PR 间期**：AV block 题永远先看 PR；R-R 只能判断"心室律是否规则"
+> 3. **Wenckebach 的 R-R 实际逐渐缩短**（反直觉，因为 PR 延长增量越来越小）
+> 4. **下壁 MI vs 前壁 MI 的 AV block 走向完全不同**：下壁 (RCA) 多 Mobitz I 可逆，前壁 (LAD) 多 Mobitz II/3° 需 PPM
+> 5. **Lyme 心肌炎即使 3° AV block 也不需要 PPM**（抗生素后可逆），这是 Lyme 的特殊处理
+> 6. **完全 AV block + 窄 QRS**：不要选"浦肯野"或"His 束远端"，要选 AV 结/junction (近端)
+>
+> ## 我为什么错
+> - 我选了：**E (Mobitz II)**
+> - 真实错因：**ECG 阅读时盯着 R-R 间期看，觉得 QRS 间距差不多 → 误判节律规则 → 排除 Mobitz I**
+> - 根本认知错误：
+>   - ☑ ECG 间期识别习惯错误 (看了 R-R 而非 PR)
+>   - ☑ AV block 题必须看 P-R 间期，R-R 只能告诉你心室律是否规则
+> - 元认知收获：USMLE ECG 节律题题干"留白"是信号 → 答案 70% 在 ECG 图 + 答案表格里
+>
+> ## Memory Hook
+> - **"PR 越来越长，长到漏一拍" = Wenckebach (Mobitz I)，观察**
+> - **"PR 恒定，说漏就漏" = Mobitz II，PPM**
+> - **Mobitz I = 拖延症员工**：每次拖延一点（PR 渐长），某天直接旷工（漏 QRS），明天又准时 → 烦人但不致命
+> - **Mobitz II = 老实人突然辞职**：平时准点（PR 恒定），某天毫无预警不来了 → 不可预测，赶紧招新人（PPM）
+> - **PPM 救慢，ICD 救快**：PR 长用 PPM，EF 低用 ICD
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - "心电图怎么看着 RR 间期一致？" → 学到：USMLE ECG 题里 12 导联部分只有 2-3 跳，必须看长节律条；Wenckebach 的 R-R 反而逐渐缩短（PR 延长增量递减）
+> - "题干感觉没有什么提示信息" → 学到：USMLE 题干"留白" = 信号，答案在检查/图里。建立"题干信号 → 信息来源"映射意识
+> - "RR 和 PR 看错了" → 学到：P-R 看 AV 传导，R-R 看心室节律，P-P 看 SA 结。AV block 题必须先看 PR
+> - "PPM 是什么" → 学到：PPM = Permanent Pacemaker，治慢；ICD 治快/猝死
+> - "Q5 结性逸搏和 His 束逸搏不是都行吗？" → 学到：USMLE 用二分法（窄=junctional，宽=ventricular），不区分组内精细解剖
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q4456]] 老年间歇性 AV 阻滞（PR 长 + QRS 长 → EP study + PPM；结下水平 atropine 无效）
+>   - [[mistakes/uworld-mistakes#^Q2141]] Symptomatic bradycardia（Atropine 1st line / 结上有效结下起搏）
+> - 📚 主笔记 + 已有衍生：
+>   - [[完整笔记/Peixuan分科笔记/心内]]
+>   - [[完整笔记/专题笔记/_衍生_AV_Block完整鉴别诊断]]（今日同步生成 v1 ⭐ 来源本卡）
+>   - [[完整笔记/专题笔记/_衍生_Vaughan_Williams抗心律失常药对照]] **Part 7.6**（症状性缓 ACLS / atropine 起效部位）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/感染]]（Lyme 心肌炎 / 风湿热引起 AV block）
+>   - [[完整笔记/Peixuan分科笔记/儿科]]（先天性 3° AV block + 母亲抗 SSA/Ro）
+>   - [[完整笔记/Peixuan分科笔记/OB]]（妊娠期 SLE 抗体跨胎盘）
+> - 🌱 TODO（待生成衍生）：
+>   - 等束支阻滞 (LBBB / RBBB / fascicular block) 题积累后 → 合并到 [[完整笔记/专题笔记/_衍生_AV_Block完整鉴别诊断]] 或拆 [[完整笔记/专题笔记/_衍生_束支阻滞鉴别]]
+>   - 等"不规则心律"题积累后，整合 A-fib / 二度 AV block / 多源房早 / 室早 → 生成 [[完整笔记/专题笔记/_衍生_不规则心律鉴别诊断]]
+>   - 等心内 + 影像 ECG 题积累后，整合"USMLE 题干信号 → 信息来源映射" → 写入 [[完整笔记/专题笔记/_衍生_高频陷阱]]
+>
+> ## ✅ 复盘行动
+> - [ ] 3 天后重做 Q3766，目标 30 秒内锁定 D
+> - [ ] 默写：AV block 5 种类型对比表（不看笔记）
+> - [ ] 默写：完全 AV block 逸搏定位 (QRS 宽窄 → 阻滞部位)
+> - [ ] 默写：MI 部位 (RCA vs LAD) → AV block 类型推理
+> - [ ] UWorld 搜索 "AV block" 标签做 3-5 道同类题
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加 #薄弱点 (AV block / 传导系统)
+> - [ ] 养成 ECG 阅读 SOP：心率 → 节律 → P 波 → **PR 间期** → QRS → ST/T → QT（PR 这一步不能跳过）
+>
+> ---
+>
+> 学科:: 心血管
+> 主题:: Mobitz I vs II AV Block 鉴别 / ECG R-R vs PR 阅读习惯
+> 状态:: 🔴
+> 错因:: pattern
