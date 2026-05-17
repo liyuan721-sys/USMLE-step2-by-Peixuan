@@ -42,6 +42,10 @@ source_错题: Q3766（Mobitz I vs II 鉴别触发）
    恒定且 > 0.20s，每个 P 后都有 QRS
 ```
 
+> [!info] UWorld 原图 — First-degree AV block
+> ![[{B72502E7-99F3-4260-896B-CEDB1EF1AA5F}.png]]
+> Key features：P-P 恒定 / **PR > 0.2 s 延长** / R-R 恒定（无漏拍）
+
 > [!tip] 一句话
 > **PR 长但都传，无漏拍**
 
@@ -61,6 +65,11 @@ source_错题: Q3766（Mobitz I vs II 鉴别触发）
 - 因此 **R-R 间期反而逐渐缩短**，漏拍处 R-R 突然延长
 - ECG 显示"**grouped beating**"（成组搏动）
 
+> [!info] UWorld 原图 — Mobitz type I (Wenckebach)
+> ![[{AD4EFF9A-879F-44F5-814D-771FB55A4507}.png]]
+> 病理：AV 结传导紊乱（迷走 / 药物 / 缺血 / 退化）
+> Key features：恒定 P-P / **PR 渐进延长** → 漏 QRS / R-R 渐短反直觉 / 通常窄 QRS
+
 ### 2.3 Mobitz II
 
 ```
@@ -77,6 +86,11 @@ source_错题: Q3766（Mobitz I vs II 鉴别触发）
 - 漏拍**随机**、无规律
 - QRS 常**宽**（因为阻滞在 His 下，远端传导异常）
 
+> [!info] UWorld 原图 — Mobitz type II
+> ![[{837B7F59-8DF6-4EA3-AFDB-24D04D4ADF5B}.png]]
+> 病理：AV 结**以下**传导紊乱（缺血 / 年龄相关传导退化）
+> Key features：**恒定 PR** / 随机漏 QRS / QRS 可窄可宽
+
 ### 2.4 3° (Complete) AV Block
 
 ```
@@ -90,6 +104,10 @@ QRS 节律 (规律, 室率 35):    QRS  ─  QRS  ─  QRS
 
 **关键概念 — 逸搏 (escape rhythm)**：
 当上方传导被阻断，**下方的细胞自动接管起搏**以维持心室收缩。
+
+> [!info] UWorld 原图 — Third-degree (complete) AV block
+> ![[{327FB8C2-56F8-41E2-8ECF-726C2CCD2D02}.png]]
+> Key features：心室率 <50 bpm（房率更快）/ **规则 P-P + 规则 R-R**（但互不相关）/ **P 波与 QRS 完全分离**
 
 ### 2.5 鉴别 Mobitz I vs II 的最简单方法 ⭐⭐⭐
 
@@ -112,6 +130,11 @@ QRS 节律 (规律, 室率 35):    QRS  ─  QRS  ─  QRS
 >
 > - 关键不是"漏拍频率"
 > - 关键是"**漏拍前 PR 一定比漏拍后 PR 长**"
+
+> [!info] UWorld Mobitz I vs II 鉴别表（高密度对照，必背）⭐
+> ![[{076A3A14-4304-48E4-9091-BA4F9A7417A9}.png]]
+> 6 维对照：阻滞水平 / ECG / QRS 宽度 / 迷走 ↓ 反应 / 迷走 ↑ 反应 / 进展完全 AVB 风险（→ PPM 指征）
+> 同图在 [[mistakes/uworld-mistakes#^Q3766]]
 
 ---
 
@@ -180,6 +203,15 @@ QRS 节律 (规律, 室率 35):    QRS  ─  QRS  ─  QRS
 | **急性前壁 STEMI** + 新发 AV block | **LAD 闭塞引起**，多 Mobitz II/3°，需 PPM ⭐ |
 | 主动脉瓣置换术后 + 新发 AV block | **术后机械性损伤**，常需 PPM |
 | A-fib + 突然规则缓慢心室律 | **A-fib + 3° AV block** (地高辛中毒经典) |
+
+> [!info] UWorld 原图 — Atrial fibrillation with rapid ventricular response（鉴别参考）
+> ![[{CF935E23-DD70-4220-B76D-D892959A6B68}.png]]
+> **AFib RVR 关键特征**：>100 bpm / **不规则不规则的 R-R** / **无 P 波 + fibrillatory waves**
+>
+> **AFib vs Mobitz I 都是 irregular rhythm，怎么区分？**
+> - AFib：**无 P 波** + fibrillatory waves + R-R 完全乱
+> - Mobitz I：**有 P 波** + PR 渐长 + grouped beating（漏拍后 R-R 突然延长）
+> - 一句话：**P 波在不在 = AFib vs AVB 第一刀**
 
 ### 4.2 病因系统分类
 

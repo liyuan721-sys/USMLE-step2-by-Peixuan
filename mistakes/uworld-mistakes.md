@@ -7440,12 +7440,19 @@
 >
 > ## Stem 模式
 > 中老年 + 慢性"漏跳感" + 无血流动力学不稳 + ECG "irregular rhythm" + 表格对比 Mobitz I/II → 二度 AV block 鉴别题
->![[{5929AFA2-B98D-4915-96C2-8DB273827700}.png]]
->![[{076A3A14-4304-48E4-9091-BA4F9A7417A9}.png]]
->![[{AD4EFF9A-879F-44F5-814D-771FB55A4507}.png]]
+>
+> > [!info] Q3766 题目原 ECG（12 导联）
+> > ![[{5929AFA2-B98D-4915-96C2-8DB273827700}.png]]
+> > 用"漏前 PR > 漏后 PR"反射弧 → Mobitz I (Wenckebach)
+>
 > ## 核心概念
 > **PR 渐进延长 → 漏 QRS → 重置 = Mobitz I (Wenckebach)**，阻滞在 AV 结，良性，仅观察
 > **PR 恒定 → 突然漏 QRS = Mobitz II**，阻滞在 His 下，进展风险高，需 PPM
+>
+> > [!info] UWorld Mobitz I vs II 鉴别表（高密度对照，必背）
+> > ![[{076A3A14-4304-48E4-9091-BA4F9A7417A9}.png]]
+> > 6 维对照：阻滞水平 / ECG / QRS 宽度 / 迷走 ↓ 反应 / 迷走 ↑ 反应 / 进展完全 AVB 风险（→ PPM 指征）
+> > 详细各类型 ECG 教学图（1° / Mobitz I / Mobitz II / 3°）见 [[完整笔记/专题笔记/_衍生_AV_Block完整鉴别诊断]] **Section 2.1-2.4**
 >
 > ## 普适规则
 >
