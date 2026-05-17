@@ -19,8 +19,8 @@ related:
   - "[[心内]]"
   - "[[完整笔记/Peixuan分科笔记/endocrine]]"
   - "[[肾脏]]"
-  - "[[_衍生_高频陷阱]]"
-  - "[[_衍生_鉴别诊断速查]]"
+  - "[[完整笔记/专题笔记/USMLE_高频陷阱]]"
+  - "[[完整笔记/专题笔记/USMLE_鉴别诊断速查]]"
   - "[[完整笔记/_衍生_Screening_Guidelines]]"
 status: 跨科核心概念
 ---
@@ -597,8 +597,8 @@ Young female + chest pain + 既往:
 - [[肾脏]] — 马蹄肾
 
 ### 衍生工具
-- [[_衍生_高频陷阱]] — Turner 经典陷阱
-- [[_衍生_鉴别诊断速查]] — Primary amenorrhea / 矮小综合征
+- [[完整笔记/专题笔记/USMLE_高频陷阱]] — Turner 经典陷阱
+- [[完整笔记/专题笔记/USMLE_鉴别诊断速查]] — Primary amenorrhea / 矮小综合征
 - [[完整笔记/_衍生_Screening_Guidelines]] — Turner 随访
 
 ### 错题

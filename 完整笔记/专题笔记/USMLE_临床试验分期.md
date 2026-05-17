@@ -384,5 +384,5 @@ tags:
   - [[mistakes/uworld-mistakes#^Q3941]] Bias 5 类（Measurement bias 是 Internal validity 的威胁之一）
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/Biostats_Master]]
-  - [[完整笔记/专题笔记/USMLE广告题解题策略]]
+  - [[完整笔记/专题笔记/USMLE_广告题解题策略]]
 - 🌱 TODO：积累更多 Validity / Blinding / Phase 错题后扩充本笔记

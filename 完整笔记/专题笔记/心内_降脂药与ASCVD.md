@@ -462,7 +462,7 @@ Step 2: 分层
   - [[完整笔记/Peixuan分科笔记/免疫，疫苗]]（RA / SLE / psoriasis 是 enhancer — 慢性炎症）
   - [[完整笔记/Peixuan分科笔记/OB]]（preeclampsia / GDM / 早绝经是 enhancer）
   - [[完整笔记/Peixuan分科笔记/GI]]（TG ≥500 → 胰腺炎风险）
-  - [[完整笔记/专题笔记/_衍生_高频陷阱]]（剂量决定作用 / Aspirin low vs high-dose）
+  - [[完整笔记/专题笔记/USMLE_高频陷阱]]（剂量决定作用 / Aspirin low vs high-dose）
 - 🌱 TODO（待生成衍生）：
   - 等积累 5+ 道 statin 副作用 / 药物相互作用题 → 生成 [[完整笔记/专题笔记/_衍生_Statin副作用速查]]
   - 等积累 ASCVD risk enhancer 题 → 生成 [[完整笔记/专题笔记/_衍生_ASCVD_RiskEnhancers]]

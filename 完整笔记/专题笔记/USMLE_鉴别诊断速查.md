@@ -108,7 +108,7 @@
 - Benzocaine 咽喉局麻（TEE / 内镜）术中突发紫绀 = 医源性 MetHb（高频）
 - **CO 反直觉**：CO 中毒患者通常**不紫绀**反樱桃红（CO-Hb 比 Oxy-Hb 还红），SpO₂ 假性 > 95% — 别因为 SpO₂ 正常或皮肤不紫就排除 CO。冬季取暖 / 火灾 + 全家症状 = 立刻查 co-oximetry CO-Hb%。
 - **火灾双中毒**：CO + Cyanide 同时考虑；首选 Hydroxocobalamin + 100% O₂，**避免单用 Sodium nitrite**（会再造 MetHb 雪上加霜）
-- 详细机制 / 阈值 / G6PD 例外 → [[完整笔记/专题笔记/_衍生_实验室指纹诊断大全]] 5.6 Methemoglobinemia / 5.7 异常 Hb 双毒终极对照
+- 详细机制 / 阈值 / G6PD 例外 → [[完整笔记/专题笔记/USMLE_实验室指纹诊断大全]] 5.6 Methemoglobinemia / 5.7 异常 Hb 双毒终极对照
 
 ---
 

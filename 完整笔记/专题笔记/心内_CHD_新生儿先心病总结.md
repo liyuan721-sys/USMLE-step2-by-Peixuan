@@ -709,9 +709,9 @@ PGE1 急救                    ACEi + 利尿 → 手术 / 自愈
 - 🏥 **跨学科**：
   - [[完整笔记/Peixuan分科笔记/OB]]（妊娠期暴露 — DM / Lithium / Rubella / Alcohol → CHD）
   - [[完整笔记/Peixuan分科笔记/endocrine]]（IDM 病理 — 胎儿高胰岛素 anabolic 全身效应）
-  - [[完整笔记/专题笔记/Turner_综合征]]（BAV + CoA 必查）
-  - [[完整笔记/专题笔记/_衍生_晕厥鉴别决策树]]（HCM 运动诱发晕厥 / AS 运动晕厥 → 心源性晕厥红旗）
-  - [[完整笔记/专题笔记/_衍生_Vaughan_Williams抗心律失常药对照]]（HCM Valsalva 反向 + Brugada 等遗传通道病）
+  - [[完整笔记/专题笔记/内分泌_Turner综合征]]（BAV + CoA 必查）
+  - [[完整笔记/专题笔记/心内_晕厥鉴别决策树]]（HCM 运动诱发晕厥 / AS 运动晕厥 → 心源性晕厥红旗）
+  - [[完整笔记/专题笔记/心内_Vaughan_Williams抗心律失常药]]（HCM Valsalva 反向 + Brugada 等遗传通道病）
 - 🌱 **TODO（持续扩充）**：
   - 累计 3+ 道 **IDM 相关**错题（低血糖 / 多血症 / RDS / 产伤 / caudal regression）→ 拆出 [[完整笔记/专题笔记/_衍生_IDM糖尿病母亲婴儿并发症全图]]
   - 累计 3+ 道 **HCM 谱系**题（遗传性 HCM / SAM / 运动员猝死 / β-blocker vs 手术 / Valsalva 动作）→ 拆出 [[完整笔记/专题笔记/_衍生_HCM谱系（遗传性vsIDM）]]

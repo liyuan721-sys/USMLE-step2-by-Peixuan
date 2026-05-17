@@ -520,7 +520,7 @@ USMLE 默认双尾，除非 stem 明说单向假设。
   - 待补充：Type I/II / Power / p / 统计检验 系列题
 - 📚 **主笔记**：
   - [[完整笔记/Peixuan分科笔记/Biostats_Master]]
-  - [[完整笔记/专题笔记/Biostats_6指标决策树_纯净版]]（RR/OR/Prevalence 基础）
+  - [[完整笔记/专题笔记/Biostats_6指标决策树]]（RR/OR/Prevalence 基础）
   - 同期草稿：[[完整笔记/专题笔记/_衍生_USMLE_Bias_5大鉴别_草稿]]（v1）
 - 🌱 **TODO**：
   - 等 Hypothesis testing 错题积累 3+（Type I/II / Power / p / 统计检验）→ 让 Claude Code 整合本草稿 + 错题本 → 生成正式 [[完整笔记/专题笔记/_衍生_USMLE_统计推断]]
