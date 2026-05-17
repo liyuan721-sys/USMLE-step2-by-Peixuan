@@ -319,12 +319,9 @@ HFrEF + AFib + 用药列表含 Digoxin + 多系统亚急性症状
  同上 → TCP/TVP
 ```
 
-<!-- 📌 TODO: 嵌入 UWorld 原图 "Management of symptomatic bradycardia"（Q2141）
-     用户需先在 Obsidian 中粘贴该图，Obsidian Linter 会自动以 {GUID}.png 保存到 attachments；
-     拿到 GUID 后替换本注释为：![[{GUID}.png]]
-     图内容：Pulse <50 + symptoms → 评估稳定性 → 不稳定 → Atropine 1 mg IV (q3-5 min, max 3 mg)
-            → 持续不稳定 → TCP / TVP（同时可试 dopamine 5-20 mcg/kg/min 或 epi 2-10 mcg/min）
-            → 查潜在病因（sinus node dysfunction / acute MI / medication toxicity） -->
+> [!info] UWorld 原图（Management of symptomatic bradycardia）
+> ![[{F1811E5A-5F07-4203-8A96-9188F0EDAC17}.png]]
+> ACLS 标准流程视觉版：Pulse <50 + symptoms → 评估稳定性 → 不稳定 → Atropine 1 mg IV (q3-5 min, max 3 mg) → 持续不稳定 → **TCP / TVP**（同时可试 dopamine 5-20 mcg/kg/min 或 epi 2-10 mcg/min）→ 查潜在病因（sinus node dysfunction / acute MI / medication toxicity）
 
 
 > [!warning] Atropine 起效部位（核心机制）
