@@ -8116,3 +8116,375 @@
 > 主题:: β-blocker 中毒 / Brady+Hypotension 三联中毒鉴别 (BB/CCB/Digoxin) / Glucagon 解毒
 > 状态:: 🟡
 > 错因:: 知识
+
+## 2026-05-18
+
+> [!example]- [2026-05-18] 感染×心内 / IE + 新发 AV block → 瓣周脓肿 (Q12-自测)
+>
+> ## Stem 模式
+> IE 治疗 day 4 + 新发 1° AV block → 12 h 内进展为 Mobitz I + 血流动力学稳定 → **不是抗生素够不够，是 Aortic IE 已经扩散到瓣周（perivalvular abscess）侵蚀传导系统**
+>
+> ## 核心概念
+> **IE + 任何新发传导异常 = 主动脉瓣根部脓肿 until proven otherwise**。
+> 房室结紧贴主动脉瓣环（无冠瓣下方），Aortic IE 瓣周脓肿可直接侵蚀传导系统 → 1° → Mobitz I → Mobitz II → CHB → 心源性休克。**"Hemodynamically stable" 不是观察理由** — 脓肿可在数小时内进展。
+>
+> ## 普适规则 — IE 手术指征 HEROIC（5/17 知识点强化）
+>
+> | 字母 | 指征 | 临床意义 |
+> |---|---|---|
+> | **H**eart Failure | 急性瓣膜毁损 → 急性 MR/AR → 肺水肿 | **最常见手术指征**，需 emergency surgery |
+> | **E**xtension | 瓣周脓肿 / **新发 AV block** / 心内瘘 | → **立即 TEE + 外科会诊** |
+> | **R**esistant Organism | Fungi (Candida/Aspergillus) / MDR / 持续阳性 | 抗生素难以根除，需切除感染源 |
+> | **O**ngoing Bacteremia | 治疗 ≥5-7 天血培养仍阳性 | 病灶控制失败 |
+> | **I**mmense Embolism | Vegetation >10 mm + 已有栓塞事件 / >15 mm 任何 | 防止下一次栓塞（脑/脾/肾/肢） |
+> | **C**onsultation | 早期心外科会诊 | 不是"内科治疗失败再叫外科" |
+>
+> ## 普适规则 — IE 新发传导异常 SOP
+>
+> ```
+> IE + 新发任何传导异常（PR 延长 / Mobitz / CHB / 束支阻滞）
+>   ↓ 不管血流动力学是否稳定
+> 立即 TEE（不是 TTE — 主动脉根部 / 脓肿 TTE 敏感度低）
+>   ↓
+> 确认瓣周脓肿 → 心外科会诊（valve surgery + abscess drainage）
+> 阴性 → 仍需密切监测（24 h 内重做 / 临床进展再做）
+> ```
+>
+> **不要做**：① 仅观察 ② transcutaneous pacing（只治症状不治病灶）③ 换更广谱抗生素（脓肿是结构问题，不是抗生素覆盖问题）
+>
+> ## 易混陷阱（普适）
+> - **"Stable = 安全" 假象**：脓肿进展数小时级，stable 不代表不需要紧急 imaging
+> - **TTE vs TEE**：怀疑 IE 用 TTE 筛，**怀疑瓣周脓肿 / 人工瓣 / 主动脉根部并发症必须 TEE**
+> - **干扰项 D（更广谱抗生素）**：脓肿不是 antibiotic coverage 问题，是 source control 问题
+> - **干扰项 E（Lyme 血清学）**：Lyme carditis 给的是**急性 AV block**（多在年轻、户外、erythema migrans），不是 IE 病人 day 4
+>
+> ## 我为什么错
+> - 选了：A. Continue current antibiotics and observe（带 ? 不确定）
+> - 错因：pattern recognition — "stable patient" 触发了"先观察"的默认反应，没把"IE + new AV block"这个 pattern 升级为紧急 imaging 指征
+> - 核心陷阱：把"血流动力学稳定"当成"病情稳定"，忽略了脓肿的进展速度
+>
+> ## Memory Hook
+> - **"IE + 任何新传导异常 = TEE 不过夜"** — 不分白天黑夜，不分症状轻重
+> - **"H**eart **E**xtension **R**esistant **O**ngoing **I**mmense **C**onsult**"** — 6 个手术指征任一即叫外科
+> - **房室结住在主动脉瓣根的"楼下"** — 楼上着火（脓肿），楼下断电（AV block）
+> - "Stable but progressing in 12 h" = **不是 stable，是 deceiving stable**
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q: stable 不是应该先观察吗？
+>   - 学到：IE 瓣周脓肿的 stable 是**进展前的窗口期**，等到 unstable 已经晚（CHB → 心源性休克）
+> - Q: 为什么不是 TTE？
+>   - 学到：主动脉根部 / 瓣周组织 TTE 敏感度 <50%，TEE >90%。人工瓣 / 主动脉根部并发症 / 怀疑脓肿 → 直接 TEE
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q15831]] 机械瓣新发杂音 → PVD（同样是"瓣膜出问题先做 echo"逻辑）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/感染]]
+>   - [[完整笔记/Peixuan分科笔记/心内]]
+>   - [[完整笔记/专题笔记/感染_感染性心内膜炎完整体系]] HEROIC 章节
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/心内]]（传导系统解剖 — AV node 紧邻 aortic valve annulus）
+> - 🌱 TODO（待生成衍生）：
+>   - 等积累 3-5 道 "IE 并发症识别"题 → 整合到 [[完整笔记/专题笔记/感染_感染性心内膜炎完整体系]] 增加 §并发症识别 SOP
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q12（自测）
+> - [ ] 默写 HEROIC 6 个手术指征 + 各自临床场景
+> - [ ] 默写 "IE + 新发传导异常 SOP"
+> - [ ] UW 搜 `infective endocarditis complication` → 找 3 道相似题
+> - [ ] 关联到 [[完整笔记/专题笔记/感染_感染性心内膜炎完整体系]] §HEROIC
+>
+> ---
+>
+> 学科:: 感染
+> 主题:: IE 瓣周脓肿识别 / IE + new AV block → TEE / HEROIC 手术指征
+> 状态:: 🟡
+> 错因:: pattern
+
+---
+
+> [!example]- [2026-05-18] 感染 / IE 预防 2007 后指南 (Q13-自测)
+>
+> ## Stem 模式
+> 机械瓣 + 计划做 routine screening colonoscopy (IBD surveillance) → **不需要任何 IE 抗生素预防**
+>
+> ## 核心概念
+> AHA 2007 大幅缩减 IE 预防适应症。**仅在 "高风险心脏" + "高风险操作" 同时满足时给预防**，且高风险操作**仅限 dental + 侵入性呼吸道**。
+> **GI / GU 操作（含结肠镜、ERCP、膀胱镜、TURP）已被踢出预防名单近 20 年。**
+>
+> ## 普适规则 — IE 预防适应症速查（AHA 2007 后）
+>
+> ### 高风险心脏条件（4 类）
+> 1. **Prosthetic valve**（机械 / 生物 / TAVR）或瓣膜修复用了 prosthetic material
+> 2. **既往 IE 史**
+> 3. **未修复 / 部分修复的 cyanotic CHD**，修复后 6 个月内的 CHD，残留缺损紧邻 prosthetic material
+> 4. **心脏移植后** 出现的瓣膜病
+>
+> ### 高风险操作（仅 2 类）
+> | 操作类型 | 是否预防 | 方案（无 PCN 过敏） |
+> |---|---|---|
+> | **Dental** — 牙龈操作 / 口腔黏膜穿透 / 根尖周区域 | ✅ 给 | **Amoxicillin 2 g PO**，操作前 30-60 min |
+> | **侵入性呼吸道** — 扁桃体活检 / 切开感染黏膜 | ✅ 给 | 同上（amoxicillin 2 g PO） |
+> | **GI**（结肠镜 / ERCP / 内镜 / 胃镜）| ❌ 不给 | — |
+> | **GU**（膀胱镜 / TURP / 前列腺活检 / cystoscopy）| ❌ 不给 | — |
+> | **皮肤 / 软组织** 清洁手术 | ❌ 不给 | — |
+> | **阴道分娩 / 剖宫产** | ❌ 不给 | — |
+>
+> ### 例外（仍需要"针对性"抗生素，不算 IE 预防）
+> - GI/GU 操作 + **活动性肠/尿路感染** → 给抗生素治疗感染本身（同时覆盖肠球菌 / 革兰阴性菌）
+> - 皮肤感染部位的操作 → 抗生素覆盖该感染病原
+> - 这些情况**抗生素方案不是 amoxicillin 2 g**，而是按感染源选药
+>
+> ### Penicillin 过敏方案（dental procedures only）
+> - **Cephalexin 2 g PO** / Azithromycin 500 mg PO / Clindamycin 600 mg PO（已不再首选）
+> - 不能口服 → IV cefazolin 1 g / clindamycin 600 mg IV
+>
+> ## 易混陷阱（普适）
+> - **干扰项 B（amp + gent）= 2007 前老方案**（曾用于 GI/GU 高风险），现已**完全废除**
+> - **干扰项 A（amox 2g PO）= 正确，但仅限 dental** — 不要拿来套 colonoscopy
+> - **干扰项 C（IV vanc）**：vanc 不在任一 IE 预防方案，是 MRSA 治疗药
+> - **干扰项 D（clinda 600 mg if PCN allergic）= dental 备选方案**，仍只适用 dental
+> - **"机械瓣 + 任何操作 = 预防" 是过时反射** — 必须看操作类型
+> - **不要混淆 IE 预防 vs 外科预防**（结肠镜本身在 ASGE 推荐里也不需要常规预防性抗生素）
+>
+> ## 我为什么错
+> - 选了：B. IV ampicillin + gentamicin（带 ? 不确定）
+> - 错因：知识陈旧 — 套用了 2007 前的 GI/GU 高风险方案
+> - 核心陷阱：没意识到 AHA 2007 已经完全去除 GI/GU 操作的 IE 预防适应症
+>
+> ## Memory Hook
+> - **"D + R only"** — IE prophylaxis 仅给 **D**ental + **R**espiratory invasive
+> - **"GI / GU is OUT since 2007"** — 这两类操作已被踢出 18+ 年
+> - **"Amox 2 g PO, dental only"** — 看到非 dental 就别套这个剂量
+> - **"Mechanical valve 不是万能预防 ticket"** — 必须同时满足"高风险操作"
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q: 机械瓣不是高风险吗？为什么不给预防？
+>   - 学到：高风险心脏是**必要条件**，但**不是充分条件** — 还得操作本身在 "D + R" 名单里
+> - Q: 真有 IE 风险时怎么办？
+>   - 学到：找感染源（如活动性 UTI 在尿路操作前 → 抗生素覆盖该感染，不是"预防 IE"剂量）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （首题，IE prophylaxis 在错题本首次出现）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/感染]]
+>   - [[完整笔记/专题笔记/感染_感染性心内膜炎完整体系]] §预防章节
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/心内]]（瓣膜病 / 机械瓣管理）
+>   - [[完整笔记/Peixuan分科笔记/外科]]（外科预防抗生素 ≠ IE 预防）
+> - 🌱 TODO（待生成衍生）：
+>   - 等积累 IE 预防 + 外科预防 + 操作前抗生素 3 类题 → 生成 [[完整笔记/专题笔记/_衍生_围手术期抗生素预防全场景]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q13（自测）
+> - [ ] 默写 "IE 预防：4 心脏 × 2 操作" 速查表
+> - [ ] 默写 dental prophylaxis 方案（amox 2 g + 备选）
+> - [ ] UW 搜 `endocarditis prophylaxis` → 至少 3 道，重点是 GI/GU/skin 干扰项
+>
+> ---
+>
+> 学科:: 感染
+> 主题:: IE 预防适应症 (AHA 2007 后) / Dental+Respiratory only / GI-GU 已排除
+> 状态:: 🟡
+> 错因:: 知识
+
+---
+
+> [!example]- [2026-05-18] 感染×心内 / Janeway vs Osler 方向 (Q14-自测)
+>
+> ## Stem 模式
+> IE 患者皮损：**手掌足底无痛红斑** vs **指趾痛性紫色结节** → 判断哪个是免疫复合物、哪个是栓塞
+>
+> ## 核心概念
+> **Janeway = Just spots（无痛、平、栓塞、Vascular）**
+> **Osler = Ouch!（痛、隆起、免疫复合物、Immunologic）**
+> 这是 USMLE 经典反向陷阱题 — 选项故意把两者方向写反。**死记字母对应**。
+>
+> ## 普适规则 — IE 皮肤体征完整对比
+>
+> | 体征 | 痛？ | 形态 | 位置 | 机制 | 出现率 |
+> |---|---|---|---|---|---|
+> | **J**aneway lesions | ❌ 无痛（**J**ust spots）| **平坦** macule，erythematous | **手掌 / 足底** | **V**ascular — septic emboli（细菌栓子直达皮肤微血管） | <5%，急性 IE 多见（S. aureus） |
+> | **O**sler nodes | ✅ 痛（**O**uch!）| **隆起** painful nodule，violaceous | **指 / 趾 pad** | **I**mmunologic — 免疫复合物沉积 + 血管炎 | <5%，亚急性 IE 多见 |
+> | **R**oth spots | — | 视网膜出血伴白色中心 | 眼底 | 免疫复合物 / 微栓塞 | ~5% |
+> | Splinter hemorrhages | — | 甲床下线状出血 | 指甲 | 微栓塞 | 较常见但非特异 |
+> | Petechiae | — | 皮肤 / 黏膜点状出血 | 全身 | 微栓塞 / 血小板 ↓ | 最常见 IE 皮肤体征 |
+>
+> ## 普适规则 — 同字母同性质口诀（核心记忆框架）
+>
+> ```
+> Janeway   = Just spots  → J 起头 → 平的 → Vascular（V 也是直线感）
+> Osler     = Ouch!       → O 圆形 → 隆起 → Immunologic（I 也是"竖起来"）
+> ```
+>
+> **延伸口诀**：
+> - **"J 在手掌脚底（J 像平的）；O 在指尖（O 像凸起的）"**
+> - **"Painful = Pulpy（指 pulp）= Osler"**
+> - **"Painless = Plantar/Palm = Janeway"**
+> - **"Janeway 的 J 看起来平；Osler 的 O 是鼓的"**
+>
+> ## 易混陷阱（普适）
+> - **干扰项 A（J = 免疫，O = 栓塞）= 经典反向选项** — USMLE 必出至少一道这种反向题
+> - **Roth spots 是免疫复合物**，但**位置在视网膜**，不会和 Janeway/Osler 混
+> - **Splinter hemorrhages 和 petechiae 不分免疫 vs 栓塞** — 普遍是微栓塞
+> - **"急性 vs 亚急性 IE 偏好不同体征"**：急性 (S. aureus) 多 Janeway；亚急性 (viridans/HACEK) 多 Osler+Roth
+> - **临床实际两者鉴别没那么干净**（有 overlap），但 USMLE 题坚持**经典二分**
+>
+> ## 我为什么错
+> - 选了：A. Janeway = immune complex; Osler = septic embolic（带 ? 不确定）
+> - 错因：pattern — 知识点纸面会写但**字母-性质映射没咬死**，反向选项一出就选反
+> - 核心陷阱：**"两个 J / 两个 O" 口诀没建立**，背成了"Janeway 痛、Osler 不痛"或随便记
+>
+> ## Memory Hook
+> - **"两个 J、两个 O"**：**J**aneway = **J**ust spots（J 都是平直）；**O**sler = **O**uch!（O 都是圆鼓）
+> - **机制配字母**：Janeway → **V**ascular（J 像血管直线）；Osler → **I**mmunologic（O 像免疫复合物聚成的球）
+> - **位置配字母**：**J** = surface（手掌足底，**J** like flat）；**O** = digital pulp（**O** like a bump）
+> - **3 秒判断**：题里只要看到 "**Painful** nodule on **finger pad**" → Osler → Immunologic；"**Painless** lesion on **palm/sole**" → Janeway → Vascular
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q: 为什么明明 5/17 笔记里写过原句还选反？
+>   - 学到：纸面知识 ≠ 反应层知识。需要把"字母 ↔ 性质"刻成条件反射，不能依赖临场推理
+>   - 学到：把口诀简化到 "**Just spots / Ouch!**" 两个词，避免临场二选
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （等其他 IE 体征题 / 免疫复合物 vs 栓塞鉴别题积累）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/感染]]
+>   - [[完整笔记/专题笔记/感染_感染性心内膜炎完整体系]] §皮肤体征
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/心内]]（IE 临床表现）
+>   - [[完整笔记/Peixuan分科笔记/眼科]]（Roth spots — 同免疫复合物机制）
+> - 🌱 TODO（待生成衍生）：
+>   - 等积累 IE 经典皮肤/眼底体征题 3-5 道 → 整合到 [[完整笔记/专题笔记/感染_感染性心内膜炎完整体系]] §体征反向陷阱专节
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q14（自测）
+> - [ ] 默写 "两个 J / 两个 O" 口诀
+> - [ ] 默写 IE 5 大皮肤/眼底体征表（Janeway / Osler / Roth / Splinter / Petechiae）
+> - [ ] Anki 卡：正反向各做 1 张 ("Painful nodule finger pad = ?" / "Janeway = ? mechanism")
+> - [ ] UW 搜 `endocarditis cutaneous` / `Janeway` / `Osler` → 找 3 道
+>
+> ---
+>
+> 学科:: 感染
+> 主题:: Janeway vs Osler 反向陷阱 / IE 皮肤体征 / 免疫复合物 vs 栓塞
+> 状态:: 🟡
+> 错因:: pattern
+
+---
+
+> [!example]- [2026-05-18] 肾×心内 / 高钾三联炸弹 vs CKD 底色 (Q19-自测)
+>
+> ## Stem 模式
+> HFrEF + CKD3 + lisinopril + carvedilol + spironolactone + **新加 KCl 20 mEq/d** → 2 周后 K 6.8 + peaked T → 元凶是**三联 K 炸弹**，不是 CKD 单独
+>
+> ## 核心概念
+> **CKD 是底色（permissive），三联药物是 trigger**。两周前还稳定，加 KCl 后才急性飙升 → 病史方向决定责任药物。
+> **三联 K 炸弹** = ACEi/ARB（抑制醛固酮）+ 醛固酮拮抗剂（K-sparing diuretic）+ 外源 K 补充 → 进得来 + 出不去 + 储备耗尽
+>
+> ## 普适规则 — Trigger vs Permissive 思维框架
+>
+> | 维度 | Trigger（急性元凶）| Permissive（慢性底色）|
+> |---|---|---|
+> | 时间线 | **变化前后**有清晰因果 | 长期存在 |
+> | Stem 提示 | "新加 X 药 / 改剂量 / 漏透析 / 急性事件" | "既往 CKD / DM / HF" |
+> | 临床决策 | **停 / 撤掉 trigger** | 调整方案、长期监测 |
+> | 本题对应 | **+ KCl** + 已有 ACEi + spironolactone | CKD3 + HFrEF |
+>
+> **判题口诀**：**"What changed?"** — Stem 里的"新发"事件几乎一定是 trigger，不是 baseline 慢性病。
+>
+> ## 普适规则 — 高钾药物三联炸弹（必背）
+>
+> | 药物类别 | 代表药 | 升 K 机制 | 单用升 K 程度 |
+> |---|---|---|---|
+> | **ACEi / ARB** | lisinopril / losartan | ↓ Aldosterone → 远端集合管不排 K | 轻-中 |
+> | **MRA / K-sparing diuretic** | **spironolactone** / eplerenone / amiloride / triamterene | 直接阻断 ENaC / aldosterone 受体 → K 不排 | 轻-中 |
+> | **K supplement** | KCl PO/IV / 高 K 盐替代品 | 外源直接灌入 | 轻 |
+> | **NSAIDs** | ibuprofen / naproxen | ↓ Renin → ↓ Aldosterone + ↓ GFR | 轻 |
+> | **Trimethoprim** | TMP-SMX | 阻断 ENaC（类 amiloride） | 中 |
+> | **Heparin** | 普通肝素 / LMWH | 抑制 aldosterone 合成 | 轻 |
+> | **β-blocker（非选择性）** | propranolol | β2 阻断 → 阻 K 入细胞 | 极轻 |
+> | **Digoxin（中毒剂量）** | digoxin toxicity | 抑制 Na-K ATPase | 急性中-重 |
+> | **Succinylcholine** | — | K 外漏（去极化） | 急性中（烧伤/挤压/瘫痪患者放大） |
+>
+> ⚠️ **三联及以上 = 必爆**：尤其 ACEi + MRA + K-sparing 同时用是 USMLE 经典致命组合。
+>
+> ## 普适规则 — 高钾 stem 元凶定位 SOP
+>
+> ```
+> Step 1 — 时间线：K 是急性升 (天-周) 还是慢性高？
+>   急性 → 找 trigger（新药 / 漏透析 / 急性肾损伤 / 横纹肌溶解 / 大面积烧伤 / TLS）
+>   慢性 → 找底色（CKD / DM / 长期 MRA）+ 评估 trigger 叠加
+>
+> Step 2 — 药物 list 扫描：
+>   有没有 ACEi/ARB + MRA + KCl 三联？
+>   有没有 NSAIDs / TMP-SMX / heparin 隐藏升 K 药？
+>
+> Step 3 — Acute insult 排查：
+>   AKI（少尿）/ 横纹肌溶解（CK ↑）/ TLS（新化疗 + 高 LDH）/ 输血（库存血）/ 酸中毒
+>
+> Step 4 — 假性高钾排除：
+>   溶血样本 / 紧握拳头 / WBC 或 PLT 极高 → 重抽 / 血浆 K
+> ```
+>
+> ## 易混陷阱（普适）
+> - **干扰项 D（CKD3 单独）**：CKD3 不会单独让稳定病人 2 周内飙到 6.8 — 它是 permissive，不是 trigger
+> - **干扰项 E（饮食）**：饮食 K 一般升不到 6.8（除非橙汁 + 香蕉 + 椰子水 + 盐替代品大量摄入 + 肾不排）
+> - **干扰项 B（spironolactone 单独）**：spironolactone 单用在正常肾功能很少导致 6.8
+> - **PCP 给"腿抽筋"开 KCl**：USMLE 经典 polypharmacy 陷阱（非心衰专科介入 → 不知道患者三联 K 风险）
+> - **"高钾"≠"立刻 IV calcium"**：先看 ECG 表现，无 ECG 改变 + 慢性 = 撤药 + Shift；ECG 改变 = 立刻 Calcium → Shift → Sink
+>
+> ## 我为什么错
+> - 选了：D. CKD stage 3 in isolation（带 ? 不确定）
+> - 错因：pattern — 没把"What changed"放在第一思考步骤，被"CKD"这个显眼的慢性病吸引
+> - 核心陷阱：把 **permissive（底色）** 当成 **trigger（元凶）**
+>
+> ## Memory Hook
+> - **"What changed?"** — 高钾题第一问，不是看 K 多高，而是看时间线变化
+> - **"三联爆 K：A + M + K"** — **A**CEi + **M**RA + **K** supplement，见即报炸
+> - **"CKD 是雷区，KCl 是按钮"** — 雷区一直在，但是按按钮才爆
+> - **"PCP 开 KCl 治腿抽筋 = USMLE 红旗"** — 非心衰专科介入 polypharmacy 必有坑
+> - **隐藏升 K 药 NTSH**：**N**SAIDs / **T**MP-SMX / **S**piro / **H**eparin
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q: 为什么 PCP 会开 KCl？真实场景？
+>   - 学到：腿抽筋的鉴别中"低 K / 低 Mg"是 PCP 常想原因；但 HFrEF + CKD + 多药患者 KCl 是雷
+> - Q: 这道题如果换成"急性 AKI 后 K 6.8" 元凶是谁？
+>   - 学到：那就是 AKI（trigger）+ ACEi 加重；不同 trigger 不同元凶，但思路一致
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （首题，"trigger vs permissive" 在错题本首次出现，等后续 SIADH / 低钠 / 急性肾损伤等鉴别题积累）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（电解质 / 高钾治疗 3S 框架）
+>   - [[完整笔记/Peixuan分科笔记/心内]]（HFrEF GDMT 药物组合 + K 监测）
+>   - [[草稿/2026-05-17_高钾血症完整体系_v1]] §三联炸弹章节（本卡触发增量）
+> - 🏥 跨学科：
+>   - [[完整笔记/专题笔记/USMLE_实验室指纹诊断大全]] §电解质指纹（peaked T → 6.0-6.5 / 宽 QRS → 7-8 / sine wave → 8+）
+> - 🌱 TODO（待生成衍生）：
+>   - 等积累 3-5 道电解质 / 内分泌 / 中毒类 "trigger vs permissive" 题 → 生成 [[完整笔记/专题笔记/_衍生_急性恶化元凶定位_Trigger_vs_Permissive]]
+>   - 等高钾草稿正式化 → [[完整笔记/专题笔记/肾_高钾血症完整体系]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q19（自测）
+> - [ ] 默写 "三联 K 炸弹 A+M+K" + 隐藏升 K 药 NTSH
+> - [ ] 默写 "What changed?" SOP 4 步
+> - [ ] 默写"高钾药物清单 9 类"完整表
+> - [ ] UW 搜 `hyperkalemia medication` → 找 3 道，重点训练 trigger vs permissive 区分
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: 高钾三联 K 炸弹 (ACEi+MRA+KCl) / Trigger vs Permissive 思维 / 隐藏升 K 药
+> 状态:: 🟡
+> 错因:: pattern
