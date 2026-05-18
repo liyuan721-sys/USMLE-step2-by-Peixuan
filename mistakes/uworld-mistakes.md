@@ -7785,3 +7785,213 @@
 > 主题:: TIC / HFrEF 病因鉴别 / AF rate vs rhythm control
 > 状态:: 🟡
 > 错因:: 知识
+
+> [!example]- [2026-05-17] 心内 / 机械瓣新发杂音 → PVD (Q15831)
+>
+> ## Stem 模式
+> 机械瓣置换术后患者 + **新发杂音**（任何方向）+ 无症状 + INR 达标
+> → 别被"无症状 + 抗凝达标"骗
+>
+> ## 核心概念
+> **任何 prosthetic valve（机械 / 生物）出现 new murmur = Prosthetic Valve Dysfunction (PVD) until proven otherwise → Echocardiography 是 next step**
+> - 机械瓣"正常听诊" = crisp metallic **click**，**不是** murmur
+> - 无症状 ≠ 安全；INR 达标 ≠ 万事大吉
+>
+> ## 普适规则 — PVD 4 种机制 vs 杂音方向
+>
+> | 机制 | 杂音方向 | 好发瓣型 | 与抗凝关系 |
+> |---|---|---|---|
+> | **Valve thrombosis** | Systolic (stenosis) | 机械瓣 | 抗凝不足相关 ✓ |
+> | **Paravalvular leak** | Regurgitant（方向取决于瓣位） | 机械 > 生物，**TAVI 最常见** | 与抗凝无关 ✗ |
+> | **Transvalvular regurg** | Regurgitant | 生物瓣（cusp degen） | 与抗凝无关 ✗ |
+> | **Pannus formation** | Stenotic | 两者均可 | 与抗凝无关 ✗ |
+>
+> ## 普适规则 — 机械瓣患者"出现 XX → 想到 YY"速查
+>
+> | 临床线索 | 立刻想到 | 下一步 |
+> |---|---|---|
+> | **新发任何 murmur** | PVD | **Echo** |
+> | **发热 + 新杂音** | Prosthetic valve endocarditis | Blood cultures × 3 + TEE |
+> | **新发心衰症状** | PVD 进展 | Echo |
+> | **栓塞事件** | Valve thrombosis 或 vegetation | TEE |
+> | **贫血 + schistocytes** | Mechanical hemolysis（可能 paravalvular leak） | CBC + smear + LDH + Echo |
+>
+> ## 易混陷阱
+> - ❌ "机械瓣有 murmur 是正常的" → **错**：机械瓣只能 click，不能 murmur
+> - ❌ "INR 达标就没事" → **错**：warfarin 只防血栓型 PVD，防不了瓣周漏 / cusp degen / 心内膜炎
+> - ❌ "无症状就 routine follow-up" → **错**：PVD 早期常无症状，等 HF / 栓塞就晚了
+> - ❌ 看到机械瓣就跳 CBC 查 schistocyte / hypercoag 查血栓 → **跳过了诊断学第一步**（echo 永远先做）
+>
+> ## 我为什么错（个性化陷阱）
+> - 我选了 E（routine follow-up）
+> - 根本错因：**不知道机械瓣的"正常听诊"是 click 而非 murmur**；把"机械瓣听到声音是正常的"扩大为"机械瓣有 murmur 是正常的"
+> - 被"无症状 + INR 达标"双重 reassure → 放弃了进一步检查
+> - **核心 trap**：人工瓣 + new murmur = 红旗，**无视症状、无视抗凝、直接 echo**
+>
+> ## Memory Hook
+> - **"机械瓣只能 click，不能 murmur"** — 听到新杂音 = 红旗，直接 echo
+> - **"NEW murmur on PROSTHETIC valve = ECHO, no debate"** — 刻进脑子
+> - 类比：机械瓣 = 精密金属防盗门，正常只"咔哒"一声；听到漏风声（murmur）= 门框松了（瓣周漏）或门板坏了（瓣内反流）→ 立刻叫维修工（echo）
+> - **抗凝达标 ≠ 零风险**：warfarin 只防血栓，防不了机械 / 感染型 PVD
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - **Q：为什么 left sternal border + breath-hold at expiration？**
+>   - 学到：听诊位置可反推病因 — Left SB = **valvular AR**（瓣膜本身坏，本题 PVD），Right 2nd ICS = **root dilation AR**（Marfan / 主动脉夹层）
+>   - 学到：**RILE 口诀** — Right-Inspiration, Left-Expiration（呼气末屏气增强 = 左心瓣膜）
+>   - 学到：AR 听诊标准姿势 = 坐位前倾 + 呼气末屏气 + 膜面 + 左胸骨旁 3-4 ICS
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （首题，等后续机械瓣 / 心内膜炎 / 瓣膜血栓溶栓 / 瓣周漏溶血等题积累）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/感染]]（prosthetic valve endocarditis — 机械瓣发热 + 新杂音鉴别）
+>   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（mechanical hemolytic anemia + schistocytes — 干扰项 A 的逻辑）
+> - 🌱 TODO（待生成衍生）：
+>   - 等心内瓣膜章节复习完后，请 Claude Code 整合 [机械瓣 / 生物瓣相关错题] → 生成 [[完整笔记/专题笔记/_衍生_人工瓣膜管理]]（正常听诊 / PVD 4 机制 / 新杂音 SOP / 抗凝目标 / 心内膜炎预防 / 术后随访）
+>   - 等积累更多"新发杂音"类错题后，请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_新发杂音决策树]]（自然瓣 vs 人工瓣 vs 妊娠 vs 急性 MI 后 不同语境的 next step）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q15831
+> - [ ] 默写"机械瓣正常听诊 = click，不是 murmur" + PVD 4 机制对应杂音方向表
+> - [ ] 默写"新杂音 SOP"：人工瓣 + new murmur → echo（不管症状、不管 INR、不管时间）
+> - [ ] UW 搜 `prosthetic valve` / `mechanical valve` / `paravalvular leak` 练 3 题
+> - [ ] 串联记忆：机械瓣发热 → BC + TEE；机械瓣栓塞 → TEE；机械瓣贫血 → CBC + smear + echo
+>
+> ---
+>
+> 学科:: 心血管
+> 主题:: Prosthetic Valve Dysfunction (机械瓣新发杂音 → echo)
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-17] OB×心内 / 妊娠晚期新发心衰 → PPCM (Q12118)
+>
+> ## Stem 模式
+> 妊娠最后 1 月 / 产后 5 月内 + **进展性**呼吸困难 + orthopnea + S3 + 心尖部 holosystolic murmur + 双下肢水肿
+> → **不要被"看似异常"的生命体征带偏到产科紧急**
+>
+> ## 核心概念
+> **Peripartum Cardiomyopathy (PPCM)**：妊娠最后 1 月 ~ 产后 5 月内出现的扩张型心肌病
+> - 诊断标准：① LVEF <45% ② LV 扩张 ③ 排除其他原因
+> - 继发 MR 机制：LV dilation → 瓣环扩张 → 心尖部 holosystolic murmur
+> - **Next step: Echocardiography**（唯一确诊工具）
+>
+> ## 普适规则 — 妊娠晚期"呼吸困难/水肿"红旗征
+>
+> | 特征 | 生理性 | 病理性（PPCM） |
+> |---|---|---|
+> | 起病 | 渐进、稳定 | **进展性**加重 |
+> | Orthopnea | 无/轻 | **明显**（不能平卧） |
+> | 劳力耐量 | 轻度↓ | **严重↓**（几步即喘） |
+> | 新杂音 | 生理性 flow murmur (soft, <II/VI, systolic) | **III/VI+、holosystolic、新发** |
+> | Edema | 轻度足踝 | **进展性、双下肢甚至全身** |
+> | S3 | 可有但无症状 | + 症状 = 病理性 |
+>
+> ≥3 项符合 → echo
+>
+> ## 普适规则 — PPCM Urgent Delivery 指征（仅这三种）
+> 1. **血流动力学不稳定**（低血压、休克、需正性肌力药 / 机械支持）
+> 2. **难治性心衰**（药物无效）
+> 3. **胎儿窘迫**
+>
+> → 否则永远先 echo 确诊 + 内科稳定，再决定分娩时机
+>
+> ## 普适规则 — Preeclampsia 诊断硬门槛
+> ```
+> A. BP ≥140/90（间隔 ≥4h × 2 次） ← 硬门槛
+> +
+> B. 至少一项：
+>    - Proteinuria ≥300 mg/24h / P:Cr ≥0.3 / dipstick ≥1+
+>    - 终末器官损害（血小板↓、Cr↑、肝酶↑、肺水肿、神经症状）
+> ```
+> **132/85 ≠ preeclampsia；trace protein ≠ preeclampsia**
+>
+> ## 普适规则 — Decompensated HF 胸片特征
+> ```
+> ┌──────────────────────────────────────────┐
+> │  Decompensated Heart Failure CXR         │
+> ├──────────────────────────────────────────┤
+> │  1. Enlarged cardiac shadow              │
+> │     (心影增大, cardiothoracic ratio >0.5)│
+> │  2. Pulmonary vascular congestion        │
+> │     (双肺门"蝴蝶状"血管影增粗、模糊)     │
+> │  3. Cephalization                        │
+> │     (血流上肺野再分布)                   │
+> │  4. Kerley B lines                       │
+> │     (肋膈角短水平线, 间质水肿)           │
+> │  5. Pleural effusion                     │
+> │     (肋膈角变钝, 常右侧>左侧)            │
+> ├──────────────────────────────────────────┤
+> │  Normal CXR (对照):                      │
+> │  - 心影 <胸廓 1/2                        │
+> │  - 肺野清晰, 血管纹理由肺门向外渐细       │
+> │  - 肋膈角锐利                            │
+> └──────────────────────────────────────────┘
+> ```
+> ⚠️ **但 CXR 不是 PPCM 诊断工具**：
+> - 妊娠晚期生理性心影增大 + 膈肌抬高 → CXR 特异性低
+> - 即使有典型表现也不能确诊 PPCM（需要 echo 看 EF）
+> - CXR 仅辅助评估肺淤血严重程度
+>
+> ## 易混陷阱
+> - ❌ "BP 132/85 = 高血压" → **错**：preeclampsia 硬门槛 ≥140/90
+> - ❌ "HR 112 = 产科紧急" → **错**：心衰**代偿性窦速**，不是 fetal distress
+> - ❌ "妊娠晚期 + 心衰 = 立刻分娩" → **错**：稳定患者先 echo 诊断，不是先 deliver
+> - ❌ "妊娠 + 水肿 + 蛋白尿 = preeclampsia → Mg" → **错**：BP 和蛋白尿都得达标
+> - ❌ "心衰先 CXR" → **错**（在妊娠语境）：echo 优于 CXR，且妊娠期 CXR 特异性更低
+>
+> ## 我为什么错（个性化陷阱）
+> - 我选了 C（immediate delivery）
+> - 根本错因：**生命体征数值判读错误** — 132/85 不是高血压（preeclampsia 标准 140/90）；HR 112 是代偿，不是紧急
+> - 跳过诊断步骤 → 没意识到"echo 永远先做"是稳定患者的硬规则
+> - 概念混淆：把"心衰代偿性 tachycardia"误读为"产科紧急 / 胎儿窘迫"
+> - **核心 trap**：**生命体征"看起来异常" ≠ 临床紧急**；先看数值是否真的达异常阈值，再判断
+>
+> ## Memory Hook
+> - **"妊娠晚期/产后 5 月新发心衰 = PPCM → ECHO"** — 不是先 deliver
+> - **"BP 132/85 不是高血压"** — preeclampsia 硬门槛 **140/90**，不到别动 magnesium
+> - **"HR 112 在心衰是代偿，不是紧急"** — 代偿性窦速 ≠ 产科紧急
+> - **3 P's of PPCM**：**P**eripartum + **P**reserved BP（不一定高）+ **P**rogressive dyspnea
+> - **硬规则**："Stable + heart failure signs = **ECHO**, NOT delivery"
+> - 类比：PPCM = "妊娠把心脏压垮了" — 妊娠后期 blood volume↑50%、CO↑40%，对易感心脏是压力测试
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - **Q：为什么不是 chest x-ray？心衰不是该先拍片吗？**
+>   - 学到：妊娠晚期生理性心影增大 + 膈肌抬高 → CXR 特异性低；echo 才能看 EF 确诊 PPCM
+>   - 学到：CXR 仅辅助评估肺淤血，不能替代 echo
+>   - 学到（图像识图）：decompensated HF CXR 三大特征 = enlarged cardiac shadow + pulmonary vascular congestion（肺门蝴蝶状血管影）+ pleural effusion / Kerley B
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （首题，等后续妊娠心脏病、preeclampsia / eclampsia、产科 vs 内科紧急鉴别题积累）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/心内]]（DCM / heart failure）
+>   - [[完整笔记/Peixuan分科笔记/OB]]（PPCM / 妊娠期心血管疾病）
+> - 🏥 跨学科：
+>   - PPCM 双归属（OB ↔ 心内）
+>   - [[完整笔记/专题笔记/孕期致畸药]]（ACEi/ARB 在 PPCM 治疗中 — 妊娠期禁用、**产后才能用**）
+> - 🌱 TODO（待生成衍生）：
+>   - 等积累 3-5 道妊娠 + 心血管题 → 请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_妊娠期心血管疾病]]（PPCM / preeclampsia 心血管表现 / 既往心脏病合并妊娠 / 妊娠期生理变化 / 安全药物清单）
+>   - 等积累"代偿性 vs 失代偿"类错题 → 生成 [[完整笔记/专题笔记/_衍生_生命体征解读陷阱]]（代偿性 tachycardia / 隐匿性休克 / "看似正常"的危险数值组合）
+>   - 等积累产科 vs 内科紧急鉴别题 → 生成 [[完整笔记/专题笔记/_衍生_妊娠期紧急决策树]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q12118
+> - [ ] 默写 PPCM 三大诊断标准 + 时间窗 + urgent delivery 三大指征
+> - [ ] 默写 preeclampsia 诊断硬门槛（**BP ≥140/90 + 蛋白尿/终末器官损害**）— 避免再误判 132/85
+> - [ ] 默写 decompensated HF CXR 三大特征（心影增大 + 肺血管淤血 + 胸腔积液 / Kerley B）
+> - [ ] UW 搜 `peripartum cardiomyopathy` / `preeclampsia` 各练 3 题，重点判读 BP 数值
+> - [ ] 给 [[完整笔记/专题笔记/孕期致畸药]] 加："ACEi/ARB 在 PPCM 治疗中 — 产后才能用"
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/OB]] 妊娠期心血管部分加 #薄弱点
+>
+> ---
+>
+> 学科:: OB
+> 主题:: PPCM (妊娠晚期/产后新发心衰 → echo) / 妊娠生命体征解读陷阱
+> 状态:: 🟡
+> 错因:: 知识
