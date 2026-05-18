@@ -552,6 +552,28 @@ source_错题: Q17169 触发
 > - **CO**：赖着不走的房客 + 让邻居一起罢工
 > - **Cyanide**：断电的工厂（complex IV 罢工）
 
+### 5.8 "心动过缓 + 低血压"三联中毒（β-blocker / CCB / Digoxin）⭐（来源 [[mistakes/uworld-mistakes#^Q2663]] β-blocker toxicity → Glucagon）
+
+| 共有指纹 | **HR↓↓ + BP↓↓ + IVF/atropine 无效**（"自杀 + 心动过缓 + 低血压"三联触发）|
+|---|---|
+| **β-blocker 特异指纹** | + **Wheezing / bronchospasm**（non-selective）+ **低血糖** + CNS 抑制（脂溶性 propranolol → confusion / seizures）→ 药源：CAD / HTN / AFib / HF / 偏头痛 / 焦虑 |
+| **CCB（verapamil/diltiazem）特异指纹** | + **高血糖**（抑制 β 细胞胰岛素释放）+ 反射性 → 药源：HTN / AFib / SVT |
+| **Digoxin 特异指纹** | + **GI（恶心呕吐）+ 视觉异常（黄/绿视）+ 高钾** + "Scooped" ST + 双向性 VT → 药源：AFib / HF |
+| **机制核心** | β-blocker / CCB 切断心肌 cAMP 通路 → 收缩力↓ + 心率↓；**Glucagon 绕过被阻断的 β-receptor**，从自己的 G-protein 受体直接激活 Gs/AC → ↑cAMP（殊途同归）|
+| **诊断金标准** | 病史 + 用药史 → **药源推断**（CAD/HTN 老人 = BB/CCB 嫌疑；AFib/HF = dig 嫌疑）+ 特异线索（wheezing / 血糖方向 / GI+视觉+K）|
+| **治疗第一步** | **β-blocker → Glucagon 3-10 mg IV bolus + 1-5 mg/h 输注**；**CCB → Calcium + insulin/dextrose（HIE）**；**Digoxin → Digoxin-Fab** |
+| **关键陷阱** | "**Atropine fail → think Glucagon**"（atropine 走 vagal 通路绕不过 β-receptor 阻断）；Dobutamine 在 BB 中毒无效（受体级别被堵）；Pacing 因 cAMP↓ 心肌反应差（capture failure）|
+| **详见** | [[mistakes/uworld-mistakes#^Q2663]] 完整三联鉴别表 + 高频中毒-解毒剂 17 项速查 + β-blocker 选择性差异（cardioselective / non-selective / lipid-soluble）|
+
+> [!success] Stem 触发模式
+> 自杀企图（suicide note）+ CAD/HTN 病史 + bradycardia + hypotension + **wheezing** + IVF/atropine 无效 → **β-blocker → Glucagon**
+> 把"wheezing"或"血糖方向"当作三联中毒的**特异指纹**，不要只看共同症状（brady + hypotension）就乱选 digoxin。
+
+> [!tip] Memory Hook（"3 个 B"）
+> - β-**B**locker → **B**ronchospasm + low **b**lood sugar → Gluca**g**on
+> - CC**B** → **B**ig blood sugar（高血糖）→ Cal**c**ium
+> - Digoxin → **B**owel（GI）+ **B**lurry vision + high K → Fa**b**
+
 ---
 
 ## Part 6. 急诊 / 综合征指纹
@@ -735,6 +757,8 @@ Step 6: 锁定 → 选答案
 - **复习节奏**：考前每周扫一次 Part 1-6（指纹组合默写）+ Part 8（计算公式）；考前 1 周 + Part 7（形态学）
 - **下次升级**：每次错题暴露新指纹病 → 加进对应 Part；积累足够后拆分子衍生
 
-**Last updated**: 2026-05-16 v1.3 — 新增 5.5 慢性酒精性多系统指纹（Q2692 AIC 触发）：MCV↑ + AST/ALT>2:1 + 三系受累 + 多系统连锁 + AIC 戒酒反直觉
+**Last updated**: 2026-05-17 v1.4 — 新增 5.8 "心动过缓+低血压"三联中毒（Q2663 β-blocker toxicity 触发）：BB / CCB / Digoxin 三联指纹（药源 + 血糖方向 + 特异线索 + 解毒剂）+ "Atropine fail → Glucagon" 触发逻辑 + "3 个 B" Memory Hook
+
+**v1.3**（2026-05-16）— 新增 5.5 慢性酒精性多系统指纹（Q2692 AIC 触发）：MCV↑ + AST/ALT>2:1 + 三系受累 + 多系统连锁 + AIC 戒酒反直觉
 
 **v1.2**（2026-05-14）— 新增 6.7 Hypovolemia 脱水四联指纹 + PAI 五联对比（Q21638 Volume-mediated OH 触发）；v1.1 整合 endocrine.md DKA/HHS/SIADH/DI 完整流程 + Type 4 RTA vs DKA vs Addison 三镜像 + Conn 诊断三部曲 + Refeeding 致死机制 + MEN1 3P + HIT/TTP/DIC 药物/产科触发

@@ -7995,3 +7995,124 @@
 > 主题:: PPCM (妊娠晚期/产后新发心衰 → echo) / 妊娠生命体征解读陷阱
 > 状态:: 🟡
 > 错因:: 知识
+
+> [!example]- [2026-05-17] 心内×Tox / β-blocker 中毒 → Glucagon (Q2663)
+> ^Q2663
+>
+> ## Stem 模式
+> 自杀企图（suicide note）+ CAD/HTN 病史 + **bradycardia + hypotension + wheezing** + IVF/atropine 无效
+> → 不要被"自杀 + 心动过缓"带偏到 Digoxin
+>
+> ## 核心概念
+> **β-blocker 中毒 → Glucagon**
+> - 机制：Glucagon 激活心肌 **Gs/AC → ↑cAMP**，**绕过被阻断的 β-receptor**（殊途同归）
+> - Atropine 走迷走神经通路 → 绕不过 β-receptor 阻断 → 在 BB 中毒中**无效**
+> - 剂量：3-10 mg IV bolus（远高于降糖剂量）+ 1-5 mg/h 输注
+>
+> ## 普适规则 — "心动过缓+低血压"三大中毒鉴别 ⭐
+>
+> | 特征 | β-blocker | CCB (verapamil/diltiazem) | Digoxin |
+> |---|---|---|---|
+> | **药源病史** | CAD, HTN, AFib, HF, 偏头痛, 焦虑 | HTN, AFib, SVT | AFib, HF |
+> | **HR/BP** | ↓↓ / ↓↓ | ↓↓ / ↓↓ | ↓ + 多种心律失常 |
+> | **血糖** | **↓ 低血糖** | **↑ 高血糖**（抑制胰岛素释放） | 正常 |
+> | **特异体征** | **Wheezing/bronchospasm** + CNS 抑制（脂溶性 propranolol） | 反射性 / 高血糖 | **GI（恶心呕吐）+ 视觉异常（黄/绿视）** |
+> | **电解质** | 正常 | 正常 | **高钾** |
+> | **ECG** | 窦缓 + AVB | 窦缓 + AVB | "Scooped" ST + 多种心律失常（双向性 VT） |
+> | **解毒剂** | **Glucagon** | **Calcium** + insulin/dextrose | **Digoxin-Fab** |
+>
+> ## 普适规则 — 高频中毒-解毒剂速查
+>
+> | 中毒 | 关键线索 | 解毒剂 |
+> |---|---|---|
+> | β-blocker | Brady + 低血压 + **wheezing + 低血糖** | **Glucagon** |
+> | CCB | Brady + 低血压 + **高血糖** | **Calcium** + insulin/dextrose |
+> | Digoxin | Brady + GI + 视觉 + 高钾 | **Digoxin-Fab** |
+> | Opioid | 瞳孔缩小 + 呼吸抑制 | Naloxone |
+> | Benzo | 意识↓ + 瞳孔正常 | Flumazenil（慎用） |
+> | TCA | 抗胆碱 + **QRS 增宽** | **NaHCO3** |
+> | Acetaminophen | 24-72h 肝衰 | **NAC** |
+> | Salicylate | Tinnitus + 呼碱+代酸 | Alkalinization ± dialysis |
+> | Methanol/EG | AG 代酸 + 视觉/草酸钙结晶 | **Fomepizole** ± dialysis |
+> | Iron | 呕血 + 代酸 + 肝衰 | Deferoxamine |
+> | Lead | 腹痛 + 贫血 + basophilic stippling | Succimer/EDTA/dimercaprol |
+> | Cyanide | 突发崩溃 + 代酸 + 杏仁味 | Hydroxocobalamin |
+> | CO | 头痛 + 樱桃红 + 多人发病 | 100% O2 / HBO |
+> | Organophosphate | SLUDGE + 瞳孔缩小 + fasciculations | **Atropine + 2-PAM** |
+> | Warfarin | 出血 + INR↑ | Vit K ± FFP/PCC |
+> | Heparin | 出血 + aPTT↑ | Protamine |
+> | Methemoglobinemia | 紫绀 + SpO2 ~85% + 棕色血 | Methylene blue |
+>
+> ## 普适规则 — β-blocker 选择性差异
+> - **Cardioselective**（metoprolol, atenolol, bisoprolol）→ β1 为主 → 心脏症状主导
+> - **Non-selective**（propranolol, nadolol, timolol）→ β1+β2 → **+ wheezing**
+> - **Lipid-soluble**（propranolol）→ 过 BBB → **+ confusion, seizures**（直接 CNS 毒性）
+>
+> ## 易混陷阱
+> - ❌ "自杀 + bradycardia + hypotension = digoxin" → **错**：必须找特异线索（wheezing → BB；高血糖 → CCB；GI+视觉 → dig）
+> - ❌ "Atropine 是 bradycardia 的万能解" → **错**：BB/CCB 中毒走的是 cAMP 通路，atropine（迷走神经通路）绕不过
+> - ❌ "心衰加 Dobutamine" → **错**（在 BB 中毒中）：β-receptor 被堵，inotrope 无效；且 β2 激动加重低血压
+> - ❌ "Bradycardia 就 pacing" → **错**（先后顺序）：细胞内 cAMP↓ → 心肌对电刺激反应差（capture failure），先 glucagon 后必要时 pacing
+> - ❌ "看到 cAMP 选 aminophylline" → **错**：理论可行但治疗窗窄，临床用 glucagon
+>
+> ## 我为什么错（个性化陷阱）
+> - 我选了 B（Digoxin-Fab）
+> - 根本错因：**三种"心动过缓+低血压"中毒鉴别不熟** — 把所有"自杀+缓脉"都往 digoxin 跳
+> - 忽略了 stem 给的特异线索 **wheezing**（这是 β-blocker 的招牌，digoxin 不引起）
+> - 没用病史推药源：**CAD/HTN 老人** 药柜里大概率有 β-blocker / CCB，不是 digoxin
+> - 对 glucagon 解毒机制（绕 β-receptor → 激活 Gs → ↑cAMP）不熟
+> - **核心 trap**：中毒鉴别**必须靠特异体征区分**，不能只看共同症状（brady+hypotension）就乱猜
+>
+> ## Memory Hook
+> - **"3 个 B 中毒"鉴别**：
+>   - β-**B**locker → **B**ronchospasm + low **b**lood sugar → Gluca**g**on
+>   - CC**B** → **B**ig blood sugar（高血糖）→ Cal**c**ium
+>   - Digoxin → **B**owel（GI）+ **B**lurry vision + high K → Fa**b**
+> - **"Atropine fail → think Glucagon"** — 标准缓脉处理失败提示细胞内通路问题
+> - **"BB 受体是被锁死的前门，Glucagon 是后门钥匙"** — 同一间房（cAMP 系统），不同入口
+> - **病史 → 药源推断**：CAD/HTN 老人 = BB/CCB；AFib/HF = digoxin 嫌疑↑
+> - **"BB toxicity: Bradycardia, Bronchospasm, Blood sugar low → Glucagon"**
+> - **指纹钩子**：见到 [Brady + 低血压 + IVF/atropine 无效 + wheezing/血糖方向/GI+视觉+K] → 想 [BB/CCB/Digoxin 三联中毒] → 链回 [[完整笔记/专题笔记/USMLE_实验室指纹诊断大全]] **Part 5.8**
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - **Q：为什么 atropine 无效但 glucagon 有效？**
+>   - 学到：Atropine 走 muscarinic 通路（解 vagal tone），但 β-receptor 仍被堵 → 心率上不来
+>   - 学到：Glucagon **绕过 β-receptor**，从自己的 G-protein 受体直接激活 Gs/AC → ↑cAMP（殊途同归）
+> - **Q：为什么不是 dobutamine / pacing？**
+>   - 学到：β-receptor 被堵，inotrope 受体级别无效；且 β2 激动加重低血压
+>   - 学到：BB 中毒时心肌细胞 cAMP↓ → 对电刺激反应差（capture failure）→ pacing 即使捕获节律，收缩力仍弱
+> - **Q：怎么区分三种中毒？**
+>   - 学到：靠**特异线索**（wheezing / 血糖方向 / GI+视觉+高钾），不是共同症状
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （首题，等后续 CCB / digoxin / TCA / 阿司匹林 / 对乙酰氨基酚等中毒题积累）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/心内]]（心血管药物副作用 / BB / CCB / digoxin）
+>   - [[完整笔记/Peixuan分科笔记/pulmonary]]（β-blocker → bronchospasm；哮喘患者用药禁忌）
+>   - [[完整笔记/专题笔记/USMLE_实验室指纹诊断大全]] **Part 5.8** "心动过缓+低血压"三联中毒（本卡触发新建）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/psych]](suicide note + 故意过量 — 急诊高频场景)
+>   - 急诊 / 重症医学（toxicology）
+> - 🌱 TODO（待生成衍生）：
+>   - 等积累 3-5 道中毒题 → 请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_常见中毒与解毒剂速查]]（含上表 + 每种中毒机制流程 + 鉴别要点 + 剂量）
+>   - 等积累"心动过缓+低血压"类错题 → 生成 [[完整笔记/专题笔记/_衍生_Brady+Hypotension鉴别决策树]]（BB / CCB / digoxin / hypothyroid / 高位脊髓损伤 / addisonian crisis 等）
+>   - 等积累"自杀/故意过量"类错题 → 生成 [[完整笔记/专题笔记/_衍生_自杀患者药源推断]]（病史 → 推断药源 → 锁定中毒类型）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q2663
+> - [ ] 默写 **BB/CCB/Digoxin 三联鉴别表**（HR/BP/血糖/特异线索/解毒剂）
+> - [ ] 默写 **glucagon 在 BB 中毒的机制**（绕 β → Gs/AC → ↑cAMP）+ 剂量（3-10 mg IV）
+> - [ ] 默写 **常见中毒-解毒剂表**至少 10 个
+> - [ ] 默写 **"Atropine fail → Glucagon"** 触发逻辑
+> - [ ] UW 搜 `beta blocker toxicity` / `calcium channel blocker overdose` / `digoxin toxicity` 各 3 题
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] BB/CCB/digoxin 章节加 #薄弱点
+>
+> ---
+>
+> 学科:: 心血管
+> 主题:: β-blocker 中毒 / Brady+Hypotension 三联中毒鉴别 (BB/CCB/Digoxin) / Glucagon 解毒
+> 状态:: 🟡
+> 错因:: 知识
