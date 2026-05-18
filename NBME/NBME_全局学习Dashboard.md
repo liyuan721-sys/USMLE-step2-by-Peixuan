@@ -352,7 +352,7 @@ if (filtered.length === 0) {
 3. 反复中招的考点
 4. 陷阱模式归类（trap_type / thinking_error_type / stem_pattern）
 5. 考前 7 天必看清单（30-50 个考点）
-6. vault 笔记建议（哪些主笔记加 #薄弱点 / 哪些生成 _衍生_xxx）
+6. vault 笔记建议（哪些主笔记加「薄弱点」/ 哪些生成 _衍生_xxx）
 ```
 
 ---

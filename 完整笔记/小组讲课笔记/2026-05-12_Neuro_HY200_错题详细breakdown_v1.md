@@ -239,7 +239,7 @@ Major Depressive Disorder
 
 - [ ] **1 周后重做这题**（验证错误模式是否修复）
 - [ ] **默写 DSM-5 MDD 9 项标准**（SIG E CAPS + 抑郁情绪）
-- [ ] **给 [[完整笔记/Peixuan分科笔记/neuro]] 加 #薄弱点 标签**
+- [ ] **给 [[完整笔记/Peixuan分科笔记/neuro]] 加「薄弱点」标签**
 - [ ] **找 3 道 Pseudodementia 相关题练习**（专题强化）
 - [ ] **每天早晨用 Day 1 痴呆 Buzzword 卡（已生成）刷 5 分钟**
 - [ ] **每天做 5 道题强制扫描算法练习**（详见扫描手册 第三部分模板）
@@ -408,7 +408,7 @@ PrP^Sc (异常 prion, β-pleated sheet)
 - [ ] 1 周后重做这题
 - [ ] 默写 5 种不自主运动鉴别表
 - [ ] 默写 CJD 4 大金标准
-- [ ] 给 [[完整笔记/Peixuan分科笔记/neuro]] 加 #薄弱点 #难记
+- [ ] 给 [[完整笔记/Peixuan分科笔记/neuro]] 加「薄弱点」「难记」
 - [ ] 找 3 道不自主运动相关题练习（HD / TD / PD）
 - [ ] 用 Day 1 痴呆 Buzzword 卡每天刷（CJD 是第 5 张）
 
@@ -565,7 +565,7 @@ Sacral CST 最外侧
 - [ ] 1 周后重做这题
 - [ ] **画 Syringomyelia 5 幕剧示意图**（从内向外解剖图）
 - [ ] **默写 Horner 3 级定位与病因表**
-- [ ] 给 [[完整笔记/Peixuan分科笔记/neuro]] 加 #难记 #要做题
+- [ ] 给 [[完整笔记/Peixuan分科笔记/neuro]] 加「难记」「要做题」
 - [ ] 找 3 道 Horner 相关题练习（Pancoast / Wallenberg / 颈动脉夹层）
 - [ ] **建议立即建主笔记** [[完整笔记/专题笔记/神经_Horner综合征]]（这是跨多疾病的高价值 schema）
 

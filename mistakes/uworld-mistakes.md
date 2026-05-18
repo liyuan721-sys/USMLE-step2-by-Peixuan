@@ -263,9 +263,9 @@
 > ## 复盘
 > - [ ] 1 周后重做这题
 > - [ ] 默写"桶装水"反推思路
-> - [ ] 加 #薄弱点 到 [[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - [ ] 加「薄弱点」 到 [[完整笔记/Peixuan分科笔记/Biostats_Master]]
 > - [ ] 找 3 道反推题练习
-> - [ ] 加 #考前必看
+> - [ ] 加「考前必看」
 > 
 > ---
 > 
@@ -337,7 +337,7 @@
 > ## 复盘
 > - [ ] 1 周后重做
 > - [ ] 默写"Sens = 有病阳性；Spec = 无病阴性"
-> - [ ] 加 #薄弱点 #考前必看 到 [[完整笔记/Peixuan分科笔记/Biostats_Master#诊断试验]]
+> - [ ] 加「薄弱点」「考前必看」 到 [[完整笔记/Peixuan分科笔记/Biostats_Master#诊断试验]]
 > 
 > ---
 > 
@@ -430,7 +430,7 @@
 > - [ ] 默写"跷跷板"完整表（含 AUC 不变 ⭐）
 > - [ ] 画 ROC 曲线 + 标关键点（左上角/对角线/AUC）
 > - [ ] 默写 AUC vs Accuracy 区别
-> - [ ] 加 #薄弱点 #难记 #考前必看 到 [[完整笔记/Peixuan分科笔记/Biostats_Master#ROC]]
+> - [ ] 加「薄弱点」「难记」「考前必看」 到 [[完整笔记/Peixuan分科笔记/Biostats_Master#ROC]]
 > 
 > ---
 > 
@@ -514,7 +514,7 @@
 > - [ ] 默写 8 大偏倚 + 控制方法
 > - [ ] 默写"5 大控制 Confounding 方法"
 > - [ ] 区分 Confounding vs Effect Modification
-> - [ ] 加 #薄弱点 #难记 #考前必看 到 [[完整笔记/Peixuan分科笔记/Biostats_Master#Bias]]
+> - [ ] 加「薄弱点」「难记」「考前必看」 到 [[完整笔记/Peixuan分科笔记/Biostats_Master#Bias]]
 > 
 > ---
 > 
@@ -598,7 +598,7 @@
 > - [ ] 默写"PP 同向，NP 反向"
 > - [ ] 默写"SnNout / SpPin"
 > - [ ] 区分"选 sens/spec 高的原因 ≠ 因为 NPV/PPV 高"
-> - [ ] 加 #薄弱点 #难记 #考前必看 到 [[完整笔记/Peixuan分科笔记/Biostats_Master#PPV NPV]]
+> - [ ] 加「薄弱点」「难记」「考前必看」 到 [[完整笔记/Peixuan分科笔记/Biostats_Master#PPV NPV]]
 > 
 > ---
 > 
@@ -675,7 +675,7 @@
 > - [ ] 1 周后重做 + 默写 HR/RR/OR 对比表
 > - [ ] 默写**4 类利尿剂对 K+ 的影响**
 > - [ ] 默写**Thiazide 五大副作用**（"3 Hypo + 3 Hyper"）
-> - [ ] 给 [[完整笔记/Peixuan分科笔记/Biostats_Master]] 加 #薄弱点（HR 部分）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/Biostats_Master]] 加「薄弱点」（HR 部分）
 > - [ ] 整理"看表 SOP（4 步法）"到 [[完整笔记/专题笔记/USMLE_高频评分_公式]]
 > - [ ] 找 3 道 HR 题练习（重点：CI 跨 1 判断）
 > 
@@ -757,7 +757,7 @@
 > - [ ] 1 周后重做 + 默写 RCT 4 类指纹
 > - [ ] 默写 **Study Design 决策树**（RCT 4 类 + 观察性 3 类）
 > - [ ] 整理"**Factorial 的 stem 指纹**"到 [[完整笔记/专题笔记/USMLE_高频陷阱]]
-> - [ ] 给 [[完整笔记/Peixuan分科笔记/Biostats_Master]] 加 #薄弱点（Study Design 部分）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/Biostats_Master]] 加「薄弱点」（Study Design 部分）
 > - [ ] 找 3 道 study design 题（Factorial vs Parallel 辨析）
 > - [ ] **刷题时主动数 "randomized" 次数**（养成习惯）
 > 
@@ -881,7 +881,7 @@
 > - [ ] 默写 **观察性研究 4 类对比表**（分组依据 / 时间方向 / 有无对照）
 > - [ ] 整理"**三不原则**"到 [[完整笔记/专题笔记/USMLE_高频陷阱]]
 > - [ ] 整理"**Bias 状态判断原则**"到 [[完整笔记/专题笔记/USMLE_高频陷阱]]
-> - [ ] 给 [[完整笔记/Peixuan分科笔记/Biostats_Master]] 加 #薄弱点（Study Design 部分）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/Biostats_Master]] 加「薄弱点」（Study Design 部分）
 > - [ ] 在 [[完整笔记/Peixuan分科笔记/儿科]] 补 Pompe disease 笔记（婴儿型 GAA 缺陷、酶替代治疗）
 > - [ ] 找 3 道 study design 题（observational vs experimental 辨析）
 > - [ ] **下次刷题习惯：读 stem 先定位 study type**
@@ -988,7 +988,7 @@
 > - [ ] 默写 **"罕见性决定 design" 决策法则**
 > - [ ] 整理 **"最佳 vs 最合适"原则** 到 [[完整笔记/专题笔记/USMLE_高频陷阱]]
 > - [ ] 整理 **"USMLE Study Design 3 层问法"** 到 [[完整笔记/专题笔记/USMLE_高频评分_公式]]
-> - [ ] 在 [[完整笔记/Peixuan分科笔记/Biostats_Master]] 加 #薄弱点（Case-Control 部分）
+> - [ ] 在 [[完整笔记/Peixuan分科笔记/Biostats_Master]] 加「薄弱点」（Case-Control 部分）
 > - [ ] 找 3 道场景适配题练习（rare disease vs rare exposure 辨析）
 > - [ ] **下次刷题主动识别 stem 关键词**：rare / latent / common / multiple outcomes
 > 
@@ -2638,7 +2638,7 @@
 > - [ ] 默写 **RCT 3 大质控工具时间线表**（Randomization / AC / Blinding）
 > - [ ] 默写 **Randomization vs Matching 区分表**
 > - [ ] 默写 **Power 4 大决定因素** + 4 种假设检验结果
-> - [ ] 给 [[完整笔记/Peixuan分科笔记/Biostats_Master]] 加 #薄弱点（Biostats 基础概念欠扎实）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/Biostats_Master]] 加「薄弱点」（Biostats 基础概念欠扎实）
 > - [ ] 下次看到"baseline 相似" → 强制问"是 randomized 还是 matched？"（看动词）
 > - [ ] 下次看到 Biostats 题 → 强制问"stem 给了什么数据？只能推什么结论？"
 > 
@@ -2718,7 +2718,7 @@
 > - [ ] 1 周后重做 4 道出血处理情境题
 > - [ ] 默写 4 对拮抗剂表（含起效时间）
 > - [ ] 找 3 道 UW 抗凝出血题
-> - [ ] 手动加 #考前必看 / #薄弱点 标签（高频 + 完全空白）
+> - [ ] 手动加「考前必看」/「薄弱点」 标签（高频 + 完全空白）
 > 
 > ---
 > 
@@ -2797,7 +2797,7 @@
 > - [ ] 默写 PE 5 情境 → 诊断 / 治疗第一步双列表
 > - [ ] 找 3 道 UW 不稳定 PE 题
 > - [ ] 找 1 道 TEE 适应症题（主动脉夹层 / 心内膜炎）对比记忆
-> - [ ] 手动加 #考前必看 / #薄弱点 标签
+> - [ ] 手动加「考前必看」/「薄弱点」 标签
 > 
 > ---
 > 
@@ -2894,7 +2894,7 @@
 > - [ ] 默写主动脉四段破裂统一机制
 > - [ ] 找 3 道类似题：AAA stable 处理 / Aortic dissection / 出血性胰腺炎（反向题）
 > - [ ] 建立"体征 ≠ 疾病"思维：先问"指向什么病理过程"，再问"哪些病能造成这过程"
-> - [ ] 手动加 #考前必看 标签（高频 + 经典陷阱）
+> - [ ] 手动加「考前必看」 标签（高频 + 经典陷阱）
 > 
 > ---
 > 
@@ -4222,7 +4222,7 @@
 > - [ ] 默写 **3 种心律失常急救分类**（无脉 / 有脉不稳定 / 有脉稳定）
 > - [ ] 默写 **"看到房颤"答题三步**
 > - [ ] 找类似题：① VF 处理时机 ② 同步复律适应症 ③ 5H5T 各因（PE / tamponade / 高 K / 张力气胸 / hypothermia）④ Asystole 处理 ⑤ ROSC 后管理
-> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加 #薄弱点（ACLS）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加「薄弱点」（ACLS）
 > - [ ] **建立"先看脉搏后看节律"思维**：永远先确认脉搏，再决定治疗
 > - [ ] **修正"房颤 = 复律"反射**：必须先看脉搏 + 稳定性
 > - [ ] **熟记"V 除颤 P/A 按压"口诀**：4 种骤停节律二分
@@ -4500,7 +4500,7 @@
 >   - ⑤ Vasovagal syncope（鉴别）
 >   - ⑥ HCM 运动猝死（鉴别）
 >   - ⑦ Commotio cordis（胸前撞击致 VF）
-> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加 #薄弱点（晕厥章节）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加「薄弱点」（晕厥章节）
 > - [ ] **建立"前驱症状 + 触发"晕厥分类反射**
 > - [ ] **建立"脱水四联指纹"诊断习惯**（与昨日 PAI 五联指纹合并形成"指纹思维"系统）
 > - [ ] **建立"HR 反应分型 OH"思维**：见 OH 题立即问"HR 变化多少？"
@@ -4976,8 +4976,8 @@
 >   - ⑤ 颞叶癫痫 + déjà vu / 嗅觉 aura + automatism
 >   - ⑥ Convulsive syncope（晕厥伴短暂抽搐）
 >   - ⑦ 其他 "No further testing"（典型 GERD / 偏头痛 / 自限感染）
-> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加 #薄弱点（晕厥）
-> - [ ] 给 [[完整笔记/Peixuan分科笔记/neuro]] 加 #薄弱点（癫痫 aura）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加「薄弱点」（晕厥）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/neuro]] 加「薄弱点」（癫痫 aura）
 > - [ ] **建立"反向应用框架"思维**：分类不只是确诊用，也用来"排除 + 不查"
 > - [ ] **修正"过度评估倾向"**：第 2 次掉进，必须警惕（与 Q19889 联动）
 > - [ ] **建立"7 维 + 红旗"扫读习惯**：每道晕厥题先用 7 维分类，再核对 10 条红旗
@@ -5599,7 +5599,7 @@
 > - [ ] **默写 Vaughan-Williams 7 类**（机制 + 代表药 + 适应症 + 主要副作用）
 > - [ ] 默写 "WPW+AF 五大禁药"（ABCD-V）+ 为什么 digoxin 是双重雷
 > - [ ] 默写 Ia vs Ib vs Ic 的区别（特别是为何 lidocaine 不能治 SVT）
-> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加 #薄弱点（抗心律失常药分类）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加「薄弱点」（抗心律失常药分类）
 > - [ ] 找 3 道类似题：WPW+AVRT、WPW+AF、抗心律失常药副作用题
 >
 > ---
@@ -5734,7 +5734,7 @@
 > - [ ] **默写传导系统病变 7 大病因**（特发性纤维化 / 缺血 / 药物 / Lyme / 风湿热 / 浸润性 / 术后）
 > - [ ] 记反射弧：**"老年 + 反复晕厥 + PR 延长 + QRS 延长" → 间歇性 AV block → EP study + pacemaker**
 > - [ ] 记反射弧：**"LVH" 出现 → 默认 EF 正常 / HFpEF / 舒张障碍**
-> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加 #薄弱点（晕厥鉴别 + 缓慢性心律失常 + 传导阻滞病因）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加「薄弱点」（晕厥鉴别 + 缓慢性心律失常 + 传导阻滞病因）
 > - [ ] 找类似题：间歇性 AV 阻滞 / SSS / Stokes-Adams 发作 / 起搏器适应症
 >
 > ---
@@ -5927,8 +5927,8 @@
 > - [ ] **默写 杂音 6 大模式**（ejection / holosystolic / continuous / diastolic decrescendo / diastolic rumble / fixed split S2）
 > - [ ] **默写 HCM vs AS 的 Valsalva / 下蹲反应**（这是高频考点）
 > - [ ] **默写 PGE1 适应症 vs 非适应症**
-> - [ ] 给 [[完整笔记/Peixuan分科笔记/儿科]] 加 #薄弱点（新生儿心脏病 + IDM + 杂音）
-> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加 #薄弱点（杂音识别 + HCM）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/儿科]] 加「薄弱点」（新生儿心脏病 + IDM + 杂音）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加「薄弱点」（杂音识别 + HCM）
 > - [ ] 记反射弧：**"母亲糖尿病 + 巨大儿 + 锁骨骨折" → 立刻把 IDM 所有 transient 并发症过一遍**
 > - [ ] 记反射弧：**"新生儿 SpO₂ 正常" → 不是导管依赖型 CHD → 不需要 PGE1**
 > - [ ] 记反射弧：**"systolic ejection murmur" → 流出道梗阻（AS / PS / HCM）→ 用 Valsalva 鉴别 HCM**
@@ -6152,8 +6152,8 @@
 > - [ ] **默写婴儿心衰 vs 成人心衰对照表**（特别是"婴儿肝缘 1-2 cm 正常"这一条）
 > - [ ] **默写左→右分流 3 大 CHD 鉴别**（VSD / ASD / PDA 杂音 + S2 + 发病时机 + 治疗）
 > - [ ] **默写 VSD 杂音反直觉规律**（小 VSD 大声 / 大 VSD 小声 / Eisenmenger 后消失）
-> - [ ] 给 [[完整笔记/Peixuan分科笔记/儿科]] 加 #薄弱点（先心病时序 + 婴儿心衰识别）
-> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加 #薄弱点（VSD 时序 / Eisenmenger）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/儿科]] 加「薄弱点」（先心病时序 + 婴儿心衰识别）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加「薄弱点」（VSD 时序 / Eisenmenger）
 > - [ ] 记反射弧：**"1-2 月龄 + 喂养困难 + 出汗 + 不发绀 + LLSB holosystolic + thrill" → 大 VSD + 高输出量心衰**
 > - [ ] 记反射弧：**婴儿肝缘 ≤2 cm 正常；> 2 cm 早期淤血；> 4-5 cm 才考虑严重右心衰**
 > - [ ] 记反射弧：**任何先天性左→右分流 CHD 发病时机 → 跟 PVR 下降曲线走**（不是"出生立刻发病"）
@@ -6882,7 +6882,7 @@
 > **✅ 复盘行动**
 > - [ ] 1 周后重做 Q2692（重点：能否一眼锁定 alcohol clue + MCV/LFT）
 > - [ ] 默写心衰题三步法 + 可逆性 DCM 对照表
-> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加 #薄弱点（心衰病因学）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加「薄弱点」（心衰病因学）
 > - [ ] UWorld 搜 alcoholic / peripartum / tachycardia-induced CMP 各 2 题
 > - [ ] 强制习惯：见完整 CBC+LFT 必扫 MCV 和 AST/ALT
 >
@@ -7068,7 +7068,7 @@
 > - [ ] 默写"心音预测三步法"
 > - [ ] 默写"压力 vs 容量超负荷 → 向心 vs 离心 → S4 vs S3"映射
 > - [ ] 默写"MS Loud S1 vs AS Soft A2"的瓣叶机制
-> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加 #薄弱点（瓣膜病心音）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加「薄弱点」（瓣膜病心音）
 > - [ ] UWorld 搜 aortic stenosis / S3 gallop / S4 gallop 各 2-3 题
 > - [ ] 见瓣膜病题强制问：压力 or 容量？瓣叶能动否？
 >
@@ -7191,7 +7191,7 @@
 > - [ ] 默写 S2 异常对应病（固定分裂→ASD, Single→5T, 响亮 P2→PH）
 > - [ ] 默写杂音形状鉴别（Holosystolic / Crescendo-decrescendo / Continuous）
 > - [ ] **用框架强制做 10 道先心病题**，每题写下 5 步答案，不要跳步
-> - [ ] 在 [[完整笔记/Peixuan分科笔记/儿科]] 加 #薄弱点 先心病
+> - [ ] 在 [[完整笔记/Peixuan分科笔记/儿科]] 加「薄弱点」 先心病
 >
 > ---
 >
@@ -7425,7 +7425,7 @@
 > - [ ] 默写 ADHF vs COPD AE 鉴别表
 > - [ ] 默写 ADHF 4 象限分型 + 对应治疗
 > - [ ] 默写 NIPPV 适应证 + 禁忌证
-> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加 #薄弱点
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加「薄弱点」
 > - [ ] 找 3 道类似题（UWorld: "decompensated heart failure" / "NIPPV" / "doxorubicin cardiotoxicity"）
 >
 > ---
@@ -7565,7 +7565,7 @@
 > - [ ] 默写：完全 AV block 逸搏定位 (QRS 宽窄 → 阻滞部位)
 > - [ ] 默写：MI 部位 (RCA vs LAD) → AV block 类型推理
 > - [ ] UWorld 搜索 "AV block" 标签做 3-5 道同类题
-> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加 #薄弱点 (AV block / 传导系统)
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加「薄弱点」 (AV block / 传导系统)
 > - [ ] 养成 ECG 阅读 SOP：心率 → 节律 → P 波 → **PR 间期** → QRS → ST/T → QT（PR 这一步不能跳过）
 >
 > ---
@@ -7987,7 +7987,7 @@
 > - [ ] 默写 decompensated HF CXR 三大特征（心影增大 + 肺血管淤血 + 胸腔积液 / Kerley B）
 > - [ ] UW 搜 `peripartum cardiomyopathy` / `preeclampsia` 各练 3 题，重点判读 BP 数值
 > - [ ] 给 [[完整笔记/专题笔记/孕期致畸药]] 加："ACEi/ARB 在 PPCM 治疗中 — 产后才能用"
-> - [ ] 给 [[完整笔记/Peixuan分科笔记/OB]] 妊娠期心血管部分加 #薄弱点
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/OB]] 妊娠期心血管部分加「薄弱点」
 >
 > ---
 >
@@ -8108,7 +8108,7 @@
 > - [ ] 默写 **常见中毒-解毒剂表**至少 10 个
 > - [ ] 默写 **"Atropine fail → Glucagon"** 触发逻辑
 > - [ ] UW 搜 `beta blocker toxicity` / `calcium channel blocker overdose` / `digoxin toxicity` 各 3 题
-> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] BB/CCB/digoxin 章节加 #薄弱点
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] BB/CCB/digoxin 章节加「薄弱点」
 >
 > ---
 >
@@ -8396,6 +8396,7 @@
 > **判题口诀**：**"What changed?"** — Stem 里的"新发"事件几乎一定是 trigger，不是 baseline 慢性病。
 >
 > ## 普适规则 — 高钾药物三联炸弹（必背）
+>#难记
 >
 > | 药物类别 | 代表药 | 升 K 机制 | 单用升 K 程度 |
 > |---|---|---|---|

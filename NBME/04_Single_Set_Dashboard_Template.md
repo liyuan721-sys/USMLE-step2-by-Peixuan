@@ -340,6 +340,6 @@ if (filtered.length === 0) {
 1. 总体表现：估分、正确率、学科正确率排行
 2. 三类问题题深度分析（引用题号用 `[[NBME12_S{N}_breakdown#^Q###]]` 格式）
 3. 陷阱模式归类：trap_type / thinking_error_type / stem_pattern
-4. 关联到 vault：哪些主笔记加 #薄弱点
+4. 关联到 vault：哪些主笔记加「薄弱点」
 5. 考前必看清单：基于本套 + [[薄弱点]] 的 15-25 个考点
 ```
