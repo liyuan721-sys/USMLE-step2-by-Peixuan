@@ -503,6 +503,103 @@ VF/VT  PEA/  ▼       ▼
 
 ---
 
+## Part 7.5. STEMI 初始稳定化 ⭐⭐⭐（与 ACLS 协同）
+
+> [!info] 与 ACLS 的关系
+> ACLS 处理**已经骤停**的患者（4 节律）。STEMI 是**急性 MI 未骤停但随时可能骤停**的场景 —— 处理目标是 **稳定 + 限制梗死 + 再灌注**，防止演变为 VF / 心源性休克 / 完全 AV block → ACLS。
+> - STEMI 是 ACLS 的"前置场景" + 5T 的 **T**hrombosis (Coronary) 病因
+> - ROSC 后高度怀疑 STEMI → 立即 cath lab（详见 Part 8.2）
+
+### 7.5.1 UWorld 流程图
+
+![[{B655FC07-FC74-4035-A262-B32E35C10996}.png]]
+
+### 7.5.2 初始稳定化 7 项核心用药 ⭐
+
+> [!success] 所有 STEMI 入院 6 项必给（除非禁忌）
+> 
+> | 药 | 剂量 | 机制 | 禁忌 / 注意 |
+> |---|---|---|---|
+> | **Supplemental O₂** | 维持 SaO₂ ≥ 90% | 改善缺血心肌氧合 | **SaO₂ ≥ 90% 不必给**（高氧 → 冠脉收缩 + 自由基损伤）|
+> | **Aspirin** | **325 mg 嚼服** | 不可逆 COX-1 抑制 → ↓TXA2 → ↓血小板聚集 | 活动性出血 / 过敏 |
+> | **P2Y12 inhibitor** | Clopidogrel 600 mg / Ticagrelor 180 mg / Prasugrel 60 mg | ADP 受体阻断 → DAPT 双抗 | Prasugrel 禁用于卒中史 |
+> | **Nitrates** | 舌下 NTG q5min × 3，必要时 IV | ↓preload + 冠脉扩张 → 缓解胸痛 | **禁忌**：SBP < 90 / RV 梗死 / 24h 内 PDE-5 抑制剂 (sildenafil) |
+> | **β-blocker** | 口服 metoprolol 25-50 mg q6-12h | ↓HR + ↓收缩力 → ↓心肌耗氧 + 防 VF | **禁忌 4 条**：低血压 / 心动过缓 / **急性心衰** / heart block ⭐ |
+> | **High-dose statin** | **Atorvastatin 80 mg** | 斑块稳定 + 抗炎 + ↑NO | 无急性禁忌（即使 LDL 已达标也给）|
+> | **Anticoagulation** | UFH / Enoxaparin / Bivalirudin / Fondaparinux | 防血栓蔓延 / catheter thrombosis | 选药取决于 reperfusion 策略（PCI 偏 UFH / bivalirudin；fibrinolysis 偏 enoxaparin）|
+
+### 7.5.3 症状触发 → 二线药决策树 ⭐
+
+> [!warning] 4 个症状 → 4 个对应二线药（独立通路，不冲突）
+> 
+> | 症状 | 二线药 | 禁忌 / 注意 |
+> |---|---|---|
+> | **持续胸痛 + HTN / HF** | **IV nitroglycerin** | 禁忌：低血压 / **RV 梗死** / 重度 AS（前后负荷依赖）|
+> | **持续严重疼痛** | **IV morphine** | 慎用：低血压 / 呼吸抑制；新证据示 morphine 可能 ↓ P2Y12 吸收（不再常规一线） |
+> | **不稳定窦缓** | **IV atropine** 0.5-1 mg | **仅** sinus brady + 症状有效；对 Mobitz II / 3° AVB 无效（infranodal）|
+> | **肺水肿** | **IV furosemide** | 禁忌：**低血压 / 低血容量**（会加重休克）；先确认容量过载 |
+
+### 7.5.4 Reperfusion 决策（核心）
+
+```
+所有 STEMI 患者：
+    │
+    ▼
+评估 PCI 可及性
+    │
+   ┌┴─────────────────────────────────┐
+   ▼                                   ▼
+PCI 90 min 内可达                   PCI > 120 min 不可达
+   │                                   │
+   ▼                                   ▼
+Primary PCI ⭐                     Fibrinolysis (tPA / TNK)
+（door-to-balloon ≤ 90 min）       （door-to-needle ≤ 30 min）
+   │                                   │
+   │                                   ▼
+   │                              ★ 必须 3-24h 内转 PCI 中心
+   │                                   │
+   └────────────┬──────────────────────┘
+                ▼
+         Post-PCI 管理：
+         - DAPT × 12 月
+         - β-B + ACEi + statin + 醛固酮拮抗剂（如 EF<40）
+         - 心脏康复
+```
+
+> [!danger] Fibrinolysis 绝对禁忌（必记 ⭐）
+> - 既往任何颅内出血 / 缺血性卒中（3 月内）
+> - 已知颅内血管畸形 / 恶性肿瘤
+> - 活动性出血（不含月经）
+> - 主动脉夹层疑似
+> - 3 月内严重头部 / 面部外伤
+> - 2 月内颅内 / 脊髓手术
+
+### 7.5.5 高频陷阱
+
+| 陷阱 | 正确认知 |
+|---|---|
+| ❌ 所有 STEMI 都给 β-blocker | ✓ 4 禁忌：低血压 / 心动过缓 / 急性心衰 / heart block |
+| ❌ STEMI + RV 梗死 给 NTG | ✓ RV 梗死前负荷依赖，NTG → 灾难性低血压 → 给液体 + dobutamine |
+| ❌ SaO₂ 95% 也常规吸氧 | ✓ SaO₂ ≥ 90% 不必给（高氧反致害） |
+| ❌ PCI 不可及就先观察 | ✓ 必须 fibrinolysis（除非禁忌），再转 PCI 中心 |
+| ❌ Fibrinolysis 后稳定就不转 PCI | ✓ 3-24h 内必须转（rescue / routine PCI） |
+| ❌ 急性心衰患者给 β-blocker 控率 | ✓ 急性失代偿期暂停 β-B（等稳定后再起） |
+| ❌ STEMI + sinus brady 直接 PPM | ✓ Atropine 一线（inferior MI 后窦缓多迷走介导，可逆） |
+
+### 7.5.6 与 5H5T 的联动
+
+STEMI 在 ACLS 框架中 = **5T 之 Thrombosis (Coronary)**：
+- STEMI → VF / 无脉 VT → ACLS 左路 → ROSC → cath lab
+- STEMI → 完全 AV block（inferior MI / RCA 闭塞）→ 不稳定 → Atropine → TCP → cath lab
+- STEMI → 心源性休克 → IABP / Impella + 紧急 PCI
+- STEMI → 机械并发症（free wall rupture / VSD / papillary muscle rupture，3-5 天）→ 急诊外科
+
+> [!tip] STEMI 5 字记忆
+> **"O-A-P-N-B-S-A"** = O₂ / Aspirin / P2Y12 / Nitrates / β-Blocker / Statin / Anticoag（6 + 1）
+> 二线 4 触发：**"痛 HTN → 硝；剧痛 → 吗；缓 → 阿；水 → 速"**
+
+---
+
 ## Part 8. ROSC 后管理（Post-Cardiac Arrest Care）
 
 ### 8.1 立即处理 4 步
@@ -660,4 +757,4 @@ VF/VT  PEA/  ▼       ▼
   - Day 4：三种"电"方式（Part 5） + 房颤决策（Part 7）
   - Day 5：全套默写 + ROSC 管理（Part 8）
 
-**Last updated**: 2026-05-15 v1.1（扩展 3.2.1 张力性气胸 / 3.2.2 心包穿刺 / 3.2.3 解毒剂详解）
+**Last updated**: 2026-05-17 v1.2（新增 Part 7.5 STEMI 初始稳定化：UWorld 流程图 + 7 项核心用药 + 4 触发二线药 + Reperfusion 决策 + fibrinolysis 禁忌 + 与 5H5T 联动；修正首页裸图位置）

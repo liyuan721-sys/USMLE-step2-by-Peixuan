@@ -116,13 +116,24 @@ Phase 0 →     ↘
 
 ### 3.3 禁忌
 
-> [!warning] β-blocker 禁忌
-> - 严重哮喘 / COPD 急性（用 β1 选择如 Metoprolol，但慎用）
-> - 急性失代偿心衰
-> - 2-3 度 AV block（无起搏器）
-> - 严重心动过缓 / 病窦
-> - 急性可卡因中毒（unopposed α → HTN 危象，慎用）
-> - 嗜铬细胞瘤未先 α-block（同上）
+> [!warning] β-blocker 禁忌完整场景表 ⭐
+> 
+> | 场景 | 机制 | 临床替代 / 注意 |
+> |---|---|---|
+> | **严重哮喘 / COPD 急性** | β2 阻断 → 支气管收缩 | β1 选择性（metoprolol / bisoprolol），仍慎用 |
+> | **急性失代偿心衰**（ADHF 急性期） | 负性肌力 → 加重充血 / 休克 | **稳定后再起**；euvolemic 时低剂量起步（carvedilol / metoprolol succ / bisoprolol） |
+> | **2-3° AV block**（无起搏器） | 抑制 AV 结传导 → 完全阻滞 | 先 PPM 再考虑 β-B |
+> | **严重心动过缓 / 病窦** | ↓ SA / AV 结自律性 | 先 PPM；或非负性变时药 |
+> | **STEMI 急性期**（任 1 条满足） | 4 禁忌：低血压 / HR < 50 / 急性 HF / heart block | 待稳定后起；详见 [[完整笔记/专题笔记/心内_ACLS急救决策树]] Part 7.5 |
+> | **急性可卡因中毒** | 突触 NE↑↑ + β2 阻 → α1 unopposed → 冠脉痉挛 / HTN 危象 | **BZD（lorazepam）+ CCB / 硝酸酯**；禁用任何 β-B（包括 labetalol，因 α:β = 1:7 仍不平衡）|
+> | **嗜铬细胞瘤未先 α-block** | 肿瘤儿茶酚胺 + β2 阻 → α1 unopposed → HTN 危象 | **先 phenoxybenzamine 7-14 天 → 再加 β-B 控反射性心动过速 → 手术** |
+> | **Vasospastic / Prinzmetal angina** | β2 阻 → 失去冠脉扩张缓冲 → 痉挛加重 | **CCB（diltiazem / amlodipine）** 一线；舌下 NTG 急救 |
+> | **WPW + AFib** | β-B 阻断 AV 结 → 旁道优先传导 → VF | **Procainamide / Ibutilide / 电复律**（详 Part 5 IA 类） |
+
+> [!tip] 共同主线 — "Unopposed α1 三大场景"
+> 后 3 行（可卡因 / 嗜铬 / Vasospasm）共享机制：**β2 阻断 → 血管失去扩张缓冲 → α1 收缩无对抗 → 痉挛 / HTN 危象**。
+> 一句话：**"看到 unopposed α1 三连，永远不上单 β-B"**。
+> 来源 [[mistakes/uworld-mistakes#^Q2723]] Vasospastic Angina 用药。
 
 ---
 

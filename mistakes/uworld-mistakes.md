@@ -7673,3 +7673,115 @@
 > 主题:: Vasospastic Angina 用药 / Unopposed α1
 > 状态:: 🟡
 > 错因:: 知识
+
+> [!example]- [2026-05-17] 心内 / Tachycardia-Induced Cardiomyopathy (Q4238)
+>
+> ## Stem 模式
+> 既往体检正常（关键！）+ 数周-数月乏力/dyspnea + AF with RVR（HR >100，不规则，无 P 波）+ 新发 HFrEF（LV 扩张 + global hypokinesis + EF↓）+ 继发性中心性 MR → **Tachycardia-Induced Cardiomyopathy (TIC)**
+>
+> ## 核心概念
+> 持续性快速心律（数周+）→ 心肌能量耗竭 + Ca²⁺ handling 异常 + 神经体液激活 → LV 扩张 + 收缩力↓ → HFrEF。**这是少数可逆的 HFrEF 之一** — 控制心率 / 转复心律 → EF 数周-数月内恢复，继发 MR 也随之改善。
+>
+> ## RVR 定义
+> RVR = **Rapid Ventricular Response** = 房颤伴心室率 >100。Stem 常写"AF with RVR"或"HR 130/min, irregularly irregular, no P waves"。
+>
+> ## 普适规则 — HFrEF 病因鉴别（CHIMP-AT）
+>
+> | 病因 | Stem 关键线索 | 病因导向治疗 | 可逆性 |
+> |---|---|---|---|
+> | **C**AD / Ischemic CMP | CAD 危险因素 + **节段性** hypokinesis | Revascularization | 部分 |
+> | **H**TN / Hypertensive CMP | 长期未控高血压 | 降压 + GDMT | 部分 |
+> | **I**nfection / Myocarditis | 前驱病毒感染 + troponin↑ | 支持 + 病因治疗 | 部分 |
+> | **M**etabolic | 甲亢 (TSH↓) / B1↓ (wet beriberi) / hemochromatosis (色素沉着+糖尿病+肝病) | 治原发 | 高 |
+> | **P**eripartum CMP (PPCM) | 孕末期 - 产后 5 个月 | 标准 HF 治疗 + 时间 | ~50% |
+> | **A**lcohol / **A**rrhythmia (TIC) | 慢性酗酒 (>10 年) / **既往正常 + 持续 tachycardia + 新发 HFrEF** | 戒酒 / 控率或转律 | 高 |
+> | **T**akotsubo CMP | 急性应激（情绪/躯体）+ apical ballooning | 支持治疗 | 数周内 |
+> | **T**oxin | 化疗（doxorubicin / trastuzumab）+ 用药史 | 停药 | 部分 |
+>
+> ## 普适规则 — TIC 治疗策略对比
+>
+> | 干预 | 在 TIC 中的作用 | 用于其他 HFrEF？ |
+> |---|---|---|
+> | **Rate control**（β-blocker / 非 DHP CCB / digoxin） | ✅ **首选** — 直接逆转病因 | — |
+> | **Rhythm control**（电复律 / 抗心律失常药） | ✅ 备选 — 同样逆转病因 | — |
+> | 利尿（减 preload） | ⚠️ 缓解充血但不逆转 | ✅ 对症 |
+> | ACEi / ARB（减 afterload） | ⚠️ 长期预后改善但不针对 TIC 病因 | ✅ GDMT |
+> | Inotropes（digoxin / dobutamine） | ⚠️ 对症（digoxin 可辅助控率） | ✅ 急性失代偿 |
+> | Coronary revascularization | ❌ 病因不符（非缺血） | ✅ 缺血性 CMP |
+> | Valve surgery | ❌ MR 是继发的，控率后自行改善 | — |
+>
+> ## 普适规则 — AF 长期管理：Rate-control vs Rhythm-control（UW 官方表）
+>
+> | 策略 | 具体手段 | 抗凝 |
+> |---|---|---|
+> | **Rate-control** | **AV 结阻断**：<br>• β-blockers<br>• Non-DHP CCBs（diltiazem / verapamil）<br>• Digoxin | ✅ Usually indicated |
+> | **Rhythm-control** | • **电复律**（electrical cardioversion）<br>• **药物复律**：flecainide, amiodarone（抗心律失常药）<br>• **射频消融**（radiofrequency ablation） | ✅ Usually indicated |
+>
+> > [!info] 关键洞察
+> > - **两种策略长期临床结局大致相当** — 选哪种取决于个案（房颤持续时间、症状、患者偏好）
+> > - **抗凝独立于策略选择** — 无论 rate 还是 rhythm control，都要根据 CHA₂DS₂-VASc 评估抗凝
+> > - **β-blocker / 非 DHP CCB 是 rate control 的支柱**，digoxin 是辅助（尤其合并 HFrEF 时）
+> > - **DHP CCB（amlodipine / felodipine）不用于 rate control**（不阻断 AV 结）
+>
+> ## 易混陷阱（普适）
+> - HFrEF 病因很多 → 看到 EF↓ **先问病因**，不要条件反射 GDMT
+> - "既往体检正常" + "新发 HFrEF" = **可逆病因强烈信号**
+> - **HFrEF 一般是 preload 过多（需利尿减容量），不是 preload 不足** — 不要"增加前负荷"
+> - 继发性 MR（LV 扩张引起的中心性 MR）→ 治原发病，不修瓣膜
+> - **全局**（global）hypokinesis ≠ **节段性**（segmental）→ 不太像 CAD
+> - 2 次 binge drinking ≠ alcoholic CMP（后者需慢性大量饮酒 >10 年）
+> - "Rate control"和"rhythm control"在 TIC 中都是病因治疗，**任选**
+> - **DHP CCB ≠ Non-DHP CCB**：只有非 DHP（diltiazem / verapamil）能控心率
+> - Digoxin 在 AF 中是 rate control（不是 rhythm control）— 阻断 AV 结
+>
+> ## 我为什么错
+> - 选了 D. Preload optimization
+> - 思路："HFrEF → 应该增加前负荷"
+> - 根本错因：
+>   - ☑ **概念本身错了**：HFrEF 通常是 preload 过多（容量超载），需**减**前负荷（利尿） — Frank-Starling 曲线在 HFrEF 中平坦，加 preload 不会显著增 CO 反而加重充血
+>   - ☑ **没识别病因**：把 TIC 当普通慢性 HFrEF 处理
+>   - ☑ **没抓"可逆性"信号**：6 个月前正常 + AF with RVR + 新发 HFrEF
+> - 核心陷阱：**"对症"vs"对因"** — HFrEF 看到要先问"**病因是什么？能不能去除？**"
+>
+> ## Memory Hook ⭐
+> - **一句话锁定**：**"既往正常 + 长期 tachycardia + 新发 HFrEF = TIC = 控率"**
+> - **TIC 三联征**：长期 tachycardia + 新发 HFrEF + 既往心功能正常
+> - **类比挂钩**：**"心跳太快累垮的心，让它歇歇就好了"** — 控率而非加药堆叠
+> - **HFrEF 病因口诀**：**CHIMP-AT**（CAD / HTN / Infection / Metabolic / Peripartum / Alcohol-Arrhythmia / Takotsubo / Toxin）
+> - **决策口诀**：**"看到 EF↓ 先问 3 个 W"** — When started（多久）/ Why（病因）/ Will it reverse（可逆吗）
+> - **AF 管理口诀**：**"Rate or Rhythm, both need 抗凝"** — 两策略结局相当，抗凝独立决定
+> - **Rate control 三件套**：**β-blocker / 非 DHP CCB / Digoxin**（都是 AV 结阻断）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q1: "RVR 是什么" → 学到 RVR = Rapid Ventricular Response = AF + HR >100；持续 RVR 是 TIC 的核心病因
+> - Q2: "CMP 是什么缩写" → 学到 CMP = Cardiomyopathy（心肌病）；三大分型 DCM / HCM / RCM；前缀决定具体病因（ischemic / alcoholic / peripartum / Takotsubo / TIC 等）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （首题，TIC / HFrEF 病因鉴别在错题本中首次出现，等后续题积累）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/endocrine]]（甲亢 / hemochromatosis 也是可逆 HFrEF 病因）
+>   - [[完整笔记/Peixuan分科笔记/OB]]（peripartum CMP 也是可逆 HFrEF）
+> - 🌱 TODO（待生成衍生）：
+>   - 等心内积累 3-5 道 HFrEF 病因题（TIC + alcoholic + peripartum + takotsubo + myocarditis）后，请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_HFrEF可逆病因鉴别]]
+>   - 等积累 2-3 道 AF 题后 → 生成 [[完整笔记/专题笔记/_衍生_房颤管理流程]]（rate vs rhythm control 决策 + CHA₂DS₂-VASc 抗凝）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q4238
+> - [ ] 默写 CHIMP-AT 表 4 列（病因 / Stem 线索 / 治疗 / 可逆性）
+> - [ ] 默写 TIC 三联征 + 治疗逻辑
+> - [ ] 默写 TIC 治疗策略 7 行对比表
+> - [ ] 默写 AF Rate-control vs Rhythm-control 两栏（具体手段 + 抗凝）
+> - [ ] **澄清概念错误**：HFrEF 通常**减**前负荷（利尿）而非增加 → 给 [[完整笔记/Peixuan分科笔记/心内]] 加 #搞不懂
+> - [ ] UW 搜 "tachycardia-induced cardiomyopathy" / "reversible cardiomyopathy" / "atrial fibrillation rate control" → 各做 2-3 道
+> - [ ] 把 "既往正常 + 新发 HFrEF + 持续 tachycardia = TIC" + CHIMP-AT + Rate control 三件套写到 Anki
+>
+> ---
+>
+> 学科:: 心血管
+> 主题:: TIC / HFrEF 病因鉴别 / AF rate vs rhythm control
+> 状态:: 🟡
+> 错因:: 知识

@@ -283,6 +283,22 @@ QRS 节律 (规律, 室率 35):    QRS  ─  QRS  ─  QRS
          └─ 临时起搏 → PPM (不可逆)
 ```
 
+### 5.4 与 STEMI 初始稳定化的整合 ⭐
+
+> [!info] STEMI 急性期遇到 AV block 怎么办？
+> ![[{B655FC07-FC74-4035-A262-B32E35C10996}.png]]
+> 
+> **UWorld STEMI 流程图核心 — AV block 相关 2 个分支**：
+> - **Unstable sinus brady / Mobitz I（下壁 MI / RCA 闭塞）** → **IV Atropine 0.5-1 mg** → 多可逆
+> - **Mobitz II / 3° AV block（前壁 MI / LAD 闭塞）** → 跳过 atropine（infranodal 无效，详 §6 danger callout）→ **Transcutaneous pacing → 紧急 PCI → 视情况 PPM**
+> 
+> **关键陷阱**：
+> - STEMI 标准入院方案含 **β-blocker** — 但 **AV block / HR < 50 / 急性 HF / 低血压**任 1 条 → **暂停 β-B**（详 [[完整笔记/专题笔记/心内_Vaughan_Williams抗心律失常药#3.3 禁忌]]）
+> - 下壁 MI 后窦缓 + 低血压 → 先想 **RV 梗死**（不给 NTG，给液体）+ atropine
+> - 前壁 MI + 新发 3° AV block = 大面积梗死 → **预后差**，紧急 PCI + 临时起搏
+> 
+> 详见 [[完整笔记/专题笔记/心内_ACLS急救决策树]] **Part 7.5 STEMI 初始稳定化**。
+
 ---
 
 ## 6. 自主神经 / 药物试验：鉴别近端 vs 远端阻滞
