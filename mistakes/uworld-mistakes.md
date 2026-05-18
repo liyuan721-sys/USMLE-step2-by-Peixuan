@@ -7574,3 +7574,102 @@
 > 主题:: Mobitz I vs II AV Block 鉴别 / ECG R-R vs PR 阅读习惯
 > 状态:: 🔴
 > 错因:: pattern
+
+## 2026-05-17
+
+> [!example]- [2026-05-17] 心内 / Vasospastic Angina 用药 (Q2723)
+>
+> ## Stem 模式
+> 年轻吸烟者（<50，无 HTN/DM）+ 夜间/静息胸痛 + 自发缓解 ≤15 min + 发作时一过性 ST 抬高 + 冠脉造影正常 → **Vasospastic (Prinzmetal) Angina**
+>
+> ## 核心概念
+> 冠脉平滑肌 hyperreactivity → 间歇性冠脉痉挛。治疗 = **扩张冠脉 / 阻断 Ca²⁺ 内流**，不是减心肌耗氧。
+> - 预防一线：**CCB**（diltiazem / amlodipine）
+> - 急性发作：**舌下 NTG**
+> - 必须戒烟
+>
+> ## 普适规则 — Stable vs Vasospastic Angina 完整对比
+>
+> | 维度 | Stable Angina (Atherosclerotic) | Vasospastic Angina (Prinzmetal) |
+> |---|---|---|
+> | 病因 | 冠脉斑块固定狭窄 | 冠脉平滑肌 hyperreactivity |
+> | 诱因 | 劳力、情绪 → 心肌耗氧↑ | 静息、夜间、吸烟、可卡因 |
+> | 发作时间 | 白天活动时 | **夜间 / 凌晨**（自主神经失衡） |
+> | 持续时间 | 数分钟，停劳即缓解 | **10-15 min 自发缓解** |
+> | 典型人群 | 中老年，多 CAD 危险因素 | **<50 岁，吸烟，少其他危险因素** |
+> | ECG（发作时） | ST **压低** | ST **抬高**（一过性） |
+> | 冠脉造影 | 固定狭窄 | **正常或仅轻度斑块** |
+> | 预防一线 | β-blocker（首选）/ CCB / 硝酸酯 | **CCB（diltiazem/amlodipine）** |
+> | 急救 | 舌下 NTG | 舌下 NTG |
+> | β-blocker | ✅ 首选 | ❌ **禁忌**（unopposed α1） |
+> | Aspirin | ✅ 必用 | ⚠️ 避免（抑制 prostacyclin） |
+> | 生活方式 | 控制危险因素、运动 | **戒烟**（最重要）、避免可卡因/麻黄碱 |
+>
+> ## 普适规则 — Unopposed α1 三大经典场景
+>
+> | 场景 | 儿茶酚胺来源 | 为什么单用 β-blocker 危险 | 正确处理 |
+> |---|---|---|---|
+> | **Pheochromocytoma** | 肿瘤自主分泌 | β2 阻断 → α1 unopposed → HTN 危象 | **先 α（phenoxybenzamine）再 β** |
+> | **Cocaine chest pain** | 可卡因抑制 NE 再摄取 → 突触 NE↑↑ | β2 阻断 → α1 unopposed → 冠脉痉挛加重 | 苯二氮䓬类（lorazepam）+ CCB / 硝酸酯；禁用 β-blocker |
+> | **Vasospastic angina** | （非儿茶酚胺驱动，但 α1 仍在背景活动） | β2 阻断 → 失去冠脉扩张 → 痉挛加重 | CCB（diltiazem/amlodipine）；禁用非选择性 β-blocker |
+>
+> 共同机制：β2 阻断 → 血管失去扩张缓冲 → α1 收缩无对抗 → 痉挛 / HTN 危象
+>
+> ## 普适规则 — α-blocker 药物选择（Pheo 专用）
+>
+> | 药物 | 类型 | 适用场景 |
+> |---|---|---|
+> | **Phenoxybenzamine** | 不可逆，非选择性 α1+α2 | **Pheo 术前首选**（长效，充分阻断 7-14 天） |
+> | **Phentolamine** | 可逆，非选择性 α1+α2 | **术中 / 急性危象**（短效，静推） |
+> | Prazosin / Doxazosin / Terazosin | 可逆，选择性 α1 | BPH、HTN；Pheo 备选（不如 phenoxybenzamine 完全） |
+>
+> ## 易混陷阱（普适）
+> - "Angina" 不是一类病 — 病理生理决定用药，不能条件反射开 β-blocker
+> - "Antianginal" ≠ 通用：Ranolazine 只用于 stable CAD，对 vasospasm 无效
+> - 看到"胸痛 + 冠脉正常"必须想 vasospasm，不要纠结 ACS
+> - Cilostazol 是 PAD 药，不是冠脉药
+> - Aspirin 在 vasospasm 中会加重痉挛（抑制 PGI₂）
+>
+> ## 我为什么错
+> - 选了：F. Propranolol
+> - 思路："胸痛 + angina → β-blocker"（条件反射）
+> - 根本错因：☑ 概念混淆（把所有 angina 治疗当一类）+ ☑ 没把"诊断"和"用药机制"串起来
+> - 核心陷阱：诊断对了，但没意识到 β-blocker 对**血管平滑肌痉挛**是**有害**的
+>
+> ## Memory Hook
+> - **"Spasm needs Space, not a Brake"** — 痉挛要"撑开"（CCB），不要"刹车"（β-blocker）
+> - **"Alpha first, Beta second — never the reverse"**（pheo 顺序）
+> - **Phenoxybenzamine** = "Phix it **Yesterday**"（术前**提前**用，长效）
+> - **Phentolamine** = "Phix it **Minute-by-minute**"（术中急救，短效）
+> - β-blocker 遇到 α1 没人管的场景 = 灾难
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q1: "什么是先用 alpha 再用 beta 的" → 学到 pheo 术前必须 phenoxybenzamine 先用 7-14 天，再加 β-blocker 控制反射性心动过速
+> - Q2: "嗜铬细胞瘤单用 β-blocker 怎么回事" → 学到机制 = β2 阻断让血管失去扩张缓冲 + α1 unopposed → HTN 危象
+> - Q3: "三个场景是说错误使用对吧" → 确认这三条记的是**踩雷模式**（疾病 + 错误用药 = 触发 unopposed α1），不是正确治疗
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （首题，vasospastic angina + unopposed α1 在错题本中首次出现，等后续题积累）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/endocrine]]（pheochromocytoma 术前用药顺序，同 unopposed α1 机制）
+> - 🌱 TODO（待生成衍生）：
+>   - 等心内积累 3-5 道 angina 题后，请 Claude Code 整合 stable / unstable / vasospastic / cocaine-induced 四类胸痛 → 生成 [[完整笔记/专题笔记/_衍生_Angina四鉴别用药对照]]
+>   - 等积累 2-3 道 unopposed α1 题（vasospasm + cocaine + pheo）后 → 生成 [[完整笔记/专题笔记/_衍生_Unopposed_Alpha_禁用β阻断剂场景]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q2723
+> - [ ] 默写 "Stable vs Vasospastic Angina 完整对比表"（13 行）
+> - [ ] 默写 "Unopposed α1 三大场景 + 正确用药"
+> - [ ] 默写 "Pheo 术前用药顺序（α 7-14 天 → β → 手术）+ phenoxybenzamine vs phentolamine 区别"
+> - [ ] UW 搜 "vasospastic angina" / "cocaine chest pain" / "pheochromocytoma preoperative" → 各做 2-3 道
+> - [ ] 把 4 个 Memory Hook 全部写到 Anki
+>
+> ---
+>
+> 学科:: 心血管
+> 主题:: Vasospastic Angina 用药 / Unopposed α1
+> 状态:: 🟡
+> 错因:: 知识
