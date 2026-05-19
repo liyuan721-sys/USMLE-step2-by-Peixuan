@@ -8892,3 +8892,111 @@
 > 状态:: 🟡
 > 错因:: 知识
 
+> [!example]- [2026-05-18] 心内 / AF 复发筛 OSA + CSM/Atropine 适用边界 (Q21530)
+> ^Q21530
+>
+> ## Stem 模式
+> 中老年 + **paroxysmal AF 复发**（cardioversion 后再发）+ **BMI ≥30** + 常规检查（TFT/echo/电解质）全阴性 + 无 chest pain/syncope + daytime O2 正常 → 问下一步管理。
+>
+> ## 核心概念
+> **AF 复发 + 肥胖 + 常规检查阴性 → 筛 OSA (sleep study)**
+>
+> OSA 通过两条路径促 AF：
+> 1. 夜间低氧 → 肺血管收缩 → 右房扩张（结构重构）
+> 2. 慢性交感激活 → 心房自律性↑（电重构）
+>
+> 治 OSA（CPAP + 减重）显著降低 AF 复发率。
+>
+> ## 普适规则
+>
+> ### AF 复发"必查清单"
+>
+> | 病因 | 筛查 | Stem 提示 |
+> |---|---|---|
+> | **OSA** ⭐ | Sleep study (PSG) | **BMI ≥30**, snoring, daytime fatigue |
+> | Hyperthyroidism | TSH | Weight loss, tremor, heat intolerance |
+> | Alcohol | History | "Holiday heart" |
+> | HTN | BP | LVH on echo |
+> | Valvular (MS) | Echo | Diastolic murmur |
+> | HFpEF | Echo (diastolic dysfunction) | DOE, edema |
+> | PE | CTPA | Chest pain, syncope, hypoxia |
+> | Pheo（罕见）| Plasma metanephrines | Episodic HTN + headache + sweating 三联征 |
+>
+> ### 心律失常诊断/操作工具 — 适用场景对照
+>
+> | 工具 | 适用 | 机制 | 不适用 |
+> |---|---|---|---|
+> | **CSM / Vagal** | AVNRT, AVRT（规则窄 QRS SVT）；房扑揭示 F 波 | ↑迷走 → ↑AV 阻滞 | ❌ AF；❌ 不定位起搏点 |
+> | **Adenosine** | AVNRT 终止；房扑揭示 F 波；宽 QRS 鉴别 SVT vs VT | 短暂完全 AV 阻滞 | ❌ AF；❌ 不定位起搏点 |
+> | **Atropine** | 症状性 brady / AV block；**鉴别 nodal vs infranodal** | 抗迷走 → ↑SA 放电 + ↑AV 传导 | ❌ AF（加速室率）；❌ 不定位起搏点 |
+> | **EPS** | 精确定位起搏点 + mapping 折返环 + 消融 | 心内电极 | — |
+>
+> ### AV block 定位（Atropine 反应）
+>
+> | | Nodal (AV 结) | Infranodal (His 以下) |
+> |---|---|---|
+> | QRS escape | **窄** (junctional 40-60) | **宽** (ventricular 20-40) |
+> | 类型 | 1° AVB, Mobitz I | Mobitz II, 3° 高位 |
+> | 诱因 | **下壁 MI** (RCA), ↑迷走 | **前壁 MI** (LAD), 退行性 |
+> | **Atropine** | ✅ 有效（迷走支配） | ❌ 无效/恶化（无迷走支配） |
+> | 预后 | 良性自限 | 危险 → **起搏器** |
+>
+> **为什么 atropine 对 infranodal 恶化**：窦房结放电↑ → 心房率↑，但 His-Purkinje 传不动 → 房室比例 2:1 → 3:1/4:1 → 心室率反而下降。
+>
+> ## 易混陷阱
+> - **CSM 治 R（regular）不治 I（irregular）** — AF 不规则乱搏，CSM 无诊断也无治疗价值
+> - **AF 已确诊** → 问的是"长期管理 / 找可逆病因"，不是"诊断心律失常"
+> - **罕见病不做首选筛查** — pheo 极罕见且无三联征，先查高产出的 OSA
+> - **dyspnea + AF ≠ PE** — 要看完整图景（无 chest pain/syncope，daytime O2 正常 → PE 概率极低）
+> - **CSM / Adenosine / Atropine 都不定位起搏点** — 只有 EPS 能精确定位
+>
+> ## 我为什么错
+> 选了 **A. Carotid sinus massage**，思路："CSM 可以区分异常起搏点位置（junctional vs 远端）"
+>
+> **根本错因**：
+> - 概念混淆 — 把 AVNRT/SVT 诊断流程套到已确诊 AF 上
+> - CSM 真实功能是"延缓 AV 传导"，**不是定位起搏点**（那是 EPS 的事）
+> - 没识别 BMI 35 这个 trigger word
+>
+> ## Memory Hook
+> - **"BMI ≥30 + AF 复发 + 常规检查正常 → 闭眼选 Sleep Study"**
+> - **"CSM 治 R 不治 I"**：Regular SVT 有用，Irregular AF 没用
+> - **"Atropine 是油门，不是 GPS"**：能治 brady，但不定位起搏点；唯一"定位"用途 = 判断 AV block nodal/infranodal
+> - **"窄良宽危，下壁活前壁亡"**：窄 QRS escape = nodal = 良性；宽 QRS escape = infranodal = 危险
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> 1. **"atropine 是不是有定位起搏点的功能？"**
+>    → Atropine 不定位起搏点，但能**鉴别 AV block 位置**（nodal vs infranodal）— 它唯一接近"定位"的用途。
+> 2. **"'Atropine 无效 → 提示 infranodal' 是什么意思？"**
+>    → AV 结受迷走支配（atropine 有效），His-Purkinje 不受迷走支配（atropine 无效）。Atropine 无反应 → 阻滞在 His 以下 → 必须起搏器。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：（首题，AF 长期管理 / 心律失常工具适用边界类，等后续题积累）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/Peixuan分科笔记/pulmonary]] / [[完整笔记/专题笔记/心内_AF复发与心律失常工具边界]]（2026-05-18 新建本卡触发整合）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/pulmonary]]（OSA 是 AF 的可逆病因）
+>   - [[完整笔记/Peixuan分科笔记/endocrine]]（甲亢也是 AF 可逆病因，TSH 筛查并行）
+>   - [[完整笔记/专题笔记/心内_AV_Block完整鉴别]]（AV block ECG 鉴别 — 5 类详解 + Atropine 反应 + 起搏器决策）
+>   - [[完整笔记/专题笔记/心内_抗凝抗板_急性血栓]] §E.2 AFib 长期抗凝（AF 评分驱动抗凝面）
+> - 🌱 TODO（待生成衍生）：
+>   - 已在 [[完整笔记/专题笔记/心内_AF复发与心律失常工具边界]] 整合：可逆病因筛查 + 工具适用边界 + AV block 定位决策三块
+>   - 等积累 3-5 道 SVT 急性处理（AVNRT 终止 / 房扑揭示 F 波 / 宽 QRS 鉴别）→ 扩展该衍生 §工具边界
+>   - 等积累 2-3 道 Lyme / 退行性 / 主动脉瓣术后 AV block → 扩展 [[完整笔记/专题笔记/心内_AV_Block完整鉴别]] §非 MI 病因
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做这题
+> - [ ] 默写 "AF 复发 8 项可逆病因筛查清单"
+> - [ ] 默写 "心律失常诊断工具适用场景对照表"（CSM / Adenosine / Atropine / EPS）
+> - [ ] 默写 "AV block 定位表"（nodal vs infranodal，含 atropine 反应）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加「薄弱点」（心律失常工具适用边界）
+> - [ ] 找 3 道类似题：AVNRT 急诊处理 / 房扑揭示 F 波 / AF rate vs rhythm control / 急性 MI 伴 AV block
+>
+> ---
+>
+> 学科:: 心血管
+> 主题:: AF 复发筛 OSA / CSM-Adenosine-Atropine-EPS 适用边界 / AV block 定位（Atropine 反应）
+> 状态:: 🟡
+> 错因:: 知识
+
