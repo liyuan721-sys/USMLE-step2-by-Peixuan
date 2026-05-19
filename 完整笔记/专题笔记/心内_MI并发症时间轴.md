@@ -43,6 +43,9 @@ source: Q2728 (2026-05-18) 触发 + Claude.ai 草稿 v1 整合
 | **Papillary muscle rupture** | 3-5 天 | **RCA**（后内侧乳头肌）| **Soft systolic** | **湿（暴风式）** | 心源性（急性 MR） | 严重 MR |
 | **Ventricular aneurysm** | **数周-数月** | LAD（前壁）| 可有 MR 杂音 | 渐进性湿 | 慢性心衰 / 心律失常 | 薄壁运动减弱 |
 
+![[{F1309AA8-737D-4983-8069-9888BF2CA240}.png]]
+*↑ UWorld 官方 Mechanical complications of acute MI 表（Time course / Involved coronary / Clinical findings / Echo findings）— 与上表完整对照，含 papillary "dysfunction"（轻型未完全断裂）和 LV aneurysm 心电图持续 ST 抬高细节*
+
 > [!danger] 三大破裂时间窗都是 3-5 天 — 区别全在「听诊 + 肺部 + 血流动力学」上！
 
 ---
