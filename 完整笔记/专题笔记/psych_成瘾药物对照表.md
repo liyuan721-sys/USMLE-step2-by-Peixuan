@@ -312,7 +312,8 @@ Step 3 — 有无禁忌？
 ## 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q12541]] AUD 一线药 — Bupropion 误选 → 正解 Naltrexone（触发本笔记，**错题卡待入库**）
+  - [[mistakes/uworld-mistakes#^Q12541]] AUD 一线药 — Bupropion 误选 → 正解 Naltrexone（触发本笔记，2026-05-19 入库）
+  - [[mistakes/uworld-mistakes#^Q12432]] AUD vs AD 鉴别做对（实验室指纹 MCV+AST/ALT 定胜负 — 见 USMLE_实验室指纹大全 §5.5.x）
   - [[mistakes/uworld-mistakes#^Q3382]] AD vs MDD 鉴别 + psychotherapy 一线（精神科治疗"诊断对≠治疗对"同源）
   - 等积累更多 OUD / Smoking Cessation / AUD 错题后横向连接
 - 📚 主笔记：
@@ -328,7 +329,7 @@ Step 3 — 有无禁忌？
   - 累积更多 OUD / Smoking Cessation 错题后 → 补充本笔记的"易混表"
   - 累积更多 BZD 戒断 / DT 错题后 → 强化 §1.4 急性戒断章节
   - 考虑生成 [[完整笔记/专题笔记/psych_神经递质_成瘾环路]]（μ-opioid / NMDA / GABA / DA 通路与药物对应）
-  - **待 Q12541 错题卡入库后**回填 anchor 反链
+  - ✅ Q12541 错题卡已于 2026-05-19 入库（^Q12541），anchor 反链已激活
 
 ---
 

@@ -9431,3 +9431,145 @@
 > 状态:: 🟡
 > 错因:: 知识
 
+> [!example]- [2026-05-19] psych / Alcohol Use Disorder 一线药 (Q12541)
+> ^Q12541
+>
+> ## 1. Stem 模式
+> 中年男性 + 明确 **alcohol use disorder** + "cravings too strong, can't cut down" + **still drinking**（每日 6-10 啤）+ 既往 alcohol withdrawal 用过 chlordiazepoxide + 共病 smoking + 已开始 psychosocial intervention → 问 **adjunct pharmacotherapy**
+>
+> 常见"诱饵"：
+> - 既往 alcohol withdrawal 用过 chlordiazepoxide → 诱导你选 BZD 维持
+> - smoking 12 年烟史 → 诱导你选戒烟药（Bupropion / Varenicline）
+> - "still drinking" → 诱导你选 Disulfiram（厌恶疗法听起来对"想戒"的人）
+> - 提到 family history of alcohol abuse → 烟雾弹
+>
+> ## 2. 核心概念
+> **AUD first-line = Naltrexone or Acamprosate**
+> - **Naltrexone**（μ-opioid 拮抗）→ 减 craving + 减 heavy drinking days → **still drinking 也能启动** ✅
+> - **Acamprosate**（NMDA/GABA 调节）→ 维持戒断后稳态 → **已戒断者**首选
+> - **Disulfiram**（ALDH 抑制 → 厌恶疗法）= **second-line**，必须**先戒酒** + 高动机
+>
+> ## 3. 普适规则 — 成瘾药物 3 维决策
+>
+> ```
+> 维度 1：什么物质？  alcohol / nicotine / opioid
+> 维度 2：什么阶段？  急性戒断（救命） vs 维持期（防复饮/复吸）
+> 维度 3：当前是否还在用该物质？  → 决定能否启动某些药
+> ```
+>
+> **AUD 维持期 3 药 — "是否需先戒酒"对比**：
+>
+> | 药 | 机制 | 需先戒酒? | 关键禁忌 |
+> |---|---|---|---|
+> | **Naltrexone** | μ-opioid 拮抗 → 减渴 | ❌ 不需要 | 急性肝炎/肝衰、用阿片（含术后镇痛）|
+> | **Acamprosate** | NMDA/GABA 调节 | ✅ 建议先戒 | 严重肾损（CrCl<30），肝病可用 |
+> | **Disulfiram** | ALDH 抑制 → 喝了想吐 | ✅ 必须先戒 | 心衰；近期甲硝唑/含酒精药 |
+>
+> ## 4. 普适规则 — 戒酒/戒烟/戒阿片药 不要混淆
+>
+> | 成瘾 | First-line | 别选错 |
+> |---|---|---|
+> | **Alcohol UD** | Naltrexone / Acamprosate | ❌ Bupropion / Varenicline（戒烟）|
+> | **Nicotine** | NRT / Bupropion / Varenicline | ❌ Naltrexone / Acamprosate（戒酒）|
+> | **Opioid UD** | Methadone / Buprenorphine / Naltrexone | ❌ Naloxone（救命用，非维持）|
+> | **Alcohol withdrawal 急性期** | BZD（chlordiazepoxide / lorazepam if 肝病）| ❌ 这是治戒断，不治 AUD 维持 |
+>
+> ## 5. 普适规则 — Naltrexone vs Naloxone 一秒区分
+>
+> | 药 | 时长 | 用途 | 给药 |
+> |---|---|---|---|
+> | **Nalox**one | 短效（30-90 min）| **急性过量救命** | IV / IM / IN |
+> | **Naltrex**one | 长效（PO qd / IM q月）| **维持期防复饮/复吸** | 口服 / IM 月剂 |
+>
+> 记忆：Nalox = "Now! 救命" / Naltrex = "Next 几个月"
+>
+> ## 6. 易混陷阱（普适）
+>
+> - **Bupropion 是戒烟药 + 抗抑郁药，不治 AUD**（最高频陷阱，我中招）
+> - **Chlordiazepoxide 治急性戒断 ≠ 治 AUD**（戒断期 vs 维持期是两件事）
+> - **AUD + 肝衰 → 不能用 Naltrexone**（肝病改用 **Acamprosate**，反直觉点：肝病药选肾排的）
+> - **Disulfiram 患者必须先戒酒**（still drinking 的人给 Disulfiram = 反应严重）
+> - **OUD 中 Naltrexone 必须先脱毒 ≥ 7 天**（同一个药在 AUD 宽松、OUD 严苛 — 因为体内有无阿片决定会不会触发 precipitated withdrawal）
+> - **Naloxone ≠ Naltrexone**（救命药 vs 维持药，混淆=致命）
+> - **戒断会致死的只有 3 类**：Alcohol / BZD / Barbiturates（GABA-A 依赖系统）
+> - **老年/肝病 alcohol withdrawal 用 Lorazepam**（LOT 法则：Lorazepam / Oxazepam / Temazepam — 不经肝代谢）
+> - **Bupropion 禁忌**：癫痫 + 饮食障碍（bulimia / anorexia）
+>
+> ## 7. 我为什么错（个性化）
+>
+> **思维路径**：看到 stem 强调 smoking 12 年 + 我对成瘾药记不清 → 把 Bupropion 笼统当成"成瘾药" → 没区分**戒烟 vs 戒酒**
+>
+> **根本错因**：**概念混淆 — 把"治成瘾"压成一类**
+> - 把 Bupropion（戒烟）和 Naltrexone（戒酒）功能混淆
+> - 被 stem 烟史铺垫带跑（问的是 AUD 不是 smoking）
+> - 不知道 AUD first-line 是 Naltrexone / Acamprosate
+>
+> **思维升级**：
+> 看到成瘾题 → 先问 3 个问题：**①哪种物质？②急性戒断 vs 维持期？③现在还在用吗？** → 再选药
+>
+> ## 8. Memory Hook
+>
+> **一句话锁定**：**"AUD 还在喝 + cravings 强 → Naltrexone（拔掉酒的快乐键）"**
+>
+> **"成瘾科 4 兄弟"分工**：
+> - **Naltrexone** = 管酒 + 管阿片（拔快乐键）
+> - **Acamprosate** = 只管酒（让大脑安静）
+> - **Disulfiram** = 吓唬已戒酒的人
+> - **Bupropion / Varenicline** = 戒烟专员（别混到戒酒）
+>
+> **Trigger 模式**：
+> "AUD + still drinking + cravings" → **Naltrexone**
+> "AUD + 已戒断 + 肝病" → **Acamprosate**
+> "AUD + 高动机 + 已戒断 + 监督" → **Disulfiram**
+>
+> ---
+>
+> ## 9. 🤔 我的提问 / 卡点（学习路径）
+>
+> - **Q1**：戒酒药、戒烟药、戒阿片药容易混，怎么系统区分？
+>   → **学到**：按 3 维度走 — ①物质类型 ②急性戒断 vs 维持期 ③当前是否还在用该物质。已生成 [[完整笔记/专题笔记/psych_成瘾药物对照表]] 统一管理。
+>
+> - **Q2**：Naltrexone 在 AUD 可以边喝边启动，OUD 却要先脱毒 7 天，为什么？
+>   → **学到**：因为是 μ-opioid 拮抗剂。AUD 患者体内**没有阿片**，拮抗剂无所谓 → 宽松；OUD 患者体内**有阿片**，拮抗剂瞬间踢掉 → precipitated withdrawal 爆发 → 严苛。
+>
+> - **Q3**：肝病患者 AUD 为什么反而用 Acamprosate（不是肝病该避肾排吗）？
+>   → **学到**：反过来想 — Naltrexone 经肝代谢（肝炎/肝衰禁），Acamprosate 经**肾**排泄（肝病安全）。规则是"看代谢通路避开失代偿器官"，不是"看器官避开同名通路"。
+>
+> ## 🔗 关联
+>
+> - 🔁 **同主题错题**：
+>   - [[mistakes/uworld-mistakes#^Q3382]] AD vs MDD + psychotherapy 一线（"诊断对 ≠ 治疗对"同源 — 精神科治疗原则）
+>   - [[mistakes/uworld-mistakes#^Q12432]] AUD vs AD 鉴别（做对，离婚 stressor 双面性 — 实验室指纹 MCV+AST/ALT 定胜负）
+>   - 等后续 OUD / Smoking cessation / BZD 戒断错题积累
+>
+> - 📚 **主笔记**：
+>   - [[完整笔记/Peixuan分科笔记/psych]]
+>   - [[完整笔记/专题笔记/psych_成瘾药物对照表]] ⭐（2026-05-19 新建本卡触发整合）
+>
+> - 🏥 **跨学科**：
+>   - [[完整笔记/Peixuan分科笔记/消化腺]]（肝衰 → Naltrexone 禁忌；AUD 共病肝硬化）
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（CrCl<30 → Acamprosate 禁忌）
+>   - [[完整笔记/专题笔记/USMLE_实验室指纹诊断大全]] §5.5 慢性酒精性多系统指纹（MCV↑ + AST/ALT≥2:1 = AUD 指纹）+ §5.5.x AUD vs AD 鉴别
+>   - [[完整笔记/专题笔记/心内_老年多药患者诊断思维]] §2.3 Cirrhosis 用药陷阱（benzo/opioid 蓄积诱发 HE）
+>
+> - 🌱 **TODO（待生成衍生）**：
+>   - 已建：[[完整笔记/专题笔记/psych_成瘾药物对照表]]（4 大领域 + 4 兄弟门诊分工）
+>   - 等积累 3+ 道"启动时机/前提"陷阱题（Naltrexone in OUD 需脱毒 / Buprenorphine COWS ≥ 12 / Disulfiram 先戒酒）→ 生成 [[完整笔记/专题笔记/psych_成瘾药物启动时机决策]]
+>
+> ## ✅ 复盘行动
+>
+> - [ ] 1 周后重做 Q12541，目标 20 秒锁定 Naltrexone
+> - [ ] 默写"成瘾科 4 兄弟"分工表（不看笔记）
+> - [ ] 默写 AUD 维持期 3 药的"是否需先戒酒"列
+> - [ ] 默写 Naloxone vs Naltrexone 双胞胎区分
+> - [ ] 找 3 道 UWorld 类似题：搜 "alcohol use disorder" + "opioid use disorder" + "smoking cessation"
+> - [ ] 在 [[完整笔记/Peixuan分科笔记/psych]] 加「薄弱点」（成瘾药物板块）
+> - [ ] 等 Psych 章节复习完，让 Claude Code 把本卡 + 成瘾药物对照表 + 后续错题统一整合入库
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: AUD 一线药 — Naltrexone / Acamprosate vs Disulfiram / 戒酒 vs 戒烟 vs 戒阿片药 不混淆 / Naloxone vs Naltrexone
+> 状态:: 🟡
+> 错因:: 知识
+
