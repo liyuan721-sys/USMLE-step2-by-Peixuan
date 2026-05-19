@@ -362,9 +362,42 @@ MI 后几天 + 突发恶化
 | Ventricular aneurysm | 抗心衰 + 抗凝（防附壁血栓） | 择期手术（如有顽固症状） |
 | Recurrent ischemia | 再次冠脉造影 | PCI / CABG |
 
-> [!tip] IABP 适用场景
-> IVS rupture / Papillary rupture / Cardiogenic shock 桥接到手术。
-> **禁忌**：严重 AR、主动脉夹层。
+## 9.1 IABP 原理与临床应用（MI 并发症桥接首选）
+
+**IABP = Intra-Aortic Balloon Pump（主动脉内球囊反搏）**：导管末端球囊经股动脉送入**降主动脉**（左锁骨下动脉远端），与 ECG / 动脉波同步充放气。
+
+### 反搏时相（USMLE 必考机制）
+
+| 心动周期 | 球囊 | 效果 |
+|---|---|---|
+| **舒张期** | 充气 ↑ | 升主动脉根部压 ↑ → **冠脉灌注 ↑**（心肌氧供 ↑）|
+| **收缩期** | 放气 ↓ | 主动脉压瞬间塌陷 → **后负荷 ↓** → LV 易射血（心肌氧需 ↓）|
+
+**净效应**：冠脉血流 ↑ + 心肌氧需 ↓ + CO 小幅增加。**IABP 本身不"泵"血**（不像 Impella / ECMO 是主动泵），只是改变压力时相 — 因此对 LV 还能动的患者最有效。
+
+### USMLE 高频适应症
+
+- **Cardiogenic shock**（桥接到 PCI / CABG / 移植）⭐
+- **MI 机械并发症桥接外科**：IVS rupture / Papillary muscle rupture ⭐（本笔记核心场景）
+- 高危 PCI 术中支持
+- Refractory unstable angina（药物无法控制）
+
+### 禁忌（USMLE 高频"一票否决"）⭐
+
+| 禁忌 | 原因 |
+|---|---|
+| **严重 AR** | 球囊舒张期充气 → 主动脉根部压 ↑ → **反流加重** → LV 容量过载 |
+| **主动脉夹层** | 球囊机械作用 → 撕裂扩大 |
+| 主动脉瘤 | 同上，球囊增加管壁应力 |
+| 严重 PAD | 股动脉送不进去（或损伤动脉） |
+
+### 一句话 Memory Hook
+
+> **"IABP = 冠脉吃饭（diastolic ↑）+ LV 卸担（systolic ↓），但 AR 和夹层一票否决"**
+
+### 现代地位（背景）
+
+SHOCK-II 试验：单独 IABP 对 cardiogenic shock **30 天死亡率无显著改善** → 现代选择 **Impella / VA-ECMO** 用于选定患者。但 **USMLE Step 2 CK** 给 "MI 机械并发症 + 等手术" 场景时，**IABP 仍是经典正确答案**（指南级桥接工具）。
 
 ---
 
