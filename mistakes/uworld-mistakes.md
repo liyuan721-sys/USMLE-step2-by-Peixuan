@@ -9104,3 +9104,63 @@
 > 状态:: 🟡
 > 错因:: 知识
 
+> [!example]- [2026-05-18] 心内 / 降压药副作用 (Q15973)
+> ^Q15973
+>
+> **Stem 模式**
+> 降压药 + **weight gain + worsening glucose tolerance** → Conventional Beta Blockers（metoprolol / atenolol / propranolol）
+>
+> **核心概念**
+> Conventional BB 阻断 β2 → α1 失去对抗 → 骨骼肌血管收缩 → 血流↓ → 葡萄糖摄取↓ → 胰岛素抵抗 + 体重↑ + 糖耐量↓。Carvedilol / Labetalol（带 α1 阻断）不会有此副作用。
+>
+> **普适规则 — 5 类降压药副作用速查表**
+>
+> | 药物类 | 体重 | 糖代谢 | 标志性副作用 | T2DM 患者 |
+> |---|---|---|---|---|
+> | ACEI（lisinopril）| 中性 | 改善/中性 | 干咳、高钾、血管性水肿、AKI | ✅ 首选 |
+> | ARB（losartan）| 中性 | 改善/中性 | 高钾、AKI（无干咳）| ✅ 首选 |
+> | α1 blocker（prazosin）| 中性 | **改善** | 体位性低血压、first-dose syncope | ✅ 可用 |
+> | **Conventional BB**（metoprolol, atenolol, propranolol）| **↑** | **恶化** | bradycardia、bronchospasm、metabolic syndrome | ❌ 避免 |
+> | Vasodilatory BB（carvedilol, labetalol）| 中性 | 中性 | 同上但无 metabolic 恶化 | ✅ HF+DM 首选 BB |
+> | DHP CCB（amlodipine）| 液体潴留 | 中性 | **外周水肿**、反射性 HR↑、牙龈增生 | ✅ 可用 |
+> | Thiazide（HCTZ）| 中性 | **恶化**（剂量相关）| 低钠、低钾、高钙、高血糖、高尿酸 | ⚠️ 小剂量可用 |
+>
+> **易混陷阱**
+> - 两个"糖代谢恶化"的降压药 = **Conventional BB + Thiazide**（高剂量）
+> - **α1 blocker 改善胰岛素敏感性**（不是恶化！别和 BB 搞反 — BB 封 β2 让 α1 单飞）
+> - DHP CCB 的"体重增加" = 外周水肿（液体），不是真正脂肪增加
+> - ARB / ACEI 对糖代谢有益，是 T2DM + HTN 首选（不是恶化）
+>
+> **我为什么错**
+> 选了 C (ARB)。可能把"ARB 和糖尿病相关"方向搞反了 —— ARB 是**保护**糖尿病肾病，不是**引起**糖代谢恶化。根本错因 = 不知道降压药 metabolic 副作用这个考点。
+>
+> **Memory Hook**
+> **"BB 让肌肉饿肚子"** —— β2 被封死，骨骼肌血管大门关闭，葡萄糖进不去 → 血糖高 + 人变胖。Carvedilol / Labetalol 是"开窗的 BB"（α1 也封了），肌肉照常吃饭。
+> 口诀：**"传统 BB 三宗罪：心慢、喘、糖胖"**（bradycardia / bronchospasm / metabolic syndrome）
+>
+> ---
+>
+> **🤔 我的提问 / 卡点**
+> - "药物副作用不知道" → 学到：UW 降压药题不考经典副作用（BB 心慢、ACEI 干咳），而绕道考 **metabolic side effects**，需要单独建立"代谢副作用"知识点
+>
+> **🔗 关联**
+> - 🔁 同主题错题：（首题 — 降压药副作用方向，等后续题积累）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/Peixuan分科笔记/endocrine]] / [[完整笔记/专题笔记/心内_降压药副作用速查]]（2026-05-18 新建本卡触发）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/endocrine]]（T2DM+HTN 选药优先级）/ [[完整笔记/Peixuan分科笔记/肾脏]]（ACEI/ARB 保肾机制）
+> - 🌱 TODO（待生成衍生）：
+>   - 已建：[[完整笔记/专题笔记/心内_降压药副作用速查]]（5 类药 × 副作用 × 特殊人群矩阵）
+>   - 等 thiazide / BB metabolic 题积累 → 整合到 [[完整笔记/专题笔记/心内_药物代谢副作用]]（恶化血糖 / 血脂 / 尿酸的药物 — 跨类）
+>
+> **✅ 复盘行动**
+> - [ ] 1 周后盲做重做
+> - [ ] 默写 5 类降压药副作用速查表
+> - [ ] 弄清 Carvedilol vs Metoprolol 在 HF+DM 患者中的差异
+> - [ ] 找 3 道类似题（搜 "antihypertensive adverse effect" / "diabetes hypertension first-line"）
+>
+> ---
+>
+> 学科:: 心血管
+> 主题:: 降压药代谢副作用 / Conventional BB 恶化糖代谢+体重 / α1 改善 / 5 类药 × T2DM 优先级
+> 状态:: 🟡
+> 错因:: 知识
+
