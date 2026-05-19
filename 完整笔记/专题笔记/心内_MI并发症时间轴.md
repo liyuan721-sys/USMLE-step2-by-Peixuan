@@ -338,6 +338,73 @@ MI 后几天 + 突发恶化
 > Stent thrombosis 应表现为**新的 ST 抬高**（再次冠脉闭塞）
 > 鉴别 stem："T 波倒置 + 突发休克 + 新杂音" → 想 VSR / 乳头肌 / free wall rupture，不是 stent 闭塞。
 
+## 七.补充：解剖结果同 ≠ 临床/紧急程度同（USMLE 高频鉴别原型）
+
+### 7.A 先天性 VSD vs 后天性 VSR (post-MI) 完整对比
+
+**杂音特征 — 完全相同**（鉴别不能靠杂音）：
+
+| 特征 | 先天性 VSD | 后天性 VSR (post-MI) |
+|---|---|---|
+| 位置 | LSB（胸骨左缘） | LSB（同） |
+| 时相 | Holosystolic | Holosystolic（同） |
+| 性质 | Harsh, loud | Harsh, loud（同） |
+| Thrill | 常有（小 VSD）| 常有（同） |
+| 机制 | LV→RV 分流 | LV→RV 分流（同） |
+
+> [!tip] 核心理解 — 为什么杂音相同
+> 杂音的本质 = **血流通过哪个通道、压差多大、湍流多强**。
+> 解剖结果相同 → 杂音相同，不管这个"洞"是天生的还是 MI 烂出来的。
+
+**临床表现完全不同 ⭐ 这才是 USMLE 考点**：
+
+| 维度 | 先天性 VSD（小儿）| 后天性 VSR（老年 post-MI） |
+|---|---|---|
+| 患者 | 婴儿 / 儿童 | 老年人，刚 MI 几天 |
+| 起病 | 慢性、出生即有 | 急性（数小时内恶化）|
+| 血流动力学 | 长期代偿，RV / PA 逐渐适应 | 急性失代偿，RV 来不及代偿 |
+| 临床 | 生长发育迟缓、反复肺炎、心衰（慢性）| **心源性休克**（BP↓、HR↑、cold/clammy）|
+| 长期并发症 | Eisenmenger 综合征（晚期 R→L 反向分流）| 不会活那么久（不治疗死亡率 >90%）|
+| 治疗 | 择期手术修补 | **紧急手术（IABP + emergent surgery）** |
+| 死亡率 | 低 | 极高（即使手术 ~40-50%）|
+
+> [!danger] 关键陷阱
+> **同样的杂音 ≠ 同样的紧急程度**。
+> 听到 "harsh holosystolic at LSB + thrill" 不能只想到 VSD，必须结合 **context**：
+> - **婴儿 + 生长迟缓** → 先天 VSD
+> - **老人 + 刚 MI + 突发休克** → VSR（紧急情况！）
+
+### 7.B Acute MR vs Chronic MR（同一原理触类旁通）
+
+> [!info] 触类旁通
+> 同样的"解剖同但代偿不同"原理 — USMLE 还喜欢考 acute MR vs chronic MR：
+> - **Chronic MR**：响亮 holosystolic at apex，LA 已扩大代偿，症状轻
+> - **Acute MR (post-MI papillary muscle rupture)**：杂音可能**很轻甚至无**（LA 没扩大、压差快速消失），但**瞬间肺水肿 + 休克**
+>
+> **核心**：解剖学相同（瓣膜反流），但急性 vs 慢性的代偿差异巨大 → 杂音响度与紧急程度**反向相关**。
+
+| 维度 | Chronic MR | Acute MR (post-MI) |
+|---|---|---|
+| 杂音 | **响亮** holosystolic @ apex | **可轻或无**（LA 顺应性差，压差消失快）|
+| LA 大小 | 显著扩大代偿 | 正常（来不及扩大）|
+| 肺循环 | 长期适应 | 瞬间肺水肿 |
+| 表现 | 慢性 DOE / 心衰症状 | **急性休克**（cardiogenic shock + 暴风式肺水肿）|
+| 治疗 | 择期 MV 修补 / 置换 | **紧急 MV 手术 + IABP** |
+
+### 7.C Deep T wave inversion — MI 后 ECG 演变 4 阶段
+
+| 阶段 | ECG 表现 | 时间 |
+|---|---|---|
+| **超急性期** | Hyperacute T wave（高尖）| 数分钟-小时 |
+| **急性期** | **ST 抬高** | 小时-天 |
+| **亚急性 / 演变期** | ST 回落 + **T 波倒置**（深而对称）⭐ | 数天后 |
+| **慢性期** | **Q 波形成**（陈旧性 MI）| 周-月 |
+
+> [!tip] 解读临床 stem
+> Post-MI day 3-5 看到 T 波倒置 = **演变期自然演变**（不是恶化）。
+> 如果同期出现突发休克 + 新杂音 → 想机械并发症（VSR / papillary / free wall），不是 stent thrombosis。
+> Stent thrombosis 的标志是**新的 ST 再抬高**（再次冠脉闭塞），不是 T 波倒置。
+
 ---
 
 # 八、Memory Hook
