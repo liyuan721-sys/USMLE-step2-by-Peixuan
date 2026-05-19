@@ -86,6 +86,9 @@ parent_topic: 先天性心脏病 - 病种详解
 
 ## §2. TOF（Tetralogy of Fallot）⭐⭐
 
+> [!info] 深度详解
+> 本节为短版索引（8 小节速查）；**体征↔机制对照 / Tet spell SOP / 5 张鉴别表 / 6 条 Memory Hooks / 自测**详见 [[完整笔记/专题笔记/心内_CHD_ToF法洛四联症]]。
+
 > [!tip] 一句话
 > 四联：**PS + VSD + 主动脉骑跨 + RVH**；严重程度由 **RVOT 梗阻多重**决定
 
