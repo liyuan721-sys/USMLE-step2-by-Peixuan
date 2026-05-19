@@ -1122,6 +1122,8 @@ Treatment of personality disorders:
 | **兴奋剂 (Cocaine/Amphet.)** | **瞳孔扩大 (Mydriasis)** | **心动过速、警觉性极高。** |
 | **酒精/BZDs** | **眼球震颤（常见于酒精）** | **共济失调、言语含糊。** |
 
+→ AUD 维持期 3 药对比（Naltrexone vs Acamprosate vs Disulfiram）+ OUD 三药对比（Methadone vs Buprenorphine vs Naltrexone）+ 戒烟药对比详见 [[完整笔记/专题笔记/psych_成瘾药物对照表]] §1.3 / §3.4 / §2
+
 **Stimulants: Amphetamine / COCAINE**
 
 Intoxication:
@@ -1338,6 +1340,8 @@ Withdrawal:易燃易爆炸
 睡眠上：失眠、噩梦（奇怪的梦境）。
 
 躯体上：食欲下降（这和中毒时的 Hunger 相反）、腹痛、发热、冷战。
+
+→ 成瘾医学完整药物对照见 [[完整笔记/专题笔记/psych_成瘾药物对照表]]（v1.4 含 AWS 4 阶段精细表 + Phenytoin 陷阱 + 维持期 3 药 + 阿片戒断三药 + 戒烟药对比）
 
 **<u>Alcohol Withdrawal Timeline</u>**
 

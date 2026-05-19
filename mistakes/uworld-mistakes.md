@@ -9573,3 +9573,373 @@
 > 状态:: 🟡
 > 错因:: 知识
 
+> [!success]- [2026-05-19] Psych / AWS seizure 管理 + Phenytoin 陷阱 ✅做对 (Q3187)
+> ^Q3187
+>
+> ## Stem 模式
+> 35yo 男性 + **腹股沟疝修补术后 30h** + **tonic-clonic seizure** + 15 年 alcohol/tobacco 史 + omeprazole/morphine 止痛 + **躁动 + 出汗 + 震颤 + 反射 3+** + HR 114 / BP 155/94 / T 37.7 + **不知 place/time** → 下一步管理？
+>
+> ## 核心概念
+> **Alcohol Withdrawal Syndrome (AWS)** — 慢性饮酒者 abrupt cessation → GABA-A 受体脱敏 + rebound CNS overexcitation → 4 阶段症状。
+>
+> **本题术后 30h + seizure**：典型 AWS withdrawal seizure（12-48h 高峰窗）→ **IV Benzodiazepine** first-line（lorazepam / diazepam IV 起效快）。
+>
+> 关键场景：**住院 / 术后患者常 underreport alcohol use** → 不明原因 seizure + 躁动 + 出汗 + 自主神经亢进 → **必须想到 AWS**（高频住院后突发症状鉴别）。
+>
+> ## 普适规则 — AWS 4 阶段时间表 ⭐⭐⭐
+>
+> | 阶段 | 时间窗（自最后一杯酒）| 表现 | 定向力 / 生命体征 |
+> |---|---|---|---|
+> | **Mild withdrawal** | **6-24h** | 焦虑、失眠、震颤、出汗、心慌、胃肠不适 | 定向力**正常** |
+> | **Withdrawal seizure** | **12-48h** | 单次 / 多次 generalized **tonic-clonic** | 发作后 postictal |
+> | **Alcoholic hallucinosis** | **12-48h** | 视 / 听 / 触幻觉 | 定向力**正常** + 生命体征**稳定** ⭐ |
+> | **Delirium tremens (DT)** | **48-96h** | 混乱、躁动、发热、心动过速、高血压、出汗、幻觉 | 定向力**丧失** + 自主神经**风暴** + 可致死 |
+>
+> ⭐ 鉴别 alcoholic hallucinosis vs DT：**前者定向力 + 生命体征正常**（只是有幻觉），**后者全套混乱 + 自主神经风暴**。
+>
+> ## 普适规则 — AWS 用药对比（核心干扰项陷阱在这里！）
+>
+> | 药物 | 用于 AWS seizure | 机制 | 备注 |
+> |---|---|---|---|
+> | **Benzodiazepines** ⭐ | ✅ **First-line** | 直接激动 GABA-A → 恢复抑制张力 | Lorazepam / Diazepam / Chlordiazepoxide（LOT 法则：老 / 肝病用 Lorazepam）|
+> | **Phenobarbital** | ✅ 可加（备选）| 也作用 **GABA-A** | **Status epilepticus 时**加于 BZD 之上 |
+> | **Phenytoin** | ❌ **无效** ⚠️ | **Na 通道阻断** — 不针对 GABA 失衡 | **AWS seizure 干扰项常考** |
+> | 广谱抗生素 | ❌ | — | 仅术后感染 / 脑膜炎，本题无感染指征 |
+> | CT head / LP | ❌ | — | 仅 seizure 后局灶神经体征 / 头外伤 / 怀疑脑膜炎 |
+>
+> ## 易混陷阱（普适）
+>
+> > [!danger] 陷阱 1：Phenytoin 治 AWS seizure ❌
+> > USMLE 经典干扰项。**Phenytoin 对 AWS 相关 seizure 无效**。
+> > 原因：AWS seizure 是 GABA-A **受体脱敏 + rebound overexcitation** 引起，不是 Na 通道异常 → Phenytoin（Na 通道阻断）**作用点错**。
+> > 正解：**BZD**（直接补 GABA 抑制）；status epilepticus 时加 **Phenobarbital**（也是 GABA-A）。
+>
+> > [!warning] 陷阱 2：术后 seizure → 想到感染 / 头外伤 ❌
+> > 术后 30h + 长期酗酒 + 自主神经亢进 + 震颤 + 不知道时间 → **首想 AWS**，不是 sepsis / meningitis / 头外伤。
+> > 住院 / 术后患者常 underreport alcohol use —— USMLE 高频"住院后突发症状"鉴别陷阱。
+>
+> > [!warning] 陷阱 3：Alcoholic hallucinosis vs DT 混淆
+> > 都在 12-48h-96h 窗口出现幻觉，但：
+> > - **Alcoholic hallucinosis** = 幻觉 + 定向力**正常** + 生命体征**稳定** → BZD + 支持
+> > - **DT** = 幻觉 + **定向力丧失** + 自主神经**风暴**（HR/BP/T 全飙）→ ICU + 大剂量 BZD，可致死
+>
+> ## 我为什么做对
+>
+> - 选了：**B. IV BZD** ✅
+> - 关键识别：术后 30h + 长期酗酒 + tonic-clonic seizure + 震颤 + 出汗 + 反射亢进 → AWS withdrawal seizure
+> - 排除干扰项链：
+>   - A. 抗生素 → 无感染体征
+>   - C. Phenytoin → AWS seizure **无效**（核心陷阱！）
+>   - D. CT head → 无局灶 / 头外伤
+>   - E. LP → 无脑膜炎体征
+> - **巩固点**：BZD 是 AWS 全程首选（mild → seizure → DT），不仅救命也防进展。
+>
+> ## Memory Hook
+>
+> > [!success] AWS 时间窗口 "6-12-12-48"
+> > **6**h 颤 / **12**h 抽（seizure）/ **12**h 幻（hallucinosis）/ **48**h 谵（DT）
+> > → 越晚出现越严重，DT 可致死。
+>
+> > [!tip] AWS seizure 用药"GABA 三兄弟"
+> > - **BZD**（一线）= GABA-A 激动 → 直接补抑制
+> > - **Phenobarbital**（二线/SE）= GABA-A 也激动 → 加倍补
+> > - **Phenytoin**（❌）= Na 通道，**不沾 GABA** → 用错地方
+> >
+> > 三兄弟中**只有沾 GABA 的对 AWS seizure 有效**。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q：为什么 Phenytoin 对 AWS seizure 无效？
+>   - 学到：AWS seizure 是 GABA-A 受体脱敏 + rebound overexcitation，机制是"抑制不够"。Phenytoin 是 Na 通道阻断（针对"过度兴奋的电传导"），不补 GABA 抑制 → 作用点不对。BZD / Phenobarbital 直接激动 GABA-A，对症对因。
+> - Q：术后突发 seizure，第一想到什么？
+>   - 学到：长期酗酒患者术后 30h 内 seizure → **优先想 AWS**（不是术后感染 / 头外伤）。住院 / 术后患者常 underreport alcohol use 是高频陷阱。
+> - Q：Alcoholic hallucinosis 是不是就是 DT 的轻症？
+>   - 学到：不是。Alcoholic hallucinosis = **只有幻觉**，定向力 + 生命体征**正常**；DT = 全套混乱 + 自主神经风暴 + 可致死。两者完全不同严重度。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q12541]] AUD 维持期一线药（Naltrexone）— 治"防复发"，不治急性戒断（本题反向 — 戒断用 BZD）
+>   - 等积累更多 AWS / DT / 其他物质戒断错题后横向连接
+> - 📚 主笔记：
+>   - [[完整笔记/专题笔记/psych_成瘾药物对照表]] §1.1 时间轴 + §1.2 BZD 急性戒断救命（v1.4 同步 AWS 4 阶段 + Phenytoin 陷阱）
+>   - [[完整笔记/Peixuan分科笔记/psych]]（成瘾医学章节）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/外科]]（术后突发 seizure 鉴别 — AWS 高频陷阱）
+>   - [[完整笔记/Peixuan分科笔记/neuro]]（status epilepticus → Phenobarbital 补位；Phenytoin 适应症对比 — focal/Na 通道相关 seizure）
+>   - [[完整笔记/专题笔记/USMLE_实验室指纹诊断大全]] §5.5 慢性酒精性多系统指纹（MCV↑ + AST/ALT≥2:1 = AUD 指纹）
+> - 🌱 TODO：
+>   - ✅ 主笔记 §1.1 同步 AWS 4 阶段时间表
+>   - ✅ 主笔记 §1.2 同步 Phenytoin 陷阱 + Phenobarbital 备选
+>
+> ## ✅ 复盘行动
+>
+> - [ ] 1 周后重做 Q3187，目标 15 秒锁定"AWS + BZD"
+> - [ ] 默写 AWS 4 阶段时间表（6-12-12-48 口诀）
+> - [ ] 默写 "Phenytoin 对 AWS 无效，Phenobarbital 补位"
+> - [ ] 找 3 道类似题：搜 "alcohol withdrawal" + "delirium tremens" + "withdrawal seizure"
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: AWS 4 阶段时间表 / Phenytoin 治 AWS 陷阱
+> 状态:: 🟢
+> 错因:: ✅ 做对（知识入库）
+
+> [!example]- [2026-05-19] Psych / MDMA (Ecstasy) 中毒 + Serotonin Syndrome（SSRI 陷阱）(Q11853)
+> ^Q11853
+>
+> ## Stem 模式
+> 21yo 大学男生 + ED + **派对回来 + "不像自己" → seizure** + PMH **MDD on sertraline** + T 40°C(104°F) / HR 120 / BP 170/96 + flushed/diaphoretic + **肠鸣音 ↑** + **DTR 3+ + spontaneous myoclonus 上肢 + 反应迟钝** + **Na 122**（低钠）→ 病因？
+>
+> ## 核心概念
+> **MDMA (Ecstasy / Molly) = synthetic amphetamine** — 增加突触前 **NE / DA / 5-HT** 释放。
+>
+> 严重中毒 = **双重毒性**：
+> 1. **Sympathomimetic toxicity**：HTN / tachycardia / diaphoresis / **hyperthermia 40°C**
+> 2. **Serotonin toxicity (Serotonin Syndrome)**：AMS / **hyperreflexia + myoclonus** / **seizure** / **hyponatremia**（SIADH + 过量饮水降温）
+>
+> 本题**关键放大器**：SSRI（sertraline）+ MDMA → serotonin 大量蓄积 → 严重 SS。SSRI 用户是 USMLE 高频"伪装"。
+>
+> ## 普适规则 — 6 大类常见 USMLE 中毒鉴别 ⭐⭐⭐
+>
+> | 物质 | 瞳孔 | 体温 | 出汗 / 黏膜 | 肠鸣音 | 神经体征 | 独特线索 |
+> |---|---|---|---|---|---|---|
+> | **MDMA / Amphetamine** | 散大 | **↑↑ Hyperthermia** | 出汗 | ↑ | **Myoclonus + Hyperreflexia + Seizure** | **+ SSRI = SS / 低钠** |
+> | **Cocaine** | 散大 | ↑ | 出汗 | 正常 | 激越 + seizure | 鼻中隔穿孔 / MI |
+> | **Anticholinergic** (DPH, atropine) | **散大** | ↑ Hyperthermia | **皮肤干 + 黏膜干 + 肠鸣音 ↓** ⭐ | **↓** | 谵妄 / bizarre / 尿潴留 | "干红怒热" — Hot/Dry/Red/Crazy |
+> | **PCP** | 垂直 + 水平 **nystagmus** | ↑ | — | — | 暴力 / 解离 / 镇痛 | NMDA 拮抗，**强烈攻击性**不是 somnolence |
+> | **Cannabis** | 红眼 | 正常 | — | — | 反应慢 / 偏执 / 食欲 | **不致 hyperthermia / myoclonus** |
+> | **Opioid** | **针尖 miosis** | 正常 / ↓ | — | ↓ 便秘 | **CNS + 呼吸抑制** | Naloxone 反应阳性 |
+> | **BZD** | — | 正常 | — | — | CNS depression + ataxia + 言语含糊 | 生命体征**正常** |
+> | **Nitrous oxide** | — | 正常 | — | — | LOC / seizure（大量）| 效果仅 **15-45 分钟** |
+>
+> ## 普适规则 — Serotonin Syndrome 三联征
+>
+> | 三联 | 临床表现 |
+> |---|---|
+> | **AMS** | 激越 / 谵妄 / 昏迷 / hallucination |
+> | **Autonomic instability** | HR ↑ / BP ↑ / 出汗 / 高热 / 散瞳 / 流涎 |
+> | **Neuromuscular hyperactivity** ⭐ | **Hyperreflexia + Myoclonus + Clonus + Tremor + 肌张力 ↑** |
+>
+> 触发药：SSRI / SNRI / MAOI / TCA / Triptan / **MDMA** / Tramadol / Linezolid / Dextromethorphan / St John's Wort。
+>
+> ## 易混陷阱（普适）
+>
+> > [!danger] 陷阱 1：选 Cannabis ❌（我犯的错）
+> > Cannabis 可有 tachycardia + HTN，但**没有** hyperthermia / myoclonus / hyperreflexia / seizure / 低钠。本题这 4 个特征都齐全 → 必须想到 stimulant + SS。
+>
+> > [!danger] 陷阱 2：选 Anticholinergic (DPH) ❌
+> > Anticholinergic 也有 hyperthermia / HTN / seizure / bizarre behavior，但 **anhidrosis（皮肤干）+ 肠鸣音 ↓** 是必带特征。本题 **diaphoretic + 肠鸣音 ↑** = 反向 → 排除。
+> > 口诀："Hot / Dry / Red / Crazy"（干红怒热）— "**干**"是 anticholinergic 的指纹。
+>
+> > [!warning] 陷阱 3：选 Alcohol withdrawal ❌
+> > AWS 也有 HR↑/BP↑/出汗/seizure，但 **myoclonus 不期** + 本病人偶尔饮酒（"occasionally drinks beer"）→ 戒断不太可能。
+>
+> > [!info] 隐形陷阱：urine tox 阴性 ≠ 排除 MDMA
+> > MDMA / bath salts / 合成 cathinone **常规 amphetamine 尿筛查不出**！别因为"阴性"就排除。
+>
+> ## 我为什么错
+>
+> - 选了：**B. Cannabis intoxication**
+> - 错因：**pattern** — 看到"派对 + 大学生 + 偶饮"反射性选 cannabis，没系统识别 stimulant + SS 的指纹特征
+> - 核心陷阱链：
+>   - ☑ **忽略 hyperthermia 40°C**（cannabis 不致此）
+>   - ☑ **忽略 myoclonus + hyperreflexia**（cannabis 不致此）
+>   - ☑ **忽略低钠 122**（MDMA 经典 SIADH + 过量饮水）
+>   - ☑ **没识别 sertraline + MDMA = SS 放大器**
+> - **核心教训**：高热 + 肌阵挛 + 反射亢进 + SSRI 用户 → **永远首想 serotonin syndrome / MDMA**
+>
+> ## Memory Hook
+>
+> > [!success] 一句话锁定
+> > **"派对 + SSRI 用户 + 高热 + myoclonus + 反射亢进 + 低钠" = MDMA + Serotonin Syndrome**
+>
+> **MDMA = 三胺合一武器**："NE 推血压 + DA 推奖赏 + 5-HT 推 SS"
+>
+> **SS 三联 "M.A.N"**：**M**ental change / **A**utonomic / **N**euromuscular hyperactivity（hyperreflexia + myoclonus）
+>
+> **"干 vs 湿"中毒鉴别**：
+> - 干 → Anticholinergic（DPH / atropine）— 皮肤干 + 肠鸣音 ↓
+> - 湿 → Cholinergic（OP / 蘑菇）— 出汗 + 流涎 + 腹泻 + 肠鸣音 ↑
+> - 湿 + 高热 + 肌阵挛 → **Serotonin / MDMA**
+>
+> **MDMA 低钠机制双管齐下**：drug-induced SIADH + 用户主观觉得热疯狂饮水"降温" → dilutional hyponatremia → seizure
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q：MDMA 怎么导致 hyponatremia？
+>   - 学到：双机制 — ① drug-induced SIADH（ADH 释放）+ ② 用户主观觉得热/出汗，疯狂饮水补充 → dilutional hyponatremia。低钠到 122 时引发 seizure。
+> - Q：DPH 过量也有 hyperthermia/HTN/seizure，怎么区分 MDMA？
+>   - 学到：**Anticholinergic = 干**（皮肤干 + 黏膜干 + 肠鸣音↓ + anhidrosis）；MDMA / SS = **湿**（diaphoretic + 肠鸣音↑）。"干红怒热"是 anticholinergic 指纹。
+> - Q：为什么 MDMA 不在 urine amphetamine 筛查里查出？
+>   - 学到：MDMA 是 amphetamine 的"合成衍生物"，常规免疫筛查（针对 d-amphetamine）catch 不到结构差异大的衍生物。bath salts / cathinone / 合成大麻同理。**临床表现优先于 tox 阴性**。
+> - Q：SS 三联 vs Neuroleptic Malignant Syndrome (NMS) 怎么分？
+>   - 学到：SS = **hyperreflexia + myoclonus + 起病急（小时内）+ 5-HT 类药**；NMS = **铅管样肌强直 + bradyreflexia + 起病慢（天）+ 抗精神病药**。两者都有高热/AMS/自主神经亢进。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q3189]] Heroin 戒断（同日入库 — vital signs 是关键鉴别；本题 = 中毒 hyperthermia，Q3189 = 戒断 vitals 正常，正好成对）
+>   - [[mistakes/uworld-mistakes#^Q3187]] AWS withdrawal seizure（同日做对 — 戒断相关 seizure vs 本题中毒相关 seizure）
+>   - 等积累更多 cocaine / amphetamine / DPH / cholinergic / SS / NMS 错题后横向连接
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/psych]]（成瘾医学 + SUD 表 L1118-1124）
+>   - [[完整笔记/专题笔记/psych_成瘾药物对照表]]（戒断 / 维持期 / 急救药 — MDMA 不在本笔记定位内）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/neuro]]（serotonin syndrome / myoclonus / hyperreflexia / NMS vs SS）
+>   - [[完整笔记/Peixuan分科笔记/感染]]（高热鉴别 — 中毒 vs 感染 vs SS vs NMS vs MH）
+> - 🌱 TODO：
+>   - 衍生增量：累积 SS / NMS / MH / 抗胆碱 / DPH / MDMA 中毒错题 3-5 道后 → 考虑新建 [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]]（MDMA / Stimulant / Anticholinergic / PCP / Cannabis / Opioid / BZD / Nitrous oxide / SS / NMS / MH 跨域）
+>
+> ## ✅ 复盘行动
+>
+> - [ ] 1 周后重做 Q11853，目标 20 秒锁定 MDMA + SS
+> - [ ] 默写 6 大物质中毒鉴别表（瞳孔/体温/出汗/肠鸣/神经/线索）
+> - [ ] 默写 SS 三联 "M.A.N"（AMS / Autonomic / Neuromuscular）
+> - [ ] 默写 "干 vs 湿" 中毒鉴别口诀
+> - [ ] 找 3 道类似题：搜 "MDMA" / "serotonin syndrome" / "amphetamine intoxication"
+> - [ ] 在 psych 主笔记加「难记」（MDMA / SS 部分）
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: MDMA 中毒 + Serotonin Syndrome / 6 大物质中毒鉴别（干 vs 湿）
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-05-19] Psych / Heroin 戒断 vs Alcohol-BZD 戒断（vital signs 鉴别）(Q3189)
+> ^Q3189
+>
+> ## Stem 模式
+> 17yo 男孩 + 24h 呕吐 / 腹痛 / **水样腹泻** + 2 天难入睡 + **全身酸痛** + diaphoretic + 干黏膜 + **生命体征全正常**（T 36.6 / BP 110/74 / HR 88 / RR 16）→ 诊断？
+>
+> ## 核心概念
+> **Opioid (Heroin) Withdrawal** — 长期用 opioid 患者突然停药 → locus coeruleus 失去 μ 抑制 → NE 释放 ↑ → 自主神经亢进，但**比 alcohol/BZD 戒断弱很多**。
+>
+> 时间窗：last dose 后 **4-48h** 起病；短效（海洛因）4-12h；长效（美沙酮）24-48h。
+>
+> 症状：vomiting / abdominal pain / **watery diarrhea** / sleep disturbance / myalgia / diaphoresis / restless / irritable / piloerection / lacrimation / yawning / hyperactive bowel sounds / mydriasis。
+>
+> **核心鉴别要点**：⭐⭐⭐ **vital signs OFTEN NORMAL** — 这是与 alcohol/BZD 戒断的关键区分！
+>
+> ## 普适规则 — 4 大戒断综合征 vital signs 对比 ⭐⭐⭐
+>
+> | 戒断 | HR / BP | 体温 | AMS | Seizure | 致死风险 |
+> |---|---|---|---|---|---|
+> | **Alcohol** | ↑↑↑ | ↑（DT 高热）| **有**（震颤谵妄 / 焦虑 / 幻觉）| **有**（12-48h tonic-clonic）| **致死**（DT）|
+> | **BZD** | ↑↑↑ | ↑ | 有 | **有** | **致死** |
+> | **Opioid** ⭐ | **正常 / 略 ↑** | **正常** | **无**（清醒，痛苦）| **无** | 不致死（成人）|
+> | **Stimulant**（cocaine/amphet）| 正常 / ↓ | 正常 | 抑郁 / 自杀念头 | 无 | 心理风险（自杀）|
+>
+> > [!danger] 核心鉴别 — vital signs 是决定性证据
+> > **Alcohol / BZD 戒断 = autonomic STORM**（HR/BP/T 全飙 + AMS + 可 seizure 致死）
+> > **Opioid 戒断 = 痛苦但 vital signs OFTEN NORMAL**（清醒 + 想活下来 + 不会死）
+> > **关键诊断词**：题干特意写 "vital signs are normal" + diaphoresis + 胃肠症状 + 肌痛 + 失眠 → **Opioid withdrawal**（除非另有线索）
+>
+> ## 普适规则 — 阿片中毒 vs 戒断（"反向阿片"）
+>
+> | 系统 | 中毒（Intoxication）| 戒断（Withdrawal）|
+> |---|---|---|
+> | **瞳孔** | **针尖 miosis** | **散瞳 mydriasis** |
+> | **肠** | 便秘 | **腹泻 + 肠鸣音 ↑** |
+> | **CNS** | 镇静 / 昏迷 | 失眠 / 焦虑 / 烦躁 |
+> | **呼吸** | 抑制（致死）| 正常或略快 |
+> | **皮肤** | — | 出汗 + **piloerection（goosebumps）** |
+> | **分泌** | — | **流泪 + 流鼻涕 + 打哈欠 + 流口水** |
+> | **肌肉** | — | **肌痛 myalgia + 肌阵挛轻** |
+>
+> "Cold turkey"（戒断状态）= piloerection + 寒战 + 苍白 → 像冷的火鸡皮。
+>
+> ## 易混陷阱（普适）
+>
+> > [!danger] 陷阱 1：选 BZD 戒断 ❌（我犯的错）
+> > BZD 戒断也有失眠 / 焦虑 / 出汗 / 震颤 / 呕吐，但**必有显著生命体征升高**（HR/BP/T 全飙）+ 常有 seizure。本题 vital signs **全正常** → 直接排除 BZD 戒断。
+> > 记忆口诀：**"vital signs 正常 = NOT alcohol/BZD withdrawal"**
+>
+> > [!warning] 陷阱 2：选 Alcohol 戒断 ❌
+> > 同样的逻辑 — Alcohol 戒断必有 autonomic storm。本题 HR 88 + BP 110/74 + T 36.6 → 完全不符合。
+>
+> > [!warning] 陷阱 3：选 Cholinergic poisoning ❌
+> > Cholinergic（OP / 蘑菇）有 SLUDGE（流涎/流泪/排尿/腹泻/胃肠激惹/呕吐），但 **bradycardia + salivation（流口水）+ miosis**。本题 HR 88 + 黏膜**干**（非流口水）→ 排除。
+>
+> > [!warning] 陷阱 4：选 Amphetamine 中毒 ❌
+> > Amphet 中毒可有 vomiting / 失眠 / diaphoresis / 干口，但**必有 tachycardia + HTN + hyperthermia + 妄想偏执**。本题 vital signs 正常 → 排除。
+>
+> > [!info] Opioid 戒断"痛苦但不致命"原理
+> > Alcohol/BZD 戒断致死 = GABA-A 受体过度脱敏 → seizure / cardiac arrhythmia。
+> > Opioid 戒断"只是难受" = μ 受体缺失 → NE 增加（受其他反馈调节）→ 自主神经亢进**有上限**。
+>
+> ## 我为什么错
+>
+> - 选了：**D. Withdrawal from benzodiazepines**
+> - 错因：**pattern** — 看到呕吐/腹泻/失眠/酸痛 + 出汗 → 反射性想到 alcohol/BZD 戒断，**没系统检查 vital signs**
+> - 核心陷阱链：
+>   - ☑ **忽略 "vital signs ARE NORMAL" 这句关键线索**（题目特意写出来 = 暗示）
+>   - ☑ **没排除 BZD 戒断的必备特征**（autonomic instability + seizure）
+>   - ☑ **没识别 watery diarrhea + abdominal pain + 失眠 + myalgia 4 联 = 阿片戒断指纹**
+> - **核心教训**：戒断鉴别**先看 vital signs**：飙 = GABA 类（alcohol/BZD），平 = opioid。这一步能 90% 区分。
+>
+> ## Memory Hook
+>
+> > [!success] 一句话锁定
+> > **"四联（吐/泻/痛/失眠）+ vital signs 正常 + diaphoresis = Heroin (Opioid) Withdrawal"**
+>
+> **3 大戒断 vital signs 速记口诀**：
+> - **GABA 类戒断 = 飙**（HR/BP/T↑ + AMS + seizure 可致死）
+> - **阿片戒断 = 平**（vitals 正常，痛苦但不死）
+> - **兴奋剂戒断 = 沉**（嗜睡 + 抑郁 + 食欲↑ + 自杀念头）
+>
+> **阿片戒断 = "反向中毒"**：
+> - 中毒针尖瞳 → 戒断散瞳
+> - 中毒便秘 → 戒断腹泻
+> - 中毒昏迷 → 戒断失眠
+> - 中毒呼抑 → 戒断打哈欠
+>
+> **"Cold Turkey"** 形象：goosebumps + 寒战 + 苍白
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q：为什么 opioid 戒断不致命？
+>   - 学到：μ 受体缺失主要影响 locus coeruleus → NE 释放有限（受反馈调节）→ 自主神经亢进**有上限**。而 alcohol/BZD 戒断是 GABA-A 全脱敏 → 整个 CNS 失抑制 → seizure / arrhythmia 致死。
+> - Q：vital signs 正常的戒断还有什么？
+>   - 学到：opioid + stimulant（"crash"）+ cannabis + nicotine 戒断 vital signs 都正常或仅轻微变化。**只有 GABA 系统戒断**（alcohol/BZD/barbiturate）才 storm + 致死。
+> - Q：opioid 戒断起病多快？
+>   - 学到：**4-48h** 起，**72h** 高峰（取决于短效/长效阿片）。短效（海洛因）4-12h；长效（美沙酮）24-48h。
+> - Q："Cold turkey" 为什么叫这个名？
+>   - 学到：戒断时 piloerection（鸡皮疙瘩 + 寒战 + 苍白）的皮肤像"冷的火鸡皮"。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q11853]] MDMA 中毒（同日入库 — 中毒 hyperthermia 飙 vs 本题戒断 vitals 平，正好成对）
+>   - [[mistakes/uworld-mistakes#^Q3187]] AWS withdrawal seizure（同日做对 — alcohol 戒断 vital signs storm，本题反向）
+>   - 等积累更多 OUD / opioid 中毒错题后横向连接
+> - 📚 主笔记：
+>   - [[完整笔记/专题笔记/psych_成瘾药物对照表]] §3.3 阿片急性戒断（v1.6 强化 vital signs 鉴别）
+>   - [[完整笔记/Peixuan分科笔记/psych]] L1118-1124 物质中毒鉴别表（缺戒断对比）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/感染]]（霍乱样腹泻鉴别 — 阿片戒断 watery diarrhea 像感染性腹泻）
+>   - [[完整笔记/Peixuan分科笔记/消化补充内容]]（IBS / 胃肠激惹鉴别）
+> - 🌱 TODO：
+>   - ✅ 主笔记 §3.3 同步 "vital signs OFTEN NORMAL" 关键鉴别
+>   - ✅ 主笔记 §3.3 同步 "中毒 vs 戒断 反向阿片表"
+>   - ✅ 主笔记 §6 陷阱表加 vital signs 鉴别行
+>   - 累积更多戒断对比题后 → 横向衍生 [[完整笔记/专题笔记/psych_戒断综合征鉴别表]]
+>
+> ## ✅ 复盘行动
+>
+> - [ ] 1 周后重做 Q3189，目标 15 秒锁定 "vitals 正常 → opioid 戒断"
+> - [ ] 默写 4 大戒断综合征 vital signs 对比表
+> - [ ] 默写阿片中毒 vs 戒断（"反向阿片"对比表）
+> - [ ] 默写 "GABA 飙 / 阿片平 / 兴奋剂沉" 口诀
+> - [ ] 找 3 道类似题：搜 "opioid withdrawal" / "heroin withdrawal"
+> - [ ] 在 psych 主笔记加「难记」（opioid 戒断 vital signs 鉴别要点）
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Opioid 戒断 vs Alcohol-BZD 戒断（vital signs 鉴别）/ 反向阿片对比
+> 状态:: 🟡
+> 错因:: pattern
+

@@ -7119,6 +7119,10 @@ RBD 是 REM atonia 消失 → 病人会拳打脚踢、喊叫、梦境表演**
 
 治疗：**long acting <span class="mark">benzodiazepines</span>**
 
+⚠️ **AWS seizure 用药陷阱**：BZD 一线（GABA-A 激动）；**Phenytoin 无效**（Na 通道阻断，不针对 GABA-A 脱敏机制）；status epilepticus 时加 **Phenobarbital**（也作用 GABA-A）。
+
+→ 完整对照见 [[完整笔记/专题笔记/psych_成瘾药物对照表]]（v1.4 §1.2 AWS seizure 用药对比，Q3187 触发）
+
 <table style="width:100%;">
 <colgroup>
 <col style="width: 16%" />
