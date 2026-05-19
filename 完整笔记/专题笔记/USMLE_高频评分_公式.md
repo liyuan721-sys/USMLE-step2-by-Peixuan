@@ -50,13 +50,20 @@
 | A | Age 65–74 | 1 |
 | Sc | Sex category = 女性 | 1 |
 
-**Cutoff 解读**：
-- 男 0 / 女 1（仅性别）→ 不抗凝
-- 男 1 → 可考虑抗凝（个体化）
-- 男 ≥ 2 / 女 ≥ 3 → 启动 DOAC（apixaban、rivaroxaban、dabigatran、edoxaban）
-- 中重度二尖瓣狭窄或机械瓣 → 跳过评分，直接 warfarin（INR 目标 2–3 或 2.5–3.5）
+**Cutoff 解读**（三档决策）：
+- 男 0 / 女 1（仅性别）→ **不抗凝**（明确）
+- 男 1 / 女 2 → **Shared decision-making**（必须和患者讨论）⚠️ **灰区**（USMLE 沟通伦理考点）
+- 男 ≥ 2 / 女 ≥ 3 → **启动 DOAC**（apixaban、rivaroxaban、dabigatran、edoxaban）
+- 中重度二尖瓣狭窄或机械瓣 / APS → 跳过评分，直接 warfarin（INR 目标 2–3 或 2.5–3.5）
 
-**CK 高频考法**：vignette 给 70 岁女性新发房颤 + DM + HTN（= 1+1+1+1 = 4 分）→ 答 DOAC，不要选 aspirin。陷阱：女性 0 个其他危险因素时性别分不计入治疗决策。
+**Trigger vs Substrate**：AF 抗凝针对的是慢性 **substrate**（心房纤维化、扩大），不是 AF 本身。年轻、可逆诱因（binge drinking / 甲亢 / 急性病）+ normal echo + 无 HTN/HF/DM/卒中 → 评分低 → 不抗凝。
+
+**CK 高频考法**：
+- vignette 给 70 岁女性新发房颤 + DM + HTN（= 1+1+1+1 = 4 分）→ 答 DOAC，不要选 aspirin。
+- 陷阱 1：女性 0 个其他危险因素时性别分不计入治疗决策。
+- 陷阱 2：**DAPT（ASA + clopidogrel）≠ "温和抗凝"** — 出血 ≈ 抗凝、获益 ≪ 抗凝，AF 指南已淘汰。
+- 陷阱 3：**ASA 单药**用于 AF 卒中预防基本无效，不推荐。
+- 关联错题：[[mistakes/uworld-mistakes#^Q4469]] AF + 可逆诱因 + 评分 0 → 不抗凝。
 
 **笔记出处**：心内.md（含完整字母表 + 性别陷阱）。
 

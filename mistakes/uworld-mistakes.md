@@ -8483,3 +8483,119 @@
 > 主题:: 高钾三联 K 炸弹 (ACEi+MRA+KCl) / Trigger vs Permissive 思维 / 隐藏升 K 药
 > 状态:: 🟡
 > 错因:: pattern
+
+> [!example]- [2026-05-18] 心内 / AF 抗凝指征 (Q4469)
+> ^Q4469
+>
+> ## 1. Stem 模式
+> 年轻人（<65）+ 一次性 AF 发作 + **明确可逆诱因**（binge drinking / 甲亢 / 急性病）+ 自发转复 + 心脏结构正常（normal echo）+ 无 HTN/HF/DM/卒中史 → 问下一步管理
+>
+> ## 2. 核心概念
+> **AF 抗凝指征 = AF + CHA₂DS₂-VASc 达标**，**不是** "有 AF 就抗凝"。
+> 抗凝针对的是**慢性 substrate**（心房纤维化、扩大），不是 AF 本身。Trigger 可逆 + 无 substrate → 血栓风险低 → 不抗凝。
+>
+> ## 3. 普适规则
+>
+> **AF 治疗三步决策**：
+> ```
+> ① 要不要抗凝？ → CHA₂DS₂-VASc
+> ② Rate or Rhythm control？ → 多数 rate（β-blocker / CCB）
+> ③ 出血风险？ → HAS-BLED（警示，非禁忌）
+> ```
+>
+> **CHA₂DS₂-VASc 三档决策**：
+> ```
+>      男 0 / 女 1 ────→ 不抗凝（明确）
+>      男 1 / 女 2 ────→ Shared decision-making（必须讨论）⚠️ 灰区
+>      男 ≥2 / 女 ≥3 ──→ 抗凝（DOAC 首选）
+> ```
+>
+> **CHA₂DS₂-VASc 9 项**（双倍分 = 老 + 中过风）：
+> ```
+> C  CHF                  1
+> H  HTN                  1
+> A₂ Age ≥75              2 ← 双倍
+> D  DM                   1
+> S₂ Stroke/TIA           2 ← 双倍
+> V  Vascular (MI/PAD)    1
+> A  Age 65-74            1
+> Sc Sex female           1（仅在有其他危险因素时计分）
+> ```
+>
+> **抗凝药选择**（口诀：瓣 / 机 / APS → warfarin，其他 DOAC）：
+>
+> | 情境 | 首选 |
+> |---|---|
+> | 非瓣膜性 AF | **DOAC**（apixaban 最常用、出血最低） |
+> | 中重度 MS / 机械瓣 | Warfarin（DOAC 禁忌） |
+> | 严重肾衰 / 透析 | Apixaban（唯一 FDA 批准透析用 DOAC）或 warfarin |
+> | 抗磷脂综合征 | Warfarin |
+>
+> ## 4. 易混陷阱（普适）
+>
+> | 陷阱 | 正解 |
+> |---|---|
+> | "AF = 抗凝" 反射 | AF + 评分达标 = 抗凝 |
+> | DAPT（ASA + clopidogrel）"比抗凝温和" | **出血风险 ≈ 抗凝，获益远低于抗凝**，AF 中已被指南淘汰 |
+> | ASA 单药用于 AF 卒中预防 | **基本无效**，不推荐 |
+> | 1 分（男）直接抗凝 | 必须 **shared decision-making**（USMLE 沟通伦理考点） |
+> | 非瓣膜性 AF 用 warfarin | 首选 DOAC，warfarin 仅瓣膜性 / 机械瓣 / APS |
+> | Rate vs rhythm 混淆 | Amiodarone = rhythm（维持窦律）；metoprolol = rate（控制心室率） |
+>
+> ## 5. 我为什么错
+>
+> - **我选了**：B. Aspirin + clopidogrel
+> - **思路**："AF 必抗凝；DAPT 比 DOAC 温和折中"
+> - **根本错因**：
+>   - ☑ 概念混淆：把"AF = 抗凝"当绝对规则，跳过了 CHA₂DS₂-VASc 这一必经过滤
+>   - ☑ 不知道 DAPT 在 AF 中的循证地位（出血 ≈ 抗凝、获益 ≪ 抗凝，指南淘汰）
+> - **核心陷阱**："AF = 抗凝" 反射，忽略评分驱动
+>
+> ## 6. Memory Hook
+>
+> **一句话锁定**：**"AF 不等于抗凝；AF + 评分才等于抗凝。"**
+>
+> **类比**：
+> - AF = 房子着火（trigger），抗凝 = 火灾保险。**新房（年轻、正常心脏）烧一次没事；老房（HTN/HF/老龄）必须上保险**。
+> - DAPT 在 AF 里 = "两个半吊子顶不过一个专业的"：出血风险加倍，防栓本事远不如抗凝。
+>
+> **双倍分速记**：**"老（≥75）+ 中过风（Stroke/TIA）= 2 分"**，其余全是 1 分。
+>
+> ---
+>
+> ## 7. 🤔 我的提问 / 卡点
+>
+> | 我的提问 | 学到了什么 |
+> |---|---|
+> | "我以为 AF 就要抗凝" | AF 抗凝 = 评分驱动，**trigger vs substrate** 是核心二分法 |
+> | 自测 #1（72♀，HTN，评分 3）选 C apixaban | 巩固"评分 ≥ 阈值 → DOAC 首选"，warfarin 只用于瓣膜 / 机械瓣 / APS |
+> | 自测 #2（58♂，HTN，评分 1）选 C shared decision | 灰区时**"和患者讨论"是正确答案**，不是"直接做"也不是"什么都不做"——USMLE 沟通伦理考点 |
+>
+> ## 8. 🔗 关联
+>
+> - 🔁 同主题错题：
+>   - （首题，等后续 AF 题积累 — 建议方向：rate vs rhythm、cardioversion 复律前抗凝、Holiday Heart）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/心内]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（DOAC vs warfarin、HAS-BLED 出血评估）
+> - 🌱 TODO（待生成衍生）：
+>   - 等积累 3-4 道 AF 题（rate/rhythm、cardioversion、Holiday Heart）→ 请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/心内_AF管理决策树]]
+>   - 等评分类题积累（CHA₂DS₂-VASc + HAS-BLED + CHADS₂ + Wells 等）→ 整合进 [[完整笔记/专题笔记/USMLE_高频评分_公式]]
+>
+> ## 9. ✅ 复盘行动
+>
+> - [ ] 1 周后重做 Q4469（盖住选项默写评分）
+> - [ ] 默写 CHA₂DS₂-VASc 9 项 + 三档阈值（0 / 1 / ≥2）
+> - [ ] 默写 AF 治疗三步决策法
+> - [ ] 默写 warfarin 三大适应症（瓣 / 机 / APS）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加「薄弱点」（AF 抗凝）
+> - [ ] UW 搜 "atrial fibrillation anticoagulation" / "CHA2DS2-VASc" 边界题 3 道
+> - [ ] 做 1-2 道 Holiday Heart Syndrome / 甲亢诱发 AF 题
+>
+> ---
+>
+> 学科:: 心血管
+> 主题:: AF 抗凝指征 — CHA₂DS₂-VASc 评分驱动 / Trigger vs Substrate / DAPT 在 AF 中已淘汰
+> 状态:: 🟡
+> 错因:: 知识
