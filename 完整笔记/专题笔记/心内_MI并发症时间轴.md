@@ -143,6 +143,65 @@ LA 压力骤升 → 肺静脉淤血
 > **后内侧乳头肌 (posteromedial papillary muscle, PMP) = RCA 单一供血** → 下壁/后壁 MI 更易发生。
 > 前外侧乳头肌 (ALP) 有 LAD + LCx 双重供血 → 相对安全。
 
+## 3.4 冠脉解剖根基 — RCA vs LAD 完整对照（统一三大并发症的根源）
+
+> [!info] 一站式根源
+> 下壁 MI 的 nodal AV block / RV MI / PMP rupture 三个并发症，**根源都是 RCA 一条血管**供应了 AV node + RV + 后内侧乳头肌。
+> 前壁 MI 的 infranodal block / free wall rupture / VSR / aneurysm 多发，**根源是 LAD** 供应了 His-Purkinje + 大面积前壁 + 前室间隔。
+
+### 3.4.1 RCA 完整供血范围
+
+| 结构 | RCA 供血比例 | 下壁 MI 时临床后果 |
+|---|---|---|
+| **SA node** | ~60%（右优势型）| Sinus bradycardia |
+| **AV node**（经 AV nodal artery）| **~90%** ⭐ | **Nodal AV block**（窄 QRS escape，atropine 有效）|
+| **RV（右心室）** | 大部分 | **RV MI**（颈静脉怒张 + 肺清 + 低血压；**禁 nitrate / 利尿**，靠前负荷）|
+| **LV 下壁** | 右优势 ~85% | 下壁 STEMI（II/III/aVF ST↑）|
+| **LV 后壁**（经 PDA）| — | 后壁 MI（V1-V3 ST 压低 + 高 R 波 mirror image）|
+| **室间隔后 1/3**（经 PDA）| — | — |
+| **后内侧乳头肌 (PMP)** | **单一供血** ⭐ | **Papillary muscle rupture** → 急性 MR + 暴风式肺水肿 |
+
+### 3.4.2 LAD 完整供血范围
+
+| 结构 | LAD 供血 | 前壁 MI 时临床后果 |
+|---|---|---|
+| **LV 前壁 + 心尖** | 大面积 | 前壁 STEMI（V1-V6 ST↑）+ 大面积梗死 → **cardiogenic shock** |
+| **室间隔前 2/3**（septal branches）| 主要 | **VSR**（apical septal）+ **infranodal block**（His 缺血） |
+| **His 束 + 束支**（septal branches）| 主要 | **Infranodal AV block**（宽 QRS，atropine 无效）|
+| **前外侧乳头肌 (ALP)** | **+LCx 双供血** ⭐ | 破裂罕见（双供血保护）|
+| **前壁 + 心尖室壁** | 大面积 | **Free wall rupture** + **LV aneurysm**（数月后） |
+
+### 3.4.3 下壁 MI vs 前壁 MI — 并发症分布对照
+
+```
+下壁 MI = RCA 闭塞                  前壁 MI = LAD 闭塞
+    │                                   │
+    ├──→ AV node 缺血                   ├──→ His-Purkinje 缺血
+    │    → Nodal AV block (Q3)          │    → Infranodal block (Q4)
+    │    窄 QRS, atropine 有效          │    宽 QRS, atropine 无效
+    │    多自限                         │    必须永久起搏器
+    │                                   │
+    ├──→ SA node 缺血                   ├──→ 大面积 LV 前壁
+    │    → Sinus brady                  │    → Cardiogenic shock
+    │                                   │    → Free wall rupture
+    │                                   │    → LV aneurysm（数月）
+    ├──→ RV 缺血                        │
+    │    → RV MI                        ├──→ 前室间隔
+    │    → 前负荷依赖                   │    → VSR (apical septal)
+    │                                   │
+    └──→ PMP 缺血断裂 (Q12)             └──→ ALP 双供血 → 破裂罕见
+         → 急性 MR + 暴风式肺水肿
+```
+
+### 3.4.4 一句话锁定（Q3 + Q4 + Q12 三道错题的统一根源）
+
+> [!success] 一句话锁定
+> - **"RCA 一血流三处死：AV node 慢 + RV 衰 + PMP 烂"**
+> - **"LAD 一血流三处坏：His 断 + 前壁死 + 间隔穿"**
+> - **PMP 单一供血**是关键 — ALP 双供血所以**不会**出题考断裂
+
+⚠️ 关联错题 [[mistakes/uworld-mistakes#^Q12340]] (VSR) + [[mistakes/uworld-mistakes#^Q4277-v2]] (下壁 MI 概念交叉) — 见 [[复盘/2026-05-19_5-18复盘判分_v1]] §三 薄弱点 #3。
+
 ---
 
 # 四、休克分型 — 机制 ≠ 严重度（概念厘清）
