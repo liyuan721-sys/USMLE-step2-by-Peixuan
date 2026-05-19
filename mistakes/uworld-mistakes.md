@@ -9291,3 +9291,142 @@
 > 状态:: 🟡
 > 错因:: pattern
 
+> [!example]- [2026-05-19] psych / Adjustment Disorder vs MDD 鉴别 + 治疗 (Q3382)
+> ^Q3382
+>
+> ## 1. Stem 模式
+> 明确应激源（分手/失业/丧亲）+ 应激源后短期内（≤ 3 个月）起病 + 抑郁样症状但**数 SIGECAPS < 5** + 功能或社交部分受损 + 求医 → **Adjustment Disorder**
+>
+> 常见"诱饵"：
+> - 题干给 2-3 项 SIGECAPS（如 sleep + worthlessness）让你误以为是 MDD
+> - 家族 depression + SNRI 有效史 → 诱导选抗抑郁药
+> - 强调"工作还能完成" → 诱导你忽略社交功能损害
+> - 突出某个症状（如失眠）→ 诱导对症给药（zolpidem）
+>
+> ## 2. 核心概念
+> **AD = 对应激源的"适应失败"，coping skills 不足，不是神经递质失衡**
+> → 一线治疗 **psychotherapy**（教 coping skills），不是药物
+> → 通常自限性（stressor 消除后 6 个月内缓解）
+>
+> ## 3. 普适规则 — AD 诊断 5 步算法
+>
+> ```
+> Step 1: 数 SIGECAPS → 够 5/9 + ≥2 周 + 显著功能损害？
+>         ├─ Yes → MDD（不管有无 stressor，MDD 优先）⚠️ 关键排除
+>         └─ No  → 继续
+> Step 2: 慢性 ≥ 2 年？
+>         ├─ Yes → Persistent Depressive Disorder (Dysthymia)
+>         └─ No  → 继续
+> Step 3: 有 identifiable stressor？
+>         ├─ No  → 其他诊断
+>         └─ Yes → 继续
+> Step 4: 应激源到症状起病 ≤ 3 个月？
+>         ├─ No  → 不是 AD（考虑 delayed onset / 其他）
+>         └─ Yes → 继续
+> Step 5: Marked distress（反应过度）OR 功能损害？（二选一即可）
+>         ├─ Yes → Adjustment Disorder ✅
+>         └─ No  → Normal Stress Response
+> ```
+>
+> **AD 诊断 5 要素**：
+> 1. Identifiable stressor ✓
+> 2. 应激源后 **3 个月内**起病（注意是"起病窗口"，不是"症状持续时长"）
+> 3. **Distress OR Impairment**（OR 关系，不是 AND）
+> 4. **不符合其他 DSM-5-TR 诊断**（关键排除）
+> 5. Stressor 消除后 6 个月内缓解
+>
+> ## 4. 普适规则 — 抑郁样症状 4 大鉴别
+>
+> | 诊断 | 时间窗 | 应激源 | 症状要求 | 功能影响 | 一线治疗 |
+> |---|---|---|---|---|---|
+> | **MDD** | ≥2 周 | 不需要 | SIGECAPS ≥5/9 | **必须**显著损害 | SSRI/SNRI + psychotherapy |
+> | **Dysthymia** | **≥2 年** | 不需要 | ≥2 项慢性轻度 | 慢性轻-中度 | SSRI + psychotherapy |
+> | **Adjustment Disorder** | 应激源后**3 个月内**起病；缓解 ≤ 6 个月 | **必须有** | 不够 MDD | distress **或** impairment | **Psychotherapy（一线）** |
+> | **Normal Stress Response** | 无固定 | 有 | 与 stressor 成比例 | 无显著损害 | 支持性沟通 |
+>
+> ## 5. 普适规则 — 精神科"症状 vs 病因"治疗陷阱
+>
+> | 患者表现 | 诱导你选的"对症药" | 正确答案（治本）|
+> |---|---|---|
+> | **AD + 失眠** | Zolpidem | **Psychotherapy** |
+> | PTSD + 失眠 | Zolpidem / BZD | SSRI + Trauma-focused CBT（BZD **禁用**于 PTSD）|
+> | GAD + 失眠 | BZD | SSRI/SNRI + CBT |
+> | Uncomplicated grief (<12 m) | 抗抑郁药 | Supportive psychotherapy |
+> | Acute Stress Disorder (<1 m) | 抗抑郁药 | Trauma-focused CBT |
+>
+> ## 6. 易混陷阱（普适）
+>
+> - **"诊断对 ≠ 治疗对"**：诊断出 AD 后，治疗原则是 psychotherapy，不是对症给安眠药 / 抗抑郁药
+> - **MDD 优先于 AD**：只要 SIGECAPS ≥ 5，无论有无 stressor，都先诊断 MDD
+> - **"3 个月"是起病窗口，不是症状时长**：从 stressor 到症状开始 ≤ 3 个月；症状本身可以持续更久（只要 stressor 还在）
+> - **Distress OR Impairment（OR，不是 AND）**：marked distress 反应过度即可，不必非要有功能损害
+> - **"工作正常 ≠ 功能正常"**：社交退缩、停止社交也是 functional impairment（社交领域）
+> - **家族 depression + SNRI 有效**：是干扰项，不是诊断指引；先看本人症状够不够 MDD
+> - **Maladaptive coping（用大麻 / 酒精助眠）**：是 distress 的间接证据，不是 substance use disorder（除非达到滥用标准）
+> - **求医本身 = distress 证据**：主动 come to office 暗示痛苦达到临床显著
+>
+> ## 7. 我为什么错（个性化）
+>
+> **思维路径**：识别出 AD ✓ → 但直接跳到"针对最突出症状（失眠）给对症药 zolpidem"
+>
+> **根本错因**：**概念混淆 — 把"诊断"和"治疗原则"压成一步**
+> - 不知道 AD 的一线治疗是 psychotherapy
+> - 默认"症状导向治疗"思维（看到失眠 → 给安眠药）
+> - 忽略"反应性 / 应激相关障碍"这一大类的统一治疗原则：教 coping，不化学修补
+>
+> **思维升级**：
+> 看到 AD / PTSD / ASD / Grief → 自动调取 → "**应激相关 = psychotherapy 一线**"
+>
+> ## 8. Memory Hook
+>
+> **一句话锁定**：**"AD = Adjustment 靠 Adjustment（认知调整），不靠 Ambien（zolpidem）"**
+>
+> **类比**：AD 像"心理感冒"— 自限性，要的是休息和支持（psychotherapy），不是抗生素（抗抑郁药），更不是退烧药（zolpidem）
+>
+> **Trigger 模式**：
+> "X 月前 [应激事件] + 现在睡不好/情绪低/自尊低 + 数 SIGECAPS < 5 + 求医" → **Psychotherapy**
+>
+> ---
+>
+> ## 9. 🤔 我的提问 / 卡点（学习路径）
+>
+> - **Q1**：决策树里"起病 < 3 个月" → No 怎么还能诊断 AD？
+>   → **学到**："3 个月"是**起病窗口**（stressor → 症状起病的间隔），不是"症状持续时长"。本题 stressor 和症状同时起病（2 个月前），间隔 0 < 3 个月 ✅
+>
+> - **Q2**：有应激源 + 起病 < 3 个月，但够 MDD 诊断，是不是也是 MDD？
+>   → **学到**：**MDD 优先于 AD**。DSM-5-TR Criterion D 明确：症状只要符合其他诊断（尤其 MDD），就归那个诊断，不归 AD。AD 是"诊断金字塔"最底层 — 谁都能压它。
+>
+> - **Q3**：诊断 AD 必须有功能损害吗？
+>   → **学到**：**不必须**。Criterion B 是 "marked distress **OR** functional impairment"，**OR 关系**。Distress = 反应与 stressor 严重程度不成比例。求医本身 = distress 间接证据。社交退缩 = 社交功能损害（即使工作正常）。
+>
+> ## 🔗 关联
+>
+> - 🔁 **同主题错题**：
+>   - （首题，psych 科 AD 暂无其他错题积累 — 等后续题目出现再横向连接）
+>
+> - 📚 **主笔记**：
+>   - [[完整笔记/Peixuan分科笔记/psych]]
+>
+> - 🏥 **跨学科**：
+>   - （本题为精神科核心问题，无跨科）
+>
+> - 🌱 **TODO（待生成衍生）**：
+>   - **TODO 1**：等积累 3-5 道**抑郁谱系鉴别题**（MDD / Dysthymia / AD / Normal stress / Bipolar depression）后 → 生成 [[完整笔记/专题笔记/psych_抑郁谱系鉴别决策树]]（含 SIGECAPS + 时间窗 + 应激源 + 治疗一线四维对比）
+>   - **TODO 2**：等积累 3+ 道**"诊断对但治疗错"陷阱题**（AD→psychotherapy、PTSD→不给 BZD、Grief→不给 SSRI、ASD→trauma-focused CBT）后 → 生成 [[完整笔记/专题笔记/psych_症状vs病因治疗陷阱]]
+>
+> ## ✅ 复盘行动
+>
+> - [ ] 1 周后重做 Q3382，目标 30 秒锁定 psychotherapy
+> - [ ] 默写 SIGECAPS 9 项 + AD 诊断 5 要素
+> - [ ] 默写抑郁谱系 4 大鉴别表
+> - [ ] 整理"精神科一线治疗"清单（哪些病用 psychotherapy？哪些 BZD 禁用？）
+> - [ ] 找 3 道 UWorld 类似题：搜 "adjustment disorder" / "acute stress disorder" / "uncomplicated grief"
+> - [ ] 在 [[完整笔记/Peixuan分科笔记/psych]] 加「薄弱点」（精神科治疗原则）
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Adjustment Disorder vs MDD 鉴别 + 一线 psychotherapy / 应激相关障碍治疗原则 / 诊断对≠治疗对
+> 状态:: 🟡
+> 错因:: 知识
+
