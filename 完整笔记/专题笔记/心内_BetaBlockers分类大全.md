@@ -270,6 +270,7 @@ Vasodilatory BB（carvedilol / labetalol / nebivolol）
 ---
 
 # 六、临床应用矩阵 ⭐
+#难记
 
 | 临床情境 | 首选 BB | 为什么 | 避免 |
 |---|---|---|---|
