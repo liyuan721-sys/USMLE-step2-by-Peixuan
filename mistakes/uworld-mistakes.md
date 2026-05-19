@@ -9164,7 +9164,9 @@
 > 状态:: 🟡
 > 错因:: 知识
 
-> [!example]- [2026-05-18] 儿科 / Innocent murmur (Still murmur) vs Pathologic (Q3546)
+## 2026-05-19
+
+> [!example]- [2026-05-19] 儿科 / Innocent murmur (Still murmur) vs Pathologic (Q3546)
 > ^Q3546
 >
 > ## Stem 模式
