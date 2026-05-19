@@ -9164,3 +9164,128 @@
 > 状态:: 🟡
 > 错因:: 知识
 
+> [!example]- [2026-05-18] 儿科 / Innocent murmur (Still murmur) vs Pathologic (Q3546)
+> ^Q3546
+>
+> ## Stem 模式
+> 5 岁男孩 + 年度体检 + **无症状** + 生长 50th 百分位正常 + 维父叔 65 岁 MI（非 SCD 干扰项）→ 听诊 **grade 2/6 vibratory midsystolic ejection murmur @ LLSB + 平卧↑ + 站立↓** + S2 正常分裂 + femoral pulses 2+ → 问下一步管理
+>
+> ## 核心概念
+> **Still murmur = 儿童最常见 innocent murmur**（生理性湍流，结构正常心脏）。
+> 4 个良性特征（**必须全部满足**）：
+> 1. **Asymptomatic**（无症状）
+> 2. **Grade 1-2**（不响）
+> 3. **Early or midsystolic + vibratory/musical**（振动样，不 harsh）
+> 4. **站立 / Valsalva 减弱**（venous return ↓ → murmur ↓）
+>
+> → 4 条全占 + 生长正常 + 无 SCD/CHD 家族史 + 正常 S1/S2 + symmetric pulses → **Reassurance**，不需要任何检查。
+>
+> ## 普适规则 — Benign vs Pathologic Murmur 完整对照
+>
+> | 维度 | Benign（innocent）| Pathologic |
+> |---|---|---|
+> | **History** | Asymptomatic / 生长正常 / 无 SCD/CHD 家族史 | 婴儿：喂养差/呼吸窘迫/生长迟缓<br>年长儿：劳力疲劳/胸痛/syncope<br>**家族 SCD / CHD 史** ⚠️ |
+> | **杂音特征** | Early or midsystolic / Musical or **vibratory** / Grade 1-2 / **站立 + Valsalva ↓ 或消失** ** | Holosystolic / Diastolic / **Harsh** / **Grade ≥3** / **站立 + Valsalva 不变 / 加重** |
+> | **其他体征** | 生命体征正常 / S1/S2 正常 / 对称脉搏 | **中央紫绀** / Loud-fixed-single S2 / 弱股动脉脉搏 / 肝大 |
+> | **处理** | **Reassurance** | **ECG + Echo** |
+>
+> *任一 pathologic 特征即需评估；**Venous hum 是例外（站立↑）**
+>
+> ## 普适规则 — 三大儿科 Innocent Murmur 鉴别
+>
+> | 杂音名 | 位置 | 特征 | 动作变化 |
+> |---|---|---|---|
+> | **Still murmur** ⭐ | **LLSB** | **Vibratory / musical** systolic ejection | **平卧 ↑ / 站立 ↓** |
+> | **Pulmonic flow murmur** | LUSB | Systolic ejection, 可放射腋下 | 平卧 ↑ / 站立 ↓ |
+> | **Venous hum** | 锁骨上/下区 | **Continuous**（机器样）| **颈部旋转 / 平卧 ↓**（反常 — 唯一站立↑的良性杂音）|
+>
+> ## 易混陷阱（普适）
+>
+> > [!warning] 陷阱 1：HCM 杂音方向与 Still 完全相反
+> > - **HCM**：站立 / Valsalva → 静脉回流↓ → LVOT 阻塞**加重** → 杂音**↑**
+> > - **Still**：站立 → 静脉回流↓ → LV 输出↓ → 杂音**↓**
+> >
+> > 同样是 systolic ejection murmur，**动作鉴别是金标准**。
+>
+> > [!warning] 陷阱 2：家族史 "uncle MI age 65" ≠ SCD/CHD 红旗
+> > - 红旗 = **早发 SCD**（一级亲属 < 50 岁猝死 / CHD）→ 必须 evaluate
+> > - 维父叔 65 岁 MI = **CAD 家族史**（影响 ASCVD risk，不是儿童心脏 red flag）
+> > - 题干**故意**放这种远亲非 SCD 的家族史当干扰项
+>
+> > [!warning] 陷阱 3：Coarctation 已被 femoral pulses 2+ 排除
+> > - Coarctation 标志：**上肢 BP 高 + 下肢 BP 低 + 弱股动脉**
+> > - 本题 femoral pulses 2+ + BP 100/60 正常 → **D Lower extremity BP 多余检查**
+> > - 鉴别：怀疑 coarctation 必查 4 肢 BP，但**有正常 femoral pulse 时不必再测**
+>
+> > [!warning] 陷阱 4：过度评估反射（"看到杂音就 echo"）
+> > - 儿科 innocent murmur **极常见**（高达 50-90% 儿童某时听到）
+> > - 无 pathologic feature 时 echo / ECG **没有诊断价值** + **浪费医疗资源 + 家长焦虑**
+> > - USMLE 沟通伦理考点：**reassurance > 不必要的检查**
+>
+> ## 我为什么错
+>
+> - 选了：**C. Echocardiogram**
+> - 错因：**pattern** — 反射性"看到 murmur 就 echo"，没建立 innocent murmur 的 4 良性特征 pattern
+> - 根本错因：
+>   - ☑ **没识别 Still murmur 的 4 个良性特征**（asymptomatic + grade 2 + vibratory + 站立↓）
+>   - ☑ **没主动排除 pathologic 特征**（无 SCD 家族史、grade <3、非 holosystolic、生长正常）
+>   - ☑ **被"uncle MI 65"干扰项带偏**，误以为有家族心脏病史
+> - **核心陷阱**：过度评估倾向 — "做更多检查"反射，没认识到 reassurance 才是正确答案
+>
+> ## Memory Hook
+>
+> > [!success] 一句话锁定
+> > **"无症状 + 振动样 + grade 2 + 站立↓ = Still murmur = Reassurance"**
+>
+> **4 良性铁律**（任一不满足 → 必查）：
+> 1. 无症状
+> 2. Grade ≤2
+> 3. Vibratory / musical
+> 4. **站立 / Valsalva 减弱** ⭐（金标准动作鉴别）
+>
+> **3 个儿科 Innocent murmur 速记**："Still 下 / Pulmonic 上 / Venous hum 连续 + 反常"（Still LLSB / Pulmonic LUSB / Venous hum continuous + 站立↑反常）
+>
+> **HCM vs Still 方向反**（USMLE 高频陷阱）：站立 → HCM ↑ / Still ↓
+>
+> **家族史红旗**：**SCD < 50 岁**（不是 65 岁 MI），CHD（不是 CAD）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q：为什么 uncle 65 岁 MI 不算红旗？
+>   - 学到：家族史红旗 = **早发 SCD / CHD**（< 50 岁），不是普通 CAD。65 岁不算早发。
+> - Q：站立动作怎么鉴别 Still vs HCM？
+>   - 学到：站立 → 静脉回流↓。Still murmur 是流量依赖（流量↓ → 杂音↓）；HCM 是 LVOT 阻塞（容量↓ → 阻塞↑ → 杂音↑）。**方向完全相反**。
+> - Q：什么时候必须 echo？
+>   - 学到：任一 pathologic feature（症状 / grade ≥3 / harsh / holo-/diastolic / 站立不变或↑ / 异常 S2 / 弱脉 / 紫绀 / 生长迟缓 / 家族 SCD）→ 必查。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （首张 innocent murmur 题；等积累 Still / Pulmonic flow / Venous hum / Pathologic 鉴别题）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/儿科]]
+>   - [[完整笔记/Peixuan分科笔记/心内]]
+>   - [[完整笔记/专题笔记/心内_瓣膜病听诊推理框架]]（瓣膜病听诊推理 — 与儿科 innocent murmur 互补）
+> - 🏥 跨学科：
+>   - [[完整笔记/专题笔记/心内_CHD_发绀型鉴别]]（pathologic murmur + 紫绀型 CHD 鉴别）
+>   - [[完整笔记/专题笔记/心内_CHD_ToF法洛四联症]] §5.1（ToF 杂音方向：杂音消失=失代偿 ≠ 良性减弱）
+>   - [[完整笔记/专题笔记/儿科_染色体病多系统对照表]]（综合征心脏畸形 — 各类 pathologic murmur 来源）
+> - 🌱 TODO（待生成衍生）：
+>   - 等积累 2-3 道**儿科心脏杂音鉴别**题（Still / Pulmonic flow / Venous hum / HCM / pathologic）→ 生成 [[完整笔记/专题笔记/儿科_心脏杂音鉴别]]（含 3 类 innocent + 动作鉴别 + pathologic 红旗矩阵）
+>   - 触发本卡的 UWorld 表（Benign vs Pathologic 5 维对照）可作为该衍生骨架
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q3546（盖住选项，默写 4 良性铁律）
+> - [ ] 默写 Benign vs Pathologic murmur 4 维对照表
+> - [ ] 默写 3 大儿科 innocent murmur（Still / Pulmonic flow / Venous hum）+ 动作变化
+> - [ ] 默写 HCM vs Still 站立方向**反向**规律
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/儿科]] 心脏杂音章节加「难记」（动作鉴别 + 家族史红旗）
+> - [ ] UW 搜 `innocent murmur` / `Still murmur` / `pediatric murmur` 找 3 道边界题
+>
+> ---
+>
+> 学科:: 儿科
+> 主题:: Innocent murmur (Still) vs Pathologic / 4 良性铁律 / 动作鉴别（站立 ↓）/ HCM 反向陷阱 / 家族史红旗
+> 状态:: 🟡
+> 错因:: pattern
+
