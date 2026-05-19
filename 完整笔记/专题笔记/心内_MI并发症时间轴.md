@@ -1,0 +1,299 @@
+---
+tags:
+  - USMLE-Step2
+  - 心血管
+  - 专题笔记
+created: 2026-05-18
+type: 专题笔记
+source: Q2728 (2026-05-18) 触发 + Claude.ai 草稿 v1 整合
+---
+
+# MI 并发症时间轴 / 机械并发症鉴别（Mechanical Complications of Acute MI）
+
+> [!info] 本笔记定位
+> 适用场景：MI 后几天-几周内突发恶化，鉴别 4 大机械并发症 + 缺血复发 + RV MI。
+>
+> **核心鉴别三连**：**肺部 + 杂音 + 休克类型**。
+>
+> **触发错题**：[[mistakes/uworld-mistakes#^Q2728]]（2026-05-18，free wall rupture 识别 — 卡片待入库）
+
+---
+
+## 目录
+
+- [[#一、核心鉴别表（必背）|一、核心鉴别表]]
+- [[#二、为什么是 3-5 天（病理时间轴）|二、为什么是 3-5 天]]
+- [[#三、机制对比（核心鉴别的物理基础）|三、机制对比]]
+- [[#四、5 秒分流决策树（MI 后突发恶化）|四、5 秒分流决策树]]
+- [[#五、PEA 病因鉴别 — USMLE 5H+5T|五、PEA 病因 5H+5T]]
+- [[#六、关键鉴别陷阱（USMLE 高频）|六、关键鉴别陷阱]]
+- [[#七、Memory Hook|七、Memory Hook]]
+- [[#八、处理要点（速查）|八、处理要点]]
+- [[#九、自测题（复习用，遮答案做）|九、自测题]]
+- [[#十、关联|十、关联]]
+
+---
+
+# 一、核心鉴别表（必背）
+
+| 并发症 | 时间窗 | 罪犯血管 | **杂音** | **肺部** | 休克类型 | 超声 |
+|---|---|---|---|---|---|---|
+| **Free wall rupture** | 3-5 天 / 至 2 周 | **LAD**（前壁）| **无** | **清** ⭐ | **梗阻性 (PEA)** | 心包积液 + 填塞 |
+| **IVS rupture** | 3-5 天 | LAD (尖部) 或 RCA (基底) | **Harsh holosystolic + thrill** | **湿（水肿）** | 心源性（双室衰） | L→R shunt |
+| **Papillary muscle rupture** | 3-5 天 | **RCA**（后内侧乳头肌）| **Soft systolic** | **湿（暴风式）** | 心源性（急性 MR） | 严重 MR |
+| **Ventricular aneurysm** | **数周-数月** | LAD（前壁）| 可有 MR 杂音 | 渐进性湿 | 慢性心衰 / 心律失常 | 薄壁运动减弱 |
+
+> [!danger] 三大破裂时间窗都是 3-5 天 — 区别全在「听诊 + 肺部 + 血流动力学」上！
+
+---
+
+# 二、为什么是 3-5 天（病理时间轴）
+
+```
+MI 后心肌病理时间轴
+    │
+    ├─ 0-24 h:  凝固性坏死开始（无明显结构改变）
+    │
+    ├─ 1-3 d:   中性粒细胞浸润（炎症期）
+    │
+    ├─ 3-7 d:   ⚠️ 巨噬细胞清除坏死心肌
+    │           ↓
+    │           心室壁结构「最脆」的时刻
+    │           （旧组织被吃掉，新纤维化未形成）
+    │           ↓
+    │           **机械破裂高发窗**
+    │
+    ├─ 7-10 d:  肉芽组织形成
+    │
+    ├─ 数周-数月: 纤维瘢痕形成
+    │           ↓
+    │           瘢痕薄弱处可膨出 → 室壁瘤
+    │           （不会突然破，而是慢慢鼓）
+```
+
+> [!tip] 记忆挂钩
+> **3-5 天 = 心肌"被掏空"的窗口期**
+> 数周-数月 = 瘢痕"鼓包"期（室壁瘤）
+
+---
+
+# 三、机制对比（核心鉴别的物理基础）
+
+## 3.1 Free Wall Rupture → 梗阻性休克 + PEA
+
+```
+LV 游离壁破裂
+    ↓
+血液瞬间涌入心包腔（密闭空间）
+    ↓
+Cardiac tamponade 心包填塞
+    ↓
+舒张期心脏被外部压迫，无法充盈
+    ↓
+前向心输出量骤降
+    ↓
+Obstructive shock（梗阻性休克）
+    ↓
+PEA（有电活动，无机械泵血）
+```
+
+- **肺循环没有"反流"通路 → 肺保持干净**
+- **血流出心外 → 没有湍流声 → 无杂音**
+
+## 3.2 IVS Rupture → 心源性休克 + 双室衰
+
+```
+室间隔穿孔
+    ↓
+LV (高压) → RV (低压) 左→右分流
+    ↓
+RV 容量负荷急剧 ↑ + LV 前向输出 ↓
+    ↓
+Biventricular failure（双室衰）
+    ↓
+肺循环"反向充血" → 肺水肿
+    ↓
++ Harsh holosystolic murmur with thrill（穿孔的湍流声）
+```
+
+> [!tip] 诊断金标
+> **右心导管：RA → RV 出现 O₂ step-up**（左侧富氧血混入右侧，是 IVS rupture 的诊断金标）
+
+## 3.3 Papillary Muscle Rupture → 急性 MR
+
+```
+后内侧乳头肌断裂（RCA 单一供血，最脆弱）
+    ↓
+急性严重二尖瓣反流
+    ↓
+血液回流到 LA（LA 无代偿能力）
+    ↓
+LA 压力骤升 → 肺静脉淤血
+    ↓
+暴风骤雨般肺水肿（"flash pulmonary edema"）
+    ↓
++ New soft systolic murmur（柔和，因 LA-LV 压力梯度小）
+```
+
+> [!warning] 解剖关键
+> **后内侧乳头肌 (posteromedial papillary muscle, PMP) = RCA 单一供血** → 下壁/后壁 MI 更易发生。
+> 前外侧乳头肌 (ALP) 有 LAD + LCx 双重供血 → 相对安全。
+
+---
+
+# 四、5 秒分流决策树（MI 后突发恶化）
+
+```
+MI 后几天 + 突发恶化
+    │
+    ├─→ 肺清 + PEA + 无杂音 ───────→ Free Wall Rupture
+    │   处理：紧急心包穿刺 + 外科修补
+    │
+    ├─→ 肺水肿 + Harsh holosystolic + thrill ─→ IVS Rupture
+    │   处理：IABP + 外科修补；右心导管 O₂ step-up 证实
+    │
+    ├─→ 肺水肿 + Soft systolic + 严重 MR ────→ Papillary Muscle Rupture
+    │   处理：IABP + 紧急二尖瓣手术
+    │
+    ├─→ VT/VF + 无新结构异常 ─────────────→ Recurrent ischemia
+    │
+    └─→ 数周后渐进性心衰 + 持续 ST 抬高 ────→ Ventricular Aneurysm
+```
+
+---
+
+# 五、PEA 病因鉴别 — USMLE 5H+5T
+
+| 类别 | 病因 | MI 后高发？ |
+|---|---|---|
+| **5H** | Hypovolemia, Hypoxia, H⁺ (acidosis), Hypo/Hyperkalemia, Hypothermia | — |
+| **5T** | **Tamponade ⭐**, Tension pneumothorax, Thrombosis (PE/MI), Toxins, Trauma | **MI 后 PEA = 想 Tamponade!** |
+
+> [!warning] PEA = 机械性梗阻性休克的标志
+> 心脏在"跳"（有电活动），但泵不出血 → 一定是**机械梗阻**：
+> - 心包填塞（最常见 MI 后场景）
+> - 张力性气胸
+> - 大面积肺栓塞
+> - 严重低血容量（出血）
+
+---
+
+# 六、关键鉴别陷阱（USMLE 高频）
+
+> [!danger] 陷阱 1：时间窗都一样，靠听诊鉴别
+> Free wall / IVS / Papillary 三大破裂的时间窗都是 **3-5 天 / 至 2 周**，
+> 区分完全靠：**杂音 + 肺部 + 休克类型**。
+
+> [!warning] 陷阱 2：缺血性骤停 vs 机械性骤停
+> - **缺血再发** → VT / VF（电学问题）
+> - **机械并发症** → PEA（结构问题）
+>
+> 看到 MI 后骤停，先问节律：VT/VF → 缺血；PEA → 机械
+
+> [!warning] 陷阱 3：RV MI 别混淆
+> RV MI 也会低血压休克，但：
+> - 通常是 **sinus bradycardia**（迷走反射）
+> - 颈静脉怒张 + 肺清
+> - 罪犯血管是 RCA（下壁 MI 时）
+>
+> 与 free wall rupture 鉴别：**RV MI 有 ST 抬高，节律慢**；free wall rupture **节律不慢，且有突发胸痛事件**。
+
+> [!warning] 陷阱 4：Ventricular aneurysm 时间窗完全不同
+> Aneurysm = **数周到数月**慢慢鼓出，**不是急性事件**。
+> 表现：渐进性心衰 / VT / 持续 ST 抬高（"frozen" ST 抬高）/ 附壁血栓。
+
+> [!warning] 陷阱 5：Papillary muscle rupture 的解剖关联
+> **后内侧乳头肌 (PMP)** = RCA 单一供血 → **下壁 MI** 易发
+> **前外侧乳头肌 (ALP)** = LAD + LCx 双供血 → 相对安全
+>
+> 题干给"下壁 MI + 急性肺水肿 + 新柔和杂音" → 一定是 PMP rupture。
+
+---
+
+# 七、Memory Hook
+
+## 一句话锁定
+
+> **"前壁 MI 五天，胸痛肺清没杂音，无脉电活动 = 心包破了"**
+
+## 类比挂钩
+
+| 并发症 | 类比 |
+|---|---|
+| Free wall rupture | "心脏漏水到外面"（血漏心包，肺干净） |
+| IVS rupture | "心脏内部漏水"（LV→RV，双室淹） |
+| Papillary rupture | "心脏阀门坏了"（血倒灌回心房，肺被淹） |
+| Ventricular aneurysm | "心脏鼓了个包"（数月后慢慢鼓，不会突破） |
+
+## 3 秒鉴别口诀
+
+- **"清 PEA 无杂 = Free Wall"**（肺清 + PEA + 无杂音）
+- **"湿杂音粗 = IVS"**（肺湿 + 粗糙 holosystolic + thrill）
+- **"湿杂音柔 = Papillary"**（肺湿 + 柔和收缩期杂音 + 严重 MR）
+
+## 时间口诀
+
+> **"3-5 天破三样，几月后才鼓包"**
+
+## 解剖口诀
+
+> **"后内侧乳头肌只吃 RCA 一口饭，所以最容易饿死"**
+> （单一供血 → 缺血时最易坏死断裂）
+
+---
+
+# 八、处理要点（速查）
+
+| 并发症 | 紧急处理 | 决定性治疗 |
+|---|---|---|
+| Free wall rupture | 心包穿刺减压 + 液体复苏 | **紧急外科修补** |
+| IVS rupture | **IABP**（主动脉内球囊反搏）+ 利尿 | **紧急外科修补** |
+| Papillary muscle rupture | **IABP** + 利尿 + 后负荷↓ | **紧急二尖瓣置换/修补** |
+| Ventricular aneurysm | 抗心衰 + 抗凝（防附壁血栓） | 择期手术（如有顽固症状） |
+| Recurrent ischemia | 再次冠脉造影 | PCI / CABG |
+
+> [!tip] IABP 适用场景
+> IVS rupture / Papillary rupture / Cardiogenic shock 桥接到手术。
+> **禁忌**：严重 AR、主动脉夹层。
+
+---
+
+# 九、自测题（复习用，遮答案做）
+
+> [!question]- Q1：62 岁男性，下壁 MI 4 天后突发呼吸困难，BP 90/60, HR 110。查体：肺底湿啰音，心尖部新发柔和收缩期杂音。最可能诊断？最可能受累的解剖结构？
+>
+> **答案**：Papillary muscle rupture（乳头肌断裂）。**后内侧乳头肌 (posteromedial papillary muscle)**，因为它只由 RCA 单一供血，下壁 MI 时最易缺血坏死。
+
+> [!question]- Q2：为什么 Free wall rupture 是 PEA，而 IVS rupture 通常不是？
+>
+> **答案**：
+> - Free wall rupture → 血出心外到心包 → 心包填塞 → **梗阻性休克**（心脏被外部压迫无法充盈）→ 瞬间无前向血流 → PEA
+> - IVS rupture → 血在心内 LV→RV 分流 → 心源性休克（双室衰）→ 还有部分前向输出 → 通常先表现为心源性休克 + 肺水肿，进展到 PEA 需要更长时间
+
+> [!question]- Q3：MI 后多久窗口期最容易发生机械破裂？为什么是这个时间点？
+>
+> **答案**：**3-5 天（至 2 周）**。此时巨噬细胞正在清除坏死心肌，旧组织被"掏空"但新的纤维化瘢痕尚未形成 → 心室壁结构最薄弱 → 在高压力 + 高剪切力下最易破裂。
+
+> [!question]- Q4（默写）：MI 机械并发症四大鉴别表，遮住答案默写：时间窗 / 罪犯血管 / 杂音 / 肺部 / 休克类型。
+
+> [!question]- Q5（默写）：PEA 病因 5H + 5T，分别列出。MI 后 PEA 首先想哪一个？
+
+---
+
+# 十、关联
+
+- 🔁 同主题错题：
+  - [[mistakes/uworld-mistakes#^Q2728]] Free wall rupture 识别（2026-05-18 触发本笔记 — **错题卡待入库**）
+  - 等积累后续 MI 并发症错题（IVS rupture / Papillary / Aneurysm / RV MI）
+- 📚 主笔记：
+  - [[完整笔记/Peixuan分科笔记/心内]] §MI 章节
+  - [[完整笔记/专题笔记/心内_抗凝抗板_急性血栓]]（MI 急性管理与抗血栓）
+- 🏥 跨学科：
+  - [[完整笔记/Peixuan分科笔记/外科]]（机械并发症的外科修补时机 + IABP 使用）
+  - [[完整笔记/专题笔记/心内_ACLS急救决策树]]（PEA 急救分流）
+  - [[完整笔记/专题笔记/USMLE_实验室指纹诊断大全]] §2.6 / §5.8（PEA 鉴别中的电解质 / 中毒指纹交叉）
+- 🌱 TODO（待生成衍生 / 待扩充本笔记）：
+  - 等积累 PEA 心脏骤停病因鉴别 2-3 道题 → 生成 [[完整笔记/专题笔记/心内_PEA病因5H5T]]（独立速查）
+  - 等积累休克鉴别 2-3 道（高钾 Q19929 + Q2728 + 后续）→ 生成 [[完整笔记/专题笔记/心内_休克鉴别与首选治疗]]
+  - 等积累 ECG 表现型 MI 复杂题 → 扩展本笔记 §RV MI 完整鉴别 / §STEMI vs NSTEMI 决策树
+  - 待 Q2728 错题卡入库后，更新本笔记 §一 表格旁加图（题图 + UWorld 经典示意图）
