@@ -180,6 +180,7 @@ source: 2026-05-18 Claude.ai 草稿 v2 整合（触发错题 Q21530）
 - His-Purkinje = **几乎无迷走支配**
 
 ### 3.2 Nodal vs Infranodal 对照
+#难记
 
 | 特征 | Nodal (AV 结) | Infranodal (His 以下) |
 |---|---|---|
@@ -299,6 +300,35 @@ source: 2026-05-18 Claude.ai 草稿 v2 整合（触发错题 Q21530）
 > [!tip] USMLE 命题哲学
 > 题目通常把所有线索**对齐**（部位 + QRS + atropine 三个都指向同一答案）。
 > 偶尔"反着出"考鉴别：**以 ECG 和 atropine 反应为准，不是 MI 部位**。
+
+### 3.8 实战澄清 — "不用治 vs 治"过度简化纠正
+
+> [!warning] 常见误解
+> "下壁 MI 的 AV block 不用治，前壁 MI 的 AV block 要治"是**过度简化**。
+> 精确说法：**"不装永久起搏器 vs 必装永久起搏器"** — 急性期监测和应急处理两边都要做。
+
+#### 总结对比
+
+| MI 部位 | AV block 类型 | 处理 | 关键差异 |
+|---|---|---|---|
+| **下壁 (RCA)** | Nodal | 症状性 → **atropine ± TCP 备用** → 观察自限（数小时-数天）| **不装永久起搏器** |
+| **前壁 (LAD)** | Infranodal | TCP **立即上** → 永久起搏器 | 即使后续传导恢复**也装**（His 受损隐患极高）|
+
+#### 下壁 MI 的 AV block — 分情景细化
+
+- **无症状** → 观察
+- **症状性**（HR <50 + 低血压 / 头晕 / 心衰 / syncope）→ **atropine 0.5 mg IV** + TCP 备用
+- Atropine **有效** → 确认 nodal → 继续观察，**不装 PPM**
+- 关键是**不放永久起搏器**，但**急性期监测和应急处理仍要做**（不等于"完全不治"）
+
+#### 前壁 MI 的 AV block — 硬规则
+
+- 哪怕 atropine 偶尔有效，前壁 MI 出现的任何 AV block 都**倾向于装 PPM**（临床原则 — 见 §3.6 例外 B）
+- 因为 His 区域 LAD 供血一旦缺血，**复发率高 + 猝死风险大**
+- 即使后续传导恢复也装 PPM — 防止数天-数周后复发性 infranodal 阻滞导致猝死
+
+> [!success] 一句话锁定
+> **"下壁 MI 的 AV block 多是临时罢工（nodal），观察就好；前壁 MI 的 AV block 是永久断电（infranodal），装机器"**
 
 ---
 
