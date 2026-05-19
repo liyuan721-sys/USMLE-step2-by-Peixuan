@@ -6400,6 +6400,16 @@ features</td>
 
 **myoclonus 不是典型 UMN 或 LMN 体征。它本质是脑缺氧后的异常神经放电/去抑制，不一定马上改变腱反射。后期才可能出现 hyperreflexia**
 
+⚠️ **Myoclonus 6 大成因鉴别**（USMLE 高频）：
+- **Serotonin Syndrome**（SSRI / MDMA / Tramadol / Triptan 等 5-HT 类合用）— 伴 hyperreflexia + clonus + 高热 + AMS（见 [[mistakes/uworld-mistakes#^Q11853]]）
+- **缺氧后脑病**（心跳骤停后 72h 内）— 伴昏迷，预后差
+- **代谢性**（尿毒症 asterixis / 肝衰 / 低钠 / 低钙 / 低血糖）
+- **感染性**（CJD = prion / 脑炎 / SSPE = 麻疹后亚急性硬化性脑炎）
+- **退行性**（CJD / Alzheimer 晚期 / Lewy body 痴呆 / Multiple System Atrophy）
+- **抗胆碱中毒**（DPH / TCA / atropine）— 伴 "干红怒热" + bizarre 谵妄
+
+→ SS 三联完整对照见 [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]] §2 / §5
+
 <table>
 <colgroup>
 <col style="width: 15%" />
@@ -7487,15 +7497,24 @@ findings</strong></td>
 </tbody>
 </table>
 
-| **特征** | **Malignant hyperthermia** | **Neuroleptic malignant syndrome** |
-|:---|:---|:---|
-| 诱因 | **<span class="mark">麻醉药 / succinylcholine</span>** | **<span class="mark">抗精神病药、dopamine blockade</span>** |
-| 起病 | **<span class="mark">分钟到数小时</span>** | **<span class="mark">数天</span>** |
-| 场景 | 术中/术后 | 用药后 |
-| rigidity | 有 | 有 |
-| CK/myoglobinuria | 有 | 有 |
-| hyperthermia | 常有，**可晚出现** | 常有 |
-| 治疗 | **dantrolene** | 停药、支持治疗、可用 dantrolene/bromocriptine |
+| **特征** | **Malignant hyperthermia (MH)** | **Neuroleptic malignant syndrome (NMS)** | **Serotonin syndrome (SS)** ⭐ |
+|:---|:---|:---|:---|
+| 诱因 | **<span class="mark">麻醉药 / succinylcholine</span>** | **<span class="mark">抗精神病药、dopamine blockade</span>** | **<span class="mark">5-HT 类合用</span>**（SSRI / MDMA / Triptan / Tramadol / MAOI / Linezolid / DXM）|
+| 起病 | **<span class="mark">分钟到数小时</span>**（术中）| **<span class="mark">数天</span>** | **<span class="mark">小时</span>**（加药 / 换药 / MDMA 后）|
+| 场景 | 术中 / 术后 | 长期用抗精神病药 | 加药 / SSRI + MDMA 派对 |
+| 肌张力 | 肌僵硬 + **masseter rigidity**（早期）| **lead-pipe rigidity（铅管样）+ bradyreflexia** | **Hyperreflexia + Myoclonus + Clonus** ⭐（指纹）|
+| AMS | 高热相关 | 有 | 有（激越 → 昏迷）|
+| 自主神经 | 亢进 + **高 ETCO₂** ⭐ | 亢进 | 亢进（出汗 / HR↑ / BP↑）|
+| CK / myoglobinuria | 有（↑↑↑）| 有（↑↑↑）| 可↑（较轻）|
+| 治疗 | **Dantrolene** + 停麻醉药 + 降温 | 停药 + 支持 + **Dantrolene + Bromocriptine**（D2 激动）| 停药 + 支持 + BZD + **Cyproheptadine**（5-HT2A 拮抗）|
+
+> [!tip] 三联速记决策（USMLE 高频）
+> - **起病速度**：术中（MH）/ 小时（SS）/ 天（NMS）
+> - **反射**：↑ 亢进（SS）/ 铅管 ↓（NMS）/ 僵硬（MH）
+> - **触发药**：麻醉 + Succinylcholine（MH）/ 抗精神病药（NMS）/ 5-HT 类（SS）
+> - **三药角色**：Dantrolene = MH + NMS / Bromocriptine = NMS only / Cyproheptadine = SS
+
+→ 完整对照见 [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]] §5（Q11853 触发本表加 SS 列）
 
 **<u>Autonomic dysreflexia（自主神经反射异常）</u>**
 
@@ -12033,6 +12052,8 @@ pain/temp 多保留
 > CK 高
 >
 > 处理：停药 + **dantrolene / bromocriptine**
+
+⚠️ **NMS vs SS 高频鉴别**：NMS = **lead-pipe rigidity + bradyreflexia + 数天起病**；SS = **hyperreflexia + myoclonus + 小时起病 + 5-HT 类合用**。三联鉴别（含 MH）详见 [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]] §5（Q11853 触发）+ 本笔记上方 MH/NMS/SS 三联鉴别表。
 
 **2. Akathisia ≠ agitation**
 

@@ -450,6 +450,7 @@ Step 3 — 有无禁忌？
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/psych]]（成瘾医学章节）
 - 🏥 跨学科：
+  - [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]] ⭐ **互补专题**（v1 = 2026-05-19，Q11853 触发新建；本笔记 = 戒断 / 维持 / 急救药，对方 = 中毒急性表现 + SS/NMS/MH）
   - [[完整笔记/专题笔记/USMLE_实验室指纹诊断大全]] §5.5 慢性酒精性多系统指纹（MCV↑ + AST/ALT≥2:1 = AUD 指纹）+ §5.5.x AUD vs AD 鉴别
   - [[完整笔记/Peixuan分科笔记/消化腺]]（肝衰影响 Naltrexone 选择；AUD 共病肝硬化）
   - [[完整笔记/Peixuan分科笔记/肾脏]]（CrCl<30 → Acamprosate 禁）
@@ -496,4 +497,10 @@ Step 3 — 有无禁忌？
   - **§8** 自测题 +Q8（opioid 戒断 vs BZD 戒断）+ Q9（MDMA + SS）
   - **关联** 加 Q3189 + Q11853 反链
   - MDMA 不在本笔记定位（戒/维持/急救），仅跨链；TODO 累积 3-5 道中毒/SS/NMS/MH 错题后考虑新建 [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]]
+- **v1.7（2026-05-19）大规模分科同步 + 互补专题新建**（用户审阅 9 项增量清单后选"都做"）
+  - ⭐ **新建** [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]] **v1**（Q11853 触发；6 大物质中毒 + SS/NMS/MH 三联鉴别 + Anticholinergic vs Cholinergic 干湿对照；与本笔记**互补定位**）
+  - **psych.md**：① L1118-1124 中毒表加 **MDMA + 抗胆碱 + PCP** 3 行 ② L476 SS vs NMS 一句话升级反链 ③ L1124 后加 **4 大戒断 vital signs 对比表** + MDMA 简短小节
+  - **neuro.md**：① L7490 MH vs NMS 表升级为 **SS vs NMS vs MH 三联鉴别**（USMLE 高频空白补齐）+ 三药角色（Dantrolene / Bromocriptine / Cyproheptadine）+ 速记决策 callout ② L12023 NMS 加 SS 鉴别反链 ③ L6401 Myoclonus 加 **6 大成因鉴别**（SS / 缺氧 / 代谢 / 感染 / 退行 / 抗胆碱）
+  - **uworld-mistakes** Q11853 + Q3189 TODO 全部 ✅ + 跨链补强
+  - **关联** 加新专题反链（**互补定位** 明示）
 - 待补充：随后续错题积累，逐步增补具体陷阱场景与临床决策细节

@@ -475,6 +475,8 @@ Most likely first-line treatment:
 
  Serotonin Syndrome (血清素综合征)：注意 Hyperreflexia (反射亢进) 和 Clonus (肌阵挛)，这是区分它与 NMS（铅管样强直）的关键。
 
+→ SS vs NMS vs MH 完整三联鉴别（触发药 / 起病速度 / 反射 / 三药角色 Cyproheptadine vs Dantrolene+Bromocriptine vs Dantrolene）见 [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]] §5（Q11853 触发）
+
 **SSRIs**
 
 Mechanism:
@@ -1121,8 +1123,33 @@ Treatment of personality disorders:
 | **阿片类 (Opioids)** | **针尖样瞳孔 (Miosis)** | **呼吸抑制、便秘。** |
 | **兴奋剂 (Cocaine/Amphet.)** | **瞳孔扩大 (Mydriasis)** | **心动过速、警觉性极高。** |
 | **酒精/BZDs** | **眼球震颤（常见于酒精）** | **共济失调、言语含糊。** |
+| **MDMA (Ecstasy)** ⭐ | **散大** | **Hyperthermia + Myoclonus + Hyperreflexia + 低钠** （SSRI 用户 → Serotonin Syndrome；Q11853 触发）|
+| **抗胆碱 (DPH/Atropine/TCA)** | **散大 + 视模糊** | **"干红怒热"** — 皮肤干 + 黏膜干 + 肠鸣音 ↓ + tachycardia + 谵妄 |
+| **PCP** | **垂直 + 水平 nystagmus** | **强烈攻击性 / 解离 / 镇痛 / 不响应疼痛**（NMDA 拮抗）|
+
+→ 完整 6 大物质中毒鉴别 + SS/NMS/MH 三联 + 干湿对照见 [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]]（v1 = 2026-05-19，Q11853 触发新建）
 
 → AUD 维持期 3 药对比（Naltrexone vs Acamprosate vs Disulfiram）+ OUD 三药对比（Methadone vs Buprenorphine vs Naltrexone）+ 戒烟药对比详见 [[完整笔记/专题笔记/psych_成瘾药物对照表]] §1.3 / §3.4 / §2
+
+**4 大戒断综合征 vital signs 对比 ⭐⭐⭐**（Q3189 触发）
+
+| 戒断 | HR / BP | 体温 | AMS | Seizure | 致死风险 |
+|---|---|---|---|---|---|
+| **Alcohol** | ↑↑↑ | ↑（DT 高热）| 有（震颤谵妄 / 焦虑 / 幻觉）| 有（12-48h tonic-clonic）| **致死**（DT）|
+| **BZD** | ↑↑↑ | ↑ | 有 | 有 | **致死** |
+| **Opioid** ⭐ | **正常 / 略 ↑** | **正常** | **无**（清醒，痛苦）| 无 | 不致死（成人）|
+| **Stimulant**（cocaine / amphet）| 正常 / ↓ | 正常 | 抑郁 / 自杀念头 | 无 | 心理风险（自杀）|
+
+> 口诀 **"GABA 飙 / 阿片平 / 兴奋剂沉"** —— vital signs 正常 = NOT alcohol/BZD withdrawal。详见 [[完整笔记/专题笔记/psych_成瘾药物对照表]] §3.3。
+
+**MDMA (Ecstasy / Molly) ⭐**（Q11853 触发）
+
+- 合成 amphetamine — 推 **NE + DA + 5-HT**
+- 双重毒性：**Sympathomimetic**（HTN / tachy / diaphoresis / hyperthermia 40°C）+ **Serotonin Syndrome**
+- 经典 stem："派对 + 大学生 + SSRI 用户 + 高热 + myoclonus + 反射亢进 + 低钠"
+- 低钠机制：**SIADH + 过度饮水降温** → seizure
+- **常规 amphetamine urine tox 测不出** MDMA / bath salts / 合成 cathinone
+- → 详见 [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]] §1 + §2 + §5（SS / NMS / MH 三联鉴别）
 
 **Stimulants: Amphetamine / COCAINE**
 

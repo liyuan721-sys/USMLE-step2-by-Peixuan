@@ -9790,7 +9790,9 @@
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（serotonin syndrome / myoclonus / hyperreflexia / NMS vs SS）
 >   - [[完整笔记/Peixuan分科笔记/感染]]（高热鉴别 — 中毒 vs 感染 vs SS vs NMS vs MH）
 > - 🌱 TODO：
->   - 衍生增量：累积 SS / NMS / MH / 抗胆碱 / DPH / MDMA 中毒错题 3-5 道后 → 考虑新建 [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]]（MDMA / Stimulant / Anticholinergic / PCP / Cannabis / Opioid / BZD / Nitrous oxide / SS / NMS / MH 跨域）
+>   - ✅ **新建** [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]]（v1 = 2026-05-19，本错题触发；含 6 大物质中毒鉴别 + SS/NMS/MH 三联 + 干湿对照）
+>   - ✅ psych.md L1118-1124 中毒表扩展（加 MDMA + 抗胆碱 + PCP 3 行 + 反链）
+>   - ✅ neuro.md L7490 MH vs NMS 表升级为 SS vs NMS vs MH 三联鉴别（USMLE 高频空白补齐）+ L12023 NMS 加 SS 反链 + L6401 Myoclonus 加成因鉴别
 >
 > ## ✅ 复盘行动
 >
@@ -9925,6 +9927,7 @@
 >   - ✅ 主笔记 §3.3 同步 "vital signs OFTEN NORMAL" 关键鉴别
 >   - ✅ 主笔记 §3.3 同步 "中毒 vs 戒断 反向阿片表"
 >   - ✅ 主笔记 §6 陷阱表加 vital signs 鉴别行
+>   - ✅ psych.md L1124 后加 "4 大戒断综合征 vital signs 对比表"（同主笔记 §3.3 + 口诀"GABA 飙 / 阿片平 / 兴奋剂沉"）
 >   - 累积更多戒断对比题后 → 横向衍生 [[完整笔记/专题笔记/psych_戒断综合征鉴别表]]
 >
 > ## ✅ 复盘行动
