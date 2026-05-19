@@ -223,6 +223,74 @@ CAC = 0    CAC 1-99    CAC ≥100 或 ≥75th %ile
 > [!warning] Icosapent ethyl ≠ 普通鱼油
 > 高纯 EPA 制剂，REDUCE-IT 试验显示在 statin 基础上 + TG 150-499 + ASCVD/DM 患者可进一步降低 ASCVD 事件。是**唯一**有 ASCVD 事件证据的 omega-3 制剂。
 
+### 9.1 Hypertriglyceridemia 阈值-管理矩阵 ⭐（Q12522 触发）
+
+> [!info] 三档阈值 + 双层措施
+> 高甘油三酯血症按 TG 水平**三档分层**，每档都有**通用措施**（生活方式）和**特殊措施**（药物 / 严格戒酒）。
+
+| TG (mg/dL) | 严重度 | 通用措施（生活方式）| 特殊措施 |
+|---|---|---|---|
+| **150-499** | 轻度（mild hyperTG）| 限糖 + DM 严格控糖 / 限饱和脂肪 / 有氧运动 / 减重 5-10% / **按 ASCVD 风险用 statin** | **限酒**；**ω-3 / fibrate**（仅高 ASCVD 风险）|
+| **500-999** | 中度 | 同上 | **完全戒酒**；ω-3 / fibrate（按 ASCVD 风险）|
+| **≥1000** | 重度（**胰腺炎风险**）⚠️ | 同上 | **完全戒酒**；**Fibrate 降胰腺炎风险**（首选）|
+
+### 9.2 高 TG 处理 5 大原则（Q12522 直击）
+
+**① Statin 是 mild hyperTG (150-500) + ASCVD 风险的一线**
+- 不是 fibrate / 不是 niacin / 不是 omega-3
+- 即使 TG 升高，**有 ASCVD 史 = 高强度 statin** 永远第一步
+- Q12522：64 岁 + NSTEMI + TG 465 → high-intensity statin **首位**
+
+**② 酒精是 hyperTG 的可逆主因**
+- "6-pack 啤酒 / day" 这种 stem 几乎必有 hyperTG
+- TG 150-499 → **限酒**；TG ≥500 → **完全戒酒**
+- Q12522：除 statin 外的 **best 推荐 = reduced alcohol intake**
+
+**③ Fibrate（gemfibrozil / fenofibrate）= 防胰腺炎，不是降 ASCVD**
+- 一线只在 **TG ≥500-1000+** 时启动（胰腺炎风险）
+- **加在 statin 上**通常不推荐 → 增加 myopathy + 无 CV 获益
+- 例外：极重 hyperTG + 胰腺炎风险时 fibrate **替代或补充**
+
+**④ Niacin 已基本淘汰**
+- 与 statin 合用 → 副作用↑（GI / 红潮 / 肝毒 / 高尿酸 / 高血糖）+ **无 CV 获益**
+- Q12522 选项 B（Niacin）= 干扰项
+
+**⑤ Omega-3：分两种**
+- **普通鱼油** = 仅辅助降 TG，**无 CV 证据**
+- **Icosapent ethyl (Vascepa)** = 高纯 EPA，**有 CV 证据**（REDUCE-IT：statin + TG 150-499 + ASCVD/DM → 再降 ASCVD 事件）
+
+### 9.3 Q12522 解题路径
+
+```
+64 yo + NSTEMI（ASCVD 已确诊）+ TG 465（mild hyperTG）+ 6-pack/日
+                              ↓
+                  默认治疗：High-intensity statin（已给）
+                              ↓
+                  TG 465 = 150-499 档
+                              ↓
+                  通用措施：限糖 / 限脂 / 运动 / 减重 / statin ✅
+                              ↓
+                  特殊措施：**限酒**（TG <500 不必完全戒酒，但必须减）
+                              ↓
+                  ASCVD 风险高 → 可考虑 + icosapent ethyl 或 fibrate
+                              ↓
+                  题目问"add to statin best next" → **E. Reduced alcohol intake**
+                  （生活方式 > 加药；statin + fibrate combo 风险大无获益）
+```
+
+### 9.4 干扰项陷阱
+
+| 选项 | 为什么错 |
+|---|---|
+| A. Carbohydrate-free diet | 限糖对 ✓，但**完全无碳水** ≠ 必须；剥夺水果/全谷物有害 |
+| B. Extended-release niacin | 与 statin 合用副作用↑，**无 CV 获益** — 已淘汰 |
+| C. Gemfibrozil (fibrate) | 适用 TG ≥500-1000+；本患者 TG 465 在轻度档，**生活方式 > 药物** |
+| D. Metformin | 适用 DM，本患者非糖尿病（glucose 102 正常）|
+| F. Vitamin E | **无降脂或 CV 获益**，纯干扰项 |
+
+> [!success] 一句话锁定
+> **"ASCVD + 高 TG → Statin 一线；轻度 hyperTG + 喝酒 → 戒酒优先于加药"**
+
 ---
 
 ## 十、治疗升级路径 ⭐⭐
