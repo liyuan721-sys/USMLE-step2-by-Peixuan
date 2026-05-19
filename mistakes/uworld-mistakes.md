@@ -9000,3 +9000,107 @@
 > 状态:: 🟡
 > 错因:: 知识
 
+> [!example]- [2026-05-18] 心内 / MI 机械并发症 — VSR (Ventricular Septal Rupture) (Q12340)
+> ^Q12340
+>
+> ## 1. Stem 模式
+> - 老年人 + **anterior wall MI**（mid-LAD 闭塞）+ PCI 后
+> - **Hospital day 3-5** 突发恶化
+> - **Cardiogenic shock**（BP↓、HR↑、cold/clammy/diaphoresis）
+> - **JVD**（右心衰）+ bibasilar crackles（左心衰）
+> - **Harsh, loud holosystolic murmur at LSB + palpable thrill**
+> - ECG：T 波倒置（MI 演变期，**非** ST 再抬高）
+>
+> ## 2. 核心概念
+> **VSR = post-MI 室间隔坏死破裂 = 后天获得性 VSD**
+> - LV (120) → RV (25) 大压差 → 高速湍流 → harsh + thrill
+> - 急性 L→R 分流 → RV 容量负荷骤增 → 急性右心衰 + 体循环灌注↓ → 心源性休克
+> - 罪犯血管：**LAD (apical septal) or RCA (basal septal)**
+> - 不治疗死亡率 >90%，需紧急 IABP + 手术修补
+>
+> ## 3. 普适规则 — MI 机械并发症 4 大对比
+>
+> | 并发症 | 时间 | 罪犯血管 | 杂音 | 听诊位置 | 特征 |
+> |------|------|---------|------|---------|------|
+> | **Papillary muscle rupture** | 3-5 天 | **RCA** | Soft holosystolic（可无） | **Apex** | 极重肺水肿、severe MR |
+> | **VSR** | 3-5 天 | **LAD / RCA** | **Harsh holosystolic + thrill** | **LSB** | L→R shunt、JVD |
+> | **Free wall rupture** | <5 天（多 <2 周） | **LAD** | 无 | — | Tamponade、PEA、心音遥远 |
+> | **LV aneurysm** | 数月 | **LAD** | 无 | — | 心衰、室性心律失常、持续 ST 抬高 |
+>
+> ## 4. 易混陷阱（普适）
+>
+> > [!warning] 陷阱 1：VSR ≡ VSD（杂音机制完全相同）
+> > 解剖结果一样（室间隔有洞 + LV→RV 分流）→ 杂音听起来一样
+> > 鉴别靠 **context**：post-MI 急性休克 → VSR；慢性无症状偶然发现 → 先天 VSD
+>
+> > [!warning] 陷阱 2：VSD 越小，杂音越响（反直觉）
+> > 小 VSD：压差大 → loud + thrill（Maladie de Roger）
+> > 大 VSD：压差快速均衡 → 杂音反而轻 + 早期心衰
+>
+> > [!warning] 陷阱 3：急性 MR 的杂音可能很轻甚至听不到
+> > LA 顺应性差 → 压差快速消失 → 杂音弱
+> > 所以"响亮 holosystolic + thrill"几乎可以排除 acute MR
+>
+> > [!warning] 陷阱 4：T 波倒置 ≠ Stent thrombosis
+> > Post-MI 演变期 T 波倒置 = 自然演变（reperfusion T waves）
+> > Stent thrombosis 应表现为**新的 ST 抬高**（再次闭塞）
+>
+> ## 5. 我为什么错（个性化）
+> - **我选了：G（正确）**，本题做对，但鉴别测试题选错（误选 VSR 而非先天 VSD）
+> - **思维陷阱**：被"VSR 杂音 = VSD 杂音"的新概念锚定，反射性选 VSR
+> - **根本错因**：
+>   - ☑ 没看清 stem 关键词 — 忽略了"**无 MI 病史**"这个硬性排除条件
+>   - ☑ 概念混淆 — 杂音相同 ≠ 诊断相同
+> - **核心教训**：USMLE 鉴别诊断 = 杂音特征 + 临床 context，缺一不可
+>
+> ## 6. High-Yield Summary Table — LSB Holosystolic 杂音鉴别
+>
+> | 诊断 | Context | 杂音响度 | Thrill | 关键鉴别 |
+> |------|---------|---------|--------|---------|
+> | **VSR** | Post-MI 3-5 天 + 急性休克 | Loud harsh | **有** | 必须有近期 MI |
+> | **小型先天 VSD** | 无症状偶然发现 | **Loud harsh**（反而响） | **有** | 无急性事件、终身可代偿 |
+> | **大型先天 VSD** | 慢性心衰 / Eisenmenger | 轻 | 无 | 活不到老年 |
+> | **Acute MR** | Post-MI 3-5 天 + 肺水肿 | **轻 / 无**（apex 区） | 无 | 听诊在 **apex** 不在 LSB |
+> | **Tricuspid regurg** | 右心衰 / IE | 中等 | 无 | **吸气↑**（Carvallo sign） |
+>
+> ## 7. Memory Hook
+> - **VSR 三联征**：post-MI + harsh LSB murmur + 急性休克（缺一不可）
+> - **"VSR = 烂出来的 VSD"** — 室间隔被坏死烧穿，效果同先天缺损
+> - **"小 VSD loud but lucky"**：洞越小杂音越响，反而能活到老
+> - **MI 机械并发症时间口诀**：3-5 天是高峰（papillary、septum、free wall 都在这个窗口）
+>
+> ---
+>
+> ## 🤔 学习路径 / 卡点
+> - **Q1**：解释查体和 ECG → 学到 harsh holosystolic + thrill + LSB 的机制（压差 + 湍流 + 解剖定位）
+> - **Q2**：VSR 和 VSD 杂音是否一样？→ 学到**解剖结果相同 → 杂音相同**，鉴别靠 context
+> - **Q3**：65 岁老人无 MI 病史 + LSB 杂音 = ？（误选 VSR）→ 学到 VSR **必须有近期 MI**，否则考虑先天小 VSD
+> - **关键顿悟**：T 波倒置 = MI 演变期自然演变，不是 stent thrombosis（后者应有新的 ST 抬高）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （首张 VSR 卡；等后续 free wall rupture / papillary muscle rupture / aneurysm 错题积累后横向连）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/心内]]
+>   - [[完整笔记/专题笔记/心内_MI并发症时间轴]] §一 / §三 / §九（深度详解 — 触发笔记之一）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/儿科]]（先天性 VSD — 小 VSD 杂音反而响的反直觉点）
+>   - [[完整笔记/专题笔记/心内_CHD_ToF法洛四联症]] §5.1（ToF 的 VSD 大无杂音 vs 小 VSD 响 — 同一响度反比规律）
+> - 🌱 TODO（待生成衍生）：
+>   - 已部分覆盖：[[完整笔记/专题笔记/心内_MI并发症时间轴]] 已建（机械并发症 4 大类型 + 时间窗 + 罪犯血管 + 听诊位置）
+>   - 等积累 holosystolic 杂音相关错题（VSR / VSD / MR / TR）→ 生成 [[完整笔记/专题笔记/心内_Holosystolic杂音鉴别]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做本题 + 测试题（65 岁无 MI + LSB 杂音 = ?）
+> - [ ] 默写 MI 机械并发症 4 大类型对比表（时间 / 血管 / 杂音 / 位置）
+> - [ ] 默写"VSR 三联征"
+> - [ ] 找 3 道类似题：papillary muscle rupture、free wall rupture、acute MR
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/心内]] 加「薄弱点」（MI 机械并发症方向）
+>
+> ---
+>
+> 学科:: 心血管
+> 主题:: VSR post-MI (Q12340) / 杂音相同 ≠ 诊断相同（context 鉴别）/ LSB holosystolic 杂音鉴别 / T 波倒置 vs stent thrombosis
+> 状态:: 🟡
+> 错因:: 知识
+
