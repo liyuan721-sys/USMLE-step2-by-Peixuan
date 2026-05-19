@@ -22,21 +22,94 @@ source: 2026-05-18 Claude.ai 草稿 v1 整合（Q15973 触发）
 
 ## 目录
 
-- [[#一、三大分类维度|一、三大分类维度]]
+- [[#零、认知升级：从"一维"到"二维"分类 ⭐ 必读|零、认知升级 一维→二维]]
+- [[#一、三大分类维度（完整版）|一、三大分类维度]]
 - [[#二、维度 1：选择性（β1 vs Non-selective）|二、维度 1 选择性]]
 - [[#三、维度 2：血管效应（Conventional vs Vasodilatory）⭐|三、维度 2 血管效应]]
 - [[#四、机制深度 — 为什么 Vasodilatory BB 代谢友好？|四、机制深度]]
-- [[#五、临床应用矩阵 ⭐|五、临床应用矩阵]]
-- [[#六、HFrEF "三剑客" BMC 必背 ⭐|六、HFrEF 三剑客 BMC]]
-- [[#七、反直觉高频陷阱 ⭐|七、反直觉陷阱 6 个]]
-- [[#八、副作用全谱|八、副作用全谱]]
-- [[#九、Memory Hook ⭐|九、Memory Hook]]
-- [[#十、自测题（盲做）|十、自测题]]
+- [[#五、四象限药物完整图谱 ⭐|五、四象限药物图谱]]
+- [[#六、临床应用矩阵 ⭐|六、临床应用矩阵]]
+- [[#七、HFrEF "三剑客" BMC 必背 ⭐|七、HFrEF 三剑客 BMC]]
+- [[#八、反直觉高频陷阱 ⭐|八、反直觉陷阱 6 个]]
+- [[#九、副作用全谱|九、副作用全谱]]
+- [[#十、Memory Hook ⭐|十、Memory Hook]]
+- [[#十一、自测题（盲做）|十一、自测题]]
 - [[#关联|关联]]
 
 ---
 
-## 一、三大分类维度
+## 零、认知升级：从"一维"到"二维"分类 ⭐ 必读
+
+## 0.1 你可能熟悉的旧分类（一维）
+
+```
+Beta Blockers
+        ↓
+   ┌────┴────┐
+   ↓         ↓
+β1 选择性   Non-selective
+(metoprolol) (propranolol)
+```
+
+旧分类**没错**，但**不完整**。它解释不了：
+- 为什么 Carvedilol（non-selective）反而比 Metoprolol（β1 选择性）代谢更友好？
+- 为什么 HF + DM 不选 β1 选择性的 metoprolol，而选 non-selective 的 carvedilol？
+
+## 0.2 升级到完整分类（二维矩阵）
+
+```
+                    维度 1：选择性
+                    ─────────────────
+                    β1 选择性       Non-selective
+                    (只封 β1)       (封 β1+β2)
+维度 2：           ─────────────────────────────────
+血管效应
+─────────
+Conventional        Metoprolol      Propranolol
+(不舒张血管)         Atenolol        Nadolol
+                    Bisoprolol      Timolol
+                    Esmolol
+
+Vasodilatory        Nebivolol       Carvedilol
+(舒张血管)          (NO 释放)        Labetalol
+                                    (+ α1 阻断)
+```
+
+> [!success] 核心顿悟
+> **"选择性"和"血管效应"是两个独立维度，不是一条线上的对立！**
+>
+> 一个 BB 可以同时是：
+> - β1 选择性 **+** Conventional（如 Metoprolol）
+> - β1 选择性 **+** Vasodilatory（如 Nebivolol）
+> - Non-selective **+** Conventional（如 Propranolol）
+> - Non-selective **+** Vasodilatory（如 Carvedilol / Labetalol）
+
+## 0.3 三句话整合 ⭐
+
+> [!tip] 二维分类的核心
+>
+> 1. **选择性 = "封不封 β2"**（横轴）
+> 2. **血管效应 = "封不封 α1（或释不释放 NO）"**（纵轴）
+> 3. **代谢副作用的真凶 = "β2 被封 + α1 没人封"**（孤军作战的 α1）
+>
+> 解药 = **把 α1 也封了**（carvedilol/labetalol）**或** **干脆别封 β2**（β1 选择性）
+>
+> 最差组合 = **封 β2 + 不封 α1**（propranolol = 元凶）
+> 最优组合 = **封 β2 + 封 α1**（carvedilol = 神药）
+
+## 0.4 为什么旧分类停留在一维？
+
+> [!info] 教科书的历史包袱
+> 大部分中文药理教材停留在"选择性 vs non-selective"是因为：
+> - 这是**最早**的 BB 分类（1960s-70s）
+> - Carvedilol（1995）和 Nebivolol（2007）是**后期药物**，没及时更新进基础教材
+> - USMLE 考的是**临床应用 + 现代证据**，所以必须用 2 维分类
+>
+> 旧分类不是错，是**不完整**。补上"血管效应"这第二个维度就够用了。
+
+---
+
+# 一、三大分类维度（完整版）
 
 ```
 Beta Blockers 分类
@@ -179,7 +252,24 @@ Vasodilatory BB（carvedilol / labetalol / nebivolol）
 
 ---
 
-## 五、临床应用矩阵 ⭐
+## 五、四象限药物完整图谱 ⭐
+
+| 药物 | 选择性 | 血管效应 | 代谢副作用 | 代表用法 |
+|---|---|---|---|---|
+| **Metoprolol** | β1 | Conventional | 轻度恶化 | 心绞痛、HFrEF（succinate）|
+| **Atenolol** | β1 | Conventional | 轻度恶化 | 心绞痛（老年慎用）|
+| **Bisoprolol** | β1（最强）| Conventional | 轻度恶化 | HFrEF |
+| **Esmolol** | β1 | Conventional | — | ICU 急性房颤 / 主动脉夹层 |
+| **Propranolol** | Non-selective | Conventional | **最严重** ⚠️ | 甲亢、migraine、门脉高压 |
+| **Nadolol** | Non-selective | Conventional | 严重 | 门脉高压 |
+| **Timolol** | Non-selective | Conventional | 严重（局部不影响）| 青光眼 |
+| **Carvedilol** | Non-selective | **Vasodilatory** ⭐ | **中性 / 改善** | HFrEF + DM、HFrEF + HTN |
+| **Labetalol** | Non-selective | **Vasodilatory** ⭐ | 中性 | 孕期、HTN 急症 |
+| **Nebivolol** | β1 | **Vasodilatory** ⭐ | **改善**（NO）| 老年 HTN |
+
+---
+
+# 六、临床应用矩阵 ⭐
 
 | 临床情境 | 首选 BB | 为什么 | 避免 |
 |---|---|---|---|
@@ -201,7 +291,7 @@ Vasodilatory BB（carvedilol / labetalol / nebivolol）
 
 ---
 
-## 六、HFrEF "三剑客" BMC 必背 ⭐
+## 七、HFrEF "三剑客" BMC 必背 ⭐
 
 > [!danger] HFrEF 降死亡率的 BB 只有 3 个
 > - **B**isoprolol（比索洛尔）
@@ -229,7 +319,7 @@ Vasodilatory BB（carvedilol / labetalol / nebivolol）
 
 ---
 
-## 七、反直觉高频陷阱 ⭐
+## 八、反直觉高频陷阱 ⭐
 
 ### 7.1 门脉高压必须 Non-selective
 
@@ -270,7 +360,7 @@ Vasodilatory BB（carvedilol / labetalol / nebivolol）
 
 ---
 
-## 八、副作用全谱
+## 九、副作用全谱
 
 ### 8.1 Conventional BB
 
@@ -292,29 +382,37 @@ Vasodilatory BB（carvedilol / labetalol / nebivolol）
 
 ---
 
-## 九、Memory Hook ⭐
+## 十、Memory Hook ⭐
 
-> [!tip] 五大记忆锚点
+> [!tip] 七大记忆锚点
 >
-> **锚点 1**："A–M 选 β1，N–Z 通杀"
+> **锚点 1**：横纵两轴
+> - 横轴：选择性 = "封不封 β2"
+> - 纵轴：血管效应 = "封不封 α1 / 释不释放 NO"
 >
-> **锚点 2**：词尾规律
+> **锚点 2**："A–M 选 β1，N–Z 通杀"
+>
+> **锚点 3**：词尾规律
 > - Metoprolol / Atenolol / Propranolol = **conventional**
 > - Carve**dilol** / Labe**talol** = **vasodilatory**（多两个字母 = 多一个 α1）
 > - Nebi**volol** = **vasodilatory**（NO 介导）
 >
-> **锚点 3**：三大 vasodilatory 用法
+> **锚点 4**：三大 vasodilatory 用法
 > - **C**arvedilol = HF**C** (HF + DM)
 > - **L**abetalol = **L**ady（孕期）+ **L**ife-threatening HTN（急症）
 > - **N**ebivolol = **N**inety（老年 HTN）
 >
-> **锚点 4**：HFrEF 三剑客 = **"BMC"**（Bisoprolol, Metoprolol succinate, Carvedilol）
+> **锚点 5**：HFrEF 三剑客 = **"BMC"**（Bisoprolol, Metoprolol succinate, Carvedilol）
 >
-> **锚点 5**：传统 BB 三宗罪 = **"心慢、喘、糖胖"**（bradycardia / bronchospasm / metabolic syndrome）
+> **锚点 6**：传统 BB 三宗罪 = **"心慢、喘、糖胖"**（bradycardia / bronchospasm / metabolic syndrome）
+>
+> **锚点 7**：代谢副作用元凶 vs 神药
+> - 最差 = **Propranolol**（封 β2 + α1 单飞 + 无 NO）
+> - 最优 = **Carvedilol**（封 β2 + 封 α1 救场）
 
 ---
 
-## 十、自测题（盲做）
+## 十一、自测题（盲做）
 
 > [!question]- Q1：HFrEF + 新诊断 T2DM 患者用 metoprolol tartrate，下一步？
 > 换成 **Carvedilol**（HFrEF 适应症 + DM 代谢友好）。也可考虑 metoprolol succinate，但 DM 患者优选 carvedilol。
@@ -333,6 +431,23 @@ Vasodilatory BB（carvedilol / labetalol / nebivolol）
 
 > [!question]- Q6：哮喘 + HFrEF 患者，可以用 BB 吗？选哪个？
 > 可以。选 **β1 选择性**：bisoprolol 或 metoprolol succinate。避免 carvedilol（β2 阻断）。
+
+> [!question]- Q7：Nebivolol 既是 β1 选择性又是 vasodilatory，它和 Metoprolol 的核心区别是什么？
+> 两者都 β1 选择性 = 不直接封 β2。
+> 但 Nebivolol 额外**释放 NO** → 血管舒张 → 代谢更友好 + 老年 HTN 适用。
+> Metoprolol 没有 NO 释放 → 中性血管效应。
+
+> [!question]- Q8：为什么 Propranolol 是"代谢副作用最严重"的 BB？
+> 满足"最差组合"：
+> - **封 β2**（non-selective）→ 骨骼肌血管收缩倾向
+> - **不封 α1**（无 vasodilatory 机制）→ α1 单飞、肌肉血流↓
+> - **无 NO 释放**
+> 三重缺陷叠加 → 代谢恶化最严重。
+
+> [!question]- Q9：HFrEF + DM + 哮喘患者，选哪个 BB？为什么 Carvedilol 不行？
+> 选 **Bisoprolol** 或 **Metoprolol succinate**。
+> Carvedilol 虽然代谢友好，但是 **non-selective**（封 β2）→ 哮喘加重风险。
+> 哮喘患者必须 **β1 选择性**，宁可代谢稍差也不能诱发支气管痉挛。
 
 ---
 
@@ -360,6 +475,13 @@ Vasodilatory BB（carvedilol / labetalol / nebivolol）
 ---
 
 ## 更新日志
+
+- **v2 (2026-05-18)**：新增"认知升级"章节（§零）+ 四象限图谱（§五）。
+  - §零 一维 → 二维分类教学路径 + 核心顿悟 + 三句话整合 + 教科书历史包袱解释
+  - §五 四象限药物完整图谱（选择性 × 血管效应 × 代谢副作用 × 代表用法 10 行）
+  - Memory Hook 锚点 5 → 7 个（新增 横纵两轴 + 元凶/神药对照）
+  - 自测题 6 → 9 道（新增 Q7 Nebivolol vs Metoprolol / Q8 Propranolol 为何最差 / Q9 HFrEF+DM+哮喘 carvedilol 为何不行）
+  - 后续章节 §五-§十 → §六-§十一 改号
 
 - **v1 (2026-05-18)**：初版建立。Q15973（降压药 + DM 代谢副作用）触发整合。
   - 三大分类维度（选择性 / 血管效应 / ISA）+ 完整受体图谱 10 行
