@@ -410,6 +410,16 @@ Vasodilatory BB（carvedilol / labetalol / nebivolol）
 > **锚点 7**：代谢副作用元凶 vs 神药
 > - 最差 = **Propranolol**（封 β2 + α1 单飞 + 无 NO）
 > - 最优 = **Carvedilol**（封 β2 + 封 α1 救场）
+>
+> **锚点 8**：**"β-blocker 是代谢小偷"**（Q15973 触发）
+> - 偷走**肌肉血流**：β2 阻断 → α1 无对抗 → 骨骼肌血管收缩 → 葡萄糖进不去
+> - 偷走**脂肪分解**：β1 阻断 → 脂肪锁住 → 体重↑
+> - **Carvedilol / Labetalol 不偷**：自带 α1 钥匙 → 血管开门 → 肌肉照常吃饭
+>
+> **锚点 9**：**血糖代谢三态**（HTN 选药速记）
+> - ✅ **改善**：ACEi / ARB / α1-blocker
+> - ⚪ **中性**：CCB（DHP + Non-DHP）/ Vasodilatory BB（carv / labet / nebiv）
+> - ❌ **恶化**：**Conventional BB** / Thiazide（剂量相关）
 
 ---
 
