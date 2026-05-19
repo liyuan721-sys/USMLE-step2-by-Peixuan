@@ -8377,6 +8377,7 @@
 > 错因:: pattern
 
 > [!example]- [2026-05-18] 肾×心内 / 高钾三联炸弹 vs CKD 底色 (Q19-自测)
+> ^Q19-2026-05-18
 >
 > ## Stem 模式
 > HFrEF + CKD3 + lisinopril + carvedilol + spironolactone + **新加 KCl 20 mEq/d** → 2 周后 K 6.8 + peaked T → 元凶是**三联 K 炸弹**，不是 CKD 单独
@@ -8759,4 +8760,89 @@
 > 主题:: AS 体征 / S3 vs S4 机制（压力 vs 容量超负荷）
 > 状态:: 🔴 反复错（同主题第 2 次错）
 > 错因:: 知识
+
+> [!example]- [2026-05-18] 肾脏/心内 / 高钾血症紧急处理 (Q19929)
+> ^Q19929
+>
+> **Stem 模式**
+> > 休克病人 (BP↓) + HR 不代偿性增快 + ECG 异常 → **强制看 ECG**
+> > 本题：晚期癌症几天不吃喝 → AKI → 高钾 → ECG **no P waves + sine wave**
+>
+> **核心概念**
+> > 高钾紧急（K⁺ >6.5，sine wave 时通常 >8.5）→ **Calcium gluconate 稳定心肌膜**（1-3 min 起效，不降钾但保命）
+>
+> **普适规则**
+>
+> **① 高钾 ECG 进展五阶段（按 K⁺ 浓度递进）**
+>
+> | K⁺ (mEq/L) | ECG | 阶段 |
+> |---|---|---|
+> | 5.5-6.5 | Peaked T waves | 早期 |
+> | 6.5-7.5 | P 波变平 / 消失 | 中度紧急 |
+> | 7.5-8.5 | QRS 增宽 | 紧急 |
+> | **>8.5** | **Sine wave** ⚠️ | 濒死 |
+> | >9-10 | Asystole / VF | 死亡 |
+>
+> **② 高钾处理 SOP（必背顺序）**
+> > Calcium gluconate (稳膜) → Insulin+Glucose / β2-agonist / NaHCO₃ (转移) → Furosemide / Patiromer (排出) → Dialysis (终极)
+>
+> **③ Bradycardia + Hypotension 鉴别（看 P 波！）**
+>
+> | 诊断 | P 波 | 处理 |
+> |---|---|---|
+> | Sinus brady / AV block | **在** | Atropine → Pacing |
+> | **Hyperkalemia** | **消失** | **Calcium gluconate** |
+> | Septic shock | 正常 ECG (HR↑代偿) | Fluids → Norepi |
+> | Hypovolemic shock | 正常 ECG (HR↑代偿) | **Fluids** |
+>
+> **易混陷阱**
+> > - **"HR 60 + 低血压" ≠ bradycardia / AV block**：休克本该 HR↑↑代偿，HR "正常"= 异常信号，必查 ECG
+> > - **AV block 有 P 波**（P-QRS 解离）；**高钾 P 波消失**（最大区别）
+> > - **低血压 ≠ 立即升压**：低血容量休克先补液，不是 Norepinephrine
+> > - **Sine wave ≠ Torsades**：TdP 是 "twisting" 多形性 VT (用 Mg)，sine wave 是规则正弦曲线 (用 Ca)
+> > - **不要等血钾结果**：ECG 已诊断，等化验=死亡
+>
+> **我为什么错**
+> > 只看生命体征 (HR 60 + BP 80/30) → 误判 AV block → 选 Atropine
+> > **根本错因**：①没读 ECG ②不认识 sine wave pattern ③HR 60 在严重休克里是"伪正常"没识别
+> > **行为纠偏**：有 ECG 图的题，先扫 ECG (P 波 / QRS 宽度 / T 波) 再回 stem
+>
+> **Memory Hook**
+> > 🎯 **"休克心不跳快 + P 波不见了 = 钾要命，先打钙"**
+> > - Sine wave = 心脏的"濒死告别信"（心电图变数学曲线）
+> > - Calcium = 给心肌细胞膜"打钢筋"（不降钾但扛得住毒钾）
+> > - P 波 = 心房"签到打卡"，打卡消失 = 心房被钾"封号"
+> > - 口诀 **C-BIG-K-D**：Calcium → Bicarb/Insulin+Glucose → Kayexalate → Dialysis
+>
+> ---
+>
+> **🤔 我的提问 / 卡点**
+> > - Q: 为什么 HR 60 不是 AV block？→ A: AV block 有 P 波，高钾 P 波消失；且休克应该 HR↑代偿
+> > - Q: 为什么不先升压？→ A: 低血容量休克补液优先，且高钾才是死因
+>
+> **🔗 关联**
+> > - 🔁 同主题错题：
+> >   - [[mistakes/uworld-mistakes#^Q19-2026-05-18]] 高钾三联 K 炸弹（同日 / Trigger vs Permissive 思维 — 此题是急性处理面，那题是元凶定位面）
+> > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/肾脏]] / [[完整笔记/Peixuan分科笔记/心内]] / [[草稿/2026-05-17_高钾血症完整体系_v1]] §Brady+Hypo 鉴别 + §Sine wave vs TdP（本卡触发增量）
+> > - 🏥 跨学科：
+> >   - [[完整笔记/专题笔记/USMLE_实验室指纹诊断大全]] §2.6 Hyperkalemia ECG 指纹（本卡触发新增）
+> >   - [[完整笔记/专题笔记/心内_ACLS急救决策树]]（Brady + Hypo 急救分流）
+> > - 🌱 TODO（待生成衍生）：
+> >   - 等积累 3-5 道电解质急症 → Claude Code 整合 → [[完整笔记/专题笔记/肾_电解质急症速查]]（SOP + ECG + 鉴别表）
+> >   - 等积累 3-5 道 ECG 急症 → Claude Code 整合 → [[完整笔记/专题笔记/心内_ECG急症鉴别]]（按 ECG 模式查诊断）
+> >   - 等积累 2-3 道休克鉴别 → Claude Code 整合 → [[完整笔记/专题笔记/心内_休克鉴别与首选治疗]]
+>
+> **✅ 复盘行动**
+> > - [ ] 1 周后重做（练习：先看 ECG 再读 stem）
+> > - [ ] 默写高钾 ECG 五阶段 + C-BIG-K-D SOP
+> > - [ ] 默写 Brady+Hypo 鉴别表（P 波在不在）
+> > - [ ] UWorld 搜 "hyperkalemia ECG" / "shock bradycardia" 找 3 道类似题
+> > - [ ] 给肾脏/心内主笔记加「薄弱点」（电解质急症 / ECG 急症识别）
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: 高钾紧急 ECG 驱动处理 / Sine wave→Calcium / Brady+Hypo 鉴别（P 波在不在）/ 休克 HR 不代偿性增快
+> 状态:: 🟡
+> 错因:: pattern
 

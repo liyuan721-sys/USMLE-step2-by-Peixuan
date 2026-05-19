@@ -276,6 +276,24 @@ source_错题: Q17169 触发
 
 > **记忆钩**："Pre-renal 肾在抓 Na 自救（FENa 低）；ATN 肾不抓了（FENa 高）"
 
+### 2.6 Hyperkalemia ECG 五阶段指纹（Q19929 触发）
+
+| 指纹 | **ECG 进展 5 阶段**：Peaked T → P 变平/消失 → QRS 增宽 → **Sine wave** → Asystole/VF |
+|---|---|
+| **K⁺ 阈值** | 5.5-6.5 peaked T / 6.5-7.5 P 平 / 7.5-8.5 QRS 宽 / **>8.5 sine wave** / >9-10 心搏停 |
+| **机制核心** | K⁺↑ → 心肌细胞静息电位上移 → 钠通道失活 → 复极加速（T 尖）→ 传导减慢（P 消失、QRS 宽）→ 整个 PQRST 融合 = sine wave |
+| **加分指纹** | "Brady + Hypotension + P 波消失" = 高钾（**vs** Brady + P 在 = AV block）；休克 **HR 不代偿性增快**（伪正常 HR）是隐藏红旗 |
+| **诊断金标准** | ECG 已诊断 → **不等血钾结果**（等化验 = 死亡）|
+| **治疗第一步** | **Calcium gluconate** 1-2 g IV 慢推（1-3 min 起效，稳膜不降钾）→ 然后 Insulin+Glucose / β2 agonist（shift）→ Furosemide / Patiromer / 透析（remove）|
+| **易混陷阱** | Sine wave ≠ Torsades：sine 用 **Calcium**（高钾），TdP 用 **Magnesium**（长 QT 多形性 VT）|
+| **C-BIG-K-D** | **C**alcium → **B**icarb/**I**nsulin+**G**lucose → **K**ayexalate（现 Patiromer/SZC）→ **D**ialysis |
+| **详见** | [[草稿/2026-05-17_高钾血症完整体系_v1]] / [[mistakes/uworld-mistakes#^Q19929]] / [[mistakes/uworld-mistakes#^Q19-2026-05-18]]（trigger vs permissive 元凶定位）|
+
+> [!warning] 休克 + Brady + ECG 异常的鉴别铁律
+> 看到 "HR 60 + BP 80/30 + ECG 异常" — 不要反射性给 Atropine。先扫 P 波：
+> - P 波**在** + P-QRS 解离 → **AV block** → Atropine / pacing
+> - P 波**消失** + 宽 QRS / sine wave → **Hyperkalemia** → **Calcium gluconate**
+
 ---
 
 ## Part 3. 血液系统指纹
@@ -730,6 +748,7 @@ Step 6: 锁定 → 选答案
 
 - 🔁 **同主题错题**：
   - [[mistakes/uworld-mistakes#^Q17169]] Adrenal Crisis（PAI 五联指纹触发本笔记）
+  - [[mistakes/uworld-mistakes#^Q19929]] Hyperkalemia 紧急（Sine wave ECG 指纹触发 2.6 新增）
   - 等内分泌 / 肾 / 血液 / 中毒 / 急诊各类"指纹病"错题积累
 - 📚 **主笔记**：
   - [[完整笔记/Peixuan分科笔记/endocrine]]（内分泌指纹病主战场）
@@ -757,7 +776,9 @@ Step 6: 锁定 → 选答案
 - **复习节奏**：考前每周扫一次 Part 1-6（指纹组合默写）+ Part 8（计算公式）；考前 1 周 + Part 7（形态学）
 - **下次升级**：每次错题暴露新指纹病 → 加进对应 Part；积累足够后拆分子衍生
 
-**Last updated**: 2026-05-17 v1.4 — 新增 5.8 "心动过缓+低血压"三联中毒（Q2663 β-blocker toxicity 触发）：BB / CCB / Digoxin 三联指纹（药源 + 血糖方向 + 特异线索 + 解毒剂）+ "Atropine fail → Glucagon" 触发逻辑 + "3 个 B" Memory Hook
+**Last updated**: 2026-05-18 v1.5 — 新增 2.6 Hyperkalemia ECG 五阶段指纹（Q19929 触发）：ECG 进展 + K⁺ 阈值 + 机制 + Brady+Hypo 鉴别铁律（看 P 波）+ Sine wave vs Torsades + C-BIG-K-D SOP
+
+**v1.4**（2026-05-17）— 新增 5.8 "心动过缓+低血压"三联中毒（Q2663 β-blocker toxicity 触发）：BB / CCB / Digoxin 三联指纹（药源 + 血糖方向 + 特异线索 + 解毒剂）+ "Atropine fail → Glucagon" 触发逻辑 + "3 个 B" Memory Hook
 
 **v1.3**（2026-05-16）— 新增 5.5 慢性酒精性多系统指纹（Q2692 AIC 触发）：MCV↑ + AST/ALT>2:1 + 三系受累 + 多系统连锁 + AIC 戒酒反直觉
 
