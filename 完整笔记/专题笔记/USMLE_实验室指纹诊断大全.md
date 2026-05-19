@@ -456,12 +456,12 @@ source_错题: Q17169 触发
 > ① **冬季取暖**：gas heater / faulty furnace + 全家头痛恶心 + cherry red + SpO₂ 98%（假高）
 > ② **火灾后**：smoke inhalation + 面部煤灰 + 焦鼻毛 + 神志改变 → **同时考虑 CO + Cyanide**
 
-### 5.5 慢性酒精性多系统指纹 ⭐（来源 [[mistakes/uworld-mistakes#^Q2692]] AIC）
+### 5.5 慢性酒精性多系统指纹 ⭐（来源 [[mistakes/uworld-mistakes#^Q2692]] AIC + [[mistakes/uworld-mistakes#^Q12432]] AUD vs AD 鉴别 — 做对题 2026-05-19）
 
 | 指纹 | **MCV > 100**（无 B12/叶酸缺乏的大细胞贫血）+ **AST/ALT > 2:1**（"AST is higher"，"toAST = 致敬"）+ **三系轻度受累**（贫血 + Plt↓ ± WBC↓）|
 |---|---|
 | **机制** | 乙醛骨髓毒 → macrocytosis + 三系；直接肝毒 → AST 偏倚（线粒体 AST 受损）；直接心肌毒 → eccentric hypertrophy → DCM；硫胺素缺乏 → Wernicke / 心衰加剧 |
-| **多系统连锁（一族指纹）** | 心：**AIC**（DCM，EF↓）/ 肝：脂肪肝 → AH → 肝硬化 / 血液：MCV↑ + 三系 / 神经：**Wernicke**（眼肌麻痹 + 共济失调 + 意识改变，见 6.6）/ 营养：**Thiamine 缺乏** / 胰：急/慢性胰腺炎 / GI：**Mallory-Weiss tear** / 内分泌：男性乳房发育 + 性腺萎缩 |
+| **多系统连锁（一族指纹）** | 心：**AIC**（DCM，EF↓）/ 肝：脂肪肝 → AH → 肝硬化 / 血液：MCV↑ + 三系 / 神经：**Wernicke**（眼肌麻痹 + 共济失调 + 意识改变，见 6.6）/ 营养：**Thiamine 缺乏** / 胰：急/慢性胰腺炎 / GI：**Mallory-Weiss tear** / 内分泌：男性乳房发育 + 性腺萎缩 / **精神：失眠 / 抗焦虑 / 抑郁样症状**（见下）|
 | **诊断 stem 触发** | "long-standing heavy alcohol use" + 任一系统失代偿（HFrEF / 肝硬化 / 大细胞贫血 / 急性神经症状）→ 一律扫 MCV + AST/ALT + 三系作交叉验证 |
 | **治疗反直觉** ⭐ | AIC：**完全戒酒 > 任何 HFrEF 标准药**（病因可去除 → 优先病因治疗，**不是**条件反射 ACEi/ARNI/BB/MRA）；激素**无效**（≠ 酒精性肝炎用激素）|
 | **可逆性** | 戒酒后 6-12 月 LV 功能可显著恢复（部分 EF 回到正常）；继续饮酒 → 不可逆纤维化 |
@@ -473,6 +473,58 @@ source_错题: Q17169 触发
 > - 长 pack-year 吸烟史是干扰项，冠脉造影干净就排除 ischemic CMP
 > - "EF 25%" 不要条件反射 HFrEF 标准药 — **先问"病因能不能拿掉"**
 > - 问题措辞 "**reverse** LV dysfunction" = 暗示选病因治疗
+
+#### 5.5.x AUD vs Adjustment Disorder 鉴别（Q12432 触发，2026-05-19）⭐
+
+> [!info] 临床场景
+> 中年女性 + 应激事件（如离婚）后 1 年 + 失眠 + 焦虑 + 睡前饮酒助眠 + 工作迟到 + tremor + 实验室异常
+>
+> **关键鉴别**：是 Adjustment Disorder（[Q3382](mistakes/uworld-mistakes.md#^Q3382)）还是 Alcohol Use Disorder？
+
+**Alcohol → 失眠的机制**（高频考点）：
+```
+睡前饮酒（自我治疗）
+        ↓
+快速入睡（GABA 增强）
+        ↓
+血酒精浓度下降（数小时）
+        ↓
+CNS hyperarousal 反弹（GABA 突然撤离）
+        ↓
+3 AM 觉醒 + 不能再入睡 ⭐ 经典 pattern
+```
+
+**NIAAA 不健康饮酒阈值**（必背）：
+
+| 群体 | 单日不健康 | 单周不健康 |
+|---|---|---|
+| **女性 + 所有 ≥65 岁** | **> 3 drinks/day** | **> 7 drinks/week** |
+| **男性 < 65 岁** | > 4 drinks/day | > 14 drinks/week |
+
+> 1 drink = 12 oz 啤酒 / 5 oz 红酒 / 1.5 oz 烈酒
+
+**AUD vs AD 鉴别铁律**：
+
+| 维度 | **AUD** | **AD** |
+|---|---|---|
+| **时间窗** | 长期模式（months-years）| **应激源 ≤ 3 月起病**；缓解 ≤ 6 月 |
+| **应激源 > 6 月** | 仍可诊断 | ❌ **排除 AD**（超时间窗）|
+| **关键实验室** | **MCV ↑ + AST/ALT ≥ 2:1**（酒精指纹）| 无特异异常 |
+| **躯体表现** | Tremor / sleep disturbance（3 AM）/ macrocytosis | 无 |
+| **酒精量** | ≥ NIAAA 阈值 | 不达标 |
+| **治疗** | 戒酒咨询 + 可能 naltrexone / acamprosate / disulfiram | **Psychotherapy** |
+
+> [!success] Q12432 解题路径
+> 离婚 1 年前（>6 月超 AD 时间窗）+ MCV 106 + AST/ALT = 85/42 = 2:1 + tremor + 红酒 2-3 杯/晚（女性 14-21 drinks/week，远超 NIAAA 7/wk）
+> → **AUD**，不是 AD。
+
+> [!warning] 离婚 stressor 双面性（USMLE 经典陷阱）
+> 同样的"离婚后失眠 + 抑郁样症状"stem，**时间窗 + 实验室指纹决定不同诊断**：
+> - 离婚 ≤ 3 月 + SIGECAPS < 5 + 实验室正常 → **AD**（psychotherapy 一线，见 [Q3382](mistakes/uworld-mistakes.md#^Q3382)）
+> - 离婚 ≤ 3 月 + SIGECAPS ≥ 5 + 实验室正常 → **MDD**（SSRI/SNRI + psychotherapy）
+> - 离婚 > 6 月 + MCV↑ + AST/ALT≥2:1 + tremor → **AUD**（戒酒咨询 ± naltrexone）
+> - 离婚后 1-12 月内丧亲反应 → **Uncomplicated grief**（支持性心理治疗）
+> - 离婚后 ≥ 2 年慢性抑郁不达 MDD → **Dysthymia / PDD**
 
 ### 5.6 Methemoglobinemia (MetHb) ⭐⭐
 
@@ -782,7 +834,9 @@ Step 6: 锁定 → 选答案
 - **复习节奏**：考前每周扫一次 Part 1-6（指纹组合默写）+ Part 8（计算公式）；考前 1 周 + Part 7（形态学）
 - **下次升级**：每次错题暴露新指纹病 → 加进对应 Part；积累足够后拆分子衍生
 
-**Last updated**: 2026-05-18 v1.5 — 新增 2.6 Hyperkalemia ECG 五阶段指纹（Q19929 触发）：ECG 进展 + K⁺ 阈值 + 机制 + Brady+Hypo 鉴别铁律（看 P 波）+ Sine wave vs Torsades + C-BIG-K-D SOP
+**Last updated**: 2026-05-19 v1.6 — §5.5 扩 5.5.x AUD vs Adjustment Disorder 鉴别（Q12432 做对题触发）：Alcohol→失眠 3AM 觉醒机制 + NIAAA 不健康饮酒阈值 + 离婚 stressor 5 种诊断（AD/MDD/AUD/Grief/Dysthymia）时间窗+实验室定胜负
+
+**v1.5**（2026-05-18）— 新增 2.6 Hyperkalemia ECG 五阶段指纹（Q19929 触发）：ECG 进展 + K⁺ 阈值 + 机制 + Brady+Hypo 鉴别铁律（看 P 波）+ Sine wave vs Torsades + C-BIG-K-D SOP
 
 **v1.4**（2026-05-17）— 新增 5.8 "心动过缓+低血压"三联中毒（Q2663 β-blocker toxicity 触发）：BB / CCB / Digoxin 三联指纹（药源 + 血糖方向 + 特异线索 + 解毒剂）+ "Atropine fail → Glucagon" 触发逻辑 + "3 个 B" Memory Hook
 
