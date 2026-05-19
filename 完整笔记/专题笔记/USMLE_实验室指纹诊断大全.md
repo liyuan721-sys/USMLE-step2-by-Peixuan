@@ -278,6 +278,12 @@ source_错题: Q17169 触发
 
 ### 2.6 Hyperkalemia ECG 五阶段指纹（Q19929 触发）
 
+![[{0D71531D-614E-4DF9-BDA6-06BFD8580D72}.png]]
+*↑ UWorld 官方 4 阶段进展示意图*
+
+![[{F5468E78-C4BB-4C45-9B25-78E2C5F9684A}.png]]
+*↑ 真实 12 导联 sine wave 例图（来自 [[mistakes/uworld-mistakes#^Q19929]]）*
+
 | 指纹 | **ECG 进展 5 阶段**：Peaked T → P 变平/消失 → QRS 增宽 → **Sine wave** → Asystole/VF |
 |---|---|
 | **K⁺ 阈值** | 5.5-6.5 peaked T / 6.5-7.5 P 平 / 7.5-8.5 QRS 宽 / **>8.5 sine wave** / >9-10 心搏停 |

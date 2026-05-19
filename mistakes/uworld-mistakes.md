@@ -8412,6 +8412,9 @@
 > | **Digoxin（中毒剂量）** | digoxin toxicity | 抑制 Na-K ATPase | 急性中-重 |
 > | **Succinylcholine** | — | K 外漏（去极化） | 急性中（烧伤/挤压/瘫痪患者放大） |
 >
+> ![[{6FB1F19E-E649-4697-9A24-CEFE1EC3C09D}.png]]
+> *↑ UWorld 官方 Medication-induced hyperkalemia 表（与上面我的 9 类完整对照）— stem 看到任何用药列表必扫这表*
+>
 > ⚠️ **三联及以上 = 必爆**：尤其 ACEi + MRA + K-sparing 同时用是 USMLE 经典致命组合。
 >
 > ## 普适规则 — 高钾 stem 元凶定位 SOP
@@ -8768,6 +8771,9 @@
 > > 休克病人 (BP↓) + HR 不代偿性增快 + ECG 异常 → **强制看 ECG**
 > > 本题：晚期癌症几天不吃喝 → AKI → 高钾 → ECG **no P waves + sine wave**
 >
+> ![[{F5468E78-C4BB-4C45-9B25-78E2C5F9684A}.png]]
+> *↑ 本题 12 导联 ECG：P 波消失 + 宽 QRS 与 T 融合呈 sine wave*
+>
 > **核心概念**
 > > 高钾紧急（K⁺ >6.5，sine wave 时通常 >8.5）→ **Calcium gluconate 稳定心肌膜**（1-3 min 起效，不降钾但保命）
 >
@@ -8783,8 +8789,14 @@
 > | **>8.5** | **Sine wave** ⚠️ | 濒死 |
 > | >9-10 | Asystole / VF | 死亡 |
 >
+> ![[{0D71531D-614E-4DF9-BDA6-06BFD8580D72}.png]]
+> *↑ UWorld 官方四阶段进展图（Prolonged PR + Tall peaked T → Loss of P + ST depression → Widened QRS sine → Asystole）*
+>
 > **② 高钾处理 SOP（必背顺序）**
 > > Calcium gluconate (稳膜) → Insulin+Glucose / β2-agonist / NaHCO₃ (转移) → Furosemide / Patiromer (排出) → Dialysis (终极)
+>
+> ![[{0FEEA057-04F9-46E9-9B32-E8E479F53676}.png]]
+> *↑ UWorld 官方 Management of acute hyperkalemia 表（按 onset 排序：透析 immediate / Ca gluconate within min / β2 + Insulin 3-20 min / NaHCO₃ 30-60 min / 利尿/树脂 delayed）*
 >
 > **③ Bradycardia + Hypotension 鉴别（看 P 波！）**
 >
@@ -8794,6 +8806,11 @@
 > | **Hyperkalemia** | **消失** | **Calcium gluconate** |
 > | Septic shock | 正常 ECG (HR↑代偿) | Fluids → Norepi |
 > | Hypovolemic shock | 正常 ECG (HR↑代偿) | **Fluids** |
+>
+> **④ 药物诱发高钾参考清单**（本题非药物诱发 — 元凶是 AKI；此表与 [[mistakes/uworld-mistakes#^Q19-2026-05-18]] 三联炸弹联动复习）
+>
+> ![[{6FB1F19E-E649-4697-9A24-CEFE1EC3C09D}.png]]
+> *↑ UWorld 官方 9 类升 K 药表（ACEi/ARB / NSAIDs / K-sparing / Heparin / TMP / Cyclosporine / Nonselective β / Digoxin / Succinylcholine + 机制）— 任何高钾 stem 都必须先扫这 9 类*
 >
 > **易混陷阱**
 > > - **"HR 60 + 低血压" ≠ bradycardia / AV block**：休克本该 HR↑↑代偿，HR "正常"= 异常信号，必查 ECG
