@@ -12662,3 +12662,242 @@
 > 状态:: 🟡
 > 错因:: 干扰项
 
+> [!example]- [2026-05-20] 精神科 / Catatonia 紧张症 (Q15791)
+> ^Q15791
+>
+> ## 1. Stem 模式
+> 精神/心境障碍背景病人（**双相**最常见）+ 这一组运动症状堆叠：**凝视不动(immobility) + 不应答(mutism) + 抵抗与施力成正比(negativism) + 模仿言语/学舌(echolalia)**。看到 ≥3 个这类"运动卡住/对抗/模仿"描述 → 亮红灯想 Catatonia。常埋"刚加量的精神科药"做诱饵。
+>
+> ## 2. 核心概念
+> **Catatonia 是综合征(syndrome)，不是疾病。** 它是"运动调控系统卡死"的横切面状态，必须**寄生(superimpose)在底层病因上**（心境障碍 > 精神分裂 > 躯体病/脑炎 > 自闭）。任务是认**那组运动症状的组合**，不是去想"底层是什么病"。
+> - 6 大特征(DSM-5 要 ≥3)：immobility/stupor、mutism、negativism、posturing、waxy flexibility、echolalia/echopraxia
+> - **诊断+治疗合一**：Lorazepam challenge test（IV/IM 1–2mg）→ 症状缓解即确诊 + 转治疗
+> - 治疗阶梯：**Benzodiazepine(lorazepam) 一线 → 难治/重症(恶性紧张症) ECT**
+> - **避开抗精神病药(D2阻断)**：可诱发/加重 NMS（机制部分重叠）
+>
+> ## 3. 普适规则（机制 + 决策树）
+>
+> **机制：GABA 反直觉（这块务必理解）**
+> ```
+> 误区：GABA=抑制 → 病人不动=抑制太多 → 加GABA更不动 ❌
+>
+> 真相：Catatonia = GABA-A 能"不足(hypofunction)"
+>       → 运动环路失去"调谐/组织"能力 → 卡死(不是平静停下，是死机)
+>       → 给 lorazepam(GABA-A激动剂) → 环路重获秩序 → 反而能动 ✓
+>
+> 反推逻辑(USMLE最爱)：既然给GABA能缓解 → 原本就是缺GABA
+> 类比：交通信号灯(GABA)坏了→全路口堵死(不动) → 修好→车流恢复(能动)
+>       信号灯是"抑制性"的，但作用是"让系统能流动"
+> ```
+> 同一个 BZD：系统正常时→镇静；系统因缺GABA死机时→解锁。**看底层状态，不看药本身。**
+>
+> **"肌强直/运动异常"分流决策树（核心 SOP）**
+> ```
+>         肌强直 / 运动异常 / "不动" 的病人
+>                       │
+>          ┌────────────┴────────────┐
+>        发热? (+自主神经不稳?)        不发热? (生命体征正常)
+>          │                          │
+>     ┌────┼────┐               ┌─────┼──────┐
+>    NMS  5-HT  MH            Catatonia  Parkinsonism  Akinetic
+>     │    │    │              (学舌!)   (静止震颤+    mutism
+>     │    │    │                         运动迟缓)    (无echo)
+>     │    │    └ 麻醉中,ETCO₂↑↑,丹曲林
+>     │    └ 数小时起病,腱反射↑/阵挛(clonus),赛庚啶
+>     └ 数天起病,反射↓/正常,铅管强直,↑CK,丹曲林/溴隐亭
+>
+>   两步切：① 先看发热/自主神经 → 有=高热急症组
+>          ② 无 → 看有无 echophenomena → 有=Catatonia
+> ```
+>
+> ## 4. 易混陷阱（普适）
+> - **"不动"≠"被抑制住"**：catatonia 是系统死机式不动，不是安静关闭。这是 GABA 困惑的根源。
+> - **"恶性"二字 = 会要命 = 必高热**：MH、NMS 带"恶性/高热"色彩的都以**高热为核心**，**绝不会"反而不热"**。真正"不热"的是没"恶性"的 **Catatonia**（易被记串方向）。
+> - **Negativism vs Rigidity**：catatonia 的僵是**主动对抗，越推越顶(resistance ∝ force)**；帕金森的僵是**被动恒定的齿轮/铅管样阻力**。这是手滑选帕金森的动作层根因。
+> - **三个 cata- 形近词**：
+>   - Cata**tonia**(-tonia张力)=僵/对抗，精神运动综合征
+>   - Cata**plexy**(-plexy击倒)=突然肌张力**丧失/瘫软**，是 **Narcolepsy** 的症状（情绪诱发，意识清醒），与 catatonia **完全无关**
+>   - Cata**lepsy**(僵住症)=维持被摆姿势(≈waxy flexibility)，是 catatonia 的一个**表现**，非独立病
+> - **Catatonia 首选 BZD 而非抗精神病药**：违反"精神科=抗精神病/抗抑郁药"的直觉，需单独刻。
+>
+> ## 5. 我为什么错（个性化）
+> 选了 **D 药源性帕金森**。思路：看到"very stiff"+ 在吃 risperidone(D2阻断) → 直接把"僵硬=吃的药副作用"挂钩。
+> 根本错因：① **概念混淆**(negativism 主动对抗 vs parkinsonism 被动恒定的 rigidity 搞混)；② **漏看 stem 特异线索**("resistance in proportion to applied force" + "echolalia/学舌")。
+> 核心陷阱：**被表面症状(僵硬)和"刚加量的药"牵着走，忽略了僵硬的性质 + echolalia 只能由 catatonia 解释。**
+>
+> ## 6. Memory Hook
+> - **一句话锁定**：**"凝视、不语、学舌、越推越顶" = Catatonia 四连。**
+> - **三药诱饵口诀**：**"两药钓你三条路(帕金森/NMS/5-HT)，体温正常砍俩急症，一句学舌锁紧张症。"**
+>   - 两药=risperidone(D2阻断→帕金森/NMS) + fluoxetine(5-HT→5-HT综合征)；药=主观诱饵，**生命体征+echolalia=客观锚定证据**；药与体征打架时**信客观体征**。
+> - **Echolalia=「鹦鹉学舌」**：复读"date,date,date"——区别于帕金森/无动性缄默的**金标志**(它俩都不会学舌)。
+> - **Negativism=「橡皮筋」**：越拉越弹；帕金森=「生锈齿轮」匀速恒定。
+> - **会要命→高热(NMS/5-HT/MH)；不要命的"卡住"→不热(Catatonia)。**
+>
+> ---
+>
+> ## 7. 🤔 我的提问 / 卡点（学习路径）
+>
+> | 我问了什么 | 学到了什么 |
+> |---|---|
+> | "疾病不清楚"——catatonia 到底是啥病？ | 它是**综合征不是疾病**，寄生在底层病(双相最常见)上，认症状组合即可 |
+> | 为什么最常见寄生在双相上？ | 心境障碍患病率高+重度发作精神运动紊乱；破除"catatonia=精神分裂"旧观念 |
+> | Lorazepam challenge 原理？ | GABA-A不足→给BZD松开卡死环路→"会动会说话"=诊断+治疗合一 |
+> | GABA是抑制性的，增强GABA怎么反而能动？ | "不动"是**系统死机**不是被抑制；GABA做"调谐"，补回=重启秩序(信号灯类比) |
+> | catatonia 和"突然睡着猝倒"有关吗？ | **无关**。那是 narcolepsy+cataplexy；cata-前缀骗人，一个僵一个软 |
+> | 三药诱饵口诀再解释 | 药=诱饵线索；用"生命体征(闹不闹大动静)+echolalia"两个客观证据反钓 |
+> | "恶性高热反而可以不热？" | **错**。MH/NMS带"恶性"=会要命=必高热；真正不热的是 catatonia(方向记串了) |
+>
+> ## 8. 🔗 关联
+> - 🔁 同主题错题：
+>   - （首题，等后续 psych 精神运动综合征 / "肌强直高热"类错题积累）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/neuro]]（catatonia vs parkinsonism 运动症状鉴别）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/neuro]]（药源性帕金森 / D2阻断剂副作用；narcolepsy/cataplexy 形近混淆）
+>   - [[完整笔记/Peixuan分科笔记/外科]]（Malignant Hyperthermia 属麻醉急症，与 NMS 形近）
+> - 🌱 TODO（待生成衍生）：
+>   - 等 psych 章节复习完，请 Claude Code 整合「**肌强直/不动 + 热vs不热**」类错题(Catatonia / NMS / Serotonin syndrome / Parkinsonism / Malignant Hyperthermia / Akinetic mutism / Locked-in) → 生成 [[完整笔记/专题笔记/psych_肌强直发热综合征鉴别]]（核心="发热/自主神经"+"echophenomena"两步决策树）
+>   - 等积累后整合「**cata- 形近词**」(Catatonia / Cataplexy / Catalepsy) → 并入上条衍生或单列速查
+>
+> ## 9. ✅ 复盘行动
+> - [ ] 1 周后重做 Q15791（能否一眼抓 echolalia + 成正比抵抗，不被药勾走）
+> - [ ] 默写「肌强直分流决策树」(发热?→自主神经?→起病速度/反射;不热?→echophenomena?)
+> - [ ] 默写「热vs不热」6 行对比表(NMS/5-HT/MH/Catatonia/Parkinsonism/Akinetic mutism)
+> - [ ] 默写 GABA 反直觉一句话(死机→重启,信号灯类比)
+> - [ ] 找 3 道类似题(NMS、5-HT 综合征、lorazepam challenge、MH 麻醉急症)
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/psych]] 标 catatonia「要做题」（若再错升「薄弱点」）
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Catatonia 紧张症识别（综合征 + Lorazepam challenge）/ 肌强直-不动分流（热vs不热 + echophenomena）/ negativism vs 帕金森 rigidity / cata- 形近词
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-20] Psych / 咖啡因中毒 + 焦虑症「排除性诊断」鉴别 (Q15096)
+> ^Q15096
+>
+> **1. Stem 模式**
+> 32M 失眠 + 焦虑/易激惹/panic + 心悸 + BP 140/90、P 95 + restless/tremulous/flushed/agitated/rapid speech，且**白天大量 energy drinks**（明确暴露史），有工作应激源（加班顶班）。问最可能解释。
+>
+> **2. 核心概念**
+> 一组**交感神经过度兴奋（sympathetic hyperactivity）**症状 + **明确咖啡因暴露史** → **Caffeine intoxication（物质诱发）**。Answer = C。关键不在「认出咖啡因中毒」，而在**优先级判断**：有物质能解释时，原发焦虑诊断一律让位。
+>
+> **3. 普适规则 — 焦虑/惊恐症状的诊断优先级阶梯**
+> ```
+> 出现焦虑 / 惊恐 / 交感兴奋
+>     │
+>     ① 有物质吗？  咖啡因/安非他命/可卡因/甲状腺药 / 酒精·苯二氮戒断
+>           → 有 → Substance-induced（本题）
+>     │
+>     ② 有躯体病吗？ 甲亢 / 嗜铬细胞瘤 / 心律失常 / 低血糖
+>           → 有 → 病因诊断
+>     │
+>     ③ 上面全排除，才轮到原发精神病
+>           → Panic / GAD / Adjustment（都是排除性诊断）
+> ```
+> 三个原发诊断分家（仅当①②已排除）：
+>
+> | 诊断 | 核心特征 | 时间 | 锁定 |
+> |---|---|---|---|
+> | Panic disorder | **自发反复** panic 发作 + 怕再发作/回避 | 担忧期 ≥1mo | 「没头没脑突然炸 + 怕再炸」 |
+> | GAD | 对多事过度担忧 + 躯体症状 | **≥6mo** | 「啥都愁，愁半年」 |
+> | Adjustment | 对**可识别应激源**的过度反应 | 源后 3mo 内起，源停后 ≤6mo 缓 | 「出事反应过头，事过半年内消」 |
+>
+> 咖啡因机制：腺苷受体拮抗 → 拆掉「困倦刹车」+ 交感↑ → CNS(失眠/焦虑/震颤) + CV(心悸/HTN) + 行为(激越/语速快)；t½≈5h（白天喝→晚上失眠的机制闭环）；过量>1g → seizures/心律失常。
+>
+> **4. 易混陷阱（普适）**
+> - **排除性诊断陷阱**：Panic / GAD / Adjustment 全是 **diagnosis of exclusion**。给了物质/躯体病线索还选这三个 = 标准失分点。
+> - **「应激源 ≠ Adjustment disorder」**：本题真给了工作应激源诱你选 A，但应激源存在不代表就是 adjustment——必须先排除物质/躯体病，且 adjustment 解释不了交感兴奋体征。
+> - **「只解释一部分」= 错**：能解释全貌的诊断才对（与 D shift work 只解释失眠同理；也与昨日 UDS 题「半行动陷阱」同构）。
+>
+> **5. 我为什么错**
+> 原题做对（选 C）。卡点在「怎么和焦虑症/panic/adjustment 区分」——之前没建立「物质/躯体病优先、原发焦虑是排除性诊断」的优先级框架，看到应激源 + 焦虑容易动摇想选 adjustment。
+>
+> **6. Memory Hook**
+> 「物质和身体病能背锅，焦虑症就别上场。」三个原发焦虑诊断 = 替补球员，主力（物质①+躯体病②）都下场才能登场。三兄弟：Panic=突然炸+怕再炸 / GAD=啥都愁愁半年 / Adjustment=出事反应过头事过即消。咖啡因 = 拆掉腺苷这个「困倦刹车」→ 全身踩油门。
+>
+> ---
+>
+> **7. 🤔 我的提问 / 卡点**
+> - 「咖啡因中毒诊断标准/阈值？」→ DSM-5：近期摄入(常>250mg) + ≥5 项症状(restlessness/insomnia/flushed/tachycardia/agitation 等)；t½≈5h；>1g 可致 seizures。
+> - 「怎么和焦虑症/panic/adjustment 区分？」→ 学到优先级阶梯：物质①→躯体病②→原发焦虑③（均为排除性诊断）；并掌握 Panic/GAD/Adjustment 三者按「发作性 vs 持续性、有无触发源、时间长短」分家。
+>
+> **8. 🔗 关联**
+> - 🔁 同主题错题：[[mistakes/uworld-mistakes#^Q13573]]（UDS 题「半行动陷阱」≈ 本题「只解释一部分的选项」，同一种『部分正确=错』命题逻辑）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（Stimulants / 物质诱发 vs 原发焦虑障碍）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/endocrine]]（甲亢 = 焦虑/心悸/震颤的躯体病鉴别，属优先级阶梯第②步）
+> - 🌱 TODO（待生成衍生）：等 Psych 章节复习完，请 Claude Code 整合「stimulant intoxication(caffeine/amphetamine/cocaine) vs 原发焦虑/躁狂」+「焦虑症状的排除性诊断优先级」类错题 → 生成 [[完整笔记/专题笔记/psych_交感兴奋鉴别诊断]]（核心：交感兴奋症状群 + 暴露史 → 物质诱发优先；排除性诊断阶梯；Panic/GAD/Adjustment 分家表）
+>
+> **9. ✅ 复盘行动**
+> - [ ] 默写「焦虑/惊恐症状诊断优先级阶梯」（物质①→躯体病②→原发③）
+> - [ ] 默写 Panic / GAD / Adjustment 三者鉴别表（发作性/触发源/时间）
+> - [ ] 找 3 道类似题：给应激源诱选 adjustment / 给甲亢线索 / 给兴奋剂暴露史
+> - [ ] 1 周后重做（重点能否第一眼走优先级阶梯，而非被应激源带偏）
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: 咖啡因中毒（物质诱发焦虑）/ 焦虑惊恐诊断优先级阶梯（物质→躯体病→原发排除性诊断）/ Panic vs GAD vs Adjustment 分家
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-20] Psych / 精神活性物质中毒鉴别 (Q4215)
+> ^Q4215
+>
+> **Stem 模式**
+> 青少年 party 上急性发作：焦虑/偏执/"觉得快死了" + **结膜充血(红眼)** + **口干** + **瞳孔正常(3mm)** + 心率轻度↑(110) + 轻度↑BP → 问最符合的诊断。
+>
+> **核心概念**
+> Cannabis (THC) intoxication = **conjunctival injection(红眼) + dry mouth(口干) + 瞳孔正常 + tachycardia**；高剂量(edibles/concentrates)可致焦虑/偏执/惊恐 + psychomotor impairment(可持续~1天)。结膜充血在中毒选项里几乎是大麻**专属配对**。
+>
+> **普适规则（瞳孔决策树 + 8药对比）**
+> ```
+> 第一步看瞳孔：
+>   针尖瞳(miosis) ─────→ 阿片中毒（+呼吸抑制+CNS抑制 三联征）
+>   散瞳(mydriasis) ────→ 拟交感/致幻剂/阿片戒断
+>   正常瞳 + 红眼 ──────→ 大麻 ★唯一例外★
+> ```
+>
+> | Drug | 瞳孔 | 标志性体征 | 一句话锁定 |
+> |---|---|---|---|
+> | Cannabis | 正常 | 结膜充血+口干 | 红眼+口干+食欲↑ |
+> | Cocaine | 散瞳 | 胸痛/癫痫/**出汗** | 散瞳+diaphoresis |
+> | LSD | 散瞳 | **视幻觉** | 视幻觉+散瞳 |
+> | PCP | 可变 | **眼震+共济失调+暴力** | nystagmus+violent |
+> | Meth | 散瞳 | 精神病/舞蹈样/烂牙 | choreiform+tooth decay |
+> | Bath salts | 散瞳 | 极端躁动/暴力/高热 | 最暴烈 |
+> | Opioid中毒 | 针尖 | **呼吸抑制** | 针尖瞳三联征 |
+> | Opioid戒断 | 散瞳 | 流泪/打哈欠/GI | 散瞳+流泪+腹泻(流感样) |
+>
+> **易混陷阱（普适）**
+> 多个药都能"焦虑/偏执/心动过速"(cocaine/LSD/PCP/cannabis 全有)，**绝不能**用这种**非特异共性症状**做主诊断依据。鉴别永远优先用**高特异体征**定位：红眼+口干+正常瞳→大麻；散瞳+出汗→cocaine；视幻觉→LSD；眼震→PCP。
+>
+> **我为什么错**
+> 抓住"焦虑+偏执+心率快"联想致幻剂 → 选 LSD。知道 conjunctival injection 特异，**但没记住它对应哪个药**(特异线索↔药物的配对断了)，导致最关键证据没能定位。错因：①概念混淆(线索↔药物配对断) ②被非特异症状牵着走。
+>
+> **Memory Hook**
+> 「**红眼干嘴想吃货，瞳孔不变是大麻**」。所有让人嗨的兴奋剂/致幻剂都**散瞳**(cocaine/LSD/meth)，唯独大麻"红眼不散瞳"——它是例外，所以最好认。
+>
+> ---
+>
+> **🤔 我的提问 / 卡点**
+> - 卡点：知道 conjunctival injection 诊断特异，但没记清是什么药 → 学到：结膜充血+口干+正常瞳 = 大麻三件套，是选项里大麻的专属钥匙。
+>
+> **🔗 关联**
+> - 🔁 同主题错题：[[mistakes/uworld-mistakes#^Q11853]] MDMA 中毒 / [[mistakes/uworld-mistakes#^Q11815]] synthetic cathinone / [[mistakes/uworld-mistakes#^Q3191]] PCP 中毒（同属物质中毒「瞳孔 + 特异体征」鉴别）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（瞳孔/眼震等神经体征是中毒鉴别的核心分诊器）
+> - 🌱 TODO（待生成衍生）：等再积累 2-3 道中毒/戒断题(cocaine / opioid 中毒 vs 戒断 / PCP 眼震) → 请 Claude Code 整合所有 "acute drug intoxication & withdrawal" 错题 → 生成 [[完整笔记/专题笔记/psych_中毒戒断综合征速查]]（瞳孔决策树 + 8药对比表 + 戒断 vs 中毒对照）
+>
+> **✅ 复盘行动**
+> - [ ] 1 周后重做（盖选项先自报诊断）
+> - [ ] 默写瞳孔决策树（针尖/散瞳/正常+红眼 → ?）
+> - [ ] 找 3 道对比题（cannabis vs cocaine、opioid 中毒 vs 戒断）
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: 精神活性物质中毒鉴别（瞳孔决策树 + 8 药对比）/ Cannabis = 结膜充血+口干+正常瞳 / 特异体征↔药物配对
+> 状态:: 🟡
+> 错因:: 知识
+
