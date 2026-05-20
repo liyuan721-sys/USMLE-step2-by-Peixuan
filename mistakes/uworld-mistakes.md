@@ -10111,7 +10111,7 @@
 > 状态:: 🟡
 > 错因:: 知识
 
-> [!example]- [2026-05-19] Psych / 药物滥用 / MDMA 中毒 + Serotonin Syndrome（SSRI 陷阱）(Q11853)
+> [!example]- [2026-05-19] Psych / 药物滥用 / MDMA 中毒 + Serotonin Syndrome（SSRI 陷阱）(Q11853) #难记
 > ^Q11853
 >
 > ## Stem 模式
@@ -10212,7 +10212,7 @@
 > | **MDMA (Ecstasy)** | 散大 | **↑↑↑ (>40°C)** | ↑↑ | **湿** | **↑↑ 肌阵挛** | 派对 + SS 三联 | **Na ↓ (SIADH)** ⭐ |
 > | **Cocaine / Amphetamine** | 散大 | ↑ | ↑↑ | 湿 | 正常 / ↑ | **鼻中隔穿孔**（cocaine）/ MI | — |
 > | **PCP / Ketamine** | 正常 / 散大 | ↑ | ↑ | — | ↑ | **眼震（水平+垂直）**+ 暴力 + 解离 | — |
-> | **Opioids** | **针尖 miosis** | ↓ | ↓ | 干 | ↓ | **呼吸抑制 + Naloxone 反应**+ 便秘 | — |
+> | **Opioids** | **针尖 miosis** | ↓ | ↓ | 干 | ↓ | **呼吸抑制 + Naloxone 反应（诊断+治疗）**+ 便秘 | — |
 > | **BZD / Alcohol** | — | ↓ / 正常 | ↓ / 正常 | 干 | ↓ | **构音障碍 + 共济失调** | — |
 > | **抗胆碱 (DPH / atropine / TCA)** | 散大 | ↑ | ↑ | **干 ⭐** | 正常 | "**Hot / Dry / Red / Blind / Mad**" | 肠鸣音 ↓ |
 >
@@ -10220,7 +10220,7 @@
 >
 > | 维度 | **Serotonin Syndrome** | **NMS** | **抗胆碱毒性** | **恶性高热** |
 > |---|---|---|---|---|
-> | **诱因** | SSRI / MAOI / **MDMA** / Tramadol / Linezolid / DXM | FGA / 抗精神病药 / D2 阻断 | DPH / TCA / 阿托品 | **吸入麻醉 + 琥珀胆碱** |
+> | **诱因** | SSRI / MAOI / **MDMA** / Tramadol / Linezolid / DXM | FGA / 抗精神病药 / D2 阻断 | DPH(diphenhydramine) / TCA / 阿托品 | **吸入麻醉 + 琥珀胆碱** |
 > | **起病** | **数小时**（最快）| **数日**（最慢）| 数小时 | **麻醉中**（分钟）|
 > | **反射** | **↑↑ + 肌阵挛 ⭐** | **↓ + 铅管样强直 ⭐** | 正常 | 强直 |
 > | **皮肤** | **湿 + 红** | 湿 + 苍白 | **干 + 红 ⭐** | 湿 |
@@ -10254,7 +10254,7 @@
 > > MDMA / Tramadol / MAOI / Triptans / Linezolid / DXM 任何一个 + 已用 SSRI → **立即考虑 SS**。本题 Sertraline + MDMA 是经典组合。
 >
 > > [!info] 隐形陷阱 1：urine tox 阴性 ≠ 排除 MDMA
-> > MDMA / bath salts / 合成 cathinone **常规 amphetamine 尿筛查不出**！临床表现优先于 tox 阴性。
+> > 常规 amphetamine 免疫筛查只灵敏于 amphetamine / methamphetamine 原型：**bath salts / 合成 cathinone 基本测不出**；**MDMA 交叉反应不稳定（可阴可阳）**——不能靠筛查阴性排除 MDMA。临床表现永远优先于 tox 阴性（完整判读见 [[完整笔记/专题笔记/psych_物质急诊速查]] §13）。
 >
 > > [!info] 隐形陷阱 2：低钠 122 + 派对场景 = MDMA 特异指纹
 > > 其他滥用药物**不致 SIADH**，所以派对场景里低钠到 122 几乎只指向 MDMA（鉴别 cocaine / amphetamine 的关键）。
@@ -10303,8 +10303,8 @@
 >   - 学到：双机制 — ① drug-induced SIADH（ADH 释放）+ ② 用户主观觉得热 / 出汗，疯狂饮水补充 → dilutional hyponatremia。低钠到 122 时引发 seizure。
 > - Q：DPH 过量也有 hyperthermia / HTN / seizure，怎么区分 MDMA？
 >   - 学到：**Anticholinergic = 干**（皮肤干 + 黏膜干 + 肠鸣音 ↓ + anhidrosis）；MDMA / SS = **湿**（diaphoretic + 肠鸣音 ↑）。"干红怒热"是 anticholinergic 指纹。
-> - Q：为什么 MDMA 不在 urine amphetamine 筛查里查出？
->   - 学到：MDMA 是 amphetamine 的"合成衍生物"，常规免疫筛查（针对 d-amphetamine）catch 不到结构差异大的衍生物。bath salts / cathinone / 合成大麻同理。**临床表现优先于 tox 阴性**。
+> - Q：MDMA / bath salts 能被常规 amphetamine 尿筛查查出吗？
+>   - 学到：常规免疫筛查靠抗体识别特定结构，只对 amphetamine / methamphetamine 原型灵敏。**MDMA 是取代型苯丙胺，交叉反应不稳定 → 可阴可阳，不能靠阴性排除**；**bath salts / 合成 cathinone / 合成大麻结构改动更大 → 基本测不出**。临床表现优先于 tox 阴性，确证用 GC-MS。
 > - Q：SS 三联 vs NMS 怎么分？
 >   - 学到：SS = **hyperreflexia + myoclonus + 起病急（小时内）+ 5-HT 类药**；NMS = **铅管样肌强直 + bradyreflexia + 起病慢（天）+ 抗精神病药**。两者都有高热 / AMS / 自主神经亢进。
 > - Q：MDMA vs 冰毒 vs Adderall 怎么区分？
@@ -12444,4 +12444,221 @@
 > 主题:: Bipolar I vs Brief Psychotic Disorder / psychotic features 归属（mood specifier vs 原发精神病）/ DIGFAST manic 诊断标准 / 精神病性障碍时间轴鉴别
 > 状态:: 🟡
 > 错因:: 知识
+
+> [!example]- [2026-05-20] Psych / Synthetic Cathinone（“Bath Salts”）中毒 (Q11815)
+> ^Q11815
+>
+> ## Stem 模式
+> 37yo 男性，警察送入 ED（冲进车流、砸车、目击者形容“crazy rage”）+ ED 内**极端 combative**（需 4 名警员按住）+ 定向障碍 + responding to internal stimuli（幻觉）+ BP 190/96 + HR 142 + **体温正常 37.2℃** + 双侧 DTR 3+ + EOM/颅神经正常 + **血清 labs 正常、尿毒检阴性** + ED 内一次 seizure（BZD 控制）+ 精神症状**持续 2 天**后才消退 → 问病因。
+>
+> ## 核心概念
+> **Synthetic cathinone（“bath salts” 浴盐）= 一大类 amphetamine 类似物**，↑释放 / ↓再摄取 NE + DA + 5-HT → 拟交感毒性（BP/HR 飙）+ 严重躁动 / 攻击性 / 精神病 / 谵妄 / 肌阵挛，偶发 seizure。
+> **最具鉴别力的特征 = 病程极长**：谵妄 / 精神病可持续 **数天至一周**，远长于其他苯丙胺 / 致幻剂（多为数小时）。
+> 白色粉末，标为 “bath salts” / “plant food” / “cleaners”，口服 / 吸入 / 注射 —— 与沐浴用 Epsom 盐无关。**常规尿毒筛查测不出** ⭐。
+>
+> ## 普适规则 — 拟交感“兴奋剂 / 派对药” 5 选鉴别
+>
+> | 物质 | 病程 | 行为 / 情绪基调 | 体温 | 眼震 | 常规尿筛 |
+> |---|---|---|---|---|---|
+> | **Synthetic cathinone（bath salts）** | **数天–1 周**（最长）⭐ | **极端 combative / 攻击性 / “rage”** | 正常或↑ | 无 | **测不出** ⭐ |
+> | **MDMA** | 数小时 | **欣快 / 共情 / 亲密感**（非攻击）| 重度→**hyperthermia** | 无 | 不可靠（可阴可阳）|
+> | **Cocaine** | 短（high <1–2h）| 躁动 / 精神病（较轻、较短）| ↑ | 无 | **能测出** |
+> | **Methamphetamine** | 较长（8–24h）| 躁动 / 精神病 / 烂牙 | ↑ | 无 | 能测出 |
+> | **PCP** | 较短 | combative / 解离 / 痛觉减退 | ↑ | **多方向眼震** ⭐ | **能测出** |
+>
+> ## 易混陷阱（普适）
+>
+> > [!warning] 陷阱 1：bath salts vs MDMA（本题 D 干扰项）
+> > 都是苯丙胺类似物、都可致谵妄 + seizure。三点鉴别：
+> > - **病程**：bath salts 数天–1 周 / MDMA 数小时
+> > - **基调**：bath salts = combative “rage” / MDMA = 共情欣快（非攻击）
+> > - **体温**：重度 MDMA → hyperthermia；本题体温正常 → 不支持 MDMA
+>
+> > [!warning] 陷阱 2：尿筛阴性 ≠ 排除中毒，但能“反向缩范围”
+> > bath salts / 合成 cathinone / 合成大麻 **常规尿筛测不出**；而 **cocaine / PCP / amphetamine / meth 能测出**。
+> > → 本题尿筛阴性反而**支持 bath salts**、并**排除 cocaine 与 PCP**。
+>
+> > [!warning] 陷阱 3：EOM 正常 → 排除 PCP
+> > **多方向眼震**是 PCP 招牌；本题 EOM 正常 + 尿筛 PCP 阴性 → 排除 PCP。
+>
+> > [!warning] 陷阱 4：Brief Psychotic Disorder 需“不能由物质解释”
+> > BPD = 精神病 1 天–1 月，但**必须排除物质 / 其他精神病 / 躯体病**。本题有明确物质中毒 → 不诊断 BPD（呼应同日 [[mistakes/uworld-mistakes#^Q15843]]）。
+>
+> ## 我为什么错
+>
+> - 选了：**D. MDMA intoxication**
+> - 错因：**干扰项** —— D（MDMA）是精心设计的强干扰项（同为苯丙胺类似物 + 可致谵妄 / seizure + 同样不可靠于常规尿筛）。
+> - 根本错因链：
+>   - ☑ 没用**病程**这个最强鉴别点（精神症状拖 2 天 = bath salts 签名；MDMA 数小时就过）
+>   - ☑ 没分辨**行为基调**（题干 “crazy rage” + combative = bath salts；MDMA 是共情欣快，不是攻击）
+>   - ☑ 没用**体温正常**反推（重度 MDMA 应 hyperthermia）
+>   - ☑ 对 **synthetic cathinone（bath salts）作为独立高频考点**不熟
+> - **核心教训**：兴奋剂 / 派对药鉴别**先看病程** —— 精神症状拖数天到一周 = synthetic cathinone 锁定。
+>
+> ## Memory Hook
+>
+> > [!success] 一句话锁定
+> > **“极端 combative 狂暴 + 自主神经飙 + 尿毒检阴性 + 精神症状拖 2 天–1 周 = Synthetic Cathinone（bath salts）”**
+>
+> - **bath salts = “超长待机版兴奋剂”** —— 别的兴奋剂几小时就过，它谵妄 / 精神病能拖一周。
+> - **bath salts vs MDMA 一句话**：MDMA 是**“爱”**（共情 + 欣快 + 高热）；bath salts 是**“狂暴”**（combative rage + 体温常正常 + 超长病程）。
+> - **尿筛规律**：bath salts / 合成 cathinone / 合成大麻 **常规尿筛测不出**；cocaine / PCP / meth **能测出**（呼应 [[完整笔记/专题笔记/psych_物质急诊速查]] §13）。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - （首次系统接触 synthetic cathinone / “bath salts”。卡点：反射性把“苯丙胺类似物 + 躁动 + 尿筛阴性”判成 MDMA，未用**病程**与**攻击性基调**鉴别。）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q11853]] MDMA + Serotonin Syndrome（**完美对照** —— 本题 D 选项即 MDMA；MDMA = 共情 + 高热 + 短病程 vs bath salts = 攻击 + 体温常正常 + 长病程）
+>   - [[mistakes/uworld-mistakes#^Q3191]] PCP 中毒（PCP 有多方向眼震 + 在尿筛内；本题 EOM 正常 + 尿筛阴性 → 排除 PCP）
+>   - [[mistakes/uworld-mistakes#^Q15843]] Bipolar I vs Brief Psychotic Disorder（同日 —— “psychosis 能否由物质 / mood episode 解释”是共同鉴别轴）
+> - 📚 主笔记：
+>   - [[完整笔记/专题笔记/psych_物质急诊速查]]（§3 6 大物质中毒鉴别 / §13 UDS 漏检 — bath salts 测不出）
+>   - [[完整笔记/Peixuan分科笔记/psych]]（物质相关障碍）
+> - 🏥 跨学科：
+>   - 本题为纯精神 / 急诊毒理，无强跨科（拟交感危象 BP/HR 管理可联 [[完整笔记/Peixuan分科笔记/心内]]）
+> - 🌱 TODO（待生成衍生）：
+>   - **衍生增量**：synthetic cathinone（bath salts）目前**不在** [[完整笔记/专题笔记/psych_物质急诊速查]] §3「6 大物质中毒鉴别表」内 → 建议补一行（病程长 + combative + 尿筛阴性）
+>   - 等积累更多拟交感 / 派对药鉴别题 → [[完整笔记/专题笔记/psych_物质急诊速查]] §11 stem 库加 bath salts 场景
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q11815
+> - [ ] 默写「兴奋剂 / 派对药 5 选鉴别表」（病程 / 基调 / 体温 / 眼震 / 尿筛）
+> - [ ] 默写 synthetic cathinone 3 大签名（病程数天–1 周 / 尿筛阴性 / combative + 拟交感飙）
+> - [ ] 默写“哪些物质在常规尿筛里 / 哪些测不出”（呼应 psych_物质急诊速查 §13）
+> - [ ] 找 3 道类似题：搜 “bath salts” / “synthetic cathinone” / “amphetamine analog”
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/psych]] 物质相关障碍章节加「薄弱点」
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Synthetic cathinone（bath salts）中毒 / 与 MDMA-cocaine-PCP 鉴别 / 病程长 + 尿筛阴性 + combative 三签名
+> 状态:: 🟡
+> 错因:: 干扰项
+
+> [!example]- [2026-05-20] 精神科 / 类固醇诱导精神病 (Q16049)
+> ^Q16049
+>
+> **1. Stem 模式**
+> 无精神病史 + 新近高剂量激素（如多肌炎用 prednisone）+ 急性偏执/妄想（"bad men following me"）+ 认知完整（memory/recall intact）+ 无幻觉/无自杀意念
+>
+> **2. 核心概念**
+> Medication-induced psychotic disorder（医源性精神病）。Glucocorticoid 神经精神副作用为 **dose- & duration-dependent**，high-dose + 长疗程更易出现。First step = **减量/停用致病药**，不是加抗精神病药。
+>
+> **3. 普适规则（drug-induced 神经精神症状 → "先撤药"决策）**
+> ```
+> 病因 = 仍在持续输入的外源药物
+>         │
+>         ▼
+> First step = 移除/减少该药 (釜底抽薪)
+>         │
+>         ├─ 轻-中、可减量 → 减/停药 ✅
+>         ├─ 严重/持续、减药压不住 → +抗精神病药 (haloperidol/quetiapine)
+>         └─ 怀疑器质 (认知↓/局灶体征/发热) → 影像/LP
+> ```
+> 激素神经精神副作用谱（轻→重）：insomnia / restlessness / mood↕ / anxiety → memory loss → **psychosis（妄想偏执）、自伤风险**
+>
+> **4. 易混陷阱（普适）**
+> - "找对病因 ≠ 选对处理"：病因是持续输入的药物时，first step 永远是撤药，不是观察、不是加药对抗
+> - 加抗精神病药（haloperidol/quetiapine）= 仅严重/持续时的升级方案，不是 first step
+> - 认知完整 + 无局灶体征 + 无发热 → MRI/LP 无指征（过度检查陷阱）
+> - Reassurance only = 病因还在时的"消极等待"陷阱，症状不会自行消退
+>
+> **5. 我为什么错（个性化）**
+> 选了 F (reassurance only)。病因方向判断正确（识别出是激素），但卡在最后一步——抓对病因却选了最被动选项。根本错因：**程度判断偏差 / 选项识别错误**。没意识到"高剂量激素仍在持续作用 → 不撤药症状不会消退"。
+>
+> **6. Memory Hook**
+> "是药惹的祸，就把药撤掉。" 水池溢水先关水龙头（减激素），不是拼命舀水（加抗精神病药）。
+> 锁定链：高剂量 → 急起病 → 偏执妄想 → 认知好（排器质）→ 减药 first。
+>
+> ---
+>
+> **7. 🤔 我的提问 / 卡点**
+> - "考虑是激素导致的症状，所以减量" → 已抓对病因+处理方向，确认正确；卡点在原始作答时低估了病因持续性，误选 reassurance
+>
+> **8. 🔗 关联**
+> - 🔁 同主题错题：（首题，等后续 medication/substance-induced psychosis 及 "drug-induced 症状→先撤药" 类错题积累后横向连）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/endocrine]]（glucocorticoid 全身副作用谱）；polymyositis 用高剂量泼尼松 = 激素诱导精神病常见 stem 场景（风湿 — vault 暂无该笔记）
+> - 🌱 TODO（待生成衍生）：等 psych + 药理副作用错题积累 3-4 道后，请 Claude Code 整合 "drug-induced 神经精神症状 + 通用 first-step（先撤致病药）" 类错题 → 生成 [[完整笔记/专题笔记/_衍生_药物源性精神神经副作用]]
+>
+> **9. ✅ 复盘行动**
+> - [ ] 1 周后重做 Q16049
+> - [ ] 默写：医源性精神病 first step = 减/停药；何时才升级加抗精神病药
+> - [ ] 默写激素神经精神副作用谱（轻→重）
+> - [ ] 找 3 道类似题：其他 drug-induced psychosis / "病因对但处理错"的 first-step 陷阱题 / 激素其他副作用管理
+> - [ ] 复盘思维：副作用题先问"病因还在不在？能不能撤？"再决定 reassurance / 减药 / 加药
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: 类固醇/glucocorticoid 诱导精神病 / 医源性精神病 first step（先撤致病药）/ 病因对≠处理对
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-05-20] Psych/Ethics / UDS 假阳性 + 医患沟通行动顺序 (Q13573)
+> ^Q13573
+>
+> **1. Stem 模式**
+> 长期合法阿片治疗（慢性疼痛）+ 处方监控数据库**无异常** + 患者同时服 NSAID（naproxen）+ UDS 出现**意外阳性**（尤其 PCP）+ 患者**否认**用药 → 问「最恰当的回应」。
+>
+> **2. 核心概念**
+> Immunoassay（免疫分析）初筛特异性差，结构相似药物交叉反应 → **假阳性**。意外/异常阳性结果在采取任何临床或法律行动前，**必须先做确证检测 GC-MS（气相色谱-质谱，金标准）**。Answer = D（今天再做一次尿检确证，结果出来再联系患者）。
+>
+> **3. 普适规则**
+> ```
+> UDS 两步法（与所有「筛查→确证」逻辑同构）
+>   初筛 Screening = Immunoassay   快/便宜/敏感性高/特异性差(假阳性多)   类比 HIV ELISA、机场金属探测门
+>        │  预期内阳性(如 opiates) → 合理
+>        │  意外阳性(如 PCP)       → 别下结论
+>        ▼
+>   确证 Confirmatory = GC-MS      慢/贵/特异性极高                    类比 HIV Western blot、人工二次安检
+> ```
+> 常见 UDS 假阳性来源（高频）：
+>
+> | 真实药物 | 假阳性结果 |
+> |---|---|
+> | NSAIDs (ibuprofen / naproxen) | PCP, THC |
+> | Dextromethorphan (止咳) | PCP, opioids |
+> | Diphenhydramine (抗组胺) | PCP, methadone |
+> | Venlafaxine | PCP |
+> | Sertraline / Fluoxetine | Benzo, LSD |
+> | Pseudoephedrine | Amphetamines |
+>
+> **4. 易混陷阱（普适）**
+> - **「中间路线 / 半行动」陷阱**：正确答案是「先验证再行动」时，会放一个看似温和的「半行动」选项（如「先减量 taper」）诱你。**任何在确证前就改变治疗 / 质疑患者 / 上报的选项都错，温和 ≠ 正确。**
+> - **医生 ≠ 执法者**：医生法律上通常**被禁止**向当局报告患者用药（极个别例外如刑事调查）→ 保密义务陷阱。
+> - taper / 转介成瘾专科 = 确认滥用**之后**才考虑的步骤，不能跳到前面。
+>
+> **5. 我为什么错**
+> 选了 C（先开有限量帮助 taper）。误把「半行动」当「稳妥折中」，没意识到 taper 同样是「未确证就改变治疗」；同时漏看 stem 里「处方监控无异常 + naproxen」两个强烈指向假阳性的线索。
+>
+> **6. Memory Hook**
+> 「意外阳性，先别开枪——再测一次。」UDS 像机场金属探测门，响了≠带枪（可能是皮带扣/交叉反应），要人工二次安检（GC-MS）才能定论。NSAID 让尿检「见鬼」（PCP = angel dust 天使尘）。
+>
+> ---
+>
+> **7. 🤔 我的提问 / 卡点**
+> - 「UDS 是什么」→ 学到：Urine Drug Screening（尿液药物筛查），长期阿片治疗的常规监测，查违禁药 / 依从性 / 药物转售三件事；初筛用 immunoassay，意外阳性需 GC-MS 确证。
+>
+> **8. 🔗 关联**
+> - 🔁 同主题错题：[[mistakes/uworld-mistakes#^Q11815]] synthetic cathinone（UDS 漏检方向 — 本题是假阳性、它是假阴性，正好成对）/（等后续 UDS / 医患沟通伦理类错题积累）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/Ethics_Master]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Biostats_Master]]（筛查 vs 确证 = 敏感性/特异性、PPV 的临床应用）
+> - 🌱 TODO（待生成衍生）：等 Ethics + Psych 章节复习完，请 Claude Code 整合「UDS 假阳性」「医患沟通『先验证再行动』原则」「医生保密 vs 上报义务」类错题 → 生成 [[完整笔记/专题笔记/_衍生_医患沟通行动顺序]]（核心：确证优先 / 温和半行动陷阱 / 保密边界）
+>
+> **9. ✅ 复盘行动**
+> - [ ] 1 周后重做（能否第一眼锁定「假阳性→确证」而非被 C 诱惑）
+> - [ ] 默写 UDS 假阳性药物对照（至少 NSAID→PCP、DXM→PCP、抗组胺→PCP）
+> - [ ] 默写「筛查 vs 确证」两步法（immunoassay → GC-MS）
+> - [ ] 找 3 道类似题：UDS 解读 / 医患沟通「先验证再行动」/ 医生保密义务边界
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: UDS 假阳性 → GC-MS 确证 / 医患沟通「先验证再行动」/ 半行动陷阱 / 医生 ≠ 执法者保密边界
+> 状态:: 🟡
+> 错因:: 干扰项
 
