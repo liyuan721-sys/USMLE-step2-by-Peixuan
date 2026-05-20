@@ -12164,3 +12164,196 @@
 > 状态:: 🟡
 > 错因:: 知识
 
+> [!example]- [2026-05-19] Psych / Panic Disorder 急性发作用药 (Q2496)
+> ^Q2496
+>
+> ## 1. Stem 模式
+> 年轻女性 + **反复不可预期**心慌/出汗/SOB/濒死感发作 + 担心再发 + 因恐惧而**回避**工作 + 此刻**正在 ED 发作中**（"heart pounding, going to die"）+ 体检/化验全阴 → 问 **immediate** 处理。
+>
+> ## 2. 核心概念
+> **Panic Disorder 的两条治疗线必须分清**：
+> - **急性发作中（acute attack）** → **Benzodiazepine（lorazepam）**，GABA-A ↑，几分钟终止 autonomic storm
+> - **长期维持（maintenance）** → **SSRI/SNRI + CBT**，4-6 周起效，防再发
+>
+> Stem 写 "immediate / acute / ED / 此刻正在发作" → 永远选 **benzo**，不要犹豫。
+>
+> ## 3. 机制理解
+>
+> ```
+>                     Panic Disorder 病理生理 & 用药逻辑
+>                     ════════════════════════════════════
+>
+>   Locus coeruleus (脑桥)
+>   Amygdala (杏仁核)
+>   过度激活
+>         │
+>         │  norepinephrine ↑↑   serotonin 调节失衡
+>         ▼
+>   ┌─────────────────────────────────────────┐
+>   │  Autonomic storm (交感神经风暴)          │
+>   │   心率↑ 出汗 SOB 恶心 颤抖 头晕            │
+>   │   + 主观恐惧 "going to die"               │
+>   └─────────────────────────────────────────┘
+>         │
+>         │  患者大脑把"身体症状"误判为"大病/濒死"
+>         ▼
+>   ┌─────────────────────────────────────────┐
+>   │  Anticipatory anxiety (预期焦虑)         │
+>   │   → 回避行为 (不上班 / 不出门)            │
+>   │   → 持续 ≥1 个月 = Panic DISORDER         │
+>   └─────────────────────────────────────────┘
+>
+>   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+>   治疗的两条线（必须分清"急性" vs "长期"）
+>   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+>
+>   ① 急性发作中 (Acute, ED setting)
+>      ┌──────────────────────────────┐
+>      │  Benzodiazepine (Lorazepam)   │  ← 几分钟起效
+>      │  GABA-A 受体 ↑ → 中枢抑制     │
+>      │  快速截断 autonomic storm     │
+>      └──────────────────────────────┘
+>
+>   ② 长期预防 (Maintenance, outpatient)
+>      ┌──────────────────────────────┐
+>      │  SSRI/SNRI (一线)             │  ← 4-6 周起效
+>      │  + CBT                        │     不能救急
+>      └──────────────────────────────┘
+> ```
+>
+> > [!tip] 一句话区分本质
+> > Panic 的痛苦来自**中枢恐惧环路（GABA/5-HT）**，不是外周心跳。压外周（β-blocker）救不了"濒死感"——必须用 **benzo 中枢镇静**。
+>
+> ## 4. ⭐ 核心概念辨析：Panic Attack ≠ Panic Disorder
+>
+> | | **Panic Attack（症状）** | **Panic Disorder（诊断）** |
+> |---|---|---|
+> | 本质 | 一次发作（episode）| 一种疾病（disorder）|
+> | 诊断标准 | ≥4 项症状，几分钟达峰 | **反复 + unexpected** + ≥1 个月**担忧再发 / 回避** |
+> | 能独立存在吗 | ✅（健康人压力大也可能发作）| ❌ 必须反复发作 + 预期焦虑 |
+> | 出现在哪些病 | Panic disorder / PTSD / phobia / social anxiety / 物质 / 医源性 | 只此一种 |
+>
+> > [!danger] Panic Disorder 的诊断核心
+> > 必须有**至少部分 unexpected**（凭空发作，无 trigger）。
+> > 如果所有发作都有明确 trigger → **不是** panic disorder，而是其他病的「伴随 panic attacks」。
+>
+> ## 5. ⭐ 普适规则：Panic Attack 出现在哪些疾病里（USMLE 必考鉴别）
+>
+> | 疾病 | Panic attack 的 trigger | 关键鉴别特征 | 治疗 |
+> |---|---|---|---|
+> | **Panic Disorder** | **至少部分 unexpected** | 担忧再发 + 回避 + 无创伤史 | 急性 benzo / 长期 SSRI+CBT |
+> | **PTSD** | 创伤相关提示物（声音/气味/画面）| 闪回 + 回避创伤 + 警觉性高 + 创伤史 | SSRI（sertraline/paroxetine）+ trauma-focused CBT + **prazosin**（治噩梦）；**慎用 benzo** |
+> | **Specific Phobia** | 特定对象（蛇/电梯/血/高处）| 怕对象本身，非背后记忆 | **Exposure therapy** |
+> | **Social Anxiety** | 多种社交场合（怕被评判）| 广泛社交回避 | SSRI/SNRI + CBT |
+> | **Performance Anxiety**（social anxiety 亚型）| 表演/演讲/比赛 | 只在 performance 场合 | **Propranolol** 或 benzo（事前用）|
+> | **GAD** | 通常不爆发为 attack | ≥6 个月广泛担忧 + 躯体症状（肌紧张/疲劳）| SSRI/SNRI + CBT；**buspirone**（无成瘾）|
+> | **Substance-induced** | 物质摄入 / 戒断 | 与物质使用时间相关 | 处理物质 |
+> | **Medical**（甲亢/嗜铬/心律失常/低血糖/PE）| 生理因素 | 体检/化验异常 | **必须先排除器质性** |
+>
+> ## 6. ⭐ 易混陷阱
+>
+> > [!warning] 陷阱 1：β-blocker vs Benzodiazepine（焦虑场景）
+> > | | **Propranolol** | **Lorazepam** |
+> > |---|---|---|
+> > | 用在哪 | **Performance anxiety**（演讲/上台前 1 小时）| **Panic attack 急性发作** |
+> > | 压什么 | 外周交感（震颤、心率）| 中枢恐惧（GABA-A）|
+> > | 救急 panic | ❌ 无效 | ✅ 几分钟起效 |
+> >
+> > 看到 "heart pounding" 不要条件反射选 β-blocker——panic 的核心是中枢恐惧，不是心率。
+>
+> > [!warning] 陷阱 2：焦虑谱用药混淆
+> > - **Buspirone** = **GAD** 专属（5-HT1A partial agonist，2-4 周起效，无成瘾）；对 panic 无效
+> > - **SSRI** = panic disorder / GAD / social anxiety / PTSD / OCD 的长期一线；**4-6 周起效，不救急**
+> > - **Benzo** = panic 急性救急；**PTSD 慎用**（成瘾风险 + 干扰 fear extinction）
+> > - **Propranolol** = performance anxiety（事前预防），不治 panic
+> > - **Clomipramine（TCA）** = OCD 二线
+> > - **Prazosin** = PTSD 创伤性噩梦
+>
+> > [!warning] 陷阱 3：Panic Attack 必须排除器质性
+> > 年轻人首次发作的"panic attack" 在确诊 panic disorder 之前必须排除：
+> > **甲亢 / 嗜铬细胞瘤 / 心律失常 / 低血糖 / PE / carcinoid**
+> > 题干通常会写 "physical exam and labs normal / negative medical workup" 来暗示已排除。
+>
+> ## 7. High-Yield Summary Table（焦虑谱用药速查）
+>
+> | 疾病 | 长期一线 | 急性发作 | 特殊用药 | Stem 关键词 |
+> |---|---|---|---|---|
+> | **Panic Disorder** | SSRI/SNRI + CBT | **Benzo (lorazepam)** | — | 反复 + unexpected + 怕死 + 回避 |
+> | **GAD** | SSRI/SNRI + CBT | — | **Buspirone**（无成瘾）| ≥6 个月持续广泛担忧 |
+> | **Performance Anxiety** | — | **Propranolol** 或 benzo（事前）| — | 演讲/上台前特定场景 |
+> | **Social Anxiety** | **SSRI/SNRI + CBT** | — | — | 多种社交场合都怕 |
+> | **PTSD** | SSRI（sertraline/paroxetine）+ trauma-focused CBT | — | **Prazosin**（噩梦）；**慎 benzo** | 创伤后 + 闪回 + 回避 + 警觉↑ |
+> | **OCD** | **SSRI（高剂量）+ ERP** | — | Clomipramine（TCA 二线）| 强迫思维 + 强迫行为 |
+> | **Specific Phobia** | **Exposure therapy** | — | — | 单一对象（蛇/电梯/血）|
+>
+> ## 8. 我为什么错（个性化）
+>
+> > 选了 **G. Propranolol**
+> >
+> > 思路：看到"heart pounding / rapid heart rate / 急诊处理" → 想压心率最快 → β-blocker
+> >
+> > 根本错因：
+> > - ☑ **概念混淆**：把 "panic disorder 急性发作" 和 "performance anxiety" 的用药搞反了
+> > - ☑ **没抓住病理本质**：Panic 痛苦在中枢恐惧（GABA），不在外周心跳（β），压心率 ≠ 终止发作
+> >
+> > 核心陷阱：Stem 用 "heart pounding, going to die" 这种**外周症状叙事**诱导往心率药想，但 panic 真正需要的是**中枢镇静（GABA）**——**看到 panic 必须想 GABA，不是 β。**
+>
+> ## 9. Memory Hook ⭐
+>
+> > [!success] 一句话锁定
+> > **"急 panic 用劳（lorazepam），长 panic 用 S（SSRI），演讲手抖用普（propranolol）"**
+>
+> **类比挂钩**：
+> - Benzo = **拉总闸**（GABA 中枢抑制）→ 救正在被雷劈的人
+> - Propranolol = **降车速**（压外周心率）→ 演员上台前别手抖，救不了真发作
+> - SSRI/CBT = **修电网** → 长期防雷
+>
+> **反向记忆**：
+> - "immediate / acute / ED / 此刻发作" → **benzo**
+> - "maintenance / long-term / prevent recurrence" → **SSRI/SNRI + CBT**
+> - "before a performance / public speaking" → **propranolol**
+> - "GAD（广泛担忧 ≥6 个月）" → **buspirone**（不是 benzo！）
+>
+> ---
+>
+> ## 10. 🤔 我的提问 / 卡点（学习路径）
+>
+> - **Q：panic attack 是 panic disorder 的发作或者急性期？**
+>   - 学到：**panic attack（症状）≠ panic disorder（疾病）**。Attack 是一次发作事件，disorder 是一个慢性病的诊断。一次 attack 不构成 disorder；disorder 要求**反复 + unexpected + 担忧再发 + 回避 ≥1 个月**。Attack 可以出现在 panic disorder / PTSD / phobia / social anxiety / 物质 / 医源性等多种情境中。
+>   - **正确说法**：Panic disorder 患者反复出现 panic attacks；当患者"正在经历一次 attack（acute attack）"时用 benzo；平时不发作时（maintenance）用 SSRI/CBT。"急性期"这个词用在 panic 语境不合适。
+>
+> - **Self-test 1（单次 trigger 诱发 attack 后无复发，否认担忧）→ 答 C（isolated panic attack）✓**
+>   - 学到：一次 attack 不是病。处理是 **reassurance + 教育**，不需要 SSRI/benzo。
+>
+> - **Self-test 2（反复 trigger + 闪回 + 回避 + 警觉性高 + 创伤史）→ 答 B（PTSD with panic attacks）✓**
+>   - 学到：Panic attack 是症状不是诊断，看全局。**Panic disorder 必须 unexpected**，trigger 明确的 attack 要往 PTSD/phobia 想。PTSD 治疗特殊：SSRI（sertraline/paroxetine FDA 批准）+ trauma-focused CBT + prazosin（噩梦），**慎用 benzo**（成瘾 + 干扰 fear extinction）。
+>
+> ## 11. 🔗 关联
+>
+> - 🔁 同主题错题：（首题，psych 焦虑谱的第一道，等后续题积累横向连接）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/心内]]（β-blocker 适应症全谱：HTN/HF/post-MI/performance anxiety/essential tremor/migraine 预防/hyperthyroid 症状控制——**panic disorder ❌ 不在内**）
+>   - [[完整笔记/Peixuan分科笔记/内分泌]] / [[完整笔记/Peixuan分科笔记/心内]]（panic 鉴别要排 hyperthyroid / pheochromocytoma / 心律失常 / 低血糖）
+> - 🌱 TODO（待生成衍生）：
+>   - 等 psych 章节复习完，请 Claude Code 整合「焦虑谱用药决策」错题 → 生成 [[完整笔记/专题笔记/_衍生_焦虑谱用药决策树]]（7 种焦虑病 × 急性/长期 × 特殊用药）
+>   - 等 psych 积累更多 "panic attack 出现在哪些病" 的错题 → 生成 [[完整笔记/专题笔记/_衍生_Panic_Attack鉴别诊断]]（panic disorder vs PTSD vs phobia vs social anxiety vs substance vs medical 的 trigger / 背景 / 治疗对比）
+>   - 等心内 + psych 积累更多 β-blocker 题 → 整合到 [[完整笔记/专题笔记/_衍生_β-blocker适应症全谱]]（强调 panic disorder ❌）
+>
+> ## 12. ✅ 复盘行动
+>
+> - [ ] 1 周后重做 Q2496
+> - [ ] 默写"焦虑谱 7 种病 × 急性/长期用药对比表"（不看笔记）
+> - [ ] 默写"Panic attack 出现在哪些疾病 + 各自 trigger 特征"
+> - [ ] 默写 β-blocker 6 大适应症，明确标记 panic disorder ❌
+> - [ ] 整理 panic 鉴别诊断器质性清单（甲亢/嗜铬/心律失常/低血糖/PE/carcinoid）
+> - [ ] 找 3 道类似题练习（关键词：panic disorder treatment / acute panic / PTSD pharmacotherapy / performance anxiety / GAD first-line / OCD treatment）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/psych]] 加 「薄弱点」
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Panic Disorder 急性发作用药（benzo）vs 维持（SSRI+CBT）/ Panic Attack ≠ Panic Disorder / 焦虑谱 7 病用药鉴别 / β-blocker vs benzo 陷阱
+> 状态:: 🟡
+> 错因:: 知识
+
