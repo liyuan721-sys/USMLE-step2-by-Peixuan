@@ -11237,3 +11237,155 @@
 > 状态:: 🟢
 > 错因:: ✅ 做对（知识入库）
 
+> [!example]- [2026-05-19] 精神药理 / NMS vs EPS 鉴别 + NMS 用药 (Q2501)
+> ^Q2501
+>
+> **Stem 模式**
+> 抗精神病药（haloperidol）使用后 **<2 周** + **高热 + AMS + 自主神经紊乱（BP↑/HR↑/大汗）+ 全身僵直** → 停药+支持治疗无效 → 问下一步用药
+>
+> **核心概念**
+> Refractory NMS = restore central dopaminergic activity → **Bromocriptine**（D2 agonist，直接补 DA 信号）。NMS 治疗三步走：① 停抗精神病药 → ② 支持治疗 → ③ refractory 给「**NMS BAD**」三剑客 = **B**romocriptine / **A**mantadine / **D**antrolene + Benzo 减躁动
+>
+> ---
+>
+> **🧠 机制图：EPS vs NMS 本质区别**
+>
+> ```
+> Haloperidol (D2 antagonist)
+>         │
+>         ▼
+>    D2 受体阻断
+>         │
+>   ┌─────┴───────────────────────────┐
+>   │                                 │
+>   ▼ "信号轻度失衡"                  ▼ "信号完全崩溃"
+>   EPS                              NMS
+>   (Extrapyramidal Symptoms)        (Neuroleptic Malignant Syndrome)
+>         │                                 │
+>         ▼                                 ▼
+>   只影响黑质纹状体                  黑质纹状体 + 下丘脑同时崩
+>   (nigrostriatal pathway only)     (nigrostriatal + hypothalamic)
+>         │                                 │
+>         ▼                                 ▼
+>   局部运动症状                      全身性危机
+>   ───────────────                  ───────────────
+>   • Dystonia (急性肌张力障碍)       • 高热（下丘脑失控）
+>   • Akathisia (静坐不能)            • 自主神经紊乱（BP/HR/汗）
+>   • Parkinsonism (帕金森样)         • AMS（全脑功能紊乱）
+>   • Tardive Dyskinesia              • Lead-pipe rigidity
+>                                     • CK ↑ + 横纹肌溶解
+>         │                                 │
+>         ▼                                 ▼
+>   治疗：抗胆碱药                    治疗：直接补 DA
+>   (Benztropine, 重新平衡)            (Bromocriptine, 越过封锁)
+> ```
+>
+> > [!tip] 一句话区分本质
+> > - **EPS** = "D2 信号变少了，让 ACh 相对变多了" → 抗胆碱重新平衡（**Benztropine**）
+> > - **NMS** = "D2 信号崩盘 + 下丘脑也坏了" → 直接补 DA（**Bromocriptine**）
+>
+> ---
+>
+> **普适规则**
+>
+> ⭐ 见到「抗精神病药副作用」题 → 不能条件反射选 Benztropine → **先问 3 个排 EPS 问题**：
+> 1. 发热吗？
+> 2. 有 AMS（意识改变）吗？
+> 3. 自主神经紊乱吗（BP/HR/汗）？
+>
+> **任何 1 个"是" → 排除 EPS，锁定 NMS（或其他严重综合征）**
+>
+> ---
+>
+> **📊 表 1：EPS vs NMS 鉴别** ⭐⭐⭐⭐⭐（本题核心）
+>
+> | 维度 | EPS | NMS |
+> |---|---|---|
+> | 发热 | ❌ 无 | ✅ 高热 >38.5°C |
+> | AMS | ❌ 无 | ✅ 有 |
+> | 自主神经紊乱 | ❌ 无 | ✅ 有（BP↑/HR↑/大汗）|
+> | 肌张力 | 局部/cogwheel | **Lead-pipe rigidity（全身）** |
+> | CK | 正常 | ↑↑（横纹肌溶解）|
+> | 时间 | 数小时-月 | **<2 周** |
+> | 机制 | 黑质纹状体 D2 阻断 | 黑质纹状体 **+ 下丘脑** 全面崩 |
+> | 治疗 | **Benztropine**（抗胆碱）| 停药+支持+**Bromocriptine**（补 DA）|
+> | 死亡率 | 低 | **10-20%** |
+>
+> ---
+>
+> **📊 表 2：抗精神病药 5 大综合征 → 5 个解药（反向记忆）** ⭐⭐⭐
+>
+> | 综合征 | 解药 | 一句话机制 |
+> |---|---|---|
+> | **EPS**（dystonia/parkinsonism）| **Benztropine** | 抗胆碱 → 再平衡 |
+> | **Akathisia** | **Propranolol** / Benzo | β 阻断 |
+> | **Tardive Dyskinesia** | **VMAT2 抑制剂**（valbenazine）| 减 DA 释放 |
+> | **NMS** | **Bromocriptine**（refractory）| D2 激动 → 补 DA |
+> | **Serotonin Syndrome** | **Cyproheptadine** | 5-HT2A 拮抗 |
+>
+> ---
+>
+> **📊 表 3：NMS vs SS vs MH 三大致命综合征鉴别** ⭐⭐⭐⭐
+>
+> | 综合征 | 触发 | 时间窗 | 核心体征 | 关键鉴别 | 解药 |
+> |---|---|---|---|---|---|
+> | **NMS** | 抗精神病药（haloperidol 等）| <2 周 | 高热+AMS+自主紊乱+**lead-pipe rigidity**+CK↑ | **僵直 + 大汗** + 抗精神病药史 | **Bromocriptine** |
+> | **SS**（Serotonin Syndrome）| SSRI/MAOI/linezolid/tramadol 联用 | **数小时-1 天** | 高热+AMS+自主紊乱+**hyperreflexia / clonus** | **反射亢进 + 阵挛**（不是僵直）+ 5-HT 药联用 | **Cyproheptadine** |
+> | **MH**（Malignant Hyperthermia）| **吸入麻醉药 + Succinylcholine** | **麻醉中**或刚醒来 | 极高热+全身僵直+终末呼气 CO₂↑+横纹肌溶解 | **麻醉史 + 家族史（RYR1 突变）** | **Dantrolene** |
+>
+> ---
+>
+> **易混陷阱（普适）**
+>
+> - ⚠️ **"Haloperidol = Benztropine" 是错误固定联想** — Haloperidol 副作用 ≥ 4 类（EPS/NMS/TD/抗胆碱样），必须看症状决定用药
+> - ⚠️ **EPS 不会发热、不会 AMS、不会自主紊乱** — 这 3 项任 1 出现就排 EPS
+> - ⚠️ **NMS vs SS**：rigidity（NMS）vs hyperreflexia/clonus（SS）+ 药物史
+> - ⚠️ **NMS vs MH**：MH 是麻醉中急性发病 + 家族史；NMS 是抗精神病药使用 <2 周
+> - ⚠️ **Succinylcholine 给 NMS 病人 = 火上浇油**（可诱发 MH）
+> - ⚠️ **Physostigmine（抗胆碱中毒）vs NMS**：抗胆碱 = 干燥；NMS = 大汗
+> - ⚠️ USMLE 永远选**对因治疗**，不选纯症状控制（如 Propranolol 只压 HR/BP 不解决 NMS 根源）
+>
+> **我为什么错（个性化）**
+>
+> 选了 A. Benztropine。思路：「看到 haloperidol → 直接联想 EPS → EPS 用 benztropine」—— **跳过了"看症状判定具体副作用类型"这一步**。完全忽视了 stem 里 **发热 (39.2°C) + AMS (confused) + 大汗 (sweating) + 自主神经紊乱 (BP 164/98, HR 122, RR 28)** 这 4 个 NMS 铁证。属于"诊断陷阱 + 用药不熟"双重错误。
+>
+> **Memory Hook** ⭐
+>
+> - **一句话**：见 haloperidol 副作用题，**先问 3 连问（发热/AMS/自主乱）**——有 → NMS → **B**romocriptine；没有 → EPS → **B**enztropine。两个都是 B，但**一个抗 ACh、一个补 DA**
+> - **类比**：Haloperidol 把 D2 受体的门锁死了 → 屋里没 DA 信号 → 体温调定坏了、肌肉僵了；**Bromocriptine 是备用钥匙**（D2 agonist），绕过封锁直接激活 D2
+> - **口诀**：NMS refractory 三剑客 = **"NMS BAD"** = **B**romocriptine / **A**mantadine / **D**antrolene（病人很 BAD，上 BAD 三药）
+> - **反向记忆**：5 综合征 ↔ 5 解药（见表 2）
+>
+> ---
+>
+> 🤔 **我的提问 / 卡点**
+>
+> - Q: NMS 用药不记得 → A: 学到 "NMS BAD" 口诀 = Bromocriptine / Amantadine / Dantrolene
+> - Q: 看到 haloperidol 就选 benztropine 对不对？→ A: 学到「haloperidol 副作用 ≥ 4 类」+「EPS vs NMS 三连问鉴别法」+ 机制图（EPS = D2 信号轻度失衡；NMS = D2 信号崩盘 + 下丘脑崩）
+>
+> 🔗 **关联**
+> - 🔁 同主题错题：（首题，等后续 NMS / EPS / SS / MH 题积累）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/neuro]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/外科]]（Malignant Hyperthermia 麻醉中急性发病，与 NMS 鉴别）
+> - 🌱 TODO（待生成衍生）：
+>   - **优先级高** — 等积累 3-5 道精神药物副作用题后，请 Claude Code 整合「EPS / NMS / SS / MH / TD / 抗胆碱中毒」6 大综合征鉴别 → 生成 [[完整笔记/专题笔记/_衍生_精神药物急性综合征鉴别]]
+>   - 等积累 2-3 道「药物对应综合征」题后，请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_对症解毒剂速查]]（Bromocriptine / Cyproheptadine / Dantrolene / Benztropine / Physostigmine / Naloxone / Flumazenil / NAC ...）
+>
+> ✅ **复盘行动**
+> - [ ] 立即默写「EPS vs NMS 鉴别表」⭐⭐⭐
+> - [ ] 立即默写 "NMS BAD" 三剑客
+> - [ ] 立即默写「5 综合征 ↔ 5 解药」反向对照
+> - [ ] 立即默写「NMS vs SS vs MH 三大致命综合征鉴别表」
+> - [ ] 立即在脑中画一遍机制图（EPS：黑质纹状体 only；NMS：黑质纹状体 + 下丘脑）
+> - [ ] 1 周后重做 Q2501（重点检查诊断思路，不只是答案）
+> - [ ] 找 2-3 道 NMS 题 + 2-3 道 EPS 题 + 1-2 道 SS 题练习
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/psych]] 加 「薄弱点」（抗精神病药副作用鉴别）
+> - [ ] 积累 3+ 道相关错题 → 触发 Claude Code 生成 `_衍生_精神药物急性综合征鉴别`
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: NMS vs EPS 鉴别 / 抗精神病药副作用 5 综合征对应解药 / NMS 治疗（Bromocriptine）/ NMS vs SS vs MH 三联鉴别
+> 状态:: 🟡
+> 错因:: pattern
+
