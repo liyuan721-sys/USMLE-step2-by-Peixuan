@@ -11866,3 +11866,103 @@
 > 状态:: 🟡
 > 错因:: 粗心
 
+> [!example]- [2026-05-19] 精神/急诊 / PCP 中毒首选 BZD (Q3191)
+> ^Q3191
+>
+> ## Stem 模式
+> 反复物质滥用史 + 暴力激越 + **多方向眼震**（H+V+rotary）+ 肌强直 + 轻度高热 → PCP 中毒，问首选治疗。
+>
+> ## 核心概念
+> **任何 substance-induced agitation，第一线都是 BZD（lorazepam）**，不论物质种类（PCP/cocaine/meth/酒精戒断/BZD 戒断）。抗精神病药仅作为 BZD 不够时的辅助。
+>
+> ## 普适规则 — "3 + 3 + 3" 急诊毒理框架
+>
+> ```
+>           Axis 1: 兴奋 vs 抑制（决定生命体征方向）
+>           Axis 2: 抗胆碱 vs 胆碱能（决定"干"还是"湿"）
+>           Axis 3: 戒断 = 中毒的镜像
+>
+>     3 个一眼诊断：瞳孔 / 呼吸 / 干vs湿
+>     3 个治疗：激越→BZD / 抑制→解毒剂 / 戒断→镜像替代
+> ```
+>
+> **治疗 SOP**：
+> ```
+> 物质引起的激越（任何来源）
+>           │
+>           ▼
+>     第一线：BZD（lorazepam）
+>           │
+>           ▼
+>     不够 → 加抗精神病药（haloperidol）
+>           │
+>           ▼
+>     高热 → 物理降温 + 补液
+>     高血压 → BZD 通常足够；极少数 phentolamine
+>     ❌ 禁用 β-blocker（兴奋剂 unopposed α 风险）
+> ```
+>
+> ## 易混陷阱（普适）
+>
+> **Hyperthermia + muscle rigidity 五大鉴别** ⭐
+>
+> | 综合征 | 关键鉴别点 | 治疗 |
+> |---|---|---|
+> | **PCP 中毒** | **多方向眼震**、暴力、反复滥用史 | BZD |
+> | **Serotonin syndrome** | **反射亢进、阵挛**、ocular clonus、SSRI 用药史 | 停药 + BZD + cyproheptadine |
+> | **NMS** | **"铅管"强直**、起病慢（数日）、抗精神病药史 | 停药 + dantrolene/bromocriptine |
+> | **Malignant hyperthermia** | 麻醉中急性发作、家族史、琥珀酰胆碱 | dantrolene |
+> | **Anticholinergic** | **干、红、热、瞎、疯**、肠鸣音消失 | 支持；重者 physostigmine |
+>
+> **鉴别核心**：muscle rigidity + 眼动异常 + hyperthermia 不等于 serotonin syndrome。必须看**用药史 + 反射状态**。
+>
+> ## 我为什么错（个性化）
+>
+> 选了 **A. Cyproheptadine**（serotonin syndrome 解药）。
+> 思路：muscle rigidity + nystagmus + hyperthermia → 5-HT 综合征 → cyproheptadine。
+> 根本错因：① 不知道 PCP 首选 BZD；② 把"肌强直 + 眼动异常 + 高热"过度联想到 serotonin syndrome，**忽略了用药史（滥用 vs SSRI）和反射状态**。
+> **核心教训**：诊断已对，治疗不会 → 说明 substance emergency 的**管理 SOP** 是知识空白，不是临床思维问题。
+>
+> ## Memory Hook
+>
+> **"PCP = 天使尘 Angel Dust"** — 暴力天使，眼球乱扇（多方向眼震）。
+> **"激越 → BZD"** 是急诊万能键。
+> **三联征**：多方向眼震 + 暴力 + 肌强直 = PCP。
+> **反向记忆**："NOT BZD" 的场景只有 4 个：opioid (naloxone) / acetaminophen (NAC) / organophosphate (atropine+pralidoxime) / 抗胆碱重症 (physostigmine)。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+>
+> 1. **"为什么只有 5 个？"** → 学到：UWorld 表只覆盖 5 种，但 USMLE 高频还有 anticholinergic / organophosphate / MDMA / cannabinoid hyperemesis / inhalants / opioid withdrawal 等。"5 种"是题目的子集，不是全集。
+> 2. **"有没有记忆规律？"** → 学到：23 个药物可以压缩成 **3 轴定位法**（兴奋/抑制 × 干/湿 × 中毒/戒断）+ **3 个一眼诊断**（瞳孔/呼吸/干湿）+ **3 个治疗法则**（激越BZD/抑制解毒剂/戒断镜像）。框架记忆 > 条目记忆。
+>
+> ## 🔗 关联
+>
+> - 🔁 同主题错题：
+>   - （首题，substance emergency 急诊管理类 — 等后续题积累）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/psych]]
+>   - [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]]（本题草稿 v1 已并入此笔记 v2，2026-05-19）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/neuro]]（眼震鉴别、NMDA 受体药理）
+> - 🌱 TODO（待生成衍生）：
+>   - ✅ 草稿 v1 已并入 [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]] v2（2026-05-19，含 3+3+3 框架 / 30 秒分诊 / 五联鉴别 §7 / 解毒剂 / 场景库）
+>   - ✅ 高热 + 肌强直五联鉴别（PCP / SS / NMS / MH / 抗胆碱）已作为 [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]] §7
+>
+> ## ✅ 复盘行动
+>
+> - [ ] 1 周后重做 Q3191（目标 <30 秒锁定 PCP + BZD）
+> - [ ] 默写"3+3+3 框架"（不看笔记）
+> - [ ] 默写"hyperthermia + rigidity 五大鉴别"
+> - [ ] 找 3 道类似题：cocaine 急诊、alcohol withdrawal、serotonin syndrome
+> - [ ] 在 [[完整笔记/Peixuan分科笔记/psych]] 标 「薄弱点」（substance emergency management）
+> - [ ] 反思要点：下次见 muscle rigidity + 眼动异常 + hyperthermia，**先看用药史/滥用史**再决定方向
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: 物质急诊管理 — substance-induced agitation 首选 BZD / PCP 中毒（多方向眼震）/ 高热+肌强直五联鉴别 / 3+3+3 毒理框架
+> 状态:: 🟡
+> 错因:: 知识
+

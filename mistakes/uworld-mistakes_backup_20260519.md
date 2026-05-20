@@ -11730,3 +11730,139 @@
 > 状态:: 🟡
 > 错因:: pattern
 
+> [!example]- [2026-05-19] Psych / Bipolar I 维持治疗 — Lithium vs Valproate (Q2357)
+> ^Q2357
+>
+> ## Stem 模式
+> 年轻患者 Bipolar I（躁狂 ≥1 周 + 既往抑郁史）需选维持治疗药 + **stem 埋实验室/家族史雷点**（Cr ↑ / PKD 家族史 / 早期 HTN）→ 避开经肾排泄药。
+>
+> ## 核心概念
+> Bipolar I 维持治疗 4 大一线（Lithium / Valproate / Quetiapine / Lamotrigine）疗效相当，选择**完全取决于患者个体禁忌**。Lithium 100% 经肾排泄，肾功能受损（Cr ↑、PKD 家族史、脱水、低钠、合用 NSAIDs/噻嗪/ACEI）时禁用 → 选 Valproate（经肝代谢，肝功能正常即可）。
+>
+> ## 机制理解
+>
+> ```
+> Bipolar I 维持治疗一线选择 (4个)
+>         │
+>         ├─ Lithium      → 100% 肾排泄
+>         ├─ Valproate    → 肝代谢
+>         ├─ Quetiapine   → 肝代谢
+>         └─ Lamotrigine  → 肝代谢（防抑郁相最强）
+>
+> ═══════════════════════════════════════════════
+> Lithium 肾毒性双重打击
+> ═══════════════════════════════════════════════
+>   口服 Lithium
+>         │
+>         ▼
+>   100% 经肾排泄（无肝代谢替代）
+>         │
+>         ├─ 肾正常 → 稳定
+>         └─ 肾受损 → 蓄积 → 毒性 + 进一步损肾
+>               │
+>               ├─ 急性：震颤、共济失调、意识改变、癫痫
+>               └─ 慢性：
+>                     ├─ Nephrogenic DI (集合管 V2 受体 ↓)
+>                     └─ Chronic Tubulointerstitial Nephropathy
+>                              → 不可逆 → ESRD
+> ```
+>
+> > [!danger] 一句话区分本质
+> > **Lithium 走肾，Valproate 走肝** — 哪条路坏了，就避开走那条路的药。
+>
+> ## 普适规则 — Bipolar I 维持治疗 4 选 1 决策树
+>
+> ```
+> 看到 Bipolar I 维持治疗 → 强制扫描 4 个问题：
+>   1. 肾功能正常吗？(Cr / BUN / 家族史 PKD)
+>        异常 → ❌ 排除 Lithium
+>   2. 怀孕 / 育龄？
+>        是 → ❌ 排除 Valproate (神经管缺陷) + Lithium (Ebstein)
+>   3. 肥胖 / 糖尿病 / 代谢综合征？
+>        是 → ❌ 排除 Quetiapine
+>   4. 偏抑郁相？
+>        是 → ✅ 首选 Lamotrigine
+> ```
+>
+> ## High-Yield Summary Table
+>
+> ### 表 1 — Bipolar I 维持治疗 4 大一线对比
+>
+> | 药物 | 排泄 | 主要禁忌 | 监测 | 特别注意 |
+> |---|---|---|---|---|
+> | **Lithium** | 100% 肾 | 肾功能受损 / 妊娠 / 低钠 | 血锂、TSH、Cr、电解质 | 治疗窗窄 0.6-1.2 mEq/L；NSAIDs/噻嗪/ACEI ↑ 浓度 |
+> | **Valproate** | 肝 | 妊娠（NTD）/ 肝病 / 血小板 ↓ | LFTs、CBC、ammonia | 致畸性最强；体重 ↑、脱发 |
+> | **Quetiapine** | 肝 (CYP3A4) | QT 延长 / 老年痴呆精神病 | 代谢综合征指标 | 二代抗精神病药；嗜睡 |
+> | **Lamotrigine** | 肝 | 滴定过快 → SJS/TEN | 皮疹监测 | 防抑郁相最强；必须缓慢加量 |
+>
+> ### 表 2 — Lithium 肾损伤双重打击
+>
+> | 时间 | 病变 | 机制 | 可逆性 |
+> |---|---|---|---|
+> | 急性 | Nephrogenic DI | 集合管 V2 受体 ↓ → 不响应 ADH | 部分可逆 |
+> | 慢性 | Chronic Tubulointerstitial Nephropathy | 间质纤维化 + 小管萎缩 | **不可逆 → ESRD** |
+>
+> ### 表 3 — 抗癫痫药在双相中的真假
+>
+> | 抗癫痫药 | 双相有效？ | 用途 |
+> |---|---|---|
+> | Valproate | ✅ 一线 | 维持 + 急性躁狂 |
+> | Carbamazepine | ✅ 二线 | 维持（混合发作） |
+> | Lamotrigine | ✅ 一线 | 维持（防抑郁相） |
+> | **Topiramate** | ❌ 无效 | 偏头痛 / 减重 |
+> | Gabapentin | ❌ 无效 | 神经痛 / 焦虑 |
+> | Phenytoin | ❌ 无效 | 单纯抗癫痫 |
+>
+> ## 易混陷阱（普适，非本题特有）
+> - **"经典药 ≠ 当下最佳"**：USMLE 喜欢在 stem 埋禁忌（实验室、家族史、合并症），考的是"在具体患者身上避雷"。
+> - **抗抑郁药单用 → 双相患者可诱发躁狂**（Bupropion / SSRI 等）。必须联合心境稳定剂。
+> - **典型抗精神病药（Haloperidol）→ 急性稳定用，维持不首选**（EPS + 迟发性运动障碍）。
+> - **"anticonvulsant" 不等于"心境稳定剂"** — Topiramate / Gabapentin / Phenytoin 在双相中无效。
+> - **Lithium 浓度 ↑ 的三大触发**：NSAIDs / 噻嗪利尿剂 / ACEI（都减少肾排泄）。
+>
+> ## 我为什么错（个性化）
+> 选了 C. Lithium。反射性选最经典药 → 跳过了实验室（Cr 1.9）和家族史（PKD）扫描。**根本错因**：没看清 stem 关键词 + 选项识别错误。**陷阱本质**：USMLE 不考"知不知道这个药"，考"能不能在具体患者身上避雷"。
+>
+> ## Memory Hook
+>
+> **一句话锁定**：Lithium 走肾，Valproate 走肝 — 哪条路坏了避开哪条。
+>
+> **类比挂钩**：Lithium = "肾脏专列"，铁轨坏了就翻车；Valproate = "肝脏专列"。
+>
+> **口诀**：
+> - Lithium 三大禁忌 = **"肾 · 孕 · 钠"**（肾损伤 / 妊娠 / 低钠脱水）
+> - Valproate 三大监测 = **"肝 · 板 · 氨"**（LFTs / 血小板 / ammonia）
+>
+> **反向记忆**：4 选 1 决策树（见上方"普适规则"）。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - **Lithium vs Valproate 怎么选？** → 看患者特异性禁忌：肾功能受损 / PKD 家族史 → 避 Lithium；妊娠 / 肝病 → 避 Valproate。
+> - **为什么不能选 Bupropion / Haloperidol / Topiramate？** → Bupropion 可诱发躁狂；Haloperidol 急性用非维持；Topiramate 双相无效。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （首题，等后续 Psych 药物题积累）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/psych]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（Lithium → Nephrogenic DI + Chronic Tubulointerstitial Nephropathy；PKD 自然史）
+> - 🌱 TODO（待生成衍生）：
+>   - 等 Psych 章节复习完，请 Claude Code 整合**双相维持治疗药物选择类错题** → 生成 [[完整笔记/专题笔记/_衍生_双相维持治疗决策树]]（4 大一线 + 患者特异性禁忌矩阵）
+>   - 等积累 3+ 道"经典药遇到禁忌"类错题（β-blocker 遇哮喘、ACEI 遇双肾动脉狭窄等）→ 请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_经典药物禁忌雷区]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做
+> - [ ] 默写 Bipolar I 维持治疗 4 大一线 + 各自禁忌
+> - [ ] 默写 Lithium 三大禁忌（肾·孕·钠）+ Valproate 三大监测（肝·板·氨）
+> - [ ] 建立 SOP：药物选择题 → 强制扫描实验室 + 家族史 + 既往史，再选药
+> - [ ] UWorld 搜 "lithium contraindication" / "bipolar maintenance" 找 3 道类似题
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Bipolar I 维持治疗 4 选 1（患者特异性禁忌）/ Lithium vs Valproate（肾 vs 肝）/ Lithium 肾毒性 / 抗癫痫药在双相中的真假
+> 状态:: 🟡
+> 错因:: 粗心
+
