@@ -11589,3 +11589,144 @@
 > 状态:: 🟡
 > 错因:: 知识
 
+> [!example]- [2026-05-19] 心理科 / 围产期 GAD (Q21090)
+> ^Q21090
+>
+> ## Stem 模式
+> 孕妇 + worry "past year"（≥6mo）+ muscle ache 孕前已有 + 多领域 worry（labor + marriage + health + baby）+ reassurance 短效（"overwhelmed again soon after"）+ fatigue + restless sleep + TSH/CBC/CMP 正常 → **围产期 GAD**
+>
+> ## 核心概念
+> 围产期 GAD 一旦达 distressing/impairing → **必须治疗**。**CBT 是一线**（孕期首选非药物），SSRI/SNRI 二线（避 paroxetine、避 BZD）。
+>
+> ## 普适规则
+>
+> **GAD DSM-5 诊断标准**：
+> - Excessive, **uncontrollable** worry
+> - **Multiple** issues
+> - **≥6 months**
+> - **≥3/6** 躯体症状：restlessness / fatigue / concentration↓ / irritability / muscle tension / sleep
+> - Distressing 或 impairing
+> - 排除甲亢、物质、其他精神障碍
+>
+> **机制图（孕期正常焦虑 vs 围产期 GAD）**：
+> ```
+>         孕期"正常焦虑"            vs            围产期 GAD
+>         ─────────────                          ──────────
+>         起于孕后                                症状起于孕前已存在 ★
+>         单议题（多为胎儿）                       多领域议题
+>         reassurance 后缓解                      安抚短效，很快又 overwhelmed
+>         不影响功能                              distressing + impairing
+>         <6 个月                                 ≥6 个月
+>         躯体症状轻                              muscle tension/fatigue/sleep
+>                 ↓                                       ↓
+>         Reassurance + 家庭支持                   CBT ± SSRI/SNRI
+> ```
+>
+> > [!info] 一句话区分本质
+> > **"怀孕是触发器，不是议题本身"** — 看 worry 辐射到几个生活领域，不看 worry 是不是从同一件事起头的。
+>
+> ## 普适陷阱
+>
+> **陷阱 1：触发器 vs 议题 ⭐ 我栽过的坑**
+> USMLE GAD 题不会给你 worry 五件完全无关的事 — 它会用**一个生活事件**（怀孕/新工作/搬家）当外壳，让你误以为是单一议题。实际上 worry 已**辐射多领域**（分娩 + 婚姻 + 健康 + 育儿 = 4 个领域）。
+>
+> **陷阱 2：温柔的陷阱 ⭐ 心理科沟通题通用**
+> 看似最有同理心、最 normalize 患者感受的选项（"It's natural to worry..." / "Many women feel..."）往往**错** — 因为它否认了疾病存在。
+>
+> **陷阱 3：症状归错病（RLS 干扰）**
+> RLS = 静息时不适 + **活动后缓解** + urge to move at night。本题是 muscle **ache** + 多系统 → 不是 RLS。
+>
+> **陷阱 4：对症 vs 病因**
+> Acetaminophen + relaxation 只盖躯体，不处理认知/情绪核心 → 治标不治本。
+>
+> ## High-Yield Summary Tables
+>
+> ### 表 1：孕期正常焦虑 vs 围产期 GAD
+>
+> | 维度 | 正常焦虑 | 围产期 GAD ★ |
+> |---|---|---|
+> | 起病 | 孕后 | **孕前已有**或 ≥6mo |
+> | 议题范围 | 单一（多为胎儿） | **多领域**（labor + marriage + health + baby...）|
+> | Reassurance | 缓解 | **短效，很快又 overwhelmed** |
+> | 躯体症状 | 轻 | muscle tension / fatigue / sleep / concentration↓ |
+> | 功能影响 | 无 | **distressing + impairing** |
+> | 处理 | Reassurance + 家庭支持 | **CBT** ± SSRI/SNRI/Buspirone |
+>
+> ### 表 2：GAD 治疗阶梯（孕期特殊性）
+>
+> | 阶梯 | 选项 | 孕期注意 |
+> |---|---|---|
+> | **一线** | **CBT** | 孕期首选，无胎儿暴露风险 |
+> | 一线药物 | **SSRI / SNRI** | 孕期可用（**除 paroxetine**），用于严重病例或 CBT 无效 |
+> | 二线 | Buspirone | 数据有限，相对安全 |
+> | ❌ 避免 | Benzodiazepines | 致畸 + 新生儿戒断 |
+>
+> ### 表 3：USMLE 心理科沟通选项识别框架 ⭐ 通用方法论
+>
+> | 选项类型 | 特征 | 通常对错 |
+> |---|---|---|
+> | **正常化**（"natural to worry"）| 否认疾病、淡化症状 | ❌ |
+> | **对症处理**（仅药物盖症状）| 不处理核心 | ❌ |
+> | **错误归因**（套到相似但不对的诊断）| 用另一个常见病解释 | ❌ |
+> | **命名 + 治疗**（"treatable disorder, [循证治疗]"）| 承认疾病 + 一线 tx | ✅ |
+>
+> ## 我为什么错
+> 选了 A（"natural to worry... talk to mother"）。
+> 错因：
+> - ☑ **没看清 stem 时间线**：漏掉 "past year"（≥6mo）+ muscle ache 孕前已有 + "overwhelmed again soon after"（reassurance 短效）
+> - ☑ **触发器/议题混淆**：以为 worry "都是关于怀孕" = 单一议题；实际辐射到分娩/婚姻/健康/育儿 4 个领域
+> - ☑ **共情陷阱**：A 选项情感"温暖"，但临床上 = 不治疗
+>
+> ## Memory Hook
+>
+> **一句话锁定**：
+> **"孕妇 worry 一整年 + muscle ache 起于孕前 + 妈妈安抚不顶用 = GAD，不是孕期娇气"**
+>
+> **类比挂钩**：
+> - **"石头与涟漪"** — 怀孕是丢进湖里的石头（触发器），涟漪扩散到**整个湖面**（分娩+婚姻+健康+育儿 = 多领域）= GAD；只是石头落水点小水花（只担心胎儿）= 正常焦虑。
+> - **"温柔的陷阱"** — A 选项像奶茶店店员"宝宝别担心啦~"，听着舒服但你发烧治不好。USMLE 要你做**医生**不是**安慰师**。
+>
+> **口诀**：
+> - **"孕期 GAD 三看：看时间（≥6mo / 孕前起）、看议题（多领域 vs 单议题）、看安抚（短效 = 病）"**
+> - **"心理科沟通题：选'承认+治疗'，避'温暖但空洞'"**
+> - **"触发器 ≠ 议题；看辐射范围，不看起点"**
+>
+> **反向记忆**：
+> - 看到 "It's natural to..." / "Many women feel..." / "Don't worry, this is common..." → **80% 是错的**
+> - 看到 "treatable disorder" + 具体循证治疗 → **大概率正确**
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+>
+> **Q：这个病人的所有焦虑都集中在怀孕生产上，看不出来广泛焦虑呀**
+> - 学到了：**触发器 vs 议题**的区分。GAD 的 "multiple issues" 不要求议题彼此无关，而是要求 worry **跨越多个生活领域**。本题 worry 由怀孕触发，但辐射到分娩/婚姻/自身健康/育儿未来 4 个领域 — 仍然算 multiple issues。这是 USMLE 出题的精妙陷阱，用单一生活事件当外壳掩盖多领域议题。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （首题，等后续 psych 题积累后回填）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/OB]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/OB]]（孕期精神科用药安全 — 避 paroxetine、避 BZD）
+>   - [[完整笔记/Peixuan分科笔记/endocrine]]（TSH 排除甲亢 — 焦虑症状鉴别必查项）
+> - 🌱 TODO（待生成衍生）：
+>   - 等 psych 焦虑谱系积累 5+ 道错题后，请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_焦虑谱系鉴别]]（GAD / panic / phobia / OCD / PTSD / adjustment / normal stress 一表速查）
+>   - 等 psych + OB 交叉题积累后 → 生成 [[完整笔记/专题笔记/_衍生_围产期精神健康]]（孕期/产后 depression/anxiety/psychosis 鉴别 + 用药安全表）
+>   - 可单独建 [[完整笔记/专题笔记/USMLE心理科沟通题SOP]]（"承认+治疗" vs "温暖陷阱" 识别框架 — 跨所有 psych 题型的普适方法论）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q21090
+> - [ ] 默写 GAD DSM-5 6 条躯体症状
+> - [ ] 默写孕期正常焦虑 vs GAD 5 维度对比表
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/psych]] 加 「薄弱点」（完全没碰章节）
+> - [ ] 找 3-5 道 psych "沟通选项题" 练习（练"承认+治疗" vs "温暖陷阱"识别）
+> - [ ] 整理"USMLE 心理科沟通题红旗词清单"（"It's natural..." / "Many women..." / "Don't worry..." → 警惕）
+> - [ ] 复习孕期精神药物（SSRI 可、paroxetine 慎、BZD 避）
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: 围产期 GAD 诊断（vs 孕期正常焦虑）/ GAD DSM-5 标准 / 孕期焦虑治疗（CBT 一线、避 paroxetine/BZD）/ 心理科沟通题"承认+治疗"框架
+> 状态:: 🟡
+> 错因:: pattern
+

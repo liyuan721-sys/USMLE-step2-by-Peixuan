@@ -11389,3 +11389,203 @@
 > 状态:: 🟡
 > 错因:: pattern
 
+> [!example]- [2026-05-19] Psych / Seasonal Affective Disorder (Q15074)
+> ^Q15074
+>
+> ## Stem 模式
+> 年轻女性 + 秋冬抑郁 + 春夏缓解（≥2 年） + atypical features（嗜睡 / 碳水渴求 / 增重）+ SSRI 用 6 周 partial response → 下一步管理？
+>
+> **关键识别信号**：
+> - 季节性 ≥ 2 年（"every year"）
+> - Atypical features：嗜睡 + 食欲↑ + 渴糖 + 增重（≠ 典型 MDD）
+> - "Partial response"（部分应答，不是完全无效）
+> - 家族史亲属用 venlafaxine 有效（**干扰项**）
+>
+> ## 核心概念
+> **SAD with partial SSRI response → augment with bright light therapy**
+> SAD 病理生理 = 光照不足 → circadian / 褪黑素紊乱 + 5-HT ↓
+> SSRI 只补 5-HT 通路（一半），light therapy 补 circadian 通路（另一半）→ 机制互补，augment 而非 switch
+>
+> ## 普适规则
+>
+> ### 规则 1：抗抑郁药治疗调整决策树
+>
+> ```
+> SSRI 用足 4-6 周后评估：
+> ─────────────────────────────────────
+> No response (0%)        → SWITCH（换不同类）
+> Partial response        → AUGMENT（加药/加疗法）
+> Full response           → MAINTAIN（维持 6-12 月+）
+> Intolerable SE          → SWITCH（与疗效无关）
+> ─────────────────────────────────────
+> 口诀："Partial = Augment, Zero = Switch"
+> ```
+>
+> ### 规则 2：SAD 特殊治疗阶梯
+>
+> | 严重度 | 一线 | 升级 |
+> |---|---|---|
+> | Mild-Moderate | **Light therapy 单用** OR SSRI 单用 | 联合 |
+> | Moderate-Severe | **Light therapy + SSRI** | 加 bupropion / 换 SNRI |
+> | Partial response | **Augment with light therapy**（本题）| （再失败）加 bupropion |
+>
+> **SAD 专属逻辑**：先尝试 **非药物 augment（light therapy）**，避免直接 polypharmacy 或 switch。
+>
+> ### 规则 3：临床推理 — 共变 vs 因果
+>
+> 当 stem 给出**两个看似都成立的诱因**时，找**它们分离的时刻**：
+> - 哪个变量先消失而症状仍在？→ 排除该变量
+> - 哪个变量消失后症状才缓解？→ 真元凶
+>
+> ## 机制理解
+>
+> ```
+> SAD 病理生理
+> ─────────────────────────────────────
+> 日照减少（秋冬）
+>     ↓
+> 视网膜光信号 ↓ → 下丘脑 SCN（视交叉上核）
+>     ↓
+> 褪黑素分泌相位延迟 + 昼夜节律紊乱
+>     ↓
+> 5-HT 合成 ↓
+>     ↓
+> 抑郁 + atypical features（嗜睡 / 渴糖 / 增重）
+> ─────────────────────────────────────
+> 治疗：
+>   SSRI → 补 5-HT（一半）
+>   Light therapy（10,000 lux）→ 补 circadian（另一半）
+>   两机制互补 → augment
+> ```
+>
+> > [!tip] 一句话区分本质
+> > SAD 像"植物缺光萎蔫"：SSRI 是浇水（补 5-HT），light therapy 是补阳光（补 circadian）。缺光的植物，光浇水不够，必须晒太阳。
+>
+> ## 易混陷阱（普适）
+>
+> | 陷阱 | 表现 | 破解 |
+> |---|---|---|
+> | **Partial response 当 failure 处理** | 看到"feels partially better" + "效果不够好" → 想换药 | "Partial = Augment, Zero = Switch" |
+> | **家族史 / 亲属用药史诱导** | 妈妈/姐姐用某药有效 → 暗示患者必须用 | **无遗传药效学证据足以指导临床决策**；亲属反应不改变标准化治疗流程 |
+> | **共变 ≠ 因果（学业压力 vs 日照）** | "秋冬抑郁" 既可被压力解释，也可被日照解释 | 找**分离时刻**：寒假压力解除但症状持续 → 排除压力 |
+> | **PMDD 假象**（OB/GYN 病史诱导）| 给经前症状病史 + 女性 → 诱导选 symptom diary 或 COC | PMDD 必须**经后缓解**；持续数月的抑郁 ≠ PMDD |
+> | **SSRI augment 路径错误** | 直接加第二种抗抑郁药（bupropion / SNRI）| SAD 应优先 **非药物 augment（light therapy）**，避免 polypharmacy |
+>
+> ## 我为什么错（个性化）
+>
+> - **选了**：F. Switch to venlafaxine
+> - **思路**："SSRI 一个效果不好，首先是换药"
+> - **根本错因**：
+>   - ☑ 把 "partial response" 当 "treatment failure"
+>   - ☑ 不知道 SAD 有 light therapy 作为 augment 一线
+>   - ☑ 被家族史 venlafaxine 干扰
+> - **核心陷阱**：MDD 的标准升级流程 ≠ SAD 的特殊治疗流程。**"Partial response 永远先想 augment，不是 switch"**
+>
+> ## High-Yield Summary Table
+>
+> ### Table 1：抗抑郁药治疗调整决策树（普适）
+>
+> | 治疗反应 | 时间 | 下一步 | 原理 |
+> |---|---|---|---|
+> | No response（0%）| 4-6 周后 | **Switch** 到不同类（SSRI→SNRI/bupropion）| 当前药完全无效 |
+> | **Partial response** | 4-6 周后 | **Augment**（加药 / 加治疗）| 现药有效，需协同 |
+> | Full response | 持续 | Maintain 6-12 月+ | 防复发 |
+> | Intolerable SE | 任何时间 | Switch | 不是疗效问题 |
+>
+> ### Table 2：MDD vs SAD vs PMDD 鉴别
+>
+> | 特征 | MDD | SAD | PMDD |
+> |---|---|---|---|
+> | 时间模式 | 持续 ≥ 2 周，无季节性 | **≥ 2 年季节性**（秋冬→春夏缓解）| **黄体期发作**，经后缓解 |
+> | 典型症状 | 失眠 / 食欲↓ / 体重↓ | **嗜睡 / 食欲↑ / 渴糖 / 增重**（atypical）| 烦躁 + 躯体症状（乳胀、腹胀）|
+> | 一线治疗 | SSRI ± CBT | **Light therapy ± SSRI** | SSRI（持续/黄体期）± COC |
+> | 诊断工具 | SIG-E-CAPS ≥ 5 / ≥ 2 周 | 季节性病史 ≥ 2 年 + MDD 标准 | **症状日记 ≥ 2 周期** |
+>
+> ### Table 3：SAD 治疗阶梯（按严重度）
+>
+> | 严重度 | 一线 | 升级 |
+> |---|---|---|
+> | Mild-Moderate | Light therapy 单用 OR SSRI 单用 | 联合 |
+> | Moderate-Severe | Light therapy + SSRI | 加 bupropion / 换 venlafaxine（仅 足量足疗程无效）|
+> | Partial response | **Augment with light therapy** | （再失败）加 bupropion |
+>
+> ## Memory Hook
+>
+> > [!success] 一句话锁定
+> > **秋冬抑郁 + 嗜睡 + 渴糖 + SSRI 部分有效 → 加光照**
+>
+> > [!tip] 类比挂钩
+> > SAD = 植物缺光萎蔫 → SSRI 浇水（补 5-HT），light therapy 补阳光（补 circadian）。缺光的植物，光浇水不够。
+>
+> > [!info] 口诀
+> > **"Partial = Augment, Zero = Switch"**
+> > SAD 专属：**"加光不换药"**
+>
+> > [!warning] 反向记忆 — 三大陷阱
+> > 1. 家族史亲属有效 ≠ 患者必须用该药
+> > 2. 经前症状 + 持续数月 ≠ PMDD（PMDD 必须经后缓解）
+> > 3. "SSRI 效果不够好" 必先问"几成好"，partial ≠ failure
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点（学习路径）
+>
+> ### Q1：为什么不能看作期末压力诱发，放假缓解？
+>
+> **学到了什么**（核心临床推理升级 ⭐）：
+>
+> 这是经典的**"共变 vs 因果"陷阱**。Stem 故意把"学业节奏"和"季节变化"放一起（北半球学年里天然共变），考你能否识别真正的因果变量。
+>
+> **破解方法**：找两者**分离的时间点**
+>
+> | 时间节点 | 压力假说预测 | 日照假说预测 | Stem 实际 |
+> |---|---|---|---|
+> | 期末考结束（12 月中）| 应缓解 | 不缓解（冬至前后日照最短）| 不缓解 |
+> | 寒假（1 月）| 应保持缓解 | 仍抑郁（日照仍短）| 仍抑郁 |
+> | 春季学期开学 | 应复发（新压力）| 仍抑郁 | 仍抑郁 |
+> | **Spring break（3 月）** | 应缓解 | **缓解（春分日照回升）** | **缓解** |
+>
+> **决定性证据**：
+> - 寒假 4-6 周无压力但症状持续 → **压力不是主因**
+> - Spring break 只 1 周，若是"放假就好"，寒假早该缓解 → **缓解不是因为放假，是因为 3 月日照回升**
+> - "Every year" 固定模式（≥ 2 年）→ 学业压力每年会变，但日照变化年年一致 → 指向日照
+>
+> **症状特征佐证**：
+> - 压力诱发抑郁 = 焦虑 + 失眠 + 食欲↓（典型）
+> - 本题 = 嗜睡 + 渴糖 + 增重（atypical features）→ 强烈指向 SAD
+>
+> ### Q2：USMLE 通用原则（带走的最大收获）
+>
+> > [!danger] 临床推理普适规则
+> > 当 stem 给出**两个看似都成立的诱因**时，找**它们分离的时刻**：
+> > - 哪个变量先消失而症状仍在？→ 排除该变量
+> > - 哪个变量消失后症状才缓解？→ 真元凶
+> >
+> > **共变 ≠ 因果**。USMLE 常用的"双诱因混淆"陷阱（学业压力 vs 日照、月经周期 vs 心理应激、季节变化 vs 假期模式等），都靠这个方法破解。
+>
+> ## 🔗 关联
+>
+> - 🔁 同主题错题：
+>   - （首题：SAD / 抗抑郁药 augment vs switch 决策，等后续题积累）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（情感障碍 → SAD 章节）
+> - 🏥 跨学科：暂无
+> - 🌱 TODO（待生成衍生）：
+>   - 等 psych 章节复习完后，请 Claude Code 整合**抗抑郁药治疗调整决策类错题**（partial response vs no response → augment vs switch 的判断）→ 生成 [[完整笔记/专题笔记/_衍生_抗抑郁药augment_switch决策树]]
+>   - 等积累 ≥ 3 道"家族史 / 亲属用药史"诱导陷阱题 → 生成 [[完整笔记/专题笔记/_衍生_家族史干扰陷阱]]
+>   - 等积累 ≥ 3 道"共变 vs 因果"鉴别题 → 生成 [[完整笔记/专题笔记/_衍生_共变vs因果临床推理]]
+>
+> ## ✅ 复盘行动
+>
+> - [ ] 1 周后重做 Q15074
+> - [ ] 默写"抗抑郁药治疗调整决策树"（partial → augment / zero → switch）
+> - [ ] 默写 MDD vs SAD vs PMDD 三联鉴别表
+> - [ ] 找 3 道类似题：SAD 治疗 / SSRI partial response / PMDD vs MDD
+> - [ ] 整理"共变 vs 因果"识别模板（找分离时刻）
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: SAD 季节性抑郁治疗 / 抗抑郁药 partial response → augment（非 switch）/ MDD vs SAD vs PMDD 鉴别
+> 状态:: 🟡
+> 错因:: 知识
+
