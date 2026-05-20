@@ -80,6 +80,8 @@ High-yield distinction:
 >
 > **Negative symptoms** are typically better treated by <span class="mark">second-generation atypical antipsychotics</span>
 
+→ **FGA vs SGA 受体机制 + 副作用完整对照**（5-HT2A + D2 双拮抗 / loose D2 / EPS ↓ vs 代谢 ↑ / α1-M1-H1 副作用受体 vs **D2 主作用受体** / D1 ≠ D2 陷阱）详见 [[mistakes/uworld-mistakes#^Q2499]]（含 3 张高频对照表 + "-pine / -done / -piprazole" 后缀速记）
+
 **Psychotic Disorders**
 
 | **疾病名称** | **持续时间** | **备注** |
@@ -459,6 +461,13 @@ Best initial step:
 
 > Rule out suicide
 
+⚠️ **儿童 / 青少年抑郁 SI 风险评估**（Q15895 触发）：
+- **Passive SI**（"消失就好了"）vs **Active SI**（有计划 / 手段）必须区分
+- 任何 SI + 高危（支持差 / 无随诊 / 应激源）→ **急诊精神评估，倾向住院**
+- **精神科 5 步 SOP**：**Safety → Stabilization → Diagnosis → Treatment → Follow-up**（不能跳！）
+- 儿童 SSRI 有 **black box warning**（见下方 SSRI 章节）—— 评估安全前禁止反射性开药
+- → 详见 [[mistakes/uworld-mistakes#^Q15895]]
+
 Most likely first-line treatment:
 
 > Therapy
@@ -496,6 +505,8 @@ Adverse effects:
 > Weight gain
 >
 > SIADH
+>
+> ⚠️ **Black box warning（儿童 / 青少年 / 年轻成人 < 25 岁）**：**增加自杀意念 / 自杀行为**（开药后 **1-2 周**最高危）—— 任何 SI 史 / 高危患者必须**先 Safety assessment 再开药**，开药后**每 1-2 周密切随诊**。详见 [[mistakes/uworld-mistakes#^Q15895]]
 
 Pregnancy:
 

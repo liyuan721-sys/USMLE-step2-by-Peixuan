@@ -9816,6 +9816,34 @@
 > ## Stem 模式
 > 17yo 男孩 + 24h 呕吐 / 腹痛 / **水样腹泻** + 2 天难入睡 + **全身酸痛** + diaphoretic + 干黏膜 + **生命体征全正常**（T 36.6 / BP 110/74 / HR 88 / RR 16）→ 诊断？
 >
+> ![[{B47FDB4C-F732-4698-850A-687DA01673C8}.png]]
+> *↑ **图 1：UW Common Withdrawal Syndromes 表** — 6 物质戒断完整对照（症状 + 体检发现）*
+> - Alcohol / BZD 体检都有 **seizures + tachycardia + palpitations**
+> - **Opioids 体检** = dilated pupils + yawning + **piloerection** + lacrimation + **hyperactive bowel sounds**（"反向阿片"指纹）
+> - Stimulants / Nicotine / Cannabis 体检 = **no significant findings**
+>
+> 强化口诀 **"GABA 飙 / 阿片平 / 兴奋剂沉"**。归位 → [[完整笔记/专题笔记/psych_成瘾药物对照表]] §4
+>
+> ![[{04B719AC-9897-4F69-9622-6F37F3CDB781}.png]]
+> *↑ **图 2：UW Opioid Withdrawal 4 维度完整表** —— Time course / Clinical / Diagnosis / Management*
+> - **Time course**：4-48h after cessation；**给 opioid antagonist（Naloxone/Naltrexone）后立即**发作 = 医源性 precipitated withdrawal（life-threatening）
+> - **Clinical 4 系统**：GI（N/V/cramping/diarrhea/↑肠鸣音）+ Cardiac（↑pulse/↑BP/diaphoresis）+ Psychologic（insomnia/yawning/dysphoric）+ Other（myalgia/mydriasis/lacrimation/rhinorrhea/piloerection）
+> - **Diagnosis = History & examination alone** —— **纯临床诊断**，不需要 tox screen
+> - **Management**：① **Opioid agonist** = methadone / buprenorphine ② **Nonopioid** = clonidine + 对症（止吐/止泻/BZD）
+>
+> ⚠️ **vital signs 调和**：本图列 "↑ pulse / ↑ BP"，与"vitals OFTEN NORMAL"看似冲突。UW 文本明确：阿片戒断 vital signs **可轻度升高（mild），但不会 storm**——与 GABA 类戒断 HR/BP/T↑↑↑ 严重度天壤之别。本题 stem T 36.6 / BP 110/74 / HR 88 全在正常范围 = 远未到 GABA storm 级别。
+>
+> 归位 → [[完整笔记/专题笔记/psych_成瘾药物对照表]] §3.3
+>
+> ![[{7F75FCDF-C9CB-4F7B-9AEF-19FA4B21D462}.png]]
+> *↑ **图 3：UW Cholinergic Toxicity 表（DUMBELS 助记）** —— 排除法陷阱 3 用图*
+> - **Muscarinic (DUMBELS)**：**D**iarrhea/diaphoresis / **U**rination / **M**iosis / **B**ronchospasm-bronchorrhea-**bradycardia** / **E**mesis / **L**acrimation / **S**alivation
+> - **Nicotinic effects**：**肌无力 / 瘫痪 / fasciculations**（NMJ 烟碱受体过激）
+>
+> **为什么本题排除 cholinergic**：cholinergic 必有 **bradycardia + 流口水 (salivation) + miosis**；本题 HR 88（不慢）+ 黏膜**干**（非流口水）→ 排除。
+>
+> 归位 → [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]] §6.2
+>
 > ## 核心概念
 > **Opioid (Heroin) Withdrawal** — 长期用 opioid 患者突然停药 → locus coeruleus 失去 μ 抑制 → NE 释放 ↑ → 自主神经亢进，但**比 alcohol/BZD 戒断弱很多**。
 >
@@ -9872,6 +9900,26 @@
 > > Alcohol/BZD 戒断致死 = GABA-A 受体过度脱敏 → seizure / cardiac arrhythmia。
 > > Opioid 戒断"只是难受" = μ 受体缺失 → NE 增加（受其他反馈调节）→ 自主神经亢进**有上限**。
 >
+> ## 实际诊断路径 — 排除法（这道题为什么"难"）⭐
+>
+> 本题**经典 opioid 戒断体检发现几乎全缺**（无 dilated pupils / yawning / piloerection / lacrimation / 肠鸣音↑）—— **不能靠"看体检"正向识别**。UW 教学文本严格分两层（用词差异是关键）：
+>
+> | 分类 | UW 原文用词 | 内容 | 本题表现 |
+> |---|---|---|---|
+> | **Symptoms** = 指纹（必现）| "**primarily include**" | sleep disturbance / N-V / **abdominal cramping** / **diarrhea** / **myalgia** | **4-5 联齐全** ✓ |
+> | **Examination findings** = 补充（可有可无）| "**may also be evident**" | dilated pupils / yawning / piloerection / lacrimation / 肠鸣音↑ | **只 diaphoresis** ⚠️ |
+>
+> **真正的诊断锚点（排除法 4 步）**：
+> 1. **症状 4-5 联**（吐 / 泻 / 痛 / 失眠 / 酸痛）→ 缩到 opioid OR cholinergic
+> 2. **vitals 正常** + 题干特意写 → 排除 GABA 类（alcohol/BZD）+ 兴奋剂
+> 3. **黏膜干 + HR 88**（不慢）→ 排除 cholinergic（必 bradycardia + 流口水 + miosis）
+> 4. **剩下 = opioid** —— 体检发现缺失**不能否定**诊断
+>
+> > [!danger] USMLE Step 2 高阶技能：pattern recognition → 排除法
+> > 经典 opioid 题给 yawning + 散瞳 + piloerection → 看见就选（Step 1 模式识别题）。
+> > 本题**故意不给经典体检**，只留 symptoms + 反向排除线索 → 考 "**没有教科书指纹时，能不能用排除法**"。
+> > **诊断思维转变**：从"找正向指纹"→ "症状缩范围 + vital signs + 黏膜干湿 + 瞳孔 + HR 逐一排除"。
+>
 > ## 我为什么错
 >
 > - 选了：**D. Withdrawal from benzodiazepines**
@@ -9879,8 +9927,10 @@
 > - 核心陷阱链：
 >   - ☑ **忽略 "vital signs ARE NORMAL" 这句关键线索**（题目特意写出来 = 暗示）
 >   - ☑ **没排除 BZD 戒断的必备特征**（autonomic instability + seizure）
->   - ☑ **没识别 watery diarrhea + abdominal pain + 失眠 + myalgia 4 联 = 阿片戒断指纹**
-> - **核心教训**：戒断鉴别**先看 vital signs**：飙 = GABA 类（alcohol/BZD），平 = opioid。这一步能 90% 区分。
+>   - ☑ **没识别 watery diarrhea + abdominal pain + 失眠 + myalgia 4 联 = 阿片戒断**症状指纹**（不是体检指纹！）
+> - **核心教训**：
+>   1. 戒断鉴别**先看 vital signs**：飙 = GABA 类（alcohol/BZD），平 = opioid（90% 区分）
+>   2. **更深一层**（Q3189 二次反思）：本题难度在于**经典 opioid 体检发现缺失**（无散瞳 / yawning / piloerection / lacrimation）→ 必须靠**症状 4-5 联 + 排除法**，不能等典型体检才认。UW 用词差异（"primarily include" vs "may also be evident"）就是给出这个层次提示。
 >
 > ## Memory Hook
 >
@@ -9945,4 +9995,240 @@
 > 主题:: Opioid 戒断 vs Alcohol-BZD 戒断（vital signs 鉴别）/ 反向阿片对比
 > 状态:: 🟡
 > 错因:: pattern
+
+> [!example]- [2026-05-19] Psych / SGA 机制（Q2499）
+> ^Q2499
+>
+> ## Stem 模式
+> MDD 患者（用 venlafaxine）出现**新发 psychosis**（妄想 + 幻听）→ 加用 **quetiapine** → 问 "primary mechanism"
+>
+> ## 核心概念
+> **SGA**（第二代抗精神病药）= **5-HT2A + D2 双受体拮抗**；D2 亲和力**低于 FGA**（"loose binding"）
+> - 抗精神病靠 **D2**（不是 D1）
+> - EPS ↓ 源于 **5-HT2A 阻断使纹状体 DA 释放 ↑**（去抑制 nigrostriatal 通路）
+>
+> ## 普适规则 — Table 1：机制描述 → 药物配对（防混淆）
+>
+> | 机制描述 | 药物类别 | 代表药 | 适应症 |
+> |---|---|---|---|
+> | 5-HT2A + D2 阻断 | **SGA** | Quetiapine, Olanzapine, Risperidone, Clozapine | Psychosis, Bipolar |
+> | 强 D2 阻断 | **FGA** | Haloperidol, Fluphenazine | Psychosis, Tourette |
+> | 5-HT + NE 再摄取抑制 | **SNRI / TCA** | Venlafaxine, Duloxetine | MDD, GAD |
+> | NE + DA 再摄取抑制 | **NDRI** | Bupropion | MDD, 戒烟 |
+> | DA 释放↑ + 再摄取抑制 | **Stimulant** | Amphetamine, Methylphenidate | ADHD |
+> | 5-HT 再摄取抑制 | **SSRI** | Fluoxetine, Sertraline | MDD, OCD, PTSD |
+> | D2 部分激动 | SGA (atypical) | Aripiprazole | Psychosis, MDD 增效 |
+>
+> ## 普适规则 — Table 2：FGA vs SGA 全面对比
+>
+> | 维度 | FGA (Typical) | SGA (Atypical) |
+> |---|---|---|
+> | **主受体** | D2 强拮抗 | **5-HT2A + D2** 双拮抗 |
+> | **D2 亲和力** | 高、持续 | 低、短暂（loose binding）|
+> | **EPS 风险** | ↑↑↑ 高 | ↓ 低 |
+> | **高泌乳素血症** | 常见（尤其 haloperidol）| 少见（**risperidone 例外**）|
+> | **代谢副作用** | 少 | ↑↑（体重↑、糖脂异常）|
+> | **阳性症状** | 有效 | 有效 |
+> | **阴性症状** | 效差 | 较好 |
+> | **代表药** | Haloperidol, Fluphenazine, Chlorpromazine | Quetiapine, Olanzapine, Risperidone, Clozapine, Ziprasidone, Aripiprazole |
+>
+> ## 普适规则 — Table 3：SGA 副作用受体一览
+>
+> | 受体 | 阻断后果 | 高发 SGA |
+> |---|---|---|
+> | **5-HT2A** | 主作用之一（降 EPS）| 全部 SGA |
+> | **D2** | 主作用（抗精神病）| 全部 SGA |
+> | α1 | 体位性低血压、镇静 | Quetiapine, Clozapine |
+> | M1（抗胆碱）| 口干、便秘、视物模糊、尿潴留 | Clozapine, Olanzapine |
+> | H1 | 嗜睡、体重增加 | **Quetiapine**, Olanzapine, Clozapine |
+> | 代谢通路 | 糖尿病、血脂异常 | Olanzapine > Clozapine |
+>
+> ## 易混陷阱（普适）
+>
+> > [!danger] 陷阱 1：副作用受体 vs 主作用受体
+> > α1 / M1 / H1 阻断都是 SGA **副作用受体**，不是主作用 → 选项里只要**不含 D2 一律错**。
+>
+> > [!danger] 陷阱 2：D1 ≠ D2
+> > 抗精神病只与 **D2** 相关，**D1 不是责任受体**（陷阱选项常写 D1 + α1 组合）。
+>
+> > [!warning] 陷阱 3：看清问的是新加的药
+> > Stem 已用药（venlafaxine = SNRI）的机制常作干扰项 → 必须看清问的是**新加的 quetiapine**。
+>
+> > [!tip] 后缀速记
+> > **`-pine`** / **`-done`** / **`-piprazole`** 后缀 = SGA 家族（Quetiapine / Risperidone / Aripiprazole 等）。
+>
+> ## 我为什么错
+>
+> - 选了：**A（α1 + D1 阻断）**
+> - 错因：**知识** — 把 quetiapine 的 α1 副作用误当主作用；D1 和 D2 没分清
+> - 根本错因链：
+>   - ☑ **副作用受体（α1）误为主作用**
+>   - ☑ **D 亚型未区分**（D1 vs D2 在抗精神病机制里完全不同角色）
+> - **核心教训**：抗精神病主受体永远是 **D2**（FGA 强拮抗，SGA 加 5-HT2A 双拮抗）；α1 / M1 / H1 / 代谢通路是副作用受体。
+>
+> ## Memory Hook
+>
+> > [!success] 一句话锁定
+> > **"SGA = 5-HT2A + D2 双拮抗，loose D2，少 EPS 多代谢"**
+>
+> - **FGA = "死磕 D2"**（紧抱 → EPS 爆发）
+> - **SGA = "脚踩两只船"**（松绑 D2 + 抓 5-HT2A → 代谢翻车）
+> - **Quiet**iapine → 安静 = 强 H1 阻断 → 嗜睡（常作低剂量助眠）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q：药物机制没记清，怎么系统记住精神科药物受体对照？
+>   - 学到：① SGA vs FGA 核心受体差异（5-HT2A + D2 vs 单 D2）② 7 种"机制 → 药物"配对（SGA / FGA / SNRI / NDRI / Stimulant / SSRI / Aripiprazole D2 部分激动）③ SGA 5 大受体副作用谱（5-HT2A / D2 / α1 / M1 / H1）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：（首题，等后续 psych 药理题积累）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/psych]]（精神科药物章节）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/neuro]]（**DA 4 大通路**：mesolimbic / nigrostriatal / tuberoinfundibular / mesocortical → 对应抗精神病效应 / EPS / 高泌乳素 / 阴性症状）
+> - 🌱 TODO（待生成衍生）：
+>   - 等 psych 药理积累 5+ 题 → 整合 [[完整笔记/专题笔记/psych_精神科药物机制总表]]
+>   - 等积累 3+ 道 SGA 题 → 生成 [[完整笔记/专题笔记/psych_SGA_受体副作用对照表]]（5-HT2A / D2 / α1 / M1 / H1 × 各 SGA）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q2499
+> - [ ] 默写 FGA vs SGA 对比表（受体 / EPS / 代谢 / 代表药）
+> - [ ] 默写 7 种"机制 → 药物"配对（SGA / FGA / SNRI / NDRI / Stimulant / SSRI / Aripiprazole）
+> - [ ] 默写 SGA 5 大受体副作用谱（5-HT2A / D2 / α1 / M1 / H1）
+> - [ ] 找 3 道类似题：搜 "antipsychotic mechanism" / "EPS"
+> - [ ] 复习 DA 4 大通路与 D2 阻断后果的对应
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: SGA 机制 / FGA vs SGA / 副作用受体 vs 主作用受体（D1 vs D2 区分）
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-19] 儿科 / Psych / 儿童抑郁伴被动 SI（Q15895）
+> ^Q15895
+>
+> ## 📖 缩写速查
+> - **SI** = Suicidal Ideation（自杀意念）
+>   - **Active SI**：明确自杀想法 + 计划 / 手段（"我想吃药结束自己"）
+>   - **Passive SI**：被动想消失 / 死亡愿望，无计划（本题"消失就好了"/"不想醒来"）
+> - **HI** = Homicidal Ideation（杀人 / 伤害他人意念）
+>   - Active HI：具体目标 + 计划 ｜ Passive HI：泛泛攻击想法
+> - **USMLE 精神科 safety 三大必问**：① SI ② HI ③ Abuse / Neglect（儿童 / 老人 / 伴侣）
+>   - → 任何一项阳性 = **安全评估优先于诊断和治疗**
+>
+> ## Stem 模式
+> 儿童 / 青少年 + 躯体主诉（腹痛 / 头痛 / 疲劳）+ 功能下降（缺勤 / 退缩 / 嗜睡）+ 家庭应激源 + **间接 SI 语言**（"消失就好了"/"没人需要照顾我"）+ 拒绝深谈 → 处置？
+>
+> ## 核心概念
+> 儿童抑郁常以**躯体症状**起病，SI 多以**间接 / 被动语言**表达。任何形式的 SI（包括 passive）+ 高危因素（poor psychosocial support / no psych follow-up / 持续应激源）→ **急诊精神评估，倾向住院**。
+>
+> ## 普适规则 — 精神科首步处置 5 步 SOP
+>
+> ```
+> ① Safety（SI / HI / abuse / 即刻危险）← 必须最先
+>      ↓
+> ② Stabilization（危机干预、住院决策）
+>      ↓
+> ③ Diagnosis（病史、MSE、排器质性）
+>      ↓
+> ④ Treatment（药物 + 心理治疗）
+>      ↓
+> ⑤ Follow-up & Support（家庭 / 学校 / 社工）
+> ```
+>
+> **任何 SI 患者，第 ① 步未完成前，禁止跳到 ③④⑤。**
+>
+> ## 普适规则 — 抑郁伴 SI 的处置决策树
+>
+> | 情境 | 处置 |
+> |---|---|
+> | **Active SI**（有计划 / 手段）| **立即住院** |
+> | **Passive SI + ≥1 高危**（支持差 / 无随诊 / 应激源）| **急诊精神评估，倾向住院** ✅（本题）|
+> | Passive SI + 支持好 + 有随诊 | 门诊紧密随诊 + 安全计划 |
+> | 无 SI + 轻症 | 门诊 CBT ± SSRI |
+> | 无 SI + 中 / 重症 | 门诊 SSRI + CBT |
+>
+> ## 普适规则 — 儿童抑郁 vs 成人抑郁表现差异
+>
+> | 特征 | 成人 | 儿童 |
+> |---|---|---|
+> | **主诉** | 情绪低落、空虚 | **躯体症状**（腹痛 / 头痛 / 疲劳）|
+> | **易怒** | 不突出 | **突出**（可代替低落情绪作诊断标准）|
+> | **行为改变** | 工作效率 ↓ | 缺勤、退出活动、成绩 ↓ |
+> | **自杀线索** | 直接表达 | **间接**（"消失就好了"/"没人需要我"）|
+>
+> ## 易混陷阱（普适）
+>
+> > [!danger] 陷阱 1："看到抑郁就开 SSRI" ❌
+> > 有 SI 时**禁止跳过安全评估直接开药**；且儿童 SSRI 有 **black box warning：增加自杀意念**（开药后 1-2 周最高危，必须密切随诊）。
+>
+> > [!warning] 陷阱 2："全面评估 / 收集信息" ❌
+> > 联系学校 / 社工评估 / 验血 / 影像 → 看似周全但**延迟安全干预**，SI 是即刻危险不能等。
+>
+> > [!warning] 陷阱 3："急于治疗" ❌
+> > 跳到 family therapy / 心理治疗 → 治疗必须在安全评估之后（顺序 Safety > Diagnosis > Treatment）。
+>
+> > [!warning] 陷阱 4："排除器质性" ❌
+> > 非特异腹痛 + 体检阴性 + 精神症状明确时，**不需要 CMP / ultrasound**。
+>
+> > [!warning] 陷阱 5："她说没事 / 不肯回答" ❌
+> > **拒绝深谈 ≠ 否认 SI**，反而是**警惕信号**（高危标记之一）。
+>
+> ## 我为什么错
+>
+> - 选了：**F（开抗抑郁药）**
+> - 错因：**知识** — 跳过了 safety assessment
+> - 根本错因链：
+>   - ☑ 把"识别诊断 = 立即治疗"画等号
+>   - ☑ 忽略 USMLE 精神科 **Safety > Diagnosis > Treatment** 铁律
+>   - ☑ 低估了"消失就好了" = 被动 SI 的严重性
+>   - ☑ 未掌握儿童 SSRI black box warning
+> - **核心教训**：精神科**任何 SI 都先 Safety**；儿童 SSRI 开药本身可能加重 SI（black box），不评估安全直接开药 = 双重错误。
+>
+> ## Memory Hook
+>
+> > [!success] 一句话锁定
+> > **"消失就好了" = 被动 SI → 急诊评估优先于一切治疗**
+>
+> - **类比**：儿童抑郁像**冰山** —— 水面上是"肚子疼 / 不想上学"，水面下是"想消失"。USMLE 不让你急着融化冰山（开药），先勘测深度（emergency assessment）。
+> - **口诀**：**"SI 先评估，开药放最后"**（顺序：Safety → Diagnosis → Treatment）
+> - **儿童 SSRI 双刃剑**：治抑郁也加 SI → 开药 = 1-2 周内必密切随诊
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - （首次系统接触儿童精神科 SI 评估，无提问；卡点：直觉跳到"抑郁 → SSRI"，未识别 SI 优先级）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （首题，儿童精神科 + SI 评估方向。等后续 SI / HI / abuse 评估题积累）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/儿科]] L13 (annual depression screening for age ≥12 — 单句，**主笔记完全无完整章节**)
+>   - [[完整笔记/Peixuan分科笔记/psych]] L460 / L702 / L796 ("Rule out suicide" 散点 + SSRI 后 1-2 周监测；MDD 管理 L456-466 + SSRI L480-498 是相关章节，但**缺 black box + passive SI 区分 + Safety SOP**)
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/Ethics_Master]] L201-240（confidentiality 例外 + 强制上报）+ L18 / L235-238（**Tarasoff** duty to warn / protect）+ L164-194（minors 部分解放 / L177 精神健康部分州）+ L225（self-harm → **involuntary hold**）+ L516（总结心法 — **自伤是保密例外**）
+> - 🌱 TODO（待生成衍生）：
+>   - 等 psych 章节积累 3-5 道首步处置题 → 整合 SI/HI/abuse/psychosis 首步处置 → 生成 [[完整笔记/专题笔记/psych_精神科SafetyFirst_SOP]]（决策树：立即住院 / 急诊评估 / 门诊紧密随诊 / 安全计划）
+>   - 等儿科 + psych 双向积累 → 整合儿童精神症状躯体化 → 生成 [[完整笔记/专题笔记/儿科_精神症状躯体化]]（抑郁 / 焦虑 / PTSD / 虐待的躯体表现 + 鉴别）
+>   - 📋 **分科同步候选**（等用户审阅）：
+>     - 儿科 L13 加反链 → Q15895
+>     - psych L466 MDD 管理段加 "⚠️ 儿童抑郁 SI 风险评估" + 反链 + SSRI 章节 L480-498 补 **black box warning**
+>     - Ethics_Master L225 加反链 → Q15895 / L195 后插"5.5 未成年人精神科保密 + SI 强制上报"小节
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q15895
+> - [ ] 默写精神科 5 步 SOP（Safety → Stabilization → Diagnosis → Treatment → Follow-up）
+> - [ ] 默写儿童 vs 成人抑郁差异表（主诉 / 易怒 / 行为 / 自杀线索）
+> - [ ] 熟记 SSRI 在儿童的 black box warning（增加 SI，开药后 1-2 周密切随诊）
+> - [ ] 找 3 道类似题：成人 SI / 青少年 HI / 产后抑郁伴 SI / 精神病性抑郁
+> - [ ] 整理"住院 vs 门诊"三轴判断（SI 严重度 + 支持系统 + 随诊可及性）
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: 儿童抑郁 + 被动 SI 评估 / 精神科 Safety-First SOP / SSRI 儿童 black box warning
+> 状态:: 🟡
+> 错因:: 知识
 

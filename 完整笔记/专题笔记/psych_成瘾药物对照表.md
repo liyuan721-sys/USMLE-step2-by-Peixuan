@@ -223,8 +223,39 @@ Step 3 — 有无禁忌？
 | **Clonidine** | α2 激动 → 抑制蓝斑交感 | 对症缓解（流涕/心慌/出汗）| 辅助药，不解决核心激动剂缺失 |
 | **对症辅助** | — | Loperamide（止泻）/ Ondansetron（止吐）/ NSAID（肌痛）| 按需 |
 
-> [!info] 阿片戒断症状（与过量正好相反）
-> 流涕、流泪、瞳孔**放大**、立毛（鸡皮疙瘩）、肌痛、腹泻、躁动、打哈欠 —— 痛苦但**通常不致死**（成人）。
+> [!info] 阿片戒断 = "症状指纹（必现）" + "体检发现（可有可无）" ⭐（Q3189 触发反思）
+> UW 教学文本严格分两层（用词差异 = 诊断分层关键）：
+>
+> **Symptoms（"primarily include"，必现 = 指纹）**：
+> - Sleep disturbance（失眠）
+> - Nausea / vomiting
+> - **Abdominal cramping**（绞痛）
+> - **Diarrhea**（水样腹泻）
+> - **Myalgia / arthralgia**（肌痛 / 关节痛）
+>
+> **Examination findings（"may also be evident"，可有可无 = 补充）**：
+> - Dilated pupils (mydriasis)
+> - Yawning（打哈欠）
+> - Piloerection（鸡皮疙瘩）
+> - Lacrimation / rhinorrhea（流泪 / 流鼻涕）
+> - **Hyperactive bowel sounds**
+> - Diaphoresis
+>
+> **诊断关键**：症状 4-5 联齐全（吐/泻/痛/失眠/酸痛）= 强烈提示 opioid 戒断；**体检发现缺失不能否定**诊断。USMLE 高阶题（如 [[mistakes/uworld-mistakes#^Q3189]]）故意只给症状不给典型体检 → 考"排除法"思维（vital signs 正常 → 排除 GABA 类；HR 不慢 + 黏膜干 → 排除 cholinergic；剩 opioid）。
+>
+> 痛苦但**通常不致死**（成人）。
+
+#### UW Opioid Withdrawal 4 维度完整表
+
+![[{04B719AC-9897-4F69-9622-6F37F3CDB781}.png]]
+*↑ UW 原图：Opioid Withdrawal 4 维度对照（Time course / Clinical / Diagnosis / Management）*
+
+**关键补充信息（图独有，前述文本未明示）**：
+- **Time course 警示** ⚠️：给 **opioid antagonist**（Naloxone / Naltrexone）后**立即**发作 = 医源性 precipitated withdrawal（life-threatening！见 §3.5）
+- **Diagnosis = History & examination alone** —— **纯临床诊断**，不需要 tox screen / 血检
+- **Cardiac vital signs 调和**：UW 此图列 "↑ pulse / ↑ BP / diaphoresis"，需与下方 "vital signs OFTEN NORMAL" 调和 → 阿片戒断 vital signs **可轻度升高（mild），但不会 storm**（与 GABA 类戒断的 autonomic storm 严重度差很多）
+
+→ 来源：[[mistakes/uworld-mistakes#^Q3189]] 图 2（双地点 Obsidian 反向链接调取）
 
 > [!danger] 关键鉴别：vital signs 是决定性证据 ⭐⭐⭐（Q3189 触发）
 > **Alcohol / BZD 戒断 = autonomic STORM**（HR/BP/T 全飙 + AMS + 可 seizure 致死）
@@ -309,6 +340,18 @@ Step 3 — 有无禁忌？
 > **Alcohol / Benzodiazepines / Barbiturates**（共同点：GABA-A 系统依赖）
 > 其它戒断（阿片、可卡因、大麻、尼古丁）"痛苦但不致死"。
 
+#### UW 6 物质戒断对照表（症状 + 体检发现）
+
+![[{B47FDB4C-F732-4698-850A-687DA01673C8}.png]]
+*↑ UW 原图：6 物质戒断症状 + 体检发现完整对照（与上方"治疗对照表"互补）*
+
+**关键对比要点**：
+- **Alcohol / BZD** 体检 = **seizures + tachycardia + palpitations**（GABA 类自主神经风暴）
+- **Opioids** 体检 = **dilated pupils + yawning + piloerection + lacrimation + hyperactive bowel sounds**（"反向阿片"指纹，区别于 §3.3 中毒针尖瞳 / 便秘）
+- **Stimulants / Nicotine / Cannabis** 体检 = **no significant findings**（这就是为什么 "GABA 飙 / 阿片平 / 兴奋剂沉" 口诀成立）
+
+→ 来源：[[mistakes/uworld-mistakes#^Q3189]]（Heroin 戒断 vs BZD 戒断错题，2026-05-19 入库；图同时存于错题卡 + 本章节，**双地点 Obsidian 反向链接调取**）
+
 ---
 
 ## 5. 大一统决策树
@@ -362,6 +405,7 @@ Step 3 — 有无禁忌？
 | 术后 24-72h 突发 seizure → sepsis / 头外伤 ❌ | 长期酗酒者首想 **AWS**（住院常 underreport alcohol use）|
 | 戒断 + vital signs 正常 → 选 alcohol/BZD 戒断 ❌（Q3189 触发）| Opioid 戒断 vital signs **正常**；vitals 飙 = **alcohol/BZD 戒断**（GABA 类）— "GABA 飙 / 阿片平 / 兴奋剂沉" |
 | 派对后 seizure + 高热 + myoclonus + SSRI 用户 → 选 cannabis ❌（Q11853 触发）| **MDMA + Serotonin Syndrome**：高热 + 肌阵挛 + 反射亢进 + 低钠 + SSRI 用户 = 指纹（MDMA 不在本笔记，见 [[mistakes/uworld-mistakes#^Q11853]]）|
+| 看不到 dilated pupils + yawning + piloerection → 不诊断 opioid 戒断 ❌（Q3189 反思）| 这些是 **"may also be evident"**（体检发现，可有可无）；**症状 4-5 联**（吐/泻/痛/失眠/酸痛）才是 **"primarily include"**（指纹必现）。体检缺失**不能否定**诊断，必须用**排除法**（详见 §3.3 + 错题 [[mistakes/uworld-mistakes#^Q3189]]）|
 | 戒烟选 Bupropion + 患者有癫痫 / 神经性贪食 ❌ | Bupropion **禁忌**：癫痫、饮食障碍 |
 | BZD 戒断突然停药 ❌ | 必须**缓慢递减**，否则癫痫致死 |
 
@@ -503,4 +547,13 @@ Step 3 — 有无禁忌？
   - **neuro.md**：① L7490 MH vs NMS 表升级为 **SS vs NMS vs MH 三联鉴别**（USMLE 高频空白补齐）+ 三药角色（Dantrolene / Bromocriptine / Cyproheptadine）+ 速记决策 callout ② L12023 NMS 加 SS 鉴别反链 ③ L6401 Myoclonus 加 **6 大成因鉴别**（SS / 缺氧 / 代谢 / 感染 / 退行 / 抗胆碱）
   - **uworld-mistakes** Q11853 + Q3189 TODO 全部 ✅ + 跨链补强
   - **关联** 加新专题反链（**互补定位** 明示）
+- **v1.8（2026-05-19）Q3189 二次反思 — "症状指纹 vs 体检发现" 用词分层**：用户洞察"经典 opioid 体检几乎全缺，stem 怎么诊断 opioid" → 揭示 UW 教学文本用词差异是关键诊断分层
+  - **§3.3** 阿片戒断 info callout 重写为两层结构（**Symptoms "primarily include" = 必现指纹** vs **Examination findings "may also be evident" = 可有可无补充**）+ 排除法 4 步诊断思维
+  - **§6** 陷阱表 +1 行（体检缺失不能否定 opioid 戒断诊断 — 必须排除法）
+  - **错题卡 Q3189** 加 "实际诊断路径 — 排除法" 段（含 USMLE Step 2 高阶技能 callout：pattern recognition → 排除法）+ 更新 "我为什么错" 加深一层教训
+- **v1.9（2026-05-19）Q3189 图归位 ×3**：错题卡 Q3189 用户追加 2 张新图（共 3 张）→ 按双地点工作流归位
+  - **图 1**（UW Common Withdrawal Syndromes）→ 主笔记 §4 已归位（v1.7）
+  - **图 2**（UW Opioid Withdrawal 4 维度完整表）→ 主笔记 **§3.3** 归位 + 补充图独有 3 点（**time course 警示 / 纯临床诊断 / vital signs 调和**：mild ≠ storm）
+  - **图 3**（UW Cholinergic Toxicity DUMBELS）→ [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]] **§6.2** 归位 + 补充 nicotinic effects
+  - **错题卡 Q3189** 3 张图说明拆分（每图独立说明 + 各自归位反链）
 - 待补充：随后续错题积累，逐步增补具体陷阱场景与临床决策细节
