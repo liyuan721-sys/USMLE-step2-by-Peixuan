@@ -11218,7 +11218,7 @@
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（seizure 鉴别 — 药物诱发 vs 原发癫痫）
 > - 🌱 TODO（待生成衍生）：
 >   - 短期（高频陷阱，可先建）：生成 [[完整笔记/专题笔记/BZD_半衰期与withdrawal对照表]]（含 LOT 肝病安全 + 戒酒戒 BZD 选 long-acting 的逻辑）
->   - 等积累 3-5 道停药综合征/物质相关题后 → 生成 [[完整笔记/专题笔记/_衍生_停药综合征鉴别速查]]（BZD/Alcohol/Opioid/SSRI-SNRI/TCA/Bupropion 全表 + FINISH 助记 + seizure 来源鉴别）
+>   - ✅ 已建 [[完整笔记/专题笔记/psych_停药综合征鉴别速查]]（2026-05-19，BZD/Alcohol/Opioid/SSRI-SNRI/TCA 全表 + FINISH 助记 + 用药 vs 停药 seizure 来源鉴别；后续积累更多题再补充）
 >   - 与今天 Q15104（AUD 药物）合并 → 可生成 [[完整笔记/专题笔记/_衍生_成瘾药物治疗对照表]]（AUD/OUD/Smoking + withdrawal 管理）
 >
 > ## ✅ 复盘行动
