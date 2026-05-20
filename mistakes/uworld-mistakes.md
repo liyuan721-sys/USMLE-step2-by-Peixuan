@@ -9686,130 +9686,6 @@
 > 状态:: 🟢
 > 错因:: ✅ 做对（知识入库）
 
-> [!example]- [2026-05-19] Psych / MDMA (Ecstasy) 中毒 + Serotonin Syndrome（SSRI 陷阱）(Q11853)
-> ^Q11853
->
-> ## Stem 模式
-> 21yo 大学男生 + ED + **派对回来 + "不像自己" → seizure** + PMH **MDD on sertraline** + T 40°C(104°F) / HR 120 / BP 170/96 + flushed/diaphoretic + **肠鸣音 ↑** + **DTR 3+ + spontaneous myoclonus 上肢 + 反应迟钝** + **Na 122**（低钠）→ 病因？
->
-> ## 核心概念
-> **MDMA (Ecstasy / Molly) = synthetic amphetamine** — 增加突触前 **NE / DA / 5-HT** 释放。
->
-> 严重中毒 = **双重毒性**：
-> 1. **Sympathomimetic toxicity**：HTN / tachycardia / diaphoresis / **hyperthermia 40°C**
-> 2. **Serotonin toxicity (Serotonin Syndrome)**：AMS / **hyperreflexia + myoclonus** / **seizure** / **hyponatremia**（SIADH + 过量饮水降温）
->
-> 本题**关键放大器**：SSRI（sertraline）+ MDMA → serotonin 大量蓄积 → 严重 SS。SSRI 用户是 USMLE 高频"伪装"。
->
-> ## 普适规则 — 6 大类常见 USMLE 中毒鉴别 ⭐⭐⭐
->
-> | 物质 | 瞳孔 | 体温 | 出汗 / 黏膜 | 肠鸣音 | 神经体征 | 独特线索 |
-> |---|---|---|---|---|---|---|
-> | **MDMA / Amphetamine** | 散大 | **↑↑ Hyperthermia** | 出汗 | ↑ | **Myoclonus + Hyperreflexia + Seizure** | **+ SSRI = SS / 低钠** |
-> | **Cocaine** | 散大 | ↑ | 出汗 | 正常 | 激越 + seizure | 鼻中隔穿孔 / MI |
-> | **Anticholinergic** (DPH, atropine) | **散大** | ↑ Hyperthermia | **皮肤干 + 黏膜干 + 肠鸣音 ↓** ⭐ | **↓** | 谵妄 / bizarre / 尿潴留 | "干红怒热" — Hot/Dry/Red/Crazy |
-> | **PCP** | 垂直 + 水平 **nystagmus** | ↑ | — | — | 暴力 / 解离 / 镇痛 | NMDA 拮抗，**强烈攻击性**不是 somnolence |
-> | **Cannabis** | 红眼 | 正常 | — | — | 反应慢 / 偏执 / 食欲 | **不致 hyperthermia / myoclonus** |
-> | **Opioid** | **针尖 miosis** | 正常 / ↓ | — | ↓ 便秘 | **CNS + 呼吸抑制** | Naloxone 反应阳性 |
-> | **BZD** | — | 正常 | — | — | CNS depression + ataxia + 言语含糊 | 生命体征**正常** |
-> | **Nitrous oxide** | — | 正常 | — | — | LOC / seizure（大量）| 效果仅 **15-45 分钟** |
->
-> ## 普适规则 — Serotonin Syndrome 三联征
->
-> | 三联 | 临床表现 |
-> |---|---|
-> | **AMS** | 激越 / 谵妄 / 昏迷 / hallucination |
-> | **Autonomic instability** | HR ↑ / BP ↑ / 出汗 / 高热 / 散瞳 / 流涎 |
-> | **Neuromuscular hyperactivity** ⭐ | **Hyperreflexia + Myoclonus + Clonus + Tremor + 肌张力 ↑** |
->
-> 触发药：SSRI / SNRI / MAOI / TCA / Triptan / **MDMA** / Tramadol / Linezolid / Dextromethorphan / St John's Wort。
->
-> ## 易混陷阱（普适）
->
-> > [!danger] 陷阱 1：选 Cannabis ❌（我犯的错）
-> > Cannabis 可有 tachycardia + HTN，但**没有** hyperthermia / myoclonus / hyperreflexia / seizure / 低钠。本题这 4 个特征都齐全 → 必须想到 stimulant + SS。
->
-> > [!danger] 陷阱 2：选 Anticholinergic (DPH) ❌
-> > Anticholinergic 也有 hyperthermia / HTN / seizure / bizarre behavior，但 **anhidrosis（皮肤干）+ 肠鸣音 ↓** 是必带特征。本题 **diaphoretic + 肠鸣音 ↑** = 反向 → 排除。
-> > 口诀："Hot / Dry / Red / Crazy"（干红怒热）— "**干**"是 anticholinergic 的指纹。
->
-> > [!warning] 陷阱 3：选 Alcohol withdrawal ❌
-> > AWS 也有 HR↑/BP↑/出汗/seizure，但 **myoclonus 不期** + 本病人偶尔饮酒（"occasionally drinks beer"）→ 戒断不太可能。
->
-> > [!info] 隐形陷阱：urine tox 阴性 ≠ 排除 MDMA
-> > MDMA / bath salts / 合成 cathinone **常规 amphetamine 尿筛查不出**！别因为"阴性"就排除。
->
-> ## 我为什么错
->
-> - 选了：**B. Cannabis intoxication**
-> - 错因：**pattern** — 看到"派对 + 大学生 + 偶饮"反射性选 cannabis，没系统识别 stimulant + SS 的指纹特征
-> - 核心陷阱链：
->   - ☑ **忽略 hyperthermia 40°C**（cannabis 不致此）
->   - ☑ **忽略 myoclonus + hyperreflexia**（cannabis 不致此）
->   - ☑ **忽略低钠 122**（MDMA 经典 SIADH + 过量饮水）
->   - ☑ **没识别 sertraline + MDMA = SS 放大器**
-> - **核心教训**：高热 + 肌阵挛 + 反射亢进 + SSRI 用户 → **永远首想 serotonin syndrome / MDMA**
->
-> ## Memory Hook
->
-> > [!success] 一句话锁定
-> > **"派对 + SSRI 用户 + 高热 + myoclonus + 反射亢进 + 低钠" = MDMA + Serotonin Syndrome**
->
-> **MDMA = 三胺合一武器**："NE 推血压 + DA 推奖赏 + 5-HT 推 SS"
->
-> **SS 三联 "M.A.N"**：**M**ental change / **A**utonomic / **N**euromuscular hyperactivity（hyperreflexia + myoclonus）
->
-> **"干 vs 湿"中毒鉴别**：
-> - 干 → Anticholinergic（DPH / atropine）— 皮肤干 + 肠鸣音 ↓
-> - 湿 → Cholinergic（OP / 蘑菇）— 出汗 + 流涎 + 腹泻 + 肠鸣音 ↑
-> - 湿 + 高热 + 肌阵挛 → **Serotonin / MDMA**
->
-> **MDMA 低钠机制双管齐下**：drug-induced SIADH + 用户主观觉得热疯狂饮水"降温" → dilutional hyponatremia → seizure
->
-> ---
->
-> ## 🤔 我的提问 / 卡点
-> - Q：MDMA 怎么导致 hyponatremia？
->   - 学到：双机制 — ① drug-induced SIADH（ADH 释放）+ ② 用户主观觉得热/出汗，疯狂饮水补充 → dilutional hyponatremia。低钠到 122 时引发 seizure。
-> - Q：DPH 过量也有 hyperthermia/HTN/seizure，怎么区分 MDMA？
->   - 学到：**Anticholinergic = 干**（皮肤干 + 黏膜干 + 肠鸣音↓ + anhidrosis）；MDMA / SS = **湿**（diaphoretic + 肠鸣音↑）。"干红怒热"是 anticholinergic 指纹。
-> - Q：为什么 MDMA 不在 urine amphetamine 筛查里查出？
->   - 学到：MDMA 是 amphetamine 的"合成衍生物"，常规免疫筛查（针对 d-amphetamine）catch 不到结构差异大的衍生物。bath salts / cathinone / 合成大麻同理。**临床表现优先于 tox 阴性**。
-> - Q：SS 三联 vs Neuroleptic Malignant Syndrome (NMS) 怎么分？
->   - 学到：SS = **hyperreflexia + myoclonus + 起病急（小时内）+ 5-HT 类药**；NMS = **铅管样肌强直 + bradyreflexia + 起病慢（天）+ 抗精神病药**。两者都有高热/AMS/自主神经亢进。
->
-> ## 🔗 关联
-> - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q3189]] Heroin 戒断（同日入库 — vital signs 是关键鉴别；本题 = 中毒 hyperthermia，Q3189 = 戒断 vitals 正常，正好成对）
->   - [[mistakes/uworld-mistakes#^Q3187]] AWS withdrawal seizure（同日做对 — 戒断相关 seizure vs 本题中毒相关 seizure）
->   - 等积累更多 cocaine / amphetamine / DPH / cholinergic / SS / NMS 错题后横向连接
-> - 📚 主笔记：
->   - [[完整笔记/Peixuan分科笔记/psych]]（成瘾医学 + SUD 表 L1118-1124）
->   - [[完整笔记/专题笔记/psych_成瘾药物对照表]]（戒断 / 维持期 / 急救药 — MDMA 不在本笔记定位内）
-> - 🏥 跨学科：
->   - [[完整笔记/Peixuan分科笔记/neuro]]（serotonin syndrome / myoclonus / hyperreflexia / NMS vs SS）
->   - [[完整笔记/Peixuan分科笔记/感染]]（高热鉴别 — 中毒 vs 感染 vs SS vs NMS vs MH）
-> - 🌱 TODO：
->   - ✅ **新建** [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]]（v1 = 2026-05-19，本错题触发；含 6 大物质中毒鉴别 + SS/NMS/MH 三联 + 干湿对照）
->   - ✅ psych.md L1118-1124 中毒表扩展（加 MDMA + 抗胆碱 + PCP 3 行 + 反链）
->   - ✅ neuro.md L7490 MH vs NMS 表升级为 SS vs NMS vs MH 三联鉴别（USMLE 高频空白补齐）+ L12023 NMS 加 SS 反链 + L6401 Myoclonus 加成因鉴别
->
-> ## ✅ 复盘行动
->
-> - [ ] 1 周后重做 Q11853，目标 20 秒锁定 MDMA + SS
-> - [ ] 默写 6 大物质中毒鉴别表（瞳孔/体温/出汗/肠鸣/神经/线索）
-> - [ ] 默写 SS 三联 "M.A.N"（AMS / Autonomic / Neuromuscular）
-> - [ ] 默写 "干 vs 湿" 中毒鉴别口诀
-> - [ ] 找 3 道类似题：搜 "MDMA" / "serotonin syndrome" / "amphetamine intoxication"
-> - [ ] 在 psych 主笔记加「难记」（MDMA / SS 部分）
->
-> ---
->
-> 学科:: Psych
-> 主题:: MDMA 中毒 + Serotonin Syndrome / 6 大物质中毒鉴别（干 vs 湿）
-> 状态:: 🟡
-> 错因:: pattern
-
 > [!example]- [2026-05-19] Psych / Heroin 戒断 vs Alcohol-BZD 戒断（vital signs 鉴别）(Q3189)
 > ^Q3189
 >
@@ -10229,6 +10105,506 @@
 >
 > 学科:: Psych
 > 主题:: 儿童抑郁 + 被动 SI 评估 / 精神科 Safety-First SOP / SSRI 儿童 black box warning
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-19] Psych / 药物滥用 / MDMA 中毒 + Serotonin Syndrome（SSRI 陷阱）(Q11853)
+> ^Q11853
+>
+> ## Stem 模式
+> 21yo 大学男生 + ED + **派对回来 + "不像自己" → seizure** + PMH **MDD on sertraline** + T 40°C(104°F) / HR 120 / BP 170/96 + flushed/diaphoretic + **肠鸣音 ↑** + **DTR 3+ + spontaneous myoclonus 上肢 + 反应迟钝** + **Na 122**（低钠）→ 病因？
+>
+> ## 核心概念
+> **MDMA (Ecstasy / Molly) = 合成苯丙胺** — 释放 **NE + DA + 5-HT**（5-HT 是 MDMA 标志）→ **三联表现**：
+> 1. **Sympathomimetic toxicity**：HTN / tachycardia / diaphoresis / **hyperthermia 40°C**
+> 2. **Serotonin Syndrome**：AMS + **hyperreflexia + myoclonus** + seizure
+> 3. **Hyponatremia**（SIADH + 大量饮水降温）⭐ MDMA 特异
+>
+> 与 **SSRI 联用 → SS 风险 ↑↑↑**（本题关键放大器）。
+>
+> ## 机制理解 — MDMA 中毒全图 ⭐
+>
+> ```
+> ┌──────────────────────────────────────────────────────────────┐
+> │           MDMA (Ecstasy) 中毒机制全图                          │
+> └──────────────────────────────────────────────────────────────┘
+>
+> MDMA (synthetic amphetamine 合成苯丙胺)
+>         │
+>         │ 突触前神经元
+>         │ ↑ 释放 + ↓ 再摄取
+>         ▼
+> ┌─────────────┬─────────────┬─────────────┐
+> │ Norepinephrine│   Dopamine  │  Serotonin  │
+> │    ↑↑↑      │    ↑↑       │    ↑↑↑     │ ← 5-HT 是 MDMA 标志
+> └──────┬──────┴──────┬──────┴──────┬──────┘
+>        │              │              │
+>        ▼              ▼              ▼
+>  Sympathomimetic   Euphoria      Serotonin
+>  toxicity         Sociability     Syndrome
+>                   Empathy
+>        │                            │
+>   ┌────┴────┐                  ┌────┴──────┐
+>   │ HTN     │                  │ AMS       │
+>   │ HR↑     │                  │ Hyperreflexia│
+>   │ Hyperthermia│              │ Myoclonus │
+>   │ Diaphoresis │              │ Seizures  │
+>   │         │                  │ Hyponatremia│ ← SIADH + 饮水↑
+>   └─────────┘                  └───────────┘
+>
+> 特殊机制：
+> - MDMA → SIADH → 自由水潴留
+> - Party drug → 大量饮水「降温/解渴」
+> - → 双重打击 → Na⁺ 122（本题）
+> - Hyponatremia 是 MDMA 致命 / 致 seizure 的重要机制
+> ```
+>
+> > [!info] 为什么 SSRI + MDMA = 致命组合
+> > Sertraline 已抑制 5-HT 再摄取 → 突触 5-HT 升高
+> > MDMA 再增加 5-HT 释放 + 抑制再摄取
+> > 双重打击 → 5-HT 暴增 → **Serotonin Syndrome**（高热 / 肌阵挛 / 反射亢进 / AMS）
+>
+> ## 普适规则 — 苯丙胺家族鉴别"三个 M"⭐（USMLE 高频易混）
+>
+> ```
+> Amphetamine 苯丙胺（母核）
+>         │
+>         ├─ Methamphetamine ─────── 冰毒 / Crystal Meth / Ice
+>         │   （加甲基 → DA 释放↑↑↑）
+>         │
+>         ├─ MDMA ────────────────── 摇头丸 / Ecstasy / Molly
+>         │   （加亚甲二氧基 → 5-HT 释放↑↑↑）
+>         │
+>         └─ Amphetamine 原型 ────── Adderall / 安非他命
+>             （处方药：ADHD、发作性睡病）
+> ```
+>
+> | 维度 | **MDMA** | **冰毒 (Methamphetamine)** | **Amphetamine (Adderall)** |
+> |---|---|---|---|
+> | 中文名 | 摇头丸 / 迷魂药 | 冰毒 / 甲基苯丙胺 | 安非他命（处方）|
+> | 街名 | **Ecstasy / Molly / E / X / XTC** | **Crystal Meth / Ice / Crank / Speed / Tina / Glass** | — |
+> | 形态 | 彩色药片（笑脸 / 卡通图案）/ 胶囊 | 透明结晶（像冰）/ 白色粉末 | 处方片剂 |
+> | 主要释放 | **5-HT >> NE > DA** | **DA >> NE > 5-HT** | NE + DA |
+> | 核心效应 | **Entactogen**：共情、亲密、欣快 | 极度兴奋、警觉、性欲 ↑、攻击性 | 警觉、专注 |
+> | 场景 | **派对 / 夜店 / 音乐节 (rave)** | 长时间清醒 / chemsex / 暴力 | ADHD 治疗 |
+> | 持续 | 3-6 小时 | **8-24 小时**（长）| 4-12 小时 |
+> | 特异并发症 | **5-HT 综合征 + 低钠 (SIADH)** ⭐ | **Meth mouth** / 严重精神病 / 暴力 | 体重 ↓、HR ↑、依赖 |
+> | 戒断 | 轻度抑郁（"midweek blues"）| 严重抑郁 + 嗜睡 + 食欲 ↑ | 类似 meth 戒断 |
+>
+> **Stem 关键词识别速查**：
+> - 派对 + **5-HT 综合征 + 低钠** → **MDMA**
+> - 长期清醒 + **烂牙 (meth mouth)** + 暴力 / 精神病 / 消瘦 → **冰毒**
+> - ADHD 儿童 / 成人 + 体重 ↓ + HR ↑ → **Adderall**
+> - 鼻中隔穿孔 + 胸痛 / MI → **Cocaine**（非苯丙胺，常一起考）
+>
+> > [!tip] 一句话挂钩
+> > **MDMA 是"爱"**（5-HT 让人有共情）
+> > **冰毒是"疯"**（DA 让人暴力 + 精神病 + 烂牙）
+> > 看到 "Ecstasy / Molly" 想 MDMA；看到 "Ice / Crystal Meth" 想冰毒。
+>
+> ## 普适规则 — Table 1：滥用药物中毒 6 大鉴别 ⭐⭐⭐
+>
+> | 药物 | 瞳孔 | 体温 | HR/BP | 出汗 / 黏膜 | 反射 | 标志体征 | 特异实验室 |
+> |---|---|---|---|---|---|---|---|
+> | **MDMA (Ecstasy)** | 散大 | **↑↑↑ (>40°C)** | ↑↑ | **湿** | **↑↑ 肌阵挛** | 派对 + SS 三联 | **Na ↓ (SIADH)** ⭐ |
+> | **Cocaine / Amphetamine** | 散大 | ↑ | ↑↑ | 湿 | 正常 / ↑ | **鼻中隔穿孔**（cocaine）/ MI | — |
+> | **PCP / Ketamine** | 正常 / 散大 | ↑ | ↑ | — | ↑ | **眼震（水平+垂直）**+ 暴力 + 解离 | — |
+> | **Opioids** | **针尖 miosis** | ↓ | ↓ | 干 | ↓ | **呼吸抑制 + Naloxone 反应**+ 便秘 | — |
+> | **BZD / Alcohol** | — | ↓ / 正常 | ↓ / 正常 | 干 | ↓ | **构音障碍 + 共济失调** | — |
+> | **抗胆碱 (DPH / atropine / TCA)** | 散大 | ↑ | ↑ | **干 ⭐** | 正常 | "**Hot / Dry / Red / Blind / Mad**" | 肠鸣音 ↓ |
+>
+> ## 普适规则 — Table 2：4 大高热综合征鉴别 ⭐（USMLE 必考）
+>
+> | 维度 | **Serotonin Syndrome** | **NMS** | **抗胆碱毒性** | **恶性高热** |
+> |---|---|---|---|---|
+> | **诱因** | SSRI / MAOI / **MDMA** / Tramadol / Linezolid / DXM | FGA / 抗精神病药 / D2 阻断 | DPH / TCA / 阿托品 | **吸入麻醉 + 琥珀胆碱** |
+> | **起病** | **数小时**（最快）| **数日**（最慢）| 数小时 | **麻醉中**（分钟）|
+> | **反射** | **↑↑ + 肌阵挛 ⭐** | **↓ + 铅管样强直 ⭐** | 正常 | 强直 |
+> | **皮肤** | **湿 + 红** | 湿 + 苍白 | **干 + 红 ⭐** | 湿 |
+> | **瞳孔** | 散大 | 正常 | 散大 | 正常 |
+> | **肠鸣音** | ↑ | ↓ | ↓ | 正常 |
+> | **解药** | **Cyproheptadine** | Dantrolene + **Bromocriptine** | **Physostigmine** | **Dantrolene** |
+>
+> ## 普适规则 — Table 3：低钠 + 中毒鉴别
+>
+> | 病因 | 机制 | Stem 线索 |
+> |---|---|---|
+> | **MDMA** ⭐ | SIADH + 大量饮水降温 | 派对 / 高热 / 肌阵挛 |
+> | **SSRI** | SIADH | 老年人新加 SSRI |
+> | **HF**（心衰）| 容量超负荷 | 心衰体征 |
+> | **Cirrhosis** | RAAS ↑ | 腹水 / 肝病 |
+> | **Addisons** | 醛固酮 ↓ | 色素沉着 / K ↑ |
+>
+> ## 易混陷阱（普适）
+>
+> > [!danger] 陷阱 1：派对场景 + sympathomimetic → 选 Cannabis ❌（我犯的错）
+> > Cannabis 可有 tachycardia + HTN，但**没有** hyperthermia / myoclonus / hyperreflexia / seizure / 低钠。本题这 4 个特征都齐全 → 必须想到 stimulant + SS。
+>
+> > [!danger] 陷阱 2：选 Anticholinergic (DPH) ❌
+> > Anticholinergic 也有 hyperthermia / HTN / seizure / bizarre behavior，但 **anhidrosis（皮肤干）+ 肠鸣音 ↓** 是必带特征。本题 **diaphoretic + 肠鸣音 ↑** = 反向 → 排除。
+> > 口诀："Hot / Dry / Red / Crazy"（干红怒热）— "**干**"是 anticholinergic 的指纹。
+>
+> > [!warning] 陷阱 3：选 Alcohol withdrawal ❌
+> > AWS 也有 HR↑ / BP↑ / 出汗 / seizure，但 **myoclonus 不期** + 本病人偶尔饮酒（"occasionally drinks beer"）→ 戒断不太可能。
+>
+> > [!warning] 陷阱 4：SSRI 用药史 + 新加 5-HT 能药物 = SS 红旗 ⚠️
+> > MDMA / Tramadol / MAOI / Triptans / Linezolid / DXM 任何一个 + 已用 SSRI → **立即考虑 SS**。本题 Sertraline + MDMA 是经典组合。
+>
+> > [!info] 隐形陷阱 1：urine tox 阴性 ≠ 排除 MDMA
+> > MDMA / bath salts / 合成 cathinone **常规 amphetamine 尿筛查不出**！临床表现优先于 tox 阴性。
+>
+> > [!info] 隐形陷阱 2：低钠 122 + 派对场景 = MDMA 特异指纹
+> > 其他滥用药物**不致 SIADH**，所以派对场景里低钠到 122 几乎只指向 MDMA（鉴别 cocaine / amphetamine 的关键）。
+>
+> ## 我为什么错
+>
+> - 选了：**B. Cannabis intoxication**
+> - 错因：**pattern** — 看到"派对 + 大学生 + 偶饮"反射性选 cannabis，没系统识别 stimulant + SS 的指纹特征
+> - 核心陷阱链：
+>   - ☑ **忽略 hyperthermia 40°C**（cannabis 不致此）
+>   - ☑ **忽略 myoclonus + DTR 3+**（cannabis 不致此 — 这是 SS 最特异体征）
+>   - ☑ **忽略低钠 122**（MDMA 经典 SIADH + 过量饮水）
+>   - ☑ **没识别 sertraline + MDMA = SS 放大器**
+> - **核心教训**：派对场景 + 高热 + 肌阵挛 + 反射亢进 + SSRI 用户 → **永远首想 serotonin syndrome / MDMA**（不是 cannabis）
+>
+> ## Memory Hook
+>
+> > [!success] 一句话锁定
+> > **"派对 + SSRI 用户 + 高热 + myoclonus + 反射亢进 + 低钠" = MDMA + Serotonin Syndrome**
+>
+> **MDMA 四字诀**：
+> - **"派热挛钠"** = 派对 + 高热 + 肌阵挛 + 低钠
+> - **"湿热抖低"** = 湿出汗 + 高热 + 抖肌阵挛 + 低钠
+>
+> **三大高热综合征口诀**：
+> - **5-HT** = "**湿热抖**"（湿 + 热 + 肌阵挛）
+> - **抗胆碱** = "**干热不抖**"（干 + 热 + 反射正常）
+> - **NMS** = "**湿热僵**"（湿 + 热 + 铅管样僵硬）
+>
+> **派对药 4 兄弟鉴别**：
+> - 肌阵挛 → **MDMA**
+> - 眼震 → **PCP**
+> - 鼻血 / 鼻中隔穿孔 → **Cocaine**
+> - 针尖瞳孔 → **Opioid**
+>
+> **MDMA 三胺合一武器**："NE 推血压 + DA 推奖赏 + 5-HT 推 SS"
+>
+> **苯丙胺家族记忆**：MDMA 是**爱**（5-HT 共情）/ 冰毒是**疯**（DA 暴力 + 烂牙）
+>
+> **MDMA 低钠双管齐下**：drug-induced SIADH + 用户主观觉得热**疯狂饮水降温** → dilutional hyponatremia → seizure
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q：MDMA 怎么导致 hyponatremia？
+>   - 学到：双机制 — ① drug-induced SIADH（ADH 释放）+ ② 用户主观觉得热 / 出汗，疯狂饮水补充 → dilutional hyponatremia。低钠到 122 时引发 seizure。
+> - Q：DPH 过量也有 hyperthermia / HTN / seizure，怎么区分 MDMA？
+>   - 学到：**Anticholinergic = 干**（皮肤干 + 黏膜干 + 肠鸣音 ↓ + anhidrosis）；MDMA / SS = **湿**（diaphoretic + 肠鸣音 ↑）。"干红怒热"是 anticholinergic 指纹。
+> - Q：为什么 MDMA 不在 urine amphetamine 筛查里查出？
+>   - 学到：MDMA 是 amphetamine 的"合成衍生物"，常规免疫筛查（针对 d-amphetamine）catch 不到结构差异大的衍生物。bath salts / cathinone / 合成大麻同理。**临床表现优先于 tox 阴性**。
+> - Q：SS 三联 vs NMS 怎么分？
+>   - 学到：SS = **hyperreflexia + myoclonus + 起病急（小时内）+ 5-HT 类药**；NMS = **铅管样肌强直 + bradyreflexia + 起病慢（天）+ 抗精神病药**。两者都有高热 / AMS / 自主神经亢进。
+> - Q：MDMA vs 冰毒 vs Adderall 怎么区分？
+>   - 学到：① MDMA 5-HT 主导（共情 + SS + 低钠 + 派对）② 冰毒 DA 主导（暴力 + 精神病 + 烂牙 + 长效 8-24h）③ Adderall NE+DA（ADHD 处方 + 体重 ↓）。看场景 + 街名 + 特异并发症。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q3189]] Heroin 戒断（同日入库 — vital signs 是关键鉴别；本题 = 中毒 hyperthermia，Q3189 = 戒断 vitals 正常，正好成对）
+>   - [[mistakes/uworld-mistakes#^Q3187]] AWS withdrawal seizure（同日做对 — 戒断相关 seizure vs 本题中毒相关 seizure）
+>   - 等积累更多 cocaine / amphetamine / DPH / cholinergic / SS / NMS / 低钠错题后横向连接
+> - 📚 主笔记：
+>   - [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]] ⭐ **本错题触发新建**（v1 含 6 大物质中毒鉴别 + SS/NMS/MH 三联 + 干湿对照）
+>   - [[完整笔记/Peixuan分科笔记/psych]] §SS L610-644（三联完整 + cyproheptadine）/ SUD 表 L1118-1124（扩展加 MDMA + 抗胆碱 + PCP 行）
+>   - [[完整笔记/专题笔记/psych_成瘾药物对照表]]（戒断 / 维持期 / 急救药 — MDMA 不在本笔记定位内，仅跨链）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/neuro]] L7490-7498 MH vs NMS vs SS 三联鉴别表（本错题触发扩展）/ L12023 NMS 小节（加 SS 反链）/ L6401 Myoclonus 段（加 SS 成因）
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（**SIADH 机制 + 低钠鉴别 → MDMA 是 SIADH 特殊病因**）
+>   - [[完整笔记/Peixuan分科笔记/感染]]（高热鉴别 — 中毒 vs 感染 vs SS vs NMS vs MH）
+> - 🌱 TODO：
+>   - ✅ 新建 [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]]（v1 = 2026-05-19，本错题触发；含 6 大物质中毒鉴别 + SS/NMS/MH 三联 + 干湿对照 —— 涵盖草稿原 TODO 的"滥用药物中毒综合征速查"+"4 大高热综合征鉴别"两项）
+>   - ✅ psych.md 中毒表 L1118-1124 扩展（加 MDMA + 抗胆碱 + PCP 3 行 + 反链）
+>   - ✅ neuro.md L7490 表升级为三联（含 SS）+ L12023/L6401 加反链
+>   - 待积累：累积 SIADH 错题 5+ 道后 → 单独衍生 [[完整笔记/专题笔记/肾脏_低钠血症鉴别决策树]]（MDMA / SSRI / HF / 肝硬化 / Addison 全谱）
+>   - 待积累：累积 amphetamine 家族错题（冰毒 / Adderall）后 → 考虑加 [[完整笔记/专题笔记/psych_苯丙胺家族鉴别表]] 单独衍生
+>
+> ## ✅ 复盘行动
+>
+> - [ ] 1 周后重做 Q11853，目标 20 秒锁定 MDMA + SS
+> - [ ] 默写滥用药物中毒 6 大鉴别表（瞳孔 / 体温 / HR / 汗 / 反射 / 标志 / 实验室）
+> - [ ] 默写 4 大高热综合征鉴别（SS vs NMS vs 抗胆碱 vs 恶性高热）+ 各自解药
+> - [ ] 默写苯丙胺家族鉴别（MDMA vs 冰毒 vs Adderall — 主要释放 / 场景 / 特异并发症）
+> - [ ] 默写 MDMA "派热挛钠" / "湿热抖低" 四字诀
+> - [ ] 默写派对药 4 兄弟（肌阵挛 / 眼震 / 鼻血 / 针尖瞳孔）
+> - [ ] 复习 SIADH 病因清单（药物 / 肺癌 / 颅内 / 疼痛 / 恶心）
+> - [ ] 找 3 道类似题：搜 "MDMA" / "serotonin syndrome" / "amphetamine intoxication"
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: MDMA 中毒 + Serotonin Syndrome / 苯丙胺家族鉴别（MDMA vs 冰毒 vs Adderall）/ 4 大高热综合征 / 派对药 4 兄弟
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-05-19] Psych / DSM-5 焦虑障碍鉴别 — SAD vs Specific Phobia vs Panic vs Agoraphobia (Q8909)
+> ^Q8909
+>
+> ## Stem 模式
+> 青年 / 中年女性 + 工作 / 社交场合反复 panic-like 发作（颤抖、出汗、胸闷、几乎晕厥）+ 起病于青少年期 + 核心恐惧 = "怕被人觉得无能 / 出丑" + 回避目光接触 → **Social Anxiety Disorder (SAD), performance-only subtype**。
+>
+> ## 核心概念
+> **DSM-5 焦虑障碍鉴别的核心 = "怕什么"**，不是"在哪发作"。
+> - SAD = 怕**被负面评价**（在社交 / 表现情境）
+> - Specific phobia = 怕**特定物 / 情境本身**
+> - Panic disorder = 怕**下一次 unexpected 发作**
+> - Agoraphobia = 怕**逃不掉 / 求救无门**
+> - GAD = 怕"**样样都担心**"（多领域弥漫性）
+> - Somatic symptom disorder = 怕**躯体症状本身**
+>
+> ## 普适规则 — DSM-5 焦虑障碍鉴别速查表
+>
+> | 障碍 | 恐惧对象 | 触发模式 | 病程 | Stem 关键词 |
+> |---|---|---|---|---|
+> | **GAD** | 多领域担忧（健康 / 钱 / 家人 / 工作）| 弥漫性 | ≥6 个月 | "chronic worries", "multiple things", "can't control worry" |
+> | **Panic Disorder** | "再次发作"本身 | **Unexpected**（无诱因，睡梦中可发）| ≥1 个月担心 + 反复 | "out of the blue", "wakes up with panic", "fear of dying" |
+> | **SAD** | **被负面评价** | 社交 / 表现场合 | ≥6 个月 | "embarrassment", "scrutiny", "make a fool", "incompetent", "judged" |
+> | **Specific Phobia** | **特定物 / 情境本身** | 接触刺激 | ≥6 个月 | 怕的就是那个东西（蛇 / 血 / 电梯 / 飞机）|
+> | **Agoraphobia** | **逃不掉 / 没人救** | ≥2 类 "TOECC" 场合 | ≥6 个月 | "can't escape", "no help available", "trapped", "stuck" |
+> | **PTSD** | 创伤线索 | 创伤后 | >1 个月 | "after trauma", "flashbacks", "nightmares" |
+> | **Somatic Symptom Disorder** | **躯体症状本身** | 持续关注症状 | ≥6 个月 | "preoccupied with symptoms" |
+>
+> ## 普适规则 — 三角鉴别：Specific Phobia / Agoraphobia / Panic Disorder（高频陷阱）
+>
+> ```
+>                病人在害怕什么？
+>                      │
+>      ┌───────────────┼───────────────┐
+>      │               │               │
+>  怕"那个东西"      怕"逃不掉"      怕"下一次发作"
+>      │               │               │
+>      ▼               ▼               ▼
+>  Specific        Agoraphobia      Panic Disorder
+>  Phobia
+>  (蛇/血/高/      (TOECC ≥2类       (Unexpected
+>   电梯/飞机)      场合)             起病 + 反复)
+> ```
+>
+> **决策 SOP**（看到 panic-like 发作的 stem，按顺序问）：
+> 1. **有 unexpected panic attack 史吗？** → 有 = Panic disorder 锁定（再加查 agoraphobia）
+> 2. **怕的对象是什么？** → 物 / 场合本身 = phobia；"逃不掉" = agoraphobia；"被评价" = SAD
+> 3. **症状泛化到几类场合？** → 1 类 = specific phobia；≥2 类 "TOECC" 主题 = agoraphobia
+>
+> ## 普适规则 — 完整决策树（3 步锁定诊断）
+>
+> ```
+> 病人有 panic / 焦虑发作
+>         │
+>         ▼
+> Step 1: 这些发作是 UNEXPECTED 还是有触发？
+>         │
+>    ┌────┴────┐
+>    │         │
+> Unexpected  有触发
+>    │         │
+>    ▼         ▼
+> Panic    Step 2: 触发的是什么？
+> disorder         │
+>    +      ┌──────┼──────┬──────────┐
+> 检查是否   │      │      │          │
+> 合并    具体物  逃不掉  社交评价   躯体症状
+> agoraphobia │   │      │          │
+>            ▼   │      ▼          ▼
+>         Step 3: │   SAD         Somatic
+>         几个    │              Symptom
+>         场合？  │              Disorder
+>            │    │
+>       ┌────┴────┐
+>       1 个     ≥2 类
+>       │        "TOECC"
+>       ▼        │
+>   Specific     ▼
+>   phobia    Agoraphobia
+> ```
+>
+> ## 普适规则 — "怕什么"四向决策树（精神科鉴别通用 SOP）
+>
+> ```
+>             病人最害怕的对象是什么？
+>                     │
+>      ┌──────┬───────┼───────┬──────────┐
+>      │      │       │       │          │
+>   特定物  社交     "再次     逃不掉/   躯体
+>   /情境  评价     发作"     没人救    症状
+>      │      │       │       │          │
+>      ▼      ▼       ▼       ▼          ▼
+>   Specific SAD    Panic   Agoraphobia Somatic
+>   Phobia          Disorder            Symptom
+>                                       Disorder
+>
+>   关键追问：
+>   ├─ "怕的是那个东西本身，还是怕被人看到/被评价？"
+>   │   → 物本身 = phobia；被评价 = SAD
+>   ├─ "发作有诱因吗？还是 out of the blue？"
+>   │   → 有诱因 = 找诱因对应诊断；unexpected = panic disorder
+>   ├─ "怕场合本身，还是怕'在场合里出事没人救'？"
+>   │   → 场合本身 = phobia；逃不掉 = agoraphobia
+>   └─ "焦虑围绕症状本身，还是围绕'被评价/逃脱/再发作'？"
+>       → 围绕症状 = SSD
+> ```
+>
+> ## 普适规则 — Specific Phobia vs Agoraphobia 细分（高频陷阱）
+>
+> ```
+>           涉及"情境"的恐惧
+>                 │
+>         ┌───────┴────────┐
+>         │                │
+>    只怕 1 类情境       怕 ≥2 类情境
+>    + 怕情境本身       + 怕"逃不掉/求救无门"
+>    （如怕电梯坠落）    （TOECC 5 类中 ≥2）
+>         │                │
+>         ▼                ▼
+>     Specific         Agoraphobia
+>     Phobia
+>     (situational)
+> ```
+>
+> ## 普适规则 — "怕坐地铁 panic" 类 stem 分流（提问沉淀）
+>
+> ```
+> "怕坐地铁突然 panic，所以不敢坐"
+>             │
+>             ▼
+>     问：有无 unexpected 发作史？
+>             │
+>      ┌──────┴──────┐
+>      有             无
+>      │              │
+>      ▼              ▼
+>  Panic Disorder   问：只怕地铁还是多场合都怕？
+>  （+ 可能合并         │
+>    agoraphobia       │
+>    如果泛化）   ┌────┴────┐
+>              只怕地铁    ≥2 类 + 怕"逃不掉"
+>              + 怕地铁     │
+>                本身       ▼
+>                │        Agoraphobia
+>                ▼
+>            Specific
+>            Phobia
+>            (situational)
+> ```
+>
+> ### Agoraphobia 5 大场景（TOECC）
+> 1. **T**ransportation（公交 / 地铁 / 飞机）
+> 2. **O**pen spaces（停车场 / 桥 / 市场）
+> 3. **E**nclosed places（商店 / 电影院）
+> 4. **C**rowds / lines（人群、排队）
+> 5. **C**oming outside home alone（独自外出）
+>
+> 诊断需 **≥2 类**。
+>
+> ### Specific Phobia 5 大亚型
+> Animal / Natural environment / **Blood-injection-injury**（唯一可有 vasovagal 反应）/ Situational / Other
+>
+> ### SAD 内部分型
+>
+> | 亚型 | 触发情境 |
+> |---|---|
+> | **Generalized SAD** | 多种社交场合（聚会、对话、点餐、用公厕）|
+> | **Performance-only SAD** ⭐ | 仅在表现情境（演讲、表演、考试）|
+>
+> ## 易混陷阱（普适）
+>
+> > [!danger] 陷阱 1：Panic attack ≠ Panic disorder
+> > Panic attack 是**症状**，可见于多种障碍；Panic disorder **必须** unexpected + 反复 + 担心再发作。
+>
+> > [!danger] 陷阱 2："Public speaking fear" ≠ Specific phobia ❌（我犯的错）
+> > DSM-5 明确归为 **SAD performance-only subtype**。判断标准看"怕场合里的什么"：**怕被评价 = SAD**；怕物本身 = phobia。
+>
+> > [!warning] 陷阱 3：Situational specific phobia vs Agoraphobia
+> > 都涉及"情境"。区别：phobia 怕 **1 种**情境本身；agoraphobia 怕 **≥2 类** + 核心主题是"逃不掉 / 没人救"。
+>
+> > [!warning] 陷阱 4："怕坐地铁突然 panic" ≠ Panic disorder
+> > 这是**预期性焦虑**。Panic disorder 诊断核心是"**有无 unexpected 发作史**"：
+> > - 有 unexpected → Panic disorder
+> > - 无 unexpected + 只怕地铁本身 → Specific phobia (situational)
+> > - 无 unexpected + 怕"地铁上下不了车" + 怕多场合 → Agoraphobia
+>
+> > [!warning] 陷阱 5：躯体症状（颤抖 / 出汗 / 胸闷）≠ Somatic Symptom Disorder
+> > 看病人焦虑的"**对象**"：焦虑的对象是**症状本身** 才是 SSD；本题症状是焦虑的**结果**，不是对象。
+>
+> > [!warning] 陷阱 6：看到 "chronic anxiety" 不要直接选 GAD
+> > GAD 必须是**多领域**弥漫性担忧，单领域焦虑（如仅工作）不符合。
+>
+> ## 我为什么错
+>
+> - 选了：**E. Specific phobia**
+> - 错因：**知识** — 概念混淆（specific phobia vs SAD 的恐惧对象搞反）+ 没抓 stem 关键词
+> - 我的思路："怕在公开场合说话 → 公开场合 = 特定情境 → specific phobia"
+> - 根本错因链：
+>   - ☑ **概念混淆**：specific phobia 怕的是**物 / 情境本身**（如怕讲台、怕话筒）；SAD 怕的是**被评价**（"think I'm incompetent" / "make a fool of myself"）
+>   - ☑ **没抓 stem 关键词**：忽略了直接定义 SAD 的两句话："think I'm incompetent" / "make a fool of myself" + "everyone can see"
+> - **核心教训**：中文语境下"怕在公开场合说话"听起来像"怕一个情境"（→ phobia），但 DSM-5 把 public speaking 明确归为 SAD performance-only。**判断标准不是"怕什么场合"，而是"怕场合里的什么"** —— 怕评价 = SAD。
+>
+> ## Memory Hook
+>
+> > [!success] 一句话锁定
+> > - **Specific phobia** = "**怕这个东西**"（一个人在家也怕飞机）
+> > - **Agoraphobia** = "**怕没退路**"（怕被困、求救无门）
+> > - **Panic disorder** = "**怕下一次**"（怕 unexpected 发作再袭来）
+> > - **SAD** = "**怕那些看着我的眼睛**"（对着空房间练习不怕，有听众崩溃）
+>
+> **类比挂钩**：
+> - 怕**狗咬我** = Specific phobia（狗是威胁源）
+> - 怕**电梯故障被困** = Agoraphobia（情境是陷阱，且通常 ≥2 类）
+> - 怕**心脏突然乱跳要死** = Panic disorder（身体本身是威胁源）
+> - 怕**被听众觉得蠢** = SAD（评价是威胁源）
+>
+> **英文口诀**：
+> - **S**AD → **S**crutiny **A**nd **D**efamation（被审视 + 怕丢脸）
+> - **S**pecific phobia → **S**pecific **S**timulus（特定刺激）
+> - **A**goraphobia → **A**ssistance unavailable（求救不能）
+> - **P**anic disorder → **P**redicting next **P**anic（预期下次发作）
+> - **Agoraphobia 5 场景** → **TOECC**
+>
+> **Stem 触发词锁定**：
+> - "make a fool" / "embarrassment" / "incompetent" / "judged" → **SAD**
+> - "out of the blue" / "unexpected" / "wakes up with panic" → **Panic disorder**
+> - "afraid of [具体名词]" / "since childhood, fears [蛇 / 血]" → **Specific phobia**
+> - "can't escape" / "no help available" / "trapped" / 多场合 → **Agoraphobia**
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q：specific phobia / agoraphobia / panic disorder 还是分不清？
+>   - 学到：三者核心区别是"**怕什么**" —— 物 / 场合本身（phobia）vs 逃不掉（agoraphobia）vs 下一次发作（panic disorder）。Agoraphobia 必须 ≥2 类场合 + "TOECC" 主题。
+> - Q：怕坐地铁突然 panic 所以不敢坐地铁，是 panic disorder 吗？
+>   - 学到：**不一定**。关键看有无 **unexpected panic 史**：
+>     - 有 unexpected → Panic disorder（+ 可能 agoraphobia）
+>     - 无 unexpected + 只怕地铁本身 → Specific phobia (situational)
+>     - 无 unexpected + 怕"逃不掉" + ≥2 场合 → Agoraphobia
+>     - "怕在 X 场合 panic" 本身只是**预期性焦虑**，不是诊断
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：（首题，psych 焦虑障碍鉴别第一道，等后续积累）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/psych]] §焦虑障碍 / §Anxiety Disorders（DSM-5 焦虑谱系）
+> - 🏥 跨学科：暂无（纯精神科鉴别）
+> - 🌱 TODO（待生成衍生）：
+>   - 等 psych 焦虑 / 强迫 / 创伤章节复习完后（积累 5-8 道相关错题）→ 整合 DSM-5 焦虑谱系鉴别错题 → 生成 [[完整笔记/专题笔记/psych_DSM5焦虑障碍鉴别决策树]]（含 4 维决策：恐惧对象 / 触发模式 / 病程 / Stem 关键词）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q8909（盲选，看是否仍会选 E）
+> - [ ] 默写 **DSM-5 七大焦虑障碍"恐惧对象"对比表**（不看笔记）
+> - [ ] 默写 **Specific phobia / Agoraphobia / Panic disorder 三角决策 SOP**
+> - [ ] UW 找 3 道类似题：搜 "social anxiety" / "panic disorder differential" / "agoraphobia"
+> - [ ] 建立"**怕什么**"快速判断习惯：每次精神科鉴别题先问"病人真正害怕的对象是什么？"
+> - [ ] 在 [[完整笔记/Peixuan分科笔记/psych]] 焦虑章节加「薄弱点」
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: DSM-5 焦虑障碍鉴别 / SAD vs Specific Phobia vs Panic vs Agoraphobia / "怕什么"快速判断 / TOECC 助记
 > 状态:: 🟡
 > 错因:: 知识
 
