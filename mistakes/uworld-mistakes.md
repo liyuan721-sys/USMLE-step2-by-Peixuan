@@ -9640,12 +9640,15 @@
 > > **6**h 颤 / **12**h 抽（seizure）/ **12**h 幻（hallucinosis）/ **48**h 谵（DT）
 > > → 越晚出现越严重，DT 可致死。
 >
-> > [!tip] AWS seizure 用药"GABA 三兄弟"
-> > - **BZD**（一线）= GABA-A 激动 → 直接补抑制
-> > - **Phenobarbital**（二线/SE）= GABA-A 也激动 → 加倍补
-> > - **Phenytoin**（❌）= Na 通道，**不沾 GABA** → 用错地方
+> > [!tip] AWS seizure 用药"抗惊厥三候选" — 机制分两派
+> > 三个都是 seizure 题常见选项（共同点是抗惊厥药，**不是**都沾 GABA），但机制分两派：
+> > - **GABA 派**（沾 GABA-A → 对 AWS 有效 ✅）
+> >   - **BZD**（一线）= GABA-A 激动 → 直接补抑制
+> >   - **Phenobarbital**（二线 / SE）= GABA-A 也激动 → 加倍补
+> > - **Na 通道派**（不沾 GABA → 对 AWS 无效 ❌）
+> >   - **Phenytoin** = Na 通道阻断 → 作用点错
 > >
-> > 三兄弟中**只有沾 GABA 的对 AWS seizure 有效**。
+> > AWS seizure = GABA 失衡 → **只有 GABA 派有效**；Phenytoin 是经典抗癫痫药（所以才成为高频干扰项），但治不了 AWS。
 >
 > ---
 >
@@ -10806,4 +10809,264 @@
 > 主题:: Bipolar 维持治疗 Stable ≠ Stop / BPS 三兄弟终身维持 / 精神科维持时长对照 / 共情但不让步沟通 SOP
 > 状态:: 🟡
 > 错因:: 知识
+
+> [!example]- [2026-05-19] Psych / AUD 药物治疗 — Acamprosate vs Disulfiram (Q15104)
+> ^Q15104
+>
+> ## Stem 模式
+> 中年女性 AUD，戒酒 2 周，**有 occasional cravings + 担心 relapse**，无 withdrawal 症状（no anxiety / shakiness），无肝病 / 阿片药 / 其他用药 → 问 most appropriate pharmacotherapy。
+>
+> ## 核心概念
+> **Acamprosate（first-line）= glutamate modulator，降低 craving + 减少复发。**
+> AUD 药物治疗默认从 first-line（Naltrexone / Acamprosate）开始，**Disulfiram 是 second-line 威慑药**。
+>
+> ## 普适规则 — AUD 药物决策树
+>
+> ```
+> moderate-severe AUD 需要药物
+>         │
+>         ├── 有 withdrawal 症状（震颤/焦虑/出汗/seizure 风险）?
+>         │       └── Yes → Benzodiazepine（短期脱毒，不是长期 AUD 治疗）
+>         │
+>         ├── 已戒酒 + 有 craving / 复发风险?（first-line）
+>         │       ├── 肝病 / 用阿片药 → Acamprosate（肾排泄，肝安全）
+>         │       ├── 肾病 → Naltrexone
+>         │       └── 都无禁忌 → Naltrexone 或 Acamprosate 均可
+>         │
+>         └── First-line 失败 + highly motivated + supervised?
+>                 └── Disulfiram（second-line，威慑机制）
+> ```
+>
+> ## 普适规则 — AUD 三大药物对比
+>
+> | 药物 | 机制 | Line | 关键 Stem 线索 | 禁忌 / 注意 |
+> |---|---|---|---|---|
+> | **Acamprosate** | Glutamate modulator (mGluR5) | 1st | craving / relapse fear / **liver disease** / **on opioids** | 肾功能不全需调量 |
+> | **Naltrexone** | μ-opioid receptor antagonist | 1st | craving / relapse fear / 无肝病 | **肝病禁忌** / **阿片药禁忌**（拮抗）|
+> | **Disulfiram** | Aldehyde DH inhibitor（乙醛堆积 → 难受）| 2nd | **failed first-line** + **highly motivated** + **supervised** | 单独这 3 条不全 → 不选 |
+>
+> ## 普适规则 — Disulfiram 选 vs 不选
+>
+> | 选 Disulfiram | 不选 Disulfiram |
+> |---|---|
+> | "failed naltrexone and acamprosate" | 没提 first-line 失败 |
+> | "highly motivated" / "committed to sobriety" | 患者有 craving / 担心 relapse（意志在动摇）|
+> | "wife administers medication" / "supervised" | 无人监督服药 |
+> | 三条同时满足 | 缺任何一条 → 回 first-line |
+>
+> ## 易混陷阱（普适）
+>
+> | 陷阱 | 真相 |
+> |---|---|
+> | "戒酒 2 周了，可以上更强力的 Disulfiram" | ❌ Disulfiram 不是更强，是 **second-line**。戒酒时长不决定 line。|
+> | "Motivated = 想喝酒，所以需要 Disulfiram 威慑" | ❌ Motivated = **戒酒决心铁**。Disulfiram 给"自律狂魔"用。|
+> | "有 craving = 严重 AUD = Disulfiram" | ❌ 有 craving = 需要 **anti-craving 药**（Acamp / Naltrex）。Disulfiram 不降 craving。|
+> | "Benzodiazepine 可以长期治 AUD" | ❌ 只用于**急性 withdrawal 脱毒**，本身有滥用风险。|
+> | "Fomepizole / Naloxone 治 AUD" | ❌ Fomepizole = methanol / ethylene glycol 中毒解毒；Naloxone = 阿片过量。|
+>
+> ## 我为什么错
+>
+> - 选了：**C. Disulfiram**
+> - 错因：**知识** — 概念混淆 + 不知道 line 层级 + Motivated 反向理解
+> - 我的思路：看到"戒酒 2 周"觉得患者稳定，可以用"更狠"的药；有 craving 怕 relapse 觉得需要"威慑"。
+> - 根本错因链：
+>   - ☑ **概念混淆**：把 Disulfiram 的"威慑"误以为是"降低 craving"
+>   - ☑ **不知道 line 层级**：没意识到 Disulfiram 是 second-line，需要前线失败 + motivated + supervised 三必备
+>   - ☑ **Motivated 反向理解**：以为 motivated 是"想喝酒"，其实是"戒酒决心铁"
+> - **核心陷阱**：Disulfiram **不降 craving**，只靠"喝了会难受"威慑 → 需要患者意志力极强 + 有人监督防作弊。有 craving 的患者恰恰需要药物**主动降低 craving**（Acamp / Naltrex），不是依赖意志力。
+>
+> ## Memory Hook
+>
+> > [!success] 一句话锁定
+> > Disulfiram = **"三必备"才能选** —— 前线失败 + 铁了心戒 + 有人盯着吃。缺一不选。
+>
+> **类比**：
+> - Disulfiram = **"电子镣铐"**：约束行为，但停药就能挣脱 → 必须是自己不想挣脱（motivated）+ 有人防作弊（supervised）的人才有用。
+> - Acamp / Naltrex = **"调低音量"**：直接让"想喝"的冲动变小，不依赖意志力。
+>
+> **口诀**：
+> - **Craving → Acamprosate / Naltrexone**（first-line）
+> - **Liver / Opioid → Acamprosate**
+> - **Failed + Motivated + Supervised → Disulfiram**
+> - **Withdrawal → Benzo**（短期脱毒）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q：戒酒 2 周了为什么不能选 Disulfiram？
+>   - 学到：戒酒时长不决定药物 line。Disulfiram 是 second-line，需要 first-line 失败才考虑。
+> - Q：Highly motivated 是说患者想喝酒？
+>   - 学到：❌ 反了。Motivated = **戒酒决心极强**。Disulfiram 依赖患者意志力，所以需要 motivated 的人才有效。
+> - Q：Disulfiram 基本只用于前两个无效是吧？
+>   - 学到：✅ 正确。而且还要额外满足 motivated + supervised 两个条件。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q12541]] AUD 一线药 — Bupropion 误选 → 正解 Naltrexone（同 AUD 维持期用药主题）
+>   - [[mistakes/uworld-mistakes#^Q3187]] AWS withdrawal seizure（同 alcohol 主题 — 本题 = 维持期 / Q3187 = 急性戒断期）
+>   - 可横向关联：Opioid use disorder 药物（Methadone / Buprenorphine / Naltrexone）、Smoking cessation（Varenicline / Bupropion / NRT）
+> - 📚 主笔记：
+>   - [[完整笔记/专题笔记/psych_成瘾药物对照表]] §1.3 维持期 3 药对比（本题已同步 Disulfiram 三必备 + 不降 craving 陷阱）
+>   - [[完整笔记/Peixuan分科笔记/psych]]（AUD 章节）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/消化腺]]（酒精性肝病 / 酒精性胰腺炎背景 — 肝病 → 选 Acamprosate）
+> - 🌱 TODO：
+>   - ✅ 衍生 [[完整笔记/专题笔记/psych_成瘾药物对照表]] 已存在并已同步本题增量（原草稿 TODO 设想的"成瘾药物治疗对照表"即此笔记）
+>   - ✅ AUD 药物决策树已并入 psych_成瘾药物对照表 §1.3 / §5
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q15104
+> - [ ] 默写 AUD 药物决策树（4 分支：withdrawal / first-line / 肝病-阿片特殊 / second-line 三必备）
+> - [ ] 默写 Disulfiram **三必备条件**（failed first-line + motivated + supervised）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/psych]] 的 AUD 章节加「薄弱点」
+> - [ ] 找 3 道类似题：① Naltrexone vs Acamprosate 选择（肝病 / 阿片场景）② Disulfiram 正确答案题 ③ AUD withdrawal 用 Benzo 题
+> - [ ] 顺手复习：Fomepizole（methanol / ethylene glycol 中毒）、Naloxone（阿片过量）适应症，避免被干扰项骗
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: AUD 药物治疗 / Acamprosate vs Naltrexone vs Disulfiram / Disulfiram 三必备 / first-line vs second-line
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!success]- [2026-05-19] Psych / 人格障碍 — Paranoid Personality Disorder ✅做对 (Q16309)
+> ^Q16309
+>
+> ## Stem 模式
+> 中年女性，**长期弥漫性不信任**（不信医生想"骗钱"、不信伴侣想"骗遗产"、独居从未结婚）+ 就诊时**警觉防御**（gaze fixated、constricted affect、只同意 breast exam 拒绝全面检查）+ 无幻觉 / 妄想 / 怪异信念 → 问 best explains behavior。
+>
+> ## 核心概念
+> **Paranoid Personality Disorder (PPD)** = 早成年起持续存在的**泛化怀疑与不信任**模式，**无明确妄想 / 幻觉 / 怪异信念**，自我功能受影响。Cluster A "Weird"。
+>
+> ## 普适规则 — Cluster A "Weird 三兄弟"决策树
+>
+> ```
+> Cluster A 古怪型人格障碍
+>         │
+>         ├── 核心是「不信任 + 怕被害」?（无怪异信念/幻觉）
+>         │       └── Paranoid PD
+>         │           关键词：distrust / exploit / suspicious / grudge
+>         │
+>         ├── 核心是「社交冷漠 + 享受独处」?（情感平淡，不渴望关系）
+>         │       └── Schizoid PD
+>         │           关键词：loner / detached / flat affect / 对关系无兴趣
+>         │
+>         └── 核心是「古怪信念 + 魔法思维 + 知觉异常」?（亚临床精神病性）
+>                 └── Schizotypal PD
+>                     关键词：telepathy / sixth sense / odd speech / magical thinking
+> ```
+>
+> ## 普适规则 — Cluster A 三兄弟对比
+>
+> | 特征 | **Paranoid** | **Schizoid** | **Schizotypal** |
+> |---|---|---|---|
+> | 核心 | **不信任**（distrust）| **冷漠独处**（detachment）| **古怪**（oddness）|
+> | 社交回避原因 | 怕被害 | 不感兴趣 | 古怪 + 社交焦虑 |
+> | 怪异信念 / 魔法思维 | ❌ | ❌ | ✅ |
+> | 知觉异常（错觉）| ❌ | ❌ | ✅ |
+> | 情感 | 警觉、敌意 | 平淡、疏离 | 受限、不合时宜 |
+> | 与精分关系 | 远 | 中 | **近**（spectrum）|
+>
+> ## 普适规则 — PPD vs Delusional Disorder (persecutory) ⭐ 高频陷阱
+>
+> | 维度 | **Paranoid PD** | **Delusional Disorder (persecutory)** |
+> |---|---|---|
+> | 信念性质 | **泛化怀疑**（generalized）| **固定妄想**（fixed）|
+> | 信念强度 | "可能想害我"（**可动摇**）| "**确信**邻居用微波监视我"（不可动摇）|
+> | 具体程度 | 模糊、广泛对象 | 具体、聚焦对象 |
+> | 现实检验 | 部分保留 | 对该妄想**完全丧失** |
+> | 病程 | **终身 pattern**（早成年起）| **≥ 1 个月** 即可诊断 |
+> | 其他功能 | 全面影响人际 | **除妄想外功能正常**（标志特征）|
+>
+> > 一句话区分：PPD = "**世界上的人**普遍不可信"（弥漫）；Delusional D = "**XX 具体在害我**"（聚焦）
+>
+> ## 普适规则 — PPD vs Avoidant PD ⭐ 另一高频混淆
+>
+> | | **Avoidant PD**（Cluster C）| **Paranoid PD**（Cluster A）|
+> |---|---|---|
+> | 回避原因 | **怕被拒绝**（self-esteem 低）| **怕被害**（怀疑他人动机）|
+> | 内心渴望 | **渴望关系但不敢** | **不想要关系**（觉得危险）|
+> | 自我评价 | 低自尊、自卑 | 正常或偏高 |
+> | 对他人态度 | "我配不上他们" | "他们想害我" |
+>
+> ## 普适规则 — PPD 医患关系处理（USMLE 额外考点）
+>
+> > [!info] PPD 患者就诊时，医生应该：
+> > - ✅ **Take a nondefensive stance**（不防御不争辩）
+> > - ✅ **Carefully explain procedures**（详细解释每一步原因）
+> > - ✅ **Build rapport slowly**（慢慢建立信任）
+> > - ✅ **Acknowledge concerns**（承认担忧，不否定）
+> > - ❌ 不要直接否认他们的怀疑
+> > - ❌ 不要急着做侵入性检查
+>
+> ## 易混陷阱（普适）
+>
+> | 陷阱 | 真相 |
+> |---|---|
+> | "怀疑别人 = Delusional Disorder" | ❌ 必须是**固定、具体、不可动摇**的妄想才是 delusional。泛化怀疑 = PPD。|
+> | "独居未婚 = Schizoid" | ❌ 看原因。**怕被害** → PPD；**不感兴趣** → Schizoid。|
+> | "回避社交 = Avoidant" | ❌ 看原因。**怕被拒** → Avoidant；**怕被害** → Paranoid。|
+> | "PPD 必须有妄想" | ❌ PPD **没有妄想**。一旦有 fixed delusion，应考虑 delusional disorder / 精分。|
+> | "古怪 + 不信任 = PPD" | ❌ 有**古怪信念 / 魔法思维** → Schizotypal；只是不信任无古怪 → PPD。|
+>
+> ## 我为什么对
+>
+> - 选了：**C. Paranoid personality disorder** ✅
+> - 抓对的关键线索：
+>   - "Doctors always try to find something wrong so they can bill" → 不信任医疗系统
+>   - 怀疑伴侣会 "exploit her for inheritance" → 不信任伴侣
+>   - 长期模式（48 岁了一直这样）→ 人格 pattern 而非急性精神病
+>   - **无幻觉、无怪异信念、无固定具体妄想** → 排除 delusional disorder 和 schizotypal
+> - 仍需巩固的薄弱点：
+>   - ☑ PPD vs Delusional Disorder 的**病程**差异（终身 vs ≥1 月）
+>   - ☑ Avoidant vs Paranoid 的**回避原因**差异（怕被拒 vs 怕被害）
+>   - ☑ Schizoid 是"不想要关系"，不是"怕被害不敢要"
+>
+> ## Memory Hook
+>
+> > [!success] 一句话锁定
+> > PPD = "**世界对我不安好心**" —— 弥漫性不信任 + 无怪异信念 / 幻觉 + 终身 pattern。
+>
+> **类比**：
+> - PPD = **"全世界都欠我"的弥漫警觉**（无具体阴谋对象）
+> - Delusional D = **"邻居 John 用微波监视我"的具体妄想**（聚焦对象）
+>
+> **口诀**：
+> - **Cluster A "Weird 三兄弟"**：
+>   - **P**aranoid = **P**eople are out to get me（不信任）
+>   - **S**chizoid = **S**olitary by choice（独处偏好）
+>   - **S**chizotypal = **S**trange beliefs（古怪信念，离精分最近）
+> - **PPD vs Avoidant**：PPD = "**你**坏"（distrust others）/ Avoidant = "**我**差"（low self-esteem）
+> - **PPD vs Delusional**：弥漫 → PPD；聚焦 → Delusional
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - （本题做对，无主动提问。主动建立了 PPD vs Delusional Disorder + PPD vs Avoidant + Cluster A 三兄弟 三套鉴别框架，固化高频陷阱。）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （首道 personality disorder 题，等后续题积累）
+>   - 可横向关联：其他 Cluster A（Schizoid / Schizotypal）、Cluster B（Borderline / Narcissistic / Histrionic / Antisocial）、Cluster C（Avoidant / Dependent / OCPD）、Delusional Disorder 各型
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/psych]]（personality disorders 章节）
+> - 🏥 跨学科：无
+> - 🌱 TODO（待生成衍生）：
+>   - 短期（高频陷阱，可先建）→ [[完整笔记/专题笔记/psych_PPD_vs_Delusional_Disorder]]（USMLE 最爱二选一）
+>   - 等积累 5+ 道 personality disorder 错题后 → 整合生成 [[完整笔记/专题笔记/psych_人格障碍鉴别速查]]（Cluster A/B/C 全表 + 高频混淆对照：PPD vs Delusional / PPD vs Avoidant / Schizoid vs Avoidant / Schizotypal vs Schizophrenia / Borderline vs Histrionic / OCPD vs OCD 等）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q16309（确认抓的是 pattern 不是单一线索）
+> - [ ] 默写 Cluster A "Weird 三兄弟"核心差异（distrust / detachment / oddness）
+> - [ ] 默写 PPD vs Delusional Disorder 6 个维度对比
+> - [ ] 默写 PPD vs Avoidant PD 的回避原因差异（怕被害 vs 怕被拒）
+> - [ ] 找 3 道类似题：① Schizoid PD 正确答案题 ② Schizotypal PD（odd beliefs / magical thinking）③ Delusional Disorder persecutory type（fixed specific delusion ≥ 1 month）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/psych]] 的 personality disorder 章节加「要做题」（系统刷一遍 10 种 PD）
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Paranoid Personality Disorder / Cluster A 三兄弟鉴别 / PPD vs Delusional Disorder / PPD vs Avoidant PD
+> 状态:: 🟢
+> 错因:: ✅ 做对（知识入库）
 

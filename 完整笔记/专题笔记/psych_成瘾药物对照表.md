@@ -60,7 +60,7 @@ Step 3 — 有无禁忌？
 > [!info] 本章按"用药时间从早到晚"组织
 > §1.1 时间轴 → §1.2 急性戒断（0-72h）→ §1.3 维持期（终身）→ §1.4 Naltrexone 双重身份补丁
 
-### 1.1 时间轴速览 + AWS 4 阶段表
+### 1.1 时间轴速览 + AWS/alcohol withdrawal syndrome 4 阶段表
 
 ```
 时间轴：
@@ -110,7 +110,7 @@ Step 3 — 有无禁忌？
 > [!danger] 陷阱：Phenytoin 治 AWS seizure ❌
 > AWS seizure 是 **GABA-A 受体脱敏 + rebound overexcitation** 引起 → 必须**补 GABA 抑制**（BZD 一线，Phenobarbital 补位）。
 > Phenytoin 是 **Na 通道阻断**（针对过度兴奋的电传导），**作用点错** → 对 AWS seizure 完全无效。
-> "GABA 三兄弟（BZD / Phenobarbital / Phenytoin）中只有沾 GABA 的对 AWS 有效"。
+> 口诀："**抗惊厥三候选**（BZD / Phenobarbital / Phenytoin）都是 seizure 题常见选项，但机制分两派 —— **GABA 派**（BZD + Phenobarbital，沾 GABA-A）vs **Na 通道派**（Phenytoin）；AWS seizure = GABA 失衡 → **只有 GABA 派有效**"。
 
 > [!info] 名字别混：Phenobarbital vs Pentobarbital
 > 都是 barbiturate，名字相似但临床角色完全不同：
@@ -145,6 +145,27 @@ Step 3 — 有无禁忌？
 > - **"Cravings too strong" + still drinking** → **Naltrexone**
 > - **"Already abstinent" + 防复饮 + 肝病** → **Acamprosate**（肝衰也能用！）
 > - **"Highly motivated" + abstinent + 监督环境** → **Disulfiram**
+
+> [!warning] Disulfiram = second-line，"三必备"缺一不选 ⭐（Q15104 触发）
+> 上表 Disulfiram "高动机、监督下用药" 还不够 —— 完整条件是 **3 个必须同时满足**：
+> 1. **First-line 失败**（Naltrexone / Acamprosate 试过无效）
+> 2. **Highly motivated**（戒酒决心铁 —— 不是"想喝酒"！USMLE 反向陷阱）
+> 3. **Supervised**（有人监督服药防作弊，如配偶给药）
+>
+> 缺任何一条 → 回 first-line。
+>
+> **核心机制差异**：Disulfiram **不降 craving**（只靠"喝了难受"威慑）→ 有 craving 的患者恰恰需要 **anti-craving 药**（Acamprosate / Naltrexone 直接降冲动），不该用依赖意志力的 Disulfiram。
+
+> [!tip] AUD 药物决策树（Q15104）
+> ```
+> moderate-severe AUD 需要药物
+>   ├─ 有 withdrawal 症状 → Benzodiazepine（短期脱毒，≠ 长期治疗）
+>   ├─ 已戒酒 + craving / 复发风险（first-line）
+>   │    ├─ 肝病 / 用阿片药 → Acamprosate（肾排泄，肝安全）
+>   │    ├─ 肾病 → Naltrexone
+>   │    └─ 无禁忌 → Naltrexone 或 Acamprosate 均可
+>   └─ first-line 失败 + motivated + supervised → Disulfiram
+> ```
 
 ### 1.4 Naltrexone 双重身份警告 ⚠️（AUD vs OUD 启动时机）
 
@@ -366,7 +387,7 @@ Step 3 — 有无禁忌？
 │   └─ 维持期
 │       ├─ 还在喝 + cravings 强 ──► Naltrexone
 │       ├─ 已戒断 + 防复饮 ───────► Acamprosate（肝病也能用）
-│       └─ 高动机 + 已戒断 + 监督─► Disulfiram
+│       └─ first-line 失败 + 高动机 + 已戒断 + 监督─► Disulfiram（second-line）
 │
 ├─ Nicotine
 │   ├─ 想戒（Quit Day 设定）
@@ -395,6 +416,8 @@ Step 3 — 有无禁忌？
 |---|---|
 | Stem 提 smoking 12 年 + 问 AUD 用药 → 选 Bupropion ❌ | Bupropion 是**戒烟**药，不治 AUD（Q12541 触发本笔记）|
 | Stem 患者 still drinking → 选 Disulfiram ❌ | Disulfiram 要**先戒酒** |
+| AUD 有 craving / 怕复发 → 选 Disulfiram ❌（Q15104）| Disulfiram **不降 craving**；有 craving 用 **anti-craving 药**（Acamprosate / Naltrexone）|
+| 戒酒一段时间 / 患者 motivated → 直接上 Disulfiram ❌（Q15104）| Disulfiram 是 **second-line**，"三必备" = first-line 失败 + motivated + supervised，缺一不选 |
 | AUD + 肝衰 → Naltrexone ❌ | 肝衰用 **Acamprosate**（肾排，肝病安全）|
 | OUD 患者还在用海洛因 → Naltrexone ❌ | 必须**脱毒 7 天**才能用 Naltrexone |
 | 阿片过量 → Naltrexone ❌ | 救命用 **Naloxone**（短效 IV/IM/IN）|
@@ -479,6 +502,9 @@ Step 3 — 有无禁忌？
 > [!question]- Q9：21yo 大学男生派对后 seizure，PMH MDD on sertraline。T 40°C / HR 120 / BP 170/96 / diaphoretic + 肠鸣音↑ + DTR 3+ + myoclonus + Na 122。诊断？为什么不是 cannabis？
 > **MDMA (Ecstasy) intoxication + Serotonin Syndrome**。Cannabis 没有 hyperthermia / myoclonus / hyperreflexia / 低钠。MDMA = synthetic amphetamine（推 NE/DA/5-HT），与 SSRI 合用 → 严重 SS。低钠机制：SIADH + 过度饮水降温。"干 vs 湿" 鉴别：anticholinergic（DPH）= 干（皮肤干 + 肠鸣音↓）；MDMA/SS = 湿（diaphoresis + 肠鸣音↑）。
 
+> [!question]- Q10：中年女性 AUD 戒酒 2 周，occasional cravings + 怕复发，无 withdrawal 症状、无肝病、无阿片药。最佳药物？为什么不是 Disulfiram？
+> **Acamprosate 或 Naltrexone**（first-line anti-craving 药）。**不选 Disulfiram**：① 是 second-line，需 first-line 失败才考虑 ② Disulfiram 不降 craving，只靠"喝了难受"威慑 ③ "三必备"= failed first-line + highly motivated + supervised，本题一条都不满足。有 craving = 需 anti-craving 药主动降冲动，不靠意志力。
+
 ---
 
 ## 关联
@@ -490,6 +516,7 @@ Step 3 — 有无禁忌？
   - [[mistakes/uworld-mistakes#^Q11853]] MDMA + Serotonin Syndrome（SSRI 陷阱）（2026-05-19 入库，跨链 — MDMA 不在本笔记定位，触发 §6 陷阱表 + 跨链建议新建中毒鉴别专题）
   - [[mistakes/uworld-mistakes#^Q12432]] AUD vs AD 鉴别做对（实验室指纹 MCV+AST/ALT 定胜负 — 见 USMLE_实验室指纹大全 §5.5.x）
   - [[mistakes/uworld-mistakes#^Q3382]] AD vs MDD 鉴别 + psychotherapy 一线（精神科治疗"诊断对≠治疗对"同源）
+  - [[mistakes/uworld-mistakes#^Q15104]] AUD 药物治疗 — Acamprosate vs Disulfiram（2026-05-19 入库，触发 §1.3 Disulfiram 三必备 callout + AUD 决策树 + §6 陷阱表 2 行 + §8 Q10）
   - 等积累更多 OUD / Smoking Cessation / AUD 错题后横向连接
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/psych]]（成瘾医学章节）
@@ -556,4 +583,10 @@ Step 3 — 有无禁忌？
   - **图 2**（UW Opioid Withdrawal 4 维度完整表）→ 主笔记 **§3.3** 归位 + 补充图独有 3 点（**time course 警示 / 纯临床诊断 / vital signs 调和**：mild ≠ storm）
   - **图 3**（UW Cholinergic Toxicity DUMBELS）→ [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]] **§6.2** 归位 + 补充 nicotinic effects
   - **错题卡 Q3189** 3 张图说明拆分（每图独立说明 + 各自归位反链）
+- **v1.10（2026-05-19）Q15104 触发 — Disulfiram "三必备" + AUD 决策树**：
+  - **§1.3** 新增 "Disulfiram = second-line 三必备" warning callout（first-line 失败 + motivated + supervised，缺一不选）+ "Disulfiram 不降 craving"机制澄清 + AUD 药物决策树 tip callout
+  - **§5** 大一统决策树 alcohol 维持期 Disulfiram 行加 "first-line 失败" 前提
+  - **§6** 陷阱表 +2 行（有 craving 选 Disulfiram ❌ / 戒酒一段时间就上 Disulfiram ❌）
+  - **§8** 自测题 +Q10（AUD 药物选择 — 为什么不是 Disulfiram）
+  - **关联** 加 Q15104 反链
 - 待补充：随后续错题积累，逐步增补具体陷阱场景与临床决策细节
