@@ -550,7 +550,7 @@ Step 3 — 有无禁忌？
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/psych]]（成瘾医学章节）
 - 🏥 跨学科：
-  - [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]] ⭐ **互补专题**（v1 = 2026-05-19，Q11853 触发新建；本笔记 = 戒断 / 维持 / 急救药，对方 = 中毒急性表现 + SS/NMS/MH）
+  - [[完整笔记/专题笔记/psych_物质急诊速查]] ⭐ **互补专题**（v1 = 2026-05-19，Q11853 触发新建；本笔记 = 戒断 / 维持 / 急救药，对方 = 中毒急性表现 + SS/NMS/MH）
   - [[完整笔记/专题笔记/USMLE_实验室指纹诊断大全]] §5.5 慢性酒精性多系统指纹（MCV↑ + AST/ALT≥2:1 = AUD 指纹）+ §5.5.x AUD vs AD 鉴别
   - [[完整笔记/Peixuan分科笔记/消化腺]]（肝衰影响 Naltrexone 选择；AUD 共病肝硬化）
   - [[完整笔记/Peixuan分科笔记/肾脏]]（CrCl<30 → Acamprosate 禁）
@@ -596,9 +596,9 @@ Step 3 — 有无禁忌？
   - **§6** 陷阱表 +2 行（vital signs 正常 → opioid 戒断 / 派对后 seizure + SSRI → MDMA + SS）
   - **§8** 自测题 +Q8（opioid 戒断 vs BZD 戒断）+ Q9（MDMA + SS）
   - **关联** 加 Q3189 + Q11853 反链
-  - MDMA 不在本笔记定位（戒/维持/急救），仅跨链；TODO 累积 3-5 道中毒/SS/NMS/MH 错题后考虑新建 [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]]
+  - MDMA 不在本笔记定位（戒/维持/急救），仅跨链；TODO 累积 3-5 道中毒/SS/NMS/MH 错题后考虑新建 [[完整笔记/专题笔记/psych_物质急诊速查]]
 - **v1.7（2026-05-19）大规模分科同步 + 互补专题新建**（用户审阅 9 项增量清单后选"都做"）
-  - ⭐ **新建** [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]] **v1**（Q11853 触发；6 大物质中毒 + SS/NMS/MH 三联鉴别 + Anticholinergic vs Cholinergic 干湿对照；与本笔记**互补定位**）
+  - ⭐ **新建** [[完整笔记/专题笔记/psych_物质急诊速查]] **v1**（Q11853 触发；6 大物质中毒 + SS/NMS/MH 三联鉴别 + Anticholinergic vs Cholinergic 干湿对照；与本笔记**互补定位**）
   - **psych.md**：① L1118-1124 中毒表加 **MDMA + 抗胆碱 + PCP** 3 行 ② L476 SS vs NMS 一句话升级反链 ③ L1124 后加 **4 大戒断 vital signs 对比表** + MDMA 简短小节
   - **neuro.md**：① L7490 MH vs NMS 表升级为 **SS vs NMS vs MH 三联鉴别**（USMLE 高频空白补齐）+ 三药角色（Dantrolene / Bromocriptine / Cyproheptadine）+ 速记决策 callout ② L12023 NMS 加 SS 鉴别反链 ③ L6401 Myoclonus 加 **6 大成因鉴别**（SS / 缺氧 / 代谢 / 感染 / 退行 / 抗胆碱）
   - **uworld-mistakes** Q11853 + Q3189 TODO 全部 ✅ + 跨链补强
@@ -610,7 +610,7 @@ Step 3 — 有无禁忌？
 - **v1.9（2026-05-19）Q3189 图归位 ×3**：错题卡 Q3189 用户追加 2 张新图（共 3 张）→ 按双地点工作流归位
   - **图 1**（UW Common Withdrawal Syndromes）→ 主笔记 §4 已归位（v1.7）
   - **图 2**（UW Opioid Withdrawal 4 维度完整表）→ 主笔记 **§3.3** 归位 + 补充图独有 3 点（**time course 警示 / 纯临床诊断 / vital signs 调和**：mild ≠ storm）
-  - **图 3**（UW Cholinergic Toxicity DUMBELS）→ [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]] **§6.2** 归位 + 补充 nicotinic effects
+  - **图 3**（UW Cholinergic Toxicity DUMBELS）→ [[完整笔记/专题笔记/psych_物质急诊速查]] **§6.2** 归位 + 补充 nicotinic effects
   - **错题卡 Q3189** 3 张图说明拆分（每图独立说明 + 各自归位反链）
 - **v1.10（2026-05-19）Q15104 触发 — Disulfiram "三必备" + AUD 决策树**：
   - **§1.3** 新增 "Disulfiram = second-line 三必备" warning callout（first-line 失败 + motivated + supervised，缺一不选）+ "Disulfiram 不降 craving"机制澄清 + AUD 药物决策树 tip callout

@@ -254,7 +254,7 @@ insomnia  （HTN、心动      tonic-clonic）    （可致命）
   - [[完整笔记/专题笔记/psych_成瘾药物对照表]] ⭐ **互补专题**（对方 = 戒断 / 维持的**用药管理**；本笔记 = 各类停药综合征的**鉴别** + 抗抑郁药停药）
 - 🏥 跨学科：
   - [[完整笔记/Peixuan分科笔记/neuro]]（seizure 鉴别 — 药物诱发 / 停药 vs 原发癫痫）
-  - [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]]（急性中毒表现 vs 停药综合征，对照参考）
+  - [[完整笔记/专题笔记/psych_物质急诊速查]]（急性中毒表现 vs 停药综合征，对照参考）
 - 🌱 TODO（后续补充）：
   - 累积 SSRI/SNRI discontinuation 实战错题后 → 扩 §3（FINISH 各症状的 stem 写法）
   - 累积 Bupropion 禁忌 / Lamotrigine SJS 错题后 → 扩 §4 用药 vs 停药表
