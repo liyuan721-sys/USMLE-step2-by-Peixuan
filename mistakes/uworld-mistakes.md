@@ -7198,7 +7198,7 @@
 >
 > 学科:: 心血管
 > 主题:: TOF / 先心病紫绀分类与 5 步诊断框架
-> 状态:: 🟡
+> 状态:: 🔴 反复错（2026-05-20 浩斯宾 self-test：Tet spell 误答 α1 拮抗剂，应 α1 激动剂 phenylephrine → 升级）
 > 错因:: pattern
 
 > [!example]- [2026-05-16] 心内/药理 / Digoxin Toxicity (Q4454)
@@ -10345,7 +10345,7 @@
 >
 > 学科:: Psych
 > 主题:: MDMA 中毒 + Serotonin Syndrome / 苯丙胺家族鉴别（MDMA vs 冰毒 vs Adderall）/ 4 大高热综合征 / 派对药 4 兄弟
-> 状态:: 🟡
+> 状态:: 🔴 反复错（2026-05-20 浩斯宾 self-test：病因答成 SS 未答 substance MDMA → 升级）
 > 错因:: pattern
 
 > [!example]- [2026-05-19] Psych / DSM-5 焦虑障碍鉴别 — SAD vs Specific Phobia vs Panic vs Agoraphobia (Q8909)
@@ -11726,8 +11726,8 @@
 > ---
 >
 > 学科:: Psych
-> 主题:: 围产期 GAD 诊断（vs 孕期正常焦虑）/ GAD DSM-5 标准 / 孕期焦虑治疗（CBT 一线、避 paroxetine/BZD）/ 心理科沟通题"承认+治疗"框架
-> 状态:: 🟡
+> 主题:: 围产期 GAD 诊断（vs 孕期正常焦虑）/ GAD DSM-5 标准 / 孕期焦虑治疗（CBT 一线、避 paroxetine/BZD）/ 心理科沟通题“承认+治疗”框架
+> 状态:: 🔴 反复错（2026-05-20 浩斯宾 self-test 同考点再错：仍未选 CBT 一线 → 升级）
 > 错因:: pattern
 
 > [!example]- [2026-05-19] Psych / Bipolar I 维持治疗 — Lithium vs Valproate (Q2357)
