@@ -12357,3 +12357,91 @@
 > 状态:: 🟡
 > 错因:: 知识
 
+## 2026-05-20
+
+> [!example]- [2026-05-20] Psych / Bipolar I vs Brief Psychotic Disorder (Q15843)
+> ^Q15843
+>
+> **Stem 模式**
+> 年轻女性，急性病程（**≥1 周**），↑ mood/energy + DIGFAST 多项（quit job, grandiose delusion "boss jealous", running for office, calling donors at all hours, pressured speech, flight of ideas, agitated）+ 无既往精神病史 → **Bipolar I with psychotic features**
+>
+> **核心概念**
+> Bipolar I 诊断 = **≥1 个 manic episode** 即可（不需要 depressive episode）。Manic episode = ≥1 周 elevated/irritable mood + ↑ energy/activity + DIGFAST ≥3 项（irritable mood 单独则需 ≥4 项）。**Psychotic features（delusions/hallucinations）若仅在 mood episode 期间出现 → 是 specifier，归 mood disorder，不是 primary psychotic disorder。**
+>
+> **普适规则 — Psychotic symptoms 归属决策树**
+> ```
+>          看到 delusions/hallucinations
+>                     │
+>          ┌──────────┴──────────┐
+>          │                     │
+>    有 mood episode         无 mood episode
+>    (manic/depressive)            │
+>          │                       ▼
+>          ▼                看时间长度：
+>    psychotic 仅在          <1 mo  → Brief Psychotic Disorder
+>    mood episode 期间        1-6 mo → Schizophreniform
+>          │                  ≥6 mo  → Schizophrenia
+>          ▼                  ≥1 mo  delusion only + 功能正常 → Delusional
+>    Bipolar/MDD with         ≥2 wk psychotic without mood
+>    psychotic features       + mood episodes 占大部分 → Schizoaffective
+> ```
+>
+> **DIGFAST（manic 7 大症状，≥3 项 / irritable only 需 ≥4）**
+> **D**istractibility / **I**mpulsivity / **G**randiosity / **F**light of ideas / ↑ **A**ctivity / ↓ **S**leep / **T**alkativeness (pressured speech)
+>
+> **High-Yield 鉴别表 — Psychotic Disorders**
+>
+> | 疾病 | 时间 | 与 mood 关系 |
+> |---|---|---|
+> | Brief Psychotic Disorder | >1 day, <1 month | ❌ 不能由 mood episode 解释 |
+> | Schizophreniform | 1–6 months | ❌ 同上 |
+> | Schizophrenia | ≥6 months | ❌ Mood sx <50% 总病程 |
+> | Schizoaffective | Lifetime | ≥2 wk psychotic without mood + mood 占大部分 |
+> | Delusional Disorder | ≥1 month | Delusions only，functioning intact |
+> | **Bipolar I / MDD with psychotic features** | Mood episode 期间 | ✅ Psychotic 仅在 mood episode 期间 |
+>
+> **易混陷阱（普适）**
+> - ⚠️ **看到 delusion + <1 month 就跳 Brief Psychotic Disorder** = 经典 trap。必须先排除 mood episode。
+> - ⚠️ **Grandiosity 单独 ≠ Narcissistic PD** — Narcissistic 是 long-standing trait，不是 acute episode；本题 "no psychiatric history" 已暗示是 acute change from baseline。
+> - ⚠️ **Labile mood + impulsivity ≠ Borderline PD** — Borderline 情绪波动是小时级，且是 pervasive long-standing pattern；manic 是 ≥1 周持续高涨。
+> - ⚠️ **Delusion ≠ Delusional Disorder** — Delusional disorder 要求 functioning intact + 行为不怪异 + ≥1 month。
+> - ⚠️ **诊断优先级**：Mood disorder > Primary psychotic disorder（当两者症状重叠时）。
+>
+> **我为什么错**
+> 虽做对（选 A），但**不懂为什么 C 错**。根本卡点：
+> - 不清楚 "psychotic features 归属" 规则（有 delusion 就想跳 psychotic disorder）
+> - 没建立 "mood disorder vs primary psychotic disorder" 的分诊树
+> - BPD 定义只记住"时间 <1 month"，没记住"独立于 mood episode"
+>
+> **Memory Hook**
+> - **一句话锁定**：看到 delusions 别急着跳 psychotic disorder — 先数 DIGFAST，凑齐 manic episode 就是 Bipolar I，psychotic 是配菜（specifier）。
+> - **类比挂钩**：Psychotic in mania = "妄想是 mania 的烟花" — 烟花散了 mania 还在；BPD = "孤立的烟花"，没有庆典（mood episode）。
+> - **口诀**：**Mood > Psychotic**（诊断优先级）；**DIGFAST ≥3**（irritable only 需 ≥4）；**≥1 manic episode = Bipolar I**（不需 depression）。
+> - **反向记忆 BPD**：① 1 day–1 month ② ≥1 psychotic symptom ③ **关键：不能由 mood episode / substance / medical condition 解释**。
+>
+> ---
+>
+> **🤔 我的提问 / 卡点**
+> - Q：为什么 C（Brief Psychotic Disorder）错？时间符合（1 周），也有 delusion → 学到：BPD 要求 psychosis 是"主菜"，本题 psychosis 嵌入完整 manic syndrome（DIGFAST 全套）→ 优先诊断 mood disorder，psychotic 降级为 specifier。
+>
+> **🔗 关联**
+> - 🔁 同主题错题：首题（psych mood/psychotic 鉴别，等后续题积累）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
+> - 🌱 TODO（待生成衍生）：
+>   - 等再积累 2-3 道 mood/psychotic 鉴别错题 → 请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_Psychotic_Disorders决策树]]（覆盖 BPD / Schizophreniform / Schizophrenia / Schizoaffective / Delusional / Mood with psychotic features 的"时间 + 独立性"双维度鉴别）
+>   - 等积累 Bipolar I/II / Cyclothymia / MDD 类错题 → 生成 [[完整笔记/专题笔记/_衍生_Mood_Disorders诊断标准]]（DIGFAST + 时间门槛 + 各 specifier）
+>
+> **✅ 复盘行动**
+> - [ ] 1 周后重做（重点检验 C 的排除逻辑）
+> - [ ] 默写 DIGFAST + manic 时间门槛（≥1 wk）
+> - [ ] 默写 Psychotic Disorders 鉴别表（6 疾病 × 时间 × 与 mood 关系）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/psych]] 加 「薄弱点」（首次接触）
+> - [ ] 找 3 道类似题：bipolar with psychotic features / schizoaffective vs bipolar / BPD 鉴别
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Bipolar I vs Brief Psychotic Disorder / psychotic features 归属（mood specifier vs 原发精神病）/ DIGFAST manic 诊断标准 / 精神病性障碍时间轴鉴别
+> 状态:: 🟡
+> 错因:: 知识
+
