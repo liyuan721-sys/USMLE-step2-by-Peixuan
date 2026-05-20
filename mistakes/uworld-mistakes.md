@@ -10608,3 +10608,202 @@
 > 状态:: 🟡
 > 错因:: 知识
 
+> [!success]- [2026-05-19] Psych / Bipolar 孕期维持治疗 ✅做对 (Q15103)
+> ^Q15103
+>
+> ## Stem 模式
+> 36yo 女性 + **Bipolar I**（20 岁躁狂住院 + 24 / 32 岁 2 次 MDD 住院）+ 过去 4 年 **valproate 维持稳定** + 计划怀孕 + 明确"不想再住院，孕期想继续用药" → 决定停 valproate 换药 → 选哪个维持药？
+>
+> ## 核心概念
+> Bipolar 育龄女性想怀孕：**致畸 mood stabilizer（valproate / carbamazepine）必须换掉** → 缓慢 cross-taper 到**低致畸风险的维持药**（首选 **Lamotrigine**）。
+>
+> 关键时序：致畸药患者想怀孕 → **先延迟怀孕 3-6 个月**做 slow + carefully observed cross-taper → 稳定后再尝试怀孕（不是立刻怀孕）。
+>
+> ## 普适规则 — Bipolar 孕期用药表 ⭐⭐⭐
+>
+> | 治疗阶段 | 药物 |
+> |---|---|
+> | **急性躁狂 / 轻躁狂** | Typical antipsychotics（haloperidol）/ Atypical（risperidone, olanzapine）|
+> | **急性抑郁** | **Lamotrigine** / Quetiapine / Atypical antipsychotic + SSRI（**除 paroxetine**）|
+> | **维持期（防复发）** | **Lamotrigine** / Atypical antipsychotics（quetiapine, risperidone）/ Lithium* |
+> | **禁忌（致畸）** | **Valproic acid / Carbamazepine / Oxcarbazepine**（神经管缺陷 + 神经发育障碍）/ **Paroxetine**（心脏缺陷）|
+>
+> *Lithium：小幅增加 fetal cardiac defects（**Ebstein anomaly**）—— 已稳定在 lithium 的重症患者怀孕可选择继续，但不应在有更低致畸替代时主动换成 lithium。
+>
+> ![[{8AE1070A-55EC-4697-A3BD-B17EE9CE1F02}.png]]
+> *↑ UW 原图：Treatment of bipolar disorder during pregnancy（4 阶段对照 — 与上方表格同源）。归位 → [[完整笔记/专题笔记/OB_GYN_孕期致畸药]] §六（双地点 Obsidian 反向链接调取）*
+>
+> ## 普适规则 — 精神科药物致畸谱
+>
+> | 药物 | 致畸后果 |
+> |---|---|
+> | **Valproate** | 神经管缺陷（anencephaly / myelomeningocele）+ 神经发育障碍 ⚠️ first trimester = organogenesis 关键期 |
+> | **Carbamazepine / Oxcarbazepine** | 神经管缺陷 |
+> | **Lithium** | 心脏缺陷 — **Ebstein anomaly**（三尖瓣下移）|
+> | **Paroxetine** | 心脏缺陷 |
+>
+> ## 易混陷阱（普适）
+>
+> > [!danger] 陷阱 1：Bipolar 不能用抗抑郁药单药
+> > Bupropion / Sertraline 等抗抑郁药孕期本身安全（除 paroxetine），但 **bipolar I 用抗抑郁药单药 → 诱发 mania（antidepressant-induced mania）** → 避免。
+>
+> > [!warning] 陷阱 2：Haloperidol 治急性躁狂 ≠ 维持药
+> > High-potency FGA（haloperidol）无致畸风险增加，对**急性躁狂**有效，但**不能充分预防 depressive episodes** → 不适合维持期（本患者有 manic + depressive 双相史，维持药必须两端都防）。
+>
+> > [!warning] 陷阱 3：Lithium 不是首选切换药
+> > Lithium 维持期可用，但有 Ebstein anomaly 风险。当有**更低致畸风险的替代**（lamotrigine）时，不应主动换成 lithium。
+>
+> ## 我为什么做对
+>
+> - 选了：**D. Lamotrigine** ✅
+> - 关键识别：① valproate 致畸（神经管缺陷）必须停 ② 维持期需同时防 manic + depressive ③ Lamotrigine = favorable pregnancy profile + 维持期双向保护
+> - 排除链：A/F 抗抑郁药单药诱发 mania；B carbamazepine 也致神经管缺陷；C haloperidol 不防抑郁；E lithium 有 Ebstein 风险且不是切换首选
+> - **巩固点**：bipolar 维持药必须**同时防 manic + depressive 两端** —— 这是排除 haloperidol 的关键。
+>
+> ## Memory Hook
+>
+> > [!success] 一句话锁定
+> > **Bipolar 孕期维持首选 = Lamotrigine**（双向保护 + 低致畸）
+>
+> - **精神科致畸药口诀**："丙卡奥致管缺，锂帕致心"
+>   - **丙**戊酸 / **卡**马西平 / **奥**卡西平 → 神经管缺陷
+>   - **锂** → Ebstein anomaly；**Paroxetine** → 心脏缺陷
+> - **Lamotrigine = 孕期 bipolar 全能选手**（急性抑郁 + 维持期都能用，安全谱好）
+> - **换药时序**："停致畸药 → 3-6 个月 cross-taper → 稳定后怀孕"
+> - **Haloperidol vs Lamotrigine**：halo 是"灭火队"（治急性躁狂），lamotrigine 是"保安"（维持期双向防）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - （做对，无卡点。巩固点：bipolar 维持药必须同时防 manic + depressive，是排除 haloperidol 的关键考点）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：（首道 bipolar 孕期用药题，等后续 psych 药理 / 孕期用药题积累）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/psych]]（bipolar disorder 章节）
+>   - [[完整笔记/专题笔记/OB_GYN_孕期致畸药]]（valproate / carbamazepine / lithium / paroxetine 致畸谱）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/OB]]（孕期精神科用药 + 致畸药管理 + organogenesis 时序）
+>   - [[完整笔记/Peixuan分科笔记/儿科]]（神经管缺陷 / Ebstein anomaly 新生儿表现）
+> - 🌱 TODO（待生成衍生）：
+>   - 等积累 psych 孕期用药题（孕期抑郁 / 焦虑 / 精神病）后 → 整合 [[完整笔记/专题笔记/psych_孕期精神科用药]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q15103
+> - [ ] 默写 bipolar 孕期用药表（急性躁狂 / 急性抑郁 / 维持 / 禁忌 4 阶段）
+> - [ ] 默写 4 大致畸精神科药（valproate / carbamazepine / lithium / paroxetine）+ 各自畸形
+> - [ ] 记住"停致畸药 → 3-6 个月 cross-taper → 怀孕"时序
+> - [ ] 找 3 道类似题：搜 "bipolar pregnancy" / "lamotrigine" / "teratogenic mood stabilizer"
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Bipolar disorder 孕期维持治疗 / 精神科致畸药谱 / Lamotrigine 首选
+> 状态:: 🟢
+> 错因:: ✅ 做对（知识入库）
+
+> [!example]- [2026-05-19] Psych / 双相维持治疗 — Stable ≠ Stop (Q15841)
+> ^Q15841
+>
+> ## Stem 模式
+> - 35y 男性，Bipolar Disorder（age 27 起病）
+> - **2 年前**因 manic episode 住院 → 起始 lithium
+> - 现：therapeutic dose、weekly therapy、euthymic、full affect、要结婚
+> - 患者陈述：**"不想再住院，但也不想一直吃药"**
+> - Prior trials：quetiapine + olanzapine/fluoxetine → d/c due to **weight gain**
+> - Labs：lithium therapeutic range，CBC / BMP / TSH 正常
+> - 问：most appropriate response？
+>
+> **Stem 锁定信号**：Bipolar + stable on lithium + 患者想减药 → **必考"是否减停"**
+>
+> ## 核心概念
+> **Bipolar = highly recurrent illness → maintenance lithium 不因稳定而减停**
+> - Stable ≠ Cured
+> - 治疗范围内 + 无副作用 + 耐受好 → **continue same dose + monitor**
+> - 减 / 停 → 数月-1 年内复发率极高（伴住院、经济损失、自杀风险）
+> - 类比慢性病（asthma / HTN / DM）—— 控制好不等于治好
+>
+> ## 普适规则 — Maintenance Therapy Duration 对比表
+>
+> | 疾病 | 首次发作维持 | 复发后维持 | 减停原则 |
+> |---|---|---|---|
+> | **MDD（单相）** | 6-12 个月 | 1-3 年 / 终身 | **首发可减停** |
+> | **Bipolar** | **终身** | **终身** | **Stable ≠ Stop** |
+> | **Schizophrenia** | 终身（首发至少 1-2 年）| **终身** | 复发率极高 |
+> | **Panic / GAD** | 急性缓解后 1 年 | 长期 | 可逐步减停 |
+> | **OCD** | ≥1-2 年 | 多数长期 | 复发率高 |
+> | **PTSD** | ≥1 年 | 长期 | 慢性化倾向 |
+>
+> **记忆口诀**：**"BPS 三兄弟" = Bipolar / Psychosis / Schizophrenia → 终身维持**
+>
+> ## 普适规则 — Psych 沟通题 SOP
+>
+> 当患者表达「不想吃药 / 想减量」+ 客观指标稳定时：
+>
+> ```
+> Step 1: Empathy   → 承认担忧（"理解你不想一直吃药"）
+> Step 2: Educate   → 解释疾病本质（"这病高度复发"）
+> Step 3: Maintain  → 坚持治疗方案（"建议继续原剂量 + 监测副作用"）
+> ```
+>
+> **错误模式**：
+> - ❌ 患者要求 → 立刻让步减药（C 选项陷阱）
+> - ❌ 不解释直接拒绝
+> - ❌ 改用更"温和"的方案（长效针剂 D = 三线，不该换）
+>
+> ## 易混陷阱（普适）
+>
+> | 陷阱 | 本质 | 破解 |
+> |---|---|---|
+> | "稳定 = 可减停"思维 | 把 MDD 首发规则套到 Bipolar | **记 BPS 三兄弟终身维持** |
+> | 患者主诉驱动决策 | 共情 ≠ 顺从 | **共情 + 坚持治疗**双轨 |
+> | 改三线药"让步" | 长效针剂用于依从性差 | 该患者依从性好（therapeutic level）→ 不换 |
+> | "Therapeutic range = 可降一档" | 治疗范围是目标不是上限 | 范围内 + 无副作用 → **不动** |
+>
+> ## 我为什么错
+>
+> - 选了：**C（稳定 2 年 + therapy 中 → 减量）**
+> - 错因：**知识** — 不知道考点（Bipolar 终身维持原则）+ 概念混淆（把 MDD 首发"6-12 个月可减停"错套到 Bipolar）
+> - 我的思路：把"治疗范围内 + 长期稳定"误读为"可以试探性减量"，被患者"不想一直吃药"的共情点带偏
+> - **核心陷阱**：USMLE 测试 "**stable ≠ stop**" + "共情但不让步"双重原则
+>
+> ## Memory Hook
+>
+> > [!success] 一句话锁定
+> > **"Bipolar 像高血压 —— 数值正常不代表能停药"**
+>
+> - **类比挂钩**：Lithium 之于 Bipolar = ACEi 之于 HTN = 控制 ≠ 治愈
+> - **口诀**：**BPS 三兄弟，终身不打烊**（Bipolar / Psychosis / Schizophrenia）
+> - **沟通 SOP**：**Empathy → Educate → Maintain**（共情 → 教育 → 坚持）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q：我记得有个病 2 年稳定就可以减量或停药的，是啥？
+>   - 学到：那个是 **MDD 首次发作**（6-12 个月维持后可减停）。Bipolar 不是，Bipolar 是 **highly recurrent → 终身**。这是我最核心的混淆点。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q15103]] Bipolar 孕期维持治疗（同为 bipolar 维持主题 — 本题 = stable 不减停 lithium / Q15103 = 孕期换低致畸药 lamotrigine；都体现"bipolar 终身维持"原则）
+>   - 等后续题积累 → 重点关注 maintenance therapy / 沟通题两类
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/psych]]（bipolar disorder / 维持治疗章节）
+> - 🏥 跨学科：无（纯 Psych）
+> - 🌱 TODO（待生成衍生）：
+>   - 等 Psych 章节复习完 → 整合 maintenance therapy duration 类错题（Bipolar / Schizophrenia / MDD / Anxiety 全谱）→ 生成 [[完整笔记/专题笔记/psych_维持治疗时长对照]]
+>   - 等积累 ≥3 道 psych 沟通题后 → 整合"共情 + 坚持治疗"SOP → 生成 [[完整笔记/专题笔记/psych_沟通题SOP]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q15841
+> - [ ] 默写 "BPS 三兄弟 + Maintenance Duration 对比表"
+> - [ ] 找 3 道 Bipolar / Schizophrenia maintenance 题练习
+> - [ ] 找 2 道 Psych 沟通题（患者拒药 / 减药要求）练习
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/psych]] 加「要做题」（Psych 完全没碰）
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Bipolar 维持治疗 Stable ≠ Stop / BPS 三兄弟终身维持 / 精神科维持时长对照 / 共情但不让步沟通 SOP
+> 状态:: 🟡
+> 错因:: 知识
+

@@ -110,17 +110,49 @@
 
 **糖皮质激素（长期高剂量）：**可能唇腭裂风险略增（题目偶尔出现；不如上面高频）
 
-**六、情绪药/精神科（USMLE会考“新生儿并发症”）**
+**六、情绪药/精神科（USMLE会考“新生儿并发症” + 双相孕期维持）**
 
 **锂（Lithium）**
 
 > **Ebstein anomaly**（三尖瓣下移 → RA扩大）
 >
 > 题眼：双相障碍 + 新生儿发绀/心杂音
+>
+> Lithium 维持期可用，但有 Ebstein 风险；**不应在有更低致畸替代（lamotrigine）时主动换成 lithium**
+
+**抗癫痫类 mood stabilizer（双相也用）**
+
+> **Valproate / Carbamazepine / Oxcarbazepine → 神经管缺陷**（anencephaly / myelomeningocele）+ 神经发育障碍
+>
+> first trimester = organogenesis 关键期，致畸风险最高 → 双相育龄女性应避开
 
 **SSRI（尤其晚孕期）：**
 
 > 新生儿适应不良/戒断样、PPHN 风险讨论（多为并发症，非结构畸形）
+>
+> **Paroxetine 特殊** ⚠️：早孕期暴露 → **胎儿心脏缺陷**（结构畸形，不只是新生儿并发症）→ 孕期抗抑郁药应首选**非 paroxetine** 的 SSRI
+
+**Lamotrigine（孕期 mood stabilizer 安全选项）⭐**
+
+> **favorable pregnancy safety profile** — 无明确致畸风险增加
+>
+> 双相孕期**急性抑郁**和**维持期**均可用，维持期可双向保护（防 manic + depressive episodes）
+
+**Bipolar 孕期用药表（Q15103 触发）**
+
+| 阶段 | 药物 |
+|---|---|
+| 急性躁狂 / 轻躁狂 | Typical（haloperidol）/ Atypical（risperidone, olanzapine）|
+| 急性抑郁 | **Lamotrigine** / Quetiapine / Atypical antipsychotic + SSRI（除 paroxetine）|
+| 维持期（防复发）| **Lamotrigine** / Atypical（quetiapine, risperidone）/ Lithium |
+| 禁忌（致畸）| Valproate / Carbamazepine / Oxcarbazepine（神经管缺陷）/ Paroxetine（心脏缺陷）|
+
+![[{8AE1070A-55EC-4697-A3BD-B17EE9CE1F02}.png]]
+*↑ UW 原图：Treatment of bipolar disorder during pregnancy（与上方表格同源）。来源 [[mistakes/uworld-mistakes#^Q15103]]，图同时存于错题卡 + 本节，双地点 Obsidian 反向链接调取*
+
+> **换药时序**：致畸 mood stabilizer（valproate 等）患者计划怀孕 → **先延迟怀孕 3-6 个月**做缓慢 cross-taper 换 lamotrigine → 稳定后再尝试怀孕（不是立刻怀孕）。
+>
+> → 对标错题：[[mistakes/uworld-mistakes#^Q15103]]（孕期换 lamotrigine）/ [[mistakes/uworld-mistakes#^Q15841]]（双相稳定不能停 lithium）
 
 **其它**
 

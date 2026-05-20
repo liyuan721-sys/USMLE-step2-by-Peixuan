@@ -2836,6 +2836,8 @@ features</td>
 > **神经管缺陷（spina bifida）**
 >
 > 题眼：癫痫/双相 + 叶酸缺乏线索
+>
+> → 双相孕期维持：valproate 致畸必须停，孕前 3-6 月 cross-taper 换 **lamotrigine**（见 [[mistakes/uworld-mistakes#^Q15103]]）
 
 **二、抗癫痫药（高频考点）**
 
@@ -2922,6 +2924,16 @@ features</td>
 > **Ebstein anomaly**（三尖瓣下移 → RA扩大）
 >
 > 题眼：双相障碍 + 新生儿发绀/心杂音
+>
+> → Lithium 维持期可用但有 Ebstein 风险；不应在有更低致畸替代（lamotrigine）时主动换成 lithium
+
+**双相孕期维持（Bipolar in pregnancy）⭐**
+
+> 致畸 mood stabilizer（valproate / carbamazepine / oxcarbazepine → 神经管缺陷）患者计划怀孕 → **孕前 3-6 个月**缓慢 cross-taper 换 **lamotrigine**（孕期安全谱好，维持期双向防 manic + depressive）
+>
+> 完整 Bipolar 孕期用药表见 [[完整笔记/专题笔记/OB_GYN_孕期致畸药]] §六
+>
+> → 对标错题：[[mistakes/uworld-mistakes#^Q15103]]（孕期换 lamotrigine）/ [[mistakes/uworld-mistakes#^Q15841]]（双相稳定不能停 lithium）
 
 **SSRI（尤其晚孕期）：**
 
