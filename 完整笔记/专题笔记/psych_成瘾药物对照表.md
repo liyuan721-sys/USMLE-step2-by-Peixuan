@@ -206,6 +206,9 @@ Step 3 — 有无禁忌？
 
 ### 2.3 分阶段行为干预（Stage of Change）
 
+![[{B919C993-90B0-454E-BA67-18F43DC7801C}.png]]
+*↑ UW 原图：Smoking cessation interventions by stage of change（戒烟 4 阶段干预对照）*
+
 > [!info] 烟草成瘾 = 三个层面，药物只覆盖前两个
 > - **生理依赖**（physical）—— 戒断、craving → NRT / varenicline / bupropion 处理
 > - **心理依赖**（psychological）—— 靠抽烟缓解压力
@@ -215,7 +218,7 @@ Step 3 — 有无禁忌？
 
 | 阶段 | 干预重点 |
 |---|---|
-| **未准备戒**（not ready）| 动机访谈（**4R**：**R**elevance 相关性 / **R**isks 风险 / **R**ewards 益处 / **R**oadblocks 障碍）；每次就诊重复；可给 varenicline 走"边减边戒"策略 |
+| **未准备戒**（not ready）| 动机访谈（**4R**：**R**elevance 相关性 / **R**isks 风险 / **R**ewards 益处 / **R**oadblocks 障碍）；每次就诊重复；可给 varenicline 走"边减边戒"策略（→ **持久戒断率 ×2**）|
 | **准备戒**（ready）| 定**明确 quit date** + 丢掉所有烟具；行为咨询 + 调动支持系统；开始药物（varenicline / bupropion / NRT）|
 | **戒得吃力 / 反复早期复吸**（struggling）| **肯定部分成就**（不否定）；**识别触发 → 链接替代活动**；生物反馈（呼气 CO 监测 / app gamification）|
 | **刚戒断**（recently quit）| 祝贺 + 持续支持；药物**再续约 12 周**；引导主动反思"生活有什么改变" |
@@ -621,4 +624,5 @@ Step 3 — 有无禁忌？
 - **v1.11（2026-05-19）Q23098 触发 — §2 戒烟分阶段行为干预**：
   - **§2** 新增 §2.3 "分阶段行为干预（Stage of Change）"：烟草成瘾三层面（生理 / 心理 / 习惯）+ 4 阶段（未准备 / 准备 / 吃力 / 刚戒）干预对照表 + trigger-linking 核心行为策略 callout + 阶段匹配陷阱 warning callout
   - 触发题 Q23098（做对，未入错题本）—— 知识补充，非错题同步
+- **v1.12（2026-05-20）§2.3 补 UW 原图**：用户贴入 "Smoking cessation interventions by stage of change" UW 原表 → 加图注；核对 §2.3 文字与原表 4 阶段及各干预完全对应；未准备戒行补 varenicline 持久戒断率 ×2（原表 `*` 脚注）
 - 待补充：随后续错题积累，逐步增补具体陷阱场景与临床决策细节
