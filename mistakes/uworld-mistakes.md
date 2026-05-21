@@ -13254,7 +13254,7 @@
 >
 > **8. 🔗 关联**
 > - 🔁 同主题错题：
->   - `[[mistakes/uworld-mistakes#Q16066]]` 本题（TD，能停药 → 停 risperidone）
+>   - `[[mistakes/uworld-mistakes#^Q16066]]` 本题（TD，能停药 → 停 risperidone）
 >   - （TD/EPS 首题，等后续抗精神病药副作用错题积累）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（movement disorders——TD 舞蹈样运动 vs Huntington 鉴别）
@@ -13330,7 +13330,7 @@
 >
 > **8. 🔗 关联**
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#Q11903]] 共病抑郁主题（DPN+抑郁选 SNRI vs MS+抑郁识别并发症，互补：一考治疗选药、一考并发症识别）
+>   - [[mistakes/uworld-mistakes#^Q11903]] 共病抑郁主题（DPN+抑郁选 SNRI vs MS+抑郁识别并发症，互补：一考治疗选药、一考并发症识别）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/神经]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/眼科]]（optic neuritis 是 MS 经典首发）
 > - 🌱 TODO（待生成衍生）：
@@ -13648,9 +13648,9 @@
 >
 > **8. 🔗 关联**
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#Q15895]] 儿童抑郁+隐晦自杀线索→急诊评估住院（**对照题**：成人门诊评估不住院 vs 儿童急诊住院，区别在 plan/intent + 心理社会支持 + 随访 + 年龄）
->   - [[mistakes/uworld-mistakes#Q11903]] 抑郁治疗选药（DPN+抑郁→SNRI）— 互补：那道考"确诊后选什么药"，这道考"开药/住院前先评估"
->   - [[mistakes/uworld-mistakes#Q15145]] MS 继发抑郁识别 — 同 psych depression 大主题
+>   - [[mistakes/uworld-mistakes#^Q15895]] 儿童抑郁+隐晦自杀线索→急诊评估住院（**对照题**：成人门诊评估不住院 vs 儿童急诊住院，区别在 plan/intent + 心理社会支持 + 随访 + 年龄）
+>   - [[mistakes/uworld-mistakes#^Q11903]] 抑郁治疗选药（DPN+抑郁→SNRI）— 互补：那道考"确诊后选什么药"，这道考"开药/住院前先评估"
+>   - [[mistakes/uworld-mistakes#^Q15145]] MS 继发抑郁识别 — 同 psych depression 大主题
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：（无，本题为纯精神科管理流程题）
 > - 🌱 TODO（待生成衍生）：
