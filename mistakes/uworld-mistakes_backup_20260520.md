@@ -13456,3 +13456,104 @@
 > 状态:: 🟡
 > 错因:: pattern
 
+> [!example]- [2026-05-20] Psych / 自杀最强单一风险因子 = 既往自杀未遂 (Q2517)
+> ^Q2517
+>
+> ## 1. Stem 模式
+> - 16 岁女孩，抑郁，问 **"strongest risk factor for suicide"**（要的是**风险因子排序里最强那个**，不是"现在多危险"）
+> - stem 藏线索：14 岁时"**吃 15 片对乙酰氨基酚自杀未遂**"→ 这就是 prior suicide attempt（选项 D"prior overdose"指它）
+> - 干扰背景：cutting（NSSI）、性虐待史、社会孤立、物质滥用、母亲抑郁 + 父亲自杀、当前"better off dead"念头但**无 intent / plan**
+>
+> ## 2. 核心概念 + 机制
+> - **Answer：D. History of prior overdose（= 既往自杀未遂）**
+> - 第一原则：**past behavior predicts future behavior**——既往自杀未遂是**未来自杀的单一最强预测因子**。
+>
+> > ```
+> > 自杀风险因子权重（强 → 弱）
+> > ──────────────────────────────────────
+> > ★ 既往自杀未遂 (PRIOR ATTEMPT)  ← 单一最强
+> >      │ past behavior predicts future behavior
+> >      ▼
+> > 精神病 / 绝望感 / 物质滥用 / 冲动性
+> >      ▼
+> > 家族自杀史 / 性虐待 / 社会孤立 / NSSI(cutting) / 抑郁
+> >      ▼
+> > 人口学：男性、独居、未婚离婚、失业、年龄 65+ 或 15-24
+> > ```
+>
+> > [!tip] 一句话区分本质
+> > **NSSI（cutting）= 调节情绪、无死亡意图；Suicide attempt（overdose）= 有结束生命意图。** 前者是 lesser factor，后者是最强因子。本题正确选项把"自杀未遂"换皮成"prior overdose"，错误诱饵 cutting 长得像"自伤=自杀"。
+>
+> ## 3. 普适规则（SOP）
+> - 问"strongest / single most important risk factor for suicide" → **优先选"既往自杀未遂"**，权重高于一切背景因子。
+> - 读风险因子题：**先把每个选项"翻译回 stem 里的具体事件"再选**（overdose ↔ attempt）。
+> - 记住保护因子（反向考点）：社会/家庭支持、怀孕、为人父母、宗教参与。
+>
+> ## 4. 易混陷阱（普适）
+> > | 选项 | 是什么 | 为什么弱/错 | 陷阱 |
+> > |---|---|---|---|
+> > | cutting (NSSI) | 非自杀性自伤 | 无死亡意图，lesser | **NSSI ≠ attempt**（最大概念坑）|
+> > | family hx suicide | 家族自杀史 | 中等权重 | "遗传最重"错觉 |
+> > | hx depression | 精神疾病 | predisposing，弱于"已尝试" | 抑郁是背景非最强 |
+> > | sexual abuse | 创伤史 | predisposing | 情绪冲击大≠权重高 |
+> > | recent SSRI (fluoxetine) | 黑框警告：青少年早期↑自杀倾向 | 真有风险但远不及既往未遂 | **黑框警告诱饵** |
+> > | substance use | 去抑制→冲动 | 显著但非最强 | 解释明说"not as strong as prior attempt" |
+>
+> ## 5. 我为什么错（个性化）
+> - 我选了：**B（History of cutting）**
+> - 我的思路：知道"既往自杀未遂=最强"，但**跳读漏了 stem 里"overdose 15 片"= 自杀未遂**，没把它和选项 D 对应；又把 cutting 当成"自杀相关行为"。
+> - 根本错因：☑ 没看清 stem 关键词（overdose=attempt 没认出）｜☑ 概念混淆（NSSI vs attempt）
+> - **核心陷阱**：知识会但**没把"选项措辞 ↔ stem 事件"对号入座** → 纯读题/匹配失误，非知识漏洞。
+>
+> ## 6. High-Yield Summary Table
+> **表 1｜NSSI vs Suicide Attempt（本题核心鉴别）**
+> > | 维度 | NSSI（cutting）| Suicide Attempt（overdose）|
+> > |---|---|---|
+> > | 意图 | 无死亡意图，调节情绪 | 有结束生命意图 |
+> > | 方式 | 划伤、烫伤 | 过量服药、上吊、枪械 |
+> > | 风险权重 | lesser | **最强单一预测因子** |
+> > | 本题选项 | B（错）| D（对）|
+>
+> **表 2｜自杀风险因子权重速记**
+> > | 等级 | 因子 |
+> > |---|---|
+> > | ★ 最强单一 | **既往自杀未遂** |
+> > | 强 | 精神病 / 绝望感 / 物质滥用 / 冲动性 |
+> > | 中 | 家族自杀史、性虐待、社会孤立、NSSI、抑郁 |
+> > | 人口学 | 男性、独居、未婚离婚、失业、年龄 65+ 或 15-24 |
+> > | 保护因子 | 社会/家庭支持、怀孕、为人父母、宗教参与 |
+>
+> ## 7. Memory Hook
+> - **一句话锁定**：自杀最强因子 → **"做过的"赢"想过的、有背景的"**（past behavior predicts future behavior）。
+> - **类比挂钩**：正确选项给宝贝**换层皮**——"prior overdose"就是"suicide attempt"穿了马甲；读题先脱马甲。
+> - **口诀**：**做过 > 想过 > 背景**；cutting 是 NSSI 不算"做过自杀"。
+> - **反向记忆**：看到 **"recent SSRI / 黑框警告"** 当最强答案 → 警惕，它是真风险但**永远不是 strongest**。
+>
+> ---
+>
+> ## 7'. 🤔 我的提问 / 卡点（学习路径）
+> - **Q：抑郁患者的家族史有什么提示意义？**
+>   - 学到三件事：① **家族有 bipolar** → 用药前先筛躁狂，**慎单用抗抑郁药**（防转相）⭐最高频；② **家族有 suicide** → 患者自杀风险↑（本题父亲）；③ **家族有 depression** → 支持诊断（遗传度 30-40%、起病早易复发）+ 选亲属有效的药/ECT。
+>   - 一句话：抑郁题见 family history，先问"**是 bipolar 还是 unipolar？**"——可直接改掉下一步处理。
+>
+> ## 8. 🔗 关联
+> - 🔁 同主题错题：
+>   - （首题：自杀风险评估，等后续 Psych 错题积累）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（自杀风险/保护因子、NSSI vs attempt、SSRI 黑框、bipolar vs unipolar 家族史）/ [[完整笔记/专题笔记/psych_抑郁家族史的临床意义]]（本题 7' 节的家族史讨论已提炼为该专题笔记）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/消化腺]]（顺带挂钩：acetaminophen overdose → 肝毒性 / NAC 解毒，高频但本题不考）
+> - 🌱 TODO（待生成衍生）：等 Psych 章节复习完，请 Claude Code 整合"自杀/自伤"类错题（风险 vs 保护因子排序 + NSSI vs attempt + SSRI 黑框 + bipolar 家族史筛查）→ 生成 [[完整笔记/专题笔记/_衍生_自杀风险评估]]
+>
+> ## 9. ✅ 复盘行动
+> - [ ] 1 周后重做 Q2517
+> - [ ] 默写"自杀风险因子权重表"+"NSSI vs Attempt 鉴别"
+> - [ ] **针对读题不完整**：风险因子/最佳选项题强制"先把每个选项翻译回 stem 事件"再选
+> - [ ] 找 3 道自杀风险 / SSRI 黑框 / 抑郁+bipolar 家族史类似题
+> - [ ] 若再因读题漏细节出错 → 给 [[完整笔记/Peixuan分科笔记/psych]] 加「薄弱点」
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: 自杀最强单一风险因子 = 既往自杀未遂（past behavior predicts future）/ NSSI vs Suicide Attempt 鉴别 / 自杀风险因子权重排序 + 保护因子 / 风险因子题"选项↔stem 事件"对号读法
+> 状态:: 🟡
+> 错因:: pattern
+
