@@ -13539,7 +13539,7 @@
 > ## 8. 🔗 关联
 > - 🔁 同主题错题：
 >   - （首题：自杀风险评估，等后续 Psych 错题积累）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（自杀风险/保护因子、NSSI vs attempt、SSRI 黑框、bipolar vs unipolar 家族史）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（自杀风险/保护因子、NSSI vs attempt、SSRI 黑框、bipolar vs unipolar 家族史）/ [[完整笔记/专题笔记/psych_抑郁家族史的临床意义]]（本题 7' 节的家族史讨论已提炼为该专题笔记）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/消化腺]]（顺带挂钩：acetaminophen overdose → 肝毒性 / NAC 解毒，高频但本题不考）
 > - 🌱 TODO（待生成衍生）：等 Psych 章节复习完，请 Claude Code 整合"自杀/自伤"类错题（风险 vs 保护因子排序 + NSSI vs attempt + SSRI 黑框 + bipolar 家族史筛查）→ 生成 [[完整笔记/专题笔记/_衍生_自杀风险评估]]
 >
