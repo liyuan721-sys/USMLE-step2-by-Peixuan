@@ -9527,7 +9527,7 @@
 > ## 9. 🤔 我的提问 / 卡点（学习路径）
 >
 > - **Q1**：戒酒药、戒烟药、戒阿片药容易混，怎么系统区分？
->   → **学到**：按 3 维度走 — ①物质类型 ②急性戒断 vs 维持期 ③当前是否还在用该物质。已生成 [[完整笔记/专题笔记/psych_成瘾药物对照表]] 统一管理。
+>   → **学到**：按 3 维度走 — ①物质类型 ②急性戒断 vs 维持期 ③当前是否还在用该物质。已生成 [[完整笔记/专题笔记/psych_物质急诊速查]] §15 统一管理。
 >
 > - **Q2**：Naltrexone 在 AUD 可以边喝边启动，OUD 却要先脱毒 7 天，为什么？
 >   → **学到**：因为是 μ-opioid 拮抗剂。AUD 患者体内**没有阿片**，拮抗剂无所谓 → 宽松；OUD 患者体内**有阿片**，拮抗剂瞬间踢掉 → precipitated withdrawal 爆发 → 严苛。
@@ -9544,7 +9544,7 @@
 >
 > - 📚 **主笔记**：
 >   - [[完整笔记/Peixuan分科笔记/psych]]
->   - [[完整笔记/专题笔记/psych_成瘾药物对照表]] ⭐（2026-05-19 新建本卡触发整合）
+>   - [[完整笔记/专题笔记/psych_物质急诊速查]] §15 成瘾维持期药物治疗 ⭐（2026-05-19 触发整合）
 >
 > - 🏥 **跨学科**：
 >   - [[完整笔记/Peixuan分科笔记/消化腺]]（肝衰 → Naltrexone 禁忌；AUD 共病肝硬化）
@@ -9553,7 +9553,7 @@
 >   - [[完整笔记/专题笔记/心内_老年多药患者诊断思维]] §2.3 Cirrhosis 用药陷阱（benzo/opioid 蓄积诱发 HE）
 >
 > - 🌱 **TODO（待生成衍生）**：
->   - 已建：[[完整笔记/专题笔记/psych_成瘾药物对照表]]（4 大领域 + 4 兄弟门诊分工）
+>   - 已建：[[完整笔记/专题笔记/psych_物质急诊速查]] §15（4 大领域 + 4 兄弟门诊分工）
 >   - 等积累 3+ 道"启动时机/前提"陷阱题（Naltrexone in OUD 需脱毒 / Buprenorphine COWS ≥ 12 / Disulfiram 先戒酒）→ 生成 [[完整笔记/专题笔记/psych_成瘾药物启动时机决策]]
 >
 > ## ✅ 复盘行动
@@ -9665,7 +9665,7 @@
 >   - [[mistakes/uworld-mistakes#^Q12541]] AUD 维持期一线药（Naltrexone）— 治"防复发"，不治急性戒断（本题反向 — 戒断用 BZD）
 >   - 等积累更多 AWS / DT / 其他物质戒断错题后横向连接
 > - 📚 主笔记：
->   - [[完整笔记/专题笔记/psych_成瘾药物对照表]] §1.1 时间轴 + §1.2 BZD 急性戒断救命（v1.4 同步 AWS 4 阶段 + Phenytoin 陷阱）
+>   - [[完整笔记/专题笔记/psych_物质急诊速查]] §9.2 AWS 4 阶段时间轴 + §15.1 AWS seizure 用药（BZD 救命 + Phenytoin 陷阱）
 >   - [[完整笔记/Peixuan分科笔记/psych]]（成瘾医学章节）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/外科]]（术后突发 seizure 鉴别 — AWS 高频陷阱）
@@ -9701,7 +9701,7 @@
 > - **Opioids 体检** = dilated pupils + yawning + **piloerection** + lacrimation + **hyperactive bowel sounds**（"反向阿片"指纹）
 > - Stimulants / Nicotine / Cannabis 体检 = **no significant findings**
 >
-> 强化口诀 **"GABA 飙 / 阿片平 / 兴奋剂沉"**。归位 → [[完整笔记/专题笔记/psych_成瘾药物对照表]] §4
+> 强化口诀 **"GABA 飙 / 阿片平 / 兴奋剂沉"**。归位 → [[完整笔记/专题笔记/psych_物质急诊速查]] §9.3
 >
 > ![[{04B719AC-9897-4F69-9622-6F37F3CDB781}.png]]
 > *↑ **图 2：UW Opioid Withdrawal 4 维度完整表** —— Time course / Clinical / Diagnosis / Management*
@@ -9712,7 +9712,7 @@
 >
 > ⚠️ **vital signs 调和**：本图列 "↑ pulse / ↑ BP"，与"vitals OFTEN NORMAL"看似冲突。UW 文本明确：阿片戒断 vital signs **可轻度升高（mild），但不会 storm**——与 GABA 类戒断 HR/BP/T↑↑↑ 严重度天壤之别。本题 stem T 36.6 / BP 110/74 / HR 88 全在正常范围 = 远未到 GABA storm 级别。
 >
-> 归位 → [[完整笔记/专题笔记/psych_成瘾药物对照表]] §3.3
+> 归位 → [[完整笔记/专题笔记/psych_物质急诊速查]] §9.3
 >
 > ![[{7F75FCDF-C9CB-4F7B-9AEF-19FA4B21D462}.png]]
 > *↑ **图 3：UW Cholinergic Toxicity 表（DUMBELS 助记）** —— 排除法陷阱 3 用图*
@@ -9847,7 +9847,7 @@
 >   - [[mistakes/uworld-mistakes#^Q3187]] AWS withdrawal seizure（同日做对 — alcohol 戒断 vital signs storm，本题反向）
 >   - 等积累更多 OUD / opioid 中毒错题后横向连接
 > - 📚 主笔记：
->   - [[完整笔记/专题笔记/psych_成瘾药物对照表]] §3.3 阿片急性戒断（v1.6 强化 vital signs 鉴别）
+>   - [[完整笔记/专题笔记/psych_物质急诊速查]] §9.3 各物质戒断对症急救药（阿片 vital signs 鉴别）
 >   - [[完整笔记/Peixuan分科笔记/psych]] L1118-1124 物质中毒鉴别表（缺戒断对比）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/感染]]（霍乱样腹泻鉴别 — 阿片戒断 watery diarrhea 像感染性腹泻）
@@ -10318,7 +10318,7 @@
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/psych_物质急诊速查]] ⭐ **本错题触发新建**（v1 含 6 大物质中毒鉴别 + SS/NMS/MH 三联 + 干湿对照）
 >   - [[完整笔记/Peixuan分科笔记/psych]] §SS L610-644（三联完整 + cyproheptadine）/ SUD 表 L1118-1124（扩展加 MDMA + 抗胆碱 + PCP 行）
->   - [[完整笔记/专题笔记/psych_成瘾药物对照表]]（戒断 / 维持期 / 急救药 — MDMA 不在本笔记定位内，仅跨链）
+>   - [[完整笔记/专题笔记/psych_物质急诊速查]] §15（成瘾维持期治疗 — MDMA 不在该节定位内，仅跨链）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/neuro]] L7490-7498 MH vs NMS vs SS 三联鉴别表（本错题触发扩展）/ L12023 NMS 小节（加 SS 反链）/ L6401 Myoclonus 段（加 SS 成因）
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（**SIADH 机制 + 低钠鉴别 → MDMA 是 SIADH 特殊病因**）
@@ -10906,13 +10906,13 @@
 >   - [[mistakes/uworld-mistakes#^Q3187]] AWS withdrawal seizure（同 alcohol 主题 — 本题 = 维持期 / Q3187 = 急性戒断期）
 >   - 可横向关联：Opioid use disorder 药物（Methadone / Buprenorphine / Naltrexone）、Smoking cessation（Varenicline / Bupropion / NRT）
 > - 📚 主笔记：
->   - [[完整笔记/专题笔记/psych_成瘾药物对照表]] §1.3 维持期 3 药对比（本题已同步 Disulfiram 三必备 + 不降 craving 陷阱）
+>   - [[完整笔记/专题笔记/psych_物质急诊速查]] §15.2 AUD 维持期 3 药对比（本题已同步 Disulfiram 三必备 + 不降 craving 陷阱）
 >   - [[完整笔记/Peixuan分科笔记/psych]]（AUD 章节）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/消化腺]]（酒精性肝病 / 酒精性胰腺炎背景 — 肝病 → 选 Acamprosate）
 > - 🌱 TODO：
->   - ✅ 衍生 [[完整笔记/专题笔记/psych_成瘾药物对照表]] 已存在并已同步本题增量（原草稿 TODO 设想的"成瘾药物治疗对照表"即此笔记）
->   - ✅ AUD 药物决策树已并入 psych_成瘾药物对照表 §1.3 / §5
+>   - ✅ [[完整笔记/专题笔记/psych_物质急诊速查]] §15 已含本题增量（原草稿 TODO 设想的“成瘾药物治疗对照表”已并入此笔记）
+>   - ✅ AUD 药物决策树已并入 [[完整笔记/专题笔记/psych_物质急诊速查]] §15.2 / §15.8
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q15104
@@ -11218,7 +11218,7 @@
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（seizure 鉴别 — 药物诱发 vs 原发癫痫）
 > - 🌱 TODO（待生成衍生）：
 >   - 短期（高频陷阱，可先建）：生成 [[完整笔记/专题笔记/BZD_半衰期与withdrawal对照表]]（含 LOT 肝病安全 + 戒酒戒 BZD 选 long-acting 的逻辑）
->   - ✅ 已建 [[完整笔记/专题笔记/psych_停药综合征鉴别速查]]（2026-05-19，BZD/Alcohol/Opioid/SSRI-SNRI/TCA 全表 + FINISH 助记 + 用药 vs 停药 seizure 来源鉴别；后续积累更多题再补充）
+>   - ✅ 已并入 [[完整笔记/专题笔记/psych_物质急诊速查]] §16（BZD/Alcohol/Opioid/SSRI-SNRI/TCA 全表 + FINISH 助记 + 用药 vs 停药 seizure 来源鉴别）
 >   - 与今天 Q15104（AUD 药物）合并 → 可生成 [[完整笔记/专题笔记/_衍生_成瘾药物治疗对照表]]（AUD/OUD/Smoking + withdrawal 管理）
 >
 > ## ✅ 复盘行动
