@@ -13671,3 +13671,69 @@
 > 状态:: 🟡
 > 错因:: 知识
 
+> [!example]- [2026-05-20] Psych / 神经病理性疼痛共病抑郁选 SNRI (Q11903)
+> ^Q11903
+>
+> **1. Stem 模式**
+> 「烧灼脚痛 + 长期 T2DM + 抑郁三件套」→ 一个明显诊断（depression 描述写得很满）掩盖第二个并存疾病（diabetic peripheral neuropathy）。要求选「一药两治」的药。
+>
+> **2. 核心概念**
+> Neuropathic pain 共病 depression → **SNRI (duloxetine, venlafaxine)** 首选：既是神经痛一线镇痛药，又是抗抑郁药。镇痛机制 = ↑NE/5-HT 增强下行抑制通路（descending inhibitory pathway）。关键在 **NE 成分**。
+>
+> **3. 普适规则 — Neuropathic Pain 一线药 × 共病匹配**
+>
+> ```
+> 一线三药：
+>   SNRI (duloxetine)     → 共病【抑郁】✓  (首选 over TCA，更安全)
+>   TCA (amitriptyline)   → 共病抑郁/失眠（次选）⚠心脏毒性/QT↑/体位性低血压/尿潴留
+>   Gabapentinoid         → 共病【局灶性癫痫】✓
+>     (gabapentin/pregabalin)
+> ```
+>
+> **抗抑郁药谁能治神经痛？（只有含 NE 的行）**
+>
+> | 药 | 类别 | 治抑郁 | 治神经痛 |
+> |---|---|---|---|
+> | Duloxetine | SNRI | ✓ | ✓（含 NE）|
+> | Citalopram/SSRI | SSRI | ✓ | ✗（NE 不足，证据弱）|
+> | Bupropion | NDRI | ✓ | ✗（还↑癫痫风险）|
+> | Mirtazapine | 四环 | ✓ | ✗（镇静+增食欲，肥胖避免）|
+> | Trazodone | 5-HT 调节 | ✓（多助眠）| ✗（强镇静；男性 priapism）|
+>
+> **4. 易混陷阱（普适）**
+> - SSRI vs SNRI 在神经痛上的差异 = **NE 成分**（NE 是下行抑制通路关键递质，SSRI 缺 NE → 治不了神经痛）。
+> - 「四个抗抑郁药挑唯一兼顾神经痛的」= 经典选项设计；别只盯 depression。
+> - TCA 虽也治神经痛，但有心脏毒性/QT/体位性低血压/尿潴留 → SNRI 更安全，肥胖+糖尿病患者尤其。
+>
+> **5. 我为什么错**
+> 看到 "major depressive disorder is diagnosed" 就锁定抗抑郁药选了标准 SSRI（Citalopram）。**漏看 "painful, burning sensations in feet" + "long-standing T2DM" 这条 neuropathy 线索**，且没分清 SSRI/SNRI 在神经痛上的区别。陷阱本质：一个被写得很满的诊断掩盖了第二个需"一药通吃"的并存疾病。
+>
+> **6. Memory Hook**
+> - 「糖尿病脚烧得睡不着，人也抑郁了」→ **Duloxetine 一药两治**。
+> - SNRI = 双引擎（5-HT + **NE**），NE 是镇痛引擎；SSRI 单引擎开不动神经痛。
+> - 三个 D：**D**uloxetine → **D**iabetic neuropathy + **D**epression。
+>
+> ---
+>
+> **7. 🤔 我的卡点**
+> - 卡点：把「治抑郁」当成唯一目标 → 学到「双病共存题要找能一箭双雕的药」。
+> - 卡点：不清楚 SSRI 为何治不了神经痛 → 学到「关键在 NE，缺 NE 则镇痛证据弱」。
+>
+> **8. 🔗 关联**
+> - 🔁 同主题错题：（首题，等后续 neuropathic pain / SNRI vs SSRI 题目积累）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/神经]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/endocrine]]（DPN 是 T2DM 长期并发症）
+> - 🌱 TODO（待生成衍生）：等 psych 抗抑郁药章节复习完，请 Claude Code 整合「抗抑郁药非抑郁适应症」类错题（duloxetine→神经痛、bupropion→戒烟、mirtazapine→食欲↑/助眠、trazodone→助眠、SSRI→焦虑/OCD/PTSD）→ 生成 [[完整笔记/专题笔记/_衍生_抗抑郁药一药多用对照表]]
+>
+> **9. ✅ 复盘行动**
+> - [ ] 1 周后重做（盖答案，先找"第二个病"）
+> - [ ] 默写「神经痛一线三药 × 共病匹配」+「5 抗抑郁药谁治神经痛」两表
+> - [ ] 找 3 题练：gabapentin（神经痛+癫痫）/ TCA 心脏副作用排除 / bupropion 戒烟·避癫痫
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: 神经病理性疼痛共病抑郁 → SNRI（duloxetine）一药两治 / SSRI vs SNRI 神经痛差异在 NE / 神经痛一线三药 × 共病匹配 / 隐藏第二诊断题型
+> 状态:: 🟡
+> 错因:: pattern
+
