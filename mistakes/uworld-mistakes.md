@@ -13273,3 +13273,80 @@
 > 状态:: 🟡
 > 错因:: pattern
 
+> [!example]- [2026-05-20] Psych / MS 最常见精神并发症 = 抑郁 (Q15145)
+> ^Q15145
+>
+> **1. Stem 模式**
+> 「年轻女性 + 多次自行缓解的神经症状（视力/感觉/排尿）分隔在不同时间 + MRI 脑室周围/胼胝体 T2 高信号」→ MS。问"最可能发展出哪种并发症" → 答最常见精神并发症 = depression。
+>
+> **2. 核心概念**
+> **Depression 是 MS 最常见的精神并发症（高达 ~2/3 患者）**，可治疗（心理治疗+抗抑郁药）。机制：神经炎症/免疫改变 + 对神经缺损的心理反应，多因素。
+>
+> **3. 普适规则 — MS 速查 + 诊断双钥匙**
+>
+> ```
+> MS 诊断核心：DIT（时间多发）+ DIS（空间多发）
+>   人群：women 15-50（年轻女性）
+>   病程：relapsing-remitting，发作数天-数周后【自行缓解】
+>   经典首发：optic neuritis（单眼痛性视力↓）
+>   典型影像：periventricular + corpus callosum，T2 高信号
+>   表现轮换：眼(视神经炎) / 脊髓(神经源性膀胱→尿失禁) / 脑干 / 半球
+>   ────────────────────────────────
+>   最常见精神并发症 = DEPRESSION (~2/3)
+>   认知 = cognitive impairment（注意/记忆/处理速度/执行）≠ frank dementia
+>   psychosis = 仅【大剂量激素治疗】副作用，非疾病本身
+> ```
+>
+> **反复短暂神经症状鉴别（破 TIA 误区）**
+>
+> | 诊断 | 人群 | 持续 | 关键鉴别 |
+> |---|---|---|---|
+> | MS relapse | 年轻女性 | 数天-数周自行缓解 | DIT+DIS, MRI 脱髓鞘 |
+> | TIA | 老年/血管危险因素 | 数分-1小时 | 血管分布, 无脱髓鞘 |
+> | Seizure | 任意 | 数秒-数分 | 刻板发作, EEG |
+> | Migraine aura | 常年轻 | 数分-1小时 | 头痛伴随, 视觉先兆扩散 |
+>
+> **4. 易混陷阱（普适）**
+> - MS → 选 **dementia** = 错：是 cognitive impairment，不是 frank dementia（概念偷换）。
+> - MS → 选 **psychosis** = 错：那是大剂量激素治疗副作用，不是病本身并发症。
+> - MS → 选 conversion / somatic symptom disorder = 错：这俩前提是"症状无器质解释"，但 MS 是明确器质病。
+> - MS → 选 GAD / panic = 错：MS 常有疾病相关焦虑，但不增加焦虑障碍风险。
+>
+> **5. 我为什么错**
+> 把 sudden-onset blurry vision 误当 **TIA**，顺着"血管事件→vascular dementia→抑郁继发于 dementia"框架走，选了 Dementia；urinary incontinence 解释不了就搁置。根本错因：① 整个诊断框架搭错（脱髓鞘误当血管事件）② 一条解释不了的关键线索（尿失禁）= 框架错了的红灯，却没回头质疑 ③ cognitive impairment vs frank dementia 未分清。
+> ⚠ 元认知：24 岁健康女性无血管危险因素 → TIA 几乎不可能；且 TIA 数分-1h 缓解 ≠ "over several weeks"。**先用「人群+病程」给框架做合理性检验，再往下推。**
+>
+> **6. Memory Hook**
+> - 「年轻女人，眼睛-手脚-膀胱轮流坏、每次自己好、MRI 胼胝体亮点」= MS。
+> - MS = **时空旅行者**：时间多发(DIT) + 空间多发(DIS) 双钥匙。
+> - MS 最常见心病 = De**pression**，不是 De**mentia**（两个 D 别选错）。
+> - 解释不了的线索 ≠ 跳过，而是**框架错了的红灯**。
+>
+> ---
+>
+> **7. 🤔 我的卡点**
+> - 卡点：blurry vision 第一反应是 TIA → 学到「年轻女性+病程数周+自行缓解 应否决血管框架，转向脱髓鞘」。
+> - 卡点：urinary incontinence 解释不出来 → 学到「无法整合的关键线索是换诊断的信号，不是可忽略的噪音」。
+>
+> **8. 🔗 关联**
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#Q11903]] 共病抑郁主题（DPN+抑郁选 SNRI vs MS+抑郁识别并发症，互补：一考治疗选药、一考并发症识别）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/神经]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/眼科]]（optic neuritis 是 MS 经典首发）
+> - 🌱 TODO（待生成衍生）：
+>   - 等神经 MS 章节复习完 → Claude Code 整合「MS 各系统表现 + 鉴别(TIA/seizure/migraine/conversion) + 精神并发症」→ 生成 [[完整笔记/专题笔记/_衍生_MS全景图与误诊陷阱]]
+>   - 等 psych 积累后 → 整合「Depressive disorder due to another medical condition（MS/帕金森/卒中/甲减等继发抑郁）」→ 生成 [[完整笔记/专题笔记/_衍生_继发性抑郁的内科病因]]
+>
+> **9. ✅ 复盘行动**
+> - [ ] 1 周后重做（先做「人群+病程」框架合理性检验再选诊断）
+> - [ ] 默写「MS：DIT+DIS / 典型影像 / 最常见精神并发症」
+> - [ ] 默写「反复短暂神经症状 4 鉴别表」（破 TIA 误区）
+> - [ ] 找 3 题练：MS 影像/McDonald 标准 / optic neuritis / 继发于内科病的抑郁
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: MS 最常见精神并发症 = 抑郁（~2/3）/ MS 诊断双钥匙 DIT+DIS / 反复短暂神经症状鉴别（破 TIA 误区）/ cognitive impairment ≠ frank dementia
+> 状态:: 🟡
+> 错因:: pattern
+
