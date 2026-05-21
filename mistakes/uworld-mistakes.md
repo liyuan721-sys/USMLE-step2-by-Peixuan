@@ -13095,3 +13095,112 @@
 > 状态:: 🟡
 > 错因:: 干扰项
 
+> [!example]- [2026-05-20] 精神科 / Venlafaxine 剂量依赖性高血压 (Q20497)
+> ^Q20497
+>
+> ### 1. Stem 模式
+> MDD 经 SSRI（escitalopram）足量足疗程仅轻微改善 → 换 venlafaxine 并 titrate 到最大剂量 → 问"该监测什么"。
+> 关键组合：**venlafaxine + 高/最大剂量 + 问监测项目**。
+>
+> ### 2. 核心概念
+> Venlafaxine 通过抑制 **NE 再摄取**引起**剂量依赖性高血压**（≥225 mg 显著，diastolic 尤甚）。启动前查 BP，治疗中定期监测。
+> 答案：**Blood pressure**。
+>
+> ### 3. 普适规则
+> SNRI 副作用 = 5-HT 侧 + NE 侧 + 停药侧：
+> - 5-HT 侧：恶心 / 性功能障碍 / SIADH-低钠(老人) / 出血(配 NSAID·抗凝) / 5-HT 综合征(配 MAOI)
+> - NE 侧：**血压↑·心率↑**（venlafaxine 高剂量最典型）
+> - 停药侧：discontinuation syndrome（半衰期短最重，venlafaxine 招牌）
+> 高血压是 **SNRI 类效应**，但 venlafaxine 最典型、最常考。
+>
+> ### 4. 易混陷阱（普适）
+> "哪个精神科药查哪个监测项目"映射要建牢：
+> - Clozapine → CBC/ANC（agranulocytosis）
+> - 抗精神病药(atypical) → 血脂+血糖（代谢综合征）
+> - Lithium → 锂浓度+TSH+肾功能
+> - TCA → ECG（QRS）+ 血药浓度
+> - **Venlafaxine → 血压**
+> 别把 TDM（锂/TCA/抗癫痫）、CBC（clozapine）、血脂（抗精神病药）错套到 SNRI。
+>
+> ### 5. 我为什么错（个性化）
+> 选对了但"知识点不会"——蒙对/排除对、机制空白。说不清"为什么是血压、为什么 venlafaxine、为什么强调高剂量"。换个问法（如 start lisinopril vs 减量）就会翻车。
+> 核心：**选对 ≠ 掌握**，真正考点是 venlafaxine 高剂量→NE→HTN→查 BP 这条因果链。
+>
+> ### 6. Memory Hook
+> **"高剂量 Venlafaxine 把血压'文拉'高了"** —— "拉"= 把 BP 拉高（NE 拉血管收缩）。口诀：**SNRI 加量，先量血压。**
+>
+> ---
+>
+> ### 7. 🤔 我的提问 / 卡点
+> - "是所有 SNRI 都高血压还是只有 venlafaxine？" → 高血压是**类效应**，但 venlafaxine 因 5-HT>>NE 亲和、需高剂量才显 NE 效应，所以最典型最常考；duloxetine 更常考疼痛适应症+肝毒。
+>
+> ### 8. 🔗 关联
+> - 🔁 同主题错题：[[mistakes/uworld-mistakes#^Q15098]] lamotrigine→皮疹/SJS-TEN（同属"精神科药物标志副作用"，互补陷阱）
+> - 📚 主笔记：[[完整笔记/专题笔记/psych_精神科药物副作用速查]] §1.4 / [[完整笔记/Peixuan分科笔记/psych]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（药源性高血压，列入继发性 HTN 鉴别）
+> - 🌱 TODO：venlafaxine→BP / lamotrigine→rash / clozapine→CBC / 抗精神病药→代谢 / lithium→TSH肾 / TCA→ECG —— "药↔标志副作用↔监测"映射已并入 [[完整笔记/专题笔记/psych_精神科药物副作用速查]] §6
+>
+> ### 9. ✅ 复盘行动
+> - [ ] 1 周后重做（能否说出"为什么 B"完整因果链）
+> - [ ] 盲写"精神科药→监测项目"对照表
+> - [ ] 找 3 道类似题：SNRI 副作用 / clozapine 监测 / 抗精神病药代谢综合征
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Venlafaxine 剂量依赖性高血压 / SNRI 副作用框架（5-HT侧+NE侧+停药侧）/ 精神科药↔监测项目映射
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-20] 精神科 / Lamotrigine 皮疹与 SJS-TEN (Q15098)
+> ^Q15098
+>
+> ### 1. Stem 模式
+> Bipolar disorder（抑郁相）+ 1 个月前新加药 + 查体见 maculopapular rash（患者自己没注意）→ 问最可能病因药。
+> 关键组合：**bipolar + 新加药 1–2 个月内 + 皮疹**。
+>
+> ### 2. 核心概念
+> Lamotrigine（抗癫痫药，用作双相**抑郁相**稳定剂）致皮疹率 ~10%，早期皮疹可能是 **SJS/TEN** 前兆 → **一见任何皮疹立即停药**（discontinue at first sign of rash）。
+> 答案：**Lamotrigine**。
+>
+> ### 3. 普适规则
+> 皮疹谱按 BSA 脱落分层：mild maculopapular(~10%) → SJS(<10%) → SJS/TEN overlap(10–30%) → TEN(>30%, ~0.1%)。
+> 因早期无法预测严重度，规则就是**见疹即停**。
+> 风险放大：合用 **valproate**（抑制代谢→血药↑）/ **加量过快** / **儿童**。
+>
+> ### 4. 易混陷阱（普适）
+> 题目塞一堆"都能治双相"的药，唯一区分点是**标志副作用**：
+> - SSRI(escitalopram/sertraline) → 双相用需谨慎，风险是**转躁**，非皮疹
+> - 抗精神病药(haloperidol/olanzapine/quetiapine/lurasidone) → 风险是 **EPS / 代谢综合征**，非皮疹
+> - 只有 **lamotrigine** 标志副作用 = 皮疹
+> 记忆：**抗精神病药记"代谢"，lamotrigine 记"皮疹"**。
+>
+> ### 5. 我为什么错（个性化）
+> 做对但"考点不确定"——靠"lamotrigine+皮疹"模糊印象选中，说不清 SJS/TEN 进展逻辑、为何立即停、风险放大因素。两条独立知识(①双相抑郁相用药 ②标志副作用=rash且 first-sign-stop)任一模糊就动摇。
+>
+> ### 6. Memory Hook
+> **"Lamo 长疹，见疹就撤"** —— La**mo**trigine 的"疹"是招牌，一见 first sign 马上停（可能是 SJS/TEN 前哨）。
+>
+> ---
+>
+> ### 7. 🤔 我的提问 / 卡点
+> - "这个考点不确定，总结入库" → 明确两层：lamotrigine = 双相抑郁相用药 + 标志副作用是皮疹（且要立即停药）；并扩展出 SJS/TEN 分型、风险放大因素、跨科诱因药。
+>
+> ### 8. 🔗 关联
+> - 🔁 同主题错题：[[mistakes/uworld-mistakes#^Q20497]] venlafaxine→剂量依赖性高血压（同属"精神科药物标志副作用"，互补陷阱）
+> - 📚 主笔记：[[完整笔记/专题笔记/psych_精神科药物副作用速查]] §4.2 / [[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/derm]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/derm]]（SJS/TEN 分型与诱因；其他高频诱因药：carbamazepine·phenytoin·磺胺·别嘌醇·NSAIDs）
+> - 🌱 TODO：lamotrigine→rash 与 venlafaxine→BP 已并入 [[完整笔记/专题笔记/psych_精神科药物副作用速查]]（§4.2 / §6）；如 SJS/TEN 诱因题积累够，另在 derm 侧建衍生
+>
+> ### 9. ✅ 复盘行动
+> - [ ] 1 周后重做（能否在一堆"都能治双相"的药里仅凭 rash 锁定 lamotrigine）
+> - [ ] 盲写"双相药→标志副作用"对照表
+> - [ ] 找 3 道类似题：lamotrigine/SJS-TEN / 非典型抗精神病药代谢综合征 / 双相用 SSRI 转躁风险
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Lamotrigine 皮疹 → SJS/TEN（见疹即停）/ 双相抑郁相用药 / 双相药↔标志副作用映射
+> 状态:: 🟡
+> 错因:: 知识
+

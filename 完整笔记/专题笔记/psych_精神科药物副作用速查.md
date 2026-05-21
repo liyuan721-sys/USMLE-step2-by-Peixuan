@@ -84,6 +84,43 @@ H  Hyperarousal          高警觉 / 焦虑激越
 > [!danger] 与复发的鉴别
 > 停药综合征 = **数天内**出现、以躯体症状为主、再用药数小时缓解；抑郁复发 = **数周内**逐渐出现、以情绪症状为主。考点：漏服 Paroxetine 后出现"电击感 + 流感样" → 答 discontinuation syndrome，不是复发。
 
+### 1.4 SNRI 副作用框架（venlafaxine 高血压 / SIADH / 停药）
+
+> [!warning] 高血压是 SNRI 类效应，但 venlafaxine 最典型、最常考
+> **Venlafaxine = "短半衰期 + 高剂量踩 NE 油门"** → 两个标志副作用都源于此：最易**停药反跳**、最易**升血压**。题目出现"**高剂量 + 血压**"基本锁 venlafaxine。
+
+```
+NE 再摄取抑制相对强度（越往下，高剂量越要盯血压）
+  Duloxetine       5-HT/NE 较平衡，血压升高不突出（更常考"疼痛适应症 + 肝毒"）
+  Desvenlafaxine   venlafaxine 活性代谢物，同样有剂量相关血压风险
+  Venlafaxine   ★  剂量依赖性 HTN 最典型最常考（≥225 mg NE 驱动显著）
+  Levomilnacipran  NE 偏强，亦可升血压 / 心率
+```
+
+**SNRI 类共有副作用**（所有 SNRI 都可能）：
+
+| 系统 | 副作用 | 考点提示 |
+|---|---|---|
+| 5-HT | 恶心、性功能障碍、失眠/嗜睡、出汗 | 启动早期最常见 |
+| 5-HT | **SIADH → 低钠血症** | 老年人高危；新用药后疲乏 / 意识改变 → 查 Na⁺ |
+| 5-HT | **出血风险↑**（GI 出血、瘀斑）| 抑制血小板 5-HT；合用 NSAID / 抗凝药时明显 |
+| 5-HT | **Serotonin syndrome** | 与 MAOI / 其他 5-HT 药合用 |
+| NE | **血压↑、心率↑** | venlafaxine 高剂量最典型 |
+| 停药 | **Discontinuation syndrome** | 半衰期短者最重（见 §1.3 FINISH）|
+
+> [!danger] Venlafaxine 高频考点
+> - **剂量依赖性高血压**（舒张压尤甚）：NE 效应在 **≥225 mg** 显著 → **启动前查 BP、治疗中监测**。
+> - **停药综合征最严重**：半衰期短 → 漏服即 brain zaps / 头晕 / 流感样 → 需缓慢减量。
+> - **SIADH / 低钠**：老年患者尤其警惕。
+> - **过量毒性更高**：相对其他 SNRI / SSRI，过量风险更高（癫痫、心脏毒性、QT）。
+
+> [!tip] 个别 SNRI 专属
+> - **Duloxetine**：① 适应症广 —— **糖尿病周围神经病变、纤维肌痛、慢性疼痛**（不只抑郁）；② **肝毒性** → 避免用于显著肝病 / 酗酒者。
+> - **Desvenlafaxine**：venlafaxine 活性代谢物，副作用谱类似（含血压风险）。
+
+> [!success] 记忆挂钩
+> **"S 管情绪副作用，N 管血压心率，短半衰期管停药反跳。"** Venlafaxine 占了 N（血压）+ 短半衰期（停药）两头 → 这两个是它的招牌。
+
 ---
 
 ## §2 抗精神病药（Antipsychotics）
@@ -200,6 +237,29 @@ H  Hyperarousal          高警觉 / 焦虑激越
 > - 可致 **DRESS 综合征**（药物反应伴嗜酸性粒细胞增多和系统症状）。
 > - **快速停药 → 在已有癫痫的患者中可诱发 seizure**（突然撤药降低发作阈值）。
 
+> [!danger] 见疹即停（discontinue at first sign of any rash）⭐
+> 看到 **bipolar + 新加药 1-2 个月内 + 皮疹** → 立刻想 lamotrigine。致皮疹率可达 ~10%；关键不是发生率高，而是**早期无法预测会否演变成致命 SJS/TEN** → 规则就是**一见任何皮疹立即停药**。
+
+**皮疹谱（按 BSA 表皮脱落分层）**：
+
+| 分型 | BSA 脱落 | 发生率 | 处理 |
+|---|---|---|---|
+| Mild maculopapular rash | — | ~10% | **任何皮疹立即停药** |
+| SJS | <10% | 重症谱 | 停药 + 急诊 |
+| SJS/TEN overlap | 10–30% | — | 停药 + 重症监护 |
+| TEN | >30% | ~0.1% | 停药 + 烧伤式管理 |
+
+**皮疹风险放大因素**：
+
+| 因素 | 机制 |
+|---|---|
+| 合用 **valproate** | 抑制 lamotrigine 代谢 → 血药浓度↑ |
+| **加量过快** | 滴定太猛 → 风险↑（故须缓慢滴定）|
+| **儿童** | 儿童发生率更高 |
+
+> [!success] 记忆挂钩
+> **"Lamo 长疹，见疹就撤"** —— La**mo**trigine 的"疹"是招牌。反向：**抗精神病药记"代谢"，lamotrigine 记"皮疹"**，别混。
+
 ### 4.3 Valproate / Carbamazepine 要点
 
 > [!warning] Valproate（丙戊酸）
@@ -259,11 +319,32 @@ EPS (锥体外系反应)
 
 ---
 
+## §6 双相障碍常用药 — 标志副作用速查
+
+> [!info] 用法
+> "一堆都能治双相的药里，靠**唯一的标志副作用 + 监测项目**锁定答案" —— 把"药 ↔ 标志副作用 ↔ 监测"建成映射，是这类题（如 venlafaxine→BP、lamotrigine→rash）的通用解法。
+
+| 药物 | 角色 | 标志副作用（考点）| Stem 关键词 |
+|---|---|---|---|
+| **Lamotrigine** | 双相**抑郁相**首选稳定剂 | **皮疹 → SJS/TEN**，一见皮疹立即停 | "new med + rash + 前 2 个月" |
+| **Venlafaxine (SNRI)** | 抗抑郁 / SNRI | **剂量依赖性高血压** → 查 BP | "titrated to high/max dose" |
+| **Lithium** | 经典稳定剂 | 甲减、肾性尿崩、震颤、治疗窗窄 | "tremor, polyuria, thyroid" |
+| **Valproate** | 稳定剂 / 抗癫痫 | 肝毒、致畸(NTD)、血小板↓；**↑lamotrigine 皮疹风险** | "hepatotox / pregnancy" |
+| **Olanzapine** | 非典型抗精神病药 | **代谢综合征**（体重 / 血糖 / 血脂↑）| "weight gain, new DM" |
+| **Quetiapine / Lurasidone** | 非典型，亦治双相抑郁 | 镇静（喹硫平）/ 代谢，EPS 较少 | "sedation" |
+| **Haloperidol** | 典型抗精神病药 | EPS、迟发性运动障碍、QT | "muscle stiffness, dystonia" |
+| **Clozapine** | 非典型（难治性精分）| **agranulocytosis → 查 CBC/ANC** | "treatment-resistant schizophrenia" |
+| **TCA** | 三环类抗抑郁 | 过量心脏毒性（宽 QRS）、抗胆碱 | "overdose, wide QRS" |
+
+---
+
 ## 🔗 关联
 
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes#^Q2501]] EPS vs NMS 鉴别
   - [[mistakes/uworld-mistakes#^Q2499]] SGA 机制（5-HT2A + D2 阻断）
+  - [[mistakes/uworld-mistakes#^Q20497]] venlafaxine → 剂量依赖性高血压（§1.4 素材）
+  - [[mistakes/uworld-mistakes#^Q15098]] lamotrigine → 皮疹 / SJS-TEN（§4.2 素材）
   - 其余同主题错题等积累
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（NMS / 5-HT 综合征急诊处理见 [[完整笔记/专题笔记/psych_物质急诊速查]] §4 / §5）
 - 🏥 跨学科：
