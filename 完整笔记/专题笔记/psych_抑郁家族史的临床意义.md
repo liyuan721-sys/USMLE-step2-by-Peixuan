@@ -76,7 +76,7 @@ type: 专题笔记
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - 暂无已入库同主题错题。相关题 **Q2517**（自杀最强风险因子 = 既往自杀未遂；母亲抑郁 = 遗传负荷、父亲自杀 = 风险↑，正是本笔记 ② ③ 的实例）尚未入库 `mistakes/uworld-mistakes.md` —— 入库后补 [[mistakes/uworld-mistakes#^Q2517]] 链接。
+  - [[mistakes/uworld-mistakes#^Q2517]] 自杀最强风险因子 = 既往自杀未遂（该题 stem 含母亲抑郁 = 遗传负荷、父亲自杀 = 风险↑，正是本笔记 ② ③ 的实例；本笔记"家族史临床意义"即从该题 7' 讨论提炼）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（抑郁、双相、自杀风险评估、SSRI 黑框警告）
 - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/OB]]（postpartum mood episode 是双相的风险窗口 —— 见本笔记 ① 表格"产后发作"行）
 - 🌱 TODO（待生成衍生）：本笔记聚焦"家族史"单一维度；等积累"抑郁 vs 双相"鉴别类错题后 → 扩展为更完整的 [[完整笔记/专题笔记/psych_Bipolar_vs_Unipolar鉴别]]（时间线 / psychotic features / 转相风险 / 治疗分流）
