@@ -7284,7 +7284,7 @@
 > 
 > 学科:: 心血管
 > 主题:: Digoxin toxicity / 老年多药患者用药列表逐药扫描
-> 状态:: 🟡
+> 状态:: 🔴 反复错（2026-05-21 浩斯宾 self-test：地高辛中毒诱因误答高钾，应低钾 → 升级）
 > 错因:: pattern
 
 > [!example]- [2026-05-16] 心内 / Symptomatic Bradycardia → Atropine 1st line (Q2141)
@@ -12535,7 +12535,7 @@
 >
 > 学科:: Psych
 > 主题:: Synthetic cathinone（bath salts）中毒 / 与 MDMA-cocaine-PCP 鉴别 / 病程长 + 尿筛阴性 + combative 三签名
-> 状态:: 🟡
+> 状态:: 🔴 反复错（2026-05-21 浩斯宾 self-test：误答 MDMA，应合成卡西酮/浴盐 → 升级）
 > 错因:: 干扰项
 
 > [!example]- [2026-05-20] 精神科 / 类固醇诱导精神病 (Q16049)
@@ -13734,7 +13734,7 @@
 >
 > 学科:: Psych
 > 主题:: 神经病理性疼痛共病抑郁 → SNRI（duloxetine）一药两治 / SSRI vs SNRI 神经痛差异在 NE / 神经痛一线三药 × 共病匹配 / 隐藏第二诊断题型
-> 状态:: 🟡
+> 状态:: 🔴 反复错（2026-05-21 浩斯宾 self-test：误答 TCA，应 duloxetine/SNRI → 升级）
 > 错因:: pattern
 
 > [!example]- [2026-05-20] Psych / 双相抑郁用药 (Q15849)
