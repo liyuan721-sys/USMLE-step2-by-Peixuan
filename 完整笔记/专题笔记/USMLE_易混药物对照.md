@@ -63,7 +63,7 @@ Adenosine                                    Atropine
 
 ## 待补充易混对
 
-- **Naloxone vs Naltrexone**（救命短效 vs 维持长效）—— 已收录于 [[完整笔记/专题笔记/psych_成瘾药物对照表]]
+- **Naloxone vs Naltrexone**（救命短效 vs 维持长效）—— 已收录于 [[完整笔记/专题笔记/psych_物质急诊速查]] §15.7
 - 后续遇到再按本笔记 §1 模板追加（锚定句 + 对照表 + 机制 + UW stem + hook）。
 
 ---

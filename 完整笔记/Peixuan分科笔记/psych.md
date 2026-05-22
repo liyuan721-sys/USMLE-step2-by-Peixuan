@@ -1140,7 +1140,7 @@ Treatment of personality disorders:
 
 → 完整 6 大物质中毒鉴别 + SS/NMS/MH 三联 + 干湿对照见 [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]]（v1 = 2026-05-19，Q11853 触发新建）
 
-→ AUD 维持期 3 药对比（Naltrexone vs Acamprosate vs Disulfiram）+ OUD 三药对比（Methadone vs Buprenorphine vs Naltrexone）+ 戒烟药对比详见 [[完整笔记/专题笔记/psych_成瘾药物对照表]] §1.3 / §3.4 / §2
+→ AUD 维持期 3 药对比（Naltrexone vs Acamprosate vs Disulfiram）+ OUD 三药对比（Methadone vs Buprenorphine vs Naltrexone）+ 戒烟药对比详见 [[完整笔记/专题笔记/psych_物质急诊速查]] §15.2 / §15.5 / §15.4
 
 **4 大戒断综合征 vital signs 对比 ⭐⭐⭐**（Q3189 触发）
 
@@ -1151,7 +1151,7 @@ Treatment of personality disorders:
 | **Opioid** ⭐ | **正常 / 略 ↑** | **正常** | **无**（清醒，痛苦）| 无 | 不致死（成人）|
 | **Stimulant**（cocaine / amphet）| 正常 / ↓ | 正常 | 抑郁 / 自杀念头 | 无 | 心理风险（自杀）|
 
-> 口诀 **"GABA 飙 / 阿片平 / 兴奋剂沉"** —— vital signs 正常 = NOT alcohol/BZD withdrawal。详见 [[完整笔记/专题笔记/psych_成瘾药物对照表]] §3.3。
+> 口诀 **"GABA 飙 / 阿片平 / 兴奋剂沉"** —— vital signs 正常 = NOT alcohol/BZD withdrawal。详见 [[完整笔记/专题笔记/psych_物质急诊速查]] §9.1。
 
 **MDMA (Ecstasy / Molly) ⭐**（Q11853 触发）
 
@@ -1379,7 +1379,7 @@ Withdrawal:易燃易爆炸
 
 躯体上：食欲下降（这和中毒时的 Hunger 相反）、腹痛、发热、冷战。
 
-→ 成瘾医学完整药物对照见 [[完整笔记/专题笔记/psych_成瘾药物对照表]]（v1.4 含 AWS 4 阶段精细表 + Phenytoin 陷阱 + 维持期 3 药 + 阿片戒断三药 + 戒烟药对比）
+→ 成瘾医学完整药物对照见 [[完整笔记/专题笔记/psych_物质急诊速查]] §9 戒断综合征（AWS 4 阶段时间轴 + 对症急救药）+ §15 成瘾维持期药物治疗（维持期 3 药 + 阿片戒断三药 + 戒烟药）
 
 **<u>Alcohol Withdrawal Timeline</u>**
 
