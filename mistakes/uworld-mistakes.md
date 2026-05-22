@@ -14083,7 +14083,8 @@
 >
 > **8. 🔗 关联**
 > - 🔁 同主题错题：
->   - （首题，等后续精神科 acute agitation / bipolar 题积累后横向连接）
+>   - [[mistakes/uworld-mistakes#^Q15856]] 急性躁动的药物管理（**同考点「急性即刻处理 ≠ 长期维持」** — 本题误选 Valproate、Q15856 误选 Lithium，连续 2 次错）
+>   - （等后续精神科 acute agitation / bipolar 题积累后横向连接）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/专题笔记/psych_双相障碍用药决策树]]
 > - 🏥 跨学科：（无特别跨科关联）
 > - 🌱 TODO（待生成衍生）：等 psych 章节复习完，请 Claude Code 整合"急性激越/不配合患者的即刻处理"类错题（acute mania / acute psychosis / agitation in dementia 等）→ 生成 [[完整笔记/专题笔记/_衍生_急性激越处理决策树]]（强调：给药途径 + 起效速度 + 配合度 三要素）
@@ -14098,7 +14099,7 @@
 >
 > 学科:: Psych
 > 主题:: 急性躁狂激越即刻处理（拒口服 → IM antipsychotic）/ 急性即刻处理 ≠ 长期维持框架 / 给药途径+起效速度+配合度 三要素 / "一线药物类别"≠"本题最优解"
-> 状态:: 🟡
+> 状态:: 🔴 反复错（与 Q15856 同考点「急性即刻处理 ≠ 长期维持」连续第 2 次错：2026-05-21 Q2355 误选 Valproate、2026-05-22 Q15856 误选 Lithium → 2026-05-22 升级）
 > 错因:: pattern
 
 > [!example]- [2026-05-21] psych / Persistent Depressive Disorder (dysthymia) vs 人格障碍鉴别 (Q4816)
@@ -15099,4 +15100,527 @@
 > 主题:: NMS 诊断（抗精神病药 + 铅管样强直 + 高热 + 自主神经不稳）/ NMS 实验室表现（白细胞↑左移·CK↑·肌红蛋白尿）—— 白细胞高非感染独有 / NMS vs 感染鉴别（血压方向·尿检）
 > 状态:: 🟡
 > 错因:: 知识
+
+> [!example]- [2026-05-22] Psych / 急性躁动的药物管理 (Q15856)
+> ^Q15856
+>
+> **Stem 模式**
+> - agitated patient + safety risk（挥拳、冲向 staff、pacing）+ "initial pharmacological management"
+> - 常配诊断钩子（如 mania：grandiose delusion + pressured speech + 抑郁/自杀史）诱导选长期药
+>
+> **核心概念**
+> - 急性躁动 + 安全风险 → 第一步用**起效快、可 IM** 的药：**benzodiazepine (lorazepam) ± antipsychotic (haloperidol)**
+> - 目标 = 快速控制行为、保证安全（分钟级），**不是治本**
+> - 患者冷静后再 workup（UDS / TFT / CBC / chem）+ 启动长期治疗
+>
+> **普适规则：急性躁动 SOP**
+> ```
+> agitated + safety risk?
+>     │
+>     ▼ verbal de-escalation 失败
+> ┌────────────────────────────────┐
+> │ 肌注三件套（快 + 可 IM）：         │
+> │ ① Lorazepam 单用    → 轻中度/病因不明 │
+> │ ② Haloperidol 单用  → 精神病性躁动   │
+> │ ③ Lorazepam+Halo    → 重度/好斗(B-52)│
+> └────────────────────────────────┘
+>     │ 冷静后
+>     ▼
+> workup → 长期治疗（情绪稳定剂等）
+> ```
+> - 选项里有 benzo 且病因未明/非精神病性 → UW 倾向先给 **benzo**
+> - B-52 = Benzo + Haloperidol **5**mg + diphenhydramine **50**mg（diphenhydramine 防 EPS）
+>
+> **急性 vs 长期 对比表（核心）**
+>
+> | 药物 | 类别 | 起效 | 途径 | 急性躁动 | 长期 Bipolar |
+> |---|---|---|---|---|---|
+> | Lorazepam | Benzo | 快(IM 15-30min) | PO/**IM** | ✅首选 | ❌ |
+> | Haloperidol | 一代抗精神病 | 快 | PO/**IM** | ✅(常联用) | ❌ |
+> | Olanzapine/Ziprasidone | 二代抗精神病 | 较快 | PO/IM | ✅可选 | ✅部分维持 |
+> | Lithium / VPA / CBZ | 情绪稳定剂 | **慢(数天)** | 主要**仅PO** | ❌ | ✅金标准/维持 |
+> | Clozapine | 二代抗精神病 | — | PO | ❌ | 难治性精分 |
+> | Mirtazapine | 抗抑郁药 | — | PO | ❌(恶化躁狂) | ❌ |
+>
+> **易混陷阱（普适）**
+> - 「诊断对、时机错」：诊断出 mania → 反射选情绪稳定剂，但情绪稳定剂**口服 + 需数天滴定**，救不了急性躁动
+> - 「生命体征平稳 ≠ 不紧急」：紧急的是**行为安全风险**，不是 vitals
+> - Haloperidol 禁忌钩子：QT 延长 / 低钾镁（torsades）；酒精/benzo **戒断**性躁动（降癫痫阈值）→ 这两种情况避开 haloperidol，用 benzo
+> - Mirtazapine 等抗抑郁药可**诱发/恶化躁狂** → 方向性错误
+> - Clozapine = 难治性精分专用（粒细胞缺乏），绝不用于急性镇静
+>
+> **我为什么错**
+> - 选了 C. Lithium，思路"诊断是 mania + vitals 平稳 → 给情绪稳定剂"
+> - 根本错因：把「长期 maintenance」和「急性 management」时间维度搞反；忽略 stem 里 agitated/clenched fists/motioning toward staff/initial 这些急性安全信号
+>
+> **Memory Hook**
+> - **"挥拳冲向护士 = 先打镇静针（lorazepam IM），别开锂片让他慢慢吃。"**
+> - 急性躁动像着火：先用灭火器（lorazepam，秒级），不是先装喷淋系统（lithium，工程级）
+> - 反向记忆：Li / VPA / CBZ 出现在「acute agitation initial step」题里 = 一律陷阱
+>
+> ---
+>
+> **🤔 我的提问 / 卡点**
+> - Q：haloperidol 可作为紧急注射药吗？
+>   → 学到：可以。一代抗精神病药有 IM 剂型、起效快，常与 lorazepam 联用（B-52）实现更快镇静。急性躁动里 benzo 与 haloperidol 是「队友」不是「对手」；二者都在选项且无禁忌时 UW 倾向先 benzo
+>
+> **🔗 关联**
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q2355]] 急性躁狂激越即刻处理（**同考点「急性即刻处理 ≠ 长期维持」** — Q2355 误选 Valproate、本题误选 Lithium，连续 2 次错）
+>   - [[mistakes/uworld-mistakes#^Q4895]] 急性精神病初始抗精神病药选择（**镜像题** — 本题不配合 → IM 镇静 vs Q4895 配合 → PO 治本）
+>   - （等后续 psych 急性管理题积累 — acute psychosis / delirium / 戒断性躁动镇静）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/感染]]（冷静后 workup 排除 substance/medical cause，思路与谵妄鉴别相通）
+> - 🌱 TODO（待生成衍生）：等 psych 章节复习完，请 Claude Code 整合「急性 vs 长期治疗时间维度错位」类错题（acute agitation / acute mania / status epilepticus / 急性 vs 维持降压 等跨科同构陷阱）→ 生成 [[完整笔记/专题笔记/_衍生_急性vs长期治疗陷阱]]
+>
+> **✅ 复盘行动**
+> - [ ] 1 周后重做（盲选，确认不被「诊断对」带跑）
+> - [ ] 默写急性躁动 SOP + 急性 vs 长期对比表
+> - [ ] 找 3 道类似题：acute agitation / acute mania / delirium 镇静 / bipolar maintenance 选药
+> - [ ] 反复错则给 [[完整笔记/Peixuan分科笔记/psych]] 加「薄弱点」
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: 急性躁动药物管理（lorazepam ± haloperidol IM）/ 急性即刻处理 ≠ 长期维持框架（情绪稳定剂口服·需数天滴定，救不了急性）
+> 状态:: 🔴 反复错（与 Q2355 同考点「急性即刻处理 ≠ 长期维持」连续第 2 次错：2026-05-21 Q2355 误选 Valproate、2026-05-22 Q15856 误选 Lithium）
+> 错因:: pattern
+
+> [!example]- [2026-05-22] Psych / 急性精神病的初始抗精神病药选择 (Q4895)
+> ^Q4895
+>
+> **Stem 模式**
+> - 急性精神病（disorganized speech / clang association / 幻听行为）+ **patient cooperative（配合）** + "initial treatment"
+> - 既往精神科住院史 = **只有一次**，无反复停药复发 → 不构成 nonadherence pattern
+>
+> **核心概念**
+> - 配合的急性精神病患者 → 初始 = **口服二代抗精神病药 (SGA, 如 aripiprazole)**
+> - LAI（长效针剂）的适应症是 **chronic nonadherence**，且须先确立口服耐受 + 治疗剂量后才换 → initial 阶段一律不选 LAI
+> - 除 clozapine 外，各抗精神病药疗效相当 → 按副作用谱选；SGA 优先（EPS/TD 风险低于 FGA）
+>
+> **普适规则：精神病/躁动选药四维决策**
+>
+> | 场景 | 患者状态 | 目标 | 首选 | 剂型 |
+> |---|---|---|---|---|
+> | 急性躁动/攻击 | **不配合**、危险 | 镇静、控制行为 | Lorazepam ± Haloperidol | **IM** |
+> | 急性精神病 | **配合** | 治疗精神病本身 | 口服 SGA (aripiprazole) | **PO** |
+> | 反复不依从 | 屡次停药复发 | 保证长期用药 | LAI（先确立口服后） | **长效针剂** |
+> | 难治性精分 | **≥2 次**试验失败 | 治疗抵抗 | Clozapine | PO（监测 ANC） |
+>
+> ```
+> 急性精神病需治本
+>     │
+>     ▼ 患者配合吗？
+>   ┌─┴────────┐
+> 配合          不配合/拒药
+>   │              │
+>   ▼              ▼
+> 口服 SGA      benzo±haloperidol IM 镇静
+>   │
+>   │ 后续发现反复不依从
+>   ▼
+> 先确立口服耐受+剂量 → 再换 LAI
+> ```
+>
+> **易混陷阱（普适）**
+> - **PO / IM / LAI 三剂型别混**：PO=配合默认起点；IM=不配合需立即镇静；LAI=长期不依从（慢释长效，**≠ 快速肌注**）
+> - 「可 IM / 长效」≠「急性首选」：LAI 为**长期依从**设计，不是为「现在赶紧给药」设计
+> - LAI 双层陷阱设计：一个错两层（如 haloperidol LAI = FGA + LAI 时机错），一个只错剂型（如 risperidone LAI = SGA 对、LAI 时机错）→ 抓住「initial 不上 LAI」两者一起排除
+> - Clozapine "gold standard" 诱导：仅 ≥2 次失败的难治性，粒细胞缺乏需监测
+> - Lorazepam 单用不治精神病本身（仅躁动辅助）；Lithium 需缓慢滴定、无明确心境成分时不选
+>
+> **我为什么错**
+> - 选了 C. Haloperidol LAI，思路"知道选一个可 IM 的抗精神病药"
+> - 根本错因：把上一道 Q15856「急性躁动需镇静→可 IM」的思路错位套到本题；忽略 stem 里 **cooperative（→可口服）** 和 **住院仅一次（≠nonadherence）** 两个关键限定；不知 LAI 真正适应症是 chronic nonadherence
+> - ⭐ 镜像题误判：把「镇静」场景的剂型逻辑用到「治本」场景
+>
+> **Memory Hook**
+> - **"配合就吃药（口服 SGA），不配合才打针（IM）；老忘吃药才上长效针（LAI）。"**
+> - LAI = 包月健身卡：先确认能来、练得动（口服耐受+剂量）才办卡，第一次见面就办 = 陷阱
+> - 反向记忆：stem 出现 **"cooperative / 配合"** → LAI 和 IM 全划掉，回到口服
+>
+> ---
+>
+> **🤔 我的提问 / 卡点**
+> - Q：知道选可 IM 的抗精神病药，但 A（口服 aripiprazole）vs C/F（LAI）不会选？
+>   → 学到：判断顺序是「配合不配合 + 目标镇静还是治本」先于「选哪个药」。配合→PO；本题无 nonadherence pattern→不上 LAI；A 是唯一口服 SGA，直接选
+>
+> **🔗 关联**
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q15856]] 急性躁动用 lorazepam±haloperidol IM 镇静（**镜像题**：不配合→IM 镇静 vs 本题配合→PO 治本）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
+> - 🏥 跨学科：（无明显跨学科，省略）
+> - 🌱 TODO（待生成衍生）：等 psych 章节复习完，请 Claude Code 整合「抗精神病药剂型/适应症选择」类错题（PO vs IM vs LAI vs clozapine 时机、SGA vs FGA 取舍、nonadherence 处理）→ 生成 [[完整笔记/专题笔记/_衍生_抗精神病药选择决策树]]
+>
+> **✅ 复盘行动**
+> - [ ] 1 周后重做（盲选，确认不被「可 IM/长效」带跑）
+> - [ ] 默写「PO / IM / LAI / clozapine」四维决策表
+> - [ ] 把 Q15856 与 Q4895 当**镜像对**一起复习（配合 vs 不配合 / 治本 vs 镇静）
+> - [ ] 找 3 道类似题：LAI 适应症 / clozapine 启动时机 / SGA vs FGA
+> - [ ] 反复错则给 [[完整笔记/Peixuan分科笔记/psych]] 加「薄弱点」
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: 急性精神病初始抗精神病药选择（配合患者 → 口服 SGA）/ 抗精神病药剂型决策 PO·IM·LAI / LAI 适应症 = chronic nonadherence·非急性首选 / clozapine = ≥2 次失败的难治性
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-05-22] 精神科 / 精神病性障碍鉴别 (Q17716)
+> ^Q17716
+>
+> **1. Stem 模式**
+> 应激事件后（如丧亲）+ bizarre behavior（关灯/捂耳/对空说话）+ disorganized speech（答非所问）+ 病程 1天–1月 → Brief Psychotic Disorder (BPD)。
+>
+> **2. 核心概念**
+> BPD = 急性起病的精神病性症状（妄想/幻觉/言语紊乱/行为紊乱，≥1 项），持续 **1天 – <1月**，最终完全回基线。常由 marked stressor 触发（可标注 "with marked stressor"）。
+>
+> **3. 普适规则（决策树）**
+> ```
+> 应激后出现症状
+>     │
+>     ▼ 有 PSYCHOTIC 症状?(幻觉/妄想/言语·行为紊乱)
+>  ┌──┴───────────────┐
+>  NO                 YES → 数病程
+>  ▼                   ├─ <1天   → 自限
+> 应激谱系             ├─ 1天–1月 → Brief Psychotic Disorder
+>  ├─ ≤1月 → ASD       ├─ 1–6月  → Schizophreniform
+>  └─ >1月 → PTSD       └─ ≥6月   → Schizophrenia
+> ```
+> **psychosis 病程口诀**："1天起、1月 Brief、半年 -form、超半年精分"
+>
+> **4. 易混陷阱（普适）**
+> - **Stressor 是"共享线索"不是"鉴别线索"** — ASD 和 BPD 都能被应激触发。真正分水岭 = 症状是应激型（再体验/解离/高警觉/回避）还是精神病型（幻觉/言语·行为紊乱）。
+> - **Normal grief 也可有幻觉** — 但 grief 幻觉围绕"维系与逝者联结"，且言语行为**不紊乱、能正常互动**；一旦 disorganized → 越过 grief，进入 psychosis。
+> - **Manic with psychotic features** — 有 psychosis ≠ 躁狂，必须找核心 mood 症状（elevated mood / grandiosity / ↑energy）。
+> - **Delusional disorder** — 仅妄想、行为不怪异、功能保留、病程 ≥1月。
+>
+> **5. 我为什么错（个性化）**
+> 选了 A (ASD)。看到"父亲去世"这个明确 stressor 就直接锁 ASD，把"有 stressor"当成了 ASD 的决定性证据 → 漏看 disorganized speech/behavior + 幻觉这些 psychotic 红旗。错因：概念混淆 + 没看清 stem 关键词。
+>
+> **6. High-Yield Summary Table**
+>
+> 精神病性障碍 — 按病程排（"数日子"决策表）
+>
+> | 诊断 | Psychotic 症状 | 病程 | 关键 Stem 线索 | 触发因素 |
+> |---|---|---|---|---|
+> | **Brief Psychotic Disorder** | 有 | **1天 – <1月** | 急性起病、bizarre、最终回基线 | 常有 marked stressor |
+> | **Schizophreniform** | 有 | **1月 – <6月** | 同 schizophrenia 但时间短 | 不一定 |
+> | **Schizophrenia** | 有 | **≥6月** | 含前驱/残留期 + 功能下降 | 不一定 |
+> | **Delusional disorder** | 仅妄想 | **≥1月** | 功能保留、行为不怪异 | 无 |
+>
+> 应激/哀伤谱系 — 易与 BPD 混（"有 stressor 但无 psychosis"）
+>
+> | 诊断 | 核心症状 | 病程 | 与 BPD 的区别 |
+> |---|---|---|---|
+> | **Acute Stress Disorder** | 再体验/解离/高警觉/回避 | 3天 – 1月 | **无 psychosis** |
+> | **PTSD** | 同 ASD | **>1月** | 无 psychosis，病程更长 |
+> | **Normal grief** | 思念、可有"连接型"幻觉 | 数周–数月 | 幻觉围绕逝者、**不 disorganized** |
+> | **Persistent complex bereavement** | 持续失能性哀伤 | **>12月** | 病程极长、无 psychosis |
+>
+> **7. Memory Hook**
+> - **BPD = "短路"**：巨大应激把保险丝"烧短路"，行为彻底脱轨（psychosis），但 1 个月内自己"复位"回基线。
+> - **ASD = "受惊"**：惊魂未定（闪回/警觉/回避），但人还在现实里，没脱离。
+> - **反向记忆**：题目给 stressor 时别急选 ASD/grief → 先问"有没有真正脱离现实的怪异行为？"
+>
+> ---
+>
+> **8. 🤔 我的提问 / 卡点**
+> - "看到他爸去世是明确 stressor 所以选 A" → 学到：stressor 是 ASD 和 BPD 的共享触发因素，不能用来二选一；决定性线索是症状性质（psychosis 与否）。
+>
+> **9. 🔗 关联**
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q15843]] Bipolar I vs Brief Psychotic Disorder（同涉 BPD — Q15843 分"是不是 mood disorder"，本题分"是不是 psychosis"，鉴别轴互补）
+>   - （等后续 schizophreniform / schizophrenia / ASD·PTSD·grief 错题积累后横向连）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
+> - 🏥 跨学科：（无明显跨学科）
+> - 🌱 TODO（待生成衍生）：等 psych 精神病性障碍章节复习完，请 Claude Code 整合「BPD / Schizophreniform / Schizophrenia / Delusional disorder + ASD/PTSD/Grief 鉴别」这批错题 → 生成 [[完整笔记/专题笔记/_衍生_精神病性障碍病程决策树]]
+>
+> **10. ✅ 复盘行动**
+> - [ ] 1 周后重做（先判症状性质，再数病程）
+> - [ ] 默写 psychosis 病程决策树（1天/1月/6月三条线）+ "有 stressor 鉴别 SOP"
+> - [ ] 找 3 道类似题：Schizophreniform vs Schizophrenia 病程题 / Grief vs BPD / Manic w/ psychotic features
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: 精神病性障碍病程鉴别（BPD 1天-1月 / Schizophreniform 1-6月 / Schizophrenia ≥6月 / Delusional ≥1月）/ stressor 是共享线索非鉴别线索 / BPD vs 应激谱系（ASD·PTSD·grief）靠"有无 psychosis"分
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-22] 精神科 / 心理治疗五选鉴别 (Q16064)
+> ^Q16064
+>
+> **Stem 模式**
+> > 慢性 Schizophrenia（≥1年病程、幻听+妄想+阴性症状）+ 与父母/妹妹同住 + 问"如何降低 **risk of relapse**" → 选 **Family therapy**
+>
+> **核心概念**
+> > 心理治疗选择 = "改变什么" + "治什么病"，不是"哪个最高级"。
+> > Family therapy 机制 = 给全家做疾病**教育** → 降低 **High Expressed Emotion（高情感表达：批评/敌意/过度卷入）** → 家庭压力↓ → 精分复发↓。
+> > 关键：家人理解"懒散/不讲卫生 = 阴性症状，非故意偷懒"，批评减少。
+>
+> **普适规则（五种心理治疗对照表）**
+> > ```
+> > 治疗            核心做什么          经典适应症          Stem 关键词
+> > ──────────────────────────────────────────────────────────────────
+> > DBT            情绪调节/痛苦耐受     边缘型人格(BPD)      self-harm/不稳定关系/怕被抛弃
+> > Exposure       反复接触恐惧→脱敏     恐惧症/PTSD/OCD     怕蜘蛛/怕坐飞机/回避
+> > Family         教育全家+改善氛围     精分(降复发)/青少年厌食  和父母同住/reduce relapse/high EE
+> > MET            动机性访谈推动改变     物质滥用(戒酒戒毒)    酒精/对戒断犹豫不决
+> > Psychodynamic  挖童年/潜意识冲突     慢性内心/关系冲突     childhood/insight  ★精分禁忌★
+> > ```
+> > 全称：DBT=Dialectical Behavior Therapy / MET=Motivational Enhancement Therapy
+>
+> **易混陷阱（普适）**
+> > 1. **Psychodynamic 在精分中禁用** ★高频★：会增加初始焦虑、destabilize 有精神病性疾病的患者。看到精分千万别选。
+> > 2. **DBT 是 BPD 专属**：必须有自伤/人际不稳定/被抛弃恐惧线索才选，不能凭"有行为问题"就选。
+> > 3. **MET ≠ 所有"行为改变"**：专指物质滥用，且患者"ambivalent（犹豫）"。
+> > 4. **Exposure 需要高动机患者**，且专治恐惧/焦虑类。
+>
+> **我为什么错**
+> > 选了 A (DBT)。被患者"锁门、对警察喊叫"的表面行为问题带偏，误以为是情绪失控 → 想到 BPD。
+> > 根本错因：□ 没锁定核心诊断（已明确是 Schizophrenia）；□ 概念混淆（把"行为激越"误判成"情绪调节障碍"）。
+> > 核心陷阱：被 stem 的表面行为描述牵走，忽略了已经给出的明确诊断 + 问题方向（relapse）。
+>
+> **Memory Hook**
+> > - Family = 精分病人**回家住** → 教育**全家**降复发
+> > - DBT = **D**ramatic **B**orderline（戏剧化边缘型，反复自伤）
+> > - MET = 成瘾者总**犹豫**，需被"推一把"
+> > - Psychodynamic = 精分**禁用**（挖潜意识→焦虑↑→destabilize）
+> > - Exposure = 怕什么**暴露**什么
+>
+> ---
+>
+> **🤔 我的提问 / 卡点**
+> > - "这些治疗我总分不清" → 学到：心理治疗鉴别靠"适应症 + Stem 关键词"配对，而非疗法本身高级与否；核心是先锁定诊断，再匹配该病的循证治疗。
+>
+> **🔗 关联**
+> > - 🔁 同主题错题：
+> >   - （首题，等后续精神科治疗/精分题积累后横向连）
+> > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
+> > - 🏥 跨学科：（无）
+> > - 🌱 TODO（待生成衍生）：等 psych 章节积累 3+ 道心理治疗 / 精分管理错题后，请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_心理治疗鉴别速查]]（五种 psychotherapy 对照 + 适应症 + Stem 关键词 + 禁忌）
+>
+> **✅ 复盘行动**
+> > - [ ] 1 周后重做本题
+> > - [ ] 默写五种心理治疗对照表（核心做什么 + 适应症 + Stem 关键词）
+> > - [ ] 牢记"Psychodynamic 精分禁用"这一陷阱
+> > - [ ] 找 3 道类似题（不同诊断 → 选对应疗法）练习
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: 心理治疗五选鉴别（DBT/Exposure/Family/MET/Psychodynamic — 按"诊断 + Stem 关键词"配对）/ Family therapy 降精分复发（教育全家 → ↓High Expressed Emotion）/ Psychodynamic 精分禁用
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-22] 精神科 / 新发精神病 workup 顺序 (Q15017)
+> ^Q15017
+>
+> **Stem 模式**
+> > 年轻人 + **new-onset acute psychosis（新发急性精神病）**（妄想/可能幻觉，病程几天）+ 病因不明 + 有既往精神科史（抑郁）/家族史（双相）→ 问"最佳下一步管理" → 选 **Obtain urine tox screen（尿毒物筛查）**，而非直接治疗。
+>
+> **核心概念**
+> > New-onset psychosis 是**排除性诊断**：必须先 workup 排除器质 / 药物原因，才能贴"原发精神障碍"标签。
+> > 年轻人 + 急性 + 无显著病史 + 体检正常 → **urine tox screen 是性价比最高的第一步**（揪 cocaine/amphetamine 等 stimulant-induced psychosis）。
+>
+> **普适规则（new-onset psychosis 决策树）**
+> > ```
+> > new-onset psychosis (任何年龄)
+> >         │
+> >         ▼
+> >   病因明确了吗？
+> >         │
+> >    No ─┴──────────► 先 workup（治疗之前）
+> >                       ├─ 体格 + 精神状态检查
+> >                       ├─ 代谢 panel / CBC
+> >                       ├─ ★ Urine tox screen ★  ← 年轻人首选、最高产
+> >                       └─ 按指征：梅毒/HIV/B12/甲功/ANA
+> >                       │
+> >                       ▼  (神经影像只在 focal 神经体征时做)
+> >                   病因清楚 ──► 针对性治疗
+> > ```
+>
+> **易混陷阱（普适）**
+> > 1. ★**"既往精神科诊断" + "新发急性症状" ≠ 直接套旧诊断**★：既往抑郁/家族双相史 = 诱饵，引你跳过排除器质/药物。先当未知病因 workup。
+> > 2. ★**患者/家属自述用药史不可靠**★："父母说她不吸毒"不能据此排除药物 → 必须客观 tox screen。
+> > 3. **抗精神病药的两个指征**：①已确诊原发精神障碍 ②镇静**严重躁动**患者。本题两条都不满足（病因未明 + 患者 calm/cooperative）。
+> > 4. **MDD with psychotic features 要求**：精神病症状只出现在心境发作期内；既往抑郁史 ≠ 当前是抑郁发作。
+> > 5. **神经影像（CT/MRI）只在有 focal 神经体征时做**，不是常规。
+> > 6. **bupropion blood level 这类选项 = 纯干扰**：bupropion 可诱发躁狂，但与血药浓度不相关，查了无意义。
+>
+> **我为什么错**
+> > 选了 B（抗精神病药）。思路：抑郁史 → 这次=抑郁伴精神病性特征(MDD with psychotic features) → 上抗精神病药。
+> > 根本错因：□ 概念混淆（在"病因不明"阶段跳过 workup 直接锁定精神科诊断并治疗）；□ 被既往史诱导。
+> > 核心陷阱：被"既往抑郁史 + 家族双相史"牵着走，把当前新发急性表现硬套进旧诊断，跳过了"先排除器质/药物"这一必经步骤。
+>
+> **Memory Hook**
+> > - **新发精神病 = 先查不先治**：年轻人首选 **U-tox**（"先验尿，再诊断"）
+> > - **"家属说不吸毒" = 不可信** → 必须客观检测
+> > - 看到 "new-onset psychosis" 第一反应**不是**"她得了什么病"，而是"病因查清了吗？没查清先 workup"
+>
+> ---
+>
+> **🤔 我的提问 / 卡点**
+> > - "我以为是抑郁症伴精神症状，所以选了抗精神病药" → 学到：①既往诊断 ≠ 当前诊断，新发急性症状要重新当未知病因处理；②MDD with psychotic features 要求精神病症状发生在心境发作期内，本题无当前抑郁发作证据；③即使诊断方向最终成立，new-onset psychosis 仍必须先 workup 排除药物/器质，诊断是排除性的。
+>
+> **🔗 关联**
+> > - 🔁 同主题错题：
+> >   - [[mistakes/uworld-mistakes#^Q11967]] 儿童急性精神病→SLE（**同核心原则**：急性/新发精神病 = 排除性诊断，先 workup 排器质/药物，别被"在吃的药 / 既往史"诱导归因）
+> >   - [[mistakes/uworld-mistakes#^Q16064]] 心理治疗五选鉴别（同为精神科，互补：Q16064 考已确诊精分的治疗选择，本题考未确诊时"先 workup 不先治"）
+> > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
+> > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/感染]]（new-onset psychosis workup 含梅毒/HIV，器质病因排查）
+> > - 🌱 TODO（待生成衍生）：等 psych 章节积累 3+ 道"诊断 vs 先 workup / 急诊精神科首步"错题后，请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_新发精神病急诊处理SOP]]（new-onset psychosis 决策树 + 抗精神病药指征 + 各类精神病性障碍鉴别 + 既往史诱导陷阱）
+>
+> **✅ 复盘行动**
+> > - [ ] 1 周后重做本题
+> > - [ ] 默写 new-onset psychosis 决策树（workup 顺序 + U-tox 首选 + 影像指征）
+> > - [ ] 牢记两大陷阱："既往史诱导" + "自述用药史不可靠"
+> > - [ ] 默写抗精神病药的两个使用指征（确诊原发障碍 / 镇静严重躁动）
+> > - [ ] 找 3 道类似题（既往精神科史 / 看似明确诊断 → 仍需先 workup）练习
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: 新发精神病 workup 顺序（new-onset psychosis = 排除性诊断 → 先 workup，年轻人首选 urine tox screen）/ 既往精神科史 ≠ 当前诊断（既往史诱导陷阱）/ 抗精神病药两指征
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-22] Psych / 精神药理 — Valproate 肝毒性·精神药物招牌副作用 (Q12468) ✅做对
+> ^Q12468
+>
+> ## 1. Stem 模式
+> 精神科患者（schizoaffective / bipolar，近期换药）+ 数天 malaise + 食欲↓ + 恶心 + 右上腹痛 / RUQ 压痛 + **氨基转移酶显著↑（AST/ALT 数百）** + 轻度黄疸（bili 轻度↑）+ **细震颤** ± 血小板偏低 → 问哪个精神药物致此 → **Valproate（丙戊酸）肝毒性**。
+>
+> ## 2. 核心概念
+> Valproate（VPA，抗惊厥 / 心境稳定剂）→ **药物性肝损伤（hepatotoxicity）**，多发生在治疗**头 6 个月**；前驱是非特异症状 malaise / 乏力 / 嗜睡 / 食欲↓ / 恶心。**用药前 + 用药中定期查 LFT**。
+> VPA 其它招牌副作用：**tremor（震颤）、thrombocytopenia（血小板↓）、alopecia（脱发）、体重↑、胰腺炎、高氨血症脑病、神经管缺陷（致畸）**。
+> → 本题除转氨酶↑外还埋了 **fine tremor** 和 **platelets 180k（偏低）** 两个 VPA 旁证。
+>
+> ## 3. 普适规则：精神药物「招牌副作用」反查映射表（整类题通杀）
+>
+> | 药物 | 招牌副作用 / 毒性 | 监测 / 钩子 |
+> |---|---|---|
+> | **Valproate** ✅ | **肝毒性**（头 6 月）+ 震颤 + 血小板↓ + 脱发 + 致畸(NTD) + 高氨血症 + 胰腺炎 | 用药前 + 定期 LFT |
+> | Bupropion | **降癫痫阈值 → seizure** | 进食障碍 / 癫痫史禁用 |
+> | Clozapine | **严重中性粒细胞缺乏（agranulocytosis）** + 癫痫 + 心肌炎 | 定期 ANC/CBC |
+> | Haloperidol | EPS / NMS / 迟发运动障碍；肝损少见 | 低效价 chlorpromazine → 胆汁淤积性黄疸 |
+> | Lamotrigine | **SJS/TEN（严重皮疹）** | 慢滴定 |
+> | Lithium | **肾**（肾性尿崩）+ **甲状腺**（甲减）；不代谢、几乎全经肾排 | BUN/Cr + 甲功 |
+> | Trazodone | **阴茎异常勃起（priapism）** | — |
+>
+> 解题法：先把 stem「症状」翻译成「招牌副作用」，再反查药物。本题症状 = 肝细胞型肝损 → 锁 Valproate。
+>
+> ## 4. 易混陷阱（普适）
+> - 每个干扰项都是「另一个药的招牌」—— 不要按「哪个药耳熟」选，按副作用谱配对。
+> - **VPA 走肝 vs Lithium 走肾**：VPA 经肝代谢 → 肝毒性、查 LFT；Lithium 不代谢、几乎全经肾排 → 肾（尿崩）+ 甲状腺毒性、查 BUN/Cr + 甲功。一肝一肾别记混。
+> - chlorpromazine（低效价一代抗精神病药）可致**胆汁淤积性**黄疸；但 VPA 是**肝细胞型**（转氨酶飙）且更典型。
+> - Lamotrigine 招牌 = 皮疹（SJS）不是肝；Clozapine 招牌 = 粒缺不是肝。
+>
+> ## 5. 我为什么对（这次抓对了什么）
+> - 选了：**G. Valproate** ✅
+> - 抓对的关键：转氨酶显著↑ + RUQ 压痛 + 非特异前驱症状 = 药物性肝损 → 精神药物里 VPA 肝毒性最典型；stem 还埋了 fine tremor + 血小板偏低两个 VPA 旁证。
+> - 仍需巩固：① VPA 全副作用谱（肝 / 震颤 / 血小板 / 脱发 / 致畸 / 高氨 / 胰腺炎）② VPA 走肝 vs Lithium 走肾 ③ 各精神药物招牌副作用映射表。
+>
+> ## 6. Memory Hook
+> - 一句话："**换药后数周 malaise + 转氨酶飙 = Valproate 肝毒性**（头 6 个月高发，用前用中查 LFT）。"
+> - VPA 副作用记「**肝、抖、紫、秃**」：肝毒性 / tremor 抖 / thrombocytopenia 易紫癜 / alopecia 秃。
+> - 一肝一肾：**Valproate 伤肝、Lithium 伤肾（+ 甲状腺）**。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> （本题做对，无主动提问）核心收获：建立「精神药物 → 招牌副作用」反查映射表，把"症状 → 招牌副作用 → 药物"做成解题流水线。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q4885]] 二代抗精神病药代谢监测（同「招牌副作用 → 该查什么」映射框架）
+>   - [[mistakes/uworld-mistakes#^Q16115]] Clozapine 致癫痫（同「精神药物 → 招牌严重副作用」家族）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/GI]]（药物性肝损伤 DILI：肝细胞型 = 转氨酶↑↑）；[[完整笔记/Peixuan分科笔记/hematology oncology]]（VPA → 血小板减少）
+> - 🌱 TODO（待生成衍生）：等 psych 章节复习完，请 Claude Code 整合「精神药物副作用 + 监测」类错题（Q4885 代谢 / Q16115 致癫痫 / Q12468 肝毒 / lithium 肾甲 / lamotrigine SJS / ziprasidone QT）→ 生成 [[完整笔记/专题笔记/_衍生_精神科用药副作用对照]]（抗精神病药 + 心境稳定剂，含「招牌副作用 → 该查什么」映射）
+>
+> ## ✅ 复盘行动
+> - [ ] 默写精神药物招牌副作用映射表（VPA 肝 / Bupropion 癫痫 / Clozapine 粒缺 / Lamotrigine SJS / Lithium 肾甲 / Trazodone priapism）
+> - [ ] 默写 VPA 全副作用谱「肝抖紫秃」+ 致畸 / 高氨血症 / 胰腺炎
+> - [ ] 默写「VPA 走肝查 LFT vs Lithium 走肾查 BUN/Cr+甲功」
+> - [ ] 找 3 道类似题：lithium 肾 / 甲监测、lamotrigine SJS、clozapine ANC
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Valproate 肝毒性（头 6 月高发·用前用中查 LFT）+ VPA 副作用谱（肝·震颤·血小板↓·脱发·致畸·高氨·胰腺炎）/ 精神药物「招牌副作用 → 药物」反查映射 / VPA 走肝 vs Lithium 走肾
+> 状态:: 🟢
+> 错因:: ✅ 做对（知识入库）
+
+> [!example]- [2026-05-22] Psych / 精神药理 — Tardive Dyskinesia 处理 (Q2518) ✅做对
+> ^Q2518
+>
+> ## 1. Stem 模式
+> 长期用抗精神病药（FGA 风险更高；SGA 如 risperidone、止吐药 metoclopramide 也可）患者 + 新发**口面部不自主运动**（吐舌、咂嘴、grimacing）± 肢体/躯干舞蹈样运动 → Tardive Dyskinesia (TD)。
+> 进阶设定：减抗精神病药剂量 → 精神病恶化（减量不可行）；VMAT2 抑制剂（valbenazine / deutetrabenazine）序贯试用仍无效 → 问下一步。
+>
+> ## 2. 核心概念
+> TD = 长期 D2 受体阻断 → 不自主**高动力性**运动障碍，口面部最典型；FGA 风险 > SGA。
+> TD 三大处理：
+> 1. **减抗精神病药剂量**（首选，但可能恶化精神病 → 本题不可行）
+> 2. **VMAT2 抑制剂**：valbenazine / deutetrabenazine（FDA 批准用于 TD）
+> 3. **换 TD 风险更低的抗精神病药**：quetiapine 或 **clozapine**；**对多种抗精神病药反应差者 → 首选 clozapine**
+> → 本题：减量不可行 + VMAT2 无效 → 下一步 = **换 clozapine**（且多药反应差，clozapine 双重优选）。
+>
+> ## 3. 普适规则：四大 EPS 速查（TD 归位）
+>
+> | EPS | 起病时间 | 表现 | 治疗 |
+> |---|---|---|---|
+> | Acute dystonia | 小时–天 | 头颈持续收缩、动眼危象 | 抗胆碱能（benztropine / diphenhydramine）|
+> | Akathisia | 天–周 | 主观坐立不能 | 减量 + propranolol（首选）|
+> | Parkinsonism | 周–月 | 静止震颤、铅管样强直、运动迟缓 | benztropine / amantadine |
+> | **Tardive dyskinesia** | **月–年（>6 月）** | **口面部舞蹈样不自主运动** | **VMAT2 抑制剂；减量 / 换 quetiapine·clozapine**；抗胆碱能无效甚至加重 |
+>
+> ★关键对比★：抗胆碱能（benztropine/diphenhydramine）治 dystonia / parkinsonism，但**对 TD 无效、甚至加重** —— 这是本题 A/B 干扰项的死穴。
+>
+> ## 4. 易混陷阱（普适）
+> - **抗胆碱能 ≠ 治 TD**：benztropine / diphenhydramine 是 dystonia / parkinsonism 的药，用在 TD 上无效甚至恶化。
+> - **propranolol 是 akathisia 专属**，不治 TD。
+> - **TD vs akathisia**：TD = 客观的口面/肢体不自主运动；akathisia = 主观的坐立不能。
+> - **Lithium 致震颤 ≠ TD**：lithium 引起细震颤、不引起舞蹈样运动；本题 lithium 水平正常（1.2）、无中毒征 → 不是 lithium。
+> - TD 处理阶梯：减量（首选但常不可行）→ VMAT2 → 换药（quetiapine / clozapine）；**多药失败史 → clozapine 优先**。
+>
+> ## 5. 我为什么对（这次抓对了什么）
+> - 选了：**E. Switch from risperidone to clozapine** ✅
+> - 抓对的关键：识别 TD（口面部不自主运动 + 长期抗精神病药）；减量不可行 + VMAT2 已无效 → 阶梯走到"换低 TD 风险抗精神病药"，多药反应差 → clozapine。
+> - 仍需巩固：① 四大 EPS 起病时间 + 治疗 ② 抗胆碱能对 TD 无效/加重 ③ clozapine 在"难治 + TD"双重困境的优选地位。
+>
+> ## 6. Memory Hook
+> - 一句话锁定：**"口面舞蹈 + 长期抗精神病药 = TD；减不了、VMAT2 不灵 → 换 clozapine。"**
+> - 四大 EPS 时间轴：**"时-天 dystonia、天-周 akathisia、周-月 parkinsonism、月-年 TD。"**
+> - clozapine = TD / 难治双料解：既"TD 风险最低"又"治疗抵抗首选" → 多药失败 + TD 时一药两担。
+> - 反向钩：benztropine 治 EPS 但 **TD 例外**（无效 / 加重）。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> （本题做对，无主动提问）核心收获：把四大 EPS 按"起病时间 → 治疗药"建成映射，TD 单独记住"VMAT2 / 换 clozapine、抗胆碱能反而加重"。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q16066]] Tardive Dyskinesia & EPS 四兄弟鉴别（**同主题 TD** — 5-20 错题，本题 5-22 做对 = TD 考点进步）
+>   - [[mistakes/uworld-mistakes#^Q11898]] Akathisia 静坐不能（同四大 EPS — 起病时间 + 治疗对照；akathisia 用 propranolol）
+>   - [[mistakes/uworld-mistakes#^Q2505]] 急性肌张力障碍（同四大 EPS — 抗胆碱能治 dystonia 但对 TD 无效/加重，关键对比）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/neuro]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/消化补充内容]]（metoclopramide 作止吐药也致 TD）
+> - 🌱 TODO（待生成衍生）：等 psych 复习完，请 Claude Code 整合四大 EPS 错题（Q2505 dystonia / Q11898 akathisia / Q16066 + Q2518 TD / 待补 parkinsonism）→ 生成 [[完整笔记/专题笔记/_衍生_四大EPS诊断治疗对照]]（起病时间轴 + 治疗药映射）
+>
+> ## ✅ 复盘行动
+> - [ ] 默写四大 EPS 速查（起病时间 + 治疗）
+> - [ ] 默写 TD 三大处理（减量 → VMAT2 → 换 quetiapine/clozapine；多药失败 → clozapine 优先）
+> - [ ] 牢记「抗胆碱能治 dystonia/parkinsonism 但对 TD 无效甚至加重」
+> - [ ] 找 3 道类似题：parkinsonism（amantadine）/ akathisia（propranolol）/ TD VMAT2
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Tardive Dyskinesia 处理（减量 → VMAT2 → 换 quetiapine/clozapine；多药反应差 → clozapine 优先）/ 四大 EPS 起病时间 + 治疗 / 抗胆碱能对 TD 无效甚至加重
+> 状态:: 🟢
+> 错因:: ✅ 做对（知识入库）
 
