@@ -11,7 +11,7 @@ status: 雏形 v3 / Null hypothesis + CI + OR 表判读 + Confounder vs Independ
 # USMLE Hypothesis Testing 主笔记（草稿 v3）
 
 > [!info] 这张笔记的定位
-> 这是 **2026-05-12 Biostats 错题** 触发生成的雏形，将作为未来 [[完整笔记/专题笔记/_衍生_USMLE_统计推断]] 主笔记的核心骨架。
+> 这是 **2026-05-12 Biostats 错题** 触发生成的雏形，将作为未来 [[完整笔记/专题笔记/衍生/_衍生_USMLE_统计推断]] 主笔记的核心骨架。
 > 
 > **整合时机**：等积累 3+ 道 Type I/II / Power / p-value 等题后，让 Claude Code 读错题本 + 这份草稿 → 生成最终主笔记。
 > 
@@ -451,7 +451,7 @@ USMLE 默认双尾，除非 stem 明说单向假设。
 > [!info] Confounding ≠ Bias
 > Confounding 不是研究"方法错误"，而是**第三变量同时影响暴露和结局** → 即使方法完美也存在。
 > 
-> 详见 [[完整笔记/专题笔记/_衍生_USMLE_Bias_5大鉴别_草稿]] 第 4 章。
+> 详见 [[完整笔记/专题笔记/衍生/_衍生_USMLE_Bias_5大鉴别_草稿]] 第 4 章。
 
 ### 9.2 Residual Confounding（残余混杂）
 
@@ -520,11 +520,11 @@ USMLE 默认双尾，除非 stem 明说单向假设。
   - 待补充：Type I/II / Power / p / 统计检验 系列题
 - 📚 **主笔记**：
   - [[完整笔记/Peixuan分科笔记/Biostats_Master]]
-  - [[完整笔记/专题笔记/Biostats_6指标决策树]]（RR/OR/Prevalence 基础）
-  - 同期草稿：[[完整笔记/专题笔记/_衍生_USMLE_Bias_5大鉴别_草稿]]（v1）
+  - [[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]]（RR/OR/Prevalence 基础）
+  - 同期草稿：[[完整笔记/专题笔记/衍生/_衍生_USMLE_Bias_5大鉴别_草稿]]（v1）
 - 🌱 **TODO**：
-  - 等 Hypothesis testing 错题积累 3+（Type I/II / Power / p / 统计检验）→ 让 Claude Code 整合本草稿 + 错题本 → 生成正式 [[完整笔记/专题笔记/_衍生_USMLE_统计推断]]
-  - 第 6-8 章 OR 表判读 + Confounder vs Independent Risk Factor + 题型对照 可能值得拆出独立笔记 [[完整笔记/专题笔记/_衍生_USMLE_OR_CI判读]]，等积累更多类似题再决定
+  - 等 Hypothesis testing 错题积累 3+（Type I/II / Power / p / 统计检验）→ 让 Claude Code 整合本草稿 + 错题本 → 生成正式 [[完整笔记/专题笔记/衍生/_衍生_USMLE_统计推断]]
+  - 第 6-8 章 OR 表判读 + Confounder vs Independent Risk Factor + 题型对照 可能值得拆出独立笔记 [[完整笔记/专题笔记/衍生/_衍生_USMLE_OR_CI判读]]，等积累更多类似题再决定
 
 ---
 

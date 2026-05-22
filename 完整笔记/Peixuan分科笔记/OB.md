@@ -2931,7 +2931,7 @@ features</td>
 
 > 致畸 mood stabilizer（valproate / carbamazepine / oxcarbazepine → 神经管缺陷）患者计划怀孕 → **孕前 3-6 个月**缓慢 cross-taper 换 **lamotrigine**（孕期安全谱好，维持期双向防 manic + depressive）
 >
-> 完整 Bipolar 孕期用药表见 [[完整笔记/专题笔记/OB_GYN_孕期致畸药]] §六
+> 完整 Bipolar 孕期用药表见 [[完整笔记/专题笔记/OB_GYN/OB_GYN_孕期致畸药]] §六
 >
 > → 对标错题：[[mistakes/uworld-mistakes#^Q15103]]（孕期换 lamotrigine）/ [[mistakes/uworld-mistakes#^Q15841]]（双相稳定不能停 lithium）
 

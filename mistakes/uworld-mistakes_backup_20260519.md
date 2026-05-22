@@ -61,7 +61,7 @@
 >   - 待积累更多 Hill's / 因果推断题
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
 > - 🏥 跨学科：无
-> - 🌱 TODO：等积累 ≥ 3 道因果推断题 → 生成 [[完整笔记/专题笔记/_衍生_因果推断与Hills准则]]
+> - 🌱 TODO：等积累 ≥ 3 道因果推断题 → 生成 [[完整笔记/专题笔记/衍生/_衍生_因果推断与Hills准则]]
 > 
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q20787（验证模式自动化）
@@ -148,7 +148,7 @@
 >   - [[mistakes/uworld-mistakes#^Q21248]] OR-CI 表格判读 + Confounding
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/OB]]（pregnancy-related death 流行病学 / 种族差异）
-> - 🌱 TODO：等积累 ≥ 3 道 OR 方向 / case-control 错题 → 整合到 [[完整笔记/专题笔记/Biostats_6指标决策树]] 或生成 [[完整笔记/专题笔记/_衍生_OR_RR方向陷阱]]
+> - 🌱 TODO：等积累 ≥ 3 道 OR 方向 / case-control 错题 → 整合到 [[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]] 或生成 [[完整笔记/专题笔记/衍生/_衍生_OR_RR方向陷阱]]
 > 
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q20227（验证方向陷阱是否还会中招）
@@ -252,7 +252,7 @@
 > 
 > ## 关联
 > - [[完整笔记/Peixuan分科笔记/Biostats_Master#反推公式]]
-> - [[完整笔记/专题笔记/USMLE_高频评分_公式#流行病学反推]]
+> - [[完整笔记/专题笔记/USMLE/USMLE_高频评分_公式#流行病学反推]]
 > - [[mistakes/uworld-mistakes]] 搜 Q20430（上一道 ARP）
 > 
 > ## 跨科考点（OB / 手术）
@@ -423,7 +423,7 @@
 > - [[完整笔记/Peixuan分科笔记/Biostats_Master#ROC]]
 > - [[完整笔记/Peixuan分科笔记/Biostats_Master#Cutoff]]
 > - [[完整笔记/Peixuan分科笔记/Biostats_Master#AUC]]
-> - [[完整笔记/专题笔记/USMLE_高频陷阱#ROC]]
+> - [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱#ROC]]
 > 
 > ## 复盘
 > - [ ] 1 周后重做
@@ -507,7 +507,7 @@
 > - [[完整笔记/Peixuan分科笔记/Biostats_Master#Bias]]
 > - [[完整笔记/Peixuan分科笔记/Biostats_Master#Confounding]]
 > - [[完整笔记/Peixuan分科笔记/Biostats_Master#Study Design]]
-> - [[完整笔记/专题笔记/USMLE_高频陷阱#Biostats偏倚]]
+> - [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱#Biostats偏倚]]
 > 
 > ## 复盘
 > - [ ] 1 周后重做
@@ -591,7 +591,7 @@
 > ## 关联
 > - [[完整笔记/Peixuan分科笔记/Biostats_Master#PPV NPV]]
 > - [[完整笔记/Peixuan分科笔记/Biostats_Master#筛查 vs 确诊]]
-> - [[完整笔记/专题笔记/USMLE_高频陷阱#PPV NPV 方向]]
+> - [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱#PPV NPV 方向]]
 > 
 > ## 复盘
 > - [ ] 1 周后重做
@@ -667,16 +667,16 @@
 > - [[完整笔记/Peixuan分科笔记/Biostats_Master#Hazard Ratio]]
 > - [[完整笔记/Peixuan分科笔记/Biostats_Master#RR vs OR vs HR]]
 > - [[完整笔记/Peixuan分科笔记/Biostats_Master#Confidence Interval 跨 1]]
-> - [[完整笔记/专题笔记/USMLE_高频陷阱#HR 方向陷阱]]
+> - [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱#HR 方向陷阱]]
 > - [[完整笔记/Peixuan分科笔记/肾脏#Hyperkalemia 鉴别]]
-> - [[完整笔记/专题笔记/USMLE_高频评分_公式#利尿剂电解质效应对比]]
+> - [[完整笔记/专题笔记/USMLE/USMLE_高频评分_公式#利尿剂电解质效应对比]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 + 默写 HR/RR/OR 对比表
 > - [ ] 默写**4 类利尿剂对 K+ 的影响**
 > - [ ] 默写**Thiazide 五大副作用**（"3 Hypo + 3 Hyper"）
 > - [ ] 给 [[完整笔记/Peixuan分科笔记/Biostats_Master]] 加「薄弱点」（HR 部分）
-> - [ ] 整理"看表 SOP（4 步法）"到 [[完整笔记/专题笔记/USMLE_高频评分_公式]]
+> - [ ] 整理"看表 SOP（4 步法）"到 [[完整笔记/专题笔记/USMLE/USMLE_高频评分_公式]]
 > - [ ] 找 3 道 HR 题练习（重点：CI 跨 1 判断）
 > 
 > ---
@@ -750,13 +750,13 @@
 > ## 🔗 关联
 > - [[完整笔记/Peixuan分科笔记/Biostats_Master#Study Design 4 类对比]]
 > - [[完整笔记/Peixuan分科笔记/Biostats_Master#RCT]]
-> - [[完整笔记/专题笔记/USMLE_高频陷阱#Factorial vs Parallel]]
-> - [[完整笔记/专题笔记/USMLE_高频评分_公式#Study Design 决策树]]
+> - [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱#Factorial vs Parallel]]
+> - [[完整笔记/专题笔记/USMLE/USMLE_高频评分_公式#Study Design 决策树]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 + 默写 RCT 4 类指纹
 > - [ ] 默写 **Study Design 决策树**（RCT 4 类 + 观察性 3 类）
-> - [ ] 整理"**Factorial 的 stem 指纹**"到 [[完整笔记/专题笔记/USMLE_高频陷阱]]
+> - [ ] 整理"**Factorial 的 stem 指纹**"到 [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]]
 > - [ ] 给 [[完整笔记/Peixuan分科笔记/Biostats_Master]] 加「薄弱点」（Study Design 部分）
 > - [ ] 找 3 道 study design 题（Factorial vs Parallel 辨析）
 > - [ ] **刷题时主动数 "randomized" 次数**（养成习惯）
@@ -870,8 +870,8 @@
 > - [[完整笔记/Peixuan分科笔记/Biostats_Master#证据等级金字塔]]
 > - [[完整笔记/Peixuan分科笔记/Biostats_Master#Case Series vs Cohort vs RCT]]
 > - [[完整笔记/Peixuan分科笔记/Biostats_Master#观察性 vs 实验性研究]]
-> - [[完整笔记/专题笔记/USMLE_高频陷阱#未提及不等于不存在]]
-> - [[完整笔记/专题笔记/USMLE_高频陷阱#样本量万能论]]
+> - [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱#未提及不等于不存在]]
+> - [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱#样本量万能论]]
 > - [[完整笔记/Peixuan分科笔记/儿科#Pompe 病]]
 > - [[专题笔记#Lysosomal storage disease]]
 >
@@ -879,8 +879,8 @@
 > - [ ] 1 周后重做 + 默写 Study Design 决策树
 > - [ ] 默写 **证据等级金字塔**
 > - [ ] 默写 **观察性研究 4 类对比表**（分组依据 / 时间方向 / 有无对照）
-> - [ ] 整理"**三不原则**"到 [[完整笔记/专题笔记/USMLE_高频陷阱]]
-> - [ ] 整理"**Bias 状态判断原则**"到 [[完整笔记/专题笔记/USMLE_高频陷阱]]
+> - [ ] 整理"**三不原则**"到 [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]]
+> - [ ] 整理"**Bias 状态判断原则**"到 [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]]
 > - [ ] 给 [[完整笔记/Peixuan分科笔记/Biostats_Master]] 加「薄弱点」（Study Design 部分）
 > - [ ] 在 [[完整笔记/Peixuan分科笔记/儿科]] 补 Pompe disease 笔记（婴儿型 GAA 缺陷、酶替代治疗）
 > - [ ] 找 3 道 study design 题（observational vs experimental 辨析）
@@ -977,17 +977,17 @@
 > - [[完整笔记/Peixuan分科笔记/Biostats_Master#Case-Control vs Cohort 终极对比]]
 > - [[完整笔记/Peixuan分科笔记/Biostats_Master#Study Design 决策树]]
 > - [[完整笔记/Peixuan分科笔记/Biostats_Master#最佳 vs 最合适原则]]
-> - [[完整笔记/专题笔记/USMLE_高频陷阱#层级 vs 适配陷阱]]
-> - [[完整笔记/专题笔记/USMLE_高频陷阱#cohort 不等于主动暴露]]
-> - [[完整笔记/专题笔记/USMLE_高频评分_公式#Study Design 场景适配]]
+> - [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱#层级 vs 适配陷阱]]
+> - [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱#cohort 不等于主动暴露]]
+> - [[完整笔记/专题笔记/USMLE/USMLE_高频评分_公式#Study Design 场景适配]]
 > - [[完整笔记/Peixuan分科笔记/外科#头颈部肿瘤]]（Adenoid cystic carcinoma）
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 + 默写 Case-Control vs Cohort 终极对比表
 > - [ ] 默写 **"Rare + Latent + Risk factors = Case-Control 金三角"**
 > - [ ] 默写 **"罕见性决定 design" 决策法则**
-> - [ ] 整理 **"最佳 vs 最合适"原则** 到 [[完整笔记/专题笔记/USMLE_高频陷阱]]
-> - [ ] 整理 **"USMLE Study Design 3 层问法"** 到 [[完整笔记/专题笔记/USMLE_高频评分_公式]]
+> - [ ] 整理 **"最佳 vs 最合适"原则** 到 [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]]
+> - [ ] 整理 **"USMLE Study Design 3 层问法"** 到 [[完整笔记/专题笔记/USMLE/USMLE_高频评分_公式]]
 > - [ ] 在 [[完整笔记/Peixuan分科笔记/Biostats_Master]] 加「薄弱点」（Case-Control 部分）
 > - [ ] 找 3 道场景适配题练习（rare disease vs rare exposure 辨析）
 > - [ ] **下次刷题主动识别 stem 关键词**：rare / latent / common / multiple outcomes
@@ -1018,7 +1018,7 @@
 > - **必须用 stem 限定亚组的 ARR**
 > - NNT 越小药越有效
 >
-> ## 📋 广告题 5 步 SOP（见 [[完整笔记/专题笔记/USMLE_广告题解题策略]]）
+> ## 📋 广告题 5 步 SOP（见 [[完整笔记/专题笔记/USMLE/USMLE_广告题解题策略]]）
 > ```
 > Step 1: 识别 composite endpoint
 > Step 2: 看 RRR vs ARR 差异（戏剧化陷阱）
@@ -1093,10 +1093,10 @@
 >   - [[mistakes/uworld-mistakes#^Q107183]] RRR 计算（亚组限定 + 分母法则）
 >   - [[mistakes/uworld-mistakes#^Q20057]] ARR 反推样本量（早上）
 >   - [[mistakes/uworld-mistakes#^Q20430]] ARP 阳性归因比（早上）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]] / [[完整笔记/专题笔记/USMLE_广告题解题策略]]
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]] / [[完整笔记/专题笔记/USMLE/USMLE_广告题解题策略]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（ACS / NSTEMI / 抗血小板药 — Efrenzia 类似 ticagrelor，新型 P2Y12 抑制剂）
-> - 🌱 TODO（待生成衍生）：Biostats 章节复习完后，请 Claude Code 整合所有"广告/摘要解读"类错题 → 扩充 [[完整笔记/专题笔记/USMLE_广告题解题策略]]
-> - 🌱 TODO（待生成衍生）：整合"亚组限定 + 数据筛选"类错题（Q7709 + Q107183 + Q7688 + 未来）→ 生成 [[完整笔记/专题笔记/_衍生_高频陷阱/Biostats 读题 SOP — 亚组限定与数据定位]]
+> - 🌱 TODO（待生成衍生）：Biostats 章节复习完后，请 Claude Code 整合所有"广告/摘要解读"类错题 → 扩充 [[完整笔记/专题笔记/USMLE/USMLE_广告题解题策略]]
+> - 🌱 TODO（待生成衍生）：整合"亚组限定 + 数据筛选"类错题（Q7709 + Q107183 + Q7688 + 未来）→ 生成 [[完整笔记/专题笔记/衍生/_衍生_高频陷阱/Biostats 读题 SOP — 亚组限定与数据定位]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 + 默写广告题 5 步 SOP + 5 大陷阱
@@ -1125,7 +1125,7 @@
 > ## 🔑 核心概念
 > **Phase III** = **大样本 RCT 对比 placebo/standard treatment**，在 **affected patients** 中评估 **efficacy + safety**，**FDA 批准前的关键证据**
 >
-> ## 📊 5 阶段指纹速记（详见 [[完整笔记/专题笔记/USMLE_临床试验分期]]）
+> ## 📊 5 阶段指纹速记（详见 [[完整笔记/专题笔记/USMLE/USMLE_临床试验分期]]）
 > | Phase | 受试者 | 样本量 | 核心问题 |
 > |---|---|---|---|
 > | Preclinical | 动物 | — | 能不能用于人？|
@@ -1179,9 +1179,9 @@
 >   - [[mistakes/uworld-mistakes#^Q7708-Q7709-Efrenzia]] Efrenzia 广告题（Phase III 后的真实广告）
 >   - [[mistakes/uworld-mistakes#^Q20283]] Case-Control vs Cohort（观察性 vs 实验性 study design）
 > - 📚 主笔记：
-> - [[完整笔记/专题笔记/USMLE_临床试验分期]] ⭐ 今日新建
-> - 🌱 TODO（待生成衍生）：Biostats 章节复习完后，请 Claude Code 整合所有 Phase 相关错题 → 扩充 [[完整笔记/专题笔记/USMLE_临床试验分期]]
-> - 🌱 TODO（待生成衍生）：整合"药物开发流程"相关错题（Phase + FDA 审批 + 撤市经典案例如 Vioxx）→ 生成 [[完整笔记/专题笔记/_衍生_核心疾病专题/药物开发与上市流程]]
+> - [[完整笔记/专题笔记/USMLE/USMLE_临床试验分期]] ⭐ 今日新建
+> - 🌱 TODO（待生成衍生）：Biostats 章节复习完后，请 Claude Code 整合所有 Phase 相关错题 → 扩充 [[完整笔记/专题笔记/USMLE/USMLE_临床试验分期]]
+> - 🌱 TODO（待生成衍生）：整合"药物开发流程"相关错题（Phase + FDA 审批 + 撤市经典案例如 Vioxx）→ 生成 [[完整笔记/专题笔记/衍生/_衍生_核心疾病专题/药物开发与上市流程]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 + 默写 5 阶段速查表
@@ -1201,7 +1201,7 @@
 > [!example]- [2026-05-11] Biostats / Internal Validity + Blinding (Q22363)
 > ^Q22363
 > 题目主旨：Blinded raters 对主观量表评估的作用 → 减少 measurement bias → 提升 Internal validity
-> 详见主笔记：[[完整笔记/专题笔记/USMLE_临床试验分期#Part 2：临床试验质量评价]]
+> 详见主笔记：[[完整笔记/专题笔记/USMLE/USMLE_临床试验分期#Part 2：临床试验质量评价]]
 > 
 > ---
 > 
@@ -1342,12 +1342,12 @@
 >   - 广义"敏感性/特异性"族：如有 Q5589 等 6 指标题
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/Biostats_Master]]
->   - [[完整笔记/专题笔记/Biostats_6指标决策树]]（ROC 是 Sens/Spec 的图形扩展）
+>   - [[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]]（ROC 是 Sens/Spec 的图形扩展）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/endocrine]]（临床背景：肾上腺功能不全 ITT vs GST 诊断切点 —— 内分泌可能直接考 ITT/GST 流程，但本题考的是 Biostats）
 > - 🌱 TODO（待生成衍生）：
->   - 等积累 2-3 道 ROC 题后，请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_ROC曲线判读]] 或并入 [[完整笔记/专题笔记/Biostats_6指标决策树]] 作为图形章节
->   - 同时可作为未来 [[完整笔记/专题笔记/USMLE_Study_Design决策树]]（诊断试验评估章节）的素材
+>   - 等积累 2-3 道 ROC 题后，请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/衍生/_衍生_ROC曲线判读]] 或并入 [[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]] 作为图形章节
+>   - 同时可作为未来 [[完整笔记/专题笔记/USMLE/USMLE_Study_Design决策树]]（诊断试验评估章节）的素材
 > 
 > ## ✅ 复盘行动
 > 
@@ -1478,10 +1478,10 @@
 >   - [[mistakes/uworld-mistakes#^Q3941]] Bias 鉴别题（如已建）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/Biostats_Master]]
->   - [[完整笔记/专题笔记/USMLE_高频陷阱]]
+>   - [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]]
 > - 🏥 跨学科：无（纯 Biostats）
 > - 🌱 TODO（待生成衍生）：
->   - 等 Biostats 章节复习完，请 Claude Code 整合 Bias 系列错题（Q12685 + Q3941 + Q20090 + 后续）→ 生成 [[完整笔记/专题笔记/_衍生_USMLE_Bias_5大鉴别]]，骨架：Selection (5) vs Measurement (4) 两大类对比 + Stem 触发词速查 + 经典错题引用
+>   - 等 Biostats 章节复习完，请 Claude Code 整合 Bias 系列错题（Q12685 + Q3941 + Q20090 + 后续）→ 生成 [[完整笔记/专题笔记/衍生/_衍生_USMLE_Bias_5大鉴别]]，骨架：Selection (5) vs Measurement (4) 两大类对比 + Stem 触发词速查 + 经典错题引用
 >   - 已有草稿（见今日产出 `2026-05-12_Bias主笔记草稿_v1.md`）可直接作为雏形
 > 
 > ## ✅ 复盘行动
@@ -1608,13 +1608,13 @@
 >     - [[mistakes/uworld-mistakes#^Q12685]] Reporting bias（同日 Biostats）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/Biostats_Master]]
->   - [[完整笔记/专题笔记/Biostats_6指标决策树]]（RR/OR/Prevalence 区分基础）
+>   - [[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]]（RR/OR/Prevalence 区分基础）
 >   - 待生成草稿：`2026-05-12_Hypothesis_testing主笔记草稿_v1.md`（今日产出）
 > - 🏥 跨学科：无（纯 Biostats）
 > - 🌱 TODO（待生成衍生）：
->   - 等积累 3+ 道 Hypothesis testing 题（Type I/II / Power / p / CI）→ 请 Claude Code 整合 + 升级今日草稿 → 生成 [[完整笔记/专题笔记/_衍生_USMLE_统计推断]]
->   - 本题也是未来 [[完整笔记/专题笔记/USMLE_Study_Design决策树]] 的素材（"不同 design 对应不同测量术语"章节）
->   - 可补充进 [[完整笔记/专题笔记/USMLE_高频陷阱]]：USMLE 双重叠加陷阱（语义对 + design 不对）
+>   - 等积累 3+ 道 Hypothesis testing 题（Type I/II / Power / p / CI）→ 请 Claude Code 整合 + 升级今日草稿 → 生成 [[完整笔记/专题笔记/衍生/_衍生_USMLE_统计推断]]
+>   - 本题也是未来 [[完整笔记/专题笔记/USMLE/USMLE_Study_Design决策树]] 的素材（"不同 design 对应不同测量术语"章节）
+>   - 可补充进 [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]]：USMLE 双重叠加陷阱（语义对 + design 不对）
 > 
 > ## ✅ 复盘行动
 > 
@@ -1840,14 +1840,14 @@
 >     - [[mistakes/uworld-mistakes#^Q3941]] Null hypothesis（同样涉及"CI 跨 null value"概念）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/Biostats_Master]]
->   - [[完整笔记/专题笔记/Biostats_6指标决策树]]（RR/OR 区分基础）
+>   - [[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]]（RR/OR 区分基础）
 >   - 待生成主笔记：Hypothesis testing 草稿 v3（本题填充 CI 章节 + 新增 OR 表判读 + Confounder vs Independent Risk Factor 概念）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/儿科]] / [[完整笔记/Peixuan分科笔记/外科]]：CPB 后 AKI 是儿心外术后高频并发症（本题考的是 Biostats，但临床背景可引）
 > - 🌱 TODO（待生成衍生）：
->   - 等积累更多 OR/CI 题（forest plot / Kaplan-Meier 等）→ 请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_USMLE_OR_CI判读]] 或并入统计推断主笔记
+>   - 等积累更多 OR/CI 题（forest plot / Kaplan-Meier 等）→ 请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/衍生/_衍生_USMLE_OR_CI判读]] 或并入统计推断主笔记
 >   - 本题已用于更新 Hypothesis testing 草稿（v3 新增"Confounder vs Independent Risk Factor"核心概念章节）
->   - 本题也是未来 [[完整笔记/专题笔记/_衍生_USMLE_Bias_5大鉴别]] 的 Confounding 章节实战案例（Item 2）
+>   - 本题也是未来 [[完整笔记/专题笔记/衍生/_衍生_USMLE_Bias_5大鉴别]] 的 Confounding 章节实战案例（Item 2）
 > 
 > ## ✅ 复盘行动
 > 
@@ -1970,7 +1970,7 @@
 >   - [[mistakes/uworld-mistakes#^Q20058]] Observational study 类型
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
 > - 🏥 跨学科：暂无
-> - 🌱 TODO（待生成衍生）：等 Biostats 章节复习完，请 Claude Code 整合 **Q7688 + Q20090 + Q20283 + Q20058 + Q20435** 这 5 道 Study Design 错题 → 生成 [[完整笔记/专题笔记/USMLE_Study_Design决策树]]
+> - 🌱 TODO（待生成衍生）：等 Biostats 章节复习完，请 Claude Code 整合 **Q7688 + Q20090 + Q20283 + Q20058 + Q20435** 这 5 道 Study Design 错题 → 生成 [[完整笔记/专题笔记/USMLE/USMLE_Study_Design决策树]]
 >   - **必须包含**：4 类 observational study 对比表 + 3 步判定 SOP + "Diagnosis ≠ Outcome" 陷阱专节 + "Matched ≠ Case-Control" 陷阱专节
 >   - **素材已齐，明天可生成** ✅
 > 
@@ -1978,7 +1978,7 @@
 > - [ ] 1 周后重做 Q20435（验证 3 步 SOP 是否内化）
 > - [ ] 默写 Observational Study 4 类对比表（不看笔记）
 > - [ ] 默写 Study Design 3 步判定 SOP
-> - [ ] 明天让 Claude Code 生成 [[完整笔记/专题笔记/USMLE_Study_Design决策树]]
+> - [ ] 明天让 Claude Code 生成 [[完整笔记/专题笔记/USMLE/USMLE_Study_Design决策树]]
 > - [ ] 下次看到 "diagnosis of X" → 强制问"X 是 exposure 还是 outcome"
 > - [ ] 下次看到 "matched control" → 强制问"按什么分组"
 > 
@@ -2069,12 +2069,12 @@
 >   - [[mistakes/uworld-mistakes#^AMBOSS-CJD57]] CJD 误选 FTD（同"反射性诊断 + 单一症状导向"）
 >   - 等积累更多痴呆题 → AD / VaD / LBD 实战
 > - 📚 主笔记：
->   - [[完整笔记/专题笔记/神经_老年痴呆鉴别]]（可治痴呆 8 大 + Pseudo 5 钩子直接收录）
+>   - [[完整笔记/专题笔记/神经/神经_老年痴呆鉴别]]（可治痴呆 8 大 + Pseudo 5 钩子直接收录）
 >   - [[完整笔记/Peixuan分科笔记/psych]]（MDD / SSRI）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/psych]](MDD 诊断标准 SIG E CAPS)
 >   - [[完整笔记/Peixuan分科笔记/心内]](Citalopram QT 延长 / 老人 ≤ 20 mg/d)
-> - 🌱 TODO：等积累 ≥ 4 道痴呆错题 → 升级 [[完整笔记/专题笔记/神经_老年痴呆鉴别]] v2
+> - 🌱 TODO：等积累 ≥ 4 道痴呆错题 → 升级 [[完整笔记/专题笔记/神经/神经_老年痴呆鉴别]] v2
 > 
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做
@@ -2172,10 +2172,10 @@
 >   - [[mistakes/uworld-mistakes#^AMBOSS-Pseudo78]] Pseudodementia 误选 Donepezil（同"反射性诊断 + 单一症状导向"模式）
 >   - 等后续 PD / HD / TD / Wilson 不自主运动题积累
 > - 📚 主笔记：
->   - [[完整笔记/专题笔记/神经_老年痴呆鉴别]]（CJD 4 大金标准 + 痴呆速度分类）
+>   - [[完整笔记/专题笔记/神经/神经_老年痴呆鉴别]]（CJD 4 大金标准 + 痴呆速度分类）
 >   - [[完整笔记/Peixuan分科笔记/neuro]]
 > - 🏥 跨学科：无（CJD 纯 Neuro）
-> - 🌱 TODO：等积累 ≥ 3 道不自主运动错题（PD/HD/TD/Wilson）→ 生成 [[完整笔记/专题笔记/_衍生_不自主运动5种鉴别]]
+> - 🌱 TODO：等积累 ≥ 3 道不自主运动错题（PD/HD/TD/Wilson）→ 生成 [[完整笔记/专题笔记/衍生/_衍生_不自主运动5种鉴别]]
 > 
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做
@@ -2287,13 +2287,13 @@
 > - 🔁 同主题错题：
 >   - 此为首道脊髓不全损伤错题，等后续 Central Cord / Brown-Séquard / Anterior cord / Cauda 积累
 > - 📚 主笔记：
->   - [[完整笔记/专题笔记/神经_Horner综合征]]（一级 Horner 来源题，5 幕剧 + Horner 关联完整）⭐
+>   - [[完整笔记/专题笔记/神经/神经_Horner综合征]]（一级 Horner 来源题，5 幕剧 + Horner 关联完整）⭐
 >   - [[完整笔记/Peixuan分科笔记/neuro]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/眼科]]（Horner ptosis vs CN III palsy 鉴别）
 >   - [[完整笔记/Peixuan分科笔记/外科]]（颈脊髓 MRI / 减压手术指征）
 >   - [[完整笔记/Peixuan分科笔记/儿科]]（Chiari I + Syringomyelia + Tethered cord 神经管发育谱）
-> - 🌱 TODO：等积累 ≥ 3 道脊髓不全损伤错题 → 生成 [[完整笔记/专题笔记/_衍生_脊髓不全损伤综合征鉴别]]
+> - 🌱 TODO：等积累 ≥ 3 道脊髓不全损伤错题 → 生成 [[完整笔记/专题笔记/衍生/_衍生_脊髓不全损伤综合征鉴别]]
 > 
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做
@@ -2404,8 +2404,8 @@
 >   - [[完整笔记/Peixuan分科笔记/endocrine]]（DM 风险因素 + ABI 假性升高 in CKD/DM 钙化）
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（neurogenic claudication 鉴别）
 > - 🌱 TODO：
->   - 等下肢缺血题积累 → 生成 [[完整笔记/专题笔记/_衍生_下肢缺血鉴别]]（PAD / Buerger / DVT / Compartment）
->   - 等 ED 题积累 → 生成 [[完整笔记/专题笔记/_衍生_ED鉴别诊断]]（血管 / 神经 / 心理 / 内分泌 / Peyronie）
+>   - 等下肢缺血题积累 → 生成 [[完整笔记/专题笔记/衍生/_衍生_下肢缺血鉴别]]（PAD / Buerger / DVT / Compartment）
+>   - 等 ED 题积累 → 生成 [[完整笔记/专题笔记/衍生/_衍生_ED鉴别诊断]]（血管 / 神经 / 心理 / 内分泌 / Peyronie）
 > 
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做
@@ -2628,9 +2628,9 @@
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（carvedilol 是 systolic HF 三大 mortality-benefit β-blocker 之一：carvedilol / metoprolol succinate / bisoprolol）
 > - 🌱 TODO（待生成衍生）：
->   - 等 Biostats 章节复习完，请 Claude Code 整合 **RCT 质量评估类错题**（目前 Q4121，需积累到 3+ 道）→ 生成 [[完整笔记/专题笔记/USMLE_RCT质量评估]]
+>   - 等 Biostats 章节复习完，请 Claude Code 整合 **RCT 质量评估类错题**（目前 Q4121，需积累到 3+ 道）→ 生成 [[完整笔记/专题笔记/USMLE/USMLE_RCT质量评估]]
 >     - **必须包含**：RCT 4 大质量评估表 + 3 大质控工具按时间线表 + Randomization vs Matching 区分表 + Allocation concealment 专节 + Power 4 大决定因素 + "题目给什么→只能推什么" SOP
->   - 等 Biostats 章节复习完，请 Claude Code 整合 **Bias 类错题**（Q3941 + Q20090 + Q4121 涉及的 selection / observer bias）→ 生成 [[完整笔记/专题笔记/USMLE_Bias_5大鉴别]]
+>   - 等 Biostats 章节复习完，请 Claude Code 整合 **Bias 类错题**（Q3941 + Q20090 + Q4121 涉及的 selection / observer bias）→ 生成 [[完整笔记/专题笔记/USMLE/USMLE_Bias_5大鉴别]]
 > 
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q4121（验证是否还会被 matching 概念污染）
@@ -2711,7 +2711,7 @@
 >   - 本卡是抗凝药拮抗剂首张卡，等积累
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/hematology oncology]] / [[完整笔记/Peixuan分科笔记/心内]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（Warfarin ICH 紧急逆转最常见 stem）；[[完整笔记/Peixuan分科笔记/GI]]（DOAC GI 出血逆转）
-> - 🌱 TODO（待生成衍生）：等抗凝出血题积累到 3+ 道 → 请 Claude Code 整合到 [[完整笔记/专题笔记/_衍生_抗凝药拮抗剂_4对]]
+> - 🌱 TODO（待生成衍生）：等抗凝出血题积累到 3+ 道 → 请 Claude Code 整合到 [[完整笔记/专题笔记/衍生/_衍生_抗凝药拮抗剂_4对]]
 >   - **必须包含**：4 对拮抗剂表 + 起效时间 + 适应/禁忌 + Warfarin 急性出血 SOP（4F-PCC + Vit K 而非 FFP）+ 特异性配对原理（IIa vs Xa）
 > 
 > ## ✅ 复盘行动
@@ -2789,7 +2789,7 @@
 >   - 本卡是 PE 第一张卡，等积累
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/pulmonary]] / [[完整笔记/Peixuan分科笔记/心内]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（stroke LVO 取栓窗口 ≤24h 对比 PE 不取栓）；[[完整笔记/Peixuan分科笔记/hematology oncology]]（抗凝禁忌时 IVC filter）
-> - 🌱 TODO（待生成衍生）：等 PE / DVT / MI / Stroke / ALI 五急症错题积累到 3+ 道 → 请 Claude Code 整合到 [[完整笔记/专题笔记/_衍生_5急症第一件事决策表]]
+> - 🌱 TODO（待生成衍生）：等 PE / DVT / MI / Stroke / ALI 五急症错题积累到 3+ 道 → 请 Claude Code 整合到 [[完整笔记/专题笔记/衍生/_衍生_5急症第一件事决策表]]
 >   - **必须包含**：诊断 vs 治疗双列 + Wells 切点（DVT≥2, PE>4）+ TTE vs CTPA 选择逻辑 + 抗凝禁忌分支 + tPA 禁忌时的 IVC filter / 外科取栓分支
 > 
 > ## ✅ 复盘行动
@@ -2878,13 +2878,13 @@
 > - 🔁 同主题错题：
 >   - 本题首张 AAA / 主动脉急症卡，等积累
 > - 📚 主笔记：
->   - [[完整笔记/专题笔记/心内_主动脉急症决策树]] ⭐（本题落地的衍生笔记）
->   - [[完整笔记/专题笔记/USMLE_读题策略|读题策略 Part 7 — 体征 ≠ 疾病]] ⭐（本题贡献的方法论模块）
+>   - [[完整笔记/专题笔记/心内/心内_主动脉急症决策树]] ⭐（本题落地的衍生笔记）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_读题策略|读题策略 Part 7 — 体征 ≠ 疾病]] ⭐（本题贡献的方法论模块）
 >   - [[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/Peixuan分科笔记/外科]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/GI]]（出血性胰腺炎是 AAA 最常考鉴别；Grey Turner 在心血管 / GI 共享）
 > - 🌱 TODO（待生成衍生）：
->   - 累计 3+ 道"体征 ≠ 疾病"陷阱题（Grey Turner / Cullen / Murphy / Rovsing）→ 补入 [[完整笔记/专题笔记/USMLE_高频陷阱]] 新增章节"经典体征的多病因鉴别"
->   - 累计急诊影像选择题（CT vs US vs X-ray vs MRI）3+ 道 → 生成 [[完整笔记/专题笔记/_衍生_急诊影像决策]]
+>   - 累计 3+ 道"体征 ≠ 疾病"陷阱题（Grey Turner / Cullen / Murphy / Rovsing）→ 补入 [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]] 新增章节"经典体征的多病因鉴别"
+>   - 累计急诊影像选择题（CT vs US vs X-ray vs MRI）3+ 道 → 生成 [[完整笔记/专题笔记/衍生/_衍生_急诊影像决策]]
 >   - 累计 aortic dissection 错题 → 补 _衍生_主动脉急症决策树 Part 6
 > 
 > ## ✅ 复盘行动
@@ -3043,18 +3043,18 @@
 > - 🔁 同主题错题：
 >   - 本题首张内分泌 / 急诊 AI 卡，等后续 PAI / Cushing / 继发 AI / 应激剂量激素题积累
 > - 📚 主笔记：
->   - [[完整笔记/专题笔记/内分泌_肾上腺皮质功能不全]] ⭐（本题落地的衍生笔记）
->   - [[完整笔记/专题笔记/USMLE_实验室指纹诊断大全]] ⭐（PAI 五联触发本索引建立）
->   - [[完整笔记/专题笔记/USMLE_读题策略|读题策略 Part 5 + 6 — 指纹思维 + 慢性 / 急性双轴]] ⭐（本题贡献的方法论模块）
+>   - [[完整笔记/专题笔记/内分泌/内分泌_肾上腺皮质功能不全]] ⭐（本题落地的衍生笔记）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] ⭐（PAI 五联触发本索引建立）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_读题策略|读题策略 Part 5 + 6 — 指纹思维 + 慢性 / 急性双轴]] ⭐（本题贡献的方法论模块）
 >   - [[完整笔记/Peixuan分科笔记/endocrine]] / [[完整笔记/Peixuan分科笔记/心内]]（休克鉴别）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/外科]]（围手术期 stress dose 激素管理）
 >   - [[完整笔记/Peixuan分科笔记/感染]]（Waterhouse-Friderichsen → 急性 AI）
->   - [[完整笔记/专题笔记/心内_主动脉急症决策树]]（与昨日 Q4212 形成"难治性休克"系列）
+>   - [[完整笔记/专题笔记/心内/心内_主动脉急症决策树]]（与昨日 Q4212 形成"难治性休克"系列）
 > - 🌱 TODO（待生成衍生）：
->   - 累计 3+ 道"难治性休克鉴别"题（adrenal crisis / cardiogenic / 主动脉破裂失血 / 神经源 / 脓毒症）→ 生成 [[完整笔记/专题笔记/_衍生_难治性休克鉴别]]
->   - 累计 3+ 道"嗜酸增高鉴别"题 → 生成 [[完整笔记/专题笔记/_衍生_嗜酸增高鉴别诊断]]
->   - 累计 3+ 道阴性体征陷阱题后 → 生成 [[完整笔记/专题笔记/_衍生_读题策略_阴性体征]]
+>   - 累计 3+ 道"难治性休克鉴别"题（adrenal crisis / cardiogenic / 主动脉破裂失血 / 神经源 / 脓毒症）→ 生成 [[完整笔记/专题笔记/衍生/_衍生_难治性休克鉴别]]
+>   - 累计 3+ 道"嗜酸增高鉴别"题 → 生成 [[完整笔记/专题笔记/衍生/_衍生_嗜酸增高鉴别诊断]]
+>   - 累计 3+ 道阴性体征陷阱题后 → 生成 [[完整笔记/专题笔记/衍生/_衍生_读题策略_阴性体征]]
 > 
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q17169，目标 < 90 秒选 A
@@ -3225,17 +3225,17 @@
 > - 🔁 同主题错题：
 >   - 本题首张 procedure & patient safety 卡，等后续 NG / ET / 胸管 / LP / Foley 题积累
 > - 📚 主笔记：
->   - [[完整笔记/专题笔记/USMLE_侵入操作安全流程]] ⭐（本题落地的衍生笔记，覆盖 20+ 操作）
->   - [[完整笔记/专题笔记/USMLE_读题策略|读题策略 Part 1 — 题型识别 4 信号]] ⭐（本题贡献的方法论模块）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_侵入操作安全流程]] ⭐（本题落地的衍生笔记，覆盖 20+ 操作）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_读题策略|读题策略 Part 1 — 题型识别 4 信号]] ⭐（本题贡献的方法论模块）
 >   - [[完整笔记/Peixuan分科笔记/外科]]（侵入操作 + procedure safety）
 >   - [[完整笔记/Peixuan分科笔记/感染]]（脓毒症 1h bundle vs procedure safety 优先级）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/pulmonary]]（气胸 — CVC 最常见严重并发症 / 胸管处理）
 >   - [[完整笔记/Peixuan分科笔记/心内]]（心包填塞 — 与 Q4212 主动脉急症形成"心包填塞"系列）
 > - 🌱 TODO（待生成衍生）：
->   - 累计 3+ 道脓毒症题（早期处理 / 抗生素时机 / fluid resuscitation / Surviving Sepsis bundle）→ 生成 [[完整笔记/专题笔记/_衍生_脓毒症1小时bundle]]
->   - 累计 3+ 道 CVC 并发症题 → 拆出 [[完整笔记/专题笔记/_衍生_CVC并发症大全]]
->   - 累计 3+ 道程序题（CVC / NG / ET / 胸管 / Foley / LP 后下一步）→ 整合"程序题识别 + 答题模板"补入 [[完整笔记/专题笔记/_衍生_读题策略_程序性安全题]]
+>   - 累计 3+ 道脓毒症题（早期处理 / 抗生素时机 / fluid resuscitation / Surviving Sepsis bundle）→ 生成 [[完整笔记/专题笔记/衍生/_衍生_脓毒症1小时bundle]]
+>   - 累计 3+ 道 CVC 并发症题 → 拆出 [[完整笔记/专题笔记/衍生/_衍生_CVC并发症大全]]
+>   - 累计 3+ 道程序题（CVC / NG / ET / 胸管 / Foley / LP 后下一步）→ 整合"程序题识别 + 答题模板"补入 [[完整笔记/专题笔记/衍生/_衍生_读题策略_程序性安全题]]
 > 
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q3504，目标 < 60 秒选 D
@@ -3435,20 +3435,20 @@
 > - 🔁 同主题错题：
 >   - 本题首张外科 / 创伤血管损伤卡，等后续 compartment syndrome / 急性动脉闭塞 / 颈部贯通伤 / 钝性血管伤积累
 > - 📚 主笔记：
->   - [[完整笔记/专题笔记/心内_外周血管病]] ⭐（C.3 Hard Signs 决策 + Rutherford 分级 + 黄金 6h 窗口）
->   - [[完整笔记/专题笔记/USMLE_读题策略|读题策略 Part 2 + 4 — criteria 完整核对 + 质变升级]] ⭐（本题贡献的方法论模块）
+>   - [[完整笔记/专题笔记/心内/心内_外周血管病]] ⭐（C.3 Hard Signs 决策 + Rutherford 分级 + 黄金 6h 窗口）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_读题策略|读题策略 Part 2 + 4 — criteria 完整核对 + 质变升级]] ⭐（本题贡献的方法论模块）
 >   - [[完整笔记/Peixuan分科笔记/外科]]（血管创伤 + 创伤一般原则）
 >   - [[完整笔记/Peixuan分科笔记/骨科]]（开放骨折 + compartment syndrome — 共享 6P）
 > - 🏥 跨学科：
->   - [[完整笔记/专题笔记/心内_主动脉急症决策树]]（与 Q4212 同属"难治性休克 + 跳过影像直接 OR"系列）
->   - [[完整笔记/专题笔记/USMLE_侵入操作安全流程]]（与 Q3504 共享"临床优先级决策"方法论）
+>   - [[完整笔记/专题笔记/心内/心内_主动脉急症决策树]]（与 Q4212 同属"难治性休克 + 跳过影像直接 OR"系列）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_侵入操作安全流程]]（与 Q3504 共享"临床优先级决策"方法论）
 >   - [[完整笔记/Peixuan分科笔记/心内]]（与 Q4212 / Q3504 形成"紧急血管损伤"系列）
 >   - [[完整笔记/Peixuan分科笔记/感染]]（穿透伤 → 破伤风预防 + 抗生素时机）
 > - 🌱 TODO（待生成衍生）：
->   - ⭐ **立即可建**（与 Q3504 程序题方法论合并）：累计 5+ 道"临床决策 vs 影像延误"题（hard signs 直接手术 / 张力气胸不等 CXR / CVC 置后必拍片 / 心包填塞 echo / Rutherford IIb 跳影像）→ 生成 [[完整笔记/专题笔记/_衍生_临床优先级_跳过影像决策]]
->   - 累计 3+ 道创伤题（穿透 / 钝伤 / 开放骨折 / 头部 / 颈部贯通）→ 生成 [[完整笔记/专题笔记/_衍生_创伤评估与处理]]
->   - 累计 3+ 道肢体缺血题（hard signs / compartment / 急性动脉闭塞 / 慢性 PAD）→ 生成 [[完整笔记/专题笔记/_衍生_肢体缺血决策树]]
->   - ⭐ **方法论合并**：累计 3+ 道"反向阴性体征 / criteria 不完整核对"陷阱题 → 升级 [[完整笔记/专题笔记/_衍生_读题策略_阴性体征]] 添加 v2 章节"完整 criteria 清单核对"
+>   - ⭐ **立即可建**（与 Q3504 程序题方法论合并）：累计 5+ 道"临床决策 vs 影像延误"题（hard signs 直接手术 / 张力气胸不等 CXR / CVC 置后必拍片 / 心包填塞 echo / Rutherford IIb 跳影像）→ 生成 [[完整笔记/专题笔记/衍生/_衍生_临床优先级_跳过影像决策]]
+>   - 累计 3+ 道创伤题（穿透 / 钝伤 / 开放骨折 / 头部 / 颈部贯通）→ 生成 [[完整笔记/专题笔记/衍生/_衍生_创伤评估与处理]]
+>   - 累计 3+ 道肢体缺血题（hard signs / compartment / 急性动脉闭塞 / 慢性 PAD）→ 生成 [[完整笔记/专题笔记/衍生/_衍生_肢体缺血决策树]]
+>   - ⭐ **方法论合并**：累计 3+ 道"反向阴性体征 / criteria 不完整核对"陷阱题 → 升级 [[完整笔记/专题笔记/衍生/_衍生_读题策略_阴性体征]] 添加 v2 章节"完整 criteria 清单核对"
 > 
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q3354，目标 < 60 秒选 E
@@ -3673,19 +3673,19 @@
 >   - [[mistakes/uworld-mistakes#^Q3354]] 肢体血管创伤（同日，hard signs 直接 OR — "跳过影像"反向案例）
 >   - [[mistakes/uworld-mistakes#^Q3504]] CVC 程序题（同日，"程序题先确认后治疗"方法论互补）
 > - 📚 主笔记：
->   - [[完整笔记/专题笔记/USMLE_读题策略|读题策略 — 新增"诊断阶梯不跳级"模块]] ⭐（本题贡献新方法论，等累计 3+ 道阶梯跳级题后正式补 Part 8）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_读题策略|读题策略 — 新增"诊断阶梯不跳级"模块]] ⭐（本题贡献新方法论，等累计 3+ 道阶梯跳级题后正式补 Part 8）
 >   - [[完整笔记/Peixuan分科笔记/外科]]（钝性胸创 + 创伤一般原则 + ATLS）
 >   - [[完整笔记/Peixuan分科笔记/心内]]（BCI + 创伤性心包填塞 + 与 ACS 鉴别）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/pulmonary]]（鉴别：气胸 / 血胸 / 肺挫伤）
->   - [[完整笔记/专题笔记/心内_主动脉急症决策树]]（创伤性主动脉损伤鉴别）
->   - [[完整笔记/专题笔记/USMLE_侵入操作安全流程]]（与 Q3504 同属"程序 / 决策类"方法论系列）
+>   - [[完整笔记/专题笔记/心内/心内_主动脉急症决策树]]（创伤性主动脉损伤鉴别）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_侵入操作安全流程]]（与 Q3504 同属"程序 / 决策类"方法论系列）
 >   - 今日 4 道创伤 + 程序题（Q4212 / Q3504 / Q3354 / Q19889）形成"紧急血管 + 程序 + 决策阶梯"系列
 > - 🌱 TODO（待生成衍生）：
->   - ⭐ **本题方法论合并立即可建**：累计 3+ 道"诊断阶梯跳级"陷阱题（ECG 前 troponin / CXR 前 CT / 听诊前影像 / 阻断初筛直接做次级）→ 升级 [[完整笔记/专题笔记/USMLE_读题策略]] 添加 Part 8 "诊断阶梯不跳级"
->   - 累计 3+ 道创伤题（钝伤 / 穿透伤 / 头颈 / 腹部 / 多发伤）→ 生成 [[完整笔记/专题笔记/_衍生_创伤评估与处理]]（含 ATLS primary / secondary survey + 各部位决策树）
->   - 累计 3+ 道 BCI / 创伤性心损相关题 → 生成 [[完整笔记/专题笔记/_衍生_钝性心脏损伤BCI评估]]
->   - 累计 5+ 道胸部紧急情况题（BCI / 张力气胸 / 心包填塞 / 大量血胸 / 主动脉损伤）→ 生成 [[完整笔记/专题笔记/_衍生_胸部急症决策树]]
+>   - ⭐ **本题方法论合并立即可建**：累计 3+ 道"诊断阶梯跳级"陷阱题（ECG 前 troponin / CXR 前 CT / 听诊前影像 / 阻断初筛直接做次级）→ 升级 [[完整笔记/专题笔记/USMLE/USMLE_读题策略]] 添加 Part 8 "诊断阶梯不跳级"
+>   - 累计 3+ 道创伤题（钝伤 / 穿透伤 / 头颈 / 腹部 / 多发伤）→ 生成 [[完整笔记/专题笔记/衍生/_衍生_创伤评估与处理]]（含 ATLS primary / secondary survey + 各部位决策树）
+>   - 累计 3+ 道 BCI / 创伤性心损相关题 → 生成 [[完整笔记/专题笔记/衍生/_衍生_钝性心脏损伤BCI评估]]
+>   - 累计 5+ 道胸部紧急情况题（BCI / 张力气胸 / 心包填塞 / 大量血胸 / 主动脉损伤）→ 生成 [[完整笔记/专题笔记/衍生/_衍生_胸部急症决策树]]
 > 
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q19889，目标 < 60 秒选 D
@@ -3949,7 +3949,7 @@
 > - 🔁 同主题错题：
 >   - 本题首张心内 / 电生理 / 遗传性心律失常卡，等后续 Brugada / CPVT / ARVC / 获得性 QT 延长积累
 > - 📚 主笔记：
->   - [[完整笔记/专题笔记/心内_Vaughan_Williams抗心律失常药]] ⭐（本题落地的衍生笔记，15 个 Part 全套）
+>   - [[完整笔记/专题笔记/心内/心内_Vaughan_Williams抗心律失常药]] ⭐（本题落地的衍生笔记，15 个 Part 全套）
 >   - [[完整笔记/Peixuan分科笔记/心内]]（LQTS + Vaughan Williams + Torsades）
 >   - [[完整笔记/Peixuan分科笔记/儿科]]（儿童心源性晕厥 + 先天性遗传病）
 > - 🏥 跨学科：
@@ -3957,9 +3957,9 @@
 >   - [[完整笔记/Peixuan分科笔记/psych]]（抗精神病 / 抗抑郁致 QT 延长 — 精神科开药考点）
 >   - 与 Q4212 主动脉急症形成"心内紧急"系列
 > - 🌱 TODO（待生成衍生）：
->   - 累计 3+ 道遗传性心律失常题 → 生成 [[完整笔记/专题笔记/_衍生_遗传性心律失常综合征]]（含 LQT1-3 / Brugada / CPVT / ARVC / J&L-N / Andersen-Tawil / Timothy 全套）
->   - 累计 3+ 道获得性 QT 延长题（药物 + 电解质）→ 生成 [[完整笔记/专题笔记/_衍生_获得性LQTS病因清单]]
->   - 累计 3+ 道晕厥鉴别题 → 生成 [[完整笔记/专题笔记/心内_晕厥鉴别决策树]]（心源 vs 神经 vs 血管迷走 vs 体位 vs 癫痫）
+>   - 累计 3+ 道遗传性心律失常题 → 生成 [[完整笔记/专题笔记/衍生/_衍生_遗传性心律失常综合征]]（含 LQT1-3 / Brugada / CPVT / ARVC / J&L-N / Andersen-Tawil / Timothy 全套）
+>   - 累计 3+ 道获得性 QT 延长题（药物 + 电解质）→ 生成 [[完整笔记/专题笔记/衍生/_衍生_获得性LQTS病因清单]]
+>   - 累计 3+ 道晕厥鉴别题 → 生成 [[完整笔记/专题笔记/心内/心内_晕厥鉴别决策树]]（心源 vs 神经 vs 血管迷走 vs 体位 vs 癫痫）
 > 
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q3910，目标 < 60 秒选 D
@@ -4198,19 +4198,19 @@
 >   - [[mistakes/uworld-mistakes#^Q3910]] LQTS（今日，电生理 + 抗心律失常药系列）
 >   - 与今日 Q4212 / Q3504 / Q3354 / Q19889 / Q3910 共同构成 7 题"紧急决策"系列
 > - 📚 主笔记：
->   - [[完整笔记/专题笔记/心内_ACLS急救决策树]] ⭐（本题落地的衍生笔记 — 12 个 Part 完整版）
->   - [[完整笔记/专题笔记/心内_Vaughan_Williams抗心律失常药]] ⭐（**姊妹笔记** — 药物对照视角）
->   - [[完整笔记/专题笔记/USMLE_读题策略|读题策略 — pattern 反射误]] ⭐（"看到节律就电"反射 = 模式识别错位）
+>   - [[完整笔记/专题笔记/心内/心内_ACLS急救决策树]] ⭐（本题落地的衍生笔记 — 12 个 Part 完整版）
+>   - [[完整笔记/专题笔记/心内/心内_Vaughan_Williams抗心律失常药]] ⭐（**姊妹笔记** — 药物对照视角）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_读题策略|读题策略 — pattern 反射误]] ⭐（"看到节律就电"反射 = 模式识别错位）
 >   - [[完整笔记/Peixuan分科笔记/心内]]（ACLS + 心律失常急救）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/外科]]（创伤性心包填塞 → PEA → 穿刺；张力气胸 → PEA → 针刺）
 >   - [[完整笔记/Peixuan分科笔记/pulmonary]]（大块 PE → PEA → 溶栓）
 >   - [[完整笔记/Peixuan分科笔记/感染]]（脓毒症休克 → 持续低血容量 → PEA）
->   - [[完整笔记/专题笔记/心内_主动脉急症决策树]]（心包填塞共享 — 难治性休克 / PEA 系列）
+>   - [[完整笔记/专题笔记/心内/心内_主动脉急症决策树]]（心包填塞共享 — 难治性休克 / PEA 系列）
 > - 🌱 TODO（待生成衍生）：
->   - ⭐ **立即可建**（与 Q3910 抗心律失常药合并）：累计 3+ 道 ACLS / 急救题 → 生成 [[完整笔记/专题笔记/心内_ACLS急救决策树]]（含 4 节律 + 5H5T + 用药 + 三种"电"方式对比 + ROSC 后管理）
->   - 累计 3+ 道"电击选择"题（除颤 vs 同步 vs 不电）→ 整合入 [[完整笔记/专题笔记/心内_ACLS急救决策树]] 子章节
->   - 累计 3+ 道 PEA 病因题（5H5T 各场景）→ 生成 [[完整笔记/专题笔记/_衍生_PEA可逆因鉴别]]
+>   - ⭐ **立即可建**（与 Q3910 抗心律失常药合并）：累计 3+ 道 ACLS / 急救题 → 生成 [[完整笔记/专题笔记/心内/心内_ACLS急救决策树]]（含 4 节律 + 5H5T + 用药 + 三种"电"方式对比 + ROSC 后管理）
+>   - 累计 3+ 道"电击选择"题（除颤 vs 同步 vs 不电）→ 整合入 [[完整笔记/专题笔记/心内/心内_ACLS急救决策树]] 子章节
+>   - 累计 3+ 道 PEA 病因题（5H5T 各场景）→ 生成 [[完整笔记/专题笔记/衍生/_衍生_PEA可逆因鉴别]]
 > 
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q4725，目标 < 30 秒选 B
@@ -4433,7 +4433,7 @@
 > > 3. 干燥黏膜
 > > 4. 低 K
 > > 
-> > 见到 → 想 **Hypovolemia** → 链回 [[完整笔记/专题笔记/USMLE_实验室指纹诊断大全]]
+> > 见到 → 想 **Hypovolemia** → 链回 [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]]
 > 
 > **🎯 神经源 OH 反常征**：
 > > **"DM + OH + 仰卧 HTN + 胃轻瘫 + ED" = 自主神经病五联**
@@ -4468,19 +4468,19 @@
 >   - [[mistakes/uworld-mistakes#^Q17169]] PAI（同日，**"脱水四联"指纹思维**第二次应用 + adrenal crisis 也致 orthostatic）
 >   - [[mistakes/uworld-mistakes#^Q4725]] PEA（今日，"先脉搏后节律"和"先 HR 反应后定型"思路类似）
 > - 📚 主笔记：
->   - [[完整笔记/专题笔记/心内_晕厥鉴别决策树]] ⭐（本题落地的衍生笔记 — 11 个 Part 完整版）
->   - [[完整笔记/专题笔记/USMLE_实验室指纹诊断大全]] ⭐（Part 6.7 脱水四联指纹已沉淀）
+>   - [[完整笔记/专题笔记/心内/心内_晕厥鉴别决策树]] ⭐（本题落地的衍生笔记 — 11 个 Part 完整版）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] ⭐（Part 6.7 脱水四联指纹已沉淀）
 >   - [[完整笔记/Peixuan分科笔记/心内]]（晕厥鉴别 + orthostatic hypotension）
 >   - [[完整笔记/Peixuan分科笔记/外科]]（运动医学 + 搏击类运动相关疾病）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/endocrine]]（PAI 致 orthostatic — adrenal hypovolemia；DM 致自主神经病）
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（自主神经病 → orthostatic：DM / Parkinson / MSA）
 > - 🌱 TODO（待生成衍生）：
->   - ⭐ **立即可建**（与今日 Q3910 / Q4725 / Q4212 合并）：累计已 4 道晕厥 / 休克相关题 → 生成 [[完整笔记/专题笔记/心内_晕厥鉴别决策树]]（含 4 大类 + OH 两型 + 完整鉴别）
->   - 累计 3+ 道 OH 病因鉴别题 → 生成 [[完整笔记/专题笔记/_衍生_体位性低血压两型对比]]
->   - 累计 3+ 道运动员相关题（HCM / Commotio / AAS / weight-cutting / Female Triad）→ 生成 [[完整笔记/专题笔记/_衍生_运动员相关疾病]]
+>   - ⭐ **立即可建**（与今日 Q3910 / Q4725 / Q4212 合并）：累计已 4 道晕厥 / 休克相关题 → 生成 [[完整笔记/专题笔记/心内/心内_晕厥鉴别决策树]]（含 4 大类 + OH 两型 + 完整鉴别）
+>   - 累计 3+ 道 OH 病因鉴别题 → 生成 [[完整笔记/专题笔记/衍生/_衍生_体位性低血压两型对比]]
+>   - 累计 3+ 道运动员相关题（HCM / Commotio / AAS / weight-cutting / Female Triad）→ 生成 [[完整笔记/专题笔记/衍生/_衍生_运动员相关疾病]]
 >   - ⭐ **方法论合并**：今日已累计 3 道 "**指纹思维**" 应用（PAI 五联 / 4B 血管创伤 / **脱水四联**）→ 已在指纹大全沉淀
->   - 累计 3+ 道 DM 慢性并发症题（视网膜 / 肾病 / 自主神经病 / 周围神经病）→ 生成 [[完整笔记/专题笔记/_衍生_DM慢性并发症]]
+>   - 累计 3+ 道 DM 慢性并发症题（视网膜 / 肾病 / 自主神经病 / 周围神经病）→ 生成 [[完整笔记/专题笔记/衍生/_衍生_DM慢性并发症]]
 > 
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q21638，目标 < 60 秒选 E + 能说明完整机制
@@ -4935,18 +4935,18 @@
 >   - [[mistakes/uworld-mistakes#^Q4725]] PEA（今日，急救场景的晕厥）
 >   - [[mistakes/uworld-mistakes#^Q19889]] 钝性胸创（同日，**"过度评估倾向"陷阱第 2 次出现** ⭐）
 > - 📚 主笔记：
->   - [[完整笔记/专题笔记/心内_晕厥鉴别决策树]] ⭐（本题大量补充该衍生：Vasovagal 5 联 / 7 维框架 / Situational 8 种 / Seizure aura 详解 / 颞叶癫痫 / convulsive syncope）
->   - [[完整笔记/专题笔记/USMLE_读题策略|读题策略 — 反向应用框架]] ⭐（"知道分类不会用 → 不查"是本题方法论缺口）
+>   - [[完整笔记/专题笔记/心内/心内_晕厥鉴别决策树]] ⭐（本题大量补充该衍生：Vasovagal 5 联 / 7 维框架 / Situational 8 种 / Seizure aura 详解 / 颞叶癫痫 / convulsive syncope）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_读题策略|读题策略 — 反向应用框架]] ⭐（"知道分类不会用 → 不查"是本题方法论缺口）
 >   - [[完整笔记/Peixuan分科笔记/心内]]（晕厥鉴别完整框架）
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（颞叶癫痫 + aura 定位 + 抗癫痫药）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（与癫痫鉴别 — 本题方法论核心补充）
 >   - [[完整笔记/Peixuan分科笔记/psych]]（Conversion disorder 鉴别）
 > - 🌱 TODO（待生成衍生）：
->   - 累计 3+ 道"No further testing"题（vasovagal / 典型 GERD / 偏头痛 / 病毒感染）→ 生成 [[完整笔记/专题笔记/_衍生_USMLE_NoTest题型]]
->   - 累计 3+ 道"过度评估倾向"陷阱题 → 升级 [[完整笔记/专题笔记/USMLE_读题策略]] 添加新 Part
+>   - 累计 3+ 道"No further testing"题（vasovagal / 典型 GERD / 偏头痛 / 病毒感染）→ 生成 [[完整笔记/专题笔记/衍生/_衍生_USMLE_NoTest题型]]
+>   - 累计 3+ 道"过度评估倾向"陷阱题 → 升级 [[完整笔记/专题笔记/USMLE/USMLE_读题策略]] 添加新 Part
 >   - 累计 3+ 道反射性晕厥题（vasovagal / situational / carotid sinus）→ 补 _衍生_晕厥鉴别决策树 Part 3
->   - 累计 3+ 道癫痫题（focal / generalized / status / aura 定位）→ 生成 [[完整笔记/专题笔记/_衍生_癫痫aura脑叶定位]]
+>   - 累计 3+ 道癫痫题（focal / generalized / status / aura 定位）→ 生成 [[完整笔记/专题笔记/衍生/_衍生_癫痫aura脑叶定位]]
 > 
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q21579，目标 < 60 秒选 E
@@ -5055,7 +5055,7 @@
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - 本卡是夹层降压顺序首张，等积累
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/专题笔记/心内_主动脉急症决策树]]
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/专题笔记/心内/心内_主动脉急症决策树]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/外科]]（Type A 立即手术）
 > - 🌱 TODO：无（衍生 Part 6.5 已覆盖该顺序，对比检查 ✓）
 > 
@@ -5138,7 +5138,7 @@
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes#^Q19889]] 经典 Vasovagal + Seizure aura 鉴别（2026-05-14 同主题）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/专题笔记/心内_晕厥鉴别决策树]]
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/专题笔记/心内/心内_晕厥鉴别决策树]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Psych]]（PNES 非癫痫性发作鉴别）
 > - 🌱 TODO：无（衍生 Part 8.3 已含 lateral 咬伤 + postictal confusion 金标准 ✓）
 > 
@@ -5230,7 +5230,7 @@
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - 本卡是 Class IB 机制首张，等积累
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/专题笔记/心内_Vaughan_Williams抗心律失常药]]
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/专题笔记/心内/心内_Vaughan_Williams抗心律失常药]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（LQT3 syncope/猝死与神经病学交叉）
 > - 🌱 TODO：无（衍生 Part 2.3 已覆盖 IB → QT↓ + LQT3 应用 ✓）
 > 
@@ -5335,7 +5335,7 @@
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - 本卡是 Primary vs Secondary AI 鉴别首张，等积累
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/endocrine]] / [[完整笔记/专题笔记/内分泌_肾上腺皮质功能不全]]
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/endocrine]] / [[完整笔记/专题笔记/内分泌/内分泌_肾上腺皮质功能不全]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/肾脏]]（高 K 急诊鉴别）；[[完整笔记/Peixuan分科笔记/感染]]（TB 致 1° AI）
 > - 🌱 TODO：无（衍生 Part 2.1 已含 1° vs 2° 鉴别表 ✓）
 > 
@@ -5452,7 +5452,7 @@
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - 本卡是侵入操作安全首张自测，等积累
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/外科]] / [[完整笔记/专题笔记/USMLE_侵入操作安全流程]]
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/外科]] / [[完整笔记/专题笔记/USMLE/USMLE_侵入操作安全流程]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（颅底骨折评估）；[[完整笔记/Peixuan分科笔记/pulmonary]]（插管 + 通气）
 > - 🌱 TODO：建议给衍生加补丁 — **明确写"任何经鼻管禁忌，包括 nasotracheal intubation 和 NPA"**（详见对话末尾增量清单）
 > 
@@ -5587,12 +5587,12 @@
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes#^Q3910]] J&L-N LQTS（首张抗心律失常药 / Vaughan-Williams 卡）
 >   - [[mistakes/uworld-mistakes#^STQ20260515-38]] Class IB 独特机制 — 缩短 QT（Vaughan-Williams 三亚类对比）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/专题笔记/心内_Vaughan_Williams抗心律失常药]]（本次增量更新：Part 8.4 + 新增 8.5 WPW 三状态对照 + Digoxin 双重雷 + 收费站/村路类比）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/专题笔记/心内/心内_Vaughan_Williams抗心律失常药]]（本次增量更新：Part 8.4 + 新增 8.5 WPW 三状态对照 + Digoxin 双重雷 + 收费站/村路类比）
 > - 🏥 跨学科：无
 > - 🌱 TODO（待生成衍生）：
->   - ✅ Vaughan-Williams 衍生**已建**（[[完整笔记/专题笔记/心内_Vaughan_Williams抗心律失常药]]）；本次错题增量已并入
->   - 等心内"心律失常"章节复习完，请 Claude Code 整合 [WPW / AVRT / AVNRT / AF / SVT 急性处理 / 不稳定 vs 稳定] 类错题 → 生成 [[完整笔记/专题笔记/_衍生_心律失常急性处理决策树]]
->   - 等积累 AV blocker 相关错题（β / CCB / 地高辛 / 腺苷）→ 整合 → 可考虑生成 [[完整笔记/专题笔记/_衍生_AV节点阻滞剂适应症与禁忌]]
+>   - ✅ Vaughan-Williams 衍生**已建**（[[完整笔记/专题笔记/心内/心内_Vaughan_Williams抗心律失常药]]）；本次错题增量已并入
+>   - 等心内"心律失常"章节复习完，请 Claude Code 整合 [WPW / AVRT / AVNRT / AF / SVT 急性处理 / 不稳定 vs 稳定] 类错题 → 生成 [[完整笔记/专题笔记/衍生/_衍生_心律失常急性处理决策树]]
+>   - 等积累 AV blocker 相关错题（β / CCB / 地高辛 / 腺苷）→ 整合 → 可考虑生成 [[完整笔记/专题笔记/衍生/_衍生_AV节点阻滞剂适应症与禁忌]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q3069
@@ -5720,12 +5720,12 @@
 >   - [[mistakes/uworld-mistakes#^Q3069]] WPW + Preexcited AF（同为心律失常急性识别；那题"快"，本题"慢"；共同点：都需根据 ECG 模式分类）
 >   - [[mistakes/uworld-mistakes#^Q21579]] 经典 Vasovagal（Syncope 4 大类鉴别母题，本题增 Cardiac 子型详解）
 >   - [[mistakes/uworld-mistakes#^Q21638]] Volume-mediated OH（Syncope 4 大类对照）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/专题笔记/心内_晕厥鉴别决策树]]（本次增量并入 Part 5 Cardiac Syncope）/ [[完整笔记/专题笔记/心内_Vaughan_Williams抗心律失常药]]（Part 7.6 扩展传导系统病变 7 大病因）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/专题笔记/心内/心内_晕厥鉴别决策树]]（本次增量并入 Part 5 Cardiac Syncope）/ [[完整笔记/专题笔记/心内/心内_Vaughan_Williams抗心律失常药]]（Part 7.6 扩展传导系统病变 7 大病因）
 > - 🏥 跨学科：无
 > - 🌱 TODO（待生成衍生）：
->   - ✅ 晕厥鉴别衍生**已建** v2（[[完整笔记/专题笔记/心内_晕厥鉴别决策树]]）；本次错题增量已并入
->   - 等积累 3-5 道**缓慢性心律失常**错题（SSS / 一/二/三度 AV block / bifascicular block / 起搏器适应症）→ 整合 → 生成 [[完整笔记/专题笔记/_衍生_缓慢性心律失常与起搏器适应症]]
->   - 等积累 LVH 相关错题（HTN / HCM / AS / 主动脉缩窄 / HFpEF vs HFrEF）→ 整合 → 生成 [[完整笔记/专题笔记/_衍生_LVH病因与功能影响]]
+>   - ✅ 晕厥鉴别衍生**已建** v2（[[完整笔记/专题笔记/心内/心内_晕厥鉴别决策树]]）；本次错题增量已并入
+>   - 等积累 3-5 道**缓慢性心律失常**错题（SSS / 一/二/三度 AV block / bifascicular block / 起搏器适应症）→ 整合 → 生成 [[完整笔记/专题笔记/衍生/_衍生_缓慢性心律失常与起搏器适应症]]
+>   - 等积累 LVH 相关错题（HTN / HCM / AS / 主动脉缩窄 / HFpEF vs HFrEF）→ 整合 → 生成 [[完整笔记/专题笔记/衍生/_衍生_LVH病因与功能影响]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q4456
@@ -5909,15 +5909,15 @@
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/儿科]]
 >   - [[完整笔记/Peixuan分科笔记/newborn care and screening]]
->   - [[完整笔记/专题笔记/心内_CHD_新生儿先心病总结]]（本次新建，三轴：时间 / 紫绀 / 杂音）
+>   - [[完整笔记/专题笔记/心内/心内_CHD_新生儿先心病总结]]（本次新建，三轴：时间 / 紫绀 / 杂音）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/endocrine]]（母体糖尿病的胎儿影响 / 胰岛素 anabolic 作用）
 >   - [[完整笔记/Peixuan分科笔记/OB]]（妊娠糖尿病管理）
 >   - [[完整笔记/Peixuan分科笔记/心内]]（HCM vs IDM-HCM / 杂音鉴别）
 > - 🌱 TODO（待生成衍生）：
->   - ✅ 新生儿先心病系统化总结**已建**（[[完整笔记/专题笔记/心内_CHD_新生儿先心病总结]]）；本次错题增量已并入
->   - 等积累 3-5 道 **IDM 相关**错题（HCM / 低血糖 / 多血症 / RDS / 产伤 / caudal regression）→ 整合 → 生成 [[完整笔记/专题笔记/_衍生_IDM糖尿病母亲婴儿并发症全图]]
->   - 等积累 3-5 道 **HCM 谱系**错题（遗传性 HCM / SAM / SCD / 运动员猝死 / β-blocker vs 手术 / Valsalva 动作）→ 整合 → 生成 [[完整笔记/专题笔记/_衍生_HCM谱系（遗传性vsIDM）]]
+>   - ✅ 新生儿先心病系统化总结**已建**（[[完整笔记/专题笔记/心内/心内_CHD_新生儿先心病总结]]）；本次错题增量已并入
+>   - 等积累 3-5 道 **IDM 相关**错题（HCM / 低血糖 / 多血症 / RDS / 产伤 / caudal regression）→ 整合 → 生成 [[完整笔记/专题笔记/衍生/_衍生_IDM糖尿病母亲婴儿并发症全图]]
+>   - 等积累 3-5 道 **HCM 谱系**错题（遗传性 HCM / SAM / SCD / 运动员猝死 / β-blocker vs 手术 / Valsalva 动作）→ 整合 → 生成 [[完整笔记/专题笔记/衍生/_衍生_HCM谱系（遗传性vsIDM）]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q20421
@@ -6138,12 +6138,12 @@
 >   - [[完整笔记/Peixuan分科笔记/儿科]]
 >   - [[完整笔记/Peixuan分科笔记/心内]]
 >   - [[完整笔记/Peixuan分科笔记/newborn care and screening]]
->   - [[完整笔记/专题笔记/心内_CHD_新生儿先心病总结]]（本次增量并入：Part 1.3 VSD 4 阶段时序 + 新增 Part 1.5 婴儿心衰 vs 成人心衰对照 + Part 4.1 VSD 行扩展反直觉规律 + Part 8 陷阱）
+>   - [[完整笔记/专题笔记/心内/心内_CHD_新生儿先心病总结]]（本次增量并入：Part 1.3 VSD 4 阶段时序 + 新增 Part 1.5 婴儿心衰 vs 成人心衰对照 + Part 4.1 VSD 行扩展反直觉规律 + Part 8 陷阱）
 > - 🏥 跨学科：无
 > - 🌱 TODO（待生成衍生）：
->   - ✅ 新生儿先心病系统化总结**已建** v1.1（[[完整笔记/专题笔记/心内_CHD_新生儿先心病总结]]）；本次错题增量已并入 v1.2
->   - 等积累 3-5 道**左→右分流 CHD**错题（VSD / ASD / PDA + Eisenmenger）→ 整合 → 生成 [[完整笔记/专题笔记/_衍生_左向右分流CHD时序与Eisenmenger]]（重点：PVR 时序、发病窗口、手术时机、为何"先心病不一定生后发病"）
->   - 等积累 3-5 道**婴儿心衰**错题（VSD / 大 PDA / CoA / 心肌病 / IDM-HCM）→ 整合 → 生成 [[完整笔记/专题笔记/_衍生_婴儿心衰识别（吃奶/出汗/肝大）]]（重点：婴儿心衰 vs 成人心衰对照、婴儿肝大的真实意义、容量超载 vs 泵衰竭）
+>   - ✅ 新生儿先心病系统化总结**已建** v1.1（[[完整笔记/专题笔记/心内/心内_CHD_新生儿先心病总结]]）；本次错题增量已并入 v1.2
+>   - 等积累 3-5 道**左→右分流 CHD**错题（VSD / ASD / PDA + Eisenmenger）→ 整合 → 生成 [[完整笔记/专题笔记/衍生/_衍生_左向右分流CHD时序与Eisenmenger]]（重点：PVR 时序、发病窗口、手术时机、为何"先心病不一定生后发病"）
+>   - 等积累 3-5 道**婴儿心衰**错题（VSD / 大 PDA / CoA / 心肌病 / IDM-HCM）→ 整合 → 生成 [[完整笔记/专题笔记/衍生/_衍生_婴儿心衰识别（吃奶/出汗/肝大）]]（重点：婴儿心衰 vs 成人心衰对照、婴儿肝大的真实意义、容量超载 vs 泵衰竭）
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q16280
@@ -6222,13 +6222,13 @@
 >   - （首题，等后续 pericarditis / post-MI 并发症 / ACS 鉴别题积累）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/心内]]
->   - [[完整笔记/专题笔记/USMLE_高频陷阱]]（剂量决定作用 / 反射性用药陷阱 — 本次新增"low-dose ASA ≠ 抗炎"+"Steroid 一线 ↑ 复发"两条普适陷阱）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]]（剂量决定作用 / 反射性用药陷阱 — 本次新增"low-dose ASA ≠ 抗炎"+"Steroid 一线 ↑ 复发"两条普适陷阱）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（uremic pericarditis → 透析为首选，非 NSAID）
 >   - [[完整笔记/Peixuan分科笔记/感染]]（viral prodrome → coxsackie/adeno/echo/influenza/HIV）
 > - 🌱 TODO（待生成衍生）：
->   - 等心内 post-MI 并发症章节复习完 → 请 Claude Code 整合 [pericarditis 不同病因用药 + post-MI 时间轴并发症] → 生成 [[完整笔记/专题笔记/_衍生_心包炎用药对照_按病因]]
->   - 等积累 3+ 道 ACS vs pericarditis 鉴别题 → 生成 [[完整笔记/专题笔记/_衍生_胸痛鉴别速查]]（pleuritic vs pressure、抗凝禁忌区）
+>   - 等心内 post-MI 并发症章节复习完 → 请 Claude Code 整合 [pericarditis 不同病因用药 + post-MI 时间轴并发症] → 生成 [[完整笔记/专题笔记/衍生/_衍生_心包炎用药对照_按病因]]
+>   - 等积累 3+ 道 ACS vs pericarditis 鉴别题 → 生成 [[完整笔记/专题笔记/衍生/_衍生_胸痛鉴别速查]]（pleuritic vs pressure、抗凝禁忌区）
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做：换 post-MI <1 周 / uremic / SLE 场景能否切换正确用药
@@ -6344,12 +6344,12 @@
 >   - （胸痛鉴别 2/3 道，再积累 1 道触发衍生笔记）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/心内]]
->   - [[完整笔记/专题笔记/USMLE_高频陷阱]]（动作加重 ≠ GERD / 家族史诱导反射陷阱）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]]（动作加重 ≠ GERD / 家族史诱导反射陷阱）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/消化腺]]（GERD 加重诱因 + PPI trial 流程）
 >   - [[完整笔记/Peixuan分科笔记/骨科]]（肌骨胸痛归属）
 > - 🌱 TODO（待生成衍生）：
->   - ⭐ **接近触发**：本题 + Q12374 已积累 2 道，再 1 道（ACS / PE / dissection / esophageal spasm 任一）→ 请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_胸痛鉴别速查]]（5 大类 + 三个 P + 加重诱因表 + 决策树）
+>   - ⭐ **接近触发**：本题 + Q12374 已积累 2 道，再 1 道（ACS / PE / dissection / esophageal spasm 任一）→ 请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/衍生/_衍生_胸痛鉴别速查]]（5 大类 + 三个 P + 加重诱因表 + 决策树）
 >   - 等 GI 章节复习完 → 整合 GERD 阶梯诊断（empirical PPI → endoscopy → pH testing）→ 生成 [[完整笔记/专题笔记/GERD诊断流程]]
 >
 > ## ✅ 复盘行动
@@ -6440,14 +6440,14 @@
 >   - （首题，心内降脂药主题，等后续 statin add-on / PCSK9i / TG 管理 / ASCVD risk 计算题积累）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/心内]]
->   - [[完整笔记/专题笔记/心内_降脂药与ASCVD]]（今日新建，16 Part 完整框架）
+>   - [[完整笔记/专题笔记/心内/心内_降脂药与ASCVD]]（今日新建，16 Part 完整框架）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/endocrine]]（statin 前查 TSH；DM + ASCVD risk）
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（CKD 是 risk enhancer）
 >   - [[完整笔记/Peixuan分科笔记/免疫，疫苗]]（RA / SLE 慢性炎症是 enhancer）
 > - 🌱 TODO（待生成衍生）：
->   - 等积累 5+ 道降脂药/Statin 副作用题后 → 生成 [[完整笔记/专题笔记/_衍生_Statin副作用速查]]
->   - 等积累 ASCVD risk 计算题后 → 生成 [[完整笔记/专题笔记/_衍生_ASCVD_RiskEnhancers]]
+>   - 等积累 5+ 道降脂药/Statin 副作用题后 → 生成 [[完整笔记/专题笔记/衍生/_衍生_Statin副作用速查]]
+>   - 等积累 ASCVD risk 计算题后 → 生成 [[完整笔记/专题笔记/衍生/_衍生_ASCVD_RiskEnhancers]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q17515（盲做）
@@ -6548,12 +6548,12 @@
 >   - （首批 HCM 题，等后续题积累）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/心内]]
->   - [[完整笔记/专题笔记/心内_CHD_新生儿先心病总结]]（Part 3.3 HCM vs AS Valsalva 反向动作试验已涵盖；本卡补成人 HCM 治疗 + 5 禁忌药）
+>   - [[完整笔记/专题笔记/心内/心内_CHD_新生儿先心病总结]]（Part 3.3 HCM vs AS Valsalva 反向动作试验已涵盖；本卡补成人 HCM 治疗 + 5 禁忌药）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/pulmonary]]（哮喘 → β-blocker 相对禁忌 → 选 verapamil）
 > - 🌱 TODO（待生成衍生）：
->   - 等心内章节再积累 2-3 道杂音相关题后，请 Claude Code 整合「HCM / AS / MVP / MR 杂音随 Valsalva-蹲下变化」→ 生成 [[完整笔记/专题笔记/_衍生_杂音动作鉴别表]]
->   - 等收集到 "动态梗阻 vs 固定梗阻" 相关题目（HCM / AS / 主动脉夹层等）→ 生成 [[完整笔记/专题笔记/_衍生_HCM_vs_AS对比]]
+>   - 等心内章节再积累 2-3 道杂音相关题后，请 Claude Code 整合「HCM / AS / MVP / MR 杂音随 Valsalva-蹲下变化」→ 生成 [[完整笔记/专题笔记/衍生/_衍生_杂音动作鉴别表]]
+>   - 等收集到 "动态梗阻 vs 固定梗阻" 相关题目（HCM / AS / 主动脉夹层等）→ 生成 [[完整笔记/专题笔记/衍生/_衍生_HCM_vs_AS对比]]
 >
 > ✅ **复盘行动**
 > - [ ] 1 周后默写 β-blocker 治疗 HCM 的两个机制
@@ -6618,13 +6618,13 @@
 >   - （首张抗凝逆转剂卡，等后续 warfarin reversal / DOAC reversal 题积累）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/hematology oncology]]
->   - [[完整笔记/专题笔记/心内_抗凝抗板_急性血栓]]
+>   - [[完整笔记/专题笔记/心内/心内_抗凝抗板_急性血栓]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/心内]]（机械瓣 / AFib 抗凝选择）
 >   - [[完整笔记/Peixuan分科笔记/外科]]（围术期抗凝桥接 + 逆转）
 > - 🌱 TODO（待生成衍生）：
->   - 累计 3+ 道反向题（INCORRECT/EXCEPT）→ 生成 [[完整笔记/专题笔记/_衍生_反向题陷阱SOP]]
->   - 累计 3+ 道抗凝逆转题 → 整合到 [[完整笔记/专题笔记/心内_抗凝抗板_急性血栓]] 增量
+>   - 累计 3+ 道反向题（INCORRECT/EXCEPT）→ 生成 [[完整笔记/专题笔记/衍生/_衍生_反向题陷阱SOP]]
+>   - 累计 3+ 道抗凝逆转题 → 整合到 [[完整笔记/专题笔记/心内/心内_抗凝抗板_急性血栓]] 增量
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后默写完整抗凝逆转剂表（9 个药 + 逆转剂 + 完整性）
@@ -6699,12 +6699,12 @@
 >   - [[mistakes/uworld-mistakes#^STQ20260516-16]] CAST 临床应用反向（同日同根问题）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/心内]]
->   - [[完整笔记/专题笔记/心内_Vaughan_Williams抗心律失常药]]（Part 12.10 双向锁死表已增量）
+>   - [[完整笔记/专题笔记/心内/心内_Vaughan_Williams抗心律失常药]]（Part 12.10 双向锁死表已增量）
 > - 🏥 跨学科：
->   - [[完整笔记/专题笔记/心内_晕厥鉴别决策树]]（LQTS 触发与 Class IB Mexiletine 治疗）
+>   - [[完整笔记/专题笔记/心内/心内_晕厥鉴别决策树]]（LQTS 触发与 Class IB Mexiletine 治疗）
 >   - [[完整笔记/Peixuan分科笔记/儿科]]（先天 LQTS → 触发 / 治疗用药选择）
 > - 🌱 TODO（待生成衍生）：
->   - 已有 [[完整笔记/专题笔记/心内_Vaughan_Williams抗心律失常药]] — 本次增量进 Part 12.10
+>   - 已有 [[完整笔记/专题笔记/心内/心内_Vaughan_Williams抗心律失常药]] — 本次增量进 Part 12.10
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后默写"双向锁死 4 行口诀"
@@ -6792,11 +6792,11 @@
 >   - [[mistakes/uworld-mistakes#^STQ20260515-38]] Class IB 独特机制（Class I 三亚类系列）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/心内]]
->   - [[完整笔记/专题笔记/心内_Vaughan_Williams抗心律失常药]]（Part 2.4 CAST 试验 + Part 14 陷阱表已有，本次扩 Part 12.11 反向应用决策树）
+>   - [[完整笔记/专题笔记/心内/心内_Vaughan_Williams抗心律失常药]]（Part 2.4 CAST 试验 + Part 14 陷阱表已有，本次扩 Part 12.11 反向应用决策树）
 > - 🏥 跨学科：
->   - [[完整笔记/专题笔记/心内_抗凝抗板_急性血栓]]（post-MI 患者用药选择交叉）
+>   - [[完整笔记/专题笔记/心内/心内_抗凝抗板_急性血栓]]（post-MI 患者用药选择交叉）
 > - 🌱 TODO（待生成衍生）：
->   - 累计 3+ 道"远期 MI 干扰项"题 → 拆出 [[完整笔记/专题笔记/_衍生_远期病史干扰项陷阱]]
+>   - 累计 3+ 道"远期 MI 干扰项"题 → 拆出 [[完整笔记/专题笔记/衍生/_衍生_远期病史干扰项陷阱]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后默写 "Class IC 禁忌：缺/HFrEF/肥/瓣/心肌病/传导/✅ 结构正常"
@@ -6871,13 +6871,13 @@
 > - 🔁 同主题错题：（首题，等心衰病因学错题积累）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/心内]]
->   - [[完整笔记/专题笔记/USMLE_实验室指纹诊断大全]]（Part 5.5 慢性酒精性多系统指纹 — 本卡触发新建）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]]（Part 5.5 慢性酒精性多系统指纹 — 本卡触发新建）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/消化腺]]（AST/ALT>2:1 + MCV↑ 同源指纹）
 >   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（酒精性 macrocytosis 鉴别）
 > - 🌱 TODO（待生成衍生）：
->   - 心内章节复习完 → 整合 AIC + PPCM + Tachy-induced + Doxo + Ischemic CMP → [[完整笔记/专题笔记/_衍生_DCM病因学与可逆性对照]]
->   - 已建指纹大全 Part 5.5（慢性酒精性多系统指纹）；继续积累 2-3 道酒精多系统题后 → 拆 [[完整笔记/专题笔记/_衍生_慢性酒精中毒实验室指纹]]（MCV/AST-ALT/三系/B1B6 完整版）
+>   - 心内章节复习完 → 整合 AIC + PPCM + Tachy-induced + Doxo + Ischemic CMP → [[完整笔记/专题笔记/衍生/_衍生_DCM病因学与可逆性对照]]
+>   - 已建指纹大全 Part 5.5（慢性酒精性多系统指纹）；继续积累 2-3 道酒精多系统题后 → 拆 [[完整笔记/专题笔记/衍生/_衍生_慢性酒精中毒实验室指纹]]（MCV/AST-ALT/三系/B1B6 完整版）
 >
 > **✅ 复盘行动**
 > - [ ] 1 周后重做 Q2692（重点：能否一眼锁定 alcohol clue + MCV/LFT）
@@ -6968,11 +6968,11 @@
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（CKD → 造影剂禁忌，排除 A 选项的关键背景）
 >   - [[完整笔记/Peixuan分科笔记/外科]]（创伤性 tamponade / 主动脉夹层手术）
 > - 🌱 TODO（待生成衍生）：
->   - 等积累 3-5 道心包病题后，请 Claude Code 整合 → [[完整笔记/专题笔记/_衍生_心包疾病谱]]（Pericarditis → Effusion → Tamponade → Constrictive）
->   - 整合"心影大 CXR 鉴别"主题错题 → [[完整笔记/专题笔记/_衍生_心影大鉴别诊断]]
->   - 整合"Tamponade 禁忌操作"（不穿夹层 / 不利尿 / 不溶栓）→ [[完整笔记/专题笔记/_衍生_Tamponade禁忌]]
->   - 整合"Low Voltage ECG 鉴别"（5C5O）→ [[完整笔记/专题笔记/_衍生_LowVoltage鉴别]]
->   - 整合"JVP 波形鉴别"（草稿 v2 第五章已有完整 13 节素材）→ [[完整笔记/专题笔记/_衍生_JVP波形鉴别]]
+>   - 等积累 3-5 道心包病题后，请 Claude Code 整合 → [[完整笔记/专题笔记/衍生/_衍生_心包疾病谱]]（Pericarditis → Effusion → Tamponade → Constrictive）
+>   - 整合"心影大 CXR 鉴别"主题错题 → [[完整笔记/专题笔记/衍生/_衍生_心影大鉴别诊断]]
+>   - 整合"Tamponade 禁忌操作"（不穿夹层 / 不利尿 / 不溶栓）→ [[完整笔记/专题笔记/衍生/_衍生_Tamponade禁忌]]
+>   - 整合"Low Voltage ECG 鉴别"（5C5O）→ [[完整笔记/专题笔记/衍生/_衍生_LowVoltage鉴别]]
+>   - 整合"JVP 波形鉴别"（草稿 v2 第五章已有完整 13 节素材）→ [[完整笔记/专题笔记/衍生/_衍生_JVP波形鉴别]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q20254
@@ -7058,11 +7058,11 @@
 > **🔗 关联**
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes#^Q4277-v2]] 第二次错（2026-05-18）— 同题，新陷阱：late-peaking vs early-peaking + soft single S2 机制
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/专题笔记/心内_瓣膜病听诊推理框架]] / [[草稿/2026-05-16_瓣膜病心音机制框架_v1]]（今日新建草稿）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/专题笔记/心内/心内_瓣膜病听诊推理框架]] / [[草稿/2026-05-16_瓣膜病心音机制框架_v1]]（今日新建草稿）
 > - 🏥 跨学科：（暂无）
 > - 🌱 TODO（待生成衍生）：
->   - 等瓣膜病错题积累 3-5 道 → [[完整笔记/专题笔记/_衍生_瓣膜病心音与杂音速查]]（AS/AR/MS/MR/MVP × S1/S2/S3/S4/杂音/动作鉴别）
->   - 等 S3/S4 类错题积累 → [[完整笔记/专题笔记/_衍生_S3_S4机制与病因鉴别]]（容量 vs 压力超负荷决策树）
+>   - 等瓣膜病错题积累 3-5 道 → [[完整笔记/专题笔记/衍生/_衍生_瓣膜病心音与杂音速查]]（AS/AR/MS/MR/MVP × S1/S2/S3/S4/杂音/动作鉴别）
+>   - 等 S3/S4 类错题积累 → [[完整笔记/专题笔记/衍生/_衍生_S3_S4机制与病因鉴别]]（容量 vs 压力超负荷决策树）
 >
 > **✅ 复盘行动**
 > - [ ] 1 周后重做 Q4277（重点：能否一眼锁定 severe AS 三联征 + 预测 S4 不是 S3）
@@ -7173,15 +7173,15 @@
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/儿科]]（先心病章节）
 >   - [[草稿/2026-05-16_先心病诊断框架_主笔记草稿_v2]]（今日生成 ⭐ 待章节复习后整合）
->   - [[完整笔记/专题笔记/心内_CHD_新生儿先心病总结]]（已有相关衍生 — 时间×紫绀×杂音三轴）
+>   - [[完整笔记/专题笔记/心内/心内_CHD_新生儿先心病总结]]（已有相关衍生 — 时间×紫绀×杂音三轴）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/心内]]（心脏听诊 — 杂音形状 / S2 异常 / 成人 TOF post-repair 并发症）
 > - 🌱 TODO（待生成衍生）：
->   - 等积累 5-8 道先心病题后，整合 → [[完整笔记/专题笔记/_衍生_先天性心脏病完整图谱]]
->   - 整合 "Tet Spell 处理 SOP" → [[完整笔记/专题笔记/_衍生_TetSpell处理]]
->   - 整合 "心脏杂音定位+形状鉴别" → [[完整笔记/专题笔记/_衍生_心脏杂音鉴别]]
->   - 整合 "S2 异常鉴别" → [[完整笔记/专题笔记/_衍生_S2异常鉴别]]
->   - 整合 "儿科 CXR 经典征" → [[完整笔记/专题笔记/_衍生_儿科CXR经典征]]
+>   - 等积累 5-8 道先心病题后，整合 → [[完整笔记/专题笔记/衍生/_衍生_先天性心脏病完整图谱]]
+>   - 整合 "Tet Spell 处理 SOP" → [[完整笔记/专题笔记/衍生/_衍生_TetSpell处理]]
+>   - 整合 "心脏杂音定位+形状鉴别" → [[完整笔记/专题笔记/衍生/_衍生_心脏杂音鉴别]]
+>   - 整合 "S2 异常鉴别" → [[完整笔记/专题笔记/衍生/_衍生_S2异常鉴别]]
+>   - 整合 "儿科 CXR 经典征" → [[完整笔记/专题笔记/衍生/_衍生_儿科CXR经典征]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q2429
@@ -7267,18 +7267,18 @@
 > - 📚 主笔记 + 已有衍生：
 >   - [[完整笔记/Peixuan分科笔记/心内]]（AFib + HFrEF 用药管理）
 >   - [[草稿/2026-05-16_老年多药患者诊断思维_v1]]（今日生成 ⭐ 待章节复习后整合 — 方法论侧）
->   - [[完整笔记/专题笔记/心内_Vaughan_Williams抗心律失常药]] **Part 6.1**（Digoxin Toxicity 综合管理 — 药物本身侧；今日同步整合 v1.5）⭐
+>   - [[完整笔记/专题笔记/心内/心内_Vaughan_Williams抗心律失常药]] **Part 6.1**（Digoxin Toxicity 综合管理 — 药物本身侧；今日同步整合 v1.5）⭐
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/肾脏]]（老年 + 利尿剂 → AKI → 经肾药物清除受损）
 > - 🌱 TODO（待生成衍生）：
 >   - ~~等积累 2-3 道 digoxin 题 → 整合 Digoxin_中毒与管理~~ **已落地** Vaughan Williams Part 6.1（2026-05-16）
->   - 等积累 5+ 道窄治疗窗药物中毒题 → 整合 [[完整笔记/专题笔记/_衍生_窄治疗窗药物速查]]（覆盖 lithium / warfarin / theophylline / phenytoin / vancomycin 等）
+>   - 等积累 5+ 道窄治疗窗药物中毒题 → 整合 [[完整笔记/专题笔记/衍生/_衍生_窄治疗窗药物速查]]（覆盖 lithium / warfarin / theophylline / phenytoin / vancomycin 等）
 > 
 > **✅ 复盘行动**：
 > - [ ] 1 周后重做此题（2026-05-23）
 > - [ ] 默写 "DIG-SICK" + 窄治疗窗药物 SOP 表
 > - [ ] 训练新阅读习惯：stem 用药列表逐药扫描"能解释症状吗？"
 > - [ ] 找 3 道类似题：UWorld 搜 "digoxin toxicity" / "drug toxicity elderly" / "narrow therapeutic window"
-> - [ ] 把"HF 患者新发 GI 症状 → 先怀疑药物毒性"加进 [[完整笔记/专题笔记/USMLE_高频陷阱]]
+> - [ ] 把"HF 患者新发 GI 症状 → 先怀疑药物毒性"加进 [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]]
 > 
 > ---
 > 
@@ -7295,7 +7295,7 @@
 >
 > ## 核心概念
 > 症状性 sinus bradycardia + 不稳定 → **Atropine 1 mg IV** 是 ACLS 1st line（结上水平有效）
-> 完整决策树 + 缓 vs 速反向用药逻辑见 [[完整笔记/专题笔记/心内_Vaughan_Williams抗心律失常药]] **Part 7.6 / 7.6.y / 7.6.z**（今日同步整合 v1.6）
+> 完整决策树 + 缓 vs 速反向用药逻辑见 [[完整笔记/专题笔记/心内/心内_Vaughan_Williams抗心律失常药]] **Part 7.6 / 7.6.y / 7.6.z**（今日同步整合 v1.6）
 >
 > ## 普适规则（精简，详细去 Part 7.6）
 > - **1st line**: Atropine 1 mg IV (q3-5 min, max 3 mg)
@@ -7333,14 +7333,14 @@
 >   - [[mistakes/uworld-mistakes#^Q4454]] Digoxin toxicity（缓 + GI + 神经三联，"治速的药"用错时致命）
 > - 📚 主笔记 + 已有衍生：
 >   - [[完整笔记/Peixuan分科笔记/心内]]（心律失常 / ACLS）
->   - [[完整笔记/专题笔记/心内_Vaughan_Williams抗心律失常药]] **Part 7.6 + 7.6.y + 7.6.z**（今日同步整合 v1.6 — 缓 vs 速反向 / 5 大禁用药 / D vs E 陷阱）⭐
->   - [[完整笔记/专题笔记/心内_晕厥鉴别决策树]]（症状性缓属心源性晕厥红旗）
+>   - [[完整笔记/专题笔记/心内/心内_Vaughan_Williams抗心律失常药]] **Part 7.6 + 7.6.y + 7.6.z**（今日同步整合 v1.6 — 缓 vs 速反向 / 5 大禁用药 / D vs E 陷阱）⭐
+>   - [[完整笔记/专题笔记/心内/心内_晕厥鉴别决策树]]（症状性缓属心源性晕厥红旗）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/感染]]（Lyme carditis → AVB）
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（Cushing 反射 = HTN + 缓 + 不规则呼吸）
 >   - [[完整笔记/Peixuan分科笔记/endocrine]]（甲减 → 缓）
 > - 🌱 TODO：
->   - 等积累 ACLS 心动过速 + 不稳定 SVT/AF/VT 错题 → 整合 [[完整笔记/专题笔记/_衍生_ACLS用药决策树]]（缓 vs 速 用药逻辑对称）
+>   - 等积累 ACLS 心动过速 + 不稳定 SVT/AF/VT 错题 → 整合 [[完整笔记/专题笔记/衍生/_衍生_ACLS用药决策树]]（缓 vs 速 用药逻辑对称）
 >
 > ## ✅ 复盘行动
 > - [ ] 默写"症状性缓 ACLS 流程"（atropine → TCP/TVP → dopamine/epi infusion）
@@ -7417,9 +7417,9 @@
 >   - [[完整笔记/Peixuan分科笔记/pulmonary]]（NIPPV 适应证）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/hematology oncology]]（蒽环类心脏毒性 / 放疗心脏并发症）
 > - 🌱 TODO：
->   - 等心内+呼吸章节复习完 → 整合 [ADHF 5锚点 + 呼衰4锚点 + 4象限分型 + LMNOP/ABC] → 生成 [[完整笔记/专题笔记/_衍生_急性心衰急诊处理SOP]]
->   - 等积累 5+ 道急诊 next step 错题 → 生成 [[完整笔记/专题笔记/_衍生_USMLE急诊题ABC优先级]]
->   - 等血液肿瘤复习完 → 整合化疗/放疗心脏毒性 → 生成 [[完整笔记/专题笔记/_衍生_肿瘤治疗心脏并发症]]
+>   - 等心内+呼吸章节复习完 → 整合 [ADHF 5锚点 + 呼衰4锚点 + 4象限分型 + LMNOP/ABC] → 生成 [[完整笔记/专题笔记/衍生/_衍生_急性心衰急诊处理SOP]]
+>   - 等积累 5+ 道急诊 next step 错题 → 生成 [[完整笔记/专题笔记/衍生/_衍生_USMLE急诊题ABC优先级]]
+>   - 等血液肿瘤复习完 → 整合化疗/放疗心脏毒性 → 生成 [[完整笔记/专题笔记/衍生/_衍生_肿瘤治疗心脏并发症]]
 >
 > **✅ 复盘行动**
 > - [ ] 1 周后重做 Q6945
@@ -7453,7 +7453,7 @@
 > > [!info] UWorld Mobitz I vs II 鉴别表（高密度对照，必背）
 > > ![[{076A3A14-4304-48E4-9091-BA4F9A7417A9}.png]]
 > > 6 维对照：阻滞水平 / ECG / QRS 宽度 / 迷走 ↓ 反应 / 迷走 ↑ 反应 / 进展完全 AVB 风险（→ PPM 指征）
-> > 详细各类型 ECG 教学图（1° / Mobitz I / Mobitz II / 3°）见 [[完整笔记/专题笔记/心内_AV_Block完整鉴别]] **Section 2.1-2.4**
+> > 详细各类型 ECG 教学图（1° / Mobitz I / Mobitz II / 3°）见 [[完整笔记/专题笔记/心内/心内_AV_Block完整鉴别]] **Section 2.1-2.4**
 >
 > ## 普适规则
 >
@@ -7549,16 +7549,16 @@
 >   - [[mistakes/uworld-mistakes#^Q2141]] Symptomatic bradycardia（Atropine 1st line / 结上有效结下起搏）
 > - 📚 主笔记 + 已有衍生：
 >   - [[完整笔记/Peixuan分科笔记/心内]]
->   - [[完整笔记/专题笔记/心内_AV_Block完整鉴别]]（今日同步生成 v1 ⭐ 来源本卡）
->   - [[完整笔记/专题笔记/心内_Vaughan_Williams抗心律失常药]] **Part 7.6**（症状性缓 ACLS / atropine 起效部位）
+>   - [[完整笔记/专题笔记/心内/心内_AV_Block完整鉴别]]（今日同步生成 v1 ⭐ 来源本卡）
+>   - [[完整笔记/专题笔记/心内/心内_Vaughan_Williams抗心律失常药]] **Part 7.6**（症状性缓 ACLS / atropine 起效部位）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/感染]]（Lyme 心肌炎 / 风湿热引起 AV block）
 >   - [[完整笔记/Peixuan分科笔记/儿科]]（先天性 3° AV block + 母亲抗 SSA/Ro）
 >   - [[完整笔记/Peixuan分科笔记/OB]]（妊娠期 SLE 抗体跨胎盘）
 > - 🌱 TODO（待生成衍生）：
->   - 等束支阻滞 (LBBB / RBBB / fascicular block) 题积累后 → 合并到 [[完整笔记/专题笔记/心内_AV_Block完整鉴别]] 或拆 [[完整笔记/专题笔记/_衍生_束支阻滞鉴别]]
->   - 等"不规则心律"题积累后，整合 A-fib / 二度 AV block / 多源房早 / 室早 → 生成 [[完整笔记/专题笔记/_衍生_不规则心律鉴别诊断]]
->   - 等心内 + 影像 ECG 题积累后，整合"USMLE 题干信号 → 信息来源映射" → 写入 [[完整笔记/专题笔记/USMLE_高频陷阱]]
+>   - 等束支阻滞 (LBBB / RBBB / fascicular block) 题积累后 → 合并到 [[完整笔记/专题笔记/心内/心内_AV_Block完整鉴别]] 或拆 [[完整笔记/专题笔记/衍生/_衍生_束支阻滞鉴别]]
+>   - 等"不规则心律"题积累后，整合 A-fib / 二度 AV block / 多源房早 / 室早 → 生成 [[完整笔记/专题笔记/衍生/_衍生_不规则心律鉴别诊断]]
+>   - 等心内 + 影像 ECG 题积累后，整合"USMLE 题干信号 → 信息来源映射" → 写入 [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]]
 >
 > ## ✅ 复盘行动
 > - [ ] 3 天后重做 Q3766，目标 30 秒内锁定 D
@@ -7657,8 +7657,8 @@
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/endocrine]]（pheochromocytoma 术前用药顺序，同 unopposed α1 机制）
 > - 🌱 TODO（待生成衍生）：
->   - 等心内积累 3-5 道 angina 题后，请 Claude Code 整合 stable / unstable / vasospastic / cocaine-induced 四类胸痛 → 生成 [[完整笔记/专题笔记/_衍生_Angina四鉴别用药对照]]
->   - 等积累 2-3 道 unopposed α1 题（vasospasm + cocaine + pheo）后 → 生成 [[完整笔记/专题笔记/_衍生_Unopposed_Alpha_禁用β阻断剂场景]]
+>   - 等心内积累 3-5 道 angina 题后，请 Claude Code 整合 stable / unstable / vasospastic / cocaine-induced 四类胸痛 → 生成 [[完整笔记/专题笔记/衍生/_衍生_Angina四鉴别用药对照]]
+>   - 等积累 2-3 道 unopposed α1 题（vasospasm + cocaine + pheo）后 → 生成 [[完整笔记/专题笔记/衍生/_衍生_Unopposed_Alpha_禁用β阻断剂场景]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q2723
@@ -7767,8 +7767,8 @@
 >   - [[完整笔记/Peixuan分科笔记/endocrine]]（甲亢 / hemochromatosis 也是可逆 HFrEF 病因）
 >   - [[完整笔记/Peixuan分科笔记/OB]]（peripartum CMP 也是可逆 HFrEF）
 > - 🌱 TODO（待生成衍生）：
->   - 等心内积累 3-5 道 HFrEF 病因题（TIC + alcoholic + peripartum + takotsubo + myocarditis）后，请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_HFrEF可逆病因鉴别]]
->   - 等积累 2-3 道 AF 题后 → 生成 [[完整笔记/专题笔记/_衍生_房颤管理流程]]（rate vs rhythm control 决策 + CHA₂DS₂-VASc 抗凝）
+>   - 等心内积累 3-5 道 HFrEF 病因题（TIC + alcoholic + peripartum + takotsubo + myocarditis）后，请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/衍生/_衍生_HFrEF可逆病因鉴别]]
+>   - 等积累 2-3 道 AF 题后 → 生成 [[完整笔记/专题笔记/衍生/_衍生_房颤管理流程]]（rate vs rhythm control 决策 + CHA₂DS₂-VASc 抗凝）
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q4238
@@ -7851,8 +7851,8 @@
 >   - [[完整笔记/Peixuan分科笔记/感染]]（prosthetic valve endocarditis — 机械瓣发热 + 新杂音鉴别）
 >   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（mechanical hemolytic anemia + schistocytes — 干扰项 A 的逻辑）
 > - 🌱 TODO（待生成衍生）：
->   - 等心内瓣膜章节复习完后，请 Claude Code 整合 [机械瓣 / 生物瓣相关错题] → 生成 [[完整笔记/专题笔记/_衍生_人工瓣膜管理]]（正常听诊 / PVD 4 机制 / 新杂音 SOP / 抗凝目标 / 心内膜炎预防 / 术后随访）
->   - 等积累更多"新发杂音"类错题后，请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_新发杂音决策树]]（自然瓣 vs 人工瓣 vs 妊娠 vs 急性 MI 后 不同语境的 next step）
+>   - 等心内瓣膜章节复习完后，请 Claude Code 整合 [机械瓣 / 生物瓣相关错题] → 生成 [[完整笔记/专题笔记/衍生/_衍生_人工瓣膜管理]]（正常听诊 / PVD 4 机制 / 新杂音 SOP / 抗凝目标 / 心内膜炎预防 / 术后随访）
+>   - 等积累更多"新发杂音"类错题后，请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/衍生/_衍生_新发杂音决策树]]（自然瓣 vs 人工瓣 vs 妊娠 vs 急性 MI 后 不同语境的 next step）
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q15831
@@ -7977,9 +7977,9 @@
 >   - PPCM 双归属（OB ↔ 心内）
 >   - [[完整笔记/专题笔记/孕期致畸药]]（ACEi/ARB 在 PPCM 治疗中 — 妊娠期禁用、**产后才能用**）
 > - 🌱 TODO（待生成衍生）：
->   - 等积累 3-5 道妊娠 + 心血管题 → 请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_妊娠期心血管疾病]]（PPCM / preeclampsia 心血管表现 / 既往心脏病合并妊娠 / 妊娠期生理变化 / 安全药物清单）
->   - 等积累"代偿性 vs 失代偿"类错题 → 生成 [[完整笔记/专题笔记/_衍生_生命体征解读陷阱]]（代偿性 tachycardia / 隐匿性休克 / "看似正常"的危险数值组合）
->   - 等积累产科 vs 内科紧急鉴别题 → 生成 [[完整笔记/专题笔记/_衍生_妊娠期紧急决策树]]
+>   - 等积累 3-5 道妊娠 + 心血管题 → 请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/衍生/_衍生_妊娠期心血管疾病]]（PPCM / preeclampsia 心血管表现 / 既往心脏病合并妊娠 / 妊娠期生理变化 / 安全药物清单）
+>   - 等积累"代偿性 vs 失代偿"类错题 → 生成 [[完整笔记/专题笔记/衍生/_衍生_生命体征解读陷阱]]（代偿性 tachycardia / 隐匿性休克 / "看似正常"的危险数值组合）
+>   - 等积累产科 vs 内科紧急鉴别题 → 生成 [[完整笔记/专题笔记/衍生/_衍生_妊娠期紧急决策树]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q12118
@@ -8073,7 +8073,7 @@
 > - **"BB 受体是被锁死的前门，Glucagon 是后门钥匙"** — 同一间房（cAMP 系统），不同入口
 > - **病史 → 药源推断**：CAD/HTN 老人 = BB/CCB；AFib/HF = digoxin 嫌疑↑
 > - **"BB toxicity: Bradycardia, Bronchospasm, Blood sugar low → Glucagon"**
-> - **指纹钩子**：见到 [Brady + 低血压 + IVF/atropine 无效 + wheezing/血糖方向/GI+视觉+K] → 想 [BB/CCB/Digoxin 三联中毒] → 链回 [[完整笔记/专题笔记/USMLE_实验室指纹诊断大全]] **Part 5.8**
+> - **指纹钩子**：见到 [Brady + 低血压 + IVF/atropine 无效 + wheezing/血糖方向/GI+视觉+K] → 想 [BB/CCB/Digoxin 三联中毒] → 链回 [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] **Part 5.8**
 >
 > ---
 >
@@ -8093,14 +8093,14 @@
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/心内]]（心血管药物副作用 / BB / CCB / digoxin）
 >   - [[完整笔记/Peixuan分科笔记/pulmonary]]（β-blocker → bronchospasm；哮喘患者用药禁忌）
->   - [[完整笔记/专题笔记/USMLE_实验室指纹诊断大全]] **Part 5.8** "心动过缓+低血压"三联中毒（本卡触发新建）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] **Part 5.8** "心动过缓+低血压"三联中毒（本卡触发新建）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/psych]](suicide note + 故意过量 — 急诊高频场景)
 >   - 急诊 / 重症医学（toxicology）
 > - 🌱 TODO（待生成衍生）：
->   - 等积累 3-5 道中毒题 → 请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_常见中毒与解毒剂速查]]（含上表 + 每种中毒机制流程 + 鉴别要点 + 剂量）
->   - 等积累"心动过缓+低血压"类错题 → 生成 [[完整笔记/专题笔记/_衍生_Brady+Hypotension鉴别决策树]]（BB / CCB / digoxin / hypothyroid / 高位脊髓损伤 / addisonian crisis 等）
->   - 等积累"自杀/故意过量"类错题 → 生成 [[完整笔记/专题笔记/_衍生_自杀患者药源推断]]（病史 → 推断药源 → 锁定中毒类型）
+>   - 等积累 3-5 道中毒题 → 请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/衍生/_衍生_常见中毒与解毒剂速查]]（含上表 + 每种中毒机制流程 + 鉴别要点 + 剂量）
+>   - 等积累"心动过缓+低血压"类错题 → 生成 [[完整笔记/专题笔记/衍生/_衍生_Brady+Hypotension鉴别决策树]]（BB / CCB / digoxin / hypothyroid / 高位脊髓损伤 / addisonian crisis 等）
+>   - 等积累"自杀/故意过量"类错题 → 生成 [[完整笔记/专题笔记/衍生/_衍生_自杀患者药源推断]]（病史 → 推断药源 → 锁定中毒类型）
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q2663
@@ -8184,18 +8184,18 @@
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/感染]]
 >   - [[完整笔记/Peixuan分科笔记/心内]]
->   - [[完整笔记/专题笔记/感染_感染性心内膜炎完整体系]] HEROIC 章节
+>   - [[完整笔记/专题笔记/感染/感染_感染性心内膜炎完整体系]] HEROIC 章节
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/心内]]（传导系统解剖 — AV node 紧邻 aortic valve annulus）
 > - 🌱 TODO（待生成衍生）：
->   - 等积累 3-5 道 "IE 并发症识别"题 → 整合到 [[完整笔记/专题笔记/感染_感染性心内膜炎完整体系]] 增加 §并发症识别 SOP
+>   - 等积累 3-5 道 "IE 并发症识别"题 → 整合到 [[完整笔记/专题笔记/感染/感染_感染性心内膜炎完整体系]] 增加 §并发症识别 SOP
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q12（自测）
 > - [ ] 默写 HEROIC 6 个手术指征 + 各自临床场景
 > - [ ] 默写 "IE + 新发传导异常 SOP"
 > - [ ] UW 搜 `infective endocarditis complication` → 找 3 道相似题
-> - [ ] 关联到 [[完整笔记/专题笔记/感染_感染性心内膜炎完整体系]] §HEROIC
+> - [ ] 关联到 [[完整笔记/专题笔记/感染/感染_感染性心内膜炎完整体系]] §HEROIC
 >
 > ---
 >
@@ -8272,12 +8272,12 @@
 >   - （首题，IE prophylaxis 在错题本首次出现）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/感染]]
->   - [[完整笔记/专题笔记/感染_感染性心内膜炎完整体系]] §预防章节
+>   - [[完整笔记/专题笔记/感染/感染_感染性心内膜炎完整体系]] §预防章节
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/心内]]（瓣膜病 / 机械瓣管理）
 >   - [[完整笔记/Peixuan分科笔记/外科]]（外科预防抗生素 ≠ IE 预防）
 > - 🌱 TODO（待生成衍生）：
->   - 等积累 IE 预防 + 外科预防 + 操作前抗生素 3 类题 → 生成 [[完整笔记/专题笔记/_衍生_围手术期抗生素预防全场景]]
+>   - 等积累 IE 预防 + 外科预防 + 操作前抗生素 3 类题 → 生成 [[完整笔记/专题笔记/衍生/_衍生_围手术期抗生素预防全场景]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q13（自测）
@@ -8355,12 +8355,12 @@
 >   - （等其他 IE 体征题 / 免疫复合物 vs 栓塞鉴别题积累）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/感染]]
->   - [[完整笔记/专题笔记/感染_感染性心内膜炎完整体系]] §皮肤体征
+>   - [[完整笔记/专题笔记/感染/感染_感染性心内膜炎完整体系]] §皮肤体征
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/心内]]（IE 临床表现）
 >   - [[完整笔记/Peixuan分科笔记/眼科]]（Roth spots — 同免疫复合物机制）
 > - 🌱 TODO（待生成衍生）：
->   - 等积累 IE 经典皮肤/眼底体征题 3-5 道 → 整合到 [[完整笔记/专题笔记/感染_感染性心内膜炎完整体系]] §体征反向陷阱专节
+>   - 等积累 IE 经典皮肤/眼底体征题 3-5 道 → 整合到 [[完整笔记/专题笔记/感染/感染_感染性心内膜炎完整体系]] §体征反向陷阱专节
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q14（自测）
@@ -8470,9 +8470,9 @@
 >   - [[完整笔记/Peixuan分科笔记/心内]]（HFrEF GDMT 药物组合 + K 监测）
 >   - [[草稿/2026-05-17_高钾血症完整体系_v1]] §三联炸弹章节（本卡触发增量）
 > - 🏥 跨学科：
->   - [[完整笔记/专题笔记/USMLE_实验室指纹诊断大全]] §电解质指纹（peaked T → 6.0-6.5 / 宽 QRS → 7-8 / sine wave → 8+）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] §电解质指纹（peaked T → 6.0-6.5 / 宽 QRS → 7-8 / sine wave → 8+）
 > - 🌱 TODO（待生成衍生）：
->   - 等积累 3-5 道电解质 / 内分泌 / 中毒类 "trigger vs permissive" 题 → 生成 [[完整笔记/专题笔记/_衍生_急性恶化元凶定位_Trigger_vs_Permissive]]
+>   - 等积累 3-5 道电解质 / 内分泌 / 中毒类 "trigger vs permissive" 题 → 生成 [[完整笔记/专题笔记/衍生/_衍生_急性恶化元凶定位_Trigger_vs_Permissive]]
 >   - 等高钾草稿正式化 → [[完整笔记/专题笔记/肾_高钾血症完整体系]]
 >
 > ## ✅ 复盘行动
@@ -8585,8 +8585,8 @@
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（DOAC vs warfarin、HAS-BLED 出血评估）
 > - 🌱 TODO（待生成衍生）：
->   - 等积累 3-4 道 AF 题（rate/rhythm、cardioversion、Holiday Heart）→ 请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/心内_AF管理决策树]]
->   - 等评分类题积累（CHA₂DS₂-VASc + HAS-BLED + CHADS₂ + Wells 等）→ 整合进 [[完整笔记/专题笔记/USMLE_高频评分_公式]]
+>   - 等积累 3-4 道 AF 题（rate/rhythm、cardioversion、Holiday Heart）→ 请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/心内/心内_AF管理决策树]]
+>   - 等评分类题积累（CHA₂DS₂-VASc + HAS-BLED + CHADS₂ + Wells 等）→ 整合进 [[完整笔记/专题笔记/USMLE/USMLE_高频评分_公式]]
 >
 > ## 9. ✅ 复盘行动
 >
@@ -8744,11 +8744,11 @@
 > ### 9. 🔗 关联
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes#^Q4277]] 第一次错（2026-05-16）— 同题，前次陷阱：误以为 AS → S3（实为 S4，向心性肥厚）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/专题笔记/心内_瓣膜病听诊推理框架]]（2026-05-18 新建）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/专题笔记/心内/心内_瓣膜病听诊推理框架]]（2026-05-18 新建）
 > - 🏥 跨学科：暂无
 > - 🌱 TODO（待生成衍生）：
->   - 等心内瓣膜病章节积累 4-5 道题后，请 Claude Code 整合 AS / MS / MR / AR / HCM 错题 → 扩充 [[完整笔记/专题笔记/心内_瓣膜病听诊推理框架]]（按"杂音时相 × 位置 × S1/S2/S3/S4 × 脉搏特征"建立完整对比矩阵）
->   - 等积累 2-3 道 severity-grading 题（severe AS / severe MR / severe AR / severe MS 的体征判别）→ 生成 [[完整笔记/专题笔记/心内_瓣膜病严重度判断]]
+>   - 等心内瓣膜病章节积累 4-5 道题后，请 Claude Code 整合 AS / MS / MR / AR / HCM 错题 → 扩充 [[完整笔记/专题笔记/心内/心内_瓣膜病听诊推理框架]]（按"杂音时相 × 位置 × S1/S2/S3/S4 × 脉搏特征"建立完整对比矩阵）
+>   - 等积累 2-3 道 severity-grading 题（severe AS / severe MR / severe AR / severe MS 的体征判别）→ 生成 [[完整笔记/专题笔记/心内/心内_瓣膜病严重度判断]]
 >
 > ### ✅ 复盘行动
 > - [ ] **3 天后**重做这题（第二次错，间隔缩短）
@@ -8842,12 +8842,12 @@
 > >   - [[mistakes/uworld-mistakes#^Q19-2026-05-18]] 高钾三联 K 炸弹（同日 / Trigger vs Permissive 思维 — 此题是急性处理面，那题是元凶定位面）
 > > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/肾脏]] / [[完整笔记/Peixuan分科笔记/心内]] / [[草稿/2026-05-17_高钾血症完整体系_v1]] §Brady+Hypo 鉴别 + §Sine wave vs TdP（本卡触发增量）
 > > - 🏥 跨学科：
-> >   - [[完整笔记/专题笔记/USMLE_实验室指纹诊断大全]] §2.6 Hyperkalemia ECG 指纹（本卡触发新增）
-> >   - [[完整笔记/专题笔记/心内_ACLS急救决策树]]（Brady + Hypo 急救分流）
+> >   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] §2.6 Hyperkalemia ECG 指纹（本卡触发新增）
+> >   - [[完整笔记/专题笔记/心内/心内_ACLS急救决策树]]（Brady + Hypo 急救分流）
 > > - 🌱 TODO（待生成衍生）：
 > >   - 等积累 3-5 道电解质急症 → Claude Code 整合 → [[完整笔记/专题笔记/肾_电解质急症速查]]（SOP + ECG + 鉴别表）
-> >   - 等积累 3-5 道 ECG 急症 → Claude Code 整合 → [[完整笔记/专题笔记/心内_ECG急症鉴别]]（按 ECG 模式查诊断）
-> >   - 等积累 2-3 道休克鉴别 → Claude Code 整合 → [[完整笔记/专题笔记/心内_休克鉴别与首选治疗]]
+> >   - 等积累 3-5 道 ECG 急症 → Claude Code 整合 → [[完整笔记/专题笔记/心内/心内_ECG急症鉴别]]（按 ECG 模式查诊断）
+> >   - 等积累 2-3 道休克鉴别 → Claude Code 整合 → [[完整笔记/专题笔记/心内/心内_休克鉴别与首选治疗]]
 >
 > **✅ 复盘行动**
 > > - [ ] 1 周后重做（练习：先看 ECG 再读 stem）
@@ -8877,7 +8877,7 @@
 > ---
 >
 > **🔗 关联**：
-> - 📚 完整对照表：[[完整笔记/专题笔记/儿科_染色体病多系统对照表]] ⭐ 看这个就够了
+> - 📚 完整对照表：[[完整笔记/专题笔记/儿科/儿科_染色体病多系统对照表]] ⭐ 看这个就够了
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/儿科]] / [[完整笔记/Peixuan分科笔记/心内]]
 >
 > **✅ 复盘**：
@@ -8974,16 +8974,16 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：（首题，AF 长期管理 / 心律失常工具适用边界类，等后续题积累）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/Peixuan分科笔记/pulmonary]] / [[完整笔记/专题笔记/心内_AF复发与心律失常工具边界]]（2026-05-18 新建本卡触发整合）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/Peixuan分科笔记/pulmonary]] / [[完整笔记/专题笔记/心内/心内_AF复发与心律失常工具边界]]（2026-05-18 新建本卡触发整合）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/pulmonary]]（OSA 是 AF 的可逆病因）
 >   - [[完整笔记/Peixuan分科笔记/endocrine]]（甲亢也是 AF 可逆病因，TSH 筛查并行）
->   - [[完整笔记/专题笔记/心内_AV_Block完整鉴别]]（AV block ECG 鉴别 — 5 类详解 + Atropine 反应 + 起搏器决策）
->   - [[完整笔记/专题笔记/心内_抗凝抗板_急性血栓]] §E.2 AFib 长期抗凝（AF 评分驱动抗凝面）
+>   - [[完整笔记/专题笔记/心内/心内_AV_Block完整鉴别]]（AV block ECG 鉴别 — 5 类详解 + Atropine 反应 + 起搏器决策）
+>   - [[完整笔记/专题笔记/心内/心内_抗凝抗板_急性血栓]] §E.2 AFib 长期抗凝（AF 评分驱动抗凝面）
 > - 🌱 TODO（待生成衍生）：
->   - 已在 [[完整笔记/专题笔记/心内_AF复发与心律失常工具边界]] 整合：可逆病因筛查 + 工具适用边界 + AV block 定位决策三块
+>   - 已在 [[完整笔记/专题笔记/心内/心内_AF复发与心律失常工具边界]] 整合：可逆病因筛查 + 工具适用边界 + AV block 定位决策三块
 >   - 等积累 3-5 道 SVT 急性处理（AVNRT 终止 / 房扑揭示 F 波 / 宽 QRS 鉴别）→ 扩展该衍生 §工具边界
->   - 等积累 2-3 道 Lyme / 退行性 / 主动脉瓣术后 AV block → 扩展 [[完整笔记/专题笔记/心内_AV_Block完整鉴别]] §非 MI 病因
+>   - 等积累 2-3 道 Lyme / 退行性 / 主动脉瓣术后 AV block → 扩展 [[完整笔记/专题笔记/心内/心内_AV_Block完整鉴别]] §非 MI 病因
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做这题
@@ -9082,13 +9082,13 @@
 >   - （首张 VSR 卡；等后续 free wall rupture / papillary muscle rupture / aneurysm 错题积累后横向连）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/心内]]
->   - [[完整笔记/专题笔记/心内_MI并发症时间轴]] §一 / §三 / §九（深度详解 — 触发笔记之一）
+>   - [[完整笔记/专题笔记/心内/心内_MI并发症时间轴]] §一 / §三 / §九（深度详解 — 触发笔记之一）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/儿科]]（先天性 VSD — 小 VSD 杂音反而响的反直觉点）
->   - [[完整笔记/专题笔记/心内_CHD_ToF法洛四联症]] §5.1（ToF 的 VSD 大无杂音 vs 小 VSD 响 — 同一响度反比规律）
+>   - [[完整笔记/专题笔记/心内/心内_CHD_ToF法洛四联症]] §5.1（ToF 的 VSD 大无杂音 vs 小 VSD 响 — 同一响度反比规律）
 > - 🌱 TODO（待生成衍生）：
->   - 已部分覆盖：[[完整笔记/专题笔记/心内_MI并发症时间轴]] 已建（机械并发症 4 大类型 + 时间窗 + 罪犯血管 + 听诊位置）
->   - 等积累 holosystolic 杂音相关错题（VSR / VSD / MR / TR）→ 生成 [[完整笔记/专题笔记/心内_Holosystolic杂音鉴别]]
+>   - 已部分覆盖：[[完整笔记/专题笔记/心内/心内_MI并发症时间轴]] 已建（机械并发症 4 大类型 + 时间窗 + 罪犯血管 + 听诊位置）
+>   - 等积累 holosystolic 杂音相关错题（VSR / VSD / MR / TR）→ 生成 [[完整笔记/专题笔记/心内/心内_Holosystolic杂音鉴别]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做本题 + 测试题（65 岁无 MI + LSB 杂音 = ?）
@@ -9145,11 +9145,11 @@
 >
 > **🔗 关联**
 > - 🔁 同主题错题：（首题 — 降压药副作用方向，等后续题积累）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/Peixuan分科笔记/endocrine]] / [[完整笔记/专题笔记/心内_降压药副作用速查]] / [[完整笔记/专题笔记/心内_BetaBlockers分类大全]] ⭐（2026-05-18 双衍生齐发本卡触发）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/Peixuan分科笔记/endocrine]] / [[完整笔记/专题笔记/心内/心内_降压药副作用速查]] / [[完整笔记/专题笔记/心内/心内_BetaBlockers分类大全]] ⭐（2026-05-18 双衍生齐发本卡触发）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/endocrine]]（T2DM+HTN 选药优先级）/ [[完整笔记/Peixuan分科笔记/肾脏]]（ACEI/ARB 保肾机制）
 > - 🌱 TODO（待生成衍生）：
->   - 已建：[[完整笔记/专题笔记/心内_降压药副作用速查]]（5 类药 × 副作用 × 特殊人群矩阵）
->   - 等 thiazide / BB metabolic 题积累 → 整合到 [[完整笔记/专题笔记/心内_药物代谢副作用]]（恶化血糖 / 血脂 / 尿酸的药物 — 跨类）
+>   - 已建：[[完整笔记/专题笔记/心内/心内_降压药副作用速查]]（5 类药 × 副作用 × 特殊人群矩阵）
+>   - 等 thiazide / BB metabolic 题积累 → 整合到 [[完整笔记/专题笔记/心内/心内_药物代谢副作用]]（恶化血糖 / 血脂 / 尿酸的药物 — 跨类）
 >
 > **✅ 复盘行动**
 > - [ ] 1 周后盲做重做
@@ -9267,13 +9267,13 @@
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/儿科]]
 >   - [[完整笔记/Peixuan分科笔记/心内]]
->   - [[完整笔记/专题笔记/心内_瓣膜病听诊推理框架]]（瓣膜病听诊推理 — 与儿科 innocent murmur 互补）
+>   - [[完整笔记/专题笔记/心内/心内_瓣膜病听诊推理框架]]（瓣膜病听诊推理 — 与儿科 innocent murmur 互补）
 > - 🏥 跨学科：
->   - [[完整笔记/专题笔记/心内_CHD_发绀型鉴别]]（pathologic murmur + 紫绀型 CHD 鉴别）
->   - [[完整笔记/专题笔记/心内_CHD_ToF法洛四联症]] §5.1（ToF 杂音方向：杂音消失=失代偿 ≠ 良性减弱）
->   - [[完整笔记/专题笔记/儿科_染色体病多系统对照表]]（综合征心脏畸形 — 各类 pathologic murmur 来源）
+>   - [[完整笔记/专题笔记/心内/心内_CHD_发绀型鉴别]]（pathologic murmur + 紫绀型 CHD 鉴别）
+>   - [[完整笔记/专题笔记/心内/心内_CHD_ToF法洛四联症]] §5.1（ToF 杂音方向：杂音消失=失代偿 ≠ 良性减弱）
+>   - [[完整笔记/专题笔记/儿科/儿科_染色体病多系统对照表]]（综合征心脏畸形 — 各类 pathologic murmur 来源）
 > - 🌱 TODO（待生成衍生）：
->   - 等积累 2-3 道**儿科心脏杂音鉴别**题（Still / Pulmonic flow / Venous hum / HCM / pathologic）→ 生成 [[完整笔记/专题笔记/儿科_心脏杂音鉴别]]（含 3 类 innocent + 动作鉴别 + pathologic 红旗矩阵）
+>   - 等积累 2-3 道**儿科心脏杂音鉴别**题（Still / Pulmonic flow / Venous hum / HCM / pathologic）→ 生成 [[完整笔记/专题笔记/儿科/儿科_心脏杂音鉴别]]（含 3 类 innocent + 动作鉴别 + pathologic 红旗矩阵）
 >   - 触发本卡的 UWorld 表（Benign vs Pathologic 5 维对照）可作为该衍生骨架
 >
 > ## ✅ 复盘行动
@@ -9402,7 +9402,7 @@
 > ## 🔗 关联
 >
 > - 🔁 **同主题错题 / 对照案例**：
->   - **Q12432**（做对，2026-05-19）— AUD vs AD 完美对照：同样离婚 stressor，但**离婚 1 年前（>6 月超 AD 时间窗）+ MCV 106 + AST/ALT 2:1 + tremor + 红酒 2-3 杯/晚** → **AUD** 不是 AD。见 [[完整笔记/专题笔记/USMLE_实验室指纹诊断大全#5.5.x AUD vs Adjustment Disorder 鉴别（Q12432 触发，2026-05-19）⭐]]
+>   - **Q12432**（做对，2026-05-19）— AUD vs AD 完美对照：同样离婚 stressor，但**离婚 1 年前（>6 月超 AD 时间窗）+ MCV 106 + AST/ALT 2:1 + tremor + 红酒 2-3 杯/晚** → **AUD** 不是 AD。见 [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全#5.5.x AUD vs Adjustment Disorder 鉴别（Q12432 触发，2026-05-19）⭐]]
 >   - （等后续 MDD / Dysthymia / Bipolar depression 题积累，扩展抑郁谱系鉴别）
 >
 > - 📚 **主笔记**：
@@ -9412,8 +9412,8 @@
 >   - （本题为精神科核心问题，无跨科）
 >
 > - 🌱 **TODO（待生成衍生）**：
->   - **TODO 1**：等积累 3-5 道**抑郁谱系鉴别题**（MDD / Dysthymia / AD / Normal stress / Bipolar depression）后 → 生成 [[完整笔记/专题笔记/psych_抑郁谱系鉴别决策树]]（含 SIGECAPS + 时间窗 + 应激源 + 治疗一线四维对比）
->   - **TODO 2**：等积累 3+ 道**"诊断对但治疗错"陷阱题**（AD→psychotherapy、PTSD→不给 BZD、Grief→不给 SSRI、ASD→trauma-focused CBT）后 → 生成 [[完整笔记/专题笔记/psych_症状vs病因治疗陷阱]]
+>   - **TODO 1**：等积累 3-5 道**抑郁谱系鉴别题**（MDD / Dysthymia / AD / Normal stress / Bipolar depression）后 → 生成 [[完整笔记/专题笔记/psych/psych_抑郁谱系鉴别决策树]]（含 SIGECAPS + 时间窗 + 应激源 + 治疗一线四维对比）
+>   - **TODO 2**：等积累 3+ 道**"诊断对但治疗错"陷阱题**（AD→psychotherapy、PTSD→不给 BZD、Grief→不给 SSRI、ASD→trauma-focused CBT）后 → 生成 [[完整笔记/专题笔记/psych/psych_症状vs病因治疗陷阱]]
 >
 > ## ✅ 复盘行动
 >
@@ -9527,7 +9527,7 @@
 > ## 9. 🤔 我的提问 / 卡点（学习路径）
 >
 > - **Q1**：戒酒药、戒烟药、戒阿片药容易混，怎么系统区分？
->   → **学到**：按 3 维度走 — ①物质类型 ②急性戒断 vs 维持期 ③当前是否还在用该物质。已生成 [[完整笔记/专题笔记/psych_成瘾药物对照表]] 统一管理。
+>   → **学到**：按 3 维度走 — ①物质类型 ②急性戒断 vs 维持期 ③当前是否还在用该物质。已生成 [[完整笔记/专题笔记/psych/psych_成瘾药物对照表]] 统一管理。
 >
 > - **Q2**：Naltrexone 在 AUD 可以边喝边启动，OUD 却要先脱毒 7 天，为什么？
 >   → **学到**：因为是 μ-opioid 拮抗剂。AUD 患者体内**没有阿片**，拮抗剂无所谓 → 宽松；OUD 患者体内**有阿片**，拮抗剂瞬间踢掉 → precipitated withdrawal 爆发 → 严苛。
@@ -9544,17 +9544,17 @@
 >
 > - 📚 **主笔记**：
 >   - [[完整笔记/Peixuan分科笔记/psych]]
->   - [[完整笔记/专题笔记/psych_成瘾药物对照表]] ⭐（2026-05-19 新建本卡触发整合）
+>   - [[完整笔记/专题笔记/psych/psych_成瘾药物对照表]] ⭐（2026-05-19 新建本卡触发整合）
 >
 > - 🏥 **跨学科**：
 >   - [[完整笔记/Peixuan分科笔记/消化腺]]（肝衰 → Naltrexone 禁忌；AUD 共病肝硬化）
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（CrCl<30 → Acamprosate 禁忌）
->   - [[完整笔记/专题笔记/USMLE_实验室指纹诊断大全]] §5.5 慢性酒精性多系统指纹（MCV↑ + AST/ALT≥2:1 = AUD 指纹）+ §5.5.x AUD vs AD 鉴别
->   - [[完整笔记/专题笔记/心内_老年多药患者诊断思维]] §2.3 Cirrhosis 用药陷阱（benzo/opioid 蓄积诱发 HE）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] §5.5 慢性酒精性多系统指纹（MCV↑ + AST/ALT≥2:1 = AUD 指纹）+ §5.5.x AUD vs AD 鉴别
+>   - [[完整笔记/专题笔记/心内/心内_老年多药患者诊断思维]] §2.3 Cirrhosis 用药陷阱（benzo/opioid 蓄积诱发 HE）
 >
 > - 🌱 **TODO（待生成衍生）**：
->   - 已建：[[完整笔记/专题笔记/psych_成瘾药物对照表]]（4 大领域 + 4 兄弟门诊分工）
->   - 等积累 3+ 道"启动时机/前提"陷阱题（Naltrexone in OUD 需脱毒 / Buprenorphine COWS ≥ 12 / Disulfiram 先戒酒）→ 生成 [[完整笔记/专题笔记/psych_成瘾药物启动时机决策]]
+>   - 已建：[[完整笔记/专题笔记/psych/psych_成瘾药物对照表]]（4 大领域 + 4 兄弟门诊分工）
+>   - 等积累 3+ 道"启动时机/前提"陷阱题（Naltrexone in OUD 需脱毒 / Buprenorphine COWS ≥ 12 / Disulfiram 先戒酒）→ 生成 [[完整笔记/专题笔记/psych/psych_成瘾药物启动时机决策]]
 >
 > ## ✅ 复盘行动
 >
@@ -9665,12 +9665,12 @@
 >   - [[mistakes/uworld-mistakes#^Q12541]] AUD 维持期一线药（Naltrexone）— 治"防复发"，不治急性戒断（本题反向 — 戒断用 BZD）
 >   - 等积累更多 AWS / DT / 其他物质戒断错题后横向连接
 > - 📚 主笔记：
->   - [[完整笔记/专题笔记/psych_成瘾药物对照表]] §1.1 时间轴 + §1.2 BZD 急性戒断救命（v1.4 同步 AWS 4 阶段 + Phenytoin 陷阱）
+>   - [[完整笔记/专题笔记/psych/psych_成瘾药物对照表]] §1.1 时间轴 + §1.2 BZD 急性戒断救命（v1.4 同步 AWS 4 阶段 + Phenytoin 陷阱）
 >   - [[完整笔记/Peixuan分科笔记/psych]]（成瘾医学章节）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/外科]]（术后突发 seizure 鉴别 — AWS 高频陷阱）
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（status epilepticus → Phenobarbital 补位；Phenytoin 适应症对比 — focal/Na 通道相关 seizure）
->   - [[完整笔记/专题笔记/USMLE_实验室指纹诊断大全]] §5.5 慢性酒精性多系统指纹（MCV↑ + AST/ALT≥2:1 = AUD 指纹）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] §5.5 慢性酒精性多系统指纹（MCV↑ + AST/ALT≥2:1 = AUD 指纹）
 > - 🌱 TODO：
 >   - ✅ 主笔记 §1.1 同步 AWS 4 阶段时间表
 >   - ✅ 主笔记 §1.2 同步 Phenytoin 陷阱 + Phenobarbital 备选
@@ -9701,7 +9701,7 @@
 > - **Opioids 体检** = dilated pupils + yawning + **piloerection** + lacrimation + **hyperactive bowel sounds**（"反向阿片"指纹）
 > - Stimulants / Nicotine / Cannabis 体检 = **no significant findings**
 >
-> 强化口诀 **"GABA 飙 / 阿片平 / 兴奋剂沉"**。归位 → [[完整笔记/专题笔记/psych_成瘾药物对照表]] §4
+> 强化口诀 **"GABA 飙 / 阿片平 / 兴奋剂沉"**。归位 → [[完整笔记/专题笔记/psych/psych_成瘾药物对照表]] §4
 >
 > ![[{04B719AC-9897-4F69-9622-6F37F3CDB781}.png]]
 > *↑ **图 2：UW Opioid Withdrawal 4 维度完整表** —— Time course / Clinical / Diagnosis / Management*
@@ -9712,7 +9712,7 @@
 >
 > ⚠️ **vital signs 调和**：本图列 "↑ pulse / ↑ BP"，与"vitals OFTEN NORMAL"看似冲突。UW 文本明确：阿片戒断 vital signs **可轻度升高（mild），但不会 storm**——与 GABA 类戒断 HR/BP/T↑↑↑ 严重度天壤之别。本题 stem T 36.6 / BP 110/74 / HR 88 全在正常范围 = 远未到 GABA storm 级别。
 >
-> 归位 → [[完整笔记/专题笔记/psych_成瘾药物对照表]] §3.3
+> 归位 → [[完整笔记/专题笔记/psych/psych_成瘾药物对照表]] §3.3
 >
 > ![[{7F75FCDF-C9CB-4F7B-9AEF-19FA4B21D462}.png]]
 > *↑ **图 3：UW Cholinergic Toxicity 表（DUMBELS 助记）** —— 排除法陷阱 3 用图*
@@ -9721,7 +9721,7 @@
 >
 > **为什么本题排除 cholinergic**：cholinergic 必有 **bradycardia + 流口水 (salivation) + miosis**；本题 HR 88（不慢）+ 黏膜**干**（非流口水）→ 排除。
 >
-> 归位 → [[完整笔记/专题笔记/psych_物质急诊速查]] §6.2
+> 归位 → [[完整笔记/专题笔记/psych/psych_物质急诊速查]] §6.2
 >
 > ## 核心概念
 > **Opioid (Heroin) Withdrawal** — 长期用 opioid 患者突然停药 → locus coeruleus 失去 μ 抑制 → NE 释放 ↑ → 自主神经亢进，但**比 alcohol/BZD 戒断弱很多**。
@@ -9847,7 +9847,7 @@
 >   - [[mistakes/uworld-mistakes#^Q3187]] AWS withdrawal seizure（同日做对 — alcohol 戒断 vital signs storm，本题反向）
 >   - 等积累更多 OUD / opioid 中毒错题后横向连接
 > - 📚 主笔记：
->   - [[完整笔记/专题笔记/psych_成瘾药物对照表]] §3.3 阿片急性戒断（v1.6 强化 vital signs 鉴别）
+>   - [[完整笔记/专题笔记/psych/psych_成瘾药物对照表]] §3.3 阿片急性戒断（v1.6 强化 vital signs 鉴别）
 >   - [[完整笔记/Peixuan分科笔记/psych]] L1118-1124 物质中毒鉴别表（缺戒断对比）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/感染]]（霍乱样腹泻鉴别 — 阿片戒断 watery diarrhea 像感染性腹泻）
@@ -9857,7 +9857,7 @@
 >   - ✅ 主笔记 §3.3 同步 "中毒 vs 戒断 反向阿片表"
 >   - ✅ 主笔记 §6 陷阱表加 vital signs 鉴别行
 >   - ✅ psych.md L1124 后加 "4 大戒断综合征 vital signs 对比表"（同主笔记 §3.3 + 口诀"GABA 飙 / 阿片平 / 兴奋剂沉"）
->   - 累积更多戒断对比题后 → 横向衍生 [[完整笔记/专题笔记/psych_戒断综合征鉴别表]]
+>   - 累积更多戒断对比题后 → 横向衍生 [[完整笔记/专题笔记/psych/psych_戒断综合征鉴别表]]
 >
 > ## ✅ 复盘行动
 >
@@ -9967,8 +9967,8 @@
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（**DA 4 大通路**：mesolimbic / nigrostriatal / tuberoinfundibular / mesocortical → 对应抗精神病效应 / EPS / 高泌乳素 / 阴性症状）
 > - 🌱 TODO（待生成衍生）：
->   - 等 psych 药理积累 5+ 题 → 整合 [[完整笔记/专题笔记/psych_精神科药物机制总表]]
->   - 等积累 3+ 道 SGA 题 → 生成 [[完整笔记/专题笔记/psych_SGA_受体副作用对照表]]（5-HT2A / D2 / α1 / M1 / H1 × 各 SGA）
+>   - 等 psych 药理积累 5+ 题 → 整合 [[完整笔记/专题笔记/psych/psych_精神科药物机制总表]]
+>   - 等积累 3+ 道 SGA 题 → 生成 [[完整笔记/专题笔记/psych/psych_SGA_受体副作用对照表]]（5-HT2A / D2 / α1 / M1 / H1 × 各 SGA）
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q2499
@@ -10089,8 +10089,8 @@
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/Ethics_Master]] L201-240（confidentiality 例外 + 强制上报）+ L18 / L235-238（**Tarasoff** duty to warn / protect）+ L164-194（minors 部分解放 / L177 精神健康部分州）+ L225（self-harm → **involuntary hold**）+ L516（总结心法 — **自伤是保密例外**）
 > - 🌱 TODO（待生成衍生）：
->   - 等 psych 章节积累 3-5 道首步处置题 → 整合 SI/HI/abuse/psychosis 首步处置 → 生成 [[完整笔记/专题笔记/psych_精神科SafetyFirst_SOP]]（决策树：立即住院 / 急诊评估 / 门诊紧密随诊 / 安全计划）
->   - 等儿科 + psych 双向积累 → 整合儿童精神症状躯体化 → 生成 [[完整笔记/专题笔记/儿科_精神症状躯体化]]（抑郁 / 焦虑 / PTSD / 虐待的躯体表现 + 鉴别）
+>   - 等 psych 章节积累 3-5 道首步处置题 → 整合 SI/HI/abuse/psychosis 首步处置 → 生成 [[完整笔记/专题笔记/psych/psych_精神科SafetyFirst_SOP]]（决策树：立即住院 / 急诊评估 / 门诊紧密随诊 / 安全计划）
+>   - 等儿科 + psych 双向积累 → 整合儿童精神症状躯体化 → 生成 [[完整笔记/专题笔记/儿科/儿科_精神症状躯体化]]（抑郁 / 焦虑 / PTSD / 虐待的躯体表现 + 鉴别）
 >   - 📋 **分科同步候选**（等用户审阅）：
 >     - 儿科 L13 加反链 → Q15895
 >     - psych L466 MDD 管理段加 "⚠️ 儿童抑郁 SI 风险评估" + 反链 + SSRI 章节 L480-498 补 **black box warning**
@@ -10316,19 +10316,19 @@
 >   - [[mistakes/uworld-mistakes#^Q3187]] AWS withdrawal seizure（同日做对 — 戒断相关 seizure vs 本题中毒相关 seizure）
 >   - 等积累更多 cocaine / amphetamine / DPH / cholinergic / SS / NMS / 低钠错题后横向连接
 > - 📚 主笔记：
->   - [[完整笔记/专题笔记/psych_物质急诊速查]] ⭐ **本错题触发新建**（v1 含 6 大物质中毒鉴别 + SS/NMS/MH 三联 + 干湿对照）
+>   - [[完整笔记/专题笔记/psych/psych_物质急诊速查]] ⭐ **本错题触发新建**（v1 含 6 大物质中毒鉴别 + SS/NMS/MH 三联 + 干湿对照）
 >   - [[完整笔记/Peixuan分科笔记/psych]] §SS L610-644（三联完整 + cyproheptadine）/ SUD 表 L1118-1124（扩展加 MDMA + 抗胆碱 + PCP 行）
->   - [[完整笔记/专题笔记/psych_成瘾药物对照表]]（戒断 / 维持期 / 急救药 — MDMA 不在本笔记定位内，仅跨链）
+>   - [[完整笔记/专题笔记/psych/psych_成瘾药物对照表]]（戒断 / 维持期 / 急救药 — MDMA 不在本笔记定位内，仅跨链）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/neuro]] L7490-7498 MH vs NMS vs SS 三联鉴别表（本错题触发扩展）/ L12023 NMS 小节（加 SS 反链）/ L6401 Myoclonus 段（加 SS 成因）
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（**SIADH 机制 + 低钠鉴别 → MDMA 是 SIADH 特殊病因**）
 >   - [[完整笔记/Peixuan分科笔记/感染]]（高热鉴别 — 中毒 vs 感染 vs SS vs NMS vs MH）
 > - 🌱 TODO：
->   - ✅ 新建 [[完整笔记/专题笔记/psych_物质急诊速查]]（v1 = 2026-05-19，本错题触发；含 6 大物质中毒鉴别 + SS/NMS/MH 三联 + 干湿对照 —— 涵盖草稿原 TODO 的"滥用药物中毒综合征速查"+"4 大高热综合征鉴别"两项）
+>   - ✅ 新建 [[完整笔记/专题笔记/psych/psych_物质急诊速查]]（v1 = 2026-05-19，本错题触发；含 6 大物质中毒鉴别 + SS/NMS/MH 三联 + 干湿对照 —— 涵盖草稿原 TODO 的"滥用药物中毒综合征速查"+"4 大高热综合征鉴别"两项）
 >   - ✅ psych.md 中毒表 L1118-1124 扩展（加 MDMA + 抗胆碱 + PCP 3 行 + 反链）
 >   - ✅ neuro.md L7490 表升级为三联（含 SS）+ L12023/L6401 加反链
->   - 待积累：累积 SIADH 错题 5+ 道后 → 单独衍生 [[完整笔记/专题笔记/肾脏_低钠血症鉴别决策树]]（MDMA / SSRI / HF / 肝硬化 / Addison 全谱）
->   - 待积累：累积 amphetamine 家族错题（冰毒 / Adderall）后 → 考虑加 [[完整笔记/专题笔记/psych_苯丙胺家族鉴别表]] 单独衍生
+>   - 待积累：累积 SIADH 错题 5+ 道后 → 单独衍生 [[完整笔记/专题笔记/肾脏/肾脏_低钠血症鉴别决策树]]（MDMA / SSRI / HF / 肝硬化 / Addison 全谱）
+>   - 待积累：累积 amphetamine 家族错题（冰毒 / Adderall）后 → 考虑加 [[完整笔记/专题笔记/psych/psych_苯丙胺家族鉴别表]] 单独衍生
 >
 > ## ✅ 复盘行动
 >
@@ -10594,7 +10594,7 @@
 >   - [[完整笔记/Peixuan分科笔记/psych]] §焦虑障碍 / §Anxiety Disorders（DSM-5 焦虑谱系）
 > - 🏥 跨学科：暂无（纯精神科鉴别）
 > - 🌱 TODO（待生成衍生）：
->   - 等 psych 焦虑 / 强迫 / 创伤章节复习完后（积累 5-8 道相关错题）→ 整合 DSM-5 焦虑谱系鉴别错题 → 生成 [[完整笔记/专题笔记/psych_DSM5焦虑障碍鉴别决策树]]（含 4 维决策：恐惧对象 / 触发模式 / 病程 / Stem 关键词）
+>   - 等 psych 焦虑 / 强迫 / 创伤章节复习完后（积累 5-8 道相关错题）→ 整合 DSM-5 焦虑谱系鉴别错题 → 生成 [[完整笔记/专题笔记/psych/psych_DSM5焦虑障碍鉴别决策树]]（含 4 维决策：恐惧对象 / 触发模式 / 病程 / Stem 关键词）
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q8909（盲选，看是否仍会选 E）
@@ -10634,7 +10634,7 @@
 > *Lithium：小幅增加 fetal cardiac defects（**Ebstein anomaly**）—— 已稳定在 lithium 的重症患者怀孕可选择继续，但不应在有更低致畸替代时主动换成 lithium。
 >
 > ![[{8AE1070A-55EC-4697-A3BD-B17EE9CE1F02}.png]]
-> *↑ UW 原图：Treatment of bipolar disorder during pregnancy（4 阶段对照 — 与上方表格同源）。归位 → [[完整笔记/专题笔记/OB_GYN_孕期致畸药]] §六（双地点 Obsidian 反向链接调取）*
+> *↑ UW 原图：Treatment of bipolar disorder during pregnancy（4 阶段对照 — 与上方表格同源）。归位 → [[完整笔记/专题笔记/OB_GYN/OB_GYN_孕期致畸药]] §六（双地点 Obsidian 反向链接调取）*
 >
 > ## 普适规则 — 精神科药物致畸谱
 >
@@ -10684,12 +10684,12 @@
 > - 🔁 同主题错题：（首道 bipolar 孕期用药题，等后续 psych 药理 / 孕期用药题积累）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/psych]]（bipolar disorder 章节）
->   - [[完整笔记/专题笔记/OB_GYN_孕期致畸药]]（valproate / carbamazepine / lithium / paroxetine 致畸谱）
+>   - [[完整笔记/专题笔记/OB_GYN/OB_GYN_孕期致畸药]]（valproate / carbamazepine / lithium / paroxetine 致畸谱）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/OB]]（孕期精神科用药 + 致畸药管理 + organogenesis 时序）
 >   - [[完整笔记/Peixuan分科笔记/儿科]]（神经管缺陷 / Ebstein anomaly 新生儿表现）
 > - 🌱 TODO（待生成衍生）：
->   - 等积累 psych 孕期用药题（孕期抑郁 / 焦虑 / 精神病）后 → 整合 [[完整笔记/专题笔记/psych_孕期精神科用药]]
+>   - 等积累 psych 孕期用药题（孕期抑郁 / 焦虑 / 精神病）后 → 整合 [[完整笔记/专题笔记/psych/psych_孕期精神科用药]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q15103
@@ -10793,8 +10793,8 @@
 >   - [[完整笔记/Peixuan分科笔记/psych]]（bipolar disorder / 维持治疗章节）
 > - 🏥 跨学科：无（纯 Psych）
 > - 🌱 TODO（待生成衍生）：
->   - 等 Psych 章节复习完 → 整合 maintenance therapy duration 类错题（Bipolar / Schizophrenia / MDD / Anxiety 全谱）→ 生成 [[完整笔记/专题笔记/psych_维持治疗时长对照]]
->   - 等积累 ≥3 道 psych 沟通题后 → 整合"共情 + 坚持治疗"SOP → 生成 [[完整笔记/专题笔记/psych_沟通题SOP]]
+>   - 等 Psych 章节复习完 → 整合 maintenance therapy duration 类错题（Bipolar / Schizophrenia / MDD / Anxiety 全谱）→ 生成 [[完整笔记/专题笔记/psych/psych_维持治疗时长对照]]
+>   - 等积累 ≥3 道 psych 沟通题后 → 整合"共情 + 坚持治疗"SOP → 生成 [[完整笔记/专题笔记/psych/psych_沟通题SOP]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q15841
@@ -10906,12 +10906,12 @@
 >   - [[mistakes/uworld-mistakes#^Q3187]] AWS withdrawal seizure（同 alcohol 主题 — 本题 = 维持期 / Q3187 = 急性戒断期）
 >   - 可横向关联：Opioid use disorder 药物（Methadone / Buprenorphine / Naltrexone）、Smoking cessation（Varenicline / Bupropion / NRT）
 > - 📚 主笔记：
->   - [[完整笔记/专题笔记/psych_成瘾药物对照表]] §1.3 维持期 3 药对比（本题已同步 Disulfiram 三必备 + 不降 craving 陷阱）
+>   - [[完整笔记/专题笔记/psych/psych_成瘾药物对照表]] §1.3 维持期 3 药对比（本题已同步 Disulfiram 三必备 + 不降 craving 陷阱）
 >   - [[完整笔记/Peixuan分科笔记/psych]]（AUD 章节）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/消化腺]]（酒精性肝病 / 酒精性胰腺炎背景 — 肝病 → 选 Acamprosate）
 > - 🌱 TODO：
->   - ✅ 衍生 [[完整笔记/专题笔记/psych_成瘾药物对照表]] 已存在并已同步本题增量（原草稿 TODO 设想的"成瘾药物治疗对照表"即此笔记）
+>   - ✅ 衍生 [[完整笔记/专题笔记/psych/psych_成瘾药物对照表]] 已存在并已同步本题增量（原草稿 TODO 设想的"成瘾药物治疗对照表"即此笔记）
 >   - ✅ AUD 药物决策树已并入 psych_成瘾药物对照表 §1.3 / §5
 >
 > ## ✅ 复盘行动
@@ -11052,8 +11052,8 @@
 >   - [[完整笔记/Peixuan分科笔记/psych]]（personality disorders 章节）
 > - 🏥 跨学科：无
 > - 🌱 TODO（待生成衍生）：
->   - 短期（高频陷阱，可先建）→ [[完整笔记/专题笔记/psych_PPD_vs_Delusional_Disorder]]（USMLE 最爱二选一）
->   - 等积累 5+ 道 personality disorder 错题后 → 整合生成 [[完整笔记/专题笔记/psych_人格障碍鉴别速查]]（Cluster A/B/C 全表 + 高频混淆对照：PPD vs Delusional / PPD vs Avoidant / Schizoid vs Avoidant / Schizotypal vs Schizophrenia / Borderline vs Histrionic / OCPD vs OCD 等）
+>   - 短期（高频陷阱，可先建）→ [[完整笔记/专题笔记/psych/psych_PPD_vs_Delusional_Disorder]]（USMLE 最爱二选一）
+>   - 等积累 5+ 道 personality disorder 错题后 → 整合生成 [[完整笔记/专题笔记/psych/psych_人格障碍鉴别速查]]（Cluster A/B/C 全表 + 高频混淆对照：PPD vs Delusional / PPD vs Avoidant / Schizoid vs Avoidant / Schizotypal vs Schizophrenia / Borderline vs Histrionic / OCPD vs OCD 等）
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q16309（确认抓的是 pattern 不是单一线索）
@@ -11218,8 +11218,8 @@
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（seizure 鉴别 — 药物诱发 vs 原发癫痫）
 > - 🌱 TODO（待生成衍生）：
 >   - 短期（高频陷阱，可先建）：生成 [[完整笔记/专题笔记/BZD_半衰期与withdrawal对照表]]（含 LOT 肝病安全 + 戒酒戒 BZD 选 long-acting 的逻辑）
->   - ✅ 已建 [[完整笔记/专题笔记/psych_停药综合征鉴别速查]]（2026-05-19，BZD/Alcohol/Opioid/SSRI-SNRI/TCA 全表 + FINISH 助记 + 用药 vs 停药 seizure 来源鉴别；后续积累更多题再补充）
->   - 与今天 Q15104（AUD 药物）合并 → 可生成 [[完整笔记/专题笔记/_衍生_成瘾药物治疗对照表]]（AUD/OUD/Smoking + withdrawal 管理）
+>   - ✅ 已建 [[完整笔记/专题笔记/psych/psych_停药综合征鉴别速查]]（2026-05-19，BZD/Alcohol/Opioid/SSRI-SNRI/TCA 全表 + FINISH 助记 + 用药 vs 停药 seizure 来源鉴别；后续积累更多题再补充）
+>   - 与今天 Q15104（AUD 药物）合并 → 可生成 [[完整笔记/专题笔记/衍生/_衍生_成瘾药物治疗对照表]]（AUD/OUD/Smoking + withdrawal 管理）
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q3762（确认抓的是"短效 BZD + 漏药 + seizure"三件套）
@@ -11368,8 +11368,8 @@
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/neuro]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/外科]]（Malignant Hyperthermia 麻醉中急性发病，与 NMS 鉴别）
 > - 🌱 TODO（待生成衍生）：
->   - **优先级高** — 等积累 3-5 道精神药物副作用题后，请 Claude Code 整合「EPS / NMS / SS / MH / TD / 抗胆碱中毒」6 大综合征鉴别 → 生成 [[完整笔记/专题笔记/_衍生_精神药物急性综合征鉴别]]
->   - 等积累 2-3 道「药物对应综合征」题后，请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_对症解毒剂速查]]（Bromocriptine / Cyproheptadine / Dantrolene / Benztropine / Physostigmine / Naloxone / Flumazenil / NAC ...）
+>   - **优先级高** — 等积累 3-5 道精神药物副作用题后，请 Claude Code 整合「EPS / NMS / SS / MH / TD / 抗胆碱中毒」6 大综合征鉴别 → 生成 [[完整笔记/专题笔记/衍生/_衍生_精神药物急性综合征鉴别]]
+>   - 等积累 2-3 道「药物对应综合征」题后，请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/衍生/_衍生_对症解毒剂速查]]（Bromocriptine / Cyproheptadine / Dantrolene / Benztropine / Physostigmine / Naloxone / Flumazenil / NAC ...）
 >
 > ✅ **复盘行动**
 > - [ ] 立即默写「EPS vs NMS 鉴别表」⭐⭐⭐
@@ -11570,9 +11570,9 @@
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（情感障碍 → SAD 章节）
 > - 🏥 跨学科：暂无
 > - 🌱 TODO（待生成衍生）：
->   - 等 psych 章节复习完后，请 Claude Code 整合**抗抑郁药治疗调整决策类错题**（partial response vs no response → augment vs switch 的判断）→ 生成 [[完整笔记/专题笔记/_衍生_抗抑郁药augment_switch决策树]]
->   - 等积累 ≥ 3 道"家族史 / 亲属用药史"诱导陷阱题 → 生成 [[完整笔记/专题笔记/_衍生_家族史干扰陷阱]]
->   - 等积累 ≥ 3 道"共变 vs 因果"鉴别题 → 生成 [[完整笔记/专题笔记/_衍生_共变vs因果临床推理]]
+>   - 等 psych 章节复习完后，请 Claude Code 整合**抗抑郁药治疗调整决策类错题**（partial response vs no response → augment vs switch 的判断）→ 生成 [[完整笔记/专题笔记/衍生/_衍生_抗抑郁药augment_switch决策树]]
+>   - 等积累 ≥ 3 道"家族史 / 亲属用药史"诱导陷阱题 → 生成 [[完整笔记/专题笔记/衍生/_衍生_家族史干扰陷阱]]
+>   - 等积累 ≥ 3 道"共变 vs 因果"鉴别题 → 生成 [[完整笔记/专题笔记/衍生/_衍生_共变vs因果临床推理]]
 >
 > ## ✅ 复盘行动
 >
@@ -11710,8 +11710,8 @@
 >   - [[完整笔记/Peixuan分科笔记/OB]]（孕期精神科用药安全 — 避 paroxetine、避 BZD）
 >   - [[完整笔记/Peixuan分科笔记/endocrine]]（TSH 排除甲亢 — 焦虑症状鉴别必查项）
 > - 🌱 TODO（待生成衍生）：
->   - 等 psych 焦虑谱系积累 5+ 道错题后，请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_焦虑谱系鉴别]]（GAD / panic / phobia / OCD / PTSD / adjustment / normal stress 一表速查）
->   - 等 psych + OB 交叉题积累后 → 生成 [[完整笔记/专题笔记/_衍生_围产期精神健康]]（孕期/产后 depression/anxiety/psychosis 鉴别 + 用药安全表）
+>   - 等 psych 焦虑谱系积累 5+ 道错题后，请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/衍生/_衍生_焦虑谱系鉴别]]（GAD / panic / phobia / OCD / PTSD / adjustment / normal stress 一表速查）
+>   - 等 psych + OB 交叉题积累后 → 生成 [[完整笔记/专题笔记/衍生/_衍生_围产期精神健康]]（孕期/产后 depression/anxiety/psychosis 鉴别 + 用药安全表）
 >   - 可单独建 [[完整笔记/专题笔记/USMLE心理科沟通题SOP]]（"承认+治疗" vs "温暖陷阱" 识别框架 — 跨所有 psych 题型的普适方法论）
 >
 > ## ✅ 复盘行动
@@ -11849,8 +11849,8 @@
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（Lithium → Nephrogenic DI + Chronic Tubulointerstitial Nephropathy；PKD 自然史）
 > - 🌱 TODO（待生成衍生）：
->   - 等 Psych 章节复习完，请 Claude Code 整合**双相维持治疗药物选择类错题** → 生成 [[完整笔记/专题笔记/_衍生_双相维持治疗决策树]]（4 大一线 + 患者特异性禁忌矩阵）
->   - 等积累 3+ 道"经典药遇到禁忌"类错题（β-blocker 遇哮喘、ACEI 遇双肾动脉狭窄等）→ 请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_经典药物禁忌雷区]]
+>   - 等 Psych 章节复习完，请 Claude Code 整合**双相维持治疗药物选择类错题** → 生成 [[完整笔记/专题笔记/衍生/_衍生_双相维持治疗决策树]]（4 大一线 + 患者特异性禁忌矩阵）
+>   - 等积累 3+ 道"经典药遇到禁忌"类错题（β-blocker 遇哮喘、ACEI 遇双肾动脉狭窄等）→ 请 Claude Code 生成 [[完整笔记/专题笔记/衍生/_衍生_经典药物禁忌雷区]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做
@@ -11943,12 +11943,12 @@
 >   - （首题，substance emergency 急诊管理类 — 等后续题积累）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/psych]]
->   - [[完整笔记/专题笔记/psych_物质急诊速查]]（本题草稿 v1 已并入此笔记 v2，2026-05-19）
+>   - [[完整笔记/专题笔记/psych/psych_物质急诊速查]]（本题草稿 v1 已并入此笔记 v2，2026-05-19）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（眼震鉴别、NMDA 受体药理）
 > - 🌱 TODO（待生成衍生）：
->   - ✅ 草稿 v1 已并入 [[完整笔记/专题笔记/psych_物质急诊速查]] v2（2026-05-19，含 3+3+3 框架 / 30 秒分诊 / 五联鉴别 §7 / 解毒剂 / 场景库）
->   - ✅ 高热 + 肌强直五联鉴别（PCP / SS / NMS / MH / 抗胆碱）已作为 [[完整笔记/专题笔记/psych_物质急诊速查]] §7
+>   - ✅ 草稿 v1 已并入 [[完整笔记/专题笔记/psych/psych_物质急诊速查]] v2（2026-05-19，含 3+3+3 框架 / 30 秒分诊 / 五联鉴别 §7 / 解毒剂 / 场景库）
+>   - ✅ 高热 + 肌强直五联鉴别（PCP / SS / NMS / MH / 抗胆碱）已作为 [[完整笔记/专题笔记/psych/psych_物质急诊速查]] §7
 >
 > ## ✅ 复盘行动
 >
@@ -12140,14 +12140,14 @@
 >   - （首题，TCA 过量是错题本第一道，等后续积累其他药物过量题）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/psych]]（TCA / 抗抑郁药毒性归属精神科）
->   - [[完整笔记/专题笔记/psych_物质急诊速查]]（本题普适规则已同步至此 §8 抗胆碱能 + §10 药物过量速查）
->   - [[完整笔记/专题笔记/USMLE_高频陷阱]]（"诊断 vs 预后"题型陷阱可入库）
+>   - [[完整笔记/专题笔记/psych/psych_物质急诊速查]]（本题普适规则已同步至此 §8 抗胆碱能 + §10 药物过量速查）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]]（"诊断 vs 预后"题型陷阱可入库）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/心内]]（QRS 增宽 / Na 通道阻滞 / 类 IA 抗心律失常药机制 / 静息心率本质）
 >   - [[完整笔记/Peixuan分科笔记/外科]]（急诊毒物中毒处理）
 > - 🌱 TODO（待生成衍生）：
->   - ✅ 常见药物过量速查（致死机制 + 监测 + 解毒剂）+ Dry vs Wet 鉴别已同步到 [[完整笔记/专题笔记/psych_物质急诊速查]]（§10.2 / §8.4，2026-05-19）
->   - 等积累 2-3 道**"诊断 vs 预后" stem 陷阱题**后，整合 → 更新到 [[完整笔记/专题笔记/USMLE_高频陷阱]]
+>   - ✅ 常见药物过量速查（致死机制 + 监测 + 解毒剂）+ Dry vs Wet 鉴别已同步到 [[完整笔记/专题笔记/psych/psych_物质急诊速查]]（§10.2 / §8.4，2026-05-19）
+>   - 等积累 2-3 道**"诊断 vs 预后" stem 陷阱题**后，整合 → 更新到 [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q3126（重点：能否秒选 QRS）
@@ -12336,9 +12336,9 @@
 >   - [[完整笔记/Peixuan分科笔记/心内]]（β-blocker 适应症全谱：HTN/HF/post-MI/performance anxiety/essential tremor/migraine 预防/hyperthyroid 症状控制——**panic disorder ❌ 不在内**）
 >   - [[完整笔记/Peixuan分科笔记/内分泌]] / [[完整笔记/Peixuan分科笔记/心内]]（panic 鉴别要排 hyperthyroid / pheochromocytoma / 心律失常 / 低血糖）
 > - 🌱 TODO（待生成衍生）：
->   - 等 psych 章节复习完，请 Claude Code 整合「焦虑谱用药决策」错题 → 生成 [[完整笔记/专题笔记/_衍生_焦虑谱用药决策树]]（7 种焦虑病 × 急性/长期 × 特殊用药）
->   - 等 psych 积累更多 "panic attack 出现在哪些病" 的错题 → 生成 [[完整笔记/专题笔记/_衍生_Panic_Attack鉴别诊断]]（panic disorder vs PTSD vs phobia vs social anxiety vs substance vs medical 的 trigger / 背景 / 治疗对比）
->   - 等心内 + psych 积累更多 β-blocker 题 → 整合到 [[完整笔记/专题笔记/_衍生_β-blocker适应症全谱]]（强调 panic disorder ❌）
+>   - 等 psych 章节复习完，请 Claude Code 整合「焦虑谱用药决策」错题 → 生成 [[完整笔记/专题笔记/衍生/_衍生_焦虑谱用药决策树]]（7 种焦虑病 × 急性/长期 × 特殊用药）
+>   - 等 psych 积累更多 "panic attack 出现在哪些病" 的错题 → 生成 [[完整笔记/专题笔记/衍生/_衍生_Panic_Attack鉴别诊断]]（panic disorder vs PTSD vs phobia vs social anxiety vs substance vs medical 的 trigger / 背景 / 治疗对比）
+>   - 等心内 + psych 积累更多 β-blocker 题 → 整合到 [[完整笔记/专题笔记/衍生/_衍生_β-blocker适应症全谱]]（强调 panic disorder ❌）
 >
 > ## 12. ✅ 复盘行动
 >

@@ -54,7 +54,7 @@ type: 专题笔记
 - 48-96h **Delirium tremens**（定向力丧失 + 自主神经风暴 + 可致死）
 
 > [!info] 完整 AWS 4 阶段精细表 / Alcoholic hallucinosis vs DT 鉴别
-> → 见 hub 笔记 **§9.2**（[[完整笔记/专题笔记/psych_物质急诊速查]]）——本页不重复大表。
+> → 见 hub 笔记 **§9.2**（[[完整笔记/专题笔记/psych/psych_物质急诊速查]]）——本页不重复大表。
 
 ---
 
@@ -102,8 +102,8 @@ type: 专题笔记
   - [[mistakes/uworld-mistakes#^Q3187]] 酒精相关考点
   - [[mistakes/uworld-mistakes#^Q12541]] 酒精相关考点
   - [[mistakes/uworld-mistakes#^Q15104]] AUD 维持期 Disulfiram 三必备条件
-- 📚 主笔记：[[完整笔记/专题笔记/psych_物质急诊速查]]（横向比较总索引 —— **§9 戒断时间轴 / §15 维持期 3 药 / §16 停药综合征**）
+- 📚 主笔记：[[完整笔记/专题笔记/psych/psych_物质急诊速查]]（横向比较总索引 —— **§9 戒断时间轴 / §15 维持期 3 药 / §16 停药综合征**）
 - 🏥 跨学科：
   - [[完整笔记/Peixuan分科笔记/神经]]（Wernicke-Korsakoff / 戒断 seizure）
   - [[完整笔记/Peixuan分科笔记/消化补充内容]]（酒精性肝病 → 影响 AUD 选药）
-- 🌱 TODO（待生成衍生）：等 psych 物质章节复习完，整合 AWS seizure 用药 vs 维持期用药干扰项 → 生成 [[完整笔记/专题笔记/_衍生_物质戒断用药决策树]]
+- 🌱 TODO（待生成衍生）：等 psych 物质章节复习完，整合 AWS seizure 用药 vs 维持期用药干扰项 → 生成 [[完整笔记/专题笔记/衍生/_衍生_物质戒断用药决策树]]

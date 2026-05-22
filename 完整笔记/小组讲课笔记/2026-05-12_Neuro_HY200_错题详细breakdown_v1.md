@@ -232,8 +232,8 @@ Major Depressive Disorder
   - [[完整笔记/Peixuan分科笔记/psych]]（MDD 诊断标准 + SSRI 选择）
   - [[完整笔记/Peixuan分科笔记/心内]]（Citalopram QT 延长 + 老年人 ≤ 20mg/d）
 - 🌱 TODO（待生成衍生）：
-  - 等痴呆模块全部复习完，请 Claude Code 整合「AD vs Pseudodementia vs VaD vs FTD vs LBD 三相对比错题」→ 生成 [[完整笔记/专题笔记/神经_老年痴呆鉴别]]
-  - 等今天 4 道错题元学习反思 + 后续 1 周新错题 → 请 Claude Code 整合"反射性诊断"系统性错误 → 生成 [[完整笔记/专题笔记/_衍生_Peixuan答题习惯陷阱]]
+  - 等痴呆模块全部复习完，请 Claude Code 整合「AD vs Pseudodementia vs VaD vs FTD vs LBD 三相对比错题」→ 生成 [[完整笔记/专题笔记/神经/神经_老年痴呆鉴别]]
+  - 等今天 4 道错题元学习反思 + 后续 1 周新错题 → 请 Claude Code 整合"反射性诊断"系统性错误 → 生成 [[完整笔记/专题笔记/衍生/_衍生_Peixuan答题习惯陷阱]]
 
 ### 9. 复盘行动清单
 
@@ -400,8 +400,8 @@ PrP^Sc (异常 prion, β-pleated sheet)
   - [[完整笔记/Peixuan分科笔记/neuro]]
 - 🏥 跨学科：无明显跨学科（CJD 纯 Neuro）
 - 🌱 TODO（待生成衍生）：
-  - 等所有 Neuro 不自主运动相关错题集齐（PD/HD/CJD/Wilson/TD 等）→ 请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_不自主运动5种鉴别]]
-  - 等今天 4 道错题元学习反思整合 → 生成 [[完整笔记/专题笔记/_衍生_Peixuan答题习惯陷阱]]
+  - 等所有 Neuro 不自主运动相关错题集齐（PD/HD/CJD/Wilson/TD 等）→ 请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/衍生/_衍生_不自主运动5种鉴别]]
+  - 等今天 4 道错题元学习反思整合 → 生成 [[完整笔记/专题笔记/衍生/_衍生_Peixuan答题习惯陷阱]]
 
 ### 9. 复盘行动清单
 
@@ -557,8 +557,8 @@ Sacral CST 最外侧
   - [[完整笔记/Peixuan分科笔记/外科]]（颈脊髓 MRI / 减压手术指征）
   - [[完整笔记/Peixuan分科笔记/儿科]]（Chiari I + Syringomyelia + Tethered cord 神经管发育谱）
 - 🌱 TODO（待生成衍生）：
-  - 此为今天关联最多的"跨学科 schema"——立即可建主笔记 [[完整笔记/专题笔记/神经_Horner综合征]]
-  - 等脊髓相关错题积累（Central Cord / Brown-Séquard / Anterior cord / Cauda 等）→ Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_脊髓不全损伤综合征鉴别]]
+  - 此为今天关联最多的"跨学科 schema"——立即可建主笔记 [[完整笔记/专题笔记/神经/神经_Horner综合征]]
+  - 等脊髓相关错题积累（Central Cord / Brown-Séquard / Anterior cord / Cauda 等）→ Claude Code 整合 → 生成 [[完整笔记/专题笔记/衍生/_衍生_脊髓不全损伤综合征鉴别]]
 
 ### 9. 复盘行动清单
 
@@ -567,7 +567,7 @@ Sacral CST 最外侧
 - [ ] **默写 Horner 3 级定位与病因表**
 - [ ] 给 [[完整笔记/Peixuan分科笔记/neuro]] 加「难记」「要做题」
 - [ ] 找 3 道 Horner 相关题练习（Pancoast / Wallenberg / 颈动脉夹层）
-- [ ] **建议立即建主笔记** [[完整笔记/专题笔记/神经_Horner综合征]]（这是跨多疾病的高价值 schema）
+- [ ] **建议立即建主笔记** [[完整笔记/专题笔记/神经/神经_Horner综合征]]（这是跨多疾病的高价值 schema）
 
 ---
 
@@ -707,8 +707,8 @@ Critical limb ischemia / 顽固症状：
   - [[完整笔记/Peixuan分科笔记/endocrine]]（DM 风险因素 + ABI 假性升高）
   - [[完整笔记/Peixuan分科笔记/neuro]]（neurogenic claudication 鉴别）
 - 🌱 TODO（待生成衍生）：
-  - 等下肢缺血相关错题积累（PAD / Leriche / Buerger / DVT / Compartment syndrome）→ Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_下肢缺血鉴别]]
-  - 等 ED 相关错题积累（Leriche / DM neuro / 心理性 / 内分泌 / Peyronie）→ 生成 [[完整笔记/专题笔记/_衍生_ED鉴别诊断]]
+  - 等下肢缺血相关错题积累（PAD / Leriche / Buerger / DVT / Compartment syndrome）→ Claude Code 整合 → 生成 [[完整笔记/专题笔记/衍生/_衍生_下肢缺血鉴别]]
+  - 等 ED 相关错题积累（Leriche / DM neuro / 心理性 / 内分泌 / Peyronie）→ 生成 [[完整笔记/专题笔记/衍生/_衍生_ED鉴别诊断]]
 
 ### 9. 复盘行动清单
 
@@ -757,25 +757,25 @@ Critical limb ischemia / 顽固症状：
 
 请 Claude Code 在后续复习中**按顺序**整合：
 
-1. **优先级 1**（立即建）：[[完整笔记/专题笔记/神经_Horner综合征]]
+1. **优先级 1**（立即建）：[[完整笔记/专题笔记/神经/神经_Horner综合征]]
    - 整合错题 3 + Wallenberg + Pancoast + 颈动脉夹层
    - 跨多疾病的高价值 schema
 
-2. **优先级 2**（等 4-5 道相关错题积累）：[[完整笔记/专题笔记/神经_老年痴呆鉴别]]
+2. **优先级 2**（等 4-5 道相关错题积累）：[[完整笔记/专题笔记/神经/神经_老年痴呆鉴别]]
    - 整合错题 1 + 今天的 AD/VaD/LBD/FTD/Pseudo 案例
    - 含 AD vs VaD vs Pseudodementia 三相鉴别表
 
-3. **优先级 3**（等 4-5 道相关错题积累）：[[完整笔记/专题笔记/_衍生_Peixuan答题习惯陷阱]]
+3. **优先级 3**（等 4-5 道相关错题积累）：[[完整笔记/专题笔记/衍生/_衍生_Peixuan答题习惯陷阱]]
    - 整合 4 道错题的"个性化错因"+"修复方法"
    - 提取系统性错误模式 + 元技能 6 条
 
-4. **优先级 4**（等 4-5 道相关错题积累）：[[完整笔记/专题笔记/_衍生_脊髓不全损伤综合征鉴别]]
+4. **优先级 4**（等 4-5 道相关错题积累）：[[完整笔记/专题笔记/衍生/_衍生_脊髓不全损伤综合征鉴别]]
    - 整合错题 3 + Central Cord + Brown-Séquard + Anterior cord + Cauda 等
 
-5. **优先级 5**（等 3-5 道不自主运动错题积累）：[[完整笔记/专题笔记/_衍生_不自主运动5种鉴别]]
+5. **优先级 5**（等 3-5 道不自主运动错题积累）：[[完整笔记/专题笔记/衍生/_衍生_不自主运动5种鉴别]]
    - 整合错题 2 + HD / PD / TD / Wilson 等
 
-6. **优先级 6**（等下肢缺血相关错题积累）：[[完整笔记/专题笔记/_衍生_下肢缺血鉴别]]
+6. **优先级 6**（等下肢缺血相关错题积累）：[[完整笔记/专题笔记/衍生/_衍生_下肢缺血鉴别]]
    - 整合错题 4 + PAD / Buerger / DVT / Compartment 等
 
 ---
@@ -793,7 +793,7 @@ Critical limb ischemia / 顽固症状：
 - [ ] 周日 30 分钟：周报 + 错的进入下周
 
 ### 本周末（建议立即做）
-- [ ] **建立 [[完整笔记/专题笔记/神经_Horner综合征]]**（错题 3 直接驱动）
+- [ ] **建立 [[完整笔记/专题笔记/神经/神经_Horner综合征]]**（错题 3 直接驱动）
 - [ ] 1 周后重做这 4 道题（验证修复效果）
 
 ### 长期（Day 7 / Day 14 / Day 30）

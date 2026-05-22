@@ -6408,7 +6408,7 @@ features</td>
 - **退行性**（CJD / Alzheimer 晚期 / Lewy body 痴呆 / Multiple System Atrophy）
 - **抗胆碱中毒**（DPH / TCA / atropine）— 伴 "干红怒热" + bizarre 谵妄
 
-→ SS 三联完整对照见 [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]] §2 / §5
+→ SS 三联完整对照见 [[完整笔记/专题笔记/psych/psych_物质急性中毒鉴别表]] §2 / §5
 
 <table>
 <colgroup>
@@ -7131,7 +7131,7 @@ RBD 是 REM atonia 消失 → 病人会拳打脚踢、喊叫、梦境表演**
 
 ⚠️ **AWS seizure 用药陷阱**：BZD 一线（GABA-A 激动）；**Phenytoin 无效**（Na 通道阻断，不针对 GABA-A 脱敏机制）；status epilepticus 时加 **Phenobarbital**（也作用 GABA-A）。
 
-→ 完整对照见 [[完整笔记/专题笔记/psych_物质急诊速查]] §15.1（AWS seizure 用药对比，Q3187 触发）
+→ 完整对照见 [[完整笔记/专题笔记/psych/psych_物质急诊速查]] §15.1（AWS seizure 用药对比，Q3187 触发）
 
 <table style="width:100%;">
 <colgroup>
@@ -7514,7 +7514,7 @@ findings</strong></td>
 > - **触发药**：麻醉 + Succinylcholine（MH）/ 抗精神病药（NMS）/ 5-HT 类（SS）
 > - **三药角色**：Dantrolene = MH + NMS / Bromocriptine = NMS only / Cyproheptadine = SS
 
-→ 完整对照见 [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]] §5（Q11853 触发本表加 SS 列）
+→ 完整对照见 [[完整笔记/专题笔记/psych/psych_物质急性中毒鉴别表]] §5（Q11853 触发本表加 SS 列）
 
 **<u>Autonomic dysreflexia（自主神经反射异常）</u>**
 
@@ -12053,7 +12053,7 @@ pain/temp 多保留
 >
 > 处理：停药 + **dantrolene / bromocriptine**
 
-⚠️ **NMS vs SS 高频鉴别**：NMS = **lead-pipe rigidity + bradyreflexia + 数天起病**；SS = **hyperreflexia + myoclonus + 小时起病 + 5-HT 类合用**。三联鉴别（含 MH）详见 [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]] §5（Q11853 触发）+ 本笔记上方 MH/NMS/SS 三联鉴别表。
+⚠️ **NMS vs SS 高频鉴别**：NMS = **lead-pipe rigidity + bradyreflexia + 数天起病**；SS = **hyperreflexia + myoclonus + 小时起病 + 5-HT 类合用**。三联鉴别（含 MH）详见 [[完整笔记/专题笔记/psych/psych_物质急性中毒鉴别表]] §5（Q11853 触发）+ 本笔记上方 MH/NMS/SS 三联鉴别表。
 
 **2. Akathisia ≠ agitation**
 

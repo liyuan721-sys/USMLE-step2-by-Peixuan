@@ -484,7 +484,7 @@ Most likely first-line treatment:
 
  Serotonin Syndrome (血清素综合征)：注意 Hyperreflexia (反射亢进) 和 Clonus (肌阵挛)，这是区分它与 NMS（铅管样强直）的关键。
 
-→ SS vs NMS vs MH 完整三联鉴别（触发药 / 起病速度 / 反射 / 三药角色 Cyproheptadine vs Dantrolene+Bromocriptine vs Dantrolene）见 [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]] §5（Q11853 触发）
+→ SS vs NMS vs MH 完整三联鉴别（触发药 / 起病速度 / 反射 / 三药角色 Cyproheptadine vs Dantrolene+Bromocriptine vs Dantrolene）见 [[完整笔记/专题笔记/psych/psych_物质急性中毒鉴别表]] §5（Q11853 触发）
 
 **SSRIs**
 
@@ -1168,9 +1168,9 @@ Treatment of personality disorders:
 | **抗胆碱 (DPH/Atropine/TCA)** | **散大 + 视模糊** | **"干红怒热"** — 皮肤干 + 黏膜干 + 肠鸣音 ↓ + tachycardia + 谵妄 |
 | **PCP** | **垂直 + 水平 nystagmus** | **强烈攻击性 / 解离 / 镇痛 / 不响应疼痛**（NMDA 拮抗）|
 
-→ 完整 6 大物质中毒鉴别 + SS/NMS/MH 三联 + 干湿对照见 [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]]（v1 = 2026-05-19，Q11853 触发新建）
+→ 完整 6 大物质中毒鉴别 + SS/NMS/MH 三联 + 干湿对照见 [[完整笔记/专题笔记/psych/psych_物质急性中毒鉴别表]]（v1 = 2026-05-19，Q11853 触发新建）
 
-→ AUD 维持期 3 药对比（Naltrexone vs Acamprosate vs Disulfiram）+ OUD 三药对比（Methadone vs Buprenorphine vs Naltrexone）+ 戒烟药对比详见 [[完整笔记/专题笔记/psych_物质急诊速查]] §15.2 / §15.5 / §15.4
+→ AUD 维持期 3 药对比（Naltrexone vs Acamprosate vs Disulfiram）+ OUD 三药对比（Methadone vs Buprenorphine vs Naltrexone）+ 戒烟药对比详见 [[完整笔记/专题笔记/psych/psych_物质急诊速查]] §15.2 / §15.5 / §15.4
 
 **4 大戒断综合征 vital signs 对比 ⭐⭐⭐**（Q3189 触发）
 
@@ -1181,7 +1181,7 @@ Treatment of personality disorders:
 | **Opioid** ⭐ | **正常 / 略 ↑** | **正常** | **无**（清醒，痛苦）| 无 | 不致死（成人）|
 | **Stimulant**（cocaine / amphet）| 正常 / ↓ | 正常 | 抑郁 / 自杀念头 | 无 | 心理风险（自杀）|
 
-> 口诀 **"GABA 飙 / 阿片平 / 兴奋剂沉"** —— vital signs 正常 = NOT alcohol/BZD withdrawal。详见 [[完整笔记/专题笔记/psych_物质急诊速查]] §9.1。
+> 口诀 **"GABA 飙 / 阿片平 / 兴奋剂沉"** —— vital signs 正常 = NOT alcohol/BZD withdrawal。详见 [[完整笔记/专题笔记/psych/psych_物质急诊速查]] §9.1。
 
 **MDMA (Ecstasy / Molly) ⭐**（Q11853 触发）
 
@@ -1190,7 +1190,7 @@ Treatment of personality disorders:
 - 经典 stem："派对 + 大学生 + SSRI 用户 + 高热 + myoclonus + 反射亢进 + 低钠"
 - 低钠机制：**SIADH + 过度饮水降温** → seizure
 - **常规 amphetamine urine tox 测不出** MDMA / bath salts / 合成 cathinone
-- → 详见 [[完整笔记/专题笔记/psych_物质急性中毒鉴别表]] §1 + §2 + §5（SS / NMS / MH 三联鉴别）
+- → 详见 [[完整笔记/专题笔记/psych/psych_物质急性中毒鉴别表]] §1 + §2 + §5（SS / NMS / MH 三联鉴别）
 
 **Stimulants: Amphetamine / COCAINE**
 
@@ -1409,7 +1409,7 @@ Withdrawal:易燃易爆炸
 
 躯体上：食欲下降（这和中毒时的 Hunger 相反）、腹痛、发热、冷战。
 
-→ 成瘾医学完整药物对照见 [[完整笔记/专题笔记/psych_物质急诊速查]] §9 戒断综合征（AWS 4 阶段时间轴 + 对症急救药）+ §15 成瘾维持期药物治疗（维持期 3 药 + 阿片戒断三药 + 戒烟药）
+→ 成瘾医学完整药物对照见 [[完整笔记/专题笔记/psych/psych_物质急诊速查]] §9 戒断综合征（AWS 4 阶段时间轴 + 对症急救药）+ §15 成瘾维持期药物治疗（维持期 3 药 + 阿片戒断三药 + 戒烟药）
 
 **<u>Alcohol Withdrawal Timeline</u>**
 

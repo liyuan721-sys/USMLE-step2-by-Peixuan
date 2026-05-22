@@ -1,0 +1,782 @@
+---
+tags:
+  - USMLE-Step2
+  - 儿科
+  - 心血管
+  - 专题笔记
+created: 2026-05-16
+updated: 2026-05-19
+type: 专题笔记
+source: 2026-05-16 Claude.ai 草稿 v2 整合（Q2429 TOF 触发）
+---
+
+# 先天性心脏病诊断框架（CHD Diagnostic Methodology）
+
+> [!info] 笔记定位
+> **诊断方法论专题** — 与既有 CHD 系列分工：
+> - **本笔记** = 诊断方法论（紫绀 4 分类 / 5 步诊断法 / 5T+H / VAPP / CXR 4 大征 / 综合征关联）
+> - [[完整笔记/专题笔记/心内/心内_CHD_总索引]] = 导航地图
+> - [[完整笔记/专题笔记/心内/心内_CHD_各病详解]] = 单病详解
+> - [[完整笔记/专题笔记/心内/心内_CHD_发绀型鉴别]] = 紫绀型双轴鉴别
+> - [[完整笔记/专题笔记/心内/心内_CHD_新生儿先心病总结]] = 新生儿三轴
+> - [[完整笔记/专题笔记/心内/心内_CHD_PDA依赖型]] = PDA 依赖 6 病
+> - [[完整笔记/专题笔记/心内/心内_CHD_ToF法洛四联症]] = ToF 深度
+> - [[完整笔记/专题笔记/心内/心内_CHD_DiGeorge综合征]] / [[完整笔记/专题笔记/心内/心内_CHD_IAA主动脉弓中断]] = 单病/综合征
+>
+> **触发错题**：[[mistakes/uworld-mistakes#^Q2429]] TOF 锁定
+>
+> **核心理念**：诊断 = 决策树，不是猜谜。每个问题应该"砍掉一半选项"。
+
+---
+
+## 〇、为什么要立框架？
+
+**新手 vs 高手思维**：
+
+```
+新手（割裂看症状）：
+  看到症状 → 想最像的病 → 选答案
+  ↓
+  容易被任一线索带偏
+
+高手（决策树）：
+  STEP 1 → 砍一半
+  STEP 2 → 再砍一半
+  STEP 3 → 锁定
+  ↓
+  系统性, 不漏关键线索
+```
+
+**核心理念**：诊断 = 决策树，不是猜谜。每个问题应该"砍掉一半选项"。
+
+---
+
+## ⓪ STEP 0：紫绀分类（框架真正起点）⭐⭐⭐
+
+> [!warning] 为什么这一步必须先做
+> 看到 "cyanosis" 就跳到 5T+H 是错的！
+> 紫绀本身有 **4 种**，心源性只是其中 1 种
+> 跳步 = 漏掉外周 / 非心源性中心 / 假紫绀
+>
+> USMLE 经典陷阱：
+> - 新生儿手脚蓝 + 舌头粉 → **Acrocyanosis（正常）**，不是 TOF
+> - 婴儿 100% O₂ 不改善 + 血巧克力色 → **MetHb**，不是心脏问题
+
+### 0.1 紫绀的本质
+
+```
+紫绀 = 脱氧 Hb > 5 g/dL 在毛细血管 ⭐
+        │
+        ▼
+不是 SpO₂ 数字决定的，是绝对量决定的
+        │
+        ▼
+临床推论：
+- **贫血**病人不易紫绀（Hb 总量少 → 即使 SaO₂ 低也不到 5 g/dL deoxy）
+- **红细胞增多**病人易紫绀（Hb 高 → 容易超过 5 g/dL deoxy）
+```
+
+### 0.2 紫绀 4 大分类总览
+
+```
+                    Cyanosis
+                       │
+        ┌──────────────┼──────────────┐
+        ▼              ▼              ▼
+    ① Central     ② Peripheral    ③ Differential
+    (中心性)       (外周性)         (差异性)
+        │              │              │
+   心/肺源性     循环不良/末梢      上下肢氧合不同
+   动脉氧合↓     动脉氧合正常       特殊心血管异常
+
+                + ④ Pseudocyanosis (假紫绀)
+                    药物 / 染料 / 血红蛋白病
+```
+
+### 0.3 ① Central Cyanosis（中心性紫绀）⭐
+
+**部位**：**舌 / 唇 / 口腔黏膜 / 全身**
+**关键**：**舌头是金标准**（血流量大、无血管收缩反应）
+
+**机制**：动脉血氧合不足（SaO₂↓）→ 全身去氧血
+
+**病因 4 大类**：
+
+| 类别 | 病因 |
+|---|---|
+| **心源性** ⭐ | 右→左分流先心病（5T+H）/ Eisenmenger / 严重心衰 |
+| **肺源性** ⭐ | 肺炎 / ARDS / 肺水肿 / COPD / 大面积 PE / 气胸 / ILD / 肺动脉高压 |
+| **血红蛋白异常** | **Methemoglobinemia** ⭐ / Sulfhemoglobinemia / CO 中毒 / Polycythemia |
+| **环境** | 高海拔 / 严重寒冷 |
+
+**特征**：
+- ✅ **温暖**（外周循环好）
+- ✅ **舌头紫**
+- ✅ 慢性可有**杵状指**（>6 月）
+- 吸氧改善与否取决于病因
+
+### 0.4 ② Peripheral Cyanosis（外周性紫绀）⭐
+
+**部位**：**手指 / 脚趾 / 鼻尖 / 耳廓**
+**关键**：**不累及舌头/黏膜** ⭐⭐
+
+**机制**：动脉氧合**正常**（SaO₂ 正常），但局部血流缓慢 → 组织摄取氧↑ → 静脉端去氧 Hb↑ → 局部紫绀
+
+**病因**：
+- **寒冷环境**（生理性血管收缩）⭐
+- **Raynaud 现象**
+- 周围血管病（PAD）
+- 静脉淤血（DVT / 局部 SVC 受压）
+- 心衰 / 休克（CO↓→ 末梢灌注↓）
+- 雷诺综合征
+
+**特征**：
+- ❄️ **冰冷**（外周循环差）
+- ✅ **舌头粉红** ⭐ 关键鉴别
+- ✅ **加温/抬高肢体改善**
+- ✅ **SaO₂ 正常**
+
+**婴儿特例：Acrocyanosis** ⭐
+- 新生儿出生 24-48h 内
+- 手脚轻度紫绀 + 中心粉红
+- **生理性，正常**
+- 处理：**保暖即可**
+- USMLE 套路：新生儿手脚蓝 + 全身粉红 + 舌粉 → **正常 acrocyanosis**（不要选 Echo / PGE1）
+
+### 0.5 ③ Differential Cyanosis（差异性紫绀）⭐⭐
+
+**定义**：上下肢氧合不同 → 一侧紫绀，另一侧正常
+
+#### **A. 经典差异性：下肢蓝，上肢粉**
+- **病因**：
+  - **右→左 PDA shunt**（严重肺动脉高压 / Eisenmenger）
+  - **CoA 远端 + PDA**
+- **机制**：去氧血通过 PDA 进入降主动脉 → 下肢蓝
+
+#### **B. 反向差异性：上肢蓝，下肢粉** ⭐⭐ **USMLE 100% 特异**
+- **病因**：**TGA + PDA** ⭐
+- **机制**（必懂）：
+  ```
+  TGA：主动脉接 RV，肺动脉接 LV（两个平行循环）
+        ↓
+  右心去氧血 → 主动脉 → 升主动脉 → 上肢（蓝）⭐
+        ↓
+  左心含氧血 → 肺动脉 → 通过 PDA → 降主动脉 → 下肢（粉）⭐
+        ↓
+  "Reversed differential cyanosis" = 100% TGA
+  ```
+
+> [!tip] 差异性紫绀一句话
+> **"下蓝上粉 = PDA + PH"**（普通差异）
+> **"上蓝下粉 = TGA + PDA"**（反向差异，100% 特异）⭐
+
+### 0.6 ④ Pseudocyanosis（假紫绀）⭐
+
+**机制**：皮肤/黏膜被异常物质着色，**SaO₂ 正常**
+
+**病因**：
+- **Argyria**（银中毒）→ 灰蓝色皮肤
+- **Amiodarone**（长期使用）→ 蓝灰色皮肤
+- **Minocycline**
+- 染料 / 化妆品 / 食物色素
+
+**关键鉴别**：
+- ❌ **不可逆**（吸氧/温暖不改善）
+- ✅ 血气分析正常
+- 病史问药物/接触史
+
+### 0.7 Methemoglobinemia 深挖（USMLE 高频"假心源性紫绀"陷阱）⭐⭐
+
+**机制**：
+```
+正常 Hb 中铁 = Fe²⁺（能携氧）
+MetHb 中铁 = Fe³⁺（不能携氧）
+        ↓
+即使 SaO₂ 100%，组织仍缺氧
+```
+
+**经典 USMLE 套路**：
+```
+新生儿 / 婴儿口周紫绀（特别是喂奶后）
+        ↓
+SaO₂ 看起来正常 / SpO₂ 卡在 85% 不变
+        ↓
+吸 100% O₂ **不改善**紫绀 ⭐⭐ 关键鉴别
+        ↓
+血液呈 "chocolate-brown" 巧克力棕色 ⭐
+        ↓
+ABG: PaO₂ 正常但 SaO₂ 低（co-oximetry 测 MetHb%↑）
+        ↓
+诊断：Methemoglobinemia
+        ↓
+治疗：**Methylene Blue IV** ⭐
+（G6PD 缺乏者禁用，改用 Vitamin C / Ascorbic acid）
+```
+
+**常见病因**：
+- **婴儿食用井水 / 硝酸盐污染食物** ⭐（细菌将硝酸盐 → 亚硝酸盐 → MetHb）
+- **Benzocaine**（咽喉喷雾 / 内镜润滑）⭐
+- Dapsone
+- Nitroglycerin / Nitroprusside
+- 苯胺染料
+
+**一句话锁定**：
+> **"紫绀 + 100% O₂ 不改善 + 血 chocolate brown" = MetHb → Methylene Blue**
+
+### 0.8 4 大紫绀终极对比表 ⭐⭐⭐
+
+| 特征 | **Central** | **Peripheral** | **Differential** | **Pseudo** |
+|---|---|---|---|---|
+| **部位** | **舌/唇/全身** | 手脚/鼻尖/耳廓 | 上下肢不同 | 取决药物 |
+| **舌头紫** | **是** ⭐ | **否** ⭐ | 部分 | 取决 |
+| **体温** | 温暖 | **冰冷** | 取决 | 正常 |
+| **SaO₂** | **↓** | 正常 | 上下肢不同 | **正常** |
+| **吸氧改善** | 取决病因 | 不需 | 部分 | **不改善** |
+| **病因** | 心/肺/血红蛋白/海拔 | 寒冷/Raynaud/休克/acrocyanosis | PDA+PH / TGA+PDA / CoA+PDA | 药物/染料 |
+| **杵状指** | **可有（慢性）** | 无 | 取决 | 无 |
+| **关键鉴别** | ABG, CXR, Echo | 触诊+加温试验 | 上下肢 SpO₂ 对比 | 病史+血气 |
+
+### 0.9 STEP 0 决策流程 ⭐⭐⭐
+
+```
+看到 "cyanosis" 病人
+        │
+        ▼
+┌────────────────────────────────────┐
+│ Q1: 舌头/黏膜也紫吗？               │
+│   YES → Central                    │
+│   NO  → Peripheral 或 Differential │
+└────────────────────────────────────┘
+        │
+        ▼
+┌────────────────────────────────────┐
+│ Q2: 体温？                          │
+│   温暖 → Central                   │
+│   冰冷 → Peripheral                │
+└────────────────────────────────────┘
+        │
+        ▼
+┌────────────────────────────────────┐
+│ Q3: 100% O₂ 改善吗？                │
+│   YES → 肺源性 Central             │
+│   NO  → 心源性 Central 或 MetHb    │
+└────────────────────────────────────┘
+        │
+        ▼
+┌────────────────────────────────────┐
+│ Q4: 上下肢 SpO₂ 对比？              │
+│   不同 → Differential              │
+│   - 下蓝上粉 → PDA + PH            │
+│   - 上蓝下粉 → TGA + PDA ⭐         │
+└────────────────────────────────────┘
+        │
+        ▼
+┌────────────────────────────────────┐
+│ Q5: 血液颜色 / 药物史？             │
+│   巧克力棕 → MetHb                 │
+│   Amiodarone/银 → Pseudo           │
+└────────────────────────────────────┘
+        │
+        ▼
+分类结果：
+  → Central 心源性 → 进入 STEP 1-5（先心病 5 步法）⭐
+  → Central 肺源性 → 走肺科诊断思路
+  → MetHb → Methylene Blue
+  → Peripheral → 找寒冷/休克/Raynaud/acrocyanosis
+  → Differential → PDA+PH 或 TGA+PDA
+  → Pseudo → 找药物史
+```
+
+### 0.10 STEP 0 USMLE 经典套路 ⭐
+
+#### 套路 1：Acrocyanosis 陷阱
+> 出生 12h 新生儿, **手脚青紫但舌头粉红**, 全身活力好, SaO₂ 98%. 处理？
+> → **Acrocyanosis（正常）**, 保暖观察
+> 陷阱：别选 Echo / PGE1 / 紧急处理
+
+#### 套路 2：Methemoglobinemia
+> 4 月大婴儿口周紫绀, 母亲用**井水**冲奶粉. SpO₂ 85% 持续, **吸 100% O₂ 不改善**, 抽血**巧克力棕色**.
+> → **MetHb（硝酸盐源）→ Methylene Blue**
+
+#### 套路 3：反向差异性紫绀
+> 出生 24h 新生儿, **上肢 SpO₂ 70%, 下肢 SpO₂ 90%**, 无明显杂音.
+> → **TGA + PDA**（100% 特异）
+
+#### 套路 4：经典差异性紫绀
+> 严重肺动脉高压病人, **下肢 SpO₂ 80%, 上肢 SpO₂ 95%**.
+> → PDA 右→左分流（去氧血通过 PDA 入降主动脉）
+
+#### 套路 5：肺源性 vs 心源性 — 100% O₂ Test ⭐
+> - 紫绀 + 100% O₂ 后 SpO₂ → **>95%** = **肺源性**（V/Q 失调可逆）
+> - 紫绀 + 100% O₂ 后 SpO₂ → **仍 <85%** = **心源性右→左分流**（不可逆）
+> - 紫绀 + 100% O₂ **完全不改善** + 巧克力血 = **MetHb**
+
+### 0.11 STEP 0 Memory Hook ⭐
+
+> 🔹 **Hook 1：4 大紫绀分类口诀**
+> **"中-外-差-假"**
+>
+> 🔹 **Hook 2：舌头是金标准**
+> **"舌蓝才是真紫绀, 手脚蓝看舌再说"**
+>
+> 🔹 **Hook 3：100% O₂ 测试**
+> - 改善 → 肺源性
+> - 不改善 → 心源性 或 MetHb
+> - 完全不改善 + 巧克力血 → **MetHb**
+>
+> 🔹 **Hook 4：差异性紫绀**
+> **"下蓝上粉 = PDA + PH"**
+> **"上蓝下粉 = TGA + PDA"** ⭐
+>
+> 🔹 **Hook 5：婴儿正常紫绀**
+> **"Acrocyanosis：手脚蓝舌粉 = 正常"**（保暖即可）
+>
+> 🔹 **Hook 6：MetHb 一句话**
+> **"100% O₂ 不改善 + 巧克力血 = MetHb → Methylene Blue"**
+
+---
+
+## 一、第 0 层：先心病大分类骨架 ⭐⭐⭐
+
+```
+                    先天性心脏病
+                          │
+        ┌─────────────────┴─────────────────┐
+        ▼                                   ▼
+   ① 紫绀型 (Cyanotic)                 ② 非紫绀型 (Acyanotic)
+   右→左分流 / 混合循环                左→右分流 / 梗阻
+        │                                   │
+   "5T + H"                          "VAPP + 阻塞"
+        │                                   │
+   TOF, TGA, Truncus,                 VSD, ASD, PDA
+   Tricuspid atresia, TAPVR,          + CoA, AS, PS
+   HLHS                               
+```
+
+> [!warning] 必问的第一个问题
+> **"病人紫绀吗？"**
+> - 紫绀 → 找 5T + H
+> - 不紫绀 → 找 VAPP / 阻塞
+>
+> **一问砍掉一半选项！** ⭐
+
+---
+
+## 二、诊断 5 步法（核心武器，在 STEP 0 之后使用）⭐⭐⭐
+
+> [!warning] 前置条件
+> 进入这 5 步前，必须先完成 **STEP 0**（紫绀分类）：
+> - ✅ 确认是 **Central Cyanosis**
+> - ✅ 排除 **Pseudo / MetHb**（100% O₂ 改善 + 血气正常）
+> - ✅ 排除 **纯肺源性**（100% O₂ 改善 → 走肺科）
+> - 剩下：**心源性 Central Cyanosis** → 进入 5 步法
+
+```
+看到任何先心病题，按顺序问 5 个问题：
+
+STEP 1: 紫绀吗？
+        │
+   ┌────┴────┐
+   ▼         ▼
+  有紫绀    无紫绀
+   │         │
+   ▼         ▼
+紫绀型     非紫绀型
+(5T + H)   (VAPP + 阻塞)
+
+STEP 2: 发病时间窗？
+   ├─ 出生 24-48h → **TGA, HLHS, Truncus, Pulm atresia**
+   ├─ 数天-数周  → **TAPVR, HLHS 晚发, 大 VSD**
+   ├─ 数月       → **TOF** ⭐（最常见此时期紫绀型）
+   ├─ 数岁-成年  → **ASD, 小 VSD, CoA**
+   └─ 诱发性     → Tet spell, Eisenmenger
+
+STEP 3: S2 怎样？
+   ├─ **Single S2** → 5T 类（TOF, TGA, Truncus, severe PS）
+   ├─ **固定分裂 S2** → **ASD** ⭐ 经典
+   ├─ **响亮 P2** → 肺动脉高压 / Eisenmenger
+   └─ 正常 → VSD, PDA, 轻型 lesions
+
+STEP 4: 杂音特征？
+   ├─ **位置**：
+   │   - LUSB（左上）→ PS, ASD, PDA, CoA
+   │   - LLSB（左下）→ VSD, TR
+   │   - RUSB（右上）→ AS
+   │
+   ├─ **形状**：
+   │   - Holosystolic (▭▭▭) → VSD / MR / TR
+   │   - Crescendo-decrescendo (▲▼) → AS / PS / TOF
+   │   - Continuous machine-like → PDA
+   │   - 收缩+舒张 → Truncus
+   │
+   └─ **无杂音** → TGA / HLHS / 严重梗阻
+
+STEP 5: 4 肢血压差？
+   ├─ 4 肢相等 → 不是 CoA
+   ├─ 上肢 > 下肢 (>10 mmHg) → **CoA** ⭐
+   ├─ 上肢正常 + 下肢紫绀 → **Differential cyanosis** (Eisenmenger / PDA-dependent)
+   └─ 上肢紫绀 + 下肢正常 → **Reversed diff cyanosis** = TGA+PDA ⭐
+```
+
+> [!tip] 5 步法口诀
+> **"紫-时-S-杂-压"** ⭐⭐⭐
+> （紫绀, 时间, S2, 杂音, 压力差）
+
+---
+
+## 三、紫绀型先心病 5T + H 完整鉴别 ⭐⭐
+
+> [!tip] 各病速查级详解 → 已有衍生
+> 下方对照表是**框架定位用**（5 步法砍选项的依据）。每个病的"出生时间窗 / 关键 stem 触发词 / ECG / 治疗"完整速查见 [[完整笔记/专题笔记/心内/心内_CHD_新生儿先心病总结]] **Part 4.2**（紫绀型，含 Ebstein / 反向差异性 / PDA 维持机制）。
+
+| 病 | 时间 | 紫绀 | 杂音 | S2 | CXR ⭐ | 关键 / 处理 |
+|---|---|---|---|---|---|---|
+| **TOF** ⭐ | 数月-数岁 | **间歇**(tet spell) | **LUSB c-d** (PS) | **Single** | **Boot-shaped** | PROVe; Squatting; Tet spell 处理; 3-6 月手术 |
+| **TGA** | **24-48h** ⭐ | 重度持续 | **通常无** | Single 响 | **Egg-on-string** | 紧急 **PGE1** 保 PDA + Balloon atrial septostomy + 手术 (arterial switch) |
+| **Truncus arteriosus** | 1-2 周 | 中度 | **收缩+舒张** | Single | 心影大 + 肺血↑ | 共同主肺动脉; 常合并 DiGeorge (22q11) |
+| **Tricuspid atresia** | 出生即 | 重度 | VSD murmur | 取决 | 心影小 + 肺血↓ | 无 RV; ASD/VSD 必需; Fontan 手术 |
+| **TAPVR** | 数周-月 | 中-重 | 持续 | **固定分裂** | **Snowman**（supracardiac） | 肺静脉全错位; 紧急手术 |
+| **HLHS** | 几天 (PDA 闭) | 重度 | **通常无** | Single | 心影大 + 肺血↑ | 依赖 PDA; Norwood 三期手术 / 移植 |
+
+### 🔹 TOF 深度（高频）
+
+**胚胎起源**：Infundibular septum **前上方偏移** → 1 个胚胎缺陷 → 4 个解剖异常
+
+**PROVe 助记**：
+- **P**ulmonary stenosis (RVOT obstruction)
+- **R**V Hypertrophy（继发于 ①）
+- **O**verriding aorta（骑跨在 VSD 上）
+- **V**SD（大型）
+
+> [!info] UWorld 原图 — TOF 解剖 + R→L 分流机制
+> ![[{6EBEDA9F-A2FC-47FF-8172-005EF61E257D}.png]]
+> 4 个 PROVe 缺陷在解剖图上直接标注；右侧循环示意去氧血经 VSD R→L 入主动脉 → 中心性紫绀（来源 Q2429，同图在 [[mistakes/uworld-mistakes#^Q2429]]）
+
+**Tet spell 病理生理**：
+```
+触发：哭闹 / 喂奶 (Valsalva) / 排便 / 早晨醒来
+        ↓
+  ┌────────────────────────────┐
+  │ ① 儿茶酚胺↑ → RVOT 痉挛    │
+  │ ② SVR↓                    │
+  │ ③ 代谢性酸中毒（恶性循环）  │
+  └────────────────────────────┘
+        ↓
+  RVOT 阻塞↑↑ + SVR↓
+        ↓
+  右→左分流通过 VSD↑↑
+        ↓
+  去氧血入主动脉 → 中心性紫绀
+```
+
+**Tet Spell 急性处理 (KOMI-PB-bicarb)** ⭐⭐：
+#难记
+
+| 步骤     | 干预                                  | 机制                    |
+| ------ | ----------------------------------- | --------------------- |
+| K      | **Knee-to-chest position**          | ↑SVR → ↓ 右→左分流        |
+| O      | **100% Oxygen**                     | 肺血管扩张 → ↓PVR          |
+| M      | **Morphine** (IV/SC)                | 镇静 + ↓RVOT 痉挛         |
+| I      | **IV fluids** (NS)                  | ↑preload → ↑RV 充盈     |
+| P      | **Phenylephrine** (α-agonist)       | ↑SVR → ↓ 右→左          |
+| B      | **β-blocker** (Propranolol/Esmolol) | ↓RVOT 痉挛              |
+| bicarb | **Sodium bicarbonate**              | 纠正 metabolic acidosis |
+
+**禁忌**：
+- ❌ β-agonist (Epi, Iso) — 加重 RVOT 痉挛
+- ❌ Diuretics — 减 preload
+
+**手术修复**：3-6 月龄 → 关 VSD + 解除 RVOT 阻塞
+**远期并发症**：Pulmonary regurgitation（最常见）/ RBBB / VT/SCD（成年）
+
+---
+
+## 四、非紫绀型先心病完整鉴别 ⭐
+
+> [!tip] 各病速查级详解 → 已有衍生
+> 下方两张表是**框架定位用**。每个病的完整速查（含 IDM-HCM / ALCAPA / Supravalvular AS / PFO / IAA / VSD 自然病程 4 阶段 / high-output HF 反直觉）见 [[完整笔记/专题笔记/心内/心内_CHD_新生儿先心病总结]] **Part 4.1**。
+
+### 🔹 左→右分流（VAPP）
+
+| 病 | 杂音 | S2 | 关键 / 处理 |
+|---|---|---|---|
+| **VSD** ⭐ 最常见先心病 | **LLSB Holosystolic** | 正常 | 小者可自愈; 大者→Eisenmenger（10+ 年） |
+| **ASD** | LUSB 收缩期 (流量杂音) | **固定分裂 S2** ⭐ | 多成年发现; 房颤风险; 经皮封堵 |
+| **PDA** | LUSB **Continuous Machine-like** | 正常 | 早产儿常见; **Indomethacin** 关闭; **PGE1 保持开放**（PDA-依赖性先心病） |
+| **AVSD** | 复合 | 取决 | 常合并 **Down syndrome (21 三体)** ⭐ |
+
+### 🔹 梗阻性病变
+
+| 病 | 杂音 | S2 | 关键 |
+|---|---|---|---|
+| **CoA** | LUSB/后背 收缩期 | A2 软 | **上肢 BP > 下肢 (>10 mmHg)** ⭐; CXR **"3" sign** + 肋骨切迹; 常合并 **二叶主动脉瓣 (BAV)** + **Turner syndrome** |
+| **AS** | RUSB c-d, **颈部传导** | A2 软 / paradoxical splitting | BAV 是儿童最常见原因; 晕厥/胸痛/心衰 |
+| **PS** | LUSB c-d | P2 软 | 单纯 PS **不紫绀**; 合并 VSD/PFO 才紫绀（→ 类似 TOF） |
+
+---
+
+## 五、关键鉴别节点深挖 ⭐⭐
+
+### 🔹 节点 1：紫绀的本质
+
+```
+紫绀 = 去氧血进入体循环
+        │
+        ▼
+原因 1: 右→左分流（5T 中的多数, Eisenmenger）
+原因 2: 平行循环（TGA）
+原因 3: 单循环（Truncus, TA, HLHS）
+原因 4: 肺静脉回流异常（TAPVR）
+
+⚠️ 关键：左→右分流不会紫绀！
+  VSD/ASD/PDA 都是左→右
+  送的是含氧血回肺
+  除非倒转（Eisenmenger，10+ 年后）
+```
+
+**紫绀分类**：
+- **Central cyanosis**：唇/舌/口腔（动脉氧合↓）→ 心源性/肺源性 ⭐
+- **Peripheral cyanosis**：手脚冰凉发紫（外周循环差）→ 不一定心脏问题
+- **Differential cyanosis**：下肢紫上肢粉 → **PDA + 严重 PH** 或 **CoA 远端 + PDA**
+- **Reversed diff cyanosis**：上肢紫下肢粉 → **TGA + PDA** ⭐ 100% 特异
+
+### 🔹 节点 2：S2 异常鉴别 ⭐⭐
+
+| S2 表现 | 病 | 机制 |
+|---|---|---|
+| **Single S2** ⭐ | TOF / Truncus / severe PS / TGA / TA | P2 软或消失（PS 或单一动脉）|
+| **固定分裂 S2** ⭐⭐ | **ASD** 经典 | LA 血流通过 ASD 入 RA → RV 负荷↑ → P2 永远迟（吸气呼气都分裂）|
+| **响亮 P2** | PH / Eisenmenger | PA 压↑ → P2 关闭力↑ |
+| **奇异分裂**（呼气分裂） | LBBB / AS / HCM | LV 排空延迟 → A2 落后于 P2 |
+| **正常生理分裂** | VSD / PDA / 轻型 | A2 早于 P2，吸气↑分裂 |
+
+> [!tip] S2 一句话
+> **"固定分裂→ASD; Single→5T 紫绀型; 响亮 P2→PH"**
+
+### 🔹 节点 3：杂音"位置 + 形状"⭐
+
+**位置**：
+```
+RUSB（右上胸骨缘 R2）→ AS（主动脉瓣区）
+LUSB（左上胸骨缘 L2）→ PS, ASD, PDA, TOF, CoA(背)
+LLSB（左下胸骨缘 L4）→ VSD, TR, HCM
+Apex（心尖 L5 锁中线）→ MR, MS
+```
+
+**形状**：
+```
+Holosystolic (▭▭▭ 全收缩平台) → VSD / MR / TR
+Crescendo-decrescendo (▲▼ 菱形) → AS / PS / TOF
+Continuous (↗━━━↘ 持续) → PDA
+Mid-diastolic (舒张中期) → MS / TS
+Early diastolic decrescendo → AR / PR
+```
+
+### 🔹 节点 4：4 肢 BP
+
+```
+正常：4 肢接近
+CoA：上肢 > 下肢 (>10 mmHg)
+PDA-dependent 病合并 PH：差异性紫绀（下蓝上粉）
+TGA + PDA：反向差异性紫绀（上蓝下粉）⭐ 极特异
+```
+
+---
+
+## 六、4 大 CXR 经典征 ⭐⭐
+
+| CXR 征象 | 诊断 | 机制 |
+|---|---|---|
+| **Boot-shaped heart** | **TOF** ⭐ | RVH 抬起心尖 + 凹陷 PA 段 |
+| **Egg-on-string** | **TGA** ⭐ | 窄上纵隔 + 心影呈蛋形 |
+| **Snowman / "Figure 8"** | **TAPVR (supracardiac)** | 上方为扩张的垂直静脉 + 上腔静脉 |
+| **"3" sign on aortic knob** | **CoA** ⭐ | 缩窄前/后扩张 |
+| **肋骨切迹** | **CoA** | 肋间动脉侧支循环侵蚀肋骨 |
+| **心影小 + 肺血少** | TA / PS / severe TOF | 肺血流↓ |
+| **心影大 + 肺血多** | HLHS / Truncus / 大左→右分流 | 肺充血 |
+
+---
+
+## 七、应用框架到本题（Q2429）⭐
+
+```
+Q2429: 3 月大婴儿, 喂奶/哭闹时发紫, single S2, LUSB crescendo-decrescendo, 4 肢 BP 相等
+
+STEP 1: 紫绀吗？
+        → 有！(SpO₂ 80%, 唇舌发绀)
+        → 进入紫绀型 (5T + H)
+        🚫 排除 C (VSD), A (CoA) — 不紫绀型
+
+STEP 2: 时间窗？
+        → 3 个月
+        🚫 排除 B (HLHS, 几天), E (TGA, 24-48h)
+        ✅ 剩 TOF / TAPVR
+
+STEP 3: S2？
+        → Single S2
+        → 强提示 RVOT 阻塞
+        ✅ 锁定 TOF
+
+STEP 4: 杂音？
+        → LUSB + crescendo-decrescendo
+        ✅ 锁定 TOF (PS murmur 模式)
+
+STEP 5: 4 肢 BP？
+        → 相等
+        → 进一步排除 CoA
+
+✅ 最终：TOF
+```
+
+**砍选项时间线**：
+- Step 1 砍 2 个（VSD, CoA）
+- Step 2 砍 2 个（HLHS, TGA）
+- Step 3 锁定（TOF）
+- 用时：**< 30 秒**
+
+---
+
+## 八、综合训练题（用框架做）⭐
+
+### 🎯 训练题 1
+> 出生 36 小时新生儿, 重度紫绀, 无杂音, SpO₂ 60%, CXR egg-on-string.
+> **解**：紫绀 + 24-48h + 无杂音 + egg-on-string → **TGA**
+> 处理：紧急 PGE1（保 PDA）+ Balloon atrial septostomy
+
+### 🎯 训练题 2
+> 20 岁女性, 偶发心悸, LUSB 收缩期杂音 + **固定分裂 S2**, 无紫绀, ECG RBBB.
+> **解**：非紫绀 + 成年发现 + 固定分裂 S2 → **ASD**
+> 治疗：经皮封堵
+
+### 🎯 训练题 3
+> 早产儿出生 5 天, **持续 machine-like** 杂音 at LUSB, BP 80/30（脉压宽）.
+> **解**：machine-like 持续杂音 → **PDA**
+> 治疗：**Indomethacin** 关闭
+
+### 🎯 训练题 4
+> 8 岁男孩, 体检 BP 上肢 140/85, 下肢 100/60, 后背可闻杂音.
+> **解**：非紫绀 + 上肢 > 下肢 → **CoA**
+> 进一步：CXR 看 "3 sign" + 肋骨切迹; 找 BAV / Turner
+
+### 🎯 训练题 5
+> 3 月大婴儿, 哭闹时变蓝, 蹲下能改善, LUSB c-d 杂音, Single S2, boot-shaped heart.
+> **解**：紫绀 + 数月 + Single S2 + boot-shaped → **TOF**（本题）
+
+### 🎯 训练题 6（高难陷阱）
+> 出生 2 天新生儿, **上肢紫绀 + 下肢粉红**, 没有杂音, CXR 心影窄上纵隔.
+> **解**：Reversed differential cyanosis + 24-48h + 无杂音 + egg-on-string → **TGA + PDA**
+> （TGA 时主动脉在右心, 上肢氧合来自右心去氧血; 下肢通过 PDA 来自左心含氧血）
+
+---
+
+## 九、Memory Hook 大合集 ⭐⭐
+
+### 🔹 Hook 1：紫绀型 "5T + H"
+> **T**OF + **T**GA + **T**runcus + **T**ricuspid atresia + **T**APVR + **H**LHS
+
+### 🔹 Hook 2：非紫绀型 "VAPP"
+> **V**SD + **A**SD + **P**DA + 其他 (+ 阻塞：CoA, AS, PS)
+
+### 🔹 Hook 3：诊断 5 步法 ⭐⭐⭐
+> **"紫-时-S-杂-压"**
+
+### 🔹 Hook 4：CXR 4 征
+> Boot (TOF) / Egg (TGA) / Snowman (TAPVR) / "3" (CoA)
+
+### 🔹 Hook 5：S2 速记
+> 固定分裂→ASD / Single→5T / 响亮 P2→PH
+
+### 🔹 Hook 6：杂音速记
+> VSD 全平台 / TOF 菱形 / PDA 机器响 / Truncus 来回响
+
+### 🔹 Hook 7：TOF 4 缺陷
+> **PROVe**: PS + RVH + Overriding aorta + VSD
+
+### 🔹 Hook 8：Tet spell 处理 7 步
+> **KOMI-PB-bicarb**:
+> Knee-chest + O₂ + Morphine + IVF + Phenylephrine + β-blocker + bicarb
+> 一句话：屈膝吸氧 + 镇静补液 + 缩血管减痉挛 + 纠酸
+
+### 🔹 Hook 9：PDA 双面性
+> - 想关：早产 / 大量左→右 → **Indomethacin**
+> - 想保：PDA-依赖性紫绀型先心病（TGA, HLHS, severe TOF, TA, severe CoA, pulm atresia）→ **PGE1**
+
+### 🔹 Hook 10：先心病合并综合征 ⭐
+> | 综合征 | 心脏 |
+> |---|---|
+> | **Down (21 三体)** | **AVSD** / VSD |
+> | **Turner (XO)** | **CoA** / BAV |
+> | **DiGeorge (22q11)** | **Truncus** / TOF / IAA |
+> | **Williams (7q)** | **Supravalvular AS** |
+> | **Marfan** | **Aortic root dilation** / AR / MVP |
+> | **Edwards (18 三体)** | VSD |
+
+---
+
+## 十、待补充内容（v2 计划）
+
+- [ ] Eisenmenger syndrome 完整机制 + 治疗
+- [ ] PDA-dependent 先心病完整列表（什么时候不能关 PDA）
+- [ ] Fontan circulation（Tricuspid atresia / HLHS post-op）
+- [ ] 二叶主动脉瓣 (BAV) 完整图谱（合并 CoA / AS / Aortic dissection 风险）
+- [ ] 先心病妊娠风险评估（modified WHO 分级）
+- [ ] 成人 GUCH (Grown-Up Congenital Heart) 常见问题
+- [ ] Ebstein anomaly 详解
+- [ ] 二尖瓣脱垂 (MVP) — 虽非先心病但常考
+
+---
+
+## 十一、关联
+
+- 🔁 同主题错题：
+  - [[mistakes/uworld-mistakes#^Q2429]] TOF 锁定（起源题）
+  - [[mistakes/uworld-mistakes#^Q2468]] Edwards (T18) → VSD（染色体病 → CHD 关联）
+  - [[mistakes/uworld-mistakes#^Q3546]] Innocent (Still) murmur — 儿科杂音良性 4 铁律
+- 📚 学科主笔记 + 已有 CHD 姐妹专题：
+  - [[完整笔记/Peixuan分科笔记/儿科]]（先心病章节）
+  - [[完整笔记/Peixuan分科笔记/心内]]（成人 GUCH / 心脏听诊）
+  - [[完整笔记/专题笔记/心内/心内_CHD_总索引]] — 导航地图
+  - [[完整笔记/专题笔记/心内/心内_CHD_各病详解]] — 单病深度
+  - [[完整笔记/专题笔记/心内/心内_CHD_发绀型鉴别]] — 紫绀型双轴
+  - [[完整笔记/专题笔记/心内/心内_CHD_新生儿先心病总结]] — 新生儿三轴
+  - [[完整笔记/专题笔记/心内/心内_CHD_PDA依赖型]] — PDA 依赖 6 病 + PGE1
+  - [[完整笔记/专题笔记/心内/心内_CHD_ToF法洛四联症]] — ToF 深度（Q2429 触发）
+  - [[完整笔记/专题笔记/心内/心内_CHD_DiGeorge综合征]] — 综合征-CHD 关联
+  - [[完整笔记/专题笔记/心内/心内_CHD_IAA主动脉弓中断]] — IAA 详解
+  - [[完整笔记/专题笔记/心内/心内_心脏杂音听诊鉴别速查]] — 临床查体速查
+  - [[完整笔记/专题笔记/心内/心内_瓣膜病听诊推理框架]] — 机制推理深度
+- 🏥 跨学科：
+  - [[完整笔记/Peixuan分科笔记/儿科]]（综合征关联：Down / Turner / DiGeorge / Williams / Marfan）
+  - [[完整笔记/Peixuan分科笔记/外科]]（先心病手术：Norwood / Fontan / Arterial switch / Glenn）
+  - [[完整笔记/Peixuan分科笔记/OB]]（先心病妊娠风险）
+- 🌱 未来衍生（按错题积累触发）：
+  - [[完整笔记/专题笔记/心内/心内_S2异常鉴别]]（fixed / wide / paradoxical / single 4 类机制）
+  - [[完整笔记/专题笔记/心内/心内_心脏杂音听诊鉴别速查]] ✅ **已建（2026-05-19）**
+  - [[完整笔记/专题笔记/儿科/儿科_CXR经典征]]（boot / egg-on-string / snowman / 8-figure）
+  - [[完整笔记/专题笔记/心内/心内_CHD_ToF法洛四联症]] §六 Tet Spell ✅ **已建（2026-05-18）**含完整 SOP
+  - [[完整笔记/专题笔记/心内/心内_PDA双面性]]（关 ibuprofen vs 保 PGE1 决策树）
+  - [[完整笔记/专题笔记/儿科/儿科_染色体病多系统对照表]] ✅ **已建（2026-05-18）**含综合征-CHD 完整关联
+
+---
+
+## 版本记录
+
+- **v1（2026-05-16）**：从 Q2429 TOF 错题讨论沉淀生成，核心目标是**立起诊断框架**
+  - 5 步诊断法（紫-时-S-杂-压）
+  - 紫绀型 5T+H 完整鉴别
+  - 非紫绀型 VAPP + 阻塞完整鉴别
+  - S2/杂音/CXR 鉴别节点
+  - Tet Spell 处理 SOP
+  - 6 道训练题（含反向差异性紫绀陷阱）
+  - 综合征 - 先心病关联
+- **v2（2026-05-16）**：新增 STEP 0（紫绀 4 大分类）作为框架真正起点
+  - 触发：Peixuan 反馈"紫绀最开始要区分中枢和外周"
+  - 新增 0.1 紫绀本质（脱氧 Hb >5 g/dL）
+  - 新增 0.2-0.6 4 大分类（Central / Peripheral / Differential / Pseudo）
+  - 新增 0.7 Methemoglobinemia 深挖（USMLE 高频陷阱）
+  - 新增 0.8 终极对比表
+  - 新增 0.9 STEP 0 完整决策流程
+  - 新增 0.10 5 大 USMLE 套路（acrocyanosis / MetHb / 反向差异 / 经典差异 / 100% O₂ test）
+  - 新增 0.11 6 个 Memory Hook
+  - 更新第二章：5 步法明确为"STEP 0 后才进入"
+- 后续随儿科 / 心内章节复习深入扩充

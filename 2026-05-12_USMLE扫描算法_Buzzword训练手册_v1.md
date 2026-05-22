@@ -614,8 +614,8 @@ Day 8   →  Day 9 复习  →  Day 11 复习 →  Day 14 复习
 
 - 📚 主笔记：[[完整笔记/专题笔记/USMLE扫描算法_Buzzword训练手册]]
 - 🌱 TODO（待生成衍生）：
-  - 等 Day 30 训练完成后，请 Claude Code 整合所有 buzzword 错误模式 → 生成 [[完整笔记/专题笔记/_衍生_Peixuan专属易错buzzword]]
-  - 等 4 道 9 部分详细 breakdown 出完后，请 Claude Code 整合 4 题的"个性化错因"+"修复方法"→ 提取 [[完整笔记/专题笔记/_衍生_Peixuan答题习惯陷阱]]
+  - 等 Day 30 训练完成后，请 Claude Code 整合所有 buzzword 错误模式 → 生成 [[完整笔记/专题笔记/衍生/_衍生_Peixuan专属易错buzzword]]
+  - 等 4 道 9 部分详细 breakdown 出完后，请 Claude Code 整合 4 题的"个性化错因"+"修复方法"→ 提取 [[完整笔记/专题笔记/衍生/_衍生_Peixuan答题习惯陷阱]]
 - 🏥 跨学科：本手册的 Day 8-30 框架覆盖所有学科
 
 ---
