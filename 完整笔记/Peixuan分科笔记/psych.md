@@ -665,6 +665,14 @@ Indications:
 > Mania
 >
 > Refractory depression
+>
+> Catatonia（尤其 malignant catatonia → 急迫首选）
+>
+> Severe depression with refusal to eat/drink, dehydration
+>
+> Psychotic depression unresponsive to medication
+>
+> 重度抑郁 / 精神病而妊娠期不宜用药时
 
 Adverse effect:
 
@@ -679,6 +687,28 @@ Safe in:
 > Pregnancy
 >
 > Elderly
+
+No absolute contraindication（ECT 最大优势）。相对高风险：严重 CVD / 近期 MI、占位性脑病变、近期卒中、不稳定动脉瘤。
+
+**Catatonia 治疗顺序（ECT 是二线，不是一线）**
+
+普通 Catatonia：
+
+> 一线 = Lorazepam（BZD，GABA-A 激动剂）。Lorazepam challenge 诊断兼治疗，常数十分钟戏剧性起效
+>
+> 二线 = ECT（lorazepam 无效 / 部分有效 / 危及生命时）
+>
+> 若由抗精神病药诱发 → 停抗精神病药；"加 / 换抗精神病药"是陷阱选项（可恶化、诱发 NMS）
+
+Malignant Catatonia（恶性紧张症 = 内科急症）：
+
+> 普通 catatonia 叠加：hyperthermia 高热 + autonomic instability 自主神经不稳 + 严重肌强直 ± 意识波动 ± 横纹肌溶解 / CK↑
+>
+> 进展快、数天可致命 → ECT 紧急上升为一线 / 首选，不必苦等多次 lorazepam 试验
+>
+> 与 NMS 高度重叠（NMS ≈ 药物诱发的 malignant catatonia）；ECT 对两者都有效
+
+一句话：Catatonia → Lorazepam；Malignant catatonia（高热 + 生命体征剧烈波动）→ ECT 急迫。
 
 **Herbal Supplement Interaction**
 

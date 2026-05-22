@@ -14426,10 +14426,16 @@
 >
 > | 维度 | 内容 |
 > |---|---|
-> | Indications | 治疗抵抗、psychotic features、急迫情况（妊娠/拒食拒饮/即将自杀）、catatonia |
+> | Indications | 治疗抵抗、psychotic features、急迫情况（妊娠/拒食拒饮/即将自杀）、catatonia（普通型 lorazepam 一线，见下方补充）|
 > | 绝对禁忌 | **无绝对禁忌**（最大优势） |
 > | 相对高风险 | 严重 CVD/近期 MI、占位性脑病变、近期卒中、不稳定动脉瘤（颅压↑ + 心血管应激） |
 > | 用法 | 每周 3 次，共 6-12 次 |
+>
+> > [!info] 补充（2026-05-22）— catatonia 的 ECT 是二线，不是一线
+> > **普通 catatonia 一线 = lorazepam**（GABA-A 激动剂；lorazepam challenge 诊断 + 治疗合一，常数十分钟戏剧性起效）→ ECT 是二线（lorazepam 无效 / 部分有效 / 危及生命时）。
+> > **只有 malignant catatonia（恶性紧张症）** = 普通 catatonia 叠加「高热 + 自主神经不稳 + 严重肌强直」→ 内科急症、进展快，ECT 紧急上升为一线 / 首选。
+> > 读题盯「高热 + 生命体征剧烈波动」区分；NMS ≈ 药物诱发的 malignant catatonia，ECT 对两者都有效。catatonia 若由抗精神病药诱发 → 停抗精神病药，别加 / 换。
+> > 详见 [[mistakes/uworld-mistakes#^Q15791]] 紧张症卡。
 >
 > **4. 易混陷阱（普适）**
 > - **antipsychotic alone（A Clozapine / D Olanzapine）❌** 单用抗精神病不足以治 psychotic depression（需联合抗抑郁药）。
