@@ -668,6 +668,7 @@ CNS hyperarousal 反弹（GABA 突然撤离）
 |---|---|
 | **机制** | 类癌肿瘤分泌 serotonin → 经肝代谢，到肺前 → 仅当有**肝转移**时才进体循环 |
 | **治疗** | **Octreotide**（缓解症状）+ 切除原发 / 肝转移 |
+| **升降对照** | **尿 5-HIAA↑（外周·类癌）vs CSF 5-HIAA↓（中枢·自杀，见 10.1）** —— 方向相反，最易搞反 |
 
 ### 6.3 Zollinger-Ellison（ZES, gastrinoma）
 
@@ -802,6 +803,78 @@ Step 6: 锁定 → 选答案
 
 ---
 
+## Part 10. 神经 / 精神科标志物指纹（CSF · EEG · PSG）
+
+> [!info] 本 Part 定位
+> CSF / EEG / PSG / 颅脑影像类"标志物指纹" —— 症状层面常很像（痴呆 / 嗜睡 / 抑郁），靠**单个标志物**直接锁病。源 Q15897（CSF 5-HIAA）+ Q15924（MDD 睡眠 PSG），均为知识点补充、未入错题本。
+
+### 10.1 CSF 5-HIAA ↓ → 自杀 / 冲动 / 暴力 ⭐⭐⭐
+
+| 指纹 | **CSF 5-HIAA↓** + 反复自杀未遂 / 冲动 / 攻击行为 + episodic 抑郁 |
+|---|---|
+| **机制** | 5-HIAA = serotonin 主要代谢产物；CSF 5-HIAA↓ = 中枢 serotonin 功能低下。Serotonin = "刹车系统"（抑制冲动）→ 刹车油不够 → 冲动失控 → 自杀 / 暴力 |
+| **考法** | 题问"最可能存在哪种异常"（考生化 correlate，不是问诊断）|
+| **升降对照** | vs **尿 5-HIAA↑（外周·carcinoid，见 6.2）** —— CSF 低想自杀、尿高是类癌，方向相反最易搞反 |
+
+> [!warning] 取样部位决定你测的是哪个"池子"（BBB 把中枢 / 外周 serotonin 隔开）
+> - **评估中枢神经递质 / 中枢病变 → 取 CSF**：5-HIAA（自杀）、HVA（多巴胺周转）、orexin（narcolepsy）、14-3-3（CJD）。
+> - **评估外周分泌 / 肿瘤 → 取 血 / 尿**：尿 5-HIAA（carcinoid）、尿 VMA / metanephrines（pheo）。
+> - 三条逻辑：① 5-HIAA 几乎不过 BBB；② 全身 ~90% serotonin 在肠道，外周值被肠道主导；③ 外周升高反指向类癌。
+> - 推广：中枢多巴胺周转测 **CSF HVA**，外周儿茶酚胺测 **尿 VMA / metanephrines** —— 同一个"中枢测 CSF、外周测血尿"逻辑。
+
+### 10.2 CSF / EEG / 影像标志物联立速查 ⭐⭐
+
+> [!tip] 用法
+> 这 5 个标志物常被放进同一道题的 5 个选项 —— 每个对应一个**独立疾病**，认 stem 关键词对号入座。
+
+| 标志物 / 表现 | 疾病 | Stem 关键词 |
+|---|---|---|
+| **CSF 5-HIAA ↓** | 自杀 / 冲动 / 暴力 | 反复自杀未遂 + 抑郁 |
+| **CSF orexin (hypocretin) ↓** | Narcolepsy type 1 | 日间嗜睡 + 猝倒（cataplexy）|
+| **CSF 14-3-3 ↑ + periodic sharp wave complexes** | CJD（克雅病）| 快速进展性痴呆 + 肌阵挛 |
+| **3-Hz spike-and-wave EEG** | Childhood absence epilepsy（儿童失神癫痫）| 儿童凝视、突然中断、过度换气诱发 |
+| **Hydrocephalus ex vacuo（CT）** | 脑萎缩（Alzheimer 等）| 老年痴呆、脑室代偿性扩大 |
+
+> [!danger] 高频陷阱
+> - **14-3-3 + periodic sharp wave complexes 常一起作两个选项** = 出题人在拼 CJD；没有 CJD 表现（快速痴呆 + 肌阵挛）就把这两个一起排除。
+> - **3-Hz spike-wave = absence**，别和其他 EEG buzzword 张冠李戴。
+> - Hydrocephalus **ex vacuo**（脑萎缩被动扩张）≠ **NPH**（正常压力脑积水：步态障碍 / 尿失禁 / 痴呆三联）。
+
+> [!success] Memory Hook
+> **"脑脊液低想自杀，尿里高是类癌瘤。"** —— CSF 5-HIAA↓ → suicide；尿 5-HIAA↑ → carcinoid。
+> 取样口诀：**想看"脑子里"测 CSF，外周血 / 尿测的是"肠子里"。**
+
+### 10.3 睡眠障碍 PSG 标志物鉴别 ⭐⭐（MDD / OSA / RBD / PLMD）
+
+| 指纹 | **MDD 的 PSG「三降一升」**：↓ REM latency（REM 潜伏期缩短，标志性 biomarker）+ ↓ slow-wave sleep（深睡少）+ ↓ 睡眠连续性（易醒 / 早醒）+ ↑ REM 总量 & 密度 |
+|---|---|
+| **一句话** | 抑郁的睡眠 = "REM 来得早、来得多；深睡少、易早醒"；睡眠紊乱是抑郁**核心症状**，治疗后多恢复 |
+| **Stem 关键词** | 3 周低能量 + **早醒（凌晨 4 点醒）** + 兴趣丧失 + psychomotor slowing → 问 PSG 发现 = **↓ REM latency** |
+
+**睡眠障碍 PSG 联立鉴别（5 选项各对应一个病）：**
+
+| 疾病 | PSG / 特征 | Stem 关键词 |
+|---|---|---|
+| **MDD** | ↓ REM latency | 早醒 + 全面情绪 / 兴趣下降 |
+| **OSA**（阻塞性睡眠呼吸暂停）| sleep-related hypoventilation / apnea | 打鼾 / 憋醒 + **白天嗜睡** + 肥胖 |
+| **RBD**（REM 睡眠行为障碍）| **REM without atonia**（REM 期肌张力不消失）| dream-enactment（梦境扮演、打人踢腿）；关联 α-突触核蛋白病 / 帕金森 |
+| **PLMD**（周期性肢体运动障碍）| 睡眠中下肢周期性不自主抽动 → 夜间觉醒 | 下肢抽动致觉醒 → 白天嗜睡 |
+
+> [!danger] ↓REM latency 不是 MDD 专属
+> **Narcolepsy 也有 ↓REM latency**（SOREMP）。靠语境分：**抑郁症状群 → MDD**；**日间嗜睡 + 猝倒 + CSF orexin↓ → narcolepsy**（见 §10.2）。
+
+> [!warning] 核心区分（疲劳是共性，靠"怎么个累法"分）
+> - **早醒 + 白天没精神 + 抑郁症状群 → MDD**
+> - **打鼾 / 憋气 / 白天嗜睡 + 肥胖 → OSA**（"睡了仍困"）
+> - **梦境扮演 / 肢体动作 → RBD**（REM without atonia）
+> - **下肢抽动致觉醒 → PLMD**
+
+> [!success] Memory Hook
+> 抑郁的大脑像"抢跑的运动员" —— REM 迫不及待提前冲出来（latency↓ + 量↑），真正修复身体的深睡（slow-wave）却缩水、凌晨还惊醒。
+> buzzword 对照：**REM without atonia → RBD**；**hypoventilation / apnea → OSA**。
+
+---
+
 ## 🔗 关联
 
 - 🔁 **同主题错题**：
@@ -813,6 +886,7 @@ Step 6: 锁定 → 选答案
   - [[完整笔记/Peixuan分科笔记/肾脏]]（电解质 / 酸碱 / RTA / Bartter / Gitelman）
   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（血液指纹病）
   - [[完整笔记/Peixuan分科笔记/GI]]（肝病 / 胰腺炎 / 储积病）
+  - [[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/neuro]]（Part 10 CSF·EEG 标志物）
 - 🏥 **跨学科 / 衍生互链**：
   - [[完整笔记/专题笔记/内分泌_肾上腺皮质功能不全]]（PAI 五联详解，本表 1.1 母笔记）
   - [[完整笔记/专题笔记/心内_抗凝抗板_急性血栓]]（HIT / DIC / TTP-HUS 详解）
@@ -823,6 +897,7 @@ Step 6: 锁定 → 选答案
   - 等 TTP / HUS / DIC 错题 → 生成 [[完整笔记/专题笔记/_衍生_TMA鉴别诊断]]
   - 等中毒错题积累 → 拆出 [[完整笔记/专题笔记/_衍生_USMLE中毒急救速查]]
   - 累计 3+ 道阴性体征陷阱题 → 生成 [[完整笔记/专题笔记/_衍生_读题策略_阴性体征]]
+  - 等 CSF / EEG 标志物错题积累 → Part 10 可拆出 [[完整笔记/专题笔记/_衍生_CSF与EEG标志物速查]]
 
 ---
 
@@ -834,7 +909,9 @@ Step 6: 锁定 → 选答案
 - **复习节奏**：考前每周扫一次 Part 1-6（指纹组合默写）+ Part 8（计算公式）；考前 1 周 + Part 7（形态学）
 - **下次升级**：每次错题暴露新指纹病 → 加进对应 Part；积累足够后拆分子衍生
 
-**Last updated**: 2026-05-19 v1.6 — §5.5 扩 5.5.x AUD vs Adjustment Disorder 鉴别（Q12432 做对题触发）：Alcohol→失眠 3AM 觉醒机制 + NIAAA 不健康饮酒阈值 + 离婚 stressor 5 种诊断（AD/MDD/AUD/Grief/Dysthymia）时间窗+实验室定胜负
+**Last updated**: 2026-05-21 v1.7 — 新增 **Part 10 神经 / 精神科标志物指纹（CSF·EEG·PSG）**：10.1 CSF 5-HIAA↓→自杀（+ BBB 取样逻辑）+ 10.2 CSF/EEG/影像标志物 5 行联立速查（5-HIAA / orexin / 14-3-3 / 3-Hz spike-wave / hydrocephalus ex vacuo）+ 10.3 睡眠障碍 PSG 鉴别（MDD「三降一升」/ MDD·OSA·RBD·PLMD 联立 / ↓REM latency 与 narcolepsy 区分）；§6.2 Carcinoid 加尿/CSF 5-HIAA 升降对照。源 Q15897 + Q15924（知识点补充，未入错题本）
+
+**v1.6**（2026-05-19）— §5.5 扩 5.5.x AUD vs Adjustment Disorder 鉴别（Q12432 做对题触发）：Alcohol→失眠 3AM 觉醒机制 + NIAAA 不健康饮酒阈值 + 离婚 stressor 5 种诊断（AD/MDD/AUD/Grief/Dysthymia）时间窗+实验室定胜负
 
 **v1.5**（2026-05-18）— 新增 2.6 Hyperkalemia ECG 五阶段指纹（Q19929 触发）：ECG 进展 + K⁺ 阈值 + 机制 + Brady+Hypo 鉴别铁律（看 P 波）+ Sine wave vs Torsades + C-BIG-K-D SOP
 
