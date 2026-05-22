@@ -14518,7 +14518,9 @@
 > - （本次无额外提问；卡点在"为何不是药物" → 学到：数值阈值 100 + aripiprazole 最不升这两条鉴别规则）
 >
 > **8. 🔗 关联**
-> - 🔁 同主题错题：（首题，等后续「高泌乳素 / prolactinoma / 抗精神病药副作用」错题积累后横向连）
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q11967]] 儿童急性精神病→SLE——同为"被正在吃的药诱导归因 → 忽略真病因"陷阱孪生题（本题阿立哌唑 / Q11967 安非他命）
+>   - （高泌乳素主题首题，等后续 prolactinoma / 抗精神病药副作用错题积累后横向连）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/endocrine]] / [[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（抗精神病药升泌乳素规律：一代/risperidone 升，二代 aripiprazole 几乎不升）；[[完整笔记/Peixuan分科笔记/GYN]]（高泌乳素抑制 GnRH → 闭经/不孕鉴别）
 > - 🌱 TODO（待生成衍生）：等内分泌「垂体」+ 精神科「抗精神病药副作用」复习完，请 Claude Code 整合高泌乳素鉴别类错题（药物 vs 瘤 vs 甲减 vs 肾病，含 100 ng/mL 阈值表）→ 生成 [[完整笔记/专题笔记/_衍生_高泌乳素鉴别]]
@@ -14533,6 +14535,422 @@
 >
 > 学科:: 内分泌
 > 主题:: 高泌乳素血症病因鉴别（prolactin ≥100 ng/mL → 垂体 MRI 排 prolactinoma）/ 抗精神病药升泌乳素规律（一代·risperidone 升、aripiprazole 几乎不升）/ 用 stem 关键数值做鉴别钥匙
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-21] 免疫/精神 / 儿童急性精神病→SLE (Q11967)
+> ^Q11967
+>
+> **1. Stem 模式**
+> 青少年女性 **急性精神病**（幻觉/行为怪异）+ 近期 **关节痛** + **血小板↓** + **蛋白尿+血尿** + 自身免疫家族史 + 正在吃某药（amphetamine/ADHD）但 **毒检阴性、TSH 正常** → 问下一步处理。
+>
+> **2. 核心概念**
+> 儿童/青少年急性精神病罕见 → **必须先排可逆器质病因**。精神病(CNS) + 关节 + 血液 + 肾 = **多系统受累 → SLE → 首选查 ANA**。高泌乳素式陷阱：被"正在吃的药"诱导归因，但毒检阴性 + 多系统线索否定药物。
+>
+> **3. 普适规则**
+>
+> **决策树：看到"多个看似无关的异常"→ 强制问"有没有一个系统病统一解释？"（Occam）**
+>
+> ```
+> 急性精神病(儿童/青少年) → 先排器质病因(可逆!)
+>   ├ 系统自身免疫：SLE(多系统+ANA) / thyroiditis(TSH)
+>   ├ CNS：外伤/占位/感染/卒中/癫痫/缺氧
+>   ├ 代谢电解质：低血糖/Na·Ca·Mg/Wilson/AIP/尿素循环
+>   ├ 物质：兴奋剂/致幻剂/大麻/bath salts/酒精戒断 → 毒检
+>   └ 药物：抗胆碱/激素/INH/抗惊厥/5-HT综合征
+> ```
+>
+> **SLE 自身抗体顺序：ANA 先筛（敏感）→ anti-dsDNA / anti-Smith 后确诊（特异）→ 低补体 C3/C4 提活动度。第一步永远是 ANA。**
+>
+> | SLE 系统 | 表现 |
+> |---|---|
+> | 关节 | 对称游走性关节炎 |
+> | 血液 | 溶贫 / 血小板↓ / 白细胞↓ |
+> | 神经精神 | 精神病/癫痫/舞蹈/认知障碍 |
+> | 肾 | 蛋白尿 / 肌酐↑（lupus nephritis）|
+> | 皮肤 | 蝶形红斑（**常缺如，别依赖**）|
+>
+> **4. 易混陷阱（普适）**
+> - 「治疗剂量兴奋剂」**极少**致精神病；且药物**解释不了关节痛/血小板↓/肾受累**。被用药史诱导 = 归因错误。
+> - 别急着开抗精神病药贴"原发精神病"标签 → 儿童精神病必须先 work up 器质病因。
+> - 蝶形红斑常缺如，**不能靠它排除 SLE**。
+> - ANA 是筛查（敏感），不是确诊；别第一步上 dsDNA。
+>
+> **5. 我为什么错（个性化）**
+> 选了 B（停安非他命）。完全没想到 SLE——没把"精神病+关节痛+血小板↓+蛋白尿/血尿"拼成"多系统=自身免疫病"，且漏看毒检阴性。被正在吃的药诱导归因，缺"多系统拼图"思维。
+>
+> **6. Memory Hook**
+> **「年轻女 + 多系统乱（脑+关节+血+肾）→ 先想狼疮，先筛 ANA」**
+> SLE = 全身性叛乱，到处放火；别只盯一处灭火（停药/查甲状腺），找总指挥 → ANA。ANA 撒大网（敏感），dsDNA/Smith 精准狙击（特异）。
+>
+> ---
+>
+> **7. 🤔 我的提问 / 卡点**
+> - 卡点："吃 ADHD 药 → 是不是药物性精神病？" → 学到：毒检阴性 + 多系统受累双重否定药物；治疗剂量兴奋剂罕见致精神病。
+> - 卡点："怎么想到 SLE？" → 学到：≥3 个看似无关异常 = 触发"多系统拼图"思维，找统一诊断。
+>
+> **8. 🔗 关联**
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q4848]] 高泌乳素——同为"被正在吃的药诱导归因 → 忽略真病因"陷阱孪生题（Q4848 阿立哌唑 / 本题安非他命）
+>   - （SLE 主题首题，等后续 SLE/lupus nephritis/自身抗体错题积累后横向连）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/免疫疫苗]] / [[完整笔记/Peixuan分科笔记/psych]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/肾脏]]（lupus nephritis：蛋白尿+血尿）；[[完整笔记/Peixuan分科笔记/hematology oncology]]（SLE 致血小板↓/溶贫/白细胞↓）；[[完整笔记/Peixuan分科笔记/儿科]]（儿童急性精神病罕见 → 必排可逆器质病因）
+> - 🌱 TODO（待生成衍生）：
+>   - 等风湿/免疫「SLE」+ 精神科「急性精神病鉴别」复习完，请 Claude Code 整合「儿童/青少年急性精神病——继发器质病因鉴别决策树（SLE/甲状腺/代谢/物质/药物）」→ 生成 [[完整笔记/专题笔记/_衍生_儿童急性精神病鉴别]]
+>   - 等 SLE 错题积累后，请 Claude Code 整合「自身抗体筛查顺序（ANA→dsDNA/Smith→补体）」→ 生成 [[完整笔记/专题笔记/_衍生_自身抗体鉴别]]
+>
+> **9. ✅ 复盘行动**
+> - [ ] 1 周后重做（能否主动把分散异常拼成"多系统→SLE"）
+> - [ ] 默写 SLE 多系统表现表 + ANA→dsDNA/Smith 顺序
+> - [ ] 默写儿童急性精神病必排病因决策树
+> - [ ] 找 3 道类似题（psychosis+多系统 / lupus nephritis / ANA vs dsDNA / neuropsychiatric lupus）
+> - [ ] 训练"多系统拼图"思维：≥3 个无关异常 → 强制找统一诊断
+> - [ ] 若反复错 → 给 [[完整笔记/Peixuan分科笔记/免疫疫苗]] 加「薄弱点」
+>
+> ---
+>
+> 学科:: 风湿
+> 主题:: 儿童/青少年急性精神病 → 先排可逆器质病因 / 多系统受累（脑+关节+血+肾）拼图 → SLE / SLE 自身抗体筛查顺序（ANA→dsDNA·Smith→补体）/ "被在吃的药诱导归因"陷阱
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-05-21] 神经/精神 / Acute Dystonic Reaction 急性肌张力障碍 (Q2505)
+> ^Q2505
+>
+> **1. Stem 模式**
+> Dopamine 拮抗剂（止吐药 prochlorperazine/metoclopramide 或抗精神病药）→ 数小时内突发**头颈部持续性肌肉收缩**（facial spasm / jaw clenching / tongue protrusion / slurred speech）+ **神志清醒** ± akathisia（restlessness）。
+>
+> **2. 核心概念**
+> Acute dystonic reaction = 锥体外系反应（EPS）。机制：D2 阻断 → 基底节内 **DA↓ → ACh 相对↑** → 持续肌肉收缩。急救首选**抗胆碱能药**（diphenhydramine / benztropine，IV 数分钟起效），可与 prochlorperazine 同给预防。
+>
+> **3. 普适规则（机制轴）**
+>
+> ```
+>   DA 拮抗剂 → 阻断 D2 (过 BBB)
+>            ↓
+>     纹状体/基底节  DA↓ ⇄ ACh 相对↑
+>            ↓
+>   持续肌肉收缩 = DYSTONIA（头颈 > 四肢）
+>            ↓
+>   治疗：压 ACh → 抗胆碱能药（diphenhydramine/benztropine）
+> ```
+>
+> **读题 SOP：先扫"用了什么药"，再看"症状像什么"** —— 顺序反了就掉坑。
+>
+> **EPS / 运动障碍急救药速查（药 → 机制 → 治什么）—— 针对"药选不出来"**
+>
+> | 药 | 机制 | 治什么 |
+> |---|---|---|
+> | **Diphenhydramine 苯海拉明** | 抗组胺 + **强抗胆碱** → 压 ACh | **急性肌张力障碍**（一线，IV 数分钟起效）|
+> | **Benztropine 苯托品** | **抗胆碱** → 压 ACh | 急性肌张力障碍 / 药源性帕金森 |
+> | **Propranolol 普萘洛尔** | **β 阻断** | **静坐不能 akathisia** 首选 |
+> | **VMAT2 抑制剂**（Valbenazine / Deutetrabenazine）| 抑制突触前 DA 包装释放 | **迟发性运动障碍 TD** |
+> | **Dantrolene 丹曲林** | 直接肌松（抑制肌浆网 Ca²⁺ 释放）| **NMS** / 恶性高热 |
+> | **Bromocriptine 溴隐亭** | **DA 激动剂**（补 DA）| **NMS** |
+> | **Cyproheptadine 赛庚啶** | 抗 5-HT（+ 抗组胺）| **5-HT 综合征** |
+>
+> 一句话：**抗胆碱压 dystonia、β阻断压 akathisia、VMAT2 治 TD、丹曲林＋溴隐亭救 NMS、赛庚啶解 5-HT 综合征。**
+>
+> **致病药 & 解药 — 背后药理（图1 抗组胺 + 图2 止吐药 归位）**
+>
+> 本题"病因"和"解药"各来自一类药，关键全在**副作用栏**：D2 止吐药的副作用 EPS = 病；1 代抗组胺的副作用抗胆碱 = 解。
+>
+> 止吐药 3 类（按受体）—— **病因在 D2 这一类**：
+>
+> | 类 | 药（词根）| 招牌坑 |
+> |---|---|---|
+> | 5-HT3 拮抗 | ondansetron / granisetron（**-setron**）| **QT 延长** + 便秘 + 头痛 |
+> | **D2 拮抗** ⭐ | **prochlorperazine / metoclopramide** | **EPS + 高泌乳素**（D2 阻断 = 抗精神病药机制）|
+> | NK1 拮抗 | aprepitant（NK1 = substance P 受体）| 疲乏 / GI |
+>
+> - 止吐药里**只有 D2 那类惹 EPS** → prochlorperazine / metoclopramide + 头颈痉挛 = 秒锁 acute dystonia。
+> - metoclopramide 额外：促胃排空 → 治糖尿病胃轻瘫 / 顽固 GERD；长期用 → 迟发性运动障碍。
+>
+> H1 抗组胺药 1 代 vs 2 代 —— **解药 diphenhydramine 在 1 代**：
+>
+> | 代 | 药 | 进脑？ | 副作用 |
+> |---|---|---|---|
+> | **1 代** | **diphenhydramine** / dimenhydrinate / chlorpheniramine / doxylamine | 过 BBB | **困 + 抗胆碱（口干/尿潴留/视糊）+ 抗 α** |
+> | 2 代 | loratadine / cetirizine / fexofenadine（多 **-adine** 结尾）| 不太进脑 | 不困（纯抗敏）|
+>
+> - **diphenhydramine 治 dystonia 靠的不是抗组胺，是它那条"抗胆碱"副作用** —— 副作用反当治疗机制。
+> - 1 代高频用途：过敏 / 晕动病 / **孕吐（doxylamine + B6 一线）** / 安眠。
+>
+> > [!success] 一句话锁死（图1 + 图2）
+> > **D2 止吐药惹的祸（EPS），用 1 代抗组胺的抗胆碱副作用去解** —— 两张图盯"副作用栏"：一栏是因、一栏是解。
+> > 口诀："-setron 怕 QT；D2 止吐 = 半个抗精神病药、惹 EPS；一代抗组胺进脑又困又干，'干'就是抗胆碱、就是解药。"
+>
+> **4. 易混陷阱（普适对比）**
+>
+> | 疾病 | 机制 | 关键线索 | 神志 | 治疗 |
+> |---|---|---|---|---|
+> | **Acute dystonia** | DA 拮抗→ACh↑ | 数小时内头颈持续收缩 | 清醒 | 抗胆碱能 |
+> | Akathisia | 同上 | 主观坐立不安 | 清醒 | 减量/β-blocker/benztropine |
+> | Tardive dyskinesia | 长期 DA 阻断 | **数月-数年后**口面不自主运动 | 清醒 | 停药/VMAT2 抑制剂 |
+> | NMS | DA 阻断(重) | 高热+铅管样僵直+CK↑ | **改变** | 停药+dantrolene/bromocriptine |
+> | Serotonin syndrome | 5-HT 过多 | **下肢为主**clonus、反射亢进 | ±改变 | 停药+cyproheptadine |
+> | Hypocalcemic tetany | 低钙(外周) | paresthesia、Chvostek/Trousseau、有诱因 | 清醒 | 钙剂 |
+> | Angioedema | 组胺/缓激肽 | 舌"肿胀"、气道风险 | 清醒 | epinephrine |
+>
+> 两个高频区分：①起病时间（dystonia=小时 / tardive=数月-年）；②受累部位（dystonia=头颈 / serotonin syndrome=下肢clonus）。
+> **Haloperidol 是"反义词"陷阱**：同为 DA 拮抗剂，会加重 EPS，绝不能选来"治疗"。
+>
+> **5. 我为什么错（个性化）**
+> 选了 A (Calcium gluconate)。看到 "facial spasm + jaw clenching" 条件反射想成**低钙抽搐**，漏看 **prochlorperazine（致病药）+ 用药一小时后突发 + 神志清醒**。错因：没看清 stem 用药史 + 把中枢 DA/ACh 失衡和外周低钙 tetany 混淆。陷阱本质：通用词"muscle spasm"诱导往低钙想，钥匙藏在用药史里。
+>
+> **6. Memory Hook**
+> "止吐针打完一小时，脖子歪了舌头伸，人还清醒 → 不是缺钙，是 DA 被堵，赶紧上苯海拉明。"
+> 跷跷板：DA 一头被踹下 → ACh 一头翘起 → 肌肉"翘"成 dystonia；苯海拉明去 ACh 那头压一下恢复平衡。
+>
+> ---
+>
+> **7. 🤔 我的提问 / 卡点**
+> - 卡点（自评）：诊断方向能判断，但**这些治疗药的药名 + 作用机制太不熟** → 诊断对了也选不出治疗药。
+>   → 对策：背 §3「EPS / 运动障碍急救药速查」，把"药 ↔ 机制 ↔ 治什么"建成映射 —— 这类题答案永远在那 7 个药里。
+>
+> **8. 🔗 关联**
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q11898]] Akathisia 静坐不能（同 EPS：本题 dystonia / 那题 akathisia；haloperidol 在两题都是"加重 EPS"错答案）
+>   - [[mistakes/uworld-mistakes#^Q4885]] 二代抗精神病药代谢监测（同属抗精神病药副作用大家族：本题 EPS / 那题代谢监测）
+>   - [[mistakes/uworld-mistakes#^Q16115]] Clozapine 致癫痫（同家族：本题致 EPS / 那题致癫痫，对照"哪些药致什么"）
+>   - （等后续 EPS/运动障碍错题积累 → NMS、serotonin syndrome、tardive dyskinesia 题做到后回链此卡）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/Peixuan分科笔记/psych]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/消化补充内容]]（prochlorperazine/metoclopramide 作止吐药，化疗呕吐处理高频出 EPS）
+> - 🌱 TODO（待生成衍生）：等 neuro/psych 章节复习完，请 Claude Code 整合**药物诱导运动障碍类错题**（acute dystonia / akathisia / tardive dyskinesia / NMS / serotonin syndrome）→ 生成 [[完整笔记/专题笔记/_衍生_药物诱导运动障碍鉴别]]
+>
+> **9. ✅ 复盘行动**
+> - [ ] 1 周后重做 Q2505
+> - [ ] 默写机制轴 + 第 4 部分 7 行对比表（重点记起病时间 + 受累部位两列）
+> - [ ] **默写 §3「急救药速查」7 行（药→机制→治什么）—— 你的薄弱点，重点**
+> - [ ] 找 3 道类似题：metoclopramide-induced EPS / NMS vs serotonin syndrome / tardive dyskinesia 时间窗
+> - [ ] 读题习惯写进个人 SOP：先看"用了什么药"再看症状
+>
+> ---
+>
+> 学科:: 神经
+> 主题:: Acute dystonic reaction 急性肌张力障碍（DA 拮抗 → ACh 相对↑，抗胆碱能急救）/ EPS·运动障碍急救药速查（药↔机制↔治什么）/ "读题先看用药史" vs 低钙 tetany 陷阱
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-21] 精神 / 二代抗精神病药代谢监测 — Olanzapine vs Clozapine (Q4885)
+> ^Q4885
+>
+> **1. Stem 模式**
+> 患者起始 **olanzapine**（或任何二代抗精神病药 SGA）→ 问"**随访（如 3 个月）最重要的监测**"。基线 ECG/CBC/CMP/tox 正常、无心脏病史 → 排除其他常规检查，指向**代谢**。
+>
+> **2. 核心概念**
+> 二代抗精神病药 → **代谢综合征**（体重↑、血脂异常、高血糖/新发糖尿病）。**Olanzapine 与 Clozapine 代谢风险最高**。常规监测 = 空腹血糖+血脂、BMI、腰围、血压；时间点 **baseline → 3 个月 → 之后每年**（体重增>5% 或已糖尿病者更勤）。本题答案 = **Fasting glucose & lipids**。
+>
+> **3. 普适规则**
+>
+> ```
+>   SGA → 代谢综合征 (共性)
+>     最高风险二人组：Olanzapine + Clozapine
+>   ┌────────── 易混分叉 ──────────┐
+>   OLANZAPINE 招牌 = 代谢          CLOZAPINE 招牌 = 三大致命
+>   → 查 glucose/lipids            → ① Agranulocytosis 查 ANC/CBC(前6月每周)
+>                                    ② Seizure ③ Myocarditis
+> ```
+>
+> **「招牌副作用 → 该查什么」映射表（整类题通杀）：**
+>#难记
+>
+> | 药 | 招牌副作用 | 查什么 |
+> |---|---|---|
+> | Olanzapine | 代谢综合征 | 空腹血糖+血脂、BMI、腰围 |
+> | Clozapine | Agranulocytosis/Seizure/Myocarditis | **CBC/ANC** + 代谢 |
+> | Ziprasidone | **QT 延长** | **ECG** |
+> | Risperidone(及一代药) | **高泌乳素** | 泌乳/闭经/男乳 |
+> | Lithium | 肾性尿崩、甲减 | **BUN/Cr + 甲功** |
+> | 一代药(haloperidol) | EPS/NMS/迟发运动障碍 | 锥体外系体征 |
+>
+> **4. 易混陷阱（普适）**
+> - **Olanzapine ≠ Clozapine**：同类、同"-zapine"后缀、代谢风险都最高（共性），但**独有招牌不同** —— olanzapine 重代谢，clozapine 重"查血(agranulocytosis)+癫痫+心肌炎"。**olanzapine 不需要常规查 CBC**。
+> - 每个干扰项 = 另一个药的招牌：查肾/甲功→Lithium；查血→Clozapine；ECG/QT→Ziprasidone；泌乳素→Risperidone。
+>
+> **5. 我为什么错（个性化）**
+> 选了 B (CBC)。错因 = **概念混淆**：把 clozapine 的"查血(agranulocytosis)"招牌错记到 olanzapine 上（"两个 -zapine 长太像搞反了"）。本质陷阱：相似度极高的两药，相同点(代谢风险高)是共有的，区别藏在 clozapine 独有的"三大致命"里。
+>
+> **6. Memory Hook**
+> **"OLANzapine 让你 O-胖（代谢→查血糖血脂）；CLOZapine 要 CLOSE 监控血象（agranulocytosis→查 CBC）。"**
+> 共性：两兄弟代谢风险都最高；区别：clozapine 多背三条命（血/脑/心）。
+>
+> ---
+>
+> **7. 🤔 我的提问 / 卡点**
+> - "olanzapine 和 clozapine 长太像搞反了" → 学到：靠"独有招牌副作用"区分，而非靠药名相似；olanzapine=代谢监测，clozapine=查血(ANC)。
+>
+> **8. 🔗 关联**
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q2505]] 急性肌张力障碍（抗精神病/止吐药副作用大家族）
+>   - [[mistakes/uworld-mistakes#^Q16115]] Clozapine 致癫痫（同 clozapine，与本题代谢监测互补）
+>   - [[mistakes/uworld-mistakes#^Q11898]] Akathisia 静坐不能（抗精神病药副作用大家族 — EPS 治疗端）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/endocrine]]（SGA→新发糖尿病/代谢综合征）；[[完整笔记/Peixuan分科笔记/hematology oncology]]（clozapine→agranulocytosis 查 ANC）
+> - 🌱 TODO（待生成衍生）：psych 章节复习完，请 Claude Code 整合**抗精神病药副作用+监测类错题**（Q4885 代谢 / Q16115 致癫痫 / ziprasidone QT / risperidone 泌乳素 / lithium 肾甲功）→ 生成 [[完整笔记/专题笔记/_衍生_抗精神病药副作用对照]]（含"招牌副作用→该查什么"映射表）
+>
+> **9. ✅ 复盘行动**
+> - [ ] 1 周后重做 Q4885
+> - [ ] 默写「Olanzapine vs Clozapine 区分表」+「招牌副作用映射表」
+> - [ ] 默写记忆钩：O-胖（代谢）vs CLOSE-查血（agranulocytosis）
+> - [ ] 默写二代代谢监测时间点：baseline / 3月 / 每年
+> - [ ] 找 3 道类似题：clozapine ANC、ziprasidone QT、risperidone 泌乳素、lithium 监测
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/psych]] 加「薄弱点」（"哪个药查哪个"映射）
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: 二代抗精神病药代谢监测（Olanzapine 招牌=代谢→空腹血糖血脂）/ Olanzapine vs Clozapine 区分（共性代谢·独有招牌不同）/ "招牌副作用→该查什么"映射 / SGA 代谢监测时间点 baseline·3月·每年
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-21] 精神 / Clozapine 致癫痫风险最高 (Q16115)
+> ^Q16115
+>
+> **1. Stem 模式**
+> **Treatment-resistant schizophrenia/schizoaffective**（多次住院、住 group home、功能差）+ **新发 tonic-clonic seizure**（强直→阵挛→1-2 分钟恢复→咬舌）+ CT/血生化正常 → 反推患者在吃 **clozapine**，问"哪个药致此表现"。
+>
+> **2. 核心概念**
+> 抗精神病药普遍**降低癫痫阈值**，其中 **Clozapine 风险最高**（剂量依赖，任何剂量都可能；tonic-clonic 最常见）。Clozapine = 治疗抵抗最后一线药，三大严重副作用 = **Agranulocytosis + Seizure + Myocarditis**。
+>
+> **3. 普适规则**
+>
+> ```
+>   抗精神病药 → 降低癫痫阈值
+>            CLOZAPINE 最高（剂量依赖）
+>   Clozapine 三大致命套餐（打包记）：
+>     ① Agranulocytosis → 查 ANC/CBC(前6月每周)
+>     ② Seizure → 剂量依赖；高剂量可加抗惊厥预防
+>     ③ Myocarditis → 肌钙蛋白/EKG
+> ```
+>
+> **「降低癫痫阈值 / 致癫痫」高频药清单：**
+>
+> | 药 / 类别 | 备注 |
+> |---|---|
+> | **Clozapine** | 抗精神病药中**最高** ⭐ |
+> | **Bupropion** | 抗抑郁/戒烟；禁用于 eating disorder/癫痫史/戒酒/苯二氮卓 ⭐ |
+> | Tramadol / Meperidine | 阿片类（normeperidine 代谢物） |
+> | Imipenem | 碳青霉烯 |
+> | Fluoroquinolones | 喹诺酮（+NSAID 风险↑） |
+> | Isoniazid (INH) | 过量致癫痫，B6 解救 |
+> | Theophylline | 茶碱中毒 |
+> | BZD/酒精/巴比妥 突然戒断 | 戒断性癫痫 |
+>
+> **精神科致癫痫最爱考二人组 = Clozapine（抗精神病）+ Bupropion（抗抑郁）。**
+>
+> **4. 易混陷阱（普适）**
+> - 题目不直说"在吃 clozapine"，靠 **"treatment-resistant + group home + 多次住院"画像** 反推 → 没认出这套暗号就抓不住答案。
+> - 干扰项 = 各自招牌：Buspirone(GAD,无癫痫无依赖) / Carbamazepine(抗癫痫药,反向陷阱) / **Citalopram=QT 延长** / **Phenelzine(MAOI)=高血压危象+5-HT 综合征,忌口酪胺**。
+>
+> **5. 我为什么错（个性化）**
+> 选了 A (Buspirone)。错因 = **不知道考点**（没记住 clozapine=最高癫痫风险）+ **选项识别错误**（误以为 buspirone 这种"作用 5-HT 的精神科药"有中枢副作用，实际它很"干净"）。本质陷阱：靠"治疗抵抗画像"反推 clozapine。
+>
+> **6. Memory Hook**
+> **"住 group home、反复住院的'治疗抵抗'精神病人 + 新发癫痫 = 在吃 Clozapine。"**
+> Clozapine = 效果最强(治疗抵抗首选)但最毒：三大监测 **"血+脑+心"** = 粒缺(血)/癫痫(脑)/心肌炎(心)。
+> 致癫痫精神科口诀：**"氯氮平 + 安非他酮，专门降阈值"**(Clozapine+Bupropion)。
+> 反向钩：Carbamazepine 是来"治"癫痫的，绝不选。
+>
+> ---
+>
+> **7. 🤔 我的提问 / 卡点**
+> - "不知道哪个药会导致癫痫" → 学到：抗精神病药里 clozapine 致癫痫风险最高（剂量依赖）；精神科致癫痫二人组 = clozapine + bupropion；扩展记忆 INH/tramadol/imipenem/喹诺酮/茶碱/戒断。
+>
+> **8. 🔗 关联**
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q4885]] Olanzapine vs Clozapine 代谢监测（同 clozapine，"招牌副作用→查什么"互补）
+>   - [[mistakes/uworld-mistakes#^Q2505]] 急性肌张力障碍（抗精神病/止吐药副作用大家族，对照"哪些药致 EPS vs 致癫痫"）
+>   - [[mistakes/uworld-mistakes#^Q11898]] Akathisia 静坐不能（同 EPS 家族，治疗端：减量 + propranolol）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/neuro]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/hematology oncology]]（clozapine→agranulocytosis 查 ANC）
+> - 🌱 TODO（待生成衍生）：psych 章节复习完，请 Claude Code 整合 **抗精神病药副作用类错题**（Q16115 致癫痫 / Q4885 代谢监测 / clozapine 三大监测 / EPS / ziprasidone QT / risperidone 泌乳素）→ 生成 [[完整笔记/专题笔记/_衍生_抗精神病药副作用对照]]；另整合 **降低癫痫阈值药物** 错题 → 生成 [[完整笔记/专题笔记/_衍生_致癫痫药物清单]]
+>
+> **9. ✅ 复盘行动**
+> - [ ] 1 周后重做 Q16115
+> - [ ] 默写「致癫痫药物清单」+「Clozapine 三大监测(血/脑/心)」
+> - [ ] 默写口诀：精神科致癫痫 = Clozapine + Bupropion
+> - [ ] 找 3 道类似题：clozapine agranulocytosis(查 ANC)、bupropion 禁忌、citalopram QT
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/psych]] 加「薄弱点」（抗精神病药副作用谱）
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Clozapine 致癫痫风险最高（剂量依赖）/ Clozapine 三大致命监测（粒缺·癫痫·心肌炎 = 血脑心）/ 降低癫痫阈值高频药清单（精神科二人组 Clozapine+Bupropion）/ "治疗抵抗画像"反推 clozapine
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-21] 精神 / Akathisia 静坐不能 — EPS 治疗 (Q11898)
+> ^Q11898
+>
+> **1. Stem 模式**
+> 精神分裂换药（如换 risperidone）或加量后 → **坐立不能**（pacing、整天走动、无法静止、fidgets）+ **加量 target agitation 反而无效/更糟** + 精神病症状已好转、无幻觉、无局灶异常运动。问"下一步药物处理"。
+>
+> **2. 核心概念**
+> Akathisia = **最常见 EPS**，**剂量依赖（dose-dependent）**。处理三步：**①减量 ②换 EPS 风险更低的药 ③加 Propranolol(首选) / benztropine / 苯二氮卓**。本题答案 = **减量 + propranolol**。
+>
+> **3. 普适规则**
+>
+> ```
+>   换药/加量 → AKATHISIA（最常见 EPS，剂量依赖）
+>     加量 → 更糟（误当"激越"加量 = 火上浇油）← D/E 错因
+>   正确三步：
+>     ① ↓ Dosage（剂量依赖，根本措施）
+>     ② Switch → EPS 风险更低的药（绝不换更高的!）
+>     ③ 加药：Propranolol(首选) / Benztropine / BZD(垫底,精分长期用↑死亡率)
+> ```
+>
+> **四大 EPS 速查（重点背治疗列）：**
+>
+> | EPS | 起病时间 | 治疗 |
+> |---|---|---|
+> | Acute dystonia | 小时-天 | Benztropine / Diphenhydramine |
+> | **Akathisia** | 天-周 | **减量 + Propranolol(首选)** / benztropine / BZD |
+> | Parkinsonism | 周-月 | Benztropine / Amantadine |
+> | Tardive dyskinesia | **>6 月** | Valbenazine / Deutetrabenazine(VMAT2) |
+>
+> 起病时间是区分钥匙：小时→周→月→>6月。只有 akathisia 首选 propranolol。
+>
+> **4. 易混陷阱（普适）**
+> - **两个方向性原则易记反**：①剂量是"**减**"不是"加"（剂量依赖）；②换药换"**更低**EPS 风险"不是更高。
+> - **Akathisia 长得像精神病性激越** → 别条件反射"更躁=加药压制"，加量只会更糟。stem"加量无效"就是反推钥匙。
+> - **Haloperidol = EPS 风险最高**，治 EPS 时永远是错答案（同 Q2505）。BZD 在精分长期用↑死亡率，仅末位。
+>
+> **5. 我为什么错（个性化）**
+> 诊断对（判出 akathisia），错在治疗：选了 B(停药+haloperidol)。错因 = **后续处理记不清 + 选项识别错误**——没意识到 haloperidol 是 EPS 风险更高的药，换药方向选反。本质陷阱：换药要往"更低 EPS"换，绝不用 haloperidol 来"治" EPS。
+>
+> **6. Memory Hook**
+> **"Akathisia = 加量加出来的病：加量更糟 → 减量 + Propranolol；换药只能往'更温柔(低EPS)'换。"**
+> 类比：剂量=油门，越踩(加量)越冲 → 松油门(减量)才对。
+> **"A 配 P"**：**A**kathisia → **P**ropranolol（四大 EPS 里唯一用 β-blocker）。
+> 反向钩：Haloperidol 是 EPS"放大器"，治 EPS 永远错。
+>
+> ---
+>
+> **7. 🤔 我的提问 / 卡点**
+> - "诊断没问题但后续处理没记清" → 学到：akathisia 治疗两条方向性原则(减量 not 加量 / 换低EPS not 高EPS)；propranolol 是 akathisia 专属首选；haloperidol 治 EPS 永远是错答案。
+>
+> **8. 🔗 关联**
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q2505]] 急性肌张力障碍（同 EPS，治疗用 benztropine/diphenhydramine；haloperidol 在两题都是"加重 EPS"错答案）
+>   - [[mistakes/uworld-mistakes#^Q16115]] Clozapine 致癫痫（抗精神病药副作用大家族）
+>   - [[mistakes/uworld-mistakes#^Q4885]] Olanzapine vs Clozapine 代谢监测（抗精神病药副作用谱）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/neuro]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（propranolol 作 β-blocker，注意哮喘等禁忌）
+> - 🌱 TODO（待生成衍生）：psych 章节复习完，请 Claude Code 整合 **四大 EPS 诊断+治疗类错题**（Q2505 dystonia / Q11898 akathisia / +未来 parkinsonism、TD）→ 生成 [[完整笔记/专题笔记/_衍生_四大EPS诊断治疗对照]]（起病时间轴 + 治疗药物映射），与 [[完整笔记/专题笔记/_衍生_抗精神病药副作用对照]] 互补
+>
+> **9. ✅ 复盘行动**
+> - [ ] 1 周后重做 Q11898
+> - [ ] 默写「四大 EPS 速查(起病时间+治疗)」+「akathisia 三步」
+> - [ ] 默写记忆钩：akathisia=加量加出来的病 → 减量+Propranolol；A 配 P
+> - [ ] 重点纠正方向性原则：换药往低 EPS 换 / haloperidol 治 EPS 永远是错答案
+> - [ ] 找 3 道类似题：parkinsonism(amantadine)、TD(VMAT2)、dystonia
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/psych]] 加「薄弱点」（EPS 治疗端，非诊断端）
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Akathisia 静坐不能（最常见 EPS·剂量依赖）→ 减量 + Propranolol 首选 / 四大 EPS 起病时间轴 + 治疗映射 / 方向性原则（剂量减非加·换低 EPS 非高）/ akathisia 易误当精神病性激越
 > 状态:: 🟡
 > 错因:: 知识
 

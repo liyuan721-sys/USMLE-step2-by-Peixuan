@@ -50,10 +50,12 @@ type: 专题笔记
 > - **α1 阻断**：体位性低血压。
 > - **心脏毒性**：QT/QRS 延长 → **过量致命**（钠通道阻滞 → 宽 QRS 心律失常，治疗用 **碳酸氢钠 NaHCO₃**）。老年人跌倒、ECG 异常需警惕。
 
-> [!danger] MAOI 副作用 — 高血压危象与酪胺
-> - **酪胺诱发高血压危象（Tyramine-induced hypertensive crisis）**：进食富含 **tyramine（酪胺）** 的食物（陈年奶酪、腌制肉、红酒、发酵食品）→ 突发剧烈头痛、高血压。**必须严格饮食限制**。
-> - **5-HT 综合征**：与 SSRI/SNRI、tramadol、meperidine、linezolid 等合用 → 致命；换药间需 **washout（洗脱期，Fluoxetine 因半衰期长需 5 周）**。
-> - 体位性低血压、体重增加、性功能障碍。
+> [!danger] MAOI（代表药 Phenelzine）副作用 — 高血压危象与酪胺
+> **记住 Phenelzine = 最常考的 MAOI**（同类还有 tranylcypromine / isocarboxazid / selegiline）。名字记不住就**反着推**——见到"陈年奶酪 / 红酒诱发高血压"或"换药要等好几周（washout）"就反推 MAOI = phenelzine。
+> **一个机制串起全部**：MAOI 关掉单胺降解酶 MAO → NE / 5-HT / 酪胺**到处堆** → 两个招牌祸都是"堆出来的"：
+> - **① 酪胺 → 高血压危象（Tyramine-induced hypertensive crisis）**：富含 **tyramine** 的食物（陈年奶酪、腌制肉、红酒、发酵食品）→ 酪胺没被 MAO 降解 → 大量释放储存的 NE → 突发剧烈头痛 + 高血压。**必须严格忌口**。
+> - **② 5-HT 综合征**：与 SSRI/SNRI、tramadol、meperidine、linezolid 等其他 5-HT 能药合用 → 5-HT 堆积 → 致命；换药间需 **washout（洗脱期；Fluoxetine 半衰期长需 5 周）**。
+> - 其他：体位性低血压、体重增加、性功能障碍。
 
 > [!tip] Bupropion（NDRI）— 无 5-HT 副作用
 > - **无性功能障碍、无体重增加**（甚至体重下降）→ 适合在意性功能 / 体重的患者。
@@ -306,6 +308,7 @@ EPS (锥体外系反应)
 > - **agranulocytosis（粒缺）** → **Clozapine、Carbamazepine**（都要查 WBC）。
 > - **SJS/TEN** → **Lamotrigine、Carbamazepine**（缓慢滴定 / HLA-B*1502 筛查）。
 > - **高泌乳素血症** → **Risperidone**（SGA 之最）、高效价 FGA；想避开 → **Aripiprazole**。
+> - **高血压危象（吃酪胺食物诱发）/ 换药需长 washout** → **MAOI（Phenelzine）** —— 见"忌口陈年奶酪/红酒"或"换药等数周"反推它。
 > - **代谢负担最轻的 SGA** → Aripiprazole / Ziprasidone / Lurasidone。
 > - **副作用即适应症**：Mirtazapine（失眠+消瘦的老人）、Quetiapine 小剂量（镇静/安眠）。
 
