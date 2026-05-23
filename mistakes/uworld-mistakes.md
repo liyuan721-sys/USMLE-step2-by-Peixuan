@@ -16681,3 +16681,90 @@
 > 状态:: 🟡
 > 错因:: 知识
 
+> [!example]- [2026-05-23] psych / BED 药物选择 (Q16490)
+> ^Q16490
+>
+> ## Stem 模式
+> 超重女性主诉「想减肥」→ 但藏着反复暴食 + 失控感 + **无代偿行为（不催吐/不过度运动）** → 真正诊断是 **Binge Eating Disorder (BED, 暴食障碍)**。主诉是烟雾弹。
+>
+> ## 核心概念
+> BED 一线药 = **SSRI（sertraline / fluoxetine）**，机制是**减少暴食发作（binge episodes）**，不是减脂。Treat the disorder（行为），not the weight（体重）。
+>
+> ## 普适规则：进食障碍三兄弟用药
+>
+> ```
+>                     有反复暴食发作？
+>                           │
+>               ┌───────────┴───────────┐
+>              YES                      NO
+>               │                  (→ 不是这三个)
+>         有代偿行为？
+>    (催吐/泻药/禁食/过度运动)
+>               │
+>      ┌────────┴────────┐
+>     YES               NO
+>      │                 │
+>   Bulimia          ┌───┴──────────┐
+>  (BMI常正常)     体重↓?         体重正常/↑?
+>  一线Fluoxetine    │              │
+>                Anorexia       BED
+>            一线无药/Olanzapine  一线SSRI/Lisdex
+>            (CBT+营养为主)
+> ```
+>
+> | 障碍 | 关键鉴别 | 一线药 | 备选 | 禁用 |
+> |---|---|---|---|---|
+> | Anorexia | BMI<18.5 + 怕胖 + 体象扭曲 | 无药一线（CBT+营养） | **Olanzapine**（一线无效时） | — |
+> | Bulimia | 暴食 + **有代偿** + 体重常正常 | **Fluoxetine** | 其他SSRI | **Bupropion** |
+> | BED | 暴食 + **无代偿** + 常超重 | **SSRI(sertraline)** | **Lisdexamfetamine**、topiramate | — |
+>
+> **减肥药 vs BED 药——别混（核心）**
+>
+> | 药物 | 机制 | 适应症 | 治BED? |
+> |---|---|---|---|
+> | Orlistat | 脂肪酶抑制剂（拦肠道脂肪） | 肥胖 | ❌ |
+> | Phentermine | 拟交感食欲抑制 | 肥胖（短期，有心血管风险） | ❌ |
+> | Bupropion-naltrexone | 复方减肥 | 肥胖 | ❌（进食障碍慎用） |
+> | **Lisdexamfetamine** | 兴奋剂 | **ADHD + BED** | ✅（BED唯一批准兴奋剂） |
+> | **SSRI** | 抗抑郁 | 抑郁/焦虑/进食障碍 | ✅ |
+>
+> ## 易混陷阱（普适）
+> - **主诉 ≠ 治疗目标**：「想减肥的暴食病人」治的是暴食行为（SSRI），不是体重数字。减肥药一个都不治 BED。
+> - **Bupropion 在进食障碍中（尤其有 purging 风险）禁用** → 降癫痫阈值。看到「Bupropion + 任何进食障碍」立刻警铃。
+> - **Lisdexamfetamine 彩蛋**：BED 唯一 FDA 批准的兴奋剂；若同时合并 ADHD，它是一药双治首选。
+>
+> ## 我为什么错
+> 被「losing weight」主诉带跑，去找「能减肥的药」；且不认识 orlistat（脂肪酶抑制剂，拉油屎那个），靠猜选了它。真空区 = ①不熟 BED 一线 = SSRI；②不认识减肥药家族（orlistat/phentermine/bupropion-naltrexone）。
+>
+> ## Memory Hook
+> - 一句话锁定：**「暴食不吐 + 想减肥 → 别给减肥药，给 SSRI」**。BED 治的是「失控的嘴」（行为），不是「超标的秤」（体重）。
+> - 类比：Orlistat = **Oil-istat**「油-stat」→ 拦油拉油屎 → 纯减肥药，碰不到大脑。
+> - 口诀：**A 厌食 Olanzapine，B 贪食 Fluoxetine，BED 靠 SSRI / Lisdex；Bupropion 进食障碍永远禁。**
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 「不认识 orlistat」→ 学到：脂肪酶抑制剂，减肥药，副作用脂肪泻 + ADEK 吸收↓。
+> - 「不知道哪个药减肥」→ 学到：减肥药家族（orlistat/phentermine/bupropion-naltrexone）全不治 BED；治 BED 要靠 SSRI/Lisdex。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q2353]] AN + euthyroid sick（**同进食障碍家族用药**：那题显式给出"Fluoxetine = bulimia 一线 ≠ AN，AN 的 SSRI/olanzapine 都是二线辅助"，与本题 BED 一线 SSRI 互为三兄弟拼图）
+>   - [[mistakes/uworld-mistakes#^Q12541]] Alcohol Use Disorder 一线药（**同 Bupropion 禁忌**：那卡显式列"Bupropion 禁忌 = 癫痫 + 饮食障碍 bulimia/anorexia"，与本题 BED 用药表里"Bupropion 进食障碍永远禁"互证）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/endocrine]]（肥胖管理药物 orlistat/phentermine/GLP-1 在减重语境下对照）
+> - 🌱 TODO（待生成衍生）：等 psych 进食障碍 + 减重药错题积累到 3-4 道后，整合 → 生成 [[完整笔记/专题笔记/psych/_衍生_进食障碍药物对照]]（三障碍一线药 + 减肥药 vs BED 药鉴别 + Bupropion 禁忌）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q16490
+> - [ ] 盲写「进食障碍三兄弟用药表」+「减肥药 vs BED 药」对比表
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/psych]] 进食障碍章节加「薄弱点」
+> - [ ] 单独记忆 orlistat / phentermine / bupropion-naltrexone 三个减肥药机制 + 副作用（本次真空区）
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: BED 药物选择（一线 SSRI sertraline/fluoxetine；备选 Lisdexamfetamine 唯一 FDA 批准兴奋剂 + topiramate）/ 进食障碍三兄弟用药决策树（AN: 无药一线 CBT+营养 / 二线 Olanzapine；Bulimia: 一线 Fluoxetine；BED: 一线 SSRI / 备选 Lisdex）/ 减肥药 ≠ BED 药（orlistat/phentermine/bupropion-naltrexone 都不治 BED）/ Bupropion 进食障碍永远禁（癫痫阈值↓）/ 主诉是烟雾弹陷阱（「想减肥」掩盖暴食行为，治行为不治体重）
+> 状态:: 🟡
+> 错因:: 知识
+
