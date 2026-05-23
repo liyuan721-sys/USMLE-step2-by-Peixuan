@@ -16526,7 +16526,7 @@
 >   - [[mistakes/uworld-mistakes#^Q3380]] Selective Mutism（同 **儿科 psych + 跨场所差异** 套路 — SM 是"家里说话、外面不说"; 本题是"家里闹、外面不闹"; 反向但同框架）
 >   - [[mistakes/uworld-mistakes#^Q15047]] Reactive Attachment Disorder（同 **儿科 psych + 跨场所** 套路 + 发育里程碑/学校表现常被题干用来排 ASD / ADHD / 发育迟缓 / 铅中毒）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/儿科]] / [[完整笔记/Peixuan分科笔记/psych]]
-> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（ADHD 药物谱 — methylphenidate / amphetamine / atomoxetine / clonidine / guanfacine；与 [[mistakes/uworld-mistakes#^Q14554]] ADHD 药物精神病鉴别题同源）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（ADHD 药物谱 — methylphenidate / amphetamine / atomoxetine / clonidine / guanfacine；与 [[mistakes/uworld-mistakes#^Q11967]] ADHD 药物精神病鉴别题同源）
 > - 🌱 TODO（待生成衍生）：等儿科 + psych 章节复习完，请 Claude Code 整合「儿童行为问题决策树（ADHD / PMT / ODD / CD / RAD / DSED / SM）+ 跨场所标准 + ADHD 药物谱（兴奋剂 / atomoxetine / α2 激动剂）」→ 生成 [[完整笔记/专题笔记/儿科/_衍生_儿童行为问题决策树与跨场所差异]]
 >
 > ## ✅ 复盘行动
@@ -16542,4 +16542,78 @@
 > 主题:: Parent Management Training (PMT) 适应症（行为问题局限单一场所 + self-help 尝试无效）/ ADHD 跨场所诊断硬门槛（school + home + office 多场所才考虑；仅家中 → 排除 ADHD）/ PMT A-B-C 三段框架（Antecedents 沟通 / Behaviors 演练 / Consequences 后果）+ 每段"用 / 避"双栏 / ADHD 药物三档（兴奋剂 methylphenidate-amphetamine → atomoxetine → α2 激动剂 clonidine-guanfacine）/ < 6 岁 ADHD 首选行为干预 / 反向钩：题干给"school 报告 + 诊室表现 + 多 setting 评估" = 替你做跨场所判断
 > 状态:: 🟢
 > 错因:: ✅ 做对（知识入库）
+
+## 2026-05-23
+
+> [!example]- [2026-05-23] psych / ADHD 用药决策（成人 + 物质滥用史/拒成瘾药 → Atomoxetine）(Q14348)
+> ^Q14348
+>
+> ## Stem 模式
+> 成人 ADHD（症状自幼持续）+ **物质滥用史 / 明确表态"不想用会成瘾的药"** → 选最合适的下一步用药。
+>
+> ## 核心概念
+> 成人 ADHD 一线 = stimulant（最有效）；但**有 substance use disorder 史或拒绝成瘾药** → 首选非成瘾的 **Atomoxetine（选择性 NRI）**。
+>
+> ## 普适规则（ADHD 用药决策树）
+>
+> ```
+> ADHD 确诊
+>     │
+> 能用 stimulant？──Yes──► Methylphenidate / Amphetamine（一线，最有效）
+>     │No（物质滥用史 / 拒绝成瘾药 / 心血管禁忌）
+>     ▼
+> 选 nonstimulant ——分人群——
+>     ├─ 成人 ────────────► Atomoxetine（NRI，唯一成人有充分循证）
+>     └─ 儿童/青少年 ─────► Clonidine / Guanfacine（α2-agonist）
+>                            ↑ 合并 tics / 失眠 时尤其首选（镇静→助眠，不诱发 tics）
+> ```
+>
+> | 药物 | 类别 | 机制 | 成瘾 | 成人 | 儿童 |
+> |---|---|---|---|---|---|
+> | Methylphenidate / Amphetamine | Stimulant | DA/NE 再摄取阻断 | 有 | 一线 | 一线 |
+> | **Atomoxetine** | Nonstim | 选择性 **NRI** | **无** | **首选** | 可用 |
+> | Clonidine / Guanfacine | Nonstim | **α2-agonist** | 无 | 数据有限 | **常用**（tics/失眠加分） |
+> | Modafinil | 促醒（管制） | DA transporter↓ | 低但有 | off-label | — |
+>
+> ## 易混陷阱（普适）
+> - 「都是 nonstimulant」≠「都能用于成人」：**成人 nonstimulant = Atomoxetine；clonidine/guanfacine 是儿童领域**。
+> - 「最有效」陷阱：stimulant 最有效，但物质滥用史 / 拒绝成瘾药时不是「最合适」。
+> - Modafinil 看似温和，仍是 **scheduled substance**，照样违背"不想成瘾"诉求。
+> - 同一个「α2-agonist 镇静」特性：成人题=要避开（证据不足），儿童合并失眠/tics 题=正中下怀。
+>
+> ## 我为什么错
+> 选了 B（Clonidine）。已知要避开 stimulant 选 nonstimulant，但**没掌握 atomoxetine（成人）vs clonidine（儿童）的人群区别**，凭熟悉度误选 clonidine。核心：卡在 nonstimulant 内部的第二层筛选。
+>
+> ## Memory Hook
+> 「**成人怕成瘾，给 ato；小孩 α2，clonidine 哄睡。**」
+> - Atomoxetine → 谐音"阿托默克"，安静不上瘾的成人款。
+> - Clonidine/Guanfacine（α2）= 镇静 → 哄小孩睡 → 记住是儿童 + 合并失眠/抽动时用。
+> - 反向记忆：clonidine 出现在**成人** ADHD 选项 → 警惕是干扰项。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q：不知道 A（Atomoxetine）vs B（Clonidine）的区别和适用范围？
+>   → 学到：两者都是 nonstimulant，但**机制不同（NRI vs α2-agonist）、人群不同（成人 vs 儿童）**。成人首选 atomoxetine；clonidine/guanfacine 主战场是儿童，合并 tics/失眠时加分。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q107408]] 儿科 PMT vs ADHD 跨场所标准（同 **ADHD 药物谱**框架；本题成人 nonstimulant 选 atomoxetine，Q107408 给出儿科药物三档 — 互为成人/儿童对照）
+>   - [[mistakes/uworld-mistakes#^Q11967]] 青少年急性精神病 → SLE（同 **ADHD 药物 amphetamine** 出现在题干 — 那题是排除药物归因，本题是替换药物为非成瘾选项）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/儿科]]（clonidine/guanfacine 儿童 ADHD 应用，与成人对比）
+> - 🌱 TODO（待生成衍生）：等精神科 / 药理章节复习完，请 Claude Code 整合「ADHD 用药决策（stimulant vs nonstimulant、成人 vs 儿童、物质滥用史特殊情况）」类错题 → 生成 [[完整笔记/专题笔记/psych/_衍生_ADHD用药决策树]]（与 [[完整笔记/专题笔记/儿科/_衍生_儿童行为问题决策树与跨场所差异]] 的 ADHD 药物谱部分互链）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q14348
+> - [ ] 默写 ADHD 用药决策树 + Atomoxetine vs Clonidine 三行对照（机制 / 人群 / 适用）
+> - [ ] 找 3 道类似题（物质滥用史选药、儿童 vs 成人精神科用药）
+> - [ ] 复习完精神科后给 [[完整笔记/Peixuan分科笔记/psych]] 加 ADHD 药物对比表
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: ADHD 用药决策（成人 + 物质滥用史/拒成瘾药 → Atomoxetine 首选）/ Stimulant vs Nonstimulant 一二线 / Nonstimulant 内部成人(Atomoxetine NRI) vs 儿童(Clonidine/Guanfacine α2-agonist) 人群分层 / α2-agonist 镇静特性 = 儿科合并 tics/失眠加分 / Modafinil 仍是 scheduled substance 不满足"非成瘾"诉求
+> 状态:: 🟡
+> 错因:: 知识
 
