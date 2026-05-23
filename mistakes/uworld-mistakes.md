@@ -16299,3 +16299,88 @@
 > 状态:: 🟢
 > 错因:: ✅ 做对（知识入库）
 
+> [!example]- [2026-05-22] 神经 / PD psychosis 管理 + 多巴胺能用药 (Q16164)
+> ^Q16164
+>
+> ## 1. Stem 模式
+> PD 患者 + **新发视幻觉**（看到 bushes 里有人）+ **神志清醒/定向正常/保留洞察**（"我很担心，从没这样过"）+ **生命体征正常** + **运动症状轻**（mild tremor, minimal rigidity）→ 问 next step。
+>
+> ## 2. 核心概念
+> **PD psychosis** 是治疗的副产物 / 疾病进展（多巴胺过度激动中脑边缘 D2 → 视幻觉为主，影响达 40% 患者）。排除 infection/delirium/dementia 后，第一步是**减触发药到运动症状可耐受的最低剂量**（治本），而非加药或上抗精神病药。运动症状轻 = 有减药余地。
+>
+> Answer：**E. Reduce carbidopa-levodopa**
+>
+> ## 3. 普适规则
+> ```
+> PD psychosis 5 步管理流程
+> ═══════════════════════════
+> 1. 排除 infection / delirium / dementia（有 → 先治）
+> 2. 症状轻微？→ 仅监测 (monitor)
+> 3. 减/停【非 PD 精神活性药】(镇静、抗焦虑、TCA、抗胆碱能)
+> 4. 减【PD 药】，从效力最低的开始逐渐减  ← 本题在此
+> 5. 难治 → 上【低/零 D2 抗精神病药】
+> ```
+> ```
+> PD 用药双刃剑（一根轴看懂所有 PD 用药题）
+> ═══════════════════════════
+> 多巴胺 ↑ (levodopa, pramipexole) → 救运动，但诱发 psychosis / 冲动控制障碍
+> 多巴胺 ↓ (metoclopramide, haloperidol) → 抗幻觉/止吐，但恶化 parkinsonism
+> ```
+> **两味本题陌生药（核心补全）：**
+> - **Pramipexole**（普拉克索）= 多巴胺激动剂(DA)，激动 D2/D3。**最易诱发 psychosis** 的抗帕金森药 → 选项 B 火上浇油。三大标志副作用：① 冲动控制障碍(赌博/购物/性欲亢进) ② psychosis/幻觉 ③ 突发睡眠发作。词根 **prami-/ropi-/roti-** = DA 家族(Pramipexole/Ropinirole/Rotigotine)。
+> - **Pimavanserin**（匹莫范色林）= **纯 5-HT2A 反向激动剂，零 D2**。FDA 唯一专批 PD psychosis 的药，绕开 D2 → 抗幻觉不恶化运动。流程图第 5 步登场（本题未到此步）。
+>
+> **PD 可用抗精神病药（D2 拮抗越弱越安全）：**
+>
+> | 药物 | D2 | PD |
+> |---|---|---|
+> | Pimavanserin | 零(纯 5-HT2A) | ✅ 首选 |
+> | Quetiapine | 极弱 | ✅ |
+> | Clozapine | 弱 | ✅(查血象) |
+> | Risperidone | 中高 | ❌ |
+> | Haloperidol | 强 | ❌ 禁用 |
+>
+> ## 4. 易混陷阱（普适）
+> - **"幻觉就上抗精神病药"的惯性** → PD 里反向，先减触发药；要上药也只能上**低/零 D2**（pimavanserin/quetiapine），强 D2(haloperidol/risperidone)会让 PD 病人瘫。
+> - **"PD 出问题 = 运动症状不足 = 加抗帕金森药"的惯性** → 要先分清这次是运动问题还是精神问题。
+> - **减药要减"最可能的元凶"**：SSRI(sertraline)抗胆碱能活性低、非元凶，减它收益极小；真凶是多巴胺能药。
+> - **Metoclopramide 埋雷**：止吐场景考 D2 拮抗 → 恶化 PD。PD 止吐用 ondansetron。
+>
+> ## 5. 我为什么错（个性化）
+> 不认识 pramipexole 是什么药，瞎选 B。**纯知识缺口**（不知 pramipexole=DA / 不知 pimavanserin），非逻辑错误。补齐两味药 + 双刃剑逻辑后此题彻底通。
+>
+> ## 6. Memory Hook
+> **"PD 看见鬼，先减药别加药。"** 帕金森半夜看到 bushes 里有人 → 第一反应是把多巴胺能药往下减，而非上药。
+> 类比：多巴胺能药 = **油门**，运动症状已够用(车在跑) → 松油门即可，再猛踩(加 pramipexole)就撞墙(psychosis)。
+> 抗精神病药选择口诀：**PD 用药躲着 D2 走**。
+>
+> ---
+>
+> ## 7. 🤔 我的提问 / 卡点
+> - "不知道 pramipexole 是什么药" → 学到：DA 多巴胺激动剂，prami/ropi/roti 词根，最易诱发 psychosis + 冲动控制障碍。
+> - "Pimavanserin 什么药" → 学到：纯 5-HT2A 反向激动剂、零 D2、FDA 唯一专批 PD psychosis 药，绕开 D2 抗幻觉不伤运动。
+> - 自测延伸：DA → 冲动控制障碍(赌博)；metoclopramide → D2 拮抗恶化 PD。
+>
+> ## 8. 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Park1-2026-05-22]] DIP 处理（镜像同源 — 本卡多巴胺过多致 psychosis 需减 levodopa；那卡 D2 阻断致 parkinsonism 禁 levodopa；同一根"多巴胺双刃剑"两端）
+>   - [[mistakes/uworld-mistakes#^Park2-2026-05-22]] IPD vs DIP 鉴别（本卡是 IPD 治疗副产物 psychosis）
+>   - [[mistakes/uworld-mistakes#^Q2518]] Tardive Dyskinesia 处理（同 D2 通路 / 抗精神病药 EPS 家族）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/Peixuan分科笔记/psych]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（抗精神病药 D2 拮抗强度谱、EPS 风险——与本题同源）
+> - 🌱 TODO（待生成衍生）：等神经科 + 精神科复习完后，请 Claude Code 整合「PD psychosis 管理 / 抗精神病药 D2 谱 / 药源性运动障碍(含 metoclopramide、抗精神病药 EPS) / 多巴胺能药双刃剑」类错题 → 生成 [[完整笔记/专题笔记/神经/_衍生_多巴胺受体药物双刃剑]]
+>
+> ## 9. ✅ 复盘行动
+> - [ ] 1 周后盲做此题（测"减药 vs 加药"反向逻辑）
+> - [ ] 默写 PD psychosis 5 步流程 + PD 可用/禁用抗精神病药表
+> - [ ] 默写多巴胺双刃剑一根轴（↑psychosis/ICD vs ↓parkinsonism）
+> - [ ] 找 3 道类似题：DA 冲动控制障碍、metoclopramide EPS、PD psychosis 流程
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/neuro]] 加「薄弱点」（PD 非运动并发症 + 用药）
+>
+> ---
+>
+> 学科:: 神经
+> 主题:: PD psychosis 管理 5 步流程（排除 infection/delirium/dementia → 监测 → 减非 PD 精神活性药 → 减 PD 药 → 难治用低/零 D2 抗精神病药）/ 多巴胺能药双刃剑（↑psychosis/ICD vs ↓parkinsonism）/ Pramipexole = DA 激动剂最易诱发 psychosis / Pimavanserin = 纯 5-HT2A 零 D2 FDA 唯一专批 PD psychosis / PD 用药躲着 D2 走
+> 状态:: 🟡
+> 错因:: 知识
+
