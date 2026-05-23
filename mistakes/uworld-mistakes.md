@@ -16138,3 +16138,164 @@
 > 状态:: 🟡
 > 错因:: 知识
 
+> [!example]- [2026-05-22] 精神 / Conversion vs Somatic symptom disorder (Q3719)
+> ^Q3719
+>
+> **Stem 模式**
+> - 急性单侧肢体瘫 / 失明 / 抽搐 + 神经查体**内部矛盾**（能站起来 / 步态正常，却躺着抬不起腿）+ 紧跟**心理应激**（亲人骤逝 / 重大冲突）
+> - 病人很焦虑「something is wrong」← 诱选 Somatic 的钩子
+>
+> **核心概念**
+> - **Conversion disorder（功能性神经症状障碍）**：真实神经功能缺失，但与已知神经解剖学**相矛盾**；急性，常紧跟应激；非故意、非伪装。
+> - 灵魂 = 看「症状本身讲不讲得通」。
+>
+> **普适规则：somatoform 一家人决策树**
+> ```
+>            症状怎么来的?
+>            │
+>    ┌───────┼───────────┐
+>  无意识     故意装/造      (真病)
+>  (真不舒服)  │
+>    │      ┌─┴──┐
+>    │    图当病人 图外部好处
+>    │    Factitious Malingering
+>    │
+>  ┌─┴─────────────────┐
+>  神经症状 vs 解剖     只是过度焦虑
+>  矛盾                │
+>  =Conversion    ┌────┴────┐
+>  (急性+应激)   担心已有症状  担心会得病
+>               =Somatic    =Illness anxiety
+>               (慢性≥6月)   (旧称疑病)
+> ```
+>
+> **A vs F 三铆钉**
+>
+> | 维度 | Conversion (A) | Somatic (F) |
+> |---|---|---|
+> | 症状性质 | 神经缺失 + 解剖**矛盾** | 真实躯体症状，核心是过度焦虑 |
+> | 时间 | **急性**，紧跟应激 | **≥6 个月**慢性 |
+> | 关注点 | 症状本身（讲不通） | 对症状的焦虑反应 |
+> | 焦虑 | 可有可无（甚至冷漠 la belle indifférence）| **过度、不成比例** |
+>
+> **易混陷阱（普适）**
+> - ❌ 「病人很 worried」≠ Somatic。要看焦虑是**对急性事件的合理 / 成比例反应**（→ Conversion），还是**慢性、不成比例**（→ Somatic）。
+> - ❌ **la belle indifférence**（漠然）**不是 Conversion 可靠指标** —— 在真假神经病中出现频率相同。
+> - ❌ 神经查体「内部矛盾」（同一肢体某些动作能做、某些不能）= **functional 指纹**，不是装病（装病要看外部动机才是 Malingering）。
+> - ❌ **Factitious vs Malingering 区分**：内部动机（图扮演病人 / sick role）= Factitious；外部好处（钱 / 假 / 逃避起诉 / 麻醉药）= Malingering。
+>
+> **我为什么错（个性化）**
+> - 做对了，但纠结 A vs F。卡点：没把「矛盾点在哪」当成第一刀 —— A 看症状本身讲不讲得通，F 看对症状的态度。被「worried」钩向 F。
+>
+> **Memory Hook**
+> - Con**version** = 身体把心理压力**转换 (convert)** 成神经症状 → 急性、讲不通、有应激。
+> - So**matic** = **so much** worry → 慢性 ≥6 月、想太多。
+> - **Factitious = "fake for fame"**（扮病人）/ **Malingering = "fake for money"**（图实利）。
+> - **第一刀决策**：症状本身**讲得通 / 讲不通**？讲不通 → Conversion；讲得通但太焦虑 → Somatic。
+>
+> ---
+>
+> **🤔 我的卡点（学习路径）**
+> - Q：分不清 A 和 F？
+>   → 学到：第一刀切「症状 vs 解剖是否矛盾」，再切「急性 vs 慢性 ≥6 月」「关注症状本身 vs 关注焦虑反应」。
+> - Q：焦虑高是不是就选 Somatic？
+>   → 学到：焦虑「成比例 vs 不成比例 + 慢性」才是 F 的标志，单纯 worried 不算。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q2552]] Pseudocyesis 假孕（**同 somatoform 家族** — 假孕本质也是 somatization；OB 表现 + psych 本质）
+>   - （等后续 Factitious / Malingering / Illness anxiety / Conversion 错题积累后横向连）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（Conversion 表现为神经症状 —— 「真神经病 vs 功能性」鉴别 = 神经查体内部矛盾 + 解剖学不符）/ [[完整笔记/Peixuan分科笔记/OB]]（Pseudocyesis 是 somatization 在妇产领域的体现）
+> - 🌱 TODO（待生成衍生）：等 psych 章节复习完，请 Claude Code 整合 somatoform 一家人错题（Conversion / Somatic / Illness anxiety / Factitious / Malingering + Pseudocyesis）→ 生成 [[完整笔记/专题笔记/psych/_衍生_Somatoform五兄弟鉴别]]（含决策树 + 5 维对比表 + 陷阱清单 + Pseudocyesis 入列第六兄弟）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q3719
+> - [ ] 默写 somatoform 一家人决策树（凭记忆画 ASCII）
+> - [ ] 默写 A vs F **三铆钉**（症状性质 / 时间 / 焦虑成比例否）
+> - [ ] 默写 **Factitious vs Malingering**（内部动机 vs 外部好处）
+> - [ ] 找 3 道 somatoform 鉴别题（重点练 Conversion vs Somatic、Factitious vs Malingering）
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Conversion disorder（神经症状 + 解剖学矛盾 + 急性 + 应激 + 非故意）vs Somatic symptom disorder（≥6 月慢性 + 对症状过度焦虑）/ Somatoform 一家人决策树（无意识 vs 故意；解剖矛盾 vs 过度焦虑；担心症状 vs 担心生病）/ "症状本身讲不讲得通"是第一刀 / Factitious(扮病人) vs Malingering(图实利) 鉴别
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-22] 儿科 / Psych — Reactive Attachment Disorder (RAD) 反应性依恋障碍 (Q15047) ✅做对
+> ^Q15047
+>
+> ## 1. Stem 模式
+> 幼儿（**<5 岁**，本例 4 岁）+ **早期 insufficient care 史**（neglect / abuse / 多次寄养转换 / 父母 SUD 后被领养）+ **情感退缩**：不与同伴互动、独处、说话少、躲房间、藏食物 / 玩具、**不喜被拥抱、对安抚无反应**（"nothing comforts her"）+ 表情淡漠、眼神接触少 + **发育里程碑正常**（系鞋带、画三角、写名字、走楼梯）+ 查体正常。
+>
+> ## 2. 核心概念
+> **Reactive Attachment Disorder (RAD)** = 5 岁前 **insufficient care 史**导致依恋关系破坏 → 表现为**情感与社交退缩** + **不寻求或不响应安抚** + 持续负性情绪。
+> 与 **DSED**（Disinhibited Social Engagement Disorder）是**同源（早期 neglect）镜像表型**：RAD = 情感退缩 / 不亲近；DSED = **过度亲近陌生人** / 无边界。
+>
+> ## 3. 普适规则：RAD 诊断要点 + 五选鉴别
+>
+> **RAD 四大核心特征**（DSM-5）：
+>
+> 1. **Insufficient care 史**（neglect / abuse / 多次更换照护者 — 必备）
+> 2. **持续情感与社交退缩**（很少寻求 / 响应安抚）
+> 3. **持续负性情绪**（unexplained irritability / fear / sadness 在安全环境中）
+> 4. **5 岁前**起病 + 排除 ASD
+>
+> **本题五选项一次过鉴别表**：
+>
+> | 选项 | 鉴别要点 | 为什么不是 |
+> |---|---|---|
+> | **RAD** ✅ | neglect 史 + 情感退缩 + 不响应安抚 + <5 岁 + 发育正常 | 全部命中 |
+> | Adjustment disorder | 应激源后情绪 / 行为反应，常伴焦虑 / 抑郁 / 品行问题；通常**症状不够其他诊断**时才用 | 跨场所（学校 + 家）退缩 + 对安抚无反应 = 非典型 adjustment；优先 RAD |
+> | Autism spectrum disorder (ASD) | **限制性兴趣** + **刻板动作** + **语言障碍** + 跨场所发病 | 本例**与医生有眼神接触 + 言语 + 互动**；无刻板 / 语言异常 |
+> | Disinhibited Social Engagement Disorder (DSED) | 同源 neglect → **过度亲近陌生人**（无边界、爬陌生人腿、跟陌生人走）| 本例反向（**退缩**而非过度亲近）|
+> | PTSD | **侵入性再体验**（噩梦 / 闪回）+ **回避创伤提示物** + **过度警觉**（易激 / 惊跳 / 攻击）| 本例无再体验 / 无针对性回避 / 无过度警觉；是泛化退缩 |
+>
+> ## 4. 易混陷阱（普适）
+> - **RAD vs DSED 是镜像兄弟**：同源 = 早期 neglect / 多次寄养；表型相反 —— RAD **躲**、DSED **黏**。看 stem 第一步：「这孩子见陌生人是 **退缩** 还是 **过度亲近**？」
+> - **RAD vs ASD**：RAD 患儿**能**互动（只是情感退缩），ASD 患儿**不能**互动（核心是社交沟通能力缺失）。题干给「与医生有眼神接触 / 简短回应 / 玩玩具」= 排除 ASD。
+> - **RAD vs Adjustment disorder**：adjustment 是「**够不上其他诊断**」的兜底。一旦满足 RAD（neglect 史 + 退缩 + 不响应安抚）→ 优先 RAD。
+> - **RAD vs PTSD**：PTSD 要有**针对性**回避（避开创伤提示物）+ 再体验 + 过度警觉。RAD 是**泛化**情感退缩，**对任何人**都不寻求安抚。
+> - **发育里程碑正常**（系鞋带 / 画三角 / 写名字）= 出题人在排 ASD / 智力障碍 / 发育迟缓。是**排除线索**，不是干扰。
+>
+> ## 5. 我为什么对（这次抓对了什么）
+> - 选了：**E. Reactive attachment disorder** ✅
+> - 抓对的关键线索：① **6 个月前从 foster care 被领养 + 父母 SUD 史** = neglect 背景明确 ② **不喜被抱 + 无安抚反应**（"nothing comforts her"）= RAD 招牌 ③ **发育正常 + 能与医生互动**（排除 ASD）④ 跨场所退缩（学校 + 家）。
+> - 仍需巩固：① RAD vs DSED 镜像（早期 neglect 同源、表型相反）② RAD vs PTSD（泛化退缩 vs 针对性回避 + 再体验）③ 治疗 = **稳定 / 响应性养育环境** + 心理服务（不是药物一线）。
+>
+> ## 6. Memory Hook
+> - 一句话锁定：**"早期 neglect + 不要安抚 + 跨场所退缩 + <5 岁 + 发育正常 = RAD"**
+> - **RAD ↔ DSED 镜像口诀**：「**RAD 躲、DSED 黏**」—— 早期 neglect 两种相反表型，一个怕亲近、一个见谁亲谁
+> - **RAD vs ASD 钩**：RAD **会**互动但**冷漠**；ASD **不会**互动（语言 / 刻板 / 限制兴趣）—— stem 给眼神接触 / 言语 = 排 ASD
+> - **治疗 ≠ 吃药**：RAD 一线 = **稳定 + 响应性养育环境**（safe / stable / enriching）+ 心理服务；不是 SSRI / 抗精神病药
+> - 反向钩：发育里程碑正常 = 题干替你排 ASD / 发育迟缓（同 Q3380 选择性缄默套路）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> （本题做对，无主动提问）核心收获：① 把 RAD / DSED / ASD / PTSD / Adjustment 在「早期 neglect 五兄弟」框架下定位 ② 早期 neglect → RAD（退缩）or DSED（过度亲近）镜像分叉。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q3380]] Selective Mutism 选择性缄默（同**儿科精神 + 早期社交退缩**家族 — UWorld RAD 鉴别表里也列 selective mutism；但 SM 在家正常说话、RAD 跨场所退缩 + neglect 史）
+>   - [[mistakes/uworld-mistakes#^Q3382]] Adjustment Disorder vs MDD（同**adjustment 兜底**逻辑 — 满足更特异诊断时不诊断 adjustment）
+>   - [[mistakes/uworld-mistakes#^Q21259]] Adjustment Disorder vs MDD 时间线（同抑郁谱系决策链，与 RAD 镜像：那题 adjustment 是"够不上 MDD"的兜底；本题 RAD 是"够上更特异"覆盖 adjustment）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/儿科]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/儿科]]（发育里程碑用于排除发育迟缓 / ASD；foster care / 童年逆境与精神病理的关联）/ [[完整笔记/Peixuan分科笔记/ethics]]（child welfare / 监护权 / mandatory reporting 与 neglect 病史相关）
+> - 🌱 TODO（待生成衍生）：等 psych 儿童章节 + 上述 selective mutism / DSED / ASD / PTSD 错题积累后，请 Claude Code 整合「儿童早期社交-依恋谱系」→ 生成 [[完整笔记/专题笔记/psych/_衍生_儿童早期社交依恋谱系鉴别]]（RAD / DSED / Selective mutism / ASD / Adjustment / PTSD 六兄弟决策树 + 早期 neglect → RAD/DSED 镜像分叉 + 发育里程碑排除框架）
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 RAD 四大核心特征（neglect 史 + 退缩 + 负性情绪 + <5 岁）
+> - [ ] 默写 **RAD vs DSED 镜像**（同源 neglect，表型相反：躲 vs 黏）
+> - [ ] 默写 §3 五选项鉴别表（尤其 vs ASD「能不能互动」/ vs PTSD「泛化 vs 针对性」）
+> - [ ] 默写治疗 = 稳定 / 响应性养育环境 + 心理服务（非药物）
+> - [ ] 找 3 道类似题：① DSED（过度亲近陌生人）② ASD（语言 + 刻板）③ Selective mutism vs RAD
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Reactive Attachment Disorder (RAD) 诊断（早期 insufficient care + 情感退缩 + 不响应安抚 + 跨场所 + <5 岁 + 发育正常）/ RAD vs DSED 镜像（同源 neglect，表型相反 — 躲 vs 黏）/ vs ASD（能互动 vs 不能）/ vs PTSD（泛化退缩 vs 针对性回避）/ 治疗 = 稳定响应性养育环境 + 心理服务，非药物
+> 状态:: 🟢
+> 错因:: ✅ 做对（知识入库）
+
