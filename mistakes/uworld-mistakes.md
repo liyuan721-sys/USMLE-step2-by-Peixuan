@@ -16768,3 +16768,93 @@
 > 状态:: 🟡
 > 错因:: 知识
 
+> [!example]- [2026-05-23] psych / 儿童 OCD 管理 (Q8923)
+> ^Q8923
+>
+> ## Stem 模式
+> 青少年「学校行为问题 + fidgety + 注意力差」（伪装成 ADHD）→ 但核心是反复重写作业直到字「**just right**」、耗时 3-4 hr/晚、怕「字写不好爸爸丢工作」（强迫行为与所怕事**无现实关联**）→ 真正诊断 **OCD（强迫症）**。
+>
+> ## 核心概念
+> 儿童 OCD 一线 = **SSRI（fluoxetine / fluvoxamine / sertraline）和/或 CBT-ERP**。本题心理治疗选项只给了错误类型（psychodynamic），故正确答案落在药物 **fluoxetine**。
+>
+> ## 普适规则：OCD 强迫循环 + 治疗如何打断
+>
+> ```
+>     侵入性强迫思维 (Obsession)
+>             │
+>             ▼
+>         焦虑↑↑↑
+>             │
+>             ▼
+>     强迫行为 (Compulsion) ──► 焦虑暂时↓(负强化)
+>             ▲                        │
+>             └────── 循环加固 ◄───────┘
+>
+>   打断点：
+>   SSRI → 降强迫思维强度/焦虑驱动力
+>   CBT-ERP → 暴露+不许做仪式 → 大脑学会"不做仪式焦虑也会自降"
+> ```
+>
+> ## 普适规则：心理治疗对号入座（高频混淆）
+>
+> | 心理治疗 | 主治 | 关键词 |
+> |---|---|---|
+> | **CBT-ERP** | **OCD** | 暴露+反应预防（唯一循证） |
+> | DBT | 边缘型人格障碍 | 情绪调节、自伤、人际不稳 |
+> | Psychodynamic | 领悟取向（部分抑郁/人格） | 潜意识冲突、童年、领悟 |
+> | 标准CBT | 抑郁/GAD/PTSD/惊恐 | 认知重构+行为激活 |
+> | Exposure therapy | 恐怖症/PTSD | 暴露于恐惧刺激 |
+>
+> ## 普适规则：焦虑谱系药物对号入座
+>
+> | 药物 | 主治 | 备注 |
+> |---|---|---|
+> | **SSRI** | OCD/GAD/惊恐/PTSD/社交焦虑 | 焦虑谱系万金油一线 |
+> | **Buspirone** | **GAD（专属）** | 5-HT1A部分激动；不治OCD |
+> | **Clomipramine** | OCD 二线 | TCA，强5-HT再摄取抑制 |
+> | BZD | 急性焦虑短期 | 依赖风险，非OCD用药 |
+>
+> ## 易混陷阱（普适）
+> - **「OCD 要心理治疗」对，但≠随便哪种**：OCD 循证心理治疗**只有 CBT-ERP**；psychodynamic（挖潜意识）、DBT（治边缘人格）都无效。
+> - **fidgety/注意力差的孩子≠ADHD**：可能是焦虑/强迫继发，**兴奋剂会加重焦虑**，别急着给 methylphenidate。
+> - **Buspirone 只治 GAD**，OCD 伴焦虑≠GAD，buspirone 不沾边。
+>
+> ## 我为什么错
+> 选了 E（psychodynamic psychotherapy）。思路：「OCD 是心理问题 → 选个 psychotherapy」，看到 E 是心理治疗就选，**没分清治疗类型**（CBT-ERP vs psychodynamic）。错因 = 概念混淆 + 不知道 OCD 专属 CBT-ERP。
+>
+> ## Memory Hook
+> - 一句话锁定：**「OCD 只认两样：SSRI + CBT-ERP」**，其它心理治疗/焦虑药全是诱饵。
+> - 类比：强迫循环=「痒了就抓→越抓越痒」；**ERP=强忍不抓**，大脑发现不抓痒也会自消。Psychodynamic 在旁边分析「你为什么痒」——痒还在。
+> - 口诀：OCD 心理治疗 = **CBT-ERP**（不是 DBT 给边缘人格，不是 Psychodynamic 挖潜意识）；**Buspirone 只 buy GAD 一种保险**。
+> - 反向记忆：看到「OCD + psychodynamic 选项」立刻划掉。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 「不知道 OCD 心理治疗是哪种」→ 学到：唯一循证 = CBT-ERP（Exposure + Response Prevention），psychodynamic/DBT 无效。
+> - 「fidgety 像 ADHD」→ 学到：焦虑/强迫可继发注意力问题，兴奋剂会加重焦虑，先辨原发病因。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q2496]] Panic Disorder 急性发作用药（**同焦虑谱系药物表**：那卡完整列出 OCD=SSRI 高剂量+ERP / 二线 Clomipramine、Buspirone=GAD 专属、SSRI 4-6 周起效不救急，与本题"OCD 只认 SSRI+CBT-ERP"互证 + 对照成人 vs 儿童剂量）
+>   - [[mistakes/uworld-mistakes#^Q16153]] 儿童 GAD vs Social Anxiety（**同焦虑题 SOP 决策树**：那题 OCD 是"单一靶点-侵入思维+ritual"末端节点，本题正好走到该末端 — 互补构成完整决策树）
+>   - [[mistakes/uworld-mistakes#^Q16490]] BED 药物选择（同今日 psych 系列、同"精神障碍选对药 + 排诱饵"逻辑：BED 排减肥药 / OCD 排 psychodynamic）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/儿科]]（儿童/青少年精神障碍起病与用药：fidgety 注意力差伪装 ADHD 反陷阱）
+> - 🌱 TODO（待生成衍生）：
+>   - 等 psych 心理治疗类题积累到 3-4 道 → 整合 → 生成 [[完整笔记/专题笔记/psych/_衍生_心理治疗对号入座]]（CBT-ERP/DBT/Psychodynamic/Exposure/标准CBT 各治什么）
+>   - 等焦虑谱系用药题积累后 → 生成 [[完整笔记/专题笔记/psych/_衍生_焦虑谱系药物]]（SSRI/Buspirone/Clomipramine/BZD 适应症对照；与 Q2496 现有 TODO `_衍生_焦虑谱系鉴别` 一诊断侧一治疗侧、与 Q16153 TODO `_衍生_焦虑障碍鉴别速查` / Q8909 TODO `psych_DSM5焦虑障碍鉴别决策树` 同源，建衍生时合并去重）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q8923
+> - [ ] 盲写「心理治疗对号入座表」+「焦虑谱系药物表」
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/psych]] 心理治疗章节加「薄弱点」
+> - [ ] 牢记「ERP = Exposure + Response Prevention」是 OCD 唯一循证心理治疗
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: 儿童 OCD 管理（一线 = SSRI fluoxetine/fluvoxamine/sertraline 和/或 CBT-ERP）/ 心理治疗对号入座（CBT-ERP=OCD 唯一循证 / DBT=BPD / Psychodynamic≠OCD / 标准 CBT=抑郁-GAD-PTSD-惊恐 / Exposure=phobia-PTSD）/ 焦虑谱系药物对号入座（SSRI=万金油一线 / Buspirone=GAD 专属 / Clomipramine=OCD 二线 TCA / BZD=急性短期）/ OCD 强迫循环负强化机制（obsession→焦虑↑→compulsion→焦虑暂降→循环加固；SSRI 降驱动 / ERP 学会"不做也会自降"）/ 反陷阱：fidgety+注意力差≠ADHD，可能焦虑/强迫继发，兴奋剂加重焦虑 / 强迫行为与所怕事无现实关联（怕字写不好爸爸丢工作）= OCD 招牌
+> 状态:: 🟡
+> 错因:: 知识
+
