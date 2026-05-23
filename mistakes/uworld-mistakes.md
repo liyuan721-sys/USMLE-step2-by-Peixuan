@@ -15848,3 +15848,293 @@
 > 状态:: 🟡
 > 错因:: 知识
 
+> [!example]- [2026-05-22] 神经 / 痴呆鉴别 bvFTD vs DLB (Q14990)
+> ^Q14990
+>
+> **1. Stem 模式**
+> 老年人（~60-69）+ 行为 / 人格改变**在前** + 记忆相对保留（MoCA 仅轻度低）+ disinhibition（社交冒犯）+ compulsive / 刻板（每天必须吃同样早餐）+ hyperorality（吸烟量翻倍）+ apathy（社交退缩）+ 缺乏自知力（否认问题、对家人担忧无动于衷）。带 AD 家族史红鲱鱼。
+>
+> **2. 核心概念**
+> bvFTD = 额颞叶选择性退化（Pick bodies / tau）→ **行为 / 人格改变首发，早期记忆相对保留**。与 AD 镜像关系：AD 海马起病、记忆先丢、人格改变晚期才出现。
+>
+> **3. 普适规则（痴呆鉴别 = "哪个脑区先坏，哪个症状先出现"）**
+>
+> | 痴呆 | 首发 / 标志 | 一句话 Stem |
+> |---|---|---|
+> | AD | 早期记忆丧失 | short-term memory loss, spatial disorientation |
+> | Vascular | 阶梯式 + 局灶体征 | stepwise, focal deficits, infarct on MRI |
+> | bvFTD | **行为 / 人格在前，记忆保留** | disinhibition, hyperorality, compulsive, apathy |
+> | DLB | **痴呆 + ≥2 核心特征** | visual hallucination, parkinsonism, fluctuating, RBD |
+> | NPH | 三联征 | ataxia, urinary incontinence, dilated ventricles |
+> | CJD | **快速进展** + myoclonus | rapidly progressive, myoclonus, seizures |
+>
+> **DLB「数特征」框架**：诊断 = Dementia + ≥2 项核心特征（视幻觉 / 帕金森 / 波动认知 / RBD）。看到 DLB 选项 → 立刻在 stem 里数命中几项，**< 2 项直接划掉**。
+>
+> **4. 易混陷阱（普适）**
+> - **行为异常 ≠ DLB 证据**：行为异常是 FTD 的**主角**（本身就是诊断标准）、是 DLB 的**配角**（必须伴 ≥2 核心特征）。DLB 的"通行证"是那 4 大核心特征，不是行为本身。
+> - **家族史 ≠ 诊断**：AD 家族史诱导选 AD，但要看症状簇。
+> - **"MoCA 只轻度低 → 还没到痴呆"陷阱**：只要影响 ADL（如不交账单 = 工具性 ADL 受损）就已达痴呆标准，排除 MCI。
+>
+> **5. 我为什么错（个性化）**
+> 选对了，但在 **C(DLB) 和 D(FTD) 之间纠结**。根本原因：没牢记 **DLB 必须满足"≥2 项核心特征"的硬性框架** —— 把"行为异常"笼统当成支持 DLB 的证据。修正反射：看到 DLB 选项 → 心里默念"幻动波梦"，数 stem 命中数。
+>
+> **6. Memory Hook**
+> - **「先变性格再丢记忆 = FTD；先丢记忆再变性格 = AD」**
+> - **DLB = "幻动波梦"**：幻(视幻觉) / 动(帕金森) / 波(波动认知) / 梦(RBD 做梦动手脚)；< 2 项不诊断
+> - **FTD 五联征 = "去淡强口执"**：去抑制 / 淡漠 / 强迫刻板 / 口部过度 / 执行障碍
+>
+> ---
+>
+> **7. 🤔 我的提问 / 卡点**
+> - C 和 D 怎么区分？→ 学到 DLB 是少数有"明确计数标准"的诊断；FTD 是纯行为综合征 + 0 项 DLB 特征
+> - 为什么不是 AD（有家族史）？→ 学到家族史是红鲱鱼，症状簇（行为在前 + 记忆保留）才决定诊断
+>
+> **8. 🔗 关联**
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^AMBOSS-Pseudo78]] Pseudodementia vs AD（同痴呆鉴别族：那题假性痴呆 vs AD，本题 bvFTD vs DLB / AD；共享「症状起病模式定位」思路）
+>   - [[mistakes/uworld-mistakes#^AMBOSS-CJD57]] CJD 招牌识别（同痴呆族 — CJD 是"快速进展 + myoclonus"独门指纹，与 bvFTD 起病缓慢 + 行为主导互补）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（FTD 的 disinhibition / apathy 易与精神科行为障碍混淆；神经精神症状用 SSRI / trazodone 控制）
+> - 🌱 TODO（待生成衍生）：等 neuro 章节 dementia 复习完，请 Claude Code 整合 dementia 鉴别类错题（AD / bvFTD / DLB / VaD / NPH / CJD / Pseudodementia）→ 生成 [[完整笔记/专题笔记/神经/_衍生_痴呆鉴别速查表]]（核心：首发症状定位 + DLB 数特征框架 + FTD vs AD 镜像表）
+>
+> **9. ✅ 复盘行动**
+> - [ ] 1 周后重做（盲做能否直接说出 bvFTD）
+> - [ ] 默写 DLB「幻动波梦」+ ≥2 项框架 / FTD「去淡强口执」/ 六大痴呆首发症状表
+> - [ ] 找 3 道类似题：纯 DLB（带视幻觉 / 帕金森）/ 纯 NPH（三联征）/ AD vs FTD 直接对比
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/neuro]] dementia 部分加「要做题」
+>
+> ---
+>
+> 学科:: 神经
+> 主题:: bvFTD 诊断（行为 / 人格在前 + 记忆相对保留 + 缺乏自知力）/ DLB「数特征」框架（dementia + ≥2 项「幻动波梦」）/ 痴呆鉴别 = 哪个脑区先坏哪个症状先出现 / 行为异常 ≠ DLB 证据（DLB 通行证是 4 核心特征）
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-22] Psych / Adjustment Disorder vs 抑郁谱系时间线鉴别 (Q21259)
+> ^Q21259
+>
+> **Stem 模式**
+> 明确应激源（拒信 / 分手等）+ 起病 < 2 周 + 有痛苦 / 功能损害（卧床、暴食、被动自杀意念），症状方向像抑郁但时长 / 症状数不达 MDD。
+>
+> ---
+>
+> **核心概念**
+> Adjustment Disorder = 可识别应激源后 **3 个月内**起病的情绪 / 行为症状，造成显著痛苦或功能损害，但**不满足任何其他完整 DSM-5 诊断**（兜底诊断）。
+>
+> ---
+>
+> **机制理解（一句话区分本质）**
+> > [!info] 本质
+> > 精神科诊断 = **「躁狂史 → 时长 → 症状数 → 应激源」四维定位**。症状典型程度 ≠ 诊断成立；时间线和症状数是不可妥协的硬门槛。AD 本质 = "有应激源、有损害、但够不上任何别的诊断"。
+>
+> ```
+>               抑郁谱系 / 应激相关障碍 — 决策链
+>
+> ① 有躁狂/轻躁狂史？
+>      │
+>      ├─ 有 ──► Bipolar
+>      │          │
+>      │     那次发作定性：
+>      │     ├ Mania (≥7天/住院/精神病性/严重损害) → Bipolar I
+>      │     └ Hypomania (4-6天/不住院/不严重) + MDE → Bipolar II
+>      │
+>      └─ 无 ──► ② 时长 ≥2周 且 症状 ≥5/9（含心境或兴趣）?
+>                    │
+>                    ├ 是 ──► MDD
+>                    │
+>                    └ 否 ──► ③ 有应激源 + 有损害但不达其他诊断?
+>                                  │
+>                                  ├ 是 ──► Adjustment Disorder ◄── 本题
+>                                  └ 适度无损害 ──► Normal stress response
+>
+> ※ 创伤(危及生命)分支：3天-1月 = Acute Stress Disorder；>1月 = PTSD
+> ```
+>
+> ---
+>
+> **普适规则（SOP）**
+> > [!tip] 抑郁谱系诊断三连查（严格按顺序）
+> > 1. **躁狂 / 轻躁狂史？** → 有 → Bipolar（再看那次是 Mania 还是 Hypomania 定 I/II）
+> > 2. **时长 ≥2 周 且 症状 ≥5/9？** → 是 → MDD
+> > 3. **应激源 + 损害但不达标？** → Adjustment Disorder
+>
+> > [!tip] MDD 三道闸门（缺一不可）
+> > 时长 ≥2 周　+　症状 ≥5/9（含心境或兴趣之一）　+　排除（无躁狂史 / 非物质躯体所致）
+>
+> ---
+>
+> **High-Yield 对比表 1：应激 / 抑郁谱系一家人**
+>
+> | 诊断 | 应激源 | 起病 / 时长 | 关键鉴别 | Stem 关键词 |
+> |---|---|---|---|---|
+> | Normal stress response | 任意 | 即时 | 反应适度、无显著损害 | "coping well" |
+> | **Adjustment disorder** | **可识别** | 应激后 **3 个月内** | 有损害 + 不达其他诊断 | stressor + impairment + <2wk |
+> | MDD | 不需要 | **≥2 周** | 抑郁心境 + SIGECAPS ≥5/9 | "2 weeks", 5+症状 |
+> | Persistent Depressive D. (Dysthymia) | 不需要 | **≥2 年** | 慢性轻度抑郁 | "for years" |
+> | Acute Stress Disorder | **创伤**(危及生命) | **3 天-1 月** | 再体验 / 回避 / 警觉 | trauma, flashback |
+> | PTSD | **创伤**(危及生命) | **>1 月** | 同 ASD 但 >1 月 | trauma >1mo |
+> | Personality disorders | 不需要 | **长期稳定**模式 | pervasive、青春期 / 早成年起病 | "longstanding" |
+>
+> **High-Yield 对比表 2：Bipolar I vs II（Mania vs Hypomania）**
+>
+> | | Mania (躁狂) | Hypomania (轻躁狂) |
+> |---|---|---|
+> | 时长 | **≥7 天**（或需住院） | **≥4 天**（且不需住院） |
+> | 精神病性症状 | 可有 | **无** |
+> | 功能损害 | **严重**（或需住院） | 可见改变但不严重 |
+> | 对应诊断 | **Bipolar I** | **Bipolar II**（需 + 至少一次 MDE） |
+>
+> > [!danger] 铁律
+> > 只要**曾经有过一次 Mania** → 永远 Bipolar I（哪怕从没抑郁过）。
+> > Bipolar II = **Hypomania + MDE 两者都要有**。
+> > 任何躁狂谱系史 → **永远排除 MDD**。
+>
+> ---
+>
+> **易混陷阱（普适）**
+> > [!warning] 三个高频反向陷阱
+> > 1. **时长够 ≠ MDD**：≥2 周只是打开 MDD 可能性，症状仍需 ≥5/9。出题人会写一堆"正常 / 无"把症状数压到 5 以下 → 实为 AD。
+> > 2. **像抑郁但藏躁狂史**：当前 100% 像抑郁发作，病史里塞一段高涨期 → Bipolar，不是 MDD。
+> > 3. **Mania vs Hypomania 精算**：识破"高涨史"后还要数那次发作的**时长(7 天分界) + 是否住院 / 精神病性 / 严重损害**，否则 I/II 选反。
+>
+> ---
+>
+> **我为什么错（个性化）**
+> > [!fail] 错因复盘
+> > - Q21259：被 SIGECAPS 钩住，漏看 "1-week history" 时间锚点 → 误选 MDD。根本：症状像 ≠ 诊断成立，没先查时间线。
+> > - 延伸 Q1：看到"3 周"满足时长就放松，没数症状（仅 2/9）→ 误选 MDD。踩「时长够但症状不够」反向陷阱。
+> > - 延伸 Q2：成功识破躁狂史，但没精算那次发作（5 天 / 不住院 = Hypomania）→ 误选 Bipolar I，应为 Bipolar II。
+> > **共性**：抓住一个线索就锁诊断，不走完整决策链。
+>
+> ---
+>
+> **Memory Hook**
+> > [!success] 记忆挂钩
+> > - **一句话锁定**：「拒信一周，卧床暴食想死 — 但还没满两周」= Adjustment Disorder。
+> > - **类比**：AD = 急诊分诊台的"待定观察区" —— 确实不舒服（有损害），但还贴不上任何正式诊断标签。
+> > - **口诀**：**「先躁狂、再时长、再数症状、最后兜底 AD」**。
+> > - **Bipolar I/II 速记**：**「7 天 / 住院 = 一(I)型躁狂；轻一档 4-6 天 = 二(II)型」**。
+> > - **反向记忆**：症状再像抑郁，没满 2 周 / 没躁狂史确认 → 别急着选 MDD。
+>
+> ---
+>
+> **🤔 我的提问 / 卡点（学习路径）**
+> > - Q：「如果这道题大于两周是不是就是 MDD 了？」
+> >   → 学到：时长是**必要非充分**条件，还需症状 ≥5/9 + 排除躁狂史 / 物躯因素。本题即使改 ≥2 周，给的症状也未必凑够 5/9（信息量是为 AD 量身定做的）。
+> > - 卡点：练习题暴露我会「抓一个线索就锁诊断」—— 时长够就选 MDD、看到躁狂史就选 Bipolar I。
+> >   → 学到：必须走完整决策链 + 对躁狂发作做时长 / 严重度精算。
+>
+> ---
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q3382]] Adjustment Disorder vs MDD + psychotherapy 一线（**直接同主题** — 那题 AD 治疗端、本题 AD 诊断时间线鉴别）
+>   - [[mistakes/uworld-mistakes#^Q15925]] Atypical MDD（同抑郁谱系 — mood reactivity 是 atypical 诊断要件；物质量少不构成 substance-induced）
+>   - [[mistakes/uworld-mistakes#^Q4816]] PDD（dysthymia）vs 人格障碍（同抑郁谱系慢性侧 — PDD ≥2 年；与 AD 时间线对比互补）
+>   - [[mistakes/uworld-mistakes#^Q15843]] Bipolar I vs Brief Psychotic Disorder（同决策链「躁狂史 → MDD/Bipolar」分叉锚点）
+>   - [[mistakes/uworld-mistakes#^Q15054]] 抗抑郁药诱发转躁 first-step（同 bipolar 谱系 — 揭露隐藏躁狂史）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
+> - 🏥 跨学科：无显著跨学科关联（纯精神科时间线鉴别）
+> - 🌱 TODO（待生成衍生）：等 psych 章节累积 3-4 道「应激 / 抑郁谱系 + Bipolar 谱系鉴别」错题后（本题 + Dysthymia + ASD/PTSD + Normal grief + Bipolar I/II + Cyclothymia），请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/psych/_衍生_精神科抑郁躁狂谱系决策树]]（整合本卡的完整 ASCII 决策链 + 两张对比表）
+>
+> ---
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q21259（盲做，检查是否第一眼走「躁狂 → 时长 → 症状」决策链）
+> - [ ] 默写**应激 / 抑郁谱系对比表**（7 个诊断 × 时长门槛）
+> - [ ] 默写 **Bipolar I vs II 表**（Mania vs Hypomania 4 项分界）
+> - [ ] 默写 SIGECAPS + MDD 三道闸门
+> - [ ] 找 3 道类似题：MDD vs AD / Bipolar I vs II / Cyclothymia 边界 / Normal grief vs MDD
+> - [ ] 习惯养成：精神科题先圈所有**时间词** + 扫一遍**有无躁狂史**，再读症状
+> - [ ] 若再错同类 → 给 [[完整笔记/Peixuan分科笔记/psych]] 加「薄弱点」
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Adjustment Disorder vs MDD 时间线鉴别（应激后 <3 月 + 有损害但不达 MDD）/ 抑郁谱系决策链「躁狂史 → 时长 → 症状数 → AD 兜底」/ MDD 三道闸门（≥2 周 + ≥5/9 + 排除）/ Bipolar I vs II 精算（Mania ≥7 天/住院 vs Hypomania 4-6 天）/ "抓一个线索就锁诊断"模式陷阱
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-05-22] OB / 精神 — Pseudocyesis 假孕 vs 流产谱系 (Q2552)
+> ^Q2552
+>
+> **【1. Stem 模式】**
+> 长期不孕 (试孕 3 年) + 主观早孕症状齐全 (晨吐 / 腹胀 / 乳房胀) + 继发闭经 + 自述家测阳性
+> + **诊室 hCG 阴性 ×2 + 超声薄内膜 (空子宫)** + 无附件包块 → Pseudocyesis (假孕)。
+> 自述家测阳性是诱饵；诊室客观检测才算数。
+>
+> **【2. 核心概念】**
+> Pseudocyesis = 非妊娠患者**非妄想性**坚信自己怀孕，源于心理压力**躯体化**。
+> hCG 阴性 + 超声空子宫 + 强心理诱因 + 症状真实 (躯体化)。处理 = 精神科评估治疗。
+> **一旦客观 hCG 阴性 + 子宫空 = 从未怀孕 → 砍掉所有"真孕"诊断。**
+>
+> **【3. 普适规则】**
+>
+> 怀疑怀孕全鉴别 (按 hCG + 超声 + 病史 三层切)：
+> ```
+> 第一刀：诊室 hCG?
+> ├─ 极高 ──→ Hydatidiform mole 葡萄胎 (暴风雪/囊性, 子宫大于孕周)
+> ├─ 阳性 ┬ 宫内孕囊 ──────→ Early IUP 正常早孕
+> │       ├ 宫内空+附件包块 ─→ Ectopic 异位妊娠
+> │       └ 宫内无活力妊娠物 ─→ Missed abortion 稽留流产
+> │
+> └─ 阴性 + 空子宫 ──→ 第二刀：怀过孕吗?(病史/hCG趋势)
+>     ├ 怀过(出血排出史, hCG曾↑现↓) ──→ Complete abortion 完全流产
+>     └ 没怀过(无出血, hCG始终0, 心理诱因) ──→ Pseudocyesis 假孕
+>         └ 若规律月经+无怀孕信念 ──→ PMS (鉴别项)
+> ```
+>
+> 流产谱系 (看「宫颈口」+「排出物」)：
+> ```
+> Threatened 先兆   宫口闭+出血, 胎仍活 → 物在
+> Inevitable 难免   宫口开+出血, 未排   → 物在
+> Incomplete 不全   宫口开, 部分排出    → 宫内残留
+> Complete 完全     宫口闭, 全部排出    → 子宫空 ★
+> Missed 稽留       宫口闭, 死但未排    → 宫内死胎物
+> ```
+> Complete 与 Missed 是相反两极：一个排干净 (空)、一个死了没排 (有物)。
+>
+> **【4. 易混陷阱（普适）】**
+> - 自述家测阳性 ≠ 真阳性；**诊室 hCG 才算数**。
+> - "空子宫" ≠ 一定异位：异位 hCG 仍**阳性** + 多有**附件包块**。
+> - 葡萄胎是 hCG **极高**，不是阴性。
+> - **空子宫 + hCG 阴性有两种** (最易混)：Complete abortion (怀过、排干净) vs Pseudocyesis (从没怀过)。
+>   分水岭 = ① 有无出血排出史 ② hCG 是"下降曲线"还是"始终为零" —— **看纵向趋势，不看这一刻快照**。
+> - Missed abortion 反向线索：hCG 仍**阳性**、超声有**宫内死胎物**、早孕症状**通常消失** (本题症状还在,正相反)。
+>
+> **【5. 我为什么错】**
+> 选了 D (Missed abortion)。被"早孕症状 + 闭经 + 自述家测阳性"拉进"真怀孕"框，于是在真孕诊断里挑了一个。
+> 根本错因：① 把"假孕"和"真怀孕后出问题"搞混；② 没用好关键阴性证据 (诊室 hCG 阴性×2 + 空子宫 = 从未怀孕,可一刀砍掉所有真孕诊断)；③ 被自述家测阳性带偏。
+>
+> **【6. Memory Hook】**
+> 「诊室 hCG 阴性 + 超声空子宫 = 她根本没怀过 → 假孕。确认'没怀过'，所有'怀孕后出问题'诊断 (含稽留流产) 全部出局。」
+> 空子宫 + hCG 阴性两兄弟：Complete abortion =「搬空的房子」(住过、搬走了、有水电记录 = hCG 曾阳)；Pseudocyesis =「从没住过的样板间」(布置得像住了人 = 症状齐全，但水电从没接 = hCG 始终零)。
+>
+> ---
+>
+> **【7. 🤔 我的提问 / 卡点】**
+> - Q：「这道题为什么不能选 missed abortion？」
+>   → 学到：Missed abortion 是**曾真怀孕** (hCG 仍阳性 + 超声有宫内死胎物 + 症状常消失)；本题 hCG 阴性 + 空子宫 + 症状还在，全部相反。客观证据否定怀孕时要跳出"真孕"框。
+> - Q：「完全排出的怀孕叫什么，怎么和假孕鉴别？」
+>   → 学到：叫 **Complete abortion (完全流产)**，此刻也是空子宫，最易和假孕混。鉴别靠**病史 (出血排出史) + hCG 纵向趋势 (下降曲线 vs 始终为零)**，而非这一刻的快照。
+>
+> **【8. 🔗 关联】**
+> - 🔁 同主题错题：（首题，等后续 OB 早孕鉴别 / psych 躯体化题积累再横向连）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/OB]]（早孕 hCG + 超声鉴别 + 流产谱系）/ [[完整笔记/Peixuan分科笔记/psych]]（pseudocyesis 属躯体症状相关障碍）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（假孕本质是 somatization，需精神科处理 —— OB 表现、psych 本质的跨科题）
+> - 🌱 TODO（待生成衍生）：本次已生成草稿 [[草稿/2026-05-22_怀疑怀孕鉴别_hCG超声决策树_v1]]，等 OB 早孕章节 + psych 躯体化章节复习完，请 Claude Code 把此草稿正式整合入 [[完整笔记/专题笔记/OB_GYN/_衍生_怀疑怀孕鉴别_hCG超声决策树]]
+>
+> **【9. ✅ 复盘行动】**
+> - [ ] 1 周后重做（先看诊室 hCG + 超声，再决定是否还在"真孕"框）
+> - [ ] 默写「怀疑怀孕 7 诊断决策树」(hCG 三档 + 超声 + 病史两刀)
+> - [ ] 默写「Complete vs Missed vs Pseudocyesis」：怀过没 / 排没排 / hCG / 症状走向
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/psych]] 加 pseudocyesis = 躯体症状障碍 条目
+> - [ ] 找 3 道类似题：① 异位 (hCG+ 宫内空 附件包块) ② 葡萄胎 (hCG 超高) ③ incomplete abortion (宫口开 + 残留)
+>
+> ---
+>
+> 学科:: OB
+> 主题:: Pseudocyesis 假孕（无怀孕史 + 诊室 hCG 始终零 + 心理诱因 + 躯体化 + 非妄想）/ 怀疑怀孕鉴别 hCG·超声·病史三层切 / 空子宫 + hCG 阴性双胞胎（Complete abortion vs Pseudocyesis 靠纵向 hCG + 出血排出史）/ 流产谱系（Threatened·Inevitable·Incomplete·Complete·Missed）
+> 状态:: 🟡
+> 错因:: 知识
+
