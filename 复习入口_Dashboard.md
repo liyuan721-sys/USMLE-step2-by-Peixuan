@@ -24,23 +24,28 @@ status: 常驻
 
 ---
 
-## 🎯 当前焦点 — 2026-05-14 复盘判分 ⭐
+## 🎯 当前焦点 — 2026-05-23 Psych 治疗 4 连击 + Q15088 反复错 🔴
 
-> [!danger] D 评级（需重学）— 本周内重点突破
-> 详情：[[复盘/2026-05-14_早晨复盘清单]] · 1 周后重做复盘验证
+> [!danger] 反复错 — 最高优先级
+> [[mistakes/uworld-mistakes#^Q15088-redo|Q15088 MDD-psychotic]] 2 天间隔重做仍选 C（Fluoxetine + Lithium）→ **🔴 反复错**。根错因 = 治疗哲学误区（不急 ≠ 不治妄想 / Lithium 误当温和版 AP / 精神运动迟滞误读为稳定）。**3 天内必须重做验证**。
 
 | 优先级 | 薄弱点 | 复习入口 |
 |---|---|---|
-| ⭐⭐⭐ | **抗凝药拮抗剂 4 对**（完全空白）| [[复盘/2026-05-14_早晨复盘清单#薄弱点 1：抗凝药拮抗剂 4 对（完全空白）\|要点表]] · [[mistakes/uworld-mistakes#2026-05-14\|错题卡]] |
-| ⭐⭐⭐ | **抗凝药特殊人群选药**（5 个全错）| [[复盘/2026-05-14_早晨复盘清单#薄弱点 2：抗凝药特殊人群选药（5 个全错）\|要点表]] |
-| ⭐⭐⭐ | **5 急症"第一件事"**（应用题全空）| [[复盘/2026-05-14_早晨复盘清单#薄弱点 3：5 急症"第一件事"（应用题全空）\|要点表]] · [[mistakes/uworld-mistakes#2026-05-14\|错题卡 PE]] |
-| ⭐⭐ | **三大束交叉时机**（口诀写反了）| [[复盘/2026-05-14_早晨复盘清单#薄弱点 4：三大束交叉时机（口诀写反了）\|要点表]] |
+| ⭐⭐⭐🔴 | **MDD with psychotic features 治疗**（妄想必须有 AP / Lithium 不治妄想）| [[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP#3.4 MDD 治疗按「有无精神病性」分流 ⭐⭐⭐\|SOP §3.4]] · [[mistakes/uworld-mistakes#^Q15088-redo\|Q15088 重做卡]] · [[mistakes/uworld-mistakes#^Q15088\|Q15088 首次卡]] · [[mistakes/uworld-mistakes#^Q15811\|Q15811 → ECT]] |
+| ⭐⭐⭐ | **成人 ADHD + 物质滥用 → Atomoxetine**（Clonidine 是儿童款）| [[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP#3.1 ADHD 用药决策\|SOP §3.1]] · [[mistakes/uworld-mistakes#^Q14348\|Q14348]] |
+| ⭐⭐⭐ | **儿童 GAD vs Social Anxiety**（先数担忧靶点）| [[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP#3.2 焦虑谱系（先数靶点 → 再分配药）\|SOP §3.2]] · [[mistakes/uworld-mistakes#^Q16153\|Q16153]] |
+| ⭐⭐⭐ | **BED 一线 = SSRI**（减肥药 ≠ BED 药 / Bupropion 进食障碍禁忌）| [[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP#3.3 进食障碍三兄弟\|SOP §3.3]] · [[mistakes/uworld-mistakes#^Q16490\|Q16490]] |
+| ⭐⭐⭐ | **儿童 OCD = SSRI + CBT-ERP**（Psychodynamic 是诱饵）| [[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP#3.5 心理治疗对号入座\|SOP §3.5]] · [[mistakes/uworld-mistakes#^Q8923\|Q8923]] |
 
 > [!tip] 本周行动节奏
-> - 抗凝药两块（拮抗剂 + 特殊人群）→ **优先重读** [[完整笔记/Peixuan分科笔记/hematology oncology]] + [[完整笔记/Peixuan分科笔记/心内]]
-> - 5 急症决策表 → **背到反射弧**，目标在下周复盘中应用题正确率 ≥80%
-> - 三大束交叉 → 口诀重写 + 1 道 Brown-Séquard UW 题验证
-> - 暂停 AMBOSS Stroke 新模块，直到上述 4 块刷透
+> - **每天先扫 5 句口诀**：[[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP#四、5 大反陷阱口诀（Memory Hook）\|SOP §四 5 句口诀]]（覆盖今日 4 题 + 历史 5 题）
+> - **3 天内重做 Q15088** 验证底层修复（治疗哲学误区，不是关键词漏看）
+> - **背 5 张对号入座表**到反射弧（ADHD / 焦虑 / 进食 / MDD / 心理治疗）
+> - 历史前置题串联复习：[[mistakes/uworld-mistakes#^Q2496\|Q2496 Panic]] / [[mistakes/uworld-mistakes#^Q21090\|Q21090 围产期 GAD]] / [[mistakes/uworld-mistakes#^Q2353\|Q2353 AN]] / [[mistakes/uworld-mistakes#^Q12541\|Q12541 AUD]]
+> - 主笔记 4 个章节已挂「考前必看」「薄弱点」：MDD / OCD / Eating Disorders / GAD
+
+### 📌 历史焦点存档
+- [[复盘/2026-05-14_早晨复盘清单]]（抗凝药拮抗剂 / 抗凝特殊人群 / 5 急症 / 三大束）— 1 周重做已过期，待验证状态
 
 ---
 

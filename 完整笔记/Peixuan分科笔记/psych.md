@@ -421,7 +421,10 @@ High-yield distinction:
 >
 > **Malignant hyperthermia** is associated with anesthesia exposure
 
-**Major Depressive Disorder**
+**Major Depressive Disorder** #考前必看 #薄弱点
+
+> [!danger] MDD with Psychotic Features 是反复错重灾区 🔴
+> Q15088 2 天间隔重做仍错（选 Fluoxetine+Lithium）→ 妄想**必须有抗精神病药**，Lithium 不治妄想。完整 SOP：[[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP#3.4 MDD 治疗按「有无精神病性」分流 ⭐⭐⭐]]
 
 **Diagnostic threshold**
 
@@ -1026,7 +1029,10 @@ Treatment:
 >
 > SSRI
 
-**<u>OCD</u>**
+**<u>OCD</u>** #薄弱点
+
+> [!warning] OCD 心理治疗只认 CBT-ERP
+> Psychodynamic / DBT / Buspirone 都是诱饵。一线 = SSRI 高剂量 + CBT-ERP；二线 = Clomipramine。完整对号入座：[[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP#3.5 心理治疗对号入座]]
 
 > Lists
 >
@@ -1554,7 +1560,10 @@ Treatment:
 >
 > Mood stabilizer
 
-**Eating Disorders**
+**Eating Disorders** #薄弱点
+
+> [!warning] 三兄弟一线药 + 减肥药 ≠ BED 药
+> AN = 无药一线（CBT+营养）/ 二线 Olanzapine；Bulimia = Fluoxetine；BED = SSRI（sertraline）/ 备选 Lisdexamfetamine。**Bupropion 进食障碍永远禁**（癫痫阈值↓）。减肥药（orlistat/phentermine/bupropion-naltrexone）全不治 BED。完整对照：[[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP#3.3 进食障碍三兄弟]]
 
 **Anorexia**
 
@@ -2140,7 +2149,10 @@ Carbamazepine🡪agranulocytosis
 
 **2）查ECG**（citalopram, escitalopram🡪prolong QT）**; glucose** (任何overdose, AMS); **serum HCO3** (可能发生代酸)
 
-**GAD in children: 广泛焦虑≥6m，再加另一症状(成人3个)；need for perfectionism and order, somatic symptoms**
+**GAD in children: 广泛焦虑≥6m，再加另一症状(成人3个)；need for perfectionism and order, somatic symptoms** #薄弱点
+
+> [!warning] 焦虑题先数"担忧靶点"
+> 多个不相关领域 → GAD（探照灯）；单一聚焦 → 看靶点类型（社交=SAD / 分离=Separation / 物体=Phobia / 侵入+ritual=OCD）。**一条社交担忧 ≠ Social Anxiety**（Q16153 误选）。完整决策树：[[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP#3.2 焦虑谱系（先数靶点 → 再分配药）]]
 
 **,**<img src="images/media/image4.png" style="width:3.71241in;height:3.25143in" />
 
