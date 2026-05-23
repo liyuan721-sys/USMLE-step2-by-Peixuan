@@ -271,5 +271,5 @@ type: 专题笔记
 
 - 🌱 TODO（待生成衍生）：
   - 等积累 ≥ 4 道 Horner 相关错题（Pancoast / 颈动脉夹层 / Wallenberg / Cluster / Neuroblastoma）→ Claude Code 整合 → 补充本笔记的"实战错题章节"
-  - 等积累 ≥ 3 道脑干综合征错题（Wallenberg / Weber / Benedikt / Locked-in）→ 生成 [[完整笔记/专题笔记/衍生/_衍生_脑干综合征定位]]，本笔记的 Wallenberg 部分可链入
-  - 等积累 ≥ 3 道脊髓不全损伤错题 → 生成 [[完整笔记/专题笔记/衍生/_衍生_脊髓不全损伤综合征鉴别]]，本笔记的 Syringomyelia 部分可链入
+  - 等积累 ≥ 3 道脑干综合征错题（Wallenberg / Weber / Benedikt / Locked-in）→ 生成 [[完整笔记/专题笔记/_衍生_脑干综合征定位]]，本笔记的 Wallenberg 部分可链入
+  - 等积累 ≥ 3 道脊髓不全损伤错题 → 生成 [[完整笔记/专题笔记/_衍生_脊髓不全损伤综合征鉴别]]，本笔记的 Syringomyelia 部分可链入

@@ -209,8 +209,8 @@ parent_topic: 先天性心脏病（CHD）
   - [[完整笔记/专题笔记/内分泌/内分泌_Turner综合征]]（Coarctation）
   - [[完整笔记/专题笔记/OB_GYN/OB_GYN_孕期致畸药]]（孕晚期 NSAID 禁忌）
 - 🌱 TODO（待生成衍生）：
-  - 整合"左→右分流先心病（ASD / VSD / CAVSD / PDA）+ Eisenmenger 演变"→ 生成 [[完整笔记/专题笔记/衍生/_衍生_左右分流型先心病]]（填补当前唯一空白）
-  - 整合"先心病 CXR 影像图谱（egg / boot / snowman / globular）"→ 生成 [[完整笔记/专题笔记/衍生/_衍生_先心病CXR影像图谱]]
-  - 整合"新生儿紫绀诊断流程（心 vs 肺 vs MetHb）+ Hyperoxia test"→ 生成 [[完整笔记/专题笔记/衍生/_衍生_新生儿紫绀诊断流程]]
-  - 整合"差异性紫绀鉴别（IAA / Coarctation / 持续性肺动脉高压 / Eisenmenger）"→ 生成 [[完整笔记/专题笔记/衍生/_衍生_差异性紫绀]]
-  - 整合"染色体微缺失综合征大全（22q11.2 / Williams / Prader-Willi / Angelman / Cri-du-chat）"→ 生成 [[完整笔记/专题笔记/衍生/_衍生_染色体微缺失综合征]]
+  - 整合"左→右分流先心病（ASD / VSD / CAVSD / PDA）+ Eisenmenger 演变"→ 生成 [[完整笔记/专题笔记/_衍生_左右分流型先心病]]（填补当前唯一空白）
+  - 整合"先心病 CXR 影像图谱（egg / boot / snowman / globular）"→ 生成 [[完整笔记/专题笔记/_衍生_先心病CXR影像图谱]]
+  - 整合"新生儿紫绀诊断流程（心 vs 肺 vs MetHb）+ Hyperoxia test"→ 生成 [[完整笔记/专题笔记/_衍生_新生儿紫绀诊断流程]]
+  - 整合"差异性紫绀鉴别（IAA / Coarctation / 持续性肺动脉高压 / Eisenmenger）"→ 生成 [[完整笔记/专题笔记/_衍生_差异性紫绀]]
+  - 整合"染色体微缺失综合征大全（22q11.2 / Williams / Prader-Willi / Angelman / Cri-du-chat）"→ 生成 [[完整笔记/专题笔记/_衍生_染色体微缺失综合征]]

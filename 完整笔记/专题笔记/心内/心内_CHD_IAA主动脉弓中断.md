@@ -351,9 +351,9 @@ RV → PDA（关）✗ → 下半身**完全无血**
   - [[完整笔记/Peixuan分科笔记/感染]]（DiGeorge → 反复机会性感染）
 - 🌱 TODO（待生成衍生）：
   - 整合"PDA 依赖型先心病大全（TGA / Tricuspid / HLHS / IAA / Critical Coarctation / Pulm atresia）"→ 生成 [[完整笔记/专题笔记/心内/心内_CHD_PDA依赖型]]
-  - 整合"主动脉弓水平病变（Coarctation / IAA）+ Differential cyanosis"→ 生成 [[完整笔记/专题笔记/衍生/_衍生_主动脉弓病变]]
+  - 整合"主动脉弓水平病变（Coarctation / IAA）+ Differential cyanosis"→ 生成 [[完整笔记/专题笔记/_衍生_主动脉弓病变]]
   - 整合"22q11.2 / DiGeorge 综合征（CATCH-22 + 3 大 conotruncal: TOF + Truncus + IAA）"→ 生成 [[完整笔记/专题笔记/心内/心内_CHD_DiGeorge综合征]]
-  - 整合"新生儿期 PDA 关闭后突发休克鉴别（HLHS / IAA / Critical Coarctation / Critical AS）"→ 生成 [[完整笔记/专题笔记/衍生/_衍生_新生儿PDA关闭休克]]
+  - 整合"新生儿期 PDA 关闭后突发休克鉴别（HLHS / IAA / Critical Coarctation / Critical AS）"→ 生成 [[完整笔记/专题笔记/_衍生_新生儿PDA关闭休克]]
 
 ---
 

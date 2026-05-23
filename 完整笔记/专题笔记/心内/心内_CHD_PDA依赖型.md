@@ -566,10 +566,10 @@ PDA 依赖型先心病（专题枢纽）
   - [[完整笔记/Peixuan分科笔记/OB]]（孕期 NSAID 禁忌 + 妊娠糖尿病）
   - [[完整笔记/Peixuan分科笔记/免疫疫苗]]（如合并 DiGeorge → T 细胞缺陷）
 - 🌱 TODO（待生成衍生）：
-  - 整合"新生儿紫绀诊断流程（心 vs 肺 vs MetHb）+ Hyperoxia test"→ 生成 [[完整笔记/专题笔记/衍生/_衍生_新生儿紫绀诊断流程]]
-  - 整合"PDA 关闭后突发休克 4 大鉴别（HLHS / IAA / Critical Coarc / Critical AS）"→ 生成 [[完整笔记/专题笔记/衍生/_衍生_新生儿PDA关闭休克]]
-  - 整合"单心室循环手术系列（Norwood → Glenn → Fontan）"→ 生成 [[完整笔记/专题笔记/衍生/_衍生_单心室循环手术]]
-  - 整合"前列腺素临床应用大全（PGE₁ 维持 PDA / PGE₂ 引产 / Misoprostol / Latanoprost / NSAID 抑制 PG）"→ 生成 [[完整笔记/专题笔记/衍生/_衍生_前列腺素临床应用]]
+  - 整合"新生儿紫绀诊断流程（心 vs 肺 vs MetHb）+ Hyperoxia test"→ 生成 [[完整笔记/专题笔记/_衍生_新生儿紫绀诊断流程]]
+  - 整合"PDA 关闭后突发休克 4 大鉴别（HLHS / IAA / Critical Coarc / Critical AS）"→ 生成 [[完整笔记/专题笔记/_衍生_新生儿PDA关闭休克]]
+  - 整合"单心室循环手术系列（Norwood → Glenn → Fontan）"→ 生成 [[完整笔记/专题笔记/_衍生_单心室循环手术]]
+  - 整合"前列腺素临床应用大全（PGE₁ 维持 PDA / PGE₂ 引产 / Misoprostol / Latanoprost / NSAID 抑制 PG）"→ 生成 [[完整笔记/专题笔记/_衍生_前列腺素临床应用]]
 
 ---
 

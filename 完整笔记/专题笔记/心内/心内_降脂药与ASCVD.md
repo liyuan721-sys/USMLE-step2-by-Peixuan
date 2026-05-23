@@ -533,9 +533,9 @@ Step 2: 分层
   - [[完整笔记/Peixuan分科笔记/GI]]（TG ≥500 → 胰腺炎风险）
   - [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]]（剂量决定作用 / Aspirin low vs high-dose）
 - 🌱 TODO（待生成衍生）：
-  - 等积累 5+ 道 statin 副作用 / 药物相互作用题 → 生成 [[完整笔记/专题笔记/衍生/_衍生_Statin副作用速查]]
-  - 等积累 ASCVD risk enhancer 题 → 生成 [[完整笔记/专题笔记/衍生/_衍生_ASCVD_RiskEnhancers]]
-  - 等积累 TG / fibrate / fish oil / icosapent ethyl 题 → 生成 [[完整笔记/专题笔记/衍生/_衍生_TG管理与高甘油三酯血症]]
+  - 等积累 5+ 道 statin 副作用 / 药物相互作用题 → 生成 [[完整笔记/专题笔记/_衍生_Statin副作用速查]]
+  - 等积累 ASCVD risk enhancer 题 → 生成 [[完整笔记/专题笔记/_衍生_ASCVD_RiskEnhancers]]
+  - 等积累 TG / fibrate / fish oil / icosapent ethyl 题 → 生成 [[完整笔记/专题笔记/_衍生_TG管理与高甘油三酯血症]]
 
 ---
 

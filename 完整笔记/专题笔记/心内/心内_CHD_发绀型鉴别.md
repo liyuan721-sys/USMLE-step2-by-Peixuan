@@ -363,12 +363,12 @@ PGE₁   Tet     PGE₁  PGE₁    心衰重  PGE₁  PGE₁
   - [[完整笔记/Peixuan分科笔记/OB]]（妊娠期糖尿病 → TGA 风险）
   - [[完整笔记/Peixuan分科笔记/newborn care and screening]]（pulse oximetry screening）
 - 🌱 TODO（待生成衍生）：
-  - 整合"先心病 CXR 影像图谱（egg / boot / snowman / globular）"→ 生成 [[完整笔记/专题笔记/衍生/_衍生_先心病CXR影像图谱]]
+  - 整合"先心病 CXR 影像图谱（egg / boot / snowman / globular）"→ 生成 [[完整笔记/专题笔记/_衍生_先心病CXR影像图谱]]
   - 整合"PDA 依赖型先心病大全（TGA / Tricuspid / HLHS / IAA / Critical Coarctation / Pulm atresia）+ PGE₁ 使用"→ 生成 [[完整笔记/专题笔记/心内/心内_CHD_PDA依赖型]]
-  - 整合"新生儿紫绀诊断流程（心 vs 肺 vs MetHb）+ Hyperoxia test"→ 生成 [[完整笔记/专题笔记/衍生/_衍生_新生儿紫绀诊断流程]]
+  - 整合"新生儿紫绀诊断流程（心 vs 肺 vs MetHb）+ Hyperoxia test"→ 生成 [[完整笔记/专题笔记/_衍生_新生儿紫绀诊断流程]]
   - 整合"22q11.2 / DiGeorge 综合征（CATCH-22 + 3 大 conotruncal: TOF + Truncus + IAA）"→ 生成 [[完整笔记/专题笔记/心内/心内_CHD_DiGeorge综合征]] ⭐ 优先级高
-  - 整合"PDA 关闭后突发休克 4 大鉴别（HLHS / IAA / Critical Coarctation / Critical AS）"→ 生成 [[完整笔记/专题笔记/衍生/_衍生_新生儿PDA关闭休克]]
-  - 整合"差异性紫绀鉴别（IAA / Coarctation / 持续性肺动脉高压 / Eisenmenger）"→ 生成 [[完整笔记/专题笔记/衍生/_衍生_差异性紫绀]]
+  - 整合"PDA 关闭后突发休克 4 大鉴别（HLHS / IAA / Critical Coarctation / Critical AS）"→ 生成 [[完整笔记/专题笔记/_衍生_新生儿PDA关闭休克]]
+  - 整合"差异性紫绀鉴别（IAA / Coarctation / 持续性肺动脉高压 / Eisenmenger）"→ 生成 [[完整笔记/专题笔记/_衍生_差异性紫绀]]
 
 ---
 
