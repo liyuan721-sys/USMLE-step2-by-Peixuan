@@ -157,16 +157,23 @@ NE 再摄取抑制相对强度（越往下，高剂量越要盯血压）
 |---|---|---|---|---|
 | **Aripiprazole** | 低 | 低 | 低 | 副作用最小、最"干净"；部分激动 → 可致激越/失眠；几乎不升泌乳素 |
 | **Clozapine** | **很高** | **很低** | 中 | 唯一对**难治性精神分裂 + 降低自杀风险**有效；agranulocytosis |
-| **Olanzapine** | **很高** | 低 | 低 | 代谢副作用最重之一；镇静强 |
-| **Quetiapine** | 中 | **很低** | 中 | EPS 极少 → 用于 **PD 精神病**；强镇静（小剂量当安眠用） |
-| **Risperidone** | 中 | 高（剂量依赖） | 低 | SGA 中 **高泌乳素血症**最突出；高剂量近似 FGA |
-| **Ziprasidone** | 低 | 中 | **高** | 代谢负担小但 **QT 延长最明显** → 心脏病史慎用 |
+| **Lurasidone** | 低 | 中 | 低 | 代谢负担小（与 Aripiprazole 同列肥胖/糖尿病首选）；EPS 中等 → 怕 EPS 时不优先；**必须随餐 ≥350 kcal 服**（空腹吸收减半）|
+| **Olanzapine** | **很高** | 低 | 中 | 代谢副作用最重之一；镇静强 |
+| **Quetiapine** | **高** | **很低** | 中 | EPS 极少 → 用于 **PD 精神病**；强镇静（小剂量当安眠用） |
+| **Risperidone** | **高** | 高（剂量依赖） | 中 | SGA 中 **高泌乳素血症**最突出；高剂量近似 FGA |
+| **Ziprasidone** | 低 | 低 | **高** | 代谢负担小但 **QT 延长最明显** → 心脏病史慎用 |
+
+> [!info] UWorld 官方 SGA 副作用对比表（来源 [[mistakes/uworld-mistakes#^Park1-2026-05-22]]）
+> 上表已对齐 UW 数值（2026-05-22 入库 Park1 卡截图）。**考试以 UW 三档评级为准**：Aripiprazole / Lurasidone / Ziprasidone 代谢低；Clozapine / Olanzapine 代谢"很高"；Risperidone EPS 高；Ziprasidone QT 高。**记忆轴线 = "副作用最低 = Aripiprazole 三低；最危险 = Olanzapine/Clozapine 代谢 + Ziprasidone QT + Risperidone EPS"**。
+>
+> ![[{EA3EBE9B-A1FE-4C6E-B47D-36294E1526CC}.png]]
 
 > [!tip] 临床决策速查
 > - 肥胖 / 糖尿病 / 血脂高 → 避开 Olanzapine、Clozapine，选 **Aripiprazole / Ziprasidone / Lurasidone**。
-> - 已有运动障碍 / 怕 EPS → 选 **Quetiapine / Clozapine**（EPS 最低）。
+> - 已有运动障碍 / 怕 EPS → 选 **Quetiapine / Clozapine**（EPS 最低）；避开 Risperidone、Lurasidone。
 > - 心脏病 / 基线 QT 长 → 避开 **Ziprasidone**，选 Aripiprazole / Lurasidone。
 > - 泌乳素相关问题（闭经/溢乳）→ 避开 Risperidone，换 **Aripiprazole**。
+> - 难治性精分 / 自杀风险高 → **Clozapine**（要查 ANC，注意 myocarditis / seizure / 流涎 / 便秘）。
 
 ### 2.3 Clozapine 适应症与监测
 

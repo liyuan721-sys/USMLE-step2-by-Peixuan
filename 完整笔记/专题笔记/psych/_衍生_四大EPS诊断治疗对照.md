@@ -143,6 +143,9 @@ type: 专题笔记
 > [!tip] 选药口诀
 > **"已得 TD 想换药 → quetiapine 或 clozapine；多药失败 + 难治精分叠加 TD → clozapine 一药两担。"**
 
+> [!info] 完整 SGA 三维副作用（代谢 / EPS / QT）UW 官方表
+> 本节只展示 TD 风险纵切；**全 SGA 三维副作用对比表**（含代谢综合征、EPS、QT 延长 7 药对照）见 [[完整笔记/专题笔记/psych/psych_精神科药物副作用速查#2.2 SGA 各药副作用表]]（图 UW 来源 → [[mistakes/uworld-mistakes#^Park1-2026-05-22]]）。该表与本节 TD 风险分层对齐：**Risperidone EPS 高** ↔ TD 风险中-高；**Clozapine / Quetiapine EPS 极低** ↔ TD 风险最低。
+
 ---
 
 ## 六、读题 SOP（防止误判）

@@ -15661,7 +15661,8 @@
 > - **"抗精神病药致 DIP → 换 quetiapine / clozapine 或减量；千万别 levodopa（吃药的同时给 DA = 自己跟自己打架）"**
 > - DIP 阶梯：**减药 → 换药 → 抗胆碱 / amantadine** —— levodopa **完全不在阶梯里**
 > - 反向钩：题干提到 "haloperidol / risperidone" + 帕金森症 → 选项里**任何"加 levodopa"一律划掉**
->
+
+![[{EA3EBE9B-A1FE-4C6E-B47D-36294E1526CC}.png]]
 > ---
 >
 > ## 🤔 我的提问 / 卡点
