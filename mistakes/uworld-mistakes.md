@@ -16614,6 +16614,70 @@
 >
 > 学科:: Psych
 > 主题:: ADHD 用药决策（成人 + 物质滥用史/拒成瘾药 → Atomoxetine 首选）/ Stimulant vs Nonstimulant 一二线 / Nonstimulant 内部成人(Atomoxetine NRI) vs 儿童(Clonidine/Guanfacine α2-agonist) 人群分层 / α2-agonist 镇静特性 = 儿科合并 tics/失眠加分 / Modafinil 仍是 scheduled substance 不满足"非成瘾"诉求
+
+> [!example]- [2026-05-23] Psych / GAD vs Social Anxiety in Children (Q16153)
+> ^Q16153
+>
+> ## Stem 模式
+> 儿童 + 担忧对象横跨**多个不相关领域**（学业表现 + 怕被同学笑 + 怕入室盗窃查锁）+ 易激惹 + 躯体化（晨起肚子疼）+ 入睡困难 + 注意力差 + 病程"for the past year"（≥6 个月）。
+>
+> ## 核心概念
+> GAD = 对**多个不相关领域**的过度、不可控担忧，病程≥6 个月。**儿童只需≥1 项**附加症状（成人需≥3 项）。儿童常以躯体化、易激惹、睡眠障碍、注意力差为表现。
+>
+> ## 普适规则：做焦虑题 SOP = 先数"担忧靶点"
+>
+> ```
+> 第一步：盘点 stem 里的担忧靶点
+>   ├─ 多个、不相关 (学业+社交+安全)  → GAD (探照灯)
+>   └─ 单一聚焦                        → 再看是哪类靶点 (激光笔)
+>            ├─ 社交/表演中被负面评价  → Social Anxiety
+>            ├─ 与照护者分离            → Separation Anxiety
+>            ├─ 特定物体/情境          → Specific Phobia
+>            └─ 侵入思维+仪式化强迫行为 → OCD
+> ```
+>
+> | 障碍 | 担忧靶点 | 标志特征 | 病程 |
+> |---|---|---|---|
+> | **GAD** | 多个、不相关领域 | 弥漫"什么都担心" | ≥6 月 |
+> | **Social Anxiety** | 单一：社交被负面评价 | 怕出丑/被笑/被审视 | ≥6 月 |
+> | **Separation Anxiety** | 单一：与照护者分离 | 拒学/独睡/怕父母出事 | ≥4 周(儿童) |
+> | **OCD** | 侵入思维 | 仪式化强迫行为(耗时>1h/天) | — |
+> | **Specific Phobia** | 单一：特定物体/情境 | 即刻过度恐惧+回避 | ≥6 月 |
+>
+> 儿童 vs 成人 GAD：不可控担忧(必需) + 附加症状成人**≥3**项 / 儿童**≥1**项 + 病程≥6 月。6 项附加症状 = restlessness / fatigue / 注意力↓ / irritability / muscle tension / sleep disturbance。
+>
+> ## 易混陷阱（普适）
+> 焦虑题里出现**一条社交担忧 ≠ social anxiety**。Social anxiety 是 GAD 的"子集陷阱"——题目故意放一条最显眼的社交担忧当诱饵，再藏≥1 条非社交担忧（怕进贼、怕作业不好）让你鉴别。决定诊断的是**担忧靶点的数量与性质**，不是某一条担忧的内容。同理：儿童**不下人格障碍诊断**（OCPD 排除）；焦虑驱动的易激惹 ≠ ODD 的 willful defiance。
+>
+> ## 我为什么错
+> 被高亮句 "she will say something stupid and other kids will laugh at her" 强烈牵引，单看像 social anxiety 教科书定义，直接锁定 F。根本错因：① 没做"担忧靶点盘点"，漏掉"怕进贼/查锁"这条非社交担忧；② 把"包含社交担忧"等同于"social anxiety"，没区分多靶点 vs 单靶点。
+>
+> ## Memory Hook
+> **GAD = 探照灯（扫遍全场：学习+社交+安全都照到）；Social Anxiety = 激光笔（只点一个红点：只怕被评价）。** 三个"担忧抽屉"全满 → 全员焦虑 = GAD；只有社交抽屉满 → 才是 social anxiety。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - GAD 和 social anxiety 怎么区分？→ 学到：看担忧靶点数量，多领域泛化=GAD，单一聚焦"被评价"=social anxiety。
+> - 儿童 GAD 诊断和成人一样吗？→ 学到：附加症状儿童只需≥1 项（成人≥3 项），其余标准相同。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q8909]] DSM-5 焦虑障碍鉴别 — SAD vs Specific Phobia vs Panic vs Agoraphobia（同框架："怕什么"/担忧靶点为主轴；那题考成人 SAD 子型，本题考儿童 GAD vs SAD 鉴别 — 互补）
+>   - [[mistakes/uworld-mistakes#^Q21090]] 围产期 GAD（**同陷阱**：USMLE 用一个生活事件外壳[怀孕/儿童学业]把多领域 worry 包装得像单一议题，实际辐射多领域 → GAD）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/儿科]]（儿童 GAD 诊断阈值≠成人：仅需≥1 项附加症状；儿童躯体化/拒学常见）
+> - 🌱 TODO（待生成衍生）：等 psych 焦虑障碍部分复习完后，整合"焦虑障碍鉴别"系列错题（GAD / social / separation / OCD / panic / specific phobia）→ 生成 [[完整笔记/专题笔记/psych/_衍生_焦虑障碍鉴别速查]]（核心：以"担忧靶点数量+性质"为主轴的决策树；与 Q8909 TODO `psych_DSM5焦虑障碍鉴别决策树` 同主题，建衍生时合并去重）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后盲做 Q16153，重点练"先数靶点"这一步
+> - [ ] 默写焦虑障碍"一家人"对比表 + 儿童/成人 GAD 附加症状要求（≥1 vs ≥3）
+> - [ ] 找 3 道类似题：混入诱饵社交担忧的 GAD 题 / separation 拒学题 / OCD 仪式行为题
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: GAD vs Social Anxiety 鉴别（儿童）/ 焦虑题 SOP = 先数"担忧靶点"（多个不相关→GAD / 单一→看靶点类型）/ Social Anxiety 是 GAD "子集陷阱"（一条社交担忧 ≠ social anxiety）/ 儿童 GAD 附加症状阈值≠成人（≥1 vs ≥3）/ 病程≥6 月 / 儿童 GAD 常以躯体化-易激惹-睡眠-注意力差表现 / 焦虑驱动易激惹 ≠ ODD willful defiance / 儿童不下人格障碍诊断
 > 状态:: 🟡
 > 错因:: 知识
 
