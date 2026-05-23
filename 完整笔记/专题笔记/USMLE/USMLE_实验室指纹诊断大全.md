@@ -206,6 +206,42 @@ source_错题: Q17169 触发
 > [!info] 与 1.8 DI 的隐藏联动
 > 1° HPT 严重时 → 高血钙 → **肾性 DI**（CaSR 激活拮抗 ADH → AQP2↓ → 尿无法浓缩）→ 多尿 + 多饮 stem。"多尿 + 高 Ca" 出现在同一题 → 优先想 HPT / VitD 中毒。
 
+### 1.10 内源性高胰岛素血症 / 低血糖鉴别 ⭐
+
+| 指纹 | **Whipple 三联征**（症状 + 实测 Glu↓ + 补糖缓解）+ **Insulin** / **C-peptide** / **Proinsulin** / **磺脲类血药筛查** 四联化验 |
+|---|---|
+| **机制核心** | C-peptide = 自产胰岛素的"身份证"（与 insulin 等摩尔从 proinsulin 剪切而来）；外源针剂无 C-peptide → C-pep 是内源 vs 外源的分水岭 |
+| **典型患者** | 见下表 4 行 stem 关键词 |
+| **诊断 SOP** | ① 先确认 Whipple 三联征（不是化验偶发低糖）② 补糖前抽 insulin + C-pep + proinsulin + 磺脲类筛查 + β-hydroxybutyrate ③ 按下表锁分支 |
+
+**「一家人」四联对比表**：
+
+| 病因 | Insulin | C-peptide | Proinsulin | 磺脲类筛查 | Stem 关键词 |
+|---|---|---|---|---|---|
+| **Insulinoma** | ↑ | ↑ | ↑ | 阴性 | >40 岁、孤立肿瘤、MEN1 关联 |
+| **磺脲类偷用**（Surreptitious sulfonylurea）| ↑ | ↑ | ↑ | **阳性** ⭐ | 年轻、家属 DM、医护/有药渠道 |
+| **外源注射胰岛素** | ↑ | **↓** ⭐ | ↓ | 阴性 | 医护、抑郁、Munchausen、C-pep 低 |
+| **酒精/饥饿/败血症/肾上腺/垂体功能↓** | ↓/正常 | ↓/正常 | — | 阴性 | 酗酒、营养不良、危重、Addison |
+
+> [!success] 一句话区分本质 — C-peptide 是身份证
+> 自产胰岛素带身份证（C-pep 与 insulin 等摩尔成对↑）；外面打进来的针剂没身份证（insulin↑ 但 **C-pep↓**）。**两都高 = 内源**；磺脲筛查阳性 = 偷药；C-peptide↓ = 注射胰岛素。
+
+> [!warning] 高频陷阱（必看）
+> - **Insulinoma vs 磺脲偷用化验完全一样**（都两高 + proinsulin 高）→ 唯一区别 = **磺脲类血药筛查**；年轻 + 有药物渠道 → 概率上先想磺脲。
+> - **C-peptide↓ 反向题**：insulin↑ + C-pep↓ 直接锁"外源注射胰岛素"，不要被"insulin 高"骗去想 insulinoma。
+> - **化验题眼 > 人口学画像**：UW 经典套路用"年轻女学生 + 期末压力 + 偏瘦"诱导你选进食障碍/催吐（[[mistakes/uworld-mistakes#^Q20217|Q20217]] 触发题）；化验值已锁死分支，人口学只是钓饵。
+> - **酒精 / 饥饿 / 呕吐性低血糖**：insulin 不高（非胰岛素介导）；呕吐还会有 OH + 代碱 + 低氯（一同审）。
+> - **"家属有 DM" / "医护身份"** = UW 固定的**药物获取渠道**关键词 → 立刻怀疑 surreptitious。
+
+> [!info] Whipple 三联征 vs Whipple 病（同名陷阱）
+> - **Whipple 三联征**（Whipple's triad）= 低血糖准入门槛：症状 + 实测 Glu↓ + 补糖缓解
+> - **Whipple 病**（Whipple's disease）= *Tropheryma whipplei* 感染：关节痛 + 腹泻 + 吸收不良 + CNS 受累；PAS-阳性巨噬细胞
+> - 两个完全不同 — Stem 出现"Whipple"先看上下文
+
+| **详见** | [[完整笔记/Peixuan分科笔记/endocrine]] / 触发题 [[mistakes/uworld-mistakes#^Q20217|Q20217]] |
+|---|---|
+| **跨学科** | [[完整笔记/Peixuan分科笔记/psych]]（surreptitious sulfonylurea use → factitious disorder；C-pep↓ 注射胰岛素 → Munchausen / 医护 factitious — 心理动机评估见 [[mistakes/uworld-mistakes#^Q3719\|Q3719]]）|
+
 ---
 
 ## Part 2. 肾 / 电解质 / 酸碱指纹
