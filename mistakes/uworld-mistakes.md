@@ -16384,3 +16384,77 @@
 > 状态:: 🟡
 > 错因:: 知识
 
+> [!example]- [2026-05-22] 精神科 / Cluster B 人格障碍鉴别 (Q16310)
+> ^Q16310
+>
+> **1. Stem 模式**
+> 成年人「极度需要被关注 + 戏剧化情绪流泪 + 性暗示/重视外表 + 高估关系亲密度（"我以为他是我朋友"）+ 言语夸张但空泛」→ 锁 Histrionic PD。本题易混 E（HPD）vs F（NPD）。
+>
+> **2. 核心概念**
+> Cluster B（dramatic/emotional/erratic 戏剧情绪型）一家四口：HPD / NPD / BPD / ASPD。都「作」、情绪强，区分关键 = **患者真正在追求什么**。
+> - HPD（戏精）= 要 **attention 注意**
+> - NPD（自恋）= 要 **admiration 崇拜**
+> - BPD（边缘）= 怕 **abandonment 被抛弃**
+> - ASPD（反社会）= 漠视他人权利
+>
+> **3. 普适规则（Cluster B 鉴别决策树）**
+> ```
+>          Cluster B（都戏剧化/情绪强）
+>                    │
+>     ┌──────┬───────┴───────┬──────────┐
+>    HPD     NPD            BPD        ASPD
+>  「看我！」「崇拜我」    「别离开我」 漠视他人
+>     │       │              │           │
+>  戏剧化情绪  自大+特权感    自残+splitting 犯罪+说谎+
+>  性暗示/外表 缺共情+剥削    空虚+动荡关系  无悔意+表面魅力
+>  高估亲密    情绪平稳(冷)   怕被抛弃      +15岁前 CD史
+>  言语空泛    要被仰望      理想化↔贬低翻转
+> ```
+> | | 核心驱动 | 钉死关键词 |
+> |---|---|---|
+> | HPD | attention | 戏剧化哭笑、性暗示、impressionistic vague speech、高估亲密 |
+> | NPD | admiration | grandiosity、entitlement、lack of empathy、affect calm |
+> | BPD | abandonment | recurrent self-harm、splitting、chronic emptiness、unstable relationships |
+> | ASPD | 漠视权利 | 犯罪/说谎/无悔意/表面魅力 + **≥18岁 且 15岁前 conduct disorder** |
+>
+> **4. 易混陷阱（普适）**
+> - **HPD vs NPD**：两者都要「被关注」（最大陷阱）。区分 = 情绪。HPD 戏剧化流泪表演；NPD 情绪冷、要被崇拜、缺共情、剥削他人。
+> - **HPD vs BPD**：两者都情绪强烈+关系动荡。区分 = 自残 / 怕被抛弃 / 空虚 / splitting 只属 BPD；HPD 不自残、只怕「没人看」。
+> - **ASPD 诊断硬条件**：成年反社会行为不够，**必须有 15 岁前 conduct disorder（纵火/虐待动物/打架/偷窃）**；患者 ≥18 岁。「持续 6 个月」「情绪不稳 ≥2 年」均为编造干扰项——人格障碍要求 persistent pattern since early adulthood，无短时长门槛。
+>
+> **5. 我为什么错（个性化）**
+> 原题做对（选 E），但 E/F 主观混淆——「都要被关注」导致 HPD/NPD 边界模糊。根本卡点 = 没抓住「情绪温度」这个鉴别轴（HPD 热/戏剧化 vs NPD 冷/平稳）。自测时 BPD 题误选「center of attention」（HPD 特征）→ 暴露 BPD/HPD 也会互混。
+>
+> **6. Memory Hook**
+> - HPD 在台上**哭着表演**求你看她；NPD 站台上**冷冷地**等你鼓掌崇拜他。
+> - 三个 A 口诀：HPD = **A**ttention / NPD = **A**dmiration / BPD = avoid **A**bandonment。
+> - ASPD：成人犯罪先别急着选 → **追问 15 岁前有没有 conduct disorder**，没童年史诊断不成立。
+>
+> ---
+>
+> **7. 🤔 我的提问 / 卡点**
+> - 「E、F 有点混淆」→ 学到：HPD/NPD 都求关注，区分靠情绪温度（戏剧化 vs 冷静）+ NPD 独有的 grandiosity/entitlement/缺共情。
+> - 自测误选 HPD 特征到 BPD 题 → 学到：BPD 最特异 = 自残 + 怕被抛弃 + splitting + 空虚，不是「center of attention」。
+> - ASPD 诊断条件题 → 学到：必须 ≥18 岁 + 15 岁前 conduct disorder，时长类选项（6 个月 / 2 年）是陷阱。
+>
+> **8. 🔗 关联**
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q16309]] Paranoid Personality Disorder（Cluster A 镜像 — 同 personality disorder 家族，PPD「Weird」cluster vs 本题「Wild」cluster；两题共建 Cluster A/B/C 全图）
+>   - [[mistakes/uworld-mistakes#^Q4816]] PDD vs Personality Disorder 鉴别（同 personality disorder 主题 — PD 不靠时间靠 persistent pattern since early adulthood，本题 §4 也踩这个点）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
+> - 🌱 TODO（待生成衍生）：等 psych 章节复习完，请 Claude Code 整合 Cluster B 人格障碍错题（HPD/NPD/BPD/ASPD 鉴别 + 各自诊断硬条件）→ 生成 [[完整笔记/专题笔记/psych/_衍生_ClusterB人格障碍鉴别表]]（与 Q16309 TODO 的 [[完整笔记/专题笔记/psych/psych_人格障碍鉴别速查]] 可合并为 Cluster A/B/C 全图）
+>
+> **9. ✅ 复盘行动**
+> - [ ] 1 周后重做本题 + 4 道自测题
+> - [ ] 默写 Cluster B 四人「核心驱动 + 钉死关键词」对比表（盲写）
+> - [ ] 默写 ASPD 诊断三要素（≥18 / 15岁前 CD / 成年反社会模式）
+> - [ ] 找 3 道 Cluster A（paranoid/schizoid/schizotypal）+ Cluster C（avoidant/dependent/OCPD）题，补全人格障碍全图
+> - [ ] psych 复习完触发上面 🌱 TODO
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Cluster B 人格障碍鉴别（HPD = attention 戏剧化情绪 / NPD = admiration 冷情绪 + grandiosity + 缺共情 / BPD = avoid abandonment 自残 + splitting + 空虚 / ASPD = 漠视权利 + ≥18 岁 + 15 岁前 conduct disorder）/ HPD vs NPD 情绪温度轴（热戏剧 vs 冷崇拜）/ PD 诊断要 persistent pattern since early adulthood 无短时长门槛
+> 状态:: 🟡
+> 错因:: 知识
+
