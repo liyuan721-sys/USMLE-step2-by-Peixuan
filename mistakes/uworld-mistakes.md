@@ -16458,3 +16458,87 @@
 > 状态:: 🟡
 > 错因:: 知识
 
+> [!example]- [2026-05-22] 儿科 / Psych — Parent Management Training (PMT) 适应症 · ADHD 跨场所标准 (Q107408) ✅做对
+> ^Q107408
+>
+> ## 1. Stem 模式
+> 6 岁女孩「多动 + 冲动」4 个月（家中精力旺、抢兄妹玩具、超市跑掉、装修区不听话）+ **学校 3 周前进步报告无行为问题、成绩中等** + **诊室安静玩手机** + 生命体征/体格/生长正常 + 父亲读 discipline 书无效 → next step？
+>
+> ## 2. 核心概念
+> **行为问题局限单一场所（仅家中）≠ ADHD**。ADHD 诊断硬门槛 = 症状 **跨多场所**（家 + 学校 + 诊室）；只在家出问题 → 怀疑**亲子关系 / 无效养育**，治疗首选 **Parent Management Training (PMT, 家长管理训练)** — 5-10 周结构化课程，教 A-B-C 框架（Antecedents / Behaviors / Consequences）。
+> Answer = **E. Recommend parent management training**。
+>
+> ## 3. 普适规则
+>
+> ### PMT 三段框架 A-B-C（双栏 — 用 / 避）
+>
+> | 段 | 焦点 | 用（鼓励 wanted） | 避（强化 unwanted） |
+> |---|---|---|---|
+> | **A**ntecedents 前因 | 沟通引导 | clear instructions / 平静语调 / 提供 alternative choices | 唠叨 / 威胁 / 苛责 / 体罚恐吓 |
+> | **B**ehaviors 行为 | 演练有效亲子互动 | shaping（小目标 → 大目标）/ artificial 角色扮演 → realistic 情景 | — |
+> | **C**onsequences 后果 | 一致后果 | 表扬（言语 + 非言语）/ token reward 奖励系统 | extinction（忽略 / 走开）/ mild punishment（剥夺特权）|
+>
+> ### 儿童多动/冲动 → ADHD vs PMT 决策树
+>
+> ```
+> 多动 / 冲动 / 注意力问题
+>         │
+> 问：跨多场所吗（school + home + office）？
+>         │
+>   ┌─────┴─────┐
+>  跨多场所       仅在家
+>   │             │
+>  考虑 ADHD     PMT 一线
+>  （+ 排查铅、 （亲子关系 / 无效养育）
+>   甲状腺等）
+>         │
+>   症状显著 + 功能受损
+>         │
+>   药物三档：
+>   ① 兴奋剂：methylphenidate / amphetamine（一线）
+>   ② 非兴奋剂：atomoxetine（NE 再摄取抑制）
+>   ③ α2 激动剂：clonidine / guanfacine
+> ```
+>
+> ## 4. 易混陷阱（普适）
+> - **"多动 + 冲动 = ADHD"反射** → 必须看**跨场所**。本题学校无问题 + 诊室安静 = ADHD 排除门槛没过，**直接上 methylphenidate (B) / clonidine (F) 都错**。
+> - **"减屏幕时间"听起来对**（A 干扰项）→ 屏幕作为"calm down"工具反而强化 unwanted behavior、应该改，但**单独不够**，且 disobedience 不局限于屏幕（超市跑掉、装修区不听）。Single intervention 治不了整体亲子模式。
+> - **铅暴露**（C 干扰项）→ 铅中毒行为/认知问题**也跨多场所**（学校也会受影响），单一家庭表现不符。
+> - **"reassurance 行为符合年龄"**（D 干扰项）→ 超市跑掉 + 装修区不听 = 安全风险，不能 reassurance；父亲已尝试 self-help 书无效更说明需要主动干预。
+> - **ADHD 用药 vs 行为干预谁先**：诊断不成立时不要先给药；即使确诊 ADHD，**< 6 岁首选行为干预**（含 PMT），≥ 6 岁可与药并用。
+>
+> ## 5. 我为什么错（个性化）
+> 做对（选 E）。核心收获 = 把"行为问题跨不跨场所"作为 ADHD 排除/纳入的**硬门槛** + PMT 是单一家庭场所行为问题的一线，不要被"多动+冲动"buzzword 直接拉去选兴奋剂/α2 激动剂。
+>
+> ## 6. Memory Hook
+> - **"在家闹 + 学校乖 = 不是 ADHD，是 PMT。"** 跨场所是 ADHD 的天花板，过不去就别开兴奋剂。
+> - PMT 三段 = **A-B-C**：**A**ntecedents（怎么说）/ **B**ehaviors（怎么演）/ **C**onsequences（怎么收尾）。
+> - 反向钩：题干给「school 报告 / 诊室表现 / 多 setting 评估」= 在替你**做跨场所判断**（同 Q3380 选择性缄默"在家说话、外面不说"反向套路 — 看不看跨场所是同一框架）。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> （本题做对，无主动提问）核心收获：① ADHD 诊断硬门槛 = 跨多场所，学校无问题 + 诊室安静即可排除 ② 行为问题单一场所 → PMT 一线，不是药 ③ PMT 框架 = A-B-C 三段 + "用什么 / 避什么"双栏 ④ 儿童行为题的 USMLE 套路：先看"症状跨不跨场所"再决定 ADHD vs 养育/关系问题 ⑤ ADHD 药物三档：兴奋剂 → atomoxetine → α2 激动剂。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q3380]] Selective Mutism（同 **儿科 psych + 跨场所差异** 套路 — SM 是"家里说话、外面不说"; 本题是"家里闹、外面不闹"; 反向但同框架）
+>   - [[mistakes/uworld-mistakes#^Q15047]] Reactive Attachment Disorder（同 **儿科 psych + 跨场所** 套路 + 发育里程碑/学校表现常被题干用来排 ASD / ADHD / 发育迟缓 / 铅中毒）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/儿科]] / [[完整笔记/Peixuan分科笔记/psych]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（ADHD 药物谱 — methylphenidate / amphetamine / atomoxetine / clonidine / guanfacine；与 [[mistakes/uworld-mistakes#^Q14554]] ADHD 药物精神病鉴别题同源）
+> - 🌱 TODO（待生成衍生）：等儿科 + psych 章节复习完，请 Claude Code 整合「儿童行为问题决策树（ADHD / PMT / ODD / CD / RAD / DSED / SM）+ 跨场所标准 + ADHD 药物谱（兴奋剂 / atomoxetine / α2 激动剂）」→ 生成 [[完整笔记/专题笔记/儿科/_衍生_儿童行为问题决策树与跨场所差异]]
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 PMT 三段（A-B-C）+ 每段"用什么 / 避什么"对照
+> - [ ] 默写"ADHD 跨场所标准"作为第一道排除/纳入门槛
+> - [ ] 默写 ADHD 药物谱（兴奋剂 methylphenidate/amphetamine → atomoxetine → α2 激动剂 clonidine/guanfacine）
+> - [ ] 默写"< 6 岁 ADHD 首选行为干预 / ≥ 6 岁可药 + 行为并用"
+> - [ ] 找 3 道类似题：ODD / Conduct Disorder / 儿童 ADHD 诊断 / 铅中毒行为表现
+>
+> ---
+>
+> 学科:: 儿科
+> 主题:: Parent Management Training (PMT) 适应症（行为问题局限单一场所 + self-help 尝试无效）/ ADHD 跨场所诊断硬门槛（school + home + office 多场所才考虑；仅家中 → 排除 ADHD）/ PMT A-B-C 三段框架（Antecedents 沟通 / Behaviors 演练 / Consequences 后果）+ 每段"用 / 避"双栏 / ADHD 药物三档（兴奋剂 methylphenidate-amphetamine → atomoxetine → α2 激动剂 clonidine-guanfacine）/ < 6 岁 ADHD 首选行为干预 / 反向钩：题干给"school 报告 + 诊室表现 + 多 setting 评估" = 替你做跨场所判断
+> 状态:: 🟢
+> 错因:: ✅ 做对（知识入库）
+
