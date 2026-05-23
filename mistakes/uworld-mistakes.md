@@ -17045,3 +17045,205 @@
 > 状态:: 🟡
 > 错因:: 干扰项
 
+> [!example]- [2026-05-23] psych / Borderline Personality Disorder 治疗层级（一线 DBT / Mood stabilizer 只是辅助）(Q15071)
+> ^Q15071
+>
+> ## Stem 模式
+> 24M 与女友吵架后用碎玻璃割腕 + 自述「不是想自杀，只是不知道怎么处理 anger」/ 自青少年起 depression + anger / 17 岁自杀未遂史 / **情绪 "minutes to minutes" 不可预测漂移** / SSRI（fluoxetine + sertraline）trial 失败 + 性副作用 / 体检仅 2 cm 浅表前臂裂伤、**无 SI / 无幻觉妄想** → 最合适的下一步治疗？
+>
+> ## 核心概念
+> **Borderline Personality Disorder (BPD, 边缘型人格障碍)** 一线 = **Dialectical Behavior Therapy (DBT, 辩证行为治疗)**。药物（mood stabilizer / atypical AP / antidepressant）**只是辅助**，不能取代心理治疗 — 它们不治 BPD 的核心病理（人际不稳 + 自我形象碎裂 + 情绪反应性）。
+>
+> ## 普适规则
+>
+> ### 一、BPD 诊断（DSM-5：≥5/9 项）
+>
+> | # | 标准 | Stem 关键词 |
+> |---|---|---|
+> | 1 | Frantic 避免被抛弃 | "girlfriend left" 即崩溃 |
+> | 2 | 不稳定/激烈人际关系 | idealize ↔ devalue（love-hate）|
+> | 3 | **持续不稳定的自我形象** | "I don't know who I am" |
+> | 4 | ≥2 领域冲动自损 | 滥用、性、暴食、飙车、消费 |
+> | 5 | **反复 SI / 自伤行为** | 割腕、烫伤（cutting as control）|
+> | 6 | **情绪不稳（marked mood reactivity）** | minutes-hours 漂移 |
+> | 7 | 慢性空虚感 | "empty inside" |
+> | 8 | **不当强烈愤怒** | "can't deal with anger" |
+> | 9 | 应激性短暂偏执 / 解离 | 高压下 transient psychotic |
+>
+> ### 二、BPD vs Bipolar 情绪不稳鉴别（高频陷阱）
+>
+> | 维度 | BPD | Bipolar |
+> |---|---|---|
+> | **情绪漂移时长** | **minutes → hours** | **days → weeks**（episode）|
+> | 触发 | **situational stressor**（被拒/被抛弃）| 多为自发，无需触发 |
+> | 自我形象 | 不稳定、碎裂 | 平时正常，episode 中变化 |
+> | 治疗 | **DBT 一线** | Mood stabilizer / Atypical AP 一线 |
+>
+> ### 三、BPD 治疗层级（核心 — 本题考点）
+>
+> ```
+> Borderline Personality Disorder
+>     │
+>     ├─ 一线（核心）：心理治疗 ⭐
+>     │   └─ Dialectical Behavior Therapy (DBT)
+>     │       = CBT + 正念 + 情绪调节 + 痛苦容忍
+>     │       专为 BPD 开发，证据最强
+>     │   └─ 其他可用：MBT / TFP / Schema-focused CBT
+>     │
+>     ├─ 二线（辅助 — adjunct，不替代 DBT）：
+>     │   ├─ Atypical antipsychotic（治 mood instability + transient psychosis）
+>     │   └─ Mood stabilizer（lithium / valproate）（治 impulsivity / 情绪不稳）
+>     │   ※ 关键词：adjunctive，不能单独用
+>     │
+>     └─ 抗抑郁药（SSRI / SNRI / bupropion / venlafaxine）：
+>         └─ 仅当**共病 MDD 或焦虑障碍**才用
+>         └─ 对 BPD 核心空虚感、慢性抑郁感**无效**（本题 SSRI 失败是典型表现）
+> ```
+>
+> ## 易混陷阱（普适）
+> - **SSRI 失败 ≠ 升级 mood stabilizer**：BPD 病人的 "depression / anger" 是人格底色，不是 MDD/Bipolar — 应该**横向切换到 DBT**，不是纵向升级药物。
+> - **Mood stabilizer（lithium / valproate）≠ BPD 一线**：它们是 Bipolar 一线；BPD 里**只能 adjunct**。若 stem 给"mood instability" + 选项有 mood stabilizer + 没 psychotherapy → 干扰项。
+> - **"不想死，只想处理 anger"≠ 排除自杀风险**：BPD 自伤 ≠ SI，但是 **lifetime 自杀完成率 ~10%**；治疗仍以 DBT 为核心（DBT 本身降自杀率）。
+> - **Occupational therapy 是干扰项专业陷阱**：OT 教 ADL（吃/穿/煮饭）不是情绪管理；BPD 的"丢工作"原因是情绪失控，不是技能缺失。
+> - **Couples counseling 不是 BPD 一线**：改善沟通但不针对 BPD 的核心（自我形象碎裂 + 情绪调节）。
+> - **Antidepressant 适应症窄**：只在 BPD + 共病 MDD/anxiety 才上；单独"BPD 慢性抑郁感"不上 AD。
+>
+> ## 我为什么错
+> - 选了：**F. Valproate**
+> - 错因：**干扰项 + 知识混淆**
+> - 核心陷阱：被 stem 里 "moods shift unpredictably from one minute to the next" + "previous SSRI trial 失败" 带向 "升级到 mood stabilizer" 的药物思路，**没意识到 BPD 治疗的本质是心理治疗（DBT）而非药物**。Mood stabilizer 在 BPD 里**只是 adjunct**，不是 next step；而且本题没用过 psychotherapy，应该先上一线 DBT。
+> - 元错误：把 "情绪不稳 = 给 mood stabilizer" 这条 Bipolar 反射用到了 BPD 上 — **诊断决定治疗范式（心理 vs 药物），不能跨诊断套用**。
+>
+> ## Memory Hook
+> - **一句话锁定**：**BPD = DBT 一线，药物全是 adjunct；SSRI 失败 → 换治疗范式（去 DBT），不是换药。**
+> - **类比挂钩**：BPD 像「房子地基有裂缝」(自我形象 + 人际模式)，药物（mood stabilizer）= 给客厅装空调（让情绪不那么忽冷忽热），但**地基的裂缝得靠 DBT 重新打**。光装空调（valproate）不补地基（DBT），房子还是会塌。
+> - **反向钩**：看到「青少年起 / 自伤 / 反复 SI / 关系崩 / SSRI 无效 / 情绪 minutes 漂」→ 立刻锁 BPD → **选项里有 DBT 就选它**；没有 DBT 才考虑 psychotherapy 类干扰项区分。
+> - **BPD vs Bipolar 计时器**：「**B**P**D** 漂 **几分钟**；**B**ipola**r** 漂 **几周**。」（BPD 短、bipolar 长 — 短的对短的）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q：「为什么 SSRI 之前 trial 失败了，下一步不是升级到 mood stabilizer？」→ 学到：**SSRI 在 BPD 里本来就不是一线** — 它的适应症是"共病 MDD/焦虑"；本题 stem 没明确共病 MDD（"depression and anger problems since teenager"是人格底色，不是 MDD episode）。SSRI 失败说明的不是"该升级药"，而是"药物路径选错了，回归 DBT"。
+> - Q：「BPD 的自伤算 SI 吗？要不要按自杀风险评估降险（hospitalize）？」→ 学到：**BPD 自伤 ≠ SI**，是情绪调节手段（"cutting as control"），病人明确说「不想死，想处理 anger」就是教科书表述。本题没 SI / 无 plan / 无 intent → 不需要住院。但 lifetime 自杀完成率 ~10%，长期管理仍以 DBT 为核心（DBT 独立降自杀率）。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q16309]] Paranoid PD ✅做对（Cluster A，本题 Cluster B；同为 PD 诊断对比）
+>   - [[mistakes/uworld-mistakes#^Q4816]] PDD vs 人格障碍鉴别（"先找僵化行为模式，找不到只有情绪 → 回情绪障碍"；本题反过来：有 PD 模式 → 不能只看 mood）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（BPD 章节 ~ 行 2015-2031）
+> - 📋 治疗 SOP：[[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP#3.5 心理治疗对号入座]]（DBT-BPD 行）+ 新增 §3.6 BPD 治疗层级（adjunct vs 一线）
+> - 🏥 跨学科：暂无明显跨学科（BPD 是纯精神科）；潜在关联 — [[完整笔记/Peixuan分科笔记/psych]] 自杀风险评估（BPD 长期自杀风险管理）
+> - 🌱 TODO（待生成衍生）：人格障碍错题已积累 3 道（Q16309 PPD + Q4816 PDD-PD 鉴别 + Q15071 BPD）→ 再积累 2+ 道 → 生成 [[完整笔记/专题笔记/psych/psych_人格障碍鉴别速查]]（Cluster A/B/C 全表 + 高频混淆：BPD vs Histrionic / BPD vs Bipolar / OCPD vs OCD / Schizoid vs Avoidant 等）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后盲做重做（先想"诊断决定治疗范式"再看选项）
+> - [ ] 默写 BPD 治疗三层级（DBT 一线 / 药物 adjunct / AD 仅共病）
+> - [ ] 默写 BPD vs Bipolar 情绪漂移时长表（minutes-hours vs days-weeks）
+> - [ ] 找 3 道类似题：BPD + 共病 MDD（要不要 SSRI）/ BPD + 急性 psychosis（要不要 IM AP）/ Cluster B 鉴别（BPD vs Histrionic vs Antisocial）
+> - [ ] 若再错 → 给 [[完整笔记/Peixuan分科笔记/psych]] BPD 章节加「薄弱点」
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Borderline Personality Disorder 治疗层级（DBT 一线 / Mood stabilizer 仅 adjunct / Antidepressant 仅共病）/ BPD 9 大诊断标准 ≥5 项 / BPD vs Bipolar 情绪漂移时长（minutes-hours vs days-weeks）/ 诊断决定治疗范式（心理治疗 vs 药物，不可跨诊断套用）/ SSRI 失败 ≠ 升级 mood stabilizer，应横切到 DBT / BPD 自伤 ≠ SI（cutting as control，明确"不想死"）/ Occupational therapy 干扰项陷阱（OT 治 ADL，不治情绪）/ 反向钩：青少年起 + 自伤 + 反复 SI + 关系崩 + SSRI 无效 + 情绪 minutes 漂 → 锁 BPD → 选 DBT
+> 状态:: 🟡
+> 错因:: 干扰项
+
+> [!example]- [2026-05-23] psych / 儿童 GAD 一线药 = SSRI（sertraline）+ Tetrabenazine 干扰项陷阱（VMAT2 是 Tourette/Huntington 不是焦虑）(Q20930)
+> ^Q20930
+>
+> ## Stem 模式
+> 13F + 注意力差 1 月（新学校触发）/ mind "goes blank" 上课 / **"thinks the worst is going to happen" + "since she was little"**（catastrophic + 慢性）/ 妈妈"constantly remind her to calm down"（穿越多领域 worry）/ 完美主义 + 担心失学 + 担心上不了大学 / VS 正常、生长正常、体检正常 / MSE：合作但 **fidgets in seat**（motor restlessness）→ 最合适 pharmacotherapy？
+>
+> ## 核心概念
+> 儿童 / 青少年 **GAD** 一线 = **SSRI（sertraline）+ CBT**（与成人相同）。Tetrabenazine 是 **VMAT2 抑制剂**，治**运动过度障碍**（Tourette / Huntington 舞蹈病 / Tardive dyskinesia），**与焦虑无关**。
+>
+> ## 普适规则
+>
+> ### 一、儿童 GAD 诊断（DSM-5）
+>
+> - 多领域过度担忧 **≥6 个月** + 难以控制
+> - 儿童**只需 ≥1 条**附加症状（成人 ≥3）：restless / fatigue / 注意力差 / 易怒 / 肌紧张 / 睡眠差
+> - 关联：躯体症状（腹痛 / 头痛）+ **perfectionism**
+> - 鉴别诊断（DDx）：
+>   - **Adjustment disorder**（应激源明确、急性 < 6 月）
+>   - **OCD**（侵入思维 + 仪式）
+>   - **Separation anxiety**（仅怕离开 caregiver）
+>   - **Social anxiety**（仅怕社交评价）
+>
+> ### 二、儿童 GAD 药物决策树（USMLE 高频）
+>
+> ```
+> 儿童/青少年 GAD（症状达 distressing/impairing）
+>     │
+>     ├─ 一线 ⭐：SSRI（sertraline / fluoxetine / escitalopram）+ CBT
+>     │   ※ 注意儿童 BBW：青少年 SSRI 可↑自杀念头 → 起始低剂量 + 密切监测
+>     │   ※ FDA 批 pediatric GAD：duloxetine（SNRI，≥7岁）；off-label 常用 sertraline
+>     │
+>     ├─ 二线：Buspirone（无成瘾 + 专属 GAD；GAD 之外的焦虑无效）
+>     │
+>     └─ 短期临时 / 情境性（如术前）：Hydroxyzine（抗组胺）
+>         ※ 不用于慢性 GAD 长期维持
+> ```
+>
+> ### 三、5 个选项一刀切（本题对比表）
+>
+> | 选项 | 药 | 真适应症 | 在 GAD 是否对？|
+> |---|---|---|---|
+> | A | Hydroxyzine | 短期 / 情境性焦虑（preop） | ❌ 非慢性 GAD 一线 |
+> | B | Methylphenidate | **ADHD**（症状必须 **< 12 岁前** 多场所） | ❌ 本题"recent" + 焦虑慢性 → 是 GAD 不是 ADHD |
+> | **C** | **Sertraline** | **儿童 GAD 一线（SSRI）** | ✅ |
+> | D | Propranolol | **Performance anxiety**（成人表演 / 演讲）| ❌ 本题 worry 不限于 performance |
+> | E | **Tetrabenazine** | **VMAT2 抑制剂** → **Tourette / Huntington 舞蹈病 / Tardive dyskinesia** | ❌ **与焦虑完全无关** |
+>
+> ## 易混陷阱（普适）
+> - **GAD fidgeting ≠ tic**：GAD 的 motor restlessness（fidget / leg shake / 坐不住）是**焦虑的躯体表现**；Tourette **必须有 motor + vocal tic 各 ≥1 种 + 病程 > 1 年 + < 18 岁起病**。本题没有 vocal tic、没"can briefly suppress" → 不是 Tourette。
+> - **Tetrabenazine 药理学定位**：VMAT2 抑制剂 → 减少突触前 DA 包装 → 治 **hyperkinetic movement disorders**（Tourette / HD / TD）；**焦虑题里出现 = 钓饵**。
+> - **儿童注意力差 ≠ ADHD**：ADHD 要求症状 **< 12 岁前** + **多场所**（school + home）持续 ≥6 月；本题"recent" + 起于换学校 + 慢性焦虑底色 → GAD 引起的注意力差（焦虑 → 工作记忆负荷 → mind goes blank）。
+> - **Propranolol 适应症窄**：仅 **performance anxiety**（演讲 / 表演 / 公开讲话）；不治弥漫性 GAD。
+> - **Hydroxyzine 适应症窄**：术前 / 短期情境性焦虑；不维持慢性 GAD。
+> - **"since she was little" + "thinks the worst" + 多领域 worry** = 锁 GAD 三件套；不要被"新学校"应激源误导成 Adjustment disorder（AD 要求 < 6 月 + 应激源 3 月内出现，本题慢性"since little"）。
+>
+> ## 我为什么错
+> - 选了：**E. Tetrabenazine**
+> - 错因：**干扰项 + 知识缺口（药理学）**
+> - 核心陷阱：① 把 stem 里的 "fidgets in her seat" 当成了 Tourette tic（实际是 GAD 的 motor restlessness — 没有 vocal tic、没"可短暂抑制"特征）；② 不熟悉 Tetrabenazine 的真适应症（VMAT2 抑制剂 = hyperkinetic movement disorder，与焦虑零关系）；③ **没先做诊断**就跳到选项 — 应该先锁 GAD（catastrophic + since little + 多领域 + 完美主义），诊断锁定后 SSRI 是教科书答案。
+> - 元错误：**药理学冷僻药记成"陌生 = 答案"** — Tetrabenazine 看起来生僻 → 误以为是"难度题的答案"。实际 USMLE 给冷僻药通常是**干扰项**或**药理学考点**（这里考的就是"你知道 Tetrabenazine 不是焦虑药吗"）。
+>
+> ## Memory Hook
+> - **一句话锁定**：**儿童 GAD = sertraline + CBT；Tetrabenazine 是 Tourette/HD 的"VMAT2 关多巴胺水龙头"，不沾焦虑。**
+> - **类比挂钩**：Tetrabenazine **拆 = "tetra-benazine"**，把"benazine"（"苯肼"运动相关）+ tetra（四）联想 — 「关 4 个 DA 水龙头治多动症（tic / 舞蹈）」；焦虑题看到它**直接划掉**。
+> - **fidget 三鉴别**：① **GAD** = motor restlessness（焦虑底色 + 多领域 worry）② **ADHD** = 过度活动（< 12 岁 + 多场所）③ **Tourette** = tic（motor + vocal + 可短暂抑制 + 起于儿童 < 18 岁）。同样"坐不住"，问诊深度决定诊断。
+> - **儿童 SSRI BBW 反射**：青少年 SSRI 起始 → **低剂量 + 密切监测自杀念头**（不是"不能用"，是"监测起来用"）。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q：「Tetrabenazine 到底治什么？为什么 USMLE 在焦虑题里放它当干扰项？」→ 学到：Tetrabenazine = **VMAT2 抑制剂**，FDA 批准用于 ① **Huntington's chorea 舞蹈症** ② **Tourette 综合征**（Deutetrabenazine / Valbenazine 也批准 **tardive dyskinesia**）。机制：阻断突触前囊泡再摄取多巴胺 → 减少 DA 释放 → 控制 hyperkinetic movement。**焦虑不涉及 DA 过度释放**，所以与 GAD/SAD/Panic 都无关；USMLE 用它当"冷僻药钓饵"测试你的药理学定位能力。
+> - Q：「为什么不是 ADHD？mind goes blank + 注意力差不是 ADHD 经典表现吗？」→ 学到：ADHD 硬门槛 = ① **症状必须起于 < 12 岁前** ② **多场所（school + home + 社交）持续 ≥6 月** ③ 不是其他疾病更好解释。本题 "recent" 注意力问题（1 月，起于换学校）+ 有慢性焦虑底色（catastrophic since little）→ **焦虑 → 工作记忆负荷 → 注意力差** 更合理（GAD 一线症状之一就是 "difficulty concentrating"）。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题（按时间倒序）：
+>   - [[mistakes/uworld-mistakes#^Q16153]] GAD vs Social Anxiety 儿童（2026-05-23；"一条社交担忧 ≠ SAD，先数靶点数"）
+>   - [[mistakes/uworld-mistakes#^Q21090]] 围产期 GAD（2026-05-19；"生活事件外壳 ≠ 单一议题"）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（GAD in children 已有"#薄弱点"标记，行 2152）
+> - 📋 治疗 SOP：[[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP#3.2 焦虑谱系（先数靶点 → 再分配药）]]（GAD 一线 SSRI/SNRI/CBT；Buspirone 二线；已新增 §五反向钩 — Tetrabenazine = 焦虑题钓饵）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/儿科]]（儿童 GAD vs ADHD 鉴别 — 起病 < 12 岁 + 多场所是 ADHD 硬门槛）
+>   - [[完整笔记/Peixuan分科笔记/neuro]]（Tetrabenazine 真适应症：Huntington's chorea / Tourette / Tardive dyskinesia 的 VMAT2 抑制机制）
+> - 🌱 TODO（待生成衍生）：（暂不新建 — §3.2 已覆盖儿童 GAD 一线药；本题增量已并入 §五反向钩 "Tetrabenazine 焦虑题钓饵"）；待积累儿童精神药 5+ 道 → 整合 [[完整笔记/专题笔记/psych/psych_儿童精神药速查]]（SSRI BBW + ADHD 三档 + α2 + 焦虑药）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后盲做重做（先锁诊断再看选项）
+> - [ ] 默写 5 选项一刀切表（hydroxyzine 短期 / methylphenidate ADHD / sertraline GAD / propranolol performance / tetrabenazine Tourette-HD）
+> - [ ] 默写 fidget 三鉴别（GAD vs ADHD vs Tourette）
+> - [ ] 找 3 道类似题：儿童 SAD 一线 / 儿童 OCD 一线 / Tourette 一线（α2 agonist / Tetrabenazine 何时用）
+> - [ ] 若再错 → 给 [[完整笔记/Peixuan分科笔记/psych]] GAD in children 章节维持「薄弱点」并加「考前必看」
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: 儿童 GAD 一线药（SSRI sertraline + CBT）/ GAD DSM-5 儿童版（≥6mo 多领域担忧 + ≥1 附加症状 vs 成人 ≥3）/ Tetrabenazine 药理学定位（VMAT2 抑制剂 → Tourette / Huntington 舞蹈病 / Tardive dyskinesia，与焦虑无关）/ Fidget 三鉴别（GAD motor restlessness vs ADHD 过度活动 vs Tourette tic 可短暂抑制）/ ADHD 硬门槛（< 12 岁前起病 + 多场所 ≥6 月）/ Propranolol = performance anxiety 仅 / Hydroxyzine = 短期情境性焦虑（preop）/ "since little" + "thinks the worst" + 多领域 worry = 儿童 GAD 三件套 / 反向钩：焦虑题里出现 Tetrabenazine → 直接划掉
+> 状态:: 🟡
+> 错因:: 干扰项
+
