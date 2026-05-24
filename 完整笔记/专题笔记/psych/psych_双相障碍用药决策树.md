@@ -64,12 +64,64 @@ type: 专题笔记
 
 ---
 
-## 三、各相一线"池子"（不是任选，按特征抽）
+## 三、急性 mania 治疗时序（3 层框架）+ 各相一线"池子"
+
+> [!danger] 急性 mania 3 层时序框架 ⭐（防"IM/PO/维持"混淆）
+> **看到 bipolar 急性发作题先识别哪一层**，每层选药完全不同：
+>
+> ```
+> ═══════════════════════════════════════════════════════════════
+> Layer 0  急性激越 / 拒口服 / 暴力（分钟-小时）
+> ═══════════════════════════════════════════════════════════════
+>    ➜ IM haloperidol + IM lorazepam（双管齐下"硬控"）⭐
+>    ➜ 或 IM olanzapine / ziprasidone（需 ECG）
+>    ➜ 几分钟到几十分钟起效，目的 = 镇静 + 安全
+>    ➜ Stem 暗号："agitated / aggressive / violent /
+>                refuses oral medication / restraints / restraints needed"
+>    ➜ ❌ Li / VPA / Lamotrigine 都是 PO + 数天滴定 → 救不了急
+>
+> ═══════════════════════════════════════════════════════════════
+> Layer 1  急性 mania（配合 + PO 可用，0-7 天到数周）⭐
+> ═══════════════════════════════════════════════════════════════
+>    ➜ 口服 SGA + 起 mood stabilizer 滴定（"联合治疗"=本层 + Layer 2）
+>    ➜ SGA：olanzapine / risperidone / aripiprazole / quetiapine
+>           （从 LV2 池子按特征抽）
+>    ➜ Mood stabilizer：Lithium（金标准）或 Valproate（混合/快速循环偏）
+>    ➜ 两药并用原因 = SGA 起效快（数天）桥接 mood stab 起效空窗期
+>                    （Li 5-7 天达治疗血药；VPA 几天）
+>    ➜ Stem 暗号："severe mania / psychotic features / aggressive history /
+>                frequent hospitalizations" + 配合 PO + initial treatment
+>
+> ═══════════════════════════════════════════════════════════════
+> Layer 2  维持期（数月-终身）
+> ═══════════════════════════════════════════════════════════════
+>    ➜ Mood stabilizer 4 选 1（Li / VPA / Quet / LTG）按特征否决 ⭐
+>    ➜ 严重 / 反复发作 → mood stab + SGA 长期联合
+>    ➜ 轻-中度 / 单次发作稳定 → mood stab 单药维持
+>    ➜ Stem 暗号："maintenance / prevent recurrence / long-term /
+>                stable on current regimen / after acute episode resolved"
+>    ➜ 4 选 1 详见 [[mistakes/uworld-mistakes#^Q2357]] 🔴
+> ═══════════════════════════════════════════════════════════════
+> ```
+
+> [!tip] USMLE stem 暗号 → Layer 识别表 ⭐
+>
+> | Stem 关键词 | Layer | 选药方向 |
+> |---|---|---|
+> | "immediate / agitated / refuses PO / violent / restraints" | **Layer 0** | **IM** haloperidol + lorazepam |
+> | "initial pharmacotherapy / severe + 配合 PO / psychotic features" | **Layer 1** | **PO** SGA + 起 mood stab 联合 |
+> | "maintenance / prevent recurrence / long-term / stable" | **Layer 2** | Mood stab 4 选 1 ± SGA |
+> | "best long-term agent to reduce suicide" | **Layer 2** | **Lithium**（唯一降自杀） |
+> | "patient with renal disease starting bipolar maintenance" | **Layer 2** | **Valproate**（避 Li 肾毒） |
+>
+> **反射钩**：读题先圈"immediate" / "initial" / "maintenance" 这三个词 → 锁 Layer。
+
+### 各相一线"池子"（Layer 1 急性期 + Layer 2 维持期主用 — Layer 0 用 IM 急救药不在此池）
 
 ```
-当前相 ─┬ 急性躁狂 → Li / VPA / 二代(Quet/Olanz/Risp等,无Lura)  ← LV2
-        ├ 急性抑郁 → Li / OFC / Lamotrigine / 二代(Quet·Lura)           ← LOL2
-        └ 维持期   → Lithium / Valproate / Lamotrigine / 二代抗精神病药  ← LV2＋Lamo
+当前相 ─┬ 急性躁狂 (Layer 1) → Li / VPA / 二代(Quet/Olanz/Risp等,无Lura)  ← LV2
+        ├ 急性抑郁 (Layer 1) → Li / OFC / Lamotrigine / 二代(Quet·Lura)    ← LOL2
+        └ 维持期   (Layer 2) → Lithium / Valproate / Lamotrigine / 二代抗精神病药  ← LV2＋Lamo
 铁律:抗抑郁药禁单用(全相通用)
 ```
 
@@ -92,24 +144,41 @@ type: 专题笔记
 > - **维持期的 2** = Quetiapine（及 Olanzapine / Aripiprazole）。
 > - **Quetiapine 三相都在 = 全相通吃**；**Lurasidone 只在抑郁**。→ 真正"全相通用"的骨架是 **Lithium ＋ Quetiapine**，不是笼统的"二代"。
 
-> [!warning] 急性躁狂"两步走"—— 尤其有精神病性激越时
-> stem 出现**急性激越**（喊叫、砸门、扔东西、攻击行为）时，选药分两步：
-> 1. **先快速控制行为**：选**抗精神病药**（一代 / 二代均可）—— 因为可**肌注（IM）给药** (olanzapine / haloperidol) + **起效快**，激越患者常拒服口服药。
-> 2. **病人冷静、愿口服后**：再加 **Lithium 或 Valproate** 做心境稳定。
-> 3. **辅助用药**：失眠 / 激越可短期加**苯二氮䓬类（BZD）**辅助镇静 —— 仅辅助，不替代心境稳定治疗。
-> 
-> **为什么不首选 Li / VPA 压急性激越**：两者都需**口服** + **数天逐步滴定**才达治疗血药浓度 → 对"此刻就要压住"的激越太慢（Lamotrigine 更慢，还要防 SJS）。
-> 口诀：**"激越先打针（IM 抗精神病药），冷静再口服（Li / VPA）。"**
+> [!warning] 急性躁狂"两步走" = Layer 0 → Layer 1 衔接 ⭐
+> stem 出现**急性激越**（喊叫、砸门、扔东西、攻击行为 / 拒口服）时，选药分两步：
+>
+> **Step 1 = Layer 0**：**先快速控制行为** — **IM 抗精神病药 + IM 苯二氮䓬**
+>    - **IM haloperidol + IM lorazepam**（双管齐下 — 最经典 USMLE 答案）⭐
+>    - 或 IM olanzapine / ziprasidone（ziprasidone 需 ECG）
+>    - 几分钟到几十分钟起效，目的 = 镇静 + 安全
+>    - [[mistakes/uworld-mistakes#^Q15856]] 5-22 错题就是这一层
+>
+> **Step 2 = Layer 1**：**病人冷静、愿口服后** — **PO SGA + 起 mood stabilizer**
+>    - SGA：olanzapine / risperidone / aripiprazole / quetiapine 任选
+>    - + **Lithium 或 Valproate** PO 起始滴定
+>    - **辅助**：失眠 / 残余激越可短期加 PO 苯二氮䓬 — 仅辅助，不替代 mood stab
+>
+> **为什么 Layer 0 不直接用 Li / VPA**：两者都需 **PO + 数天逐步滴定**才达治疗血药浓度 → 救不了"此刻就要压住"的激越（Lamotrigine 更慢，还要防 SJS）。
+>
+> **口诀**：**"激越先打针（IM Layer 0），冷静再口服（PO Layer 1：SGA + mood stab）。"**
 
-> [!danger] 联合治疗（Combination therapy）—— 严重发作的一线
+> [!danger] 联合治疗（Combination therapy）= Layer 1 + Layer 2 严重发作主轴 ⭐
+> ⚠️ **不是 Layer 0 急性激越的 IM 急救** — 那是 IM 抗精神病药 + IM lorazepam（见上方"两步走"）；这里讲的是**配合 PO 之后的整体方案**。
+>
 > **单药 vs 联合取决于严重度**：
-> - **轻 - 中度** → 单药（从对应相的池子里按特征抽）。
-> - **重度**（精神病性、攻击行为、自伤 / 伤人风险、频繁发作 / 反复住院）→ **常需联合治疗**。
-> 
-> **一线联合方案 = Lithium 或 Valproate ＋ 一种二代抗精神病药（如 Quetiapine）。**
-> 高频干扰项：
-> - ❌ **两种二代抗精神病药联用** —— 不是一线（公式是"心境稳定剂 ＋ 1 种抗精神病药"）。
-> - ❌ 严重发作仍只给单药 —— 压不住。
+> - **轻 - 中度** → 单药（从对应相的池子里按特征抽）
+> - **重度**（精神病性、攻击行为、自伤 / 伤人风险、频繁发作 / 反复住院）→ **常需联合治疗**（贯穿 Layer 1 急性 + Layer 2 维持）
+>
+> **一线联合方案 = Lithium 或 Valproate ＋ 一种二代抗精神病药（如 Quetiapine）** — 即 **mood stab + SGA** 公式。
+>
+> **三层时序里这条公式怎么落地**：
+> - **Layer 1 急性配合 PO**：PO SGA + 起 mood stab 滴定（SGA 桥接 mood stab 起效）
+> - **Layer 2 维持**：mood stab 继续 + SGA 看是否保留（严重 / 反复发作 → 联合保留；稳定后 → 可减 SGA 单留 mood stab）
+>
+> **高频干扰项**：
+> - ❌ **两种二代抗精神病药联用** — 不是一线（公式是"**mood stab ＋ 1 种 SGA**"，不是"2 种 SGA"）
+> - ❌ 严重发作仍只给单药 — 压不住
+> - ❌ 把 Layer 0 IM haloperidol+lorazepam 当作"联合治疗" — 那是急性激越镇静双联，不是 bipolar 治疗"联合方案"本身
 
 > [!info] OFC = Olanzapine-Fluoxetine Combination（Symbyax）
 > 把抗抑郁药（Fluoxetine）配心境稳定"刹车"（Olanzapine）→ 双相抑郁一线。
@@ -248,15 +317,17 @@ type: 专题笔记
 > 6. 怕代谢副作用 → 选 Lurasidone，避 Olanzapine。
 > 7. Lamotrigine 急性期想快速起效 = 错（必须慢加量防 SJS）。
 > 8. 用锂患者出现脱水/NSAID/ACEI/噻嗪 → 警惕锂中毒。
-> 9. 急性精神病性激越 → 先选**可 IM、起效快的抗精神病药**；用 Li / VPA / Lamotrigine 压急性激越 = 错（口服 + 需数天滴定）。
-> 10. 严重发作（精神病性 / 攻击 / 反复住院）只给单药 = 错 → 要**联合**（心境稳定剂 ＋ 二代抗精神病药）；两种二代联用也错。
-> 11. 患者想停维持药、当前稳定 → **不停药、不换药、不单用心理治疗**；非评判式教育 ＋ 多次随访；严重双相 I 无限期维持。
+> 9. **Layer 0 急性激越 / 拒 PO** → **IM haloperidol + IM lorazepam**（双管齐下）；用 PO Li / VPA / Lamotrigine 压急性激越 = 错（口服 + 需数天滴定救不了急）。
+> 10. **Layer 1 + 2 严重发作**（精神病性 / 攻击 / 反复住院）只给单药 = 错 → 要 **mood stab ＋ 1 种 SGA 联合**；2 种 SGA 联用也错；**把 Layer 0 的 IM 双联当作 bipolar 联合方案** 也错。
+> 11. **Layer 2 维持期**患者当前稳定却想停药 → **不停药、不换药、不单用心理治疗**；非评判式教育 ＋ 多次随访；严重 BP I 无限期维持。
 > 12. 双相 + **高钙血症** → 想到 **Lithium**（致甲旁亢）；不是二代抗精神病药 / 其他心境稳定剂。
 > 13. 双相 + **肾功能不全 / Cr↑ / 肾病家族史** → 维持选 **Valproate**，避 Lithium。
 > 14. 双相用药题里出现 **Topiramate** = 干扰项（对双相无效）。
 
 > [!success] 一句话总记忆
 > **"先定相、再定阶段、抗抑郁别单飞；自杀选锂、育龄避丙、皮疹防拉莫、长胖盯二代；激越先打针、重症要联合、维持别擅停。"**
+>
+> **3 层时序口诀**：**"Layer 0 IM 急救（haloperidol + lorazepam）→ Layer 1 PO 联合（SGA + mood stab）→ Layer 2 维持 4 选 1（Li / VPA / Quet / LTG 按否决）。"** 读题先圈 immediate / initial / maintenance 锁层。
 
 ---
 

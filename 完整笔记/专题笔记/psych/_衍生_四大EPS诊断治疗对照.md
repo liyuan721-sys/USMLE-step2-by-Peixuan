@@ -30,24 +30,46 @@ type: 专题笔记
    月-年     → Tardive dyskinesia (TD)
 ```
 
-> [!tip] 治疗逻辑
-> - Dystonia / parkinsonism = **DA↓·ACh↑** → 压 ACh（**抗胆碱能**：benztropine / diphenhydramine / amantadine）
-> - Akathisia = β-能驱动 → β 阻断（**propranolol**）
-> - TD = **慢性 D2 阻断 → D2 受体超敏（supersensitivity）**，与急性 DA↓·ACh↑ **机制不同** → 抗胆碱**无效甚至加重**；用 **VMAT2 抑制剂**减少突触前 DA 释放，或**减量 / 换低 D2 亲和药**
+> [!tip] 治疗逻辑（机制层 vs 临床决策优先级）
+> 机制层：
+> - **Acute dystonia** / **DIP** = DA↓·ACh↑ → 压 ACh 或补 DA 都能改善症状
+> - **Akathisia** = β-能驱动 → β 阻断（**propranolol**）
+> - **TD** = **慢性 D2 阻断 → D2 受体超敏（supersensitivity）**，与急性 DA↓·ACh↑ **机制不同** → 抗胆碱**无效甚至加重** → 用 **VMAT2 抑制剂**减少突触前 DA 释放，或**减量 / 换低 D2 亲和药**
+>
+> **临床决策优先级**（⭐ USMLE 真考点 — 与机制层 ≠ 同义）：
+> - **Acute dystonia**：抗胆碱 IM **一线**（机制对症 = 临床一线，急救场景）
+> - **DIP**：⚠️ **减/停元凶 + 换低 D2 SGA 一线**（不是抗胆碱）— 元凶在体外，撤药根治；抗胆碱只是症状性辅助，老年慎用
+> - **Akathisia**：propranolol **一线**（非抗胆碱）
+> - **TD**：VMAT2 + 换药 **一线**（抗胆碱反加重）
+>
+> **抗胆碱专属一线阵地 = Acute dystonia only**。看到其他三个 EPS 选抗胆碱 = 钓饵。
 
 ---
 
 ## 二、四大 EPS 速查金表（背熟它）
 
-| EPS | 起病时间 | 经典表现 | 一线治疗 | Stem buzzwords |
+> [!danger] ⭐ 优先级铁律（防"benztropine 万能"反射）
+> **抗胆碱（benztropine / diphenhydramine）= 一线 ONLY 对 Acute dystonia**。其他三个 EPS：
+> - **Akathisia → propranolol 一线**（benztropine 不是常规备选 — 作用弱、副作用多）
+> - **DIP → 减/停元凶 + 换低 D2 SGA 一线**（benztropine **二线辅助**，老年慎用）
+> - **TD → ❌ benztropine 反加重**（D2 超敏机制 ≠ ACh 相对↑）
+>
+> **下表"一线治疗"列严格按 first-line 写**；二线 / 备选放在括号内 + 标注角色。
+
+| EPS | 起病时间 | 经典表现 | **一线治疗** ⭐ | Stem buzzwords |
 |---|---|---|---|---|
 | **Acute dystonia** 急性肌张力障碍 | **小时–天** | 头颈持续收缩、torticollis 斜颈、**oculogyric crisis 动眼危象**、舌肌痉挛、jaw clenching；神志清醒 | **Benztropine** 或 **diphenhydramine**（IM 数分钟起效）| "stiff neck"、"eyes rolled up"、"tongue protruding"、术后/止吐药打完 1 小时 |
-| **Akathisia** 静坐不能 | **天–周** | **主观**内在不安、坐立不能、踱步、fidget；加量更糟 | **减量 + propranolol（首选）**；备选 benztropine / 苯二氮卓 | "can't sit still"、"pacing"、"restless"、加量后更糟 |
-| **Drug-induced parkinsonism** 药源性帕金森 | **周–月** | 静止性震颤、**铅管样**僵直、运动迟缓、慌张步态、面具脸 | **减量** / **amantadine** / benztropine | "tremor at rest"、"rigidity"、"mask-like face"、"shuffling gait" |
-| **Tardive dyskinesia (TD)** 迟发性运动障碍 | **月–年（>6 月）** | **口面部**舞蹈样：lip smacking、吐舌、grimacing、咀嚼样；肢体/躯干 choreoathetoid 运动；神志清醒 | **VMAT2 抑制剂**（valbenazine / deutetrabenazine）；**减量**（首选但常不可行）；**换 quetiapine / clozapine**；★抗胆碱无效甚至加重★ | "long-term use"、"lip smacking"、"tongue protrusion"、"chewing"、>6 月用药 |
+| **Akathisia** 静坐不能 | **天–周** | **主观**内在不安、坐立不能、踱步、fidget；加量更糟 | **① 减量元凶 + ② propranolol**（β 阻断）⭐；难治二线 mirtazapine / 苯二氮卓 / benztropine（**弱效，非常规备选**） | "can't sit still"、"pacing"、"restless"、加量后更糟 |
+| **Drug-induced parkinsonism** 药源性帕金森 | **周–月** | 静止性震颤、**铅管样**僵直、运动迟缓、慌张步态、面具脸 | **① 减/停元凶 + ② 换低 D2 SGA**（quetiapine / clozapine）⭐；不可减药 / 残余症状二线辅助：**amantadine**（首选辅助）/ **benztropine**（老年慎用 — 谵妄/尿潴留风险） | "tremor at rest"、"rigidity"、"mask-like face"、"shuffling gait"、长期抗精神病药 |
+| **Tardive dyskinesia (TD)** 迟发性运动障碍 | **月–年（>6 月）** | **口面部**舞蹈样：lip smacking、吐舌、grimacing、咀嚼样；肢体/躯干 choreoathetoid 运动；神志清醒 | **① 结构性：减/停元凶 + 换低 D2 SGA（clozapine ⭐ 优先 / quetiapine 次选）⭐** + **② 药物性：VMAT2 抑制剂（valbenazine / deutetrabenazine FDA 批准）⭐** — **两层并行**（不是三选一）；⚠️ 突然减药 → withdrawal-emergent dyskinesia 短期加重 → 减药要慢 + 同时上 VMAT2 缓冲；★抗胆碱反加重 / 加量原药短期掩盖长期恶化★ | "long-term use"、"lip smacking"、"tongue protrusion"、"chewing"、>6 月用药 |
 
-> [!warning] 时间窗 + 治疗药速记
-> **"时-天 dystonia → 抗胆碱；天-周 akathisia → β阻滞；周-月 parkinsonism → 减量·amantadine；月-年 TD → VMAT2·换药"**
+> [!warning] 时间窗 + 治疗药速记（精修版）
+> **"时-天 dystonia → 抗胆碱 ⭐；天-周 akathisia → propranolol（不是抗胆碱）；周-月 DIP → 减元凶 + 换低 D2（抗胆碱二线）；月-年 TD → VMAT2 + 换药（抗胆碱反加重）"**
+>
+> **抗胆碱专属阵地** = **Acute dystonia 一线 only**。其他三个看到选项有 benztropine → 不是首选。
+
+> [!danger] 用户 Q9 错题元教训（2026-05-24）
+> 用户 5-24 浩斯宾 Q9（DIP 处理）误选 benztropine — 反射来源 = 旧版本金表"减量 / amantadine / benztropine"三项**并列**让人误以为 benztropine 是 DIP 一线之一。**新版金表已收紧：DIP 一线 = 减元凶 + 换低 D2 SGA**，benztropine 是二线辅助且老年慎用。教训：**速查表的简化并列不等于优先级相等** — 始终核对 §三 药物角色表 + §4.3 阶梯。
 
 ---
 
@@ -55,14 +77,17 @@ type: 专题笔记
 
 | 药 | 机制 | 治 | 加重 / 无效 |
 |---|---|---|---|
-| **Benztropine** 苯托品 | 抗胆碱 | acute dystonia / parkinsonism | **TD（加重）**|
-| **Diphenhydramine** 苯海拉明 | 抗组胺 + 强抗胆碱 | acute dystonia | TD |
-| **Amantadine** 金刚烷胺 | 促 DA 释放 + 弱 NMDA 拮抗 | parkinsonism | — |
-| **Propranolol** 普萘洛尔 | β 阻滞 | **akathisia 首选** | — |
-| **Benzodiazepine** | GABA-A 激动 | akathisia 备选 | — |
-| **Valbenazine / Deutetrabenazine** | **VMAT2 抑制**（突触前↓ DA 释放）| **TD 一线** | — |
-| **Quetiapine / Clozapine** | 低 D2 亲和 SGA | **TD 换药**；clozapine 兼治难治性精分 | — |
-| **Haloperidol** | 高效价 D2 阻断 (FGA) | **EPS 治疗题里永远是错答案**（自己就是元凶）| 全部 EPS |
+| **Benztropine** 苯托品 | 抗胆碱 | **Acute dystonia ⭐ 一线**（IM 数分钟起效）；**DIP 二线辅助**（仅在不可减元凶/换低 D2 时考虑，**老年慎用** — 谵妄/尿潴留/视模糊/加重痴呆）；idiopathic PD 震颤为主（老年慎用） | ❌ **TD（反加重）**；❌ Akathisia（弱效非常规备选，propranolol 优先） |
+| **Diphenhydramine** 苯海拉明 | 抗组胺 + 强抗胆碱 | **Acute dystonia 一线替代**（同 benztropine，镇静更强可助焦虑） | ❌ TD；❌ 慢性 EPS（镇静累积） |
+| **Amantadine** 金刚烷胺 | 促 DA 释放 + 弱 NMDA 拮抗 | **DIP 二线辅助首选**（优于 benztropine — 无抗胆碱副作用，老年友好）；levodopa 诱导 dyskinesia；治流感（M2 通道，现少用） | ⚠️ PD psychosis 中**加重**（多巴胺能药） |
+| **Propranolol** 普萘洛尔 | β 阻滞 | **Akathisia ⭐ 一线** | — |
+| **Mirtazapine** | 5-HT2A 拮抗 + α2 拮抗 | **Akathisia 二线**（证据较 propranolol 弱 — 当 propranolol 禁忌如哮喘 / 严重 bradycardia 时） | — |
+| **Benzodiazepine** | GABA-A 激动 | Akathisia 三线备选（短期，避免依赖） | — |
+| **Valbenazine / Deutetrabenazine** | **VMAT2 抑制**（突触前↓ DA 释放）| **TD 一线**（FDA 批准）| — |
+| **Clozapine** | 极弱 D2 + 多受体（5-HT2A / M1 / H1 / α1） | **TD 换药首选 ⭐**（证据最强 + 自己几乎不致 TD + 兼治难治性精分；需 ANC 监测）；DIP 换药；PD psychosis 第 5 步备选 | ⚠️ Agranulocytosis（ANC 监测）/ 癫痫（剂量依赖）/ 心肌炎 / 流涎 |
+| **Quetiapine** | 极弱 D2 SGA | **DIP / TD 换药一线**（减/停原元凶后换）；**PD psychosis 第 5 步首选**（availability + safety 最佳） | 镇静 / 体重↑ / 直立性低血压 |
+| **Haloperidol / Risperidone / Olanzapine** | 中-高 D2 拮抗 | ❌ **EPS 治疗题里永远是错答案**（自己就是元凶）；PD psychosis 禁用 | 加重全部 EPS |
+| **Levodopa-carbidopa** | DA 前体 | **Idiopathic PD 一线**；❌ **DIP 中禁用**（D2 被阻断突破不了 + 加重 psychosis） | DIP / PD psychosis |
 
 > [!danger] ★最高频死法★
 > **"用对药、认错病"** —— Benztropine / diphenhydramine 治 dystonia / parkinsonism 一流，**用到 TD 上无效甚至加重**。看到「lip smacking / 吐舌 / 长期用药数月-数年」→ TD → 选 VMAT2 / 换药，**绝不选 benztropine**。
@@ -120,10 +145,33 @@ type: 专题笔记
 - **谁致病**：长期 D2 阻断 → D2 受体**超敏（supersensitivity）**；FGA > SGA；**risperidone 在 SGA 中较高**；**clozapine / quetiapine 低**；metoclopramide 长期用也可致 TD
 - **何时**：用药**月-年（>6 月）**；"tardive" = 迟到
 - **动作**：**口面部**为典型 —— lip smacking、吐舌、grimacing、咀嚼样；肢体/躯干 choreoathetoid 运动
-- **三阶梯处理**：
-  1. **减量**（首选但常不可行——减量会恶化精神病）
-  2. **VMAT2 抑制剂** valbenazine / deutetrabenazine（FDA 批准用于 TD）
-  3. **换低 TD 风险抗精神病药** quetiapine / **clozapine**；**多药反应差史 → clozapine 优先**（同时是难治性精分的金标准）
+- **治疗结构（与 DIP 平行 — 两层并行不是三选一）**：
+
+  **① 结构性（治本 — 减少 D2 阻断刺激）**：
+  - **减/停元凶**（多数不能纯停 — 精神病复发风险）
+  - **换低 D2 SGA**：**Clozapine ⭐ 优先**（TD 证据最强 + 自己几乎不致 TD + 兼治难治性精分；需 ANC 监测）；Quetiapine 次选
+  - ⚠️ **Withdrawal-emergent dyskinesia 陷阱**：突然减药 → 残留 D2 超敏暴露 → 短期 TD 加重 → **减药要慢 + 同时上 VMAT2 缓冲**
+
+  **② 药物性（治标 — FDA 批准对症）**：
+  - **Valbenazine**（一日一次）⭐
+  - **Deutetrabenazine**（一日两次）⭐
+  - Tetrabenazine（off-label，副作用较新 VMAT2 多 — 现少用）
+
+  **避免（USMLE 钓饵）**：
+  - ❌ **抗胆碱（benztropine）反加重**（D2 超敏机制 ≠ 急性 ACh 相对↑）
+  - ❌ **加量原药短期掩盖、长期恶化**
+  - ❌ **Levodopa 不在 TD 治疗里**
+
+- **DIP vs TD 治疗对比（结构相同 + 药物层差异）**：
+
+| 维度 | **DIP** | **TD** |
+|---|---|---|
+| 结构性一线 | 减/停元凶 + 换低 D2 SGA | 减/停元凶 + 换低 D2 SGA（**Clozapine 优先**）|
+| 药物性辅助 | Amantadine（首选）/ benztropine（老年慎用）| **VMAT2 抑制剂** ⭐（valbenazine / deutetrabenazine） |
+| 抗胆碱角色 | 二线辅助（老年慎用）| ❌ **反加重** |
+| 减药特殊性 | 撤药数周-数月可逆 | ⚠️ 突然减药 → withdrawal-emergent 短期加重；减药要慢 |
+| 换药首选 | Quetiapine ≈ Clozapine（均低 D2 即可）| **Clozapine 优先**（证据最强 + 几乎不致 TD）|
+
 - **★死穴★**：**抗胆碱能无效甚至加重 TD**；加量抗精神病药短期"掩盖"长期恶化 → 都是错答案
 - **包装陷阱**：出题人常用"情绪 / 行为变化 / 同事觉得她生气 / 自卑 / 独自吃饭"等心理叙事包装客观的不自主运动 → 看到长期用药 + 口面动作直接锁 TD，别被情绪线带跑
 
@@ -169,7 +217,7 @@ type: 专题笔记
 
 | 陷阱 | 真相 |
 |---|---|
-| 抗胆碱能（benztropine）治所有 EPS | ❌ 只治 dystonia / parkinsonism；**对 TD 无效甚至加重** |
+| 抗胆碱能（benztropine）治所有 EPS | ❌ **一线 ONLY 对 acute dystonia**；DIP 是二线辅助（先减元凶 + 换低 D2 SGA）；Akathisia 弱效非常规备选（propranolol 一线）；**TD 反加重** |
 | Akathisia = 焦虑 / 激越 → 加量 | ❌ 加量更糟；**减量 + propranolol** |
 | TD = 长期 EPS → 给 benztropine 试试 | ❌ TD 机制是 D2 超敏不是 ACh↑；抗胆碱无效 |
 | Haloperidol 既然 D2 强、能"治" EPS | ❌ 永远是错答案，自己就是元凶 |
