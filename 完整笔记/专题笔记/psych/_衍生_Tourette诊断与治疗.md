@@ -6,7 +6,7 @@ tags:
   - 神经
 created: 2026-05-23
 type: 专题笔记
-source: 错题驱动 Q19552 诊断侧（2026-05-23）+ Q3375 治疗侧（2026-05-23）整合 v1
+source: v1 错题驱动 Q19552 诊断侧 + Q3375 治疗侧（2026-05-23）；v1.1 UW 表格 stem 关键词 + 流行病学速查 + Sydenham chorea / PANDAS 鉴别（2026-05-23 分科扫描增量整合）
 ---
 
 # Tourette 综合征 — 诊断与治疗全套
@@ -50,6 +50,19 @@ source: 错题驱动 Q19552 诊断侧（2026-05-23）+ Q3375 治疗侧（2026-05
 |---|---|
 | **Persistent (chronic) motor or vocal tic disorder** | 只有 motor tic 或只有 vocal tic（不同时），病程 >1 年 |
 | **Provisional tic disorder** | tic 病程 **<1 年** |
+
+### 流行病学速查
+
+| 维度 | 数据 |
+|---|---|
+| **患病率** | ~**1%** 学龄儿童（USMLE 常考"哪个统计正确"）|
+| **性别比** | 男:女 ≈ **3-4:1**（男孩明显多）|
+| **起病高峰** | 6-7 岁起病 → **青春期前后 (10-12 岁) 症状最重** |
+| **自然病程** | 成年后**自发缓解或显著减轻 ~50-66%**（青春期是最重期，成年后多减轻）|
+| **遗传性** | 家族聚集明显（复杂多基因遗传 + 环境）|
+
+> [!info] 临床意义
+> "自然减轻"= 治疗目标≠根治 = **改善功能 + 降低烦扰**。青少年重度 → 积极升阶梯；成年若缓解则减药试停。
 
 ---
 
@@ -109,15 +122,44 @@ source: 错题驱动 Q19552 诊断侧（2026-05-23）+ Q3375 治疗侧（2026-05
 
 | 动作 | 关键特征 | 病因 | 治疗 |
 |---|---|---|---|
-| **Tic** | **可短暂抑制** + premonitory urge | Tourette | 三级阶梯（HRT → α2 → 抗 DA） |
+| **Tic** | **可短暂抑制** + premonitory urge + wax-and-wane | Tourette | 三级阶梯（HRT → α2 → 抗 DA） |
 | **Myoclonus** | 突发短促闪电样，**不可抑制** | CJD / AD 晚期 / 缺氧 / 癫痫 | 治原发病 |
-| **Chorea** | 不规则**舞蹈样流动**动作 | Huntington / Sydenham（链球菌后）| VMAT2 抑制剂（HD） |
+| **Chorea**（一般）| 不规则**舞蹈样流动**动作，**不可短暂抑制**，**睡眠时消失** | Huntington（成人）/ **Sydenham（儿童 — 见下）** | VMAT2 抑制剂（HD）|
 | **Dystonia** | 持续性肌张力异常**扭转** | 抗精神病药急性 EPS / 遗传 | 抗胆碱药（急性 EPS）|
-| **Tardive Dyskinesia (TD)** | lip smacking / 舌动 / 舞蹈样肢体 | 抗精神病药**慢性** | 停药 / VMAT2 |
-| **Stereotypy** | **节律性、重复**（拍手 / 摇晃），无 urge | 自闭谱系 / 智障 / 正常幼儿 | 多无需药物 |
+| **Tardive Dyskinesia (TD)** | lip smacking / 舌动 / 舞蹈样肢体 | 抗精神病药**慢性** D2 阻断 | 停药 / VMAT2 |
+| **Stereotypy** | **节律性、重复**（拍手 / 摇晃），**无 urge** | 自闭谱系 / 智障 / 正常幼儿 | 多无需药物 |
+| **Functional (psychogenic) tic** | 突发 + 成人女性多 + 心理应激相关 + 与"TikTok-induced tic"相关 | 转换障碍 / 应激 | 心理治疗 |
+
+### 3.2.1 链球菌后儿童运动 / 行为障碍（Tourette 关键鉴别）⭐
+
+> [!danger] 高频鉴别（USMLE 必考）
+> 儿童急性起病的 tic / chorea / OCD → 先问"**最近有没有链球菌咽炎 / 猩红热**"。Tourette 是**慢性渐进**，链球菌后病是**急性发作**。
+
+| 维度 | **Tourette** | **Sydenham chorea** | **PANDAS** |
+|---|---|---|---|
+| **全称** | Tourette syndrome | Sydenham chorea（**风湿热的神经表现**）| **P**ediatric **A**utoimmune **N**europsychiatric **D**isorders **A**ssociated with **S**treptococcus |
+| **起病** | **慢性渐进**（数月-数年加重）| 链球菌后 **1-6 个月**起病 | 链球菌后**急性发作（24-48 hr）**+ 反复发作与再感染相关 |
+| **核心症状** | tic（motor + vocal）+ 共病 ADHD/OCD | **舞蹈样不自主运动**（流畅、随意样）+ 情绪不稳 + 肌张力低（"hung-up" 膝反射）+ **milkmaid grip**（握不紧）| **急性 tic 和 / 或 OCD**（不是慢性 wax-wane）+ 焦虑 / 情绪不稳 |
+| **可短暂抑制** | ✅ 可 | ❌ 不可 | tic 部分可 |
+| **睡眠时** | tic 多减少 / 消失 | **消失**（chorea 经典特征）| tic 多减少 |
+| **病理机制** | 基底节 DA 过度活跃（原发）| **分子拟态**（抗链球菌抗体交叉攻击**基底节**）| **分子拟态**（抗链球菌抗体攻击基底节 → tic/OCD 通路）|
+| **实验室** | 无特异 | **ASO + anti-DNAse B titers ↑** + 风湿热其他指标 | ASO / anti-DNAse B titers ↑（链球菌感染证据）|
+| **关联疾病** | — | **急性风湿热（ARF）major Jones 标准之一**；可伴心炎 / 关节炎 / 红斑 / 皮下结节 | OCD 谱系（独立疾病实体，仍有争议）|
+| **治疗** | HRT → α2 → 抗 DA（见 §四）| ① **慢性 penicillin G 预防**（防 ARF 复发 → 至少持续到 21 岁或 stop chorea 后 5 年）<br>② 急性 chorea：**haloperidol** 或 **valproate** / carbamazepine<br>③ 重度：IVIG / 类固醇 | ① 抗生素治急性链球菌感染<br>② 行为治疗（OCD → CBT-ERP；tic → HRT）<br>③ 对症 SSRI（OCD）/ 抗 DA（tic）<br>④ 重度 / 反复：IVIG（争议）|
+| **预后** | 青春期最重 → 成年 50-66% 自发缓解 | 6 个月自限 + 易复发（链球菌再感染时）| 与 Sydenham 类似 — 反复发作 + 抗生素预防可减少复发 |
+
+> [!warning] 三大鉴别关键反射
+> - **慢性 + 抽动 + 可短暂抑制 + 起病 <18 岁 + >1 yr** → **Tourette**
+> - **链球菌史 + 舞蹈样流动 + 不可抑制 + 睡眠消失 + 风湿热可能** → **Sydenham chorea**
+> - **链球菌史 + 急性发作 tic / OCD + 反复加重与再感染同步** → **PANDAS**
+
+> [!info] Sydenham chorea 的 USMLE 体征三联
+> 1. **Milkmaid grip（挤奶女工握）**：握拳时不能持续用力（chorea 影响）
+> 2. **"Hung-up" 膝反射**：膝反射诱发后下肢回归延迟
+> 3. **舞蹈步态 / 鬼脸**：随意运动叠加不自主动作
 
 > [!warning] 关键反射
-> 看到 "不自主运动" → 强制问 **"是震颤 / 舞蹈 / myoclonus / tic / dystonia 哪一种？"** —— 抓**关键特征**（可否抑制 / 有无 urge / 动作形态）锁定，不要凭"运动相关"模糊联想。
+> 看到 "不自主运动" → 强制问 **"是震颤 / 舞蹈 / myoclonus / tic / dystonia 哪一种？"** —— 抓**关键特征**（可否抑制 / 有无 urge / 动作形态 / 睡眠时是否消失 / 链球菌史）锁定，不要凭"运动相关"模糊联想。
 
 ### 3.3 tic 分类 + USMLE stem 关键词
 
@@ -299,10 +341,10 @@ DA 太少 → 治 PD     （增 DA：levodopa / DA 激动剂）
   - [[完整笔记/Peixuan分科笔记/neuro]]（基底节 DA 通路 + 不自主运动鉴别）
 
 - 🏥 跨学科：
-  - [[完整笔记/Peixuan分科笔记/neuro]]（chorea / myoclonus / dystonia / tic / TD 五者鉴别 — 见本衍生 §3.2）
+  - [[完整笔记/Peixuan分科笔记/neuro]]（chorea / myoclonus / dystonia / tic / TD 六者鉴别 — 见本衍生 §3.2 + Sydenham chorea 神经表现）
   - [[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]]（抗胆碱治 EPS / VMAT2 治 TD 对照 — 与本衍生"方向三角"互证）
-  - [[完整笔记/Peixuan分科笔记/心内]]（Pimozide QT 延长监测 — D2 拮抗药心血管副作用）
-  - [[完整笔记/Peixuan分科笔记/感染]]（Sydenham chorea — 链球菌后 chorea 的 tic-like 鉴别）
+  - [[完整笔记/Peixuan分科笔记/心内]]（Pimozide QT 延长监测 — D2 拮抗药心血管副作用；急性风湿热心炎 — Sydenham 同属 ARF Jones 标准）
+  - [[完整笔记/Peixuan分科笔记/感染]]（**链球菌后病** — Sydenham chorea + PANDAS + 急性风湿热 — 见本衍生 §3.2.1 三大鉴别）
 
 - 🌱 TODO（待生成衍生 / 增量）：
   - **优先 1**：积累 3+ 道"治疗阶梯升级"类错题（已有 **Q3375 Tourette / Q2357 双相 / Q12152 PD psychosis 共 3 道** — 已凑齐）→ 触发生成 [[完整笔记/专题笔记/_衍生_治疗阶梯升级SOP]]（Tourette / 双相 / 哮喘 / HTN / MDD / PD psychosis 统一框架）
