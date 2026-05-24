@@ -163,6 +163,8 @@ type: 专题笔记
 - 表格**前后必须空行**
 - 子标题和表格之间**必须空一行**
 - ASCII 树**必须包在 ``` 代码块**里
+- **Markdown 表格 cell 内禁用 `[[xxx|alias]]` 形式 wikilink** — `|` 会被 linter 当成列分隔符 → 链接断裂 + 表格列错乱。表格内只用纯 wikilink `[[mistakes/uworld-mistakes#^Q15071]]`（Obsidian 自动显示成 `Q15071`）。段落 / callout / 列表内可继续用 `|alias` 形式
+- **错题卡 callout 内的图片嵌入必须带 `>` 前缀**：`> ![[image.png]]`。裸露的 `![[image.png]]` 会**打断 callout**（Obsidian 看到非 `>` 行就结束 callout），导致折叠失效 + 后续 `>` 内容变成**独立 quote block** 永久显示。同理：任何嵌入元素（图片 / pdf / 引用文件）放进 callout 都必须保持 `>` 前缀连续
 - 改完后跑 awk 自查（见工作流.md）：before/after-table 必须为空
 
 ### 版权底线

@@ -15661,8 +15661,9 @@
 > - **"抗精神病药致 DIP → 换 quetiapine / clozapine 或减量；千万别 levodopa（吃药的同时给 DA = 自己跟自己打架）"**
 > - DIP 阶梯：**减药 → 换药 → 抗胆碱 / amantadine** —— levodopa **完全不在阶梯里**
 > - 反向钩：题干提到 "haloperidol / risperidone" + 帕金森症 → 选项里**任何"加 levodopa"一律划掉**
-
-![[{EA3EBE9B-A1FE-4C6E-B47D-36294E1526CC}.png]]
+>
+> ![[{EA3EBE9B-A1FE-4C6E-B47D-36294E1526CC}.png]]
+>
 > ---
 >
 > ## 🤔 我的提问 / 卡点
@@ -17246,4 +17247,97 @@
 > 主题:: 儿童 GAD 一线药（SSRI sertraline + CBT）/ GAD DSM-5 儿童版（≥6mo 多领域担忧 + ≥1 附加症状 vs 成人 ≥3）/ Tetrabenazine 药理学定位（VMAT2 抑制剂 → Tourette / Huntington 舞蹈病 / Tardive dyskinesia，与焦虑无关）/ Fidget 三鉴别（GAD motor restlessness vs ADHD 过度活动 vs Tourette tic 可短暂抑制）/ ADHD 硬门槛（< 12 岁前起病 + 多场所 ≥6 月）/ Propranolol = performance anxiety 仅 / Hydroxyzine = 短期情境性焦虑（preop）/ "since little" + "thinks the worst" + 多领域 worry = 儿童 GAD 三件套 / 反向钩：焦虑题里出现 Tetrabenazine → 直接划掉
 > 状态:: 🟡
 > 错因:: 干扰项
+
+> [!success]- [2026-05-23] psych / Defense Mechanism — Intellectualization vs Rationalization 鉴别 🟡 做对（D/E 分不清）(Q3536)
+> ^Q3536
+>
+> ## Stem 模式
+> 60M 医生 + 新诊断**晚期胰腺癌** / 家人劝休息他坚持工作 / 每天下班后**花数小时复习自己的检查 + 研究实验性化疗方案** / 主诉"a good distraction to think about other people's medical problems" → 最能解释他行为的防御机制？
+>
+> ## 核心概念
+> **Intellectualization（智化）**：用**事实 / 数据 / 分析**包裹现状以**回避情绪**。专业人士看自己的病 → 把疾病变成"研究项目"，是 USMLE 教科书 stem。
+>
+> ## 普适规则
+>
+> ### 一、Intellectualization vs Rationalization 一刀切（本题核心）
+>
+> | 维度 | **Intellectualization** 智化 | **Rationalization** 合理化 |
+> |---|---|---|
+> | **核心动作** | 用**事实 / 数据 / 分析**包裹现状 | 用**借口 / 理由**解释行为或失败 |
+> | **要避开什么** | **感受情绪**（恐惧/悲伤/无助）| **承认真实动机**（虚荣/嫉妒/失败/不当行为）|
+> | **时间方向** | 进行中：用知识分心 | 事后：把已发生的事合理化 |
+> | **承认事实吗** | ✅ 承认（"I have cancer"）只是不感受 | ❌ 扭曲（"我不是失败，是我不在乎"）|
+> | **首字母钩** | **I**ntellectualization → **I**nformation 信息 | **R**ationalization → **R**easons 理由 |
+> | **典型 stem** | 病人**研究 chemo / 分析检查 / 讨论 5 年生存率** | "I can't rest because patients need me" / "rest wouldn't help anyway" |
+>
+> ### 二、Defense Mechanism 速查（USMLE 高频 — 不成熟组）
+>
+> | 机制 | 一句话定义 | 经典 stem |
+> |---|---|---|
+> | **Acting out** | 用行为表达不可接受的情绪 | 青少年丧亲后打架 / 翘课 |
+> | **Denial** | 行为像"现实不存在" | 拒承认得了癌症 / 不去看医生 |
+> | **Displacement** | 情绪转移到更安全的对象 | 被老板骂 → 回家踢狗 |
+> | **Intellectualization** ⭐ | 用**事实/分析**回避情绪 | 医生研究自己的癌症 / 焦虑病人列疾病清单 |
+> | **Passive aggression** | 用拖延 / 沉默 / 不合作隐性表达敌意 | 答应做但故意拖到 deadline 后 |
+> | **Projection** | 把自己的感受/动机投射到别人 | 自己想出轨 → 指控配偶不忠 |
+> | **Rationalization** ⭐ | 用**借口/理由**合理化行为或失败 | 没考上医学院 → "反正我不想做医生" |
+> | **Reaction formation** | 表现成相反方向 | 暗恋的人 → 故意冷漠刻薄 |
+> | **Regression** | 退回早期发展阶段 | 住院成人开始尿床 / 吸吮拇指 |
+> | **Splitting** | 非黑即白（BPD 经典）| "你是天使" / "你是恶魔" 来回切换 |
+>
+> ### 三、Mature defense（成熟组 — 高分）
+>
+> | 机制 | 定义 | stem |
+> |---|---|---|
+> | **Sublimation** | 把不可接受的冲动转化为**社会可接受**的行为 | 攻击性 → 当拳击手；性冲动 → 创作艺术 |
+> | **Suppression** | **有意识**地把情绪暂时搁置以应对现实 | "我现在不想，等手术做完再哭" |
+> | **Humor** | 用幽默化解痛苦 | 临终病人开自己的玩笑 |
+> | **Altruism** | 通过服务他人化解自身痛苦 | 失去孩子的母亲创办公益基金 |
+>
+> ## 易混陷阱（普适）
+> - **Intellectualization vs Rationalization**：智化**承认事实回避感觉**；合理化**扭曲解释回避真相**。stem 有"研究/分析/数据" → 智化；stem 有"because/anyway/wouldn't help"借口结构 → 合理化。
+> - **Suppression（成熟）vs Repression（不成熟）**：suppression = **意识**层面"我现在不想"；repression = **无意识**地"完全想不起来"（如童年创伤遗忘）。
+> - **Sublimation vs Reaction formation**：sublimation = 把**真实冲动**导向**社会可接受**的出口（攻击 → 拳击）；reaction formation = 表现**相反方向**（暗恋 → 刻薄），冲动本身被否认。
+> - **Displacement vs Projection**：displacement = **情绪**转移到更安全对象（被骂 → 踢狗）；projection = 把**自己的感受/动机**贴到别人身上（自己想出轨 → 怀疑配偶）。
+> - **Denial vs Repression**：denial = 知道但**拒绝接受**现实（"我没病"）；repression = **无意识**遗忘（创伤记忆被埋）。
+> - **Altruism vs Reaction formation**：altruism = 真正帮助他人化解痛苦；reaction formation 的"善行"是**掩饰相反冲动**（讨厌孩子 → 过度溺爱）。
+>
+> ## 我为什么做对但卡（🟡）
+> - 选了：**D. Intellectualization** ✅
+> - 卡点：**D 和 E（Rationalization）反复分不清**，本题靠"stem 给的是动作（research/analyze）不是借口（because XX）"侥幸锁定，但概念定义没烂熟于心。
+> - 根本原因：之前主笔记 [[完整笔记/Peixuan分科笔记/psych#Defense Mechanisms]] 章节**没收录 intellectualization 和 rationalization 的具体定义**（只覆盖了 sublimation / reaction formation / compensation 等）→ 没建立稳固鉴别框架，做题靠 stem 关键词反推。
+>
+> ## Memory Hook
+> - **一句话锁定**：**「智化 = 承认事实，回避感觉；合理化 = 扭曲解释，回避真相。」**
+> - **首字母钩**：**I**ntellectualization → **I**nformation 信息；**R**ationalization → **R**easons 理由
+> - **专业人士反射钩**：stem 给"**医生 / 科学家 / 工程师**病人 + 用专业知识看自己的病" → **几乎必然是 Intellectualization**（USMLE 教科书 stem，本题原型）
+> - **学生失败反射钩**：stem 给"**没考上 / 被甩 / 没升职**+ 给体面解释" → **几乎必然是 Rationalization**（酸葡萄 / 自我安慰）
+> - **类比挂钩**：智化像"披白大褂查文献当避风港"（病人变研究员）；合理化像"考砸了说题目出得不好"（事后找借口）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q：「D Intellectualization 和 E Rationalization 怎么区分？我总是搞混。」→ 学到：核心差异在**动作方向** — 智化用"事实/分析"回避情绪（承认事实，不感受）；合理化用"借口/理由"合理化行为（扭曲解释，回避真相）。本题 stem 给的是**研究分析动作**（reviewing/analyzing/researching）不是**借口结构**（because/anyway）→ 锁智化。
+> - Q：「为什么不是 A Altruism？他在帮其他病人。」→ 学到：altruism 是**通过服务他人化解自身痛苦**（如失去孩子的母亲办公益）；本题他工作是为了"good distraction"**自己分心**，不是利他动机；如果 stem 说"he started a pancreatic cancer support group to help other patients"才是 altruism。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：（**首道 defense mechanism 题** — 待积累）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（Defense Mechanisms 章节 行 1656；**缺 intellectualization / rationalization 定义，是空白点**）
+> - 🏥 跨学科：暂无（defense mechanism 是纯精神科 / 心理学概念）
+> - 📋 衍生速查：[[完整笔记/专题笔记/psych/_衍生_防御机制鉴别速查]]（v1 精简版 2026-05-23 已建 — 触发题为本题；含 10 不成熟 + 4 成熟机制 + 6 组高频混淆对照 + 17 条 USMLE 反射钩）
+> - 🌱 TODO（待扩展）：积累 3+ 道 defense mechanism 错题后 → 扩衍生 v2（加"假性机制题"诱饵分析）；BPD splitting / NPD projection 类题 → 入 psych_人格障碍鉴别速查（计划中）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后盲做重做（确认 D/E 鉴别已固化）
+> - [ ] 默写 Intellectualization vs Rationalization 一刀切表
+> - [ ] 默写 6 组高频混淆对照（见易混陷阱节）
+> - [ ] 找 3 道类似题：医生/护士/律师病自己 → intellectualization / 学生失败合理化 → rationalization / catatonia 病人 splitting vs reaction formation
+> - [ ] 若再分不清 → 给 [[完整笔记/Peixuan分科笔记/psych]] Defense Mechanisms 章节加「薄弱点」并扩写 intellectualization / rationalization 定义
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Defense Mechanism — Intellectualization vs Rationalization 鉴别 / 智化 = 用事实/分析回避情绪（承认事实，不感受）/ 合理化 = 用借口/理由合理化行为（扭曲解释，回避真相）/ 专业人士病人看自己病 = 智化教科书 stem / Suppression(意识) vs Repression(无意识) / Sublimation vs Reaction formation / Displacement(情绪转移) vs Projection(动机投射) / Altruism vs 伪善 Reaction formation / 首字母钩：I-Information / R-Reasons
+> 状态:: 🟡
+> 错因:: 知识
 
