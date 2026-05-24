@@ -17950,6 +17950,314 @@
 >
 > 学科:: Psych
 > 主题:: Tourette 诊断陷阱（echolalia / coprolalia = 发声性 tic ≠ OCD 强迫重复）/ tic vs OCD 金标准鉴别（背后有无 obsession 驱动 — 有=OCD / 无=tic）/ 家族史 + 继发焦虑 = 烟雾弹（不能用家族 OCD 史或患者"anxious"定主诊断）/ ERP + fluoxetine 同时出现 = OCD 一线"双钓饵"测误诊（诊断对了两个一起倒）/ 重度 tic 升级 = 二代抗精神病药 (risperidone / aripiprazole) 优先于一代 / 兴奋剂↑DA 可能加重 tic（避免 methylphenidate / amphetamine 共病 ADHD 时）/ tic 神经回路 = 基底节 DA 过度活跃 vs OCD 神经回路 = 皮层-纹状体-丘脑-皮层 CSTC / 治疗回路对应（tic 抗 DA / OCD SSRI + ERP）/ "诊断对了再选治疗" SOP（B 选项不是治疗错是诊断错）
+
+> [!example]- [2026-05-23] Ethics / 公共健康 override autonomy — Meningococcal meningitis (Q?待补)
+> ^Q-EthMeningo
+>
+> ## Stem 模式
+> 36 岁男 + 2 天 fever / HA / vomiting + T 40°C + **petechiae / purpura on trunk + lower extremities** + 颈强直 + CSF = meningococcal meningitis → 建议 hospitalize + 隔离 + IV abx → **患者拒绝**坚持 home 治疗，alert + oriented + 理解风险 + 拒绝让 wife 参与决策 → next step?
+>
+> ## 核心概念
+> Adult patient with intact decision-making capacity 默认有 right to refuse treatment（autonomy）— **但 communicable disease 危及第三方时，公共健康责任 override autonomy** → 强制 hospitalize + isolate（droplet precaution）+ contacts prophylaxis（rifampin / cipro / ceftriaxone）。**Court order 不需要** for infectious disease isolation — hospital + public health authority 直接行动即可。
+>
+> Answer：**Hospitalize and isolate the patient against his wishes**
+>
+> ## 普适规则（Patient autonomy 的 4 大例外 — override autonomy 触发条件）⭐
+>
+> | 例外 | 触发场景 | 行动 |
+> |---|---|---|
+> | **① Public health threat** | Communicable disease（**meningococcal** / TB / smallpox / Ebola / plague / 反复传染高危）| **强制 hospitalize + isolate**（不需 court order）+ contacts prophylaxis + report 公共卫生 |
+> | **② Imminent harm to self / others** | Suicidality / homicidality / 严重 psychotic 危险行为 | Psychiatric hold（72-hr involuntary admission） |
+> | **③ Lack of decision-making capacity** | Intoxication / dementia / delirium / coma / 严重精神病 | Surrogate decision-maker（按 next of kin / advance directive / POA） |
+> | **④ Minor 未成年** | <18 yr（除特殊例外 emancipated / 紧急 / 性健康 / 物质滥用 / 心理健康 — 各州 vary）| Parental consent；adolescent 可在特定主题独立 consent |
+>
+> > [!info] 例外的判断顺序
+> > 看到"refusing treatment / refusing care"反射先扫这 4 大例外 — **任何一个命中 → 可 override**；都不命中 → respect autonomy。
+>
+> ## 易混陷阱（普适）
+> - **A. Ethics committee**：用于真正"ethical dilemma 不清楚"的情形；本题已明确（**communicable disease + 第三方风险**），属于教科书例外 → 拖延浪费时间，公共健康紧急不允许。
+> - **C. 让 wife 来 convince**：❌ **不应 burden 家属做医疗执行工具**；患者已**主动拒绝让 wife 参与决策** → 即使可介入也不能用 wife 当杠杆；家属角色是 support 不是 coercion。
+> - **D. Court order**：❌ **不需要** for infectious disease isolation — 已有法律授权 hospital + public health 直接 quarantine 传染病人。Court order 用于 non-emergent / non-infectious 情境（如强制治疗精神病拒治者，部分州）。
+> - **E. Respect autonomy → home antibiotic**：❌ **致命错** — 违背公共健康责任，meningococcal 是 droplet 高传染，home 治疗可致 outbreak（已知 wife + 2 schoolchildren 接触）。Autonomy 不绝对。
+>
+> ## 我为什么错
+> - 选了：E（Respect autonomy + home antibiotic）
+> - 错因：**知识**（Ethics 完全没碰，autonomy 4 大例外不熟）
+> - 核心陷阱：过度尊重 autonomy + 没识别 communicable disease 是 autonomy override 的教科书例外。
+>
+> ## Memory Hook
+> 「**菌脑膜炎是公共病不是私事**」 — 自己感染可以拒绝，但传染给第三方不行。**Autonomy 4 大例外口诀**：「**公共 / 自伤伤人 / 没能力 / 未成年**」— 任一命中即可 override。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：完全没意识到 communicable disease 是 autonomy 的标准例外。第一反应"成人 + capacity 完好 = 必须 respect autonomy"。
+> - 学到的核心：① autonomy 不绝对，有 4 大例外；② 公共健康例外**不需 court order**（hospital + public health 直接行动）；③ 不应让家属做 coercion 工具；④ ethics committee 不是万能拖延工具，明确教科书例外不需要 consult。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题（按日入库顺序）：
+>   - [[mistakes/uworld-mistakes#^Q-EthAMA]] AMA discharge IVDU IE empathic investigation（2026-05-23 同日；**autonomy vs beneficence** — 本题公共健康 override，那题 beneficence 努力 prevent AMA；两题构成"autonomy 何时 override / 何时努力说服"双面）
+>   - [[mistakes/uworld-mistakes#^Q-EthAdolConfid]] 青少年 conditional confidentiality（2026-05-23 同日；**conditional autonomy 框架** — autonomy 给 adolescent 有例外，本题成人 autonomy 有例外，两题构成"autonomy 总有边界"主题）
+>   - [[mistakes/uworld-mistakes#^Q-EthHIPAA]] HIPAA verbal consent + minimum necessary disclosure（2026-05-23 同日；**Ethics 四道同日 — 完整 Ethics 框架启动**）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/感染]]（Meningococcal meningitis — droplet precaution + close contact prophylaxis 选择 rifampin / cipro / ceftriaxone）
+>   - [[完整笔记/Peixuan分科笔记/psych]]（Psychiatric hold — autonomy 例外 ② imminent harm to self/others 的实操）
+> - 🌱 TODO（待生成衍生）：
+>   - **优先 1**：4 道同日 Ethics 错题已成体系（autonomy override / AMA / conditional confid / HIPAA disclosure）→ **触发新建** [[完整笔记/专题笔记/_衍生_Ethics精简框架]]（autonomy 4 例外 + AMA 三步法 + adolescent conditional confid + HIPAA disclosure SOP + Ethics committee 何时 consult + decision-making capacity 评估）
+>   - **优先 2**：积累 traumatic情境（emergency consent / surrogate / advance directive / DNR / 安乐死 / futile care）→ 扩 Ethics 衍生
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（重点：第一眼锁"communicable disease = autonomy override 例外"）
+> - [ ] 默写 autonomy 4 大例外（公共 / 自伤伤人 / 没能力 / 未成年）
+> - [ ] 默写 meningococcal 公共卫生 SOP（isolate + droplet + close contact prophylaxis rifampin/cipro/ceftriaxone）
+> - [ ] 找 3 道类似题（infectious disease quarantine / psych hold / capacity assessment）
+> - [ ] **固化反射**：「refusing treatment」→ 先扫 4 例外 → 都不命中再 respect autonomy
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Autonomy override 4 大例外（① 公共健康传染病 ② imminent harm self/others ③ 无 decision-making capacity ④ minor）/ Communicable disease 例外不需 court order（hospital + public health 直接 quarantine）/ Meningococcal 公共卫生 SOP（droplet isolation + close contact prophylaxis rifampin/cipro/ceftriaxone）/ Ethics committee 用于真正 dilemma 不清楚时（明确教科书例外不需 consult）/ 不应 burden 家属做 coercion 工具
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-23] Ethics / AMA discharge IVDU IE — empathic investigation (Q?待补)
+> ^Q-EthAMA
+>
+> ## Stem 模式
+> 25 岁男 + IVDU + right-sided IE（chest X-ray nodular cavitary lesions = septic pulmonary emboli + 2/6 holosystolic murmur apex + track marks）+ start IV vancomycin → **想 AMA 离院** "take care of things"，要求 "oral antibiotics + come back in a couple days" → best response?
+>
+> ## 核心概念
+> AMA discharge 管理 = **beneficence > 简单 respect autonomy** → 努力 prevent AMA。关键 = **empathic investigation 真实离院理由** + IVDU 特殊点必问 **drug cravings / withdrawal fears** + 提供 medication-assisted treatment (MAT — methadone 减 AMA 50% + overdose 75%)。Prevention 失败 → 仍 offer best alternative care（永远不 punitive，不 withholding 治疗作 leverage）。
+>
+> Answer：**B — "I want what's best for you, so I may be able to help if I understand your reasons. Are you having drug cravings or fear of withdrawal?"**
+>
+> ## 普适规则（AMA 管理三步法）⭐
+>
+> | 步骤 | 内容 | 关键操作 |
+> |---|---|---|
+> | **① Investigate / address 离院理由** | 多 empathic + open-ended + nonjudgmental | • Financial → social worker<br>• **Substance withdrawal** → MAT（methadone / buprenorphine）⭐ IVDU 必问<br>• Care delay 不满 → apologize + accelerate<br>• Caregiver / 家庭责任 → arrange home care / social work |
+> | **② Ensure + document informed refusal** | 确认 + 记录 capacity | • Decision-making capacity ✓<br>• Understands risks of leaving + benefits of staying ✓<br>• 能说出 reasoned basis ✓<br>• **Sign AMA form**（documentation 不是 prerequisite 给药）|
+> | **③ Provide best possible alternative** | 永远不 punitive | • Offer appropriate Rx（即使非标 — empiric oral abx before culture 也行）<br>• Offer follow-up + 强调 "resume treatment anytime"<br>• ❌ 不 withholding antibiotics 作 leverage |
+>
+> > [!info] IVDU + AMA 特殊点
+> > IVDU 患者 AMA 高危 → **直接非 judgmental 问 cravings / withdrawal**（不是绕弯）→ 识别即可启动 MAT，临床证据 methadone 减 AMA 50% + 1-yr overdose 死亡 75%。
+>
+> ## 易混陷阱（普适）
+> - **A. "need cultures negative first"**：❌ **withholding treatment as leverage** = coercion，违背 beneficence；用医学合理性包装 coercion 是 USMLE 经典陷阱。
+> - **C. "only if promise to return"**：❌ **conditional coercion** — 不切实际 + 把医疗决定 conditional 在患者承诺上。
+> - **D. "only if sign AMA form"**：❌ **withholding antibiotics 直到签字** = coercion；AMA form 是 **documentation 工具**不是 prerequisite 给药；good-faith 努力失败 → 仍要 offer best alternative，签 form 同时给药。
+> - **E. "won't prescribe any medication"**：❌ **punitive** — good-faith 失败后仍要 offer best possible alternative（即使非标）；不能因患者选择离开就拒绝继续 care。
+> - **好答案 features**：① empathic phrasing ("I want what's best for you")  ② open-ended question  ③ investigate 具体原因（IVDU 必问 cravings/withdrawal）  ④ 不 coerce 不 punitive。
+>
+> ## 我为什么错
+> - 选了：A（"need cultures negative first"）
+> - 错因：**pattern**（伦理框架不熟，把"医学合理性"误当道德正当）
+> - 核心陷阱：用医学需要包装 coercion — 看似合理（cultures 还没回来），实际是用 withholding treatment 作 leverage 留住患者。**任何"X 条件满足才给治疗"= coercion**，违背 beneficence。
+>
+> ## Memory Hook
+> 「**AMA 不是赶人走，是想留人下**」— 先 empathic 问 why want to leave（**IVDU 必问 withdrawal/cravings**）；prevention 失败仍 offer best alternative，**永远不 punitive**。
+> **"withholding 治疗作 leverage" = coercion**（不管包装多医学合理）。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：A 看起来很合理（cultures 没回 → 不能让他走），但实际是 coercion。
+> - 学到的核心：① AMA 管理三步法（investigate → document refusal → offer alternative）；② IVDU + AMA 必问 withdrawal/cravings → 启动 MAT；③ AMA form 是 documentation 不是 prerequisite 给药；④ withholding 治疗作 leverage = coercion，即使包装医学合理性；⑤ good-faith 失败后仍 offer best alternative，不 punitive。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q-EthMeningo]] 公共健康 override autonomy meningococcal（2026-05-23 同日；**autonomy 何时 override vs 何时努力说服** — 本题 IE 没传染第三方 → beneficence 努力说服；那题 meningococcal 传染第三方 → 直接 override）
+>   - [[mistakes/uworld-mistakes#^Q-EthAdolConfid]] 青少年 conditional confidentiality（2026-05-23 同日；**conditional 框架** — autonomy / privacy 都有 conditional 例外）
+>   - [[mistakes/uworld-mistakes#^Q-EthHIPAA]] HIPAA verbal consent（2026-05-23 同日；Ethics 四道同日完整框架）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/感染]]（Right-sided IE + IVDU — septic pulmonary emboli + vancomycin empiric 覆盖 MRSA）
+>   - [[完整笔记/Peixuan分科笔记/psych]]（Opioid use disorder + MAT — methadone / buprenorphine / naltrexone 选择）
+> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 的 4 道之一（详见 [[mistakes/uworld-mistakes#^Q-EthMeningo]] TODO 优先 1）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（重点：第一眼识别"withholding 治疗作 leverage = coercion"）
+> - [ ] 默写 AMA 管理三步法（investigate / document refusal / offer alternative）
+> - [ ] 默写 IVDU AMA 必问 withdrawal/cravings → MAT 启动
+> - [ ] 找 3 道类似题（AMA / 拒绝治疗 / IVDU 沟通 / 患者 sign out）
+> - [ ] **固化反射**：好答案 = empathic + open-ended + investigate；坏答案 = conditional / coercion / punitive / withholding
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: AMA discharge 管理三步法（empathic investigation → document informed refusal → offer best alternative）/ IVDU + AMA 必问 cravings/withdrawal → MAT (methadone 减 AMA 50% + overdose 75%) / "withholding treatment as leverage" = coercion（即使包装医学合理性如"cultures 还没回"）/ AMA form = documentation 工具不是 prerequisite 给药 / Good-faith 失败仍 offer best alternative（empiric oral abx 也行，不 punitive）/ 好答案 features = empathic + open-ended + investigate specific causes / 坏答案 features = conditional / coercion / punitive / withholding
 > 状态:: 🟡
 > 错因:: pattern
+
+> [!example]- [2026-05-23] Ethics / 青少年 conditional confidentiality (Q?待补)
+> ^Q-EthAdolConfid
+>
+> ## Stem 模式
+> 16 岁女 initial visit + 哮喘 + 轻 acne + 试过 alcohol/MJ + 退出 softball "其他女孩 mean" + 抑郁感 + self-conscious + "no one likes her" + nervously 问 **"You won't say anything about this to my parents, will you?"** → best response?
+>
+> ## 核心概念
+> 青少年 confidentiality = **conditional confidentiality**（**条件性**保密）— **大部分内容 private**（建立 trust + 鼓励 open 讨论 sensitive 主题）**但有特定例外必须 breach** = **imminent risk**（suicidality / homicidality）+ **safety threats**（性虐待 / intoxicated driving / 严重 abuse）+ state-mandated reportable conditions。
+>
+> **早期 transparent framework** > unconditional promise — 给青少年明确知道哪些 private / 哪些必须 breach，反而建立**长期信任**；unconditional promise 在 imminent risk 时必破产 = 自掘坟墓。
+>
+> Answer：**D — "Our conversations are private and will not be shared with your parents except under very specific circumstances."**
+>
+> ## 普适规则（青少年 conditional confidentiality SOP）⭐
+>
+> ### 默认保密 + 例外 breach 的 5 大触发
+>
+> | 例外触发 | 内容 |
+> |---|---|
+> | **① Imminent risk** | Suicidality / homicidality / 严重自伤 |
+> | **② Safety threats** | Sexual abuse / 严重 physical abuse / intoxicated driving |
+> | **③ Reportable infections** | State-specific（一些 STI / TB / 等）|
+> | **④ Legal mandate** | State-specific（如 child abuse reporting）|
+> | **⑤ Patient 自己同意 disclose** | — |
+>
+> ### Breach 流程
+>
+> ```
+> 识别需 breach 例外
+>     │
+>     ▼
+> 先 discuss with adolescent
+>     │
+>     ▼
+> 给 option 让 adolescent 主动告知 guardian（physician 陪同支持）
+>     │ 拒绝 / 不合作
+>     ▼
+> Physician 直接告知 guardian（必要时）
+> ```
+>
+> ### 额外注意（unconditional confidentiality 失败的 5 个漏洞）
+>
+> | 漏洞 | 原因 |
+> |---|---|
+> | **EMR / patient portal** | Guardian 可 legally access 青少年 medical record（除 sensitive 主题各州 vary）|
+> | **直接 medical record requests** | Guardian 法律权 access |
+> | **Insurance billing statements** | 可能露 diagnosis / 来诊原因 |
+> | **HIPAA**（Choice E 陷阱）| HIPAA **不** ensure adolescent unconditional privacy — guardian 可 legally access via record request |
+> | **某些州法律** | 强制 disclose 特定情境 |
+>
+> ## 易混陷阱（普适）
+> - **A. "Everything 保密，between you and me only"**：❌ **unconditional confidentiality 撒谎** — imminent risk 时必须 breach；undermines beneficence + nonmaleficence；做不到的承诺 = unethical promise。
+> - **B. "Won't volunteer but will respond truthfully if parents ask"**：❌ 给 parents **破解权** → 实际等于 unconditional 失败模式；patient 不能信任真正 sensitive 内容会被保护。
+> - **C. "Obligated to keep parents informed because you're a minor"**：❌ **默认告知** → 阻断 sensitive 讨论，丧失 trust；与 adolescent autonomy 推进方向相反；physician 实际**不**默认 obligated to 告知（仅例外时）。
+> - **D. ✅ "Private except under very specific circumstances"**：conditional confidentiality 准确表述，建立 transparent framework，长期 trust。
+> - **E. "HIPAA ensures everything private"**：❌ **错** — HIPAA **不**保 adolescent unconditional privacy（guardian 可 legally access via record request）；引 HIPAA 作 unconditional 承诺 = 法律错误 + ethical 错误。
+>
+> ## 我为什么错
+> - 选了：A（unconditional 保密）
+> - 错因：**知识**（Ethics 没碰，conditional confidentiality 概念不熟 + HIPAA adolescent 局限不知道）
+> - 核心陷阱：想 build trust 选最温暖回答（"between you and me only"），没意识到 unconditional 在 imminent risk 时必破产 + 是 unethical promise + 法律错误。
+>
+> ## Memory Hook
+> 「**保密有条件，安全是底线**」— 给 adolescent **transparent framework**（哪些保 / 哪些必须 breach）= 长期信任；unconditional promise = 自掘坟墓。
+> **HIPAA ≠ adolescent unconditional privacy**（guardian 可 legally access medical record）。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：A 看起来最温暖最 build trust，没意识到承诺做不到的事 = unethical。
+> - 学到的核心：① conditional confidentiality 默认 private + 5 例外 breach；② early transparent framework > unconditional promise；③ HIPAA 不保 adolescent unconditional privacy（guardian 可 access record）；④ breach 时先 discuss with adolescent → 给 option 让 adolescent 自告；⑤ "obligated to inform parents" 也错（physician 不默认 obligated 告知）。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q-EthMeningo]] 公共健康 override autonomy（2026-05-23 同日；**autonomy 的 conditional 边界** — adult 也有例外，adolescent 也有例外）
+>   - [[mistakes/uworld-mistakes#^Q-EthAMA]] AMA discharge IVDU（2026-05-23 同日；**conditional 而非 unconditional** — autonomy / confidentiality 都不是绝对）
+>   - [[mistakes/uworld-mistakes#^Q-EthHIPAA]] HIPAA verbal consent + minimum necessary disclosure（2026-05-23 同日；同 HIPAA 主题 — 本题 HIPAA adolescent 局限 / 那题 HIPAA verbal consent + minimum necessary）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/psych]]（adolescent 抑郁 + 物质试用 — screening + suicidality 评估触发 breach 例外）
+>   - [[完整笔记/Peixuan分科笔记/儿科]]（青少年 health visit + 独立 consent 特殊主题 — 性健康 / 物质滥用 / 心理健康各州 vary）
+> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 的 4 道之一
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（重点：第一眼锁"conditional confidentiality"概念）
+> - [ ] 默写 5 大 breach 例外（imminent risk / safety / reportable / legal / 自愿）
+> - [ ] 默写 unconditional confidentiality 失败 5 漏洞（EMR / record request / billing / HIPAA / 州法律）
+> - [ ] 找 3 道类似题（adolescent confidentiality / sexual health / 物质滥用 / 抑郁 screening / 自杀风险评估）
+> - [ ] **固化反射**：青少年问"你会告诉父母吗？" → 反射答 D 类型 "private except specific circumstances" + 解释 circumstances（imminent risk / safety）
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: 青少年 conditional confidentiality（默认 private + 5 例外 breach：imminent risk / safety threats / reportable infections / legal mandate / patient 同意）/ Early transparent framework > unconditional promise（unconditional 在 imminent risk 时必破产，是 unethical promise）/ HIPAA ≠ adolescent unconditional privacy（guardian 可 legally access medical record / billing / portal）/ Breach 流程（先 discuss with adolescent → 给 option 让 adolescent 自告 → 必要时 physician 联系）/ "Obligated to inform parents" 也错（physician 不默认 obligated 告知）/ Unconditional confidentiality 失败 5 漏洞（EMR / record request / billing / HIPAA 局限 / 州法律）
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-23] Ethics / HIPAA verbal consent + minimum necessary disclosure (Q?待补)
+> ^Q-EthHIPAA
+>
+> ## Stem 模式
+> 36 岁男 + 3 天 alcoholic hepatitis 住院 + 第 3 次 6 月内 health-related 工作请假 + 患者 **verbal consent** 同意 physician 与 employer 沟通 + employer 打电话 ask "update + likely return to work?" → best response?
+>
+> ## 核心概念
+> HIPAA disclosure 两要素 = **① valid authorization**（verbal OR written 都可 — HIPAA 不强制 written；hospital policy 可能 require written 但**非 HIPAA 要求**）**② minimum necessary disclosure**（只透露 employer 请求所需 = hospitalized + likely return to work；**不透露 diagnosis** = alcoholic hepatitis 敏感影响 employment）。
+>
+> Answer：**A — "I can confirm that the patient is currently hospitalized, and I anticipate he will be able to return to work."**
+>
+> ## 普适规则（HIPAA disclosure SOP）⭐
+>
+> | 要素 | 规则 |
+> |---|---|
+> | **Authorization 形式** | **Verbal OR written 都 OK**（HIPAA 不强制 written；hospital policy 可 require written 但**非 HIPAA**）|
+> | **Patient 在场** | **不必** — 已 authorize 即可（Choice B 陷阱 — 不需安排 meeting）|
+> | **身份验证** | HIPAA **不**要求 verify caller identity；hospital policy 可 require（Choice D 陷阱 — HIPAA 角度可 disclose）|
+> | **披露范围** ⭐ | **Minimum necessary disclosure** — 只透露请求所需，不主动 expand（Choice E 陷阱 — 透露 alcoholic hepatitis diagnosis 超范围）|
+> | **Sensitive 信息特殊** | 即使 authorize 也 default **不**透露 sensitive（mental health / SUD / HIV / abortion / genetic info）除非明确包含；alcoholic hepatitis 涉及 SUD = 高敏感 |
+>
+> ### Minimum necessary 应用本题
+>
+> | Employer 请求 | 可透露 | 不可透露 |
+> |---|---|---|
+> | "update" | ✅ confirm hospitalized | ❌ specific diagnosis（alcoholic hepatitis）|
+> | "likely return to work?" | ✅ 预期 return（一般 timeframe）| ❌ underlying condition / 治疗细节 |
+>
+> ## 易混陷阱（普适）
+> - **A. ✅ confirm hospitalized + 预期 return**：满足 employer 提问，minimum necessary，不透露敏感诊断 — 正确。
+> - **B. "patient must be present"**：❌ HIPAA **不**要求 patient 在场；已 verbal consent 即可 disclose，安排 meeting 拖延无必要。
+> - **C. "need written signed release"**：❌ HIPAA **允许 verbal**；hospital policy 可能 prefer written（避免 misunderstanding），但**非 HIPAA 强制**。把 hospital policy 误等于 HIPAA = 经典陷阱。
+> - **D. "cannot verify caller identity"**：❌ HIPAA **不**要求 verify ID；hospital policy 可能 require 但角度不同（HIPAA 允许 disclose，policy 加 safeguard）。
+> - **E. "diagnose alcoholic hepatitis + return soon"**：❌ **超 minimum necessary** — 透露 sensitive diagnosis（alcoholic hepatitis 涉及 SUD）影响 employment + violation of minimum necessary 原则。
+>
+> ## 我为什么错
+> - 选了：C（"need written signed release"）
+> - 错因：**知识**（HIPAA verbal consent OK + minimum necessary disclosure 两点不熟）
+> - 核心陷阱：把 **hospital policy（多 prefer written）误等于 HIPAA 强制要求**；过度保守。
+>
+> ## Memory Hook
+> 「**口头同意够用，最小必要披露**」— HIPAA **不**强制 written；披露只覆盖 ask 的范围（hospitalization + return = OK；diagnosis = 不透露）。
+> **HIPAA ≠ hospital policy**（hospital policy 可 stricter，但 HIPAA 是 floor 不是 ceiling）。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：直觉觉得"disclose 患者信息必须 written 才安全"，没意识到 HIPAA 允许 verbal。
+> - 学到的核心：① HIPAA authorization = verbal OR written 都 OK；② minimum necessary disclosure（只透露请求所需 — hospitalization + return，不透露 diagnosis）；③ HIPAA ≠ hospital policy（policy 可 stricter）；④ Patient 不必在场（已 authorize）；⑤ HIPAA 不要求 verify caller ID（policy 可要）；⑥ Sensitive 信息（mental health / SUD / HIV）default 不透露除非明确包含。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q-EthAdolConfid]] 青少年 conditional confidentiality（2026-05-23 同日；**HIPAA 局限** — 那题 HIPAA 不保 adolescent unconditional privacy，本题 HIPAA verbal consent + minimum necessary — 两题构成"HIPAA 实际范围"完整理解）
+>   - [[mistakes/uworld-mistakes#^Q-EthMeningo]] 公共健康 override autonomy（2026-05-23 同日；Ethics 四道同日完整框架）
+>   - [[mistakes/uworld-mistakes#^Q-EthAMA]] AMA discharge IVDU（2026-05-23 同日；Ethics 四道同日完整框架）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/GI]]（Alcoholic hepatitis — Maddrey discriminant function + prednisolone / pentoxifylline）
+> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 的 4 道之一
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（重点：第一眼锁"verbal consent OK + minimum necessary"）
+> - [ ] 默写 HIPAA disclosure 5 要素表
+> - [ ] 默写 sensitive info 5 类（mental health / SUD / HIV / abortion / genetic）
+> - [ ] 找 3 道类似题（HIPAA disclosure / employer 通信 / family 通信 / 媒体通信 / 法律 subpoena）
+> - [ ] **固化反射**：disclosure 题 → 先问 authorization 在不在（verbal/written 都行）→ 再问透露范围（minimum necessary）→ 排除 sensitive default 不透露
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: HIPAA disclosure 5 要素（① verbal OR written authorization 都 OK ② patient 不必在场 ③ HIPAA 不要求 verify ID ④ minimum necessary disclosure ⑤ sensitive info default 不透露 — mental health/SUD/HIV/abortion/genetic）/ HIPAA ≠ hospital policy（policy 可 stricter；HIPAA 是 floor 不是 ceiling）/ Minimum necessary 应用 — employer 问 update + return → 透露 hospitalization + return；不透露 diagnosis（特别 sensitive 如 alcoholic hepatitis 涉及 SUD）/ Employer disclosure 经典陷阱（"need written" 把 policy 当 HIPAA / "patient must present" 不必 / "verify ID" HIPAA 不要 / disclose diagnosis 超 minimum necessary）
+> 状态:: 🟡
+> 错因:: 知识
 
