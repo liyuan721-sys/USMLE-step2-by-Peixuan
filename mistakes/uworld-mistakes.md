@@ -17880,6 +17880,76 @@
 >
 > 学科:: 儿科
 > 主题:: Down syndrome 诊断（多发畸形 + 心 + 听力 + friendly demeanor → Karyotype）/ ID + dysmorphism stem 综合识别三步法（列 dysmorphic → 列 comorbid → 找命中最多） / 基因 / 染色体检测选择决策树（karyotype → CMA/FISH → DNA/methylation/代谢筛） / Down 五件套（flat nasal bridge + LLSB holo murmur VSD/AVSD + 传导性听力丧失 + friendly demeanor + mild-moderate ID） / 单线索锚定陷阱（"矮 + 胖" ≠ PW 专利，DS 也矮也胖 — 必须看 4 高特异线索） / MECP2 = Rett 女孩专属（非 Down 钓饵）/ FMR1 = Fragile X 高 + 大耳 + 大睾（与 DS 身高方向相反）/ hexosaminidase A = Tay-Sachs 婴儿期死亡（6 岁活着排除）/ phenylalanine = PKU 多新筛已发现（海外收养可能漏但不伴心 / 听力）/ MRI 仅 focal deficit / 癫痫 / progressive degeneration（ID + dysmorphism 单查不诊断）/ "我想的诊断没选项" SOP = 回 stem 重扫线索 ≠ 赌剩余选项
+
+> [!example]- [2026-05-23] Psych / Tourette 诊断陷阱（发声 tic ≠ OCD）(Q19552)
+> ^Q19552
+>
+> ## Stem 模式
+> 7 岁男孩，多种运动 tic（转头、耸肩）+ **echolalia（重复别人说话）** + "想忍忍不住" + tic 可短暂抑制 / 消长 + 重度影响社交学业 + **父亲 OCD 史** + 患儿 "remorseful and anxious" → 问 next step。诊断 = Tourette，**不是 OCD**；重度 → 升级用二代抗精神病药 (risperidone)。
+>
+> ## 核心概念
+> echolalia / coprolalia 是**发声性 tic**，不是 OCD 的强迫重复。家族 OCD 史 + 继发焦虑是**烟雾弹**。重度 tic → 抗多巴胺药，二代抗精神病药 (risperidone/aripiprazole) 优先于一代。
+>
+> ## 普适规则（tic vs OCD 金标准鉴别）
+>
+> ```
+> 关键拷问："这个重复行为背后有没有侵入性思维(obsession)在驱动？"
+>          │
+>     ┌────┴────┐
+>     ▼         ▼
+>    有        没有
+>   OCD       tic(Tourette)
+> (怕XX→必须  (纯粹忍不住，
+>  做YY缓解焦虑) 有先兆冲动，
+>  仪式有主题)  做完短暂缓解)
+> ```
+>
+> - tic：刻板、无认知驱动、有先兆冲动、可短暂抑制、wax-and-wane。
+> - OCD：compulsion 服务于 obsession，仪式有"逻辑"（怕脏 → 洗手）。
+>
+> ## 易混陷阱（普适）
+> - **echolalia/coprolalia = 发声 tic**，最易误判成 OCD 重复 → 记死。
+> - **家族史 / 共病 ≠ 患者本人诊断**：TD 常共病 OCD/ADHD，但不能用家族 OCD 史或"焦虑"定主诊断。
+> - ERP + fluoxetine 都是 **OCD 一线**，UW 同放两个 = 测你是否误诊 OCD；诊断对了两个一起倒。
+> - "raising hand"/"behavioral concerns" → 诱导 ADHD/ODD；但患儿能独自安静读书拼图 → 反证非 ADHD。
+> - 兴奋剂 (methylphenidate) ↑DA **可能加重 tic**。
+>
+> ## 我为什么错
+> 选了 B (ERP)——把 echolalia 误当成 OCD 的重复行为，又被父亲 OCD 史 + "anxious" 带偏，诊断定成 OCD。错因：①概念混淆（发声 tic vs OCD 强迫）；②没顶住家族史/共病烟雾弹。**根因在诊断，不在治疗。**
+>
+> ## Memory Hook
+> **"echolalia/coprolalia = 嘴巴的 tic，不是 OCD。"**
+> tic = "身体打嗝"（知道要来、能憋、终究忍不住、没理由）；OCD = "心里有警报"（做仪式才能关掉）。关键拷问："有没有警报(obsession)？" 没有就是 tic。家族 OCD 史 + 焦虑 = 撒的胡椒面，别因为辣就以为是辣椒。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：诊断错了，把 echolalia + 家族 OCD + 焦虑看成 OCD。
+> - 学到的核心：①echolalia 是发声 tic；②区分 tic/OCD 用"背后有无 obsession 驱动"；③家族史/共病是烟雾弹，主诊断回到患者本人症状。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q3375]] Tourette 药物升级（α2 失败 → 抗多巴胺）（2026-05-23 同日；**同诊断、考治疗阶梯** — 那题考"诊断对了选下一阶梯"，本题考"诊断错了选错治疗"，两题串记 = Tourette 全套：先诊断对（本题）→ 再升阶梯对（Q3375））
+>   - [[mistakes/uworld-mistakes#^Q2357]] Bipolar I 维持选药（2026-05-19/23 反复错 🔴；同属 **"读对线索才选对"** — 那题被器官功能否决一线药线索干扰，本题被家族史 + 焦虑烟雾弹干扰，**两种"读错线索 → 选错药"陷阱**）
+>   - [[mistakes/uworld-mistakes#^Q20930]] 儿童 GAD + Tetrabenazine 干扰项（2026-05-23 同日；**同 tic vs 焦虑诊断方向** — 那题考焦虑题里 tetrabenazine 是钓饵，本题考 Tourette 题里 ERP/fluoxetine 是钓饵，**两题都测"不要被相关共病/相关药物带偏主诊断"**）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/儿科]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/neuro]]（tic 基底节多巴胺通路 vs OCD 皮层-纹状体-丘脑-皮层 CSTC 环路 — 两种神经回路决定治疗方向）
+> - 🌱 TODO（待生成衍生）：
+>   - **优先 1**：等 psych 复习完整合"Tourette 全套"（Q3375 升级 + Q19552 诊断鉴别）→ 生成 [[完整笔记/专题笔记/psych/_衍生_Tourette诊断与治疗]]（含 tic / OCD / ADHD 三鉴别表 + echolalia/coprolalia 发声 tic + 升级阶梯 HRT → α2 → 抗 DA + 共病管理 + 干扰项陷阱）
+>   - **优先 2**：积累 3+ 道"家族史 / 共病烟雾弹带偏主诊断"类错题 → 并入 [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]] 新增章节"家族史 ≠ 患者诊断 / 共病 ≠ 主诊断"
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（重点：echolalia 第一眼判成发声 tic，不被 OCD 烟雾弹带走）
+> - [ ] 默写 tic vs OCD vs ADHD 三鉴别表 + "有无 obsession 驱动"金标准问题
+> - [ ] 找 3 道类似题（echolalia / coprolalia / tic vs OCD / Tourette comorbidity）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/psych]] Tourette + OCD 鉴别部分加「薄弱点」
+> - [ ] 固化习惯："家族史 / 共病提示某诊断 → 警惕烟雾弹，回到患者本人症状定主诊断"
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Tourette 诊断陷阱（echolalia / coprolalia = 发声性 tic ≠ OCD 强迫重复）/ tic vs OCD 金标准鉴别（背后有无 obsession 驱动 — 有=OCD / 无=tic）/ 家族史 + 继发焦虑 = 烟雾弹（不能用家族 OCD 史或患者"anxious"定主诊断）/ ERP + fluoxetine 同时出现 = OCD 一线"双钓饵"测误诊（诊断对了两个一起倒）/ 重度 tic 升级 = 二代抗精神病药 (risperidone / aripiprazole) 优先于一代 / 兴奋剂↑DA 可能加重 tic（避免 methylphenidate / amphetamine 共病 ADHD 时）/ tic 神经回路 = 基底节 DA 过度活跃 vs OCD 神经回路 = 皮层-纹状体-丘脑-皮层 CSTC / 治疗回路对应（tic 抗 DA / OCD SSRI + ERP）/ "诊断对了再选治疗" SOP（B 选项不是治疗错是诊断错）
 > 状态:: 🟡
 > 错因:: pattern
 
