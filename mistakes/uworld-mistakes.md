@@ -16383,8 +16383,9 @@
 >
 > 学科:: 神经
 > 主题:: PD psychosis 管理 5 步流程（排除 infection/delirium/dementia → 监测 → 减非 PD 精神活性药 → 减 PD 药 → 难治用低/零 D2 抗精神病药）/ 多巴胺能药双刃剑（↑psychosis/ICD vs ↓parkinsonism）/ Pramipexole = DA 激动剂最易诱发 psychosis / Pimavanserin = 纯 5-HT2A 零 D2 FDA 唯一专批 PD psychosis / PD 用药躲着 D2 走
-> 状态:: 🟡
+> 状态:: 🔴
 > 错因:: 知识
+> 升档记录:: 2026-05-23 同主题第 2 次错（[[mistakes/uworld-mistakes#^Q12152]] 流程第 5 步选 quetiapine），从 🟡 升 🔴
 
 > [!example]- [2026-05-22] 精神科 / Cluster B 人格障碍鉴别 (Q16310)
 > ^Q16310
@@ -17340,4 +17341,134 @@
 > 主题:: Defense Mechanism — Intellectualization vs Rationalization 鉴别 / 智化 = 用事实/分析回避情绪（承认事实，不感受）/ 合理化 = 用借口/理由合理化行为（扭曲解释，回避真相）/ 专业人士病人看自己病 = 智化教科书 stem / Suppression(意识) vs Repression(无意识) / Sublimation vs Reaction formation / Displacement(情绪转移) vs Projection(动机投射) / Altruism vs 伪善 Reaction formation / 首字母钩：I-Information / R-Reasons
 > 状态:: 🟡
 > 错因:: 知识
+
+> [!example]- [2026-05-23] 神经 / PD psychosis 第 5 步用药 — Quetiapine 首选（减药失败后必须上抗精神病药）🔴 反复错 (Q12152)
+> ^Q12152
+>
+> ## Stem 模式
+> 66M + 4 年 PD + carbidopa-levodopa + selegiline / 6 月前**加量改善运动症状** → 但 ensuing months 出现 **paranoia + visual hallucinations**（看到妻子看不见的人、指控邮递员偷东西、自言自语）/ **试过减药** → 严重运动反弹（rebound motor symptoms）→ **必须恢复原剂量** / 感染/谵妄/痴呆阴性（VS 正常、定向正常、轻运动症状）→ next step？
+>
+> ## 核心概念
+> PD psychosis 5 步流程**走到尽头**（减触发药失败 → 运动反弹无法承受 → 第 5 步登场）= 必须上**低/零 D2 拮抗的抗精神病药**。三选一：**Pimavanserin（零 D2，可及性差）/ Clozapine（低 D2，agranulocytosis 要查血）/ Quetiapine（低 D2，可及性 + 安全性最佳 → 临床首选）**。
+>
+> Answer：**D. Quetiapine**
+>
+> ## 普适规则
+>
+> ### 一、PD psychosis 5 步流程 + 本题位点
+>
+> ```
+> PD psychosis 5 步管理流程
+> ═══════════════════════════
+> 1. 排除 infection / delirium / dementia（有 → 先治）       本题：阴性 ✓
+> 2. 症状轻微？→ 仅监测 (monitor)                            本题：psychosis 显著 → No
+> 3. 减/停【非 PD 精神活性药】(镇静、抗焦虑、TCA)             本题：题中无 → 不适用
+> 4. 减【PD 药】，从效力最低的开始                          本题：试过但运动反弹 → 失败
+> 5. 难治 → 上【低/零 D2 抗精神病药】                       ⭐ 本题在此
+>      └─ 首选：Quetiapine（availability + safety）
+>      └─ 备选：Pimavanserin（零 D2 / 但 cost/availability 限制）
+>      └─ 备选：Clozapine（低 D2 / 但 agranulocytosis → 需 ANC 监测）
+> ```
+>
+> Q16164（昨日同主题，2026-05-22）= **第 4 步**（减药就够，运动症状轻 + psychosis 新发）→ 减 levodopa
+> Q12152（本题，2026-05-23）= **第 5 步**（第 4 步失败 + 运动症状无法承受减药）→ 上 quetiapine
+> **两题拼起来 = 完整 PD psychosis 流程的"减药 → 减药失败上药"两端**。
+>
+> ### 二、PD 抗精神病药 D2 安全谱（USMLE 高频）
+>
+> | 药物 | 代 | D2 拮抗强度 | PD 可用？| 关键限制 |
+> |---|---|---|---|---|
+> | **Pimavanserin** | atypical 衍生 | **零 D2**（纯 5-HT2A 反向激动） | ✅ FDA 唯一专批 PD psychosis | availability / cost 限制 |
+> | **Quetiapine** ⭐ | 2 代 SGA | **极弱 D2** | ✅ **临床首选**（availability + safety） | 镇静 / 体重↑ |
+> | **Clozapine** | 2 代 SGA | 弱 D2 | ✅（备选） | **agranulocytosis → ANC 监测**、痫性发作、心肌炎 |
+> | **Risperidone** | 2 代 SGA | 中-高 D2 | ❌（仍会恶化 parkinsonism） | EPS / 高催乳素 |
+> | **Haloperidol** | 1 代 | **强 D2** | ❌ **禁用** | 严重 EPS / NMS |
+>
+> > [!warning] 「2 代 = 安全」是粗略的，**risperidone 在 PD 是 ❌**
+> > 不是所有 atypical 都适合 PD。Risperidone 虽是 SGA，但 D2 拮抗仍偏强 → PD 用药"躲着 D2 走"，**只有 quetiapine / clozapine / pimavanserin 三家**通过 Beers Criteria 的 PD 例外条款。
+>
+> ### 三、5 个选项一刀切
+>
+> | 选项 | 药 | 在 PD psychosis 是否对？| 为什么 |
+> |---|---|---|---|
+> | A | **Amantadine** | ❌ **本题错误选项** | 增加 DA 释放 + 抑 reuptake → **多巴胺能药，火上浇油** psychosis（同时也用于 PD 运动症状，但本题不缺运动控制） |
+> | B | Haloperidol | ❌ 严禁 | 1 代强 D2，PD 病人会瘫 |
+> | C | Pramipexole | ❌ | DA 激动剂（D2/D3）→ **最易诱发 psychosis** 的抗 PD 药，反向加剧 |
+> | **D** | **Quetiapine** | ✅ **正确** | 极弱 D2，availability + safety 最佳，临床首选 |
+> | E | Risperidone | ❌ | D2 拮抗中-高，会恶化 parkinsonism |
+>
+> ### 四、Pimavanserin / Quetiapine / Clozapine 三选一逻辑
+>
+> ```
+> PD psychosis 第 5 步选药决策
+>           │
+> ┌─────────┴─────────┐
+> 可及性 / 成本不是问题？
+> ├─ Yes → Pimavanserin（零 D2，最干净）
+> └─ No / 需要平衡可用性
+>      │
+>      ├─ 默认首选 → Quetiapine（最广泛可用 + 安全谱 OK）
+>      └─ 难治 / 用过 quetiapine 无效 → Clozapine（须 ANC 监测）
+> ```
+> USMLE 题里**给"标准 PD psychosis + 减药失败"场景 → 默认选 Quetiapine**（如本题）；如果题干特意强调"零 D2"或"完全不影响运动" → 选 Pimavanserin；如果题干给"难治 + 已用过其他药" → 选 Clozapine + 监测血象。
+>
+> ## 易混陷阱（普适）
+> - **"减药 vs 加药"反射两层**：第一层（Q16164 考点）= "幻觉就上抗精神病药"惯性 → 错；应先减触发药。第二层（本题考点）= "减药就够了"惯性 → 错；**减药失败 / 运动症状无法承受 → 必须上低 D2 抗精神病药**，不能僵在减药这一步。
+> - **Amantadine 多重身份陷阱**：① 抗 PD（增 DA 释放 + 抗 NMDA）② 治流感（M2 通道阻断，现少用）③ 治 levodopa 诱导的 dyskinesia ④ 治 neuroleptic-induced parkinsonism / NMS。看到 PD + psychosis 选项有 amantadine **直接划掉**——它是多巴胺能药，会加剧 psychosis。
+> - **"SGA = atypical = PD 安全"的笼统判断 ❌**：SGA 不是均质组。**Risperidone / olanzapine D2 拮抗仍偏强 → PD 不能用**；只有 quetiapine / clozapine 是低 D2 的 SGA。Pimavanserin 是衍生类，零 D2，专批 PD psychosis。
+> - **Clozapine 看似"最弱 D2 应该首选"陷阱**：理论上 clozapine D2 比 quetiapine 还弱，**但 agranulocytosis 风险 + 每周 ANC 监测**让它退居二线。USMLE 在 PD psychosis 题里**默认答案是 quetiapine**，除非题干刻意给"已用 quetiapine 无效"或"愿意做血象监测"。
+> - **Pimavanserin 题干暗号**：题干如果出现"5-HT2A inverse agonist" / "no D2 activity" / "specifically approved for PD psychosis" → 这是在指 pimavanserin，不要选 quetiapine。本题没给这些暗号 + 强调"next step in management"→ 默认 quetiapine。
+> - **Selegiline 的角色**：本题在用 selegiline（MAO-B 抑制剂）→ 阻 DA 降解 → 同样**升 DA**，与 levodopa 共同推高 psychosis。MAO-B 类（selegiline / rasagiline）也是 PD psychosis 的潜在加剧因素，不只是 levodopa。
+>
+> ## 我为什么错
+> - 选了：**A. Amantadine**
+> - 错因：**pattern + 知识缺口**
+> - 核心陷阱：① 把"PD + 药物相关症状"反射性当成"加抗 PD 药"，忽略本题已说"加量后才出现 psychosis"——明明是**多巴胺过多**反而想加更多 DA；② **不熟 amantadine 是多巴胺能药**（增释放 + 抑 reuptake），看到"治 PD 的药"就觉得对症；③ **没记牢第 5 步的具体药选择**：知道"低 D2"，但记不住 Quetiapine 是 first choice、不会一刀切 5 个选项。
+> - 元错误：**这是同主题第 2 次错（[[mistakes/uworld-mistakes#^Q16164]] 2026-05-22 减药题刚做完）**——昨天卡在"减药 vs 加药"反射，今天卡在"减药失败下一步选哪个药"。两题串起来才是完整的 PD psychosis 流程，单题解答不够。
+>
+> ## Memory Hook
+> - **一句话锁定**：**"PD 看见鬼 → 先减药；减药救不回运动 → 上 Quetiapine。Amantadine / Pramipexole 是多巴胺能，火上浇油，看到划掉。"**
+> - **三选一口诀**：**"PD psychosis 三剑客 — Pim 纯净贵，Quet 实用便，Cloz 最弱要查血。USMLE 默认选 Quet。"**
+> - **Amantadine 反射钩**：amantadine 名字像"安宁定" → 容易误以为是镇静药 → 实际是**多巴胺能（增 DA 释放）**，在 PD psychosis 题里**永远是错误选项**。同理 prami/ropi/roti 词根（DA 激动剂家族）也都不能选。
+> - **D2 谱视觉记忆**：**Pim 0 → Quet 极弱 → Cloz 弱 → Olanz 中 → Risp 中高 → Halo 强**。PD 用药"躲着 D2 走"= 只能停在前三位。
+> - **昨题今题串记**：**Q16164（昨）"减药就够" + Q12152（今）"减药失败上 quetiapine" = PD psychosis 流程的两端**。考前重做就以这两题为锚，串联第 1-5 步全流程。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q：「Amantadine 到底是什么药？为什么选它会错？」→ 学到：amantadine 是**多巴胺能药**——机制 = 增 DA 释放 + 抑 DA reuptake + 抗 NMDA。临床用途：① 早期/轻型 PD 单药 ② levodopa 诱导的 dyskinesia ③ neuroleptic-induced parkinsonism ④ 流感 M2 通道阻断（现少用）。在 PD psychosis 里它是**加重 DA 过多**的元凶之一，**绝对禁选**。
+> - Q：「为什么不选 pimavanserin？它不是更专门？」→ 学到：pimavanserin 确实是 FDA 唯一专批 PD psychosis 的药（纯 5-HT2A 反向激动剂、零 D2），但**临床实际首选仍是 quetiapine** — 因为 ① pimavanserin 可及性差、成本高 ② quetiapine D2 也极弱、安全谱够用 ③ 已有数十年 PD psychosis 临床经验。USMLE 题里**没给暗号（"5-HT2A inverse agonist" / "no D2" / "specifically approved"）就默认 quetiapine**。
+> - Q：「Clozapine 不是 D2 拮抗最弱的吗？为什么不首选？」→ 学到：理论上 clozapine D2 拮抗确实比 quetiapine 还弱，**但 agranulocytosis 风险**（粒细胞缺乏）要求每周 ANC 监测（前 6 月）+ 每 2-4 周后续监测，再加上 seizure / myocarditis / orthostatic hypotension 风险 → 临床退居 PD psychosis 二线。USMLE 给 clozapine 当答案的场景 = 题干明说"已用 quetiapine 无效"或"愿意做血常规监测"。
+> - Q：「Selegiline 在本题加重 psychosis 吗？」→ 学到：是的。Selegiline = MAO-B 抑制剂 → 阻 DA 降解 → 实质上**升 DA**。本题题干说"selegiline 也增加了剂量" → 与 levodopa 协同推高 DA → 共同诱发 psychosis。第 4 步减药时，selegiline 和 levodopa 都应考虑减量（"减效力最低的开始" → 一般先减 selegiline 等辅药）。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题（按时间倒序）：
+>   - [[mistakes/uworld-mistakes#^Q16164]] PD psychosis 管理 — **第 4 步减药**（2026-05-22，本题前 1 天；昨天考"减药就够"反应轻症，今天考"减药失败必上 quetiapine"——同流程两端，**该卡刚同步升 🔴 反复错**）
+>   - [[mistakes/uworld-mistakes#^Park1-2026-05-22]] DIP 处理（同 D2 通路：那卡是 D2 阻断致 parkinsonism 禁 levodopa；本卡是减 levodopa 不够 → 用低 D2 quetiapine — 都是"多巴胺双刃剑"两端）
+>   - [[mistakes/uworld-mistakes#^Q2518]] Tardive Dyskinesia 处理（同 D2 通路 / 抗精神病药 EPS 家族；TD 处理用 VMAT2 抑制剂 tetrabenazine — 与本题 PD 第 5 步用药同源"D2 与运动症状平衡"主题）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/Peixuan分科笔记/psych]]
+> - 📋 草稿（已全覆盖本题）：[[草稿/2026-05-22_PD用药全解_主笔记草稿_v4]]（v4 第 94-103 行 Pimavanserin 段 + 第 145 行 Quetiapine 段 + 第 308 行高频陷阱表 + 第 323-324 行 Memory Hook "PD 看见鬼，先减药别加药" — **本题增量为零**，草稿已覆盖第 5 步 quetiapine first choice + D2 安全谱 + Amantadine/Pramipexole 多巴胺能陷阱）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/psych]]（抗精神病药 D2 拮抗强度谱 / EPS 风险 / 1 代 vs 2 代 vs 3 代 — 与 [[mistakes/uworld-mistakes#^Q2518]] TD 题、[[mistakes/uworld-mistakes#^Q20930]] tetrabenazine 题同源）
+>   - [[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]]（PD psychosis 不是 EPS，但同 D2 通路；EPS 是抗精神病药→D2 阻断→运动障碍，PD psychosis 是 PD 药→DA 过多→精神症状，**镜像同源**）
+>   - [[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP]]（PD psychosis 是"治疗副产物精神症状"特殊场景，与"原发性精神病选药 SOP"互为对照 — 一个躲 D2 走，一个走 D2 用）
+> - 🌱 TODO（待生成衍生）：神经科 + 精神科复习完 → 整合 [[完整笔记/专题笔记/神经/_衍生_多巴胺受体药物双刃剑]]（草稿 v4 整合 + Q16164 + Q12152 + DIP + TD + tetrabenazine 全收纳，按"多巴胺过多 vs 多巴胺不足"两端组织）
+>
+> ## ✅ 复盘行动
+> - [ ] **3 天后重做 Q12152 + Q16164 串联**（先做 Q16164 测第 4 步，再做 Q12152 测第 5 步；连对 2 轮 → 可降级到 🟡）
+> - [ ] 默写 PD psychosis 5 步流程 + 标注本题在第 5 步 + Q16164 在第 4 步
+> - [ ] 默写 PD 抗精神病药 D2 安全谱（Pim 0 / Quet 极弱 / Cloz 弱 / Risp 中高 / Halo 强）+ 哪三个可用、为什么 Quet 首选
+> - [ ] 默写 Pim/Quet/Cloz 三选一决策（默认 Quet → "零 D2"暗号 Pim → "难治/已用过其他"Cloz）
+> - [ ] 默写 Amantadine 三大用途（PD / dyskinesia / 流感）+ 反射钩"PD psychosis 题里看到 amantadine 直接划掉"
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/neuro]] PD 章节加「考前必看」标签（PD psychosis 5 步 + 第 5 步用药选择是反复错点）+「难记」标签（PD 抗精神病药 D2 谱）
+> - [ ] 神经科 + 精神科复习完 → 触发草稿 v4 整合（PD psychosis 衍生独立）
+>
+> ---
+>
+> 学科:: 神经
+> 主题:: PD psychosis 第 5 步用药（减药失败后必须上低/零 D2 抗精神病药）/ Quetiapine = PD psychosis 临床首选（availability + safety 最佳）/ Pimavanserin = FDA 唯一专批但 cost/availability 限制 / Clozapine = 低 D2 但 agranulocytosis 需 ANC 监测 / Risperidone-Haloperidol 强 D2 PD 禁用 / Amantadine 多巴胺能药（增释放+抑 reuptake）= PD psychosis 题里永远错误选项 / Pramipexole DA 激动剂火上浇油 / SGA 不均质（risperidone D2 仍强 PD 不可用，只有 Quet/Cloz/Pim 三家通过 PD 例外）/ Selegiline MAO-B 抑制剂同样升 DA / Q16164 第 4 步 + Q12152 第 5 步串联 = 完整 PD psychosis 流程
+> 状态:: 🔴
+> 错因:: pattern
+> 反复错记录:: 2026-05-22 [[mistakes/uworld-mistakes#^Q16164]] 第 4 步减药 + 2026-05-23 [[mistakes/uworld-mistakes#^Q12152]] 第 5 步用药 / 用户自述"应该之前做过但还是错" / 首次入库即 🔴
+> 升档触发:: 同主题流程相邻 2 天连错 + 用户自述反复
 
