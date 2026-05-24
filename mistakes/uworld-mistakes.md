@@ -19577,3 +19577,581 @@
 > 状态:: 🟡
 > 错因:: 知识
 
+> [!example]- [2026-05-24] Ethics / Communication — Reframing Terminal Illness Goals（wish...worry framework + alternate means; 不 false hope 不 withdraw hospice）(Q21143)
+> ^Q21143
+>
+> ## Stem 模式
+> 45M + brain mets melanoma + bed-bound + hospice 3 月 + 死亡 2-4 周 → "My daughter is getting married in 4 months, I'd like to be there." 问最 appropriate response？
+>
+> ## 核心概念
+> Terminal illness 患者表达 **unattainable goal** 时，physician 应用 **"wish...worry" 或 "hope...worry" framework**：① **Empathically acknowledge** patient's wish ② **Honestly express** worry about prognosis（避免 false hope）③ **Offer constructive alternate** approach（symbol of presence / 提前 ceremony / revised timing），帮助 patient 在 realistic limits 内**重新获得 control + cope with grief**。
+>
+> Answer：**A. "I wish you could stay alive until the wedding, but I worry you may not. Maybe you can consider creating a symbol of your presence, like a letter that can be shared at the wedding."**
+>
+> ## 普适规则
+>
+> ### 一、Reframing Personal Goals in Terminal Illness 3 阶段表 ⭐
+>
+> | 阶段 | 操作 | 例 |
+> |---|---|---|
+> | **① Explore patient's understanding** | Current symptoms / functional limitations / expected course + prognosis 是否清晰 | "Tell me what you understand about your illness." |
+> | **② Clarify patient's priorities & values** | Personal goals / fears / obstacles / individual motivation + purpose | "What is most important to you in the time you have?" |
+> | **③ Reframe goals in realistic ways** | Alternate means / schedule + current help support + **avoid false hope** | Wedding 出席 → 写信 / 视频 / 提前 ceremony / 录音祝福 |
+>
+> ### 二、Wish...Worry / Hope...Worry Framework 6 步
+>
+> ```
+> ① Explore current understanding（disease + prognosis + functional limitations）
+>      │
+>      ▼
+> ② Clarify priorities + values（specify what patient wishes + why）
+>      │
+>      ▼
+> ③ Express empathy tempered by realistic assessment
+>      "I wish... but I worry..." / "I hope... but I'm concerned..."
+>      （永远不 false hope；永远不 jump to "miracle" / "still a chance"）
+>      │
+>      ▼
+> ④ Gently offer constructive alternate suggestions
+>      "Maybe you can consider creating a symbol of your presence..."
+>      （alternate approach / revised timing → 帮 patient regain control）
+>      │
+>      ▼
+> ⑤ Help patient cope with grief（不一定立刻解决，给 timeline + 多次 visit）
+>      │
+>      ▼
+> ⑥ Document patient values + plan in chart（continuity of care）
+> ```
+>
+> ### 三、坏答案 4 大反 pattern
+>
+> | 反 pattern | 例 | 为什么错 |
+> |---|---|---|
+> | **① False hope（"miracle" / "still a chance"）** | "It is always possible that a miracle can happen"（C）| 没 recognize prognosis + 不 offer constructive path |
+> | **② 自相矛盾的混合 message** | "There is still a chance... but we cannot control nature"（D）| 一句承认 false hope 一句撤回 — 让 patient confused |
+> | **③ Avoid false hope 但不 reframe** | "Unfortunately unlikely you'll live that long. Arrange final goodbyes."（E）| Honest 但 brutal + 没 offer alternate means → 没帮 patient regain control |
+> | **④ 推 withdraw hospice 求 aggressive Tx** | "If attending wedding is your goal, withdraw hospice for aggressive treatment"（B）| Patient **没**表达想 prolong life；hospice 已 enrolled 3 月 + 多次 curative 失败 → withdraw hospice 是 patient 没要的 + 引入 treatment complications + 收效极低 |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | **A** ⭐ | "I wish... but I worry... Maybe you can consider creating a symbol of your presence, like a letter" | ✅ Wish...worry framework + constructive alternate（symbol of presence）|
+> | B | Withdraw hospice for aggressive treatment | ❌ Patient 没要 prolonging life；withdraw hospice 引入 harm |
+> | C | "It is always possible that a miracle can happen" | ❌ False hope + 不 recognize prognosis |
+> | D | "There is still a chance you will survive... but we cannot control nature" | ❌ 自相矛盾（false hope + 撤回）+ 没 reframe |
+> | E | "Unfortunately unlikely... arrange final goodbyes" | ❌ Avoid false hope ✓ 但**没 reframe goals**（没 offer alternate means）|
+>
+> ## 我为什么错
+> - 选了：**D. "There is still a chance you will survive to your daughter's wedding. But we cannot control nature, and your time will likely come before then."**
+> - 错因：**知识**（不熟 wish...worry framework + 没区分"avoid false hope" 单独不够 — 还要 reframe + offer alternate）
+> - 核心陷阱：**误以为"承认 medical reality + 委婉表达"= 完整答案** → 实际还差关键的 **constructive alternate suggestion**（symbol of presence / 提前 ceremony / 写信）才算 reframe。
+>
+> ## Memory Hook
+> - **3 阶段**：「**Explore understanding → Clarify priorities → Reframe with alternate means**」
+> - **Wish...Worry framework**：「**I wish X, but I worry Y. Maybe Z（constructive alternate）**」3 件套
+> - **3 件套缺一不算完整**：避免 false hope ✓ + 承认 prognosis ✓ + offer alternate ✓ — D/E 都缺第 3 件
+> - 类比：朋友说"我想 climb Everest" 但身体不行 → 不能"是的还有可能"（false hope）也不能"算了别想了"（brutal）；而是"我希望你能爬，但担心健康不允许 — 要不试试 base camp？"（wish + worry + alternate）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点："Avoid false hope" 是关键原则反射太强 → 学到这只是必要条件，不充分；完整答案还需 **reframe + offer alternate**。
+> - 卡点：把 D 选项"still a chance + can't control nature"误读为"empathic 委婉" → 学到这是**自相矛盾 message**，让 patient 更 confused，比直接说更糟。
+> - 卡点：B 选项 withdraw hospice 看似 "patient-centered respect patient goals" → 学到 patient **没**表达 prolong life 意愿；他要的是 wedding 出席 — 用 alternate means 满足比 withdraw hospice 求 futile cure 合理。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q21627]] NEOT — End-of-life 3 philosophies + surrogate substituted judgment（家属 reframing 与本题 patient reframing 同框架）
+>   - [[mistakes/uworld-mistakes#^Q7283]] Pediatric chronic illness disclosure — 先 assess understanding（§七 阶段 1 同本题 §13.1 阶段 ①）
+>   - [[mistakes/uworld-mistakes#^Q19132]] Perinatal HIV disclosure — collaborative plan + timeline + avoid false hope
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/hematology oncology]] — Metastatic melanoma 预后（brain mets）+ palliative care
+>   - [[完整笔记/Peixuan分科笔记/psych]] — Anticipatory grief + terminal illness communication
+>   - [[完整笔记/Peixuan分科笔记/neuro]] — Brain mets 自然病程 + bed-bound 末期表现
+> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §13.1 Reframing Terminal Illness Goals（v1.4.3 新增）
+> - 🌱 TODO：累积 terminal illness communication 题家族（hope/worry framework + 父母告知 children prognosis + DNR discussion 沟通技巧）→ 整合 [[完整笔记/专题笔记/USMLE/USMLE_Terminal_Communication]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证 wish...worry framework + alternate means 反射）
+> - [ ] 默写 3 阶段表（Explore understanding → Clarify priorities → Reframe with alternate means）
+> - [ ] 默写坏答案 4 大反 pattern（false hope / 自相矛盾 / avoid false hope 不 reframe / 推 withdraw hospice）
+> - [ ] 反射训练：见到 terminal patient 表达 unattainable goal → 0.5 秒喊 "wish... worry... alternate"
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Reframing personal goals in terminal illness（3 阶段：explore understanding → clarify priorities → reframe with alternate means + current help support + avoid false hope）/ Wish...Worry framework（"I wish X but I worry Y, maybe Z constructive alternate" 3 件套）/ Hope...Worry framework 同义 / Constructive alternate 例：symbol of presence (letter / 视频 / 录音) / 提前 ceremony / revised timing / Patient 表达 unattainable goal 不等于要 prolong life（不 withdraw hospice）/ "Avoid false hope" 单独不够 — 还要 reframe + offer alternate / 4 大坏答案反 pattern（false hope / 自相矛盾 / avoid false hope 不 reframe / 推 withdraw hospice 求 aggressive Tx）
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-24] Ethics / Communication — IPV Screening（Intimate Partner Violence — chronic 不明 somatic + 反复 visits 是高频暗号；normalizing statement + open-ended 启动 screening）(Q20531)
+> ^Q20531
+>
+> ## Stem 模式
+> 28F + chronic dull abdominal pain（恶心反复）+ 多次 ED + urgent care + 多次 normal 评估（pelvic / lab / CT 全阴）+ sexually active boyfriend + 几个月前刚 moved in + 无 chronic conditions + vital + exam 正常 → 问最 appropriate statement？
+>
+> ## 核心概念
+> IPV (Intimate Partner Violence) = any 类型 harm（physical / psychological / sexual）by a partner，**特别影响 women of childbearing age**，**stress / 关系变化（marriage / postpartum / 同居）期间** incidence ↑。IPV **常 underreported**（shame / self-blame / fear of retribution）→ physician 必须**主动 maintain high clinical suspicion**。
+>
+> Screening 用 **normalizing statement**（"I sometimes see patients with similar pain that is caused by..."）开始 → 跟 **open-ended** + **specific** 问题 → 鼓励 disclosure。
+>
+> Answer：**C. "I sometimes see patients with similar pain that is caused by feeling unsafe in their relationships; is this happening to you?"**
+>
+> ## 普适规则
+>
+> ### 一、IPV Assessment Signs（USMLE 高频 stem 暗号）⭐
+>
+> | 维度 | 信号 |
+> |---|---|
+> | **Location of injuries** | Genitals / torso / face / head / neck（"central body" 而非 extremities）|
+> | **Inconsistent explanation** | 故事 evasive / fearful / 解释与伤情不符 |
+> | **Healthcare utilization** | **Nonadherence to follow-up** + **反复 ED visits** + 多次 normal 评估 |
+> | **Partner behavior** | Resists patient being seen alone + 抢答 / 跟着进 exam room |
+> | **Somatic symptoms** | Chronic abdominal pain / **chronic pelvic pain** / headaches / back pain（typically nonspecific + normal evaluation）|
+> | **STIs / sexual health** | Discomfort in examination + STIs + chronic pelvic pain |
+>
+> ### 二、Interview Strategies SOP（4 步）⭐
+>
+> ```
+> ① Ensure privacy（partner 不在场 — exam room 独处 / privacy screen）
+>      │
+>      ▼
+> ② Nonjudgmental + empathic + open-ended questions
+>      Normalizing statement: "I sometimes see patients with similar pain that is caused by..."
+>      （normalizing 减 shame + 减 fear of judgment）
+>      │
+>      ▼
+> ③ Avoid pressuring（不强迫 disclose / report / leave partner）
+>      ※ 否则 patient 反而 withdraw + 增加 risk
+>      │
+>      ▼
+> ④ Assess immediate safety + emergency safety plan + referrals
+>      （shelters / domestic violence agency / mental health / social work）
+> ```
+>
+> ### 三、Normalizing Statement 设计模板
+>
+> | 类型 | 模板 |
+> |---|---|
+> | **症状归因型**（本题）| "I sometimes see patients with [symptom] that is caused by [sensitive cause]; is this happening to you?" |
+> | **直接问 specific** | "Have you ever been hit by your partner?" |
+> | **关系安全感型** | "How safe do you feel in your relationship?" |
+> | **频率型** | "Many patients I see experience [violence/fear/control]. Has this been your experience?" |
+>
+> ※ Normalizing 关键 = "**许多 patient 都这样**" + "**你 normal 不孤单**" → 减 shame / 减 fear of judgment → 鼓励 disclosure。
+>
+> ### 四、Chronic Somatic + 反复 visits 鉴别诊断（USMLE 高频）
+>
+> | 诊断 | 关键特征 | 处理 |
+> |---|---|---|
+> | **IPV** ⭐ | 高心理 risk factor + relationship change + 反复 normal 评估 | Normalizing statement + screening |
+> | **Somatic symptom disorder** | 过度 preoccupation + anxiety with ≥1 somatic symptom + 无明确 cause | Regular visits same provider + 避免 unnecessary specialist + CBT |
+> | **Substance use disorder** | 反复 ED + drug-seeking + 不一致 history | Collateral info + urine drug screen + counseling |
+> | **Major depressive disorder** | Somatic 是 depression 表现 + neurovegetative symptoms | PHQ-9 + SSRI / 心理治疗 |
+> | **Functional GI disorder（IBS）** | 满足 Rome IV 标准 + 无器质性 | Dietary / 心理 / antispasmodics |
+>
+> > [!tip] 高 IPV suspicion 优先 screen
+> > 反复 normal 评估 + chronic 不明 somatic 在 reproductive-age women 中 IPV 必排（即使诊断指向其他，仍 screen）。
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | "All testing normal, follow up with PCP" | ❌ ⭐ 推 PCP follow-up = 失去当下 screening 机会；IPV 患者 nonadherence 高，可能再也不出现 |
+> | B | "No physical basis to your symptoms" | ❌ Close-ended + 不 address psychosocial cause + discourages disclosure + 让 patient 感被 dismissed |
+> | **C** ⭐ | "I sometimes see patients with similar pain caused by feeling unsafe in their relationships; is this happening to you?" | ✅ Normalizing statement + open-ended + 减 shame + 启动 screening |
+> | D | "Many patients improve with low-intensity exercise; can I share resources?" | ❌ Empathic 但 recommendations for symptom control **不 address underlying etiology** — 必须先 understand cause |
+>
+> ## 我为什么错
+> - 选了：**A. "All of your testing has been normal so far; I recommend following up with your primary care doctor so your symptoms can be further evaluated."**
+> - 错因：**知识**（① 不熟 IPV 高频 stem 暗号 — 没识别 "chronic somatic + 反复 visits + 新同居" 三联 = high suspicion ② 反射推 PCP follow-up 当 ED "appropriate disposition" 而失去 screening 机会）
+> - 核心陷阱：**误以为"normal 评估 + 推 PCP follow-up" 是 safe disposition** → 实际 IPV nonadherence 高，patient 可能再也不来；ED 是 critical screening window。
+>
+> ## Memory Hook
+> - **IPV 三联暗号**：「**Chronic 不明 somatic + 反复 normal 评估 + relationship change / 新同居**」
+> - **Normalizing statement 公式**：「**"I sometimes see patients with [symptom] caused by [sensitive cause]; is this happening to you?"**」
+> - **SOP 4 步**：「**Privacy / Normalizing + open-ended / 不强迫 / 安全 + referrals**」
+> - 类比：医生像新人朋友 — 第一次见面不能"你被打了吗？"（突兀），先说"我朋友圈很多人经历过 X，你呢？"（normalizing），减 shame 后才会开口。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点："Chronic abdominal pain + 反复 visits + 评估正常" 我没反射到 IPV → 学到这是 USMLE 经典 IPV 暗号；reproductive-age women 中**必排** IPV。
+> - 卡点：推 PCP follow-up 听起来 safe → 学到 IPV nonadherence 高 + 关系暴力 escalation 风险 → ED / urgent care 是关键 screening window，**当下做** > 推未来。
+> - 卡点：normalizing statement 的"我经常见"开头我以为是套话 → 学到这是**有目的的减 shame 设计**（让 patient 知道她 normal + 不孤单），不是 filler。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q3742]] Collateral Information SOP — Family 想 private 谈（与 IPV partner-related collateral info 衔接）
+>   - [[mistakes/uworld-mistakes#^Q105595]] Adolescent confidentiality — IPV 是 breach 例外之一（safety threat）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]] / [[完整笔记/Peixuan分科笔记/GYN]]（IPV 是 GYN well-woman visit 标配 screening）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/GYN]] — IPV screening 是 well-woman visit / 妇科常规
+>   - [[完整笔记/Peixuan分科笔记/psych]] — Somatic symptom disorder 鉴别 + trauma-informed care + PTSD risk
+>   - [[完整笔记/Peixuan分科笔记/OB]] — Pregnancy 期间 IPV ↑（high-risk period）+ postpartum IPV screening
+>   - [[完整笔记/Peixuan分科笔记/消化补充内容]] — Chronic abdominal pain 鉴别（functional / IBS / IPV-related）
+> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §13.2 IPV Screening（v1.4.3 新增）
+> - 🌱 TODO：累积 IPV / elder abuse / child abuse / sexual abuse screening 题家族 → 整合 [[完整笔记/专题笔记/USMLE/USMLE_Abuse_Screening_SOP]]（screening signs + interview strategy + 强制报告 vs autonomy 边界 + mandatory reporters）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证 IPV 三联暗号反射）
+> - [ ] 默写 IPV signs（6 维度）+ interview SOP（4 步）
+> - [ ] 默写 normalizing statement 公式 + 4 个模板
+> - [ ] 默写 chronic 不明 somatic 鉴别（IPV / SSD / SUD / MDD / IBS）
+> - [ ] 反射训练：见到 reproductive-age 女性 + chronic 不明 somatic + 反复 normal 评估 → 0.5 秒喊"IPV 必排 + normalizing statement"
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: IPV (Intimate Partner Violence) Screening（chronic 不明 somatic + 反复 ED/urgent care visits + relationship change 三联暗号 = high suspicion / reproductive-age women 必排）/ Normalizing statement 启动 screening（"I sometimes see patients with [symptom] caused by [sensitive cause]; is this happening to you?"）/ Interview SOP 4 步（privacy → nonjudgmental + open-ended → 不强迫 disclose/report/leave → assess safety + referrals）/ IPV signs 6 维度（central body injuries + inconsistent explanation + 反复 visits + partner resists alone + somatic symptoms + STIs）/ IPV 是 confidentiality breach 例外（安全 threat）/ 推 PCP follow-up = 失去关键 screening window / Chronic 不明 somatic 鉴别（IPV / SSD / SUD / MDD / IBS）
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-24] Ethics / Communication — Cross-cultural Care（先 understand patient perceptions/beliefs 再 counsel；materials 是 adjunct 不是 first step）(Q21242)
+> ^Q21242
+>
+> ## Stem 模式
+> 50M Colombian immigrant + 15 yr ago quit smoking + fluent English + colon cancer screening hesitant：**"I don't think I really need that because I feel good and I'm pretty sure I don't have cancer."** 问 best next step？
+>
+> ## 核心概念
+> **Cross-cultural care** = patient-centeredness + cultural sensitivity + enhanced communication 三位一体。当 minority / immigrant patient hesitant 接受 screening / treatment → physician **必须先 identify patient's perceptions and beliefs**（关于 disease + 病因 + prevention）— 不是 jump to scientific reasoning / 不是直接给 culturally appropriate materials / 不是 family-centered discussion。
+>
+> 非白人 patient 常有 unique perceptions：① 自感 less susceptible to cancer（prevention messaging 以 White American 为主造成 disconnect）② 把 screening 与 fear 关联（"tempting fate" — 没症状去查反而惹病）③ 文化 stigma（cervical cancer 与 sexual activity 关联等）。
+>
+> Answer：**D. Identify the patient's perceptions of cancer causes**
+>
+> ## 普适规则
+>
+> ### 一、Cross-cultural Care 3 大支柱 ⭐
+>
+> | 支柱 | 内容 |
+> |---|---|
+> | **① Patient-centeredness** | Understanding + aligning care with patient values + priorities |
+> | **② Cultural sensitivity** | Exploring + responding to patient's cultural perspective（避免 stereotyping / assumptions / 主动 ask questions）+ 理解 sociocultural influences on perceptions of health |
+> | **③ Enhanced communication** | 解决 language barriers（interpreter services）+ tailor communication styles（eye contact / addressing family）to patient preferences |
+>
+> ### 二、Cross-cultural Counseling 决策树 ⭐
+>
+> ```
+> Minority / immigrant patient hesitant for screening / treatment
+>     │
+>     ▼
+> ① **首选** — Identify patient's perceptions + beliefs about disease / 病因 / prevention ⭐
+>     "What do you think causes cancer?"
+>     "How do people in your community view screening?"
+>     │
+>     ▼
+> ② Based on perceptions → tailor counseling
+>     ├─ 若 spirituality / fate-based → 用 patient framework 内 reframe
+>     ├─ 若 misunderstanding of mechanism → 科学 explanation
+>     └─ 若 stigma / fear → empathic 解决 specific concern
+>     │
+>     ▼
+> ③ Family-centered discussion（仅在 certain cultures + patient prefer 时）
+>     │
+>     ▼
+> ④ Culturally appropriate materials（**adjunct**，不是 first step）
+> ```
+>
+> ### 三、非白人 patient 常见 cancer screening perceptions
+>
+> | Perception | Why | 处理方向 |
+> |---|---|---|
+> | **"I'm less susceptible to cancer"** | Prevention messaging primarily features White American communities → disconnect | Use community-specific data + culturally relevant examples |
+> | **"No symptoms = no cancer"** | Early-stage cancer often asymptomatic 概念不普及 | 解释 screening rationale + 早期发现 = 治愈率高 |
+> | **"Tempting fate to screen"** | 部分文化认为没事别去找事 | Empathic acknowledge + reframe 为 "protecting future health" |
+> | **"Cervical / breast cancer 与 sexual activity / 怀孕等 stigma"** | 文化 stigma | Confidentiality 重申 + private setting |
+> | **"Religious / spiritual cause of illness"** | Non-Western health framework | Acknowledge + 在 patient framework 内 reframe（不否定 patient belief）|
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Engage in counseling on **scientific benefits** of cancer screening | ❌ 没先了解 patient perceptions — patient 的世界观可能 extend beyond scientific paradigms（spirituality / nature）；scientific 解释**不能 first step** |
+> | B | Explain smoking history **increases** cancer risk | ❌ 用 fear 强化 → exacerbate fears about screening + 让 patient 更 hesitant；less effective as first step |
+> | C | Family-centered discussion | ❌ 某些 culture 适合 family discussion，但 **physician should first work with patient directly + identify preferences** — 不是反射推家庭 |
+> | **D** ⭐ | Identify patient's perceptions of cancer causes | ✅ Cross-cultural care first step — understand 才能 tailor |
+> | E | Provide culturally appropriate **materials** on cancer screening | ❌ Materials 是 **adjunct** to active patient-centered discussion，不是 first step；如 patient 仍 perceives screening unnecessary，materials 无效；先 solicit perspectives 才 effective |
+>
+> ## 我为什么错
+> - 选了：**E. Provide the patient with culturally appropriate materials on cancer screening**
+> - 错因：**pattern**（"Cross-cultural care = culturally appropriate materials" 反射 — 把 culture-related response 等同于 "give materials"，没识别 first step 必须是 understand patient perceptions）
+> - 核心陷阱：**误以为 culturally appropriate materials = cross-cultural care 的核心实操** → 实际 materials 是后续 adjunct；**identifying perceptions** 才是 first step（同 §七 pediatric disclosure 阶段 ① "assess current understanding"）。
+>
+> ## Memory Hook
+> - **3 大支柱**：「**Patient-centered + Cultural sensitive + Enhanced communication**」
+> - **First step 永远是**：「**Identify patient's perceptions / beliefs**」— 同 §七 disclosure 阶段 ① 一样
+> - **常见 perceptions 4 类**：「**Less susceptible / No symptoms = no cancer / Tempting fate / Religious-spiritual cause**」
+> - **Materials = adjunct，不是 first step**：先 understand 再 tailor，最后 supplement materials
+> - 类比：导游带外国客人 → 不是直接发英文版景点 brochure（materials = E）；先问"你想看什么？什么感兴趣？"（identify perceptions = D），再带去他真正 care 的地方。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：见到"cross-cultural" 反射 "culturally appropriate materials" → 学到这是 culturally **specific** intervention，不是 cross-cultural care 的 **first step**；first step 永远是 understand patient framework。
+> - 卡点：A "讲科学" 听着像 informed counseling → 学到非白人 patient 可能 extend beyond scientific paradigms（spirituality / nature / fate），直接讲科学 = 否定 patient framework + 没建立 trust。
+> - 卡点：B "smoking 增加 cancer risk" 听着像 evidence-based education → 学到 fear-based messaging **exacerbates** screening hesitancy（特别 hesitant patient），是 less effective first step。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q7283]] Pediatric chronic illness disclosure — 阶段 ① "assess current understanding"（与本题 first step "identify perceptions" 同框架）
+>   - [[mistakes/uworld-mistakes#^Q19132]] Perinatal HIV disclosure — Collaborative + culturally sensitive
+>   - [[mistakes/uworld-mistakes#^Q21143]] Reframing terminal goals — Wish...worry framework 也基于"先 explore understanding"
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/psych]] — Cultural formulation interview (CFI) + culturally bound syndromes
+>   - [[完整笔记/Peixuan分科笔记/Biostats_Master]] — Screening 完成率 disparities by minority / immigrant status + 高 value care principles
+> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §13.3 Cross-cultural Care（v1.4.3 新增）
+> - 🌱 TODO：累积 cross-cultural / language barrier / interpreter use 题家族 → 整合 [[完整笔记/专题笔记/USMLE/USMLE_Cross_Cultural_Care]]（含 interpreter services 规则 + 文化-specific perceptions + cultural humility framework）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证 "first step = identify perceptions" 反射）
+> - [ ] 默写 Cross-cultural care 3 大支柱
+> - [ ] 默写 cross-cultural counseling 决策树（identify → tailor → family-centered → materials）
+> - [ ] 默写 non-White cancer screening perceptions 4 类
+> - [ ] 反射训练：见到 minority / immigrant hesitant + screening / treatment → 0.5 秒喊"identify perceptions first，不是 materials 不是科学讲解"
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Cross-cultural care 3 大支柱（patient-centeredness + cultural sensitivity 探索响应 patient cultural perspective + enhanced communication 解决 language barriers）/ First step = identify patient's perceptions and beliefs about disease/causes/prevention（不是 scientific explanation / 不是 culturally appropriate materials / 不是 family-centered discussion）/ Counseling 决策树（identify perceptions → tailor counseling → family-centered if appropriate → materials as adjunct）/ 非白人 patient 常见 perceptions（less susceptible / no symptoms = no cancer / tempting fate / religious-spiritual cause / cultural stigma 与 sexual activity 关联）/ Fear-based messaging（smoking risk）exacerbates hesitancy / Materials are adjunct not first step / 与 §七 pediatric disclosure 阶段 ① "assess current understanding" 同框架
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-05-24] Ethics / Communication — Medication Adherence Interventions（automated reminders > belittling video；forgetfulness 性 nonadherence 用 schedule integration + reminder + pill organizer）(Q21733)
+> ^Q21733
+>
+> ## Stem 模式
+> 15M + focal motor seizures 3 yr + carbamazepine 控制良好 + 学习压力大（HW + 足球 + 校剧）+ 妈妈发现成绩下降 + 视频显示嚼嘴 seizure + carbamazepine level subtherapeutic + patient says "I know it's important to take my meds, but high school is much busier than middle school." 问 best next step 改善 adherence？
+>
+> ## 核心概念
+> Medication nonadherence 常见 risk factors：① **Complex regimen** ② **Adverse drug effects**（sedation / dizziness）③ **Expensive / limited financial resources** ④ **Little immediate or apparent benefit** ⑤ **Inadequate physician supervision + written instruction**。临床信号：sudden / unexplained ↑ seizure frequency + subtherapeutic levels + 反复 missed follow-up。
+>
+> Effective interventions（按 patient 具体 barrier 选）：① **Schedule integration**（与日常 habits 绑）② **Pill organizers / dispensers** ③ **Simplified regimen** ④ **Automated reminders（smartphone apps）** ⭐ for forgetfulness ⑤ **Frequent telephone + interprofessional follow-up** ⑥ **Motivational interviewing** ⑦ **Consolidated refill schedule**。
+>
+> 本题 nonadherence = **forgetfulness 性**（busy schedule，不是 deliberate / aware-but-unmotivated）→ **automated reminder** 最 unobtrusively integrate into routine + 最有效。
+>
+> Answer：**C. Recommend the use of a recurrent cell phone alarm as a reminder to take his medication**
+>
+> ## 普适规则
+>
+> ### 一、Nonadherence Risk Factors 5 类
+>
+> | 类别 | 例 |
+> |---|---|
+> | **① Complex regimen** | 多次/日 + 多药 + 复杂 timing |
+> | **② Adverse drug effects** | Sedation / dizziness / GI distress |
+> | **③ Expensive / financial constraint** | 高自付 / 无保险 / 无 generic |
+> | **④ Little immediate benefit** | 慢病无症状（HTN / hyperlipidemia / seizure 控制良好 期）|
+> | **⑤ Inadequate physician supervision + written instruction** | 没文字交底 / follow-up 频率不够 |
+>
+> ### 二、Adherence Interventions 7 工具（按 barrier 选）⭐
+>
+> | 工具 | 解决什么 barrier | 最适场景 |
+> |---|---|---|
+> | **Schedule integration**（与刷牙 / 吃饭 / 闹钟绑）| Forgetfulness | 习惯 routine 已有的 patient |
+> | **Pill organizers / dispensers** | Forgetfulness + 多药 confusion | 老年 / polypharmacy |
+> | **Simplified regimen** | Complex regimen | 多次/日 → 长效一次/日 |
+> | **Automated reminders（smartphone app / alarm）** ⭐ | **Forgetfulness（busy schedule）** | **青少年 / 上班族 / busy lifestyle** |
+> | **Frequent telephone + interprofessional follow-up**（nurse / pharmacist）| Inadequate supervision | 高 risk patient / 新启动 Tx |
+> | **Motivational interviewing** | Ambivalence / unmotivated | Patient knows importance 但 lifestyle 阻碍 |
+> | **Consolidated refill schedule** | Multiple pharmacy visits | 多药多 refill 时间不同 |
+>
+> ### 三、坏答案反 pattern（USMLE 高频）⭐
+>
+> | 反 pattern | 例 | 为什么错 |
+> |---|---|---|
+> | **① Family burden 转嫁** | "Have mother check daily"（A）| 增 family care burden + 不 practical + 可能引发 parent-child conflict（青少年特别敏感）|
+> | **② Permissive 鼓励 nonadherence** | "Normal to forget doses, be patient"（B）| 鼓励 further nonadherence + 增 seizure complications risk |
+> | **③ Behavioral conditioning（reward / punishment）** | "Reward + punishment system"（D）| 对 forgetfulness 性 nonadherence 没用（patient 知道重要但忘）+ 增 frustration + 损 trust |
+> | **④ Belittling / humiliating "scared straight"** | "Show patient his seizure video"（E）| 被 patient 感知为 belittling / humiliating + 损 patient-physician trust + evidence 显示 fear-based intervention 不持久 |
+>
+> ### 四、Forgetfulness vs Deliberate Nonadherence 区分
+>
+> | 性质 | Stem 信号 | 处理方向 |
+> |---|---|---|
+> | **Forgetfulness（本题）** | Busy schedule / "I know it's important but..." / 偶尔漏 | Automated reminders + schedule integration + pill organizer |
+> | **Deliberate（unmotivated）** | "I don't think I need it" / 完全 reject + 否认必要性 | Motivational interviewing + identify perceptions + address ambivalence |
+> | **Adverse-effect-driven** | "It makes me feel X" / 主诉 specific side effects | Switch drug / 减量 / 处理 side effect |
+> | **Financial** | "I can't afford" / 提到 refill 跳过 | Generic switch + 援助 program + social work |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Mother check daily | ❌ 增 family burden + parent-child conflict（青少年敏感）|
+> | B | Reassurance "normal to forget, be patient" | ❌ Permissive 鼓励 further nonadherence + 增 seizure risk |
+> | **C** ⭐ | Recurrent cell phone alarm reminder | ✅ Automated reminder unobtrusively integrate into routine + 青少年 smartphone 适配 |
+> | D | Reward + punishment system | ❌ Behavioral conditioning 对 forgetfulness 无用 + 增 frustration |
+> | E | Show patient seizure video | ❌ Belittling / humiliating + 损 trust + fear-based 不持久 |
+>
+> ## 我为什么错
+> - 选了：**E. Show the patient the recorded video as a visual aid to emphasize the seriousness of untreated seizures**
+> - 错因：**干扰项**（被"emotionally compelling visual aid" 反射吸引 — 觉得"让 patient 看到自己 seizure 严重性"会改变行为；没识别这等于 belittling）
+> - 核心陷阱：**误以为 fear-based / dramatic 干预 = effective**（"震慑教育"反射）→ 实际 evidence-based 干预是**移除 barrier**（schedule integration / reminder），不是制造 fear。
+>
+> ## Memory Hook
+> - **本题反射钩**：「**Forgetfulness 性 nonadherence → automated reminder（smartphone app / alarm）**」
+> - **干预 7 工具速记**：「**Schedule / Organizer / Simplify / Reminder / Frequent f/u / MI / Consolidated refill**」
+> - **4 大坏 pattern**：「**Family burden / Permissive / Reward-punishment / Belittling video**」
+> - **Forgetfulness ≠ deliberate**：先识别 nonadherence 性质再选 intervention（forgetfulness → reminder；ambivalence → MI；ADE → switch）
+> - 类比：每天早上忘带钥匙 — 解决方案是"放门口挂钩"（schedule integration / reminder = C），不是"被锁门外几次让你长记性"（fear-based = E）。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：被"showing real consequences" 反射吸引 → 学到 fear-based / dramatic intervention 损 trust + 不持久；evidence-based 干预是**移除 barrier** 不是制造 fear。
+> - 卡点：选 A "mother check daily" 看似 caring → 学到青少年 autonomy + parent-child 关系 sensitivity，family burden 转嫁可能反引发 conflict。
+> - 卡点：选 B "normal to forget" 看似 empathic → 学到 permissive 反射 normalize harmful behavior，对 seizure 患者 risk 太高。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （Adherence 题家族待积累 — 当前仅本题）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]] / [[完整笔记/Peixuan分科笔记/neuro]]（Carbamazepine for focal seizure + level monitoring）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/neuro]] — Carbamazepine focal seizure + therapeutic level + AED selection
+>   - [[完整笔记/Peixuan分科笔记/psych]] — Motivational interviewing technique + adolescent autonomy + behavioral change theory
+>   - [[完整笔记/Peixuan分科笔记/儿科]] — Adolescent adherence challenges + transition to adult care
+> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §13.4 Medication Adherence Interventions（v1.4.3 新增）
+> - 🌱 TODO：累积 3+ 道 adherence / chronic disease management 题 → 整合 [[完整笔记/专题笔记/USMLE/USMLE_Adherence_Behavioral_Change]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证 forgetfulness → automated reminder 反射）
+> - [ ] 默写 nonadherence 5 大 risk factors + 7 大 intervention 工具 + 适配 barrier 表
+> - [ ] 默写 forgetfulness vs deliberate vs ADE-driven vs financial 4 类 nonadherence 鉴别
+> - [ ] 反射训练：见到 busy schedule + "I know it's important but..." + subtherapeutic level → 0.5 秒喊"automated reminder"
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Medication Adherence Interventions（7 工具：schedule integration + pill organizer + simplified regimen + automated reminders ⭐ + frequent telephone/interprofessional follow-up + motivational interviewing + consolidated refill schedule）/ Nonadherence 5 大 risk factors（complex regimen + adverse effects + expensive + little immediate benefit + inadequate physician supervision）/ Forgetfulness 性 nonadherence → automated reminders（smartphone app）最 unobtrusively + 适配 busy lifestyle / 青少年 / Nonadherence 4 大性质区分（forgetfulness vs deliberate vs ADE-driven vs financial — 对应不同 intervention）/ 4 大坏答案反 pattern（family burden 转嫁 / permissive 鼓励 / reward-punishment 对 forgetfulness 无用 / belittling fear-based intervention 损 trust）/ Seizure subtherapeutic level + sudden ↑ frequency = nonadherence signal
+> 状态:: 🟡
+> 错因:: 干扰项
+
+> [!example]- [2026-05-24] Ethics / Communication — SMART Goals + Motivational Interviewing（lifestyle modification first step = set SMART goal，不是 cardiac testing 不是 dietary prescription）(Q22080)
+> ^Q22080
+>
+> ## Stem 模式
+> 38F + hyperlipidemia + HTN + prediabetes（HbA1c 6.0 → 6.4 in 3 月）+ 想 lose weight + 计划"45 min/day 骑车 starting next week"（之前 sedentary）+ 多 vague objectives "lose weight / work out / be healthier"。家族史 paternal uncle MI age 74。BP 134/75，BMI 29，PE 正常。问 first counseling approach？
+>
+> ## 核心概念
+> Lifestyle modification counseling 首步 = **set a SMART goal via motivational interviewing**。患者已 motivated 但 ① **vague objectives** + ② **overly ambitious plan**（sedentary → 45 min/day）→ 高 likely discouraged + abandon altogether。Physician 应 **guide goal-setting** 用 SMART 框架（**S**pecific + **M**easurable + **A**ttainable + **R**elevant + **T**ime bound），起 small + realistic + 1 month reassess → 建立 confidence → 升级。
+>
+> Routine 患者**无 known cardiac disease / 无 cardiac symptoms** → **不需 preexercise CV testing**（USPSTF / AHA 不 recommend for asymptomatic 患者）。
+>
+> Answer：**B. "I'm pleased to hear your plans to become healthier. Let's discuss a change that you would like to achieve over the next month."**
+>
+> ## 普适规则
+>
+> ### 一、Lifestyle Modification 2 维度
+>
+> | 维度 | 内容 |
+> |---|---|
+> | **Behavioral changes** | DASH diet / regular exercise (>150 min/week) / disease prevention + risk factor management |
+> | **Clinician role** | ① Specific guidance（不"eat better"）② Tailor to patient（culturally preferred foods）③ Motivational interviewing + partnership ④ Assist setting **SMART goals** |
+>
+> ### 二、SMART Goals 5 要素 ⭐
+>
+> | 要素 | 内容 | 例（sedentary → 运动）|
+> |---|---|---|
+> | **S - Specific** | Focused + precise（具体 exercise type）| "15 min 快走" 而非 "exercise more" |
+> | **M - Measurable** | Easily quantified（min/day of exercise）| "3 days/week 计 days" |
+> | **A - Attainable** | Resource constraints（time / money）+ realistic（不 overly ambitious）| "15 min 3 days/week" 而非 "45 min/day"（sedentary 不现实）|
+> | **R - Relevant** | Logically oriented to patient objectives | 运动 → weight loss / DM 预防 |
+> | **T - Time bound** | Defined interval（1 month reassess）| "1 month 后复盘" |
+>
+> > [!tip] SMART goal 阶梯
+> > 起 small + realistic → 1 month reassess → 成功 build confidence → 升级 goal → 反复 → 最终达 long-term lifestyle change。直接 set ambitious → 失败 → discouraged → abandon altogether。
+>
+> ### 三、Motivational Interviewing 4 大原则
+>
+> | 原则 | 内容 |
+> |---|---|
+> | **① Express empathy** | 反射 patient feelings + acknowledge difficulty |
+> | **② Develop discrepancy** | 指出 current behavior vs values / goals 的 gap |
+> | **③ Roll with resistance** | 不直接 confront 阻抗，绕过 + 转 patient 自陈 |
+> | **④ Support self-efficacy** | 强化 patient confidence + 过去成功经验 |
+>
+> #### MI 经典提问
+>
+> - "How confident are you（1-10 scale）in your ability to [achieve goal]?"
+> - "What would help you move from a 5 to a 7?"
+> - "What is one small change you could make this week?"
+>
+> ### 四、Preexercise CV Testing — 何时需要 ⭐
+>
+> | 情境 | 需要 testing？ |
+> |---|---|
+> | **Established cardiac disease** | ✅ Yes（CAD / prior MI / HF / valve disease）|
+> | **Cardiac symptoms**（chest pain / SOB / syncope）| ✅ Yes |
+> | **High pretest probability**（symptomatic + multiple risk factors）| ✅ Yes |
+> | **Asymptomatic + no known cardiac disease**（本题）| ❌ **不需要** — USPSTF / AHA 不 recommend |
+> | **Asymptomatic + multiple risk factors（HTN / HLD / DM）单凭风险因子**| ❌ 不 routine recommend（screen 显示 limited benefit + false-positive 增 invasive workup harm）|
+>
+> ### 五、坏答案反 pattern（4 类）⭐
+>
+> | 反 pattern | 例 | 为什么错 |
+> |---|---|---|
+> | **① 误把 routine 当 cardiac**（preexercise CV testing without indication）| A | Routine asymptomatic 不需 testing；过度 testing 增 incidental finding harm |
+> | **② 跳过 SMART goal 直接 specific intervention** | C "tracking + daily log" / D "dietary modification first" | Premature — 必须先 set realistic SMART goal 再 prescribe 具体行为 |
+> | **③ 单维度强调**（diet over exercise）| D | Weight loss 是 multifactorial；不应单维度否定 patient expressed objective |
+> | **④ MI 步骤跳过 first step**（直接问 confidence rating）| E | Confidence rating 是 MI 一步，但**在 SMART goal 建立后**才用 |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | "Exercise regularly great! 但安全起见 check heart function first" | ❌ Routine asymptomatic 不需 preexercise CV testing；过度 cardiac |
+> | **B** ⭐ | "I'm pleased... Let's discuss a change to achieve over the next month" | ✅ 引入 SMART goal first step（time bound + collaborative + manageable）|
+> | C | "Tracking progress good; recommend daily log of weight + exercise for 2 weeks" | ❌ Tracking 是 implementation step，在 SMART goal 建立后才合理 |
+> | D | "Dietary modification more effective than exercise" | ❌ 否定 patient expressed objective + premature specific recommendation |
+> | E | "Sound motivated! How confident are you... in ability to exercise 45 min daily?" | ❌ MI confidence rating 是 后续 step；现在 45 min/day overly ambitious，应先 establish SMART goal 再 ask confidence |
+>
+> ## 我为什么错
+> - 选了：**A. "Exercising regularly is a great start to healthy living. For your safety, we should check your heart function before you begin an exercise program."**
+> - 错因：**知识**（① 不熟 USPSTF/AHA preexercise CV testing 标准 — 误以为 multiple risk factors 就需 cardiac testing ② 不熟 SMART goal first step framework）
+> - 核心陷阱：**误把 multiple cardiac risk factors（HTN + HLD + prediabetes + family history）当 testing indication** → 实际 asymptomatic + 无 known disease → 不 routine recommend；过度 testing 增 incidental finding 和 invasive workup harm。
+>
+> ## Memory Hook
+> - **SMART**：「**Specific / Measurable / Attainable / Relevant / Time bound**」
+> - **Lifestyle counseling first step**：「**Set SMART goal via MI**」，不是 testing 不是 specific prescription 不是 ask confidence
+> - **Preexercise CV testing 适应症**：「**Established cardiac disease OR cardiac symptoms**」— 单纯 risk factors 不 trigger
+> - **Vague + overly ambitious 是失败前兆**：「**Big plan → 大失败 → abandon altogether；small SMART → 成功 → 建 confidence → 升级**」
+> - 类比：减肥 app 不是先让你"测心电图再开始"（A）也不是问"你信你能跑马拉松吗"（E）；而是"我们定个本月小目标"（B）— 实操可达。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：HTN + HLD + prediabetes + family history 反射 "high risk → 必 cardiac testing" → 学到 asymptomatic 不 testing；risk factors 触发 prevention 不触发 diagnostic workup。
+> - 卡点：选 E 看着像 motivational interviewing 正解 → 学到 MI confidence rating 是**后续步骤**；先 establish realistic SMART goal 再 ask confidence；45 min/day overly ambitious 当 baseline confidence 数据没意义。
+> - 卡点：选 D "dietary 优于 exercise" 看着像 evidence-based → 学到否定 patient 已表达 objective（want to exercise）= 损 motivation；应**整合**多 modality 不是替换。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q21733]] Medication Adherence — Motivational interviewing 是 adherence 7 工具之一（与本题 lifestyle modification MI 同框架）
+>   - [[mistakes/uworld-mistakes#^Q21242]] Cross-cultural care — patient-centered counseling first step 框架
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]] / [[完整笔记/Peixuan分科笔记/Biostats_Master]]（USPSTF screening guidelines）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/endocrine]] — Prediabetes management（lifestyle modification first line + metformin if HbA1c >6.0 + high risk）
+>   - [[完整笔记/Peixuan分科笔记/心内]] — HTN lifestyle modification（DASH + exercise + weight loss）+ preexercise CV testing 标准
+>   - [[完整笔记/Peixuan分科笔记/psych]] — Motivational interviewing 完整原则 + behavioral change theory（stages of change）
+>   - [[完整笔记/Peixuan分科笔记/Biostats_Master]] — USPSTF screening principles + overdiagnosis harm
+> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §13.5 SMART Goals + Motivational Interviewing（v1.4.3 新增）
+> - 🌱 TODO：累积 3+ 道 lifestyle modification / behavioral change 题 → 整合 [[完整笔记/专题笔记/USMLE/USMLE_Behavioral_Change_SMART_MI]]（含 stages of change + relapse prevention + 详细 MI 技术）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证 SMART goal first step + preexercise CV testing 标准）
+> - [ ] 默写 SMART 5 要素 + 示例（sedentary → 运动）
+> - [ ] 默写 Motivational interviewing 4 大原则 + 经典提问
+> - [ ] 默写 preexercise CV testing 适应症（4 触发 + 2 不触发）
+> - [ ] 反射训练：见到 lifestyle modification + vague / overly ambitious goals → 0.5 秒喊"set SMART goal first, not testing / not specific Rx"
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: SMART Goals 5 要素（Specific + Measurable + Attainable + Relevant + Time bound）/ Lifestyle modification counseling first step = set SMART goal via motivational interviewing（不是 preexercise testing / 不是 specific dietary prescription / 不是直接问 confidence rating）/ Motivational interviewing 4 大原则（empathy + develop discrepancy + roll with resistance + support self-efficacy）/ Vague objectives + overly ambitious plan → 高 failure rate；起 small + realistic → 建 confidence → 升级 / Preexercise CV testing 仅 established cardiac disease OR cardiac symptoms 才需（routine asymptomatic + 多 risk factors 单凭不 trigger — USPSTF/AHA）/ Lifestyle modification 2 维度（behavioral changes: DASH + exercise + risk factor management；clinician role: specific guidance + tailor + MI + SMART goals）
+> 状态:: 🟡
+> 错因:: 知识
+

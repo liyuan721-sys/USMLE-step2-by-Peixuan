@@ -1510,7 +1510,7 @@ DNR / Living will ↔ Informed refusal 的 advance 形式（→ §八）
 
 ---
 
-## §十二 Ethics 答题 9 大反射钩陷阱（元归纳）
+## §十三 Ethics 答题 9 大反射钩陷阱（元归纳）
 
 > [!danger] 14 道错题元提炼 — 9 大反射钩陷阱（v1.4 升级）
 > 把所有 "看起来合理但实际是错答案" 的 pattern 拆解出 9 类。考前默念这 9 个，遇陷阱反射识别。
@@ -1639,7 +1639,7 @@ DNR / Living will ↔ Informed refusal 的 advance 形式（→ §八）
 
 ---
 
-## §十三 Memory Hooks 汇总 + 关联 v2 + 复习节奏
+## §十四 Memory Hooks 汇总 + 关联 v2 + 复习节奏
 
 ### Memory Hooks 汇总（14 道整合 + v1.4 新增）
 
@@ -1770,8 +1770,8 @@ DNR / Living will ↔ Informed refusal 的 advance 形式（→ §八）
 ### 复习节奏
 
 > [!tip] 浩斯宾节点（14 道 + 衍生 v1.4）
-> - **D+1 一句话**：本衍生 §一-§十三 各 1 句知识点（被动复习）
-> - **D+2 主检测**：本衍生题目 + 14 道原错题混合抽题
+> - **D+1 一句话**：本衍生 §一-§十四 各 1 句知识点（被动复习）
+> - **D+2 主检测**：本衍生题目 + 19 道原错题混合抽题
 > - **D+7 / D+14 / D+30 滚动**：选择不同 §节 检测一遍
-> - **考前必看**：§十一 Medical Legal Foundations + §十二 9 大反射钩陷阱 + §十三 Memory Hooks 汇总（用户自行决定加 `#考前必看` 标签）
+> - **考前必看**：§十一 Medical Legal Foundations + §十二 Patient Communication & Counseling + §十三 9 大反射钩陷阱 + §十四 Memory Hooks 汇总（用户自行决定加 `#考前必看` 标签）
 > - **v1.4 新增重点复习**：§一 DEMAND vs REFUSE 不对称 / §八 End-of-life 5 档边界 + DNR 范围 / §九 Directive counseling 5 大假尊重反 pattern / §五.5 Collateral info 3 字诀 / §十 COI Blinding 局限
