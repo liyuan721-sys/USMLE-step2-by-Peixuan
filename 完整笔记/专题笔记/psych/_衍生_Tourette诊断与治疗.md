@@ -41,7 +41,7 @@ source: 错题驱动 Q19552 诊断侧（2026-05-23）+ Q3375 治疗侧（2026-05
 | **运动 tic** | **≥2 种** motor tic |
 | **发声 tic** | **≥1 种** vocal tic（可以不同时出现）|
 | **病程** | tic 持续 **>1 年**（频率可消长 wax-and-wane）|
-| **起病** | **<18 岁** |
+| **起病** | **<18 岁**（最常见 **6-15 岁**起病；青春期前后高峰）|
 | **排除** | 非药物 / 物质 / 其他疾病引起（如 Huntington / 脑炎后）|
 
 **相关诊断**（病程不够 1 年或单类 tic）：
@@ -119,15 +119,23 @@ source: 错题驱动 Q19552 诊断侧（2026-05-23）+ Q3375 治疗侧（2026-05
 > [!warning] 关键反射
 > 看到 "不自主运动" → 强制问 **"是震颤 / 舞蹈 / myoclonus / tic / dystonia 哪一种？"** —— 抓**关键特征**（可否抑制 / 有无 urge / 动作形态）锁定，不要凭"运动相关"模糊联想。
 
-### 3.3 tic 分类
+### 3.3 tic 分类 + USMLE stem 关键词
 
-| 分类 | Simple | Complex |
+> [!tip] Stem 第一眼锁定
+> Stem 给的具体 tic 描述往往是**关键词触发**。下表把 simple / complex 分类与 USMLE stem 高频出现词对应，看到立刻归类。
+
+| 分类 | Simple（短、单肌群、刻板）| Complex（长、多肌群、有目的样）|
 |---|---|---|
-| **Motor** | 眨眼 / 耸肩 / 摇头 / 面部抽搐 | 跳跃 / 摸物 / **copropraxia（淫秽手势）** / echopraxia（模仿动作）|
-| **Vocal** | 清嗓子 / 哼哼 / 吸鼻 | **echolalia（重复别人话）** / **coprolalia（淫秽语，<10% TS 患者，非诊断必需）** / palilalia（重复自己话）|
+| **Motor** | **facial grimacing（面部鬼脸）** / **eye blinking（眨眼）** / **head-neck jerking（头颈抽动）** / **shoulder shrugging（耸肩）** / **tongue protrusion（伸舌）** | 跳跃 / 摸物 / **copropraxia（淫秽手势）** / echopraxia（模仿别人动作）/ 自伤式撞头 |
+| **Vocal** | **grunting（哼哼）** / **sniffing/snorting（吸鼻 / 喷鼻）** / **throat clearing（清嗓子）** / **barking（犬吠样）** / **yelling（喊叫）** | **echolalia（重复别人话）** / **coprolalia（淫秽语，"obscenities"）** / palilalia（重复自己话）|
 
 > [!info] coprolalia 不是诊断必需
-> 大众文化把 Tourette 等同于 coprolalia，但实际**<10%** 患者有 coprolalia，**不是诊断标准**。USMLE 用 echolalia 测发声 tic 概念更常见。
+> 大众文化把 Tourette 等同于 coprolalia，但实际**<10%** 患者有 coprolalia，**不是诊断标准**。USMLE 用 **echolalia** 测发声 tic 概念更常见（[[mistakes/uworld-mistakes#^Q19552]] 经典案例）。
+
+> [!warning] Stem 词反射钩
+> - 看到 **eye blinking / shoulder shrugging / facial grimacing / head jerking** 反复 + 患儿想忍忍不住 → 先想 motor tic
+> - 看到 **throat clearing / grunting / sniffing / barking / echolalia** → 先想 **vocal tic**（**不是 OCD 重复 / 不是哮喘清嗓 / 不是过敏吸鼻**）
+> - 同一患儿同时有 motor + vocal 时间 >1 年 + 起病 <18 → **Tourette 锁定**
 
 ---
 
