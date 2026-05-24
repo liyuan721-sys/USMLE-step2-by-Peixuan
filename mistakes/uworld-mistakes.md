@@ -17744,3 +17744,142 @@
 > 状态:: 🟡
 > 错因:: 知识
 
+> [!example]- [2026-05-23] 儿科 / Down syndrome 诊断（多线索整合 → Karyotype）(Q21629)
+> ^Q21629
+>
+> ## Stem 模式
+> 6 岁男孩（海外孤儿院收养，出生史 + 发育史不详）+ 学习困难 + IQ 68 + **轻度传导性听力丧失**（右）+ **flat nasal bridge** + **grade 3 holosystolic murmur at LLSB** + **friendly demeanor** + 体重 70th / 身高 10th + 3-4 字短语 → 问诊断性检查。
+>
+> ## 核心概念
+> ID + 多发 dysmorphic features + 先心 + 听力丧失 + friendly demeanor = **Down syndrome (T21)**。诊断金标准 = **核型分析 (karyotype)**。
+> LLSB holosystolic murmur = **VSD**（DS 第二常见心脏畸形，#1 = AVSD）；DS 听力丧失常见（频发 OM + 咽鼓管功能不良 → 传导性）。
+>
+> ## 普适规则（ID + dysmorphism stem 综合识别 SOP）⭐
+>
+> **三步法（防止被单线索带偏）**：
+>
+> ```
+> Step 1：把 stem 里所有 dysmorphic features 列出（脸/头/手/足/皮肤）
+> Step 2：把所有 comorbid systems 列出（心/听力/眼/内分泌/血液/神经）
+> Step 3：找哪个综合征命中最多 → 反向验证不命中线索是否仍兼容
+>         （≠ 抓 1 个线索就锁定）
+> ```
+>
+> **本题命中映射**：
+>
+> | Stem 线索 | Down (T21) | Prader-Willi | Fragile X | Rett |
+> |---|---|---|---|---|
+> | flat nasal bridge | ✅ 典型 | ❌（almond eyes + downturned mouth） | ❌（long narrow face） | ❌ |
+> | VSD（LLSB holosystolic） | ✅ #2 心脏畸形 | ❌ 不伴心脏畸形 | ❌ | ❌ |
+> | 传导性听力丧失 | ✅ 高频（OM + 咽鼓管） | ❌ | ❌ | ❌ |
+> | friendly demeanor | ✅ "people-oriented" 经典 | ❌（食物执念 + 顽固脾气） | ❌（自闭 / 焦虑） | ❌ |
+> | IQ 68（mild ID） | ✅ DS 多在 mild-moderate | ✅ | ✅ | ❌（退化型） |
+> | 身高 10th + 体重 70th（矮 + 倾向胖） | ✅ DS 也是 short + 倾向肥胖 | ✅ | ❌（高） | ❌ |
+> | 3-4 字短语（轻度语言迟缓） | ✅ | ✅ | ✅ | ❌（退化失语） |
+> | 男性 + 6 岁活着 + 多发畸形 | ✅ | ✅ | ✅ | ❌（几乎只女孩） |
+> | **命中数** | **8/8** ⭐ | **5/8**（缺面容/心脏/听力/friendly 4 大特异） | **4/8** | **0/8** |
+>
+> **结论**：DS 命中 8/8（含 4 个高特异），PW 仅命中身高体重智力等通用项 — 用户犯的"短矮 + 胖 → PW"是**单线索锚定陷阱**，忽略 4 个高特异不匹配线索。
+>
+> ## 普适规则（基因 / 染色体检测决策树 — ID + dysmorphism 用）⭐
+>
+> ```
+> ID + 多发畸形 stem
+>     │
+> Step 1：怀疑典型染色体综合征（DS/Edwards/Patau/Turner/Klinefelter）
+>     ▼
+>   KARYOTYPE 核型分析（数目异常 + 大片段重排）⭐ 一线
+>     │ 阴性 ↓
+> Step 2：怀疑微缺失 / 微重复
+>     ▼
+>   FISH / chromosomal microarray (CMA)
+>   ├─ 22q11.2 del → DiGeorge
+>   ├─ 7q11.23 del → Williams
+>   ├─ 5p- → Cri-du-chat
+>   └─ 15q11 → 进 Step 3a 印记
+>     │
+> Step 3a：印记疾病（PW / Angelman）
+>     ▼  Methylation analysis（DNA 甲基化分析）⭐ 印记金标准
+>     │
+> Step 3b：单基因病（特定基因 DNA / PCR）
+>     ▼  FMR1 (Fragile X — CGG 重复 PCR) / MECP2 (Rett) / FBN1 (Marfan) /
+>        HTT (Huntington — CAG) / DMPK (myotonic dystrophy — CTG) / FXN (Friedreich)
+>     │
+> Step 3c：代谢病（IEM）
+>     ▼  serum phenylalanine (PKU) / hexosaminidase A (Tay-Sachs) /
+>        尿有机酸 + 血氨基酸 (有机酸血症 / 氨基酸尿) / GAGs 尿 (黏多糖病)
+>     │
+> Step 4：MRI head — 仅当 focal neuro deficit / 癫痫 / progressive degeneration；
+>         单纯 ID + dysmorphism 不查（多正常或非特异）
+> ```
+>
+> ## 易混陷阱（普适）
+> - **单线索锚定陷阱**：抓 1-2 个线索就锁综合征 → 选项里没匹配就瞎选。USMLE 故意给 1-2 个泛特征（短矮 + 胖）+ 4-5 个高特异特征（面容 + 心 + 听力 + friendly）测**多线索整合能力**。
+> - **"短矮 + 胖" ≠ Prader-Willi 专属**：DS 也是 short + 倾向肥胖（甲减 + 代谢低）；PW 面容是 almond eyes + narrow bifrontal + downturned mouth + 小手小脚，**不是 flat nasal bridge**；PW **不伴**心脏畸形 / 听力损失 / friendly demeanor（PW 反而以食物执念 + 脾气暴躁出名）。
+> - **MECP2 是 Rett 不是 Down**：Rett 几乎只见于**女孩** + 正常发育后退化（loss of purposeful hand use + stereotyped hand wringing + 步态异常 + acquired microcephaly）— 不是先天 dysmorphism + 心脏 + 听力组合。
+> - **FMR1 Fragile X 钓饵**：智障男孩 → 容易反射选 FMR1。但 Fragile X = tall stature + long narrow face + 大耳 + 青春期后 macroorchidism + 自闭谱系，**不伴** flat nasal bridge / 心脏畸形 / 传导性听力丧失。
+> - **MRI 钓饵**：智障 + 学习困难 → 想查脑结构。但 MRI 适应症 = **focal neuro deficit / 癫痫 / progressive degeneration**；ID + dysmorphism 的 MRI 多正常或非特异，**不是诊断性**。
+> - **代谢病钓饵**：Tay-Sachs 是婴儿期严重 neurodegeneration + cherry-red macula + **2-5 岁内死亡**（6 岁活着 + 听力 / 心 / 面容均不匹配）；PKU 是 musty 味 + 抽搐 + 色素减低（现代美国新生儿筛查会发现，海外收养可能漏，但**不伴** 心脏 / 听力 / flat nasal bridge）。
+> - **海外收养 + 出生史不详**陷阱：USMLE 常用 "adopted from overseas / 出生史不详" 暗示**没做新生儿筛查 + 无家族史**，提示考虑各类基因 / 染色体 / 代谢病 — 但仍按 stem 当前线索做综合诊断，不是无脑全套筛。
+>
+> ## 我为什么错
+> - 选了：C（MECP2 gene analysis → Rett）
+> - 错因：**pattern**（多线索整合失败）
+> - 核心陷阱：锁定"身高 10th + 体重 70th = 矮 + 胖"这 1 个线索 → 反射 Prader-Willi → 选项里没 PW → 瞎选 MECP2（不知道 MECP2 是 Rett 还是钓饵，纯猜）。
+> - 真正错在哪：
+>   - ① 没用三步法把 stem 全部 dysmorphic + comorbid 列出来对比 — flat nasal bridge / VSD / 传导性听力丧失 / friendly demeanor **4 个高特异线索**全指向 Down，被 1 个泛特征带偏。
+>   - ② 不知道 MECP2 → Rett（女孩专属），凭"看起来生僻"瞎选，等于完全放弃这道题。
+>   - ③ 即使想到 PW 没选项，下一步应该**回到 stem 重新扫线索**，而不是在剩余选项里瞎猜。
+>
+> ## Memory Hook
+> - **Down 五件套（看到即锁 karyotype）**：flat nasal bridge + LLSB holo murmur (VSD/AVSD) + 传导性听力丧失 + friendly demeanor + mild-moderate ID。**5 件套命中 ≥3 → 直接选 karyotype，不要犹豫**。
+> - **"矮 + 胖"陷阱口诀**：「**矮胖不是 PW 专利，Down 也矮 Down 也胖**」— PW 真正特征是 almond eyes + 食物执念 + 新生儿 hypotonia 史。
+> - **基因检测三层口诀**：「**核型→微阵列→单基因 / 甲基化 / 代谢**」（karyotype → CMA/FISH → 特定基因 DNA / methylation / 代谢筛）。
+> - **MECP2 = 女孩 Rett，不是男孩**：男孩 stem 出现 MECP2 选项 → 警惕钓饵。
+> - **FMR1 Fragile X = 高 + 大耳 + 大睾**：与 Down 的「矮 + 上斜眼 + 单掌纹」**身高方向相反**。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q：「身高 10th + 体重 70th = 矮 + 相对胖 = Prader-Willi」对不对？
+>   → 学到：**单线索锚定是陷阱**。"矮 + 胖" Down / PW / Williams / Cushing / 甲减 都符合，必须看其他线索。本题 4 个高特异线索（flat nasal bridge / VSD / 传导性听力丧失 / friendly demeanor）全指 Down，PW 一个都不命中。三步法：列 dysmorphic → 列 comorbid → 找命中最多的综合征。
+> - Q：选项里没 Prader-Willi 时怎么办？
+>   → 学到：**不是"瞎选剩下的"**，而是**回到 stem 重新扫线索**。"我想的诊断没选项" = **可能是我诊断错了** — 优先重新评估，不是先承认诊断对然后赌选项。
+> - Q：MECP2 / FMR1 / hexosaminidase A / phenylalanine 分别考什么？
+>   → 学到：完整基因 / 代谢检测对应表见本卡 §普适规则（基因决策树）。
+>   - **MECP2** → Rett（女孩 + 正常发育后退化 + 手部刻板动作 + acquired microcephaly）
+>   - **FMR1** → Fragile X（男 + 高 + 长脸 + 大耳 + 大睾 + 智障 + 自闭）
+>   - **hexosaminidase A** → Tay-Sachs（婴儿期 + cherry-red macula + 死亡 < 5 岁）
+>   - **phenylalanine** → PKU（musty 味 + 抽搐 + 色素减低，新生儿筛查通常已发现）
+> - Q：为什么 MRI 不是答案？
+>   → 学到：MRI 适应症 = **focal neuro deficit / 癫痫 / progressive degeneration**。ID + 多发畸形单查 MRI 没诊断价值（多正常或非特异）— 应该走基因 / 染色体路径。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题（按时间倒序）：
+>   - [[mistakes/uworld-mistakes#^Q2468]] 儿科 Edwards 心脏畸形 → VSD（2026-05-18；**同染色体三体 + 心脏畸形 + karyotype 诊断**框架；那题考 Edwards → VSD，本题考 Down → VSD/AVSD；两题共同点 = **染色体综合征首选 karyotype**；可串记三大三体心脏畸形）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/儿科]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/心内]]（VSD / AVSD / endocardial cushion defect — DS 心脏畸形 #1 AVSD #2 VSD）
+>   - [[完整笔记/Peixuan分科笔记/newborn care and screening]]（新生儿筛查 PKU / 甲减 — 海外收养可能漏筛）
+>   - [[完整笔记/Peixuan分科笔记/endocrine]]（DS 甲减风险 — 解释"矮 + 倾向肥胖"代谢机制）
+> - 📋 完整对照表：[[完整笔记/专题笔记/儿科/儿科_染色体病多系统对照表]] ⭐ Down syndrome 全特征 + 三大三体对比 + 印记疾病 + 微缺失全在这里
+> - 🌱 TODO（待生成衍生 / 增量）：
+>   - **优先 1（本卡触发）**：把"**基因 / 染色体检测选择决策树（ID + dysmorphism 用）**"+ "**ID + dysmorphism stem 三步法**"增量同步到 [[完整笔记/专题笔记/儿科/儿科_染色体病多系统对照表]]（当前该衍生只有产前 quad screen + 实验室关键值，缺**诊断时选哪个检测**的决策树 — 本题正考这个）
+>   - **优先 2**：积累 3+ 道"单线索锚定陷阱"类错题 → 触发生成 [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]] 新增章节"多线索 vs 单线索 stem 整合识别 SOP"
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后盲做 Q21629 — 第一眼锁"flat nasal bridge + VSD + 传导性听力丧失 + friendly demeanor → Down → karyotype"反射
+> - [ ] 默写 ID + dysmorphism 三步法（列 dysmorphic → 列 comorbid → 找命中最多）
+> - [ ] 默写基因 / 染色体检测决策树（karyotype → CMA/FISH → DNA/methylation/代谢）+ 各检测对应的代表疾病
+> - [ ] 默写 Down 五件套 + 与 PW / Fragile X / Rett 高特异线索对比
+> - [ ] 找 3 道类似题：染色体综合征诊断选检测 / ID + dysmorphism 鉴别 / 海外收养出生史不详 stem
+> - [ ] **固化反射**：「我想的诊断没选项」= 先回 stem 重新扫线索，不是赌剩余选项
+> - [ ] 给「难记」标签：「ID + dysmorphism 多线索整合（Down 五件套 vs PW vs Fragile X vs Rett）」
+>
+> ---
+>
+> 学科:: 儿科
+> 主题:: Down syndrome 诊断（多发畸形 + 心 + 听力 + friendly demeanor → Karyotype）/ ID + dysmorphism stem 综合识别三步法（列 dysmorphic → 列 comorbid → 找命中最多） / 基因 / 染色体检测选择决策树（karyotype → CMA/FISH → DNA/methylation/代谢筛） / Down 五件套（flat nasal bridge + LLSB holo murmur VSD/AVSD + 传导性听力丧失 + friendly demeanor + mild-moderate ID） / 单线索锚定陷阱（"矮 + 胖" ≠ PW 专利，DS 也矮也胖 — 必须看 4 高特异线索） / MECP2 = Rett 女孩专属（非 Down 钓饵）/ FMR1 = Fragile X 高 + 大耳 + 大睾（与 DS 身高方向相反）/ hexosaminidase A = Tay-Sachs 婴儿期死亡（6 岁活着排除）/ phenylalanine = PKU 多新筛已发现（海外收养可能漏但不伴心 / 听力）/ MRI 仅 focal deficit / 癫痫 / progressive degeneration（ID + dysmorphism 单查不诊断）/ "我想的诊断没选项" SOP = 回 stem 重扫线索 ≠ 赌剩余选项
+> 状态:: 🟡
+> 错因:: pattern
+
