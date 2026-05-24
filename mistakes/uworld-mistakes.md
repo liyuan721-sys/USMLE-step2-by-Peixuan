@@ -18703,6 +18703,105 @@
 >
 > 学科:: Ethics
 > 主题:: End-of-life care 3 philosophies 对比（① No Escalation of Treatment NEOT — 设上限不再加 invasive 但不撤已有 / ② Time-Limited Trial — predefined interval 2-3 天集中治疗后评估 / ③ Withdrawal of Life Support — 主动撤生命支持 comfort only）/ NEOT 适用场景（family 同意 prognosis poor + reluctant withdraw + 怕 guilt + further escalation futile）/ "Withdrawing life support ≠ withdrawing care"关键 reframe（NEOT 仍 supportive care 全开，只是不再新 escalation）/ Surrogate decision 指南 = substituted judgment（patient would have wanted）+ shared familial/cultural values（不是 simply advising "don't feel guilty"情绪）/ Ethics committee 用于 intractable disagreement 时（family 与 care team active 冲突 — 本题 reluctant ≠ disagree 不需 ethics）/ Quality of life 主观文化差异大（physician 不应单方面 judge）/ Continue escalation 在 deteriorating + family reluctant + futile 时不负责任
+
+> [!example]- [2026-05-23] Ethics / Family-centered advance care planning for adolescent with chronic life-limiting illness (Q21658)
+> ^Q21658
+>
+> ## Stem 模式
+> 17 岁男 + **CF 急性 exacerbation** + 多年稳定后 deteriorating + 过去 6 月 **3 次住院** + FEV1/FVC 从 9 月前 baseline 降到 **30% predicted** + 给氧 / 抗生素 / 雾化扩张 + **没 advance directive** → next step?
+>
+> ## 核心概念
+> Adolescent + **chronic life-limiting illness**（如 CF）+ deteriorating → **family-centered advance care planning**：把 adolescent **作为 participant alongside parents** 纳入讨论 — 不 defer 到 18 岁（legal consent age），不 wait until stable（status decline 风险 lose patient preferences），不只取 parents preferences（adolescent 有 maturing capacity）。
+>
+> 时机：FEV1 下降 + 反复住院 = prognosis 警讯 → **立即启动** advance care planning，不拖。
+>
+> Answer：**D — Involve the patient in a discussion about treatment options and advance care directives**
+>
+> ## 普适规则（Family-centered advance care planning for adolescents with chronic life-limiting illness）⭐
+>
+> ### 核心原则：Patient 是 participant 不是 bystander
+>
+> | 维度 | 错误 model | 正确 model |
+> |---|---|---|
+> | **Adolescent 角色** | 被动 — wait until 18 才有发言权 | **Active participant** alongside parents |
+> | **Parents 角色** | 唯一 decision-maker | Co-participant（保留 legal authority + 与 adolescent 联合 discuss）|
+> | **Physician 角色** | 仅 transmit info to parents | **Facilitate joint discussion** + 教育 + 建立 trust |
+> | **时机** | Wait until stable / wait until 18 | **Early + 主动**（chronic life-limiting illness 一旦 deteriorating signal 出现）|
+>
+> ### Family-centered approach 好处（USMLE Step 2 必考点）
+>
+> | 好处 | 机制 |
+> |---|---|
+> | **↓ Anxiety** | Adolescent 知道 wishes 被听见，不怕被忽视 |
+> | **↑ Maintain quality of life** | Preferences honored — 治疗与价值观一致 |
+> | **↑ Adherence** | Adolescent 理解 + 参与决定 → 更愿意 follow |
+> | **避免 crisis decision-making** | 提前 plan → 急性 decompensation 时不必 family panic 决定 |
+> | **Ensure preferences honored** | 若 status decline → 已知 patient preferences |
+>
+> ### 启动时机（不能 defer 的信号）
+>
+> ```
+> Chronic life-limiting illness（CF / heart failure / 神经退行性 / cancer 等）
+>     │
+>     │ 出现 deteriorating signal：
+>     ├─ Functional measure 显著下降（如 CF FEV1 < 40% predicted）
+>     ├─ 反复住院 / exacerbations 频率增加
+>     ├─ 治疗 response 减弱
+>     ├─ 新并发症（如肺动脉高压 / 营养不良）
+>     ▼
+> ★ 立即启动 family-centered advance care planning ★（不 wait stable，不 wait 18）
+> ```
+>
+> ## 易混陷阱（普适）
+> - **A. Defer to age 18**：❌ Adolescent **chronic life-limiting illness** + deteriorating → 不能 wait until legal consent age；status decline 风险 lose preferences；adolescent 有 maturing capacity to participate（不是 binary "成人/儿童"）。
+> - **B. Defer to PCP after discharge**：❌ PCP 是好 starting point（best knows patient）但**当前 deteriorating** + 已在 hospital → 不能拖；急性恶化时可能错过 plan opportunity。
+> - **C. Defer until stable**（怕影响 motivation）：❌ Deferring 风险 **lose patient preferences** if status further decline；**研究显示 advance care planning 反而 ↓ anxiety + ↑ quality of life + ↑ adherence**（不是 demotivate）。
+> - **D. ✅ Involve patient + advance directives**：核心 next step — family-centered + 立即启动。
+> - **E. Only parents' preferences + implement**：❌ Parents have **legal authority** for minors（true）**但** adolescent 有 maturing capacity to appreciate medical implications → physician 应 **encourage parents to include minors in treatment decisions**，不是 bypass adolescent。
+>
+> ## 我为什么错
+> - 选了：E（只取 parents preferences + implement）
+> - 错因：**pattern**（知识有 — 知道 parents legal authority，但 pattern 识别失败 — 没看到 17 岁 + chronic life-limiting + deteriorating = family-centered 触发）
+> - 核心陷阱：把 "minor → parents 全权" 反射过度延伸，没意识到 **chronic life-limiting illness 的 adolescent 有 special status**（maturing capacity + 长期与疾病共处 → 应纳入讨论）。
+>
+> ## Memory Hook
+> 「**Adolescent + chronic life-limiting illness = patient 是 participant 不是 bystander**」— Family-centered approach（patient + parents 联合）= 默认 model，不是 "wait until 18" 也不是 "只 parents 决定"。
+> **不 defer 信号**：functional measure 下降 / 反复 exacerbations / 治疗 response 减弱 → **立即启动**，不 wait stable。
+> **Adolescent participation ↓ anxiety + ↑ quality of life + ↑ adherence**（不是 demotivate — 反向直觉）。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：默认"minor = parents 决定"反射，没意识到 chronic life-limiting illness 触发 family-centered model。
+> - 学到的核心：① adolescent + chronic life-limiting illness → family-centered advance care planning（patient 是 participant）；② 不 defer 到 18 岁 / 不 wait stable / 不只 parents 决定；③ 启动信号 = deteriorating（FEV1 ↓ / 反复住院 / 治疗 response ↓ / 新并发症）；④ Family-centered 反而 ↓ anxiety + ↑ quality of life + ↑ adherence（与"会 demotivate"直觉相反）；⑤ Parents 保留 legal authority 但 physician 应 encourage parents include adolescent in decisions。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题（Ethics 第 10 道）：
+>   - [[mistakes/uworld-mistakes#^Q21627]] NEOT end-of-life 3 philosophies（2026-05-23 同日；**advance care planning 的下一步** — 本题启动 advance care planning，那题 advance directive 不指定时用 NEOT 中间地带；两题构成 advance care 全流程：先 plan with patient → 不行才走 surrogate）
+>   - [[mistakes/uworld-mistakes#^Q7283]] Pediatric ALL chronic illness disclosure - assess understanding（2026-05-23 同日；**同 pediatric chronic illness 三方平衡** — 那题 disclosure 阶段先 assess understanding，本题 planning 阶段 family-centered）
+>   - [[mistakes/uworld-mistakes#^Q19132]] Perinatal HIV disclosure - collaborative plan + timeline（2026-05-23 同日；**同 pediatric chronic illness collaborative process** — 那题 disclosure timeline，本题 advance care planning timing；同 "early + collaborative" 主题）
+>   - [[mistakes/uworld-mistakes#^Q105595]] Adolescent conditional confidentiality（2026-05-23 同日；**同 adolescent maturing autonomy** — 那题 confidentiality 给 adolescent autonomy，本题 advance care planning 给 adolescent participation；两题构成 adolescent autonomy 推进双面）
+>   - [[mistakes/uworld-mistakes#^Q19048]] Capacity reassessment（2026-05-23 同日；同 patient preferences 主题 — 那题 adult capacity 恢复后 supersede，本题 adolescent 有 maturing capacity to participate）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]] / [[完整笔记/Peixuan分科笔记/儿科]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/pulmonary]]（CF — chronic life-limiting + FEV1 monitoring + transplant 评估）
+>   - [[完整笔记/Peixuan分科笔记/儿科]]（chronic disease 青少年 + transition to adult care + autonomy 推进）
+>   - [[完整笔记/Peixuan分科笔记/心内]]（HFrEF chronic life-limiting + advance care planning 同框架）
+> - 🌱 TODO（待生成衍生 / 增量）：
+>   - **优先 1**：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] **v1.1 增量** — §七 Pediatric Disclosure 章节扩 **"Advance care planning for adolescent with chronic life-limiting illness (family-centered approach)"** 子节（与 §八 end-of-life 3 philosophies 衔接）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（重点：第一眼锁 "adolescent + chronic life-limiting + deteriorating → family-centered advance care planning"）
+> - [ ] 默写 family-centered 三角（patient participant / parents co-participant 保留 legal authority / physician facilitate）
+> - [ ] 默写启动信号（functional ↓ / 反复 exacerbations / 治疗 response ↓ / 新并发症）
+> - [ ] 默写 family-centered 好处（↓ anxiety / ↑ quality of life / ↑ adherence / avoid crisis decision / ensure preferences honored）— 反向直觉点
+> - [ ] 找 3 道类似题（adolescent chronic illness / CF transition / pediatric end-of-life / advance care planning timing）
+> - [ ] **固化反射**：minor + chronic life-limiting + deteriorating → 不要反射 "parents 全权"，先想 family-centered（patient 是 participant）
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Family-centered advance care planning for adolescent with chronic life-limiting illness（patient 作 participant alongside parents — 不 defer 到 18 / 不 wait stable / 不只 parents 决定 / 不 defer 到 PCP）/ 启动信号（functional measure ↓ 如 FEV1 / 反复 exacerbations / 治疗 response 减弱 / 新并发症）/ Family-centered 5 好处（↓ anxiety + ↑ quality of life + ↑ adherence + 避免 crisis decision-making + ensure preferences honored — 与"会 demotivate"直觉相反）/ Parents 保留 legal authority 但 physician 应 encourage include minor in decisions（不是 bypass adolescent）/ Adolescent 有 maturing capacity to appreciate medical implications（不是 binary "成人/儿童"）/ "Minor = parents 全权" 反射陷阱 — chronic life-limiting illness 触发 special status / 与 Q21627 衔接：先 family-centered advance care planning → 真到 incapacitated 时 NEOT / 与 Q105595 adolescent autonomy 主题双面（confidentiality + advance care planning）
 > 状态:: 🟡
-> 错因:: 知识
+> 错因:: pattern
 
