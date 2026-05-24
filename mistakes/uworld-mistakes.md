@@ -161,9 +161,13 @@
 > ---
 > 
 > 学科:: Biostats
-> 主题:: OR 方向陷阱 + Case-control 不能算 risk
+> 主题:: OR 方向陷阱 + Case-control 不能算 risk / CI ≠ causality / 关联 ≠ 因果（Bradford Hill 9 准则）
 > 状态:: 🔴
 > 错因:: 干扰项
+> 反复错记录:: 2026-05-10 首次入库 🔴（方向 + risk/odds 角度）/ 2026-05-23 浩斯宾 Q22 第 2 次（CI ≠ causality 角度，5 个干扰项 3 个陷阱全暴露）/ 2026-05-24 浩斯宾 Q20 第 **3** 次（再次把 OR 当 risk + 未识别 case-control 字眼）
+> 升档触发:: 同主题 3 次反复错（5-10 / 5-23 / 5-24）3 个不同角度都踩坑 → 用户手动加「考前必看」+ 已触发衍生 [[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]
+>
+> #考前必看
 
 ## 2026-05-11
 
@@ -13880,9 +13884,14 @@
 > ---
 >
 > 学科:: Psych
-> 主题:: Atypical MDD 非典型抑郁诊断（mood reactivity 为诊断要件 + 五联）/ 抑郁谱系病程鉴别 / "物质在场≠致病" — substance-induced 需验剂量
-> 状态:: 🟡
+> 主题:: Atypical MDD 非典型抑郁诊断（mood reactivity 为诊断要件 + 五联）/ 抑郁谱系病程鉴别 / "物质在场≠致病" — substance-induced 需验剂量 / **治疗阶梯延伸**：SSRI/SNRI → bupropion/mirtazapine → augment（Li/T3/aripiprazole）→ **MAOI（phenelzine）⭐ atypical 经典专属** → ECT/TMS/esketamine
+> 状态:: 🔴
 > 错因:: 知识
+> 反复错记录:: 2026-05-21 首次入库 🟡（诊断角度 — mood reactivity / 五联诊断要件）/ 2026-05-23 浩斯宾 Q15 第 2 次相关错（治疗阶梯角度：选 lithium augmentation，正解 phenelzine MAOI）/ 2026-05-24 浩斯宾 Q24 第 3 次（仍选 lithium augmentation，5-23 警告未消化）
+> 升档触发:: 诊断角度 + 治疗阶梯角度连续暴露（2 次同治疗题错）→ 🟡 升 🔴 → 用户手动加「难记」+「考前必看」+ 已触发衍生 [[完整笔记/专题笔记/psych/_衍生_MDD_treatment_resistant_阶梯]]
+> 元教训:: 5-23 判分要求"默写阶梯"未完成 → 5-24 同题再错 = 被动扫 §一 不等于主动掌握，反复错 2+ 次必须当场默写
+>
+> #难记 #考前必看
 
 > [!example]- [2026-05-21] 医学伦理 / 青少年自杀未遂·非自愿住院 (Q4877)
 > ^Q4877
@@ -17473,8 +17482,10 @@
 > 主题:: PD psychosis 第 5 步用药（减药失败后必须上低/零 D2 抗精神病药）/ Quetiapine = PD psychosis 临床首选（availability + safety 最佳）/ Pimavanserin = FDA 唯一专批但 cost/availability 限制 / Clozapine = 低 D2 但 agranulocytosis 需 ANC 监测 / Risperidone-Haloperidol 强 D2 PD 禁用 / Amantadine 多巴胺能药（增释放+抑 reuptake）= PD psychosis 题里永远错误选项 / Pramipexole DA 激动剂火上浇油 / SGA 不均质（risperidone D2 仍强 PD 不可用，只有 Quet/Cloz/Pim 三家通过 PD 例外）/ Selegiline MAO-B 抑制剂同样升 DA / Q16164 第 4 步 + Q12152 第 5 步串联 = 完整 PD psychosis 流程
 > 状态:: 🔴
 > 错因:: pattern
-> 反复错记录:: 2026-05-22 [[mistakes/uworld-mistakes#^Q16164]] 第 4 步减药 + 2026-05-23 [[mistakes/uworld-mistakes#^Q12152]] 第 5 步用药 / 用户自述"应该之前做过但还是错" / 首次入库即 🔴
-> 升档触发:: 同主题流程相邻 2 天连错 + 用户自述反复
+> 反复错记录:: 2026-05-22 [[mistakes/uworld-mistakes#^Q16164]] 第 4 步减药 + 2026-05-23 [[mistakes/uworld-mistakes#^Q12152]] 第 5 步用药 / 用户自述"应该之前做过但还是错" / 首次入库即 🔴 + 2026-05-24 浩斯宾 Q21 第 **3** 次反复错（第 5 步选 ECT 而非 quetiapine — ECT 是 last-resort 非标准）
+> 升档触发:: 同主题流程连续 3 次反复错（Q16164 + Q12152 + 5-24 Q21）→ 用户手动加「考前必看」+ 已触发衍生 [[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]]（汇 Q16164 第 4 步 + Q12152 第 5 步选 quetiapine + 5-24 Q21 ECT 钓饵 → 完整 5 步流程 + 三选一选药 + ECT 适应症边界）
+>
+> #考前必看
 
 > [!example]- [2026-05-23] Psych / MAOI tyramine 高血压危象（Adrenergic 爆发 ≠ Serotonin Syndrome）(Q4879)
 > ^Q4879
@@ -18802,6 +18813,177 @@
 >
 > 学科:: Ethics
 > 主题:: Family-centered advance care planning for adolescent with chronic life-limiting illness（patient 作 participant alongside parents — 不 defer 到 18 / 不 wait stable / 不只 parents 决定 / 不 defer 到 PCP）/ 启动信号（functional measure ↓ 如 FEV1 / 反复 exacerbations / 治疗 response 减弱 / 新并发症）/ Family-centered 5 好处（↓ anxiety + ↑ quality of life + ↑ adherence + 避免 crisis decision-making + ensure preferences honored — 与"会 demotivate"直觉相反）/ Parents 保留 legal authority 但 physician 应 encourage include minor in decisions（不是 bypass adolescent）/ Adolescent 有 maturing capacity to appreciate medical implications（不是 binary "成人/儿童"）/ "Minor = parents 全权" 反射陷阱 — chronic life-limiting illness 触发 special status / 与 Q21627 衔接：先 family-centered advance care planning → 真到 incapacitated 时 NEOT / 与 Q105595 adolescent autonomy 主题双面（confidentiality + advance care planning）
+> 状态:: 🟡
+> 错因:: pattern
+
+## 2026-05-24
+
+> [!example]- [2026-05-24] psych / 神经 — Drug-Induced Parkinsonism 处理（减元凶优先 ≠ 加抗胆碱）(浩斯宾 Q9)
+> ^Q9-2026-05-24
+>
+> ## Stem 模式
+> 70F + schizophrenia + risperidone 8 月 → bradykinesia + rigidity + resting tremor + 无 rest-postural 不对称 → next step？干扰项 = 把急性 EPS 抗胆碱反射（benztropine）当所有 EPS 通解。
+>
+> ## 核心概念
+> **DIP（drug-induced parkinsonism）= 抗精神病药阻断 nigrostriatal D2 → 类 PD 表现**。元凶在体外（药），所以**首选 = 撤药 / 减量 / 换低 D2（quetiapine / clozapine / pimavanserin）**；抗胆碱（benztropine）是二线辅助，**老年抗胆碱副作用风险高**（谵妄/尿潴留/视模糊/加重痴呆）→ 不是首选。
+>
+> Answer：**B. Reduce or discontinue risperidone; consider switching to quetiapine or clozapine**
+>
+> ## 普适规则
+>
+> ### EPS 四联处理对照（关键钉死）
+>
+> | EPS 类型 | 触发 | 起病窗 | **首选治疗** | 抗胆碱角色 |
+> |---|---|---|---|---|
+> | **Acute dystonia** | 抗精神病药起始 / 加量 | 数小时-数天 | **抗胆碱 IM**（benztropine / diphenhydramine） | ⭐ 一线 |
+> | **Akathisia** | 抗精神病药起始 / 加量 | 数天-数周 | **propranolol**（β 阻断） | ❌ 无效 |
+> | **DIP（drug-induced parkinsonism）** | 长期抗精神病药 | 数周-数月 | **减/停元凶 + 换低 D2** | 二线辅助（老年慎用） |
+> | **TD** | 慢性抗精神病药 | 数月-数年 | **停 / 换 clozapine + VMAT2（valbenazine）** | ❌ **反加重** |
+>
+> ### DIP 处理阶梯（USMLE 高频）
+>
+> ```
+> ① 减/停元凶（risperidone / haloperidol / metoclopramide）⭐
+>      │ 不可减（精神病复发风险高）
+>      ▼
+> ② 换低 D2 SGA（quetiapine / clozapine / pimavanserin）
+>      │ 仍 DIP 症状
+>      ▼
+> ③ 症状性辅助：amantadine（DA 能 + 抗 NMDA）/ benztropine（老年慎用）
+> ```
+>
+> **Levodopa 在 DIP 中禁用**：DIP 根因是 D2 受体被**阻断**（不是 DA 缺失），加 levodopa 突破不了阻断 + 同时加重 psychosis。
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Levodopa-carbidopa | ❌ DIP 中禁用（D2 被阻断，加 DA 突破不了 + 加重 psychosis） |
+> | **B** ⭐ | 减/停 risperidone + 换 quetiapine/clozapine | ✅ 元凶撤除 + 换低 D2 |
+> | C | Add benztropine | ❌ 仅二线症状性；老年（70F）抗胆碱副作用风险高（谵妄/尿潴留/视模糊） |
+> | D | Pramipexole | ❌ DA 激动剂 → 加重 schizophrenia psychosis |
+> | E | DBS 评估 | ❌ DBS 是特发性 PD 晚期适应症，DIP 不需 DBS |
+>
+> ## 我为什么错
+> - 选了：**C. Add benztropine**
+> - 错因：**pattern**（把 acute dystonia 急救反射"benztropine 治 EPS"误推到所有 EPS）
+> - 核心陷阱：**急性 EPS（dystonia/akathisia）vs 慢性 EPS（DIP/TD）治疗方向不同** — 急性救症状（benztropine/propranolol），慢性救通路（减元凶/换低 D2/VMAT2）。
+>
+> ## Memory Hook
+> **"急性 EPS（dystonia/akathisia）= 救症状（benztropine/propranolol）；慢性 EPS（DIP/TD）= 救通路（减元凶/换低 D2/VMAT2）。"**
+>
+> 看 stem 给"长期用药 X 月" + 类 PD 三联 → 立刻锁 DIP → **减元凶**，不要被"抗胆碱治 EPS"反射拐走。
+>
+> 类比：水龙头漏水（DIP / TD）= 关水龙头（减元凶 / 换低 D2 药）；地上水（acute dystonia）= 拖地（benztropine 紧急抹去）。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点："抗胆碱治 EPS"反射太强，没区分急性 vs 慢性 → 学到：抗胆碱**只一线治急性 dystonia**；DIP 是二线辅助；TD **禁用**（反加重）。
+> - 卡点：与 [[mistakes/uworld-mistakes#^Park1-2026-05-22]] DIP 处理同主题 — Park1 错"levodopa"，今日错"benztropine"，两端钓饵都踩过，更印证 DIP 首选 = **减元凶 + 换低 D2** 这一条。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Park1-2026-05-22]] DIP 处理（5-22 错 — levodopa 是钓饵）— 两题钓饵两端都踩
+>   - [[mistakes/uworld-mistakes#^Q2505]] Acute dystonia → benztropine（同 EPS 四联，对照急性 vs 慢性治疗方向）
+>   - [[mistakes/uworld-mistakes#^Q11898]] Akathisia → propranolol（同 EPS 四联）
+>   - [[mistakes/uworld-mistakes#^Q2518]] TD 处理 → VMAT2 + 换 clozapine（同慢性 EPS 阵营）
+>   - [[mistakes/uworld-mistakes#^Q16066]] TD 识别 + EPS 四兄弟
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/neuro]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/消化补充内容]]（metoclopramide / prochlorperazine 长期止吐药也致 DIP / TD）
+> - 📋 衍生：[[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]] §4.3 DIP 段已扩展覆盖；[[草稿/2026-05-23_多巴胺方向药物三角_v1]] §一 ②③④ 四类 DA 通路问题对应治疗
+> - 🌱 TODO：本题已纳入既有衍生 §4.3，无新衍生需求；后续若再积累 DIP 题（特别是 metoclopramide 长期致 DIP）→ 增量更新衍生
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证急性 vs 慢性 EPS 治疗方向已分清）
+> - [ ] 默写 EPS 四联处理表（acute dystonia 抗胆碱 / akathisia propranolol / DIP 减元凶 + 换低 D2 / TD VMAT2 + 换 quetiapine/clozapine）
+> - [ ] 默写 DIP 三步阶梯（减元凶 → 换低 D2 → 症状性辅助）+ levodopa 在 DIP 禁用机制
+> - [ ] 反射训练：长期抗精神病药 + 类 PD 三联 → 0.5 秒喊"减元凶 + 换低 D2"
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Drug-Induced Parkinsonism (DIP) 处理（减元凶 + 换低 D2 SGA 一线 / 抗胆碱二线辅助 / levodopa 禁用）/ 急性 EPS vs 慢性 EPS 治疗方向反向（救症状 vs 救通路）/ EPS 四联处理对照（acute dystonia 抗胆碱 / akathisia propranolol / DIP 减元凶 / TD VMAT2 + 换 quetiapine-clozapine + 抗胆碱反加重）/ 老年抗胆碱副作用风险（谵妄/尿潴留/视模糊/加重痴呆 → DIP 中二线）
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-05-24] Biostats / USMLE 答案选项策略 — Diabetic Painful Neuropathy first-line（"any of the above" 选项暗号）(浩斯宾 Q19)
+> ^Q19-2026-05-24
+>
+> ## Stem 模式
+> 55F + DM + HbA1c 9.2 + 袜套样麻木 + ankle reflex 消失 → painful diabetic peripheral neuropathy (DPN) first-line？选项给 4 种具体药 + 选项 D = "any of the above acceptable; choice depends on comorbidities/side-effect profile"。
+>
+> ## 核心概念
+> ADA / AAN 2024 指南：**DPN first-line = duloxetine / pregabalin / gabapentin / TCA（amitriptyline / nortriptyline）4 选 1 平等**，按共病 + 副作用谱个体化选择。USMLE 这种"D = any of the above" 选项**通常就是答案**（出题人测你是否知道"多个 first-line 平等"而不是死记单一首选）。
+>
+> Answer：**D. Any of the above are acceptable first-line; choice depends on comorbidities and side-effect profile**
+>
+> ## 普适规则
+>
+> ### 一、DPN first-line 4 药对照
+>
+> | 药 | 类 | 优势 | 慎用 |
+> |---|---|---|---|
+> | **Duloxetine** | SNRI | + 抗抑郁双效 + 一日一次 | 肝病 / 严重肾病 |
+> | **Pregabalin** | gabapentinoid | 起效快 + 镇静辅助睡眠 + FDA 批 DPN | 嗜睡 / 体重↑ / 老年跌倒 |
+> | **Gabapentin** | gabapentinoid | 便宜 / 安全谱广 | 同上 + 起效慢需滴定 |
+> | **TCA**（amitriptyline / nortriptyline） | TCA | 历史悠久 / 失眠双效 | **老年抗胆碱副作用**（避免老 ≥65 / BPH / 闭角青光眼 / 心律失常 / 直立低血压）|
+>
+> **二线**：tramadol（弱 μ + SNRI 双效，但成瘾 + SS 风险）/ 强阿片 last-resort / 外用 capsaicin / 外用 lidocaine 贴片
+>
+> ### 二、USMLE 答案选项策略 ⭐ 元方法
+>
+> | 选项形态 | 意义 | 应对 |
+> |---|---|---|
+> | **"D. Any of the above are acceptable"** | 出题人测"多个 first-line 平等" | 优先考虑 D，除非题干给特定患者特征指向单一首选 |
+> | **"E. All of the above"** | 通常是错（USMLE 很少给 all of above）| 排除 |
+> | **"None of the above"** | 通常是错 | 排除 |
+> | **同质 3-4 个选项 + 1 个截然不同选项** | 截然不同的那个常是答案 | 优先关注异类 |
+> | **同义重复的 2 个选项** | 两个都不是答案（语义相同必须都对都错）| 排除两个 |
+>
+> ## 易混陷阱（普适）
+>
+> ### 干扰项分析
+> | 选项 | 为什么对/错 |
+> |---|---|
+> | A | Gabapentin / pregabalin | 是 first-line，但**只是 4 选 1 之一** — 不完整 |
+> | B | Amitriptyline | 是 TCA first-line，但**老年 55F 慎用**抗胆碱 + 单选不完整 |
+> | C | Duloxetine | 公认 first-line（临床常首选）— 但**单选不完整**，D 更全 |
+> | **D ⭐** | Any of the above | ✅ 最完整答案 |
+> | E | Topical capsaicin | 是辅助药 / 二线，**不是 first-line** |
+>
+> ## 我为什么错
+> - 选了：**C. Duloxetine**
+> - 错因：**pattern**（条件反射选最熟悉的单一选项，没读 D 选项）
+> - 核心陷阱：**没识别"D = any of the above" 选项暗号** → 把熟悉单选当答案
+>
+> ## Memory Hook
+> - **DPN 4 选 1 平等**：duloxetine / pregabalin / gabapentin / TCA — 谁都能 first-line
+> - **USMLE 选项策略**：**"D = any of the above" 存在时优先考虑 D**；选最熟悉的单选 = 钓饵
+> - 类比：菜单上"汤"+"沙拉"+"前菜"+"任一前述"——服务员问你要哪个 = 测你知不知道四个都算前菜（D = "任一前述"），不是测你最熟哪个单品。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：反射选了 C duloxetine（确实常临床首选）→ 学到：临床首选 vs USMLE"最完整答案"是两回事。USMLE 测**指南完整性**，临床选 1 个 → USMLE 选"any of above"。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：（DPN 题家族待积累；元方法"答案选项策略"是跨题型适用）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]（答题策略）/ [[完整笔记/Peixuan分科笔记/endocrine]]（DM 并发症 — 神经病变 first-line）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（神经病理性疼痛药 — 跨 DPN / 三叉神经痛 / PHN 同 first-line 谱）
+> - 🌱 TODO：累积 3+ 道"D = any of above" 型 USMLE 选项题 → 整合 [[完整笔记/专题笔记/USMLE/USMLE_答案选项策略]]（已有则增量；无则待建）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证识别"D = any of above"暗号）
+> - [ ] 默写 DPN first-line 4 选 1 + 各自慎用人群
+> - [ ] 默写 USMLE 选项策略 5 条（"any of above" / "all of above" / "none of above" / 同质 + 异类 / 同义重复）
+> - [ ] 反射训练：见到 "D. Any of the above" → 不要急选熟悉单选，先评估其他选项是否都对
+>
+> ---
+>
+> 学科:: Biostats
+> 主题:: USMLE 答案选项策略 ("D = any of the above" 暗号 — 多 first-line 平等的指南题常用此型) / DPN first-line 4 选 1（duloxetine / pregabalin / gabapentin / TCA）按共病副作用个体化 / 老年 TCA 慎用抗胆碱副作用 / "临床首选 vs USMLE 最完整答案" 区分
 > 状态:: 🟡
 > 错因:: pattern
 
