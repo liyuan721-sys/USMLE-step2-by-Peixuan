@@ -5,7 +5,7 @@ tags:
   - 通用方法论
 created: 2026-05-23
 type: 专题笔记
-source: v1 错题驱动 9 道 Ethics 同日整合（Q3625 + Q18702 + Q105595 + Q3614 + Q19048 + Q7283 + Q3624 + Q19132 + Q21627）；v1.1 增量 Q21658 Adolescent CF advance care planning family-centered（§七 新增子节）2026-05-23；v1.2 增量 §六 "父母不一致 → 听谁的"explicit 子节（asymmetric 决策 + 7 反转场景 + Q3624 题逻辑应用）2026-05-23
+source: v1 错题驱动 9 道 Ethics 同日整合（Q3625 + Q18702 + Q105595 + Q3614 + Q19048 + Q7283 + Q3624 + Q19132 + Q21627）；v1.1 增量 Q21658 Adolescent CF advance care planning family-centered（§七 新增子节）2026-05-23；v1.2 增量 §六 "父母不一致 → 听谁的"explicit 子节（asymmetric 决策 + 7 反转场景 + Q3624 题逻辑应用）2026-05-23；v1.3 增量 §三 MAT 速查子节（OUD 三药 + 启动时机 precipitated withdrawal + AUD 三药 + 道德反 pattern）2026-05-23
 ---
 
 # Ethics 精简框架 — USMLE Step 2 完整 9 大主题
@@ -123,24 +123,64 @@ Siblings
 
 ---
 
-## §三 AMA 管理三步法 + Patient Communication
+## §三 AMA/against medical advice 管理三步法 + Patient Communication
 
 > [!info] 反射钩
 > AMA discharge = **beneficence > 简单 respect autonomy** → 努力 prevent AMA。好答案永远 empathic + investigate + offer alternative；坏答案永远 conditional / coercion / punitive / withholding。
 
 ### AMA 管理三步法
 
-| 步骤 | 内容 | 关键操作 |
-|---|---|---|
-| **① Investigate / address 离院理由** | 多 empathic + open-ended + nonjudgmental | Financial → social worker；**Substance withdrawal → MAT**（methadone / buprenorphine）⭐ IVDU 必问；Care delay 不满 → apologize + accelerate；Caregiver 责任 → home care / social work |
-| **② Ensure + document informed refusal** | 确认 + 记录 capacity | Decision-making capacity ✓；understands risks/benefits ✓；reasoned basis ✓；sign AMA form（**documentation 不是 prerequisite 给药**） |
-| **③ Provide best possible alternative** | 永远不 punitive | Offer appropriate Rx（即使非标 — empiric oral abx before culture 也行）；offer follow-up + 强调 "resume treatment anytime"；**不 withholding antibiotics 作 leverage** |
+| 步骤                                       | 内容                                      | 关键操作                                                                                                                                                                                                     |
+| ---------------------------------------- | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **① Investigate / address 离院理由**         | 多 empathic + open-ended + nonjudgmental | Financial → social worker；**Substance withdrawal → MAT/medication-assisted treatment**（methadone / buprenorphine）⭐ IVDU 必问；Care delay 不满 → apologize + accelerate；Caregiver 责任 → home care / social work |
+| **② Ensure + document informed refusal** | 确认 + 记录 capacity                        | Decision-making capacity ✓；understands risks/benefits ✓；reasoned basis ✓；sign AMA form（**documentation 不是 prerequisite 给药**）                                                                             |
+| **③ Provide best possible alternative**  | 永远不 punitive                            | Offer appropriate Rx（即使非标 — empiric oral abx before culture 也行）；offer follow-up + 强调 "resume treatment anytime"；**不 withholding antibiotics 作 leverage**                                                 |
 
 ### IVDU + AMA 特殊点（Q18702 锚定）
 
 > [!tip] IVDU AMA 必问 withdrawal/cravings → MAT
 > IVDU 患者 AMA 高危 → 直接非 judgmental 问 **cravings / withdrawal**（不绕弯）→ 识别即可启动 MAT。
 > 临床证据：**methadone 减 AMA 50% + 1-yr overdose 死亡 75%**。
+
+### MAT 速查（Medication-Assisted Treatment）⭐
+
+> [!info] 定义
+> **MAT = FDA 批准药物 + 行为治疗 / counseling 联合**治疗物质使用障碍（SUD）。最常用 **OUD (Opioid Use Disorder)**，也覆盖 **AUD (Alcohol Use Disorder)**。
+> 道德反射陷阱：「**MAT ≠ 把毒品合法化**」— evidence-based 一线，physician 不应 punitive 拒绝（同 Q18702 Choice E "won't prescribe"陷阱）。
+
+#### OUD 三大药对比
+
+| 药 | 类别 | 机制 | 关键特点 |
+|---|---|---|---|
+| **Methadone** | **Full** μ-opioid agonist | 完全激动 μ 受体 → 减 craving + 减 withdrawal | 长效 24 hr；**只能 federally licensed clinic 每日给药**；减 AMA / overdose 死亡证据最强 |
+| **Buprenorphine**（± naloxone = **Suboxone**）| **Partial** μ-opioid agonist | 部分激动 + **ceiling effect**（过量较 methadone 安全）| **Office-based** physician 可开（2023 后取消 X-waiver）；Suboxone 加 naloxone 防 IV 滥用（po 无效，注射激活拮抗）|
+| **Naltrexone**（IM = **Vivitrol** monthly）| **μ-opioid antagonist** | 阻断 μ 受体 → opioid 不 high | 不致成瘾；po 依从性弱 → monthly IM 解决；**也用于 AUD** |
+
+#### 启动时机陷阱（precipitated withdrawal — USMLE 高频）
+
+> [!danger] 三药启动时机不同 — 启动太早 = precipitated withdrawal（突发严重戒断）
+
+| 药 | 启动前 patient 状态 | 误启风险 |
+|---|---|---|
+| **Methadone** | 等 **mild withdrawal sign**（COWS scale 评估） | 启动太早 + 体内已有 opioid → overdose |
+| **Buprenorphine** | 等 **COWS ≥ 12** + 最后 short-acting opioid **≥ 12 hr** / methadone **≥ 36 hr** | 启动太早 → **precipitated withdrawal**（partial agonist 把 full agonist 踢下 receptor 反而暴发戒断）|
+| **Naltrexone** | 等 **abstinent ≥ 7-10 天** | 启动太早 → precipitated withdrawal（直接 antagonist 暴力踢 opioid）|
+
+#### AUD（Alcohol Use Disorder）三大药
+
+| 药 | 机制 | 关键特点 |
+|---|---|---|
+| **Naltrexone**（一线）| μ-opioid antagonist | 减 alcohol craving + reward；同 OUD 同药 |
+| **Acamprosate**（一线）| NMDA modulator | 减 protracted withdrawal symptoms；肾排泄（CKD 避）|
+| **Disulfiram**（二线）| 抑 aldehyde dehydrogenase | 喝酒后头痛/呕吐/潮红 → aversion；依从性差（患者得自己配合不喝）|
+
+#### MAT 反射钩
+
+> [!success] 一句话锁
+> - **OUD 三药**：「**Methadone full agonist clinic 给 / Buprenorphine partial office 给 / Naltrexone antagonist monthly IM**」
+> - **启动时机**：「**Methadone 等 mild withdrawal / Bup 等 COWS≥12 / Naltrexone 等 abstinent 7-10 天**」— 都防 **precipitated withdrawal**
+> - **AUD 三药**：「**Naltrexone craving / Acamprosate withdrawal / Disulfiram aversion**」
+> - **道德反 pattern**：「**MAT 是治疗不是 enabling**」— 拒绝 prescribe MAT 给 IVDU 患者 = punitive + 违背 beneficence
 
 ### 好答案 vs 坏答案 features
 
