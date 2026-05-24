@@ -5,7 +5,7 @@ tags:
   - 通用方法论
 created: 2026-05-23
 type: 专题笔记
-source: v1 错题驱动 9 道 Ethics 同日整合（Q3625 + Q18702 + Q105595 + Q3614 + Q19048 + Q7283 + Q3624 + Q19132 + Q21627）；v1.1 增量 Q21658 Adolescent CF advance care planning family-centered（§七 新增子节 + §十 关联表 + §七 关联节同步）2026-05-23
+source: v1 错题驱动 9 道 Ethics 同日整合（Q3625 + Q18702 + Q105595 + Q3614 + Q19048 + Q7283 + Q3624 + Q19132 + Q21627）；v1.1 增量 Q21658 Adolescent CF advance care planning family-centered（§七 新增子节）2026-05-23；v1.2 增量 §六 "父母不一致 → 听谁的"explicit 子节（asymmetric 决策 + 7 反转场景 + Q3624 题逻辑应用）2026-05-23
 ---
 
 # Ethics 精简框架 — USMLE Step 2 完整 9 大主题
@@ -312,6 +312,61 @@ Genetic information
            └─ Life-saving / urgent → Court order ⭐
                  ※ 例：双方 refuse acute leukemia chemo
 ```
+
+### 父母不一致 → 听谁的？⭐
+
+> [!tip] 一句话答案
+> **听想 consent 治疗的那方**（一方 consent 在法律上就够，另一方 refuse 不能单独 block treatment）。
+
+#### 为什么是"听 consent 方"而不是"听 refuse 方"？
+
+USMLE 隐含 default：**Indicated 治疗 = child's best interest**。
+
+```
+Joint custody + 双方分歧
+    │
+    ▼
+默认假设：医学 indicated 治疗符合 best interest
+    │
+    ├─ 想 consent 那方 → 单独就能授权 treatment（✓ 满足 best interest + 法律 consent）
+    └─ 想 refuse 那方 → 单独 block 不了（除非另一方也 refuse）
+```
+
+**因此 asymmetric 不对称**：
+- 想 **consent** 的那方：单独就能授权 → 可 proceed
+- 想 **refuse** 的那方：单独 block 不了 treatment
+
+#### Default 反转的 7 种特殊场景
+
+| 场景 | 听谁？ |
+|---|---|
+| **一方 consent + 一方 refuse + 治疗 indicated**（Q3624 模式） | 听 **consent 方** ✓ |
+| 一方想做 elective / 非 indicated 高风险 + 一方 refuse | 听 **refuse 方**（保护 child from 非必要风险）|
+| 双方都 refuse + 治疗 routine（如常规疫苗） | 通常 **tolerate**（herd immunity 风险低）|
+| 双方都 refuse + life-saving（Jehovah's Witness 拒输血 / 拒化疗） | **Court order** ⭐ |
+| Emergency（延误致 severe outcome） | **谁都不用听** — emergency exception 直接 proceed |
+| Sole custody / divorce decree 指定 medical decision-maker | 按 decree 指定的那方 |
+| Mature / emancipated minor / specific medical care (STI/SUD/pregnancy/contraception) | 听 **minor 自己** |
+
+#### Q3624 题逻辑应用
+
+```
+Mother consent tetanus（urgent + high-risk puncture）
+Father refuse（want herbal）
+        │
+        ▼
+听 Mother（一方 consent = 法律足够）→ proceed
+        │
+        ├─ ※ Ideally 仍与 father reach agreement，但不必
+        ├─ ※ 不需 court order（court 只在 both refuse life-saving 时）
+        └─ ※ Bonus fail-safe：tetanus from deep puncture 也满足 emergency exception
+```
+
+#### 反射钩
+
+> [!success] 一句话锁
+> 「**Indicated 治疗 + joint custody + 一方 consent → 听 consent 方（一方就够）；不是"少数服从多数"也不是"必须 both agree"**」
+> **想 consent ✓ 一方就够 / 想 refuse ✗ 一方 block 不了**（不对称）
 
 ### Minor 独立 consent 3 类例外
 
