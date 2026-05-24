@@ -5,7 +5,7 @@ tags:
   - 通用方法论
 created: 2026-05-23
 type: 专题笔记
-source: 错题驱动 9 道 Ethics 同日整合 v1（Q3625 + Q18702 + Q105595 + Q3614 + Q19048 + Q7283 + Q3624 + Q19132 + Q21627）
+source: v1 错题驱动 9 道 Ethics 同日整合（Q3625 + Q18702 + Q105595 + Q3614 + Q19048 + Q7283 + Q3624 + Q19132 + Q21627）；v1.1 增量 Q21658 Adolescent CF advance care planning family-centered（§七 新增子节 + §十 关联表 + §七 关联节同步）2026-05-23
 ---
 
 # Ethics 精简框架 — USMLE Step 2 完整 9 大主题
@@ -412,12 +412,79 @@ Genetic information
 > 真正 respect = 与 family **一起 plan**（give timeline + joint participation），**不是把 burden 全推给 family 独自承担**。
 > 3 个 not-good 模式：① 只强调 risks of delay（instill distrust）② passive 推 burden 给 family（not collaborative）③ unilateral partial disclose without consent（不 respect family）。
 
+### Advance Care Planning for Adolescent with Chronic Life-Limiting Illness（Q21658 锚定）⭐
+
+> [!info] 反射钩
+> Adolescent + **chronic life-limiting illness**（CF / HFrEF / 神经退行性 / cancer 等）+ **deteriorating** → **family-centered advance care planning**：patient 作 **participant alongside parents**。
+> ❌ 不 defer 到 18 岁 ❌ 不 wait until stable ❌ 不只 parents 决定 ❌ 不 defer 到 PCP（急性恶化中不能拖）。
+
+#### 核心原则：Patient 是 participant 不是 bystander
+
+| 维度 | ❌ 错误 model | ✅ Family-centered model |
+|---|---|---|
+| **Adolescent 角色** | 被动 — wait until 18 才有发言权 | **Active participant** alongside parents |
+| **Parents 角色** | 唯一 decision-maker | **Co-participant**（保留 legal authority + 与 adolescent 联合 discuss）|
+| **Physician 角色** | 仅 transmit info to parents | **Facilitate joint discussion** + 教育 + 建立 trust |
+| **时机** | Wait until stable / wait until 18 | **Early + 主动**（chronic life-limiting illness 一旦 deteriorating signal 出现）|
+
+#### 启动信号（不能 defer — 必须立即启动 advance care planning）
+
+```
+Chronic life-limiting illness（CF / HFrEF / 神经退行性 / cancer 等）
+    │
+    │ 出现 deteriorating signal：
+    ├─ Functional measure 显著下降（如 CF FEV1 <40% predicted）
+    ├─ 反复住院 / exacerbations 频率增加
+    ├─ 治疗 response 减弱
+    ├─ 新并发症（如肺动脉高压 / 营养不良 / 心律失常）
+    ▼
+★ 立即启动 family-centered advance care planning ★
+    （不 wait stable，不 wait 18，不只 parents 决定）
+```
+
+#### Family-centered 5 大好处（反向直觉 — USMLE 必考）
+
+> [!success] 反向直觉点
+> 直觉以为"讨论 advance care 会 demotivate adolescent / 加重 anxiety" → **反向真相**：
+
+| 好处 | 机制 |
+|---|---|
+| **↓ Anxiety** | Adolescent 知道 wishes 被听见，不怕被忽视 |
+| **↑ Maintain quality of life** | Preferences honored — 治疗与价值观一致 |
+| **↑ Adherence** | Adolescent 理解 + 参与决定 → 更愿意 follow |
+| **避免 crisis decision-making** | 提前 plan → 急性 decompensation 时不必 family panic 决定 |
+| **Ensure preferences honored** | 若 status decline → 已知 patient preferences（防 lose opportunity）|
+
+#### 关键陷阱（Q21658 触发）
+
+> [!danger] "Minor = parents 全权" 反射陷阱
+> Parents 确实保留 legal authority for minors，**但** chronic life-limiting illness 的 adolescent 有 **maturing capacity to appreciate medical implications** → physician 应 **encourage parents to include minors in treatment decisions**，不是 bypass adolescent。
+> **不是 binary "成人/儿童"** — adolescent 是连续 spectrum，chronic life-limiting illness 触发 special participation status。
+
+#### 与 §八 衔接（advance care planning → end-of-life decision）
+
+```
+adolescent 还有 capacity + chronic life-limiting illness deteriorating
+    │
+    ▼
+§七 Family-centered advance care planning（Q21658）
+    │  patient 是 participant，preferences 记录在案
+    │
+    │ 真到 incapacitated（severe decompensation）
+    ▼
+§八 End-of-life 3 philosophies（Q21627 NEOT）
+    │  已有 advance directive → 按 patient wishes
+    │  没有 / partial → surrogate 用 substituted judgment + shared values
+```
+
 ### 关联
 
-- Q7283（pediatric chronic illness — 先 assess understanding，阶段 1）
+- Q7283（pediatric chronic illness disclosure — 先 assess understanding，阶段 1）
 - Q19132（perinatal HIV — collaborative plan + timeline，阶段 3-4）
-- 两道**完美互补**构成 chronic 儿科 disclosure 全流程
-- 跨学科 [[完整笔记/Peixuan分科笔记/儿科]] / [[完整笔记/Peixuan分科笔记/hematology oncology]]（B-ALL induction 失败）/ [[完整笔记/Peixuan分科笔记/感染]]（perinatal HIV + ART）
+- **Q21658（adolescent advance care planning — family-centered，CF deteriorating）⭐ v1.1 增量**
+- 3 道**互补**构成 chronic 儿科 disclosure + planning 全流程
+- 与 §八 衔接：Q21658 启动 advance care planning → Q21627 真到 incapacitated 时走 NEOT
+- 跨学科 [[完整笔记/Peixuan分科笔记/儿科]] / [[完整笔记/Peixuan分科笔记/hematology oncology]]（B-ALL induction 失败）/ [[完整笔记/Peixuan分科笔记/感染]]（perinatal HIV + ART）/ [[完整笔记/Peixuan分科笔记/pulmonary]]（CF FEV1 monitoring + transplant 评估）
 
 ---
 
@@ -578,6 +645,8 @@ Genetic information
 | §六 Joint custody | 「**Joint custody，一方 consent 即过关**」— Court order 是 last resort（both refuse life-saving 才用）|
 | §七 Pediatric disclosure | 「**Concerns 先听不抢答**」— 先 assess understanding → empathic respond → collaborative plan |
 | §七 Respect family | 「**Respect family ≠ passive**」— 真正 respect = 与 family 一起 plan + timeline |
+| §七 Adolescent ACP | 「**Adolescent + chronic life-limiting + deteriorating → patient 是 participant 不是 bystander**」— family-centered（不 wait 18 / 不 wait stable / 不只 parents 决定）|
+| §七 ACP 反向直觉 | 「**Family-centered planning ≠ demotivating**」— 反向 ↓ anxiety + ↑ quality of life + ↑ adherence + 避免 crisis decision |
 | §八 NEOT | 「**NEOT = 不再加，但不撤**」— end-of-life 第三选项 |
 | §八 3 philosophies | 「**Withdraw 撤一切 / Time-limited 限期尝试 / NEOT 设上限不再加**」— 3 个 philosophies 对应 family 3 种心理 |
 | §八 Reframe | 「**Withdrawing life support ≠ withdrawing care**」— NEOT 仍 supportive care 全开 |
@@ -597,6 +666,7 @@ Genetic information
 | [[mistakes/uworld-mistakes#^Q3624]] | Joint custody one parent consent — minor consent 3 例外 + court order 仅 both refuse life-saving → §六 |
 | [[mistakes/uworld-mistakes#^Q19132]] | Perinatal HIV disclosure — collaborative plan + timeline（阶段 3-4）→ §七 |
 | [[mistakes/uworld-mistakes#^Q21627]] | NEOT — end-of-life 3 philosophies + surrogate substituted judgment → §八 |
+| [[mistakes/uworld-mistakes#^Q21658]] | Adolescent CF advance care planning — family-centered（patient 作 participant）+ deteriorating 触发 + 反向直觉好处 → §七 |
 
 #### 主笔记
 
