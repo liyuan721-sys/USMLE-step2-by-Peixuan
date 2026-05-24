@@ -18987,3 +18987,593 @@
 > 状态:: 🟡
 > 错因:: pattern
 
+> [!example]- [2026-05-24] Ethics / Research — Conflict of Interest (COI) in clinical research（industry-sponsored personnel 做 data analysis = 核心 COI；double-blind RCT 设计盲不能 mitigate analysis 阶段 bias）(Q106885)
+> ^Q106885
+>
+> ## Stem 模式
+> Physician-researcher 在 academic institution 研究 novel nerve stimulator device for chronic pain；trial 双盲 RCT，部分由 device manufacturer 资助 + 部分 federal grants；researcher 之前从 manufacturer 收 speaking fees；**study design / implementation 由 PI + institution staff 做；data analysis 由 manufacturer 派的 academic researcher + biostatistician 做**。问 manufacturer's involvement 的 COI 风险？
+>
+> ## 核心概念
+> **COI 来源不是单一"厂家资助"** — industry sponsorship 本身（覆盖 PI 薪资 / 项目费用）不构成 COI。**真正 COI 来源 = ① investigator 个人 financial incentive（speaking fees / stocks）+ ② industry-sponsored personnel 参与 study design 或 data analysis**。Double-blinding 和 randomization 只 reduce **trial 执行阶段** investigator-generated bias，**不 mitigate analysis 阶段** industry-employed statistician 的 bias。
+>
+> Answer：**B. COI is likely present, and the proposed study should not proceed under these terms due to high risk of bias**
+>
+> ## 普适规则
+>
+> ### 一、COI 4 大判定要素
+>
+> | 要素 | 是否 COI | 例子 |
+> |---|---|---|
+> | **Industry funding 覆盖 salary / 项目费** | ❌ 单独不构成 COI | 厂家给钱 cover PI 工资 / equipment / 受试者补助 |
+> | **Investigator 个人 financial incentive 与 product 挂钩** | ✅ **COI** | Stocks / royalties / speaking fees / consulting fees |
+> | **Industry-sponsored personnel 参与 study design** | ✅ **COI** | 厂家派 scientist co-design protocol |
+> | **Industry-sponsored personnel 参与 data analysis** | ✅ **COI（核心）** | 厂家派 statistician 做 primary endpoint analysis — 本题坑 |
+>
+> ### 二、COI mitigation 阶梯
+>
+> ```
+> ① Disclosure（financial relationships → IRB + subjects + publications）⭐ 必做但不够
+>      │
+>      ▼
+> ② Independent analysis（数据分析交给 non-industry-affiliated 独立团队）⭐ 关键
+>      │
+>      ▼
+> ③ IRB oversight（disclose financial relationships → IRB 决定 require independent analysis / 拒绝研究）
+>      │
+>      ▼
+> ④ DSMB（Data Safety Monitoring Board，independent，定期看 interim data）
+>      │
+>      ▼
+> ⑤ PI 责任：comply with IRB recommendations 才能 proceed
+> ```
+>
+> ### 三、Double-blinding + Randomization 能/不能 mitigate 什么
+>
+> | Bias 类型 | Blinding/Randomization 能 mitigate 吗？ |
+> |---|---|
+> | **Selection bias**（分组阶段）| ✅ Randomization 解决 |
+> | **Performance bias**（治疗执行）| ✅ Blinding 解决 |
+> | **Detection bias**（outcome assessment）| ✅ Outcome assessor blinding 解决 |
+> | **Analysis bias**（数据分析阶段 selective reporting / inappropriate statistical test）| ❌ **不能** — 需 independent analysis team |
+> | **Funding source bias / sponsorship effect** | ❌ **不能** — 需 IRB oversight + 独立 analysis |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | COI present + 通过 disclosure 给 subjects 解决 | ❌ Disclosure 必做但**不充分** — analysis 阶段 industry personnel 仍有 bias |
+> | **B** ⭐ | COI present + 不应 proceed under these terms（high bias risk）| ✅ Industry-employed analysis team 是核心 COI，必须改设计（independent analysis）才能 proceed |
+> | C | COI present 但 permissible 因 public welfare significant | ❌ Public benefit 影响 federal funding availability，**不 address COI**；COI mitigation 永远 required |
+> | D | COI present 但**双盲 RCT 不影响 integrity** | ❌ ⭐ 核心陷阱 — Blinding 只 reduce trial 执行阶段 bias，**不 mitigate analysis 阶段** industry statistician bias |
+> | E | COI 不 present 因为也有 federal grants | ❌ Mixed funding 不消除 industry-related COI |
+>
+> ## 我为什么错
+> - 选了：**D. COI is likely present but will not affect research integrity because the trial is double-blinded and randomized**
+> - 错因：**pattern**（"双盲 RCT = 高质量研究" 反射太强，没区分 blinding 解决的 bias 类型 vs analysis 阶段 bias 类型）
+> - 核心陷阱：**Blinding ≠ 万能 bias 解药** — Industry-sponsored statistician 做 primary analysis 时，可通过 selective reporting / inappropriate statistical test / outlier handling 等方式系统性引入 favorable bias，**这类 bias 与 trial 是否 blinded 无关**。
+>
+> ## Memory Hook
+> - **COI 3 步链**：「**钱进 PI 口袋 + 厂家人做 analysis = COI；只 disclose 不够，必须 independent analysis**」
+> - **Blinding 解决"做"阶段 bias，不解决"算"阶段 bias** — Industry statistician = analysis bias 源头，blinding 没用
+> - 类比：考试监考（blinding）防的是考生作弊（trial execution bias）；不防判卷老师是考生爸爸（analysis bias）。判卷必须换独立老师。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：把"双盲 RCT"当 gold standard 反射 → 学到 blinding 只解决 execution 阶段 bias，analysis 阶段 bias 必须靠 independent analyst（industry-employed statistician 是 USMLE 经典 COI 坑）。
+> - 卡点：误以为 federal grants 共同资助能"稀释"industry COI → 学到 mixed funding 不消除 industry-related COI，只要 industry personnel 仍参与 analysis 就有 COI。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （Research ethics 题家族待积累 — 当前仅本题，未来 IRB / informed consent for research / RCT equipoise / placebo control 题集中后整合）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/Biostats_Master]]（research methodology bias）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Biostats_Master]] — Bias 5 大类（selection / performance / detection / analysis / publication）与各自 mitigation 工具对应
+> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §十二 Research ethics（COI + RCT control/equipoise — v1.4 新增）
+> - 🌱 TODO：累积 3+ 道 research ethics 题 → 单独建 [[完整笔记/专题笔记/USMLE/USMLE_Research_Ethics]]（IRB + COI + informed consent for research + RCT design）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证识别"industry statistician 做 analysis = COI"反射）
+> - [ ] 默写 COI 4 大判定要素 + Blinding 能/不能 mitigate 的 bias 类型对照
+> - [ ] 反射训练：见到"manufacturer-employed statistician / scientist 参与 data analysis" → 0.5 秒喊"core COI，不能 proceed under these terms"
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Research ethics / Conflict of Interest (COI) in clinical research（industry funding 单独不构成 COI / investigator 个人 financial incentive + industry-employed personnel 做 design or analysis = 真 COI 来源 / disclosure 必做但不充分 / 必须 independent analysis team / IRB oversight + DSMB）/ Double-blinding 解决 execution bias 但不 mitigate analysis 阶段 bias（"双盲 RCT = 万能 bias 解药"反射陷阱）/ Mixed funding 不消除 industry-related COI / IRB 责任 + PI comply 才 proceed
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-05-24] Ethics / End-of-life — DNR ≠ Do Not Treat（DNR 仅适用 cardiopulmonary arrest，不阻止 thrombolysis 等 quality-of-life 干预；metastatic cancer 不是 thrombolysis contraindication）(Q107705)
+> ^Q107705
+>
+> ## Stem 模式
+> 78M + metastatic lung cancer 化疗中 + 急性 stroke（right hemiplegia + dysarthria）→ tPA candidate（CT 无 hemorrhage，无 contraindication）→ patient incoherent 不能 informed consent；妻子说"He has DNR + advance directive 不要 resuscitate"。问 next step？
+>
+> ## 核心概念
+> **DNR 仅 prohibit cardiopulmonary resuscitation (CPR + defibrillation) in event of cardiopulmonary arrest** — **不等于 "Do Not Treat"**。其他 therapeutic intervention（thrombolysis / 抗生素 / 手术 / 输液）仍按 standard of care 进行。患者 incoherent → 走 substitute decision-maker（wife）consent for thrombolysis。Metastatic cancer 是 terminal illness 但**不是 thrombolysis 禁忌**，且 stroke 严重 deficit 会显著影响 quality of life → thrombolysis 仍 indicated。
+>
+> Answer：**A. Administer IV thrombolysis with his wife's consent**
+>
+> ## 普适规则
+>
+> ### 一、DNR 范围限定（USMLE 高频钓饵）
+>
+> | 情境 | DNR 适用？ | 处理 |
+> |---|---|---|
+> | **Cardiopulmonary arrest**（心脏停 / 无脉性 VT/VF / 呼吸停）| ✅ **DNR 适用** — 不 CPR / 不 defibrillation / 不插管 | Honor DNR |
+> | **Acute stroke + tPA candidate** | ❌ **DNR 不适用** — thrombolysis 不是 resuscitation | 按 standard of care 给 tPA |
+> | **Sepsis + 需 IV 抗生素** | ❌ **DNR 不适用** | 给抗生素 |
+> | **Acute MI + 需 PCI / fibrinolysis** | ❌ **DNR 不适用**（除非 cardiac arrest）| 给 reperfusion |
+> | **GI bleed + 需输血** | ❌ **DNR 不适用** | 输血 |
+> | **Cancer pain + 需 opioid** | ❌ **DNR 不适用** | 给 pain control（hospice 标配）|
+> | **DNR 患者 thrombolysis 后 → 心跳停** | ✅ **此时 DNR 才触发** — 不 CPR | Honor DNR at arrest |
+>
+> ### 二、DNR vs DNI vs Comfort care 区分（USMLE 必清）
+>
+> | 名称 | 含义 | 不做什么 | 做什么 |
+> |---|---|---|---|
+> | **DNR** (Do Not Resuscitate) | 不复苏 | CPR / defibrillation | **其他所有 standard of care** |
+> | **DNI** (Do Not Intubate) | 不插管 | 气管插管 / 机械通气 | **Non-invasive vent (BiPAP) 仍可 / 其他 treatment 仍做** |
+> | **Comfort care only** | 完全舒缓 | Curative interventions | Pain control + 喂养 + 输液（按需） |
+> | **NEOT** (No Escalation of Treatment — [[mistakes/uworld-mistakes#^Q21627]]) | 不再升级 | 新加 dialysis / 新加 vent / 新加 invasive | 已有 care 继续（不撤） |
+> | **Withdrawal of life support** | 主动撤 | 撤 vent / 撤 pressor / 撤 dialysis | Comfort measures only |
+>
+> ### 三、Capacity vs Competency（informed consent 的法律 vs 临床区分）
+>
+> | 维度 | Capacity | Competency |
+> |---|---|---|
+> | **判定者** | **Physician**（clinical judgment） | **Judge**（legal determination） |
+> | **范围** | **Specific decision at specific moment**（如 "is this patient able to consent to thrombolysis right now?"）| **Global decision-making ability**（如 "is this patient legally competent overall?"） |
+> | **动态性** | ✅ 动态 — 可恢复（infection 控制 / 镇静药代谢完）→ §二 capacity reassessment | 静态 — 法庭裁定后 |
+> | **USMLE 应用** | **Informed consent 评估永远问 capacity 不是 competency** | 仅 guardianship 程序时 |
+>
+> ### 四、Substitute decision-maker hierarchy（完整 USMLE 版 — Q107705 / Q19048 合并锚定）⭐
+>
+> ```
+> 最高权威：Patient-designated proxy（POA / Durable POA for healthcare）
+>     │
+>     ▼
+> Court-appointed guardian（法院指定 — 仅在 patient 无能力 designate proxy 时）
+>     │
+>     ▼
+> Next of kin（default surrogate — 按法律亲属顺序）：
+>     Spouse / partner
+>          ↓
+>     Adult children
+>          ↓
+>     Parents
+>          ↓
+>     Adult siblings
+>          ↓
+>     Other adult relatives
+>          ↓
+>     Unrelated friends（仅在无任何亲属时）
+> ```
+>
+> ※ Surrogate 决定标准 = **substituted judgment**（what patient would have chosen），不是 surrogate 自己 preference。
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | **A** ⭐ | Administer thrombolysis with wife's consent | ✅ DNR 不阻止 thrombolysis；patient incoherent → wife (spouse) 作 surrogate consent |
+> | B | Determine 患者 competency | ❌ **Competency 是法律概念由法官判定**；临床用 **capacity**（physician 判定）— 名词陷阱 |
+> | C | Withhold thrombolysis due to advance directive | ❌ Advance directive 内容是 "不 resuscitate"，**不是"不治疗"** — 误读 directive |
+> | D | Withhold due to metastatic cancer + DNR | ❌ ① Metastatic cancer 不是 thrombolysis contraindication ② Terminal illness ≠ 拒绝有显著 quality-of-life impact 的干预 ③ DNR 范围误读 |
+>
+> ## 我为什么错
+> - 选了：**D. Withhold IV thrombolysis because of his metastatic cancer and advanced directive**
+> - 错因：**知识**（① DNR 误读为 "Do Not Treat" ② Metastatic cancer 误当 thrombolysis 禁忌 ③ 没识别 "incoherent → wife surrogate consent" 路径）
+> - 核心陷阱：**DNR 是窄定义不是宽定义** — 仅限 cardiopulmonary arrest 时不复苏；任何其他 quality-of-life-impacting intervention 都按 standard of care 进行。Terminal illness 患者**仍有权**接受 stroke / 心梗 / 输血 / 抗生素等干预。
+>
+> ## Memory Hook
+> - **DNR = "Do Not Resuscitate"，不是 "Do Not Treat"** — 心跳停才触发，其他时候 standard of care 全开
+> - **Capacity = 医生判 specific moment；Competency = 法官判 global** — Informed consent 永远问 capacity（B 选项陷阱）
+> - **Terminal illness ≠ 治疗禁区** — Quality of life 仍是 ethical justification（hospice 也给止痛、抗生素治可逆感染）
+> - 类比：DNR 像"心跳停时按红色按钮"（特定情境）；DNI 像"不通气管插管"；Comfort care 才是"全停留 comfort"。把 DNR 等同 comfort care = 跨档误读。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：把"advance directive 不要 resuscitate" 错读成"不要任何治疗" → 学到 DNR 是窄定义，必须问"this intervention is for arrest? 否 → standard of care"。
+> - 卡点：metastatic cancer 当 thrombolysis 禁忌 → 学到 cancer 本身不是 contraindication，**Disabling stroke + 无 hemorrhage + 无其他禁忌 → tPA indicated**，cancer 患者也是 candidate。
+> - 卡点：B 选项"determine competency" 看起来合理 → 学到 competency 是法律概念，临床 informed consent 评估永远用 capacity（physician 判定）— 名词陷阱。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q21627]] NEOT — End-of-life 3 philosophies（DNR vs NEOT vs Withdrawal 边界，本题补 DNR 范围限定）
+>   - [[mistakes/uworld-mistakes#^Q19048]] Capacity reassessment — capacity 动态恢复 + surrogate ≠ permanent（本题 incoherent 走 wife surrogate，与 Q19048 capacity-reassessment 路径互补）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/neuro]]（Acute ischemic stroke — tPA criteria / 4.5 hr window / contraindications）
+>   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（Metastatic cancer ≠ thrombolysis 禁忌；hospice 仍给 standard of care for treatable acute events）
+> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §八 End-of-life Care（v1.4 新增 DNR 范围限定子节 + Advance Directive 完整 SOP）/ §二 Capacity（v1.4 补 surrogate hierarchy POA/guardian 顶层）
+> - 🌱 TODO：累积 DNR / DNI / Comfort care / hospice 题家族 → 单独整合 [[完整笔记/专题笔记/_衍生_End_of_Life_完整SOP]]（覆盖 5 档 end-of-life care + advance directive + POA + 范围限定陷阱）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证 "DNR ≠ Do Not Treat" 反射）
+> - [ ] 默写 DNR vs DNI vs Comfort care vs NEOT vs Withdrawal 5 档对照表
+> - [ ] 默写 Capacity vs Competency 名词区分（physician vs judge / specific vs global）
+> - [ ] 默写 Substitute decision-maker hierarchy 完整版（POA > Court guardian > spouse → children → parents → siblings → other relatives → friends）
+> - [ ] 反射训练：见到 stroke / MI / sepsis + DNR → 0.5 秒喊 "DNR 仅 arrest 时触发，当前 intervention 按 standard of care"
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: End-of-life / DNR 范围限定（DNR 仅 prohibit CPR + defibrillation in cardiopulmonary arrest / 不阻止 thrombolysis / 抗生素 / 手术 / 输血 / 其他 quality-of-life intervention）/ DNR ≠ Do Not Treat 反射陷阱 / Metastatic cancer ≠ thrombolysis contraindication（terminal illness 仍接受 disabling event 干预）/ Capacity vs Competency 名词区分（physician clinical specific moment vs judge legal global — informed consent 用 capacity 不是 competency）/ Surrogate decision-maker hierarchy 完整版（POA > Court guardian > next of kin: spouse → adult children → parents → adult siblings → other relatives → unrelated friends）/ DNR/DNI/Comfort care/NEOT/Withdrawal 5 档对照
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-24] Ethics / OB — Directive Counseling（complete placenta previa = 仅 1 safe option → physician 不能 endorse 半 measure / 不能 bargain / 不能拖延）(Q19063)
+> ^Q19063
+>
+> ## Stem 模式
+> 31F G2P1 + 30wk + 完全 placenta previa + heavy bleeding（pad q30min × 2 hr）+ 保守 management 后 bleeding 暂停 + 母婴 vital stable + 上次 term vaginal delivery at home → 讨论 cesarean 时**患者 refuse CD 想 home birth**。问最 appropriate physician statement？
+>
+> ## 核心概念
+> **当只有 1 个 safe + reasonable treatment option** with clearly superior evidence → physician 必须 **directive counseling**，明确推荐 + assume active role。患者最终仍保留 autonomy refuse，但 physician **不可**：① 同意半 measure（"home birth 我允许"）② 用 risk acknowledgment 换 patient autonomy 行使（"如果你 understand risks 我就 allow"）③ Bargain（"vaginal but come to hospital"）④ 拖延决策（complete previa 二次出血风险极高）⑤ 推 husband 代决（autonomy 是患者自己的）。
+>
+> Complete placenta previa：胎盘**完全覆盖** cervical os → 完全阻塞 fetal delivery → **vaginal delivery 致命**（母 hemorrhage + 胎 intrauterine demise）→ **vaginal delivery contraindicated**，CD 是**唯一 safe option**。Low-lying / partial previa 可随子宫扩张上移自愈，**complete previa 极不可能 resolve**。
+>
+> Answer：**B. "I will only recommend a cesarean delivery, because vaginal delivery puts your life and your baby's life at risk."**
+>
+> ## 普适规则
+>
+> ### 一、Patient-centered vs Directive counseling 决策树 ⭐
+>
+> ```
+> 患者 face decision
+>     │
+>     ▼
+> 有多个 reasonable safe options 且证据相当？
+>     │
+>     ├─ ✅ 多个 reasonable options → Shared decision-making（呈现选项 + 讨论价值观 + patient choose）
+>     │       例：HRT for menopause / SSRI vs CBT for mild depression
+>     │
+>     └─ ❌ 仅 1 safe reasonable option + 证据明显 superior
+>             │
+>             ▼
+>         **Directive counseling** ⭐
+>             │
+>             ├─ Physician 明确推荐 + assume active role guiding therapy
+>             ├─ 解释 medical necessity
+>             ├─ 不 endorse 半 measure（不"我 allow vaginal but come to hospital"）
+>             ├─ 不 bargain（不"vaginal but if X then Y"）
+>             ├─ 不拖延（complete previa / 急 surgical emergency 不能 wait days）
+>             └─ 不推 husband / family 代决（autonomy 是患者自己）
+>             │
+>             ▼
+>         患者**仍可 refuse** → respect autonomy + document refusal + offer alternative + 反复 counsel
+>             ※ 但 physician 不能"假装"approve 不安全选项
+> ```
+>
+> ### 二、Directive counseling 适用 USMLE 经典场景
+>
+> | 场景 | Directive recommendation |
+> |---|---|
+> | **Complete placenta previa** | Cesarean delivery（vaginal contraindicated）|
+> | **Acute appendicitis** | Appendectomy（NSAID 等保守不行）|
+> | **Type 1 DM** | Insulin（口服降糖药无效）|
+> | **Symptomatic severe AS** | AVR（药物 only delay）|
+> | **Sepsis** | IV broad-spectrum abx within 1 hr（不 wait culture）|
+> | **STEMI** | Reperfusion（PCI / fibrinolysis within window）|
+> | **DKA** | IV insulin + fluid（不 oral 不 wait）|
+>
+> ### 三、坏答案 5 大反 pattern（"假装尊重 autonomy"陷阱）⭐
+>
+> | 坏 pattern | 例子 |
+> |---|---|
+> | **① "我 allow 不安全选项"** | "I will allow you to deliver at home"（A）— 把医生角色当 permission-giver，**condone 致命 option**|
+> | **② Bargain（半 measure）** | "Vaginal at hospital if something goes wrong"（E）— misleading + 不安全 |
+> | **③ "Risk acknowledgment 换 autonomy"** | "If you understand risks, I agree"（A 变体）— Risk 不能 bargain |
+> | **④ 拖延** | "Let's discuss in a few days"（D）— complete previa 二次大出血 imminent，不能 wait |
+> | **⑤ 推 husband / family 代决** | "Discuss with husband"（C）— Autonomy 是患者自己；husband preference 不改医学必要性 |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | "Vaginal birth 致命 but 如果你 understand + agree to risks 我 allow home birth" | ❌ Pattern ① + ③ — 不 condone life-threatening option |
+> | **B** ⭐ | "I will only recommend cesarean，因为 vaginal 危及母婴生命" | ✅ Directive counseling — 明确推荐 + 解释 medical necessity + 不 endorse alternative |
+> | C | "Discuss with husband 一起决定" | ❌ Pattern ⑤ — Autonomy 是患者自己；husband preference 不改医学必要性 |
+> | D | "Few days 后 weight options" | ❌ Pattern ④ — Complete previa 二次出血风险高，不能拖延 |
+> | E | "Vaginal at home but come to hospital if something goes wrong" | ❌ Pattern ② — Bargain 半 measure，misleading + 不安全 |
+>
+> ## 我为什么错
+> - 选了：**D. "Let's discuss this again in a few days after you've had more time to weigh your options"**
+> - 错因：**pattern**（默认"延长决策时间 = 尊重 autonomy" 反射太强，没识别 complete previa = surgical urgent + repeat hemorrhage 风险高，不能拖）
+> - 核心陷阱：**误以为"给患者更多时间 = patient-centered"** → 实际是把 medical urgency 当 elective decision 处理。Complete previa 已 bleed 过一次 → 再次大 bleed 概率极高，拖延 = 不负责任。
+>
+> ## Memory Hook
+> - **唯一 safe option = Directive counseling**，不是 shared decision-making；患者 refuse 仍可，但 physician 不能"假装"approve 不安全
+> - **5 大假尊重反 pattern**：「**我 allow / Bargain / Risk acknowledgment 换 / 拖延 / 推家属代决**」
+> - **Complete previa 关键反射**：「**完全盖住宫口 = vaginal 必致命 = CD 唯一 = directive counseling**」
+> - 类比：天桥栏杆断了，路人想跨过去，工程师不能"如果你 understand 风险我就 allow"或"你和家人讨论下" — 必须明说"不能过，唯一安全路是绕远走桥下"。Autonomy 仍允许跨，但工程师不"假装"approve。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：选 D 拖延是因为"给患者时间想清楚"听起来合理 → 学到 complete previa 已 bleed 过一次 = repeat hemorrhage imminent，不能拖；当 medical urgency 存在时延迟决策 = 不负责任 ≠ patient-centered。
+> - 卡点：选 C "和 husband 讨论"看似 collaborative → 学到 autonomy 是患者**自己**的，husband preference 不改医学必要性；推家属代决 = 把 burden 推给家属（同 [[mistakes/uworld-mistakes#^Q3625]] 不让 wife 做 coercion 工具）。
+> - 卡点：B 选项语气"I will only recommend" 听着 paternalistic 不舒服 → 学到 Directive counseling 不是 paternalism；当只有 1 safe option 时**不明说 = 失职**（fail to discharge ethical duty）。患者仍有权 refuse，但 physician 必须**先**给明确推荐。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （Directive counseling 题家族待积累 — 当前仅本题；未来 appendicitis refuse / sepsis abx refuse / STEMI PCI refuse 等题整合）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]] / [[完整笔记/Peixuan分科笔记/OB]]（placenta previa management）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/OB]] — Placenta previa 4 类（complete / partial / marginal / low-lying — 仅 complete + persistent partial 需 CD）
+>   - [[完整笔记/Peixuan分科笔记/外科]] — Acute appendicitis directive counseling（surgery 唯一 safe option，保守治疗禁忌）
+>   - [[完整笔记/Peixuan分科笔记/感染]] — Sepsis 1 hr abx directive（不 wait culture）
+> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §十一 Directive Counseling（v1.4 新增）
+> - 🌱 TODO：累积 3+ 道 directive counseling vs shared decision-making 题 → 整合 [[完整笔记/专题笔记/USMLE/USMLE_Directive_vs_Shared_Decision_Making]]（覆盖适用场景对比 + 5 大假尊重 anti-pattern）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证识别"唯一 safe option → directive counseling"反射）
+> - [ ] 默写 Patient-centered vs Directive counseling 决策树（多 option → shared / 1 safe option → directive）
+> - [ ] 默写坏答案 5 大反 pattern（我 allow / Bargain / Risk acknowledgment 换 / 拖延 / 推家属代决）
+> - [ ] 反射训练：见到"完全 placenta previa / DKA / sepsis / STEMI / appendicitis + 患者拒治"→ 0.5 秒喊"directive counseling — 明确推荐 + 不 endorse alternative"
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Directive counseling（唯一 safe reasonable option + 证据明显 superior → physician 必须明确推荐 + assume active role；不 endorse 半 measure / 不 bargain / 不拖延 / 不推家属代决）vs Shared decision-making（多个 reasonable option 时）/ 5 大"假尊重 autonomy" 反 pattern（我 allow 不安全 / Bargain 半 measure / Risk acknowledgment 换 autonomy / 拖延决策 / 推 husband 代决）/ Complete placenta previa = vaginal contraindicated = CD 唯一 safe = directive counseling 经典场景 / 患者 refuse 仍可但 physician 不"假装"approve / Autonomy 是患者自己的（husband preference 不改医学必要性）
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-05-24] Ethics / Autonomy — DEMAND vs REFUSE 不对称（Autonomy 拒治端绝对 / 请求端 conditional — 受 physician medical judgment + beneficence + nonmaleficence 制约）(Q22639)
+> ^Q22639
+>
+> ## Stem 模式
+> 43F + 家属（aunt）死于 SCLC + 患者本人 light + remote smoking history（1 pack/d × 5 yr，22 yr 前 quit）+ 无症状 + 哥哥是医院 admin 建议做 CT 筛肺癌 → 请求"order CT lung for me"。问 autonomy 原则如何 apply？
+>
+> ## 核心概念
+> **Autonomy 不对称**：
+> - **拒绝端（REFUSE）**：Competent patient 有**绝对权利** refuse treatment（即使 life-saving）→ physician 必须 respect
+> - **请求端（DEMAND）**：Patient 请求 specific treatment → physician 有**裁量权**判断是否 indicated；**autonomy 不强制 physician 提供 nonindicated / inappropriate care**
+>
+> 请求端判定 3 要素：① consistent with ethical + evidence-based standards ② potentially benefits the individual patient（beneficence）③ avoids unnecessary or excessive harm（nonmaleficence）。本题 patient light + remote smoking 不符合 USPSTF lung cancer screening 标准（**当前 USPSTF 2021**：50-80 岁 + 20 pack-year + 当前吸烟 or 戒烟 < 15 年 — 本题 5 pack-year + 22 年前戒，不符合）→ screening risk > benefit（incidental finding → invasive biopsy harm）→ physician 可 ethically decline。
+>
+> Answer：**B. The patient's autonomy to receive any requested medical service is subject to the physician's medical judgment in all cases**
+>
+> ## 普适规则
+>
+> ### 一、Autonomy 不对称（USMLE 高频核心）⭐
+>
+> ```
+>                    Patient Autonomy
+>                         │
+>          ┌──────────────┴──────────────┐
+>          ▼                              ▼
+>   REFUSE 端（拒治）                 DEMAND 端（请求）
+>          │                              │
+>   ✅ 绝对权利                      ⚠️ Conditional
+>   （除 4 例外 § 一）                 受 3 要素制约：
+>          │                              │
+>          │                       ① Ethical + evidence-based
+>   Even refuse life-saving         ② 患者实际 benefit（beneficence）
+>   competent + capacity ✓ →        ③ 避免 unnecessary harm（nonmaleficence）
+>   respect                              │
+>          │                              ▼
+>          │                       不满足任一 → physician 可 ethically decline
+>          │
+>          │
+>          (Override 例外 → §一 4 大例外：
+>           public health / imminent harm /
+>           lack of capacity / minor)
+> ```
+>
+> ### 二、Physician 处理 nonindicated request 的 SOP
+>
+> ```
+> 患者 request nonindicated service
+>     │
+>     ▼
+> ① 不 dismissive → empathically explore motivation（fear / family history / misunderstanding of effectiveness）
+>     │
+>     ▼
+> ② 解释 evidence-based reasoning（USPSTF guidelines / NCCN / 当前证据）
+>     │
+>     ▼
+> ③ Offer more appropriate alternative（如 smoking cessation counseling / 一般 health screening 按 age-appropriate）
+>     │
+>     ▼
+> ④ Decline nonindicated service（如果 patient 坚持）
+>     │
+>     ▼
+> ⑤ 不可：① 因 therapeutic alliance 而 cave（违背 nonmaleficence）② 简单"because risk > benefit" 应付（缺 empathic exploration）
+> ```
+>
+> ### 三、Lung cancer screening 当前 USPSTF（2021）⭐
+>
+> | 标准 | 内容 |
+> |---|---|
+> | **年龄** | 50-80 岁 |
+> | **吸烟史** | ≥ **20 pack-years** |
+> | **当前状态** | 当前吸 OR 戒烟 **< 15 年** |
+> | **筛查工具** | **Low-dose CT (LDCT) 每年** |
+> | **停止筛查** | 戒烟 ≥ 15 年 / 严重共病 limiting life expectancy / 不愿 curative surgery |
+>
+> 本题 patient：43 岁（< 50）+ 5 pack-year（< 20）+ 22 年前戒（> 15 年）→ **3 个标准都不符合** → screening 不 indicated → screening 风险（incidental finding → biopsy / 焦虑）> benefit → decline 合伦理。
+>
+> ### 四、Refusing nonindicated request ≠ Rationing
+>
+> | 概念 | 定义 | 本题 | 是否 rationing |
+> |---|---|---|---|
+> | **Rationing** | 基于 **resource management / cost** 分配 healthcare service | — | ❌ 不是 |
+> | **Decline nonindicated service** | 基于 **patient harm + lack of benefit** 拒绝 | ✅ 本题 | ❌ 不是 rationing |
+>
+> ⚠️ Resident / brother（hospital admin）相关 social pressure 不改医学判断 — 不 indicated 就是不 indicated。
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Patient 有 unrestricted autonomy to receive any requested service **如果**fully understand risks | ❌ Risks understanding 不能 override **physician's duty of nonmaleficence**；理解 risk ≠ 有权请求 nonindicated care |
+> | **B** ⭐ | Autonomy subject to physician's medical judgment **in all cases** | ✅ 请求端 conditional — 受 ethical + beneficence + nonmaleficence 制约 |
+> | C | Autonomy applies because she has lung cancer risk factor | ❌ ⭐ 核心陷阱 — Light + remote smoking 不达 screening 阈值；"有 risk factor" ≠ "screening indicated"；指南阈值是 dichotomous |
+> | D | Autonomy 受限**但 honor 以避免 rationing** | ❌ 拒绝 nonindicated ≠ rationing（rationing 基于 cost，本题基于 patient harm）|
+> | E | Autonomy 受限**但 honor 以 foster therapeutic alliance** | ❌ 提供 nonindicated care for alliance = 违背 nonmaleficence；alliance 不能是 cave 理由 |
+>
+> ## 我为什么错
+> - 选了：**C. Patient's autonomy to receive the requested medical service applies in this case because she has a lung cancer risk factor**
+> - 错因：**知识**（① 误以为"有 risk factor"自动等于"screening indicated" ② 没掌握 autonomy refuse/demand 不对称概念 ③ 没掌握 USPSTF lung cancer screening 当前阈值）
+> - 核心陷阱：**"任何 risk factor 都触发 autonomy 履行"反射** → 实际 USMLE 评 screening 是按指南 dichotomous threshold（20 pack-year + 50-80 + 戒烟 < 15 年），不是"有一点 risk 就该筛"。
+>
+> ## Memory Hook
+> - **Autonomy 不对称**：「**拒治绝对，请求 conditional**」— Refuse 端 physician 必 respect；Demand 端 physician 有裁量权
+> - **3 要素必满足才提供请求**：「**Ethical + Benefits + No excessive harm**」（缺一可拒）
+> - **USPSTF lung cancer screening 钉死**：「**50-80 + 20 pack-year + 戒烟 < 15 年**」— 3 选 1 不达就不筛
+> - **拒绝 nonindicated ≠ rationing**：Rationing 基于钱（资源），decline 基于 harm（医学）— 别混
+> - 类比：餐厅菜单 = USPSTF 指南；客人要不在菜单上的"特调"（nonindicated screening）→ 厨师可拒；客人退菜（refuse）→ 必须接受。点菜端 conditional，退菜端绝对。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：把"有任何 risk factor"= "autonomy 触发"反射 → 学到 risk factor 是 spectrum，screening 是 dichotomous threshold，必须达指南阈值才 indicated。
+> - 卡点：autonomy 看作单向"患者 want = physician 必做" → 学到 autonomy 是不对称的：refuse 端绝对（除 4 例外）/ demand 端 conditional（受 beneficence + nonmaleficence + evidence 制约）。
+> - 卡点：USPSTF lung cancer screening 当前阈值不熟 → 学到 **50-80 岁 + 20 pack-year + 戒烟 < 15 年**（2021 update — 与老版 55-80 / 30 pack-year 不同）。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q18702]] IVDU IE AMA — Refuse 端 autonomy（capacity ✓ 可 refuse + 努力说服 → §一 例外 / §三 AMA）— 与本题构成 refuse/demand 双侧对比
+>   - [[mistakes/uworld-mistakes#^Q3625]] Meningococcal refuse — Refuse 端 autonomy 4 大例外（公共健康 override）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]] / [[完整笔记/Peixuan分科笔记/pulmonary]]（USPSTF lung cancer screening 标准）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/pulmonary]] — USPSTF 2021 lung cancer screening 标准（50-80 + 20 pack-year + 戒烟 < 15 年 + LDCT 每年）
+>   - [[完整笔记/Peixuan分科笔记/Biostats_Master]] — Screening 原则（高 sensitivity / 早干预改 outcome / pre-test probability 足够高）+ overdiagnosis / incidental finding 的 harm
+> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §一 Autonomy（v1.4 增量补 DEMAND vs REFUSE 不对称子节）
+> - 🌱 TODO：累积 3+ 道 demand-side autonomy 题（如 antibiotic for viral URI / opioid for chronic pain / unnecessary imaging）→ 整合 [[完整笔记/专题笔记/USMLE/USMLE_Autonomy_Demand_Refuse]]（不对称完整 SOP + 拒绝 nonindicated 的 5 步沟通法）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证 Autonomy demand/refuse 不对称反射 + USPSTF lung screening 阈值）
+> - [ ] 默写 Autonomy refuse vs demand 不对称表（refuse 绝对 vs demand conditional + 3 要素）
+> - [ ] 默写 USPSTF lung cancer screening 2021 标准（50-80 + 20 pack-year + 戒烟 < 15 年）
+> - [ ] 默写 Physician 处理 nonindicated request 的 5 步 SOP（empathic explore → evidence-based reasoning → offer alternative → decline → 不为 alliance cave）
+> - [ ] 反射训练：见到"patient request 某 screening / test / Rx" → 先问"是 indicated 吗？" 不是反射 honor
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Autonomy 不对称（拒治端绝对 vs 请求端 conditional — 受 physician medical judgment / beneficence / nonmaleficence / evidence-based 制约）/ Physician 不强制提供 nonindicated 服务 / 请求端 3 要素判定（ethical + 患者 benefit + 避免 excessive harm）/ Nonindicated request 处理 SOP（empathic explore motivation → evidence-based reasoning → offer appropriate alternative → decline）/ 拒绝 nonindicated ≠ Rationing（rationing 基于 cost / decline 基于 harm）/ 不为 therapeutic alliance 提供 nonindicated care / USPSTF lung cancer screening 2021 标准（50-80 + 20 pack-year + 戒烟 < 15 年 + LDCT 每年 / risk factor ≠ screening indicated — dichotomous threshold）
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-24] Ethics / Confidentiality — Collateral Information SOP（passive listen 允许 / cannot reciprocate / 不强制 include patient — 避免破坏 family 私密 + 损 patient-family 关系）(Q3742)
+> ^Q3742
+>
+> ## Stem 模式
+> 25F primigravida + 14wk + 腹痛呕吐发热 + 食物中毒 suspect + 拒 urine sample → 姐姐走廊找医生想 in private 说"something concerning"关于妹妹 pregnancy。问最 appropriate physician statement？
+>
+> ## 核心概念
+> **Collateral information** = family / friend 主动 disclose 关于 patient 的信息（可能影响 medical management，如 patient omitted recreational drug use / 病史 / 危险行为）。
+> **核心规则**：
+> 1. **可 passive listen**（physician 接受 collateral info **不违反 confidentiality**，特别 emergency 时）
+> 2. **不可 reciprocate**（不可分享 patient 的 privileged info 给 family，即使是 "exchange" 平等对话也不可）
+> 3. **不强制 include patient**（family 选择 private 沟通可能正是出于 patient sensitivity — 强行 include 反破坏初衷 + 损 patient-family 关系）
+> 4. **告知 patient（事后）**：可 disclose "有人告诉我 X" 给 patient，**不必透露 source**（保护 informant）
+> 5. **Collateral info 需 verify**：family member 信息可能不准确 / 主观 → 与其他信息源比对
+>
+> 本题：姐姐 private 提"something concerning" → 可能是 patient omitted recreational drug use（与拒 urine 一致）/ 危险行为 / 病史 → physician **passive listen + 选 private 地点 + 保密 listener**。
+>
+> Answer：**D. "Let's go somewhere more private so that you can tell me about your concerns."**
+>
+> ## 普适规则
+>
+> ### 一、Collateral Information 5 大规则（USMLE 高频）⭐
+>
+> | 规则 | 操作 |
+> |---|---|
+> | **① Passive listen 允许** | 接受 family 主动 disclose 信息，不违反 confidentiality（特别 emergency 时影响 management）|
+> | **② Cannot reciprocate** ⭐ | 不可分享 patient 的 privileged info 给 family，即使 "exchange" 平等也违反 confidentiality |
+> | **③ 不强制 include patient** | Family 选 private 沟通可能正是 patient sensitivity 考虑；强行 include 反损 patient-family 关系 |
+> | **④ 事后告知 patient** | 可告知 patient "我收到关于你的信息" + 内容；**不必透露 source**（保护 informant 关系）|
+> | **⑤ Verify** | Collateral info 可能不准确 / 主观 — 与其他信息源比对（lab / exam / patient 自述）|
+>
+> ### 二、Collateral info 应对话术 ⭐
+>
+> ```
+> Family 想 private 谈
+>     │
+>     ▼
+> ① 选 private 地点 + 保密 listener
+>      "Let's go somewhere more private so that you can tell me about your concerns."（本题 D）
+>     │
+>     ▼
+> ② Passive listen — 不打断 / 不主动 reveal patient info
+>     │
+>     ▼
+> ③ Thank you + 表明 will incorporate into care without revealing source
+>      "Thank you for sharing. I'll consider this in her care."
+>     │
+>     ▼
+> ④ 事后与 patient 沟通（如果信息显著影响 management）
+>      "Someone has shared a concern about your X. Can we discuss?"
+>      ※ 不透露 source
+> ```
+>
+> ### 三、Collateral Info vs HIPAA 5 漏洞对比
+>
+> | 维度 | Collateral information | HIPAA Disclosure（→ §五） |
+> |---|---|---|
+> | **方向** | Family **→** physician（接收信息）| Physician **→** family（释放信息）|
+> | **核心约束** | Cannot reciprocate（不释放）| Verbal or written authorization OK + minimum necessary |
+> | **Patient 同意** | **不必**（physician 单方 passive listen 不违反 HIPAA / confidentiality）| 必（除 emergency / public health 等例外）|
+> | **Sensitive info** | 接收 OK 但**事后告知 patient 不必透露 source**| Default 不释放 sensitive（mental health / SUD / HIV / abortion / genetic）|
+>
+> ### 四、本题坑解析（Q3742 specific）
+>
+> Stem 暗号：**患者拒 urine sample** + 姐姐想 private 谈 → 高度怀疑**患者 omit 关键信息**（最可能 recreational drug use 致 opioid withdrawal → 解释腹痛+呕吐+腹泻三联）。Physician 必须 receive collateral info 才能完整 work up。
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | "I'd prefer if we included your sister in this conversation if that is okay with you" | ❌ ⭐ 强行 include patient 破坏 sister private 初衷（sister 选 private 正是为 patient sensitivity）+ 可能损 patient-sister 关系；本题 A 是看似 collaborative 实际错 |
+> | B | "I have some concerns about her evaluation that I would like to discuss with you as well" | ❌ ⭐ 核心陷阱 — **Reciprocate**（physician 主动 share patient info）= 违反 confidentiality |
+> | C | "I'm unable to discuss anything pertaining to your sister's care due to HIPAA" | ❌ HIPAA **不 prohibit** receiving collateral info（HIPAA 限制 physician → family，不限制 family → physician 单向）|
+> | **D** ⭐ | "Let's go somewhere more private so that you can tell me about your concerns" | ✅ 选 private 地点 + passive listen + 不 reciprocate + 不强制 include |
+> | E | "Unfortunately I'm not allowed to speak with you in private unless your sister provides consent" | ❌ 同 C — Passive listen 不需 patient consent；误把 hospital policy 当 HIPAA 强制 |
+>
+> ## 我为什么错
+> - 选了：**A. "I'd prefer if we included your sister in this conversation if that is okay with you"**
+> - 错因：**知识**（① 不知道 collateral info SOP — 误以为"include patient" = patient-centered ② 没识别 sister 选 private 正是 patient sensitivity 考虑 ③ 没掌握 passive listen / cannot reciprocate 核心规则）
+> - 核心陷阱：**误以为"include patient = 永远更 ethical"** → 实际 family 选 private 通常出于 patient sensitivity（可能涉及 SUD / 危险行为 / abuse），强行 include 反破坏 family 提供 collateral info 的意愿 + 损 patient-family 关系。
+>
+> ## Memory Hook
+> - **Collateral info 3 字诀**：「**Passive 听 / 不 Reciprocate / 不强 Include**」
+> - **方向 ≠ 对称**：Family → physician（接收 OK，单向）vs Physician → family（释放需 HIPAA authorization）— 不对称
+> - **HIPAA 不禁止接收信息**（HIPAA 限制 physician 释放，不限制 family 主动告知）
+> - 类比：邻居告诉我"你家小孩昨天去 XX 地方" → 我可以接收（passive listen）+ 不能反过来跟邻居说"你家小孩昨天去 YY 地方"（reciprocate 违 confidentiality）+ 也不必"邻居说话要叫我家孩子一起来"（include 破坏邻居初衷）。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点："include patient 永远更 ethical"反射 → 学到 family 选 private 通常是 patient sensitivity 考虑（可能涉及 SUD / abuse / 危险行为）→ 强行 include 反破坏 collateral info 的 willingness + 损 patient-family 关系。
+> - 卡点：拒绝接收 collateral info 看似严守 confidentiality → 学到 HIPAA 限制 physician 释放（→ family），不限制 family 主动告知（→ physician 单向 OK），且 collateral info 可能 critically 影响 management。
+> - 卡点：Stem "拒 urine sample" 暗号 → 学到这是 USMLE 经典 setup — 暗示 patient omit recreational drug use（opioid withdrawal → 腹痛+呕吐+腹泻三联），sister 想 private 说的内容多半是 substance use。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q3614]] HIPAA employer disclosure — Disclosure SOP（physician → 第三方 release info SOP）；与本题构成 confidentiality 双侧：本题 family → physician（接收）vs Q3614 physician → employer（释放）
+>   - [[mistakes/uworld-mistakes#^Q105595]] 青少年 conditional confidentiality — HIPAA 不保 unconditional privacy（5 漏洞）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/psych]] — Opioid withdrawal 三联（腹痛 + 呕吐 + 腹泻 + 鼻涕 + lacrimation + 瞳孔散大 + piloerection + yawning）vs 食物中毒鉴别；SUD 沟通策略
+>   - [[完整笔记/Peixuan分科笔记/OB]] — Pregnancy + SUD（perinatal SUD screening + ART safe in pregnancy）
+> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §五.5 Collateral Information SOP（v1.4 新增）
+> - 🌱 TODO：累积 3+ 道 family-physician 沟通题 → 整合 [[完整笔记/专题笔记/USMLE/USMLE_Confidentiality_Bidirectional]]（physician→family vs family→physician 不对称 SOP）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证 Collateral info 3 字诀 — passive 听 / 不 reciprocate / 不强 include）
+> - [ ] 默写 Collateral info 5 大规则 + 应对话术 4 步
+> - [ ] 默写 Collateral info vs HIPAA disclosure 不对称对比（family→physician 接收 vs physician→family 释放）
+> - [ ] 反射训练：见到 family member 想 in private 谈 patient → 0.5 秒喊"选 private 地点 + passive listen + 不 reciprocate"
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Collateral Information SOP（family / friend → physician 单向 disclose；physician 可 passive listen 不违反 confidentiality 特别 emergency 时 / cannot reciprocate 不分享 patient privileged info 给 family / 不强制 include patient — family 选 private 多为 patient sensitivity 考虑 / 事后告知 patient 不必透露 source / Collateral info 需 verify）/ Collateral vs HIPAA disclosure 方向不对称（family→physician OK 不需 consent vs physician→family 需 authorization）/ "Include patient = 永远更 ethical" 反射陷阱 / HIPAA 不限制接收 collateral info / "拒 urine sample" 暗号通常指 omit recreational drug use（opioid withdrawal）/ Confidentiality 是 conditional 不是 absolute
+> 状态:: 🟡
+> 错因:: 知识
+
