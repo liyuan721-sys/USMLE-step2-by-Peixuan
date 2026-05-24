@@ -17951,8 +17951,8 @@
 > 学科:: Psych
 > 主题:: Tourette 诊断陷阱（echolalia / coprolalia = 发声性 tic ≠ OCD 强迫重复）/ tic vs OCD 金标准鉴别（背后有无 obsession 驱动 — 有=OCD / 无=tic）/ 家族史 + 继发焦虑 = 烟雾弹（不能用家族 OCD 史或患者"anxious"定主诊断）/ ERP + fluoxetine 同时出现 = OCD 一线"双钓饵"测误诊（诊断对了两个一起倒）/ 重度 tic 升级 = 二代抗精神病药 (risperidone / aripiprazole) 优先于一代 / 兴奋剂↑DA 可能加重 tic（避免 methylphenidate / amphetamine 共病 ADHD 时）/ tic 神经回路 = 基底节 DA 过度活跃 vs OCD 神经回路 = 皮层-纹状体-丘脑-皮层 CSTC / 治疗回路对应（tic 抗 DA / OCD SSRI + ERP）/ "诊断对了再选治疗" SOP（B 选项不是治疗错是诊断错）
 
-> [!example]- [2026-05-23] Ethics / 公共健康 override autonomy — Meningococcal meningitis (Q?待补)
-> ^Q-EthMeningo
+> [!example]- [2026-05-23] Ethics / 公共健康 override autonomy — Meningococcal meningitis (Q3625)
+> ^Q3625
 >
 > ## Stem 模式
 > 36 岁男 + 2 天 fever / HA / vomiting + T 40°C + **petechiae / purpura on trunk + lower extremities** + 颈强直 + CSF = meningococcal meningitis → 建议 hospitalize + 隔离 + IV abx → **患者拒绝**坚持 home 治疗，alert + oriented + 理解风险 + 拒绝让 wife 参与决策 → next step?
@@ -17996,9 +17996,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题（按日入库顺序）：
->   - [[mistakes/uworld-mistakes#^Q-EthAMA]] AMA discharge IVDU IE empathic investigation（2026-05-23 同日；**autonomy vs beneficence** — 本题公共健康 override，那题 beneficence 努力 prevent AMA；两题构成"autonomy 何时 override / 何时努力说服"双面）
->   - [[mistakes/uworld-mistakes#^Q-EthAdolConfid]] 青少年 conditional confidentiality（2026-05-23 同日；**conditional autonomy 框架** — autonomy 给 adolescent 有例外，本题成人 autonomy 有例外，两题构成"autonomy 总有边界"主题）
->   - [[mistakes/uworld-mistakes#^Q-EthHIPAA]] HIPAA verbal consent + minimum necessary disclosure（2026-05-23 同日；**Ethics 四道同日 — 完整 Ethics 框架启动**）
+>   - [[mistakes/uworld-mistakes#^Q18702]] AMA discharge IVDU IE empathic investigation（2026-05-23 同日；**autonomy vs beneficence** — 本题公共健康 override，那题 beneficence 努力 prevent AMA；两题构成"autonomy 何时 override / 何时努力说服"双面）
+>   - [[mistakes/uworld-mistakes#^Q105595]] 青少年 conditional confidentiality（2026-05-23 同日；**conditional autonomy 框架** — autonomy 给 adolescent 有例外，本题成人 autonomy 有例外，两题构成"autonomy 总有边界"主题）
+>   - [[mistakes/uworld-mistakes#^Q3614]] HIPAA verbal consent + minimum necessary disclosure（2026-05-23 同日；**Ethics 四道同日 — 完整 Ethics 框架启动**）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/感染]]（Meningococcal meningitis — droplet precaution + close contact prophylaxis 选择 rifampin / cipro / ceftriaxone）
@@ -18021,8 +18021,8 @@
 > 状态:: 🟡
 > 错因:: 知识
 
-> [!example]- [2026-05-23] Ethics / AMA discharge IVDU IE — empathic investigation (Q?待补)
-> ^Q-EthAMA
+> [!example]- [2026-05-23] Ethics / AMA discharge IVDU IE — empathic investigation (Q18702)
+> ^Q18702
 >
 > ## Stem 模式
 > 25 岁男 + IVDU + right-sided IE（chest X-ray nodular cavitary lesions = septic pulmonary emboli + 2/6 holosystolic murmur apex + track marks）+ start IV vancomycin → **想 AMA 离院** "take care of things"，要求 "oral antibiotics + come back in a couple days" → best response?
@@ -18067,14 +18067,14 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q-EthMeningo]] 公共健康 override autonomy meningococcal（2026-05-23 同日；**autonomy 何时 override vs 何时努力说服** — 本题 IE 没传染第三方 → beneficence 努力说服；那题 meningococcal 传染第三方 → 直接 override）
->   - [[mistakes/uworld-mistakes#^Q-EthAdolConfid]] 青少年 conditional confidentiality（2026-05-23 同日；**conditional 框架** — autonomy / privacy 都有 conditional 例外）
->   - [[mistakes/uworld-mistakes#^Q-EthHIPAA]] HIPAA verbal consent（2026-05-23 同日；Ethics 四道同日完整框架）
+>   - [[mistakes/uworld-mistakes#^Q3625]] 公共健康 override autonomy meningococcal（2026-05-23 同日；**autonomy 何时 override vs 何时努力说服** — 本题 IE 没传染第三方 → beneficence 努力说服；那题 meningococcal 传染第三方 → 直接 override）
+>   - [[mistakes/uworld-mistakes#^Q105595]] 青少年 conditional confidentiality（2026-05-23 同日；**conditional 框架** — autonomy / privacy 都有 conditional 例外）
+>   - [[mistakes/uworld-mistakes#^Q3614]] HIPAA verbal consent（2026-05-23 同日；Ethics 四道同日完整框架）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/感染]]（Right-sided IE + IVDU — septic pulmonary emboli + vancomycin empiric 覆盖 MRSA）
 >   - [[完整笔记/Peixuan分科笔记/psych]]（Opioid use disorder + MAT — methadone / buprenorphine / naltrexone 选择）
-> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 的 4 道之一（详见 [[mistakes/uworld-mistakes#^Q-EthMeningo]] TODO 优先 1）
+> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 的 4 道之一（详见 [[mistakes/uworld-mistakes#^Q3625]] TODO 优先 1）
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做（重点：第一眼识别"withholding 治疗作 leverage = coercion"）
@@ -18090,8 +18090,8 @@
 > 状态:: 🟡
 > 错因:: pattern
 
-> [!example]- [2026-05-23] Ethics / 青少年 conditional confidentiality (Q?待补)
-> ^Q-EthAdolConfid
+> [!example]- [2026-05-23] Ethics / 青少年 conditional confidentiality (Q105595)
+> ^Q105595
 >
 > ## Stem 模式
 > 16 岁女 initial visit + 哮喘 + 轻 acne + 试过 alcohol/MJ + 退出 softball "其他女孩 mean" + 抑郁感 + self-conscious + "no one likes her" + nervously 问 **"You won't say anything about this to my parents, will you?"** → best response?
@@ -18164,9 +18164,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q-EthMeningo]] 公共健康 override autonomy（2026-05-23 同日；**autonomy 的 conditional 边界** — adult 也有例外，adolescent 也有例外）
->   - [[mistakes/uworld-mistakes#^Q-EthAMA]] AMA discharge IVDU（2026-05-23 同日；**conditional 而非 unconditional** — autonomy / confidentiality 都不是绝对）
->   - [[mistakes/uworld-mistakes#^Q-EthHIPAA]] HIPAA verbal consent + minimum necessary disclosure（2026-05-23 同日；同 HIPAA 主题 — 本题 HIPAA adolescent 局限 / 那题 HIPAA verbal consent + minimum necessary）
+>   - [[mistakes/uworld-mistakes#^Q3625]] 公共健康 override autonomy（2026-05-23 同日；**autonomy 的 conditional 边界** — adult 也有例外，adolescent 也有例外）
+>   - [[mistakes/uworld-mistakes#^Q18702]] AMA discharge IVDU（2026-05-23 同日；**conditional 而非 unconditional** — autonomy / confidentiality 都不是绝对）
+>   - [[mistakes/uworld-mistakes#^Q3614]] HIPAA verbal consent + minimum necessary disclosure（2026-05-23 同日；同 HIPAA 主题 — 本题 HIPAA adolescent 局限 / 那题 HIPAA verbal consent + minimum necessary）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/psych]]（adolescent 抑郁 + 物质试用 — screening + suicidality 评估触发 breach 例外）
@@ -18187,8 +18187,8 @@
 > 状态:: 🟡
 > 错因:: 知识
 
-> [!example]- [2026-05-23] Ethics / HIPAA verbal consent + minimum necessary disclosure (Q?待补)
-> ^Q-EthHIPAA
+> [!example]- [2026-05-23] Ethics / HIPAA verbal consent + minimum necessary disclosure (Q3614)
+> ^Q3614
 >
 > ## Stem 模式
 > 36 岁男 + 3 天 alcoholic hepatitis 住院 + 第 3 次 6 月内 health-related 工作请假 + 患者 **verbal consent** 同意 physician 与 employer 沟通 + employer 打电话 ask "update + likely return to work?" → best response?
@@ -18239,9 +18239,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q-EthAdolConfid]] 青少年 conditional confidentiality（2026-05-23 同日；**HIPAA 局限** — 那题 HIPAA 不保 adolescent unconditional privacy，本题 HIPAA verbal consent + minimum necessary — 两题构成"HIPAA 实际范围"完整理解）
->   - [[mistakes/uworld-mistakes#^Q-EthMeningo]] 公共健康 override autonomy（2026-05-23 同日；Ethics 四道同日完整框架）
->   - [[mistakes/uworld-mistakes#^Q-EthAMA]] AMA discharge IVDU（2026-05-23 同日；Ethics 四道同日完整框架）
+>   - [[mistakes/uworld-mistakes#^Q105595]] 青少年 conditional confidentiality（2026-05-23 同日；**HIPAA 局限** — 那题 HIPAA 不保 adolescent unconditional privacy，本题 HIPAA verbal consent + minimum necessary — 两题构成"HIPAA 实际范围"完整理解）
+>   - [[mistakes/uworld-mistakes#^Q3625]] 公共健康 override autonomy（2026-05-23 同日；Ethics 四道同日完整框架）
+>   - [[mistakes/uworld-mistakes#^Q18702]] AMA discharge IVDU（2026-05-23 同日；Ethics 四道同日完整框架）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/GI]]（Alcoholic hepatitis — Maddrey discriminant function + prednisolone / pentoxifylline）
@@ -18259,8 +18259,8 @@
 > 学科:: Ethics
 > 主题:: HIPAA disclosure 5 要素（① verbal OR written authorization 都 OK ② patient 不必在场 ③ HIPAA 不要求 verify ID ④ minimum necessary disclosure ⑤ sensitive info default 不透露 — mental health/SUD/HIV/abortion/genetic）/ HIPAA ≠ hospital policy（policy 可 stricter；HIPAA 是 floor 不是 ceiling）/ Minimum necessary 应用 — employer 问 update + return → 透露 hospitalization + return；不透露 diagnosis（特别 sensitive 如 alcoholic hepatitis 涉及 SUD）/ Employer disclosure 经典陷阱（"need written" 把 policy 当 HIPAA / "patient must present" 不必 / "verify ID" HIPAA 不要 / disclose diagnosis 超 minimum necessary）
 
-> [!example]- [2026-05-23] Ethics / Decision-making capacity reassessment（surrogate ≠ permanent）(Q?待补)
-> ^Q-EthCapacityReassess
+> [!example]- [2026-05-23] Ethics / Decision-making capacity reassessment（surrogate ≠ permanent）(Q19048)
+> ^Q19048
 >
 > ## Stem 模式
 > 73 岁女 + post emergent transmetatarsal amputation（入院时 wet gangrene + fever + 低血压 + altered mental status → 儿子作 surrogate 签同意书）+ 术后 stabilized on IV abx + opioid pain meds → vascular surgeon 建议 angiography + revascularization to prevent further amputation → **患者现在拒绝**："I'm too old, didn't want surgery first time, don't want it now" → next step?
@@ -18322,16 +18322,16 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q-EthMeningo]] 公共健康 override autonomy（2026-05-23 同日；**autonomy 例外 ③ lack of capacity** 的细化 — 那题考公共健康例外，本题考 capacity 例外的动态评估）
->   - [[mistakes/uworld-mistakes#^Q-EthAMA]] AMA discharge IVDU（2026-05-23 同日；AMA documentation 也需 capacity ✓ 作为前提）
->   - [[mistakes/uworld-mistakes#^Q-EthPedDisclosure]] Pediatric chronic illness disclosure（2026-05-23 同日；**Ethics 8 道同日完整框架**）
->   - [[mistakes/uworld-mistakes#^Q-EthJointCustody]] Joint custody one parent consent（2026-05-23 同日；同 consent 框架 — 本题 reassess capacity，那题 parent consent 法则）
->   - [[mistakes/uworld-mistakes#^Q-EthHIVDisclosure]] HIV chronic disease disclosure timeline（2026-05-23 同日）
+>   - [[mistakes/uworld-mistakes#^Q3625]] 公共健康 override autonomy（2026-05-23 同日；**autonomy 例外 ③ lack of capacity** 的细化 — 那题考公共健康例外，本题考 capacity 例外的动态评估）
+>   - [[mistakes/uworld-mistakes#^Q18702]] AMA discharge IVDU（2026-05-23 同日；AMA documentation 也需 capacity ✓ 作为前提）
+>   - [[mistakes/uworld-mistakes#^Q7283]] Pediatric chronic illness disclosure（2026-05-23 同日；**Ethics 8 道同日完整框架**）
+>   - [[mistakes/uworld-mistakes#^Q3624]] Joint custody one parent consent（2026-05-23 同日；同 consent 框架 — 本题 reassess capacity，那题 parent consent 法则）
+>   - [[mistakes/uworld-mistakes#^Q19132]] HIV chronic disease disclosure timeline（2026-05-23 同日）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/psych]]（Delirium / dementia 致 capacity ↓ + assessment 工具）
 >   - [[完整笔记/Peixuan分科笔记/外科]]（DM + PAD wet gangrene → amputation + revascularization 决策）
-> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 的 8 道之一（详见 [[mistakes/uworld-mistakes#^Q-EthMeningo]] TODO 优先 1）— **8 道已凑齐，强烈建议立即建衍生**
+> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 的 8 道之一（详见 [[mistakes/uworld-mistakes#^Q3625]] TODO 优先 1）— **8 道已凑齐，强烈建议立即建衍生**
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做（重点：第一眼锁"曾经 incapacitated 现在改善 = reassess capacity"反射）
@@ -18347,8 +18347,8 @@
 > 状态:: 🟡
 > 错因:: 知识
 
-> [!example]- [2026-05-23] Ethics / Pediatric chronic illness disclosure — assess understanding first (Q?待补)
-> ^Q-EthPedDisclosure
+> [!example]- [2026-05-23] Ethics / Pediatric chronic illness disclosure — assess understanding first (Q7283)
+> ^Q7283
 >
 > ## Stem 模式
 > 11 岁女 + B-ALL 4 周前 dx + 完成 induction chemo + 重复骨髓 = **持续 elevated blast cells**（induction 失败）+ 父母之前 request "do not say anything negative to daughter about diagnosis or prognosis" → 患者私下对医生说 "**Mom says I'll be better soon, but I don't feel like I'm getting better. I know that everyone dies, but I don't know when that's going to happen to me**" → next step?
@@ -18411,10 +18411,10 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q-EthHIVDisclosure]] HIV chronic disease disclosure timeline（2026-05-23 同日；**完美对照** — 那题 grandmother 不让 disclose HIV → collaborative plan + timeline；本题 parents 不让 disclose ALL prognosis → 先 assess understanding；两题构成"chronic 儿科 disclosure 二步法：先 assess understanding → 再 collaborative plan"）
->   - [[mistakes/uworld-mistakes#^Q-EthJointCustody]] Joint custody one parent consent（2026-05-23 同日；同 Pediatric ethics 主题）
->   - [[mistakes/uworld-mistakes#^Q-EthCapacityReassess]] Capacity reassessment（2026-05-23 同日；同 "respect 患者 emerging autonomy" 框架）
->   - [[mistakes/uworld-mistakes#^Q-EthAdolConfid]] 青少年 conditional confidentiality（2026-05-23 同日；同 pediatric autonomy 推进 + 不能 unconditional promise / 不能 dismiss patient concerns）
+>   - [[mistakes/uworld-mistakes#^Q19132]] HIV chronic disease disclosure timeline（2026-05-23 同日；**完美对照** — 那题 grandmother 不让 disclose HIV → collaborative plan + timeline；本题 parents 不让 disclose ALL prognosis → 先 assess understanding；两题构成"chronic 儿科 disclosure 二步法：先 assess understanding → 再 collaborative plan"）
+>   - [[mistakes/uworld-mistakes#^Q3624]] Joint custody one parent consent（2026-05-23 同日；同 Pediatric ethics 主题）
+>   - [[mistakes/uworld-mistakes#^Q19048]] Capacity reassessment（2026-05-23 同日；同 "respect 患者 emerging autonomy" 框架）
+>   - [[mistakes/uworld-mistakes#^Q105595]] 青少年 conditional confidentiality（2026-05-23 同日；同 pediatric autonomy 推进 + 不能 unconditional promise / 不能 dismiss patient concerns）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]] / [[完整笔记/Peixuan分科笔记/儿科]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（B-ALL induction 失败 → consolidation / re-induction / HSCT 评估）
@@ -18435,8 +18435,8 @@
 > 状态:: 🟡
 > 错因:: pattern
 
-> [!example]- [2026-05-23] Ethics / Joint custody — one parent consent 即可（court order 仅在 both refuse life-saving）(Q?待补)
-> ^Q-EthJointCustody
+> [!example]- [2026-05-23] Ethics / Joint custody — one parent consent 即可（court order 仅在 both refuse life-saving）(Q3624)
+> ^Q3624
 >
 > ## Stem 模式
 > 9 岁男 + 深部 puncture wound from rusty nail（高 tetanus 风险）+ 没打疫苗（父母 preference）+ 父母 **divorced + joint custody** + 与双方 parents 讨论 tetanus vaccine indications/benefits/risks → **mother consents + father refuses prefers herbal** → next step?
@@ -18503,10 +18503,10 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q-EthPedDisclosure]] Pediatric chronic illness disclosure（2026-05-23 同日；同 pediatric ethics — 那题 parents withhold info / 本题 parents 不一致 consent）
->   - [[mistakes/uworld-mistakes#^Q-EthHIVDisclosure]] HIV chronic disease disclosure timeline（2026-05-23 同日；同 pediatric ethics — guardian decision-making 框架）
->   - [[mistakes/uworld-mistakes#^Q-EthAdolConfid]] 青少年 conditional confidentiality（2026-05-23 同日；同 minor consent 框架 — 本题 minor consent 法则 / 那题 minor confidentiality 法则）
->   - [[mistakes/uworld-mistakes#^Q-EthMeningo]] 公共健康 override autonomy（2026-05-23 同日；同 court order 误用陷阱 — 两题都是"以为需 court order 实际不需"）
+>   - [[mistakes/uworld-mistakes#^Q7283]] Pediatric chronic illness disclosure（2026-05-23 同日；同 pediatric ethics — 那题 parents withhold info / 本题 parents 不一致 consent）
+>   - [[mistakes/uworld-mistakes#^Q19132]] HIV chronic disease disclosure timeline（2026-05-23 同日；同 pediatric ethics — guardian decision-making 框架）
+>   - [[mistakes/uworld-mistakes#^Q105595]] 青少年 conditional confidentiality（2026-05-23 同日；同 minor consent 框架 — 本题 minor consent 法则 / 那题 minor confidentiality 法则）
+>   - [[mistakes/uworld-mistakes#^Q3625]] 公共健康 override autonomy（2026-05-23 同日；同 court order 误用陷阱 — 两题都是"以为需 court order 实际不需"）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]] / [[完整笔记/Peixuan分科笔记/儿科]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/免疫疫苗]]（Tetanus prophylaxis after wound — TIG + Tdap 决策 based on wound type + vaccination history）
@@ -18527,8 +18527,8 @@
 > 状态:: 🟡
 > 错因:: 知识
 
-> [!example]- [2026-05-23] Ethics / Perinatal HIV disclosure — collaborative plan + timeline (Q?待补)
-> ^Q-EthHIVDisclosure
+> [!example]- [2026-05-23] Ethics / Perinatal HIV disclosure — collaborative plan + timeline (Q19132)
+> ^Q19132
 >
 > ## Stem 模式
 > 10 岁男 + perinatal HIV + ART since infancy + viral load undetectable + CD4 780 + grandmother is legal guardian（mother died of AIDS）+ grandmother **没告知 diagnosis** + 患者以为 ART 是 vitamins + grandmother reiterates "to let him live a normal childhood" → next step?
@@ -18593,10 +18593,10 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q-EthPedDisclosure]] Pediatric chronic illness disclosure — assess understanding first（2026-05-23 同日；**完美互补** — 那题 step 1 = assess understanding，本题 step 3-4 = collaborative plan + joint disclosure；两题构成 chronic 儿科 disclosure 全流程）
->   - [[mistakes/uworld-mistakes#^Q-EthJointCustody]] Joint custody one parent consent（2026-05-23 同日；同 pediatric ethics — guardian decision-making 框架）
->   - [[mistakes/uworld-mistakes#^Q-EthAdolConfid]] 青少年 conditional confidentiality（2026-05-23 同日；本题 11-12 岁前 disclose → 进入 adolescence 后 confidentiality 主题接力）
->   - [[mistakes/uworld-mistakes#^Q-EthCapacityReassess]] Capacity reassessment（2026-05-23 同日；同 "respect emerging autonomy" 框架）
+>   - [[mistakes/uworld-mistakes#^Q7283]] Pediatric chronic illness disclosure — assess understanding first（2026-05-23 同日；**完美互补** — 那题 step 1 = assess understanding，本题 step 3-4 = collaborative plan + joint disclosure；两题构成 chronic 儿科 disclosure 全流程）
+>   - [[mistakes/uworld-mistakes#^Q3624]] Joint custody one parent consent（2026-05-23 同日；同 pediatric ethics — guardian decision-making 框架）
+>   - [[mistakes/uworld-mistakes#^Q105595]] 青少年 conditional confidentiality（2026-05-23 同日；本题 11-12 岁前 disclose → 进入 adolescence 后 confidentiality 主题接力）
+>   - [[mistakes/uworld-mistakes#^Q19048]] Capacity reassessment（2026-05-23 同日；同 "respect emerging autonomy" 框架）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]] / [[完整笔记/Peixuan分科笔记/儿科]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/感染]]（Perinatal HIV transmission → ART since infancy + viral suppression target undetectable + CD4 monitoring）
@@ -18614,6 +18614,95 @@
 >
 > 学科:: Ethics
 > 主题:: Perinatal HIV disclosure 应在 adolescence 前完成（3 理由：fosters trust + ↑medication adherence + ↓inadvertent transmission — adolescence 是 sexual exploration 期）/ Pediatric chronic illness disclosure 4 阶段（① respect family concerns + give time ② strongly encourage developing plan + timeline ③ collaborative planning - joint participation ④ joint disclosure — family + physician 一起 deliver）/ "Respect family" ≠ passive（真正 respect = 与 family 一起 plan + timeline，不是把 burden 全推给 family 独自背）/ 3 个 not-good 模式（只强调 risks of delay — instill distrust / passive 推 burden 给 family / unilateral partial disclose without consent）/ Burden sharing 原则（不让 family 独自承担 chronic disease + 增 morbidity/mortality 的 disclosure burden）
+
+> [!example]- [2026-05-23] Ethics / End-of-life care — NEOT (No Escalation of Treatment) 中间地带 (Q21627) 🟡 做对但不确定
+> ^Q21627
+>
+> ## Stem 模式
+> 79 岁女 + **advanced Alzheimer dementia** + skilled nursing home / bedbound / minimally verbal baseline + 多年反复入院（aspiration pneumonia / infected sacral pressure ulcers / septic shock）+ 当前 ICU septic shock + 升压药 + 24 hr 后 **anuric renal failure** + 进行性 respiratory distress + diffuse crackles + 显著供氧 → physician counsel family poor prognosis + 提 "comfort measures only" → **大女儿犹豫**："**Every time mom gets sick, all doctors say she will die, but she always makes it. We're not sure what to do, but we don't want to feel guilty for withdrawing care.**" + advanced directive 未指定 patient wishes → next step?
+>
+> ## 核心概念
+> **NEOT (No Escalation of Treatment)** = end-of-life 的**第三选项**，介于"继续 escalate"和"完全 withdraw"之间。当 family 同意 prognosis poor 但 **reluctant 直接 withdraw**（怕 guilt + 母亲"总能挺过来"的模式）→ NEOT = **predetermined limit on treatment**（不再 hemodialysis / mechanical ventilation / invasive procedures），同时**不撤已有 care** → build agreement，防 futile escalation，让 family 有时间 process loss，减"withdrawing"的 guilt。
+>
+> Answer：**C — Reframe the discussion to see if the family agrees to no escalation of treatment (NEOT) orders**
+>
+> ## 普适规则（End-of-life care 3 大 philosophies 对比）⭐
+>
+> | 维度 | **No Escalation of Treatment (NEOT)** | **Time-Limited Trial** | **Withdrawal of Life Support** |
+> |---|---|---|---|
+> | **核心** | 设 predetermined upper limits on treatment | Intensive care for predefined interval (2-3 days) | 完全 comfort measures only |
+> | **当前 care** | **不撤**已有 care | 暂时 escalate 看反应 | **主动撤**生命支持 |
+> | **新 escalation** | **不再**新增（no dialysis / no vent / no invasive） | 集中尝试后评估 | 不适用 |
+> | **避免** | Futile interventions with greatest morbidity | 草率 withdraw 而无尝试 | Futile prolongation |
+> | **Family 心理** | 减 "withdrawing" 的 guilt（不是 active 撤）+ 有时间 process loss | 有 closure：尝试过了 | 直接面对 loss + 可能 guilt |
+> | **结局** | 通常 active dying 随后 | 评估后或撤或继续 | Active dying soon follows |
+> | **适用场景** | Family reluctant withdraw + prognosis 明确 poor + further escalation futile | Diagnosis 不明 / treatment response 不明 / family 需 closure | Family 同意 + futile + 患者 wishes 明 |
+>
+> > [!info] NEOT ≠ "withdrawing care"
+> > "**Withdrawing life support ≠ withdrawing care**" — NEOT 是**继续提供 supportive care**（pain control + comfort + 已上药物）+ 仅**限制新 escalation**。这是 family 怕 guilt 时的关键 reframe — 不是放弃，是停在已尽 reasonable interventions 的 line 上。
+>
+> ## 易混陷阱（普适）
+> - **A. Reassure family not to feel guilty for withdrawing**：❌ Surrogate 决定**指南** = **substituted judgment**（按 "patient would have wanted" 决定）+ **shared familial / cultural values**；simply advising "don't feel guilty" **无效** — 没解决 family 的核心 conflict。
+> - **B. Ethics committee consultation**：❌ 用在**真正 intractable disagreement** 时（family vs care team active 冲突）；本题 family 只是 **reluctant**，没 active disagree → ethics committee 拖延无必要。
+> - **C. ✅ Reframe with NEOT**：核心 next step — NEOT 给 family 中间选项，**build agreement**（不让 family 在"全力救 vs 撤一切"两极间挣扎）。
+> - **D. Quality of life argument**：❌ Quality of life **主观 + 文化差异大** — physician 单方面 judge 患者 quality of life 不可接受，可能 offensive；不同 family / 文化对 quality 理解差异大。
+> - **E. Respect family wishes + continue escalation**：❌ Patient 已 deteriorate + further escalation **不太可能 significant benefit** + family 实际 reluctant（不是 firm commitment escalate）→ **frank discussion before 加大 escalate** 才是负责任做法。
+>
+> ## 我为什么这道题不确定（做对但卡）
+> - 选了 C 但**process of elimination 排除**其他（不是 confident 知道 NEOT 概念）
+> - 核心卡点：第一次见 NEOT 概念；不清楚 NEOT 与 withdraw / time-limited trial 的边界
+> - 错因（虽答对）：**知识** — NEOT + end-of-life 3 philosophies 体系不熟
+> - 不确定方面：
+>   - NEOT 算不算 "withdrawing care"？（答：不算，关键 reframe）
+>   - 什么时候用 NEOT vs Time-limited trial vs Withdrawal？
+>   - Family reluctant 时 physician 是 advocate 撤 care 还是 propose NEOT？（答：propose NEOT — 中间地带，build agreement）
+>
+> ## Memory Hook
+> 「**NEOT = 不再加，但不撤** — end-of-life 第三选项」
+> 对比口诀：「**Withdraw 撤一切 / Time-limited 限期尝试 / NEOT 设上限不再加**」— 3 个 philosophies 对应 family 3 种心理（已 ready / 需 closure / reluctant 怕 guilt）。
+> **关键 reframe**：「**Withdrawing life support ≠ withdrawing care**」— NEOT 仍 supportive care 全开，只是不再 escalate 新 invasive。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q：NEOT 是什么？为什么 C 是答案而不是 A "reassure don't feel guilty"？
+>   → 学到：NEOT = predetermined limit on treatment 第三选项；A 是 surrogate 决定指南错误（surrogate 决定应按 substituted judgment + shared values，不是 simply advising 情绪）。
+> - Q：为什么不是 B (ethics committee)？
+>   → 学到：ethics committee 用于 intractable disagreement，本题 family 与 care team **没 active 冲突**，只是 reluctant；ethics 不是拖延工具。
+> - Q：NEOT 和 withdraw 的实际区别？
+>   → 学到：NEOT = 不撤已有 care（包括升压药 / 抗生素 / IV fluids），只是不上新的 invasive（dialysis / vent）；withdraw = 主动撤生命支持 → 立即 comfort only。NEOT 更温和，family 不易感 guilt。
+> - Q：什么时候该 propose NEOT 而不是 propose withdraw？
+>   → 学到：当 family **同意 prognosis poor 但 reluctant withdraw** + patient deteriorating + further escalation futile → NEOT 是建桥梁的工具，从"全力救"过渡到"comfort"。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题（Ethics 9 道完整框架 — 本卡是第 9 道）：
+>   - [[mistakes/uworld-mistakes#^Q19048]] Capacity reassessment（2026-05-23 同日；**同 end-of-life 决策框架** — 那题 capacity 评估前提，本题 surrogate 决定时的中间选项；advanced directive 不指定时 surrogate 用 substituted judgment）
+>   - [[mistakes/uworld-mistakes#^Q3625]] 公共健康 override autonomy（2026-05-23 同日；同 autonomy 边界主题）
+>   - [[mistakes/uworld-mistakes#^Q18702]] AMA IVDU IE（2026-05-23 同日；同 empathic + collaborative + reframe 主题）
+>   - [[mistakes/uworld-mistakes#^Q105595]] 青少年 conditional confidentiality（2026-05-23 同日；Ethics 框架）
+>   - [[mistakes/uworld-mistakes#^Q3614]] HIPAA disclosure（2026-05-23 同日；Ethics 框架）
+>   - [[mistakes/uworld-mistakes#^Q7283]] Pediatric chronic illness disclosure - assess understanding（2026-05-23 同日；同 "先 understand → 再 reframe / plan" 框架）
+>   - [[mistakes/uworld-mistakes#^Q3624]] Joint custody one parent consent（2026-05-23 同日；Ethics 框架）
+>   - [[mistakes/uworld-mistakes#^Q19132]] HIV chronic disease disclosure timeline（2026-05-23 同日；同 collaborative + reframe family concerns 框架）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/neuro]]（Advanced Alzheimer dementia 自然病程 + end-of-life decision）
+>   - [[完整笔记/Peixuan分科笔记/感染]]（重症 sepsis + multi-organ failure 预后 + futility 评估）
+>   - [[完整笔记/Peixuan分科笔记/外科]]（Sacral pressure ulcer + nursing home patient care）
+> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 的第 9 道 — 衍生**必加** NEOT / Time-limited trial / Withdrawal 三 philosophies 对比章节 + surrogate decision 指南（substituted judgment + shared values，不是 simply advising 情绪）+ "framework reframe" 沟通技巧
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（重点：第一眼锁 "family reluctant withdraw + prognosis poor + further escalation futile → propose NEOT"）
+> - [ ] 默写 end-of-life 3 philosophies 对比表（NEOT / Time-limited trial / Withdrawal — 当前 care 处理 / 新 escalation / family 心理 / 适用场景）
+> - [ ] 默写 surrogate decision 指南（substituted judgment + shared values，不是 simply advising）
+> - [ ] 默写 "withdrawing life support ≠ withdrawing care" reframe
+> - [ ] 找 3 道类似题（end-of-life decision / family reluctant / futile care / palliative care 沟通）
+> - [ ] **固化反射**：Family 卡在 "全力救 vs 撤一切" 两极 → 提 NEOT 中间地带；不要 dismiss "don't feel guilty" 情绪 → reframe 选择
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: End-of-life care 3 philosophies 对比（① No Escalation of Treatment NEOT — 设上限不再加 invasive 但不撤已有 / ② Time-Limited Trial — predefined interval 2-3 天集中治疗后评估 / ③ Withdrawal of Life Support — 主动撤生命支持 comfort only）/ NEOT 适用场景（family 同意 prognosis poor + reluctant withdraw + 怕 guilt + further escalation futile）/ "Withdrawing life support ≠ withdrawing care"关键 reframe（NEOT 仍 supportive care 全开，只是不再新 escalation）/ Surrogate decision 指南 = substituted judgment（patient would have wanted）+ shared familial/cultural values（不是 simply advising "don't feel guilty"情绪）/ Ethics committee 用于 intractable disagreement 时（family 与 care team active 冲突 — 本题 reluctant ≠ disagree 不需 ethics）/ Quality of life 主观文化差异大（physician 不应单方面 judge）/ Continue escalation 在 deteriorating + family reluctant + futile 时不负责任
 > 状态:: 🟡
-> 错因:: pattern
+> 错因:: 知识
 
