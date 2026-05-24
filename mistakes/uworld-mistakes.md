@@ -18258,6 +18258,362 @@
 >
 > 学科:: Ethics
 > 主题:: HIPAA disclosure 5 要素（① verbal OR written authorization 都 OK ② patient 不必在场 ③ HIPAA 不要求 verify ID ④ minimum necessary disclosure ⑤ sensitive info default 不透露 — mental health/SUD/HIV/abortion/genetic）/ HIPAA ≠ hospital policy（policy 可 stricter；HIPAA 是 floor 不是 ceiling）/ Minimum necessary 应用 — employer 问 update + return → 透露 hospitalization + return；不透露 diagnosis（特别 sensitive 如 alcoholic hepatitis 涉及 SUD）/ Employer disclosure 经典陷阱（"need written" 把 policy 当 HIPAA / "patient must present" 不必 / "verify ID" HIPAA 不要 / disclose diagnosis 超 minimum necessary）
+
+> [!example]- [2026-05-23] Ethics / Decision-making capacity reassessment（surrogate ≠ permanent）(Q?待补)
+> ^Q-EthCapacityReassess
+>
+> ## Stem 模式
+> 73 岁女 + post emergent transmetatarsal amputation（入院时 wet gangrene + fever + 低血压 + altered mental status → 儿子作 surrogate 签同意书）+ 术后 stabilized on IV abx + opioid pain meds → vascular surgeon 建议 angiography + revascularization to prevent further amputation → **患者现在拒绝**："I'm too old, didn't want surgery first time, don't want it now" → next step?
+>
+> ## 核心概念
+> **Decision-making capacity 不是静态的，可以恢复**（如 infection / metabolic / delirium 改善后 + opioid 影响可能消退）。曾经 incapacitated 现在精神状态改善 → 必须 **reassess capacity**。**Capacity 恢复后，patient 意愿 supersede surrogate / living will**；capacity 没恢复 → 继续按 surrogate 决定。
+>
+> Answer：**D — Determine if the patient has capacity to refuse the procedure**
+>
+> ## 普适规则（Decision-making capacity 评估 4 要素）⭐
+>
+> | 要素 | Patient task |
+> |---|---|
+> | **① Communicates a choice** | 能清楚表达 preferred treatment option |
+> | **② Understands information provided** | 理解 condition + treatment options |
+> | **③ Appreciates consequences** | 承认有此 condition + 理解各 treatment options（**含 no treatment**）的可能后果 |
+> | **④ Rationale given for decision** | 能 weigh risks/benefits + 给出 reasons |
+>
+> > [!info] 4 要素全部满足 → 有 capacity → 患者意愿 supersede surrogate / living will / family
+> > 任一不满足 → 无 capacity → 走 surrogate decision-maker（按 hierarchy：spouse → adult children → parents → siblings → 其他 next of kin）
+>
+> ### Surrogate decision 是 temporary 不 permanent
+>
+> ```
+> Patient incapacitated
+>     │
+>     ▼
+> Surrogate 代为 decide（按 next of kin / advance directive / POA hierarchy）
+>     │
+>     │ ⏳ Patient 状态改善（infection 控制 / metabolic 恢复 / opioid 减少）
+>     ▼
+> ★ 必须 reassess capacity ★（关键步骤，本题考点）
+>     │
+>     ├─ Capacity 恢复 → Patient 意愿 supersede surrogate（即使与之前 surrogate decision 矛盾）
+>     └─ Capacity 仍无 → 继续按 surrogate
+> ```
+>
+> ## 易混陷阱（普适）
+> - **A. Ask son（surrogate）for consent**：❌ surrogate 决定仅在患者 **currently incapacitated** 时有效；患者现在精神状态改善 → 必须先 reassess capacity 才能决定走 surrogate 还是 patient 意愿。
+> - **B. Assess for depressive symptoms**：✅ 部分相关（depression 可影响 judgment），但**先后顺序错** — 先 reassess capacity（capacity 是 critical determinant）；如 capacity in question 再考虑 depression 干扰。
+> - **C. Check for living will**：❌ Living will 只在 **currently incapacitated** 时启动；如 capacity 恢复 → patient 现在的意愿 supersede living will。
+> - **D. ✅ Determine if patient has capacity to refuse**：核心 next step — 先 reassess capacity → 结果决定一切后续。
+> - **E. Document refusal and don't perform**：❌ 跳过 capacity assessment → 假设患者 currently has capacity；可能她还在 delirium / opioid effect 下，refusal 不 informed。
+> - **F. Two-physician consent**：用于**没 living will / 没 surrogate 的患者无 capacity 时**（some states），本题已有 surrogate，不适用。
+>
+> ## 我为什么错
+> - 选了：E（document refusal + don't perform）
+> - 错因：**知识**（不知道 capacity 是动态的，可以恢复 + surrogate ≠ permanent override）
+> - 核心陷阱：看到"patient refuses + 是 adult" → 反射"respect autonomy + document"，忽略患者**刚刚 incapacitated**，**capacity 状态需要 reassessment** 才能下决定。
+>
+> ## Memory Hook
+> 「**Capacity 是动态的，不是身份证**」— 一次 incapacitated 不代表永久；surrogate decision 是 temporary bridge，不是 permanent override。**患者拒治前必问 capacity 4 要素**（communicate / understand / appreciate / rationale）— 任一不满足 → 无 capacity；全部满足 → patient supersede。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：直觉觉得"adult + 能说话 + refuse = respect autonomy"，没意识到刚刚 incapacitated 的患者需要 reassess capacity。
+> - 学到的核心：① capacity 是动态的，可恢复（infection / metabolic / delirium / opioid 改善后）；② surrogate decision / living will 都是 temporary，capacity 恢复后 patient 意愿 supersede；③ capacity assessment 4 要素（communicate / understand / appreciate / rationale）；④ 两位医生 consent 用于完全无 surrogate / living will 时；⑤ depression 评估在 capacity 评估之后。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q-EthMeningo]] 公共健康 override autonomy（2026-05-23 同日；**autonomy 例外 ③ lack of capacity** 的细化 — 那题考公共健康例外，本题考 capacity 例外的动态评估）
+>   - [[mistakes/uworld-mistakes#^Q-EthAMA]] AMA discharge IVDU（2026-05-23 同日；AMA documentation 也需 capacity ✓ 作为前提）
+>   - [[mistakes/uworld-mistakes#^Q-EthPedDisclosure]] Pediatric chronic illness disclosure（2026-05-23 同日；**Ethics 8 道同日完整框架**）
+>   - [[mistakes/uworld-mistakes#^Q-EthJointCustody]] Joint custody one parent consent（2026-05-23 同日；同 consent 框架 — 本题 reassess capacity，那题 parent consent 法则）
+>   - [[mistakes/uworld-mistakes#^Q-EthHIVDisclosure]] HIV chronic disease disclosure timeline（2026-05-23 同日）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/psych]]（Delirium / dementia 致 capacity ↓ + assessment 工具）
+>   - [[完整笔记/Peixuan分科笔记/外科]]（DM + PAD wet gangrene → amputation + revascularization 决策）
+> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 的 8 道之一（详见 [[mistakes/uworld-mistakes#^Q-EthMeningo]] TODO 优先 1）— **8 道已凑齐，强烈建议立即建衍生**
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（重点：第一眼锁"曾经 incapacitated 现在改善 = reassess capacity"反射）
+> - [ ] 默写 capacity 4 要素（communicate / understand / appreciate / rationale）
+> - [ ] 默写 surrogate hierarchy（spouse → adult children → parents → siblings → 其他）
+> - [ ] 找 3 道类似题（capacity reassessment / surrogate / living will / advance directive / two-physician consent）
+> - [ ] **固化反射**：患者拒治前必问 capacity 4 要素 → 全满足 supersede / 任一不满足 走 surrogate
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Decision-making capacity 评估 4 要素（communicate / understand / appreciate consequences incl. no treatment / rationale）/ Capacity 是动态的不是身份证（可恢复 — infection / metabolic / delirium / opioid 改善后）/ Surrogate decision / living will 是 temporary 不 permanent（capacity 恢复后 patient 意愿 supersede）/ 评估顺序 = capacity → depression（capacity in question 再考虑 depression）/ Two-physician consent 用在无 surrogate + 无 living will 患者无 capacity 时（some states）/ Surrogate hierarchy（spouse → adult children → parents → siblings → 其他 next of kin）/ "Adult + 能说话 + refuse = autonomy" 反射陷阱 — 必须先 reassess capacity，特别患者刚刚 incapacitated
 > 状态:: 🟡
 > 错因:: 知识
+
+> [!example]- [2026-05-23] Ethics / Pediatric chronic illness disclosure — assess understanding first (Q?待补)
+> ^Q-EthPedDisclosure
+>
+> ## Stem 模式
+> 11 岁女 + B-ALL 4 周前 dx + 完成 induction chemo + 重复骨髓 = **持续 elevated blast cells**（induction 失败）+ 父母之前 request "do not say anything negative to daughter about diagnosis or prognosis" → 患者私下对医生说 "**Mom says I'll be better soon, but I don't feel like I'm getting better. I know that everyone dies, but I don't know when that's going to happen to me**" → next step?
+>
+> ## 核心概念
+> Pediatric chronic / terminal illness + 父母 request withhold "negative" + **患者 emerging concerns**（fear of death + treatment uncertainty）→ **先 determine patient's current understanding** 才能 empathically 提供 timely comfort + guide 后续 disclosure 计划 with 父母。
+>
+> Physician primary duty = **patient**；但仍 respect parents wishes（暂不主动 overtly 讨论 "negative"）。
+>
+> Answer：**B — Determine what the patient understands about her condition and treatment response**
+>
+> ## 普适规则（Pediatric chronic illness 应对 emerging concerns SOP）⭐
+>
+> ```
+> 患者私下 raise concerns（怕死 / 治疗 uncertainty / 痛苦）
+>     │
+>     ▼
+> Step 1：先 determine patient's current understanding ⭐
+>     │      ※ 不能 defer 给 parents、不能 evasive、不能 直接 raise 死亡
+>     ▼
+> Step 2：基于 understanding，empathic 提供 timely comfort + support
+>     │
+>     ▼
+> Step 3：基于 patient understanding，与 parents collaboratively plan
+>     │      ※ Timing / approach / extent of disclosure
+>     │      ※ Joint participation（不让 family 独自承担 burden）
+>     ▼
+> Step 4：逐步 collaborative disclosure（family + physician 一起）
+> ```
+>
+> ### Pediatric ethics 三方平衡
+>
+> | 方 | 原则 | 操作 |
+> |---|---|---|
+> | **Patient（儿童）** | Primary duty + 知情权按发育水平 + emerging autonomy | 患者 raise 的 concerns 不能 defer 不能 dismiss |
+> | **Parents** | Authority to make decisions + respect concerns | 不 overtly 讨论 "negative"（暂时遵守），但同时 collaboratively 推进 plan |
+> | **Physician** | Balance + honesty + collaborative | 不撒谎 / 不 evasive / 不单方面 unilateral disclose |
+>
+> ## 易混陷阱（普适）
+> - **A. Ask permission to share with parents**：❌ 把 burden defer 给患儿（让 11 岁 girl 主动 broach difficult topic with parents 不合理）+ 没回应 patient 当下 concerns。
+> - **B. ✅ Determine what patient understands**：核心 next step — empathic assessment baseline → 才能 timely 提供 comfort + 后续 plan。
+> - **C. Encourage patient to talk to parents**：❌ 同 A — defer + 没回应当下 concerns；让儿童独自承担 difficult discussion 不合适。
+> - **D. "Will likely feel better after another round of chemo"**：❌ **evasive + dishonest**（induction 失败 prognosis 不明，不知道下轮会好转）；medical 不诚实 = 损 trust。
+> - **E. Inquire about patient's perception of death and dying**：❌ **too abrupt** — 直接 raise 死亡话题 without 先 understand current 认知；同时 **dismisses parents' request** withhold negative；conversation 可能 eventually 包含 death/dying 但**不是 immediate next step**。
+>
+> ## 我为什么错
+> - 选了：E（直接问 death/dying perception）
+> - 错因：**pattern**（情绪驱动答 — 患者一提 "everyone dies"，反射直接问 death，没先 understand current 认知）
+> - 核心陷阱：跳过了 **baseline understanding assessment**，太早 jump 到 deep topic；同时无视 parents 暂时 wish 不 overtly 讨论 negative。
+>
+> ## Memory Hook
+> 「**Concerns 先听不抢答**」— 儿童 raise concerns → 先 determine current understanding（baseline）→ 再 empathic respond + 后续 collaborative plan with parents。
+> **Pediatric ethics 三方平衡**：primary duty patient + respect parents authority + 不撒谎不 evasive；任何 "defer / dismiss / 直接 raise / 撒谎" 都不行。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：患者提到 death → 直觉觉得"该 explore death 话题"，没意识到第一步应 assess understanding。
+> - 学到的核心：① pediatric chronic illness + emerging concerns 先 **determine current understanding**；② physician primary duty = patient 但仍 respect parents（暂不 overtly 讨论 negative）；③ 不能 defer (A, C) / 不能 evasive (D) / 不能 abrupt raise (E)；④ 后续 collaborative disclosure plan with parents = joint participation 不让 family 独自承担；⑤ 任何"defer / dismiss / 撒谎 / 直接 raise"都不对。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q-EthHIVDisclosure]] HIV chronic disease disclosure timeline（2026-05-23 同日；**完美对照** — 那题 grandmother 不让 disclose HIV → collaborative plan + timeline；本题 parents 不让 disclose ALL prognosis → 先 assess understanding；两题构成"chronic 儿科 disclosure 二步法：先 assess understanding → 再 collaborative plan"）
+>   - [[mistakes/uworld-mistakes#^Q-EthJointCustody]] Joint custody one parent consent（2026-05-23 同日；同 Pediatric ethics 主题）
+>   - [[mistakes/uworld-mistakes#^Q-EthCapacityReassess]] Capacity reassessment（2026-05-23 同日；同 "respect 患者 emerging autonomy" 框架）
+>   - [[mistakes/uworld-mistakes#^Q-EthAdolConfid]] 青少年 conditional confidentiality（2026-05-23 同日；同 pediatric autonomy 推进 + 不能 unconditional promise / 不能 dismiss patient concerns）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]] / [[完整笔记/Peixuan分科笔记/儿科]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（B-ALL induction 失败 → consolidation / re-induction / HSCT 评估）
+>   - [[完整笔记/Peixuan分科笔记/psych]]（儿童 anticipatory grief / death anxiety / palliative care 沟通）
+> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 的 8 道之一
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（重点：儿童 raise concerns → 先 assess understanding，不 abrupt jump）
+> - [ ] 默写 pediatric chronic illness disclosure SOP（先 assess understanding → empathic comfort → collaborative plan with parents → 联合 disclosure）
+> - [ ] 默写 pediatric ethics 三方平衡（patient primary duty / respect parents authority / 不撒谎不 evasive）
+> - [ ] 找 3 道类似题（pediatric terminal illness / family request withhold info / 儿科 disclosure / palliative care 沟通）
+> - [ ] **固化反射**：儿童 raise concerns → "Tell me what you understand about..." 开头
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Pediatric chronic / terminal illness + parents request withhold "negative" + 患者 emerging concerns → **先 determine current understanding** 是 next step / Physician primary duty = patient 但仍 respect parents authority（暂不 overtly 讨论 negative，同时 collaboratively 推进 plan）/ Pediatric ethics 三方平衡（patient primary / parents authority / 不撒谎不 evasive）/ Disclosure 四步法（assess understanding → empathic comfort → collaborative plan → joint disclosure）/ 4 大常见陷阱（defer 给 parents / encourage 患儿独自 broach / evasive 撒谎安慰 / abrupt 直接 raise death）/ "情绪驱动反射" 警戒 — 患者提 death 不等于 next step 就是问 death perception
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-05-23] Ethics / Joint custody — one parent consent 即可（court order 仅在 both refuse life-saving）(Q?待补)
+> ^Q-EthJointCustody
+>
+> ## Stem 模式
+> 9 岁男 + 深部 puncture wound from rusty nail（高 tetanus 风险）+ 没打疫苗（父母 preference）+ 父母 **divorced + joint custody** + 与双方 parents 讨论 tetanus vaccine indications/benefits/risks → **mother consents + father refuses prefers herbal** → next step?
+>
+> ## 核心概念
+> **Joint custody → only ONE parent consent 即可** proceed treatment（especially 当 clearly in child's best interest）。**Court order 仅在 BOTH parents refuse life-saving treatment** 时（不是 routine 或 nonurgent care）。Ideally 与双方 reach agreement 但不必。
+>
+> 本题 tetanus from deep puncture = **urgent + high risk**（不是 elective vaccine）+ mother 已 consent → legally sufficient → proceed。
+>
+> Answer：**D — Proceed with the proposed treatment**
+>
+> ## 普适规则（Minor consent 法则）⭐
+>
+> ### Joint custody consent 决策树
+>
+> ```
+> 父母 divorced + joint custody
+>     │
+>     ├─ 仅一方有 custody → 只该方 consent 有效
+>     ├─ Joint custody + both agree → consent ✓
+>     ├─ Joint custody + 一方 consent + 一方 refuse →
+>     │      → **该方 consent 法律足够 proceed**（especially best interest）
+>     │      → Ideally 仍与双方 reach agreement 但不必
+>     │
+>     └─ Joint custody + both refuse:
+>            │
+>            ├─ Elective / routine（如常规疫苗）→ tolerate（herd immunity 风险低）
+>            └─ Life-saving / urgent → **Court order** ⭐
+>                  ※ 例：双方 refuse acute leukemia chemo
+> ```
+>
+> ### Informed consent by parent/guardian 例外（minor 可独立 consent）
+>
+> | 例外类别 | 触发场景 |
+> |---|---|
+> | **Emergency care** | 延误致严重 impairment / death（如本题 tetanus from deep puncture — 紧急时不需 consent） |
+> | **Emancipated minor** | Parent / married / military service / financially independent / HS graduate / homeless |
+> | **Specific medical care (adolescents)** | STI / SUD / pregnancy care (most states) / contraception |
+>
+> > [!info] 本题 fail-safe 双保险
+> > 即使 mother 没 consent，**emergency care 例外**也允许 proceed（tetanus from deep puncture = 高风险 + delay 可致 severe outcome）。本题正式法律依据是 "joint custody one parent consent" + emergency exception 作 backup。
+>
+> ## 易混陷阱（普适）
+> - **A. Ask 9-year-old patient about his wishes**：❌ **Unemancipated minors 没 legal authority to consent**；可以倾听 assent 但 legal consent 必须 parent / guardian。
+> - **B. Consult ethics committee**：❌ 用于真正"ethical dilemma 不清楚"时；本题 clear（tetanus best interest + mother 已 consent）→ 拖延浪费时间。
+> - **C. ✗ Obtain court order**：❌ **过度 escalation** — court order 用在 **both parents refuse life-saving** 时；本题 mother 已 consent → 法律足够 proceed，不需 court。
+> - **D. ✅ Proceed with proposed treatment**：mother consent + best interest + urgent → 立即 proceed。
+> - **E. Withhold treatment**：❌ Mother 已 consent = 法律足够；withholding tetanus from high-risk puncture = potential harm to child。Parents 不能 deny children life-saving treatment unless benefits minimal。
+>
+> ## 我为什么错
+> - 选了：C（court order）
+> - 错因：**知识**（不知道 "joint custody one parent consent 足够" 法则 + court order 仅 both refuse life-saving 时用）
+> - 核心陷阱：看到"父亲 refuse" → 反射"双方不一致 → court order 解决"，没意识到 mother 已 consent 法律已足够，不需 escalation。
+>
+> ## Memory Hook
+> 「**Joint custody，一方 consent 即过关**」— Court order 是 last resort（双方 refuse life-saving 才用）。父母不一致时 ideally agreement，但 **一方 consent + best interest → 法律 proceed**。
+> **Routine vaccine** 双方 refuse → tolerate（herd immunity）；**urgent / high-risk treatment** 双方 refuse → court order escalation。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：父母不一致 → 直觉觉得"需 court 裁决"，过度 escalate；没意识到 one parent consent 就够。
+> - 学到的核心：① joint custody 一方 consent 即可（especially best interest）；② court order 是 **last resort**，仅在 both refuse life-saving 时；③ unemancipated minor 不能自己 consent；④ ethics committee 用于真正 unclear dilemma；⑤ emergency exception 是另一层 fail-safe；⑥ routine vaccine 双方 refuse 通常 tolerate；urgent treatment 双方 refuse → court order。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q-EthPedDisclosure]] Pediatric chronic illness disclosure（2026-05-23 同日；同 pediatric ethics — 那题 parents withhold info / 本题 parents 不一致 consent）
+>   - [[mistakes/uworld-mistakes#^Q-EthHIVDisclosure]] HIV chronic disease disclosure timeline（2026-05-23 同日；同 pediatric ethics — guardian decision-making 框架）
+>   - [[mistakes/uworld-mistakes#^Q-EthAdolConfid]] 青少年 conditional confidentiality（2026-05-23 同日；同 minor consent 框架 — 本题 minor consent 法则 / 那题 minor confidentiality 法则）
+>   - [[mistakes/uworld-mistakes#^Q-EthMeningo]] 公共健康 override autonomy（2026-05-23 同日；同 court order 误用陷阱 — 两题都是"以为需 court order 实际不需"）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]] / [[完整笔记/Peixuan分科笔记/儿科]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/免疫疫苗]]（Tetanus prophylaxis after wound — TIG + Tdap 决策 based on wound type + vaccination history）
+>   - [[完整笔记/Peixuan分科笔记/感染]]（Clostridium tetani — spore germination in puncture wound + 神经毒素机制）
+> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 的 8 道之一
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（重点：第一眼锁"joint custody one parent consent 法律足够"反射）
+> - [ ] 默写 minor consent 例外 3 类（emergency / emancipated / specific medical care — STI/SUD/pregnancy/contraception）
+> - [ ] 默写 court order 适用场景（both parents refuse life-saving；不是 routine 不是 nonurgent 不是单方 refuse）
+> - [ ] 找 3 道类似题（minor consent / joint custody / divorced parents 不一致 / 父母拒疫苗 / Jehovah's Witness 拒输血）
+> - [ ] **固化反射**：父母不一致 → 先看 ① 有没有 one parent consent？✓ 法律足够 ② best interest？✓ proceed ③ 都 refuse + life-saving？→ court
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Joint custody 一方 consent 即足够 proceed（especially best interest of child）/ Court order 仅在 both parents refuse life-saving treatment 时（不是 routine 不是 nonurgent 不是单方 refuse）/ Minor consent 3 类例外（① emergency care 延误致严重 impairment/death ② emancipated minor — parent/married/military/financially independent/HS graduate/homeless ③ specific medical care adolescents — STI/SUD/pregnancy/contraception）/ Unemancipated minor 不能自己 consent（可 assent 但 legal consent 必 parent）/ Ethics committee 用于真正 unclear dilemma（本题 clear 不需）/ Routine vaccine 双方 refuse 通常 tolerate（herd immunity）vs urgent treatment 双方 refuse → court order / "父母不一致 → 反射 court order" 陷阱 — one parent consent 已足够
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-23] Ethics / Perinatal HIV disclosure — collaborative plan + timeline (Q?待补)
+> ^Q-EthHIVDisclosure
+>
+> ## Stem 模式
+> 10 岁男 + perinatal HIV + ART since infancy + viral load undetectable + CD4 780 + grandmother is legal guardian（mother died of AIDS）+ grandmother **没告知 diagnosis** + 患者以为 ART 是 vitamins + grandmother reiterates "to let him live a normal childhood" → next step?
+>
+> ## 核心概念
+> Perinatal HIV 儿童应在 **adolescence 之前** 知道 diagnosis（fosters trust + autonomy + ↑medication adherence + ↓inadvertent transmission — adolescence 是性 exploration 时期）。Disclosure = **collaborative process**（grandmother + physician + 联合 plan）+ **plan + timeline** + **joint participation**（不让 family 独自承担 burden）。
+>
+> Physician 应：respect family concerns + give time + **strongly encourage developing plan with timeline** — 不能 unilateral disclose / 不能 passive 让 grandmother 独自背 burden / 不能只强调 risks。
+>
+> Answer：**B — "I think it's important that we keep talking about your concerns while working toward telling him about his diagnosis soon."**
+>
+> ## 普适规则（Pediatric chronic illness disclosure SOP — collaborative）⭐
+>
+> ### 4 阶段 disclosure 流程
+>
+> ```
+> 阶段 1：respect family concerns + 倾听 + give time
+>     │      ※ 不施压、不批判；理解 family 担心（family dynamic / parental status / 患儿心理）
+>     ▼
+> 阶段 2：strongly encourage developing plan + timeline ⭐
+>     │      ※ 不能 indefinite delay；明确 "working toward telling him soon"
+>     ▼
+> 阶段 3：collaborative planning - joint participation
+>     │      ※ 谁先说？什么时候？怎么 frame？后续 support 怎么 arrange？
+>     │      ※ Burden 由 family + physician 共担，不让 family 独自背
+>     ▼
+> 阶段 4：joint disclosure（family + physician 一起 deliver）
+>            ※ Follow-up support + adherence monitoring + 性教育
+> ```
+>
+> ### Disclosure 之前 vs 之后好处
+>
+> | 因素 | 不 disclose 风险 | Disclose 后好处 |
+> |---|---|---|
+> | **Patient trust** | 知 truth 时 trust 受损 | Build patient-physician trust + 长期 relationship |
+> | **Medication adherence** | 不知 why 服药 → adherence ↓（adolescence 加重）| **↑Adherence**（理解 why） |
+> | **Transmission prevention** | Sexual exploration + 不知 HIV → **inadvertent transmission to partners** | ↓Inadvertent transmission + 学会 safe sex / disclosure to partners |
+> | **Psychosocial** | Anxiety / 怀疑 / 偶然 self-discover 创伤 | Adjusted with support |
+>
+> ## 易混陷阱（普适）
+> - **A. "I'm concerned he'll find out and be upset withholding"**：❌ Valid concern 但**只强调 risks of delay** → not collaborative；可能 instill distrust + damage 与 grandmother relationship。
+> - **B. ✅ "Keep talking about your concerns while working toward telling him soon"**：✅ Respect family concerns ✓ + collaborative ✓ + plan/timeline ✓ + joint participation 隐含 — 完美 frame。
+> - **C. "Won't discuss without your permission but strongly recommend tell ASAP"**：❌ **passive** + **把 burden 全推给 grandmother** ("tell him as soon as possible") + 没体现 physician collaborative role — 不 collaborative。
+> - **D. "Unethical to prescribe without him knowing → share basic info without revealing dx"**：❌ **Partial disclosure without consent** — 不 appropriate unless grandmother agrees；先要与 grandmother 进一步 discuss disclosure process。
+> - **E. "Benefits of not sharing, but concerned you're not considering all risks"**：❌ Valid concern 但**只强调 risks** → 同 A 问题 — not collaborative + may instill distrust。
+>
+> ## 我为什么错
+> - 选了：C（won't discuss without permission, strongly recommend ASAP）
+> - 错因：**pattern**（看起来 respect family wishes 选最礼貌答案，实际 not collaborative — 把 burden 全推给 grandmother）
+> - 核心陷阱：误把"passive + 不 push" 当 "respect family"；实际 respect family = 与 family 一起 plan，不是把 burden 推给 family 独自承担。
+>
+> ## Memory Hook
+> 「**Disclosure 是 collaborative 不是 passive**」— Physician 要 **plan + timeline + joint participation**，不是只说 "你自己告诉他"。
+> 「**Adolescence 前必须知道 HIV**」 — autonomy + adherence + transmission prevention，三个 strong reasons。
+> **3 个 not-good 模式**：① 只强调 risks of delay（A/E — instill distrust）② passive 把 burden 全推 family（C — not collaborative）③ unilateral partial disclose without consent（D — 不 respect family）。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：C 看起来 respect grandmother（不 disclose 不 push） + 表达 medical opinion（recommend tell ASAP）— 没意识到 "tell him ASAP" 把 burden 全交 grandmother。
+> - 学到的核心：① pediatric chronic disease disclosure = collaborative 4 阶段（respect concerns → plan/timeline → collaborative planning → joint disclosure）；② perinatal HIV 应 adolescence 前 disclose（trust + adherence + transmission）；③ "respect family" ≠ passive — 真正 respect 是与 family 一起 plan；④ unilateral partial disclose 错（need grandmother 同意）；⑤ 只强调 risks 错（instill distrust）。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q-EthPedDisclosure]] Pediatric chronic illness disclosure — assess understanding first（2026-05-23 同日；**完美互补** — 那题 step 1 = assess understanding，本题 step 3-4 = collaborative plan + joint disclosure；两题构成 chronic 儿科 disclosure 全流程）
+>   - [[mistakes/uworld-mistakes#^Q-EthJointCustody]] Joint custody one parent consent（2026-05-23 同日；同 pediatric ethics — guardian decision-making 框架）
+>   - [[mistakes/uworld-mistakes#^Q-EthAdolConfid]] 青少年 conditional confidentiality（2026-05-23 同日；本题 11-12 岁前 disclose → 进入 adolescence 后 confidentiality 主题接力）
+>   - [[mistakes/uworld-mistakes#^Q-EthCapacityReassess]] Capacity reassessment（2026-05-23 同日；同 "respect emerging autonomy" 框架）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]] / [[完整笔记/Peixuan分科笔记/儿科]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/感染]]（Perinatal HIV transmission → ART since infancy + viral suppression target undetectable + CD4 monitoring）
+>   - [[完整笔记/Peixuan分科笔记/psych]]（Pediatric chronic illness 心理影响 + adherence behavioral strategies）
+> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 的 8 道之一 — **8 道完成 + 框架全启动，强烈建议立即建衍生**
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（重点：disclosure = collaborative + plan + timeline + joint participation，不是 passive / unilateral / only-risks）
+> - [ ] 默写 pediatric chronic illness disclosure 4 阶段（respect concerns → plan/timeline → collaborative planning → joint disclosure）
+> - [ ] 默写 perinatal HIV disclose 3 理由（trust + adherence + transmission prevention）
+> - [ ] 找 3 道类似题（HIV disclosure / chronic disease 儿童 disclosure / cancer dx pediatric / 父母不让告知）
+> - [ ] **固化反射**："respect family" ≠ passive — 真正 respect = 与 family 一起 plan，给 timeline + joint participation
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Perinatal HIV disclosure 应在 adolescence 前完成（3 理由：fosters trust + ↑medication adherence + ↓inadvertent transmission — adolescence 是 sexual exploration 期）/ Pediatric chronic illness disclosure 4 阶段（① respect family concerns + give time ② strongly encourage developing plan + timeline ③ collaborative planning - joint participation ④ joint disclosure — family + physician 一起 deliver）/ "Respect family" ≠ passive（真正 respect = 与 family 一起 plan + timeline，不是把 burden 全推给 family 独自背）/ 3 个 not-good 模式（只强调 risks of delay — instill distrust / passive 推 burden 给 family / unilateral partial disclose without consent）/ Burden sharing 原则（不让 family 独自承担 chronic disease + 增 morbidity/mortality 的 disclosure burden）
+> 状态:: 🟡
+> 错因:: pattern
 
