@@ -11730,7 +11730,7 @@
 > 状态:: 🔴 反复错（2026-05-20 浩斯宾 self-test 同考点再错：仍未选 CBT 一线 → 升级）
 > 错因:: pattern
 
-> [!example]- [2026-05-19] Psych / Bipolar I 维持治疗 — Lithium vs Valproate (Q2357)
+> [!example]- [2026-05-19] Psych / Bipolar I 维持治疗 — Lithium vs Valproate (Q2357) 🔴 反复错 2/2（2026-05-23 重做仍错）
 > ^Q2357
 >
 > ## Stem 模式
@@ -11853,18 +11853,22 @@
 >   - 等积累 3+ 道"经典药遇到禁忌"类错题（β-blocker 遇哮喘、ACEI 遇双肾动脉狭窄等）→ 请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_经典药物禁忌雷区]]
 >
 > ## ✅ 复盘行动
-> - [ ] 1 周后重做
-> - [ ] 默写 Bipolar I 维持治疗 4 大一线 + 各自禁忌
-> - [ ] 默写 Lithium 三大禁忌（肾·孕·钠）+ Valproate 三大监测（肝·板·氨）
-> - [ ] 建立 SOP：药物选择题 → 强制扫描实验室 + 家族史 + 既往史，再选药
-> - [ ] UWorld 搜 "lithium contraindication" / "bipolar maintenance" 找 3 道类似题
+> - [ ] **3 天后**（2026-05-26）盲做重做 Q2357 — 第一眼看 Cr / family hx，再看选项（连对 2 轮 → 可降回 🟡）
+> - [ ] 默写 Bipolar I 维持治疗 **4 大一线 + 4 选 1 决策树**（肾→排 Li / 孕→排 Li+VPA / 代谢→排 Quet / 抑郁相→选 LTG）
+> - [ ] 默写 Lithium 三大禁忌（**肾·孕·钠**）+ Valproate 三大监测（**肝·板·氨**）+ Lithium 浓度↑ 三大触发器（NSAIDs / 噻嗪 / ACEI）
+> - [ ] **固化 SOP（核心反复错点）**：药物选择题 → **先扫 lab + family hx + 既往史否决项，再看选项**（5/19→5/23 反复错的根本不是知识，是**做题动作没改**）
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/psych]] 双相维持章节加「考前必看」+「难记」标签（反复错 2/2 已触发升级阈值）
+> - [ ] 找 3 道类似题验证"按器官功能否决一线药"SOP 跨题适用：β-blocker 遇哮喘 / ACEI 遇双肾 RAS / metformin 遇 CKD / acetaminophen 遇肝病
+> - [ ] **元反思**：5/19 入库时只刷"知识层"（4 大一线 + 3 张对比表），没固化"做题动作"——下次同类反复错入库时**先列动作 SOP 再列知识默写**
 >
 > ---
 >
 > 学科:: Psych
-> 主题:: Bipolar I 维持治疗 4 选 1（患者特异性禁忌）/ Lithium vs Valproate（肾 vs 肝）/ Lithium 肾毒性 / 抗癫痫药在双相中的真假
-> 状态:: 🟡
-> 错因:: 粗心
+> 主题:: Bipolar I 维持治疗 4 选 1（患者特异性禁忌）/ Lithium vs Valproate（肾 vs 肝）/ Lithium 肾毒性 / 抗癫痫药在双相中的真假 / ⭐ 反复错元教训：药物选择题必须先扫 lab+family hx 否决项再选药（非知识问题，是做题动作问题）
+> 状态:: 🔴
+> 错因:: pattern
+> 反复错记录:: 2026-05-19 首次入库 🟡（错因标"粗心"）→ 2026-05-23 同题重做仍错（下载版 stem "选了 C. Lithium"，与首次相同思路）/ 升档触发：同 Q 号 4 天间隔反复错 / 错因升级：粗心 → pattern（反射性选最经典药 = 思维定式，不是一次粗心而是稳定模式）
+> 升档触发:: 同题相隔 4 天再错（D+4 浩斯宾滚动窗口） + 用户主动判定"反复错升级"
 
 > [!example]- [2026-05-19] 精神/急诊 / PCP 中毒首选 BZD (Q3191)
 > ^Q3191
@@ -17471,4 +17475,272 @@
 > 错因:: pattern
 > 反复错记录:: 2026-05-22 [[mistakes/uworld-mistakes#^Q16164]] 第 4 步减药 + 2026-05-23 [[mistakes/uworld-mistakes#^Q12152]] 第 5 步用药 / 用户自述"应该之前做过但还是错" / 首次入库即 🔴
 > 升档触发:: 同主题流程相邻 2 天连错 + 用户自述反复
+
+> [!example]- [2026-05-23] Psych / MAOI tyramine 高血压危象（Adrenergic 爆发 ≠ Serotonin Syndrome）(Q4879)
+> ^Q4879
+>
+> ## Stem 模式
+> MAOI（**phenelzine**）患者 + 餐厅大餐：**陈年奶酪 / 腌肉 / 红酒 / 酱料** → 急性 **剧烈头痛 + 焦虑 + 震颤** → 问体格检查最可能体征？干扰项里塞满 **hyper-** 开头的"看起来都对"选项（hyperreflexia / hyperthermia / myoclonus）混淆。
+>
+> ## 核心概念
+> Tyramine + MAOI → **Hypertensive Crisis（高血压危象）**，本质是 **纯肾上腺素能（adrenergic）爆发**——tyramine 是间接拟交感胺，挤出神经末梢储存的 NE/Epi，**不涉及 5-HT**。所以体征是 **血压飙升 + 剧烈头痛**，不是 hyperreflexia / clonus / myoclonus（那些是 Serotonin Syndrome）。
+>
+> Answer：**Hypertension（血压↑）**
+>
+> ## 普适规则
+>
+> ### 一、机制一根轴看懂（adrenergic vs serotonergic 完全分开）
+>
+> ```
+> 膳食 tyramine ──✗── MAO 被抑制无法降解
+>        │
+>        ▼  tyramine = 间接拟交感胺
+>   挤出神经末梢储存的 NE / Epi
+>        │
+>        ▼
+>   全身肾上腺素能爆发 → 血压飙升 → 剧烈头痛 → 颅内出血/卒中/死亡
+> ```
+>
+> > [!success] 一句话区分本质
+> > Tyramine **不直接升压**，靠"挤出"储存的儿茶酚胺起效 → 是 **adrenergic（血压）事件**，**不是 serotonergic（反射/阵挛）事件**。看到 MAOI + 食物 = 想 NE/Epi，不要混入 5-HT。
+>
+> ### 二、MAOI 两条祸（决策分流）⭐ 本题核心
+>
+> ```
+> MAOI 患者出问题
+>   ├─ 配 tyramine 食物（陈年奶酪 / 腌肉 / 红酒 / 发酵豆制品 / 熟透水果 / 啤酒 / 酱料）
+>   │     → HYPERTENSIVE CRISIS（adrenergic）
+>   │       体征：血压飙升 / 剧烈头痛 / 心动过速 / 焦虑震颤 / 卒中
+>   │       治疗：phentolamine（α 阻断）/ nitroprusside / labetalol
+>   │
+>   └─ 配 serotonergic 药（SSRI / SNRI / meperidine / tramadol / 曲坦 / linezolid / DXM / MDMA）
+>         → SEROTONIN SYNDROME（5-HT↑）
+>           体征：hyperreflexia / clonus / myoclonus / 体温↑ / 散瞳 / 躁动
+>           治疗：cyproheptadine + 停药 + 支持
+> ```
+>
+> **看体征前先问**："是吃了**食物**，还是吃了**药**出的事？" — 食物路 → HTN；药路 → SS。
+>
+> ### 三、四大"高热/肌张力/自主神经"急症对比表（本题加入第 4 列）
+>
+> | 综合征 | 触发 | 核心递质 | 标志体征 | Stem 关键词 | 解药 |
+> |---|---|---|---|---|---|
+> | **Tyramine HTN crisis** ⭐本题 | MAOI + tyramine **食物** | **NE/Epi**（adrenergic） | **血压飙升 + 剧烈头痛** + 卒中/出血 | meal / wine / aged cheese / cured meat + headache | **phentolamine** / nitroprusside |
+> | **Serotonin Syndrome** | MAOI + serotonergic **药** / SSRI+ 联用 5-HT 药 | **5-HT** | **hyperreflexia / clonus / 散瞳** + 体温↑ + 躁动 | 新加抗抑郁/止痛药 + 数小时起病 | **cyproheptadine** |
+> | **NMS** | 抗精神病药（**起始 / 加量**） | **DA 阻断** | **铅管样肌强直** + 高热 + AMS + CK↑ | 新用/加量抗精神病药 + lead-pipe + 数天起病 | **bromocriptine** / dantrolene |
+> | **Malignant Hyperthermia** | **吸入麻醉 + 琥珀胆碱** | 骨骼肌 **RyR1 钙失控** | **咬肌痉挛** + 全身僵硬 + ETCO₂↑ + 酸中毒 | 麻醉中/后数小时急起 | **dantrolene** |
+>
+> ### 四、Tyramine 高含量食物清单（USMLE 高频）
+>
+> | 食物类 | 典型例子 | 备注 |
+> |---|---|---|
+> | **陈年发酵奶酪** | Aged cheese（cheddar / blue / Swiss）| 越陈越多；新鲜奶酪 OK |
+> | **腌制肉类** | Cured meat / 萨拉米 / 烟熏鱼 / 鸡肝 | "腌"= tyramine |
+> | **发酵酒** | **红酒** / 啤酒 / vermouth / sherry | 蒸馏酒（伏特加 / 威士忌）通常 OK |
+> | **发酵豆制品** | 酱油 / 味噌 / tempeh / fava beans（蚕豆）| 蚕豆有 dopa → 同样升 NE |
+> | **熟透/过熟水果** | 香蕉皮（果肉 OK）/ 牛油果 / 无花果 | 储存太久也会↑ |
+> | **腌渍 / 酱料** | 泡菜 / 酸菜 / 酱油 / Marmite | |
+>
+> ## 易混陷阱（普适）
+> - **"MAOI = 自动 Serotonin Syndrome"反射 ❌**：MAOI 有**两条祸**，必须看触发是**食物**还是**药**。食物 → HTN crisis（adrenergic）；药 → SS（serotonergic）。本题最大诱饵 = 选项 hyperreflexia / myoclonus（都是 SS 体征），靠 "MAOI 反射"瞎选必然中招。
+> - **"hyper- 开头一堆"陷阱**：hypertension（血压）/ hyperreflexia（反射）/ hyperthermia（体温） — 看起来都"高"，**实际属于不同综合征**。本题 stem 只给食物触发 + 头痛 + 焦虑震颤 → 锁 HTN crisis → 选 hypertension（血压↑），不选神经肌肉兴奋类。
+> - **"MAOI 多年稳定 + 急性事件 ≠ NMS"**：NMS 多发生于**新用 / 加量**抗精神病药；稳定 MAOI 治疗本身不致 NMS。本题没有抗精神病药 → 锁定排除 NMS。
+> - **"Hypotension"反向陷阱（用户原稿提到的 D 选项）**：MAOI **慢性副作用**确实有体位性低血压（α 阻断样），但本题是**急性进食后头痛** → 方向相反，是 HTN 不是 hypotension。同药不同病程要分清。
+> - **隐藏 MAOI 易忽视**：① **Linezolid**（治 VRE / 复杂 SSTI 的抗生素）= 弱 MAOI → 与 SSRI 联用易诱发 SS（不是 HTN crisis，因为食物量级不够，但同药机制）。② **Selegiline**（抗 PD MAO-B 抑制剂）= 选择性 MAO-B → 低剂量时 tyramine 风险小，但**高剂量失选择性** → 同样需要忌口。③ **Methylene blue**（治 methemoglobinemia）= 强 MAOI → 5-HT 能药联用禁忌。
+> - **Tramadol / Meperidine / 曲坦 / DXM 都是"隐藏 5-HT 能药"**：MAOI 联用这些 → SS，不是 HTN crisis。区分关键还是看是**食物**（tyramine → HTN）还是**药**（5-HT → SS）。
+> - **"红酒里有 tyramine 还是 5-HT 前体？"**：红酒主要因**发酵产 tyramine**走 adrenergic 路；不是 5-HT 通路。MAOI + 红酒 = HTN crisis，**不是** SS。
+>
+> ## 我为什么错
+> - 选了：**F. Myoclonus**
+> - 错因：**概念混淆（pattern）+ 漏 stem 关键词**
+> - 核心陷阱：① "看到 MAOI 就反射想 SS" — 把 MAOI 的两条祸混成一条；② 没分清 **adrenergic（NE/Epi）vs serotonergic（5-HT）** 是两套完全不同的通路 — tyramine 走 NE，不走 5-HT；③ 漏关键词："**meal + wine + aged cheese**" = tyramine 食物钩子，"**无任何 serotonergic 药新加**" = 排除 SS 的暗号；④ "随便选一项 hyper- 的"暴露了**没建立两条祸分流框架**。
+> - 元错误：**"看一个药名 → 反射一种综合征"是危险习惯** — MAOI 不是单一综合征触发器，它是**两条祸的开关**，必须看"配什么"才能决定走 HTN 还是 SS。同理 SSRI 不等于 SS（只有联用 5-HT 能药才升 SS 风险），SGA 不等于 NMS（只有起始/加量才升 NMS 风险）。**条件触发，不是药名触发**。
+>
+> ## Memory Hook
+> - **一句话锁定**：**"红酒配奶酪，MAOI 血压爆；SSRI 配 MAOI，反射阵挛跳。" — 食物路 HTN，药路 SS。**
+> - **类比挂钩**：MAO = 肠道海关安检 → MAOI = 撤掉安检 → tyramine 大军涌入 → 炸出仓库里的 NE/Epi → 血压爆表。海关被撤后另一边的 5-HT 仓库要靠"5-HT 能药"来开闸——所以**血压走 tyramine 进货道，反射走 5-HT 药品道**，两条道分得清清楚楚。
+> - **反向钩**：看到 **MAOI + 食物 + 头痛** → 直接锁 **HTN crisis** → 选血压↑（不选 hyperreflexia / hyperthermia / myoclonus）。看到 **MAOI + 新加抗抑郁/止痛药 + 反射亢进** → 直接锁 **SS** → 选 hyperreflexia / clonus。
+> - **四联急症触发钩**：**食物 → tyramine HTN crisis** / **药 → Serotonin Syndrome** / **新用抗精神病药 → NMS** / **麻醉中 → MH**。一个"触发"决定一个综合征，体征只是确认。
+> - **隐藏 MAOI 三剑客**：**Linezolid（抗生素）/ Selegiline（PD 药，高剂量失选择性）/ Methylene blue（治高铁血红蛋白血症）** — 这些名字看起来不像 MAOI，但 USMLE 把它们当 MAOI 出题。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q：「为什么不是 myoclonus / hyperreflexia？这些不是 MAOI 的副作用吗？」→ 学到：那些是 **Serotonin Syndrome** 体征（serotonergic 通路）。Tyramine + MAOI 走的是 **adrenergic 通路**——挤出 NE/Epi → 血压飙升 → 体征是血压而非神经肌肉兴奋。**MAOI 不是单一综合征触发器，是两条祸的开关**：食物 → HTN crisis；药 → SS。完全不同的递质 + 不同的体征 + 不同的解药。
+> - Q：「多个'Hyper-'选项怎么分？」→ 学到：用**触发因素**分流，不用体征猜病。① 食物（陈年奶酪/红酒/腌肉）→ HTN crisis → hypertension；② 5-HT 能药（SSRI/tramadol/MDMA/linezolid）→ SS → hyperreflexia / clonus；③ 新用抗精神病药 → NMS → 铅管样强直 + hyperthermia；④ 麻醉中 → MH → 咬肌痉挛 + ETCO₂↑。先看触发 → 锁综合征 → 体征只是确认。
+> - Q：「tyramine 到底是怎么升血压的？」→ 学到：tyramine 是**间接拟交感胺**——本身不结合 α/β 受体，而是**进入神经末梢**置换出已储存的 NE/Epi → 大量 NE/Epi 涌出突触 → α1（血管收缩）+ β1（心率/收缩力↑）双向激动 → 血压飙升。正常情况下肠壁 + 肝 MAO 会把 tyramine 在吸收时降解掉；MAOI 撤了这道安检 → tyramine 进入循环 → 全身 NE 风暴。**这是教科书"间接拟交感胺中毒"机制**——也是为什么解药用 phentolamine（α 阻断），而不是 cyproheptadine（抗 5-HT 对 tyramine 无效）。
+> - Q：「Linezolid 是抗生素，怎么也能引发 SS？」→ 学到：linezolid 是**弱可逆 MAOI**（除了抗 G+ 细菌还顺带抑 MAO）→ 与 SSRI / 曲马多 / 哌替啶联用 → SS 风险显著升高。USMLE 经典 stem：**抑郁患者用 SSRI + 因 VRE 感染需要 linezolid → 隔几小时出现 SS 症状**。临床惯例：用 linezolid 前需停 SSRI 至少 2 周（fluoxetine 因半衰期长需 5 周）。这是为什么"隐藏 MAOI"列表里 linezolid 排第一位。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题（按时间倒序）：
+>   - [[mistakes/uworld-mistakes#^Q12152]] PD psychosis 第 5 步用药（2026-05-23 今日；**同 MAO 抑制剂家族** — selegiline 是 MAO-B 抑制剂，与 phenelzine（非选择性 MAOI）同属一类；selegiline 低剂量选择性 MAO-B → tyramine 风险小，**高剂量失选择性** → 同样需忌口）
+>   - [[mistakes/uworld-mistakes#^Q11853]] MDMA 中毒 + Serotonin Syndrome（2026-05-19 #难记；**同 5-HT 综合征家族** — MAOI + 5-HT 能药那条祸的延伸，MDMA 是强 5-HT 释放剂，本题反向考"MAOI + 食物 ≠ SS"）
+>   - [[mistakes/uworld-mistakes#^Q12203]] NMS 诊断 · 白细胞陷阱（2026-05-22；**同四大急症对比表** — 与本题第三普适规则共用对照框架，本题加入 HTN crisis 第 4 列扩为四联）
+>   - [[mistakes/uworld-mistakes#^Q2501]] NMS vs EPS 鉴别 + NMS 用药（2026-05-19；同 NMS 系列；本题与之同属精神药物急症家族）
+>   - [[mistakes/uworld-mistakes#^Q20497]] Venlafaxine 剂量依赖性高血压（2026-05-20；**同抗抑郁药急性 HTN 家族** — Venlafaxine = SNRI 高剂量 NE↑ → 血压↑；本题 MAOI + tyramine 也是 NE↑ → 血压↑，**机制同源不同药源**）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（MAOI 章节 + 食物相互作用 + tyramine 清单）/ [[完整笔记/Peixuan分科笔记/心内]]（hypertensive crisis 鉴别与处理 — phentolamine / nitroprusside / labetalol）
+> - 📋 草稿（本题增量已并入）：[[草稿/2026-05-23_NMS_MH_Serotonin三联鉴别_专题草稿_v1]]（**已升 v1.1** — 新增 "MAOI 两条祸（决策分流）" 节 + High-Yield Summary Table 加入 HTN crisis 第 4 列 + tyramine 食物清单 + 隐藏 MAOI 三剑客；扩 v2 时把 HTN crisis 升级为完整列与 NMS/MH/SS 平级）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/感染]]（**Linezolid 是隐藏 MAOI** — 治 VRE / MRSA / 复杂 SSTI；与 SSRI / 曲马多联用诱发 SS；用前需停 5-HT 能药 2 周，fluoxetine 因长半衰期需 5 周）
+>   - [[完整笔记/Peixuan分科笔记/心内]]（hypertensive crisis 解药选择 — phentolamine = 纯 α 阻断对 tyramine 危象首选；β 阻断单用禁忌【会让 α 失对抗】，用 labetalol 必须 α+β 双阻）
+>   - [[完整笔记/Peixuan分科笔记/neuro]]（MAO-B 抑制剂 selegiline / rasagiline 在 PD 治疗中的 tyramine 风险 + serotonergic 风险 — 与 [[mistakes/uworld-mistakes#^Q12152]] PD psychosis 题串联）
+> - 🌱 TODO（待生成衍生）：等 psych + neuro 章节复习完 → 把 [[草稿/2026-05-23_NMS_MH_Serotonin三联鉴别_专题草稿_v1]] 升级为正式衍生 [[完整笔记/专题笔记/_衍生_高热肌强直急症鉴别]]，并入 HTN crisis（adrenergic）+ 抗胆碱能毒性两列，形成"急性精神药物急症五联"完整决策树（食物 / 5-HT 药 / 抗精神病药 / 麻醉 / 抗胆碱能）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后盲做 Q4879（先扫"触发"是食物还是药）
+> - [ ] 默写 MAOI 两条祸分流决策树（食物 → HTN crisis；药 → SS）
+> - [ ] 默写四大急症对比表（HTN crisis / SS / NMS / MH — 触发 / 递质 / 体征 / 解药）
+> - [ ] 默写 tyramine 高含量食物清单（aged cheese / cured meat / red wine / 发酵豆制品 / 熟透水果 / 酱料 6 类）
+> - [ ] 默写隐藏 MAOI 三剑客（linezolid / selegiline 高剂量 / methylene blue）+ 临床场景
+> - [ ] 找 3 道类似题：MAOI + 食物 / SSRI + tramadol 引发 SS / linezolid + SSRI 引发 SS / Venlafaxine 高剂量 HTN
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/psych]] MAOI 章节加「难记」标签（"两条祸分流"是反复混淆点）
+> - [ ] psych + neuro 复习完 → 触发 v1.1 草稿升级为正式衍生 [[完整笔记/专题笔记/_衍生_高热肌强直急症鉴别]]
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: MAOI tyramine 高血压危象（adrenergic 爆发 → 血压飙升 + 头痛 + 卒中风险）/ MAOI 两条祸分流（食物 tyramine → HTN crisis ≠ 联用 serotonergic 药 → SS）/ Tyramine 间接拟交感胺机制（挤出储存 NE/Epi → α1+β1 双激动）/ Tyramine 食物清单（陈年奶酪 / 腌肉 / 红酒 / 发酵豆制品 / 熟透水果 / 酱料 6 类）/ 隐藏 MAOI 三剑客（linezolid 抗生素 / selegiline 高剂量失选择性 / methylene blue）/ Phentolamine α 阻断 = MAOI HTN crisis 解药（β 单用禁忌）/ 反射钩：MAOI + 食物 + 头痛 → HTN（adrenergic）/ MAOI + 5-HT 药 → SS（serotonergic）/ 概念框架：触发决定综合征，不是药名决定
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-05-23] Psych / Tourette 药物升级（HRT + α2 失败 → 抗多巴胺药）(Q3375)
+> ^Q3375
+>
+> ## Stem 模式
+> 青少年 Tourette 综合征确诊（**多个 motor tic + vocal tic 含 coprolalia / 病程 >1 年 / 起病 <18 岁**）+ **HRT（habit reversal therapy）效果有限** + **guanfacine（α2 激动剂）已用一年仍进行性恶化** + 显著功能受损（**学校被霸凌 / 社交孤立 / 学业↓**）→ next step pharmacotherapy？
+>
+> ## 核心概念
+> Tourette tic 的神经生物学基础 = **基底节多巴胺过度活跃** → 治疗 = **降多巴胺**。当 HRT + α2 激动剂失败 → 升级到**抗多巴胺药**（最强、证据最足）：① **多巴胺耗竭剂** Tetrabenazine（VMAT2 抑制剂，减 DA 突触前释放）② **D2 拮抗剂** Risperidone / Haloperidol / Pimozide（阻断突触后 D2）。
+>
+> Answer：**抗多巴胺药**（如 Risperidone / Tetrabenazine）
+>
+> ## 普适规则
+>
+> ### 一、Tourette 治疗三级阶梯 ⭐ 本题核心
+>
+> ```
+> Tourette 综合征（>1 yr motor + vocal tic，起病 < 18 岁）
+>     │
+>     ├─ 第 1 阶梯：HRT（Habit Reversal Therapy，行为治疗，一线）
+>     │   ※ 培养 competing response 替代 tic；适合轻中度
+>     │   │ 无效 / 不可用 / 重度功能受损
+>     │   ▼
+>     ├─ 第 2 阶梯：α2 激动剂（证据较弱，共病 ADHD 尤佳）
+>     │   ※ Guanfacine（首选）/ Clonidine
+>     │   ※ 镇静 = 副作用 → 助眠 + 减焦虑 → 间接减 tic
+>     │   │ 无效（如本题用 1 年仍恶化）
+>     │   ▼
+>     └─ 第 3 阶梯：抗多巴胺药（最强、证据最足）⭐ 本题答案
+>         ├─ DA 耗竭：Tetrabenazine / Deutetrabenazine / Valbenazine（VMAT2 抑制剂）
+>         └─ D2 阻断：Risperidone（SGA 较常用）/ Haloperidol（FGA 强效）/ Pimozide
+>             ※ Pimozide 注意 QT 延长 → 用前查 ECG
+>             ※ Risperidone 平衡疗效与 EPS 风险，临床较常用
+> ```
+>
+> ### 二、Tic 治疗"方向三角"⭐（用户原稿核心增量）
+>
+> | 药 | 作用方向 | 治什么？| 在 tic 题里的角色 |
+> |---|---|---|---|
+> | **抗多巴胺药** | ↓ DA | **治 tic** ✅（本题答案） | Tourette 第 3 阶梯（HRT + α2 失败后）|
+> | **抗胆碱药**（benztropine / trihexyphenidyl） | ↓ ACh | **治抗精神病药 EPS**（急性 dystonia / drug-induced parkinsonism） | ❌ **不治 tic**；本题 A 选项陷阱 |
+> | **兴奋剂**（methylphenidate / amphetamine） | ↑ DA | 治 ADHD | ❌ **可能加重 tic** ；Tourette + 共病 ADHD 时慎用兴奋剂，优先 α2 激动剂 |
+> | SSRI / TCA | ↑ 5-HT | 治抑郁 / **OCD（Tourette 常共病）** | ❌ 不直接治 tic（但若共病 OCD 可联用）|
+> | MAOI | ↑ NE/5-HT | 难治性抑郁 | ❌ 不治 tic |
+>
+> ### 三、Tic 体征鉴别（同样"突发动作"，机制不同）
+>
+> | 动作 | 关键特征 | 病因 | 治疗 |
+> |---|---|---|---|
+> | **Tic** | **可短暂抑制** + premonitory urge（先兆冲动）| Tourette | 三级阶梯（HRT → α2 → 抗 DA） |
+> | **Myoclonus** | 突发短促闪电样，**不可抑制** | CJD / AD 晚期 / 缺氧 / 癫痫 | 治原发病 |
+> | **Chorea** | 不规则舞蹈样流动动作 | Huntington / Sydenham | VMAT2 抑制剂（HD）|
+> | **Dystonia** | 持续性肌张力异常扭转 | 抗精神病药急性 EPS / 遗传 | 抗胆碱药（急性 EPS） |
+> | **Tardive Dyskinesia** | lip smacking / 舌动 / 舞蹈样肢体 | 抗精神病药慢性 | 停药 / VMAT2（不能停药时）|
+>
+> ### 四、"治疗阶梯升级"通用 SOP（USMLE 高频框架）
+>
+> ```
+> Stem 出现 "X 药用了一段时间仍恶化 / 控制不充分 / 复发"
+>     ↓
+> = 升级题，找下一阶梯
+>     ↓
+> 不要选同一阶梯横向换药，要纵向升级
+>     ↓
+> 典型场景：
+>   - Tourette 升级（α2 → 抗 DA）⭐ 本题
+>   - 双相维持选药（[[mistakes/uworld-mistakes#^Q2357]] 一线失败 → 换器官代谢路径）
+>   - 哮喘 step-up（ICS → ICS+LABA → +LAMA → 生物制剂）
+>   - HTN 加药（一种 → 联合 → 三联 → 难治性 HTN workup）
+>   - MDD 部分应答（SSRI 增量 → 换 SSRI → augment 第二药 → ECT）
+>   - PD psychosis（[[mistakes/uworld-mistakes#^Q12152]] 减药失败 → 上 quetiapine）
+> ```
+>
+> ## 易混陷阱（普适）
+> - **"Tic 是不自主运动 → 选抗胆碱药"反射 ❌**：抗胆碱药（benztropine / trihexyphenidyl）治的是**抗精神病药引起的 EPS**（D2 阻断 → ACh 相对↑ → 胆碱能优势 → dystonia/parkinsonism），机制是"反向降低 ACh 优势"，**与 tic 的"DA 过度活跃"完全相反**。本题 A 选项是最大陷阱，凭"运动症状模糊联想"必中招。
+> - **"Tetrabenazine 是 USMLE 钓饵药"反射的反向应用**：[[mistakes/uworld-mistakes#^Q20930]]（昨日同主题反陷阱）里 tetrabenazine 出现在**焦虑题**当干扰项 = 钓饵；本题它出现在 **Tourette 题** = **真适应症**。**同一个药在不同诊断里是钓饵 vs 答案**，关键看"题问的是什么病"。
+> - **"兴奋剂治 ADHD" + "ADHD 与 Tourette 常共病"陷阱**：Tourette 患者 ~50% 共病 ADHD，但**兴奋剂可能加重 tic**。这种情况下 ADHD 用药优先选 **α2 激动剂（clonidine / guanfacine）或 atomoxetine**（NRI 非兴奋剂），而不是 methylphenidate。看到"Tourette + ADHD + 兴奋剂选项" → 警铃。
+> - **SSRI 不治 tic 但治 OCD**：Tourette 也常共病 OCD（~40%）。题干如果给"tic + 强迫思维 + 仪式行为" → 加 SSRI 治 OCD，但**不替代 tic 治疗**。**两条独立线**，不能用 SSRI 顶替抗多巴胺。
+> - **Pimozide 用前必查 ECG**：强 D2 拮抗 + **QT 延长** → 需基线 + 滴定中 ECG 监测；如果题干给"QT 已延长 / 低钾 / 低镁"病人 → 选 risperidone / tetrabenazine，避开 pimozide。
+> - **HRT vs CBT 区分**：HRT（Habit Reversal Therapy）= Tourette 一线行为治疗，核心是"identify premonitory urge → 培养 competing response"；标准 CBT 是焦虑/抑郁工具，CBT-ERP 是 OCD 工具，两者**不是 tic 一线**。题干给"behavioral therapy" 笼统说法时，对 Tourette 默认指 HRT。
+> - **"已用 1 年仍恶化" ≠ 加量 / 换同阶梯药**：升级题的标志短语。看到这种 stem → **找下一阶梯**，不要在同一阶梯横移（如 α2 失败别换另一个 α2，要升到抗 DA）。
+>
+> ## 我为什么错
+> - 选了：**A. Anticholinergic（抗胆碱药）**
+> - 错因：**知识缺口（药物机制 + Tourette 治疗阶梯不熟）**
+> - 核心陷阱：① "tic 是不自主运动 → 抗胆碱药与运动相关 → 选它" — **凭模糊联想，没确认机制方向**；② **不熟 Tourette 三级阶梯**（HRT → α2 → 抗 DA），不知道 α2 失败后该升到抗 DA；③ 把"抗胆碱治 EPS"与"治 tic"混为一谈 — 实际两者**方向完全相反**：抗胆碱治的是"D2 阻断后 ACh 相对↑"，tic 治的是"DA 过度活跃"，**两个完全不同的问题域**。
+> - 元错误：**"运动症状 = 抗胆碱"是错误的反射** — 抗胆碱药只治"**药源性运动障碍**（drug-induced EPS）"，**不治原发性运动障碍**（tic / chorea / myoclonus）。看到运动相关选项要**先问"这是药源的还是原发的？"** —— 药源 → 抗胆碱 / VMAT2 / 停药；原发 → 看具体疾病通路。
+>
+> ## Memory Hook
+> - **一句话锁定**：**"Tic = 多巴胺太嗨 → 把多巴胺摁下去（抗 DA）。抗胆碱治的是 EPS 副作用，不是 tic 本病。"**
+> - **类比挂钩（用户原稿"踩油门 vs 踩刹车"扩展）**：脑子 DA 油门踩太死（tic）→ 要**踩刹车**（anti-DA：阻断 D2 或耗竭 DA）；抗胆碱药 = 修"刹车踩过头后的副作用"（治 EPS）；兴奋剂 = **再踩一脚油门** = 越踩越糟（加重 tic）。**三角方向钩**：抗 DA 治 tic ↔ 抗胆碱治 EPS ↔ 兴奋剂加重 tic。
+> - **Tetrabenazine 双面钩**（与 Q20930 互证）：**焦虑题里出现 tetrabenazine = 钓饵划掉**（[[mistakes/uworld-mistakes#^Q20930]]）；**Tourette / Huntington / TD 题里出现 tetrabenazine = 真答案**。**同一个药在不同诊断里身份对调** — USMLE 的经典考法。
+> - **升级题反射钩**：stem 出现 "**用了一段时间仍恶化 / 控制不够**" → **找下一阶梯**，不是换同一阶梯药。Tourette / 双相维持 / 哮喘 / HTN / MDD / PD psychosis 全套用此 SOP。
+> - **共病双轨记忆**：**Tourette 三大共病** = ADHD（50%）/ OCD（40%）/ 焦虑抑郁。其中 **ADHD 用 α2 或 atomoxetine 而非兴奋剂**（避免加重 tic）；**OCD 用 SSRI 但不替代 tic 治疗**（两条独立线）；**抑郁焦虑 SSRI** 也是独立线。
+> - **方向三角口诀**：**"DA 太多治 tic，ACh 太多治 EPS，DA 太少治 PD"** — 三个方向，三个药篮子，对号入座不混淆。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - Q：「为什么不是 A. Anticholinergic？抗胆碱药不是治运动症状的吗？」→ 学到：**抗胆碱药只治"药源性"运动障碍 EPS**（抗精神病药 D2 阻断 → ACh 相对↑ → 急性 dystonia / drug-induced parkinsonism）。机制是"降 ACh 优势"，**与 tic 的"DA 过度活跃"完全相反通路**。tic 是**原发性运动障碍**（基底节 DA↑），要降 DA 不是降 ACh。看到"运动症状选项"先问**药源 vs 原发**。
+> - Q：「Tetrabenazine 不是 Q20930 里的'焦虑题钓饵'吗？为什么这道题选它就对？」→ 学到：**同一个药在不同诊断里身份对调**——tetrabenazine = VMAT2 抑制剂，**真适应症 = Tourette / Huntington / TD（都是 DA 过度活跃疾病）**。在焦虑题里出现是钓饵（与焦虑无关）；在 Tourette / chorea / TD 题里出现是真答案。**判断身份关键看"题目问的是什么病"，不是看"药看起来生僻不生僻"**。这是 USMLE 经典考法 — 把同一个药出在两种 context 里，测你的药理学定位能力。
+> - Q：「为什么用兴奋剂治 ADHD 会加重 tic？」→ 学到：兴奋剂（methylphenidate / amphetamine）**升高 DA**（DAT/NET 阻断 + 增释放）→ 直接对抗"治 tic"的方向（要降 DA）。**Tourette + 共病 ADHD** 的用药：**α2 激动剂（clonidine / guanfacine）一石二鸟**（α2 既治 ADHD 又减 tic）；如果 α2 不够，**atomoxetine（NRI 非兴奋剂）** 也不加重 tic；**避免兴奋剂**或低剂量谨慎试。
+> - Q：「HRT 是什么？为什么不是普通 CBT？」→ 学到：**HRT = Habit Reversal Therapy**（习惯逆转疗法）= Tourette 一线行为治疗。核心 3 步：① **awareness training**（识别 tic 的 premonitory urge 先兆冲动）② **competing response training**（培养与 tic 不兼容的替代动作）③ **social support**。**这是 tic 专属治疗，不是标准 CBT**（CBT 治抑郁/焦虑/惊恐）也不是 CBT-ERP（治 OCD）。题干给"behavioral therapy"对 Tourette 默认指 HRT。
+> - Q：「pimozide / haloperidol / risperidone 选哪个？」→ 学到：① **Risperidone**（SGA）= 临床较常用，平衡疗效 + EPS 风险 ② **Haloperidol**（FGA 强效）= 历史首选，但 EPS 风险高 ③ **Pimozide** = D2 拮抗 + **QT 延长** → 用前必查 ECG，已 QT 长 / 低钾镁的避开 ④ **Tetrabenazine**（DA 耗竭剂）= 不阻 D2 → 无 EPS 风险但 **可能诱发抑郁 / 自杀念头**（HD 患者 BBW）。USMLE 没明说时**默认 risperidone 或 tetrabenazine**，看 stem 给的禁忌选。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题（按时间倒序）：
+>   - [[mistakes/uworld-mistakes#^Q20930]] 儿童 GAD + Tetrabenazine 干扰项陷阱（2026-05-23 同日；**完美反向对照** — 那题 tetrabenazine 在焦虑题里是钓饵，本题 tetrabenazine 在 Tourette 题里是真答案；**同一药两种身份的经典考法**）
+>   - [[mistakes/uworld-mistakes#^Q14348]] ADHD 成人 atomoxetine（2026-05-23 同日；同 **儿童/青少年精神药谱** — clonidine/guanfacine α2 在儿童的角色：ADHD + Tourette + 失眠 + tics 一石多鸟）
+>   - [[mistakes/uworld-mistakes#^Q107408]] PMT + ADHD 跨场所标准（2026-05-22；**ADHD 药物三档** = 兴奋剂 → atomoxetine → α2 — 本题阶梯的儿童 ADHD 镜像版）
+>   - [[mistakes/uworld-mistakes#^Q16066]] TD 识别 + EPS 四兄弟（2026-05-20；**同 D2 通路 + 方向三角** — 那题考"抗精神病药慢性 D2 阻断 → TD" + VMAT2 治疗，本题考"原发 DA 过度活跃 → Tourette" + VMAT2 治疗 — 都用 VMAT2 但是两条不同病理路径殊途同归）
+>   - [[mistakes/uworld-mistakes#^Q2505]] 急性 dystonic reaction（2026-05-21；**抗胆碱治 EPS ≠ 治 tic 反陷阱** — 那题考抗胆碱治急性 dystonia，本题考抗胆碱**不治** tic；两题串记可锁死方向三角）
+>   - [[mistakes/uworld-mistakes#^Q11898]] Akathisia 静坐不能（2026-05-21；同 **EPS 治疗谱** propranolol；和本题"tic 治疗谱"形成完整对照）
+>   - [[mistakes/uworld-mistakes#^Q2357]] Bipolar I 维持选药（2026-05-19/23 反复错升 🔴；**同治疗阶梯升级 SOP** — 那题是器官功能否决一线药，本题是疗效不足升下阶梯，**两种升级触发机制**）
+>   - [[mistakes/uworld-mistakes#^Q12152]] PD psychosis 第 5 步（2026-05-23 反复错 🔴；同**治疗阶梯升级** — 减药失败 → 上 quetiapine，本题 α2 失败 → 上抗 DA）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/儿科]]（Tourette 起病 < 18 岁 + 共病模式）/ [[完整笔记/Peixuan分科笔记/neuro]]（基底节 DA 通路 + 运动障碍鉴别）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/neuro]]（基底节 DA 通路 + chorea/myoclonus/dystonia/tic 鉴别 — 见本卡 §三 体征鉴别表）
+>   - [[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]]（抗胆碱治 EPS / VMAT2 治 TD 对照 — 与本题"tic 治疗方向三角"互证）
+>   - [[完整笔记/Peixuan分科笔记/心内]]（Pimozide QT 延长监测 — D2 拮抗药心血管副作用）
+> - 🌱 TODO（待生成衍生）：
+>   - **优先 1**：等积累 3+ 道"治疗阶梯升级"类错题（**已有 Q3375 Tourette / Q2357 双相 / Q12152 PD psychosis 共 3 道**） → 可触发生成 [[完整笔记/专题笔记/_衍生_治疗阶梯升级SOP]]（Tourette / 双相 / 哮喘 step-up / HTN / MDD / PD psychosis 统一框架："用了一段仍恶化 → 找下一阶梯"+ 各疾病阶梯图）
+>   - **优先 2**：等积累 3+ 道"多巴胺方向药"类错题（**已有 Q3375 Tourette / Q16066 TD / Q12152 PD psychosis / Q20930 tetrabenazine 钓饵 共 4 道**）→ **可触发生成** [[完整笔记/专题笔记/_衍生_多巴胺方向药物三角]]（治 tic 抗 DA / 治 EPS 抗 ACh / 治 PD 增 DA / 兴奋剂 ↑DA / VMAT2 双向用途 — Tourette/HD/TD vs 焦虑题钓饵）
+>   - **优先 3**：[[完整笔记/专题笔记/儿科/_衍生_儿童行为问题决策树与跨场所差异]]（Q107408 TODO 已有）扩 Tourette 章节
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后盲做 Q3375 — 第一眼锁"α2 失败 → 抗 DA"反射
+> - [ ] 默写 Tourette 三级阶梯（HRT → α2 → 抗 DA）+ 各阶梯首选药
+> - [ ] 默写 tic 治疗方向三角（抗 DA 治 tic / 抗胆碱治 EPS / 兴奋剂加重 tic）+ SSRI/MAOI/TCA 三个干扰项类别
+> - [ ] 默写 tic vs myoclonus vs chorea vs dystonia vs TD 五者鉴别表（看 §三）
+> - [ ] **固化 SOP**：看到"X 药用了一段时间仍恶化" → **升级题** → 找下一阶梯（不是同一阶梯横移）
+> - [ ] 找 3 道类似题：Tourette pharmacotherapy / tic + ADHD 共病用药 / Tetrabenazine 在 HD/TD 中应用 / chorea 治疗
+> - [ ] 给 [[完整笔记/Peixuan分科笔记/psych]] Tourette / 儿童精神科章节加「难记」标签（"方向三角"反复错点）
+> - [ ] psych + neuro 复习完 → 触发**两个衍生**：① _衍生_治疗阶梯升级SOP（3 道已凑齐）② _衍生_多巴胺方向药物三角（4 道已凑齐）— 整合时把 Q3375 + Q20930 反向对照、Q2357 升级 SOP、Q12152 PD psychosis 阶梯都收编
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Tourette 药物升级（HRT → α2 激动剂 → 抗多巴胺药）/ tic 神经生物学 = 基底节 DA 过度活跃 → 治疗降 DA / 抗多巴胺药两类（VMAT2 抑制剂 tetrabenazine 耗竭 + D2 拮抗 risperidone/haloperidol/pimozide）/ Tic 治疗方向三角（抗 DA 治 tic / 抗胆碱治 EPS / 兴奋剂加重 tic）/ Tetrabenazine 双面身份（焦虑题钓饵 vs Tourette/HD/TD 真答案 — 与 [[mistakes/uworld-mistakes#^Q20930]] 完美反向对照）/ HRT = Tourette 一线行为治疗（identify urge + competing response，≠ 标准 CBT ≠ CBT-ERP）/ Pimozide QT 延长需 ECG / Tourette 共病三大（ADHD 50% 用 α2 不用兴奋剂 / OCD 40% 用 SSRI 但不替代 tic 治疗 / 抑郁焦虑 SSRI 独立线）/ 治疗阶梯升级通用 SOP："用了一段时间仍恶化"= 升级题找下一阶梯 / 反射钩：抗胆碱治 EPS ≠ 治 tic（方向相反）
+> 状态:: 🟡
+> 错因:: 知识
 
