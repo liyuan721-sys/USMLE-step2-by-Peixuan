@@ -20155,3 +20155,407 @@
 > 状态:: 🟡
 > 错因:: 知识
 
+> [!example]- [2026-05-24] Ethics / Pediatric — Medical Child Abuse / Munchausen by Proxy（Suspected child abuse communication：direct + honest + safety-first + 不 assign blame + inform legal mandate to report）(Q106638)
+> ^Q106638
+>
+> ## Stem 模式
+> 6mo girl + seizure → 母亲 found lethargic flushed → 2-min tonic-clonic 自 resolve；T 38.3 + HR 162 + dilated pupils + ECG QRS 延长 → **amitriptyline (TCA) toxidrome**；母亲 purse 找 amitriptyline；3 月内 **2 prior 类似 presentations + PICU 全 work-up 阴性 + 24hr 自 resolve**；母拒 urine "为啥用尿测 seizure"想 neuro 看 epilepsy。问最 appropriate response？
+>
+> ## 核心概念
+> **Medical Child Abuse**（= **Factitious Disorder Imposed on Another**，旧称 Munchausen Syndrome by Proxy）= caregiver 通过 **overt 行为**（exaggerate / lie / simulate / **intentionally induce illness**）让 child 接受 unnecessary + harmful medical care。**6mo + 已知 amitriptyline + 3 月内 3 次类似 = intentional caregiver-induced**（6mo not mobile 不会自服）。
+>
+> Communication 原则：① **Focus on safety** ② **Avoid assigning blame** ③ **Inform family of legal mandate to report** ④ **Direct + honest + specific language**（"I'm concerned about X" / "I suspect Y"）⑤ 不 dismissive reassurance ⑥ 不 accusatory confirmation 在 evaluation pending 时。
+>
+> Answer：**A. "Her findings are more concerning for medication toxicity than epilepsy. Because your child's safety is our priority, we must test her urine for such substances."**
+>
+> ## 普适规则
+>
+> ### 一、Medical Child Abuse — When to Suspect 8 大暗号 ⭐
+>
+> | 暗号 | 说明 |
+> |---|---|
+> | **Persistent / recurrent unexplainable illness** | 反复发作 + 工作-up 不解 |
+> | **Nonphysiologic symptom clusters** | 症状不符合任何 known disease pattern |
+> | **Inconclusive diagnostic testing** | 多次 work-up 阴性 |
+> | **Ineffective medical therapies** | Standard Tx 无效 |
+> | **Reported s/sx incongruous with clinical findings** | 母亲描述 ≠ exam findings |
+> | **Symptoms only with specific caregiver** | Caregiver 不在时症状消失 |
+> | **Siblings died / unexplained illness** | 家族 pattern |
+> | **Seeking care from multiple facilities/specialists + 拒绝 less severe diagnosis** | "Doctor shopping" + 坚持要严重诊断 |
+>
+> ### 二、Management 3 步
+>
+> ```
+> ① Report to Child Protective Services (CPS) — 法律强制 mandatory reporter
+>      │  ※ Reasonable suspicion 即可 report，不需 confirmed proof
+>      ▼
+> ② Case-specific medical evaluation for child abuse
+>     - Urine toxicology screen（本题 amitriptyline detection）
+>     - 影像（skeletal survey if physical abuse suspected）
+>     - 详细 history + caregiver-child interaction observation
+>      │
+>      ▼
+> ③ 多学科团队介入（pediatrics + social work + psych + CPS + legal）
+> ```
+>
+> ### 三、Communication Strategies 4 大原则 ⭐
+>
+> | 原则 | 操作 | 例 |
+> |---|---|---|
+> | **① Focus on best interest / safety of child** | 用"safety / 担心"角度 frame，不用"你做了 X" | "Because your child's safety is our priority..." |
+> | **② Avoid assigning blame** | 不直接 accuse caregiver | 不说 "You poisoned her"；说 "concerning for medication toxicity" |
+> | **③ Inform family of legal mandate to report** | 提前告知 mandatory reporting 法律义务 — 不是"惩罚"而是法律 | "We are legally required to report this concern." |
+> | **④ Direct + honest + specific language** | 用"I suspect / I'm concerned about" 不模糊 | "We must test her urine for such substances." |
+>
+> ### 四、Mandatory Reporter 法律基础（USMLE 必背）⭐
+>
+> | 谁是 mandatory reporter | 谁触发 | 触发标准 |
+> |---|---|---|
+> | **Physicians + nurses + teachers + social workers + clergy（state-specific）** | Any suspected child abuse (physical / sexual / neglect / medical) | **Reasonable suspicion** — 不需 confirmed proof；担心即报告 |
+> | **不 require parental consent** | Report to CPS 不需 caregiver consent | — |
+> | **保密 + immunity** | Reporter 身份保密 + 法律 immunity（good-faith report）| — |
+>
+> ### 五、坏答案 4 大反 pattern ⭐
+>
+> | 反 pattern | 例 | 为什么错 |
+> |---|---|---|
+> | **① Dismissive reassurance（"Don't worry"）** | "Seizures can happen for many reasons. Don't worry."（D）| Patient safety 优先 → dismissive 是 violation；误导 + 没解决真问题 |
+> | **② Delay 临床 work-up 转 communication 给别人** | "I'll call CPS + 你们和他们讨论."（B）| 不该 delay 紧急 work-up + 不该 transfer communication burden |
+> | **③ 暗示 accidental（违反 age-appropriate reasoning）** | "Daughter may have found the medication."（C）| 6mo not mobile 不会自服；暗示 accidental = 错误 framing 偏离 abuse 真相 |
+> | **④ Confirming abuse while evaluation pending** | "Communicating confirmation of abuse + child abuse 诊断 while pending"（E）| 太早 / accusatory + evaluation 未完成 → leads to challenging communication + 后续 trust 破坏 |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | **A** ⭐ | "Findings more concerning for medication toxicity. Safety priority → must test urine" | ✅ Direct + honest + safety-first + 不 assign blame + specific action |
+> | B | "Concerned about daughter + need notify CPS. Discuss further testing when they get here." | ❌ Delay 紧急 work-up + transfer communication burden |
+> | C | "Your daughter may have found the medication." | ❌ Age-inappropriate hypothesis（6mo not mobile）+ 错 framing |
+> | D | "Seizures can happen for many reasons. Don't worry." | ❌ Dismissive + misleading reassurance + 没 address safety concern |
+> | E | "We think TCAs are being given to her [intentionally by caregiver]" | ❌ Confirming abuse 在 evaluation pending 时 + accusatory |
+>
+> ## 我为什么错
+> - 选了：**D. "Seizures can happen for many reasons in children. Don't worry about it; we just want to make sure we're not missing anything."**
+> - 错因：**知识**（① 不熟 Medical Child Abuse 沟通原则 — 误以为"reassurance + de-escalate emotion" 是 patient-centered ② 没识别 dismissive reassurance 在 safety concern 时是 violation）
+> - 核心陷阱：**误以为"calming the distressed mother = best communication"** → 实际 child safety > caregiver emotion；direct + honest + safety-first 才是正确沟通，dismissive reassurance 在 abuse 怀疑时 = 失职。
+>
+> ## Memory Hook
+> - **8 大暗号**：「**Persistent + Nonphysiologic + Inconclusive + Ineffective + 符号不符 + Caregiver-specific + Sibling 史 + Doctor shopping**」
+> - **4 大沟通原则**：「**Safety-first / 不 assign blame / Inform legal mandate / Direct + specific language**」
+> - **Mandatory Reporter 反射**：「**Reasonable suspicion = 报告；不需 proof + 不需 parental consent**」
+> - **本题 stem 关键暗号**：「**6mo + recurrent 同 presentation + work-up 阴性 + caregiver 找到药 + 拒 urine = Medical Child Abuse 经典 setup**」
+> - 类比：消防员见烟必报，不需见到火（reasonable suspicion）；不能因房主 distressed 而 dismissive "可能只是烧菜烟"（D 选项错）。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点："reassure 焦虑 mother" 反射 → 学到 dismissive reassurance 在 safety concern 时是 violation；child safety > caregiver emotion，direct + honest 优先。
+> - 卡点：6mo + amitriptyline + 3 次类似 应反射 medical child abuse → 学到这是经典 USMLE setup（unexplainable + recurrent + 工作-up 阴性 + 药物 access + caregiver 拒检 = 80% medical child abuse）。
+> - 卡点：以为 "report CPS = 立即说 abuse + 让 CPS 来谈" → 学到 communication 责任在 physician（不 transfer），report CPS 是 parallel action，physician 仍直接与 family 沟通 safety concern。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q105595]] 青少年 conditional confidentiality — 5 breach 例外（safety threats / legal mandate / reportable infections）— 本题 child abuse 是 mandatory reporting + safety breach 同 framework
+>   - [[mistakes/uworld-mistakes#^Q20531]] IPV Screening — 与 child abuse / elder abuse 同 abuse spectrum + mandatory reporting
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]] / [[完整笔记/Peixuan分科笔记/儿科]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/psych]] — Factitious Disorder Imposed on Another / Munchausen 母系 psychopath profile + 治疗
+>   - [[完整笔记/Peixuan分科笔记/儿科]] — Child abuse 5 大类（physical / sexual / emotional / neglect / medical）+ 各自 stem 暗号 + reporting
+>   - [[完整笔记/Peixuan分科笔记/感染]] — Recurrent infection / immunodeficiency 鉴别（与 unexplainable illness 区分）
+>   - [[完整笔记/Peixuan分科笔记/neuro]] — TCA toxidrome（QRS 延长 + 散瞳 + 心律 + 抗胆碱）+ NaHCO3 治疗 + Pediatric seizure 鉴别
+> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §12.7 Suspected Child Abuse Communication（v1.4.4 新增）
+> - 🌱 TODO：累积 child abuse / elder abuse / IPV / sexual abuse 题家族 → 整合 [[完整笔记/专题笔记/USMLE/USMLE_Abuse_Reporting_SOP]]（含 5 类 abuse + mandatory reporter 完整名单 + reasonable suspicion 触发标准）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证 medical child abuse 反射 + dismissive reassurance ≠ 正确沟通）
+> - [ ] 默写 Medical Child Abuse 8 大暗号 + 4 大沟通原则 + 3 步 management
+> - [ ] 默写 mandatory reporter 法律基础（reasonable suspicion + 不需 consent + 保密 + immunity）
+> - [ ] 反射训练：见到 6mo/婴幼儿 + recurrent unexplainable + 工作-up 阴性 + caregiver 拒 specific test → 0.5 秒喊"Medical Child Abuse — direct safety-first communication + CPS report"
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Medical Child Abuse / Factitious Disorder Imposed on Another（旧称 Munchausen by Proxy — caregiver 通过 overt 行为 exaggerate/lie/simulate/intentionally induce illness 让 child 接受 unnecessary + harmful medical care）/ When to suspect 8 大暗号（persistent/recurrent unexplainable illness + nonphysiologic clusters + inconclusive testing + ineffective therapies + s/sx incongruous + caregiver-specific + sibling 史 + doctor shopping + reluctance to accept less severe dx）/ Management 3 步（report CPS + case-specific evaluation 含 urine toxicology + 多学科介入）/ Communication 4 大原则（safety-first / 不 assign blame / inform legal mandate / direct + specific language）/ Mandatory Reporter 法律（physician/nurse/teacher/social worker/clergy + reasonable suspicion 触发 + 不需 proof / 不需 parental consent + 保密 + immunity）/ 坏答案 4 大反 pattern（dismissive reassurance "don't worry" / delay 临床 work-up 转 communication / age-inappropriate accidental 假设 / 在 evaluation pending 时 confirming abuse）/ 6mo not mobile 不会自服药 = caregiver-induced 强暗号 / Child safety > caregiver emotion / TCA toxidrome（QRS 延长 + 散瞳 + 心律 ↑ + 抗胆碱）
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-24] Ethics / Communication — Boundary Setting with Demanding Patient（after-hours + 拒 nurse + nonemergent demand → direct + consistent + 不 yield + 不 reward）(Q3805)
+> ^Q3805
+>
+> ## Stem 模式
+> 35F + 1 周前 rash visit + Tx；今天 unscheduled + arrives after office hours + 拒 nurse 替代 + 坚持 "must be examined by physician now"。问最 appropriate next step？
+>
+> ## 核心概念
+> 患者表现 **boundary crossing**（unscheduled appointment + after-hours + 拒 reasonable alternative + nonemergent demand）→ physician 应 **clearly communicate expectations + boundaries within treatment relationship**，**direct + consistent**。不 allow exception / 不 yield / 不 pay special attention → 否则 **reinforce boundary-crossing behavior** + 鼓励 future violations。
+>
+> Answer：**C. Do not evaluate the patient and schedule an appointment during normal office hours**
+>
+> ## 普适规则
+>
+> ### 一、Boundary Crossing 3 大 Red Flags ⭐
+>
+> | Red Flag | 例 |
+> |---|---|
+> | **① Unscheduled appointment + after office hours** | 不预约 + 下班后到访 |
+> | **② Demanding immediate attention for nonemergent issue** | 慢性 / 非急症坚持 immediate care |
+> | **③ Refusing appropriate alternatives** | 拒 nurse visit / 拒 PCP referral / 拒下次预约 |
+>
+> ### 二、Boundary Management 5 大原则 ⭐
+>
+> | 原则 | 操作 |
+> |---|---|
+> | **① Nonjudgmental** | 不指责 patient 的"难缠"性格 |
+> | **② Clearly communicate expectations + boundaries** | 用 office policies / treatment relationship 框架明确告知 |
+> | **③ Direct + consistent** | 不模糊 + 每次相同回应（"There are no appointments today. You can be seen during normal hours."）|
+> | **④ Politely but firmly** | 不 hostile + 不 cave；direct but polite |
+> | **⑤ 不 allow exception / 不 yield / 不 pay special attention** | 任何 exception = reinforce behavior + 后续 violations 增加 |
+>
+> ### 三、Boundary Crossing 处理决策树
+>
+> ```
+> Patient 表现 boundary crossing
+>     │
+>     ▼
+> 是否真正 emergency？
+>     │
+>     ├─ ✅ Emergency → ED（不是 office unscheduled visit）
+>     │      ※ Office 也无 emergency 资源；emergency 应到 ED
+>     │
+>     └─ ❌ Nonemergent
+>            │
+>            ▼
+>         ① 不评估（评估即 reward 行为 + reinforce）
+>            │
+>            ▼
+>         ② Direct + polite + consistent communication：
+>            "Office is closed. You can be seen during regular hours."
+>            │
+>            ▼
+>         ③ Schedule 正常预约
+>            │
+>            ▼
+>         ④ 不 transfer 给同事（on-call / 其他 clinic）— 转 burden 不解决问题
+>            ⑤ 不威胁 security（除非 imminent violence/escalation）
+> ```
+>
+> ### 四、坏答案 6 大反 pattern ⭐
+>
+> | 反 pattern | 例 | 为什么错 |
+> |---|---|---|
+> | **① 转 burden 给 on-call 同事** | "On-call physician follow-up"（A）| On-call 用于 emergent；reward 行为 + 转 burden |
+> | **② 威胁 security**（无 imminent violence）| "Security will be notified if she remains"（B）| Premature；situation 不 involve imminent violence/escalation |
+> | **③ Switch to other clinic** | "Switch to evening hours clinic"（D）| 转 burden + 不 address inappropriate behavior |
+> | **④ 评估 "could be emergency"（hypothesizing emergency）** | "Evaluate because could be emergency"（E）| 1 周慢性 itchy rash + 无 SOB/syncope/severe pain = 不太可能 emergency；emergency 应到 ED；评估 = reward + reinforce |
+> | **⑤ Sign policies + 评估** | "Evaluate only if she reads + signs office policies"（F）| 签 policies 沟通 boundaries OK 但**评估**仍 reward 行为 → 失败 enforce boundaries |
+> | **⑥ Caving / yielding to demand** | 任何"破例就这一次" | Reinforce + 后续 violations 增加 |
+>
+> ### 五、与 Emergency Exception 区分（USMLE 易混）
+>
+> | 维度 | Boundary Crossing（本题） | Emergency Exception（→ §十一 §11.4）|
+> |---|---|---|
+> | 患者 condition | Nonemergent（chronic / 已 Tx / 1 周前问题）| Life-threatening + 紧迫 |
+> | Decision | **不**评估 + 安排正常预约 | **必**评估 + 不需 consent |
+> | 关键判定 | "Could be emergency" 是 caving 反 pattern | 真 emergency = airway / shock / 急 deteriorate |
+> | Office vs ED | Office unscheduled visit ≠ emergency setting；真 emergency 到 ED | ED / 急救场景 |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Do not evaluate + on-call physician follow-up | ❌ Reward 行为 + 转 burden 给同事 |
+> | B | Do not evaluate + notify security | ❌ Premature；无 imminent violence |
+> | **C** ⭐ | Do not evaluate + schedule normal office hours | ✅ Direct + consistent + 不 reward + 安排合理 alternative |
+> | D | Evaluate + suggest switch to evening clinic | ❌ Evaluate 已 reward + 转 burden 给其他 clinic |
+> | E | Evaluate because could be emergency | ❌ 1 周慢性 itchy rash 不太可能 emergency；caving 反 pattern；emergency 应到 ED |
+> | F | Evaluate only if she signs office policies | ❌ Sign 沟通 boundaries OK 但**评估**本身已 reward 行为；失败 enforce |
+>
+> ## 我为什么错
+> - 选了：**E. Evaluate the patient because her medical concern could be an emergency**
+> - 错因：**知识**（① 不熟 boundary crossing SOP — 误以为"safety first → 万一是 emergency 必须 evaluate" ② 没识别 1 周慢性 itchy rash 不太可能 emergency ③ 没识别 evaluate 即 reward boundary-crossing behavior）
+> - 核心陷阱：**误以为"hypothesizing emergency 可能性 = safety-first 正解"** → 实际 1 周慢性问题 + 无 emergent 症状 = 不太可能 emergency；如真 emergency 应 ED 不是 office；evaluate 在 office 已 reward boundary violation + reinforce future violations。
+>
+> ## Memory Hook
+> - **3 大 Red Flags**：「**Unscheduled + after-hours + 拒 reasonable alternative**」
+> - **5 大管理原则**：「**Nonjudgmental + Clear expectations + Direct + Polite + 不 yield**」
+> - **核心反射**：「**不 evaluate + direct schedule normal hours**」（评估 = reward = reinforce）
+> - **Boundary vs Emergency 区分**：「**1 周慢性 + 无 severe 症状 → 不是 emergency；真 emergency → ED 不是 office unscheduled**」
+> - 类比：餐厅打烊后客人要求"必须现在用餐" → 不能因"万一他要饿死"就破例开火（evaluate = E 错），应"明天正常营业时欢迎"（schedule = C 正解）。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：选 E 是因为"safety first → 万一是 emergency" 反射 → 学到 hypothesizing emergency 是 caving 反 pattern；emergency 真 = ED 设置，不是 office unscheduled visit。
+> - 卡点：选 A "on-call" 看似 "保护医生 personal time" → 学到 on-call 用于 emergent 不用于 boundary crossing；转给同事 = 转 burden + reward 行为。
+> - 卡点：选 F "签 office policies" 看似 educational → 学到 sign policies OK 但**评估**本身已破坏 boundary；不评估 + 沟通 policies 才完整。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （Boundary setting / demanding patient 题家族待积累 — 当前仅本题；未来 medication-seeking / opioid-demanding / 反复无理要求题集中后整合）
+>   - [[mistakes/uworld-mistakes#^Q19110]] Emergency exception — 与 boundary crossing "evaluate could be emergency" caving 反 pattern 区分
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/psych]] — Borderline personality features + manipulation pattern + therapeutic relationship boundary
+>   - [[完整笔记/Peixuan分科笔记/Ethics_Master]] — Therapeutic relationship + professional conduct + 与 sexual misconduct boundary 区分
+> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §12.8 Boundary Setting with Demanding Patients（v1.4.4 新增）
+> - 🌱 TODO：累积 boundary crossing / professional conduct / dual relationship 题家族 → 整合 [[完整笔记/专题笔记/USMLE/USMLE_Professional_Boundaries]]（含 gifts / 社交媒体 / dual relationship / sexual misconduct / demanding patient SOP）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证 boundary crossing → 不 evaluate + schedule normal hours 反射）
+> - [ ] 默写 3 大 Red Flags + 5 大管理原则 + 6 大坏答案反 pattern
+> - [ ] 默写 Boundary vs Emergency Exception 5 维度对比
+> - [ ] 反射训练：见到 after-hours + unscheduled + 拒 alternative → 0.5 秒喊"不 evaluate + direct schedule normal hours，不要 hypothesize emergency"
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Boundary Setting with Demanding Patient（boundary crossing 3 大 red flags：unscheduled appointment + after office hours + refusing appropriate alternatives + demanding immediate attention for nonemergent issue）/ Boundary Management 5 大原则（nonjudgmental + clearly communicate expectations + direct + consistent + politely but firmly + 不 allow exception / 不 yield / 不 pay special attention — exceptions reinforce behavior）/ 决策树（emergency → ED；nonemergent → 不评估 + direct schedule normal hours）/ 6 大坏答案反 pattern（转 on-call / 威胁 security premature / switch other clinic / evaluate "could be emergency" caving / sign policies + evaluate 仍 reward / yielding "就这一次"）/ Boundary vs Emergency Exception 区分（1 周慢性 + 无 severe 症状 ≠ emergency；真 emergency → ED 不是 office unscheduled）/ Evaluate 即 reward + reinforce future violations
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-24] Ethics / Communication — Patient-Centered Care (PCC) First Step（先 determine patient subjective experience + activity impact，再 shared decision-making；不 jump to treatment recommendation）(Q20432)
+> ^Q20432
+>
+> ## Stem 模式
+> 52F + HTN/OA/MDD 控制良好 + L knee pain 3 月 + 晨 stiffness 10min + 改善 with heat + **打 doubles tennis "part of my identity"** + banker stress；ER 检查 + X-ray = mild OA。问最 prioritized first action？
+>
+> ## 核心概念
+> **Patient-Centered Care (PCC)** = incorporate patient values + emphasize outcomes important to patients。慢病管理 first step = **measure + track patient-valued outcomes**（pain level / functional status / 对 activities 影响）+ **subjective experience** — 不是 jump to specific treatment（weight loss / surgery / 药物）。
+>
+> 本题 patient 把 tennis 视为 identity → 治疗目标应 frame 围绕 "return to tennis"，不是普通 weight loss。先 understand subjective pain + activity impact → 再 shared decision-making with evidence-based options。
+>
+> Answer：**C. Determining the patient's pain level and effect on her activities**
+>
+> ## 普适规则
+>
+> ### 一、Patient-Centered Care (PCC) 框架 ⭐
+>
+> | 维度 | 内容 |
+> |---|---|
+> | **Overview** | Incorporate patient values into medical decisions + emphasize outcomes important to patients + improve health care quality + patient satisfaction |
+> | **Examples** | Shared decision-making + decision aids + care coordination for chronic condition management |
+>
+> ### 二、PCC 在慢病管理的应用流程 ⭐
+>
+> ```
+> Chronic condition + 复诊 visit
+>     │
+>     ▼
+> ① 先 measure + track 患者 valued outcomes（pain level + functional status + 对 activities 影响）
+>    ※ 不是直接量 objective markers（X-ray / lab）
+>    ※ 反映 patient priorities
+>     │
+>     ▼
+> ② Understand patient subjective experience + identity-defining activities
+>    "Tennis is part of my identity" → 治疗目标围绕 return to tennis
+>     │
+>     ▼
+> ③ Frame therapeutic discussion based on patient priorities
+>     │
+>     ▼
+> ④ Shared decision-making — providers discuss risks/benefits + engage patients
+>    ※ 不 passively decide for patient
+>    ※ 但 provider 仍 obligated to inform + offer evidence-based guidance
+>     │
+>     ▼
+> ⑤ Avoid overburdening patient with excessive decision-making
+>    ※ Patients 在 discussion of clinically reasonable options + values + goals 后才被 consulted on therapy
+> ```
+>
+> ### 三、PCC vs 其他 first step framework 横向对比
+>
+> | Framework | First Step |
+> |---|---|
+> | **PCC（本题）** | Determine subjective experience + activity impact + patient priorities |
+> | **Wish...Worry**（terminal）| Explore patient's understanding |
+> | **IPV Screening** | Privacy + normalizing statement |
+> | **Cross-cultural Care** | Identify perceptions about disease |
+> | **Adherence** | Identify barrier type |
+> | **SMART + MI**（lifestyle）| Discuss patient-defined manageable change |
+> | **Suspected Child Abuse** | Direct + honest + safety-first communication |
+>
+> > [!success] 元规律
+> > **First step 永远是 "understand patient framework"**，不是 jump to action / 不是 jump to recommendation / 不是 jump to objective testing。
+>
+> ### 四、Shared Decision-Making 边界 ⭐
+>
+> > [!tip] Shared decision-making ≠ "让 patient 自己选"
+> > Providers 仍 **obligated to inform + offer evidence-based guidance + recommendations**。Patient 不应 burdened with excessive decision-making（D 选项陷阱）。
+> > 顺序：① Provider 呈现 clinically reasonable options + risks/benefits ② 与 patient values + goals 对齐 discussion ③ Patient 在此基础上选 therapy preferences。
+>
+> ### 五、慢病 visit prioritization SOP ⭐
+>
+> ```
+> 患者 visit
+>     │
+>     ▼
+> ① Chief complaint（本次主诉）优先 — knee pain
+>     │
+>     ▼
+> ② 用 PCC framework determine subjective experience + impact
+>     │
+>     ▼
+> ③ 制定 chief complaint 治疗 plan via shared decision-making
+>     │
+>     ▼
+> ④ Subsequently address 其他 monitoring items（HTN adherence / depression screening / BP / med reconciliation）
+>     ※ 这些都重要但不 prioritized first
+> ```
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Ascertain HTN medication adherence | ❌ HTN 已控制良好 + 本次主诉是 knee pain；adherence subsequent 不 prioritized |
+> | **B** ❌ | Asking about weight loss interest | ❌ Premature treatment recommendation — 没先 PCC-based assessment of pain + impact + priorities |
+> | **C** ⭐ | Determining patient's pain level + effect on activities | ✅ PCC first step — reflects patient priorities（tennis identity）|
+> | D | Having patient select preferred knee pain treatment | ❌ Patient 不应 burdened with excessive decision-making；providers 先 inform + recommend 后再 engage |
+> | E | Screening for worsening depression | ❌ Other conditions 应 monitored 但本次主诉是 knee pain；subsequent visit item |
+>
+> ## 我为什么错
+> - 选了：**B. Asking about the patient's interest in losing weight to improve her knee pain**
+> - 错因：**pattern**（"OA + BMI 29 + weight loss helps knee" 反射 jump to weight loss recommendation；跳过 PCC first step "understand subjective experience + priorities"）
+> - 核心陷阱：**误以为"evidence-based treatment recommendation = best first step"** → 实际跳过 patient understanding = 失去 patient buy-in + 不知道 patient 对 weight loss 的 perception / barriers / 是否符合 identity（如 tennis 已是 active lifestyle）。
+>
+> ## Memory Hook
+> - **PCC 核心**：「**先 measure + track patient-valued outcomes**（pain level + activity impact）」— 不是 X-ray / lab / treatment recommendation
+> - **Identity-defining activities**：「**Patient 提'X is part of my identity' → 治疗目标围绕 X**」（return to tennis / 工作 / hobbies）
+> - **慢病 visit prioritization**：「**Chief complaint first + PCC framework + 后续 subsequent items**」
+> - **Shared decision-making 边界**：「**Provider inform + recommend + 后再 engage；不让 patient burdened with excessive decision-making**」
+> - **元规律**：「**First step 永远是 understand patient framework**」（与 Wish...Worry / IPV / Cross-cultural / Adherence / SMART 5 framework 共同点一致）
+> - 类比：装修师傅来你家不是直接报"建议拆墙"（B = weight loss 反射）；而是先问"你这房子怎么用？喜欢什么风格？孩子多大？"（PCC = 了解 priorities 再 propose）。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：见到 OA + BMI 29 反射 "weight loss helps OA" 直接推荐 → 学到这是 **premature treatment recommendation** — 跳过 PCC first step；先理解 patient 对 weight loss 的 perception + 是否符合 identity（tennis 已是 active）。
+> - 卡点："Tennis is part of my identity" 这句话不熟悉怎么用 → 学到这是 stem 关键 PCC 暗号 — 治疗目标必须围绕 return to tennis，不是普通 generic OA 治疗。
+> - 卡点：选 D "patient select treatment" 看起来像 shared decision-making → 学到 shared decision-making ≠ "让 patient 自己选"；providers 仍 obligated to inform + recommend；过度 decision burden 也错。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q21143]] Reframing Terminal Goals — wish...worry framework first step "explore understanding"（同 PCC understand patient framework）
+>   - [[mistakes/uworld-mistakes#^Q21242]] Cross-cultural Care — identify perceptions first（同 PCC first step）
+>   - [[mistakes/uworld-mistakes#^Q22080]] SMART Goals — discuss patient-defined manageable change first（同 PCC patient priorities）
+>   - [[mistakes/uworld-mistakes#^Q21733]] Medication Adherence — identify barrier type first（同 understand patient framework）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/骨科]] — Knee OA 管理（exercise / weight loss / NSAIDs / IA steroid / TKA criteria）
+>   - [[完整笔记/Peixuan分科笔记/Biostats_Master]] — Patient-reported outcomes (PROs) + high-value care principles
+>   - [[完整笔记/Peixuan分科笔记/psych]] — Identity-defining activities + meaning in chronic illness
+> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §12.6 Patient-Centered Care (PCC)（v1.4.4 新增）
+> - 🌱 TODO：累积 PCC / shared decision-making / decision aids 题家族 → 整合 [[完整笔记/专题笔记/USMLE/USMLE_Patient_Centered_Care]]（含 decision aids 使用 + 共同决策 vs 信息呈现 vs 单方推荐边界）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证 PCC first step = subjective experience + impact，不 jump to treatment recommendation）
+> - [ ] 默写 PCC 框架（overview + examples）+ 慢病管理 5 步流程
+> - [ ] 默写 PCC vs 其他 6 framework first step 横向对比表
+> - [ ] 默写 shared decision-making 边界（provider inform + recommend + 后再 engage；不 burden patient with excessive decision-making）
+> - [ ] 反射训练：见到慢病 visit + identity-defining activity → 0.5 秒喊"先 determine pain + activity impact，再 shared decision-making"
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Patient-Centered Care (PCC) — first step = measure + track patient-valued outcomes（pain level + functional status + 对 activities 影响 + subjective experience）/ 不 jump to specific treatment recommendation（weight loss / surgery / 药物）/ Identity-defining activities（"X is part of my identity" → 治疗目标围绕 X）/ Shared decision-making 边界（provider 仍 obligated to inform + recommend evidence-based guidance；patient 不应 burdened with excessive decision-making）/ 慢病 visit prioritization（chief complaint first via PCC + subsequent monitoring items）/ PCC 与 5 framework 共同点元规律：first step 永远是 "understand patient framework"（与 Wish...Worry / IPV / Cross-cultural / Adherence / SMART / Suspected Child Abuse / Boundary 共 8 大 communication framework 同 first step 规律）/ Overview：incorporate patient values + emphasize outcomes important to patients + improve quality + satisfaction / Examples：shared decision-making + decision aids + care coordination
+> 状态:: 🟡
+> 错因:: pattern
+

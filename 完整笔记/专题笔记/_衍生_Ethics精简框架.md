@@ -5,7 +5,7 @@ tags:
   - 通用方法论
 created: 2026-05-23
 type: 专题笔记
-source: v1 错题驱动 9 道 Ethics 同日整合（Q3625 + Q18702 + Q105595 + Q3614 + Q19048 + Q7283 + Q3624 + Q19132 + Q21627）；v1.1 增量 Q21658 Adolescent CF advance care planning family-centered（§七 新增子节）2026-05-23；v1.2 增量 §六 "父母不一致 → 听谁的"explicit 子节（asymmetric 决策 + 7 反转场景 + Q3624 题逻辑应用）2026-05-23；v1.3 增量 §三 MAT 速查子节（OUD 三药 + 启动时机 precipitated withdrawal + AUD 三药 + 道德反 pattern）2026-05-23；**v1.4（2026-05-24）大幅增量** — 5 新错题（Q106885 COI + Q107705 DNR≠DoNotTreat + Q19063 Directive counseling + Q22639 Autonomy DEMAND/REFUSE 不对称 + Q3742 Collateral info）+ 4 做对题知识补充（VSED + DMC rationale 探索 + Advance directive 完整 SOP + RCT control ethics）。具体：①§一 新增 DEMAND vs REFUSE 不对称子节 ②§二 补 Surrogate hierarchy 完整版（POA/guardian 顶层）+ Capacity vs Competency 区分 + Rationale 探索 ≠ capacity 通过 ③§五 新增 §五.5 Collateral Information SOP ④§八 大改 — 新增 DNR 范围限定子节 + Advance Directive 完整 SOP（Living will vs POA）+ VSED 子节 ⑤新增 §十一 Directive Counseling ⑥新增 §十二 Research Ethics（COI + RCT design）⑦§九 新增陷阱 7/8/9（窄定义误读 / Autonomy 方向误读 / Confidentiality 方向误读）⑧§十 Memory Hooks + 关联表 + TODO 更新；**v1.4.1（同日）增量** — 3 个 research / capacity 知识点：①§二 新增"Cognitive Impairment / Intellectual Disability 时 facilitate understanding before judging capacity" ②§10.2 扩充"Stopping RCT early 3 类（benefit/harm/futility）+ DSMB 角色" ③§10 新增 §10.3 "Vulnerable Populations Research Recruitment + Inducement / Compensation proportionate"；**v1.4.2（同日）增量** — 3 张做对题（Q107273 DSMB / Q107497 Medical Malpractice / Q19110 Emergency exception + Informed refusal）：①§10.1 / §10.2 扩充 DSMB（external to research team AND study sponsor 双独立 + unblinded data review + IRB vs DSMB 角色对比）②新增 §十一 Medical Legal Foundations（Malpractice 4 D's + Informed Consent SOP + Informed Refusal 同 elements + Emergency Exception + Retroactive Consent 不存在）；原 §十一 9 大陷阱 → §十二；原 §十二 Memory Hooks → §十三；**v1.4.3（同日）增量** — 5 道新 communication 错题（Q21143 wish...worry + Q20531 IPV + Q21242 cross-cultural + Q21733 adherence + Q22080 SMART/MI）打包成新 §十二 Patient Communication & Counseling Frameworks（5 子节 + 横向对比表 + 5 framework 共同点元规律）；§十二 反射钩 → §十三，§十三 Memory Hooks → §十四；§十三 升级 9 → 10 大陷阱（新增 ⑩ Fear-based / Dramatic intervention 误当 effective）
+source: v1 错题驱动 9 道 Ethics 同日整合（Q3625 + Q18702 + Q105595 + Q3614 + Q19048 + Q7283 + Q3624 + Q19132 + Q21627）；v1.1 增量 Q21658 Adolescent CF advance care planning family-centered（§七 新增子节）2026-05-23；v1.2 增量 §六 "父母不一致 → 听谁的"explicit 子节（asymmetric 决策 + 7 反转场景 + Q3624 题逻辑应用）2026-05-23；v1.3 增量 §三 MAT 速查子节（OUD 三药 + 启动时机 precipitated withdrawal + AUD 三药 + 道德反 pattern）2026-05-23；**v1.4（2026-05-24）大幅增量** — 5 新错题（Q106885 COI + Q107705 DNR≠DoNotTreat + Q19063 Directive counseling + Q22639 Autonomy DEMAND/REFUSE 不对称 + Q3742 Collateral info）+ 4 做对题知识补充（VSED + DMC rationale 探索 + Advance directive 完整 SOP + RCT control ethics）。具体：①§一 新增 DEMAND vs REFUSE 不对称子节 ②§二 补 Surrogate hierarchy 完整版（POA/guardian 顶层）+ Capacity vs Competency 区分 + Rationale 探索 ≠ capacity 通过 ③§五 新增 §五.5 Collateral Information SOP ④§八 大改 — 新增 DNR 范围限定子节 + Advance Directive 完整 SOP（Living will vs POA）+ VSED 子节 ⑤新增 §十一 Directive Counseling ⑥新增 §十二 Research Ethics（COI + RCT design）⑦§九 新增陷阱 7/8/9（窄定义误读 / Autonomy 方向误读 / Confidentiality 方向误读）⑧§十 Memory Hooks + 关联表 + TODO 更新；**v1.4.1（同日）增量** — 3 个 research / capacity 知识点：①§二 新增"Cognitive Impairment / Intellectual Disability 时 facilitate understanding before judging capacity" ②§10.2 扩充"Stopping RCT early 3 类（benefit/harm/futility）+ DSMB 角色" ③§10 新增 §10.3 "Vulnerable Populations Research Recruitment + Inducement / Compensation proportionate"；**v1.4.2（同日）增量** — 3 张做对题（Q107273 DSMB / Q107497 Medical Malpractice / Q19110 Emergency exception + Informed refusal）：①§10.1 / §10.2 扩充 DSMB（external to research team AND study sponsor 双独立 + unblinded data review + IRB vs DSMB 角色对比）②新增 §十一 Medical Legal Foundations（Malpractice 4 D's + Informed Consent SOP + Informed Refusal 同 elements + Emergency Exception + Retroactive Consent 不存在）；原 §十一 9 大陷阱 → §十二；原 §十二 Memory Hooks → §十三；**v1.4.3（同日）增量** — 5 道新 communication 错题（Q21143 wish...worry + Q20531 IPV + Q21242 cross-cultural + Q21733 adherence + Q22080 SMART/MI）打包成新 §十二 Patient Communication & Counseling Frameworks（5 子节 + 横向对比表 + 5 framework 共同点元规律）；§十二 反射钩 → §十三，§十三 Memory Hooks → §十四；§十三 升级 9 → 10 大陷阱（新增 ⑩ Fear-based / Dramatic intervention 误当 effective）；**v1.4.4（同日）增量** — 3 道新错题（Q20432 PCC + Q106638 Medical Child Abuse + Q3805 Boundary Setting）进 §十二：新增 §12.6 PCC + §12.7 Suspected Child Abuse Communication + §12.8 Boundary Setting；原 §12.6 横向对比 → §12.9（含 8 个 framework）；原 §12.7 元规律 → §12.10（升级 5 → 8 framework 共同点）
 ---
 
 # Ethics 精简框架 — USMLE Step 2 完整 9 大主题
@@ -1765,7 +1765,195 @@ Minority / immigrant patient hesitant for screening / treatment
 | **③ 单维度强调**（diet over exercise）| — | Weight loss multifactorial；不应单维度否定 patient objective |
 | **④ MI 跳过 first step 直接问 confidence rating** | "How confident in 45 min daily?" | Confidence rating 是 MI 一步，但**在 SMART goal 建立后**才用 |
 
-### §12.6 Communication Frameworks 横向对比 ⭐
+### §12.6 Patient-Centered Care (PCC) — First Step Subjective Experience ⭐（Q20432 锚定 — v1.4.4 新增）
+
+#### PCC 框架
+
+| 维度 | 内容 |
+|---|---|
+| **Overview** | Incorporate patient values into medical decisions + emphasize outcomes important to patients + improve quality + patient satisfaction |
+| **Examples** | Shared decision-making + decision aids + care coordination for chronic conditions |
+
+#### PCC 在慢病管理 5 步流程 ⭐
+
+```
+慢病 复诊 visit
+    │
+    ▼
+① Measure + track patient-valued outcomes（pain level + functional status + 对 activities 影响）⭐
+   ※ 不是直接量 objective markers（X-ray / lab）
+   ※ 反映 patient priorities
+    │
+    ▼
+② Understand subjective experience + identity-defining activities
+   "Tennis is part of my identity" → 治疗目标围绕 return to tennis
+    │
+    ▼
+③ Frame therapeutic discussion based on patient priorities
+    │
+    ▼
+④ Shared decision-making — providers discuss risks/benefits + engage patients
+    │
+    ▼
+⑤ Avoid overburdening patient with excessive decision-making
+   ※ Patient 在 discussion of options + values + goals 后才被 consulted on therapy preferences
+```
+
+#### Shared Decision-Making 边界 ⭐
+
+> [!tip] Shared decision-making ≠ "让 patient 自己选"
+> Providers 仍 **obligated to inform + offer evidence-based guidance + recommendations**。Patient 不应 burdened with excessive decision-making（"having patient select preferred treatment" = 反 pattern）。
+> 顺序：① Provider 呈现 clinically reasonable options + risks/benefits ② 与 patient values + goals 对齐 discussion ③ Patient 在此基础上选 therapy preferences。
+
+#### 慢病 Visit Prioritization SOP
+
+```
+① Chief complaint（本次主诉）优先 — knee pain（不是 HTN adherence / depression screening）
+② 用 PCC framework determine subjective experience + impact
+③ 制定 chief complaint 治疗 plan via shared decision-making
+④ Subsequently address 其他 monitoring items（HTN / depression / BP / med reconciliation）
+   ※ 都重要但不 prioritized first
+```
+
+#### 关键陷阱
+
+> [!warning]
+> - **Jump to treatment recommendation**（"weight loss helps OA → 推荐 weight loss"）→ ❌ Premature；跳过 PCC first step
+> - **Jump to objective testing**（X-ray / lab）→ ❌ PCC first step 是 patient-valued outcomes，不是 objective markers
+> - **Address 其他 monitoring items first**（HTN adherence / depression screening）→ ❌ Chief complaint 优先；其他 subsequent
+> - **Let patient select treatment without provider input** → ❌ Overburdening；shared ≠ "你自己选"
+
+### §12.7 Suspected Child Abuse / Medical Child Abuse Communication ⭐（Q106638 锚定 — v1.4.4 新增）
+
+#### Medical Child Abuse 定义
+
+**Medical Child Abuse = Factitious Disorder Imposed on Another**（旧称 Munchausen Syndrome by Proxy）= caregiver 通过 **overt 行为**（exaggerate / lie / simulate / **intentionally induce illness**）让 child 接受 unnecessary + harmful medical care。
+
+#### When to Suspect 8 大暗号 ⭐
+
+| 暗号 | 说明 |
+|---|---|
+| **Persistent / recurrent unexplainable illness** | 反复发作 + 工作-up 不解 |
+| **Nonphysiologic symptom clusters** | 症状不符合任何 known disease pattern |
+| **Inconclusive diagnostic testing** | 多次 work-up 阴性 |
+| **Ineffective medical therapies** | Standard Tx 无效 |
+| **Reported s/sx incongruous with clinical findings** | 母亲描述 ≠ exam findings |
+| **Symptoms only with specific caregiver** | Caregiver 不在时症状消失 |
+| **Siblings died / unexplained illness** | 家族 pattern |
+| **Doctor shopping + 拒绝 less severe diagnosis** | Seeking multiple facilities/specialists |
+
+#### Management 3 步
+
+```
+① Report to Child Protective Services (CPS) — 法律强制 mandatory reporter
+   ※ Reasonable suspicion 即可 report，不需 confirmed proof
+   ※ 不需 parental consent
+    │
+    ▼
+② Case-specific medical evaluation for child abuse
+   - Urine toxicology screen
+   - 影像（skeletal survey if physical abuse suspected）
+   - 详细 history + caregiver-child interaction observation
+    │
+    ▼
+③ 多学科团队介入（pediatrics + social work + psych + CPS + legal）
+```
+
+#### Communication Strategies 4 大原则 ⭐
+
+| 原则 | 操作 | 例 |
+|---|---|---|
+| **① Focus on best interest / safety of child** | 用"safety / 担心"角度 frame | "Because your child's safety is our priority..." |
+| **② Avoid assigning blame** | 不直接 accuse caregiver | "Findings concerning for medication toxicity"（不说"You poisoned her"）|
+| **③ Inform family of legal mandate to report** | 提前告知 mandatory reporting 法律义务 | "We are legally required to report this concern." |
+| **④ Direct + honest + specific language** | "I suspect / I'm concerned about" 不模糊 | "We must test her urine for such substances." |
+
+#### Mandatory Reporter 法律基础（USMLE 必背）
+
+| 谁是 mandatory reporter | 触发标准 | 关键 |
+|---|---|---|
+| **Physicians + nurses + teachers + social workers + clergy（state-specific）** | **Reasonable suspicion** — 不需 confirmed proof | 担心即报告 |
+| **不 require parental consent** | Report to CPS 不需 caregiver consent | — |
+| **保密 + immunity** | Reporter 身份保密 + 法律 immunity（good-faith report）| — |
+
+#### 坏答案 4 大反 pattern ⭐
+
+| 反 pattern | 例 | 为什么错 |
+|---|---|---|
+| **① Dismissive reassurance（"Don't worry"）** | "Seizures can happen for many reasons. Don't worry." | Patient safety 优先 → dismissive 是 violation；误导 + 没解决真问题 |
+| **② Delay 临床 work-up 转 communication 给别人** | "I'll call CPS + 你们和他们讨论" | 不该 delay 紧急 work-up + 不该 transfer communication burden |
+| **③ 暗示 accidental（违反 age-appropriate reasoning）** | "Daughter may have found the medication" | 6mo not mobile 不会自服；暗示 accidental = 错误 framing |
+| **④ Confirming abuse while evaluation pending** | "We think caregiver intentionally giving TCAs" | 太早 / accusatory + evaluation 未完成 |
+
+### §12.8 Boundary Setting with Demanding Patient ⭐（Q3805 锚定 — v1.4.4 新增）
+
+#### Boundary Crossing 3 大 Red Flags ⭐
+
+| Red Flag | 例 |
+|---|---|
+| **① Unscheduled appointment + after office hours** | 不预约 + 下班后到访 |
+| **② Demanding immediate attention for nonemergent issue** | 慢性 / 非急症坚持 immediate care |
+| **③ Refusing appropriate alternatives** | 拒 nurse visit / 拒 PCP referral / 拒下次预约 |
+
+#### Boundary Management 5 大原则
+
+| 原则 | 操作 |
+|---|---|
+| **① Nonjudgmental** | 不指责 patient 的"难缠"性格 |
+| **② Clearly communicate expectations + boundaries** | 用 office policies / treatment relationship 框架明确告知 |
+| **③ Direct + consistent** | 不模糊 + 每次相同回应 |
+| **④ Politely but firmly** | 不 hostile + 不 cave |
+| **⑤ 不 allow exception / 不 yield / 不 pay special attention** | 任何 exception = reinforce + 后续 violations 增加 |
+
+#### 决策树
+
+```
+Patient 表现 boundary crossing
+    │
+    ▼
+是否真正 emergency？
+    │
+    ├─ ✅ Emergency → ED（不是 office unscheduled visit）
+    │      ※ Office 也无 emergency 资源
+    │
+    └─ ❌ Nonemergent
+           │
+           ▼
+        ① 不评估（评估即 reward 行为 + reinforce）
+           │
+           ▼
+        ② Direct + polite + consistent communication：
+           "Office is closed. You can be seen during regular hours."
+           │
+           ▼
+        ③ Schedule 正常预约
+           │
+           ▼
+        ④ 不 transfer 给同事（on-call / 其他 clinic）
+        ⑤ 不威胁 security（除非 imminent violence）
+```
+
+#### 坏答案 6 大反 pattern ⭐
+
+| 反 pattern | 例 | 为什么错 |
+|---|---|---|
+| **① 转 burden 给 on-call 同事** | "On-call physician follow-up" | On-call 用于 emergent；reward + 转 burden |
+| **② 威胁 security**（无 imminent violence）| "Security will be notified" | Premature；situation 不 involve imminent violence |
+| **③ Switch to other clinic** | "Switch to evening hours clinic" | 转 burden + 不 address 行为 |
+| **④ 评估 "could be emergency"（hypothesizing emergency）** | "Evaluate because could be emergency" | 1 周慢性 itchy rash + 无 SOB/syncope/severe pain ≠ emergency；评估 = reward |
+| **⑤ Sign policies + 评估** | "Evaluate only if she signs office policies" | Sign 沟通 boundaries OK 但**评估**仍 reward 行为 |
+| **⑥ Caving / yielding** | "破例就这一次" | Reinforce + 后续 violations 增加 |
+
+#### Boundary vs Emergency Exception 区分（USMLE 易混）
+
+| 维度 | Boundary Crossing | Emergency Exception（§11.4）|
+|---|---|---|
+| 患者 condition | Nonemergent（chronic / 已 Tx）| Life-threatening + 紧迫 |
+| Decision | **不**评估 + 安排正常预约 | **必**评估 + 不需 consent |
+| 关键判定 | "Could be emergency" 是 caving 反 pattern | 真 emergency = airway / shock / 急 deteriorate |
+| Office vs ED | Office unscheduled visit ≠ emergency setting；真 emergency 到 ED | ED / 急救场景 |
+
+### §12.9 Communication Frameworks 横向对比 ⭐（v1.4.4 renumbered，含 8 个 framework）
 
 | Framework | 适用场景 | First Step |
 |---|---|---|
@@ -1774,20 +1962,30 @@ Minority / immigrant patient hesitant for screening / treatment
 | **Identify Perceptions**（§12.3） | Cross-cultural / minority hesitant | Identify perceptions about disease |
 | **Adherence 7 工具**（§12.4） | Nonadherence by性质 | Identify barrier type → match intervention |
 | **SMART + MI**（§12.5） | Lifestyle modification | Set SMART goal collaboratively |
+| **PCC**（§12.6）⭐ v1.4.4 | 慢病管理 + identity-defining activities | Determine subjective experience + activity impact |
+| **Suspected Child Abuse Communication**（§12.7）⭐ v1.4.4 | Medical child abuse + child abuse 怀疑 | Direct + honest + safety-first + 不 assign blame + inform legal mandate |
+| **Boundary Setting**（§12.8）⭐ v1.4.4 | Demanding patient + boundary crossing | 不评估 + direct schedule normal hours（nonemergent）|
 | **NURSE**（standard palliative — 待补） | 应对 emotion | Name → Understand → Respect → Support → Explore |
 | **SPIKES**（breaking bad news — 待补） | Bad news delivery | Setting → Perception → Invitation → Knowledge → Emotion → Strategy |
 
-### §12.7 5 大 Framework 共同点 ⭐（USMLE 元规律）
+### §12.10 8 大 Framework 共同点 ⭐（USMLE 元规律 — v1.4.4 升级 5 → 8）
 
 > [!success] First Step 永远是 "Understand Patient" 系
-> 5 个 framework 第一步都是某种"先了解 patient"：
-> - §12.1：Explore current understanding
-> - §12.2：Privacy + open-ended（让 patient open up）
-> - §12.3：Identify perceptions about disease
-> - §12.4：Identify barrier type（forgetfulness / ambivalence / ADE / financial）
-> - §12.5：Discuss patient-defined manageable change
+> 8 个 framework 第一步都是某种"先了解 patient"（v1.4.4 加入 PCC + Suspected Child Abuse + Boundary Setting 3 个新 framework）：
+> - §12.1 Wish...Worry：Explore current understanding
+> - §12.2 IPV：Privacy + open-ended（让 patient open up）
+> - §12.3 Cross-cultural：Identify perceptions about disease
+> - §12.4 Adherence：Identify barrier type（forgetfulness / ambivalence / ADE / financial）
+> - §12.5 SMART + MI：Discuss patient-defined manageable change
+> - **§12.6 PCC**：Determine subjective experience + activity impact ⭐ v1.4.4
+> - **§12.7 Suspected Child Abuse**：Direct + honest + safety-first communication（understand 是 child safety framework，不是 caregiver emotion framework）⭐ v1.4.4
+> - **§12.8 Boundary Setting**：Identify boundary crossing pattern + nonemergent nature ⭐ v1.4.4
 >
-> ❌ **共同坏答案模式**：直接 jump to action（give materials / order test / prescribe behavior）— 不先 understand patient framework。
+> ❌ **共同坏答案模式**：
+> 1. 直接 jump to action（give materials / order test / prescribe behavior / treatment recommendation）— 不先 understand patient framework
+> 2. **Hypothesizing emergency to bypass procedure**（boundary crossing "could be emergency"）— caving 反 pattern
+> 3. **Dismissive reassurance**（"don't worry"）when safety concern exists — child abuse / IPV / 自杀等场景
+> 4. **Fear-based / dramatic intervention** 误当 effective — show seizure video / smoking 强化 fear / "miracle" false hope
 
 ### 关联
 
@@ -1796,10 +1994,13 @@ Minority / immigrant patient hesitant for screening / treatment
 - **Q21242（Cross-cultural Care — identify perceptions first，不是 materials / scientific）⭐ v1.4.3 新增**
 - **Q21733（Medication Adherence — automated reminders for forgetfulness，不是 belittling video）⭐ v1.4.3 新增**
 - **Q22080（SMART Goals + MI — lifestyle modification first step；routine 不需 preexercise CV testing）⭐ v1.4.3 新增**
+- **Q20432（PCC First Step — subjective experience + activity impact，不 jump to weight loss recommendation）⭐ v1.4.4 新增**
+- **Q106638（Suspected Child Abuse / Medical Child Abuse Communication — direct + honest + safety-first + 不 dismissive reassurance + inform legal mandate）⭐ v1.4.4 新增**
+- **Q3805（Boundary Setting with Demanding Patient — 不评估 + direct schedule normal hours + 不 hypothesize emergency caving）⭐ v1.4.4 新增**
 - 与 §七 Pediatric chronic illness disclosure 同框架（first step = assess understanding）
 - 与 §八 End-of-life 衔接（terminal illness communication）
-- 跨学科 [[完整笔记/Peixuan分科笔记/psych]]（MI 完整原则 + behavioral change theory + 情感反应处理）/ [[完整笔记/Peixuan分科笔记/GYN]]（IPV 是 well-woman visit 标配 screening）/ [[完整笔记/Peixuan分科笔记/hematology oncology]]（terminal cancer palliative communication）/ [[完整笔记/Peixuan分科笔记/endocrine]]（prediabetes lifestyle counseling）/ [[完整笔记/Peixuan分科笔记/心内]]（HTN lifestyle + preexercise CV testing 标准）
-- 🌱 TODO：累积更多 communication 题家族 → 整合 [[完整笔记/专题笔记/USMLE/USMLE_Patient_Communication_Frameworks]]（含 NURSE + SPIKES + Ask-Tell-Ask + BATHE + VALUE 等完整 framework 库）
+- 跨学科 [[完整笔记/Peixuan分科笔记/psych]]（MI 完整原则 + behavioral change theory + 情感反应处理 + Borderline personality boundary issues + Factitious Disorder Imposed on Another）/ [[完整笔记/Peixuan分科笔记/GYN]]（IPV 是 well-woman visit 标配 screening）/ [[完整笔记/Peixuan分科笔记/hematology oncology]]（terminal cancer palliative communication）/ [[完整笔记/Peixuan分科笔记/endocrine]]（prediabetes lifestyle counseling）/ [[完整笔记/Peixuan分科笔记/心内]]（HTN lifestyle + preexercise CV testing 标准）/ [[完整笔记/Peixuan分科笔记/儿科]]（Child abuse 5 大类 + mandatory reporting）/ [[完整笔记/Peixuan分科笔记/骨科]]（Knee OA 管理 + identity-defining activities）
+- 🌱 TODO：累积更多 communication 题家族 → 整合 [[完整笔记/专题笔记/USMLE/USMLE_Patient_Communication_Frameworks]]（含 NURSE + SPIKES + Ask-Tell-Ask + BATHE + VALUE 等完整 framework 库）+ [[完整笔记/专题笔记/USMLE/USMLE_Abuse_Reporting_SOP]]（5 类 abuse + mandatory reporter 完整名单）+ [[完整笔记/专题笔记/USMLE/USMLE_Professional_Boundaries]]（boundary crossing + dual relationship + gifts + sexual misconduct）
 
 ---
 
@@ -2007,6 +2208,16 @@ Minority / immigrant patient hesitant for screening / treatment
 | §12.5 Preexercise CV Testing ⭐ v1.4.3 | 「**仅 established cardiac disease OR cardiac symptoms 才需**」— Routine asymptomatic + multiple risk factors 单凭不 trigger |
 | §12.7 Communication 元规律 ⭐ v1.4.3 | 「**First step 永远是 "understand patient" 系**」— 5 framework 共同点：explore understanding / privacy + open-ended / identify perceptions / identify barrier / discuss patient-defined change |
 | §十三 陷阱 ⑩ Fear-based ⭐ v1.4.3 | 「**Evidence-based 干预永远是移除 barrier，不是制造 fear**」— 见 video / dramatic visual / scared straight 反射排除 |
+| §12.6 PCC First Step ⭐ v1.4.4 | 「**先 determine pain level + activity impact，再 shared decision-making**」— 不 jump to treatment recommendation / 不 jump to objective testing |
+| §12.6 Identity-defining Activity ⭐ v1.4.4 | 「**Patient 提 "X is part of my identity" → 治疗目标围绕 X**」— Tennis / 工作 / hobby 都是 patient priority 锚 |
+| §12.6 Shared Decision-Making 边界 ⭐ v1.4.4 | 「**Provider inform + recommend + 后再 engage；不让 patient burdened with excessive decision-making**」— Shared ≠ "你自己选" |
+| §12.7 Medical Child Abuse 8 暗号 ⭐ v1.4.4 | 「**Persistent + Nonphysiologic + Inconclusive + Ineffective + 符号不符 + Caregiver-specific + Sibling 史 + Doctor shopping**」|
+| §12.7 Child Abuse Communication ⭐ v1.4.4 | 「**Safety-first / 不 assign blame / Inform legal mandate / Direct + specific language**」4 大原则 |
+| §12.7 Mandatory Reporter ⭐ v1.4.4 | 「**Reasonable suspicion = 报告；不需 proof + 不需 parental consent + 保密 + immunity**」|
+| §12.8 Boundary Crossing 3 Red Flags ⭐ v1.4.4 | 「**Unscheduled + after-hours + 拒 reasonable alternative**」|
+| §12.8 Boundary Management ⭐ v1.4.4 | 「**不评估 + direct schedule normal hours**」— 评估 = reward = reinforce future violations |
+| §12.8 Boundary vs Emergency ⭐ v1.4.4 | 「**1 周慢性 + 无 severe 症状 ≠ emergency；真 emergency → ED 不是 office unscheduled**」 |
+| §12.10 元规律 8 framework ⭐ v1.4.4 | 「**First step 永远是 "understand patient framework"**」+ 共同坏答案 4 类（jump to action / hypothesize emergency / dismissive reassurance / fear-based intervention）|
 
 ### 关联 v2（4 类齐全）
 
@@ -2036,6 +2247,9 @@ Minority / immigrant patient hesitant for screening / treatment
 | [[mistakes/uworld-mistakes#^Q21242]] ⭐ v1.4.3 | Cross-cultural Care — identify perceptions first，不是 materials / scientific → §12.3 |
 | [[mistakes/uworld-mistakes#^Q21733]] ⭐ v1.4.3 | Medication Adherence — automated reminders for forgetfulness，不是 belittling video → §12.4 |
 | [[mistakes/uworld-mistakes#^Q22080]] ⭐ v1.4.3 | SMART Goals + MI — lifestyle modification first step；routine 不需 preexercise CV testing → §12.5 |
+| [[mistakes/uworld-mistakes#^Q20432]] ⭐ v1.4.4 | PCC First Step — determine pain + activity impact，不 jump to weight loss recommendation；shared decision-making 边界 → §12.6 |
+| [[mistakes/uworld-mistakes#^Q106638]] ⭐ v1.4.4 | Medical Child Abuse Communication — direct + safety-first + 不 dismissive reassurance + mandatory reporting → §12.7 |
+| [[mistakes/uworld-mistakes#^Q3805]] ⭐ v1.4.4 | Boundary Setting — 不评估 + direct schedule normal hours + 不 hypothesize emergency caving → §12.8 |
 
 #### 做对题知识点集成（v1.4 + v1.4.1，不入错题库）
 
@@ -2099,7 +2313,7 @@ Minority / immigrant patient hesitant for screening / treatment
 
 > [!tip] 浩斯宾节点（14 道 + 衍生 v1.4）
 > - **D+1 一句话**：本衍生 §一-§十四 各 1 句知识点（被动复习）
-> - **D+2 主检测**：本衍生题目 + 19 道原错题混合抽题
+> - **D+2 主检测**：本衍生题目 + 22 道原错题混合抽题
 > - **D+7 / D+14 / D+30 滚动**：选择不同 §节 检测一遍
-> - **考前必看**：§十一 Medical Legal Foundations + §十二 Patient Communication & Counseling + §十三 9 大反射钩陷阱 + §十四 Memory Hooks 汇总（用户自行决定加 `#考前必看` 标签）
+> - **考前必看**：§十一 Medical Legal Foundations + §十二 Patient Communication & Counseling（**8 framework + 元规律**）+ §十三 10 大反射钩陷阱 + §十四 Memory Hooks 汇总（用户自行决定加 `#考前必看` 标签）
 > - **v1.4 新增重点复习**：§一 DEMAND vs REFUSE 不对称 / §八 End-of-life 5 档边界 + DNR 范围 / §九 Directive counseling 5 大假尊重反 pattern / §五.5 Collateral info 3 字诀 / §十 COI Blinding 局限
