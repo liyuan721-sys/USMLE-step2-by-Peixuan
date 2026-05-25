@@ -21013,3 +21013,176 @@
 > 状态:: 🟡
 > 错因:: 知识
 
+
+## 2026-05-25
+
+> [!example]- [2026-05-25] Psych / BED 一线用药 (浩斯宾Q3-生成题)
+>
+> ## Stem 模式
+> 27 yo female + BED + 3 binge/week × 4 mo + 痛苦 + 吃到不适 + 独自吃 + BMI 32 + CBT partial → 选药？
+>
+> ## 核心概念
+> **BED 一线 = lisdexamfetamine (Vyvanse) 或 topiramate**（FDA 批 BED）；**fluoxetine 是 Bulimia Nervosa 一线**（FDA 批 BN 60 mg/d），不是 BED 一线。
+>
+> ## 普适规则 — 3 大进食障碍一线对比
+>
+> | 进食障碍 | 一线药 | FDA 批准 |
+> |---|---|---|
+> | **Bulimia Nervosa (BN)** | **Fluoxetine** 60 mg/d ⭐ | ✅ 批 BN |
+> | **Binge Eating Disorder (BED)** | **Lisdexamfetamine** 或 **Topiramate** ⭐ | ✅ 批 BED |
+> | **Anorexia Nervosa (AN)** | **CBT + refeeding + 监护**（药物作用有限）| 无（olanzapine 仅极端低 BMI 增重）|
+>
+> ## 易混陷阱（普适）
+> - "BED + 选 fluoxetine 因为像 bulimia" ❌ — BED 一线**不**是 fluoxetine
+> - "Lisdexamfetamine 是 ADHD 药不能用于 BED" ❌ — Vyvanse **已 FDA 批 BED**（2015）
+> - "AN 上 olanzapine" ❌（除非严重低 BMI 增重）— AN 一线是非药（CBT / refeeding / 监护）
+>
+> ## 我为什么错
+> - 选了：A Fluoxetine
+> - 错因：知识
+> - 核心陷阱：把 BN 一线（fluoxetine）误套到 BED；不知道 BED 有自己 FDA 批准药（lisdexamfetamine / topiramate）
+>
+> ## Memory Hook
+> **"Bulimia → fluoxetine；BED → Vyvanse 或 topiramate；AN → 没药（CBT/refeeding/监护）"**
+> 类比：BN = "5-HT 失衡型暴食 → SSRI"；BED = "DA 奖赏失调型暴食 → 兴奋剂"；AN = "认知扭曲型 → 行为/营养"
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> 把 fluoxetine 当所有进食障碍通用 → 漏 BED 专属用药
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：（待积累 BED / BN / AN 用药题）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（进食障碍）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/内分泌]]（BED + 肥胖代谢 / lisdexamfetamine 心血管 / topiramate 减重副作用）
+> - 🌱 TODO（待生成衍生）：积累 ≥ 3 道进食障碍用药题后 → 建 [[完整笔记/专题笔记/psych/psych_进食障碍用药速查]]（BN / BED / AN 一线 + 二线 + 维持 + 共病用药对照）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做生成题
+> - [ ] 默写 3 大进食障碍一线（fluoxetine / lisdexamfetamine-topiramate / CBT-refeeding）
+> - [ ] 反射训练：看 BED stem + 选项有 fluoxetine vs lisdexamfetamine → 0.5 秒选 lisdexamfetamine
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: BED 一线用药（lisdexamfetamine / topiramate vs BN 的 fluoxetine）
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-25] 儿科 / Down syndrome 确诊方法 (浩斯宾Q11-生成题)
+>
+> ## Stem 模式
+> 新生儿 + Down 体征（hypotonia + 上斜睑裂 + 内眦赘皮 + single palmar crease + LLSB holosystolic murmur + sandal gap）→ confirm？
+>
+> ## 核心概念
+> **Down 确诊 = full karyotype**（gold standard）— **不是 FISH**。Karyotype 能识别**结构信息**（free trisomy 21 vs Robertsonian translocation t(14;21) vs mosaic），直接影响**复发风险评估 + 父母染色体咨询**。
+>
+> ## 普适规则 — FISH vs Karyotype
+>
+> | 工具 | 速度 | 识别什么 | 局限 |
+> |---|---|---|---|
+> | **FISH** | 24-48 hr 快 | **染色体数量**（trisomy 21 是 / 否）| **不能区分 free trisomy vs translocation** ⚠️ |
+> | **Karyotype** ⭐ | 1-2 周 | **完整结构**（free trisomy / t(14;21) / mosaic）| 慢；但**唯一能 confirm + 风险评估** |
+>
+> ## 普适规则 — Down syndrome 3 种染色体机制 + 复发风险
+>
+> | 机制 | 占比 | 母年龄相关 | **复发风险** |
+> |---|---|---|---|
+> | **Free trisomy 21**（meiotic nondisjunction）| ~95% | ✅ 强相关（高龄母亲）| ~1% |
+> | **Robertsonian translocation** t(14;21) 或 t(21;21) | ~3-4% | 不相关（遗传性）| **~10-15%**（父母 carrier 时）⚠️ 显著高 |
+> | **Mosaic Down** | ~1-2% | — | 表型多样 |
+>
+> ## 易混陷阱（普适）
+> - "FISH 快 = 首选 confirm" ❌ — FISH 是 screen（rapid prelim），**karyotype 才是 confirm**
+> - "Down 都是 trisomy 21 一种" ❌ — translocation Down 改变 recurrence risk + 需父母染色体筛查
+> - "Echo 是 confirm Down 的方法" ❌ — Echo 评估 cardiac defect（AVSD 等），不 confirm 染色体
+> - "cfDNA 已 prenatal 做过 = 不需新生儿 karyotype" ❌ — cfDNA 是 screen 不是 confirm
+> - "Newborn screening (Guthrie) confirm Down" ❌ — Guthrie 测代谢病（PKU / CH / SCD 等），不测染色体
+>
+> ## 我为什么错
+> - 选了：A FISH for trisomy 21
+> - 错因：知识
+> - 核心陷阱：知道 FISH 快但不知 FISH 不能区分 translocation；混淆 "screen rapid" 与 "confirm diagnostic"
+>
+> ## Memory Hook
+> **"FISH 数染色体快；Karyotype 看结构准 → Down confirm = karyotype（识别 translocation 影响下胎风险 + 父母筛查）"**
+> 类比：FISH = 体温计（数数）；Karyotype = MRI（结构）— 确诊重病要看结构不只数字
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> "FISH 快 = confirm"反射 — 没区分 screen vs confirm
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：（待积累遗传 syndrome 确诊题）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/儿科]] / [[完整笔记/Peixuan分科笔记/newborn care and screening]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/OB]]（prenatal screening — cfDNA / NT scan / quad screen vs 确诊 amnio / CVS karyotype）/ [[完整笔记/Peixuan分科笔记/心内]]（Down + AVSD 高频心脏 defect）
+> - 🌱 TODO（待生成衍生）：积累遗传 syndrome 确诊题后 → 建 [[完整笔记/专题笔记/儿科/儿科_新生儿遗传确诊速查]]（Down / Edwards / Patau / Turner / Klinefelter → FISH vs karyotype vs SNP array 选择）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做生成题
+> - [ ] 默写 FISH vs Karyotype 区别（数量 vs 结构 / 速度 vs 准确）
+> - [ ] 默写 Down 3 机制 + 各自 recurrence risk
+> - [ ] 反射训练：看新生儿 syndrome 体征 + confirm？→ 0.5 秒喊 karyotype
+>
+> ---
+>
+> 学科:: 儿科
+> 主题:: Down syndrome 确诊方法（karyotype vs FISH — 识别 translocation 影响 recurrence）
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-25] Psych / Tourette 阶梯升级（α2 失败后下一步）(浩斯宾Q10-生成题-做对带卡点)
+>
+> ## Stem 模式
+> 14 yo Tourette + multiple motor + vocal tics × 18 mo + failed habit-reversal + failed guanfacine × 1 yr + 严重影响 → next step？
+>
+> ## 核心概念
+> **α2-agonist 整类**（clonidine = guanfacine 同类）失败 → **升级到 antidopaminergic**（risperidone / aripiprazole / haloperidol / tetrabenazine / VMAT2）— **不**再换 clonidine（同类换 = 不算升级）
+>
+> ## 普适规则 — Tourette 治疗 4 阶梯
+>
+> | 阶梯 | 干预 | 关键 |
+> |---|---|---|
+> | **① CBIT** | Comprehensive Behavioral Intervention for Tics（含 habit-reversal therapy）| 一线 — 轻中度首选 |
+> | **② α2-agonist** | **Clonidine** 或 **Guanfacine**（**同类平等**）| 一线药；副作用少 |
+> | **③ Antidopaminergic** | Risperidone / Aripiprazole / Haloperidol / Tetrabenazine（VMAT2）/ Pimozide | α2 失败后；EPS 风险 |
+> | **④ DBS** | Deep brain stimulation | Refractory + 重度损害 |
+>
+> ## 易混陷阱（普适）
+> - "Failed guanfacine → 换 clonidine 试" ❌ — 同类换不是阶梯升级，再失败可能性高
+> - "Tics → 上 benztropine" ❌ — benztropine 是 EPS 急性 dystonia 药，与 tics 无关
+> - "Tourette + ADHD → methylphenidate" ❌ — 兴奋剂**可能加重 tics**（CK stem 偏 avoid）
+> - "Watchful waiting" ❌ — 已严重学校 disruption + 社交退缩 = 需治疗
+>
+> ## 我为什么错（做对带卡点）
+> - 答 D ✓（正确）但带 ? 不自信
+> - 卡点：纠结 A clonidine vs D antidopaminergic — 没意识到 clonidine = guanfacine 同类
+> - 修正反射：看到 "failed guanfacine" = α2 整类已失败 → **跳到 antidopaminergic**
+>
+> ## Memory Hook
+> **"Tourette 4 阶梯：CBIT → α2（clonidine = guanfacine 同类）→ antidopaminergic → DBS"**
+> **反射钩**：失败 guanfacine = α2 整类失败 → 不再换同类 → 直接升级 antidopaminergic
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> 没把 clonidine 与 guanfacine 识别为同类 — 反射卡 0.5 秒
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：[[完整笔记/专题笔记/psych/_衍生_Tourette诊断与治疗]]（已有衍生 — Tourette 诊断 + 阶梯）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（Tourette 神经基础 — 基底节多巴胺过度）
+> - 🌱 TODO：本次卡点 → 衍生笔记加"α2 整类 vs 同类换药 反射"
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做生成题
+> - [ ] 默写 Tourette 4 阶梯 + α2 同类列表（clonidine / guanfacine）
+> - [ ] 反射训练：failed α2 + 选项有 clonidine vs antidopaminergic → 0.3 秒选 antidopaminergic
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Tourette 治疗阶梯（α2 整类失败 → 升级 antidopaminergic，不换同类 clonidine）
+> 状态:: 🟡
+> 错因:: 知识
