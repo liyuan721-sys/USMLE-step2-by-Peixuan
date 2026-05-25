@@ -3070,8 +3070,8 @@
 
 | 项目 | TCA | SSRI | Lithium |
 |:---|:---|:---|:---|
-| 题眼 | 抗胆碱 + QRS↑ + 心律 | 5-HT 综合征 | 震颤 + 共济 + 多尿 / 多饮 |
-| 治疗 | NaHCO3、IVF | cyproheptadine、停药 | IVF NS；重 → 透析 |
+| 题眼 | 抗胆碱 + QRS > 100 ms + **seizure** + 心律失常（3 C's: Convulsion / Coma / Cardiotox）| 5-HT 综合征 | 震颤 + 共济 + 多尿 / 多饮 |
+| 治疗 | **NaHCO₃ + benzo**（禁 phenytoin / flumazenil / physostigmine）| cyproheptadine、停药 | IVF NS；重 → 透析 |
 
 ---
 

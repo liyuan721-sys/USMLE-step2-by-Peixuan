@@ -44,11 +44,76 @@ type: 专题笔记
 > - **SNRI 特有**：**剂量依赖性血压升高**（Venlafaxine 高剂量明显）。
 > - **5-HT 综合征（Serotonin syndrome）**：与其他 5-HT 能药（MAOI、tramadol、linezolid、triptan）合用风险高 → 急诊见 [[完整笔记/专题笔记/psych/psych_物质急诊速查]] §5。
 
-> [!warning] TCA 副作用（"三抗"+ 心脏毒性）
+> [!warning] TCA 副作用（"三抗"+ 心脏毒性）— 治疗剂量
 > - **抗胆碱（Anticholinergic）**：口干、便秘、尿潴留、视物模糊。
 > - **抗组胺（Antihistaminic）**：镇静、体重增加。
 > - **α1 阻断**：体位性低血压。
-> - **心脏毒性**：QT/QRS 延长 → **过量致命**（钠通道阻滞 → 宽 QRS 心律失常，治疗用 **碳酸氢钠 NaHCO₃**）。老年人跌倒、ECG 异常需警惕。
+> - **心脏毒性**：QT/QRS 延长（钠通道阻滞）→ 老年人跌倒、ECG 异常需警惕。
+> - **降低癫痫阈值**：治疗剂量即可促发 seizure，已有 seizure 障碍者禁用。
+
+> [!danger] TCA 过量综合征（TCA Overdose）— "3 C's" ⭐⭐⭐
+> 抗抑郁药过量**死亡率最高的一类**；青少年/抑郁患者吞服 amitriptyline / nortriptyline / imipramine / clomipramine / doxepin 是经典 stem。**症状常在摄入后 1-2 小时内爆发**。
+>
+> **三联毒性 "3 C's"**：
+> - **C**onvulsions（抽搐 / seizure）
+> - **C**oma（昏迷 / CNS 抑制）
+> - **C**ardiotoxicity（心脏毒性 — Wide QRS、心律失常、低血压）
+>
+> **加上 anticholinergic toxidrome**（散瞳 / 干红怒热 / 谵妄 / 高热 / 肠麻痹 / 尿潴留）。
+>
+> **TCA 散瞳 = 双重机制**（不同于纯抗胆碱药）：
+> - ① 阻 M3 → 瞳孔括约肌失能（副交感关）
+> - ② 阻 NE 再摄取 → α1 激动开大肌（交感加强）
+> - → 完整瞳孔双重支配机制见 [[完整笔记/专题笔记/psych/psych_物质急诊速查#8.1 Anticholinergic Toxidrome — "Hot / Dry / Red / Crazy"]]
+>
+> **多通路毒性机制**：
+> - **Na⁺ channel blockade**（最重要）→ Wide QRS、室性心律失常、降低 seizure 阈值。
+> - **抗胆碱（M1）** → toxidrome + 谵妄。
+> - **抗组胺（H1）** → 镇静 / 昏迷。
+> - **α1 阻断** → 低血压、反射性心动过速。
+> - **GABA-A 拮抗 + 5-HT/NE 摄取阻断** → 进一步降低 seizure 阈值。
+
+> [!tip] ECG 是关键预测因子（高频考点）
+> 摄入后任何精神科药物中毒患者**第一步：12-lead ECG**。
+>
+> | QRS 宽度 | 风险预测 |
+> |---|---|
+> | **> 100 ms** | 预示 **seizure** 风险升高 → 监护 + 准备 NaHCO₃ |
+> | **> 160 ms** | 预示 **室性心律失常 / VT** 风险 → 立即 NaHCO₃ |
+> | **R wave 在 aVR > 3 mm** | 提示 Na⁺ 通道阻滞 |
+>
+> Wide QRS = "Na⁺ channel blocker overdose" 的硬指标（不只是 TCA — 也见于 cocaine、quinidine、bupropion 过量）。
+
+> [!success] TCA 过量治疗 — IV Sodium Bicarbonate 是核心
+> ```
+> 治疗优先级
+> ──────────────────────────────
+> ① ABC + 12-lead ECG + 心电监护
+> ② IV NaHCO₃（一线，针对 wide QRS + seizure + 心律失常）
+>    机制：① 解除 Na⁺ 通道阻滞（钠负荷竞争）
+>          ② 碱化血液（pH > 7.5）→ TCA 与白蛋白结合↑ → 游离药↓
+>          目标 pH 7.45-7.55
+> ③ Benzodiazepines（lorazepam / diazepam）控制 seizure
+> ④ IV fluids + Norepinephrine（治低血压）
+> ⑤ 活性炭（摄入 < 1-2 h 且气道保护好）
+> ```
+>
+> **禁忌 / 陷阱（USMLE 爱考）**：
+> - ❌ **Phenytoin** — 自己也是 Na⁺ blocker，加重心脏毒性；**用 benzo 不用 phenytoin**。
+> - ❌ **Flumazenil** — 若合并 benzo 服用 → 解除 benzo 保护 → 诱发难控 seizure。
+> - ❌ **Physostigmine** — 治疗抗胆碱中毒的特异解药，但在 TCA OD 中可**诱发 asystole / seizure**，禁用。
+> - ❌ **1A / 1C 抗心律失常药**（quinidine、procainamide、flecainide）— 同为 Na⁺ blocker，加重 QRS 延长。
+> - ❌ **β-blocker** — 加重低血压与心脏传导阻滞。
+
+> [!question]- 经典 stem 自测
+> 17 岁女性，抑郁病史，被发现意识不清。母亲发现祖母的 amitriptyline 药瓶空了。查体：BP 85/50, HR 130, T 38.5°C，瞳孔散大，皮肤干红，肠鸣音消失。ECG：QRS 140 ms，窦速。患者突然全身强直阵挛抽搐。
+> **下一步处理是？**
+>
+> > **答案：IV Sodium Bicarbonate + IV Lorazepam**
+> > - NaHCO₃ 同时解决 wide QRS（>100 ms）+ 抗 seizure（碱化降游离药）+ 预防 VT
+> > - Lorazepam 控制 active seizure
+> > - 抗胆碱 toxidrome（散瞳 / 干红 / 高热 / 肠麻痹）+ wide QRS + seizure = TCA OD 教科书三联
+> > - **不用** phenytoin（加重 Na⁺ 阻滞）/ flumazenil / physostigmine
 
 > [!danger] MAOI（代表药 Phenelzine）副作用 — 高血压危象与酪胺
 > **记住 Phenelzine = 最常考的 MAOI**（同类还有 tranylcypromine / isocarboxazid / selegiline）。名字记不住就**反着推**——见到"陈年奶酪 / 红酒诱发高血压"或"换药要等好几周（washout）"就反推 MAOI = phenelzine。
