@@ -5,10 +5,90 @@ tags:
   - 通用方法论
 created: 2026-05-23
 type: 专题笔记
-source: v1 错题驱动 9 道 Ethics 同日整合（Q3625 + Q18702 + Q105595 + Q3614 + Q19048 + Q7283 + Q3624 + Q19132 + Q21627）；v1.1 增量 Q21658 Adolescent CF advance care planning family-centered（§七 新增子节）2026-05-23；v1.2 增量 §六 "父母不一致 → 听谁的"explicit 子节（asymmetric 决策 + 7 反转场景 + Q3624 题逻辑应用）2026-05-23；v1.3 增量 §三 MAT 速查子节（OUD 三药 + 启动时机 precipitated withdrawal + AUD 三药 + 道德反 pattern）2026-05-23；**v1.4（2026-05-24）大幅增量** — 5 新错题（Q106885 COI + Q107705 DNR≠DoNotTreat + Q19063 Directive counseling + Q22639 Autonomy DEMAND/REFUSE 不对称 + Q3742 Collateral info）+ 4 做对题知识补充（VSED + DMC rationale 探索 + Advance directive 完整 SOP + RCT control ethics）。具体：①§一 新增 DEMAND vs REFUSE 不对称子节 ②§二 补 Surrogate hierarchy 完整版（POA/guardian 顶层）+ Capacity vs Competency 区分 + Rationale 探索 ≠ capacity 通过 ③§五 新增 §五.5 Collateral Information SOP ④§八 大改 — 新增 DNR 范围限定子节 + Advance Directive 完整 SOP（Living will vs POA）+ VSED 子节 ⑤新增 §十一 Directive Counseling ⑥新增 §十二 Research Ethics（COI + RCT design）⑦§九 新增陷阱 7/8/9（窄定义误读 / Autonomy 方向误读 / Confidentiality 方向误读）⑧§十 Memory Hooks + 关联表 + TODO 更新；**v1.4.1（同日）增量** — 3 个 research / capacity 知识点：①§二 新增"Cognitive Impairment / Intellectual Disability 时 facilitate understanding before judging capacity" ②§10.2 扩充"Stopping RCT early 3 类（benefit/harm/futility）+ DSMB 角色" ③§10 新增 §10.3 "Vulnerable Populations Research Recruitment + Inducement / Compensation proportionate"；**v1.4.2（同日）增量** — 3 张做对题（Q107273 DSMB / Q107497 Medical Malpractice / Q19110 Emergency exception + Informed refusal）：①§10.1 / §10.2 扩充 DSMB（external to research team AND study sponsor 双独立 + unblinded data review + IRB vs DSMB 角色对比）②新增 §十一 Medical Legal Foundations（Malpractice 4 D's + Informed Consent SOP + Informed Refusal 同 elements + Emergency Exception + Retroactive Consent 不存在）；原 §十一 9 大陷阱 → §十二；原 §十二 Memory Hooks → §十三；**v1.4.3（同日）增量** — 5 道新 communication 错题（Q21143 wish...worry + Q20531 IPV + Q21242 cross-cultural + Q21733 adherence + Q22080 SMART/MI）打包成新 §十二 Patient Communication & Counseling Frameworks（5 子节 + 横向对比表 + 5 framework 共同点元规律）；§十二 反射钩 → §十三，§十三 Memory Hooks → §十四；§十三 升级 9 → 10 大陷阱（新增 ⑩ Fear-based / Dramatic intervention 误当 effective）；**v1.4.4（同日）增量** — 3 道新错题（Q20432 PCC + Q106638 Medical Child Abuse + Q3805 Boundary Setting）进 §十二：新增 §12.6 PCC + §12.7 Suspected Child Abuse Communication + §12.8 Boundary Setting；原 §12.6 横向对比 → §12.9（含 8 个 framework）；原 §12.7 元规律 → §12.10（升级 5 → 8 framework 共同点）；**v1.4.5（2026-05-24 增量）** — 5 道 UW 做对题知识补充进 §十二：①§12.11 Acutely Psychotic Communication（acknowledge experience 不 reinforce 不 challenge / safety contract 在无 insight 时危险）②§12.12 Agitated ED Verbal Deescalation（offer basic needs food/drink/blanket / restraint = last resort）③§12.13 Antibiotic Stewardship Counseling for URI / Acute Bronchitis（reframe as "chest cold" / sputum color 不特异 / delayed Rx）④§12.14 Nonstandard Harmful Therapy Maintain Alliance（explain risks + respect autonomy + frequent f/u monitor toxicity / waiver 不必要 / 不 abandon patient）⑤§12.15 Gift Acceptance Mental State Consideration（5 factors case-by-case / mood episode → politely decline regardless）；§12.9 横向对比表升级到 13 framework；§12.10 元规律升级 8 → 13 framework + 新增 4 大坏答案 pattern（共 8 大）+ 新增 "First Step Understand" 3 层结构深度理解 callout；**同日续增 2 道做对题** — ⑥§七 新增 "Parent Wishes to Withhold Information — Collaboration-First Approach"（4 步 SOP: Validate + Educate + Rationale + Collaborate plan / 不 disapproval / 不 fear-based / 不 delay-when-risk / 不 bypass）⑦§八 新增 §8.6 Code Status Discussion Framework（4 大原则: Reassure care priority + Broader goals + Comprehensive package + Neutral terminology / 双向避 leading: "keep alive" vs "tubes and machines" / a-la-carte = 钓饵 / 与 §8.1 5 档衔接）；**v1.4.6（2026-05-25 增量）** — 6 道错题 + 1 道做对题：①§二 Surrogate hierarchy 新增 "Alternate Surrogate when Default Family Ineligible"（Q21724 — sensitive Dx 不想 family 知 → designate non-family alternate ASAP / treating physician 不能 designate as surrogate COI）②§8.5 Surrogate decision 指南新增 "帮 Distressed Surrogate 3 大技巧"（Q23113 — refocus on patient + help apply knowledge + shared decision-making / "I trust you" = passive abandonment / "Help me understand patient before illness" 钥匙句式）③§12.3 Cross-cultural Care 新增 "Organizational Level"子节（Q21309 — train providers identify preferences / Skill 不是 knowledge / 4 大 stereotyping 反 pattern）④§12.14 新增 "Non-harmful CAM Brand Selection — Independent Third-Party Verification"（Q21972 — US Pharmacopeia 评估 purity+manufacturing 不评估 safety/effectiveness / FDA limited authority DSHEA 1994 / harmful vs non-harmful CAM 区分表）⑤§十二 新增 §12.16 Controlled Substance Agreement Universal Procedure Reframe（Q105781 — Pain contract 5 要素 + reframe everyone on chronic opioid therapy / 不强调 identify addict / 不 protect license）⑥§十二 新增 §12.17 Low Health Literacy（Q107339 做对题 — subtle clues + adverse outcomes 缺席 appointments + 高 ED use / Teach-back + visual aids + plain language / Health literacy ≠ literacy）⑦§十二 新增 §12.18 Smoking Cessation 4 Stage（Q21980 — Struggling smoker = confidence gap not accountability / threshold effect — complete cessation only / 5 attempts average / Varenicline reduce-to-quit 2x durable abstinence）；§12.9 横向对比升级到 16 framework；§12.10 元规律升级 13 → 16 framework + first step 形态新增 3 条；**v1.4.7（2026-05-25 续增 — 5 道做对题知识补充 + 6 道错题日期回溯）** — 6 道错题日期 5/25 改为实际做题日 5/24（mistakes 文件 ## 节合并）+ 5 道做对题知识入库 derivative：①§8.7 新增 Home Hospice Care Eligibility + 4 大 misconceptions（Q21142 — hospice 不缩短 life expectancy 反 small ↑ survival / early referral enhances / patient selection ≤6 mo + agreement forgo curative + family caregiver / typical services + grief counseling）②§8.8 新增 Elderly ESRD Conservative Kidney Care vs Dialysis Counseling（Q21210 — dialysis benefit negligible in elderly comorbid + functional decline / conservative care = comfort + 6 mo-2 yr life expectancy / patient asks X → 必 explain X benefits + risks 不 unilateral eliminate）③§11.8 新增 Patient Safety & Sentinel Events（Q19737 — RFO sentinel event + effective teams 6 features + simulation training in team-based safety communication / Manual counts 不防 RFO error-prone 80% / Poor teamwork = root cause）④§12.4 新增 "Lack-of-Rapport Adherence Barrier — Continuity of Care"（Q21723 — same provider builds rapport → patient share barriers / 3 层 patient/physician/system 框架 / 不 family burden 不 fees 不 free samples）⑤§十二 新增 §12.19 Behavioral Weight Loss Self-monitoring（Q18657 — 4 大组件 stimulus control + physical activity + self-monitoring + accountability / Self-monitoring（weight+food+exercise）= ↑success + ↑long-term maintenance / Meds threshold BMI≥30 OR ≥27+comorbidity）；§12.9 横向对比升级到 17 framework；§12.10 元规律升级 16 → 17 framework
+version: v1.4.7
 ---
 
 # Ethics 精简框架 — USMLE Step 2 完整 9 大主题
+
+> [!info]- 版本历史（点击展开）
+>
+> ### v1（2026-05-23）— 初版
+> 错题驱动 9 道 Ethics 同日整合：Q3625 + Q18702 + Q105595 + Q3614 + Q19048 + Q7283 + Q3624 + Q19132 + Q21627
+>
+> ### v1.1（2026-05-23）
+> 增量 Q21658 Adolescent CF advance care planning family-centered（§七 新增子节）
+>
+> ### v1.2（2026-05-23）
+> §六 "父母不一致 → 听谁的" explicit 子节（asymmetric 决策 + 7 反转场景 + Q3624 题逻辑应用）
+>
+> ### v1.3（2026-05-23）
+> §三 MAT 速查子节（OUD 三药 + 启动时机 precipitated withdrawal + AUD 三药 + 道德反 pattern）
+>
+> ### v1.4（2026-05-24）— 大幅增量
+> 5 新错题（Q106885 COI + Q107705 DNR≠DoNotTreat + Q19063 Directive counseling + Q22639 Autonomy DEMAND/REFUSE 不对称 + Q3742 Collateral info）+ 4 做对题知识补充（VSED + DMC rationale 探索 + Advance directive 完整 SOP + RCT control ethics）
+> - §一 新增 DEMAND vs REFUSE 不对称子节
+> - §二 补 Surrogate hierarchy 完整版（POA/guardian 顶层）+ Capacity vs Competency 区分 + Rationale 探索 ≠ capacity 通过
+> - §五 新增 §五.5 Collateral Information SOP
+> - §八 大改：新增 DNR 范围限定子节 + Advance Directive 完整 SOP（Living will vs POA）+ VSED 子节
+> - 新增 §十一 Directive Counseling
+> - 新增 §十二 Research Ethics（COI + RCT design）
+> - §九 新增陷阱 7/8/9（窄定义误读 / Autonomy 方向误读 / Confidentiality 方向误读）
+> - §十 Memory Hooks + 关联表 + TODO 更新
+>
+> ### v1.4.1（2026-05-24）
+> 3 个 research / capacity 知识点：
+> - §二 新增 Cognitive Impairment / Intellectual Disability 时 facilitate understanding before judging capacity
+> - §10.2 扩充 Stopping RCT early 3 类（benefit/harm/futility）+ DSMB 角色
+> - §10 新增 §10.3 Vulnerable Populations Research Recruitment + Inducement / Compensation proportionate
+>
+> ### v1.4.2（2026-05-24）
+> 3 张做对题（Q107273 DSMB / Q107497 Medical Malpractice / Q19110 Emergency exception + Informed refusal）：
+> - §10.1 / §10.2 扩充 DSMB（external to research team AND study sponsor 双独立 + unblinded data review + IRB vs DSMB 角色对比）
+> - 新增 §十一 Medical Legal Foundations（Malpractice 4 D's + Informed Consent SOP + Informed Refusal 同 elements + Emergency Exception + Retroactive Consent 不存在）
+> - 原 §十一 9 大陷阱 → §十二；原 §十二 Memory Hooks → §十三
+>
+> ### v1.4.3（2026-05-24）
+> 5 道新 communication 错题（Q21143 wish-worry + Q20531 IPV + Q21242 cross-cultural + Q21733 adherence + Q22080 SMART/MI）打包成新 §十二 Patient Communication & Counseling Frameworks（5 子节 + 横向对比表 + 5 framework 共同点元规律）
+> - §十二 反射钩 → §十三，§十三 Memory Hooks → §十四
+> - §十三 升级 9 → 10 大陷阱（新增 ⑩ Fear-based / Dramatic intervention 误当 effective）
+>
+> ### v1.4.4（2026-05-24）
+> 3 道新错题（Q20432 PCC + Q106638 Medical Child Abuse + Q3805 Boundary Setting）进 §十二：
+> - 新增 §12.6 PCC + §12.7 Suspected Child Abuse Communication + §12.8 Boundary Setting
+> - 原 §12.6 横向对比 → §12.9（含 8 个 framework）；原 §12.7 元规律 → §12.10（升级 5 → 8 framework 共同点）
+>
+> ### v1.4.5（2026-05-24）
+> 5 道 UW 做对题知识补充进 §十二：
+> - §12.11 Acutely Psychotic Communication（acknowledge experience 不 reinforce 不 challenge / safety contract 在无 insight 时危险）
+> - §12.12 Agitated ED Verbal Deescalation（offer basic needs food/drink/blanket / restraint = last resort）
+> - §12.13 Antibiotic Stewardship Counseling for URI / Acute Bronchitis（reframe as "chest cold" / sputum color 不特异 / delayed Rx）
+> - §12.14 Nonstandard Harmful Therapy Maintain Alliance（explain risks + respect autonomy + frequent f/u monitor toxicity / waiver 不必要 / 不 abandon patient）
+> - §12.15 Gift Acceptance Mental State Consideration（5 factors case-by-case / mood episode → politely decline regardless）
+> - §12.9 升级 13 framework；§12.10 升级 8 → 13 framework + 新增 4 大坏答案 pattern + "First Step Understand" 3 层结构深度理解 callout
+>
+> **同日续增 2 道做对题**：
+> - §七 新增 Parent Wishes to Withhold Information — Collaboration-First Approach（4 步 SOP: Validate + Educate + Rationale + Collaborate plan）
+> - §八 新增 §8.6 Code Status Discussion Framework（4 大原则: Reassure care priority + Broader goals + Comprehensive package + Neutral terminology / 双向避 leading / a-la-carte = 钓饵）
+>
+> ### v1.4.6（2026-05-25）
+> 6 道错题 + 1 道做对题：
+> - §二 Surrogate hierarchy 新增 Alternate Surrogate when Default Family Ineligible（Q21724 — sensitive Dx 不想 family 知 → designate non-family alternate ASAP / treating physician 不能 designate as surrogate COI）
+> - §8.5 Surrogate decision 指南新增 帮 Distressed Surrogate 3 大技巧（Q23113 — refocus on patient + help apply knowledge + shared decision-making / "I trust you" = passive abandonment）
+> - §12.3 Cross-cultural Care 新增 Organizational Level 子节（Q21309 — train providers identify preferences / Skill 不是 knowledge / 4 大 stereotyping 反 pattern）
+> - §12.14 新增 Non-harmful CAM Brand Selection — Independent Third-Party Verification（Q21972 — US Pharmacopeia / FDA limited authority DSHEA 1994 / harmful vs non-harmful CAM 区分）
+> - 新增 §12.16 Controlled Substance Agreement Universal Procedure Reframe（Q105781 — Pain contract 5 要素 + reframe everyone on chronic opioid therapy）
+> - 新增 §12.17 Low Health Literacy（Q107339 做对题 — subtle clues + adverse outcomes 缺席 appointments + 高 ED use / Teach-back + visual aids / Health literacy ≠ literacy）
+> - 新增 §12.18 Smoking Cessation 4 Stage（Q21980 — Struggling smoker = confidence gap not accountability / threshold effect — complete cessation only / Varenicline reduce-to-quit 2x durable abstinence）
+> - §12.9 升级 16 framework；§12.10 升级 13 → 16 framework + first step 形态新增 3 条
+>
+> ### v1.4.7（2026-05-25）— 5 道做对题知识补充 + 6 道错题日期回溯
+> 6 道错题日期 5/25 改为实际做题日 5/24（mistakes 文件 ## 节合并）+ 5 道做对题知识入库：
+> - §8.7 新增 Home Hospice Care Eligibility + 4 大 misconceptions（Q21142 — hospice 不缩短 life expectancy 反 small ↑ survival / early referral enhances / patient selection ≤6 mo + agreement forgo curative）
+> - §8.8 新增 Elderly ESRD Conservative Kidney Care vs Dialysis Counseling（Q21210 — dialysis benefit negligible in elderly comorbid + functional decline / conservative care = comfort + 6 mo-2 yr life expectancy）
+> - §11.8 新增 Patient Safety & Sentinel Events（Q19737 — RFO sentinel event + effective teams 6 features + simulation training / Manual counts 不防 RFO / Poor teamwork = root cause）
+> - §12.4 新增 Lack-of-Rapport Adherence Barrier — Continuity of Care（Q21723 — same provider builds rapport → patient share barriers / 3 层 patient/physician/system 框架）
+> - 新增 §12.19 Behavioral Weight Loss Self-monitoring（Q18657 — 4 大组件 stimulus control + physical activity + self-monitoring + accountability / Meds threshold BMI≥30 OR ≥27+comorbidity）
+> - §12.9 升级 17 framework；§12.10 升级 16 → 17 framework
 
 > [!tip] 一句话总览
 > **Autonomy 和 Privacy 都是 conditional 不是 unconditional** — 永远先扫例外 / 限制条件再决定操作。
