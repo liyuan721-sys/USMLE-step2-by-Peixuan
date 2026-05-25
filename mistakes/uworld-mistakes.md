@@ -21186,3 +21186,314 @@
 > 主题:: Tourette 治疗阶梯（α2 整类失败 → 升级 antidopaminergic，不换同类 clonidine）
 > 状态:: 🟡
 > 错因:: 知识
+
+> [!example]- [2026-05-25] Ethics / Hospice eligibility — 放弃 curative，可保留 palliative (Q21141)
+> ^Q21141
+>
+> ## Stem 模式
+> 67 yo female + 晚期 RCC + combo immunotherapy (nivo + ipi, curative intent) + 椎转移 palliative radiotherapy + 家人问能否启动 hospice → 最适回应？
+>
+> ## 核心概念
+> **Hospice 入选 = ① 终末病预期 ≤6 mo + ② 同意放弃 curative / life-prolonging 治疗** — **但可继续 palliative**（如 palliative radiotherapy / 止痛 / 抗呕）。
+> 本题 immunotherapy (nivo + ipi) 是 curative → 必须停才能入 hospice；脊柱放疗是 palliative → 可继续。
+>
+> ## 普适规则
+>
+> ### Hospice vs Palliative care 边界 ⭐
+>
+> | 项目 | Hospice | Palliative care |
+> |---|---|---|
+> | **入选** | 预期 ≤6 mo + 放弃 curative | 任何阶段，不限预后 |
+> | **同时接 curative tx？** | ❌ 不能 | ✅ 可以 |
+> | **场所** | 家 / nursing home / inpatient hospice | 任何场所，含住院 curative tx 期间 |
+> | **典型服务** | 上门护士 + 药物滴定 + 心理 / 灵性 / 哀伤辅导 + DME | 类似但不要求放弃 curative |
+> | **DNR 必需？** | ❌ 不强制（虽多数会签）| ❌ 不强制 |
+>
+> ### "Curative vs Palliative treatment" 判定窗口
+> - **Curative / life-prolonging**：immunotherapy / 化疗（治疗量）/ 根治手术 / 透析（多数情境）→ hospice 期间**停**
+> - **Palliative**：放疗止痛 / 姑息手术（止血 / 减压）/ 止痛 / 抗呕 / 抗生素治症状感染 → hospice 期间**可继续**
+> - **判断锚点**：看治疗**意图（intent）**，不看药名 — 同一药低剂量止痛 OK，高剂量根治不行
+>
+> ## 易混陷阱（普适）
+>
+> ### 干扰项分析（本题）
+> | 选项 | 为什么错 |
+> |---|---|
+> | A. "必须停所有 cancer treatment" | **过严** — palliative 放疗可继续；只需停 curative |
+> | **B. "可继续 curative immunotherapy"** ⭐ 我选 | **方向反了** — hospice 必须放弃 curative；immunotherapy 是 curative intent |
+> | C. "必须签 DNR" | **过严** — hospice **不强制 DNR**（虽多数签）|
+> | D. ✅ "停 curative，可入 hospice" | 正确 |
+> | E. "只需停 palliative radiotherapy" | **方向反了** — palliative tx 可继续，要停的是 curative |
+>
+> ### CK 高频陷阱（普适）
+> 1. **Hospice ≠ DNR** — hospice 不强制 DNR，DNR 也不等于 hospice
+> 2. **Hospice ≠ 停所有治疗** — palliative 治疗（含 palliative 放疗 / 手术）**继续**
+> 3. **Hospice 期间 acute illness**（如 MI / 感染）→ 可短暂收治 + life-prolonging treatment 不取消 hospice 资格
+> 4. **Medicare 覆盖**：>65 yo 入 Medicare hospice benefit，多数私保也覆盖
+>
+> ## 我为什么错
+> - 选了：B（hospice 可与 curative immunotherapy 同时）
+> - 错因：知识
+> - 核心陷阱：没掌握 hospice 准入条件 "discontinue curative / life-prolonging" — 把 hospice 当 palliative care 用
+>
+> ## Memory Hook
+> **"Hospice = 放弃 curative，留 palliative"** — 安宁三件套：① ≤6 mo + ② 放弃治本 + ③ 留治症（止痛 / 放疗止痛 / 抗呕 / 心理）
+> 反射钩：看到 "continuing immunotherapy / chemotherapy + want hospice" → 0.3 秒喊"不行 — 先停 curative"
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> Hospice 与 palliative care 的边界 — 误以为 hospice 也可同时接 curative
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：[[mistakes/uworld-mistakes#^Q19553]]（同日 — FMEA prospective）/ [[mistakes/uworld-mistakes#^Q106239]]（同日 — surgical time-out）/ [[mistakes/uworld-mistakes#^Q21477]]（同日 — Swiss Cheese Model）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（§八 End-of-Life — 当前无 hospice eligibility 节，需补）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/hematology oncology]]（晚期癌症 goal-of-care 转折）
+> - 🌱 TODO：本日 4 题 Ethics / Patient Safety 集中错 → 建 [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]]（FMEA / RCA / Control chart / Swiss Cheese / Forcing function / Time-out / Closed-loop / Hospice eligibility 速查）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q21141
+> - [ ] 默写 hospice 准入 2 条 + DNR 不强制
+> - [ ] 默写 curative vs palliative 判定锚点（看 intent）
+> - [ ] 反射训练：看 "want hospice but on chemo / immuno" → 0.3 秒说"先停 curative"
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Hospice eligibility（放弃 curative，可保留 palliative；不强制 DNR）
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-25] Ethics / FMEA prospective — 新流程上线前用 (Q19553)
+> ^Q19553
+>
+> ## Stem 模式
+> 社区医院新开 ICU（**尚未运行**）— 多学科团队组建 + 学术中心供应 + 接收 transfer → 问哪个工具最适 systematically mitigate potential errors **before operations begin**？
+>
+> ## 核心概念
+> **FMEA (Failure Mode and Effects Analysis) = 唯一前瞻 (prospective) 工具** — 流程**还没跑、问题还没出**时识别失败模式 + 后果 + 原因 → 设计预防方案。
+> RCA / Control chart / Near-miss 都是**回顾性 (retrospective)**，要求已有运行数据 / 已发生事件。
+>
+> ## 普适规则 — Patient Safety / QI 4 大工具时间轴
+>
+> | 工具 | 时机 | 触发 | 核心动作 |
+> |---|---|---|---|
+> | **FMEA** ⭐ | **prospective**（流程未跑）| 新流程 / 高风险流程改造 | 多学科团队 → 列 failure modes → severity × probability → 优先级 → 预防设计 |
+> | **Control chart** | retrospective | 流程已运行有数据 | 画数据随时间 + UCL/LCL → 超界 = 信号 |
+> | **RCA (Root Cause Analysis)** | retrospective | **已发生事件**（adverse / sentinel）| 反复问 "为什么" → 找系统根因 |
+> | **Near-miss analysis** | retrospective | **差点发生但被截停** | 回顾 close call → 找拦截原因 + 强化 |
+>
+> ### FMEA 5 步流程
+> 1. 组多学科团队（physicians / nurses / RT / pharmacist…）
+> 2. 定义 topic（如 "ventilator alarm malfunction" "bedsore prevention"）
+> 3. 流程图描绘（每步骤）
+> 4. 识别 failure modes（每步会怎么坏）+ effects + causes
+> 5. Hazard decision matrix → 优先级 → action plan
+>
+> ## 易混陷阱（普适）
+>
+> ### 干扰项分析（本题）
+> | 选项 | 为什么错 |
+> |---|---|
+> | **A. Control chart analysis** ⭐ 我选 | **需流程已运行有数据** — 新 ICU 还没开 |
+> | B. ✅ FMEA | 正确 — 唯一 prospective |
+> | C. Near-miss analysis | **需已发生 close call** — 没运行就没 close call |
+> | D. RCA | **需已发生 adverse event** — 没运行就没事件 |
+>
+> ### CK 高频陷阱（普适）
+> 1. **"before / 上线前 / 新流程 / not yet opened" → 立即喊 FMEA**（其他 3 个全 retrospective）
+> 2. **FMEA = prospective**；**RCA = reactive 找根因**；**Control chart = 监控趋势**；**Near-miss = 抓差点事件**
+> 3. FMEA stem 关键词：multidisciplinary team / hazard analysis / decision matrix / before problems occur
+> 4. RCA stem 关键词：sentinel event / adverse outcome occurred / 5-Whys / root cause
+> 5. Control chart 关键词：UCL / LCL / monthly rate / out of control 信号
+>
+> ## 我为什么错
+> - 选了：A Control chart analysis
+> - 错因：知识
+> - 核心陷阱：不知道 4 大 patient safety 工具的**时间属性**（prospective vs retrospective）— 把 control chart 当万能 QI 工具
+>
+> ## Memory Hook
+> **"FMEA = 唯一 prospective（事前预防），其他 3 个 retrospective"**
+> 反射钩："before operations begin / 新流程 / 还没开" → 0.3 秒喊 FMEA
+> 类比：FMEA = 装修前画水电图防漏；RCA = 漏水后挖墙找原因；Control chart = 装好后看水表趋势；Near-miss = 差点漏的接头检查
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> 4 大 QI 工具时间属性没分清 — 默认上来就选 control chart
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：[[mistakes/uworld-mistakes#^Q21141]] / [[mistakes/uworld-mistakes#^Q106239]] / [[mistakes/uworld-mistakes#^Q21477]]（同日 Ethics 4 联）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（当前无 patient safety / QI 工具节，需补）
+> - 🏥 跨学科：无（纯系统层）
+> - 🌱 TODO：建 [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]]（4 大工具时间轴 + 关键词 + Swiss Cheese / Forcing function）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q19553
+> - [ ] 默写 FMEA / RCA / Control chart / Near-miss 时间属性 + 触发关键词
+> - [ ] 反射训练：看 "before operations / 新流程 / not yet opened" → 0.3 秒选 FMEA
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: FMEA prospective vs RCA / Control chart / Near-miss retrospective
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-25] Ethics / Surgical time-out 减少 retained surgical objects (Q106239)
+> ^Q106239
+>
+> ## Stem 模式
+> 多中心医院 retained surgical objects (RSO) 发生率偏高 — 视频回看：count 占 15% 手术时间 + 护士被打断 / 干扰 + 外科医生因专注操作未察觉护士开始 count → best intervention？
+>
+> ## 核心概念
+> **Time-out (count 前短暂停顿 + 宣布即将 count) = 改善 situational awareness → 减少打断 → 减 count error → 减 RSO**。
+> 本题核心问题：**low situational awareness + 打断**（不是 intimidation / 沟通不闭环 / count 太久）。
+>
+> ## 普适规则
+>
+> ### Surgical safety 干预对应表 ⭐
+>
+> | 故障点 | 最佳干预 |
+> |---|---|
+> | **打断 / 注意力分散 / 团队不知道 count 开始** | **Time-out**（暂停宣布 — 团队进入 "count 模式"）⭐ |
+> | **下级因权威 / 害怕指出错误** | Addressing authority / intimidation（"flatten the hierarchy"）|
+> | **口头指令传达失误（药 / 剂量错收）** | **Closed-loop communication**（接收方复述）|
+> | **复杂高风险新流程错误** | **Simulation-based training** |
+> | **已有 RSO 发生后找根因** | **RCA** |
+> | **流程上线前预防** | **FMEA** |
+>
+> ### Time-out 应用场景（USMLE 高频）
+> - **术前 time-out**：核对患者 / 部位 / 术式（Universal Protocol — 防 wrong-site / wrong-patient / wrong-procedure）
+> - **关闭前 count time-out**（本题）：宣布 final count 开始 → 限制 surgeon 打断
+> - **输血前 time-out**：核对血型 / 患者
+> - **共同点**：**短暂停顿 + 团队同步注意力**
+>
+> ## 易混陷阱（普适）
+>
+> ### 干扰项分析（本题）
+> | 选项 | 为什么错 |
+> |---|---|
+> | **A. Addressing authority / intimidation** ⭐ 我选 | **错配故障点** — stem 显示问题是 surgeon 不知道 count 开始（low situational awareness）+ 主动打断，不是护士因 intimidation 不敢说 |
+> | B. Simulation training | 用于复杂技能训练；对 "interruption" 这种工作流问题改善有限 |
+> | C. Independent re-count | **不解决根因**（打断本身）+ 加时间负担 — stem 已说 count 占 15% 时间 |
+> | D. ✅ Time-out before final count | 正确 — 直接解决 awareness + 打断 |
+>
+> ### CK 高频陷阱（普适）
+> 1. **"interruption / distraction / surgeon unaware" → time-out**（不是 intimidation）
+> 2. **"nurse afraid to speak up / power gradient" → flatten hierarchy**（不是 time-out）
+> 3. **"miscommunication / verbal order error" → closed-loop**（receiver 复述）
+> 4. Time-out / closed-loop / hierarchy 不是互换 — 看 stem 暴露的**具体故障点**对症选
+>
+> ## 我为什么错
+> - 选了：A Addressing authority / intimidation
+> - 错因：干扰项
+> - 核心陷阱：把 "team safety" 笼统当 "hierarchy 问题"；没读 stem 的具体故障点（打断 / awareness）
+>
+> ## Memory Hook
+> **"Time-out = 团队同步注意力，对症'打断 + awareness'"**
+> 反射钩：看到 "frequent interruption / surgeon unaware count began" → 0.3 秒喊 time-out
+> 类比：time-out 像红绿灯口的"全停 3 秒" — 让所有人同步进入"准备 count"模式
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> Patient safety 干预的"对症选择"反射没建立 — 看到 "team / safety" 就拍 hierarchy
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：[[mistakes/uworld-mistakes#^Q21141]] / [[mistakes/uworld-mistakes#^Q19553]] / [[mistakes/uworld-mistakes#^Q21477]]（同日 Ethics 4 联）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/外科]]（surgical workflow / Universal Protocol）
+> - 🌱 TODO：建 [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] 时纳入"干预对症表"（打断 → time-out / 权威 → flatten / 沟通 → closed-loop / 复杂新技能 → simulation）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q106239
+> - [ ] 默写"故障点 → 最佳干预"对照表
+> - [ ] 反射训练：读 stem 抓**故障点关键词**（interruption / power gradient / miscommunication）→ 选对应工具
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Surgical time-out 减少 retained surgical objects（对症'打断 + awareness'）
+> 状态:: 🟡
+> 错因:: 干扰项
+
+> [!example]- [2026-05-25] Ethics / Swiss Cheese Model — overlapping multiple barriers (Q21477)
+> ^Q21477
+>
+> ## Stem 模式
+> 流感季诊所减 iatrogenic 呼吸道病毒传播：in-service 培训 + 多处洗手液 + 改善通风 + 候诊室咳嗽 / 发热者发口罩 + 流感疫苗 counseling（同时上 5 个措施）→ 代表什么 approach？
+>
+> ## 核心概念
+> **Swiss Cheese Model (SCM) = 单层防御都有 "洞" → 堆叠多层 overlapping barrier 让 hazard 难一次穿透到底**。本题同时上 5 个不同性质 barrier（人员行为 / 物理环境 / 个人防护 / 医疗免疫 / 教育）→ 经典 SCM。
+>
+> ## 普适规则
+>
+> ### 4 大 Patient Safety 系统设计模型对照 ⭐
+>
+> | 模型 | 核心策略 | Stem 关键词 |
+> |---|---|---|
+> | **Swiss Cheese Model** ⭐ | **多层 overlapping barrier** | "multiple / overlapping / layered defense / hand hygiene + masks + ventilation + vaccination"（**多个不同性质措施同时**）|
+> | **Forcing function (Hard stop)** | **物理设计强制不能错** | "incompatible connector / 不同接口防接错气体 / 配药泵 hard limit / 不允许超剂量输入"（**1 个物理屏障让错误根本不能发生**）|
+> | **Automation** | **计算机替代易错人工** | "automated dose calculation / smart pump algorithm / EHR alerts"（**自动替手算**）|
+> | **PDSA (Plan-Do-Study-Act)** | **迭代 cycle 改进** | "repeated cycles / measure-refine / iterative testing"（**反复试**）|
+>
+> ### SCM 三原则
+> 1. **任何单一 barrier 都有 "洞"**（人会忘洗手 / 口罩戴错 / 疫苗未接种）
+> 2. **Harm 发生 = 所有洞对齐贯穿**（hazard 穿过每层）
+> 3. **多层 overlapping → 洞对齐概率指数下降** → 降低 adverse outcome
+>
+> ### 经典示例
+> - **本题感染控制**：洗手 + 口罩 + 通风 + 疫苗 + 教育（5 层）
+> - **手术安全**：术前 marking + time-out + count + 双人核对 + 设备检查
+> - **用药安全**：电子开药 + pharmacist 复核 + barcode + smart pump + double-check（多层）
+>
+> ## 易混陷阱（普适）
+>
+> ### 干扰项分析（本题）
+> | 选项 | 为什么错 |
+> |---|---|
+> | A. Automating high-risk action | 本题**没有自动化**（疫苗 counseling / 洗手都是人工）|
+> | **B. Incorporation of "hard stops"** ⭐ 我选 | **错配** — hard stops = forcing function = **物理设计阻止错误**（如氧气接口不兼容）；本题没有物理强制 |
+> | C. ✅ Overlapping barriers to block safety hazards | 正确 — 经典 Swiss Cheese |
+> | D. Repeated cycles of process improvement | = PDSA — 但本题 5 个措施**同时上线**（concurrent），不是 iterative cycles |
+>
+> ### CK 高频陷阱（普适）
+> 1. **"多个不同性质措施同时" → Swiss Cheese**
+> 2. **"物理设计 + 不允许 / 不可能 + 单点拦截"** → Forcing function / Hard stop（**容易和 SCM 混**）
+> 3. **"自动化算 / 自动报警 / 计算机替手算"** → Automation
+> 4. **"反复试 cycle / iterative"** → PDSA
+> 5. **Hard stop vs SCM 区别**：hard stop **是 SCM 中的一片好奶酪**（洞特别少）；但 stem 说"多个措施 / 多个层面" = 多片奶酪 → 选 SCM 而非 hard stop
+>
+> ## 我为什么错
+> - 选了：B "hard stops"
+> - 错因：知识
+> - 核心陷阱：没区分 "hard stop = 物理屏障单点" vs "Swiss Cheese = 多层堆叠"；把"多个安全措施"误当 hard stop
+>
+> ## Memory Hook
+> **"多个不同性质措施同时 → Swiss Cheese（多片奶酪）"**
+> **"物理设计单点阻止 → Hard stop / Forcing function（接口不兼容）"**
+> 反射钩：数 stem 列了几个**不同性质**的措施 — **2 个以上 + 不同维度** → Swiss Cheese
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> SCM vs forcing function 边界没分清 — "hard stops" 听起来像"多层防护"导致选错
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：[[mistakes/uworld-mistakes#^Q21141]] / [[mistakes/uworld-mistakes#^Q19553]] / [[mistakes/uworld-mistakes#^Q106239]]（同日 Ethics 4 联）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]（§十二 / forcing function 已有 hard stop 记忆词，但 SCM 章节缺）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/感染]]（infection control bundle = SCM 典型应用）
+> - 🌱 TODO：建 [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]]（必含 SCM / Forcing function / Automation / PDSA 模型对照 + FMEA / RCA / Control chart / Near-miss 时间轴 + Time-out / Closed-loop / Hierarchy 干预对症表 + Hospice eligibility）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q21477
+> - [ ] 默写 4 大系统设计模型（SCM / Hard stop / Automation / PDSA）+ 关键词
+> - [ ] 反射训练：数 stem 措施数（≥2 不同维度 → SCM；1 个物理阻止 → hard stop）
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Swiss Cheese Model（多层 overlapping barrier vs hard stop / automation / PDSA）
+> 状态:: 🟡
+> 错因:: 知识
