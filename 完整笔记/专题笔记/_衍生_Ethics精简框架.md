@@ -556,16 +556,241 @@ Mild ID / cognitive impairment + initial 解释后 patient 似乎不 understand
 | 药 | 启动前 patient 状态 | 误启风险 |
 |---|---|---|
 | **Methadone** | 等 **mild withdrawal sign**（COWS scale 评估） | 启动太早 + 体内已有 opioid → overdose |
-| **Buprenorphine** | 等 **COWS ≥ 12** + 最后 short-acting opioid **≥ 12 hr** / methadone **≥ 36 hr** | 启动太早 → **precipitated withdrawal**（partial agonist 把 full agonist 踢下 receptor 反而暴发戒断）|
+| **Buprenorphine** | 等 **COWS ≥ 12** + **距末次** short-acting opioid 已 **≥ 12 hr**（或 **距末次** methadone 已 **≥ 36 hr**）| 启动太早 → **precipitated withdrawal**（partial agonist 把 full agonist 踢下 receptor 反而暴发戒断）|
 | **Naltrexone** | 等 **abstinent ≥ 7-10 天** | 启动太早 → precipitated withdrawal（直接 antagonist 暴力踢 opioid）|
+
+> [!warning] 表达陷阱 — "短效 opioid ≥ 12 hr" 是**时间**不是剂量 ⚠️
+>
+> 这条门槛的原文是 **"last short-acting opioid ≥ 12 hours ago"** = **"距最后一次使用短效 opioid 已经过去 ≥ 12 小时"**。**不是再加 opioid，是再等 opioid 自己走完**。
+>
+> ➜ **Bup 启动是双门槛**（必须同时满足，AND 不是 OR）：
+>
+> | 门槛 | 是什么 | 为什么 |
+> |---|---|---|
+> | **① COWS ≥ 12** | **症状证据**：医生**查体**确认 moderate withdrawal（HR↑、瞳孔大、出汗、流涕） | 见到客观戒断 |
+> | **② 距末次 opioid ≥ 12 hr**（短效）/ **≥ 36 hr**（methadone） | **时间证据**：药代动力学保障体内浓度低 | 防患者撒谎或代谢异常 |
+>
+> **为什么双保险**：
+> - 单凭 COWS → 患者可能撒谎（说"2 天前用"实际 6 hr 前）/ COWS 打分有主观成分 → 时间线兜底
+> - 单凭时间 → 个体代谢差异（CYP / BMI / 肝功）/ Fentanyl 脂溶性 tissue 储库 → COWS 兜底
+>
+> **不同 opioid 等的时间不同 = 半衰期不同**：
+>
+> | Opioid 类型 | 半衰期 (t½) | 等待时间 | 占多少 t½ | 代谢% |
+> |---|---|---|---|---|
+> | 短效（heroin / oxycodone / hydromorphone / morphine） | 2-4 hr | **≥ 12 hr** | 3-5 个 | **≈ 95-97%** |
+> | Methadone（长效） | 24-60 hr | **≥ 36 hr** | 0.6-1.5 个 | ≈ 50-70%（配合 COWS 兜底）|
+> | **Fentanyl** ⚠️ | IV 短 + 脂溶性高 + tissue 储库 | 实际常需 **24-72 hr** | — | 12 hr 常不够 → precipitated withdrawal |
+>
+> **一句话钉死**：**"Bup 启动 = 症状 + 时间 双重确认体内 opioid 浓度已降到 Bup 上限（~50%）以下 — 不是再给 opioid，是再等 opioid 走。"**
+
+> [!info] Precipitated withdrawal 到底是什么 — 与普通 withdrawal 的区别
+>
+> | 类型 | 触发 | 时间 |
+> |---|---|---|
+> | **普通 withdrawal** | 停 opioid 后慢慢出现 | heroin 6-12 hr 起，24-72 hr 高峰 |
+> | **Precipitated withdrawal** | **主动给某些药**把 opioid 从受体踢下 | **几分钟内**暴发剧烈 |
+>
+> 不是"自然戒断"，是**医源性诱发**的暴发戒断 — 患者来 ED 求 MAT，结果医生用药时机错 → 几分钟内剧烈大汗、呕吐、骨痛、烦躁。
+
+> [!tip] 受体动力学一图懂 — 为什么三药等的时间差这么大
+>
+> **3 类药对 μ-opioid 受体的作用对比**：
+>
+> | 药 | 类型 | 激动强度 | 受体亲和力 |
+> |---|---|---|---|
+> | Heroin / fentanyl / morphine | **Full agonist** | 100% | 中等 |
+> | Methadone | **Full agonist** | 100% | 高 |
+> | Buprenorphine | **Partial agonist** | ~50%（封顶）| **极高** |
+> | Naltrexone / naloxone | **Antagonist** | 0% | 极高 |
+>
+> **核心规则**：**亲和力高的药能把亲和力低的"踢"下受体**（强壮的人挤掉较弱的人）。
+
+> [!danger] 三药"启动太早"后果的机制 — 三个情境对照
+>
+> **设定**：患者刚用 heroin 不久 → μ 受体被 heroin 占满（激动 ~100%）。
+>
+> **情况 A：太早给 Methadone**（同为 full agonist）
+> - Methadone **不踢** heroin → 两个 full agonist 共同激动
+> - 受体激动从 100% → **更高**（叠加）
+> - 结果：**呼吸抑制 → OVERDOSE 死亡** ⚠️
+> - 这**不是** precipitated withdrawal，是 overdose（与 Bup/Naltrexone 机制不同）
+>
+> **情况 B：太早给 Buprenorphine**（partial agonist + 亲和力极高）⭐ USMLE 最高频
+> - Bup 亲和力 > heroin → **把 heroin 踢下**受体
+> - 但 Bup 自己只激动到 ~50%（partial 封顶）
+> - 受体激动从 100% **暴跌到 50%** → **暴发戒断** ⚠️
+> - = 经典的 **buprenorphine-precipitated withdrawal**
+>
+> **情况 C：太早给 Naltrexone**（antagonist + 亲和力极高）
+> - Naltrexone 也把 opioid 踢下受体
+> - 但自己**0% 激动**（只占座不激动）
+> - 受体激动从 100% **暴跌到 0%** → **更剧烈暴发戒断** ⚠️
+> - 比 Bup-induced 更暴力（落差更大 → 临床更难处理）
+
+> [!success] "占座"类比（Memory Hook） ⭐
+>
+> **受体 = 座位；agonist = 坐在座位的人；亲和力 = 力气大小**
+>
+> | 药 | 比喻 |
+> |---|---|
+> | Heroin / fentanyl | "胖大爷"占满座位（100% 激动 + 力气中等）|
+> | Methadone | 另一个胖大爷（100% 激动 + 力气大）|
+> | Buprenorphine | 中等身材**但力气极大**（50% 激动 + 极高亲和力）|
+> | Naltrexone | **来踢人的保安**（0% 激动 + 极高亲和力 + 自己不坐）|
+>
+> **胖大爷还坐着时**：
+> - 来另一个胖大爷（Methadone）= 两人挤一起 → 系统过载 → **overdose**
+> - 来中等身材力气大的（Bup）= 把胖大爷推下 + 自己坐一半 → 系统"刚才 100%，现在 50%" → **暴发戒断**
+> - 来保安（Naltrexone）= 把胖大爷踢下 + 自己不坐 → 系统"刚才 100%，现在 0%" → **更暴发戒断**
+>
+> **一句话规律**：**"踢得越狠，等得越久"**
+> - Methadone 不踢 → 等 mild withdrawal（COWS 5-12，体内 opioid 已大半代谢）
+> - Buprenorphine 温柔踢 → 等 moderate withdrawal（COWS ≥ 12 + 短效 12 hr / 美沙酮 36 hr）
+> - Naltrexone 暴力踢 → 等完全 abstinent ≥ 7-10 天（体内 0 opioid 才上）
+
+> [!tip] 核心 paradox — 为什么 Bup 既"不能太早"又"能缓解戒断"？⭐ 升幅 vs 降幅
+>
+> **关键区分**：身体感受的不是"绝对值"，是**变化方向**。同样的 Bup 50% 激动，早给 = 暴跌 = 暴发戒断；晚给 = 上升 = 缓解戒断。
+>
+> **4 个时机点对比表**：
+>
+> | 时机 | 受体当前激动 | 上 Bup 后激动 | 净效应 | 患者感受 |
+> |---|---|---|---|---|
+> | 刚用 heroin（COWS 0-5）| ~100% | ~50% | **暴跌 -50 pp** | **暴发戒断** ⚠️ |
+> | Mild withdrawal（COWS 5-11）| ~40-70% | ~50% | 微降到平 | 不稳定（可能轻度 precipitated）|
+> | **Moderate（COWS ≥ 12）⭐ Bup 门槛** | **~10-30%** | **~50%** | **上升 +20-40 pp** | **缓解戒断** ✓ |
+> | Severe（COWS ≥ 25）| ~0-10% | ~50% | 大幅上升 | 强力缓解 |
+> | 完全 abstinent 7-10 天 | 0% | ~50% | 上升 | 缓解（但已过急性期）|
+>
+> **COWS ≥ 12 = sweet spot**：体内 opioid 已降到 Bup 上限（~50%）**以下**，所以 Bup 上来 = **净上升** = 缓解戒断。
+>
+> **类比延伸（继续"占座"思路）**：
+> - 胖大爷还满坐（100%）+ Bup 来 → 踢胖大爷 + 自己坐一半 → 系统"刚才 100% 现在 50%" → **失望 → 暴发戒断**
+> - 胖大爷走了大半（剩 20%）+ Bup 来 → 直接坐到 50% → 系统"刚才 20% 难受，现在 50% 好多了" → **舒服 → 缓解** ✓
+> - 所以等的不是"让患者难受"，是**让胖大爷自己离开** —— Bup 不当踢人者，当**填位者**。
+
+> [!tip] 进一步 paradox — 为什么不让 Bup 直接坐满到 100%？ceiling effect 的临床优势
+>
+> Bup 是 **partial agonist + ceiling effect** — 分子结构决定它对 μ 受体激活有上限（~30-50% intrinsic activity）。这其实是 **Bup 的临床优势**：
+>
+> | 特点 | 临床好处 |
+> |---|---|
+> | 50% 激动**够缓解戒断** | 患者不痛苦 |
+> | 但**封顶 50%**，再加剂量也不更激动 | 呼吸抑制风险低 → 比 methadone OD 死亡率低 |
+> | 高亲和力**占住受体** | 患者再用 heroin → heroin 进不来 → **"blockade effect"** 防复吸 |
+>
+> ➜ Bup = **"既能缓解戒断、又不能 OD、还防再用"** 三合一设计 → OUD 一线。
+
+> [!warning] Methadone vs Bup 等待逻辑的本质区别
+>
+> 三药等的本质都是 **等受体上 opioid 浓度降到该药的"安全阈值"**：
+>
+> | 药 | 等什么 | 等的目的 |
+> |---|---|---|
+> | **Methadone**（full 100%）| Mild withdrawal（COWS 5-12）| 体内 opioid 已**部分代谢** → 加 methadone 不"叠加 overdose"；**不担心** precipitated withdrawal（methadone 不踢人） |
+> | **Buprenorphine**（partial 50% + ceiling）| Moderate（COWS ≥ 12）| 体内 opioid 已**大半代谢**到 **< 50%** → Bup 上去**不踢出戒断** + **能净上拉缓解** |
+> | **Naltrexone**（0% antagonist）| Abstinent ≥ 7-10 天 | 体内**完全没** opioid → Naltrexone 上去**没东西可踢**；但**不缓解戒断**（0% 激动）→ 只防复吸不治急性戒断 |
+>
+> **一句话钉死**：**"Bup 启动门槛 = 等到受体激动 < 50% (≈ COWS ≥ 12) → 这时 Bup 上去 = 净上升 = 缓解戒断；门槛之上 = 净下降 = 暴发戒断。"**
+>
+> **数学化**：
+> - 受体激动 > Bup 上限（~50%）→ 上 Bup = 降 → precipitated withdrawal
+> - 受体激动 < Bup 上限（~50%）→ 上 Bup = 升 → 缓解 ✓
+
+> [!warning] COWS Scale 是什么 ⭐
+> **Clinical Opiate Withdrawal Scale（临床鸦片戒断量表）**— 11 项症状客观评分：
+> - 心率 / 出汗 / 不安 / 瞳孔扩大 / 骨关节痛 / GI（恶心呕吐腹泻）/ 震颤 / 哈欠 / 焦虑易激 / 鸡皮疙瘩 / 流涕流泪
+>
+> **分档**：
+> - **5-12 = mild withdrawal**
+> - **13-24 = moderate** ⭐ Bup 启动门槛
+> - 25-36 = moderately severe
+> - \>36 = severe
+>
+> **关键**：COWS ≥ 12 是 **客观医生查体证据**（瞳孔大、HR 快、出汗、流涕等可见可量化），**不是患者主观"我难受"**。CK 常考 stem：患者说"我戒断了想要 Bup"，但你查体 COWS 才 6 → 不能上 Bup（太早）。
+
+> [!question]- USMLE 经典 stem（验证理解）
+>
+> A 28-year-old man with heroin use disorder (last use ~8 hours ago) presents to the ED requesting medication-assisted treatment. He reports mild anxiety and yawning. **COWS score is 6**. Which of the following is the most appropriate next step?
+>
+> A. Start buprenorphine immediately
+> B. Start methadone immediately
+> C. Start naltrexone immediately
+> D. **Wait until COWS ≥ 12 + last short-acting opioid ≥ 12 hr, then start buprenorphine** ✓
+> E. Wait 7-10 days of abstinence then start naltrexone
+>
+> **正解 D**：Bup 启动门槛 = COWS ≥ 12 + 短效 opioid ≥ 12 hr；当前 COWS 6 + 仅 8 hr → 立即上 Bup = precipitated withdrawal。
+>
+> - A 错：COWS 6 太低（< 12）
+> - B 错：Methadone 也需 mild withdrawal sign 才启动；且 ED office-based 现场**不能**开（需 licensed methadone clinic — federal restriction）
+> - C 错：Naltrexone 需 abstinent 7-10 天，当前还在中毒期 → 比 Bup 更暴烈的 precipitated withdrawal
+> - E 太保守：Bup 是 OUD ED 一线（2023 后 X-waiver 取消，任何 DEA-licensed 医生都能开），naltrexone 是依从性差患者备选
 
 #### AUD（Alcohol Use Disorder）三大药
 
-| 药 | 机制 | 关键特点 |
-|---|---|---|
-| **Naltrexone**（一线）| μ-opioid antagonist | 减 alcohol craving + reward；同 OUD 同药 |
-| **Acamprosate**（一线）| NMDA modulator | 减 protracted withdrawal symptoms；肾排泄（CKD 避）|
-| **Disulfiram**（二线）| 抑 aldehyde dehydrogenase | 喝酒后头痛/呕吐/潮红 → aversion；依从性差（患者得自己配合不喝）|
+| 药 | 机制 | 启动时机 ⭐ | 关键特点 |
+|---|---|---|---|
+| **Naltrexone**（一线）| μ-opioid antagonist | **距末次 opioid ≥ 7-10 天**（**不是** alcohol）| 减 alcohol craving + reward；同 OUD 同药；肝代谢 |
+| **Acamprosate**（一线）| NMDA + GABA modulator | **Alcohol abstinent ≥ 5-7 天**（急性期后）| 减 protracted withdrawal；肾排泄（**CKD CrCl<30 避**，改 naltrexone）|
+| **Disulfiram**（二线）| 抑 aldehyde dehydrogenase | **Alcohol abstinent ≥ 12-24 hr** | 喝酒后剧烈反应（DER）→ aversion；依从性差；**停药后 2 周仍有残效** |
+
+> [!danger] AUD 三药启动时机 — 与 OUD 完全不同的逻辑 ⭐
+>
+> **OUD 三药**都在 **μ-opioid 受体一个战场**（等 opioid 走）；**AUD 三药在三个不同战场**，等的东西各不相同：
+>
+> | 药 | 等什么 | 为什么 | 不等的后果 |
+> |---|---|---|---|
+> | **Naltrexone** | **等 opioid abstinent ≥ 7-10 天**（**不是 alcohol**） | Naltrexone 是 μ-opioid antagonist → 只认 μ 受体；**酒精不是 opioid 受体激动剂**（主要作用 GABA-A / NMDA） → 不需要等 alcohol；但若患者有 opioid 在体内 → naltrexone 把 opioid 踢下 → **opioid precipitated withdrawal** | Opioid precipitated withdrawal（即使你是想治 alcohol，机制照样发生）⚠️ |
+> | **Acamprosate** | **等急性 alcohol withdrawal 过去 ≥ 5-7 天** | Acamprosate 是**维持药**（防复饮），不治急性 withdrawal；急性期用 **BZD + thiamine** | 不会暴发戒断，但**没临床效用**（用错时机）|
+> | **Disulfiram** | **等 alcohol abstinent ≥ 12-24 hr** | Disulfiram 阻 ALDH → 体内还有 alcohol 时上药 → acetaldehyde 累积 → 严重反应 | **DER（Disulfiram-Ethanol Reaction）**：剧烈潮红 / 呕吐 / 心悸 / HTN crisis / 心律失常 / **可致死** ⚠️ |
+>
+> **核心区别**：
+> - **OUD**：药都"挤"在 μ 受体 → 时机问题 = 受体上 opioid 浓度问题（统一逻辑）
+> - **AUD**：药在**三个不同位点**（μ-opioid / NMDA+GABA / ALDH）→ 没有统一"等代谢"逻辑，三药各有各的等
+
+> [!warning] Naltrexone for AUD 高频陷阱 ⭐
+>
+> **AUD 患者也有慢性疼痛用 opioid（oxycodone / hydromorphone / 处方药）** → 准备上 naltrexone for AUD → 必须**先停 opioid ≥ 7-10 天**（同 OUD naltrexone 标准）。
+>
+> CK 经典 stem：
+> > "A 52-year-old man with AUD wants to start medication. He also takes oxycodone twice daily for chronic back pain. Which is the most appropriate next step?"
+>
+> 正解 = **不能立即上 naltrexone**；要么 ① 停 opioid 7-10 天 再上 naltrexone；要么 ② 选 **acamprosate**（不影响 opioid）；要么 ③ disulfiram（需 alcohol abstinent ≥ 12-24 hr，且与 opioid 无冲突）。
+>
+> **反射钩**：**"Naltrexone 治酒精，但启动门槛看 opioid，不看 alcohol。"**
+
+> [!warning] Acamprosate vs 急性 alcohol withdrawal 治疗 — 别混！
+>
+> 急性 alcohol withdrawal（震颤 / 焦虑 / 自主神经亢进 / DT / 癫痫风险）的治疗 **完全不是** AUD 三药 —— AUD 三药是**维持期**用药。
+>
+> | 阶段 | 时间 | 用什么 |
+> |---|---|---|
+> | **急性 withdrawal** | 末次饮酒后 6-72 hr | **BZD**（lorazepam / diazepam / chlordiazepoxide）+ **Thiamine** + 电解质 + IV 液 |
+> | **Protracted withdrawal / 防复饮维持** | 急性期过后 → 长期 | **Acamprosate / Naltrexone**（一线维持）/ Disulfiram（二线）|
+>
+> **CK 陷阱**：患者今天刚住院 alcohol withdrawal → 选 acamprosate ❌ → 正解 **BZD + thiamine**
+
+> [!danger] Disulfiram-Ethanol Reaction (DER) 全清单 ⭐
+>
+> **触发**：服 disulfiram 期间（含停药后 2 周内残留）+ 任何 alcohol 摄入。
+>
+> **表现**（**几分钟内**出现 + 持续 **数小时**）：
+> - 剧烈潮红（典型表现）
+> - 剧烈呕吐 / 恶心
+> - 心悸 / 心动过速 / **心律失常**
+> - **HTN crisis** 或反弹**低血压休克**
+> - 头痛 / 出汗 / 呼吸困难
+> - 严重者：MI / arrhythmia / 死亡
+>
+> **隐形 alcohol 来源（必须告知患者全避免）**：
+> - **漱口水 / 口腔清洁剂**（含 ethanol）
+> - **香水 / 须后水 / 护手液**（经皮 / 吸入）
+> - **烹饪料酒 / 醋（部分）/ kombucha**
+> - **某些药物糖浆 / 液体制剂**（cough syrup 等含 ethanol 辅料）
+> - **Metronidazole / cefoperazone / griseofulvin** → **类 disulfiram 反应**（同机制 — 抑 ALDH）— 用这些抗生素期间也要禁酒
+>
+> **Disulfiram 适用人群**：**高动机 + 家庭监督 + 强意愿避复饮** —— 一线**不**选；CK stem 看到"patient highly motivated, family supportive, prior naltrexone failed" → 才考虑 disulfiram。
 
 #### MAT 反射钩
 
