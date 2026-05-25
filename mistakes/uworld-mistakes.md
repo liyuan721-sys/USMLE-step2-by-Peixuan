@@ -20559,3 +20559,457 @@
 > 状态:: 🟡
 > 错因:: pattern
 
+> [!example]- [2026-05-24] Ethics / Controlled substance agreement — universal safety procedure (Q105781)
+> ^Q105781
+>
+> ## Stem 模式
+> 42 岁男 + 5 年慢性背痛 + 多次背部手术 + 长期 oxycodone/naproxen/APAP + state PDMP normal + 被要求签 controlled substance agreement → 患者 upset "Why do you have to treat me like a drug addict?" → best response?
+>
+> ## 核心概念
+> 慢性 opioid 治疗启动前 patient + physician 双方签 **controlled substance agreement (pain contract)**。患者常感觉 accusatory → physician 应 reframe 为 **standard safety procedure for everyone on chronic opioid therapy**（不是 punishment + 不是 distrust 你）。
+>
+> Answer：**E — "This agreement is part of our standard safety procedures for everyone who is on chronic opioid therapy."**
+>
+> ## 普适规则 — Pain Contract 5 要素
+>
+> | 要素 | 内容 |
+> |---|---|
+> | **① Informed consent** | 慢性 opioid therapy 的 risks of dependence + addiction |
+> | **② Dosage compliance** | 不可 deviate dosage / purpose |
+> | **③ Monitoring** | 随机 **urine drug screens + pill counts** |
+> | **④ Single source** | **1 prescriber + 1 pharmacy**（barring exceptional circumstances）|
+> | **⑤ No early refill** | Lost / stolen 药 **not replaced** with early refill |
+>
+> **目的 framing**：不是 inflict punishment（虽然 breach 后 consequences 存在，如 suspension of future Rx）；**purpose = ensure patient's safety** + 适用于所有 chronic opioid 患者。
+>
+> ## 易混陷阱（普适）
+> - **A. "No way of knowing who is or isn't an addict"** → 强化 patient 被 accused 的 feeling
+> - **B. "If using as prescribed, nothing to worry about"** → 不 address patient 的 accusatory perception（patient 仍觉得自己被 singled out 评估）
+> - **C. "Identify those who use opioid inappropriately so we can stop"** → 强化 accusatory framing
+> - **D. "Regulatory bodies watching... protect my license"** → 把目的从 patient safety 转移到 physician self-interest，不 explain real purpose to patient
+> - ✅ **E**：reframe 为 universal procedure 适用于所有 chronic opioid 患者 → patient 不再觉得 singled out
+>
+> ## 我为什么错
+> - 选了：B
+> - 错因：pattern（默认 empathic reassurance 即可）
+> - 核心陷阱：B 表面 empathic ("nothing to worry")，但 fails to address patient 的"treat like addict" perception — patient 觉得 universal procedure 适用于他 = 他被 singled out。正解必须 reframe 为 **universal procedure**（everyone on chronic opioid）→ patient 不再觉得 singled out。
+>
+> ## Memory Hook
+> 「**Pain contract = 普适 safety procedure 不是 individual distrust**」— 患者觉得被 singled out → 立刻 reframe "everyone on chronic opioid therapy"。所有"identify addict / protect license / nothing to worry"都不 address core perception 问题。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：B "if using as prescribed, nothing to worry" 听起来 reassuring + empathic，没意识到 fail to address "为什么这套 agreement 适用我"的 root concern。
+> - 学到的核心：① Pain contract 5 要素（informed consent + dosage compliance + UDS/pill count + 1 prescriber/1 pharmacy + no early refill）② 患者觉得 accusatory 时 reframe 关键 = **universal procedure**（不是 individual evaluation）③ 不强调"identify addict" / 不 protect license / 不 reassure"if good then no worry"
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q21972]] CAM supplement brand recommendation（2026-05-25 同日；都是 patient feels alienated → physician 用 standard / universal 方式 respond 不 dismissive）
+>   - [[mistakes/uworld-mistakes#^Q105595]] 青少年 conditional confidentiality（standard / transparent framework > unconditional promise — 同样是 reframe alleviates concern）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/专题笔记/_衍生_Ethics精简框架]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/psych]]（Opioid Use Disorder + chronic pain management + addiction risk stratification）
+>   - [[完整笔记/Peixuan分科笔记/外科]]（chronic post-surgical pain management）
+> - 🌱 TODO（待生成衍生）：累积 controlled substance agreement / opioid prescribing safety 题 → 整合 [[完整笔记/专题笔记/USMLE/USMLE_Opioid_Prescribing_Safety]]（pain contract 5 要素 + REMS + opioid risk stratification）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做
+> - [ ] 默写 Pain contract 5 要素（informed consent / dosage / UDS+pill count / 1 prescriber+1 pharmacy / no early refill）
+> - [ ] 默写"universal safety procedure for everyone on chronic opioid therapy" reframe 句式
+> - [ ] 找 3 道类似题（chronic opioid + 治疗 contract + universal procedure reframe）
+> - [ ] **固化反射**：患者觉得被 accused / singled out → 反射 reframe 为 universal procedure
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Controlled substance agreement (pain contract) 5 要素（informed consent + dosage compliance + random UDS+pill count + 1 prescriber+1 pharmacy + no early refill for lost/stolen）/ 患者觉得 accusatory ("treat like drug addict") → reframe 为 **universal safety procedure for everyone on chronic opioid therapy**（不强调 identify addict / 不 protect license / 不"if good then nothing to worry"）/ Purpose = patient safety 不是 punishment（虽然 breach 有 consequences 如 suspension of future Rx）/ Both patient + physician 签
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-05-24] Ethics / Struggling smoker — confidence + complete cessation threshold (Q21980)
+> ^Q21980
+>
+> ## Stem 模式
+> 42 岁女 + 戒烟 follow-up + 2 年内 3 次 quit 尝试（behavioral + pharmacotherapy）+ 从 1 pack/d 减到 1/2 pack/wk + 体重 +3 kg + discouraged "tried everything, getting down to zero feels impossible" + **fully adherent to pharmacotherapy** → 最佳回应?
+>
+> ## 核心概念
+> Patient 是 **struggling smoker**（commitment 在 + adherence ✓ + 大幅 reduction + 但 stuck at non-zero）→ 当前最大 obstacle = **lack of confidence**（不是 lack of accountability）→ 正解 = **congratulate partial achievement + express belief in ability + restate complete cessation goal**。
+>
+> Answer：**D — "You haven't reached the goal yet, but I believe in your ability to quit completely based on your success in cutting down so far."**
+>
+> ## 普适规则 — 戒烟 4 stage 框架
+>
+> | Stage | 关键操作 |
+> |---|---|
+> | **Not ready to quit** | Repeat at every visit + prescribe **varenicline** for reduce-to-quit strategy（2x durable abstinence rate）|
+> | **Ready to quit** | Set firm quit date + discard paraphernalia + behavioral counseling + support systems + pharmacotherapy（varenicline / bupropion / NRT）|
+> | **Struggling to quit** ⭐ | **Reinforce partial achievements** + identify triggers + link to distracting activities + biofeedback loops（exhaled CO monitoring / gamification app）|
+> | **Recently quit** | Congratulate + continue pharmacotherapy x **12 weeks** + active reflection（"how has your life changed?"）|
+>
+> **关键 numbers**：Successful quitters do so on average after **5 previous attempts** — 3 次失败仍 normal 范围。
+>
+> **关键 pearl — Threshold effect**：**Complete cessation (zero cigarettes) = goal**，不是减量。多数 health benefits（lung cancer ↓ / CV events ↓ / mortality ↓）的 evidence 都 require **complete cessation** → 减量本身 health benefit 有限 → 不 negotiate down 到 reduced smoking 作 final goal。
+>
+> ## 易混陷阱（普适）
+> - **A. Hard stop date + trusted person accountability** → 已 3 次 attempt + 已 adherent → 当前问题是 confidence 不是 accountability
+> - **B. "Reachable goal" + "surprised you feel impossible"** → 只表达 physician opinion + 不 recognize partial success + 不 assert belief in patient ability
+> - **C. Hypnosis / acupuncture** → validation of difficulty OK，但 hypnosis/acupuncture 缺 reproducible efficacy evidence
+> - **E. Refocus on keeping low level** → ❌ Public health goal 永远是 **complete cessation**；threshold effect 意味着减量本身 benefit 有限 → 设低目标 = set up failure expectation + 增 relapse risk
+> - ✅ **D**：recognize partial success（已 cut down）+ express belief in ability + restate complete cessation goal
+>
+> ## 我为什么错
+> - 选了：E（refocus on keeping cigarette use at current low level）
+> - 错因：知识（不知 threshold effect — 以为减量是合理 pragmatic goal）
+> - 核心陷阱：E 看似 pragmatic / collaborative，但**完全偏离 public health goal**。多数 health benefits（lung cancer reduction / CV events / mortality）的 evidence 都 require **complete cessation** → 减量本身 benefits 有限 + 设定低目标 = setting up future failure。
+>
+> ## Memory Hook
+> - 「**Struggling smoker = 缺 confidence 不缺 accountability**」— answer = express confidence + recognize partial achievement + 仍 aim 完全戒
+> - 「**Smoke-free goal 不能 negotiate down**」— threshold effect, 减量 ≠ benefits, only complete cessation gives lung cancer / CV / mortality reduction
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：E refocus on low level 看起来 pragmatic + collaborative，但漏 threshold effect 概念 — 减量本身不 confer 多数 health benefits。
+> - 学到的核心：① 戒烟 4 stage（not ready / ready / struggling / recently quit）+ struggling stage 关键 = reinforce partial + biofeedback + triggers ② Threshold effect — complete cessation 才有 multiple health benefits ③ Average 5 attempts before successful quit — 3 次失败 normal ④ Struggling 患者 lack confidence 不是 lack accountability → answer = "I believe in your ability"
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q22080]] SMART Goals + MI（lifestyle modification → 设 patient-defined goal + open-ended；本题是 confidence-building 与 SMART 相关）
+>   - [[mistakes/uworld-mistakes#^Q21733]] Medication adherence interventions（forgetfulness vs ambivalence → automated reminders）
+> - 📚 主笔记：[[完整笔记/专题笔记/_衍生_Ethics精简框架]]（§十二 patient communication）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/pulmonary]]（Smoking cessation pharmacotherapy — varenicline 2x durable abstinence；reduce-to-quit strategy）
+>   - [[完整笔记/Peixuan分科笔记/心内]]（CV events reduction by complete cessation — threshold effect）
+>   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（Lung cancer reduction 仅在 complete cessation）
+> - 🌱 TODO（待生成衍生）：累积 smoking cessation 题 → 生成 [[完整笔记/专题笔记/_衍生_戒烟全流程]]（4 stage SOP + 三药对比 varenicline/bupropion/NRT + threshold effect concept）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做
+> - [ ] 默写戒烟 4 stage 框架 + 每 stage 关键操作
+> - [ ] 默写 threshold effect concept（减量 ≠ health benefit；only complete cessation 有 lung cancer / CV / mortality reduction）
+> - [ ] 默写 "successful quitters average 5 attempts" 数字
+> - [ ] 找 3 道类似题（struggling smoker / partial achievement / public health threshold goal）
+> - [ ] **固化反射**：struggling smoker → confidence 不是 accountability → "I believe in your ability"
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Smoking cessation 4 stage framework（Not ready / Ready / Struggling / Recently quit）/ Struggling smoker = confidence deficit 不是 accountability → reinforce partial achievement + express belief in ability + restate complete cessation goal / Successful quitters average 5 previous attempts before durable abstinence / Complete cessation = **threshold effect**（lung cancer reduction / CV events ↓ / mortality ↓ 仅在 complete cessation 出现，减量本身 benefit 有限）/ Varenicline 2x durable abstinence rate for reduce-to-quit / Struggling stage 关键操作：reinforce partial + identify triggers + biofeedback loops（exhaled CO / gamification app）/ Recently quit：continue pharmacotherapy 12 weeks + active reflection
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-24] Ethics / Cross-cultural care organizational strategy (Q21309)
+> ^Q21309
+>
+> ## Stem 模式
+> 新 primary care clinic + diverse city（1/3 Spanish-speaking + 1/4 Black + 10% minority providers）+ chronic-disease 健康差距 → 哪个 **organizational action** 最改善 provider-patient communication for minority?
+>
+> ## 核心概念
+> **Cross-cultural care** 的组织层面最佳 strategy = **train providers on methods to identify + align care with individual patient preferences** — 不是 stereotype 某种族 / 不是仅 translated materials / 不是 minority-only pairing。Cross-cultural care 的 3 大支柱与 high-value care 通用：① patient-centeredness ② cultural sensitivity ③ enhanced communication。
+>
+> Answer：**E — Train providers on methods to identify and align care delivery with patient preferences**
+>
+> ## 普适规则 — Cross-cultural care 3 大支柱
+>
+> | 支柱 | 内容 |
+> |---|---|
+> | **① Patient-centeredness** | Identify patient's values + align care with priorities |
+> | **② Cultural sensitivity** | Explore patient's cultural beliefs + understand sociocultural background influences on health decisions |
+> | **③ Enhanced communication** | Address language barriers（interpreter services）+ tailor styles（eye contact / family involvement based on **individual** preference）|
+>
+> ### 核心反 stereotype 原则
+> - Minority groups 内有 **subcultures**（Black 内 Caribbean / African / African-American 等）
+> - **Individual preferences vary within groups**（部分 minority patient 偏好 family involvement / minority provider，但不能 assume 所有都 prefer）
+> - → providers should **explore individual patient preferences**（不 assume）
+>
+> ### Organizational vs Individual
+>
+> | 层面 | 适用框架 |
+> |---|---|
+> | **Organizational level**（本题）| Training providers to **identify + align with individual preferences** — comprehensive + versatile + multiple populations |
+> | **Individual encounter**（§12.3 — Q21242）| Specific patient: identify perceptions first（不 jump to materials / scientific lecture）|
+>
+> ## 易混陷阱（普适）
+> - **A. "Routinely involve family for minority patients"** → **stereotyping**（不是所有 minority 都 prefer family involvement）
+> - **B. "Translated materials in multiple languages including Spanish"** → passive + 仅 address language；comprehensive 不足 + 多元 populations 不全覆盖（refugees / 其他 minority groups）
+> - **C. "Info on Black/Hispanic cultural beliefs"** → **passive + stereotyping**（promote stereotype；仅 certain ethnicities + 同 group 内 diversity 高）
+> - **D. "Schedule minority patients with minority providers"** → **stereotyping**（assume preference）+ logistically 受限（仅 10% minority providers）
+> - ✅ **E**：Train providers identify + align with patient preferences — versatile + multi-population
+>
+> ## 我为什么错
+> - 选了：C（Provide info on cultural beliefs of Black and Hispanic/Latino cultures）
+> - 错因：干扰项（think providing cultural info = 提升 cultural sensitivity）
+> - 核心陷阱：C 看似 actionable + specific，但实际**就是 stereotyping** — 把 "Black 文化 X" / "Hispanic 文化 Y" 当 prescriptive knowledge 教给 providers → 失败原因：① 每个 ethnic group 内有大量 sub-culture diversity ② individual preferences vary ③ promote stereotype（providers 会 apply generalized info 而非 explore individual）。**正解永远是 train provider to elicit individual preferences**，而非 provide pre-packaged cultural info。
+>
+> ## Memory Hook
+> 「**Cross-cultural care 是 SKILL 不是 KNOWLEDGE**」— 不是教 providers "Black 人怎样" / "Hispanic 人怎样"（stereotyping），而是教 providers **how to identify each patient's individual preferences**（universal skill applicable to all populations）。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：C "providing cultural belief info" 听起来像在做 cultural competence training，没意识到这本质就是 stereotyping。
+> - 学到的核心：① Cross-cultural care 3 支柱（patient-centeredness + cultural sensitivity + enhanced communication）② Stereotyping 反 pattern（routinely involve family / cultural info / minority-only pairing 都是 stereotyping）③ Organizational vs Individual cross-cultural care 区分 ④ Cross-cultural care = skill（identify preferences）不是 knowledge（pre-packaged cultural facts）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q21242]] Cross-cultural counseling individual encounter（identify perceptions first，不是 materials / scientific）— 本题是 organizational level, 那题是 individual encounter；两题构成 cross-cultural care 完整框架
+> - 📚 主笔记：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §12.3 Cross-cultural Care
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/psych]]（Cultural formulation interview / DSM-5 cultural concepts of distress）
+>   - 健康政策 / 公共卫生（provider training as health disparity intervention）
+> - 🌱 TODO（待生成衍生）：把 organizational vs individual cross-cultural care 区分 + Skill-not-Knowledge 元规则 加入衍生 §12.3
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做
+> - [ ] 默写 cross-cultural care 3 支柱
+> - [ ] 默写 4 大 stereotyping 反 pattern（routinely involve family / translated materials only / cultural belief info / minority-only pairing）
+> - [ ] 反射：见到 "improve communication for minority" → 不反射选 translated materials / cultural info，选 train provider to identify individual preferences
+> - [ ] **固化反射**：Cross-cultural care = SKILL 不是 KNOWLEDGE
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Cross-cultural care organizational strategy = **train providers to identify + align with individual patient preferences**（不是 routinely involve family — stereotyping / 不是 translated materials only — passive / 不是 cultural belief info — stereotyping / 不是 minority-only pairing — stereotyping）/ Cross-cultural care 3 支柱（patient-centeredness + cultural sensitivity + enhanced communication）/ Minority subcultures within groups + individual preferences vary → explore individual 不 assume / **Skill 不是 knowledge** — 教 providers HOW to identify preferences 而非 prescribe what each ethnicity prefers / Organizational vs Individual cross-cultural care 区分（本题 organizational，Q21242 individual encounter）
+> 状态:: 🟡
+> 错因:: 干扰项
+
+> [!example]- [2026-05-24] Ethics / CAM supplement brand — independent third-party verification (Q21972)
+> ^Q21972
+>
+> ## Stem 模式
+> 62 岁女 + 中度膝 OA + 3 个月前已 instructed evidence-based program（exercise + weight loss + low-dose NSAID）+ **没 implement** + 偏好 glucosamine supplement + 问 **brand recommendation** → 最佳回应?
+>
+> ## 核心概念
+> 患者已 decide 用 CAM supplement + 问 specific brand → physician 应 direct to **independent third parties**（如 **US Pharmacopeia**）who evaluate **purity + manufacturing**（注意：typically **不**评估 safety/effectiveness）→ 让 patient make informed brand choice。**不 redirect 强推 standard treatment**（已 alienate 过 — patient 已 decline standard）。
+>
+> Answer：**E — "Using brands that have been verified by independent organizations is important; let me share some resources that can help you select one."**
+>
+> ## 普适规则 — CAM Supplement Counseling SOP
+>
+> ```
+> Patient 决定使用 CAM + 问 brand recommendation
+>     │
+>     ▼
+> ① 不 alienate patient（已 decide → 不 redirect 强推 standard）⭐
+>     │
+>     ▼
+> ② 解释 FDA 监管局限
+>    • US FDA 对 nutritional supplements 有 limited regulatory authority
+>    • 不像 prescription drugs 那样审 quality / safety / efficacy
+>    • Herbal industry: poor manufacturing standards（quantity + purity 差异大）
+>     │
+>     ▼
+> ③ 推荐 independent third parties verification
+>    • US Pharmacopeia (USP) 等机构
+>    • 评估 purity + manufacturing practices
+>    • ※ 不评估 safety / effectiveness ⭐
+>     │
+>     ▼
+> ④ 如 no independent review available → 直白告知 patient
+> ```
+>
+> | Verifier type | 评估什么 | 不评估什么 |
+> |---|---|---|
+> | **FDA**（prescription drugs）| Quality + safety + efficacy | — |
+> | **FDA**（CAM supplements）| **Limited regulatory authority**（DSHEA 1994 — supplements 不需 pre-market approval）| Most aspects |
+> | **US Pharmacopeia / 独立第三方** | **Purity + manufacturing** | Safety + effectiveness |
+>
+> ## 易混陷阱（普适）
+> - **A. "Wouldn't recommend supplement, focus on weight loss/exercise"** → redirect to standard，**alienate** 患者（patient 已 decide not to implement standard）
+> - **B. "All supplements equal because no FDA approval"** → **incorrect**，supplements vary in quality（manufacturing 差异大）
+> - **C. "Studies show glucosamine ineffective, stick to evidence-based"** → **dismissive + alienating**；且部分 glucosamine 研究 small benefit；且 patient 已 decline standard
+> - **D. "Supplements costly, spend on PT"** → **redirect to standard + dismissive**
+> - ✅ **E**：direct to independent third-party verification
+>
+> ## 与 §12.14 Nonstandard Harmful Therapy（ephedra）区分
+>
+> | 维度 | §12.14 Ephedra（harmful CAM）| 本题 Glucosamine（non-harmful CAM）|
+> |---|---|---|
+> | **Therapy nature** | Banned + known cardiotoxicity + 无 benefit | 非 banned + 可能 small benefit + 主要 quality 问题 |
+> | **Physician 操作** | Explain risks + respect autonomy + **frequent f/u monitor toxicity** | Help select **safe brand via third-party verification** |
+> | **核心 takeaway** | Maintain alliance + don't abandon | Don't redirect + help informed brand choice |
+>
+> ## 我为什么错
+> - 选了：C（"Studies show glucosamine ineffective, stick to evidence-based"）
+> - 错因：pattern（think evidence-based = always right answer）
+> - 核心陷阱：C 看似科学严谨，但**违反 patient autonomy + ineffective**: ① patient 已 decline standard + 已 commit CAM → 强推 standard = alienate ② some glucosamine 研究确实 small benefit（not nothing）③ 即使没效果，patient autonomy 仍 respect → 帮她选 safe brand 才是 ethical（同 §12.14 maintain alliance 哲学）。
+>
+> ## Memory Hook
+> - 「**Patient 决意用 CAM → 帮她选 safe brand，不 redirect 标准**」（同 §12.14 Maintain Alliance 哲学）
+> - 「**FDA 管不到 supplement，第三方（US Pharmacopeia）查 purity 不查 safety**」
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：C "evidence-based" 听起来 always 对，没意识到 patient 已 decline standard → redirect = alienate。也没记住 US Pharmacopeia 名字。
+> - 学到的核心：① CAM brand 推荐 = direct to independent third-party verification（US Pharmacopeia）② Third parties 评估 purity + manufacturing **不**评估 safety/effectiveness ③ FDA 对 supplements 监管 limited（DSHEA 1994）④ Don't redirect / dismissive 当 patient 已 commit CAM ⑤ 区分 harmful CAM（ephedra → maintain alliance + monitor toxicity）vs non-harmful CAM（glucosamine → help select safe brand）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q105781]] Pain contract universal procedure（2026-05-25 同日；都是 patient feels alienated → physician 不要 dismissive/redirect）
+> - 📚 主笔记：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §12.14 Nonstandard Harmful Therapy（与本题构成 CAM 双面）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/骨科]]（Knee OA 管理 — exercise + weight loss + NSAID first-line）
+>   - 药理 / 监管（FDA 监管 vs Dietary Supplement Health and Education Act DSHEA 1994 — supplements 不需 pre-market approval）
+> - 🌱 TODO（待生成衍生）：把 harmful vs non-harmful CAM 区分加入 §12.14；新增 §12.X "CAM Brand Selection via Independent Third-Party Verification"
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做
+> - [ ] 默写 CAM supplement 监管层次（FDA 弱 + 第三方查 purity 不查 safety）
+> - [ ] 默写 **US Pharmacopeia** 名字
+> - [ ] 找 3 道类似题（CAM brand recommendation / supplement regulation / patient pursuing non-standard）
+> - [ ] **固化反射**：Patient asks CAM brand → 不 redirect 标准；direct to third-party verification（USP）
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: CAM supplement brand selection via independent third-party verification（**US Pharmacopeia** 等）— evaluates **purity + manufacturing** **不**评估 safety/effectiveness / **FDA limited regulatory authority** over nutritional supplements（DSHEA 1994 — 不需 pre-market approval）/ 不 redirect to standard treatment（alienate patient who already declined standard）/ Not all supplements equal — manufacturing standards 差异大 / 如 no independent review available → 告知 patient / 区分 harmful CAM（§12.14 ephedra — maintain alliance + monitor toxicity）vs non-harmful CAM（glucosamine — help select safe brand）/ Some glucosamine studies small benefit for knee OA pain
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-05-24] Ethics / Substituted judgment — refocus on patient (Q23113)
+> ^Q23113
+>
+> ## Stem 模式
+> 75 岁女 + dementia + T2DM + CKD + 透析中 pneumonia 入院 + broad-spectrum abx + 多器官衰竭 + incapacitated + 无 advance directive + 与女儿同住 → nephrologist 认为 **withdraw dialysis** 合适 → 女儿 upset："I feel like I'll be a bad daughter if I give up on her now" → 最佳回应?
+>
+> ## 核心概念
+> **Surrogate decision-makers**（本题女儿）常 experience stress / grief / conflict at end of life。Physician 帮 distressed surrogate apply **substituted judgment**（按 patient would have wanted，不是 surrogate 的 feelings/preferences）的 3 大技巧 = **refocus on patient + help apply knowledge + emphasize shared decision-making**。
+>
+> Answer：**B — "Help me understand what your mother was like before she got sick, and we can decide together what course is most appropriate for her."**
+>
+> ## 普适规则 — 帮 distressed surrogate 3 大技巧 ⭐
+>
+> | 技巧 | 内容 | 句式例 |
+> |---|---|---|
+> | **① Refocus on patient** ⭐ | 问 patient was like before illness → bring attention to patient's goals/values + 建立 physician-surrogate trust | "Help me understand what your mother was like before she got sick" |
+> | **② Help apply knowledge** | 帮 surrogate 把 patient goals 应用到 current situation using objective clinical info（prognosis / complications）| "Given her values, how would she weigh continued dialysis vs comfort?" |
+> | **③ Emphasize shared decision-making** | Offer close empathetic guidance + recommendations based on medical condition → reduce burden + alleviate guilt | "We can decide together what course is most appropriate" |
+>
+> ### 核心 reframe
+> - ❌ Emphasize "difficulty of daughter's decision" → 强调 burden + 可能 paternalistic + 增 conflict
+> - ❌ Passive encouragement（"I trust you"）→ 把整个 burden 推给 daughter
+> - ❌ "Good daughter only if honor wishes" → invokes substituted judgment **但 places pressure** on daughter
+> - ✅ Refocus on **mother's goals/values** + **shared** decision
+>
+> ## 易混陷阱（普适）
+> - **A. "Sometimes better to let loved ones go"** → empathy 表达 daughter 困难，**但不 refocus on patient**（paternalistic + 增 conflict）
+> - **C. "I know this is hard but I trust you to put mother's best interests first"** → passive encouragement + **places burden entirely on daughter**（没 attempt 帮她 work through）
+> - **D. "Instead of giving up, you're helping her achieve peaceful death"** → empathy + 转 narrative，但**仍 focus on daughter's emotion** 而非 patient values
+> - **E. "You're a good daughter as long as you honor what your mother would want"** → 引入 substituted judgment 概念**但 places pressure**（好坏 conditional on her decision）
+> - ✅ **B**：refocus on mother's pre-illness values + collaborative decision
+>
+> ## 我为什么错
+> - 选了：C
+> - 错因：干扰项（think "I trust you" = empathic + respect autonomy）
+> - 核心陷阱：C 表面 empathic / respectful，但实际是**passive abandonment** — 把整个 decision burden 推给 daughter 独自承担 + 没提供 framework + 不 refocus on patient。"I trust you" 听起来 supportive 但 ethically 等于"你自己决定我不参与" = 违 §七 "Respect family ≠ passive" 原则（同样适用于 surrogate decision-maker）。
+>
+> ## Memory Hook
+> - 「**Refocus on patient（substituted judgment）+ Shared decision-making（close guidance）**」— 不要 "I trust you" 把 burden 全推给 surrogate
+> - 「**问 patient was like before illness = 进入 substituted judgment 的钥匙**」
+> - 「**Surrogate guilt 不靠安慰，靠 framework**」— "don't feel guilty" 无效；refocus on patient + 提供 recommendation 才有效
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：C "I trust you to put mother's best interests first" 听起来 empathic + respect autonomy，没意识到这是 passive abandonment。
+> - 学到的核心：① Distressed surrogate 3 大技巧（refocus on patient + help apply knowledge + shared decision-making）② "I trust you" = passive abandonment 不是 empathy ③ Substituted judgment 钥匙句式："What was patient like before illness?" ④ Surrogate guilt 解决靠 framework（refocus + recommendation）不是 reassurance（"don't feel guilty"）⑤ §七 "Respect family ≠ passive" 原则同样适用 surrogate decision-maker
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q21627]] NEOT — substituted judgment + shared values（与本题完全同主题 substituted judgment；那题做对但 🟡 不确定，本题首次错；substituted judgment 知识有 cumulative weakness signal — 建议下次同主题再错升 🔴）
+>   - [[mistakes/uworld-mistakes#^Q107705]] DNR ≠ Do Not Treat（surrogate hierarchy + substituted judgment）
+> - 📚 主笔记：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §八 End-of-Life §8.5（substituted judgment 指南）+ §二 Surrogate hierarchy
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（Withdrawing dialysis — multi-organ failure / ethical considerations）
+>   - [[完整笔记/Peixuan分科笔记/neuro]]（Advanced dementia — capacity considerations + end-of-life）
+> - 🌱 TODO（待生成衍生）：把"帮 distressed surrogate 3 大技巧"作为正式 SOP 加入衍生 §8.5 substituted judgment 子节
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做
+> - [ ] 默写 3 大 distressed surrogate 技巧（refocus on patient + help apply knowledge + shared decision-making）
+> - [ ] 默写 "Help me understand what mom was like before she got sick" 反射句式
+> - [ ] 反射训练：见到 surrogate 表达 guilt → 0.5 秒喊 "refocus on patient + shared decision"（不要 "I trust you" / 不要 "better to let go" / 不要 "good daughter if honor wishes"）
+> - [ ] 累积签注：此主题 + Q21627 共 2 次薄弱信号，下次再错升 🔴 + 加 #考前必看
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Distressed surrogate decision-maker 3 大技巧（① **Refocus on patient** — ask what patient was like before illness ② **Help apply knowledge** — patient goals + objective clinical info ③ **Emphasize shared decision-making** — close empathetic guidance + physician recommendations）/ "I trust you" 看似 empathic 实际 passive abandonment 把整个 burden 推给 surrogate / Substituted judgment = act on what patient would have wanted 不是 surrogate's feelings/preferences / Reduces guilt + 建立 physician-surrogate trust / "Don't feel guilty" 无效 — surrogate 需 framework 不需 reassurance / §七 "Respect family ≠ passive" 原则同样适用 surrogate
+> 状态:: 🟡
+> 错因:: 干扰项
+
+> [!example]- [2026-05-24] Ethics / HIV PHI confidentiality + alternate surrogate outside family (Q21724)
+> ^Q21724
+>
+> ## Stem 模式
+> 37 岁男 + previously healthy + Pneumocystis pneumonia signs（tachycardia / tachypnea / labored breathing / hypoxemia + bilateral interstitial infiltrates）+ h/o unprotected sex w/ multiple partners + 不 married 不 children + Rapid HIV+ + admitted for HIV/PCP + **不想 family 知道 HIV diagnosis** → best course of action?
+>
+> ## 核心概念
+> **PHI 不能 without consent disclosed** → respect patient's privacy。但 patient 有 **acute deterioration risk**（severe respiratory instability）+ 可能 incapacitated → 需 prompt designate **alternate surrogate decision-maker OUTSIDE family**（防 default next of kin = family 不知道情况导致 care complication）。
+>
+> Answer：**A — Accept the patient's decision and help him identify a surrogate decision-maker other than family**
+>
+> ## 普适规则 — PHI + Surrogate 4 大原则
+>
+> | 原则 | 内容 |
+> |---|---|
+> | **① PHI 保密** | Patient request 不 disclose HIV → respect。**Only patient decides whether / when / to whom PHI disclosed** |
+> | **② Risk-based surrogate planning** | Acute deterioration possible + no advance directive / proxy → prompt 讨论 surrogate decision-maker |
+> | **③ Default next of kin = family** | 大多数 jurisdictions 患者无 capacity + 无指定 proxy → 走 next of kin（spouse → adult children → parents → siblings — §二 hierarchy）|
+> | **④ Alternate surrogate when family ineligible** ⭐ | 本案 family 是 default surrogate **但** patient 不想他们知道情况 → care team **prompt 讨论 designate alternate surrogate outside family**（close friend / 长期 partner / 等）|
+>
+> ### 关键 reframes
+> - **Patient autonomy 决定 PHI disclosure** — physician 不 pressure patient to disclose；patient firm 不想 disclose → 走 alternate surrogate route
+> - **Treating physician 不能 designate as surrogate decision-maker** — COI + 不 appropriate role（decision-maker 应代表 patient values，not medical interests）
+> - **Chronic conditions hard to indefinitely conceal** — 真相，但**only patient decides**
+>
+> ## 易混陷阱（普适）
+> - **A** ⭐ Accept + help identify alternate surrogate outside family
+> - **B. "Convince patient to tell family"** → pressure violates PHI autonomy
+> - **C. "Diagnosis cannot be concealed indefinitely + arrange family meeting"** → 部分对（chronic HIV 难完全隐瞒）**但** only patient 决定 whether/when/to whom → physician 不能 unilateral arrange family meeting
+> - **D. "Respect patient + physician team make decisions if incapacitated"** → ❌ **Treating physician should NOT be designated as decision-maker**（COI + 不 appropriate role）
+> - **E. "Must answer truthfully if family insists"** → ❌ **No obligation to disclose PHI to family** without patient consent → physician 可 simply state lack patient consent
+>
+> ## 我为什么错
+> - 选了：D（"Respect patient's wishes and offer that physician team could make decisions if he becomes incapacitated"）
+> - 错因：知识（不知 treating physician 不能 designate as surrogate decision-maker）
+> - 核心陷阱：D 看似 problem-solving + safety-conscious，但**违 ethics**: ① treating physician 有 inherent COI（自己做 medical decision-maker = 自己 evaluate own care + 自己 implement decisions）② physician 不 appropriate role（decision-maker 应代表 patient values，not medical interests）③ 正解是 **identify proper non-family alternate surrogate**（friend / partner / 等）→ designate ASAP。
+>
+> ## Memory Hook
+> - 「**HIV + 不想家人知 + 可能 incapacitated → designate non-family alternate surrogate ASAP**」
+> - 「**Treating physician 永远不能 = surrogate decision-maker**」（COI + role mismatch）
+> - 「**Only patient decides whether/when/to whom PHI disclosed**」（family insists ≠ disclosure obligation）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：D "physician team makes decisions if incapacitated" 听起来 practical（已经知道 patient 不想 family 知道 + 有 medical knowledge），没意识到 treating physician 不能当 surrogate（COI）。
+> - 学到的核心：① PHI 4 原则（保密 + risk-based planning + default next of kin + alternate when family ineligible）② Treating physician ≠ surrogate decision-maker（COI + 不 appropriate role）③ Only patient decides PHI disclosure（no obligation to disclose to family even if insists）④ Acute deterioration risk + 不想 family 知 → designate alternate surrogate outside family ASAP ⑤ Sensitive Dx（HIV / SUD / mental health）+ family default surrogate not desired → 用 alternate surrogate route 不是 pressure to disclose
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q3614]] HIPAA verbal consent + minimum necessary（PHI disclosure 类）
+>   - [[mistakes/uworld-mistakes#^Q105595]] 青少年 conditional confidentiality（类似 conditional disclosure + alternate）
+>   - [[mistakes/uworld-mistakes#^Q3742]] Collateral information（PHI receive vs share 方向）
+> - 📚 主笔记：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §二 Surrogate hierarchy + §五 HIPAA
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/感染]]（PCP + HIV — initial workup + ART initiation + opportunistic infection prophylaxis + CD4 < 200 → TMP-SMX）
+>   - [[完整笔记/Peixuan分科笔记/Ethics_Master]]（PHI / surrogate hierarchy 经典内容）
+> - 🌱 TODO（待生成衍生）：把"alternate surrogate when default family ineligible（PHI concerns）" + "treating physician ≠ surrogate (COI)" 加入衍生 §二 Surrogate hierarchy 子节
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做
+> - [ ] 默写 Surrogate hierarchy + "alternate when family ineligible" 规则
+> - [ ] 默写 "physician 不能 designate as surrogate" rule（COI）
+> - [ ] 反射训练：见到 patient w/ sensitive Dx（HIV/SUD/mental health）+ 不想 family 知 + 可能 incapacitated → 反射 "alternate surrogate outside family"（不是 physician team / 不是 pressure to disclose / 不是 arrange family meeting）
+> - [ ] **固化反射**：Treating physician ≠ surrogate decision-maker（永远）
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: PHI confidentiality + **alternate surrogate decision-maker outside family** when default next of kin ineligible（HIV 不想 family 知 + acute deterioration risk → prompt designate alternate — close friend / 长期 partner）/ **Treating physician 不能 designate as surrogate decision-maker**（COI + 不 appropriate role）/ Only patient decides whether/when/to whom PHI disclosed（no obligation to disclose to family even if they insist）/ Default next of kin hierarchy（spouse → adult children → parents → siblings）applies when no advance directive/proxy + family not ineligible / Chronic conditions difficult to indefinitely conceal **但** patient still decides disclosure / Sensitive Dx（HIV / SUD / mental health）+ family default surrogate not desired → alternate surrogate route 不是 pressure to disclose
+> 状态:: 🟡
+> 错因:: 知识
+
