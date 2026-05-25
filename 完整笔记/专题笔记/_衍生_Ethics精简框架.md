@@ -1576,6 +1576,82 @@ Patient request VSED
 | **③ Comprehensive intervention** | Resuscitation 是 **comprehensive package**（CPR + intubation + mechanical ventilation + pressors + defib + ICU 升级）；不 a-la-carte 问 | A-la-carte = "do you want chest compression? do you want intubation? do you want vasopressors?" → 让 patient 在不理解 overall trajectory 下分项决定 → confusion + 不 reflect true preferences |
 | **④ Neutral terminology** | 避 leading language — **双向** avoidance（既不 push 向 full code 也不 push 向 DNR）| 见下表 |
 
+> [!info] 临床场景实操对照 — 4 大原则 why + 好/坏问法 + CK stem 暗号 ⭐
+>
+> **前提**：Code Status Discussion 解决 4 个核心难点 — 患者怕被冷落（①）、不知怎么决定（②）、术语 confuse 选出矛盾组合（③）、被措辞 push 偏方向（④）。**4 大原则正是对应这 4 个难点的解决方案**。
+>
+> **核心 3 个 Code Status**：
+> - **Full Code** = 全力抢救（CPR + 插管 + 呼吸机 + ICU + pressors + defib 全套）
+> - **DNR** (Do Not Resuscitate) = 心脏骤停**不**抢救
+> - **DNI** (Do Not Intubate) = **不**插管（可与 DNR 独立）
+>
+> ---
+>
+> **① Reassure Care Priority — 强调 DNR 不降低照护质量**
+>
+> **Why**：患者最大恐惧 = "选 DNR 后医生会**冷落 / 不认真治 / 让我等死**"。这是**人之常情误解** — 把"DNR = 临终决定"读成"DNR = 整体降级"。**事实**：DNR 只决定"**IF** 心跳停 / 呼吸停时做什么"，**不影响其他所有 active care**（抗生素、疼痛管理、IV 液、营养、家属探视、舒适护理）。
+>
+> | 问法 | 例子 |
+> |---|---|
+> | ❌ 不 reassure 直接问 | "So do you want DNR or not?" |
+> | ✅ 先 reassure 再讨论 | "**Your decision about code status will NOT change how much we care for you or the quality of care.** We continue all other treatments fully. Code status only addresses what we would do **IF** your heart or breathing fails." |
+>
+> **CK stem 暗号**：患者犹豫 DNR + 担心被忽视 → 医生**第一句**就是 reassure care continues。
+>
+> ---
+>
+> **② Broader Goals-of-Care Context — 先问 goals 再讨论 specific**
+>
+> **Why**：直接问 "Do you want CPR yes/no" → 患者懵（CPR 是什么？基于什么决定？）。Code status 决定应该 **derive 自患者更深层目标**（人生价值观），不是孤立 yes/no。
+>
+> | 问法 | 例子 |
+> |---|---|
+> | ❌ 直接窄问 | "Mr. Smith, if your heart stops, do you want CPR?" |
+> | ✅ 先广后窄 | "Before we discuss specific resuscitation measures, **can you tell me what matters most to you in your care right now? What is your hope for the time you have? What concerns you most?**" |
+>
+> 患者可能答："I want to go home, say goodbye to my granddaughter, and not die with tubes everywhere." → 医生 derive：**DNR + comfort-focused care** 符合患者真实意愿。
+>
+> **关键**：Code status 是**手段**，goals of care 才是目的。**先理解人，再决定方案**。
+>
+> **CK stem 暗号**：医生 first task = "**explore patient's goals of care**"，不是 jump 到 CPR yes/no。
+>
+> ---
+>
+> **③ Comprehensive Intervention — 不 a-la-carte 逐项问**
+>
+> **Why**：Resuscitation 不是单一动作，是一整套**连环干预**（CPR → 插管 → 呼吸机 → pressors → ICU → defib）。**逐项问会导致医学不一致的决定**。
+>
+> **经典矛盾**：患者说"我要 CPR 但不要插管" — 临床现实 = **CPR 成功后几乎都需要插管维持氧合**，单独要 CPR 没意义（"想活下来但拒绝活下来的工具"）。
+>
+> | 问法 | 例子 |
+> |---|---|
+> | ❌ A-la-carte 逐项 | "Do you want chest compressions? Do you want intubation? Do you want vasopressors? Do you want defibrillation?" → 患者被术语 confuse + 选出矛盾组合 |
+> | ✅ Comprehensive package | "Resuscitation in this situation typically involves **several connected interventions — chest compressions, breathing tube, ventilator, medications, ICU care — as a package**. Given your goals, would you like us to attempt this comprehensive resuscitation, or prefer a **more comfort-focused approach**?" |
+>
+> **关键**：复苏 = **一整套不能拆零买**。决定 = full code（全套）/ DNR（全不做）/ limited code（**例外**，明确限定范围）。
+>
+> **CK stem 暗号**：选项里有"ask separately about CPR, intubation, vasopressors" → **错**；选"discuss resuscitation as a comprehensive package"。
+>
+> ---
+>
+> **④ Neutral Terminology — 双向避免 leading language**
+>
+> **Why**：用词带价值判断 → 偏向某一方向 → 不是真实 informed decision。**双向都要避** —— 不能 push 选 full code，也不能 push 选 DNR。详细 leading 用词对照见下方 Neutral Terminology Table。
+>
+> **CK stem 暗号**：题目两个选项一个用 "**keep you alive**"，另一个用 "**attempt CPR**" → 选**后者**（neutral）。
+>
+> ---
+>
+> **一句话钉死 4 大原则 ⭐**
+>
+> **"DNR 讨论 4 步反射"**：
+> 1. **先 reassure** —— "Your decision won't affect care quality"
+> 2. **先广后窄** —— 先问 goals of care，再 derive 具体 code status
+> 3. **整体 package** —— Resuscitation 是一整套，不 a-la-carte
+> 4. **中性用词** —— 用 "CPR / breathing machine"，避 "keep alive" 或 "tubes and machines"
+>
+> **反射钩**：看到 DNR 讨论 stem 的选项 → 排除 ① 没 reassure 的 / ② 直接问 CPR yes/no 的 / ③ 逐项 a-la-carte 问的 / ④ 用 leading language 的 → 剩下的就是正解。
+
 #### Neutral Terminology Table — 双向 leading language 都要避
 
 | 方向 | Leading 语言（避用）| Why biased |
