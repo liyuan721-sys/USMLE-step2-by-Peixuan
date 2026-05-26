@@ -22286,3 +22286,1169 @@
 > 主题:: DOAC + Acute Stroke tPA 禁忌（rivaroxaban / apixaban / edoxaban / dabigatran < 48h）/ Mechanical thrombectomy if LVO / Reversal agents 不开溶栓的路（andexanet / PCC ❌；idarucizumab dabigatran only ✓）
 > 状态:: 🟡
 > 错因:: 知识
+
+> [!example]- [2026-05-26] Ethics / Quality — Fishbone diagram 用途：organize categories + causes（不是 Lean 减 extraneous steps）(Q21970)
+> ^Q21970
+>
+> ## Stem 模式
+> 门诊家医诊所 QI 委员会做 RCA + 画 fishbone diagram 解决 33 min 等待 → 问 fishbone diagram primary purpose？
+>
+> ## 核心概念
+> **Fishbone diagram (cause-and-effect / Ishikawa diagram)** = RCA 团队讨论用的视觉工具，**organize categories and causes** of errors contributing to problem。鱼头 = problem，鱼脊主刺 = categories（staffing / scheduling / equipment / process），鱼侧支刺 = specific causes（double-booking / 设备故障）。**多 category 同时呈现** — 不是单纯 process improvement / 不是单 category 分析。
+>
+> Answer：**D. Organize categories and causes of errors that undermine system performance**
+>
+> ## 普适规则
+>
+> ### QI 工具用途配对（CK 高频名词题）⭐
+>
+> | 工具 | 主要用途 | Stem 触发词 |
+> |---|---|---|
+> | **Fishbone diagram (Ishikawa)** ⭐ | **Organize categories + causes** of problem（RCA 团队讨论用）| "team RCA discussion" / "categorize contributing factors" / "cause-and-effect diagram" |
+> | **RCA (Root Cause Analysis)** | 事后**追根因**（sentinel event 后） | "after sentinel event" / "identify underlying causes of past events" |
+> | **FMEA** | **事前**找潜在故障（prospective） | "before operations begin" / "new ICU opening" / "anticipate problems" |
+> | **Lean process improvement** | **消除 waste / extraneous steps** | "eliminate unnecessary steps" / "reduce waste" / "fewer no-shows" |
+> | **Six Sigma** | 减 defect + variation 到 6σ | "reduce variation" / "defect reduction" |
+> | **PDSA cycle** | 迭代试点 → 推广 | "pilot then scale" / "test small-scale change" |
+> | **5 Whys** | RCA 子工具 — 问 5 次"为什么" | "drill down to root cause" |
+> | **Pareto chart** | 80/20 找最大问题 | "rank improvement priorities" / "highest-ranking reason" |
+>
+> ### Fishbone 结构（USMLE 题图常考）
+>
+> ```
+>               Category 2 (eg, teamwork)
+>                  │
+>                  │ ─── specific cause
+>                  │ ─── specific cause
+>                  │
+>   ──────────────┼──────────────►  Problem（鱼头）
+>                  │                    例：长 patient wait times
+>                  │ ─── specific cause
+>                  │ ─── specific cause
+>                  │
+>               Category 1 (eg, scheduling)
+> ```
+>
+> **3 大组件**：① Problem（fish head）② Categories of factors（diagonal spokes / 鱼脊）③ Specific causes（每 spoke 下子刺 / 鱼侧支）
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Clinic scheduling 单一 category | ❌ Fishbone 覆盖**多 category**（staffing / scheduling / process / patient），不是单一 |
+> | B | Evaluate **potential likelihood** of errors at each stage | ❌ **FMEA**（prospective error analysis — 新流程上线前用）|
+> | **C（我选的）** | Identify **extraneous steps** that decrease efficiency | ❌ ⭐ **Lean methodology**（减 waste / 不必要步骤），不是 fishbone |
+> | **D** ⭐ | **Organize categories + causes** of errors | ✅ Fishbone 标准答案 |
+>
+> ## 我为什么错
+> - 选了：**C. Identify extraneous steps that decrease efficiency**
+> - 错因：**pattern**（"减 wait time = 减 unnecessary steps" 反射 — 把 Lean 跟 Fishbone 混了）
+> - 核心陷阱：**Lean 跟 Fishbone 同属 QI 工具但用途不同** — Lean = 减 waste（process optimization）；Fishbone = organize categories + causes（RCA discussion 视觉工具）
+>
+> ## Memory Hook
+> - **"Fishbone = organize 多 category + causes（RCA 团队讨论视觉工具）"** ⭐
+> - **"Lean = 减 extraneous steps / waste（process optimization）"** — 不是 fishbone
+> - **"FMEA = prospective 新流程前找潜在故障"** — 不是 fishbone
+> - 类比：fishbone = **白板上画**所有可能原因（团队 brainstorming 工具）；Lean = **流水线上去掉**多余动作（执行优化工具）；FMEA = **新工厂开工前**预测哪些环节会坏（前瞻评估工具）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：见"33 min wait time"反射"减步骤 = 减 waste = Lean" → 学到 stem 问的是 **fishbone 用途**（不是解决 wait time 的方法）；fishbone 是**讨论工具**不是改进方法
+> - 学到：QI 名词题必须先识别**工具名 vs 改进方法**两层 — fishbone (工具) / RCA (流程) / Lean (methodology) / FMEA (prospective tool) 等概念边界
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q19553]] FMEA prospective（5-25）— 同 QI 工具配对题家族
+>   - [[mistakes/uworld-mistakes#^Q22581]] RCA — Identify underlying causes（5-25）— 同 QI 工具家族
+>   - [[mistakes/uworld-mistakes#^Q21477]] Swiss Cheese Model（5-25）— 同 patient safety
+>   - [[mistakes/uworld-mistakes#^Q106239]] Surgical Time-out（5-25）— 同 patient safety
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §二 QI 工具 / §13.12 Analysis Frameworks（RCA + Fishbone + 5 Whys + M&M + FMEA 对照）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（Quality improvement + Patient safety 章节）
+> - 🌱 TODO：fishbone diagram 视觉结构（3 大组件 + 鱼骨示意）已在 §13.12，可考虑加 USMLE_患者安全与质量改进工具 §二.x 加 fishbone vs Lean 对照子节（5-26 错点驱动）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证 fishbone vs Lean vs FMEA 反射）
+> - [ ] 默写 8 大 QI 工具配对表（用途 + stem 触发词）
+> - [ ] 默写 fishbone 3 大组件（problem / categories / specific causes）
+> - [ ] 反射训练：见"cause-and-effect diagram / Ishikawa / fishbone" → 0.5 秒锁"organize categories + causes"
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Fishbone diagram (Ishikawa cause-and-effect) — Organize categories + causes（不是 Lean / 不是 FMEA / 不是单 category 分析）/ QI 工具配对（fishbone vs RCA vs FMEA vs Lean vs Six Sigma vs PDSA vs Pareto）/ Fishbone 3 大组件（problem + categories + specific causes）
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-05-26] Ethics / Patient Safety — Closed-loop communication 防 verbal order miscommunication（不是 sign-out / 不是 checklist）(Q19684)
+> ^Q19684
+>
+> ## Stem 模式
+> 81F + chronic AF + 二尖瓣置换术后 + warfarin + ICU 因肺炎 + asymptomatic VT → cross-covering provider 电话 verbal order "Give 20 of K"（意思：20 mEq oral potassium）→ resident 误录为 "20 mg vitamin K IV"（**药名 + 剂量 + 路径全错**）→ 给药后 INR subtherapeutic → 哪个 intervention 能 prevent 此错？
+>
+> ## 核心概念
+> **Closed-loop communication (read-back technique)** = sender 给指令 → receiver **复述**完整指令回 sender → sender **确认或纠正**。此 3 步循环用于 high-reliability organizations（核电站 / 航空 / 急救 / OR）防 verbal order 误传。本题中 resident 若复述 "Confirming 20 mg vitamin K IV" → cross-covering provider 立刻发现错（应是 20 mEq oral potassium）→ 拦截误给。
+>
+> Answer：**C. Practicing closed-loop technique**
+>
+> ## 普适规则
+>
+> ### 5 大 Healthcare Communication Strategies（CK 高频配对）⭐
+>
+> | 策略 | 描述 | 防什么错 |
+> |---|---|---|
+> | **Standardized handoff** (eg, I-PASS / SBAR) | Checklist / systematic process 框架 provider-to-provider sign-out | **Errors of omission** — 漏 vital info |
+> | **Closed-loop communication / "read-backs"** ⭐ | Sender → Receiver 复述 → Sender 确认 | **Misinterpretation / misunderstanding** — 本题 verbal order 误传 |
+> | **Interdisciplinary rounds** | 多专业团队成员（nursing / pharmacy / 医生）一起查房 | 持续学习 + 协作监控 |
+> | **Team huddles & debriefing** | 临床事件前 / 中 / 后简短讨论 | 减层级 + 鼓励发声 |
+> | **Team-based training** (eg, simulation) | 团队一起 interactive 训练 | 改沟通 + 协作 + 减层级 |
+>
+> ### Closed-Loop 3 步循环（钉死）
+>
+> ```
+> ① Sender → 给具体指令
+>    "Give 20 mEq oral potassium now"
+>          │
+>          ▼
+> ② Receiver → **复述完整指令**（药名 + 剂量 + 路径 + 时机）
+>    "Confirming 20 mEq oral potassium now"
+>          │
+>          ▼
+> ③ Sender → 确认或纠正
+>    "Correct" / "No, I said 20 mEq, not 20 mg"
+> ```
+>
+> ### Verbal Order 高风险因素（USMLE 高频）
+>
+> | 风险因素 | 例 | 解决 |
+> |---|---|---|
+> | **Abbreviations**（"20 of K"）| K 可能是 potassium 或 vitamin K | 用 full name + dose + route + time |
+> | **Indirect communication** | Resident 听 attending → 转 nurse | 直接沟通 / closed-loop verify |
+> | **Sound-alike drugs** | "vitamin K" vs "potassium" | Closed-loop + spell-out high-risk drug |
+> | **Look-alike packaging** | Heparin 1000 vs 10000 U | Tall man lettering / forcing function |
+> | **No safety checkpoint** | Verbal order 无 EHR alerts | Closed-loop + 后续 CPOE 录入 |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Warning labels for look-alike drugs | ❌ 防 look-alike confusion；本题错不是 look-alike（resident 听 verbal order 不是看 vial）|
+> | B | Clinical decision support protocol（EHR alerts）| ❌ Vitamin K 是 INR reversal 合理药 — 不会触发 alert；CDSS 不防 verbal order |
+> | **C** ⭐ | Closed-loop technique（read-back）| ✅ Read-back "20 mg vitamin K IV" 立刻暴露与"20 mEq oral potassium"的差异 |
+> | **D（我选的）** | Standardizing sign-out communication | ❌ **Sign-out = shift change handoff** 标准化；本题不是 sign-out，是**实时 verbal order** — 不同时间点 / 不同流程 ⚠️ |
+> | E | Checklists prior to high-risk drug administration | ❌ Checklist 防 admin 步骤遗漏（如 high-alert drug 给药前确认），不防选错药；选错药的根源是 verbal order 误传 |
+>
+> ## 我为什么错
+> - 选了：**D. Standardizing sign-out communication**
+> - 错因：**pattern**（"sign-out 是 high-risk 沟通点"反射 — 没分辨 sign-out（shift change）vs verbal order（real-time order entry））
+> - 核心陷阱：**Sign-out 是 shift change handoff，verbal order 是 real-time order — 两个不同时间点 / 不同流程**；本题错点在 verbal order 实时误传，不是 shift change 漏信息
+>
+> ## Memory Hook
+> - **"Verbal order 误传 → Closed-loop read-back（实时纠正）；Shift change handoff 漏信息 → Standardized sign-out（如 I-PASS）"** ⭐
+> - **5 大 communication strategies 各防什么**：
+>   - Sign-out → errors of omission（handoff 漏）
+>   - **Closed-loop → misinterpretation（实时误传）**⭐
+>   - Interdisciplinary rounds → 持续监控
+>   - Team huddles → 减层级 + 发声
+>   - Team training → 改沟通
+> - 类比：closed-loop = 餐厅服务员**复述订单**给客人确认（"您要点的是 牛排五分熟 + 红酒 1 杯"）→ 客人当场纠正；sign-out = 服务员**交班**告诉下一班"这桌已点 X, Y, Z"（防漏信息，不防误录）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：见到 communication breakdown 反射"sign-out 是高风险" → 学到 sign-out 是 **shift change** 用，本题是 **real-time verbal order** — closed-loop 是实时纠错工具
+> - 学到："20 of K" abbreviation 是经典 USMLE verbal order 陷阱（K 可能是 potassium / vitamin K — 必须 full name）
+> - 学到：5 大 healthcare communication strategies 各有适用场景（防不同 error type），不能一锅煮
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （Patient safety communication 题家族待积累 — sign-out / I-PASS / SBAR / CRM）
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §6.2 Closed-loop communication / §6.4 I-PASS / §6.5 Collaboration framework
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（Medical errors + communication breakdown）
+> - 🌱 TODO：累积 3+ 道 communication strategy 配对题 → 整合 5 大 strategies 速查表（sign-out / closed-loop / interdisciplinary rounds / huddles / team training）+ 各自防什么 error
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证 sign-out vs closed-loop 反射）
+> - [ ] 默写 5 大 communication strategies + 各自防什么 error
+> - [ ] 默写 closed-loop 3 步循环
+> - [ ] 默写 verbal order 5 大高风险因素 + 解决
+> - [ ] 反射训练：见"verbal order miscommunication / 'read-back'" → 0.5 秒锁 closed-loop；见"shift change / sign-out 漏信息" → 0.5 秒锁 standardized handoff
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Closed-loop communication 防 verbal order miscommunication（不是 sign-out / 不是 checklist / 不是 CDSS / 不是 warning labels）/ 5 大 Healthcare Communication Strategies 配对（sign-out 防 omission / closed-loop 防 misinterpretation / interdisciplinary rounds 持续监控 / team huddles 减层级 / team training 改沟通）/ Verbal order 5 大高风险因素（abbreviations / indirect / sound-alike / look-alike / no checkpoint）/ "Sign-out = shift change handoff vs Closed-loop = real-time order verify" 边界
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-05-26] Ethics / Defensive Medicine — Clinical Pathways 减 overuse + 减 liability（不是 cognitive bias 训练）(Q106765, linked vignette Item 2 of 2 with Q106764)
+> ^Q106765
+>
+> ## Stem 模式
+> ED medical director 发现患者 3 月内 10+ 次 CT abdomen + 多数无 clear clinical indication + 医生承认 "出于 fear of malpractice liability"（**defensive medicine** 经典定义） → 哪个 intervention 减 CT overuse？
+>
+> ## 核心概念
+> **Defensive medicine** = 主要为**减 physician liability**（不为 patient benefit）提供 clinical services → overuse + worse patient outcomes（如累积 radiation）+ higher costs。
+>
+> **解决方案 = Implement clinical pathways / practice guidelines**（major specialty societies 制定，如 ACR for CT scans）→ 标准化 evidence-based recommendations → physician 遵循 = 默认达到 **standard of care** → **从 liability 角度受 protection**（malpractice 通常 = 偏离 reasonable clinical standard）→ 减 fear-driven overuse。
+>
+> Answer：**A. Implementing clinical pathways for abdominal pain throughout the department**
+>
+> ## 普适规则
+>
+> ### Defensive Medicine 处理 SOP ⭐
+>
+> ```
+> 识别 defensive medicine：
+>     ├─ Stem 触发词："fear of malpractice / missing dx / litigation"
+>     ├─ + "physicians felt scans were not necessary but ordered anyway"
+>     ├─ + Overuse pattern（反复 imaging / 多次 ED visit / 不必要 specialist）
+>     │
+>     ▼
+> 优先级解决方案：
+>     ① Evidence-based clinical pathways / practice guidelines ⭐
+>        （major specialty society 制定 — ACR / ACC / ACOG / etc.）
+>        → 标准化 → 遵守 = standard of care → liability protection
+>     │
+>     ▼
+>     ② Continuing education on overuse harms（次选 — 减知识缺口）
+>     │
+>     ▼
+>     ③ Specialty consult requirement（不实际 — 增 ED bottleneck）
+>     │
+>     ▼
+>     ④ Enhanced malpractice coverage（不解决 psychological fear ❌）
+>     │
+>     ▼
+>     ⑤ Tort reform（系统层面，physician 无法控制）
+> ```
+>
+> ### Standard of Care 的 liability protection 逻辑
+>
+> | 概念 | 含义 |
+> |---|---|
+> | **Standard of care** | A reasonable clinician would do in same situation（often based on guidelines）|
+> | **Malpractice** | 偏离 standard of care + 造成 harm |
+> | **Clinical pathway / guideline 遵循** | 默认达到 standard of care → 即使 outcome 不好，也是 reasonable practice → **shielded from malpractice claim** |
+> | **Defensive medicine 自相矛盾** | 表面"防 liability"，实际造成 overuse + 累积 harm（radiation / 不必要侵入操作 / 误诊）→ **反而增 liability risk** |
+>
+> ### 5 大 Quality / Safety 反 pattern（CK 高频）
+>
+> | 反 pattern | 例 | 为什么错 |
+> |---|---|---|
+> | **① Enhanced malpractice coverage** | B | 不解决 psychological fear；fear-driven overuse 仍发生 |
+> | **② Continuing education on harms** | C（次选）| 知识有用但**这些医生已经知道** — 是 fear 驱动不是知识缺口 |
+> | **③ Specialty / specialist sign-off** | D（radiology approval）| ED bottleneck + inefficient + 不解决 liability concern |
+> | **④ Cognitive bias training** | E（我选的）| Cognitive bias 训练适用 **diagnostic errors**（patient 1 of 2 stem）；本题医生**知道**不必要还做 = defensive medicine（fear），不是 cognitive bias ⚠️ |
+> | **⑤ Tort reform** | — | 系统层面，physician 无法直接控制 |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | **A** ⭐ | Clinical pathways for abdominal pain | ✅ Defensive medicine 标准解 — standard of care 默认达成 → liability protection |
+> | B | Enhanced malpractice coverage | ❌ 不减 psychological fear |
+> | C | Continuing education on overuse harms | ❌ 次选 — 医生已知不必要，是 fear 不是知识 |
+> | D | Radiology approval for CT | ❌ ED bottleneck + 不解决 liability |
+> | **E（我选的）** | Cognitive bias training | ❌ ⭐ **Cognitive bias 训练适 diagnostic error**（同 vignette Item 1 = Q106764 framing bias）；本题**defensive medicine = fear driven**，不是 cognitive bias ⚠️ |
+>
+> ## 我为什么错
+> - 选了：**E. Training clinicians on cognitive patterns**
+> - 错因：**干扰项**（被 linked vignette Item 1 of 2 = Q106764 framing bias 题影响 — 反射"同 vignette → 同主题 cognitive bias"）
+> - 核心陷阱：**Linked vignette 不一定考同主题** — Item 1 (Q106764) 是 cognitive bias（framing），Item 2 (Q106765) 是 quality improvement（defensive medicine）— **两个独立考点**；用 linked 形式只是共享 patient stem
+>
+> ## Memory Hook
+> - **"Defensive medicine = fear-driven overuse → Clinical pathways / guidelines 减 liability + 减 overuse"** ⭐
+> - **"医生知道不必要还做 = defensive medicine（fear）；医生不知道做错了 = cognitive bias"** — 关键区分 ⚠️
+> - **Linked vignette 警示**：Item 1 cognitive bias ≠ Item 2 cognitive bias；每题独立读，不要 reflexively pattern-match
+> - 类比：clinical pathway = 给医生发**官方剧本**（"按这个演，出事不怪你"）→ 减 fear → 减 overuse；malpractice insurance = 给医生发**安全帽**（出事赔偿，但 fear 仍在）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：被同 vignette Item 1（Q106764 framing bias 做对）影响 → 反射"同 vignette = 同主题" → 学到 linked vignette **每题独立考点**，不能 reflex-match
+> - 卡点：把 cognitive bias 训练当万能 → 学到 cognitive bias 适 **diagnostic error**（医生不知道做错）；defensive medicine = 医生**明知**不必要还做（fear-driven），cognitive bias 训练不解决
+> - 学到：clinical pathways 的 liability protection 逻辑（遵循 guideline = standard of care = malpractice shield）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q106764]] **linked vignette Item 1 of 2 同 stem family**（cognitive bias framing）— 做对，但**警示**：linked vignette ≠ 同主题
+>   - [[mistakes/uworld-mistakes#^Q22061]] 减 unnecessary imaging request（5-25 — 同 quality improvement）— specific exam + commentary 减 overuse
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §12 Healthcare Quality 框架 / §12.4 Cost-conscious + ASPs
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（Quality / Cost / Liability）
+> - 🌱 TODO：累积 3+ 道 defensive medicine / clinical pathway / cost-quality 题 → 在 USMLE_患者安全与质量改进工具 §12.x 加 "Defensive medicine 处理 SOP" 子节（含 5 反 pattern + standard of care 逻辑）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证 defensive medicine vs cognitive bias 区分反射）
+> - [ ] 默写 defensive medicine 处理 SOP 5 优先级
+> - [ ] 默写 standard of care + clinical pathway liability protection 逻辑
+> - [ ] 默写 "知道不必要还做 = defensive；不知道做错 = cognitive bias" 边界
+> - [ ] 反射训练：见 "fear of malpractice / litigation + overuse" → 0.5 秒锁 clinical pathways（不是 cognitive bias 训练）
+> - [ ] 反射训练：**linked vignette 每题独立读**，不 reflex-match 上一题主题
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Defensive Medicine 减 overuse + 减 liability（Clinical pathways / practice guidelines 是 standard of care → malpractice shield）/ "知道不必要还做 = defensive medicine (fear) vs 不知道做错 = cognitive bias" 边界 / Linked vignette 独立考点警示（Item 1 framing bias ≠ Item 2 quality improvement）/ 5 大反 pattern（enhanced malpractice / education only / specialty sign-off / cognitive bias training / tort reform）
+> 状态:: 🟡
+> 错因:: 干扰项
+
+> [!example]- [2026-05-26] Ethics / Cognitive Bias — Framing bias（chart info → 形成 dx 前 → 影响判断）(Q106764, linked vignette Item 1 of 2 with Q106765) ✓ 做对
+> ^Q106764
+>
+> ## Stem 模式
+> 31M ED + abdominal pain + 3 月反复 ED visits + 既往 IV analgesics 缓解 + 既往 normal PE + 既往 normal imaging → 医生**先看 chart**（never seen patient）→ **chart-based 形成 dx 前提**（drug-seeking suspect）→ "physician's behavior closely reflects which cognitive bias?"
+>
+> ## 核心概念
+> **Framing bias** = diagnostic approach 受 **contextual / prior information**（如 chart documentation）的**过度影响** → 形成 **incomplete differential diagnosis**。常发生于 patient with multiple visits in busy settings (ED)，可能漏掉 serious etiology。
+>
+> Answer：**C. Framing bias** ✓
+>
+> ## 普适规则
+>
+> ### 4 大经典 Cognitive Bias 速查表 ⭐⭐⭐（CK 配对题大全 — UW 高频）
+>
+> | Bias | 定义 | 经典临床例 |
+> |---|---|---|
+> | **Anchoring** | 锚定**第一信息**（patient 自述 / 早期 fact）+ 不调整 | Crushing chest pain → 锚 ACS（不考虑 PE / aortic dissection）|
+> | **Availability** | Allowing **recently seen / memorable** (high-stakes) cases to sway dx | Dyspnea peak influenza season → 反射 flu，漏 PE |
+> | **Confirmation** | 强调**支持** presumed dx 的 evidence + 忽略 contradicting evidence | Burning throat → 锚 acid reflux，忽略 weight loss → 漏 malignancy |
+> | **Framing** ⭐ | 受 **contextual / prior information**（如 chart / triage label）过度影响 | 本题：chart 显示 "反复 ED + normal workup" → 锚 drug-seeking，漏 真实病因 |
+>
+> ### Anchoring vs Framing 关键区分 ⭐
+>
+> | 维度 | Anchoring | Framing |
+> |---|---|---|
+> | **信息源** | **Raw fact**（patient 自述 / 客观数据）| **Interpretation**（chart documentation 是别人的解读 / triage "low acuity" label）|
+> | **谁主导** | **自己**锚定（看到第一信息自己跳）| **被外部 frame 带**（chart / 同事 impression 带歪）|
+> | **Trigger 词** | "crushing chest pain" / "30 weeks gestation" | "**Chart shows**" / "**Prior diagnosis** of X" / "**Triage labeled** as Y" |
+> | **类比** | 自己锚（"我第一眼看到 X"）| 别人框（"chart 说 X，我跟着想 X"）|
+>
+> **本题 framing 触发**：医生 **prior to seeing patient** + reviews chart + chart shows "abdominal pain almost weekly × 3 months + IV analgesics resolved + normal workup" → chart 解读 = drug-seeking → 医生 reflexively 缩 differential → 这是 **chart 给的 frame** 带的（不是 patient 自己提供的 raw fact）→ Framing bias。
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Availability bias | ❌ Availability = 最近见过 / memorable 案例带；本题不是 recall-driven |
+> | B | Confirmation bias | ❌ Confirmation 发生在 **examination / workup 阶段**（强化已有 dx）；本题在 **见 patient 之前**就形成 dx — 是 framing |
+> | **C** ⭐ | Framing bias | ✅ Chart-based prior info 形成 incomplete differential |
+> | D | Selection bias | ❌ Selection bias = 研究 participant 选择偏差，**不是 cognitive bias** |
+> | E | Triage cueing | ❌ Triage cueing = 被 triage category 影响（low acuity → 漏严重病）；本题 stem **没给 triage label**，是 chart 给的 frame |
+>
+> ## 我为什么对 ✓
+> - 选了：**C. Framing bias** ✓
+> - 自信做对 — 反射建立中
+> - 关键反射：见到 "**reviews chart prior to seeing patient** + chart documents prior visits + narrows DDx based on chart" → 0.5 秒锁 framing bias（"chart frame" 带的，不是自己锚）
+>
+> ## Memory Hook
+> - **"事实 → 我自己跳 = Anchoring；别人评价 / 解读 → 我被带 = Framing"** ⭐
+> - **4 大 bias 速查**：
+>   - Crushing chest pain → ACS 不调整 = **Anchoring**
+>   - 流感季 dyspnea → flu = **Availability**
+>   - Burning throat → acid reflux 忽略 weight loss = **Confirmation**
+>   - **Chart says 反复 ED → drug-seeking = Framing** ⭐
+> - **Selection bias 排除技巧**：选项给 "selection bias" → 看是不是 cognitive bias 题；selection bias 是研究方法学不是 cognitive 概念
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点（轻微）：B confirmation bias 看着很像 — 学到 confirmation 在 examination 阶段强化（**已经见过 patient + workup 后**），framing 在**见 patient 之前**就由 chart 带歪 → 时序区分关键
+> - 学到：Item 1 (Q106764) framing vs Item 2 (Q106765) defensive medicine — linked vignette 但**独立考点**；不能 reflex-match
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q106765]] **linked vignette Item 2 of 2 同 stem family**（defensive medicine — 我错了，把 cognitive bias 反射跨题）⚠️
+>   - （Cognitive bias 题家族待积累 — anchoring / availability / confirmation / premature closure）
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.4 Cognitive Biases / §13.4.1 4 大经典 Cognitive Bias 速查表（v1.3.5 + v1.3.7 Anchoring vs Framing 深度区分 / v1.3.8 二次深化）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（diagnostic error）/ [[完整笔记/Peixuan分科笔记/Biostats_Master]]（selection bias vs cognitive bias 区分）
+> - 🌱 TODO：积累 3+ 道 framing bias 题（涉及 chart info / triage label / prior consult impression）→ 在 USMLE_患者安全与质量改进工具 §13.4.1 进一步扩展 framing bias 子节
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 4 大 cognitive bias 速查表 + 各自经典临床例
+> - [ ] 默写 Anchoring vs Framing 区分（信息源 raw fact vs interpretation）
+> - [ ] 反射训练：见 "**reviews chart** prior to seeing patient" → 0.5 秒锁 framing；见 "**crushing chest pain**" 第一反应 ACS → anchoring
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Framing bias — 受 contextual / prior info (chart documentation) 过度影响形成 incomplete differential（vs Anchoring 自己锚 raw fact / vs Confirmation 强化已 examined dx / vs Availability recall-driven）/ Anchoring vs Framing 关键区分（信息源 raw fact vs interpretation；自己锚 vs 别人带）/ 4 大经典 cognitive bias 速查 / Linked vignette Item 1 ≠ Item 2 警示（与 Q106765 配对）/ Selection bias 不是 cognitive bias
+> 状态:: 🟢 ✅ 做对（cognitive bias 反射建立中）
+> 错因:: —
+
+> [!example]- [2026-05-26] Ethics / Patient Safety — Hand hygiene 持续 suboptimal + systems 已 done → Individual accountability + Just culture（时序原则）(Q106042) ✓ 做对
+> ^Q106042
+>
+> ## Stem 模式
+> Hospital admin 关注 hand hygiene compliance < 30% + 实施 systems interventions（signage / 加 sinks + dispensers / training + 反复教育 + 监测 + tracking）→ compliance 改善到 **70% 但 minimal variance among units** → next intervention area？
+>
+> ## 核心概念
+> **Just Culture 时序原则**：Systems interventions（**first step + comprehensive + sustained**）→ 已 done 仍 suboptimal → 才转 **Individual accountability + organizational culture**（"just culture" — 责任建到 evaluation 里 + remedial training → disciplinary measures）。❌ **跳过 systems 直接 individual punitive** = culture of fear。
+>
+> Answer：**B. Individual accountability and organizational culture** ✓
+>
+> ## 普适规则
+>
+> ### Just Culture 时序铁律 ⭐⭐⭐
+>
+> ```
+> Step 1: Systems Interventions（first step + 持续 + comprehensive）
+>     ├─ Physical environment（额外 sinks / dispensers outside each room）
+>     ├─ Staff knowledge + preparation（training）
+>     ├─ Engaging staff in organizational improvement（staff input）
+>     ├─ Transparent monitoring（video surveillance）
+>     └─ Visual cues（signs / red arrows near doorways）
+>     │
+>     ▼ 已 sustained + comprehensive 但仍 suboptimal
+>     │
+> Step 2: Strengthen Individual Accountability ⭐
+>     ├─ Build compliance into provider evaluations
+>     ├─ Disciplinary measures for repeated transgressions（warning → remedial training → 更进一步）
+>     ├─ Real-time peer feedback
+>     └─ 称为 "just culture"
+> ```
+>
+> ### Hand Hygiene Noncompliance 4 大原因 + Solutions（AMBOSS table）⭐
+>
+> | Reason | Solution |
+> |---|---|
+> | **Ineffective placement of sinks & dispensers** | Place sinks/dispensers **outside each patient's room** |
+> | **Lack of accountability** ⭐ | Build hand hygiene into **provider evaluations** |
+> | **Lack of safety culture** | Create safety teams + provide **real-time feedback** on compliance |
+> | **Forgetfulness or lack of time** | Visual cues (signs / red arrows) near doorways |
+>
+> > [!tip] Hand hygiene 必背数据
+> > 最便宜 + 最有效感染控制干预 — reduces HAI **by up to 70%**；但 physician adherence often < 30%（despite 强 evidence base）
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Cognitive biases + judgment errors | ❌ Cognitive bias 适 **diagnostic errors / clinical decision-making**，不适简单 safety action（handwashing）|
+> | **B** ⭐ | Individual accountability + organizational culture | ✅ Systems 已 done → 转 just culture |
+> | C | Knowledge deficiencies + organizational awareness | ❌ Stem 明确 "extensive training already" — 不是 knowledge 缺口 |
+> | D | Teamwork training + communication | ❌ Handwashing 是 **individual action**（常发生 in team members absent 时）— individual accountability 才是核心 |
+>
+> ## 我为什么对 ✓
+> - 选了：**B** ✓ 反射"systems 已 done → 转 individual accountability"
+> - 关键反射：见到 "**已实施 systems interventions** + 仍 suboptimal" → 0.5 秒锁 individual accountability（**不是**再加 systems / 不是 cognitive bias / 不是 knowledge）
+>
+> ## Memory Hook
+> - **"Systems first → 已 sustained 仍 suboptimal → individual accountability（just culture）"** ⭐
+> - **"Just culture 不是 culture of fear — 但 systems 都做完仍差时，要 accountability"** ⭐
+> - 类比：先把厕所建好（systems）→ 还有人不洗手 → 那就把"洗手"写进 KPI（individual accountability）；先扣分（punitive）= culture of fear，没用
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点（轻微）：A cognitive bias 看着诱人 → 学到 cognitive bias 适 **diagnostic errors**（医生不知道做错），不适简单 safety action（handwashing — 是 awareness 问题不是 cognition）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q21477]] Swiss Cheese Model（5-25 — 同 patient safety 多层防御）
+>   - [[mistakes/uworld-mistakes#^Q106239]] Surgical Time-out（5-25）
+>   - [[mistakes/uworld-mistakes#^Q23111]] Healthcare quality team-based efforts（同日 5-26 — 同 quality improvement 家族）
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §5.1 Just Culture / §5.4 Hand Hygiene Case Study + Just Culture 时序原则（**v1.3.6 锚定本卡 Q106042**）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/感染]]（HAI 预防 + 5 时机 WHO）
+> - 🌱 TODO：本卡已被衍生 v1.3.6 完整锚定（§5.4），无需新增量
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 Hand hygiene 4 大 noncompliance reasons + solutions
+> - [ ] 默写 Just culture 时序（systems first → individual accountability after sustained reform）
+> - [ ] 反射训练：见"systems interventions 已 sustained + suboptimal" → 0.5 秒锁 individual accountability
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Just Culture 时序原则（Systems first 已 sustained + comprehensive → 转 Individual accountability — 不是 culture of fear）/ Hand hygiene 4 大 noncompliance reasons + solutions（ineffective placement / lack accountability ⭐ / lack safety culture / forgetfulness）/ Cognitive bias 不适简单 safety action / Handwashing 是 individual action（team training 不解决）
+> 状态:: 🟢 ✅ 做对（just culture 时序反射建立）
+> 错因:: —
+
+> [!example]- [2026-05-26] Ethics / Quality — Systemic healthcare quality concerns → Team-based efforts + 沟通 stakeholders + shared goals（Q23111）✓ 做对
+> ^Q23111
+>
+> ## Stem 模式
+> Rural FM physician + 监测 hospital 多 admission → 注意 significant variations in medication / imaging / length of stay (excessive variations) + **无 adverse outcomes**（未直接观察） + 7 miles to alternate hospital + provider 有 leadership experience + 受社区尊重 → best approach？
+>
+> ## 核心概念
+> **Systemic healthcare quality concerns 处理 SOP**：① **Communicate with relevant stakeholders**（不 anonymous report）② **Coordinated efforts** between inpatient + outpatient（团队协作）③ **Team-based interventions promoting shared goals**（不 referral out / 不外部 board 投诉）— 直接外部 report = premature when adverse events 尚未发生 + 错过 collaborative improvement opportunity。
+>
+> Answer：**E. Meet with the director of the hospitalist group and offer to participate on a committee promoting patient health outcomes** ✓
+>
+> ## 普适规则
+>
+> ### Healthcare Quality Concerns 处理优先级（CK 高频）⭐
+>
+> ```
+> 观察到 systemic quality concerns（excessive variations / 无 adverse events 实际发生）
+>      │
+>      ▼
+> ① ⭐ Team-based efforts + communication with leadership
+>      • 找 director / committee（不 anonymous）
+>      • Frame as shared goal（"improving quality" 不是 "accusing"）
+>      • 提 leverage 自己 experience + community trust
+>      │
+>      ▼
+> ② Coordinated inpatient + outpatient efforts
+>      • Bridge 视角（外门诊医生看住院后果 → 反馈）
+>      │
+>      ▼
+> ③ Quality improvement committee participation
+>      • Active 而非 passive
+>      │
+>      ▼
+> ④（仅当 adverse events 发生 + team-based 失败时）才考虑：
+>      • External accreditation board reporting
+>      • Patient referral to alternate facility
+> ```
+>
+> ### 反 pattern 4 类
+>
+> | 反 pattern | 例 | 为什么错 |
+> |---|---|---|
+> | **① Anonymous reporting** | A | 不促进 coordinated team-based care；放弃自己的 valuable knowledge + experience |
+> | **② Wait + see（passive）** | B | 系统问题已识别 → 不应等 adverse events occur 才 act（**proactive prevention** > reactive response）|
+> | **③ Exclusively refer out** | C | 错过 quality-of-care 改善机会 + 不 feasible for all patients（insurance / preference）|
+> | **④ External accreditation board（premature）** | D | Adverse events 尚未发生 → premature；先 internal team-based effort，外部 report 是 last resort |
+> | **⑤ Team-based + committee participation** ⭐ | E | ✅ Communicate + coordinate + shared goal |
+>
+> ### Quality Variation vs Quality Defect 区分
+>
+> | 概念 | 含义 | 例 |
+> |---|---|---|
+> | **Variations in care** ⭐ | 同诊断不同处理（meds / imaging / LOS） → undermines patient outcomes（即使无明显 adverse event）| 本题 |
+> | **Adverse event** | 患者**实际受到伤害** | 给错药致死 |
+> | **Near miss** | 差点出事但拦下 | Penicillin allergy 被 nurse 拦 |
+> | **Sentinel event** | 死亡 / 严重伤害 / 永久功能丧失 | Wrong-site surgery |
+>
+> **关键**：Variations **本身就是 quality 问题**，即使无 adverse event — 需要 team-based intervention 减 variation（同 5-25 [[mistakes/uworld-mistakes#^Q106290]] data-driven feedback）。
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Anonymously report to hospital board | ❌ 放弃 valuable expertise + 不 promote coordinated team-based care |
+> | B | Continue monitor + 等 adverse outcomes | ❌ Reactive — 系统问题已识别应 proactive |
+> | C | Refer all patients to alternate hospital | ❌ 错过 quality 改善 + 不 feasible（insurance / preference）|
+> | D | Inform national accreditation committee | ❌ Premature — 无 actual adverse events + 先 internal team-based effort |
+> | **E** ⭐ | Meet director + committee participation | ✅ Communicate + coordinate + shared goal |
+>
+> ## 我为什么对 ✓
+> - 选了：**E** ✓
+> - 关键反射：见"systemic concerns + 无 adverse events + 有 leadership experience" → 0.5 秒锁 team-based committee
+>
+> ## Memory Hook
+> - **"Systemic quality concerns 无 adverse events → Team-based + committee（不 anonymous / 不 wait / 不 refer out / 不 external board）"** ⭐
+> - **"Internal team-based first, external accreditation board last"** — 升级顺序铁律
+> - 类比：邻居家厨房有安全隐患（systemic concern）→ 你先**敲门 + 善意提醒 + 一起想办法**（team-based E），不是匿名报警（A）/ 等火灾再说（B）/ 不让家人去他家（C）/ 直接 yelp 一星差评（D）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点（轻微）：D accreditation board 看着像 "official channel" → 学到 external board = **last resort**，先内部 team-based；adverse events 未发生时外部 report 是 premature
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q106042]] Hand hygiene + just culture（同日 5-26 — 同 systems improvement 家族）
+>   - [[mistakes/uworld-mistakes#^Q21753]] Lean methodology no-show（同日 5-26 — 同 QI methodology 家族）
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §6.5 Collaboration and Teamwork 框架 / §12.7 Variation Reduction Strategy
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（healthcare quality + 系统改进）
+> - 🌱 TODO：累积 3+ 道 systemic quality concern + team-based response 题 → 在 §6.5 加 "Healthcare quality concerns 处理优先级" 子节
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 Healthcare quality concerns 4 级优先级（team-based → coordinated → committee → external board last）
+> - [ ] 默写 4 大反 pattern（anonymous / wait / refer out / premature external board）
+> - [ ] 反射训练：见"systemic concerns + 无 adverse events + provider 有 leadership" → 0.5 秒锁 team-based committee
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Systemic healthcare quality concerns → Team-based efforts + communication stakeholders + shared goals（不 anonymous / 不 wait / 不 refer out / 不 premature external board）/ Healthcare quality concerns 4 级处理优先级 / Internal team-based first, external accreditation board last / Variations in care 本身就是 quality 问题（不需 adverse event）
+> 状态:: 🟢 ✅ 做对
+> 错因:: —
+
+> [!example]- [2026-05-26] Ethics / QI — Lean methodology = 减 waste（no-show 50% → 15%, 同步 visits）vs Six Sigma / Change management / PDSA / Swiss cheese（Q21753）✓ 做对
+> ^Q21753
+>
+> ## Stem 模式
+> FM clinic medical director 注意 no-show + wait time 多 + 50%+ 新妈漏 first postpartum visit + transportation + long wait 是主因 → 实施**新政策同步 postpartum visit + 婴儿 well-child exam**（一天同时看母婴）→ 6 月后 missed appointments **50% → 15%** → 哪个 QI methodology 最 fit？
+>
+> ## 核心概念
+> **Lean methodology** = identify and **reduce waste**（活动 / 步骤 fail to add value） + **optimize workflow**。本题 streamlines scheduling workflow → 减 transportation + wait time waste → 增 patient convenience + value → no-show 大降。
+>
+> Answer：**C. Identifying and reducing waste within a process** ✓
+>
+> ## 普适规则
+>
+> ### QI Processes 4 联表（AMBOSS）⭐⭐⭐
+>
+> | Methodology | 核心 | Example | Stem 触发词 |
+> |---|---|---|---|
+> | **Model for Improvement / PDSA cycle** | **Incremental cycles** of planning, piloting, assessing, refining | Testing new check-in procedure + weekly patient satisfaction survey | "cyclical" / "iterative" / "pilot then refine" / "small-scale change before full implementation" |
+> | **Lean** ⭐ | **Reduce waste** + optimize workflow | Streamlining scheduling → 减 wait time | "reduce waste" / "eliminate unnecessary steps" / "streamline" / "reduce no-show / wait time" |
+> | **Six Sigma** | **Near-elimination of defects** through statistically driven process | Controlling wrong-site surgery rate to < 0.00001% | "near zero defects" / "6σ" / "statistical process control" / "catastrophic error elimination" |
+> | **Change management** | Engaging personnel to adopt + implement organizational change | 找 frontline early adopters lead EHR implementation | "champion" / "early adopter" / "engage staff in adoption" / "culture change for new system" |
+>
+> ### Lean vs Six Sigma 关键区分 ⭐
+>
+> | 维度 | Lean | Six Sigma |
+> |---|---|---|
+> | **目标** | 减 **waste / inefficiency** | 减 **defects / variation** 到 6σ |
+> | **场景** | 减 wait time / no-show / 不必要步骤 | 减 catastrophic errors（wrong-site surgery / medication error）|
+> | **关键词** | streamline / workflow / value | defect rate / 99.99966% / statistical |
+> | **本题 stem 信号** | 减 no-show + wait time + transportation | — |
+>
+> ### Swiss Cheese Model vs Lean 区分
+>
+> | 概念 | 用法 |
+> |---|---|
+> | **Swiss Cheese Model** | 多层 overlapping safeguards（layers of cheese）block errors — patient safety **mental model** for error prevention（不是 QI methodology）|
+> | **Lean** | 减 waste — QI methodology for **process optimization** |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Creating overlapping safeguards within a system | ❌ **Swiss Cheese Model**（patient safety mental model）— 不是 QI methodology |
+> | B | Eliminating systemic defects with statistically driven goals | ❌ **Six Sigma** — 减 catastrophic defects；本题 focus on streamlining 不是 statistical defect elimination |
+> | **C** ⭐ | Identifying and reducing waste within a process | ✅ Lean — 减 waste / streamline |
+> | D | Prioritizing early adoption to promote change | ❌ **Change management** — engage staff for adoption；本题 focus on workflow change，不是 personnel adoption |
+> | E | Systematically piloting cyclical rapid tests of change | ❌ **PDSA / Model for Improvement** — iterative cycles；本题 stem 没说"试点 → 评估 → 再调整"循环 |
+>
+> ## 我为什么对 ✓
+> - 选了：**C** ✓
+> - 关键反射：见"streamline scheduling + 减 no-show + 减 wait time + 减 transportation" → 0.5 秒锁 Lean（减 waste）
+>
+> ## Memory Hook
+> - **"Lean = 减 waste（streamline）；Six Sigma = 减 defect（6σ）；PDSA = 迭代试点；Change management = 早期采纳者；Swiss Cheese = 多层防御 mental model（不是 methodology）"** ⭐
+> - **本题 Stem 信号**：streamline + 减 wait time + 减 no-show → Lean
+> - 类比：Lean = **整理房间**（去掉杂物 + workflow 顺）；Six Sigma = **零失误装配线**（造火箭不能有 0.001% defect）；PDSA = **小规模试点改进**；Change management = **找意见领袖带动同事换软件**
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点（轻微）：E PDSA 看着有点像（"new policy + 6 月后评估"）→ 学到 PDSA 关键是 **iterative cycles + 反复 refine**，本题 stem 没说"试点 1 周再调整"循环；Lean 是 **one-time workflow redesign** + 评估
+> - 学到：Swiss cheese 是 **mental model**（理解 error 怎么发生）不是 **methodology**（解决 error 的方法）— 选项 A 钓饵
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q21970]] Fishbone diagram（同日 5-26 — 同 QI 工具配对家族）
+>   - [[mistakes/uworld-mistakes#^Q19553]] FMEA prospective（5-25）
+>   - [[mistakes/uworld-mistakes#^Q22581]] RCA（5-25）
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §2.7 Six Sigma + Lean / §2.4 PDSA / §三 防御金字塔 Swiss Cheese
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（QI methodology 速查）
+> - 🌱 TODO：在 USMLE_患者安全与质量改进工具 §2.x 加 "QI Processes 4 联表（Model for Improvement / Lean / Six Sigma / Change management）"（AMBOSS table 完整版 — 当前 §2.7 只有 Lean + Six Sigma 简版）
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 QI Processes 4 联表 + 各自 stem 触发词
+> - [ ] 默写 Lean vs Six Sigma 区分（waste vs defect）
+> - [ ] 默写 Swiss Cheese = mental model（不是 methodology）
+> - [ ] 反射训练：见"streamline / 减 wait time / 减 no-show" → 0.5 秒锁 Lean
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: QI Processes 4 联（Model for Improvement-PDSA iterative cycles / Lean 减 waste streamline ⭐ / Six Sigma 减 defect 6σ / Change management 早期采纳者）/ Lean vs Six Sigma 区分（waste vs defect）/ Swiss Cheese 是 mental model 不是 methodology / Lean stem 触发词（streamline / 减 wait time / 减 no-show / workflow optimization）
+> 状态:: 🟢 ✅ 做对
+> 错因:: —
+
+> [!example]- [2026-05-26] Ethics / Implicit Bias — Group debriefing + metacognition + assess（不是 anonymous portal / 不是 zero-tolerance / 不是 punitive remediation）(Q21366) ✓ 做对
+> ^Q21366
+>
+> ## Stem 模式
+> 200 ED trainees + survey "I offer equitable care" — **100% explicit agreement** → 后续 IAT 计算机化测试（minority/nonminority 脸 + positive/negative 词配对）→ **76% 更快关联 minority + "noncompliant" / "drug-seeking"**（unconscious implicit bias）→ best next step？
+>
+> ## 核心概念
+> **Implicit bias** = subconscious stereotypes / attitudes — distinct from intentional discrimination（explicit 是有意识的歧视）。本题 100% explicit equity 承诺 + 76% unconscious bias → 典型 implicit-explicit gap。Joint Commission 推荐：① **Assess for bias**（standardized tools 如 IAT）② **Encourage awareness + collaborative discussion**（group debriefing 是本题答）③ **Train metacognition**（self-monitor cognitive patterns）。**避免 punitive measures**（会让 provider distress / 失 reporting / 损 trust）。
+>
+> Answer：**D. Organize interactive group debriefing sessions to discuss aggregate study results** ✓
+>
+> ## 普适规则
+>
+> ### Implicit Bias 3 大管理（Joint Commission）⭐
+>
+> | 步骤 | 操作 | 工具 |
+> |---|---|---|
+> | **① Assess for bias** | 标准化 testing 工具 | IAT (Implicit Association Test) — 计算机化 image-based sequential priming test |
+> | **② Encourage awareness + collaborative discussion** ⭐ | **Group debriefing on aggregate results** | 小组共同看数据 + 共同 reflect |
+> | **③ Train metacognition** | Self-monitor cognitive patterns | 减 automatic / unconscious reliance on stereotypes |
+>
+> ### Implicit Bias vs Explicit Discrimination ⭐
+>
+> | 维度 | Implicit Bias | Explicit Discrimination |
+> |---|---|---|
+> | **意识层面** | **Subconscious / unconscious** | Conscious + intentional |
+> | **Provider 自知** | 不自知（甚至否认）| 自知 |
+> | **本题表现** | 100% explicit equity 承诺 + 76% IAT 关联 negative 词 | — |
+> | **处理工具** | IAT + group debriefing + metacognition | Anonymous reporting portal + 政策强制 |
+> | **临床影响** | Subtle 差异（pain 处理少 / time 短 / workup 不全）→ health disparities | Overt 拒诊 / 歧视语言 |
+>
+> ### 4 大反 pattern（CK 高频）
+>
+> | 反 pattern | 例 | 为什么错 |
+> |---|---|---|
+> | **① Anonymous portal for witnessed discrimination** | A | 适 **explicit / overt** discrimination，**不适** implicit bias（subtle + 多 provider 自己不自知）|
+> | **② Zero-tolerance policy** | B | 适 explicit discrimination；providers 已"explicit 承诺 equity" → policy 不解决 unconscious |
+> | **③ No action（"100% explicit equity")** | C | ❌ Implicit bias 仍 perpetuates health disparities — 必须 address |
+> | **④ Punitive remediation for highest IAT scores** | E | ❌ Punitive → distress + 失 reporting + 损 trust；org 应**避免 punitive**，focus on collaborative awareness |
+>
+> ### Implicit Bias 临床影响（USMLE 高频）
+>
+> | 影响 | 例 |
+> |---|---|
+> | **Hispanic / Black 给少 analgesia**（即使疼痛评分相同）| 经典 stem 触发 |
+> | Pain assessment 系统性 underestimate | minority 患者疼痛被 underrate |
+> | Time 短 + workup 不全 | 短 visit + 漏 diagnostic step |
+> | Communication style 差 | Eye contact / 解释少 / 高对方表达 demand |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Anonymous portal for witnessed discrimination | ❌ Implicit bias 是 subconscious + subtle，anonymous portal 适 overt discrimination |
+> | B | Zero-tolerance policy | ❌ 适 explicit；providers 已 explicit 承诺 equity 但仍 unconscious |
+> | C | No action because explicit equity | ❌ Implicit bias 仍致 health disparities — 必须 address |
+> | **D** ⭐ | Group debriefing on aggregate results | ✅ Encourage awareness + collaborative discussion（Joint Commission step 2）|
+> | E | Remediate highest IAT trainees | ❌ Punitive — org 应避免 punitive，focus on awareness |
+>
+> ## 我为什么对 ✓
+> - 选了：**D** ✓
+> - 关键反射：见"100% explicit equity + IAT 测出 unconscious bias" → 0.5 秒锁 group debriefing（不 punitive / 不 anonymous portal）
+>
+> ## Memory Hook
+> - **"Implicit bias 3 步：Assess (IAT) → Group debriefing + awareness → Train metacognition"** ⭐
+> - **"Implicit (subconscious 自不知) vs Explicit (conscious 自知) — 工具不同：implicit 用 awareness + debriefing；explicit 用 reporting + zero tolerance"** ⭐
+> - **避免 punitive**：实施 punitive → distress + 失 reporting + 损 trust
+> - 类比：implicit bias = 体味（你自己闻不到，要别人闻 → 集体讨论）；explicit discrimination = 大喊脏话（自己知道）→ 直接 report
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点（轻微）：E remediation 看着像"action"对症 → 学到 implicit bias **不punitive** — 反而让 provider distress + 失去 reporting + 损 trust；focus on awareness + collaborative
+> - 学到：A anonymous portal **适 overt discrimination**（自知 + visible），implicit bias 是 subtle + 自不知 — 工具不同
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q106764]] Framing bias（同日 5-26 — 同 cognitive / unconscious bias 家族）
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.4 Cognitive Biases / §13.3 Risk Factors for Medical Errors（HCP-associated bias）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（health disparities + minority care）
+> - 🌱 TODO：累积 3+ 道 implicit bias / health disparities 题 → 在 §13.4.x 加 "Implicit bias 3 大管理 + 4 反 pattern" 子节（含 Joint Commission framework + IAT 工具）
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 Implicit bias 3 大管理（assess / group debriefing / metacognition）
+> - [ ] 默写 Implicit vs Explicit discrimination 工具区分（debriefing vs anonymous portal）
+> - [ ] 默写 4 反 pattern（anonymous / zero-tolerance / no action / punitive remediation）
+> - [ ] 反射训练：见 "explicit equity 承诺 + unconscious bias 测出" → 0.5 秒锁 group debriefing
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Implicit Bias 3 大管理（Assess IAT / Group debriefing collaborative discussion ⭐ / Train metacognition）/ Implicit vs Explicit discrimination 工具区分（implicit 用 awareness + debriefing；explicit 用 reporting + zero tolerance）/ 避免 punitive（distress + 失 reporting + 损 trust）/ Implicit bias 致 health disparities（minority 给少 analgesia / pain underestimate / time 短）/ Joint Commission framework
+> 状态:: 🟢 ✅ 做对
+> 错因:: —
+
+> [!example]- [2026-05-26] Ethics / Patient Safety — Effective Team Functioning = Shared understanding of goals（6 元素表 — 核心元素）(Q23112) ✓ 做对
+> ^Q23112
+>
+> ## Stem 模式
+> ICU director 实施 interprofessional team-based rounding + 团队成员：attending physician / pharmacist / social worker / NP / case manager → most likely promote highly effective team functioning？
+>
+> ## 核心概念
+> **Effective team functioning** = 所有成员 **shared understanding of goals**（整体住院目标 / immediate clinical priorities / 计划 studies + procedures）→ teams with shared understanding **significantly more effective** in achieving intended outcomes。**Distinct + non-overlapping roles**（avoid duplication harm，如 multiple insulin admin）+ **psychologic safety**（freely express concerns，无 fear）也是核心。
+>
+> Answer：**A. Ensuring that all team members have a similar understanding of desired goals** ✓
+>
+> ## 普适规则
+>
+> ### Features of Effective Teams 6 元素表 ⭐⭐⭐（CK 高频）
+>
+> | 元素 | 内容 |
+> |---|---|
+> | **Safety culture** | Resource commitment to safety |
+> | **Collaboration** ⭐ | **Shared understanding & prioritization of goals**（本题）/ **Distinct roles avoiding steep hierarchy** |
+> | **Psychologic safety** ⭐ | Asking questions & voicing concerns encouraged / Avoiding blame or retaliation |
+> | **Responsiveness** | Feedback respected & promptly acted on |
+> | **Situational awareness** | Persistent mindfulness & safety vigilance / Cross-checking each other's actions |
+> | **Transparency** | Prompt disclosure of errors & safety information |
+>
+> ### Effective Team 4 反 pattern（USMLE 高频）
+>
+> | 反 pattern | 例 | 为什么错 |
+> |---|---|---|
+> | **① Prioritize speed over safety** | B "shortest amount of time" | Team efficiency 重要但**不能 over patient safety**；额外 rounding time 必要时 OK |
+> | **② Equal participation regardless of expertise** | C "equal participation by each discipline" | Roles should be **commensurate to skills + knowledge + training**；overall clinical assessment 需 more 医生 / 护士 participation，社工 / 药师 / case manager less |
+> | **③ Role overlap + reduce hierarchy** | D "reducing hierarchy + promoting overlap" | ❌ Overlapping roles = **harmful duplication**（多 provider 给 insulin = potential overdose）；**clear + unique** roles 才安全 |
+> | **④ Hierarchical / blame culture** | — | Psychologic safety 反向：team members 不敢发声 → 致 sentinel events |
+>
+> ### Distinct Roles vs Overlap 区分 ⭐
+>
+> | 概念 | 含义 | 示例 |
+> |---|---|---|
+> | **Distinct + unique roles** ✅ | 每人 clear scope，**没** unnecessary duplication | 医生开药 / 护士给药 / 药师 verify — 单一 ownership |
+> | **Distinct + non-steep hierarchy** ✅ | 角色清楚但**没**陡峭等级（鼓励发声）| Junior nurse 可质疑 attending |
+> | **Overlapping roles** ❌ | Multiple providers 重复同一 action | 多 provider 都给 insulin = potential overdose |
+> | **Steep hierarchy** ❌ | 等级太陡（junior 不敢发声）| Sentinel event leading root cause |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | **A** ⭐ | Shared understanding of desired goals | ✅ Effective team 核心元素 |
+> | B | Prioritize speed of team activities | ❌ Team efficiency 不能 over patient safety；额外 rounding time 必要时 OK |
+> | C | Equal participation by each discipline | ❌ Roles **commensurate to skills**；不需 each discipline equal |
+> | D | Reducing hierarchy + role overlap | ❌ Reduce **steep** hierarchy 对（psych safety），但 role **overlap** ❌（导致 harmful duplication 如多 insulin admin）|
+>
+> ## 我为什么对 ✓
+> - 选了：**A** ✓
+> - 关键反射：见 "effective team functioning" → 0.5 秒锁 shared understanding of goals（不是 speed / 不是 equal participation / 不是 role overlap）
+>
+> ## Memory Hook
+> - **"Effective team 6 元素：Safety culture / Collaboration (shared goals + distinct roles ⭐) / Psychologic safety / Responsiveness / Situational awareness / Transparency"** ⭐
+> - **"Distinct roles ≠ steep hierarchy"** — 角色 clear 但等级 flat（鼓励发声）；overlap roles = harmful duplication
+> - 类比：交响乐团 = effective team — 每人**乐器不同（distinct roles）**+ 共同读**总谱（shared goals）**+ 指挥不打压**（psych safety）**；不是大家抢同一乐器（overlap）或所有人都拉同样多小提琴（equal participation）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点（轻微）：D 看着有些诱人（"reduce hierarchy" 听起来好）→ 学到 "reduce **steep** hierarchy" ✓ 但 "role overlap" ❌；区分关键
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q19739]] **本卡同 effective team 框架**（Q19739 是 senior resident pressure junior med student → hierarchy + intimidation → poor teamwork → PPH；同 6 元素表锚定，强调 psychologic safety）
+>   - [[mistakes/uworld-mistakes#^Q18751]] Wrong patient error → interprofessional rounds（同日 5-26 — 同 teamwork 家族）
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §6.5.3 Teamwork and Mutual Support / **Features of Effective Teams 6 元素表（v1.3.3 锚定 Q19739 + Q23112 双锚）**
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（团队合作 + 系统改进）
+> - 🌱 TODO：本卡已被衍生 §6.5.3 完整覆盖，无需新增量；可考虑给 6 元素表加 Q23112 锚定标注
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 Effective Team 6 元素（Safety culture / Collaboration / Psych safety / Responsiveness / Situational awareness / Transparency）
+> - [ ] 默写 4 反 pattern（speed > safety / equal participation / role overlap / steep hierarchy）
+> - [ ] 反射训练：见"effective team functioning" → 0.5 秒锁 shared understanding of goals
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Effective Team Functioning 6 元素（Safety culture / Collaboration with shared understanding goals ⭐ + distinct roles avoiding steep hierarchy / Psychologic safety / Responsiveness / Situational awareness / Transparency）/ Distinct roles ≠ steep hierarchy（区分关键）/ Role overlap = harmful duplication（多 insulin admin 例）/ Roles commensurate to skills（不需 equal participation）
+> 状态:: 🟢 ✅ 做对
+> 错因:: —
+
+> [!example]- [2026-05-26] Ethics / Patient Safety — Wrong Patient Error (WPE) sentinel event → RCA → suboptimal teamwork → Interprofessional rounds（Q18751）✓ 做对
+> ^Q18751
+>
+> ## Stem 模式
+> 两 patient CAP + ICU + senior resident 同时照顾 + electronic order for IV vancomycin 给 **Patient B 而非 Patient A**（**Wrong Patient Error / WPE**）→ 2 天后 Patient B 急性肾损伤 → RCA → 哪个 change 最 likely prevent future occurrences？
+>
+> ## 核心概念
+> **Wrong-patient error (WPE)** = sentinel event（serious patient harm）+ frequently occurs with **CPOE systems**（computerized provider order entry — 不同患者 chart 切换易混）。RCA = retrospective + comprehensive + systematic + **system-level focus（不 individual blame）**。本题 RCA 暴露 **suboptimal teamwork** as root cause → 解 = **interprofessional team-based rounds**（pharmacist + nurse on rounds 提供 collaborative oversight + 早发现 incorrect order）。
+>
+> Answer：**C. Instituting daily team-based interprofessional rounds in the ICU** ✓
+>
+> ## 普适规则
+>
+> ### Root Cause Analysis (RCA) — Overview + Principles（CK 速记）⭐
+>
+> | 维度 | 内容 |
+> |---|---|
+> | **Overview & uses** | Retrospective + comprehensive + systematic error analysis tool；conducted **after sentinel event** or cluster of patient safety incidents |
+> | **Principles** ⭐ | ① Uncovers **fundamental factors** leading to variations in performance + opportunities for error ② **Focuses on systems, NOT individual performance**（**no blame**）③ Generates **action plan** for organizational process improvements |
+>
+> ### Sentinel Event 定义（USMLE 必背）⭐
+>
+> **Sentinel event** = patient safety incident **unrelated to patient's underlying condition** resulting in：
+> - Death
+> - Severe temporary harm
+> - Permanent harm
+>
+> **强制 RCA + 30 天内 report to The Joint Commission**。
+>
+> ### 典型 Sentinel Event 6 类
+>
+> | 类型 | 例 |
+> |---|---|
+> | **Wrong-patient / wrong-site / wrong-procedure** | 本题 WPE / 错切右肾本应切左 |
+> | **Medication error 致 harm** | 给错药致死 / 致 AKI |
+> | **Retained surgical objects (RSO)** | 留纱布 |
+> | **Patient self-harm in care** | 入院期间自杀 |
+> | **Newborn abduction / discharge to wrong family** | — |
+> | **Unanticipated death** | 未预期死亡 |
+>
+> ### Interprofessional Rounds 防 WPE 的机制
+>
+> ```
+> Senior resident enters order for wrong patient
+>      │
+>      ▼
+> ① Pharmacist on rounds reviews order → 注意 patient B 不需 vancomycin
+>      │
+>      ▼
+> ② Nurse on rounds 注意 medication change for B → 与既往评估不符
+>      │
+>      ▼
+> ③ Team discussion → 早发现 + correct order
+>      │
+>      ▼
+> Sentinel event prevented
+> ```
+>
+> ### 反 pattern 4 类（CK 高频）
+>
+> | 反 pattern | 例 | 为什么错 |
+> |---|---|---|
+> | **① Didactic training only** | A "增加 residents EMR training" | Didactic 知识层面 OK 但 **inferior to hands-on / team-based simulation**；本题不是 knowledge 缺口 |
+> | **② Fatigue mitigation** | B "increase time off + sleep breaks" | Fatigue 是 human error 因素，**但本题错发生 at beginning of 12-hr shift** + **fatigue 不解释 2 天 unnoticed** — 非主因 |
+> | **③ Minimize handoffs** | D "fewer patient handoffs" | Handoff errors 是 transition errors；本题 **information communicated to + acted on by same resident** — 非 handoff 问题 |
+> | **④ Specialist verbal approval** | E "ID specialist verbal approval before vancomycin" | 增 redundancy 但**不解决 root cause**（lack of team-based oversight）+ order 仍可到 wrong patient + remain undetected |
+> | **⑤ Interprofessional rounds** ⭐ | C | ✅ 直接 address suboptimal teamwork root cause |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Didactic training on EMR order entry | ❌ Knowledge OK 但 didactic inferior to hands-on; 本题非 knowledge 缺口 |
+> | B | Time off + sleep breaks | ❌ Fatigue 非本题主因（shift 开始 + 2 天 unnoticed）|
+> | **C** ⭐ | Daily team-based interprofessional rounds | ✅ Pharmacist + nurse 提供 collaborative oversight |
+> | D | Fewer patient handoffs | ❌ 非 handoff 问题（same resident throughout）|
+> | E | ID specialist verbal approval | ❌ Redundancy 但不解决 root cause |
+>
+> ## 我为什么对 ✓
+> - 选了：**C** ✓
+> - 关键反射：见"WPE + 2 天 unnoticed + senior resident 同时管 2 个 patient" → 0.5 秒锁 interprofessional rounds（pharmacist + nurse collaborative oversight）
+>
+> ## Memory Hook
+> - **"Sentinel event → RCA → focus on systems not individual → interprofessional rounds 是 wide-net 解决"** ⭐
+> - **"RCA 3 原则：① 找 fundamental factors ② focus on systems (no blame) ③ action plan for organizational improvements"** ⭐
+> - **Sentinel event = patient safety incident unrelated to underlying condition + 致 death/severe temporary/permanent harm**
+> - 类比：WPE = "**送错快递**"（Patient A 的药给 Patient B）→ 一个快递员 (single resident) 容易错；多个人 (pharmacist + nurse on rounds) 一起看包裹 + 收件人 → 错率大降
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点（轻微）：E specialist approval 看着像 "extra checkpoint" → 学到 redundancy 不解决 **root cause**（lack of team-based oversight）；错单仍可送到 wrong patient
+> - 学到：RCA 的核心 = **focus on systems not individual** — 即使本题是 resident 个人 click 错，RCA 找的是 system-level 解决（不 blame resident）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q22581]] RCA principles + 4 工具对照（5-25）— 同 RCA framework
+>   - [[mistakes/uworld-mistakes#^Q23112]] Effective team functioning（同日 5-26 — interprofessional rounds 应用层面）
+>   - [[mistakes/uworld-mistakes#^Q21477]] Swiss Cheese Model（5-25）— 同 patient safety system 思路
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.12 Analysis Frameworks（RCA + Fishbone + 5 Whys + M&M + FMEA + Common Cause Analysis 4 工具对照）/ §4.1 Sentinel event 定义 + 强制流程 / §6.5 Collaboration framework
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（patient safety + sentinel event reporting）
+> - 🌱 TODO：本卡已被衍生 §13.12 + §4.1 完整覆盖，可加 WPE → interprofessional rounds 流程图作为 §13.12 子节
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 RCA Overview + Principles 3 条（fundamental factors / systems no blame / action plan）
+> - [ ] 默写 Sentinel event 定义 + 6 类典型
+> - [ ] 默写 Interprofessional rounds 防 WPE 的 3 步机制
+> - [ ] 反射训练：见"sentinel event + RCA + suboptimal teamwork" → 0.5 秒锁 interprofessional rounds
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: RCA (Root Cause Analysis) — Retrospective + Comprehensive + Systematic + Focus on systems NOT individual (no blame)（3 大原则）/ Sentinel event 定义（patient safety incident unrelated to underlying condition → death / severe temporary / permanent harm）+ 6 类典型（WPE / wrong-site / RSO / med error / suicide / abduction）/ Wrong Patient Error (WPE) → Interprofessional rounds 防 root cause = suboptimal teamwork / Pharmacist + nurse on rounds = collaborative oversight 早发现 incorrect order
+> 状态:: 🟢 ✅ 做对
+> 错因:: —
+
+> [!example]- [2026-05-26] Ethics / QI — Quality Indicators 4 类（Structural / Process / Outcome / Balancing）+ 缺 Process indicator 诊断（Q22359）✓ 做对
+> ^Q22359
+>
+> ## Stem 模式
+> ICU 高于平均 CLABSI 率 → 实施 standardized checklist + comprehensive clinician training → 6 月后 indicators：① clinician sterile technique knowledge ↑（Structural） ② Avg central lines per month unchanged（balance check） ③ Avg documentation time ↑（**Balancing** — counterbalancing cost） ④ CLABSI 率 unchanged（**Outcome** — 改进失败）→ 分析哪个 indicator 才能 better understand 这些结果？
+>
+> ## 核心概念
+> **Quality Indicators 4 类**：① **Structural**（人 / 床 / 知识 / 资源） ② **Process**（compliance + 行为执行率） ③ **Outcome**（健康结局 / mortality / infection rate） ④ **Balancing**（counterbalancing tradeoffs — 改进一个 indicator 时是否产生 unintended consequences）。本题 stem 给了 ① Structural（knowledge ↑） ② Balancing（documentation time ↑）③ Outcome（infection unchanged） → **缺 ② Process indicator**（checklist 完成率 / compliance — 若 low 解释 outcome 不变）。
+>
+> Answer：**D. Process variation and compliance** ✓
+>
+> ## 普适规则
+>
+> ### Indicators Used in Quality Measurement 4 类⭐⭐⭐（Donabedian + Balancing）
+>
+> | 类型 | 测什么 | 例子 |
+> |---|---|---|
+> | **Structural** | Organizational structures / human resources / knowledge / 设备 | Nurse-patient ratio / clinician knowledge / 床位数 |
+> | **Process** ⭐ | Healthcare worker **compliance with a process** / assess performance / detect variations | % eligible patients screened for colon cancer / **% checklist steps completed**（本题）|
+> | **Outcome** | Changes in health status or outcomes | Blood pressure / mortality rate / nosocomial infection rate / **CLABSI rate**（本题）|
+> | **Balancing** | Tradeoffs incurred as result of systems change | **Increased documentation time after implementing safety protocol**（本题）|
+>
+> ### 4 indicator 关系示意
+>
+> ```
+> 实施 QI intervention
+>      │
+>      ▼
+> ① Structural ─→ 资源 / 知识 / 设备充足？
+>      │           （本题：knowledge ↑ ✓）
+>      ▼
+> ② Process ─→ 实际执行了吗？compliance OK？
+>      │       （**本题缺这个 — 若 checklist 完成率 low → 解释 outcome 不变**）
+>      ▼
+> ③ Outcome ─→ 病人结局改善？
+>      │       （本题：CLABSI unchanged ✗ — 改进失败）
+>      ▼
+> ④ Balancing ─→ 改进同时引入 cost / 不良 trade-off？
+>             （本题：documentation time ↑ — 已测）
+> ```
+>
+> ### 关键反射钩
+>
+> | 临床场景 | 该测哪类 indicator？|
+> |---|---|
+> | "% checklist 完成 / hand hygiene 顺从 / 体检表填写率" | **Process** ⭐ |
+> | "ICU 床数 / nurse 数 / training 量" | Structural |
+> | "Mortality / infection rate / readmission rate" | Outcome |
+> | "Implementation 后 documentation time / cost / 不良 unintended consequence" | Balancing |
+>
+> ### Outcome 不变时的诊断顺序（USMLE 高频）⭐
+>
+> ```
+> Outcome unchanged after QI intervention
+>      │
+>      ▼
+> ① 先查 Process indicator — checklist / compliance 完成率
+>      │
+>      ├─ Low compliance（busy times 漏做）
+>      ├─ High variation（不同班次完成不一致）
+>      ├─ Complexity 问题（checklist 太长）
+>      └─ Staffing 不足
+>      │
+>      ▼
+> ② 再查 Structural — 知识 / 资源是否到位
+>      │
+>      ▼
+> ③ 再查 Patient-related factors — 患者本身 severity（不是常 primary 解释）
+> ```
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Counterbalancing system costs | ❌ **Balancing 已测**（documentation time ↑）— further analysis 价值低 |
+> | B | Organizational structures | ❌ **Structural 已测**（clinician knowledge ↑ + lines/month unchanged）— 已知 |
+> | C | Patient-related factors | ❌ Patient factors（年龄 / severity）影响 infection rate 但**不太可能 systematically alter intervention results** — less likely 解释 unchanged outcome |
+> | **D** ⭐ | Process variation and compliance | ✅ **Process indicator 没测** → 关键诊断 — 若 checklist 完成率 low → 解释 outcome 不变 |
+>
+> ## 我为什么对 ✓
+> - 选了：**D** ✓
+> - 关键反射：见 "outcome unchanged + structural OK + balancing already measured" → 0.5 秒锁 Process indicator
+>
+> ## Memory Hook
+> - **"Quality Indicators 4 类：Structural（资源）/ Process（执行率）/ Outcome（结局）/ Balancing（tradeoffs）"** ⭐⭐⭐
+> - **"Outcome 不变 + structural OK → 先查 Process compliance（checklist 完成率 low？variation high？）"** ⭐
+> - **"Donabedian 经典 = SPO + Balancing"** — SPO 三联 (Structural / Process / Outcome) + Balancing 是 unintended consequences 监测
+> - 类比：施工质量 — 工人技能（structural）+ 按图纸施工率（**process**）+ 房子结实（outcome）+ 工期延长（balancing）；房子不结实 → 先查"按图纸施工率"（process），不是再问"工人是否培训过"（structural 已测）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点（轻微）：A balancing 看着诱人（"既然 documentation time ↑，不知道是否影响"）→ 学到 balancing 已经 **测过** + 已知 ↑；进一步分析 cost trade-off 不如先查 process compliance（解释 outcome 不变更直接）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q106289]] Variation Reduction Strategy — Data-driven feedback（5-25 area — 同 process variation 概念）
+>   - [[mistakes/uworld-mistakes#^Q106290]] Variation Reduction Strategy（同上）
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §12.2 Donabedian Model — 5 类 Healthcare Quality Measures（Structural / Process / Outcome / Balancing / Composite）/ §12.7 Variation Reduction Strategy
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/Biostats_Master]]（quality measurement statistics）
+> - 🌱 TODO：本卡已被衍生 §12.2 完整覆盖；可考虑加 "Outcome 不变时诊断顺序" 子节（process first → structural → patient factors）
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 4 类 Quality Indicators（Structural / Process / Outcome / Balancing）+ 各自例子
+> - [ ] 默写 Outcome 不变诊断顺序（process → structural → patient）
+> - [ ] 反射训练：见 "outcome unchanged + structural OK + balancing already measured" → 0.5 秒锁 process compliance
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Quality Indicators 4 类（Structural 资源 / Process 执行率 + compliance ⭐ / Outcome 结局 / Balancing tradeoffs）/ Donabedian SPO + Balancing / Outcome 不变诊断顺序（process first → structural → patient-related）/ Process indicator 高频考点（% checklist completion / hand hygiene compliance）
+> 状态:: 🟢 ✅ 做对
+> 错因:: —
+
+> [!example]- [2026-05-26] Ethics / Patient Safety — Verbal Handoff Best Practices: Focus on sickest patients first（不是 questions at end / 不 discourage note-taking / 不 exhaustive details）(Q21520) ✓ 做对
+> ^Q21520
+>
+> ## Stem 模式
+> 学术医学中心 medical residents 调查 → 87% 报告过去 1 年至少 1 个 adverse event 与 inadequate handoffs 有关 + 多发生 11 PM - 5 AM cross-covering shift + multiple primary teams 患者 → 系统层面策略外哪个 practice **most effective** 减 verbal handoff adverse events？
+>
+> ## 核心概念
+> **Handoffs (sign-outs)** = 患者照护转移的 oral + written 信息交换。Handoff errors → adverse events 风险 ↑（especially with **many patients** + **high acuity**）。Best practice：**Prioritize information by acuity** — focus first on **most severely ill / highest risk** patients at handoff **beginning**（with **anticipatory guidance** "if/then" instructions）→ 减 info overload + 确保 critical info 不漏。
+>
+> Answer：**B. Focus on the most severely ill patients at the beginning of the handoff** ✓
+>
+> ## 普适规则
+>
+> ### Reducing Errors in Patient Handoffs — 3 大优化 + 6 best practices ⭐⭐⭐
+>
+> | 优化维度 | Best practices |
+> |---|---|
+> | **Optimize information** ⭐ | ① **Discuss highest-acuity ("sickest") patients first**（本题 B 答）<br>② Provide extra detail on critical patients<br>③ Avoid information overload |
+> | **Optimize communication** | ① Follow template (eg, checklist / I-PASS / SBAR)<br>② Include **oral + written** communication<br>③ Encourage questions **throughout discussion**（不是 only at end）<br>④ Use **read-back selectively**（eg, for to-do items — closed-loop）|
+> | **Optimize actions** | ① Include follow-up items (to-do list)<br>② Provide **anticipatory guidance** (eg, "if/then" format)<br>③ 例："如果 BP < 90 → 给 vasopressor" |
+>
+> ### 反 pattern 3 类（CK 高频）
+>
+> | 反 pattern | 例 | 为什么错 |
+> |---|---|---|
+> | **① Questions only at end** | A | 增加 rushing / forgetting 风险；应**throughout discussion** encourage |
+> | **② Discourage note-taking** | C | Note-taking **应该 encouraged** — emphasize + reinforce critical info |
+> | **③ Exhaustive details on every patient** | D | Info overload — 应 prioritize by acuity，**extra detail only on critical patients** |
+>
+> ### Closed-Loop Communication 在 Handoff 中的角色（Q19684 + Q21520 串联）
+>
+> | 应用 | 场景 |
+> |---|---|
+> | **Selective read-back**（Q21520 本题）| Handoff 中只对 **critical info / to-do items** 做 read-back，不每条都 read-back（防 info overload）|
+> | **Universal read-back**（Q19684 verbal order）| Verbal order 每条都 read-back（防 medication error）|
+>
+> ### Sign-Out / Handoff 5 大 Communication Strategies 速记（与 Q19684 串联）⭐
+>
+> | 策略 | 描述 | 防什么错 |
+> |---|---|---|
+> | Standardized handoff (I-PASS / SBAR) | Checklist / systematic 框架 sign-out | **Errors of omission** — 漏 vital info |
+> | **Closed-loop / read-backs** | Sender → Receiver 复述 → Sender 确认 | Misinterpretation / misunderstanding |
+> | Interdisciplinary rounds | 多专业团队成员一起 | 持续学习 + 协作监控 |
+> | Team huddles & debriefing | 临床事件前 / 中 / 后简短讨论 | 减层级 + 鼓励发声 |
+> | Team-based training | 团队 interactive simulation | 改沟通 + 协作 |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Questions only at end | ❌ Throughout discussion encourage（end-only 增 rushing / forgetting risk）|
+> | **B** ⭐ | Focus on sickest patients at beginning | ✅ Optimize information by acuity |
+> | C | Discourage note-taking | ❌ Note-taking 应 encouraged（emphasize + reinforce critical info）|
+> | D | Exhaustive details on every patient | ❌ Info overload — extra detail **only on critical patients** |
+>
+> ## 我为什么对 ✓
+> - 选了：**B** ✓
+> - 关键反射：见"verbal handoff + multiple patients + high acuity + reduce errors" → 0.5 秒锁 sickest first（不是 questions at end / 不 discourage notes / 不 exhaustive）
+>
+> ## Memory Hook
+> - **"Handoff 3 优化：Information (sickest first ⭐) / Communication (template + oral+written + 全程问 + selective read-back) / Actions (to-do + if/then anticipatory)"** ⭐⭐⭐
+> - **"Sickest first + 减 overload + selective read-back + if/then anticipatory"** — handoff 4 字诀
+> - **"Selective read-back（handoff to-do）vs Universal read-back（verbal order）"** — 与 Q19684 区分
+> - 类比：handoff = 接力赛交棒 — 先交**最重要的棒（sickest）** + 用 if/then 提醒（"如果遇到 X，就做 Y"）+ 接棒人**复述**关键信息（read-back）；不是把所有比赛细节都复述（exhaustive D）/ 不是只在最后问（questions at end A）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点（轻微）：C discourage note-taking 看着像 "保持 attentive" → 学到 note-taking **应 encourage**（emphasize + reinforce critical info）；handoff 信息量大不能纯靠记忆
+> - 学到："selective read-back" vs Q19684 "universal verbal order read-back" — 两者都是 closed-loop 但应用场景不同（handoff 高 info 量 selective / verbal order 单一指令 universal）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q19684]] Closed-loop verbal order communication（同日 5-26 — 同 closed-loop 家族但不同应用）⭐ 串联点：handoff selective read-back vs verbal order universal read-back
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §6.4 I-PASS — 住院医交接框架 / §6.2 Closed-loop communication
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（patient safety + communication breakdown）
+> - 🌱 TODO：在 §6.4 加 "Reducing Errors in Patient Handoffs — 3 优化 + 6 best practices + 3 反 pattern" 子节（含 selective vs universal read-back 区分）⭐
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 Handoff 3 大优化（information / communication / actions）+ 各自 best practices
+> - [ ] 默写 3 反 pattern（end-only questions / discourage notes / exhaustive details）
+> - [ ] 默写 Selective read-back vs Universal read-back 区分（handoff vs verbal order）
+> - [ ] 反射训练：见"verbal handoff + multi-patient + high acuity" → 0.5 秒锁 sickest first
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Reducing Handoff Errors 3 大优化（Optimize Information sickest first ⭐ + extra detail critical / Optimize Communication template + oral+written + 全程问 + selective read-back / Optimize Actions to-do + if/then anticipatory）/ Sickest first + 减 overload + selective read-back + if/then anticipatory（4 字诀）/ Selective read-back (handoff to-do) vs Universal read-back (verbal order) 区分 / Note-taking 应 encourage / Exhaustive 是 info overload
+> 状态:: 🟢 ✅ 做对
+> 错因:: —

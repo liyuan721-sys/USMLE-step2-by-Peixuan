@@ -127,9 +127,32 @@ version: v1.3.9
 > ### v1.3.2（2026-05-25）— Clinical Uncertainty 收尾
 > - §13.14.7 Clinical Uncertainty 4 策略（basic principles / review workup / consult / watchful waiting）+ Memory Hook 1 句
 >
-> ### v1.3.9（2026-05-26）— Common vs Special Cause 海浪/海啸类比（用户提供视觉 hook）
-> - **§2.0 新增**：海浪 vs 海啸类比 callout — 用 ASCII tree + 一句话 + Control chart 读图反射钩，把抽象的 "inherent variation vs sporadic event" 概念视觉化（海浪日日有 → 防波堤 = standardization；海啸罕见但致命 → 查震源 = RCA）
-> - **§十一 Memory Hooks 追加 1 句**："海浪日日有 → 防波堤（standardize）；海啸罕见但致命 → 查震源（RCA）"
+> ### v1.3.9（2026-05-26）— 5-26 浩斯宾批量增量（海浪海啸类比 + 5-26 8 张做对卡锚定）
+>
+> **§2.0 海浪 vs 海啸类比（用户视觉 hook）**：
+> - 新增 callout — ASCII tree + Control chart 读图反射钩（海浪 = common cause = standardize；海啸 = special cause = RCA）
+> - §十一 Memory Hooks 追加 1 句
+>
+> **§6.5.3 Features of Effective Teams 6 元素表 双锚定 Q19739 + Q23112**：
+> - 标题改 "v1.3.3 新增 Q19739 锚定" → "v1.3.3 + v1.3.9 双锚定 Q19739 + Q23112"
+> - 加 Q23112 经典 stem callout（shared understanding 角度 + 4 反 pattern 钉死 + Distinct vs overlap 区分）
+>
+> **§6.4 I-PASS 新增 3 子节**：
+> - §6.4.1 Reducing Handoff Errors — 3 大优化 (Information sickest first / Communication template / Actions if-then) + 6 best practices（Q21520 锚定）
+> - §6.4.2 Handoff 3 反 pattern（questions only at end / discourage notes / exhaustive details）
+> - §6.4.3 Selective read-back (handoff to-do) vs Universal read-back (verbal order) 区分（Q19684 + Q21520 串联）
+>
+> **§12.2 Donabedian 新增 §12.2.x Outcome 不变诊断顺序（Q22359 锚定）**：
+> - "Outcome unchanged → Process compliance first → Structural → Patient factors" 决策流程
+> - Q22359 CLABSI checklist 不见效经典 stem callout + 4 反 pattern
+>
+> **§13.12.1 RCA Process 新增 2 callout**：
+> - RCA Overview + Principles 速记表（AMBOSS）+ Sentinel event 定义
+> - Q18751 经典案例 Wrong Patient Error (WPE) → Interprofessional Rounds（防错机制流程 + 4 反 pattern + 6 类 sentinel event）
+>
+> **同步入库 mistakes/uworld-mistakes.md 5-26 节 8 张新卡**：
+> - 错题：Q2 / Q12 / Q20 / Q23 / Q21970 / Q19684 / Q106765
+> - 做对（🟢 ✅）：Q106764 / Q106042 / Q23111 / Q21753 / Q21366 / Q23112 / Q18751 / Q22359 / Q21520
 >
 > ### v1.3.8（2026-05-25）— Anchoring vs Framing 二次深化（用户追问 "都涉及既往信息怎么区分"）
 > - **§13.4.1.1 修订**：原 Anchoring 例子（GERD case）→ 换成更**纯净** anchoring 例子（**crushing chest pain → 锚定 ACS，无外部 interpretation**）— 之前例子 EHR history 容易让人混淆是不是 framing
@@ -662,6 +685,35 @@ Step 2: Strengthen Individual Accountability + Organizational Culture ⭐
 > [!tip] CK 高频
 > Handoff = "最危险时刻" — 60% 医疗错误发生在 transition of care。**I-PASS 减少 handoff error 30%。**
 
+#### 6.4.1 Reducing Errors in Patient Handoffs — 3 大优化 + 6 Best Practices ⭐⭐⭐（v1.3.9 新增 — Q21520 锚定）
+
+Verbal handoffs (sign-outs) → adverse events 风险 ↑（especially with **many patients + high acuity**）。AMBOSS / Joint Commission 推荐 3 大优化方向：
+
+| 优化维度 | Best practices |
+|---|---|
+| **Optimize information** ⭐ | ① **Discuss highest-acuity ("sickest") patients first**（Q21520 答案 ⭐）<br>② Provide extra detail on critical patients<br>③ Avoid information overload |
+| **Optimize communication** | ① Follow template (eg, checklist / I-PASS / SBAR)<br>② Include **oral + written** communication<br>③ Encourage questions **throughout discussion**（不是 only at end）<br>④ Use **read-back selectively**（eg, for to-do items — closed-loop）|
+| **Optimize actions** | ① Include follow-up items (to-do list)<br>② Provide **anticipatory guidance** (eg, "if/then" format — "如果 BP < 90 → 给 vasopressor") |
+
+#### 6.4.2 Handoff 3 反 pattern（CK 高频）⭐
+
+| 反 pattern | 例 | 为什么错 |
+|---|---|---|
+| **① Questions only at end** | Q21520 选项 A | 增加 rushing / forgetting 风险；应 **throughout discussion** encourage |
+| **② Discourage note-taking** | Q21520 选项 C | Note-taking **应 encouraged** — emphasize + reinforce critical info |
+| **③ Exhaustive details on every patient** | Q21520 选项 D | Info overload — 应 prioritize by acuity，**extra detail only on critical patients** |
+
+#### 6.4.3 Selective Read-back vs Universal Read-back 区分 ⭐（v1.3.9 — Q19684 + Q21520 串联）
+
+| 应用 | 场景 | 例 |
+|---|---|---|
+| **Selective read-back**（Q21520）| Handoff 中**只对 critical info / to-do items** 做 read-back（防 info overload）| Handoff "若 K+ < 3.5 给 oral KCl"（critical to-do）→ 接班者 read-back |
+| **Universal read-back**（Q19684）| **Verbal order 每条都 read-back**（防 medication error）| "Give 20 mEq oral potassium" → 接班者 "Confirming 20 mEq oral potassium" 全条复述 |
+
+> [!success] 一句话锁定
+> **"Handoff 4 字诀：Sickest first + 减 overload + selective read-back + if/then anticipatory"** ⭐
+> **"Selective read-back (handoff to-do) vs Universal read-back (verbal order) — 两者都是 closed-loop 但应用不同"** ⭐
+
 ### 6.5 Collaboration and Teamwork 框架 ⭐（AMBOSS 增量 v1.2）
 
 **核心**：Teamwork = healthcare quality + safety 基础（被 ABMS 列入医生 evaluation 标准 — collaboration 是 "professional expectation"）。
@@ -706,23 +758,38 @@ Step 2: Strengthen Individual Accountability + Organizational Culture ⭐
 - Optimization of team dynamics（Coordination + Cooperation + Shared decision-making）
 - Reflection（debriefing post-event）
 
-#### Features of Effective Teams in Health Care — 6 元素表 ⭐⭐⭐（v1.3.3 新增 — Q19739 锚定）
+#### Features of Effective Teams in Health Care — 6 元素表 ⭐⭐⭐（v1.3.3 + v1.3.9 双锚定 — Q19739 + Q23112）
 
 | 元素 | 核心要素 |
 |---|---|
 | **Safety culture** | Resource commitment to safety |
-| **Collaboration** | Shared understanding & prioritization of goals / **Distinct roles that avoid a steep hierarchy** ⭐ |
+| **Collaboration** ⭐ | **Shared understanding & prioritization of goals**（Q23112 锚定）/ **Distinct roles that avoid a steep hierarchy** ⭐ |
 | **Psychologic safety** ⭐ | Asking questions & voicing concerns encouraged / **Avoiding blame or retaliation** |
 | **Responsiveness** | Feedback respected & promptly acted on |
 | **Situational awareness** | Persistent mindfulness & safety vigilance / Cross-checking of each other's actions |
 | **Transparency** | Prompt disclosure of errors & safety information |
 
-> [!danger] Q19739 经典 stem
+> [!danger] Q19739 经典 stem（hierarchy + psych safety 角度）
 > Senior resident pressuring junior medical student to perform unfamiliar procedure（"You've seen it done, you should be able to do one by now"）→ student 不敢拒 → 胎盘失败 + PPH。
 >
 > **核心 root cause = poor teamwork**（hierarchy + intimidation + lack psychological safety），**不是** cognitive bias / communication 跨职业 / didactic 缺失 / fatigue。
 >
 > **最有效干预 = Teamwork training + safety culture**（simulation + debriefings + rewards for identifying risks），改善 psychological safety + leader responsiveness。
+
+> [!success] Q23112 经典 stem（shared understanding of goals 角度）⭐（v1.3.9 新增）
+> ICU director 实施 interprofessional team-based rounding + 团队成员：attending physician / pharmacist / social worker / NP / case manager → most likely promote highly effective team functioning？
+>
+> **答案 = Shared understanding of desired goals**（**A** ✓）— Collaboration 元素的核心。
+>
+> **反 pattern 4 类钉死**：
+> - ❌ B "Speed > safety"（team efficiency 不能 over patient safety）
+> - ❌ C "Equal participation by each discipline"（roles 应 commensurate to skills，不需平等）
+> - ❌ D "Reduce hierarchy + role overlap"（reduce **steep** hierarchy ✓ 但 role **overlap** ❌ — overlap 导致 harmful duplication 如多 insulin admin）
+> - ✅ A "Shared understanding of goals"
+>
+> **Distinct roles vs overlap 关键区分**：**Distinct + unique roles ✅**（医生开药 / 护士给药 / 药师 verify — 单一 ownership）vs **Overlapping roles ❌**（多 provider 都给 insulin = potential overdose）；**Distinct + non-steep hierarchy ✅** vs **Steep hierarchy ❌**。
+>
+> **反射钩**：见 "interprofessional team-based rounding + effective functioning" → 0.5 秒锁 **shared understanding of goals**（不是 speed / equal participation / role overlap）
 
 > [!info] Poor teamwork 是 sentinel events 的 leading root cause
 > Improved communication reduces medical errors & improves patient/clinical outcomes — Joint Commission 数据。
@@ -1030,6 +1097,46 @@ CK 考点：**名词记忆 + 配对场景**。
 > | "**接种**疫苗的儿童比例" | **Process** | 流程执行 |
 > | "**感染率** / **死亡率**" | **Outcome** | 终末结局 |
 > | "缩短住院 → readmission **是否上升**" | **Balancing** | 干预对另一系统的影响 |
+
+#### 12.2.x Outcome 不变诊断顺序 ⭐⭐⭐（v1.3.9 新增 — Q22359 锚定）
+
+**CK 高频 stem**：QI intervention 实施后 outcome 不变 → 哪个 indicator 该测才能 better understand？
+
+```
+Outcome unchanged after QI intervention
+     │
+     ▼
+① ⭐ Process indicator — checklist / compliance 完成率（FIRST）
+     │
+     ├─ Low compliance（busy times 漏做）
+     ├─ High variation（不同班次完成不一致）
+     ├─ Complexity 问题（checklist 太长）
+     └─ Staffing 不足
+     │
+     ▼
+② Structural — 知识 / 资源是否到位（已测则跳过）
+     │
+     ▼
+③ Patient-related factors — 患者本身 severity
+     （不是常 primary 解释 — patient factors 影响但不 systematically alter intervention results）
+```
+
+> [!success] Q22359 经典 stem（CLABSI checklist 不见效）
+> ICU 实施 CLABSI 防控 checklist + 训练 → 6 月后：① Structural ✓（knowledge ↑）② Outcome ✗（CLABSI rate unchanged）③ Balancing ✓ 已测（documentation time ↑）→ 缺哪个 indicator？
+>
+> **答案 = Process variation and compliance**（D ✓）— checklist 完成率 / 不同班次 variation。
+>
+> **反 pattern**：
+> - A "counterbalancing costs" ❌（balancing 已测）
+> - B "organizational structures" ❌（structural 已测）
+> - C "patient-related factors" ❌（patient factors 不 systematically alter intervention results）
+>
+> **反射钩**：见 "outcome unchanged + structural OK + balancing already measured" → 0.5 秒锁 **process compliance**
+
+> [!tip] 4 indicator 关系示意
+> 实施 QI → ① **Structural**（资源足？） → ② **Process**（实际执行了？） → ③ **Outcome**（病人结局改善？） → ④ **Balancing**（引入 cost / 不良 trade-off？）
+>
+> "**做了"= Process ⭐；"结果"= Outcome；"资源"= Structural；"副作用"= Balancing**
 
 ### 12.3 High-Reliability Organizations (HROs) — 5 Principles of Reliability
 
@@ -1908,6 +2015,49 @@ CDSS 属于 **Computerized automation**（HFE Highest 档第 2 个）— 减少 
 1. **What happened?** — 描述 error 情境
 2. **Why did it happen?** — 分析所有 risk factors / 系统 / 设备 / 环境
 3. **What can be done to prevent recurrence?** — Update tech / double check / checklist / staff education
+
+> [!info] RCA Overview + Principles 速记表（AMBOSS / v1.3.9 新增）⭐
+>
+> | 维度 | 内容 |
+> |---|---|
+> | **Overview & uses** | Retrospective + comprehensive + systematic error analysis tool；conducted **after sentinel event** or cluster of patient safety incidents |
+> | **Principles** ⭐ | ① Uncovers **fundamental factors** leading to variations in performance + opportunities for error<br>② **Focuses on systems, NOT individual performance**（**no blame**）<br>③ Generates **action plan** for organizational process improvements |
+>
+> **Sentinel event 定义**：patient safety incident **unrelated to patient's underlying condition** → death / severe temporary harm / permanent harm
+
+> [!success] Q18751 经典案例 — Wrong Patient Error (WPE) → Interprofessional Rounds ⭐（v1.3.9 新增）
+>
+> **Stem**：两 CAP patients in ICU + senior resident 同时管 + electronic order for IV vancomycin 给 **Patient B 而非 Patient A**（**WPE**）→ 2 天后 Patient B 急性肾损伤 → RCA → 哪个 change prevent future？
+>
+> **答案 = Daily team-based interprofessional rounds**（**C** ✓）
+>
+> **WPE 防错机制流程**：
+> ```
+> Senior resident enters order for wrong patient
+>      │
+>      ▼
+> ① Pharmacist on rounds reviews order → 注意 patient B 不需 vancomycin
+>      │
+>      ▼
+> ② Nurse on rounds 注意 medication change for B → 与既往评估不符
+>      │
+>      ▼
+> ③ Team discussion → 早发现 + correct order
+>      │
+>      ▼
+> Sentinel event prevented
+> ```
+>
+> **反 pattern 4 类**：
+> - ❌ A "Didactic training EMR"（knowledge OK 但 didactic inferior to hands-on；本题非 knowledge 缺口）
+> - ❌ B "Time off + sleep breaks"（fatigue 非主因 — 错发生 at beginning of shift + 2 天 unnoticed 不解释 fatigue）
+> - ❌ D "Fewer handoffs"（非 handoff 问题 — same resident throughout）
+> - ❌ E "ID specialist verbal approval"（redundancy 但不解决 root cause = lack of team-based oversight；order 仍可到 wrong patient + remain undetected）
+> - ✅ C "Interprofessional rounds"（直接 address suboptimal teamwork root cause）
+>
+> **典型 Sentinel Event 6 类**：WPE / wrong-site / wrong-procedure / Med error 致 harm / RSO / Patient suicide / Newborn abduction / Unanticipated death
+>
+> **反射钩**：见 "sentinel event + RCA + suboptimal teamwork as root cause" → 0.5 秒锁 **interprofessional rounds**（不是 didactic / 不是 fatigue / 不是 handoff / 不是 specialist approval）
 
 #### 13.12.2 Fishbone (Ishikawa / Cause-and-Effect) Diagram ⭐⭐
 
