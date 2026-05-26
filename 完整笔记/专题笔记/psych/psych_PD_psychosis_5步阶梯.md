@@ -7,23 +7,26 @@ created: 2026-05-24
 type: 专题笔记
 ---
 
-# Psych_PD Psychosis 5 步阶梯（减药 → 第 5 步选 quetiapine vs pimavanserin vs clozapine）
+# Psych_PD Psychosis 5 步阶梯（减药 → 第 5 步选 quetiapine vs pimavanserin vs clozapine）⭐ v1.1（2026-05-26 一致性审计修订）
 
 > [!info] 一句话定位
-> PD（晚期）+ 视幻觉 / 妄想 / paranoia → PD psychosis。**5 步流程**：排器质 → 排非 PD 精神药 → 减 adjunctive DA → 减 levodopa → **上低/零 D2 抗精神病药（quetiapine 首选）**。**钉死铁律**：① 强 D2 药（haloperidol / risperidone / olanzapine）**禁用**（加重 PD 运动症状）② **多巴胺能药（amantadine / pramipexole / MAO-B）反向加剧 psychosis** ③ **ECT 不是标准**（last-resort，非常规阶梯）。
+> PD（晚期）+ 视幻觉 / 妄想 / paranoia → PD psychosis。**5 步流程**：排器质 → 排非 PD 精神药 → 减 adjunctive DA → **加低/零 D2 抗精神病药（quetiapine 首选）** → （仅在 motor 能耐受时）谨慎减 levodopa。**钉死铁律**：① 强 D2 药（haloperidol / risperidone / olanzapine）**禁用**（加重 PD 运动症状）② **多巴胺能药（amantadine / pramipexole / MAO-B）反向加剧 psychosis** ③ **ECT 不是标准**（last-resort，非常规阶梯）④ **Levodopa = PD foundation，不轻易减**（5-26 新错点维度 — 见 §一.x）⭐
 
-> [!warning] 用户同主题 3 次反复错家族
+> [!warning] 用户同主题 4 次反复错家族
 > | 次数 | 日期 | 题号 | 错点位置 | 选 | 正解 |
 > |---|---|---|---|---|---|
 > | 1 | 早期 | Q12152 | 第 5 步用药 | amantadine | quetiapine |
 > | 2 | 2026-05-22 | Q16164 | 第 4 步顺序 | levodopa 先减 | adjunctive 先减 |
 > | 3 | 2026-05-24 | 浩斯宾 Q21 | 第 5 步用药 | **ECT** | quetiapine |
+> | 4 | **2026-05-26** | **浩斯宾 Q20 ⭐ 错点漂移** | **加 quetiapine vs 减 levodopa 边界** | **stop levodopa** | **add quetiapine（不减 levodopa）** |
 >
-> → **强制衍生**（本笔记）+ 用户手动升「考前必看」
+> → **强制衍生**（本笔记）+ 用户手动升「考前必看」+ 「难记」
+>
+> **5-26 一致性审计教训**：原 v1 笔记 §一 Step 4 写"减 levodopa"，简化掉了"levodopa 是 foundation 不轻易减"的关键约束 — **笔记简化是错点来源**。v1.1 重排阶梯顺序：Step 4 = 加抗精神病药（不再先减 levodopa）；Step 5（可选）= 谨慎减 levodopa only if motor 能耐受。
 
 ---
 
-## 一、PD psychosis 5 步流程 ⭐ 核心框架
+## 一、PD psychosis 5 步流程 ⭐ 核心框架（v1.1 重排 — 2026-05-26）
 
 ```
 ═══════════════════════════════════════════════════════════════
@@ -36,7 +39,7 @@ Step 1：排器质性诱因
   │
   ▼ 排除完毕
 Step 2：排非 PD 精神活性药
-  ├─ BZD / 抗胆碱 / 阿片 / 镇静催眠
+  ├─ BZD / 抗胆碱（trihexyphenidyl / benztropine）/ 阿片 / 镇静催眠
   ├─ TCA / 抗组胺（H1）/ 类固醇
   │
   ▼ 排除完毕
@@ -47,25 +50,76 @@ Step 3：减 adjunctive DA 能药（按致 psychosis 风险递减顺序）⭐
   ├─ DA 激动剂（pramipexole / ropinirole — 直接 D2/D3 激动 ⚠️ 致 psychosis 风险最高，常先停）
   │
   ▼ 仍幻觉
-Step 4：减 levodopa
-  ├─ 谨慎减量，监测运动症状
-  ├─ 注意：减 levodopa 会出现运动失代偿
-  │
-  ▼ 运动失代偿 + 仍幻觉
-Step 5：上低/零 D2 抗精神病药 ⭐
+Step 4：⭐ 加低/零 D2 抗精神病药（**不减 levodopa**）⭐
   ├─ Quetiapine（首选 — availability + safety + 经验最广）
   ├─ Pimavanserin（FDA 唯一专批 PD psychosis，零 D2 — cost/availability 限制）
   ├─ Clozapine（最弱 D2 但 agranulocytosis 需 ANC 监测 — 难治性二线）
+  │
+  ▼ 仍幻觉 + motor 能耐受（罕见到这一步）
+Step 5：（可选）谨慎减 levodopa
+  ├─ ⚠️ 仅 if motor 症状能耐受减量 + 抗精神病药已加上仍 ψ
+  ├─ ⚠️ **NMS-like 风险**（突撤 levodopa → 中枢 DA 急剧下降 → 高热 + 肌强直 + AMS）
+  ├─ ⚠️ Motor 严重恶化 / 卧床 / 误吸 / 跌倒风险
+  ├─ ⚠️ USMLE 极少到这一步 — 绝大多数题答案停在 Step 4 加 quetiapine
 ═══════════════════════════════════════════════════════════════
 ```
 
-### 用户三道题在 5 步中的位置
+> [!danger] v1.1 关键修订（5-26 错点驱动）⭐⭐⭐
+> **旧 v1**：Step 4 = 减 levodopa → Step 5 = 加抗精神病药
+> **新 v1.1**：Step 4 = **加抗精神病药（quetiapine）** → Step 5（罕用）= 谨慎减 levodopa
+>
+> **修订原因**：
+> - USMLE / UpToDate / Movement Disorder Society 2024 标准 = adjunctive DA 减完后**直接加 quetiapine**，levodopa **保留**
+> - Levodopa = PD foundation（替代缺失的内源 DA），与 DA agonist（激动现有受体）性质完全不同
+> - 减 levodopa = motor 严重恶化 + **NMS-like syndrome** 风险（高热 + 肌强直 + AMS）
+> - 5-26 浩斯宾 Q20 用户选 "discontinue carbidopa-levodopa" → 跟着旧 v1 笔记的"Step 4 减 levodopa"反射 → 错
+> - **教训**：阶梯简化时**不能跨越关键约束** — "可选 Step 5" 必须明确"罕用 + NMS-like 风险"
+
+### 用户四道题在 5 步中的位置
 
 | 错题 | 步骤 | 关键 | 用户错点 |
 |---|---|---|---|
-| [[mistakes/uworld-mistakes#^Q16164]]（5-22）| **Step 4 减药顺序** | 先减 adjunctive（amantadine / MAO-B / DA agonist） | 反射"减 levodopa"（应先减辅助药） |
-| [[mistakes/uworld-mistakes#^Q12152]]（5-23）| **Step 5 选药** | quetiapine 首选 | 选 amantadine（多巴胺能药 ❌） |
-| 5-24 浩斯宾 Q21 | **Step 5 选药** | quetiapine（非 ECT） | 选 ECT（last-resort，非阶梯标准） |
+| [[mistakes/uworld-mistakes#^Q16164]]（5-22）| **Step 3 减药顺序** | 先减 adjunctive（amantadine / MAO-B / DA agonist） | 反射"减 levodopa"（应先减辅助药） |
+| [[mistakes/uworld-mistakes#^Q12152]]（5-23）| **Step 4 选药** | quetiapine 首选 | 选 amantadine（多巴胺能药 ❌） |
+| 5-24 浩斯宾 Q21 | **Step 4 选药** | quetiapine（非 ECT） | 选 ECT（last-resort，非阶梯标准） |
+| [[mistakes/uworld-mistakes#^Q20-2026-05-26]]（**5-26 错点漂移**）| **Step 4 vs Step 5 边界** | **加 quetiapine（不减 levodopa）** | **stop levodopa**（跨越 Step 4 直接到 Step 5 — 反射建立但边界不清）⚠️ |
+
+### 1.x Levodopa 是 PD Foundation — 不能减 + NMS-like 风险 ⭐⭐⭐（v1.1 新增）
+
+> [!danger] Levodopa 减药 / 撤药的后果
+>
+> **生理后果**：
+> | 后果 | 机制 | 表现 |
+> |---|---|---|
+> | **严重 motor deterioration** | 中枢 DA 急剧下降 → 黑质纹状体通路断 | Rigidity / akinesia / 卧床 / 误吸 / 跌倒 / 不能进食 |
+> | **NMS-like syndrome ("levodopa withdrawal syndrome")** | 类似抗精神病药引发的 NMS（D2 受体被剥夺信号）| 高热 + 肌强直 + AMS + 自主神经亢进 + CK ↑↑↑ |
+> | **生活质量崩塌** | 运动功能丢失 → 抑郁加重 + 家属负担 | 不能起床 / 不能进食 / 抑郁加重 |
+
+> [!warning] Levodopa vs DA agonist 性质完全不同
+> | 药 | 性质 | 减药安全？ |
+> |---|---|---|
+> | **Levodopa** | **替代** 缺失的内源 DA（PD foundation）| ❌ **不能轻易减**（NMS-like + motor 崩） |
+> | DA agonist（pramipexole / ropinirole） | **激动** 现有 D2/D3 受体 | ✅ 可减（致 psychosis 风险高，反而是 PD ψ 首批要减的 adjunctive） |
+> | Amantadine | DA 释放 ↑ + NMDA 拮抗 | ✅ 可减 |
+> | MAO-B / COMT | 延长 levodopa 作用 | ✅ 可减 |
+>
+> **核心：levodopa 是替代，其他是修饰；替代不能停，修饰可以停。**
+
+> [!tip] 反射钩矩阵（PD ψ next step）
+>
+> | Stem 描述 | 答案 |
+> |---|---|
+> | "**Already discontinued** anticholinergic + amantadine; **reduced** DA agonist; **still hallucinations**" | **Add quetiapine** ⭐（**不再减 levodopa**）|
+> | "Hallucinations + UTI 阳性 / electrolyte abnormal" | 先治诱因（Step 1）|
+> | "**已加 quetiapine 无效**" | Clozapine + ANC 监测；或 pimavanserin |
+> | "Severe depression with psychotic features" | ECT 可考虑（但**重点是抑郁**）|
+> | "**Discontinue carbidopa-levodopa**"（5-26 钓饵）| ❌ **永远不是答案**（除非 motor 能耐受 + 抗精神病药已上 — 极罕用 Step 5）|
+> | "Add haloperidol / risperidone" | ❌ **绝对禁忌**（高 D2 灾难加重 motor）|
+
+> [!success] Memory Hook
+> **"Levodopa 是地基不能拆；adjunctive 是装饰可以拆；墙裂了（ψ）加梁（quetiapine），不是拆地基"** ⭐
+>
+> **类比**：盖房子拆装修可以（anticholinergic / amantadine / DA agonist 都是装饰层），地基（levodopa）拆了房子塌（motor 崩 + NMS-like）。墙裂了（ψ）→ 加梁（quetiapine），不是拆地基。
 
 ---
 

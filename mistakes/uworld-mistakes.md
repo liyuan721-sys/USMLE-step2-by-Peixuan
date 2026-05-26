@@ -162,12 +162,13 @@
 > 
 > 学科:: Biostats
 > 主题:: OR 方向陷阱 + Case-control 不能算 risk / CI ≠ causality / 关联 ≠ 因果（Bradford Hill 9 准则）
-> 状态:: 🔴
+> 状态:: 🟡
 > 错因:: 干扰项
 > 反复错记录:: 2026-05-10 首次入库 🔴（方向 + risk/odds 角度）/ 2026-05-23 浩斯宾 Q22 第 2 次（CI ≠ causality 角度，5 个干扰项 3 个陷阱全暴露）/ 2026-05-24 浩斯宾 Q20 第 **3** 次（再次把 OR 当 risk + 未识别 case-control 字眼）
 > 升档触发:: 同主题 3 次反复错（5-10 / 5-23 / 5-24）3 个不同角度都踩坑 → 用户手动加「考前必看」+ 已触发衍生 [[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]
+> 降档记录:: **2026-05-26 降 🟡** — 5-25 浩斯宾 Q20 + 5-26 浩斯宾 Q19 连续 2 次答对（adjusted RR + 残留 confounding 反射建立）→ 🔴 降 🟡 + 取消 #考前必看 强制；继续保留 #难记 巩固
 >
-> #考前必看
+> #难记
 
 ## 2026-05-11
 
@@ -13907,13 +13908,14 @@
 >
 > 学科:: Psych
 > 主题:: Atypical MDD 非典型抑郁诊断（mood reactivity 为诊断要件 + 五联）/ 抑郁谱系病程鉴别 / "物质在场≠致病" — substance-induced 需验剂量 / **治疗阶梯延伸**：SSRI/SNRI → bupropion/mirtazapine → augment（Li/T3/aripiprazole）→ **MAOI（phenelzine）⭐ atypical 经典专属** → ECT/TMS/esketamine
-> 状态:: 🔴
+> 状态:: 🟡
 > 错因:: 知识
 > 反复错记录:: 2026-05-21 首次入库 🟡（诊断角度 — mood reactivity / 五联诊断要件）/ 2026-05-23 浩斯宾 Q15 第 2 次相关错（治疗阶梯角度：选 lithium augmentation，正解 phenelzine MAOI）/ 2026-05-24 浩斯宾 Q24 第 3 次（仍选 lithium augmentation，5-23 警告未消化）
 > 升档触发:: 诊断角度 + 治疗阶梯角度连续暴露（2 次同治疗题错）→ 🟡 升 🔴 → 用户手动加「难记」+「考前必看」+ 已触发衍生 [[完整笔记/专题笔记/psych/_衍生_MDD_treatment_resistant_阶梯]]
 > 元教训:: 5-23 判分要求"默写阶梯"未完成 → 5-24 同题再错 = 被动扫 §一 不等于主动掌握，反复错 2+ 次必须当场默写
+> 降档记录:: **2026-05-26 降 🟡** — 5-25 浩斯宾 Q22 + 5-26 浩斯宾 Q21 连续 2 次答对 phenelzine（atypical MDD MAOI 反射建立）→ 🔴 降 🟡 + 取消 #考前必看 强制；保留 #难记 巩固
 >
-> #难记 #考前必看
+> #难记
 
 > [!example]- [2026-05-21] 医学伦理 / 青少年自杀未遂·非自愿住院 (Q4877)
 > ^Q4877
@@ -17501,13 +17503,14 @@
 > ---
 >
 > 学科:: 神经
-> 主题:: PD psychosis 第 5 步用药（减药失败后必须上低/零 D2 抗精神病药）/ Quetiapine = PD psychosis 临床首选（availability + safety 最佳）/ Pimavanserin = FDA 唯一专批但 cost/availability 限制 / Clozapine = 低 D2 但 agranulocytosis 需 ANC 监测 / Risperidone-Haloperidol 强 D2 PD 禁用 / Amantadine 多巴胺能药（增释放+抑 reuptake）= PD psychosis 题里永远错误选项 / Pramipexole DA 激动剂火上浇油 / SGA 不均质（risperidone D2 仍强 PD 不可用，只有 Quet/Cloz/Pim 三家通过 PD 例外）/ Selegiline MAO-B 抑制剂同样升 DA / Q16164 第 4 步 + Q12152 第 5 步串联 = 完整 PD psychosis 流程
+> 主题:: PD psychosis 第 5 步用药（减药失败后必须上低/零 D2 抗精神病药）/ Quetiapine = PD psychosis 临床首选（availability + safety 最佳）/ Pimavanserin = FDA 唯一专批但 cost/availability 限制 / Clozapine = 低 D2 但 agranulocytosis 需 ANC 监测 / Risperidone-Haloperidol 强 D2 PD 禁用 / Amantadine 多巴胺能药（增释放+抑 reuptake）= PD psychosis 题里永远错误选项 / Pramipexole DA 激动剂火上浇油 / SGA 不均质（risperidone D2 仍强 PD 不可用，只有 Quet/Cloz/Pim 三家通过 PD 例外）/ Selegiline MAO-B 抑制剂同样升 DA / Q16164 第 4 步 + Q12152 第 5 步串联 = 完整 PD psychosis 流程 / **Levodopa = PD foundation 不能减**（5-26 新错点维度）
 > 状态:: 🔴
 > 错因:: pattern
-> 反复错记录:: 2026-05-22 [[mistakes/uworld-mistakes#^Q16164]] 第 4 步减药 + 2026-05-23 [[mistakes/uworld-mistakes#^Q12152]] 第 5 步用药 / 用户自述"应该之前做过但还是错" / 首次入库即 🔴 + 2026-05-24 浩斯宾 Q21 第 **3** 次反复错（第 5 步选 ECT 而非 quetiapine — ECT 是 last-resort 非标准）
+> 反复错记录:: 2026-05-22 [[mistakes/uworld-mistakes#^Q16164]] 第 4 步减药 + 2026-05-23 [[mistakes/uworld-mistakes#^Q12152]] 第 5 步用药 / 用户自述"应该之前做过但还是错" / 首次入库即 🔴 + 2026-05-24 浩斯宾 Q21 第 **3** 次反复错（第 5 步选 ECT 而非 quetiapine — ECT 是 last-resort 非标准）+ **2026-05-26 浩斯宾 Q20 错点漂移**：5-25 浩斯宾 Q21 答对 quetiapine ✓，但 5-26 又错（选 A discontinue carbidopa-levodopa）— **错点维度从 1 → 2**（ECT + discontinue levodopa 两端钓饵都踩）— 见 [[mistakes/uworld-mistakes#^Q20-2026-05-26]] 配对卡
 > 升档触发:: 同主题流程连续 3 次反复错（Q16164 + Q12152 + 5-24 Q21）→ 用户手动加「考前必看」+ 已触发衍生 [[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]]（汇 Q16164 第 4 步 + Q12152 第 5 步选 quetiapine + 5-24 Q21 ECT 钓饵 → 完整 5 步流程 + 三选一选药 + ECT 适应症边界）
+> 5-26 错点漂移升级:: 5-25 第 1 次答对 quetiapine 后 5-26 又错（stop levodopa）→ 维持 🔴 + 强化 #考前必看；衍生 [[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]] **必须增量**补 "Levodopa 是 foundation 不能减 + NMS-like 风险" 子节
 >
-> #考前必看
+> #考前必看 #难记
 
 > [!example]- [2026-05-23] Psych / MAOI tyramine 高血压危象（Adrenergic 爆发 ≠ Serotonin Syndrome）(Q4879)
 > ^Q4879
@@ -19006,8 +19009,12 @@
 >
 > 学科:: Biostats
 > 主题:: USMLE 答案选项策略 ("D = any of the above" 暗号 — 多 first-line 平等的指南题常用此型) / DPN first-line 4 选 1（duloxetine / pregabalin / gabapentin / TCA）按共病副作用个体化 / 老年 TCA 慎用抗胆碱副作用 / "临床首选 vs USMLE 最完整答案" 区分
-> 状态:: 🟡
+> 状态:: 🔴
 > 错因:: pattern
+> 反复错记录:: 2026-05-24 首次入库 🟡（pattern 反射选熟悉单选 C duloxetine）/ **2026-05-26 浩斯宾 Q2 同题再错**（仍选 C duloxetine，"D = any of above" 暗号没成反射）— 见配对卡 [[mistakes/uworld-mistakes#^Q2-2026-05-26]]
+> 升档触发:: 2 次同题 pattern 反射错（5-24 / 5-26）→ 🟡 升 🔴 + 加 #难记；建议建衍生 [[完整笔记/专题笔记/USMLE/USMLE_答案选项策略]]（5 大选项策略 + 各自 stem 触发词 + 真题反射钩库）
+>
+> #难记
 
 > [!example]- [2026-05-24] Ethics / Research — Conflict of Interest (COI) in clinical research（industry-sponsored personnel 做 data analysis = 核心 COI；double-blind RCT 设计盲不能 mitigate analysis 阶段 bias）(Q106885)
 > ^Q106885
@@ -21906,3 +21913,376 @@
 > 主题:: 减 Unnecessary Imaging Request — Specific Exam + Commentary on Patient's Specific Concern（不是 vague normal / dismissive / premature dx）
 > 状态:: 🟡
 > 错因:: 干扰项
+
+## 2026-05-26
+
+> [!example]- [2026-05-26] Biostats / DPN first-line "any of the above" 选项暗号 — 反复错升 🔴（浩斯宾 Q2 — 与 Q19-2026-05-24 同题再错）
+> ^Q2-2026-05-26
+>
+> ## Stem 模式
+> 55F + T2DM + HbA1c 9.2 + 痛性袜套样麻木 + ankle reflex 消失 → painful DPN first-line？选项给 4 种具体药 + D = "any of the above acceptable; depends on comorbidities + side effects"。
+>
+> ## 核心概念
+> **DPN first-line = duloxetine / pregabalin / gabapentin / TCA 4 选 1 平等**（ADA/AAN 2024）；按共病 + 副作用谱个体化。USMLE 此型选项 "**D = any of the above**" **通常就是答案**（出题测多 first-line 平等，不是单一首选）。
+>
+> Answer：**D**（与 [[mistakes/uworld-mistakes#^Q19-2026-05-24]] 完全同型）
+>
+> ## 普适规则
+>
+> ### DPN first-line 4 选 1 平等
+>
+> | 药 | 类 | 慎用 |
+> |---|---|---|
+> | **Duloxetine** | SNRI | 肝病 / 严重肾病 |
+> | **Pregabalin** | gabapentinoid | 嗜睡 / 体重↑ / 老年跌倒 |
+> | **Gabapentin** | gabapentinoid | 起效慢需滴定 |
+> | **TCA (amitriptyline / nortriptyline)** | TCA | 老年抗胆碱副作用 ⚠️ |
+>
+> ### USMLE 答案选项策略 5 条 ⭐⭐⭐ 元方法
+>
+> | 选项形态 | 应对 |
+> |---|---|
+> | **"D = Any of the above"** ⭐ | **优先 D**，除非 stem 给特定患者特征指向单一首选 |
+> | "All of the above" | 通常错（USMLE 很少给）|
+> | "None of the above" | 通常错 |
+> | 同质 3-4 个 + 1 异类 | 异类常是答案 |
+> | 同义重复 2 个 | 两个都不是答案 |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Gabapentin / pregabalin | first-line 之一但**不完整**（4 选 1 之一）|
+> | B | Amitriptyline | first-line TCA 之一 + **老年慎用** + 单选不完整 |
+> | **C** | **Duloxetine（我选的）** | 临床常首选但**单选不完整** — D 更全 ⚠️ |
+> | **D** ⭐ | Any of the above | ✅ 最完整答案 |
+> | E | Topical capsaicin | 二线 / 辅助 — 不是 first-line |
+>
+> ## 我为什么错
+> - 选了：**C. Duloxetine**
+> - 错因：**pattern 反射**（条件反射选最熟悉单选 — duloxetine 临床常首选）— **没读 D 选项就锁定**
+> - 核心陷阱：**没识别"D = any of the above"暗号** → 把熟悉单选当答案；**与 5-24 Q19 完全同型再错**
+>
+> ## Memory Hook
+> - **"DPN 4 选 1 平等：见 'D = any of above' 不要急选熟悉单选"** ⭐
+> - **"临床首选 ≠ USMLE 最完整答案"** — USMLE 测**指南完整性**，临床选 1 个
+> - 类比：菜单上"汤"+"沙拉"+"前菜"+"任一前述"——服务员问你要哪个 = 测你知不知道四个都算前菜（D），不是测你最熟哪个单品
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 5-24 入库 Q19 时已经讲过这个 pattern，**5-26 再错** → 说明反射没建立 / 没默写 / 没在做题前刻意搜 "any of above"
+> - 学到：USMLE 选项策略不是看完就懂，**必须做题前主动扫一遍 D / E 选项**才能成反射
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q19-2026-05-24]] **完全同题 — 5-24 first 错 / 5-26 reflex 再错 = 反复错升 🔴 触发**
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]（答题策略章节待建）/ [[完整笔记/Peixuan分科笔记/endocrine]]（DM 神经病变 first-line）/ [[完整笔记/Peixuan分科笔记/neuro]]（神经病理性疼痛药 — DPN / 三叉神经痛 / PHN 同 first-line 谱）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Biostats_Master]] — Test-taking strategies（多个 first-line 题型 + 选项形态识别）
+> - 🌱 TODO：**第 2 次错触发** → 建 [[完整笔记/专题笔记/USMLE/USMLE_答案选项策略]] 衍生（5 大选项策略 + 各自 stem 触发词 + 真题反射钩库）
+>
+> ## ✅ 复盘行动
+> - [ ] **每日浩斯宾前 5 秒口诀**："见 D = any of above → 优先 D"（建立做题前 scan 习惯）
+> - [ ] 默写 USMLE 选项策略 5 条
+> - [ ] 默写 DPN first-line 4 选 1 + 各自慎用
+> - [ ] 反射训练：见到 "first-line treatment" + 4 个药 + 1 个 "any of above" → 0.5 秒选 D
+>
+> ---
+>
+> 学科:: Biostats
+> 主题:: USMLE 答案选项策略 ("D = any of the above" 暗号) / DPN first-line 4 选 1 平等
+> 状态:: 🔴 反复错（5-24 Q19 首错 / 5-26 浩斯宾 Q2 再错 → 升级）
+> 错因:: pattern
+
+> [!example]- [2026-05-26] Ethics / Lifestyle counseling first step = SMART goal via MI（不是 tracking log / 不是 confidence rating / 不是 specific Rx）(浩斯宾 Q12)
+> ^Q12-2026-05-26
+>
+> ## Stem 模式
+> 38F + HLD + HTN + prediabetes（HbA1c 6.0 → 6.4 in 3 月）+ 想 lose weight + 计划 "45 min/d bike starting next week"（之前 sedentary）+ vague objectives + 无症状 + 无 cardiac disease + BMI 29 + BP 134/75 + exam 正常 → first counseling approach？
+>
+> ## 核心概念
+> Lifestyle modification counseling **first step = set SMART goal via motivational interviewing**。患者 motivated 但 vague + overly ambitious → 高 failure rate；起 small + realistic SMART → 建 confidence → 升级。**Tracking log（daily weigh + exercise log）是 SMART goal 建立后的 implementation step，不是 first**。
+>
+> Answer：**B. "I'm pleased to hear your plans. Let's discuss one change you would like to achieve over the next month."**
+>
+> ## 普适规则
+>
+> ### Lifestyle Modification Counseling 时序 ⭐
+>
+> ```
+> ① Set SMART goal via MI（first step ⭐）
+>      "Let's discuss one change over the next month"
+>      │
+>      ▼
+> ② Implementation tools（在 SMART goal 后才合理）
+>      • Daily tracking log（C 选项 — 实际是这步）
+>      • Pill organizer / 自动 reminder / Schedule integration
+>      │
+>      ▼
+> ③ Confidence rating（MI — E 选项，在 SMART goal 后用）
+>      "On 1-10 scale, how confident in achieving X?"
+>      │
+>      ▼
+> ④ Specific dietary / exercise prescription（D 选项 — 在 SMART goal 后才合理）
+>      │
+>      ▼
+> ⑤ Reassess at 1 month → 升级或调整
+> ```
+>
+> ### SMART 5 要素
+>
+> | 字母 | 含义 |
+> |---|---|
+> | **S**pecific | 行动 / 影响 / 目标人群 / 责任明确 |
+> | **M**easurable | 量化指标 |
+> | **A**ttainable | Resource 可达 + 不 overly ambitious |
+> | **R**elevant | 与 patient objectives 一致 |
+> | **T**ime bound | 截止日期明确 |
+>
+> ## 易混陷阱（普适）
+>
+> | 反 pattern | 例 | 为什么错 |
+> |---|---|---|
+> | ① **误把 routine 当 cardiac**（preexercise CV testing） | A | Asymptomatic + 无 known disease 不需 testing；risk factors 单纯不 trigger |
+> | ② **跳过 SMART goal 直接 implementation** | C tracking log（我选的）| Premature — SMART goal 建立后才合理 ⚠️ |
+> | ③ **单维度强调** | D dietary > exercise | 否定 patient expressed objective |
+> | ④ **跳到 MI 后续步骤** | E confidence rating | Confidence rating 在 SMART goal 后才用 |
+>
+> ## 我为什么错
+> - 选了：**C. Daily log of weight + exercise for 2 weeks**
+> - 错因：**pattern**（"tracking = 好习惯 = 答案"反射）— 没识别 tracking 是 **implementation step**，不是 first step
+> - 核心陷阱：**误把 implementation tool 当 first step** → 实际 SMART goal 没建之前 daily log = 无锚漂流
+>
+> ## Memory Hook
+> - **"Lifestyle counseling first step = set SMART goal；tracking / confidence rating / specific Rx 都是 SMART 后的事"** ⭐
+> - 类比：减肥 app 不会让你"第一天就每天记体重"（C），而是"我们定本月小目标"（B）— 没目标的 tracking 是无锚漂流
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：被 "tracking 是好习惯" 反射吸引 → 学到 SMART goal 是 **anchor**；没 anchor 的 tracking + log 没意义（不知道在 measure 什么、不知道达标线）
+> - 关联：[[mistakes/uworld-mistakes#^Q22080]] Q22080 (5-24) 同一题但选项不同 — 那次我做对 B（直接 set goal）；今天 stem 微调（明显放 tracking 选项作干扰）就被钓了
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q22080]] (5-24) — 同 SMART goal first step 题；那次我做对 B，今天换 stem 变错 = pattern 没建立
+>   - [[mistakes/uworld-mistakes#^Q21733]] (5-24) — Medication adherence MI（lifestyle modification + MI 同框架）
+> - 📚 主笔记：[[完整笔记/专题笔记/Ethics/Ethics_Communication_Counseling]] §13.5 SMART Goals + Motivational Interviewing / [[完整笔记/Peixuan分科笔记/Ethics_Master]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/endocrine]]（prediabetes lifestyle modification first-line）/ [[完整笔记/Peixuan分科笔记/心内]]（HTN lifestyle + preexercise CV testing 标准）
+> - 🌱 TODO：累积 3+ 道 SMART / MI / behavioral change 题 → 衍生 [[完整笔记/专题笔记/USMLE/USMLE_Behavioral_Change_SMART_MI]]（stages of change + relapse prevention + 详细 MI 技术）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证 SMART goal first step 反射建立）
+> - [ ] 默写 lifestyle modification 5 步时序（SMART → implementation → confidence → specific Rx → reassess）
+> - [ ] 默写 SMART 5 要素
+> - [ ] 反射训练：见到 "motivated patient + vague / overly ambitious + first counseling" → 0.5 秒锁 set SMART goal
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: SMART Goals + MI first step（lifestyle counseling）/ Tracking log 是 implementation step 不是 first / Lifestyle modification 5 步时序
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-05-26] 神经 / Psych — PD psychosis 错点漂移：levodopa 不能减（浩斯宾 Q20 — 与 Q12152 配对）
+> ^Q20-2026-05-26
+>
+> ## Stem 模式
+> 74M + PD 12 yr on carbidopa-levodopa + ropinirole + amantadine → 持续 visual hallucinations（小动物）+ fully oriented + 无谵妄 / 感染 / 代谢异常 → 已停 anticholinergic + 已减 amantadine + 已减 ropinirole + 幻觉仍 distressing → next step？
+>
+> ## 核心概念
+> **PD ψ 5 步阶梯第 5 步 = 加 quetiapine 或 pimavanserin**（低 D2 SGA）。**Levodopa 是 PD foundation drug**，**永远不轻易减 / 停**（减 = motor 严重恶化 + **NMS-like syndrome** 风险）。
+>
+> Answer：**C. Add quetiapine**（A 选项 "discontinue carbidopa-levodopa" 是 5-26 新错点钓饵）
+>
+> ## 普适规则
+>
+> ### PD ψ 5 步阶梯（"哪个药要减"的顺序）⭐⭐⭐
+>
+> ```
+> ① 排除谵妄 / 感染 / metabolic（先排可逆病因）
+>      │
+>      ▼
+> ② 减 anticholinergic（trihexyphenidyl / benztropine）
+>      │ 仍 ψ
+>      ▼
+> ③ 减 amantadine
+>      │ 仍 ψ
+>      ▼
+> ④ 减 DA agonist（pramipexole / ropinirole）
+>      │ 仍 ψ
+>      ▼
+> ⑤ **Levodopa 是 foundation — 不减 / 保留**；加 **quetiapine 或 pimavanserin**（低 D2 SGA）⭐
+> ```
+>
+> ### Levodopa 为什么不能减
+>
+> | 后果 | 机制 |
+> |---|---|
+> | **严重 motor deterioration** | Rigidity / akinesia / 卧床 / 误吸 / 跌倒 |
+> | **NMS-like syndrome** ⚠️ | 突然撤 levodopa → 中枢 DA 急剧下降 → 高热 + 肌强直 + AMS（同 NMS）|
+> | Patient 生活质量崩塌 | 不能起床 / 不能进食 / 抑郁加重 |
+>
+> ### PD ψ 用药禁忌 + 适用对照
+>
+> | 药 | D2 阻断强度 | PD ψ 适用？ | 原因 |
+> |---|---|---|---|
+> | **Quetiapine** ⭐ | 极低 | ✅ **首选** | 评估容易 + 不加重 motor |
+> | **Pimavanserin** ⭐ | 0（5-HT2A 选择） | ✅ **首选 — FDA 批 PD ψ** | 完全不碰 D2 |
+> | **Clozapine** | 极低 | ✅ 次选 | 需 ANC 监测 |
+> | **Olanzapine** | 中等 | ❌ | 加重 motor |
+> | **Risperidone** | 高 | ❌❌ | 严重加重 motor |
+> | **Haloperidol** | 极高 | ❌❌❌ **绝对禁忌** | 灾难性加重 PD motor + NMS 风险 |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | **A（我选的）** | Discontinue carbidopa-levodopa | ❌ ⭐ **5-26 错点漂移**：以为"levodopa 是 DA 能药 → 也属于可减"；实际 levodopa = PD foundation，**不减**；减 = motor 崩 + NMS-like |
+> | B | Add haloperidol | ❌ **绝对禁忌** — 高 D2 → 灾难加重 motor |
+> | **C** ⭐ | Add quetiapine | ✅ PD ψ Step 5 标准答案 — 低 D2 不加重 motor |
+> | D | Add risperidone | ❌ 高 D2 加重 motor |
+> | E | ECT | ❌ 不是 PD ψ 一线（5-23 我错过的 pattern — 反射跳过药物）|
+>
+> ## 我为什么错
+> - 选了：**A. Discontinue carbidopa-levodopa**
+> - 错因：**pattern**（"减 DA 能药"反射跨越边界 — 把 levodopa 当 DA agonist 减）
+> - 核心陷阱：**误把 levodopa 当 reducible DA agent** → 实际 levodopa = PD foundation drug，与 amantadine / DA agonist 性质不同（替代缺失的 DA，不是激动剂）；减 = motor 崩 + NMS-like
+> - **错点漂移记录**：5-23 选 ECT → 5-25 答对 quetiapine → 5-26 又错（选 stop levodopa）→ Q12152 反复错状态加深 + 错点维度从 1 变 2
+>
+> ## Memory Hook
+> - **"PD ψ Step 5 = Quetiapine / Pimavanserin；Levodopa 是地基不能拆，Haloperidol/Risperidone 是毒药"** ⭐
+> - **"Levodopa 减 = NMS-like + motor 崩"** — 不轻易减 ⚠️
+> - 类比：盖房子拆装修可以（anticholinergic / amantadine / DA agonist 都是装饰层），地基（levodopa）拆了房子塌（motor 崩 + NMS-like）。墙裂了（ψ）→ 加梁（quetiapine），不是拆地基
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：以为"已减 amantadine + ropinirole 还不够 → 继续减 levodopa"是阶梯逻辑 → 学到阶梯**到 levodopa 就停**，下一步加 quetiapine
+> - 卡点：没意识 levodopa = **替代** DA（缺啥补啥），与 DA agonist（激动现有受体）性质完全不同 → 减 levodopa = 抽地基
+> - 卡点：之前 5-25 答对 quetiapine 时**只记了"加什么"，没记"不减什么"** → 错点漂移到边界
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q12152]] **本卡配对** — PD ψ Step 5 5-23 首错（选 ECT）/ 5-25 答对 / 5-26 又错（选 stop levodopa）= 错点维度从 1 → 2，反复错状态加深
+>   - [[mistakes/uworld-mistakes#^Park1-2026-05-22]] DIP 处理（5-22 错 levodopa）— 5-22 在 DIP 中错"加 levodopa"；本题在 PD ψ 中错"减 levodopa" — **levodopa 的"该加 / 该减"边界**两端都踩过
+>   - [[mistakes/uworld-mistakes#^Q16164]] PD ψ 第 4 步减药（5-22）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]]
+> - 🏥 跨学科：[[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]]（与 DIP / TD / akathisia / acute dystonia 同 antipsychotic 谱）
+> - 🌱 TODO：[[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]] **增量补 "Levodopa 不减 + NMS-like 风险" 子节** ⭐（含 5-26 钓饵反 pattern + 替代 vs 激动剂边界）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证 "levodopa 不减" 反射建立）
+> - [ ] 默写 PD ψ 5 步阶梯 + 第 5 步答案（quetiapine / pimavanserin）
+> - [ ] 默写 PD ψ 用药禁忌表（haloperidol / risperidone / olanzapine ❌ vs quetiapine / pimavanserin / clozapine ✅）
+> - [ ] 默写 "levodopa 减药后果"（motor 崩 + NMS-like + 生活崩）
+> - [ ] 反射训练：见 PD ψ + "已减 amantadine + DA agonist 仍 ψ" → 0.5 秒锁 "加 quetiapine"（**不**反射 "再减 levodopa"）
+>
+> ---
+>
+> 学科:: 神经
+> 主题:: PD psychosis Step 5 用药（Quetiapine / Pimavanserin）/ Levodopa 是 foundation 不能减（NMS-like + motor 崩）/ 错点漂移 ECT → discontinue levodopa
+> 状态:: 🔴 反复错（与 Q12152 配对 — 错点维度 ECT + discontinue levodopa 两端钓饵都踩；维持 🔴 + 加 #考前必看）
+> 错因:: pattern
+
+> [!example]- [2026-05-26] 心内 / 神经 — DOAC + Acute Stroke：rivaroxaban < 48h 内 tPA 禁忌，走 mechanical thrombectomy if LVO（浩斯宾 Q23 — 弹性）
+> ^Q23-2026-05-26
+>
+> ## Stem 模式
+> 67M + AF on rivaroxaban + acute right hemiparesis + aphasia 90 min ago + CT 无 hemorrhage + last rivaroxaban 5 hr ago → tPA decision？
+>
+> ## 核心概念
+> **DOAC（direct factor Xa inhibitor / direct thrombin inhibitor）+ 急性 stroke + last dose < 48 hr → tPA 禁忌**（出血风险极高，无可靠 reversal-then-tPA 通路）。首选 **mechanical thrombectomy if LVO (large vessel occlusion)**。
+>
+> Answer：**C. Withhold IV tPA and pursue mechanical thrombectomy if a large-vessel occlusion is confirmed**
+>
+> ## 普适规则
+>
+> ### Acute Stroke + Anticoagulant tPA 禁忌矩阵 ⭐
+>
+> | Anticoagulant | < 48h 末次剂量 | tPA 决策 |
+> |---|---|---|
+> | **Warfarin INR > 1.7** | — | ❌ 禁忌 |
+> | Warfarin INR ≤ 1.7 | — | ✓ OK |
+> | **Direct Xa (rivaroxaban / apixaban / edoxaban)** | < 48h | ❌ **禁忌**（无可靠 reversal-tPA 通路）|
+> | Direct Xa | ≥ 48h + 正常肾 | ✓ 考虑 |
+> | **Dabigatran (direct thrombin)** | < 48h | ❌ 禁忌（除非 idarucizumab 已 reverse 后考虑 tPA — dabigatran **唯一**有 FDA 批的 reversal-tPA 通路）|
+> | LMWH 治疗剂量 | < 24h | ❌ 禁忌 |
+> | LMWH prophylactic 剂量 | — | ✓ OK |
+> | Heparin（aPTT 正常） | — | ✓ OK |
+>
+> ### DOAC + Acute Stroke SOP（AHA/ASA 2019 + 2024）
+>
+> ```
+> Acute ischemic stroke + DOAC last dose < 48 hr
+>      │
+>      ▼
+> ① CT 排 hemorrhage（OK）
+>      │
+>      ▼
+> ② tPA 禁忌（Xa inhibitor → 无可靠 reversal）⭐
+>      │
+>      ├─ Dabigatran only：Idarucizumab reverse → 后考虑 tPA
+>      │
+>      ▼
+> ③ LVO 存在 → **Mechanical thrombectomy** ⭐（首选）
+>      │
+>      └─ No LVO + tPA 禁忌 → Supportive + 抗血小板 + 二级预防（非急性溶栓）
+> ```
+>
+> ### Reversal Agents 速查
+>
+> | DOAC | Reversal | tPA 后续？ |
+> |---|---|---|
+> | **Dabigatran** | **Idarucizumab** | ✅ 可考虑 tPA（FDA 批此通路）|
+> | **Xa inhibitors (rivaroxaban / apixaban / edoxaban)** | **Andexanet alfa**（仅救命出血用，**不**为开溶栓）| ❌ 不推荐 reverse-then-tPA |
+> | **All DOACs** | PCC (4F-PCC) | ❌ 不推荐为开溶栓 |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | **A（我标 A?）** | Administer IV tPA without delay | ❌ rivaroxaban < 48h **tPA 禁忌** — 元认知 A? 是对的 |
+> | B | Andexanet alfa reversal → tPA | ❌ **不推荐** — andexanet 增加血栓 paradox + ASA/AHA 未批此用法 |
+> | **C** ⭐ | Withhold tPA + thrombectomy if LVO | ✅ DOAC + acute stroke 标准答案 |
+> | D | Aspirin 325 mg + observe | ❌ Under-treatment for acute LVO stroke |
+> | E | PCC reverse → tPA | ❌ 同 B — 无证据 + 血栓 risk |
+>
+> ## 我为什么错
+> - 选了：**A?**（标问号自觉不确定）
+> - 错因：**知识**（DOAC + acute stroke 处理流程不熟）
+> - 元认知：**标 A? 说明意识到 unsure** — 这是关键考试技能；但反射停在 A 不对
+> - 核心陷阱：**没建立"DOAC 是 tPA 禁忌"反射** → 默认"acute stroke + 时间窗内 = tPA"
+>
+> ## Memory Hook
+> - **"DOAC < 48h + acute stroke = tPA 禁忌 → thrombectomy if LVO"** ⭐
+> - **"Andexanet / PCC 不开溶栓的路；Idarucizumab 是 dabigatran only 例外"** ⭐
+> - 类比：rivaroxaban 像在血里撒了"防凝剂残留" — 你再给 tPA = 在油桶旁点火（出血风险爆增）。绕开 = 用机械工具捞掉血栓（thrombectomy）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：默认"acute stroke + 4.5h 内 = tPA" 反射太强，没扫 "是否在 anticoagulant 上" 这一层
+> - 学到：tPA 决策有**两层 gate** — 时间窗 + anticoagulant 状态；DOAC < 48h 即使时间窗对也禁忌
+> - 学到：dabigatran 是**唯一**有 FDA 批 reversal-tPA 通路的 DOAC（idarucizumab）；Xa inhibitor 没有
+> - 元认知亮点：标 **A?** 是关键 — 真考试时这种 "我不确定" 标记比硬选高 1σ；继续保持
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （DOAC / anticoagulant 错题家族待积累 — 当前仅本题）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]]（AF + anticoagulation）/ [[完整笔记/Peixuan分科笔记/neuro]]（acute stroke tPA 适应症）/ [[完整笔记/专题笔记/心内/心内_抗凝抗板_急性血栓]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Heme-Onc]]（anticoagulation reversal — andexanet / idarucizumab / PCC 速查）
+> - 🌱 TODO：累积 3+ 道 anticoagulant + acute thrombotic event（stroke / MI / PE / surgical bridging）题 → [[完整笔记/专题笔记/心内/心内_抗凝抗板_急性血栓]] 加 §"急性血栓 + 已用 anticoagulant 处理 SOP" 子节
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证 "DOAC = tPA 禁忌" 反射建立）
+> - [ ] 默写 acute stroke + anticoagulant tPA 禁忌矩阵
+> - [ ] 默写 DOAC reversal agent + 是否开 tPA 后续表
+> - [ ] 反射训练：见 "patient on rivaroxaban / apixaban / dabigatran + acute stroke" → 0.5 秒喊 "tPA 禁忌；走 thrombectomy if LVO"
+>
+> ---
+>
+> 学科:: 心内
+> 主题:: DOAC + Acute Stroke tPA 禁忌（rivaroxaban / apixaban / edoxaban / dabigatran < 48h）/ Mechanical thrombectomy if LVO / Reversal agents 不开溶栓的路（andexanet / PCC ❌；idarucizumab dabigatran only ✓）
+> 状态:: 🟡
+> 错因:: 知识

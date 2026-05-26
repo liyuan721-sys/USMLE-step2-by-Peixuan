@@ -24,28 +24,47 @@ status: 常驻
 
 ---
 
-## 🎯 当前焦点 — 2026-05-23 Psych 治疗 4 连击 + Q15088 反复错 🔴
+## 🎯 当前焦点 — 2026-05-26 浩斯宾 21/25（B+ 84%）+ pattern 反射类错占主导 ⚠️
 
-> [!danger] 反复错 — 最高优先级
-> [[mistakes/uworld-mistakes#^Q15088-redo|Q15088 MDD-psychotic]] 2 天间隔重做仍选 C（Fluoxetine + Lithium）→ **🔴 反复错**。根错因 = 治疗哲学误区（不急 ≠ 不治妄想 / Lithium 误当温和版 AP / 精神运动迟滞误读为稳定）。**3 天内必须重做验证**。
+> [!danger] 5-26 错点 — 4 题全是 pattern 反射类（80% pattern / 20% 知识）
+> **下一阶段重点 = 反射钩训练（默写 + 反复反射）不是看更多书**
 
-| 优先级 | 薄弱点 | 复习入口 |
+### 强化焦点（反复错 / 错点漂移 — 最高优先级）
+
+| 优先级 | 薄弱点 | 错点本质 | 复习入口 |
+|---|---|---|---|
+| ⭐⭐⭐🔴 | **PD ψ Step 5 + Levodopa 不能减**（5-26 错点漂移）| 5-25 答 quetiapine ✓ → 5-26 答 stop levodopa ❌（**错点维度从 1 → 2**）| [[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]] §一.x（v1.1 新增 levodopa foundation 子节）/ [[mistakes/uworld-mistakes#^Q20-2026-05-26]] / [[mistakes/uworld-mistakes#^Q12152]] |
+| ⭐⭐⭐🔴 | **DPN "any of the above" 选项策略**（5-24 + 5-26 同题再错升 🔴）| pattern 反射选最熟悉单选 — USMLE 选项策略没成反射 | [[mistakes/uworld-mistakes#^Q2-2026-05-26]] / [[mistakes/uworld-mistakes#^Q19-2026-05-24]] / **TODO**：[[完整笔记/专题笔记/USMLE/USMLE_答案选项策略]] 待建 |
+| ⭐⭐🟡 | **SMART goal first step + lifestyle 5 步时序**（5-26 新错）| 误把 tracking log 当 first step（premature implementation）| [[mistakes/uworld-mistakes#^Q12-2026-05-26]] / [[mistakes/uworld-mistakes#^Q22080]] |
+| ⭐⭐🟡 | **DOAC + acute stroke**（rivaroxaban < 48h → tPA 禁忌 → thrombectomy if LVO）| 知识缺口（你标 A? — 元认知正确）| [[mistakes/uworld-mistakes#^Q23-2026-05-26]] / **TODO**：[[完整笔记/专题笔记/心内/心内_抗凝抗板_急性血栓]] 加"急性血栓 + anticoagulant 处理 SOP"子节 |
+
+### 降权焦点（已突破 / 已连对 2 次降 🟡）
+
+| 主题 | 状态变更 | 备注 |
 |---|---|---|
-| ⭐⭐⭐🔴 | **MDD with psychotic features 治疗**（妄想必须有 AP / Lithium 不治妄想）| [[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP#3.4 MDD 治疗按「有无精神病性」分流 ⭐⭐⭐\|SOP §3.4]] · [[mistakes/uworld-mistakes#^Q15088-redo\|Q15088 重做卡]] · [[mistakes/uworld-mistakes#^Q15088\|Q15088 首次卡]] · [[mistakes/uworld-mistakes#^Q15811\|Q15811 → ECT]] |
-| ⭐⭐⭐ | **成人 ADHD + 物质滥用 → Atomoxetine**（Clonidine 是儿童款）| [[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP#3.1 ADHD 用药决策\|SOP §3.1]] · [[mistakes/uworld-mistakes#^Q14348\|Q14348]] |
-| ⭐⭐⭐ | **儿童 GAD vs Social Anxiety**（先数担忧靶点）| [[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP#3.2 焦虑谱系（先数靶点 → 再分配药）\|SOP §3.2]] · [[mistakes/uworld-mistakes#^Q16153\|Q16153]] |
-| ⭐⭐⭐ | **BED 一线 = SSRI**（减肥药 ≠ BED 药 / Bupropion 进食障碍禁忌）| [[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP#3.3 进食障碍三兄弟\|SOP §3.3]] · [[mistakes/uworld-mistakes#^Q16490\|Q16490]] |
-| ⭐⭐⭐ | **儿童 OCD = SSRI + CBT-ERP**（Psychodynamic 是诱饵）| [[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP#3.5 心理治疗对号入座\|SOP §3.5]] · [[mistakes/uworld-mistakes#^Q8923\|Q8923]] |
+| **OR/CI/因果三连陷阱**（[[mistakes/uworld-mistakes#^Q20227]]）| 🔴 → 🟡 | 5-25 + 5-26 连对 2 次；取消 #考前必看 强制；保留 #难记 |
+| **Atypical MDD MAOI**（phenelzine 不是 lithium）| 🔴 → 🟡 | 5-25 + 5-26 连对 2 次 phenelzine；取消 #考前必看；保留 #难记 |
+| **MDMA SS 解药矩阵**（5-26 解药维度首次答对 Cyproheptadine）| 维持 🔴 + #难记 | Q11853 前 2 维度仍是历史错点（病因 / substance）— 不全降，等病因 / substance 维度也连对再考虑 |
+
+### Memory Hook 钉死铁律（每日扫 5 秒）⭐
+
+> [!danger] 5 条反射钩
+> 1. **"Levodopa 是地基不能拆；adjunctive 是装饰可以拆；墙裂了（PD ψ）加梁（quetiapine），不是拆地基"** ⭐
+> 2. **"见 'D = any of the above' → 优先 D，不要急选熟悉单选"** ⭐
+> 3. **"Lifestyle counseling first step = set SMART goal；tracking / confidence / specific Rx 都是 SMART 后的事"**
+> 4. **"DOAC < 48h + acute stroke = tPA 禁忌 → thrombectomy if LVO"**
+> 5. **"湿热抖 (SS) → Cyp / 湿热僵 (NMS) → Dan+Brom / 干热不抖 (抗胆碱) → Phys / 麻醉术中 (MH) → Dan"** ⭐
 
 > [!tip] 本周行动节奏
-> - **每天先扫 5 句口诀**：[[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP#四、5 大反陷阱口诀（Memory Hook）\|SOP §四 5 句口诀]]（覆盖今日 4 题 + 历史 5 题）
-> - **3 天内重做 Q15088** 验证底层修复（治疗哲学误区，不是关键词漏看）
-> - **背 5 张对号入座表**到反射弧（ADHD / 焦虑 / 进食 / MDD / 心理治疗）
-> - 历史前置题串联复习：[[mistakes/uworld-mistakes#^Q2496\|Q2496 Panic]] / [[mistakes/uworld-mistakes#^Q21090\|Q21090 围产期 GAD]] / [[mistakes/uworld-mistakes#^Q2353\|Q2353 AN]] / [[mistakes/uworld-mistakes#^Q12541\|Q12541 AUD]]
-> - 主笔记 4 个章节已挂「考前必看」「薄弱点」：MDD / OCD / Eating Disorders / GAD
+> - **每日浩斯宾前 5 秒扫上面 5 条反射钩**（建立做题前 scan 习惯）
+> - **3/4 错是 pattern 反射错** → 重点 = **默写 + 反射训练**，不是看更多书
+> - 5-24 三巨头剩 Q20 PD ψ 还在 🔴 — 下次出题强制带入（再 1 次答对降 🟡）
+> - Q22 #难记 解药维度首次答对 — 下次浩斯宾改测 MDMA 病因 / substance 维度（剩 2 个未克服层）
 
 ### 📌 历史焦点存档
-- [[复盘/2026-05-14_早晨复盘清单]]（抗凝药拮抗剂 / 抗凝特殊人群 / 5 急症 / 三大束）— 1 周重做已过期，待验证状态
+- [[复盘/2026-05-25_浩斯宾判分_v1]]（5-24 三巨头首次连对 + EPS 修复 + 4 衍生）— 已部分突破
+- [[复盘/2026-05-23 Psych 治疗 4 连击 + Q15088]] — MDD-psychotic / ADHD+物滥 / 儿童 GAD vs SAD / BED / 儿童 OCD（5 个 ⭐⭐⭐ 焦点，已沉积入 _衍生_精神障碍选对治疗SOP）
+- [[复盘/2026-05-14_早晨复盘清单]]（抗凝药拮抗剂 / 5 急症 / 三大束）— 1 周重做已过期，待验证状态
 
 ---
 
