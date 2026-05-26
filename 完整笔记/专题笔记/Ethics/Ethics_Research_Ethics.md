@@ -10,6 +10,22 @@ version: v1
 
 # Ethics Research Ethics — COI + RCT Design + Vulnerable Populations
 
+## 📋 目录
+
+> [!tip]- 点击跳转章节（4 大节 + 子节）
+>
+> - [[#§一 Research Ethics 总览 — 4 大支柱]]
+>   - [[#§1.1 Conflict of Interest (COI) 完整 SOP ⭐（Q106885 锚定）]]
+>   - [[#§1.5 DSMB 完整 SOP ⭐（Q107273 锚定 — v1.4.2 新增）]]
+> - [[#§二 RCT Ethical Considerations ⭐（图 5 做对题 — v1.4 新增）]]
+>   - [[#Stopping RCT Early — 3 类详细 + DSMB 角色 ⭐（v1.4.1 扩充）]]
+> - [[#§三 Vulnerable Populations Research Recruitment + Inducement ⭐（v1.4.1 新增）]]
+> - [[#§四 Informed Consent for Research vs Clinical 区分（TODO 速记）]]
+> - [[#🔗 关联]]
+> - [[#✅ 学习清单]]
+
+---
+
 > [!info] 文件起源
 > 从 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §十 拆出（2026-05-25 拆分，方案 2）。原文超大（4362 行），按主题分文件后单文件 ≈ 400 行可一次看完。
 > 主题专注：Research ethics 4 大支柱 + COI mitigation + DSMB + RCT control 选择 + Stopping early + Vulnerable populations。

@@ -18799,7 +18799,7 @@
 >   - [[完整笔记/Peixuan分科笔记/儿科]]（chronic disease 青少年 + transition to adult care + autonomy 推进）
 >   - [[完整笔记/Peixuan分科笔记/心内]]（HFrEF chronic life-limiting + advance care planning 同框架）
 > - 🌱 TODO（待生成衍生 / 增量）：
->   - **优先 1**：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] **v1.1 增量** — §七 Pediatric Disclosure 章节扩 **"Advance care planning for adolescent with chronic life-limiting illness (family-centered approach)"** 子节（与 §八 end-of-life 3 philosophies 衔接）
+>   - **优先 1**：[[完整笔记/专题笔记/Ethics/Ethics_EOL_Hospice与决策]] **v1.1 增量** — §一 Pediatric Disclosure 章节扩 **"Advance care planning for adolescent with chronic life-limiting illness (family-centered approach)"** 子节（与 §二 end-of-life 3 philosophies 衔接）
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做（重点：第一眼锁 "adolescent + chronic life-limiting + deteriorating → family-centered advance care planning"）
@@ -19068,7 +19068,7 @@
 >   - （Research ethics 题家族待积累 — 当前仅本题，未来 IRB / informed consent for research / RCT equipoise / placebo control 题集中后整合）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/Biostats_Master]]（research methodology bias）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Biostats_Master]] — Bias 5 大类（selection / performance / detection / analysis / publication）与各自 mitigation 工具对应
-> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §十二 Research ethics（COI + RCT control/equipoise — v1.4 新增）
+> - 📋 衍生：[[完整笔记/专题笔记/Ethics/Ethics_Research_Ethics]]（COI + RCT control/equipoise — v1.4 新增；v2.0 拆分独立文件）
 > - 🌱 TODO：累积 3+ 道 research ethics 题 → 单独建 [[完整笔记/专题笔记/USMLE/USMLE_Research_Ethics]]（IRB + COI + informed consent for research + RCT design）
 >
 > ## ✅ 复盘行动
@@ -19187,7 +19187,7 @@
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（Acute ischemic stroke — tPA criteria / 4.5 hr window / contraindications）
 >   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（Metastatic cancer ≠ thrombolysis 禁忌；hospice 仍给 standard of care for treatable acute events）
-> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §八 End-of-life Care（v1.4 新增 DNR 范围限定子节 + Advance Directive 完整 SOP）/ §二 Capacity（v1.4 补 surrogate hierarchy POA/guardian 顶层）
+> - 📋 衍生：[[完整笔记/专题笔记/Ethics/Ethics_EOL_Hospice与决策]] §二 End-of-life Care（v1.4 新增 DNR 范围限定子节 + Advance Directive 完整 SOP；v2.0 拆分独立文件）/ [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §二 Capacity（v1.4 补 surrogate hierarchy POA/guardian 顶层）
 > - 🌱 TODO：累积 DNR / DNI / Comfort care / hospice 题家族 → 单独整合 [[完整笔记/专题笔记/_衍生_End_of_Life_完整SOP]]（覆盖 5 档 end-of-life care + advance directive + POA + 范围限定陷阱）
 >
 > ## ✅ 复盘行动
@@ -20677,7 +20677,7 @@
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes#^Q22080]] SMART Goals + MI（lifestyle modification → 设 patient-defined goal + open-ended；本题是 confidence-building 与 SMART 相关）
 >   - [[mistakes/uworld-mistakes#^Q21733]] Medication adherence interventions（forgetfulness vs ambivalence → automated reminders）
-> - 📚 主笔记：[[完整笔记/专题笔记/_衍生_Ethics精简框架]]（§十二 patient communication）
+> - 📚 主笔记：[[完整笔记/专题笔记/Ethics/Ethics_Communication_Counseling]]（patient communication & counseling frameworks — v2.0 拆分独立文件）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/pulmonary]]（Smoking cessation pharmacotherapy — varenicline 2x durable abstinence；reduce-to-quit strategy）
 >   - [[完整笔记/Peixuan分科笔记/心内]]（CV events reduction by complete cessation — threshold effect）
@@ -20920,7 +20920,7 @@
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes#^Q21627]] NEOT — substituted judgment + shared values（与本题完全同主题 substituted judgment；那题做对但 🟡 不确定，本题首次错；substituted judgment 知识有 cumulative weakness signal — 建议下次同主题再错升 🔴）
 >   - [[mistakes/uworld-mistakes#^Q107705]] DNR ≠ Do Not Treat（surrogate hierarchy + substituted judgment）
-> - 📚 主笔记：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §八 End-of-Life §8.5（substituted judgment 指南）+ §二 Surrogate hierarchy
+> - 📚 主笔记：[[完整笔记/专题笔记/Ethics/Ethics_EOL_Hospice与决策]] §二 End-of-Life §2.5（substituted judgment 指南；v2.0 拆分独立文件）+ [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §二 Surrogate hierarchy
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（Withdrawing dialysis — multi-organ failure / ethical considerations）
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（Advanced dementia — capacity considerations + end-of-life）

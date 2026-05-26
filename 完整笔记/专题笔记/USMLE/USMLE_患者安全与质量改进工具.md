@@ -4,10 +4,55 @@ tags:
   - Ethics
 created: 2026-05-25
 type: 专题笔记
-version: v1.3.2
+version: v1.3.3
 ---
 
 # 患者安全与质量改进工具 — Patient Safety & Quality Improvement Tools
+
+## 📋 目录
+
+> [!tip]- 点击跳转章节（13 大节 + 关键子节）
+>
+> ### 核心框架
+> - [[#一、CK 题型套路（最常考的 3 种问法）⭐]]
+> - [[#二、QI 工具 — Prospective vs Retrospective]]
+>   - [[#2.0 Variation Management — Common Cause vs Special Cause ⭐⭐⭐（AMBOSS 增量 v1.2）]]
+>   - [[#2.4 PDSA Cycle（升级 v1.2 + SMART + PDCA 区分）]]
+>   - [[#2.6 Pareto Chart — 80/20 找最大问题 ⭐（AMBOSS 增量 v1.2）]]
+> - [[#三、Patient Safety 防御层级 — 强度梯队（核心 ⭐⭐⭐）]]
+> - [[#四、Error 分类与命名]]
+>   - [[#4.4 Adverse Event 4 类完整分类（升级 §4.1）⭐⭐]]
+>   - [[#4.5 Medical Error 4 维分类（升级 §4.1）⭐⭐⭐]]
+>   - [[#4.6 Specific Medical Error Types — 6 大具体类型 ⭐⭐（AMBOSS 增量 v1.2）]]
+> - [[#五、Safety Culture]]
+>   - [[#5.3 Patient Safety Epidemiology ⭐⭐（AMBOSS 增量 v1.2）]]
+> - [[#六、Communication Tools]]
+>   - [[#6.5 Collaboration and Teamwork 框架 ⭐（AMBOSS 增量 v1.2）]]
+> - [[#七、Disclosure of Medical Errors]]
+> - [[#八、杂项必考（每条 1-2 行）]]
+> - [[#九、Hospice & End-of-life Care — Q21141 错题考点]]
+> - [[#十、9 大陷阱反 Pattern（应试反射）]]
+>
+> ### 速记 + 框架扩展
+> - [[#十一、Memory Hooks（一句话锁定）]] ⭐ 高频复习用
+> - [[#十二、Healthcare Quality 框架与质量度量（AMBOSS QI 章节整合 v1.1）⭐]]
+>   - [[#12.2 Donabedian Model — 5 类 Healthcare Quality Measures ⭐⭐⭐]]
+>   - [[#12.7 Variation Reduction Strategy — High Variation 后果 + Data-Driven Feedback 干预 ⭐⭐（v1.3.3 新增 — Q106289 + Q106290 锚定）]]
+> - [[#十三、AMBOSS Patient Safety 深度章节（v1.3 整合）⭐⭐⭐]]
+>   - [[#13.2 Procedural Iatrogenic Harm — 速查表 ⭐⭐⭐]]
+>   - [[#13.3 Risk Factors for Medical Errors — 3 大类 ⭐⭐⭐]]
+>   - [[#13.4 Cognitive Biases — 16 大 Bias 配对题 ⭐⭐⭐⭐]]
+>   - [[#13.6 Human Factors Engineering (HFE) — 3 档 Reliability 分级表 ⭐⭐⭐（v1.3.3 升级 — Q19718 锚定）]]
+>   - [[#13.7 Tall Man Lettering + "Do Not Use" Abbreviations ⭐⭐⭐]]
+>   - [[#13.10 Initial Management + Disclosure SOP + Apologize 措辞 ⭐⭐⭐]]
+>   - [[#13.12 Analysis Frameworks — RCA + Fishbone + 5 Whys + M&M + FMEA 升级 ⭐⭐]]
+>   - [[#13.14 Navigating Stressful Situations in Residency（v1.3.1 增量）⭐]]
+>
+> ### 末尾
+> - [[#🔗 关联]]
+> - [[#✅ 学习清单（建议顺序）]]
+
+---
 
 > [!info]- 版本历史
 >
@@ -76,6 +121,13 @@ version: v1.3.2
 >
 > ### v1.3.2（2026-05-25）— Clinical Uncertainty 收尾
 > - §13.14.7 Clinical Uncertainty 4 策略（basic principles / review workup / consult / watchful waiting）+ Memory Hook 1 句
+>
+> ### v1.3.3（2026-05-25）— UW 做对题 3 增量
+> 4 道 UW 做对题（Q19739 / Q19718 / Q106289 + Q106290）暴露的衍生未覆盖小增量：
+> - **§6.5.3 升级**：新增 **Features of Effective Teams 6 元素表**（Safety culture / Collaboration / Psychologic safety / Responsiveness / Situational awareness / Transparency）— Q19739 锚定
+> - **§13.6 升级**：HFE 5 methods → **3 档 Reliability 分级表**（Highest: Forcing/Automation/Environment & physical layout；High: Standardization/Human-machine redundancy；Medium: Reminders/Alerts/Double-checks；Less reliable: Training/Policy/Education）— Q19718 锚定
+> - **§12.7 新增**：Variation Reduction Strategy — **Data-driven feedback > passive education / patient-centered approach / malpractice coverage**（high variation → ↑ cost + ↓ quality + ↓ value）— Q106289 + Q106290 锚定
+> - §十一 Memory Hooks 追加 3 句
 
 > [!info] 设计目标
 > USMLE Step 2 CK 里 QI/Patient Safety 是**最套路化、最有限、最高 ROI 的小板块**：
@@ -528,6 +580,27 @@ CK 高频背景统计（题干常用 "given that medical errors are a leading ca
 - Optimization of team dynamics（Coordination + Cooperation + Shared decision-making）
 - Reflection（debriefing post-event）
 
+#### Features of Effective Teams in Health Care — 6 元素表 ⭐⭐⭐（v1.3.3 新增 — Q19739 锚定）
+
+| 元素 | 核心要素 |
+|---|---|
+| **Safety culture** | Resource commitment to safety |
+| **Collaboration** | Shared understanding & prioritization of goals / **Distinct roles that avoid a steep hierarchy** ⭐ |
+| **Psychologic safety** ⭐ | Asking questions & voicing concerns encouraged / **Avoiding blame or retaliation** |
+| **Responsiveness** | Feedback respected & promptly acted on |
+| **Situational awareness** | Persistent mindfulness & safety vigilance / Cross-checking of each other's actions |
+| **Transparency** | Prompt disclosure of errors & safety information |
+
+> [!danger] Q19739 经典 stem
+> Senior resident pressuring junior medical student to perform unfamiliar procedure（"You've seen it done, you should be able to do one by now"）→ student 不敢拒 → 胎盘失败 + PPH。
+>
+> **核心 root cause = poor teamwork**（hierarchy + intimidation + lack psychological safety），**不是** cognitive bias / communication 跨职业 / didactic 缺失 / fatigue。
+>
+> **最有效干预 = Teamwork training + safety culture**（simulation + debriefings + rewards for identifying risks），改善 psychological safety + leader responsiveness。
+
+> [!info] Poor teamwork 是 sentinel events 的 leading root cause
+> Improved communication reduces medical errors & improves patient/clinical outcomes — Joint Commission 数据。
+
 **Barriers to teamwork** ⭐⭐：
 - 频繁人员变动
 - Physical environment 不利于团队凝聚
@@ -761,6 +834,12 @@ CK 高频背景统计（题干常用 "given that medical errors are a leading ca
 > **"Second victim: peer support + EAP + 不孤单 + 找 system-level 改进机会（不只 self-blame）"**
 >
 > **"Clinical uncertainty 4 策略：basic principles + review workup + consult + watchful waiting；沟通用 shared decision-making；持续症状考虑 somatic disorder"**
+>
+> **"Effective teams 6 元素：Safety culture / Collaboration（distinct roles avoid steep hierarchy）/ Psychologic safety（avoid blame）/ Responsiveness / Situational awareness / Transparency"** ⭐⭐⭐
+>
+> **"HFE 3 档 reliability：Highest = Forcing + Automation + Environment & physical layout；High = Standardization + Human-machine redundancy；Medium = Reminders + Double-checks；Less = Training/Policy/Education"** ⭐⭐⭐
+>
+> **"High variation = ↑ cost + ↓ quality + ↓ value；Reduce variation 首选 = Data-driven individual feedback vs benchmarks（不是 workshop / patient-centered / malpractice insurance）"** ⭐⭐
 
 ---
 
@@ -888,6 +967,62 @@ CK 考点：**名词记忆 + 配对场景**。
 > [!info] Feedback loop 与 PDSA 关系
 > Integrated care 用 **PDSA cycle**（§2.4）作为持续改进引擎；CK 偶尔考 "performance improvement through feedback loops" = PDSA 应用。
 
+### 12.7 Variation Reduction Strategy — High Variation 后果 + Data-Driven Feedback 干预 ⭐⭐（v1.3.3 新增 — Q106289 + Q106290 锚定）
+
+#### High Variation in Care 的后果 ⭐
+
+**核心铁律**：对有 well-established practice guidelines 的医疗条件，**high variation in care = ↑ costs + ↓ quality + ↓ value**（quality / cost 比下降）。
+
+| 维度 | 影响 |
+|---|---|
+| **Cost** | ↑（unnecessary use of services / overuse / 重复检查）|
+| **Quality** | ↓ 或 unimproved（与 evidence-based guidelines 偏离）|
+| **Patient outcomes** | Worse maternal + fetal outcomes（CD 案例：infection / emergency hysterectomy / 新生儿 respiratory distress）|
+| **Patient satisfaction** | Not improved + 不 reduce malpractice litigation |
+| **Value**（quality/cost 比）| ↓ |
+
+**经典 stem 模式**：
+- Cesarean delivery 率在 NTSV（**N**ulliparous **T**erm **S**ingleton **V**ertex）presentations 中**high variation among hospitals / OBs**（55% 高于 regional + 30% 个体差异，远高于推荐 ~16%）→ high variation → ↑ cost + 无 outcome 改善
+
+#### Variation Reduction 干预选择 — Data-Driven Feedback 首选 ⭐⭐⭐
+
+| 干预 | 有效性 | 为什么 |
+|---|---|---|
+| **Data-driven feedback** ⭐⭐⭐（正解）| **最有效** | Provide physician with **individual clinical performance data vs benchmarks / peers** → 提升 awareness of how 自己 practice 与 evidence-based 差异 → 改善 clinical decision-making |
+| **Passive education**（expert-led workshops）| 较弱 | 不针对个人 practice pattern；不显示个体偏差 |
+| **Patient-centered approach** | 较弱 | 改善 satisfaction + outcomes 但 **不针对** physician practice style modifying |
+| **Increased malpractice insurance coverage** | 无效 | 不 address 心理 discomfort with litigation；不减 unnecessary services |
+| **Defensive medicine education** | 无效 | 不 address physician 自己 practice variation 来源 |
+
+#### Variation 源头 — Physician Practice Style ⭐
+
+> [!info] 核心 insight
+> 同一医院、同一 case mix、同一 patient demographics → **OB 个体之间 CD 率仍可 30%+ 差异** → 这种差异**主要来自 physician individual practice style**（subjective decision-making + attitudes + perceptions about treatment），不是 patient factor。
+>
+> 这就是为什么 **individual performance data feedback** 比 group education 有效 — 让 physician 看到 "我比同事高出多少 / 比 benchmark 高出多少"，触发 self-correction。
+
+#### 与 §12.2 Donabedian 联动
+
+| Donabedian 维度 | 在 variation reduction 中的角色 |
+|---|---|
+| **Structural** | 提供 EHR + data analytics infrastructure 才能 feedback |
+| **Process** | Data-driven feedback **本身** 是 process measure（physician 接收 feedback 频率 + 行动率）|
+| **Outcome** | Variation reduction 后看 outcome（mortality / 并发症 / cost）改善 |
+| **Balancing** | 监测 feedback 是否 induce 反向 overuse / 患者满意度下降 |
+
+#### 4 大反 pattern（CK 钓饵）
+
+| 反 pattern | 例 | 为什么错 |
+|---|---|---|
+| **① High variation 自动 = ↑ quality** | "More services = better care" | ❌ 对有 guidelines 的条件，high variation = ↓ quality |
+| **② 用 patient-centered 解决 physician variation** | 强推 shared decision-making 减 CD | Patient-centered 改善 satisfaction，**不改** physician practice style |
+| **③ Increased malpractice 保险 = 减 defensive medicine** | C 选项 | Insurance 不 address physician 心理 discomfort with litigation 来源 |
+| **④ Workshops 比 individual feedback 强** | National experts workshop | Passive education **弱于** individualized data-driven feedback |
+
+> [!success] 一句话锁
+> 「**High variation in well-guidelined conditions = ↑ cost + ↓ quality + ↓ value**」
+> 「**Reduce variation 首选：Data-driven feedback on individual performance vs benchmarks**」（不是 workshop / patient-centered / malpractice insurance）
+
 ---
 
 ## 十三、AMBOSS Patient Safety 深度章节（v1.3 整合）⭐⭐⭐
@@ -1003,17 +1138,35 @@ CK 题"如何减少 diagnostic error"答案模式：
   - "Some findings can't be explained by proposed dx?" → 高风险
 - Follow up + autopsy → feedback on misdiagnoses
 
-### 13.6 Human Factors Engineering (HFE) — 5 Methods ⭐⭐
+### 13.6 Human Factors Engineering (HFE) — 3 档 Reliability 分级表 ⭐⭐⭐（v1.3.3 升级 — Q19718 锚定）
 
 **核心哲学**："Medical errors 不是 individual actions 主要造成，而是 **risk factors 间交互**的结果" — Person-focused（education）**弱于** system-focused（forcing function）。
 
-| Method | 内容 | 与 §三 关系 |
+#### HFE Reliability 3 档完整表 ⭐⭐⭐
+
+| Reliability | Strategy | 描述 + 例子 |
 |---|---|---|
-| **Forcing function** | 物理 hard stop（gas-specific nozzle / EMR 切换 patient 强制 logout / psych record 要 password + reason） | §三 ① 层 |
-| **Standardization** | Protocols / guidelines / 跨系统统一设备 / checklists | §三 ③ 层 |
-| **Universal protocol** ⭐ | The Joint Commission 制定的**3 步**防 wrong site/patient/procedure：① preprocedural verification ② surgical site marking（病人**清醒时**） ③ **time-out**（手术室内确认） | §三 ⑤ Time-out |
-| **Simplification** | CPOE / CDSS / 减少操作步骤 / 多隔间药盒 | §三 ② Automation |
-| **Usability testing** ⭐ | 用真实用户测试新设备 / 新流程，找 **incompatibilities + workarounds**（员工绕开规则的临时方案 = 危险信号） | 衍生新增 |
+| **Highest** | **Forcing functions** ⭐ | Hard stops in design / process to eliminate risk for incorrect use<br>例：anesthesia gas 各自 fit 一个 compatible socket，不可互换 |
+| | **Computerized automation** | Automated processes remove human effort + variations causing error<br>例：automated vital signs monitoring |
+| | **Environment & physical layout** ⭐⭐（Q19718 答案）| Workspace design facilitates correct action + minimizes error<br>例：**look-alike drugs stocked in different locations**（heparin 10 vs 1000 u/mL 分开抽屉）|
+| **High** | **Standardization & simplification** | Uniform processes minimize variation / complexity / learning curve<br>例：every unit follows same heparin administration process |
+| | **Human-machine redundancy** | Repetitive step to confirm correct action in error-prone process<br>例：barcode scanning + visual inspection |
+| **Medium** | **Reminders, alerts & double-checks** | Processes prompting providers to check actions<br>例：drug-drug interaction alerts / time-out before procedures |
+| **Less reliable**（最弱） | Training / policy changes / education | — |
+
+> [!danger] Q19718 经典 stem — Look-alike vial 弄错浓度
+> Anesthesiologist 用错 heparin vial（10 units/mL 而非 1000 units/mL）→ inadequate anticoagulation → thromboembolic stroke risk。
+>
+> **最有效干预 = Environmental design（B 答案）** — look-alike vials 存不同位置防 confusion。
+> ❌ Device automation（A）：dynamic bolus 不像 continuous infusion 适合自动化；需 human 实时反应
+> ❌ Mathematical skills（C）：本题计算实际正确（5 mL × 1000 u/mL = 5000 units）；问题在选错 vial 不在算错
+> ❌ Psychological safety / Team communication（D/E）：本题是 workflow + environment 问题，不是 fear / 沟通断裂
+
+> [!tip] 与 §三 防御金字塔的关系
+> §三 是 patient safety 通用 9 层防御梯队；本表是 HFE 特定的 3 档分级 — **两者顶端等价**（forcing function = 最强）。HFE 表更细化"系统设计学派"如何分级。
+
+> [!info] Q19718 同主题加 §13.7 "Do Not Use" 列表联动
+> Look-alike / sound-alike 药 → 不仅环境分开存放（本节）也用 **Tall man lettering**（§13.7）— 两层 HFE 防御叠加最有效。
 
 ### 13.7 Tall Man Lettering + "Do Not Use" Abbreviations ⭐⭐⭐
 
@@ -1301,7 +1454,7 @@ CK 偶尔考概念配对（Thomas-Kilmann model）。
 
 - Death pronouncement / documentation 详见标准临床 SOP
 - 家属沟通：grief counseling / bereavement support
-- 详见 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §八 End-of-life
+- 详见 [[完整笔记/专题笔记/Ethics/Ethics_EOL_Hospice与决策]] §二 End-of-life（v2.0 拆分独立文件）
 
 #### 13.14.6 Second Victim — Personal Consequences of Medical Error ⭐
 

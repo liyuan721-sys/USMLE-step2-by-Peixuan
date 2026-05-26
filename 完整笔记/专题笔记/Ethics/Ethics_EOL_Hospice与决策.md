@@ -11,6 +11,29 @@ version: v1
 
 # Ethics EOL & Hospice 决策框架 — Pediatric Disclosure + End-of-Life Care
 
+## 📋 目录
+
+> [!tip]- 点击跳转章节（2 大节 + 8 子节）
+>
+> - [[#§一 Pediatric Chronic Illness Disclosure 全流程]]
+>   - [[#Disclosure 4 阶段全流程]]
+>   - [[#Parent Wishes to Withhold Information — Collaboration-First Approach ⭐（UW 做对题 — v1.4.5 新增）]]
+>   - [[#Advance Care Planning for Adolescent with Chronic Life-Limiting Illness（Q21658 锚定）⭐]]
+> - [[#§二 End-of-Life Care 5 档 + DNR 范围 + Advance Directive 完整 SOP]]
+>   - [[#§2.1 End-of-Life Care 5 档对照表 ⭐（v1.4 扩展自 3 philosophies）]]
+>   - [[#§2.2 DNR 范围限定（USMLE 高频钓饵）⭐（Q107705 锚定 — v1.4 新增）]]
+>   - [[#§2.3 Advance Directive 完整 SOP ⭐（v1.4 新增 — 之前 TODO 兑现）]]
+>   - [[#§2.4 VSED（Voluntarily Stopping Eating and Drinking）⭐（v1.4 新增）]]
+>   - [[#§2.5 NEOT 与 3 Philosophies（保留原有内容 — Q21627 锚定）]]
+>   - [[#帮 Distressed Surrogate 3 大技巧 ⭐（Q23113 锚定 — v1.4.6 新增）]]
+>   - [[#§2.6 Code Status Discussion Framework — How to Talk About DNR ⭐（UW 做对题 — v1.4.5 新增）]]
+>   - [[#§2.7 Home Hospice Care — Eligibility + Common Misconceptions ⭐（Q21142 锚定 — UW 做对题 v1.4.7 新增）]]
+>   - [[#§2.8 Elderly ESRD — Conservative Kidney Care vs Dialysis Counseling ⭐（Q21210 锚定 — UW 做对题 v1.4.7 新增）]]
+> - [[#🔗 关联（全文件）]]
+> - [[#✅ 学习清单]]
+
+---
+
 > [!info] 文件起源
 > 从 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §七 + §八 拆出（2026-05-25 拆分，方案 2）。原文超大（4362 行），按主题分文件后单文件 ≈ 880 行可一次看完。
 > 主题专注：儿童慢病 disclosure 全流程 + EOL 5 档 + DNR + Advance directive + Hospice + ESRD conservative care。

@@ -2,6 +2,43 @@
 > 自动从所有笔记中提取的对比合集。日期: 2026-05-10
 > 用法：每张表底部的"CK 一句话识别"是题干题眼，看到关键词直接锁定一边。
 
+## 📋 目录
+
+> [!tip]- 点击跳转专科（23 学科 / 按系统分组）
+>
+> ### 内科系统
+> - [[#Cardiovascular 心血管]]
+> - [[#Pulmonary 肺]]
+> - [[#Renal/Urinary 肾脏]]
+> - [[#GI/Hepatology 消化]]
+> - [[#Endocrine 内分泌]]
+> - [[#Heme/Onc 血液肿瘤]]
+> - [[#Infectious Disease 感染]]
+> - [[#Neurology 神经]]
+> - [[#Rheumatology/MSK 风湿骨科]]
+> - [[#Allergy/Immunology 免疫]]
+> - [[#Dermatology 皮肤]]
+>
+> ### 精神 + 五官
+> - [[#Psychiatry 精神]]
+> - [[#Ophthalmology 眼科]]
+> - [[#ENT 耳鼻喉]]
+>
+> ### 妇产儿科 + 男生
+> - [[#Female Reproductive/GYN 妇科]]
+> - [[#Obstetrics 产科]]
+> - [[#Pediatrics/Newborn 儿科新生儿]]
+> - [[#Male Reproductive 男性生殖]]
+>
+> ### 外科 / 急诊 / 综合
+> - [[#Surgery 外科]]
+> - [[#Poisoning/Environmental 中毒环境]]
+>
+> ### 社科 / 方法学
+> - [[#Ethics/Communication 伦理沟通]]
+> - [[#Biostats/Epi 生统流病]]
+> - [[#Social Sciences 社科]]
+
 ---
 
 ## Cardiovascular 心血管

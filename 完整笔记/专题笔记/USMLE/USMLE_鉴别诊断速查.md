@@ -3,6 +3,56 @@
 > 用法：vignette 一开篇看到的主诉，直接查表锁 DDx + best initial test。
 > 内容基于公开教科书概念重写，未复制 UWorld 题干或解析。
 
+## 📋 目录
+
+> [!tip]- 点击跳转主诉（30 主诉 — 按系统分组）
+>
+> ### 胸 / 心肺
+> - [[#Chest Pain 胸痛]]
+> - [[#Shortness of Breath / Dyspnea 呼吸困难]]
+> - [[#Cyanosis 紫绀]]
+> - [[#Acute Cough 急性咳嗽（< 3 周）]]
+> - [[#Chronic Cough 慢性咳嗽（> 8 周）]]
+>
+> ### 腹痛 / GI
+> - [[#Epigastric Abdominal Pain 上腹痛]]
+> - [[#Lower Abdominal Pain 下腹痛（广义）]]
+> - [[#RLQ Abdominal Pain 右下腹痛]]
+> - [[#LLQ Abdominal Pain 左下腹痛]]
+> - [[#Upper GI Bleeding 上消化道出血]]
+> - [[#Lower GI Bleeding 下消化道出血]]
+>
+> ### 神经 / 意识
+> - [[#Headache 头痛]]
+> - [[#Syncope 晕厥]]
+> - [[#Altered Mental Status 神志改变]]
+>
+> ### 泌尿 / 肾
+> - [[#Hematuria 血尿]]
+>
+> ### 骨 / 关节
+> - [[#Monoarticular Joint Pain 单关节痛]]
+> - [[#Polyarticular Joint Pain 多关节痛]]
+> - [[#Back Pain 背痛]]
+>
+> ### 全身 / 系统
+> - [[#Fatigue / Weight Loss 乏力/消瘦]]
+> - [[#Fever of Unknown Origin (FUO) 不明原因发热]]
+> - [[#Edema 水肿]]
+>
+> ### 妇产
+> - [[#Vaginal Bleeding in Pregnancy 孕期阴道出血]]
+> - [[#Vaginal Bleeding (Non-pregnant) 非孕期阴道出血]]
+> - [[#Pelvic Pain 盆腔痛]]
+> - [[#Amenorrhea 闭经]]
+>
+> ### 儿科
+> - [[#Pediatric Fever 小儿发热]]
+> - [[#Pediatric Vomiting 小儿呕吐]]
+> - [[#Pediatric Rash 小儿皮疹]]
+> - [[#Failure to Thrive 生长发育迟缓]]
+> - [[#Limp in a Child 小儿跛行]]
+
 ---
 
 ## Chest Pain 胸痛

@@ -4,6 +4,26 @@
 > 用法：vignette 给数据让你算评分/做决策时，直接查这里。
 > 版权说明：所有分值表基于公开医学教科书（Harrison's, UpToDate 公开摘要, ACC/AHA / WHO / ADA 指南条目）重新整理，未复制 UWorld 题干/解析。
 
+## 📋 目录
+
+> [!tip]- 点击跳转专科（12 节 — 按系统 + 通用）
+>
+> ### 临床专科评分
+> - [[#Cardiovascular 心血管]]（CHADS2 / HAS-BLED / TIMI / Killip 等）
+> - [[#Pulmonary / PE 肺与肺栓塞]]（Wells / PERC / CURB-65 等）
+> - [[#Hepatology 肝]]（Child-Pugh / MELD / Maddrey 等）
+> - [[#Renal & Electrolyte 肾与电解质]]（GFR / FENa / 透析急诊等）
+> - [[#Neurology 神经]]（NIHSS / GCS / Hunt-Hess 等）
+> - [[#Endocrine 内分泌]]（DKA criteria / HbA1c / etc.）
+> - [[#Sepsis / ICU 急症]]（qSOFA / SIRS / APACHE 等）
+> - [[#Psych 精神]]（PHQ-9 / GAD-7 等）
+> - [[#OB/GYN 妇产]]（Bishop / APGAR 等）
+> - [[#Pediatrics 儿科]]（APGAR / Tanner 等）
+>
+> ### 通用 + 易混
+> - [[#通用公式 General Formulas]]
+> - [[#⚠️ 易混评分对照]]
+
 ---
 
 ## Cardiovascular 心血管
