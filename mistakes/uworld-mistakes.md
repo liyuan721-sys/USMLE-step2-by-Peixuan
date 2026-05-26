@@ -10171,43 +10171,58 @@
 > > MDMA 再增加 5-HT 释放 + 抑制再摄取
 > > 双重打击 → 5-HT 暴增 → **Serotonin Syndrome**（高热 / 肌阵挛 / 反射亢进 / AMS）
 >
-> ## 普适规则 — 苯丙胺家族鉴别"三个 M"⭐（USMLE 高频易混）
+> ## 普适规则 — 苯丙胺类似物大家族鉴别"4 兄弟" ⭐（USMLE 高频易混；v1.1 升级 2026-05-26 — 加 Cathinone 分支 + Bath Salts）
 >
 > ```
-> Amphetamine 苯丙胺（母核）
->         │
->         ├─ Methamphetamine ─────── 冰毒 / Crystal Meth / Ice
->         │   （加甲基 → DA 释放↑↑↑）
->         │
->         ├─ MDMA ────────────────── 摇头丸 / Ecstasy / Molly
->         │   （加亚甲二氧基 → 5-HT 释放↑↑↑）
->         │
->         └─ Amphetamine 原型 ────── Adderall / 安非他命
->             （处方药：ADHD、发作性睡病）
+> 苯丙胺类似物大家族（Amphetamine analogs）
+>             │
+>     ┌───────┴───────┐
+>     ▼               ▼
+> Amphetamine 母核    Cathinone 母核（β-keto-amphetamine）
+> （直接苯丙胺）       （天然源于非洲 khat 灌木）
+>     │               │
+>     ├ Methamphetamine    └ Synthetic cathinones = "Bath Salts" ⭐
+>     │  冰毒 / Crystal Meth / Ice       • α-PVP / MDPV / mephedrone / methylone 等几十种
+>     │  （加 N-甲基 → DA 释放↑↑↑）       • 标 "plant food" / "cleaner" / "Flakka"
+>     │                                  • 常规尿筛测不出 ⭐
+>     ├ MDMA                              • 病程数天-1 周 + 极端 combative
+>     │  摇头丸 / Ecstasy / Molly         • 体温常正常
+>     │  （加亚甲二氧基 → 5-HT 释放↑↑↑）
+>     │
+>     └ Amphetamine 原型
+>        Adderall / 安非他命
+>        （处方药：ADHD / 发作性睡病）
+>
+> ※ MDMA / Meth / Adderall = Amphetamine 子家族（直接苯丙胺衍生物）
+> ※ Bath Salts = Cathinone 子家族（与 Amphetamine 是"表亲"，β 位酮基修饰）
 > ```
 >
-> | 维度 | **MDMA** | **冰毒 (Methamphetamine)** | **Amphetamine (Adderall)** |
-> |---|---|---|---|
-> | 中文名 | 摇头丸 / 迷魂药 | 冰毒 / 甲基苯丙胺 | 安非他命（处方）|
-> | 街名 | **Ecstasy / Molly / E / X / XTC** | **Crystal Meth / Ice / Crank / Speed / Tina / Glass** | — |
-> | 形态 | 彩色药片（笑脸 / 卡通图案）/ 胶囊 | 透明结晶（像冰）/ 白色粉末 | 处方片剂 |
-> | 主要释放 | **5-HT >> NE > DA** | **DA >> NE > 5-HT** | NE + DA |
-> | 核心效应 | **Entactogen**：共情、亲密、欣快 | 极度兴奋、警觉、性欲 ↑、攻击性 | 警觉、专注 |
-> | 场景 | **派对 / 夜店 / 音乐节 (rave)** | 长时间清醒 / chemsex / 暴力 | ADHD 治疗 |
-> | 持续 | 3-6 小时 | **8-24 小时**（长）| 4-12 小时 |
-> | 特异并发症 | **5-HT 综合征 + 低钠 (SIADH)** ⭐ | **Meth mouth** / 严重精神病 / 暴力 | 体重 ↓、HR ↑、依赖 |
-> | 戒断 | 轻度抑郁（"midweek blues"）| 严重抑郁 + 嗜睡 + 食欲 ↑ | 类似 meth 戒断 |
+> | 维度 | **MDMA** | **冰毒 (Meth)** | **Adderall** | **Bath Salts** ⭐ v1.1 新增 |
+> |---|---|---|---|---|
+> | 母核 | Amphetamine | Amphetamine | Amphetamine | **Cathinone**（β-keto-amphetamine 表亲）|
+> | 中文名 | 摇头丸 / 迷魂药 | 冰毒 / 甲基苯丙胺 | 安非他命（处方）| 浴盐 / 合成卡西酮 |
+> | 街名 | **Ecstasy / Molly / E / X / XTC** | **Crystal Meth / Ice / Crank / Speed / Tina / Glass** | — | **Bath Salts / Flakka / Plant Food / Cleaner** |
+> | 形态 | 彩色药片（笑脸 / 卡通图案）/ 胶囊 | 透明结晶（像冰）/ 白色粉末 | 处方片剂 | **白色粉末**（标 "plant food / cleaner"）|
+> | 主要释放 | **5-HT >> NE > DA** | **DA >> NE > 5-HT** | NE + DA | NE + DA + 5-HT（**但 SS 罕见**）|
+> | 核心效应 | **Entactogen**：共情、亲密、欣快 | 极度兴奋、警觉、性欲 ↑、攻击性 | 警觉、专注 | **极端 combative "rage"** + 攻击 |
+> | 场景 | **派对 / 夜店 / 音乐节 (rave)** | 长时间清醒 / chemsex / 暴力 | ADHD 治疗 | 砸车 / 攻击警察 / "crazy rage" |
+> | 持续 | 3-6 小时 | **8-24 小时**（长）| 4-12 小时 | **数天-1 周（最长）** ⭐ |
+> | 特异并发症 | **5-HT 综合征 + 低钠 (SIADH)** ⭐ | **Meth mouth** / 严重精神病 / 暴力 | 体重 ↓、HR ↑、依赖 | **超长病程精神病** + **体温常正常** ⭐ |
+> | 常规尿筛 | 不可靠（可阴可阳）| ✅ **能测出** | ✅ 能测出 | ❌ **测不出** ⭐ |
+> | 戒断 | 轻度抑郁（"midweek blues"）| 严重抑郁 + 嗜睡 + 食欲 ↑ | 类似 meth 戒断 | 轻，少考 |
 >
 > **Stem 关键词识别速查**：
 > - 派对 + **5-HT 综合征 + 低钠** → **MDMA**
 > - 长期清醒 + **烂牙 (meth mouth)** + 暴力 / 精神病 / 消瘦 → **冰毒**
 > - ADHD 儿童 / 成人 + 体重 ↓ + HR ↑ → **Adderall**
+> - **极端 combative 狂暴 + 病程数天-1 周 + 尿筛阴性 + 体温常正常** → **Bath Salts** ⭐
 > - 鼻中隔穿孔 + 胸痛 / MI → **Cocaine**（非苯丙胺，常一起考）
 >
 > > [!tip] 一句话挂钩
-> > **MDMA 是"爱"**（5-HT 让人有共情）
-> > **冰毒是"疯"**（DA 让人暴力 + 精神病 + 烂牙）
-> > 看到 "Ecstasy / Molly" 想 MDMA；看到 "Ice / Crystal Meth" 想冰毒。
+> > **MDMA 是"爱"**（5-HT 让人有共情 + 高热 + 低钠）
+> > **冰毒是"疯+烂牙"**（DA 让人暴力 + 精神病 + meth mouth）
+> > **Bath Salts 是"狂暴超长"**（combative rage + 病程数天-1 周 + 尿筛阴性 + 体温常正常）
+> > 看到 "Ecstasy / Molly" 想 MDMA；"Ice / Crystal Meth" 想冰毒；"Flakka / Plant Food / Cleaner / 砸车 rage" 想 Bath Salts。
 >
 > ## 普适规则 — Table 1：滥用药物中毒 6 大鉴别 ⭐⭐⭐
 >
@@ -10288,15 +10303,19 @@
 > - **抗胆碱** = "**干热不抖**"（干 + 热 + 反射正常）
 > - **NMS** = "**湿热僵**"（湿 + 热 + 铅管样僵硬）
 >
-> **派对药 4 兄弟鉴别**：
-> - 肌阵挛 → **MDMA**
-> - 眼震 → **PCP**
+> **派对药 5 兄弟鉴别**（v1.1 加 Bath Salts）：
+> - 肌阵挛 + 低钠 + 高热 → **MDMA**
+> - 眼震多方向 → **PCP**
 > - 鼻血 / 鼻中隔穿孔 → **Cocaine**
 > - 针尖瞳孔 → **Opioid**
+> - **极端 combative "rage" + 病程数天-1 周 + 尿筛阴性 + 体温常正常** → **Bath Salts** ⭐
 >
 > **MDMA 三胺合一武器**："NE 推血压 + DA 推奖赏 + 5-HT 推 SS"
 >
-> **苯丙胺家族记忆**：MDMA 是**爱**（5-HT 共情）/ 冰毒是**疯**（DA 暴力 + 烂牙）
+> **苯丙胺家族记忆**（v1.1 加 Bath Salts）：
+> - **MDMA = "爱"**（amphetamine 子家族 + 5-HT 共情 + 高热 + 低钠）
+> - **冰毒 = "疯+烂牙"**（amphetamine 子家族 + DA 暴力 + meth mouth）
+> - **Bath Salts = "狂暴超长"**（**Cathinone 表亲家族** + combative rage + 病程一周 + 尿筛阴性）
 >
 > **MDMA 低钠双管齐下**：drug-induced SIADH + 用户主观觉得热**疯狂饮水降温** → dilutional hyponatremia → seizure
 >
@@ -10316,6 +10335,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q11815]] Synthetic Cathinone（**完美对照** — 5-20 入库，本题 5-19 — 两张连续天入库的"反复错搭子"；本题 = MDMA "爱"共情高热短病程，Q11815 = bath salts "狂暴"combative 体温正常超长病程；两张都 🔴 是因为互相混淆 — 本题 5-20 self-test 病因答成 SS 未答 MDMA / Q11815 5-21 self-test 误答 MDMA 应答合成卡西酮）⭐
 >   - [[mistakes/uworld-mistakes#^Q3189]] Heroin 戒断（同日入库 — vital signs 是关键鉴别；本题 = 中毒 hyperthermia，Q3189 = 戒断 vitals 正常，正好成对）
 >   - [[mistakes/uworld-mistakes#^Q3187]] AWS withdrawal seizure（同日做对 — 戒断相关 seizure vs 本题中毒相关 seizure）
 >   - 等积累更多 cocaine / amphetamine / DPH / cholinergic / SS / NMS / 低钠错题后横向连接
@@ -10333,6 +10353,7 @@
 >   - ✅ neuro.md L7490 表升级为三联（含 SS）+ L12023/L6401 加反链
 >   - 待积累：累积 SIADH 错题 5+ 道后 → 单独衍生 [[完整笔记/专题笔记/肾脏/肾脏_低钠血症鉴别决策树]]（MDMA / SSRI / HF / 肝硬化 / Addison 全谱）
 >   - 待积累：累积 amphetamine 家族错题（冰毒 / Adderall）后 → 考虑加 [[完整笔记/专题笔记/psych/psych_苯丙胺家族鉴别表]] 单独衍生
+>   - **占位：待 Methamphetamine 错题入库后** → 给本卡 + [[mistakes/uworld-mistakes#^Q11815]] Bath Salts 都补一条 meth 反链 → 形成 **MDMA / Bath Salts / Meth 三角对照网**（5-HT"爱" vs Cathinone"狂暴超长" vs DA"疯+烂牙"）。Stem 触发词：Ice / Crystal Meth / Crank / Speed / Tina / Glass / meth mouth / 长时间清醒
 >
 > ## ✅ 复盘行动
 >
@@ -12530,6 +12551,7 @@
 > - 🌱 TODO（待生成衍生）：
 >   - **衍生增量**：synthetic cathinone（bath salts）目前**不在** [[完整笔记/专题笔记/psych/psych_物质急诊速查]] §3「6 大物质中毒鉴别表」内 → 建议补一行（病程长 + combative + 尿筛阴性）
 >   - 等积累更多拟交感 / 派对药鉴别题 → [[完整笔记/专题笔记/psych/psych_物质急诊速查]] §11 stem 库加 bath salts 场景
+>   - **占位：待 Methamphetamine 错题入库后** → 给本卡 + [[mistakes/uworld-mistakes#^Q11853]] MDMA 都补一条 meth 反链 → 形成 **MDMA / Bath Salts / Meth 三角对照网**（5-HT"爱" vs Cathinone"狂暴超长" vs DA"疯+烂牙"）。Stem 触发词：Ice / Crystal Meth / Crank / Speed / Tina / Glass / meth mouth / 长时间清醒
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q11815
