@@ -4,7 +4,7 @@ tags:
   - Ethics
 created: 2026-05-25
 type: 专题笔记
-version: v1.3.4
+version: v1.3.5
 ---
 
 # 患者安全与质量改进工具 — Patient Safety & Quality Improvement Tools
@@ -42,7 +42,9 @@ version: v1.3.4
 >   - [[#13.2 Procedural Iatrogenic Harm — 速查表 ⭐⭐⭐]]
 >   - [[#13.3 Risk Factors for Medical Errors — 3 大类 ⭐⭐⭐]]
 >   - [[#13.4 Cognitive Biases — 16 大 Bias 配对题 ⭐⭐⭐⭐]]
+>     - [[#13.4.1 4 大经典 Cognitive Bias 速查表 ⭐⭐⭐（v1.3.5 新增 — Q18797 + Q18796 + AMBOSS Common cognitive errors in medicine）]] ⭐⭐⭐ CK 最高频 4 个
 >   - [[#13.6 Human Factors Engineering (HFE) — 3 档 Reliability 分级表 ⭐⭐⭐（v1.3.3 升级 — Q19718 锚定）]]
+>     - [[#13.6.1 Clinical Decision Support Systems (CDSS) 完整框架 ⭐⭐（v1.3.5 新增 — Q18754 锚定）]] ⭐⭐ CDSS detect 什么 / 不 detect 什么
 >   - [[#13.7 Tall Man Lettering + "Do Not Use" Abbreviations ⭐⭐⭐]]
 >   - [[#13.10 Initial Management + Disclosure SOP + Apologize 措辞 ⭐⭐⭐]]
 >   - [[#13.12 Analysis Frameworks — RCA + Fishbone + 5 Whys + M&M + FMEA 升级 ⭐⭐]]
@@ -122,6 +124,11 @@ version: v1.3.4
 >
 > ### v1.3.2（2026-05-25）— Clinical Uncertainty 收尾
 > - §13.14.7 Clinical Uncertainty 4 策略（basic principles / review workup / consult / watchful waiting）+ Memory Hook 1 句
+>
+> ### v1.3.5（2026-05-25）— 3 道 UW 做对题增量（Q18754 / Q18797 / Q18796）
+> - **§13.4.1 新增**：**4 大经典 Cognitive Bias 速查表**（Anchoring / Availability / Confirmation / Framing）+ AMBOSS 临床 example（burning throat → malignancy / dyspnea → PE / opioid withdrawal → bowel obstruction / panic attack → PE）
+> - **§13.6 升级**：**Computerized automation 子节扩展 CDSS 完整框架**（Purpose / Benefits / Examples）+ **CDSS 能 detect vs 不能 detect 4 类 medication error 对照**（mathematical ✅ / monitoring 限定 / patient ID ❌ / mislabeling ❌）
+> - §十一 Memory Hooks 追加 2 句
 >
 > ### v1.3.4（2026-05-25）— Q22581 错题暴露增量
 > - **§13.12 Analysis Frameworks 升级**：M&M vs RCA vs FMEA 3 工具对照 → **4 工具对照**（新增 **Common Cause Analysis** — retrospective + aggregate 多 RCAs 找跨事件 themes/trends）
@@ -831,6 +838,10 @@ CK 高频背景统计（题干常用 "given that medical errors are a leading ca
 >
 > **"4 工具时间方向 + 范围：RCA = retro/单事件；FMEA = pro/未来；Common Cause = retro/多事件 themes；M&M = retro/周期 peer review"** ⭐⭐⭐（v1.3.4 Q22581 锚定）
 >
+> **"4 大经典 cognitive bias：Anchoring（第一印象）/ Availability（recency）/ Confirmation（只看支持证据）/ Framing（外部信息影响）；Anchoring = premature closure 互换"** ⭐⭐⭐（v1.3.5 Q18797 + Q18796）
+>
+> **"CDSS = HFE Automation 档；擅长 detect mathematical/dose conversion error；不能 detect patient ID/mislabeling（这些需 dual ID + barcode）"** ⭐⭐（v1.3.5 Q18754）
+>
 > **"AMA 5 要素：Capacity + Severity + Reasons + Alternatives + Documentation"** ⭐⭐
 >
 > **"5 conflict styles: Avoiding / Accommodating / Competing / Compromising / Collaborating（多数情境推荐 Collaborating）"**
@@ -1134,6 +1145,54 @@ CK 高频"哪个 procedure → 哪个并发症"配对题。
 >
 > **Solutions**: Implicit bias workshops / debriefing / self-monitoring / considering others' perspectives
 
+#### 13.4.1 4 大经典 Cognitive Bias 速查表 ⭐⭐⭐（v1.3.5 新增 — Q18797 + Q18796 + AMBOSS Common cognitive errors in medicine）
+
+CK 反复考的就这 4 个 — 比 16 大表更高频，配 AMBOSS 临床 example 必背：
+
+| Bias | 定义 | AMBOSS 经典 example |
+|---|---|---|
+| **Anchoring** ⭐ | **Fixating on initial impressions** to make a diagnosis；related to confirmation bias + premature closure | Burning throat pain diagnosed as **acid reflux despite weight loss** → 正解 **lung malignancy** |
+| **Availability** | Allowing **recently seen / memorable (high-stakes)** cases to sway diagnosis | **Dyspnea** diagnosed as **influenza during peak flu season** → 正解 **pulmonary embolism** |
+| **Confirmation** | Emphasizing evidence that **supports presumed diagnosis** + overlooking evidence supporting other dx；related to anchoring | Burning throat pain after spicy food → diagnosed as acid reflux despite weight loss → 正解 **malignancy** |
+| **Framing** ⭐ | Allowing diagnostic approach to be **influenced by context + presentation of information** | Abdominal pain in patient described as drug seeking → dx **opioid withdrawal** → 正解 **bowel obstruction**；或 prior visit chart "panic attack from anxiety" → 误读 PE 为 panic |
+
+#### Q18797 vs Q18796 关键区分（CK 高频钓饵）⭐
+
+> [!warning] Framing vs Anchoring vs Availability 临床区分
+> | 触发线索 | Bias |
+> |---|---|
+> | "**Prior visit chart says X** / 前医生 framed 为 X" → 这次也 dx X | **Framing**（外部信息呈现影响）|
+> | "**当下看到 mental stress / anxiety**" → 锚定**第一印象** → 漏 differential | **Anchoring**（initial impression 固定）|
+> | "**Flu season** → dyspnea → flu" / "上周见 3 例 PE → 这周胸痛都想 PE" | **Availability**（最近 / 鲜明案例 sway）|
+> | 已 dx X → 只看支持 X 证据 + 忽视反对证据 | **Confirmation** |
+>
+> **Q18797 stem**："Given history of anxiety, current symptoms likely represent panic attack" 写在 chart 里 → 这次医生**被 chart 文字 frame** → Framing bias（不是 anchoring — anchoring 是医生**自己**第一印象，这里是**前医生留下的文字**影响）
+> **Q18796 stem**：女性 60-70 + 胸痛 + mental stress → 当下医生**锚定** "mental stress" → 漏 MI → Anchoring bias（initial impression on mental stress）
+
+#### Anchoring = Premature Closure（同义词）
+
+> [!info]
+> CK 中 **anchoring bias** 和 **premature closure / search satisficing**（见 §13.4 主表）经常**互换使用**：
+> - Anchoring = fixating on initial impression
+> - Premature closure = 接受第一个 dx 就停止 search
+> - 两者本质都是 "**第一印象锁死 differential**"
+> - CK 选项里这 2 个词都可能是正解
+
+#### 4 大经典 bias 反 pattern（Q18796 钓饵）
+
+| 反 pattern | 例 | 为什么错 |
+|---|---|---|
+| **Knowledge deficiency** | Q18796 C 选项 | **Atypical MI in women 已是 well-known**；不是 knowledge 缺；是**反射没建立**（cognitive bias 导致没去想 MI）|
+| **Latent error** | Q18796 D 选项 | Latent error 是**系统层**（inefficient protocols / poor design）；本 case 是**clinician misjudgment** = active error，不是 latent |
+| **Availability bias for MI miss** | Q18796 B 选项 | GERD + MI 都是 ED 常见 dx；availability 不解释 MI 偏低；anchoring 才是 |
+
+#### 一句话锁
+
+> [!success]
+> 「**4 大经典 cognitive bias：Anchoring（第一印象固定）/ Availability（recency 影响）/ Confirmation（只看支持证据）/ Framing（外部信息呈现影响）**」
+> 「**Framing 的关键 trigger = chart 上前医生写的文字 / context 描述影响这次 dx**」
+> 「**Anchoring = premature closure 互换；CK 选项任一可正解**」
+
 ### 13.5 Diagnostic Error Prevention — Cognitive Interventions ⭐
 
 CK 题"如何减少 diagnostic error"答案模式：
@@ -1155,7 +1214,7 @@ CK 题"如何减少 diagnostic error"答案模式：
 | Reliability | Strategy | 描述 + 例子 |
 |---|---|---|
 | **Highest** | **Forcing functions** ⭐ | Hard stops in design / process to eliminate risk for incorrect use<br>例：anesthesia gas 各自 fit 一个 compatible socket，不可互换 |
-| | **Computerized automation** | Automated processes remove human effort + variations causing error<br>例：automated vital signs monitoring |
+| | **Computerized automation** | Automated processes remove human effort + variations causing error<br>例：automated vital signs monitoring；**CDSS** 见 §13.6.1 详细 |
 | | **Environment & physical layout** ⭐⭐（Q19718 答案）| Workspace design facilitates correct action + minimizes error<br>例：**look-alike drugs stocked in different locations**（heparin 10 vs 1000 u/mL 分开抽屉）|
 | **High** | **Standardization & simplification** | Uniform processes minimize variation / complexity / learning curve<br>例：every unit follows same heparin administration process |
 | | **Human-machine redundancy** | Repetitive step to confirm correct action in error-prone process<br>例：barcode scanning + visual inspection |
@@ -1175,6 +1234,55 @@ CK 题"如何减少 diagnostic error"答案模式：
 
 > [!info] Q19718 同主题加 §13.7 "Do Not Use" 列表联动
 > Look-alike / sound-alike 药 → 不仅环境分开存放（本节）也用 **Tall man lettering**（§13.7）— 两层 HFE 防御叠加最有效。
+
+#### 13.6.1 Clinical Decision Support Systems (CDSS) 完整框架 ⭐⭐（v1.3.5 新增 — Q18754 锚定）
+
+**CDSS** = computerized tools integrated into EHR / CPOE → 在 point-of-care **prompt providers** based on patient data → reduce medical errors。
+
+##### CDSS 完整框架 ⭐
+
+| 维度 | 内容 |
+|---|---|
+| **Purpose** | • Assist providers in making clinical decisions based on patient data（lab / dx）<br>• Usually integrated into **computerized provider order entry (CPOE) systems**<br>• Recommend actions to providers based on patient clinical information |
+| **Potential benefits** | • Increase **reliability** of medical decision-making（limiting harmful variations of care）<br>• Detect + intervene in cases of **human error**（entering incorrect drug dose）<br>• Reduce **medication prescription errors** |
+| **Examples** | • Tool suggesting default drug dose + frequency based on **patient weight**<br>• Prompt recommending **DVT prophylaxis** in post-op high-risk surgery patient<br>• Prompt recommending **diagnostic tests for suspected PE** |
+
+##### CDSS 能 detect vs 不能 detect — 4 类 medication error 对照 ⭐⭐⭐（Q18754 核心）
+
+| Medication error 子类型 | CDSS 能 detect？ | 为什么 |
+|---|---|---|
+| **Mathematical error** ⭐（drug dose conversion / calculation 错）| ✅ **能**（Q18754 答案）| CDSS 内置 dose equivalency tables + alert 异常剂量；如 morphine 1 mg IV ≈ hydromorphone 0.25 mg IV → CDSS 知道 hydromorphone 1 mg = ~4 mg morphine，warn high dose |
+| **Drug monitoring error** | 部分能 | CDSS 可 prompt INR check for warfarin，但**实际 reconciling labs / acting on results** 不在 CDSS 范围（需 provider action）|
+| **Patient identification error** | ❌ **不能** | Patient ID error（wrong-patient surgery）= mislabeling / wristband 问题 → 用 **dual identifiers + barcode**（§13.1）防，不是 CDSS |
+| **Mislabeling / specimen error** | ❌ **不能** | Lab specimen mislabel = preanalytical phase error → 用 **barcode + dual ID + visual inspection** 防，不是 CDSS |
+
+##### CDSS = HFE Highest 档 Automation（§13.6 内嵌）
+
+CDSS 属于 **Computerized automation**（HFE Highest 档第 2 个）— 减少 human effort + 自动检查 + alert pre-emptive errors。
+
+##### CDSS 使用限制（USMLE 反 pattern 警示）⭐
+
+> [!warning] CDSS 不是万能
+> - **Alert fatigue** — 过多 alert → provider override；CDSS 设计需 prioritize high-severity alerts（§13.3.2 解决方案）
+> - **不能替代 clinical judgment** — CDSS 是 decision **support** 不是 decision **maker**
+> - **不能 detect physical / workflow errors**（如 wrong site surgery / specimen mislabel）— 这些需 forcing function / time-out / 2 identifiers
+> - **依赖正确数据 input** — garbage in, garbage out（错的患者体重 → CDSS 给错剂量推荐）
+
+##### Q18754 钓饵分析
+
+| 选项 | 为什么 |
+|---|---|
+| **A. Drug monitoring error** ❌ | CDSS 可 prompt 查 INR / vanco trough，但**重点是 prompt，不是 detect 已发生的 monitoring lapse**；本题 stem 是 conversion error（mathematical），不是 monitoring |
+| **B. Mathematical error** ✅ 正解 | CDSS 内置 morphine→hydromorphone 4:1 equivalency → alert 高剂量；本 case 完美 fit |
+| **C. Mislabeling error** ❌ | Mislabeling 是 specimen / wristband 错 → 需 **dual identifiers + barcode**，不是 CDSS 范围 |
+| **D. Patient identification error** ❌ | 同上 — patient ID 错需 dual ID + barcode；CDSS 是基于 patient data 推荐，不验证 patient identity |
+
+##### 一句话锁
+
+> [!success]
+> 「**CDSS = HFE Automation 档；最擅长 detect mathematical / drug dose error；不能 detect patient ID / mislabeling**」
+> 「**CDSS 配 CPOE 用 — Computerized Provider Order Entry 提供平台**」
+> 「**Q18754 stem morphine→hydromorphone 4:1 conversion → CDSS 在 prompt alert mathematical conversion error**」
 
 ### 13.7 Tall Man Lettering + "Do Not Use" Abbreviations ⭐⭐⭐
 

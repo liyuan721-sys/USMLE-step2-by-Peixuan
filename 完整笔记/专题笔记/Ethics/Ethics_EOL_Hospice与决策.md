@@ -6,7 +6,7 @@ tags:
   - hospice
 created: 2026-05-25
 type: 专题笔记
-version: v1
+version: v1.1
 ---
 
 # Ethics EOL & Hospice 决策框架 — Pediatric Disclosure + End-of-Life Care
@@ -29,6 +29,7 @@ version: v1
 >   - [[#§2.6 Code Status Discussion Framework — How to Talk About DNR ⭐（UW 做对题 — v1.4.5 新增）]]
 >   - [[#§2.7 Home Hospice Care — Eligibility + Common Misconceptions ⭐（Q21142 锚定 — UW 做对题 v1.4.7 新增）]]
 >   - [[#§2.8 Elderly ESRD — Conservative Kidney Care vs Dialysis Counseling ⭐（Q21210 锚定 — UW 做对题 v1.4.7 新增）]]
+>   - [[#§2.9 Levels of Care — 美国老年照护 6 档阶梯 ⭐⭐（v1.1 新增 — Q20431 锚定）]] ⭐⭐ SNF vs Home health 区分
 > - [[#🔗 关联（全文件）]]
 > - [[#✅ 学习清单]]
 
@@ -36,7 +37,7 @@ version: v1
 
 > [!info] 文件起源
 > 从 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §七 + §八 拆出（2026-05-25 拆分，方案 2）。原文超大（4362 行），按主题分文件后单文件 ≈ 880 行可一次看完。
-> 主题专注：儿童慢病 disclosure 全流程 + EOL 5 档 + DNR + Advance directive + Hospice + ESRD conservative care。
+> 主题专注：儿童慢病 disclosure 全流程 + EOL 5 档 + DNR + Advance directive + Hospice + ESRD conservative care + **Levels of Care 6 档老年照护阶梯**（v1.1 新增 — Q20431 锚定）。
 
 > [!tip] 适用场景速查
 > - 儿童 raise concerns about illness → §一 4 阶段全流程
@@ -844,6 +845,161 @@ Elderly + ESRD imminent + comorbidities + patient asks about dialysis
 > 「**Patient asked X → 必 explain X benefits + risks，不 unilateral eliminate X**」（同 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §九 directive 但反方向 — 那里 1 safe option directive 推荐；这里 patient asks 必 discuss）
 > 「**Elderly + comorbidity + functional decline → dialysis benefit negligible**；conservative kidney care = comfort + 6 mo–2 yr life expectancy」
 
+### §2.9 Levels of Care — 美国老年照护 6 档阶梯 ⭐⭐（v1.1 新增 — Q20431 锚定）
+
+#### 反射钩
+
+> [!info]
+> Elderly + discharge planning / fall prevention / chronic care setting 选择 → 反射 **Levels of Care 6 档阶梯**（按强度 + autonomy 排序）。
+> **CK 高频陷阱**：把 stable + mild functional decline 患者**误送 SNF / hospital**，而正解多数是 **home health care**（保 independence + 减 readmission + 降 cost + 减 nosocomial infection）。
+
+#### 6 档阶梯完整对照表 ⭐⭐⭐
+
+| 档位 | 提供什么 | 适用病人 | 强度 | Autonomy |
+|---|---|---|---|---|
+| **① Hospital**（医院）| 急性 + 24/7 全科医疗 + ICU | Acute illness / unstable / 需 ICU 级监护 | 最高 | 最低 |
+| **② SNF**（Skilled Nursing Facility, 技术性护理机构）⭐ | **24/7 skilled nursing + PT/OT/ST + IV 药 / wound care / 复杂监护** | Post-stroke rehab / post-surgery / 不能 ADL / severe CI / 复杂 wound / IV 抗生素 long-term | 高 | 低 |
+| **③ Long-term care / Nursing home**（长期护理 / 养老院）| 非技术性长期生活护理（吃喝拉撒 + 基本护理）| Permanent custodial care 不能自理但 medically stable | 中高 | 低 |
+| **④ Assisted living**（协助生活机构）| 协助 ADL（穿衣 / 洗澡 / 服药提醒）+ 社交 + 餐饮 | Mild functional decline 但 cognitively + medically 相对稳；不需 skilled care | 中 | 中 |
+| **⑤ Home health care**（家庭健康护理）⭐⭐ | **间歇性 home-based skilled care**（nurse 定期上门 + PT/OT/SW + medication management + home safety assessment）| **Homebound + medically stable + needs intermittent skilled monitoring**（Q20431 答案）| 低-中 | **高** ⭐ |
+| **⑥ Independent living**（独立生活老年公寓）| 老年公寓 + 社交 + 紧急按钮 + 餐饮（可选）| 完全自理 + 仅需 community + 安全网 | 最低 | **最高** |
+
+#### 平行档：Hospice（不在阶梯里）
+
+| 档位 | 提供什么 | 适用病人 |
+|---|---|---|
+| **Hospice**（临终关怀）| Palliative care + 仅 comfort 取向 + grief counseling + spiritual support | Terminal illness + life expectancy ≤ 6 mo + 放弃 curative tx |
+| **Location 灵活** | Home / SNF / Assisted living / Hospice facility 任一 | Hospice 是**护理理念**，可叠加任何 location（不与 6 档互斥）|
+
+> [!info] 详见 §2.7 Home Hospice Care eligibility + misconceptions
+
+#### SNF vs Home Health Care — 关键区分（CK 钓饵高频）⭐⭐⭐
+
+| 维度 | **SNF** | **Home Health Care** ⭐ |
+|---|---|---|
+| **地点** | 住院型机构 | 病人家里 |
+| **强度** | **24/7 持续**护理 | **间歇性**（每周几次 nurse / therapist visit）|
+| **自理能力** | **不能 ADL** / 需持续监护 | **能 ADL** + 仅需 intermittent skilled help |
+| **CI 程度** | Severe CI / advanced dementia 可接受 | **Mild CI** 可以；severe CI 不合适 |
+| **Autonomy** | 较低（机构生活）| **保留 independence**（首选）|
+| **Cost** | $$$ 高 | $ 低 |
+| **Readmission risk** | 较高（机构内 nosocomial）| 较低 |
+| **典型 CK stem patient** | Post-stroke + 严重 deficit + 不能 ambulate；IV abx × 6 周 + 无家庭支持 | Q20431 mild CI + minor ankle injury + 能 ambulate + 独居 + medically stable |
+
+#### 决策树 — 病人去哪一档？⭐
+
+```
+Elderly + 需要 care 决策
+    │
+    ▼
+Medically stable？
+    │
+    ├─ ❌ Acute illness / unstable → ① Hospital
+    │
+    └─ ✅ Stable
+           │
+           ▼
+       需要 24/7 supervision / skilled care？
+           │
+           ├─ ✅ 是（severe CI / post-stroke rehab / IV abx long-term / 复杂 wound）
+           │      → ② SNF
+           │
+           ├─ ✅ 是但仅 custodial care（不需 skilled）+ 不能自理永久
+           │      → ③ Long-term care / Nursing home
+           │
+           └─ ❌ 否
+                  │
+                  ▼
+              需要 ADL 协助 + 社交结构？
+                  │
+                  ├─ ✅ 是（mild functional decline，但 medically + cognitively 相对稳）
+                  │      → ④ Assisted living
+                  │
+                  └─ ❌ 否
+                         │
+                         ▼
+                     Home-bound + 需 intermittent skilled care？
+                         │
+                         ├─ ✅ 是（PT for falls / medication management / wound care / chronic disease monitor）
+                         │      → ⑤ Home health care ⭐
+                         │
+                         └─ ❌ 否（完全自理 + 仅需 community + safety net）
+                                → ⑥ Independent living
+
+平行：terminal illness + life expectancy ≤ 6 mo + forgo curative → Hospice（叠加任何 location）
+```
+
+#### SNF 触发条件 3 大要素（USMLE 必背）⭐
+
+> [!success] SNF 入住 3 大触发
+> 1. **Skilled need**（需要 RN / PT / OT / wound care / IV therapy 等专业服务，不只是协助 ADL）
+> 2. **24/7 supervision required**（独自在家不安全 — severe CI / 频繁 fall / 复杂药物 + 不能 self-manage）
+> 3. **Medically stable**（不需要 hospital 级别监护，但仍需 skilled care）
+>
+> **3 个 AND 关系都满足才送 SNF**。如果 medically stable + 能 ADL + 仅需 intermittent skilled help → home health care 更合适。
+
+#### Home Health Care 触发条件 3 大要素（USMLE 必背）⭐
+
+> [!success] Home Health Care 入选 3 大触发
+> 1. **Medically stable for discharge**（已 stable，但仍需 ongoing skilled care）
+> 2. **Homebound**（leaving home requires considerable effort — 受伤 / 慢病 / 老 frailty）
+> 3. **Needs intermittent skilled service**（nurse visits + PT/OT + medication management + 不是 24/7）
+
+#### Stem 模式识别表（USMLE 经典）⭐
+
+| Stem 元素 | 暗示档位 |
+|---|---|
+| "**Post-stroke** + intensive PT/OT" / "Hip fracture s/p ORIF + cannot bear weight" | ✅ **SNF** rehab |
+| "**Advanced dementia** + cannot ADL + family cannot care" | ✅ **SNF / Long-term care** |
+| "**IV antibiotics × 6 weeks** for osteomyelitis + no home support" | ✅ **SNF** |
+| "**Mild CI** + minor injury + lives alone + medically stable + 多药" | ✅ **Home health care**（Q20431 锚定）|
+| "Stable + cannot drive + needs daily med reminder + 仍能自己穿衣洗澡" | ✅ **Assisted living** |
+| "Elderly + 完全 self-care + 仅希望 social + emergency button" | ✅ **Independent living** |
+| "Terminal cancer mets + life expectancy ≤ 6 mo + forgo curative" | ✅ **Hospice**（可叠加任何 location）|
+
+#### 4 大反 pattern（钓饵）⭐
+
+| 反 pattern | 例 | 为什么错 |
+|---|---|---|
+| **① Admit hospital for cognitive/functional assessment** | Q20431 A 选项 | Medically stable 患者 admit 引入 **nosocomial / delirium / functional decline** risk；assessment 可在 home / outpatient 完成 |
+| **② SNF for mild CI / minor injury** | Q20431 D 选项 | Mild CI 不达 SNF 触发标准；过度机构化损 autonomy + 增 cost |
+| **③ Family member administer meds** | Q20431 C 选项 | 增 family burden + interpersonal conflict + 常 not practical；home health nurse 可专业 medication management |
+| **④ Confuse SNF vs Nursing home** | 多 CK stem | **SNF = skilled + 通常 short-term rehab**；**Long-term care/Nursing home = custodial + permanent**；不同档位 |
+
+#### Costs 由高到低（次要 CK 考点）
+
+```
+Hospital >> SNF > Long-term care ≈ Assisted living > Home health care > Independent living
+```
+
+> [!tip] CMS 报销规则补充
+> - **Medicare 覆盖 SNF** 在 hospital stay ≥ 3 天后 + skilled need 持续 → 最多 100 天 / benefit period
+> - **Medicare 覆盖 Home health care** 当 homebound + skilled need + 由 home health agency 提供
+> - **Medicaid 覆盖 Long-term care**（多数 nursing home）
+> - **Hospice** 由 Medicare hospice benefit 覆盖
+> - **Assisted living + Independent living**：通常 **out-of-pocket**（保险一般不覆盖）
+
+#### 与 §2.7 Hospice + §2.8 ESRD Conservative 联动
+
+```
+Elderly + chronic disease decision-making
+    │
+    ├─ Terminal + ≤ 6 mo → §2.7 Hospice
+    │
+    ├─ Elderly ESRD + comorbidities + functional decline → §2.8 Conservative kidney care
+    │      （仍可叠加 home health care 提供 in-home conservative management）
+    │
+    └─ 非 terminal + 多种慢病 + need ongoing care → §2.9 6 档 levels of care 选择
+```
+
+#### 一句话锁
+
+> [!success]
+> 「**6 档阶梯：Hospital → SNF → Nursing home → Assisted living → Home health → Independent**」
+> 「**SNF 触发 3 件套：Skilled need + 24/7 supervision + Medically stable（3 AND）**」
+> 「**Home health 触发 3 件套：Stable + Homebound + Intermittent skilled need**」
+> 「**Mild CI + minor injury + 独居 + stable → 永远选 home health（不选 admit / SNF）**」
+
 ### §二 关联
 
 - Q21627（NEOT — end-of-life 3 philosophies + surrogate substituted judgment）
@@ -854,6 +1010,7 @@ Elderly + ESRD imminent + comorbidities + patient asks about dialysis
 - **Q23113（Distressed surrogate 3 大技巧 — refocus on patient + help apply knowledge + shared decision-making / "I trust you" = passive abandonment / "Help me understand what patient was like before she got sick" 钥匙句式 / 与 Q21627 同主题累积薄弱信号）⭐ v1.4.6 错题入库**
 - **Q21142（Home Hospice Care eligibility + 4 大 misconceptions — hospice 不缩短 life expectancy 反而可能 small ↑ survival / early referral enhances quality / aim 不是 hasten death）⭐ v1.4.7 做对题知识补充**
 - **Q21210（Elderly ESRD — Conservative Kidney Care vs Dialysis counseling — dialysis benefit negligible in elderly comorbid + functional decline / conservative care = comfort + 6 mo–2 yr life expectancy / patient asks X → 必 explain X benefits + risks 不 unilateral eliminate）⭐ v1.4.7 做对题知识补充**
+- **[[mistakes/uworld-mistakes#^Q20431]]（Home Health Care 适应症 — medically stable + homebound + skilled needs / mild CI + minor injury + 独居 → home health 不是 admit / SNF）⭐ v1.1 错题入库 → §2.9 Levels of Care 6 档阶梯**
 - 前提是 capacity 无 → [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §二（Q19048 capacity reassessment + advanced directive 不指定时走 surrogate + POA/guardian 顶层）
 - 跨学科 [[完整笔记/Peixuan分科笔记/neuro]]（Advanced Alzheimer dementia 自然病程 + Acute stroke + tPA criteria）/ [[完整笔记/Peixuan分科笔记/感染]]（重症 sepsis + multi-organ failure 预后）/ [[完整笔记/Peixuan分科笔记/hematology oncology]]（Metastatic cancer ≠ thrombolysis 禁忌 / hospice 仍给 standard of care for treatable acute events）
 
@@ -888,3 +1045,6 @@ Elderly + ESRD imminent + comorbidities + patient asks about dialysis
 - [ ] 默背 §二.6 Code Status Discussion 4 大原则（Reassure + Broader + Comprehensive + Neutral）
 - [ ] 默背 §二.7 Hospice 4 大 misconception
 - [ ] 默背 §二.8 Elderly ESRD — patient asked X → 必 explain X benefits + risks
+- [ ] 默背 §2.9 **Levels of Care 6 档阶梯**（Hospital / SNF / Nursing home / Assisted living / Home health / Independent）⭐⭐
+- [ ] 默背 §2.9 **SNF vs Home Health Care 区分** + 各自 3 大触发条件
+- [ ] 默背 §2.9 决策树（mild CI + minor injury + 独居 + stable → home health 永远首选）
