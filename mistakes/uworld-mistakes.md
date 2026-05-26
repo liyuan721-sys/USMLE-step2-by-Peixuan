@@ -21720,3 +21720,167 @@
 > 主题:: Geriatric Prescribing — Limit Number of Prescribers（PCP 主管 + Beers/START criteria）
 > 状态:: 🟡
 > 错因:: 知识
+
+> [!example]- [2026-05-25] Ethics / Hospital Readmission Reduction — Telephone Follow-up（address patient loss to follow-up）(Q20229)
+> ^Q20229
+>
+> ## Stem 模式
+> 大医院 + Medicare 高 readmission penalty + CHF 30 day readmissions 高 → reduce readmission 最佳策略？
+>
+> ## 核心概念
+> **Hospital readmission reduction 首选 = telephone-based follow-up shortly after discharge**（first 2 weeks）— 直接 engage patient + identify new symptoms early + 防 **loss to follow-up**（**> 50% readmitted patients 没完成 primary care follow-up**，readmission major driver）。
+> 比 electronic discharge summary 给 PCP（仅 PCP-to-PCP communication，不解决 patient 端的 loss to follow-up）+ 比 extending hospitalization（增 nosocomial risk）+ 比 reduce hospitalist workload（不 address post-discharge developments）更直接有效。
+>
+> ## 普适规则 — Telephone Follow-up Outreach 3 大机制 ⭐
+>
+> | 机制 | 内容 |
+> |---|---|
+> | **① Patient engagement** | Address patient concerns + 确认 comprehension + adherence to discharge instructions |
+> | **② Identification of new symptoms early** | 如 CHF 重 weight gain → 早 med adjustment 防 decompensation 入院 |
+> | **③ Care coordination** | 帮 ascertain + address patient obstacles to attending appointments → 防 loss to follow-up |
+>
+> ## 普适规则 — Readmission Reduction 干预对照表 ⭐
+>
+> | 干预 | 有效性 | 为什么 |
+> |---|---|---|
+> | **Telephone-based outreach by care coordinators** ⭐⭐⭐（正解）| **最有效** | 直接 patient engagement + 早 identify symptoms + 防 loss to follow-up |
+> | **Electronic discharge summary to PCP** | 较弱 | 仅 PCP-to-PCP communication；不 address patient loss to follow-up |
+> | **Extend hospitalization 48 hours** | ❌ | 增 nosocomial infection risk + 浪费 resources + 不 evidence-based |
+> | **Reduce hospitalist workload (smaller teams)** | 较弱 | 改善 in-hospital care quality，**不 address post-discharge** developments |
+> | Medication reconciliation at discharge | 中等 | 防 med error，但 telephone outreach 更全面 |
+> | Home health care referral | 中等 | 特定 patient 适用（homebound + skilled need），见 [[完整笔记/专题笔记/Ethics/Ethics_EOL_Hospice与决策]] §2.9 |
+>
+> ## 易混陷阱（普适）
+> - "Discharge summary to PCP = readmission ↓" ❌ — PCP 知道发生过什么，但**患者**没主动来 follow-up 还是会 readmit
+> - "Extend hospitalization 防 readmission" ❌ — Stable patient 多住院 = harm（nosocomial / delirium / functional decline）
+> - "Smaller hospitalist teams 改善 outcomes" — 改善 **in-hospital** care，不直接减 30 day readmission（drivers 在 post-discharge）
+> - "All readmissions 都是 preventable" ❌ — 不是全部；但**telephone outreach 显著减 preventable 部分**
+>
+> ## 我为什么错
+> - 选了：D Sending electronic discharge summaries to PCP
+> - 错因：知识
+> - 核心陷阱：把"信息传给 PCP" = "follow-up 解决"；没意识到**真正驱动 readmission 的是 patient 端不 follow-up**（> 50%），不是 PCP 端 information gap；electronic discharge summary 是好实践但**不解决核心问题**
+>
+> ## Memory Hook
+> **"Readmission 主因 = patient loss to follow-up（>50% 没复诊）；解决 = telephone outreach by care coordinators（first 2 weeks）"**
+> 反射钩：CHF / 慢病 + readmission penalty stem → **telephone-based follow-up** 永远优先（不是 discharge summary / extend stay / reduce workload）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> 反射没建立 — 看到"减 readmission"自动联想 "communication" → discharge summary；没意识到 readmission 的真正 driver 是 patient-side（不是 provider-side communication）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：（待积累 readmission / discharge planning 题）
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §12 Healthcare Quality 框架（与 §12.7 Variation Reduction 同主题方法论 — 改 outcome 用 patient-level intervention 比 provider-level 更有效）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（CHF readmission high-risk → diuretic monitoring + telemonitoring）/ [[完整笔记/专题笔记/Ethics/Ethics_EOL_Hospice与决策]] §2.9（home health care 也是 readmission reduction tool — 同 patient-side intervention 哲学）
+> - 🌱 TODO：累积 ≥ 3 道 readmission / care transition 题 → 衍生 §12 加 "Care Transition + Readmission Reduction" 子节（电话 outreach / med reconciliation / home health / hospital-to-home programs 完整对照）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q20229
+> - [ ] 默写 Telephone outreach 3 大机制（engagement + early sx + care coordination）
+> - [ ] 默写 Readmission reduction 干预对照表
+> - [ ] 反射训练：CHF + 30 day readmission penalty stem → 0.5 秒选 telephone outreach（不是 discharge summary）
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Hospital Readmission Reduction — Telephone Follow-up（addressing patient loss to follow-up，不是 discharge summary / extend stay）
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-25] Ethics / 减 Unnecessary Imaging Request — Specific Exam + Commentary（address specific concern）(Q22061)
+> ^Q22061
+>
+> ## Stem 模式
+> 53yo 男 lift heavy box → back pain + anxious + "worried I twisted a nerve" + 要 MRI + 体检 normal（无 red flags）→ 哪句话最能减 imaging request？
+>
+> ## 核心概念
+> **减 unnecessary imaging request 最有效 = address patient's specific concern + perform thorough exam + ongoing commentary on what's being assessed + significance of findings**。
+> 本患者 specific concern = **nerve damage** → 正解 A "I will now test your nerves and spinal cord, to confirm both are functioning normally" — 直接 address nerve concern + specific exam commentary。
+>
+> ## 普适规则 — 减 Unnecessary Imaging Request 4 步 SOP ⭐
+>
+> ```
+> Patient 担心严重病 / 要 imaging（无 red flags）
+>     │
+>     ▼
+> ① Patient-centered approach（不 paternalistic 不 dismissive）
+>    建立 patient-physician partnership + 直接 acknowledge specific concern
+>     │
+>     ▼
+> ② Perform detailed physical examination
+>    特别关注 patient 担心的部位 / 系统
+>     │
+>     ▼
+> ③ Provide ongoing commentary during exam ⭐ 核心
+>    "I will now test your nerves and spinal cord, to confirm both are functioning normally"
+>    （边查边解释 — 让 patient 看到具体被评估的 structure + significance of findings）
+>     │
+>     ▼
+> ④ Address specific concern with reassurance based on exam findings
+>    Subsequent discussion 解释为什么 imaging 不必要
+> ```
+>
+> ## 普适规则 — 4 类坏话术（USMLE 钓饵）⭐
+>
+> | 坏话术类型 | 例（Q22061 选项）| 为什么错 |
+> |---|---|---|
+> | **① Lecture about cost / inefficiency** | "MRI is expensive and unnecessary; try exercise + PT instead" | 不 address patient concern；说教式（lecture）→ patient defensive |
+> | **② Vague reassurance**（"exam is normal"）| "Since findings normal, MRI unlikely to show anything meaningful" | Vague + 不 address specific concern；patient 仍担心 |
+> | **③ Dismissive（"common, will pass"）** | "We see this all the time, it will get better in few days" | Dismissive + 不 patient-centered；不 reassure specific concern |
+> | **④ Premature diagnosis without addressing concern** | "Your pain is from tight back muscles, treat with muscle relaxants" | 提供 plausible dx 但**不 address nerve concern** → patient 仍想 imaging 排除 nerve 问题 |
+>
+> ## Low Back Pain Imaging Indications（USMLE 必背 red flags）
+>
+> > [!warning] 仅以下情境 imaging indicated（无 red flag → 不 image）
+> > - **Trauma**（significant — 严重外伤 / fracture suspicion）
+> > - **Cancer history** / unexplained weight loss / night pain
+> > - **Constitutional symptoms**（fever / chills）
+> > - **Neurologic deficits**（progressive weakness / saddle anesthesia / bowel-bladder dysfunction）
+> > - **IV drug use** / immunocompromised（infection risk — epidural abscess）
+> > - **Age > 50 + new symptoms** / **< 18 with concerning features**
+> > - **Pain > 4-6 weeks** despite conservative treatment
+> >
+> > **Acute LBP < 4-6 weeks + 无 red flag** → **不 image**；reassurance + conservative tx + PT
+>
+> ## 易混陷阱（普适）
+> - "Address patient demand by ordering imaging" ❌ — 不 evidence-based；增 cost + downstream interventions
+> - "Vague 'exam is normal' = address concern" ❌ — 需 **specific** 哪部分 normal（特别 patient 担心的）
+> - "Diagnosing dx + offer rx (muscle relaxants) = reassure" ❌ — 不 address 真正 concern（nerve damage），所以 patient 不会停 imaging 想法
+> - "Lecturing about cost = reduce request" ❌ — patient 不在乎 cost；他们在乎自己安全
+> - "Dismissive 'will get better'" ❌ — 不 patient-centered；rapport 损
+>
+> ## 我为什么错
+> - 选了：E "Your pain appears to be caused by tight back muscles and can be treated with muscle relaxants"
+> - 错因：干扰项
+> - 核心陷阱：被"听起来很临床合理"的 plausible dx 钓饵 — 看起来是 patient-centered（给具体 dx + tx），但**没 address patient 的 specific nerve concern**；选 A 才是真正 patient-centered（直接 address 那个 worry）
+>
+> ## Memory Hook
+> **"减 imaging request = address SPECIFIC concern + thorough exam + ONGOING commentary"** — 不是 vague "normal" 不是 dismissive 不是 premature dx
+> 反射钩：patient 担心 X → 选项里有 "test for X with commentary" → 永远优先（不选 lecture cost / vague normal / dismissive / premature dx）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> 把"诊断 + 治疗"误以为 = address concern；实际上 address concern 需要**直接对应那个 worry**（nerve concern → test nerve），不是提供 alternate dx
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q22080]] SMART + MI（同主题 — patient-centered 减 unnecessary intervention）
+> - 📚 主笔记：[[完整笔记/专题笔记/Ethics/Ethics_Communication_Counseling]] §12.6 PCC First Step Subjective Experience（同哲学 — 不 jump to 诊断 / 治疗，先 address patient's subjective experience）+ §12.13 Antibiotic Stewardship（同型 — patient demand unnecessary intervention，counseling 减 request）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/骨科]]（low back pain red flags + imaging indications）
+> - 🌱 TODO：累积 ≥ 3 道"patient demand unnecessary intervention"题 → 衍生 Ethics_Communication_Counseling 加 §12.35 "Patient Demands for Unnecessary Workup — Specific Concern Counseling"（含 imaging / abx / specialist referral / med 4 子场景）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q22061
+> - [ ] 默写减 unnecessary imaging 4 步 SOP + 4 类坏话术
+> - [ ] 默写 Low back pain imaging red flags
+> - [ ] 反射训练：patient 担心 X 要 imaging → 0.5 秒锁 "test X with commentary"（不选 lecture / vague / dismissive / premature dx）
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: 减 Unnecessary Imaging Request — Specific Exam + Commentary on Patient's Specific Concern（不是 vague normal / dismissive / premature dx）
+> 状态:: 🟡
+> 错因:: 干扰项
