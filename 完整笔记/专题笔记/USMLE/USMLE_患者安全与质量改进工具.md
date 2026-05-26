@@ -4,7 +4,7 @@ tags:
   - Ethics
 created: 2026-05-25
 type: 专题笔记
-version: v1.3.3
+version: v1.3.4
 ---
 
 # 患者安全与质量改进工具 — Patient Safety & Quality Improvement Tools
@@ -46,6 +46,7 @@ version: v1.3.3
 >   - [[#13.7 Tall Man Lettering + "Do Not Use" Abbreviations ⭐⭐⭐]]
 >   - [[#13.10 Initial Management + Disclosure SOP + Apologize 措辞 ⭐⭐⭐]]
 >   - [[#13.12 Analysis Frameworks — RCA + Fishbone + 5 Whys + M&M + FMEA 升级 ⭐⭐]]
+>     - [[#13.12.7 Common Cause Analysis ⭐⭐（v1.3.4 新增 — Q22581 锚定）]] ⭐ 4 工具决策树
 >   - [[#13.14 Navigating Stressful Situations in Residency（v1.3.1 增量）⭐]]
 >
 > ### 末尾
@@ -121,6 +122,11 @@ version: v1.3.3
 >
 > ### v1.3.2（2026-05-25）— Clinical Uncertainty 收尾
 > - §13.14.7 Clinical Uncertainty 4 策略（basic principles / review workup / consult / watchful waiting）+ Memory Hook 1 句
+>
+> ### v1.3.4（2026-05-25）— Q22581 错题暴露增量
+> - **§13.12 Analysis Frameworks 升级**：M&M vs RCA vs FMEA 3 工具对照 → **4 工具对照**（新增 **Common Cause Analysis** — retrospective + aggregate 多 RCAs 找跨事件 themes/trends）
+> - **§13.12.7 新增**：Common Cause Analysis 完整 SOP（与 RCA / FMEA / M&M 三者明确边界）
+> - §十一 Memory Hooks 追加 1 句 "4 工具时间方向 + 范围对照"
 >
 > ### v1.3.3（2026-05-25）— UW 做对题 3 增量
 > 4 道 UW 做对题（Q19739 / Q19718 / Q106289 + Q106290）暴露的衍生未覆盖小增量：
@@ -823,6 +829,8 @@ CK 高频背景统计（题干常用 "given that medical errors are a leading ca
 >
 > **"M&M vs RCA vs FMEA：M&M = retrospective peer review 多 case 法律保护；RCA = retrospective 单 event；FMEA = prospective"** ⭐⭐
 >
+> **"4 工具时间方向 + 范围：RCA = retro/单事件；FMEA = pro/未来；Common Cause = retro/多事件 themes；M&M = retro/周期 peer review"** ⭐⭐⭐（v1.3.4 Q22581 锚定）
+>
 > **"AMA 5 要素：Capacity + Severity + Reasons + Alternatives + Documentation"** ⭐⭐
 >
 > **"5 conflict styles: Avoiding / Accommodating / Competing / Compromising / Collaborating（多数情境推荐 Collaborating）"**
@@ -1347,16 +1355,70 @@ CK 题"如何减少 diagnostic error"答案模式：
 - Modern ⭐：跨科 + 关注 **systemic causes**（不 blame 个人）
 - **内容法律保护** — 多数州 inadmissible in malpractice lawsuits ⭐
 
-> [!info] M&M vs RCA vs FMEA 区分（CK 名词配对）
-> | 工具 | 时机 | 范围 |
-> |---|---|---|
-> | **RCA** | Retrospective + 单一 sentinel event | 深挖一个 |
-> | **FMEA** | Prospective + 新流程 / 新单位 | 预防多个 |
-> | **M&M** | Retrospective + 周期性 + 多 case | Peer review 教育 + 系统改进 |
+> [!info] 4 大 Error Analysis Tools 区分（CK 名词配对）⭐⭐⭐（v1.3.4 升级为 4 工具）
+> | 工具 | 时间方向 | 事件数 | 用途 |
+> |---|---|---|---|
+> | **RCA** | **Retrospective** | **单一 sentinel event** | 深挖一个事件的 underlying causes（active + latent factors）|
+> | **FMEA** | **Prospective** | 新流程 / 新单位 | 预防多个 future potential vulnerabilities |
+> | **Common Cause Analysis** ⭐ v1.3.4 | **Retrospective + aggregate** | **多事件**（机构层）| 找跨事件 **common themes + trends**（聚合多 RCAs）|
+> | **M&M** | Retrospective | 周期性 + 多 case | Peer review 教育 + system-level improvements via interdisciplinary discussion |
 
 #### 13.12.6 Process Mapping
 
 **定义**：用 flowchart 把流程可视化 → 找问题节点。FMEA 第 2 步 + RCA 辅助工具。
+
+#### 13.12.7 Common Cause Analysis ⭐⭐（v1.3.4 新增 — Q22581 锚定）
+
+**定义**：**Retrospective + aggregate** analysis — 聚合机构内**多个 errors / 多个 RCAs** 的数据，找跨事件的 **common themes + trends + patterns**。
+
+##### 与 RCA 的关键区别 ⭐
+
+| 维度 | RCA | Common Cause Analysis |
+|---|---|---|
+| **范围** | **单一事件** 深挖 | **多事件聚合** 找模式 |
+| **时机** | 触发：sentinel event 后 | 周期性 / 大量 errors 累积后 |
+| **输出** | 这一个 event 的 underlying causes | 跨事件**共同主题**（如"夜班 fall 高发"/"某药 ADE 集中"）|
+| **行动方向** | Fix this specific event 的 root cause | **System-level / institutional** priorities |
+| **数据来源** | 单事件深度访谈 + 文档 | 多 RCAs 数据库 + incident reports 聚合 |
+
+##### Stem 触发关键词
+
+| Stem 元素 | 暗示 Common Cause Analysis |
+|---|---|
+| "**most common themes + trends**" across multiple errors | Common cause analysis（CK 经典 stem 语言）|
+| "Aggregate data from multiple RCAs" | 同上 |
+| "Identify which problems most frequently lead to errors" | 同上 |
+| "Institution-level safety prioritization" | 同上 |
+
+##### USMLE 高频陷阱
+
+> [!warning] Common cause analysis vs 其他 3 工具区分
+> - **"过去多事件 + 找 themes"** → Common Cause Analysis（不是 RCA — RCA 是单事件）
+> - **"过去单事件 + 找 underlying causes"** → RCA
+> - **"未来 potential vulnerabilities"** → FMEA
+> - **"周期 peer review 多 case + 教育目的"** → M&M
+>
+> Q22581 stem 给"infusion pump errors"已发生**多次** + recommend RCA → 但 RCA primary purpose 仍是**这些 particular events** 的 underlying causes（不是跨所有未来事件的 vulnerabilities — 那是 FMEA；也不是跨所有事件的 themes — 那是 Common cause analysis）。
+
+##### 4 工具决策树 ⭐
+
+```
+错误分析需求
+    │
+    ├─ 事件已发生（retrospective）？
+    │    │
+    │    ├─ 单一 sentinel event → 找具体 underlying causes
+    │    │    → RCA（§13.12.1）
+    │    │
+    │    ├─ 多事件聚合 → 找跨事件 themes / trends
+    │    │    → Common Cause Analysis（§13.12.7）⭐
+    │    │
+    │    └─ 多事件周期复盘 → 跨科 systemic improvements
+    │         → M&M Review（§13.12.5）
+    │
+    └─ 事件未发生（prospective）→ 防 future vulnerabilities
+         → FMEA（§13.12.4）
+```
 
 ### 13.13 Simulation-Based Training（次要考点）
 

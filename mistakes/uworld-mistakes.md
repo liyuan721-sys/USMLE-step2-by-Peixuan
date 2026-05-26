@@ -21497,3 +21497,226 @@
 > 主题:: Swiss Cheese Model（多层 overlapping barrier vs hard stop / automation / PDSA）
 > 状态:: 🟡
 > 错因:: 知识
+
+> [!example]- [2026-05-25] Ethics / RCA 目的 — Identify Underlying Causes of Past Events（不是 future vulnerabilities）(Q22581)
+> ^Q22581
+>
+> ## Stem 模式
+> Infusion pump 编程错误（10 mg/hr 设成 100 mg/hr）+ 机构多次类似事件 → recommend RCA → RCA primary purpose？
+>
+> ## 核心概念
+> **RCA = retrospective + 找已发生事件的 underlying causes**（active + latent factors，包括 system-level vulnerabilities ）。**FMEA = prospective + 找 future potential vulnerabilities**。
+> 两者**时间方向相反**：RCA 看过去，FMEA 看未来。stem 给"已发生 + 多次" → RCA 焦点是"为什么已经发生这些"，不是"未来还会出什么错"。
+>
+> ## 普适规则 — 4 大 Error Analysis Tools（AMBOSS 完整表）⭐⭐⭐
+>
+> | 工具 | 时间方向 | 用途 |
+> |---|---|---|
+> | **RCA** (Root Cause Analysis / event analysis) | **Retrospective** | Identify **all underlying reasons**（systems + personnel）that an error occurred |
+> | **FMEA** (Failure Modes & Effects Analysis) | **Prospective** | Identify **likelihood + potential sources** of system failures **before** error occurs |
+> | **Common cause analysis** | Retrospective + aggregate | Identify **most common themes + trends** present among **multiple errors**（聚合多个 RCA → 全机构 patterns）|
+> | **Morbidity & mortality conference** | Retrospective | Identify **system-level improvements** through **confidential, interdisciplinary, standardized group discussion** |
+>
+> ## 易混陷阱（普适）
+> - "RCA 找 future vulnerabilities" ❌ — 这是 **FMEA** 的角色
+> - "RCA 仅看 personnel 不看 system" ❌ — RCA 兼看 **active**（人）+ **latent**（系统）factors
+> - "Common cause analysis = RCA" ❌ — Common cause 是**跨多事件聚合**找 patterns；RCA 是**单事件**深挖
+> - "M&M 只是讨论 case 不导向改进" ❌ — M&M 现代用法 = 跨科 systemic 改进（不 blame 个人）
+> - "Personnel-focused analysis 等价 RCA" ❌ — Personnel-focused 是 superficial / incomplete；RCA 包括 latent factors
+>
+> ## 我为什么错
+> - 选了：B "All system vulnerabilities that could potentially cause future infusion pump programming errors"
+> - 错因：知识
+> - 核心陷阱：把 "**vulnerabilities**" + "**future**" 当 RCA 关键词 — 实际是 FMEA 的语言。**RCA 看已发生事件的"why"，不是未发生事件的"what could"**。本题 stem "errors have occurred" + "internal investigations reveal" 明显 retrospective → RCA 焦点 = identify reasons for **these particular errors**（C 答案）。
+>
+> ## Memory Hook
+> **"RCA = 过去为什么（identify underlying causes of past events）；FMEA = 未来会怎样（identify potential vulnerabilities before errors）"**
+> 反射钩：stem "errors HAVE occurred" + "investigations reveal" → **RCA → 找 these particular events 的 underlying reasons**（active + latent）。stem "before operations begin" / "new unit" / "anticipate" → **FMEA → potential vulnerabilities**。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> 衍生 §13.12.1 RCA 3 步 + §13.12.4 FMEA 7 步都有，但反射没建立 — 看到 "vulnerabilities" 立刻联想 FMEA 而忽视 stem 已说 "errors have occurred"（retrospective trigger）。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q19553]] FMEA vs Control chart（同主题 — 那题是 prospective FMEA，本题是 retrospective RCA — 时间方向反向）
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]]（§二 QI 工具 + §13.12 Analysis Frameworks）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]
+> - 🌱 TODO：衍生 §13.12 加 **AMBOSS 4 工具完整表**（含 Common cause analysis — 当前衍生只 cover RCA/FMEA/M&M，缺 Common cause analysis 子节）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q22581
+> - [ ] 默写 4 大 error analysis tools 对照（RCA / FMEA / Common cause / M&M）
+> - [ ] 反射训练：看到 "errors HAVE occurred + investigations reveal" → 0.3 秒锁 RCA；看到 "before operations begin" → 0.3 秒锁 FMEA
+> - [ ] 把"vulnerabilities + future"这种 FMEA 语言记牢，避免在 RCA 题里被钓
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: RCA 目的（identify underlying causes of past events，不是 future vulnerabilities — 与 FMEA 时间方向相反）
+> 状态:: 🔴
+> 错因:: 知识
+
+> [!example]- [2026-05-25] Ethics / Home Health Care 适应症（medically stable + homebound + skilled needs，不是住院 / SNF）(Q20431)
+> ^Q20431
+>
+> ## Stem 模式
+> 78yo 女 + mild cognitive impairment + DM + HTN + hypoglycemia 致 fall + 现 medically stable + lives alone + 女儿全职上班 + insulin + 10 药 + apathy（neurologist 新开抗抑郁）→ prevent future falls 最佳干预？
+>
+> ## 核心概念
+> **Home health care** = home-based skilled professional care（nursing / PT/OT / SW）适合 **medically stable for discharge + homebound + needs intermittent monitoring / skilled care**。
+> 本患者 ankle 受伤 → homebound；多药 + insulin → 需 medication management；fall history → 需 home safety assessment + PT。**首选 home health care**，不是 admit hospital（已 stable，住院增 nosocomial risk）也不是 SNF（仅 mild CI + minor injury 不达标准）。
+>
+> ## 普适规则 — Home Health Care 完整框架 ⭐⭐
+>
+> | 维度 | 内容 |
+> |---|---|
+> | **Overview** | Health services by **skilled HCWs**（nursing, PT/OT, SW）**in the home** |
+> | **Uses (3 大触发)** | ① Medically stable for discharge but **homebound + intermittent monitoring** ② **High fall risk**（gait instability / complex medication regimen）③ Skilled nursing needs（wounds / physical rehabilitation） |
+> | **Benefits** | • Promote **mental health, autonomy, independence**<br>• Reduce **hospital readmission + length of stay**（fewer nosocomial infections）<br>• Decrease healthcare spending（less expensive than SNF）|
+>
+> ## 普适规则 — Home Health Care vs Hospital vs SNF 决策树
+>
+> ```
+> Elderly + falls / chronic condition needing care
+>     │
+>     ▼
+> Medically stable？
+>     │
+>     ├─ ❌ 不 stable / acute illness → Hospitalize
+>     │
+>     └─ ✅ Stable
+>            │
+>            ▼
+>        需要 24/7 supervision / 持续 monitoring？
+>            │
+>            ├─ ✅ 是（severe CI / post-stroke rehab / 不能 ADL）→ SNF
+>            │
+>            └─ ❌ 否（mild CI / minor injury / 仍能 ambulate）
+>                   │
+>                   ▼
+>               Home-bound + 需 skilled care？
+>                   │
+>                   ├─ ✅ → **Home health care** ⭐
+>                   │
+>                   └─ ❌ stable + 能出门 → Outpatient follow-up
+> ```
+>
+> ## 易混陷阱（普适）
+> - "Cognitive assessment 必须住院做" ❌ — 可在家或 outpatient 完成；不是 hospital admission indication
+> - "Patient 一个人住 → 必须 SNF" ❌ — 独居不是 SNF 触发；preference + autonomy + 能 ADL = home + home health care
+> - "Daughter 不能陪 → 让 daughter administer meds" ❌ — Daughter 全职工作不现实；home health nurse 可 medication management
+> - "Mild CI = SNF" ❌ — Mild CI + minor injury 不达 SNF 标准；preserve independence 优先
+> - "Adverse events / nosocomial infection 是 admission 主要 risk" ⭐ — 注意 admission 引入 risk，不是 benefit
+>
+> ## 我为什么错
+> - 选了：A Admit hospital for cognitive/functional assessment
+> - 错因：知识
+> - 核心陷阱：误以为 elderly + cognitive concern + fall = 必须住院 work-up；不知道 home health care 这个选项的存在范围 + 触发标准；没意识到 admission 对 medically stable patient 是 **net harm**（nosocomial / delirium / functional decline）
+>
+> ## Memory Hook
+> **"Medically stable + homebound + skilled needs → Home health care 首选"**（保 independence + 减 readmission + 省 cost）
+> 反射钩：elderly 出院 stable 但 needs ongoing skilled care（PT / nurse / wound / med management）→ **home health care** > hospital > SNF
+> SNF 触发：severe CI + 不能 ADL + 持续 monitoring；不是 mild CI + minor injury
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> 没建立"medically stable 患者 admit = harm" 的反射；不熟 home health care 范围（误以为只是 home visits 不解决 fall）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：（待积累 elderly care / discharge planning 题）
+> - 📚 主笔记：[[完整笔记/专题笔记/Ethics/Ethics_EOL_Hospice与决策]]（§二.8 Elderly ESRD conservative care — 同"elderly + medically stable + preserve autonomy + home-based care"哲学）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/外科]]（fall prevention SOP）/ [[完整笔记/Peixuan分科笔记/儿科]] 没关联 / 老年病学（geriatric medicine — home health 是核心）
+> - 🌱 TODO：累积 ≥ 3 道 elderly care / discharge planning 题 → 建 [[完整笔记/专题笔记/Ethics/Ethics_Discharge_Planning速查]]（Hospital / SNF / Home health care / Hospice / Assisted living / Independent living 6 档对照）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q20431
+> - [ ] 默写 Home health care 3 大 Uses（homebound + intermittent + skilled）
+> - [ ] 默写 Home vs SNF vs Hospital 决策树
+> - [ ] 反射训练：elderly stable + fall + 独居 + 多药 → 0.5 秒选 home health care
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Home Health Care 适应症（medically stable + homebound + skilled needs，不是 admit / SNF）
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-25] Ethics / Geriatric Prescribing — Limit Number of Prescribers（减少 prescribers 防 ADE）(Q107185)
+> ^Q107185
+>
+> ## Stem 模式
+> 83yo + 多 specialist + 10+ 药 + COPD / RA / 焦虑 / 抗 HTN / DM / GERD / 慢性背痛 + 女儿带来 refill 多药 → reduce ADE risk 最佳做法？
+>
+> ## 核心概念
+> **Elderly polypharmacy 减 ADE 核心 = limit number of prescribers**（PCP 主管多数 meds，与 specialists 协调）。多 prescribers → reconciliation errors + incomplete documentation + suboptimal inter-provider communication → ADE 风险↑。
+>
+> ## 普适规则 — Elderly Prescribing 完整框架 ⭐⭐
+>
+> ### Major Considerations
+> | 维度 | 内容 |
+> |---|---|
+> | **Increased susceptibility to ADEs** | 多 chronic conditions + age-related pharmacokinetic / pharmacodynamic 改变 |
+> | **Increased polypharmacy risk** | 多 chronic conditions → 多药 → 相互作用 |
+> | **Harms from over- vs under-treatment** | 双向 risk |
+>
+> ### Principles of Prescribing（USMLE 必背 6 条）⭐
+>
+> | # | 原则 |
+> |---|---|
+> | **①** | **Limit the number of prescribers** ⭐⭐⭐（PCP 主管多数药）|
+> | **②** | Review criteria for **geriatric populations**：**Beers criteria** + **START criteria** |
+> | **③** | Consider **time to benefit** for drug（剩余 life expectancy 比 drug benefit 出现时间短 → 不开）|
+> | **④** | Tailor regimen to patient's **goals + life expectancy** |
+> | **⑤** | **Frequently reassess** appropriateness of each medication |
+> | **⑥** | Use **lowest effective dose** + 慎用 anticholinergic / sedative |
+>
+> ### Beers vs START Criteria
+>
+> | 工具 | 内容 |
+> |---|---|
+> | **Beers criteria** | List of medications **potentially inappropriate** or **used with caution** in elderly（如 1st-gen antihistamines / benzodiazepines / TCAs）— "什么药不应该开 / 慎开" |
+> | **START criteria** | Screening Tool to Alert to Right Treatment — 识别 **withholding 该开的药** 的 harm（如 missed indications）— "什么药应该开但没开" |
+>
+> ## 易混陷阱（普适）
+> - "Pill organizer 解决 polypharmacy ADE" ❌ — Pill organizer 帮 complex schedule + cognitive impairment 患者，**不减少 prescribers / 不解决核心问题**；本题患者 medication 自管能力没问题
+> - "Daughter administer meds" ❌ — 同上 + family burden + 不解决 inter-prescriber communication
+> - "Detailed printed instructions" ❌ — Simple instructions 帮 complex regimen 但本题问题是 inter-prescriber coordination 不是 instruction
+> - "Strictly follow clinical trial protocols" ❌ — Clinical trials 多在 younger populations + 不 generalize 到 elderly；elderly 需 individualized（second-line agent / lower dose / etc.）
+> - "Specialist 各管各药最规范" ❌ — 反向：PCP 整合多 specialists' input 是最佳实践
+>
+> ## 我为什么错
+> - 选了：A Have daughter administer with pill organizer
+> - 错因：知识
+> - 核心陷阱：把 "polypharmacy ADE" 误读为 "compliance / schedule 问题"（pill organizer 解决方向）；忽视 stem 强调"多个 specialists 看病" = inter-prescriber coordination 才是核心；不知道 "limit number of prescribers" 是 geriatric prescribing 第一原则
+>
+> ## Memory Hook
+> **"Geriatric polypharmacy ADE 减法核心 = Limit prescribers（PCP 主管 + specialists 协调）"** — 不是 pill organizer 不是 family administer
+> 反射钩：elderly + 多 specialists + 多药 + ADE risk → **PCP prescribe majority + closely work with specialists**
+> Beers = 不该开；START = 该开没开
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> 把"polypharmacy"自动联想"compliance issue"而不是"prescriber coordination issue"；不熟 Beers + START 概念
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：（待积累 geriatric prescribing / polypharmacy 题）
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.8.3 Prescribing Cascade（同 elderly + polypharmacy 主题）+ §13.8.1 Medication Reconciliation
+> - 🏥 跨学科：老年病学 / [[完整笔记/Peixuan分科笔记/psych]]（elderly + anticholinergic / benzo 慎用）
+> - 🌱 TODO：累积 ≥ 3 道 geriatric prescribing 题 → 建 [[完整笔记/专题笔记/Ethics/Ethics_Geriatric_Prescribing速查]]（Beers / START / Limit prescribers / Prescribing cascade / Brown bag review 一站式）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q107185
+> - [ ] 默写 Elderly prescribing 6 原则（特别 ① Limit prescribers）
+> - [ ] 默写 Beers vs START 区分
+> - [ ] 反射训练：elderly + 多 specialists + ADE risk → 0.3 秒选 "PCP prescribe majority"
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Geriatric Prescribing — Limit Number of Prescribers（PCP 主管 + Beers/START criteria）
+> 状态:: 🟡
+> 错因:: 知识
