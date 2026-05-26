@@ -4,7 +4,7 @@ tags:
   - Ethics
 created: 2026-05-25
 type: 专题笔记
-version: v1.3.5
+version: v1.3.8
 ---
 
 # 患者安全与质量改进工具 — Patient Safety & Quality Improvement Tools
@@ -26,6 +26,7 @@ version: v1.3.5
 >   - [[#4.6 Specific Medical Error Types — 6 大具体类型 ⭐⭐（AMBOSS 增量 v1.2）]]
 > - [[#五、Safety Culture]]
 >   - [[#5.3 Patient Safety Epidemiology ⭐⭐（AMBOSS 增量 v1.2）]]
+>   - [[#5.4 Hand Hygiene Compliance Case Study + Just Culture 时序原则 ⭐⭐（v1.3.6 新增 — Q106042 锚定）]] ⭐⭐ 4 reasons + Just culture 时序
 > - [[#六、Communication Tools]]
 >   - [[#6.5 Collaboration and Teamwork 框架 ⭐（AMBOSS 增量 v1.2）]]
 > - [[#七、Disclosure of Medical Errors]]
@@ -38,6 +39,7 @@ version: v1.3.5
 > - [[#十二、Healthcare Quality 框架与质量度量（AMBOSS QI 章节整合 v1.1）⭐]]
 >   - [[#12.2 Donabedian Model — 5 类 Healthcare Quality Measures ⭐⭐⭐]]
 >   - [[#12.7 Variation Reduction Strategy — High Variation 后果 + Data-Driven Feedback 干预 ⭐⭐（v1.3.3 新增 — Q106289 + Q106290 锚定）]]
+>   - [[#12.8 Healthcare Value = Quality / Total Cost Ratio ⭐⭐（v1.3.6 新增 — Q22780 锚定）]] ⭐⭐ Value 公式 + Single metric trap
 > - [[#十三、AMBOSS Patient Safety 深度章节（v1.3 整合）⭐⭐⭐]]
 >   - [[#13.2 Procedural Iatrogenic Harm — 速查表 ⭐⭐⭐]]
 >   - [[#13.3 Risk Factors for Medical Errors — 3 大类 ⭐⭐⭐]]
@@ -124,6 +126,30 @@ version: v1.3.5
 >
 > ### v1.3.2（2026-05-25）— Clinical Uncertainty 收尾
 > - §13.14.7 Clinical Uncertainty 4 策略（basic principles / review workup / consult / watchful waiting）+ Memory Hook 1 句
+>
+> ### v1.3.8（2026-05-25）— Anchoring vs Framing 二次深化（用户追问 "都涉及既往信息怎么区分"）
+> - **§13.4.1.1 修订**：原 Anchoring 例子（GERD case）→ 换成更**纯净** anchoring 例子（**crushing chest pain → 锚定 ACS，无外部 interpretation**）— 之前例子 EHR history 容易让人混淆是不是 framing
+> - **§13.4.1.1 新增**：
+>   - **Raw fact vs Interpretation 判断标准**（关键差异 — Anchoring 源头是 fact，Framing 源头是 interpretation）
+>   - **"去掉 interpretation 测试"**（拿掉后 bias 是否消失？演示同一 stem 在两种修改下的 bias 漂移）
+>   - **3 步判断口诀**（看到既往信息 → 问 3 个问题锁 anchoring or framing）
+>   - **信息源谱系表 9 行**（patient 自述 / EHR fact / triage 客观 / triage 评价 / prior chart "likely" / consult "impression" 等 → 自动对应 bias 类型）
+> - Memory Hook 升级（"事实 → 我自己跳；别人评价 → 我被带"）
+>
+> ### v1.3.7（2026-05-25）— Anchoring vs Framing 深度区分（用户深度提问）
+> - **§13.4.1 扩展**：追加 **Anchoring vs Framing 深度区分子节**
+>   - 4 维对照（bias 源头 / 谁主导 / trigger 词 / 类比）
+>   - **临床真实例子**（同一 chest pain stem 在 anchoring vs framing 下不同走向）
+>   - **4 步反射钩**（CK stem 0.5 秒识别 Framing / Anchoring / Availability / Confirmation）
+>   - **8 道跨题 case 自测表**
+>   - "Anchoring = Premature Closure 同义" + "Framing vs Confirmation 时序"区分
+> - §十一 Memory Hooks 追加 1 句（"自己锚 vs 别人框" 类比）
+>
+> ### v1.3.6（2026-05-25）— 3 道 UW 做对题增量（Q106042 / Q22079 / Q22780）
+> - **§5.4 新增**：Hand Hygiene Compliance Case Study + **Just Culture 时序原则**（"sustained systems reform 是 individual accountability 前提"）+ AMBOSS 4 reasons + solutions 表
+> - **§12.3 HRO 补充**：AMBOSS Systems Approach 4 Components 版（**Culture of safety / Resilience / Team-based vigilance / Comprehensive analysis**）+ **"Zero adverse events ≠ Zero human error"** 反直觉
+> - **§12.8 新增**：Healthcare Value = **Quality / Total Cost Ratio 公式** + Single metric trap（reoperation rate alone / operation time alone 都是 partial info）
+> - §十一 Memory Hooks 追加 3 句
 >
 > ### v1.3.5（2026-05-25）— 3 道 UW 做对题增量（Q18754 / Q18797 / Q18796）
 > - **§13.4.1 新增**：**4 大经典 Cognitive Bias 速查表**（Anchoring / Availability / Confirmation / Framing）+ AMBOSS 临床 example（burning throat → malignancy / dyspnea → PE / opioid withdrawal → bowel obstruction / panic attack → PE）
@@ -508,6 +534,67 @@ CK 高频背景统计（题干常用 "given that medical errors are a leading ca
 > [!info] CK 用法
 > 这个数据用来论证 **patient safety 的 system-level 改造紧迫性** — 题干常以此引出 "which strategy most effectively reduces medical errors?" → 答案永远是**系统改造**（forcing function / standardized protocols / safety culture / incident reporting）— **不是** "individual blame / education"。
 
+### 5.4 Hand Hygiene Compliance Case Study + Just Culture 时序原则 ⭐⭐（v1.3.6 新增 — Q106042 锚定）
+
+#### 反射钩
+
+> [!info]
+> Hand hygiene compliance / 类似 protocol adherence 持续 suboptimal → 反射顺序：**① 先 systems intervention**（sinks placement / training / monitoring / signage / staff input）→ **② 系统改造已 sustained + comprehensive → 仍 suboptimal → 转 individual accountability + organizational culture**（"just culture"）。
+> ❌ 不能跳过 systems 直接 individual punitive（损 morale + culture of fear）。
+
+#### Improving Hand Hygiene Compliance — 4 大 Reasons + Solutions（AMBOSS 完整表）⭐
+
+| Reason for noncompliance | Example solution |
+|---|---|
+| **Ineffective placement of sinks & dispensers** | Place sinks/dispensers **outside each patient's room** |
+| **Lack of accountability** ⭐ | Build hand hygiene into **provider evaluations** |
+| **Lack of safety culture** | Create safety teams + provide **real-time feedback** on compliance |
+| **Forgetfulness or lack of time** | Place **visual cues** (signs / red arrows) near doorways |
+
+#### Hand Hygiene 重要性 — 必背数据
+
+> [!tip] Hand hygiene 临床效益
+> Hand hygiene = **最便宜 + 最有效**的感染控制干预（§8.4）。Reduces incidence of **preventable hospital-associated infections (HAIs) by up to 70%**。
+> 但 despite evidence base，physician adherence **often remains low**（<30% in Q106042 case）。
+
+#### Just Culture 时序原则 ⭐⭐⭐（核心 takeaway）
+
+```
+Step 1: Systems Interventions（First step + 持续 + comprehensive）⭐
+    ├─ Optimizing physical environment（额外 sinks / dispensers）
+    ├─ Ensuring staff knowledge + preparation（training）
+    ├─ Engaging staff in organizational improvement（staff input）
+    ├─ Installing transparent monitoring system（video surveillance）
+    └─ Signage + visual cues
+    │
+    ▼ 已 sustained + comprehensive 但仍 suboptimal
+    │
+Step 2: Strengthen Individual Accountability + Organizational Culture ⭐
+    ├─ Build compliance into provider evaluations
+    ├─ Disciplinary measures for repeated transgressions
+    │      （warning note → remedial training → 更进一步）
+    ├─ Real-time peer feedback
+    └─ 称为 "just culture"
+```
+
+> [!danger] 时序铁律
+> **Step 2（individual accountability）只在 Step 1（sustained, comprehensive systems reform）之后才能启动**。直接跳到 punitive measures = **culture of fear** + 损 reporting + 损 trust。
+
+#### Q106042 4 大反 pattern 分析
+
+| 反 pattern | 例 | 为什么错 |
+|---|---|---|
+| **① Cognitive bias + judgment errors** | A 选项 | Cognitive bias 是 **mental shortcuts in clinical decision-making**（如 diagnostic errors），**不**适用 simple safety action 如 handwashing |
+| **② Knowledge deficiencies + organizational awareness** | C 选项 | Healthcare providers **generally aware** of hand hygiene importance；organization 已 extensive training；不是 knowledge 缺 |
+| **③ Teamwork training + communication** | D 选项 | Teamwork training reduce medical errors，**但 handwashing 是 individual action**，常发生 in team members absent 时；individual accountability 才是核心 |
+| **④ Individual accountability + organizational culture** ✅ 正解（B 选项）| Systems reform 已 sustained，问题在 individual physician adherence 反复 lapse → just culture 时序到位 |
+
+#### 一句话锁
+
+> [!success]
+> 「**Hand hygiene compliance Step 1 = systems；Step 2 = individual accountability（only after sustained systems reform）**」
+> 「**Just culture 不是 culture of fear — 但 systems 都做完仍 suboptimal 时，要 accountability**」
+
 ---
 
 ## 六、Communication Tools
@@ -842,6 +929,16 @@ CK 高频背景统计（题干常用 "given that medical errors are a leading ca
 >
 > **"CDSS = HFE Automation 档；擅长 detect mathematical/dose conversion error；不能 detect patient ID/mislabeling（这些需 dual ID + barcode）"** ⭐⭐（v1.3.5 Q18754）
 >
+> **"Hand hygiene 时序：Step 1 systems（sinks/training/monitoring）→ Step 2 individual accountability（only after sustained systems reform）"** ⭐⭐（v1.3.6 Q106042）
+>
+> **"Systems Approach 4 Components：Culture of safety + Resilience + Team-based vigilance + Comprehensive analysis；Goal = Zero adverse events 不是 Zero human error"** ⭐⭐⭐（v1.3.6 Q22079）
+>
+> **"Value = Quality / Total Cost；单 metric = partial info；Total cost 含 long-term + short-term"** ⭐⭐（v1.3.6 Q22780）
+>
+> **"Anchoring = 自己的锚（medical fixates own initial impression）；Framing = 别人给的画框（external chart/context/wording frames you）；区分 bias 源头是自己还是外部"** ⭐⭐⭐（v1.3.7 用户深度提问）
+>
+> **"Raw fact（diagnosed/history/presents with）→ Anchoring；Interpretation（likely/probably/looks/clearly/consistent with）→ Framing；去掉 interpretation 测试 bias 是否消失"** ⭐⭐⭐（v1.3.8 二次深化）
+>
 > **"AMA 5 要素：Capacity + Severity + Reasons + Alternatives + Documentation"** ⭐⭐
 >
 > **"5 conflict styles: Avoiding / Accommodating / Competing / Compromising / Collaborating（多数情境推荐 Collaborating）"**
@@ -923,6 +1020,52 @@ CK 考点：**名词记忆 + 配对场景**。
 > - "HRO 必须由 attending / senior 拍板" ❌ — Principle 5: 重经验 > 等级，护士经验丰富时听护士
 > - "HRO 反对所有 standardization" ❌ — Principle 2: complexity + standardization 都需要
 > - "HRO = no-blame culture，从不惩戒" ❌ — 同 Just culture，reckless behavior 仍要罚
+
+#### AMBOSS Systems Approach to Error Prevention — 4 Components 补充版 ⭐⭐⭐（v1.3.6 新增 — Q22079 锚定）
+
+AMBOSS 给出的 **Systems Approach 4 Components**（与 §12.3 上面的 HRO 5 Principles 互补，**侧重设计哲学**）：
+
+| Component | 内容 |
+|---|---|
+| **① Culture of safety** | Prioritize **safety-promoting resources** + 强调 reporting + learning（不 blame）|
+| **② Resilience** ⭐⭐ | **Systems design to prevent errors** — 把 human error 视为 inevitable，设计 workflow processes 来 **anticipate + minimize consequences** of error |
+| **③ Team-based vigilance** | **Safety oversight by entire team**（不只 attending）— 每个 member 持续 monitor errors + 可 candidly speak up without retaliation |
+| **④ Comprehensive analysis** | **Avoid simplistic explanations** — 仔细 examine all factors 包括 **latent factors**（system-level vulnerabilities），不只 focus on individual personnel |
+
+#### Examples of Systems Approach
+
+| Example | 内容 |
+|---|---|
+| **Human factors engineering** | Reduce human effort needed for safe action（见 §13.6 HFE 3 档分级）|
+| **Swiss cheese model** | Multiple **overlapping layers** to block errors（"holes" — 见 §3.2）|
+
+#### 核心反直觉 — "Zero Adverse Events ≠ Zero Human Error" ⭐⭐⭐
+
+> [!danger] CK 高频陷阱
+> 直觉以为"safety goal = 让 staff 不犯 error"。**错** —— Human error 在 complex 环境**不可避免**；clear organizational goals of "zero human error" 是**不现实** + **dangerous**：
+> - 不 address latent errors within systems
+> - **促进 culture of fear**（员工怕被 blame → 不 report errors → 学习机会消失）
+>
+> **正确 goal**：**Zero adverse events**（zero harm to patients）— 通过 **systems + processes that REDUCE reliance on human effort**（checklists / standardization / automation / forcing functions / preprogrammed limits）。
+>
+> **Resilience to error 核心**：human error → **systems anticipate + minimize consequences**（例：infusion pump preprogrammed dosing limits 即使 staff 输错 dose 也不出 harm）。
+
+#### Q22079 4 大反 pattern 分析
+
+| 反 pattern | 例 | 为什么错 |
+|---|---|---|
+| **① "Increase reliance on human effort"** | A 选项 | ❌ 反向 — Systems approach 是**减少** human effort reliance，不增加 |
+| **② "Delegate safety to specific group"** | B 选项 | ❌ 违反 team-based vigilance 原则；safety 是**全员**责任 |
+| **③ "Workflow processes minimize consequences"** ✅ | C 正解 | Resilience to error 完美 example — anticipate + minimize harm from inevitable errors |
+| **④ "Event analyses to identify personnel involved"** | D 选项 | ❌ Individual-focused / blame-oriented；违反 Comprehensive Analysis（应 examine system + latent factors）|
+| **⑤ "Zero human errors goal in high-risk settings"** | E 选项 | ❌ 不现实 + dangerous + culture of fear；应 zero adverse events 不是 zero human errors |
+
+#### 一句话锁
+
+> [!success]
+> 「**Systems Approach 4 Components：Culture of safety + Resilience + Team-based vigilance + Comprehensive analysis**」
+> 「**Goal = Zero adverse events（zero harm）不是 Zero human error**」
+> 「**Resilience = design workflow to minimize consequences of inevitable errors**（preprogrammed limits / checklists / automation）」
 
 ### 12.4 Cost-Conscious Care + Antibiotic Stewardship Programs (ASPs)
 
@@ -1041,6 +1184,96 @@ CK 考点：**名词记忆 + 配对场景**。
 > [!success] 一句话锁
 > 「**High variation in well-guidelined conditions = ↑ cost + ↓ quality + ↓ value**」
 > 「**Reduce variation 首选：Data-driven feedback on individual performance vs benchmarks**」（不是 workshop / patient-centered / malpractice insurance）
+
+### 12.8 Healthcare Value = Quality / Total Cost Ratio ⭐⭐（v1.3.6 新增 — Q22780 锚定）
+
+#### 反射钩
+
+> [!info]
+> Stem 给 intervention（如 intraoperative pathology eval / EHR upgrade / new workflow）+ 问 "best assesses whether intervention improves **healthcare value**" → 反射 **value = quality outcomes / total costs ratio** → 必须**对比 quality 与 cost**，不是单测一个 metric。
+> ❌ 单测 reoperation rate（quality only）❌ 单测 operation time（cost indicator only）❌ 仅 short-term costs（不全）
+
+#### Value 核心公式
+
+```
+              Quality
+   Value  =  ─────────
+            Total Cost
+```
+
+#### Value 定义详解 ⭐
+
+| 维度 | 内容 |
+|---|---|
+| **Quality** | Patient outcomes（**mortality / morbidity**）+ Safety（**adverse events**）+ Patient care metrics（**satisfaction / wait times**）|
+| **Costs** | **Total costs**（**not only short-term**）— per patient over the **entire course of treatment**；可从 patient / health care system / society 不同 perspective 评估 |
+| **High-value care** | Optimize quality 同时 minimize total costs + waste（avoiding unnecessary treatment / complications） |
+
+#### Q22780 经典 Stem 解析
+
+**Intraoperative pathology 评估 negative margins** intervention：
+- **Short-term cost ↑**：additional staff + reduced revenue from lower case volumes + extended operation time
+- **Long-term cost ↓**：fewer surgical complications + unnecessary reoperations + frees up OR for other surgeries
+- **Quality ↑**：reduced reoperation rate / improved patient morbidity / patient satisfaction
+- **Value assessment**：comparing **quality outcomes** （reoperation rate）to **total costs** per patient（including long-term offset）
+
+#### 4 大反 pattern（CK 钓饵）⭐
+
+| 反 pattern | 例（Q22780 选项）| 为什么错 |
+|---|---|---|
+| **① Quality-only metric** | "Compare reoperation rates before/after" | Only **quality indicator**；不 capture cost；only **partial** info |
+| **② Cost-only metric** | "Quantify operation time increase" | Only **cost indicator**；不 capture quality；only **partial** info |
+| **③ 单维度 + 不全 cost** | "Patient complication rates vs operation volume" | Operation volume = **short-term cost only**（少 case → 少 revenue），不含 long-term cost benefits |
+| **④ Compare quality outcomes to TOTAL costs ratio** ✅ | B 选项 — 正解 | Quality numerator + total cost denominator + per patient + entire course |
+
+#### Single Metric Trap — Healthcare Quality 评估通用原则 ⭐
+
+> [!danger] 任何单一 metric 都是 partial info
+> - **Reoperation rate alone** = quality 一面，不知 cost
+> - **Operation time alone** = cost 一面，不知 quality
+> - **Length of stay alone** = cost-related，但若 patient discharged too early → ↑ readmissions（quality ↓）→ Balancing measure 需求（见 §12.2 Donabedian）
+> - **Mortality alone** = outcome，但不 capture morbidity / satisfaction / cost
+>
+> **High-value care 评估必须同时看 quality + cost ratio**，不是单 metric 优化。
+
+#### Cost Perspectives — 3 大视角（细节考点）
+
+| Perspective | 关注什么 cost |
+|---|---|
+| **Patient** | Out-of-pocket + lost wages + caregiver burden |
+| **Health care system** | Direct medical costs + administrative overhead |
+| **Society** | Productivity loss + community-level impact |
+
+CK stem 一般用 health care system perspective（hospital / payer）；偶尔考 patient OOP cost。
+
+#### 与既有 §十二 节联动
+
+```
+§12.1 STEEEP（Healthcare quality 6 维）— Quality 定义
+    │
+    ▼
+§12.2 Donabedian（5 类 measures）— Structural / Process / Outcome / Balancing / Composite
+    │
+    ▼
+§12.4 Cost-conscious care — 避免 overutilization
+    │
+    ▼
+§12.5 Benefit-cost analysis（BCA）— $ vs $ monetary terms
+    │
+    ▼
+§12.8 Healthcare Value Formula ⭐ ← 这里
+    │
+        Quality（§12.1 STEEEP / §12.2 Donabedian outcomes）
+    =  ──────────────────────────────────────────────────
+              Total Costs（§12.5 包括 long-term）
+```
+
+#### 一句话锁
+
+> [!success]
+> 「**Value = Quality / Total Cost；单 metric 都是 partial info**」
+> 「**Quality includes outcomes + safety + patient metrics；Cost includes TOTAL（long-term + short-term）**」
+> 「**Long-term cost 常 offset short-term cost**（intraop pathology 例：减 reoperation ↓ long-term cost）」
 
 ---
 
@@ -1192,6 +1425,237 @@ CK 反复考的就这 4 个 — 比 16 大表更高频，配 AMBOSS 临床 examp
 > 「**4 大经典 cognitive bias：Anchoring（第一印象固定）/ Availability（recency 影响）/ Confirmation（只看支持证据）/ Framing（外部信息呈现影响）**」
 > 「**Framing 的关键 trigger = chart 上前医生写的文字 / context 描述影响这次 dx**」
 > 「**Anchoring = premature closure 互换；CK 选项任一可正解**」
+
+#### 13.4.1.1 Anchoring vs Framing — 深度区分（v1.3.7 扩展）⭐⭐⭐
+
+**核心一句话区分**：
+> **Anchoring** = 你**自己**被**最先接触的信息**钉住（自我设锚）
+> **Framing** = 你被**外部信息呈现方式**画进了框（被别人设框）
+>
+> 两者都是 cognitive bias 大家族里"信息出现顺序 / 形式影响判断"的近亲，但 **bias 的源头不同**。
+
+##### 4 维对照表 ⭐
+
+| 维度 | **Anchoring**（锚定）| **Framing**（框架）|
+|---|---|---|
+| **源头** | 信息**早出现** → 你自己锁死 | 信息**怎么被呈现** → 你被诱导 |
+| **谁主导 bias** | **医生自己**当下判断 | **外部**（prior chart / context / 措辞 / 顺序）|
+| **核心问题** | 第一印象**不调整** | 呈现方式**限定**你的 differential |
+| **类比** | 船锚 — 一旦下水就在那 | 画框 — 别人给你画好框，你只在框里看 |
+
+##### Trigger 关键词识别（CK stem 暗号）⭐
+
+| Bias | Stem 触发词 |
+|---|---|
+| **Anchoring** | "**Initial impression**" / "first thought" / "**primary diagnosis at presentation**" / "**fixated on**" / "**premature closure**" |
+| **Framing** | "**Medical record describes**" / "**prior visit chart says**" / "**described as**" / "**previous diagnosis**" / "**context** of information" / "**how presented**" |
+| Availability（区分用）| "**Recently seen** cases" / "during flu season" / "saw similar last week" |
+| Confirmation（区分用）| "Emphasized supporting evidence + dismissed contradictory" |
+
+##### 临床真实例子（虚构 — 避免复制 UW 题干）⭐ v1.3.8 修订（让 Anchoring 例子更纯净，避免与 Framing 混淆）
+
+**🎯 Anchoring 经典 case — 纯净版（无外部 interpretation）**
+
+> 30 岁男 ER，**无既往病史 / 无 prior chart / 无 triage note**。主诉首句："**crushing** chest pain"。
+> 医生听到 "crushing" 立刻**自己**锚定 ACS → order troponin × 3 + serial EKG。
+> 后续问 history 发现：刚提起 50 lb 重物 + pain on flexion + **reproducible on palpation** + EKG normal × 3 + troponin normal × 3。
+> 医生**仍坚持 ACS**（"也许是 unstable angina"），不愿调整。错过 musculoskeletal dx → patient 长期 unnecessary cardiac workup。
+
+**为什么是 Anchoring（不是 Framing）**：
+- **没有任何外部人**对当前发作做评价 — EHR 空白，没 prior chart "likely X"，没 triage note 描述
+- 锚的来源 = **patient 自己说的一个词** ("crushing") — raw fact
+- 医生**自己**做了 "crushing = ACS" 的 mental shortcut → 后续 raw data（normal troponin / EKG / reproducible pain）都被 "ACS lens" filter
+- **Bias 完全发生在医生脑内**，外部信息源是 raw fact
+
+**🎯 Framing 经典 case — 纯净版（外部 interpretation 引导）**
+
+> 同一 30 岁男 ER，**无既往病史**。
+> **Triage nurse 写 note**："Chest pain — patient **looks anxious**, **requesting Ativan**, **clearly hyperventilating**，**probably anxiety attack**"。
+> 医生**还没见 patient**，先看 triage note → 心里已被 frame 成 "panic attack 患者"。
+> 走进诊室 → over-emphasize anxiety signs，dismiss cardiac complaint → 漏 MI。
+
+**为什么是 Framing（不是 Anchoring）**：
+- 关键不是"chest pain"（raw fact），而是 triage nurse 的**评价 / 推断词**："**looks** anxious / **probably** anxiety attack / **clearly** hyperventilating"
+- 这些词是 **interpretation by 外部第三方**（nurse 对当前事件的解读）
+- 医生 bias 源头 = **被 nurse 的措辞引导**，不是自己跳的
+- **拿掉 nurse 的评价词**（只留 "chest pain, requesting medication" raw fact）→ 医生可能根本不会 frame 成 panic → **bias 消失** = Framing 的特征
+
+##### Q18796 vs Q18797 锚定对比 ⭐
+
+| 题 | Stem 关键描述 | Bias |
+|---|---|---|
+| **Q18796** | 女性 60-70 + 胸痛 + "exacerbated by mental stress" → 医生看到 stem 后**自己**抓住 "mental stress" 当核心 → 漏 MI | **Anchoring**（医生自己锚定 stress signal）|
+| **Q18797** | **Prior visit chart says** "given history of anxiety, current symptoms likely represent panic attack" → 这次医生看了 chart 后被这句话 frame → 又 dx panic attack | **Framing**（被 prior chart 文字 frame）|
+
+**关键差异点**：
+- Q18796 **没有"前医生 chart"**作为 frame source — patient 自己就这么描述（医生**自己**对这个描述固定）
+- Q18797 明确有**"prior visit chart 文字"** — 这是**外部信息**通过特定呈现方式影响这次的诊断
+
+##### 容易让人混淆的细节 ⚠️
+
+**Q：「前医生写的 dx」是 anchoring 还是 framing？**
+
+> 看医生这次的认知 path：
+>
+> 如果医生**先看了 prior chart** → 心里有预设 → 再见 patient → 评估时被这预设引导
+>   → **Framing**（被外部 chart 文字框）
+>
+> 如果医生**先见 patient** → 听到主诉后**自己**形成 initial impression（即使主诉里有 prior dx hint）→ 锁死这个 impression
+>   → **Anchoring**（自我设锚）
+
+**Q：Anchoring 和 Premature Closure 是同一个吗？**
+
+> **几乎是**。CK 把两者**当同义词**用：
+> - **Anchoring** = fixating on initial impression（强调"锚的存在"）
+> - **Premature closure / Search satisficing** = 接受第一个 dx 就停（强调"停止 search"）
+>
+> 同一个现象的两个表述。CK 选项里**两个都可能是正解**。
+
+**Q：Framing 和 Confirmation 怎么区分？**
+
+| | Framing | Confirmation |
+|---|---|---|
+| **时序** | **诊断前** — 呈现方式影响 frame | **诊断后** — 已选 dx + 只收集支持证据 |
+| **机制** | 外部信息**限定 differential 范围** | 内部偏好**过滤后续证据** |
+| **可同时存在** | Framing 早期 → Confirmation 后期 | 是的，两者常组合 |
+
+##### 4 步反射钩（CK stem 0.5 秒识别）⭐⭐
+
+```
+看到 stem 描述 cognitive bias 题 → 扫 4 个 trigger：
+
+① "Medical record describes X" / "Prior chart says X" / "Described as X"
+   → Framing ⭐
+   （外部呈现方式 frame 你）
+
+② "Initial impression on Y" / "First thought" / "Fixated on Y"
+   → Anchoring ⭐
+   （自己的第一锚）
+
+③ "Recent / memorable / flu season / saw similar"
+   → Availability
+   （recency / 鲜明案例 sway）
+
+④ "Emphasized supporting + dismissed contradictory after dx"
+   → Confirmation
+   （选好 dx 后只看支持）
+```
+
+##### 跨题 case 自测表（8 题）⭐
+
+| # | Stem 片段 | Bias |
+|---|---|---|
+| 1 | "ED note from last week reads 'likely viral URI'" → 这次也 dx URI | **Framing** |
+| 2 | 医生看 patient 第一眼觉得"看起来 sick"→ 走 sepsis pathway 不调整 | **Anchoring** |
+| 3 | 上个月 ICU 3 个 PE 病人 → 这周胸痛都先想 PE | **Availability** |
+| 4 | Dx PE 后 only look for confirming features，忽视 alternative | **Confirmation** |
+| 5 | Resident 把 case 描述成 "drug-seeking" → 你按 SUD frame 评估 | **Framing** |
+| 6 | Triage 写 "presents like flu" → 你 frame 为 flu | **Framing** |
+| 7 | 病人主诉首句"crushing chest pain" → 你立即 fixate ACS 不去考虑 PE / 主动脉夹层 | **Anchoring** |
+| 8 | 看到 EKG 第一个 ST change → 锁死 STEMI 不考虑 BER / pericarditis | **Anchoring** |
+
+##### Memory Hook（一句话锁）⭐
+
+> **Anchoring** = 「**我自己**的锚」（医生**自己**第一念头钉死）
+> **Framing** = 「**别人给的画框**」（外部 chart / context / 措辞**框住**你的看法）
+> 两者都是"早期信息固定后续判断" — 区别在 bias **源头**（自己 vs 外部）
+
+#### 13.4.1.2 Raw Fact vs Interpretation — 判断标准 ⭐⭐⭐（v1.3.8 新增 — 用户追问"都涉及既往信息怎么区分"）
+
+> [!danger] 用户经典疑问
+> "EHR 显示既往 GERD diagnosis" 和 "Triage nurse 写 patient looks anxious" — **不都是既往/别人的信息**吗？区别在哪？
+>
+> **关键差异 = 信息是 RAW FACT 还是 INTERPRETATION**：
+
+##### 核心判断标准表 ⭐
+
+| 信息类型 | 性质 | 触发的 bias |
+|---|---|---|
+| **Raw fact / history**（既往 dx 事实 / 主诉首句 / 第一个体征 / 第一个 lab / triage 客观数据）| 客观事实陈述 | **医生自己**对此 fact 形成 mental shortcut → **Anchoring** |
+| **Interpretation / characterization**（别人对**当前发作**的主观解读 / 评价 / 推断词）| 带视角的呈现 | 医生被此**呈现方式**引导 → **Framing** |
+
+##### 关键反 pattern 词汇区分 ⭐⭐
+
+| 词汇 | 性质 | bias |
+|---|---|---|
+| "diagnosed with X" / "history of X" / "BP 140/90" / "patient reports Y" | **Raw fact** | Anchoring（医生 react）|
+| "**looks** anxious" / "**probably** Y" / "**likely** represents Z" / "**clearly** X" / "**consistent with** A" / "**impression**: B" | **Interpretation** | **Framing** |
+
+> [!warning] 关键 trigger 词识别
+> Framing 信号词永远是**带视角 / 推断 / 评价**的：likely / probably / looks / clearly / consistent with / impression / appears to be / suggests
+> Anchoring 信号词永远是**客观陈述**：diagnosed / reports / presents with / history of / + 后面跟具体 fact
+
+##### "去掉 Interpretation 测试" — 演示 bias 漂移 ⭐
+
+**测试方法**：把 stem 里的 interpretation 词拿掉，看 bias 是否消失。
+
+| 原 stem 描述 | 拿掉 interpretation 后 | bias 类型 |
+|---|---|---|
+| "EHR: **GERD diagnosed 2 years ago**"<br>医生：probably GERD again | **不变** — 医生仍可基于 raw history fact 自己锚定 | **Anchoring**（不依赖 interpretation）|
+| "Triage: chest pain, **looks anxious**, **probably panic**"<br>医生 frame 为 panic | "Triage: chest pain"<br>→ 医生不会被引导成 panic | **Framing**（依赖 interpretation）|
+
+**铁律**：
+- **拿掉 interpretation 后 bias 不消失** → Anchoring（信息源是 raw fact）
+- **拿掉 interpretation 后 bias 消失** → Framing（信息源是 interpretation）
+
+##### 3 步判断口诀 ⭐⭐
+
+```
+看到 stem 出现"既往信息" → 问 3 个问题：
+
+① 这个信息是 RAW FACT（既往 dx 事实 / 既往用药 / patient 自述症状）
+   还是 INTERPRETATION（"likely X" / "looks anxious" / "presents like Y" / 主观评价词）？
+   │
+   ├─ Raw fact → 医生自己跳 mental shortcut → Anchoring
+   │
+   └─ Interpretation by 外部人 → 被描述方式 frame → Framing
+
+② 医生的 bias 路径是：
+   │
+   ├─ "我自己看到 X fact → 跳到 dx Y" → Anchoring
+   │
+   └─ "别人写 dx 像 Y → 我也朝 Y 看" → Framing
+
+③ 拿掉 interpretation 后 bias 是否消失？
+   │
+   ├─ 不消失（仍可能锚定 raw fact）→ Anchoring 占主导
+   │
+   └─ 消失（没有 interpretation 就不会被引导）→ Framing 占主导
+```
+
+##### 信息源谱系表 — 9 种 CK stem 信息源自动对应 ⭐⭐⭐
+
+| 信息源 | 性质 | 倾向触发 |
+|---|---|---|
+| Patient 自述主诉首句（"crushing chest pain"）| Raw fact（patient 自己说）| **Anchoring** |
+| EHR "X diagnosed Y years ago" / "currently on Z med" | Raw history fact | **Anchoring** |
+| Vital signs 第一个异常值 | Raw data | **Anchoring** |
+| 第一个 EKG finding / 第一个 lab | Raw data | **Anchoring** |
+| Triage note **客观描述**（"chest pain, BP 140/90, HR 95"）| Raw data | **Anchoring**（医生自己 react）|
+| Triage note **带评价**（"**looks** anxious / **drug-seeking** / **clearly** panic"）⭐ | **Interpretation** | **Framing** |
+| Prior chart 写 "**likely** X" / "**probably** Y" / "**consistent with** Z" ⭐ | **Interpretation** | **Framing** |
+| Resident 口头汇报 "I think this is **classic** PE" | **Interpretation** | **Framing** |
+| Consult note "**impression**: panic disorder" | **Interpretation** | **Framing** |
+
+##### 重看 Q18796 vs Q18797（用新标准）
+
+| 题 | 信息源类型 | bias |
+|---|---|---|
+| **Q18796** | Patient 自述"chest pressure **exacerbated by mental stress**"（raw fact — patient 描述自己症状）| **Anchoring**（医生自己抓 "mental stress" 当 anchor）|
+| **Q18797** | Prior chart "**Given history of anxiety, current symptoms likely represent panic attack**" — 关键是 "**likely represent**"（interpretation 词 — 前医生对当前发作的诊断推断）| **Framing**（被 prior chart 的诊断推断 frame）|
+
+**关键差异**：
+- Q18796 stem 给的是 **patient 自己症状描述**（raw fact "exacerbated by mental stress"），**没有别人对此发作的评价词** → Anchoring
+- Q18797 stem 给的是 **前医生对当前症状的诊断推断**（interpretation "likely represent panic"）→ Framing
+
+##### Memory Hook 升级版 ⭐
+
+> **Anchoring** = "**事实 → 我自己跳过去**"
+> **Framing** = "**别人的评价 → 我被带过去**"
+>
+> **关键 trigger 词**：
+> - **Raw fact** 用客观陈述（"diagnosed X" / "presents with Y" / "BP is Z" / "history of X"）→ Anchoring
+> - **Interpretation** 用评价 / 推断词（"**likely** / **probably** / **looks** / **clearly** / **consistent with** / **impression** / **appears**"）→ Framing
 
 ### 13.5 Diagnostic Error Prevention — Cognitive Interventions ⭐
 
