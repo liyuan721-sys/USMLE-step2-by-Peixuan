@@ -127,6 +127,21 @@ version: v1.3.9
 > ### v1.3.2（2026-05-25）— Clinical Uncertainty 收尾
 > - §13.14.7 Clinical Uncertainty 4 策略（basic principles / review workup / consult / watchful waiting）+ Memory Hook 1 句
 >
+> ### v1.3.10（2026-05-26）— Anchoring vs Framing 三次深化（Q106764 暴露"chart 纯事实 = raw data"误解）
+> 
+> **背景**：用户做对 Q106764（chart 描述 3 月反复 ED visits + IV opioid + 正常 workup → framing bias）但事后追问"为什么不是 anchoring，医生看 chart 不就是看 raw data 吗？" → 暴露 v1.3.8 信息源谱系表的 gap —— 之前只标了"带 likely/probably 评价词的 chart = framing"，但**chart 纯事实组合**这一类没单独列。
+> 
+> **§13.4.1.1 信息源谱系表新增第 10 行**：
+> - "Chart 罗列纯事实组合（visits 次数 + 处置 + 检查结果）无 interpretation 词" → **隐式 narrative frame** → **Framing**（Q106764 type）
+> 
+> **§13.4.1.1 新增"高频错点"danger callout**：
+> - 校准核心句："Raw data = patient 自己说话 + 客观仪器；Chart = 前医生 curation（选哪些事实记 + 怎么排时序 = 隐式 frame）"
+> - 升级判定规则：**信息源 = chart / 前医生 / 同事汇报 / consult note → 无论有无 interpretation 词都倾向 Framing**
+> - Q18797 vs Q106764 横向区分（显式 interpretation 词 vs 纯事实聚合，**都是 Framing**）
+> - 默写句："信息从 patient 嘴里出 = raw → anchoring；信息从 chart 翻出来 = curated → framing，不管字面有没有'likely'"
+> 
+> **同步动作**：mistakes/uworld-mistakes.md Q106764 卡 🟢 → 🟡，错因 — → 知识，追加核心卡点说明
+>
 > ### v1.3.9（2026-05-26）— 5-26 浩斯宾批量增量（海浪海啸类比 + 5-26 8 张做对卡锚定）
 >
 > **§2.0 海浪 vs 海啸类比（用户视觉 hook）**：
@@ -1758,7 +1773,7 @@ CK 反复考的就这 4 个 — 比 16 大表更高频，配 AMBOSS 临床 examp
    └─ 消失（没有 interpretation 就不会被引导）→ Framing 占主导
 ```
 
-##### 信息源谱系表 — 9 种 CK stem 信息源自动对应 ⭐⭐⭐
+##### 信息源谱系表 — 10 种 CK stem 信息源自动对应 ⭐⭐⭐（v1.3.10 加 chart 纯事实聚合行）
 
 | 信息源 | 性质 | 倾向触发 |
 |---|---|---|
@@ -1771,6 +1786,26 @@ CK 反复考的就这 4 个 — 比 16 大表更高频，配 AMBOSS 临床 examp
 | Prior chart 写 "**likely** X" / "**probably** Y" / "**consistent with** Z" ⭐ | **Interpretation** | **Framing** |
 | Resident 口头汇报 "I think this is **classic** PE" | **Interpretation** | **Framing** |
 | Consult note "**impression**: panic disorder" | **Interpretation** | **Framing** |
+| **Chart 罗列纯事实组合**（"3 次 ED visits / IV opioid 给过 / workup 阴性 × 3"）⭐⭐ 无 interpretation 词 | **隐式 narrative frame**（事实选择 + 排序本身 = 前医生的 implicit interpretation）| **Framing**（Q106764 type）|
+
+> [!danger] 高频错点 ⚠️（v1.3.10 — Q106764 追加，用户暴露认知错误）
+> **"Chart 里都是事实 → 所以是 raw data → 所以是 anchoring"** —— **错**。
+>
+> **关键认知校准**：Chart 即使**全是客观事实**（无 likely/probably/looks 评价词），也**不是 raw data**：
+> - **Raw data** = patient 自己说话 + 客观检查结果（**未经 curation**）
+> - **Chart** = 前医生**选择了哪些事实记录** + **怎么排时序** + **省略了哪些细节** —— 这套**事实策划**（curation）本身就是 frame
+>
+> **判定规则**（v1.3.10 升级）：
+> - **信息源是 patient / 客观仪器** → Raw data → Anchoring 可能
+> - **信息源是 chart / 前医生 / 同事汇报 / consult note** → **无论有没有 interpretation 词**，本质都是 curated narrative → **Framing 倾向**
+>
+> **Q106764 反射钩**：见到 "physician reviews **chart prior to seeing patient**" + chart 内容（不管多客观）→ **0.5 秒锁 Framing**（信息源 = chart 这件事本身就够了，不必找 interpretation 词）
+>
+> **Q18797 vs Q106764 区分**：
+> - Q18797 = chart 有**显式 interpretation 词** "likely panic" → Framing（信息源 + 评价词双 trigger）
+> - Q106764 = chart 只有**事实组合** "3 次 visits + opioid + 正常 workup" → 仍 Framing（信息源 trigger 单独够，事实聚合 = 隐式 frame）
+>
+> 默写句：**"信息从 patient 嘴里出 = raw → anchoring；信息从 chart 翻出来 = curated → framing，不管字面有没有'likely'"** ⭐⭐⭐
 
 ##### 重看 Q18796 vs Q18797（用新标准）
 

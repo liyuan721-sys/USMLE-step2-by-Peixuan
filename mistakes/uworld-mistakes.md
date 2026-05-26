@@ -22636,10 +22636,12 @@
 > | D | Selection bias | ❌ Selection bias = 研究 participant 选择偏差，**不是 cognitive bias** |
 > | E | Triage cueing | ❌ Triage cueing = 被 triage category 影响（low acuity → 漏严重病）；本题 stem **没给 triage label**，是 chart 给的 frame |
 >
-> ## 我为什么对 ✓
+> ## 我为什么"看着对其实没真会"⚠️（2026-05-26 追加）
 > - 选了：**C. Framing bias** ✓
-> - 自信做对 — 反射建立中
-> - 关键反射：见到 "**reviews chart prior to seeing patient** + chart documents prior visits + narrows DDx based on chart" → 0.5 秒锁 framing bias（"chart frame" 带的，不是自己锚）
+> - **但**：5 选项里**没有 anchoring** → 没给犯错机会
+> - 事后被追问"为什么不是 anchoring"时，我反射答的是 **"chart 不是 raw data 吗？"** → 暴露了**根本卡点**：仍把 chart 当成 raw data 信息源（实际 chart 是**前医生的 interpretation / narrative**，不是 raw fact）
+> - 真实反射强度：**未建立** —— 如果题里同时给 anchoring + framing 两个选项，我会**纠结**
+> - 关键反射目标：见到 "**reviews chart prior to seeing patient**" + chart documents prior visits + narrows DDx based on chart → 0.5 秒锁 framing（chart = 别人解读的 frame，不是 raw data）
 >
 > ## Memory Hook
 > - **"事实 → 我自己跳 = Anchoring；别人评价 / 解读 → 我被带 = Framing"** ⭐
@@ -22655,6 +22657,12 @@
 > ## 🤔 我的提问 / 卡点
 > - 卡点（轻微）：B confirmation bias 看着很像 — 学到 confirmation 在 examination 阶段强化（**已经见过 patient + workup 后**），framing 在**见 patient 之前**就由 chart 带歪 → 时序区分关键
 > - 学到：Item 1 (Q106764) framing vs Item 2 (Q106765) defensive medicine — linked vignette 但**独立考点**；不能 reflex-match
+> - **卡点（核心，2026-05-26 追加）⚠️**：事后追问"为什么不是 anchoring"时，我答的是"医生看 chart 不就是看 raw data 吗？" → 暴露**根本认知错误**：把 chart 当 raw data 信息源
+>   - 正解：**chart = 前医生对 raw data 的解读 / narrative**，不是赤裸 fact
+>   - 一句话区分：**Raw data 是 patient 自己说的话 + 客观检查结果；chart 是别人对这些的总结 + 推断**
+>   - 校准锚点：**Raw fact**（"crushing chest pain" / "diagnosed with X" / 客观 troponin 值）→ Anchoring；**Interpretation**（"likely" / "probably" / "consistent with" / prior chart documentation）→ Framing
+>   - 主笔记 §13.4.1.1 v1.3.8 的"去掉 interpretation 测试" + "信息源谱系表 9 行" 是这道题的真正主战场 → **需要默写**
+> - **状态降级理由**：选项没给 anchoring 是这次做对的真实原因，不是反射建立 → 🟢 → 🟡，错因 — → 知识
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
@@ -22668,13 +22676,15 @@
 > - [ ] 默写 4 大 cognitive bias 速查表 + 各自经典临床例
 > - [ ] 默写 Anchoring vs Framing 区分（信息源 raw fact vs interpretation）
 > - [ ] 反射训练：见 "**reviews chart** prior to seeing patient" → 0.5 秒锁 framing；见 "**crushing chest pain**" 第一反应 ACS → anchoring
+> - [ ] **追加（2026-05-26）：默写主笔记 §13.4.1.1 "去掉 interpretation 测试" + "信息源谱系表 9 行"** ⚠️
+> - [ ] **3 天内自测**：见 chart 字眼必须 0.5 秒答出 "chart 是 interpretation 不是 raw data" → 此反射建立前不要升 🟢
 >
 > ---
 >
 > 学科:: Ethics
 > 主题:: Framing bias — 受 contextual / prior info (chart documentation) 过度影响形成 incomplete differential（vs Anchoring 自己锚 raw fact / vs Confirmation 强化已 examined dx / vs Availability recall-driven）/ Anchoring vs Framing 关键区分（信息源 raw fact vs interpretation；自己锚 vs 别人带）/ 4 大经典 cognitive bias 速查 / Linked vignette Item 1 ≠ Item 2 警示（与 Q106765 配对）/ Selection bias 不是 cognitive bias
-> 状态:: 🟢 ✅ 做对（cognitive bias 反射建立中）
-> 错因:: —
+> 状态:: 🟡（2026-05-26 降级：选项无 anchoring 才做对，事后暴露"chart = raw data"误解，反射未建立）
+> 错因:: 知识
 
 > [!example]- [2026-05-26] Ethics / Patient Safety — Hand hygiene 持续 suboptimal + systems 已 done → Individual accountability + Just culture（时序原则）(Q106042) ✓ 做对
 > ^Q106042
