@@ -4,7 +4,7 @@ tags:
   - Ethics
 created: 2026-05-25
 type: 专题笔记
-version: v1.3.8
+version: v1.3.9
 ---
 
 # 患者安全与质量改进工具 — Patient Safety & Quality Improvement Tools
@@ -127,6 +127,10 @@ version: v1.3.8
 > ### v1.3.2（2026-05-25）— Clinical Uncertainty 收尾
 > - §13.14.7 Clinical Uncertainty 4 策略（basic principles / review workup / consult / watchful waiting）+ Memory Hook 1 句
 >
+> ### v1.3.9（2026-05-26）— Common vs Special Cause 海浪/海啸类比（用户提供视觉 hook）
+> - **§2.0 新增**：海浪 vs 海啸类比 callout — 用 ASCII tree + 一句话 + Control chart 读图反射钩，把抽象的 "inherent variation vs sporadic event" 概念视觉化（海浪日日有 → 防波堤 = standardization；海啸罕见但致命 → 查震源 = RCA）
+> - **§十一 Memory Hooks 追加 1 句**："海浪日日有 → 防波堤（standardize）；海啸罕见但致命 → 查震源（RCA）"
+>
 > ### v1.3.8（2026-05-25）— Anchoring vs Framing 二次深化（用户追问 "都涉及既往信息怎么区分"）
 > - **§13.4.1.1 修订**：原 Anchoring 例子（GERD case）→ 换成更**纯净** anchoring 例子（**crushing chest pain → 锚定 ACS，无外部 interpretation**）— 之前例子 EHR history 容易让人混淆是不是 framing
 > - **§13.4.1.1 新增**：
@@ -211,6 +215,28 @@ version: v1.3.8
 > - "Special cause = inherent" ❌ — Special 是**非 inherent**，可追根可解决
 > - "Common cause 用 RCA" ❌ — Common cause **不能** trace 到 root cause；用 standardization
 > - "Standardization 解决 special cause" ❌ — Standardization 针对 **common** cause
+
+> [!success] 海浪 vs 海啸类比 ⭐（视觉记忆 hook — v1.3.9 新增）
+> ```
+> Common Cause = 海浪 🌊
+> ├─ 总在波动（小幅度，~2-4% 背景波动）
+> ├─ 无法预测具体哪一天高 / 哪一天低
+> ├─ 没有 single root cause（多因素叠加 → "天然 noise"）
+> └─ 管理：建防波堤（**Standardization** — protocols / checklists / clinical pathways）
+>           ※ 不是消除波动，是把波动控制在可接受范围内
+>
+> Special Cause = 海啸 🌊🌊🌊
+> ├─ 突然出现（远超基线，~12% 异常 spike）
+> ├─ 有明确 root cause（地震 = root cause；wrong-patient ID / 流程被打断 / equipment failure）
+> ├─ Sporadic + unpredictable + 可识别可解决
+> └─ 管理：找到震源并预警（**RCA + 系统改造** — 消除该 cause）
+> ```
+>
+> **一句话**：海浪日日有 → 建防波堤（standardize）；海啸罕见但致命 → 查震源（RCA）。
+>
+> **Control chart 读图反射**：
+> - 所有点在 control limits 内波动 = 海浪 = common cause = stable process（用 standardization 优化整体水平）
+> - **出 control limits 的点 / 7+ 点同侧 / 趋势** = 海啸 = special cause = **trigger RCA**
 
 ### 2.1 四大核心工具对比
 
@@ -860,6 +886,8 @@ Step 2: Strengthen Individual Accountability + Organizational Culture ⭐
 > **"BCA：ratio > 1 或 net benefit > 0 才实施"** — Benefit-cost analysis 决策铁律
 >
 > **"Common cause = inherent + 不可 trace → standardization；Special cause = sporadic + 可 trace → RCA"** — Variation 区分 ⭐⭐⭐
+>
+> **"海浪日日有 → 防波堤（standardize）；海啸罕见但致命 → 查震源（RCA）"** ⭐ — Common vs Special cause 视觉记忆 hook（v1.3.9 新增）
 >
 > **"SMART = Specific + Measurable + Assignable + Realistic + Timely"** — PDSA Plan stage 必背
 >
