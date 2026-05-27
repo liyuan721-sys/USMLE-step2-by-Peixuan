@@ -22718,6 +22718,44 @@
 >     └─ 称为 "just culture"
 > ```
 >
+> ### 3 种医院文化 Spectrum ⭐⭐（2026-05-26 追加 — 为什么这个时序）
+>
+> ```
+> Blame Culture          Just Culture ✅          No-Blame Culture
+> （恐惧文化）           （平衡文化）             （无责文化）
+>    │                        │                        │
+> 出错就罚人            系统 + 个人 双层管           错了也不查
+>    ↓                        ↓                        ↓
+> 医护藏错不报          系统改完后再问个人责任       反复同样错误
+> 医疗安全反而下降      患者安全持续提升              没改进动力
+> ```
+>
+> **核心理念**：错误大部分是 **system design** 的问题，少部分才是 **individual responsibility**。所以处理顺序必须**系统先 → 个人后**。
+>
+> ### 为什么必须 Systems First（公平性逻辑）⭐⭐
+>
+> **想象 sink 装在房间深处** → HCP 看完病人来不及洗手就走：
+> - 这是 **system design 错**，不是医护"懒"
+> - 上来就罚人 = 不公平 + 医护藏错不报 + culture of fear ❌
+> - 正确做法：先装好门外 dispenser + 监控 + 培训 → **然后**才有底气说"系统都给你修好了，你还不洗 = 个人责任问题" ✅
+>
+> ### Just Culture 公平在 4 处（为什么叫 "Just"）⭐
+>
+> | 公平在哪 | 具体表现 |
+> |---|---|
+> | **对系统公平** | 先认系统责任（修 sink / 装监控 / 培训）— 不甩锅给个人 |
+> | **对个人公平** | 系统都给你修好了，你还不做 = 你的责任，**这时候问责才合理** |
+> | **对患者公平** | 错误能被上报 + 调查 + 改进，安全持续提升 |
+> | **对错误态度公平** | Honest mistake（一时疏忽）≠ Reckless behavior（明知故犯）— **区别对待** |
+>
+> ### Step 2 那 3 个 sub-bullet 详解（具体怎么做 individual accountability）⭐
+>
+> | 措施 | 具体含义 |
+> |---|---|
+> | **Build compliance into provider evaluations** | 把"洗手合规率"作为**绩效考核硬指标** → 跟年终奖、晋升挂钩；之前只是道德要求，现在变成可见责任 |
+> | **Disciplinary measures（阶梯式）** | 第 1 次没洗手 → Warning（口头警告）→ 还不改 → Remedial training（补训）→ 还不改 → 书面警告 / 暂停 / 委员会。**从轻到重 + 给改正机会**，不是一上来重罚 |
+> | **Real-time peer feedback** | 护士看到医生没洗手 → 当场提醒。需要 **psychologically safe environment** — 低级别员工敢提醒高级别（hierarchies 是 #1 barrier） |
+>
 > ### Hand Hygiene Noncompliance 4 大原因 + Solutions（AMBOSS table）⭐
 >
 > | Reason | Solution |
@@ -22730,6 +22768,17 @@
 > > [!tip] Hand hygiene 必背数据
 > > 最便宜 + 最有效感染控制干预 — reduces HAI **by up to 70%**；但 physician adherence often < 30%（despite 强 evidence base）
 >
+> ### Stem 线索 4 条 — 哪些关键词指向"转 individual"⭐⭐（2026-05-26 追加）
+>
+> | Stem 线索 | 暗示什么 |
+> |---|---|
+> | "**implemented systems interventions** (signage + sinks + training + monitoring)" | 系统已做满 5 大类 |
+> | "improvement to **70%**"（从 30%）| 系统起效了（不是没用） |
+> | "**minimal variance among units**" ⭐ | 各科室都差不多 = 不是某个科室系统坏 = 是**普遍个人问题** |
+> | "**ongoing monitoring confirms sustained** efforts" | 系统不是昙花一现，持续在做 |
+>
+> **4 条线索全指向**：系统这条路已经走到头，剩下的 30% gap **必须靠个人责任**。
+>
 > ## 易混陷阱（普适）
 >
 > | 选项 | 内容 | 坑 |
@@ -22739,6 +22788,16 @@
 > | C | Knowledge deficiencies + organizational awareness | ❌ Stem 明确 "extensive training already" — 不是 knowledge 缺口 |
 > | D | Teamwork training + communication | ❌ Handwashing 是 **individual action**（常发生 in team members absent 时）— individual accountability 才是核心 |
 >
+> > [!danger] 关键陷阱：Just Culture ≠ No Blame
+> > "Just Culture" **允许问责**，只是问责必须：
+> > 1. **在系统已尽**之后（不是 first line）
+> > 2. **按阶梯**（warning → training → discipline）
+> > 3. **区分** honest mistake vs reckless behavior
+> >
+> > 完全不问责 = no-blame culture = 反而无法改进 ❌
+> > 上来就罚 = blame culture = culture of fear ❌
+> > 系统先 + 阶梯式问责 = **Just Culture** ✅
+>
 > ## 我为什么对 ✓
 > - 选了：**B** ✓ 反射"systems 已 done → 转 individual accountability"
 > - 关键反射：见到 "**已实施 systems interventions** + 仍 suboptimal" → 0.5 秒锁 individual accountability（**不是**再加 systems / 不是 cognitive bias / 不是 knowledge）
@@ -22747,6 +22806,12 @@
 > - **"Systems first → 已 sustained 仍 suboptimal → individual accountability（just culture）"** ⭐
 > - **"Just culture 不是 culture of fear — 但 systems 都做完仍差时，要 accountability"** ⭐
 > - 类比：先把厕所建好（systems）→ 还有人不洗手 → 那就把"洗手"写进 KPI（individual accountability）；先扣分（punitive）= culture of fear，没用
+> - **"先修路，再问司机"** ⭐⭐⭐（2026-05-26 追加 — 用户视觉 hook）
+>   - Systems = **修路**（装 sink、培训、监控）
+>   - Individual accountability = **问司机**（路修好你还违章 = 该罚）
+>   - 跳过修路直接罚司机 = culture of fear ❌
+>   - 路修好但永远不罚 = no-blame culture ❌
+>   - 先修路，路修好后**阶梯式问责** = **Just Culture** ✅
 >
 > ---
 >
@@ -22784,6 +22849,8 @@
 > **Systemic healthcare quality concerns 处理 SOP**：① **Communicate with relevant stakeholders**（不 anonymous report）② **Coordinated efforts** between inpatient + outpatient（团队协作）③ **Team-based interventions promoting shared goals**（不 referral out / 不外部 board 投诉）— 直接外部 report = premature when adverse events 尚未发生 + 错过 collaborative improvement opportunity。
 >
 > Answer：**E. Meet with the director of the hospitalist group and offer to participate on a committee promoting patient health outcomes** ✓
+>
+> **Leverage = 锦上添花 not decisive**（2026-05-26 追加）：题里的 leadership experience + community trust 是 justify E 选项 **specific 措辞**（"participate on a committee"）的，**不是** justify E 这个**方向**。方向由 **no adverse event + systemic concern identified** 决定 — 即使拿掉 leverage，方向仍是 E 家族（internal team-based），只是具体措辞变软（"raise concerns with director" 而非 "participate on committee"）。
 >
 > ## 普适规则
 >
@@ -22833,6 +22900,43 @@
 >
 > **关键**：Variations **本身就是 quality 问题**，即使无 adverse event — 需要 team-based intervention 减 variation（同 5-25 [[mistakes/uworld-mistakes#^Q106290]] data-driven feedback）。
 >
+> ### Stem 细节解读 — Decisive vs 锦上添花 ⭐⭐⭐（普适反射钩，2026-05-26 追加）
+>
+> > [!warning] 普适原则
+> > 看到 stem 的"个人背景描述"（leadership / experience / community trust / specialty）时，**先做 3 步判断**：
+> >
+> > **① 这条信息影响 4 个 wrong 选项里任何一个的对错吗？**
+> > - 不影响 → **锦上添花**（justify 正确选项的措辞）
+> > - 影响 → **decisive**（直接决定选什么）
+> >
+> > **② 这条信息所在的逻辑链是"升级红线"吗？**
+> > - 升级红线 = adverse event 发生 / 内部协作失败 / 利益冲突 / 病人自主权
+> > - **这些才是 decisive**
+> >
+> > **③ 一般规律：个人 credential = 锦上添花；事件 severity = decisive**
+>
+> #### 本题 Decisive vs 锦上添花拆解
+>
+> | Stem 细节 | 性质 | 为什么 |
+> |---|---|---|
+> | "**Excessive variations** in medication/imaging/LOS" | **Decisive** | 这是 systemic quality concern 识别信号 — 决定方向 |
+> | "**No adverse outcomes** observed" | **Decisive** | 决定不能选 D 外部 board / 决定还有协作窗口 |
+> | "7 miles to alternate hospital" | **干扰** | 钓你选 C refer out — 实际无关 |
+> | "Leadership experience" | **锦上添花** | Justify "participate on committee" 措辞 — 但不改方向 |
+> | "Community trust" | **锦上添花** | 同上 — 给 E 措辞背书 |
+>
+> #### 3 种变体测试（同样 systemic concern + no adverse event，改主角身份）
+>
+> | 主角身份 | 答案方向 | 具体措辞调整 |
+> |---|---|---|
+> | **题里的 rural FM physician + leadership + trust** | E：meet director + offer to **participate on committee** | 主动领跑 |
+> | **普通家庭医生无 leadership**（你的 hypo）| 仍 E 家族：meet director + **raise concerns / provide outpatient feedback** | 提醒 + 让 inpatient team 自己改，自己不领跑 |
+> | **Medical student rotation 时发现** | 仍 internal team-based：**通过 attending / program director** 上报 | Entry point 不同 — 不直接找 hospitalist director |
+> | **完全外人（家属 / 路人）+ no adverse event** | **方向变**：patient advocacy / letter to administrator | "Internal team-based" 这条路对外人不开放 |
+> | **任何身份 + adverse event 已发生 + 内部协作失败** | **方向变**：D 外部 board 合理 | 升级红线被突破 |
+>
+> **结论**：**Leverage 决定"主动到什么程度"，但不决定"选哪条路"**。路由 adverse event 红线 + systemic concern 识别决定。
+>
 > ## 易混陷阱（普适）
 >
 > | 选项 | 内容 | 坑 |
@@ -22851,6 +22955,12 @@
 > - **"Systemic quality concerns 无 adverse events → Team-based + committee（不 anonymous / 不 wait / 不 refer out / 不 external board）"** ⭐
 > - **"Internal team-based first, external accreditation board last"** — 升级顺序铁律
 > - 类比：邻居家厨房有安全隐患（systemic concern）→ 你先**敲门 + 善意提醒 + 一起想办法**（team-based E），不是匿名报警（A）/ 等火灾再说（B）/ 不让家人去他家（C）/ 直接 yelp 一星差评（D）
+> - **"邻居煤气有/无 leverage 对比"** ⭐⭐⭐（2026-05-26 追加 — leverage 不决定方向）：
+>   - **有 leverage**（你是退休消防员住隔壁）→ "我懂这个，让我帮你看看 + 一起搞" → **主动介入 = participate on committee**
+>   - **无 leverage**（你是普通邻居）→ "我注意到你家煤气有点味儿，要不你检查一下？" → **提醒 + 让他处理 = raise concerns with director**
+>   - **不变的部分**：① 都是敲门当面说不是匿名报警 ② 都是人没事时先沟通不是等爆炸 ③ 都是维持邻里关系不是搬家躲他
+>   - 一句话：**Leverage 决定主动到什么程度，但不决定选哪条路**
+> - **"Decisive vs 锦上添花" 普适反射钩** ⭐⭐⭐：看 stem 个人 credential 时先问"它影响 4 个 wrong 选项任何一个吗？" — 不影响 = 锦上添花（justify 措辞），影响 = decisive（决定方向）
 >
 > ---
 >

@@ -127,6 +127,30 @@ version: v1.3.9
 > ### v1.3.2（2026-05-25）— Clinical Uncertainty 收尾
 > - §13.14.7 Clinical Uncertainty 4 策略（basic principles / review workup / consult / watchful waiting）+ Memory Hook 1 句
 >
+> ### v1.3.12（2026-05-26）— Stem 细节解读普适反射钩（Decisive vs 锦上添花，Q23111 用户追问 "没 leverage 答案变吗"锚定）
+> 
+> **背景**：用户做对 Q23111 后追问"要是 stem 没有 leadership experience + community trust 呢" → 暴露**普适 stem-reading 反射钩缺失** —— 之前主笔记 §一只讲了 3 种问法套路，没讲"怎么区分 stem 里哪些细节是 decisive vs 锦上添花"。这是跨题型的元技能（不只 quality 题）。
+> 
+> **§一 新增 §1.1 子节** "Stem 细节解读 — Decisive vs 锦上添花"：
+> - **3 步判断**（影响 wrong 选项吗 + 是升级红线吗 + 一般规律）
+> - **Q23111 5 细节拆解**（variations/no adverse = decisive；7 miles = 干扰；leadership/trust = 锦上添花）
+> - **5 种身份变体测试**（题里版本 / 无 leverage / 医学生 / 外人 / adverse 已发 — 看答案方向变不变）
+> - **4 种应用扩展场景**（capacity / consent / EOL / conflict resolution）
+> - 一句话锁：**Decisive = 事件 / 临床事实；锦上添花 = 主角描述**
+> 
+> **同步动作**：mistakes/uworld-mistakes.md Q23111 卡同步增量（核心概念 leverage 注解 + 普适反射钩 sub-section + 5 身份变体表 + Memory Hook 邻居煤气 leverage 对比版）
+>
+> ### v1.3.11（2026-05-26）— Q106042 Just Culture 用户"看不懂"补丁（3 文化 spectrum + 公平 4 处 + 先修路再问司机）
+> 
+> **背景**：用户看 §5.4 时序铁律 ASCII tree 表示"看不懂" → 暴露主笔记缺**视觉理解层**（只讲了"是什么"和"顺序"，没讲"为什么这个顺序"+ 3 文化对比 + 直觉类比 hook）。
+> 
+> **§5.4 新增 3 sub-section**：
+> - **3 种医院文化 Spectrum**（Blame / Just / No-Blame 三柱 ASCII）— 锚定 just culture 是"平衡"不是"无责"也不是"恐惧"
+> - **Just Culture 公平在 4 处**（对系统 / 对个人 / 对患者 / 对错误态度）— 解释为什么叫 "Just"
+> - **视觉 Hook "先修路，再问司机"**（路 = systems / 司机 = individual / 跳过修路罚司机 = culture of fear / 修路不罚 = no-blame）
+> 
+> **同步动作**：mistakes/uworld-mistakes.md Q106042 卡同步增量（核心理解层 + Step 2 三 sub-bullet 详解 + Stem 线索 4 条 + Memory Hook 升级）
+>
 > ### v1.3.10（2026-05-26）— Anchoring vs Framing 三次深化（Q106764 暴露"chart 纯事实 = raw data"误解）
 > 
 > **背景**：用户做对 Q106764（chart 描述 3 月反复 ED visits + IV opioid + 正常 workup → framing bias）但事后追问"为什么不是 anchoring，医生看 chart 不就是看 raw data 吗？" → 暴露 v1.3.8 信息源谱系表的 gap —— 之前只标了"带 likely/probably 评价词的 chart = framing"，但**chart 纯事实组合**这一类没单独列。
@@ -231,6 +255,59 @@ version: v1.3.9
 > [!tip] 答题原则
 > **系统改造 > 提醒 > 培训**
 > 看到 "most effective patient safety strategy" / "prevent future errors" → 优先 ① forcing function / ② automation / ③ standardization
+
+### 1.1 Stem 细节解读 — Decisive vs 锦上添花 ⭐⭐⭐（v1.3.12 普适反射钩 — Q23111 锚定）
+
+> [!warning] 普适原则（不只用在 Quality 题，所有 Ethics / Safety / Communication 题都适用）
+> 看到 stem 描述主角的"**个人背景**"（leadership / experience / community trust / specialty / 工龄 / 资历）时，**先做 3 步判断**：
+>
+> **① 这条信息影响 4 个 wrong 选项里任何一个的对错吗？**
+> - **不影响 → 锦上添花**（justify 正确选项的具体措辞）
+> - **影响 → decisive**（直接决定选什么方向）
+>
+> **② 这条信息所在的逻辑链是"升级红线"吗？**
+> - 升级红线 = adverse event 发生 / 内部协作失败 / capacity 丧失 / 利益冲突 / 病人自主权
+> - **这些才是 decisive**
+>
+> **③ 一般规律**：
+> - **个人 credential（leadership / experience / community trust）= 锦上添花**
+> - **事件 severity（adverse event / harm / capacity / urgency）= decisive**
+
+#### Q23111 拆解示范
+
+| Stem 细节 | 性质 | 角色 |
+|---|---|---|
+| "Excessive **variations** in medication/imaging/LOS" | **Decisive** | 识别 systemic quality concern — 决定方向 |
+| "**No adverse outcomes** observed" | **Decisive** | 决定不能选外部 board / 决定还有协作窗口 |
+| "7 miles to alternate hospital" | **干扰** | 钓你选 refer out — 实际无关 |
+| "Leadership experience" | **锦上添花** | Justify "participate on committee" 措辞 — 但不改方向 |
+| "Community trust" | **锦上添花** | 同上 — 给 E 选项措辞背书 |
+
+#### 拿掉锦上添花后答案变不变？
+
+| 主角身份 | 答案方向 | 具体措辞调整 |
+|---|---|---|
+| 题里版本（FM + leadership + trust） | E：meet director + **participate on committee** | 主动领跑 |
+| 普通家庭医生**无 leadership** | 仍 E 家族：meet director + **raise concerns / 提供 outpatient feedback** | 提醒不领跑 |
+| Medical student rotation 发现 | 仍 internal team-based：**通过 attending / program director** 上报 | Entry point 不同 |
+| **完全外人（家属 / 路人）+ no adverse event** | **方向变**：patient advocacy / letter to administrator | "Internal team" 路对外人不通 |
+| **任何身份 + adverse event 已发生 + 内部协作失败** | **方向变到 D**：外部 board 合理 | 升级红线突破 |
+
+> [!success] 结论
+> **Leverage（credential）决定"主动到什么程度"，但不决定"选哪条路"**。路由 **adverse event 红线 + systemic concern 识别** 决定。
+>
+> 这条规则**普适所有 Ethics/Safety/QI 题** — 不只 quality concern 题。
+
+#### 应用扩展场景
+
+| 场景 | Decisive 信号 | 锦上添花 信号 |
+|---|---|---|
+| **Capacity assessment** | "Confused" / "unable to repeat back" / "MMSE 18" | "elderly" / "lives alone" / "widowed" |
+| **Informed consent** | "Refuses despite understanding" / "comprehends risks" | "highly educated" / "PhD" / "former physician" |
+| **End-of-life** | "Irreversible coma" / "no quality of life prospect" | "religious background" / "family preferences" |
+| **Conflict resolution** | "Aggressive escalation" / "patient threat" | "respected senior staff" / "long-time employee" |
+
+**一句话锁**：**Decisive = 事件 / 临床事实；锦上添花 = 主角描述**。
 
 ---
 
@@ -643,6 +720,39 @@ Step 2: Strengthen Individual Accountability + Organizational Culture ⭐
 
 > [!danger] 时序铁律
 > **Step 2（individual accountability）只在 Step 1（sustained, comprehensive systems reform）之后才能启动**。直接跳到 punitive measures = **culture of fear** + 损 reporting + 损 trust。
+
+#### 3 种医院文化 Spectrum ⭐⭐（v1.3.11 追加 — 为什么这个时序）
+
+```
+Blame Culture          Just Culture ✅          No-Blame Culture
+（恐惧文化）           （平衡文化）             （无责文化）
+   │                        │                        │
+出错就罚人            系统 + 个人 双层管           错了也不查
+   ↓                        ↓                        ↓
+医护藏错不报          系统改完后再问个人责任       反复同样错误
+医疗安全反而下降      患者安全持续提升              没改进动力
+```
+
+**核心理念**：错误大部分是 **system design** 的问题，少部分才是 **individual responsibility**。所以处理顺序必须**系统先 → 个人后**。
+
+#### Just Culture 公平在 4 处（为什么叫 "Just"）⭐
+
+| 公平在哪 | 具体表现 |
+|---|---|
+| **对系统公平** | 先认系统责任（修 sink / 装监控 / 培训）— 不甩锅给个人 |
+| **对个人公平** | 系统都给你修好了，你还不做 = 你的责任，**这时候问责才合理** |
+| **对患者公平** | 错误能被上报 + 调查 + 改进，安全持续提升 |
+| **对错误态度公平** | Honest mistake（一时疏忽）≠ Reckless behavior（明知故犯）— **区别对待** |
+
+#### 视觉 Hook — "先修路，再问司机" ⭐⭐⭐（v1.3.11 用户视觉钩）
+
+| 角色 | 对应 |
+|---|---|
+| **修路** | Systems interventions（装 sink、培训、监控、signage） |
+| **问司机** | Individual accountability（路修好你还违章 = 该罚） |
+| **跳过修路直接罚司机** | Culture of fear ❌ |
+| **路修好但永远不罚** | No-blame culture ❌ |
+| **先修路 → 阶梯式问责** | **Just Culture** ✅ |
 
 #### Q106042 4 大反 pattern 分析
 
