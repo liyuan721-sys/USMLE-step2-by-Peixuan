@@ -23572,3 +23572,371 @@
 > 主题:: Reducing Handoff Errors 3 大优化（Optimize Information sickest first ⭐ + extra detail critical / Optimize Communication template + oral+written + 全程问 + selective read-back / Optimize Actions to-do + if/then anticipatory）/ Sickest first + 减 overload + selective read-back + if/then anticipatory（4 字诀）/ Selective read-back (handoff to-do) vs Universal read-back (verbal order) 区分 / Note-taking 应 encourage / Exhaustive 是 info overload
 > 状态:: 🟢 ✅ 做对
 > 错因:: —
+
+> [!example]- [2026-05-26] 儿科 / 肺 — Catheter-related VTE in CVC manipulation：突发 hypoxia + hypotension after CVC flush（不是 heparin error / 不是 anaphylaxis / 不是 acute pulm edema）(Q19812)
+> ^Q19812
+>
+> ## Stem 模式
+> 8 mo F 脑膜炎球菌 sepsis + IJ CVC × 4 d → dressing change 后 catheter flush（low-dose heparin routine）→ seconds 后 hypoxic + hypotensive + tachypneic + cyanotic + normal breath sounds + 瞳孔正常 + CBC 正常 → cause？
+>
+> ## 核心概念
+> **CVC manipulation → 突发 cardiopulmonary deterioration = catheter-related thromboembolism**（thrombus 在 catheter tip 形成 → manipulation 脱落 → PE）。Hypercoagulability（meningococcemia → DIC → activated protein C deficiency）↑ risk。**CVCs 是 children VTE 最大 risk factor**（不是遗传性 thrombophilia）。
+>
+> Answer：**E. Thromboembolism** ✓
+>
+> ## 普适规则
+>
+> ### Catheter-related VTE 反射钩 ⭐⭐⭐
+>
+> 触发 stem 信号（任一）：
+> - **Sudden onset cardiopulmonary symptoms IMMEDIATELY after CVC manipulation**（removal / flushing / repositioning）⭐
+> - **Hypercoagulability state**（meningococcemia / nephrotic / cancer / sepsis / DIC）
+> - **CVC indwelling > 24-72 h**
+>
+> → 锁 catheter-related thromboembolism / PE
+>
+> ### 关键鉴别（突发 hypoxia + hypotension after CVC manipulation）⭐
+>
+> | 选项 | 排除依据 |
+> |---|---|
+> | A. Access site bacteremia | Bacteremia 慢起病 + 不会 sudden cyanosis；本题没说发热 / leukocytosis |
+> | B. Acute pulmonary edema | 会有 crackles / wheezing；本题 **normal breath sounds** 排除 |
+> | C. Anaphylaxis | 会有 bronchospasm / wheezing / urticaria；本题 **normal breath sounds + 无 urticaria** 排除 |
+> | D. Heparin administration error | High-dose 误用 → **cerebral hemorrhage**（seizure / 瞳孔异常 / systemic bleeding 应有）；本题 pupils equal + 无 bleeding 排除 |
+> | **E. Thromboembolism** ⭐ | ✅ Sudden + after manipulation + 高凝状态 + normal breath sounds |
+>
+> ### Children CVC + VTE 关键事实
+>
+> | 事实 | 内容 |
+> |---|---|
+> | **儿童 VTE 第一 risk factor** | **CVC**（不是遗传性 thrombophilia）|
+> | Hypercoagulability 状态 | Meningococcemia → activated protein C deficiency；sepsis / cancer / nephrotic |
+> | LMWH prophylaxis 不预防 CVC thrombus | 仅减 DVT，不防 catheter tip 上 thrombus |
+> | Systemic anticoagulation prophylaxis in children | **无 sufficient evidence** support |
+> | 反射 stem | "Indwelling CVC + sudden hypoxia / hypotension after manipulation" → PE until proven otherwise |
+>
+> ## 易混陷阱（普适）
+>
+> - ❌ "Low-dose heparin"高亮 → 反射"medication error 干扰" → 错。Stem 明确"routine maintenance" + dose 正确。**高亮 ≠ 答案方向**
+> - ❌ "Heparin-induced thrombocytopenia" → 需要 thrombocytopenia + 通常 5-10 d 后；本题 normal CBC + day 4 + 不符合
+> - ❌ "Air embolism" 不在选项 — 但场景相似（CVC manipulation 后突发）；air embolism 多在 disconnect / removal 时（不是 flushing）
+>
+> ## 我为什么错
+> - 选了：D（Heparin administration error）
+> - 错因：**干扰项**（"low-dose heparin"高亮触发"药物错误"反射）
+> - 核心陷阱：**高亮文字 frame 你去找 medication error，但 stem 没给"剂量错误"证据**。D 要求 "accidentally using high- rather than low-concentration" — stem 明确说 "low-dose for routine maintenance" 反而排除 D
+> - 应有反射：**CVC manipulation + sudden hypoxia + normal breath sounds + hypercoagulable state → 锁 VTE**（无论高亮怎么 frame）
+>
+> ## Memory Hook
+> - **"CVC + 突发 hypoxia after manipulation = thrombus dislodge until proven otherwise"** ⭐⭐⭐
+> - **儿科 VTE 三连**：CVC（#1 risk）+ Hypercoagulable state（meningococcemia / sepsis / DIC）+ Sudden onset after manipulation
+> - 类比：水管在水龙头处堵了块东西（thrombus at tip），你一拧水龙头（manipulation）→ 那块东西"砰"冲到下游（PE）
+> - **抗高亮反射钩**：UW 高亮 "low-dose heparin" 是想让你选 D，但**剂量正确 + routine use** 反而排除药物错误
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点（**核心**）：被 stem 高亮文字 frame 走 — "low-dose heparin" 黄色高亮 → 反射"这是医疗错误的提示"，没注意"low-dose + routine"是正确用法
+> - 学到：UW 高亮 ≠ 答案方向；高亮**也可能是 framing distractor**。读完全部 stem 后再回头看高亮是 evidence 还是 distractor
+> - 学到：CVC-related VTE 是儿童 VTE 第一原因；hypercoagulability state（meningococcemia DIC / sepsis）↑ risk
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 暂无（catheter-related VTE 首张卡）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/儿科]] / [[完整笔记/Peixuan分科笔记/pulmonary]] / [[完整笔记/Peixuan分科笔记/hematology oncology]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/感染]]（meningococcemia / DIC / protein C deficiency）
+>   - [[完整笔记/Peixuan分科笔记/Ethics_Master]]（题归在 Social Sciences Ethics/Legal/Professional — provider error 排查思路）
+> - 🌱 TODO：累积 3+ 道 CVC 相关并发症题（air embolism / CLABSI / 机械并发症 / VTE）→ 整合 [[完整笔记/专题笔记/USMLE/USMLE_CVC并发症速查]] 或扩到主笔记 §13.2 Procedural Iatrogenic Harm
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 5 个选项的排除逻辑（A 慢起病 / B 有 crackles / C bronchospasm / D 有 bleeding signs / E ✅）
+> - [ ] 默写"CVC manipulation + sudden hypoxia + hypercoagulable state → VTE"反射钩
+> - [ ] **反高亮训练**：见 UW 高亮 → 默写"这是 evidence 还是 distractor？"再选答案
+> - [ ] 找 3 道相关题：pediatric VTE / CVC complications / meningococcemia protein C deficiency
+>
+> ---
+>
+> 学科:: 儿科
+> 主题:: Catheter-related VTE (CVC manipulation → 突发 hypoxia/hypotension) / 儿童 VTE 第一 risk factor = CVC / Hypercoagulability state（meningococcemia DIC protein C deficiency）/ 抗高亮反射钩（UW 高亮 ≠ 答案方向）/ Heparin error vs VTE 鉴别（瞳孔 + bleeding signs + 剂量证据）
+> 状态:: 🟡
+> 错因:: 干扰项
+
+> [!example]- [2026-05-26] Ethics / Patient Safety — Inpatient Fall Prevention：Direct line of sight supervision（delirium + agitation，不是 bed alarm / 不是 restraints / 不是 bright lighting at night）(Q107149)
+> ^Q107149
+>
+> ## Stem 模式
+> 85 yo F dementia + osteoporosis + incontinence → ED UTI/pyelo → 入院 IV abx → 首夜 agitation + 反复下床尝试 + confused + 时间地点定向差 + 想 urinate（acute delirium superimposed on dementia）→ 在 reversible delirium workup 同时，**reduce fall risk** 选哪个？
+>
+> ## 核心概念
+> **Inpatient Falls 高 risk + delirium / agitation 患者 → 首选 Close Direct Supervision**（1:1 sitter / 视线内 room / 频繁查房）。Bed alarms 不 reduce falls（alert fatigue + 响时已摔）；Restraints + bed rails 增加 falls + injury（resist / climb over）；夜间 bright lighting **加重 delirium**（扰乱 sleep-wake cycle）。
+>
+> Answer：**B. Place in direct line of sight of nursing staff** ✓
+>
+> ## 普适规则
+>
+> ### Inpatient Falls Prevention Hierarchy ⭐⭐⭐（高 risk + delirium）
+>
+> ```
+> 优先级排序：
+> 1. ⭐ Close direct supervision
+>    ├─ 1:1 sitter（dedicated sitter / family at bedside）
+>    ├─ 视线内 room（nursing station 对面 / 房门开）
+>    └─ 频繁 nursing checks（每 15 min）
+> 2. Frequent supervised toileting（hourly）
+>    └─ ❌ 不让 high-risk 独用 bedside commode
+> 3. Optimize room environment
+>    ├─ Low bed（地板式 / 床矮）
+>    ├─ Minimize furniture（清通道）
+>    └─ Lighting: day bright, night dim ⭐（delirium 夜亮扰 sleep-wake）
+> 4. ❌ AVOID 反 pattern
+>    ├─ Bed alarms（alert fatigue + 响时已摔）
+>    ├─ Physical restraints（wrist / vest — resist 摔更重）
+>    └─ Bed rails 4 侧（climb over → 摔更高）
+> ```
+>
+> ### 4 大反 pattern（CK 钓饵）
+>
+> | 反 pattern | 选项 | 为什么错 |
+> |---|---|---|
+> | **Increase lighting at night** | A | Delirium 夜间 bright lighting **扰 sleep-wake + 加重 agitation**；bedside commode 不让 high-risk 独用 |
+> | **Bed alarm** ⭐ | D | **无 evidence reduce falls**：① alert fatigue ② 响时已摔 |
+> | **Bed rails 4 侧** | C | Patients **climb over** → 摔得更高更重；rails 应只用辅助 reposition（最多 2 侧）|
+> | **Physical restraints** | E | Patients **挣扎抵抗** → fall + injury ↑；restraints 仅用于明确危险（暴力 / 拔管）|
+>
+> ### AMBOSS Falls in Older Adults 速查表（背）⭐
+>
+> | 维度 | 内容 |
+> |---|---|
+> | **Overview** | Leading cause of injury / morbidity / mortality in elderly |
+> | **Risk factors** | History of fall / sensory + cognitive disturbance / chronic disease (T2DM/arthritis/CVD) / medications (neuroleptics/antidepressants/vasodilators) |
+> | **Outpatient prevention** | Screen: "**Get up & go**" test ⭐ + vision + hearing + bone density + orthostasis；medication review；vit D 补充；supervised exercise |
+> | **Inpatient prevention** | Assess fall risk + tailor strategies；optimize environment；frequent checks high-risk；**避免 restraints + alarm over-reliance** |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Increase lighting + bedside commode | ❌ 夜亮 worsens delirium；bedside commode 独用 = 不安全 |
+> | **B** ⭐ | Direct line of sight | ✅ 1:1 supervision 首选 high-risk + delirium |
+> | C | Bed rails 4 sides | ❌ Climb over → 摔更重 |
+> | D | Bed alarm | ❌ Alert fatigue + 响时已摔；**无 evidence reduce falls** |
+> | E | Soft wrist restraints | ❌ Resist + struggle → fall + injury ↑ |
+>
+> ## 我为什么错
+> - 选了：D（Bed alarm）
+> - 错因：**知识**（直觉以为 alarm = early warning = prevent fall，实际 evidence 否定）
+> - 核心陷阱：**Alarm 听着主动监控**，但**响时人已经在地板上了**（alert fatigue + 反应慢）—— evidence-based 答案是**人在身边看着**（supervision），不是机器
+> - 应有反射：见到 "high fall risk + delirium / dementia / agitation" → 锁 direct line of sight / 1:1 sitter
+>
+> ## Memory Hook
+> - **"摔倒预防 = 人看着 > 机器叫"** ⭐⭐⭐
+>   - Direct supervision（人）> bed alarm（机器响 — alert fatigue + 太晚）
+>   - 类比：婴儿学步，妈妈在旁边比婴儿监控器报警有用
+> - **3 不要**：不要 bed alarm / 不要 4-side rails / 不要 restraints — 这 3 个看着合理实际增加 falls
+> - **Delirium 灯光**："Day bright, night dim" — 夜亮反加重 agitation
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：直觉"alarm = 预防" → 实际 evidence 是"alarm 不 reduce falls"。这是**反直觉考点**
+> - 学到：Inpatient fall prevention 的"机器" vs "人" 之争 — **evidence 偏向人（supervision）**，反直觉但 USMLE 高频
+> - 学到：Restraints + bed rails + alarms 这 3 个看起来"主动安全"的措施，**evidence 都是 net harm**
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q107151]] Fall risk screening tool low PPV（同 vignette 家族 — Item 1 of 2 of next pair）
+>   - [[mistakes/uworld-mistakes#^Q107152]] Tailored fall prevention strategy（同 vignette Item 2 — bed alarm 反 pattern 第二次出现）
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.9 HAC Falls（待扩 §13.9.1）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/neuro]]（delirium / dementia management — 夜亮 worsens delirium）
+>   - [[完整笔记/Peixuan分科笔记/psych]]（agitation management — 不用 physical restraint 首选）
+> - 🌱 TODO：本卡触发主笔记 §13.9 新增子节 §13.9.1 Inpatient Falls Prevention Deep Dive（hierarchy + 3 反 pattern + delirium-specific + tailored vs one-size-fits-all）⭐
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 Inpatient Falls Prevention Hierarchy 4 级
+> - [ ] 默写 3 大反 pattern（bed alarm / rails 4-side / restraints）+ 各自反 evidence 理由
+> - [ ] 默写 Delirium 灯光原则（day bright / night dim）
+> - [ ] 反射训练：见"high fall risk + delirium/dementia + agitation" → 0.5 秒锁 direct supervision
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Inpatient Fall Prevention Hierarchy（direct supervision > 环境 > 反 pattern bed alarm/restraints/rails）/ Bed alarm 不 reduce falls（alert fatigue + 响时已摔）/ Restraints + bed rails 反而 ↑ fall + injury / Delirium 夜亮 worsens / 摔倒预防 = 人看着 > 机器叫
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-26] Biostats / Falls — Screening tool Low PPV（high pretest probability + 80% classify as high-risk vs 实际 fall rate 11.5/1000）(Q107151, linked vignette Item 1 of 2 with Q107152) ✓ 做对
+> ^Q107151
+>
+> ## Stem 模式
+> Hospital QI 委员会 + 大量 geriatric population + 现 fall rate 11.5/1000 patient-days（25% 致 injury）→ 实施 standardized fall risk screening tool（为 geriatric 设计）→ 几个月后 **80% classify 为 high risk** → tool 暴露什么问题？
+>
+> ## 核心概念
+> **High pretest probability population + 大量人 classify 为 positive → Low PPV**：80% high-risk 但 actual fall rate 远低 → PPV 低（high-risk 群里真摔的比例低）。Specificity 也低（high false-positive）。**Sensitivity 反而高**（多数真摔的人确实被分到 high-risk）。
+>
+> Answer：**C. Low positive predictive value** ✓
+>
+> ## 普适规则
+>
+> ### Screening Tool 评估 4 指标 vs Prevalence 关系 ⭐⭐⭐
+>
+> | 指标 | 定义 | 与 Prevalence 关系 |
+> |---|---|---|
+> | **Sensitivity** | 真患者中被检出比例 | **独立于** prevalence |
+> | **Specificity** | 真非患者中被排除比例 | **独立于** prevalence |
+> | **PPV** | 阳性中真患者比例 | **↑ Prevalence → ↑ PPV** ⭐ |
+> | **NPV** | 阴性中真非患者比例 | **↑ Prevalence → ↓ NPV** |
+>
+> **本题反例**：High prevalence 应 → high PPV — 但 stem 给 80% 都 classify 阳性 + actual 11.5/1000 → 这是 **tool 过度阳性**（poor specificity）→ 即使 prevalence 高，**tool 设计本身让 PPV 反而低**。
+>
+> ### 选项排除（同 vignette）⭐
+>
+> | 选项 | 内容 | 排除依据 |
+> |---|---|---|
+> | A | Low external validity | ❌ Tool **为 geriatric 设计** + 用在 geriatric 人群 → external validity **高** |
+> | B | Low inter-user reliability | ❌ 信息不足（stem 没给两个 users 对同一患者评分对比）|
+> | **C** ⭐ | Low PPV | ✅ 80% classify 阳性 vs 实际 11.5/1000 = PPV 极低 |
+> | D | Low sensitivity | ❌ Sensitivity 反而**高**（多数真摔的被分到 high-risk）；问题在 specificity / PPV |
+>
+> ## 易混陷阱（普适）
+>
+> - ❌ "High prevalence → 必然 high PPV" → 错。PPV 还受 **tool 设计**（specificity）影响；过度阳性的工具即使高 prevalence 也低 PPV
+> - ❌ "External validity 看人群是否 generalizable" → 本题工具**用在自己设计的人群**，external validity 不是问题
+> - ❌ "Sensitivity 等于 PPV" → 不等价。Sensitivity 看真患者中被检出比例；PPV 看阳性中真患者比例 — 反方向
+>
+> ## 我为什么对 ✓
+> - 选了：**C** ✓ 自信做对
+> - 关键反射：见 "80% classify 阳性 + 实际事件率 << 80%" → 0.5 秒锁 PPV 低
+> - 已建立反射：阳性率 vs 实际事件率落差大 = 工具过度阳性 = PPV 低
+>
+> ## Memory Hook
+> - **"80% 阳性 + 实际事件 << 80% = Low PPV"** ⭐
+> - **Screening tool 4 指标 vs Prevalence**：Sens/Spec **不变**；PPV 随 prev **同向**；NPV 随 prev **反向**
+> - **本题反例**：High prev 通常 → high PPV，但**过度阳性的 tool 让 PPV 反而低** — tool 设计 > prevalence 单独影响
+> - 类比：用门槛极低的"高 risk 判定"标准（如"年纪超过 70 就算 high risk"）→ 80% 人都 fit → PPV 必然低
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点（轻微）：本题考点是 PPV，但 stem 没明确说"PPV"二字 — 需要从"80% classify 阳性 + 实际事件率 11.5/1000"反推到 PPV 概念
+> - 学到：**Linked vignette Item 1 (Biostats PPV) vs Item 2 (Patient Safety tailored prevention)** — 跨章节考点，**stem 内 80% classification 这个数字在 Item 2 是 decisive context**（让 visual cues 失效）⭐
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q21656]] PPV NPV vs Prevalence（同 PPV 与 prevalence 关系）
+>   - [[mistakes/uworld-mistakes#^Q107214]] LR+ 阳性似然比（同 screening 评估家族）
+>   - [[mistakes/uworld-mistakes#^Q107800]] ROC 最佳 cutoff（同 screening 设计家族）
+>   - [[mistakes/uworld-mistakes#^Q107152]] **linked vignette Item 2 of 2 同 stem family**（fall prevention strategy）— 我错了，没把 Item 1 的"80%"用在 Item 2 ⚠️
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]（PPV/NPV/prevalence 关系）/ [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.9 HAC Falls
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（quality improvement + screening tool 设计）
+> - 🌱 TODO：本卡为做对题，无需新衍生；但 Item 2 (Q107152) 的关联中要标出"Item 1 的 80% 是 Item 2 的 decisive context"
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 4 指标 vs Prevalence 关系（Sens/Spec 独立；PPV 同向；NPV 反向）
+> - [ ] 默写"过度阳性 tool 即使 high prev 也低 PPV"反例
+> - [ ] 反射训练：见 "X% classify 阳性 vs 实际事件 << X%" → 0.5 秒锁 low PPV
+>
+> ---
+>
+> 学科:: Biostats
+> 主题:: Screening tool Low PPV（high pretest prob + 过度阳性 tool → PPV 反而低）/ 4 指标 vs Prevalence 关系（Sens/Spec 独立；PPV 同向；NPV 反向）/ Linked vignette Item 1 (Biostats) vs Item 2 (Patient Safety) — 跨章节 stem-internal linkage
+> 状态:: 🟢 ✅ 做对（PPV 反射建立）
+> 错因:: —
+
+> [!example]- [2026-05-26] Ethics / Patient Safety — Tailored Fall Prevention based on individual risk factors（不是 bed alarm / 不是 bed rest / 不是 wristband 当 80% 人都贴时失效）(Q107152, linked vignette Item 2 of 2 with Q107151)
+> ^Q107152
+>
+> ## Stem 模式
+> 同 vignette 上一题（80% classify 为 high risk）→ 给这家医院**减 falls 最有效**策略选哪个？
+>
+> ## 核心概念
+> **Falls 是 multifactorial → tailored / 个体化策略 > 一刀切量化 score**。Staff 应根据**患者个体 risk factors** 从 menu 选 intervention（如夜间 delirium → 1:1 sitter；gait disturbance → PT + low bed）。Visual cues / wristbands 只在能**区分 true high risk** 时有效；本题 80% 都 high-risk → wristbands 失去 discriminatory value。
+>
+> Answer：**C. Have staff select from a menu of interventions based on patient's specific fall risk factors** ✓
+>
+> ## 普适规则
+>
+> ### Fall Prevention 策略选择 — Tailored vs Standardized ⭐⭐⭐
+>
+> | 维度 | One-size-fits-all（错）| Tailored / 个体化（对）|
+> |---|---|---|
+> | **触发** | 单一 quantitative score → 同一套干预 | 多维 risk assessment → menu 选 intervention |
+> | **本题适用性** | 80% 人 high-risk → 同一套干预 = 资源稀释 + 无 discriminate | 同 80% 但**每人不同 risk factor** → 不同 intervention（sitter / PT / 环境改）|
+> | **Bed alarms / wristbands** | 80% 人都贴 = 失效 | 只贴 true high-risk = 有效 |
+> | **Evidence** | Quantitative score 在 high prev 群 PPV 低（同 Q107151）| Multidisciplinary qualitative assessment 优 |
+>
+> ### 关联 Item 1 的 80% Decisive Context ⭐⭐（Linked vignette stem-internal linkage）
+>
+> | Item 1 (Q107151) 给的数字 | 在 Item 2 (Q107152) 的角色 |
+> |---|---|
+> | "80% classify as high risk" | **Decisive** — 让 wristbands / visual cues / bed alarms 这类**靠 discrimination 的策略失效** |
+> | "Tool developed for geriatric population" | 锦上添花 — 不影响 Item 2 答案 |
+> | "Hospital has large geriatric population" | 锦上添花 — 解释为啥 prevalence 高 |
+>
+> **关键学习**：**Linked vignette 不必 reflex-match 答案**（Q106764 / Q106765 教训）—— **但 stem-internal 数字会跨题影响 decisive context** ⭐
+>
+> ### 反 pattern 4 类
+>
+> | 反 pattern | 选项 | 为什么错 |
+> |---|---|---|
+> | **Bed alarm automation** | A | 无 evidence reduce falls（同 Q107149）+ alert fatigue |
+> | **Standardized order set + extended bed rest** | B | 长期 bed rest **增加 complications**（pressure sores / atelectasis / DVT）；早 mobilization 优 |
+> | **Visual cues / wristbands** | D | **仅当区分 true high risk 时有效**；本题 80% 都贴 = 失效 |
+> | **Tailored from menu** ⭐ | C | ✅ Multifactorial fall risk → individualized intervention |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Bed alarm automation | ❌ 无 evidence + alert fatigue（同 Q107149 教训）|
+> | B | Standardized order sets + extended bed rest | ❌ Extended bed rest = 反 evidence；早 mobilization 优 |
+> | **C** ⭐ | Tailored menu based on individual risk factors | ✅ Multifactorial → individualized |
+> | D | Wristbands visual cues | ❌ 80% 都贴失去 discriminatory value；visual cues 只在 true minority 高 risk 时有效 |
+>
+> ## 我为什么错
+> - 选了：D（Wristbands visual cues）
+> - 错因：**干扰项**（AMBOSS table 里 "visual cues" 是推荐 → 反射"这是 evidence-based" → 选 D）
+> - 核心陷阱：
+>   1. **没把 Item 1 的"80%"作为 Item 2 的 decisive context** — wristbands 只在能 discriminate 时有效；80% 都贴 = 失效
+>   2. **AMBOSS table 推荐 ≠ 本题适用**（锦上添花 vs decisive 没分清）
+>   3. **Linked vignette stem-internal linkage** — Item 2 不能脱开 Item 1 数字读
+> - 应有反射：见 Item 2 时先回顾 Item 1 stem 数字哪些是 decisive；再用 §1.1 Decisive vs 锦上添花原则筛选
+>
+> ## Memory Hook
+> - **"Falls multifactorial → 个体化 menu，不一刀切"** ⭐⭐⭐
+> - **"80% 都贴 = wristband 失效"** — visual cues 需要 minority 高 risk 才有 discrimination
+> - **Linked vignette stem-internal linkage**：Item 1 数字（80%）是 Item 2 decisive context；不能脱开读
+> - **"AMBOSS 推荐是普适，本题 context 决定适用"** — 普适推荐 ≠ 本题适用（Decisive vs 锦上添花）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点（**核心**）：**Linked vignette Item 2 没回头看 Item 1 数字** — 80% classify 是 Item 1 暴露的工具缺陷，但**在 Item 2 是 wristbands 失效的关键 context**
+> - 学到：**Linked vignette ≠ 同主题**（Q106764 / Q106765 教训）+ **Linked vignette 数字会跨题影响 decisive context**（本题新教训）⭐
+> - 学到：AMBOSS table 推荐是普适规则，但**本题 context 决定哪条适用** — 同 Q23111 "Decisive vs 锦上添花" 框架
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q107151]] **linked vignette Item 1 of 2**（Biostats PPV）⭐ 串联点：Item 1 的 80% 是 Item 2 的 decisive context
+>   - [[mistakes/uworld-mistakes#^Q107149]] Direct supervision for falls（同日 5-26 — 同 fall prevention 家族；同强调 bed alarm 反 pattern）
+>   - [[mistakes/uworld-mistakes#^Q23111]] Stem 细节 Decisive vs 锦上添花（**同方法论** — 80% 是 decisive，AMBOSS 推荐是锦上添花）
+>   - [[mistakes/uworld-mistakes#^Q106765]] Linked vignette Item 2 不能 reflex-match（同陷阱：linked vignette 跨题逻辑）
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §1.1 Decisive vs 锦上添花（待加 Q107152 案例）/ §13.9 HAC Falls（待扩 §13.9.1）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Biostats_Master]]（Item 1 PPV 是 Item 2 context source）
+> - 🌱 TODO：
+>   - 主笔记 §1.1 加 Q107152 案例（80% 是 decisive / AMBOSS 推荐是锦上添花）
+>   - 主笔记 §13.9.1 新建 Inpatient Falls Prevention Deep Dive（含 tailored vs standardized 子节）
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 Tailored vs Standardized 4 行对比表
+> - [ ] 默写"80% classify 让 wristbands 失效"反例
+> - [ ] **反射训练**：见 linked vignette Item 2 → 先回顾 Item 1 关键数字是否是 Item 2 的 decisive context
+> - [ ] **反 AMBOSS 反射**：见 AMBOSS table 推荐 → 默写"是普适推荐 vs 本题 context 适用？"
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Tailored Fall Prevention（multifactorial → 个体化 menu 优于一刀切）/ Visual cues / wristbands 80% 都贴失效（需 discriminate true high risk）/ Extended bed rest 反 evidence（早 mobilization 优）/ Linked vignette stem-internal linkage（Item 1 数字是 Item 2 decisive context）/ AMBOSS 推荐 ≠ 本题适用（Decisive vs 锦上添花）
+> 状态:: 🟡
+> 错因:: 干扰项

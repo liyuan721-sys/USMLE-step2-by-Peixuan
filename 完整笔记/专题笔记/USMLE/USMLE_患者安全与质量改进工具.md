@@ -127,6 +127,29 @@ version: v1.3.9
 > ### v1.3.2（2026-05-25）— Clinical Uncertainty 收尾
 > - §13.14.7 Clinical Uncertainty 4 策略（basic principles / review workup / consult / watchful waiting）+ Memory Hook 1 句
 >
+> ### v1.3.13（2026-05-26）— 5-26 浩斯宾第二批 4 张卡（Falls 系列 + CVC VTE）
+> 
+> **背景**：用户做完 5-26 浩斯宾第二批 4 题（Q19812 错 / Q107149 错 / Q107151 对 / Q107152 错）→ 入库 + 衍生 sync。原 §13.9 HAC 表 Falls 行写"床栏 + 灯光"是**反 evidence**（4-side rails + bright lighting at night 都是 anti-patterns），必须修正。
+> 
+> **§13.9 表 Falls 行修正**：从"床栏 + 灯光"改为"tailored individual + direct supervision；反 pattern bed alarms / 4-side rails / restraints / 夜亮"+ 引用 §13.9.1
+> 
+> **新建 §13.9.1 Inpatient Falls Prevention Deep Dive** ⭐⭐⭐：
+> - **Falls Prevention Hierarchy 4 级**（direct supervision > toileting > environment > 避反 pattern）
+> - **3 大反 pattern + 反 evidence 理由**（bed alarm / 4-side rails / restraints / 夜亮）+ Q 锚定
+> - **Tailored vs Standardized 4 行对比**（Q107152 锚）
+> - **Q107151 连锁解释**（high prev 群 quantitative score 低 PPV → alert fatigue + resource dilution → tailored 解决方案）
+> - **AMBOSS Falls in Older Adults 速查表**（Get up & go / outpatient / inpatient prevention）
+> - **Memory Hook 5 句**（人看着 > 机器叫 / 3 不要 / day bright night dim / high prev quantitative 低 PPV / 80% 都贴失效）
+> 
+> **§1.1 Decisive vs 锦上添花扩展**：
+> - 应用扩展场景表加 **Fall prevention strategy 行**（Q107152 — 80% 是 decisive vs AMBOSS 推荐是锦上添花）
+> - 新增 **§"第三种细节：Stem-internal Linkage"** ⭐⭐ — Linked vignette Item 1 数字跨题影响 Item 2 decisive context（Q107151 → Q107152 串联例 vs Q106764 → Q106765 反例）
+> - 规则：linked vignette ≠ 同主题；但 stem-internal 数字会跨题影响 decisive context
+> 
+> **同步入库 mistakes/uworld-mistakes.md 5-26 节 4 张新卡**：
+> - 错题：Q19812（儿科 CVC-related VTE，干扰项 — 高亮文字 frame）/ Q107149（Patient Safety 直接 supervision，知识 — alarm 反直觉）/ Q107152（Tailored fall prevention，干扰项 — linked vignette stem-internal linkage 漏看）
+> - 做对（🟢）：Q107151（PPV 反射建立）
+>
 > ### v1.3.12（2026-05-26）— Stem 细节解读普适反射钩（Decisive vs 锦上添花，Q23111 用户追问 "没 leverage 答案变吗"锚定）
 > 
 > **背景**：用户做对 Q23111 后追问"要是 stem 没有 leadership experience + community trust 呢" → 暴露**普适 stem-reading 反射钩缺失** —— 之前主笔记 §一只讲了 3 种问法套路，没讲"怎么区分 stem 里哪些细节是 decisive vs 锦上添花"。这是跨题型的元技能（不只 quality 题）。
@@ -306,8 +329,22 @@ version: v1.3.9
 | **Informed consent** | "Refuses despite understanding" / "comprehends risks" | "highly educated" / "PhD" / "former physician" |
 | **End-of-life** | "Irreversible coma" / "no quality of life prospect" | "religious background" / "family preferences" |
 | **Conflict resolution** | "Aggressive escalation" / "patient threat" | "respected senior staff" / "long-time employee" |
+| **Fall prevention strategy**（Q107152 v1.3.13）| "80% classify high-risk" → wristbands 失效 | "AMBOSS table 推荐 visual cues" — 普适推荐 ≠ 本题适用 |
 
-**一句话锁**：**Decisive = 事件 / 临床事实；锦上添花 = 主角描述**。
+**一句话锁**：**Decisive = 事件 / 临床事实；锦上添花 = 主角描述 / 普适推荐**。
+
+#### 第三种细节：Stem-internal Linkage（Linked Vignette）⭐⭐（v1.3.13 — Q107152 新维度）
+
+Linked vignette 题里，**Item 1 给的数字往往是 Item 2 的 decisive context**：
+
+| Linked vignette 案例 | Item 1 数字 | 在 Item 2 的角色 |
+|---|---|---|
+| Q107151 → Q107152 | "80% classify as high risk" | **Decisive** — 让 wristbands / visual cues / bed alarms 失效（靠 discrimination 的策略全废） |
+| Q106764 → Q106765 | "Drug-seeking suspect from chart" | **干扰** — Item 2 考 defensive medicine 与此无关（反例：linked 题 ≠ 同主题） |
+
+**规则**：
+- **Linked vignette ≠ 同主题**（不能 reflex-match 答案）
+- **但 stem-internal 数字会跨题影响 decisive context**（先回顾 Item 1 关键数字再答 Item 2）
 
 ---
 
@@ -2099,8 +2136,90 @@ CDSS 属于 **Computerized automation**（HFE Highest 档第 2 个）— 减少 
 | **C. difficile** | 谨慎 abx + isolation + **手卫生用 soap+water**（alcohol gel 无效） |
 | **Decubitus ulcers** | 翻身 / 减压 / 营养 |
 | **VTE** | Risk-based prophylaxis |
-| **Falls** | 跌倒风险评估 + 床栏 + 灯光 |
+| **Falls** | Tailored individual risk factors → 干预 menu；**首选 direct supervision**（1:1 sitter / 视线内 room）；❌ **反 pattern**：bed alarms（alert fatigue）+ 4-side bed rails（climb over）+ physical restraints（resist 摔重）+ 夜间 bright lighting（worsens delirium）— **详见 §13.9.1**|
 | **OB adverse events** | Standardized HTN / hemorrhage protocols + safe oxytocin/MgSO4 + C/S **time-out** |
+
+#### 13.9.1 Inpatient Falls Prevention Deep Dive ⭐⭐⭐（v1.3.13 — Q107149 + Q107152 + Q107151 三连）
+
+> [!info] 为什么单独开节
+> §13.9 表里 Falls 一行原本简化为"床栏 + 灯光" — **直接错**：4-side rails + bright nighttime lighting 实际都是 anti-patterns。需要单独详解。
+
+##### Inpatient Falls Prevention Hierarchy ⭐（高 risk + delirium）
+
+```
+优先级排序：
+1. ⭐ Close direct supervision（人 > 机器）
+   ├─ 1:1 sitter（dedicated sitter / family at bedside）
+   ├─ 视线内 room（nursing station 对面 / 房门开）
+   └─ 频繁 nursing checks（每 15 min）
+2. Frequent supervised toileting（hourly）
+   └─ ❌ 不让 high-risk 独用 bedside commode
+3. Optimize room environment
+   ├─ Low bed（地板式 / 床矮）
+   ├─ Minimize furniture（清通道）
+   └─ Lighting: day bright, night dim ⭐（delirium 夜亮扰 sleep-wake）
+4. ❌ AVOID 反 pattern
+   ├─ Bed alarms（alert fatigue + 响时已摔）
+   ├─ Physical restraints（wrist / vest — resist 摔更重）
+   └─ Bed rails 4 侧（climb over → 摔更高）
+```
+
+##### 3 大反 pattern + 反 evidence 理由（CK 高频钓饵）⭐⭐⭐
+
+| 反 pattern | 看起来合理 | 实际 evidence | Q 锚定 |
+|---|---|---|---|
+| **Bed alarm** | "Early warning system" | **无 evidence reduce falls**：alert fatigue（太多假警报）+ 响时已摔（反应慢于跌倒）| Q107149 + Q107152 双锚 |
+| **Bed rails 4-side** | "防止患者下床" | Patients **climb over** → 摔得更高更重；只用辅助 reposition（最多 2 侧）| Q107149 |
+| **Physical restraints** | "限制活动 = 安全" | Patients **挣扎抵抗** → fall + injury 反而 ↑；仅用于明确危险（暴力 / 拔管）| Q107149 |
+| **Bright lighting at night**（delirium）| "看清楚 = 安全" | 扰乱 sleep-wake cycle + 加重 agitation → 间接增 fall | Q107149 |
+
+##### Tailored vs Standardized 策略（Q107152 锚定）⭐⭐⭐
+
+| 维度 | One-size-fits-all（错）| Tailored / 个体化（对）|
+|---|---|---|
+| **触发** | 单一 quantitative score → 同一套干预 | 多维 risk assessment → menu 选 intervention |
+| **High prev 群表现** | 80% 都 high-risk → 同一套 = 资源稀释 + 无 discriminate | 同 80% 但每人不同 risk → 不同 intervention |
+| **Visual cues / wristbands** | 80% 都贴 = 失效 | 只贴 true high-risk = 有效 |
+| **Evidence** | Quantitative score 在 high prev 群 PPV 低 | Multidisciplinary qualitative assessment 优 |
+
+##### Q107151 连锁：Screening Tool 在 High Prev 群的局限
+
+**为什么 quantitative fall risk score 在 geriatric 大量人群里效用低**：
+
+```
+High pretest probability（geriatric population fall prevalence 高）
+   │
+   ▼
+Quantitative score（"高/低"二分）→ 80% classify 阳性
+   │
+   ▼
+PPV 低（high-risk 群里真摔的比例不高 ≈ 11.5/1000）
++ Specificity 低（high false-positive）
+   │
+   ▼
+后果：① alert fatigue（staff 不当真）② resource dilution（资源平摊到 80% 人）
+   │
+   ▼
+Solution（Q107152）：tailored multidisciplinary qualitative assessment > quantitative score
+```
+
+##### AMBOSS Falls in Older Adults 速查表（背）
+
+| 维度 | 内容 |
+|---|---|
+| **Overview** | Leading cause of injury / morbidity / mortality in elderly |
+| **Risk factors** | History of fall / sensory + cognitive disturbance / chronic disease (T2DM/arthritis/CVD) / medications (neuroleptics/antidepressants/vasodilators) |
+| **Outpatient prevention** | Screen: "**Get up & go**" test ⭐ + vision + hearing + bone density + orthostasis；medication review；vit D 补充；supervised exercise |
+| **Inpatient prevention** | Assess fall risk + **tailor** strategies；optimize environment；frequent checks high-risk；**避免 restraints + alarm over-reliance** |
+
+##### Memory Hook
+
+> [!tip] Falls 反射钩
+> - **"摔倒预防 = 人看着 > 机器叫"** ⭐⭐⭐ — Direct supervision > bed alarm（alert fatigue + 太晚）
+> - **"3 不要"**：不要 bed alarm / 不要 4-side rails / 不要 restraints — 看着合理实际增加 falls
+> - **Delirium 灯光**："Day bright, night dim" — 夜亮反加重 agitation
+> - **High prev 群 + quantitative score = 低 PPV** → tailored 个体化优于一刀切
+> - **"80% 都贴 = 失效"** — visual cues / wristbands 需要 minority 才有 discrimination value
 
 ### 13.10 Initial Management + Disclosure SOP + Apologize 措辞 ⭐⭐⭐
 
