@@ -10371,8 +10371,9 @@
 >
 > 学科:: Psych
 > 主题:: MDMA 中毒 + Serotonin Syndrome / 苯丙胺家族鉴别（MDMA vs 冰毒 vs Adderall）/ 4 大高热综合征 / 派对药 4 兄弟
-> 状态:: 🔴 反复错（2026-05-20 浩斯宾 self-test：病因答成 SS 未答 substance MDMA → 升级）
+> 状态:: 🔴 反复错 + #难记（3 维度进度：① 病因 ✓ 5-27 + ② substance 鉴别 ❌ 5-21 未克服 + ③ 解药 ✓ 5-26 — 2/3 维度搞定）
 > 错因:: pattern
+> 3 维度进度记录:: ① 病因（substance → SS pathway）— 5-27 浩斯宾 Q22 答对 ✓（rave + dancing + trismus + T 41 + dilated pupils → MDMA） ② Substance 鉴别（MDMA vs Bath salts vs Meth）— 5-21 浩斯宾把 bath salts 错答 MDMA ❌ 未克服 ③ 解药（SS vs NMS）— 5-26 浩斯宾 Q22 答对 ✓（cyproheptadine + BZD + cooling，排除 dantrolene NMS 钓饵）；维持 🔴 + 维持 #难记；下次浩斯宾轮值出 bath salts vs MDMA 直接对比题（测剩余 substance 鉴别维度）
 
 > [!example]- [2026-05-19] Psych / DSM-5 焦虑障碍鉴别 — SAD vs Specific Phobia vs Panic vs Agoraphobia (Q8909)
 > ^Q8909
@@ -17503,12 +17504,13 @@
 > ---
 >
 > 学科:: 神经
-> 主题:: PD psychosis 第 5 步用药（减药失败后必须上低/零 D2 抗精神病药）/ Quetiapine = PD psychosis 临床首选（availability + safety 最佳）/ Pimavanserin = FDA 唯一专批但 cost/availability 限制 / Clozapine = 低 D2 但 agranulocytosis 需 ANC 监测 / Risperidone-Haloperidol 强 D2 PD 禁用 / Amantadine 多巴胺能药（增释放+抑 reuptake）= PD psychosis 题里永远错误选项 / Pramipexole DA 激动剂火上浇油 / SGA 不均质（risperidone D2 仍强 PD 不可用，只有 Quet/Cloz/Pim 三家通过 PD 例外）/ Selegiline MAO-B 抑制剂同样升 DA / Q16164 第 4 步 + Q12152 第 5 步串联 = 完整 PD psychosis 流程 / **Levodopa = PD foundation 不能减**（5-26 新错点维度）
-> 状态:: 🔴
+> 主题:: PD psychosis 第 5 步用药（减药失败后必须上低/零 D2 抗精神病药）/ Quetiapine = PD psychosis 临床首选（availability + safety 最佳）/ Pimavanserin = FDA 唯一专批但 cost/availability 限制 / Clozapine = 低 D2 但 agranulocytosis 需 ANC 监测 / Risperidone-Haloperidol 强 D2 PD 禁用 / Amantadine 多巴胺能药（增释放+抑 reuptake）= PD psychosis 题里永远错误选项 / Pramipexole DA 激动剂火上浇油 / SGA 不均质（risperidone D2 仍强 PD 不可用，只有 Quet/Cloz/Pim 三家通过 PD 例外）/ Selegiline MAO-B 抑制剂同样升 DA / Q16164 第 4 步 + Q12152 第 5 步串联 = 完整 PD psychosis 流程 / **Levodopa = PD foundation 不能减**（5-26 错点漂移已克服 5-27）
+> 状态:: 🟡（5-27 双重测试通过 — 5-26 错点漂移克服；保留 #考前必看）
 > 错因:: pattern
 > 反复错记录:: 2026-05-22 [[mistakes/uworld-mistakes#^Q16164]] 第 4 步减药 + 2026-05-23 [[mistakes/uworld-mistakes#^Q12152]] 第 5 步用药 / 用户自述"应该之前做过但还是错" / 首次入库即 🔴 + 2026-05-24 浩斯宾 Q21 第 **3** 次反复错（第 5 步选 ECT 而非 quetiapine — ECT 是 last-resort 非标准）+ **2026-05-26 浩斯宾 Q20 错点漂移**：5-25 浩斯宾 Q21 答对 quetiapine ✓，但 5-26 又错（选 A discontinue carbidopa-levodopa）— **错点维度从 1 → 2**（ECT + discontinue levodopa 两端钓饵都踩）— 见 [[mistakes/uworld-mistakes#^Q20-2026-05-26]] 配对卡
 > 升档触发:: 同主题流程连续 3 次反复错（Q16164 + Q12152 + 5-24 Q21）→ 用户手动加「考前必看」+ 已触发衍生 [[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]]（汇 Q16164 第 4 步 + Q12152 第 5 步选 quetiapine + 5-24 Q21 ECT 钓饵 → 完整 5 步流程 + 三选一选药 + ECT 适应症边界）
 > 5-26 错点漂移升级:: 5-25 第 1 次答对 quetiapine 后 5-26 又错（stop levodopa）→ 维持 🔴 + 强化 #考前必看；衍生 [[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]] **必须增量**补 "Levodopa 是 foundation 不能减 + NMS-like 风险" 子节
+> **5-27 错点漂移正式克服**:: 5-27 浩斯宾 Q20（已减全部前 4 步药仍 ψ）✓ 答 D quetiapine + Q23（未上 amantadine/anticholinergic 起点 step 4）✓ 答 B 减 pramipexole + 加 quetiapine — **双重测试不同入药谱都答对** ⭐⭐⭐ 5 步阶梯反射真建立（识别"哪个药要减"顺序 + 识别"加什么" + 识别"禁忌 haloperidol/risperidone/停 levodopa/ECT"）→ **🔴 → 🟡 + 保留 #考前必看**（错点漂移历史 + 高频考点）
 >
 > #考前必看 #难记
 
@@ -19009,10 +19011,11 @@
 >
 > 学科:: Biostats
 > 主题:: USMLE 答案选项策略 ("D = any of the above" 暗号 — 多 first-line 平等的指南题常用此型) / DPN first-line 4 选 1（duloxetine / pregabalin / gabapentin / TCA）按共病副作用个体化 / 老年 TCA 慎用抗胆碱副作用 / "临床首选 vs USMLE 最完整答案" 区分
-> 状态:: 🔴
+> 状态:: 🔴（5-27 浩斯宾 Q21 答对 1 次，连对 2 次可降 🟡 — 见下记录）
 > 错因:: pattern
-> 反复错记录:: 2026-05-24 首次入库 🟡（pattern 反射选熟悉单选 C duloxetine）/ **2026-05-26 浩斯宾 Q2 同题再错**（仍选 C duloxetine，"D = any of above" 暗号没成反射）— 见配对卡 [[mistakes/uworld-mistakes#^Q2-2026-05-26]]
-> 升档触发:: 2 次同题 pattern 反射错（5-24 / 5-26）→ 🟡 升 🔴 + 加 #难记；建议建衍生 [[完整笔记/专题笔记/USMLE/USMLE_答案选项策略]]（5 大选项策略 + 各自 stem 触发词 + 真题反射钩库）
+> 反复错记录:: 2026-05-24 首次入库 🟡（pattern 反射选熟悉单选 C duloxetine）/ **2026-05-26 浩斯宾 Q2 同题再错**（仍选 C duloxetine，"D = any of above" 暗号没成反射）— 见配对卡 [[mistakes/uworld-mistakes#^Q2-2026-05-26]] / **2026-05-27 浩斯宾 Q21 答对 ✓**（mild CKD eGFR 48 干扰下仍选 D — 识别 CKD 是锦上添花不是 decisive；"D = any of above" 反射首次建立）⭐
+> 升档触发:: 2 次同题 pattern 反射错（5-24 / 5-26）→ 🟡 升 🔴 + 加 #难记；建议建衍生 [[完整笔记/专题笔记/USMLE/USMLE_答案选项策略]]（5 大选项策略 + 各自 stem 触发词 + 真题反射钩库 + Letter Anchor 反 pattern 子节）
+> 降级进度:: 5-27 连对 1 次（Q21）→ 维持 🔴；5-28 再 1 次连对 → 降 🟡
 >
 > #难记
 
@@ -21524,8 +21527,9 @@
 >
 > 学科:: Ethics
 > 主题:: Swiss Cheese Model（多层 overlapping barrier vs hard stop / automation / PDSA）
-> 状态:: 🟡
+> 状态:: 🔴 反复错 + #难记（5-25 首错选 hard stops / 5-27 浩斯宾 Q7 又错选 PDSA → 升级；见配对卡 [[mistakes/uworld-mistakes#^Q7-2026-05-27]]）
 > 错因:: 知识
+> 反复错记录:: 2026-05-25 首次入库 🟡（选 B hard stops — 误"多层防御 = hard stop 复数"） / **2026-05-27 浩斯宾 Q7 又错**（选 D PDSA — 误"5 个措施 = 5 个 cycles"）= 反复错触发 🔴；4 大系统设计模型 stem 暗号词反射钩完全未建立（SCM simultaneously / Hard stop physical / Automation EHR / PDSA cycles）
 
 > [!example]- [2026-05-25] Ethics / RCA 目的 — Identify Underlying Causes of Past Events（不是 future vulnerabilities）(Q22581)
 > ^Q22581
@@ -21584,8 +21588,10 @@
 >
 > 学科:: Ethics
 > 主题:: RCA 目的（identify underlying causes of past events，不是 future vulnerabilities — 与 FMEA 时间方向相反）
-> 状态:: 🔴
-> 错因:: 知识
+> 状态:: 🔴 反复错 + #考前必看 + #难记（5-24 Q19553 + 5-25 入库 + 5-27 浩斯宾 Q8 第 3 次同型错 — 字眼陷阱反射完全未建立）⚠️⚠️
+> 错因:: pattern（字眼陷阱反射 — "future + potentially + vulnerabilities"三连）
+> 反复错记录:: 2026-05-24 [[mistakes/uworld-mistakes#^Q19553]] FMEA prospective 错（混 RCA/FMEA 时间方向） / 2026-05-25 入库 🔴（选 B "system vulnerabilities ... future" — 把 FMEA 句式当 RCA） / **2026-05-27 浩斯宾 Q8 又错**（选 A "future infusion-pump programming errors" — 同字眼陷阱再踩）= 第 3 次同型错；见配对卡 [[mistakes/uworld-mistakes#^Q8-2026-05-27]]
+> 升档触发:: 第 3 次同型错 + 字眼陷阱反射钩完全未建立 → 加 #考前必看 + 加 #难记；衍生 [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.12 必须加 "RCA-FMEA 字眼陷阱反射钩"子节
 
 > [!example]- [2026-05-25] Ethics / Home Health Care 适应症（medically stable + homebound + skilled needs，不是住院 / SNF）(Q20431)
 > ^Q20431
@@ -21670,8 +21676,10 @@
 >
 > 学科:: Ethics
 > 主题:: Home Health Care 适应症（medically stable + homebound + skilled needs，不是 admit / SNF）
-> 状态:: 🟡
+> 状态:: 🔴 反复错 + #考前必看（5-25 选 admit / 5-27 浩斯宾 Q9 选 SNF — 两次都不选 home health → 升级；见配对卡 [[mistakes/uworld-mistakes#^Q9-2026-05-27]]）⚠️
 > 错因:: 知识
+> 反复错记录:: 2026-05-25 首次入库 🟡（选 A admit hospital — 误"elderly + fall 必须住院 work-up"）/ **2026-05-27 浩斯宾 Q9 又错**（选 B SNF — 误"加强版 home health"）= 反复错触发 🔴；disposition 决策树 + medically stable 概念反射完全未建立
+> 升档触发:: 2 次反复错 + 都不选 home health（都升级 institution）→ 升 🔴 + 加 #考前必看；衍生 [[完整笔记/专题笔记/Ethics/Ethics_Discharge_Planning速查]] 必建（Hospital / SNF / Home health / Hospice / Assisted living / Outpatient 6 档对照）
 
 > [!example]- [2026-05-25] Ethics / Geriatric Prescribing — Limit Number of Prescribers（减少 prescribers 防 ADE）(Q107185)
 > ^Q107185
@@ -24522,4 +24530,1461 @@
 > 学科:: Ethics
 > 主题:: Elder Abuse 5 大信号（异常位置 fracture / 多处 bruises / 财务异常 / medication nonadherence + comorbid 恶化 / shared living env）/ Elder Abuse 5 维度（risk / physical / psychological / neglect / financial exploitation）/ Orbital fracture in elder = 非典型 fall location = 红旗 / Shared living env vs social isolation 都是 risk / Mandatory report to APS / 与 Child abuse Q4320 配对学习
 > 状态:: 🟢 ✅ 做对（Elder abuse 5 信号反射建立）
+> 错因:: —
+
+## 2026-05-27
+
+> [!example]- [2026-05-27] Psych / Tourette α2 失败 + Answer Letter Anchoring（浩斯宾 Q3 — 反射选 D 但 D 已变 methylphenidate 毒药；与 5-25 Q10 配对警示）
+> ^Q3-2026-05-27
+>
+> ## Stem 模式
+> 14 yo Tourette + multiple motor + vocal tics × 18 mo + failed habit-reversal CBIT + failed guanfacine × 1 yr + significantly impaired → next step？**选项重排：D = methylphenidate（不是 antidopaminergic）**
+>
+> ## 核心概念
+> **α2 整类失败（clonidine = guanfacine 同类）→ 升级 antidopaminergic = risperidone / aripiprazole**；**Methylphenidate 是 stimulant — Tourette 永远禁用（加重 tics）**；本题**选项重排陷阱**测的不是 Tourette 知识，是"是否字母 anchor"。
+>
+> Answer：**C. Add risperidone**（antidopaminergic）
+>
+> ## 普适规则
+>
+> ### Tourette 4 阶梯
+>
+> ```
+> ① CBIT (Comprehensive Behavioral Intervention for Tics) — habit reversal
+>         │ failed + significant impairment
+>         ▼
+> ② α2-agonist（clonidine = guanfacine 同类）
+>         │ failed α2 整类（不要换同类）
+>         ▼
+> ③ Antidopaminergic ⭐ 本题答 = risperidone
+>    - Risperidone / Aripiprazole（first-line antidopaminergic）
+>    - Haloperidol / Pimozide（older typical — EPS 高）
+>    - Tetrabenazine / Deutetrabenazine（VMAT2）
+>         │ refractory + severe
+>         ▼
+> ④ DBS
+> ```
+>
+> ### Tourette 毒药区（永远 ❌）
+>
+> | 药 | 为什么不能用 |
+> |---|---|
+> | **Methylphenidate / Adderall** 等 stimulants | **加重 tics**（DA 释放↑）；ADHD 共病必须用时先稳 tics |
+> | **Benztropine** | EPS 急性 dystonia 药，与 tics 病机无关 |
+> | Switch 同类 clonidine（已 failed guanfacine）| 同类换不算阶梯升级 |
+> | Watchful waiting | 已 significant impairment = 需治疗 |
+>
+> ### USMLE Answer Letter Anchoring 反 pattern ⭐⭐⭐
+>
+> | 字母 anchor 触发场景 | 危险 |
+> |---|---|
+> | "上次同主题题 X 字母是答案" → 反射选 X 字母 | 出题人故意打乱字母位置测真懂还是 anchor |
+> | "题目相似 → 答案字母应相同" | 字母无意义，必须读到具体药名 / 概念 |
+> | 与 [[mistakes/uworld-mistakes#^Q2-2026-05-26]] "D = any of above" anchor 同型 | 都是字母 anchor 陷阱 |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Switch to clonidine | ❌ α2 同类换 — 已 failed α2 整类 |
+> | B | Add benztropine | ❌ EPS 急性 dystonia 药 |
+> | **C** ⭐ | Add risperidone | ✅ Antidopaminergic 升级 |
+> | **D（我选的）** | Begin methylphenidate | ❌ **Stimulant 加重 tics** — 反射字母 anchor 没读药名 ⚠️ |
+> | E | Continue watchful waiting | ❌ 已 significant impairment |
+>
+> ## 我为什么错
+> - 选了：**D?**（methylphenidate）
+> - 错因：**pattern（answer letter anchor）**
+> - 核心陷阱：**5-25 Q10 选项排列让 D = antidopaminergic 答对** → 5-27 反射跳 D，但**没读 D 实际药名**（D 换成了 methylphenidate 毒药）
+> - 元错误：与 [[mistakes/uworld-mistakes#^Q2-2026-05-26]] "D = any of above" 同型 字母 anchor 陷阱 — 都不读选项实际内容
+>
+> ## Memory Hook
+> - **"Tourette 阶梯 = CBIT → α2 → antidopaminergic → DBS；Stimulant 是毒药"** ⭐
+> - **"答案字母不可信，必须读到具体药名"** ⭐⭐⭐ — USMLE 反 anchor 陷阱
+> - 类比：上次"门牌 304"是 ICU → 这次"门牌 304"可能是营养科 — 门牌（字母）不代表内容
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：5-25 Q10 D 答对（当时 D = antidopaminergic）→ 反射"D 是 Tourette 升级答案" → 5-27 选 D 但 D 已换药 → 错
+> - 学到：USMLE 出题人**故意打乱字母位置**测真懂；任何"上次某字母答对"的反射都不可信
+> - 学到：**做题永远读到具体药名 / 选项内容 + 评估正误**，不要字母 anchor
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q2-2026-05-26]] DPN "D = any of above" — 同型字母 anchor 陷阱（不同方向：那题 D 是真答案；本题 D 是钓饵）
+>   - 5-25 Tourette α2 失败题（未标 anchor，做对带卡点 — 见 2026-05-25 节内"Tourette 阶梯升级"卡）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/专题笔记/psych/_衍生_Tourette诊断与治疗]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（Tourette 基底节多巴胺过度）
+> - 🌱 TODO：**建** [[完整笔记/专题笔记/USMLE/USMLE_答案选项策略]] 5 大策略 + **加 "Answer Letter Anchor 反 pattern"子节**（与 "D = any of above" 同型 — 都是字母 anchor）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证不字母 anchor 反射）
+> - [ ] 默写 Tourette 4 阶梯 + 毒药区（stimulant / benztropine / 同类换 / waiting）
+> - [ ] 默写 "做题必须读到具体药名 / 选项内容"反射钩
+> - [ ] 反射训练：见任何题先读 5 个选项**实际内容**，不字母 anchor
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Tourette 4 阶梯（CBIT → α2 → antidopaminergic → DBS）+ α2 整类失败升 antidopaminergic（risperidone/aripiprazole/haloperidol/VMAT2）/ Stimulant 是 Tourette 毒药（加重 tics）/ Benztropine 不是 tics 药 / **Answer Letter Anchor 反 pattern**（USMLE 故意打乱字母位置测真懂；任何"上次某字母答对"反射都不可信）/ 与 Q2-2026-05-26 "D = any of above" 同型字母 anchor
+> 状态:: 🟡 + #难记（首次出现 letter anchor 概念，警示反 pattern）
+> 错因:: pattern
+
+> [!example]- [2026-05-27] Ethics / Patient Safety — Swiss Cheese Model（多 barrier 同时叠加 simultaneously）vs PDSA / Hard stop / Automation 4 大模型混（浩斯宾 Q7 — 升级 Q21477 🔴 反复错）⚠️
+> ^Q7-2026-05-27
+>
+> ## Stem 模式
+> Primary-care clinic 减 iatrogenic respiratory-virus transmission → **同时上 5 个不同性质措施**：① in-service training 洗手 ② hand-sanitizer dispensers ③ ventilation 改善 ④ surgical masks 给有症状 ⑤ flu vaccination counseling → 代表哪种 patient safety design approach？
+>
+> ## 核心概念
+> **多个不同性质 barrier 同时叠加 (simultaneously concurrent) = Swiss Cheese Model**（多片奶酪 — 单层都有洞但叠加难一次穿透）。**关键暗号 = "simultaneously"**（同时 = concurrent）。**PDSA 是 iterative cycles**（pilot → measure → refine → expand）— 本题没这个时序。
+>
+> Answer：**C. Overlapping barriers to block safety hazards**
+>
+> ## 普适规则
+>
+> ### 4 大 Patient Safety System Design Models 钉死 ⭐⭐⭐
+>
+> | 模型 | 核心 | Stem 暗号词 |
+> |---|---|---|
+> | **Swiss Cheese Model** ⭐ | 多个不同性质 barrier **simultaneously concurrent** 叠加 | "implemented **simultaneously**" / "multiple measures concurrently" / 列举 ≥ 2 不同维度（教育 + 物理 + 个人防护 + 免疫）|
+> | **Hard stop / Forcing function** | **1 个物理设计强制不能错** | "incompatible connector" / "hard limit prevents overdose" / "physically cannot enter wrong value" |
+> | **Automation** | **计算机替手算** | "automated dose calculation" / "smart pump algorithm" / "EHR alerts" |
+> | **PDSA** | **iterative cycles + 反复 refine** | "**repeated cycles**" / "small-scale change before full implementation" / "**pilot → measure → refine → expand**" / "iterative testing" |
+>
+> ### SCM 三原则（再钉一次）
+> 1. 任何单一 barrier 都有 "洞"（人会忘 / 设备失灵 / 步骤漏）
+> 2. Harm 发生 = 所有洞对齐贯穿
+> 3. 多层 overlapping → 洞对齐概率指数下降
+>
+> ### 经典 SCM 应用（USMLE 常考）
+>
+> | 场景 | 多层 barrier |
+> |---|---|
+> | 感染控制 bundle | 洗手 + 口罩 + 通风 + 疫苗 + 教育（5 片奶酪）|
+> | 手术安全 | 术前 marking + time-out + count + 双人核对 + 设备检查 |
+> | 用药安全 | 电子开药 + pharmacist 复核 + barcode + smart pump + double-check |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Automating high-risk action | ❌ 本题措施都是人工（不是 EHR / smart pump）|
+> | B | Hard stops (forcing functions) | ❌ Hard stop = **物理单点强制**（接口不兼容）；本题没物理强制 |
+> | **C** ⭐ | Overlapping barriers | ✅ 5 个不同性质 simultaneously = SCM |
+> | **D（我选的）** | Repeated cycles of process improvement | ❌ **PDSA = iterative**（先小再大）；本题是 **simultaneously concurrent 上线**，不是 cycles ⚠️ |
+> | E | Statistical control of process variation | ❌ Control chart — 监控数据趋势，本题不是统计监控 |
+>
+> ## 我为什么错
+> - 选了：**D?**（PDSA repeated cycles）
+> - 错因：**知识（SCM vs 其他模型边界仍混）**
+> - 核心陷阱：**没识别"simultaneously"是 SCM 暗号** — D PDSA 是 sequential / iterative，stem 完全无此时序
+> - 元错误：**5-25 + 5-27 反复错** — 5-25 选 B hard stops（误认为"多层防御 = hard stop 复数"），5-27 选 D PDSA（误认为"5 个措施 = 5 个 cycles"）— 都不识别 SCM
+>
+> ## Memory Hook
+> - **"同时上 N 个不同 barrier = Swiss Cheese（多片奶酪同时摆）"** ⭐
+> - **"反复试 cycles = PDSA（先做一小批再扩）"**
+> - **"物理不让错 = Hard stop（接口不兼容）"**
+> - **"计算机替手算 = Automation（EHR alert）"**
+> - 类比：感染控制 bundle = SCM；新流程 pilot then scale = PDSA；麻醉气体接口不兼容 = hard stop；smart pump 自动算剂量 = automation
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：见"多个措施"反射想到"多个 cycles"（PDSA）— 学到 PDSA 关键不在"措施数量"，在"**时序 iterative**"（一轮做完看效果再下一轮）
+> - 学到：4 大模型最快区分方法 = 看 stem **时序暗号**：simultaneously (SCM) / iterative cycles (PDSA) / physical incompatible (hard stop) / EHR / smart pump (automation)
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q21477]] Swiss Cheese 5-25 首错（选 hard stops）— **本卡配对** — 5-25 + 5-27 反复错升 🔴
+>   - [[mistakes/uworld-mistakes#^Q19553]] FMEA prospective (5-25 同 QI 家族)
+>   - [[mistakes/uworld-mistakes#^Q21753]] Lean methodology (5-26 同 QI 家族)
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]]（§二 QI 工具 / §三 防御金字塔 — **必须强化 4 大系统设计模型钉死表 + stem 暗号词**）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/感染]]（infection control bundle = SCM 典型应用）
+> - 🌱 TODO：USMLE_患者安全与质量改进工具 §二.x **加 4 大系统设计模型钉死表**（SCM simultaneously / Hard stop physical / Automation EHR / PDSA cycles + stem 暗号词 + 反 pattern 警示）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证 SCM vs PDSA vs hard stop 反射）
+> - [ ] 默写 4 大模型 stem 暗号词（simultaneously / iterative cycles / physical incompatible / EHR alerts）
+> - [ ] 默写 SCM 三原则 + 经典 SCM 应用 3 例（感染 / 手术 / 用药）
+> - [ ] 反射训练：见 "implemented simultaneously" + 列举 ≥ 2 不同维度措施 → 0.5 秒锁 SCM
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Swiss Cheese Model（多个不同性质 barrier simultaneously concurrent 叠加）/ 4 大 Patient Safety System Design Models 钉死（SCM simultaneously / Hard stop physical / Automation EHR / PDSA iterative cycles）/ Stem 暗号词反射钩 / SCM 三原则（单层有洞 / harm = 洞对齐 / 多层降概率指数）/ 经典 SCM 应用（感染 bundle / 手术 / 用药）/ 反 pattern 警示（PDSA 不是"多措施"是"多 cycles"）
+> 状态:: 🔴 反复错（5-25 Q21477 选 hard stops / 5-27 Q7 选 PDSA → 同 SCM 概念两次错 → 升级）+ #难记
+> 错因:: 知识
+
+> [!example]- [2026-05-27] Ethics / Patient Safety — RCA primary purpose = past events underlying causes（不是 future vulnerabilities = FMEA 语言）— 第 3 次同型错（浩斯宾 Q8 — 升级 Q22581 #考前必看 + #难记）⚠️⚠️
+> ^Q8-2026-05-27
+>
+> ## Stem 模式
+> Infusion pump community hospital 错误编程（10 mg/hr 设成 100 mg/hr）→ patient harm + internal review 发现**多次类似错误 in previous year** + medical director 推荐 **RCA** → RCA primary purpose？
+>
+> ## 核心概念
+> **RCA = retrospective + 已发生事件 underlying causes**（active + latent factors，含 system-level）；**FMEA = prospective + 未发生事件 potential vulnerabilities**。**关键陷阱**：选项里看到 **"future" + "potentially cause" + "vulnerabilities"** 三连 = FMEA 语言（即使 stem 是 retrospective 也常用此型选项钓你）。
+>
+> Answer：**C. Identify the underlying causes of the events that have already occurred**
+>
+> ## 普适规则
+>
+> ### Stem retrospective 三大信号
+>
+> | 信号 | 例 |
+> |---|---|
+> | "errors **HAVE** occurred" / "resulting in harm" | ✓ 本题 |
+> | "internal review identifies multiple errors" / "investigations reveal" | ✓ 本题 |
+> | "medical director recommends RCA" | ✓ 本题 |
+>
+> → 100% retrospective → RCA 找已发生事件 underlying causes
+>
+> ### 4 大 Error Analysis Tools 钉死（AMBOSS 完整表）⭐⭐⭐
+>
+> | 工具 | 时间方向 | 范围 | Stem 触发词 |
+> |---|---|---|---|
+> | **RCA** ⭐ | **Retrospective**（过去）| 单一事件深挖 | "errors **HAVE** occurred" / "underlying causes" / "after sentinel event" / "investigations reveal" |
+> | **FMEA** | **Prospective**（未来）| 事前预防 | "**before** operations begin" / "**new** unit/process" / "**anticipate**" / "**future** vulnerabilities" / "**potentially** could cause" / "**not yet** opened" |
+> | **Common Cause Analysis** | Retrospective + aggregate | 多事件聚合 | "**multiple unrelated** events" / "aggregate patterns" / "themes across cases" |
+> | **M&M Conference** | Retrospective + group | 临床团队 confidential 讨论 | "confidential interdisciplinary group" / "morbidity and mortality" / "case-based learning" |
+>
+> ### 选项陷阱字眼 → 工具识别表 ⭐
+>
+> | 选项字眼 | 描述哪个工具 |
+> |---|---|
+> | "**future**" + "**potentially cause**" + "**vulnerabilities**" | **FMEA** 语言（即使 stem 是 retrospective 也钓你）⚠️ |
+> | "**underlying causes**" + "**past events / have already occurred**" | **RCA** 语言 |
+> | "**aggregate patterns from multiple unrelated**" | **CCA** 语言 |
+> | "**personnel responsible**" + remediation | **personnel-focused**（违反 RCA "no blame" 原则）|
+> | "**statistical likelihood**" / "**calculate probability**" | **risk modeling**（既不是 RCA 也不是 FMEA）|
+>
+> ### RCA 3 大原则
+> 1. **Uncovers fundamental factors**（active + latent）
+> 2. **Focuses on systems, NOT individual performance**（no blame culture）
+> 3. **Generates action plan** for organizational improvements
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | **A（我选的）** | All system **vulnerabilities** that could **potentially cause future** errors | ❌ ⭐ **FMEA 描述**（"future" + "potentially" + "vulnerabilities" 三连）— 不是 RCA |
+> | B | Identify **personnel responsible** + remediation | ❌ **违反 RCA "focus on systems not individuals"** 原则 |
+> | **C** ⭐ | **Underlying causes** of events that **have already occurred** | ✅ RCA 标准定义（retrospective + underlying causes）|
+> | D | Statistical **likelihood** of recurrence | ❌ Risk modeling / probability — 不是 RCA |
+> | E | Aggregate patterns from **multiple unrelated** events | ❌ **Common Cause Analysis** — 跨事件聚合，本题是单一类型事件 |
+>
+> ## 我为什么错
+> - 选了：**A**
+> - 错因：**pattern（"future + potentially + vulnerabilities" 三连字眼陷阱反射）**
+> - 核心陷阱：**没注意 stem 三大 retrospective 信号 + 反射选 "system 层全面" 字眼听起来"很 RCA"** — 实际"future vulnerabilities" 是 FMEA 专属语言
+> - 元错误：**第 3 次同型错** ⚠️⚠️（5-24 Q19553 + 5-25 Q22581 + 5-27 Q8）— RCA-FMEA 时间方向 + 字眼陷阱反射钩**完全没建立**
+>
+> ## Memory Hook
+> - **"RCA = 已发生过去事件 underlying causes（过去 why）；FMEA = 未发生未来事件 potential vulnerabilities（未来 what could）"** ⭐
+> - **"选项里看到 'future' + 'potentially' + 'vulnerabilities' 三连 = FMEA 语言"** ⭐⭐⭐ — 若 stem retrospective 这就是钓饵
+> - **类比 4 件套**：
+>   - RCA = **法医验尸**（已死，查死因）
+>   - FMEA = **工程师审图**（还没造，找潜在缺陷）
+>   - CCA = **法医统计办公室**（多案聚合找模式）
+>   - M&M = **科室病例讨论会**（confidential 学习）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点（第 3 次）：**仍把 "system vulnerabilities ... future" 当 RCA 描述** — 字眼听起来"全面 + system 层"反射误锁
+> - 学到：**RCA 也找 system-level latent factors，但 primary purpose 句式必须用 "underlying causes of past events"，不是 "future vulnerabilities"**
+> - 学到：USMLE 选项陷阱**专门用 FMEA 句式当 RCA 钓饵** — 反过来用 RCA 句式当 FMEA 钓饵也有；必须按 stem 时间方向校验选项
+> - 元认知警示：第 3 次同型错说明**没有刻意默写反射钩**；建议每日浩斯宾前 10 秒默写"RCA = past / FMEA = future + 选项 future-vulnerabilities = FMEA 语言"
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q22581]] RCA 5-25 同型错 — **本卡配对** — 5-25 + 5-27 同 future vulnerabilities 字眼陷阱
+>   - [[mistakes/uworld-mistakes#^Q19553]] FMEA prospective (5-25 — 反向；那题选项 B FMEA 是答案，与 RCA 时间方向相反)
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.12 Analysis Frameworks（RCA / FMEA / CCA / M&M）— **必须强化字眼陷阱警示**
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（quality / patient safety）
+> - 🌱 TODO：USMLE_患者安全与质量改进工具 §13.12 **加 "RCA-FMEA 字眼陷阱反射钩"子节** — "future + potentially + vulnerabilities" = FMEA 语言警示 + 4 工具完整表 + stem 时间方向校验 SOP
+>
+> ## ✅ 复盘行动
+> - [ ] **每日浩斯宾前 10 秒默写**："RCA = past underlying / FMEA = future vulnerabilities / 选项 future-vulnerabilities = FMEA 钓饵"
+> - [ ] 默写 4 大 Error Analysis Tools（RCA / FMEA / CCA / M&M）+ 时间方向 + 范围 + stem 触发词
+> - [ ] 默写选项陷阱字眼 → 工具识别表
+> - [ ] 反射训练：见 stem "errors HAVE occurred" + 选项 "future vulnerabilities" → 0.3 秒识别 FMEA 钓饵
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: RCA primary purpose = identify underlying causes of past events（不是 future vulnerabilities = FMEA 语言）/ 4 大 Error Analysis Tools 钉死（RCA past / FMEA future / CCA aggregate multiple / M&M case discussion）/ Stem retrospective 三大信号（errors HAVE occurred / investigations reveal / RCA recommended）/ 选项陷阱字眼 → 工具识别表（future + potentially + vulnerabilities = FMEA）/ RCA 3 大原则（fundamental factors / focus on systems no blame / action plan）
+> 状态:: 🔴 反复错 + #考前必看 + #难记（5-24 Q19553 + 5-25 Q22581 + 5-27 Q8 第 3 次同型错 — 字眼陷阱反射完全未建立）⚠️⚠️
+> 错因:: pattern
+
+> [!example]- [2026-05-27] Ethics / 老年 — Home Health Care vs SNF / admit 反复错（浩斯宾 Q9 — 升级 Q20431 🔴 反复错 + 加 #考前必看）⚠️
+> ^Q9-2026-05-27
+>
+> ## Stem 模式
+> 78F + mild CI + DM (insulin) + HTN + medically stable + hypoglycemia 致 fall + lives alone + daughter 全职上班 + 10 meds + 新 antidepressant → reduce future falls 最佳干预？
+>
+> ## 核心概念
+> **Medically stable + mild CI + 能 ADL + homebound + 需 skilled care → Home health care 首选**；**不 admit**（medically stable + admit = net harm — nosocomial / delirium / functional decline）；**不 SNF**（适 severe CI + 不能 ADL + 持续 monitoring；mild CI 不达标，夺走 independence）。
+>
+> Answer：**C. Refer her for home health care services**
+>
+> ## 普适规则
+>
+> ### Disposition 决策树 ⭐⭐⭐
+>
+> ```
+> Elderly + falls / chronic condition needing care
+>     │
+>     ▼
+> Medically stable?
+>     │
+>     ├─ ❌ 不 stable / acute → Hospitalize
+>     │
+>     └─ ✅ Stable
+>            │
+>            ▼
+>        需要 24/7 supervision?
+>        (severe CI / 不能 ADL / post-stroke rehab)
+>            │
+>            ├─ ✅ 是 → SNF
+>            │
+>            └─ ❌ 否（mild CI / minor injury / 能 ADL）
+>                   │
+>                   ▼
+>               Homebound + 需 skilled care?
+>               (PT / nurse / wound / med management)
+>                   │
+>                   ├─ ✅ → **Home health care** ⭐
+>                   │
+>                   └─ ❌ stable + 能出门 → Outpatient follow-up
+> ```
+>
+> ### Home Health Care 三联触发词
+>
+> | 触发条件 | 本题信号 |
+> |---|---|
+> | **Medically stable** | ✓ "medically stable" |
+> | **Homebound + 需 intermittent monitoring** | ✓ fall + 多药 → 需 nurse 上门 med management |
+> | **Skilled needs** | ✓ insulin + 10 meds + 新 antidepressant → med management + fall safety assessment |
+>
+> ### Home Health Care 服务范围 + Benefits
+>
+> | 服务 | 内容 |
+> |---|---|
+> | **Skilled nursing** | Med management / wound care / IV |
+> | **PT / OT / SW** | Fall prevention + home safety + functional training |
+> | **Benefits** | ① Mental health + autonomy + independence 保持 ② 减 hospital readmission + LOS ③ 减 healthcare spending（< SNF 贵）|
+>
+> ### 老年 Care 升级红线（disposition SOP）
+>
+> | 红线 | 反应 |
+> |---|---|
+> | Medically stable → 优先保 home + outpatient | 不 admit |
+> | Mild CI + 能 ADL → 优先保 independence | 不 SNF |
+> | Acute illness / 不能 ADL / 持续 monitoring | 才升级 SNF / hospital |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Admit hospital for cognitive/functional assessment | ❌ Medically stable + admit = **net harm**（nosocomial / delirium / functional decline）/ Cognitive assessment 可在家 or outpatient 完成 |
+> | **B（我选的）** | Discharge to SNF | ❌ ⭐ **过 institution** — SNF 触发 = severe CI + 不能 ADL + 持续 monitoring；本题 mild CI + minor injury 不达 SNF 标准；夺走 independence ⚠️ |
+> | **C** ⭐ | Refer for home health care | ✅ Medically stable + homebound + skilled needs 三联 → home health care |
+> | D | Daughter administer meds | ❌ Daughter 全职工作不现实 + family burden + 不解决 inter-prescriber coordination |
+> | E | Office follow-up 4 weeks | ❌ 4 周间隔太长，hypoglycemia + 多药急性 risk 不允许等 |
+>
+> ## 我为什么错
+> - 选了：**B（SNF）**
+> - 错因：**知识（disposition 决策树 + medically stable 概念不熟）**
+> - 核心陷阱：**反射"elderly + fall + 担忧 → 升级 institution"** — 没识别 medically stable + mild CI 的"保 independence"原则；把 SNF 当"加强版 home health"误用
+> - 元错误：**5-25 + 5-27 反复错** — 5-25 选 A admit（升级 hospital），5-27 选 B SNF（升级 institution）— 都不选 home health，反复错触发 🔴
+>
+> ## Memory Hook
+> - **"Medically stable + homebound + skilled needs → Home health care 首选"** ⭐
+> - **"SNF 触发 = severe CI + 不能 ADL + 持续 monitoring；mild CI + minor injury ≠ SNF"** ⭐
+> - **"Medically stable + admit = net harm（nosocomial / delirium / functional decline）"** ⭐
+> - 类比：home health care = **专业护工每周来家几次**（保 independence）；SNF = **搬进养老康复院 24/7 监护**（适合不能自理）；admit = **住院 = 暂时性"瘫"环境**（适合不 stable）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点（第 2 次）：反射"elderly + fall = institution 升级" — 学到 **medically stable 是 disposition 决策树最顶端 gate**，不 stable 才 admit；stable 后再看 ADL + supervision 需求
+> - 学到：**Home health care 不是"低级 SNF"** — 是**保 independence 的专业上门服务**；服务范围（nursing / PT / OT / SW / wound / med management）+ benefits（autonomy / 减 readmission / 省 cost）
+> - 学到：**与 5-26 Q107149 fall prevention 在 inpatient 设置（direct line of sight）不同** — 5-26 是已 admit 患者的 fall 预防工具，本题是 discharge 后选哪个 setting
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q20431]] Home Health Care 5-25 首错（选 admit）— **本卡配对** — 5-25 + 5-27 反复错升 🔴
+>   - [[mistakes/uworld-mistakes#^Q107149]] Inpatient fall prevention (5-26 — 不同设置 inpatient vs discharge home)
+>   - [[mistakes/uworld-mistakes#^Q20229]] Telephone outreach readmission (5-25 — 同 patient-side intervention 哲学)
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/专题笔记/Ethics/Ethics_EOL_Hospice与决策]] §2.9 home health care
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/内分泌]]（DM polypharmacy + insulin med management）/ 老年病学
+> - 🌱 TODO：**建** [[完整笔记/专题笔记/Ethics/Ethics_Discharge_Planning速查]]（**Hospital / SNF / Home health / Hospice / Assisted living / Outpatient 6 档完整对照** + 决策树 + 三联触发词 + 红线警示）
+>
+> ## ✅ 复盘行动
+> - [ ] **1 周后重做**（验证 home health 反射建立）
+> - [ ] 默写 Disposition 决策树（stable? → supervision? → homebound? + skilled?）
+> - [ ] 默写 Home Health Care 三联触发词（medically stable + homebound + skilled needs）
+> - [ ] 默写 SNF 触发（severe CI + 不能 ADL + 持续 monitoring）
+> - [ ] 反射训练：见"elderly + medically stable + mild CI + 多药 + 跌倒担忧" → 0.3 秒锁 home health care
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Home Health Care 适应症（medically stable + homebound + skilled needs 三联）/ Disposition 决策树（stable → supervision → homebound + skilled）/ SNF 触发（severe CI + 不能 ADL + 持续 monitoring；mild CI + minor injury ≠ SNF）/ Medically stable + admit = net harm / Home health care 服务范围（nursing / PT / OT / SW / wound / med management）+ benefits（autonomy 保 + 减 readmission + 省 cost）/ "保 independence"原则
+> 状态:: 🔴 反复错 + #考前必看（5-25 Q20431 选 admit / 5-27 Q9 选 SNF — 两次都不选 home health → 升级）⚠️
+> 错因:: 知识
+
+> [!example]- [2026-05-27] Psych+Ethics / OUD 家属教育 — Buprenorphine "trading one drug" misconception → 直接答 long-term outcomes（不是 ease withdrawal / 不是 partial agonist 术语 / 不是 "only way"）(Q105919)
+> ^Q105919
+>
+> ## Stem 模式
+> 21F + OUD 多年（处方 opioid → heroin 几次 + antecubital 注射痕迹）+ 父母发现回家戒断 + 多次自行失败 → 推荐 **buprenorphine** → 妈妈："How can that help? We came here for help, you're just trading one drug for another." → 哪个回应**最佳解释 prescribing 原因**？
+>
+> ## 核心概念
+> **MAT 家属教育 = 必须直接回应 misconception "trading one drug" → 用 plain language 强调 long-term outcomes（relapse ↓ / overdose ↓ / death ↓），不绕开担忧 + 不用医学术语 + 不暗示 short taper + 不说"only way"。**
+>
+> ## 普适规则
+>
+> ### MAT/medication-assisted treatment 家属教育 4 大铁律 ⭐⭐⭐
+>
+> | 规则 | 正确做法 | 反 pattern |
+> |---|---|---|
+> | **1. 直接回应 misconception** | 承认担忧 + 解释为什么不是 "trading" | 绕开担忧讲技术细节 |
+> | **2. Plain language** | "prevents relapse / reduces death" | "partial μ agonist activates receptors" |
+> | **3. 强调 long-term outcomes** | relapse ↓ / overdose ↓ / death ↓（evidence-based）| 只讲 short-term withdrawal management |
+> | **4. 避免绝对化** | "best option" / "first-line for most" | "only way" / "must" |
+>
+> ### MAT 时长铁律
+> - **MAT = long-term therapy；多数患者需要 lifelong**
+> - **少数** stable 患者可慢 taper — **以月-年为单位**，不是 "few days"
+> - 题中 B "ease withdrawal until take off over next few days" → **直接矛盾 MAT 长期定位**
+>
+> ### "为什么不是 trading" 的科学回答框架
+> ```
+> ① illicit opioid (heroin/pills) — 短效 + 高峰陡 + 高 reward + 高 overdose 风险
+> ② Buprenorphine (partial agonist) — 长效 + 平台 + 减 craving 不 high + ceiling effect 防 overdose
+> ③ 净效果：替代 high-risk drug with low-risk medical therapy + 重塑生活
+> → ≠ "trading"，而是**医疗替代 substitution therapy**
+> ```
+>
+> ### Shared Decision-Making 在 OUD
+> - 患者偏好 MAT → 提供 buprenorphine / methadone（一线）
+> - 患者**坚决拒绝 MAT + motivated** → 提供 naltrexone（pure antagonist）+ 心理社会支持（acceptable，但 less effective — **需教育此差距**）
+> - 家属介入 → 必须 educate misconception → 不能 dismiss
+>
+> ## 易混陷阱（普适）
+>
+> ### 干扰项分析
+>
+> | 选项 | 为什么错 |
+> |---|---|
+> | **A. "only partially activates opioid receptors, does not precipitate withdrawal when abruptly discontinued"** | 双错：① 用医学术语（partial agonist）家属听不懂 ② 错误暗示"abruptly stop 无 withdrawal" — 实际 abrupt discontinuation 仍引发 withdrawal |
+> | **B. "ease withdrawal until take her off over next few days"** ⚠️ 我的选择 | 矛盾 MAT 长期定位：MAT = long-term / often lifelong；少数 taper 也是数月-数年，**不是 few days** |
+> | **C. "prevents relapse, significantly reduces overdose and death"** ✅ | **直接答 misconception + plain language + long-term outcomes** |
+> | **D. "MAT is the only way for her to stop using opioids"** | 绝对化陷阱："only way" 错 — non-medication therapy 在 highly motivated patients 是 acceptable（less effective 但可选） |
+>
+> ### "Trading one drug for another" misconception 普适性
+> - **极常见 stigma** — 家属 / 患者本人 / 社区都有此认知偏差
+> - CK 反复考此 misconception 的**反应**（而非药理本身）
+> - **必答框架**：承认 → 解释科学 → 强调 outcomes（永远不要 dismiss）
+>
+> ### Family vs Patient education 优先级
+> - OUD + 家属在场 + 家属问问题 → **同时 educate 家属**（不只 patient）
+> - Family involvement 是 OUD outcomes 的 protective factor
+>
+> ## 我为什么错
+> - 选了：**B**（"ease withdrawal" 听起来对，是 MAT 直接机制）
+> - 错因：**干扰项 + 知识**
+> - 核心陷阱：
+>   - 没抓住妈妈 misconception 的**核心**（"trading" = 担心长期依赖 → 必须直接回应**长期**获益）
+>   - 不知道 MAT 多数 **lifelong** → B 的 "few days taper" 是错误暗示
+>   - 只看到 B 提到 "withdrawal" 就觉得对，没看后半句 "take off over next few days"
+>
+> ## Memory Hook
+> - **"妈妈 trading 反应 = 别绕开，直接答 long-term benefits（relapse / overdose / death ↓）"** ⭐⭐⭐
+> - **"MAT ≠ short-term taper；MAT = long-term / often lifelong"** ⭐
+> - **"4 铁律：直接回应 + plain language + long-term outcomes + 避免绝对化"**
+> - **"B 陷阱：'ease withdrawal' 听似对，但 'few days taper' 矛盾 MAT 定位"**
+> - 类比：DM 教育"insulin 不是上瘾，是替代"= 同 misconception 框架
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：B 选项 "ease withdrawal" 字面正确（buprenorphine 确实减 withdrawal），没意识到 B 后半句 "take her off over next few days" 才是错点
+> - 学到：**MAT 多数患者 lifelong** — taper 罕见且以月-年计
+> - 学到：**"trading one drug for another" 是 USMLE 反复考的 misconception** — 必须直接答 long-term outcomes（不绕）
+> - 学到：**医学术语反 pattern** — 家属教育要 plain language（A 选项的 "partially activates" 就因术语扣分）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 待积累（OUD MAT family education / "trading" misconception 类型暂无其他题）
+>   - 同一系列 [[mistakes/uworld-mistakes#^Q4320]]（不是同主题但都是 family communication 框架）
+> - 📚 主笔记：
+>   - [[完整笔记/专题笔记/psych/psych_MAT速查]]（MAT 三药对比 — buprenorphine / methadone / naltrexone）
+>   - [[完整笔记/专题笔记/psych/psych_医患沟通对话术SOP]]（family education / misconception 反应框架）
+>   - [[完整笔记/Peixuan分科笔记/psych]]（addiction medicine 主笔记）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/Ethics_Master]]（shared decision-making + family education + autonomy + addiction stigma）
+>   - [[完整笔记/专题笔记/物质单药/psych_物质_Opioids]]（opioid 单药详细）
+> - 🌱 TODO：
+>   - **psych_MAT速查 待加新 §**：「家属教育反 misconception 框架」— "trading one drug" 经典反应 + 4 铁律（直接 + plain + long-term + 反绝对）+ Q105919 案例
+>   - psych_医患沟通对话术SOP 待加「OUD 家属 misconception 对话模板」
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 MAT 家属教育 4 铁律（直接回应 / plain language / long-term outcomes / 反绝对化）
+> - [ ] 默写 "trading one drug" 科学回答框架（illicit short+chaotic vs MAT long+stable）
+> - [ ] 默写 MAT 时长（long-term / often lifelong；taper 月-年非天）
+> - [ ] 反射训练：见"OUD + 家属 misconception" → 0.3 秒锁"直接答 long-term outcomes（不绕 / 不术语 / 不 only way）"
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: OUD MAT 家属教育反 misconception 4 铁律（直接回应 + plain language + long-term outcomes 强调 relapse/overdose/death ↓ + 反绝对化）/ "Trading one drug for another" 经典 misconception 必答框架（承认 + 科学 + outcomes）/ MAT 时长铁律（long-term / often lifelong；taper 以月-年计 ≠ few days → B 的"few days taper"是反 MAT 定位）/ 医学术语反 pattern（"partially activates" → 家属听不懂）/ "Only way" 绝对化陷阱（non-medication 在 motivated 患者 acceptable, 虽 less effective）/ Family + patient 同时 educate
+> 状态:: 🟡
+> 错因:: 干扰项
+
+> [!example]- [2026-05-27] 骨科+Ethics / 老年 Fall 二级预防 — Bone density 优化（FRAX + DEXA + bisphosphonate）减 serious fall injury（不是 call alarm / 不是 stop anticoag / 不是 hip protector）(Q107154)
+> ^Q107154
+>
+> ## Stem 模式
+> 72F + 渐进 unsteady 1 年 + 1 次 fall（夜起厕所未开灯）+ mild CI + AF on anticoagulant + 独居 single-story + slow gait + extended rise from chair + 女儿担心舅舅死于 fall complications → physician 已安排 fall prevention measures + home safety assessment → 哪个**额外干预最有效减 serious fall-related injury**？
+>
+> ## 核心概念
+> **老年 fall 防护 = 3 层防御。Primary prevention（exercise + home safety + medication review）已实施 → 仍可能 fall → Secondary prevention（=减 fall 后 serious injury）= bone density 优化（FRAX + DEXA + bisphosphonate）。Hip fracture 是 fall 后最严重并发症 → osteoporosis 治疗是 evidence-supported 二级预防支柱。**
+>
+> ## 普适规则
+>
+> ### 老年 Fall 3 层防御 ⭐⭐⭐
+>
+> | 层级 | 干预 | 目标 | Evidence |
+> |---|---|---|---|
+> | **Primary**（防 fall 发生）| Exercise / home safety / medication review / vision-hearing / vitamin D | 减 fall 频率 | 强 |
+> | **Secondary**（减 fall 后 injury）⭐ | **FRAX 评估** + **DEXA 骨密度** + **bisphosphonate（若 10-year fracture risk >2.5%）** | **减 hip fracture / serious injury** | 强 |
+> | Tertiary（fall 后 recovery）| Rehab / PT-OT | 恢复功能 | — |
+>
+> > [!info] **PT vs OT 缩写**
+> > - **PT = Physical Therapy（物理治疗）** — 大动作：gait / balance / strength / range of motion；Fall 防护中负责 **balance training + supervised exercise + cane-walker 训练**
+> > - **OT = Occupational Therapy（作业治疗）** — 精细动作 + ADL：穿衣 / 洗澡 / 做饭 / 上厕所；Fall 防护中负责 **home safety assessment + grab bars 推荐 + 环境改造**
+> > - **Primary prevention**：OT 主导（home safety）；**Tertiary recovery**：PT + OT 联合 rehab
+>
+> ### Osteoporosis 评估 + 治疗阶梯
+>
+> | 工具 | 用途 | 触发 |
+> |---|---|---|
+> | **FRAX** | 10-year major osteoporotic fracture risk 评估（clinical risk factors）| Postmenopausal women / men 50+ + fall risk |
+> | **DEXA** | 骨密度 T-score 测量；osteoporosis 诊断（T ≤ -2.5）| FRAX 提示 + 全 65+ women / 70+ men |
+> | **Bisphosphonate**（alendronate / risedronate / zoledronic acid）| Osteoporosis 一线治疗 | **10-year major fracture risk >2.5%** 或 T ≤ -2.5 |
+>
+> ### Fall 防护反 pattern 黑名单 ⭐
+>
+> | 反 pattern | 为什么无效 |
+> |---|---|
+> | **Call alarm to summon assistance** | 严重 fall injuries（LOC / limb injury / fracture）患者**无法激活** alarm → 不减 fall outcomes |
+> | **Wearable hip protector** | Multiple studies 显示**无 fracture risk 减少**（依从性极差，不舒服不愿穿）|
+> | **Discontinue anticoagulation 防 SDH** | 错！Subdural hematoma from fall 较 rare；AF 不抗凝的 stroke 风险 ≫ fall-related head injury 风险 |
+> | **Cane / walker for fear of fall** | 反而 **higher fall risk**（被自己 device 绊倒）— 除非有明确 mobility 限制 |
+>
+> ### AF 老人 fall + anticoagulation 决策（高频考点）
+> - **默认**：继续抗凝（stroke 风险远高于 fall 出血风险）
+> - **例外**：反复 fall + 明确 head trauma history → 重新评估（罕见停药）
+> - CK stem 看到"AF + fall risk + anticoagulant" → **不要选 stop anticoagulation**
+>
+> ## 易混陷阱（普适）
+>
+> ### 干扰项分析
+>
+> | 选项 | 为什么错 |
+> |---|---|
+> | **A. Bone density assessment + optimization** ✅ | **Secondary fall injury prevention 支柱** — hip fracture 是 fall 后 leading cause of serious injury，bisphosphonate evidence-supported |
+> | **B. Discontinuation of anticoagulation** | AF stroke 风险 ≫ fall-related SDH 风险；**不停抗凝** |
+> | **C. Provision of call alarm** ⚠️ 我的选择 | 严重 fall injury 患者**无法激活 alarm** → 不减 outcomes（昨日 Q107152 同 pattern 已踩过）|
+> | **D. Wearable hip protector** | 依从性差 → multiple studies 无 fracture risk 减少 |
+>
+> ### "Primary 已实施 → 仍 fall → 思路必须切 Secondary" 思维模型
+> - Stem 给了 "fall prevention measures + home safety assessment" = primary 已做
+> - 接下来选项问 **额外** 干预 → 必须是 **secondary**（减 injury severity）= bone density 优化
+> - **反 pattern**：选 primary 重复项（再 home safety / 再 exercise）= 错
+>
+> ## 我为什么错
+> - 选了：**C**（call alarm — 觉得"可以 summon assistance"听似直接降 fall 后果）
+> - 错因：**干扰项 + 知识**
+> - 核心陷阱：
+>   - **昨日 Q107152 刚学过 call alarm / bed alarm 反 pattern**（严重 injury 无法激活）→ 今天又踩同坑 ⚠️
+>   - 没把 osteoporosis 当作 fall-related serious injury 的**根本可预防 mediator**
+>   - 没建立 "primary 已实施 → 切 secondary（=减 injury severity）" 的思维切换
+>
+> ## Memory Hook
+> - **"老年 Fall 3 层：发生 (primary) → severity (secondary) → recovery (tertiary)"** ⭐
+> - **"Reduce serious fall injury = reduce hip fracture = optimize bone density"** ⭐⭐⭐
+> - **"FRAX >2.5% → DEXA → bisphosphonate"**
+> - **"反 pattern 4 联：call alarm / hip protector / stop anticoag / cane for fear"** ⭐（call alarm = 5-26 Q107152 + 5-27 Q107154 同 pattern 第 2 次踩）
+> - **"AF + fall risk = 不停抗凝（stroke ≫ SDH）"**
+> - **FRAX 缩写**：**F**racture **R**isk **A**ssessment Tool（骨折风险评估工具）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：昨天刚学 Q107152 call alarm 无效，今天又错选 C — 反 pattern 没固化
+> - 学到：**"Serious fall-related injury" 关键词 → 思维切到 secondary prevention = bone density / hip fracture prevention**
+> - 学到：**FRAX >2.5% = bisphosphonate 治疗 threshold**（不是 T-score ≤ -2.5 唯一标准）
+> - 学到：**Hip protector 反直觉无效**（依从性差）
+> - 学到：**AF + fall = 不停抗凝**（高频 stem trap）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q107151]] **Fall screening tool low PPV**（同 fall 系列；5-26 做对）
+>   - [[mistakes/uworld-mistakes#^Q107152]] **Tailored fall prevention; bed alarm 反 pattern**（5-26 错；与本题 call alarm 反 pattern 同源 — **第 2 次踩坑**）⚠️
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/骨科]]（osteoporosis / hip fracture / FRAX / DEXA / bisphosphonate）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.9 HAC Falls（待扩 secondary prevention 段）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/心内]]（AF + anticoagulation + fall risk 不停抗凝铁律）
+>   - [[完整笔记/Peixuan分科笔记/外科]]（hip fracture 处理）
+>   - [[完整笔记/专题笔记/Ethics/Ethics_Communication_Counseling]]（family worry → counseling 框架）
+> - 🌱 TODO：
+>   - **新衍生候选 [[完整笔记/专题笔记/USMLE/USMLE_老年Fall3层防护]]**（Q107151 + Q107152 + Q107154 已 3 题成体系 → 可建 v1 精简版）
+>   - USMLE_患者安全与质量改进工具 §13.9 待加："Secondary fall prevention = bone density 优化（FRAX + DEXA + bisphosphonate）"段 + "反 pattern 4 联（call alarm / hip protector / stop anticoag / cane）"
+>
+> ## ✅ 复盘行动
+> - [ ] 默写老年 Fall 3 层防御表（primary/secondary/tertiary + 各层具体干预）
+> - [ ] 默写 Osteoporosis 评估治疗阶梯（FRAX → DEXA → bisphosphonate, threshold 2.5%）
+> - [ ] 默写 Fall 反 pattern 4 联（call alarm / hip protector / stop anticoag / cane for fear）
+> - [ ] 默写 AF + fall = 不停抗凝铁律
+> - [ ] 反射训练：见"老年 + fall risk + primary 已实施 + 问额外减 serious injury" → 0.3 秒锁 bone density / FRAX / bisphosphonate
+> - [ ] 「考前必看」反 pattern：call alarm 已踩 2 次（Q107152 + Q107154）→ 升 🔴
+>
+> ---
+>
+> 学科:: 骨科
+> 主题:: 老年 Fall 3 层防御（primary 防发生 / secondary 减 injury / tertiary recovery）/ Secondary fall injury prevention = bone density 优化（FRAX 10-yr risk >2.5% → DEXA → bisphosphonate）/ Hip fracture 是 fall 后 leading serious injury / Fall 反 pattern 4 联（call alarm 无法激活 / hip protector 依从性差 / 停抗凝违反 AF stroke 风险铁律 / cane for fear 反增 fall）/ AF + fall = 不停抗凝（stroke ≫ SDH）/ "Primary 已做 → 切 secondary 思维模型" / Bisphosphonate 治疗 threshold（10-yr fracture risk >2.5% 或 T ≤ -2.5）
+> 状态:: 🔴 反复错 + #考前必看（5-26 Q107152 bed alarm 错 + 5-27 Q107154 call alarm 错 — call alarm 反 pattern 2 次未固化 → 升 🔴）⚠️
+> 错因:: 干扰项
+
+> [!example]- [2026-05-27] Ethics / Patient Safety — 诊断错误 root cause = Cognitive Overload（busy urgent care + multitasking → availability bias 40% + confirmation bias 40% = 80% errors）(Q106048)
+> ^Q106048
+>
+> ## Stem 模式
+> 繁忙 urgent care chart review SEA 诊断错误：60% 患者 delayed dx。表格 4 行：
+> - ~40% red flags **not documented** during encounter
+> - ~40% red flags documented **but no follow-up tests ordered**
+> - ~10% no prompt follow-up after concerning test results
+> - ~10% patient missed follow-up appointment
+>
+> → 问 SEA 诊断错误最常见 **underlying factor**？
+>
+> ## 核心概念
+> **诊断错误的 root cause = cognitive bias（4 大经典：anchoring / availability / confirmation / framing），cognitive bias 自身的 enabling factor = cognitive overload（high-volume / multitasking / time pressure / shift fatigue）。表中 80% 的 errors（40%+40%）都映射到 cognitive bias → root cause 必是 cognitive overload。**
+>
+> ## 普适规则
+>
+> ### 表格题诊断错误 → 找 mechanism 占比最高 ⭐
+> - 数据题不读"看上去合理"的选项，**算占比** → 80% (availability 40% + confirmation 40%) ≫ 10% (communication) ≫ 10% (patient-side)
+> - 选 explains majority 的 mechanism = cognitive bias → root cause = cognitive overload
+>
+> ### 4 大 Cognitive Bias 映射本题 ⭐⭐⭐
+>
+> | Bias | 定义 | 本题表现 | 占比 |
+> |---|---|---|---|
+> | **Availability** | 让常见 / recent / memorable dx 影响判断 | 常见的 musculoskeletal back pain 太 "available" → **没记录 red flag**（差异 narrow 在 common dx）| **~40%** |
+> | **Confirmation** | 强调支持 presumed dx 的证据 + 忽略 alternate | 一旦怀疑 musculoskeletal → 看到 red flags 但**不 order follow-up tests** | **~40%** |
+> | Anchoring | Fixate on initial impression（related to confirmation + premature closure）| — | — |
+> | Framing | 外部信息呈现影响判断 | — | — |
+>
+> ### Cognitive Overload = Bias 的 Enabling Factor ⭐
+> - **High patient volume + multitasking + time pressure + shift fatigue → cognitive resources 不足 → 依赖 mental shortcuts → bias 激活**
+> - Stem 关键词："**busy** urgent care clinic" → 直接暗示 cognitive overload
+> - 解决策略：减负 + structured decision tools（CDSS）+ 强制 checklist + cognitive forcing strategies
+>
+> ### 数据 → root cause 因果链
+> ```
+> Busy urgent care (cognitive overload)
+>     ↓ enabling factor
+> Cognitive bias 激活（availability + confirmation = 80%）
+>     ↓ 导致
+> Diagnostic error (SEA delayed dx)
+> ```
+>
+> ## 易混陷阱（普适）
+>
+> ### 干扰项分析
+>
+> | 选项 | 为什么错 |
+> |---|---|
+> | **A. Complex EMR** | EMR 复杂可能导致**错单**（如 wrong MRI），**不能解释为什么不 order follow-up tests** — 系统问题占比 ~10% 而非 40%+40% |
+> | **B. High patient complexity** ⚠️ 反 pattern | **复杂患者反而 PROMOTE comprehensive workup**（医生更 careful，order 更多 dx）— 不是 bias 诱因。这是 USMLE 常见 trap：以为"复杂 → 漏诊"，实际反向 |
+> | **C. Inadequate team communication** ⚠️ 我的选择 | 只解释 ~10%（patient missed appt / no f/u after tests）— **占比不够** |
+> | **D. Physician cognitive overload** ✅ | 解释 80% 的 cognitive bias errors；与 "busy urgent care" stem 关键词匹配 |
+>
+> ### "Cognitive bias root cause = overload" 反复考
+> - Stem 暗示 cognitive overload 的关键词谱系：
+>   - "**busy** clinic" / "**high patient volume**" / "**multitasking**"
+>   - "**time pressure**" / "**shift fatigue**" / "**after long shift**"
+>   - "**multiple distractions**" / "**short visit time**"
+> - 看到任一 → cognitive overload → 推 bias 答案
+>
+> ### 与 Q106764（5-26 framing bias）的对比 ⭐
+> - Q106764：医生看 **chart**（chart info → frame 形成 dx 前）→ **Framing**（外部信息呈现）→ ✓ 做对
+> - Q106048（本题）：medical practice **数据分析** → 整体 root cause → **Cognitive overload**（不是单题 bias 类型）
+> - **不同维度**：单 case bias 类型 vs 整体 root cause；今天考的是后者
+>
+> ## 我为什么错
+> - 选了：**C**（team communication — 听似 catch-all，能解释 follow-up issues）
+> - 错因：**干扰项 + pattern**
+> - 核心陷阱：
+>   - 没**算占比**：team communication 只解释 10%，cognitive bias 解释 80%
+>   - 没把 ~40% + ~40% = 80% 都归到 cognitive bias 上（availability + confirmation）
+>   - 没注意 stem "busy urgent care" 关键词 → cognitive overload
+>   - **思维卡在 "case-level bias 类型"**（昨日 Q106764 训练点），没切到 "整体 root cause = overload" 这个新维度
+>
+> ## Memory Hook
+> - **"Diagnostic error 表格题 → 算占比 → cognitive bias 最大 → root cause = cognitive overload"** ⭐⭐⭐
+> - **"Stem 关键词 'busy / high-volume / multitasking' = cognitive overload 信号"** ⭐
+> - **"No red flag documented = availability；Red flag noted but no f/u = confirmation"**
+> - **"B 反 pattern：high complexity ≠ bias 诱因，反而 PROMOTE careful workup"** ⭐
+> - **"昨日 Q106764 = case bias 类型 (framing) vs 今日 Q106048 = 整体 root cause (overload) — 不同维度"**
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：被 "team communication" 的 catch-all 印象骗了，没算占比
+> - 学到：**数据题必须算占比** — 哪个 mechanism 解释 majority 选哪个
+> - 学到：**Cognitive bias 4 大与具体表格行的对应**（availability ↔ 没记录 red flag / confirmation ↔ 记录但不 f/u）
+> - 学到：**Cognitive overload 是 bias 的 root cause** — 不是 bias 本身（不同层级）
+> - 学到：**B 反 pattern** — high patient complexity 反向 PROMOTE careful workup（USMLE 反复陷阱）
+> - 学到：**Q106764 vs Q106048 不同维度** — case-level bias 类型 vs 整体 root cause
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q106764]] **Framing bias case-level**（5-26 做对 — chart-based dx → framing）
+>   - [[mistakes/uworld-mistakes#^Q18796]] / [[mistakes/uworld-mistakes#^Q18797]] **4 大 cognitive bias 经典**（anchoring / framing 区分）
+>   - [[mistakes/uworld-mistakes#^Q106765]] **Defensive medicine vs cognitive bias 边界**（5-26 错 — linked vignette Item 2）
+> - 📚 主笔记：
+>   - [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.4（4 大 cognitive bias 已覆盖；待加 cognitive overload = bias enabling factor + 数据题算占比方法）
+>   - [[完整笔记/Peixuan分科笔记/Ethics_Master]]
+> - 🏥 跨学科：
+>   - 任何"busy clinic / multitask / fatigue → error"题（ED / urgent care / overnight call）
+>   - [[完整笔记/Peixuan分科笔记/感染]]（SEA 本身的临床表现 + red flags）
+> - 🌱 TODO：
+>   - **USMLE_患者安全与质量改进工具 §13.4 待加**：「Cognitive overload = bias enabling factor」段 + 「数据题算占比方法」段 + 「High patient complexity 反 pattern」段（反 USMLE 直觉陷阱）
+>
+> ## ✅ 复盘行动
+> - [ ] 默写"数据题 → 算占比 → 选 majority mechanism"原则
+> - [ ] 默写 cognitive bias 4 大与表格行的映射（availability ↔ 没记录 / confirmation ↔ 记录但不 f/u）
+> - [ ] 默写 cognitive overload 关键词谱（busy / high-volume / multitasking / time pressure / fatigue）
+> - [ ] 默写 B 反 pattern（high complexity → PROMOTE workup ≠ bias 诱因）
+> - [ ] 反射训练：见"诊断错误数据表 + busy clinic" → 0.3 秒锁 cognitive overload
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: 诊断错误 root cause = Cognitive Overload（busy urgent care + multitasking = enabling factor）/ Cognitive bias 4 大与表格行映射（Availability ↔ 没记录 red flag = 常见 dx 太 available / Confirmation ↔ 记录但不 order f/u = 强化 presumed dx）/ 数据题算占比方法（80% bias ≫ 10% communication）/ High patient complexity 反 pattern（反而 PROMOTE comprehensive workup ≠ bias 诱因）/ Cognitive overload 关键词谱（busy / high-volume / multitasking / time pressure / shift fatigue）/ Case bias 类型（Q106764 framing）vs 整体 root cause（Q106048 overload）不同维度
+> 状态:: 🟡
+> 错因:: 干扰项
+
+> [!example]- [2026-05-27] Ethics / Patient Safety — CDSS / Electronic decision support tools 减 cognitive overload + bias（linked vignette Item 2 of Q106048；不是 RCA / 不是 simulation / 不是 care coordination / 不是 lab automation）(Q106049, linked vignette Item 2 of 2 with Q106048)
+> ^Q106049
+>
+> ## Stem 模式
+> Linked vignette Item 2 of Q106048（busy urgent care SEA delayed dx 60% + 表格 cognitive bias 80%）→ 哪个**干预最 likely 减 delayed diagnosis frequency**？
+>
+> ## 核心概念
+> **当 root cause = cognitive overload + bias → 直接对策 = CDSS / Electronic Decision Support tools**（real-time interactive + EMR integrated + prompt 行动 + provide evidence-based algorithms）。**减 cognitive overload 才能减 bias 激活 → 减 dx error。**
+>
+> ## 普适规则
+>
+> ### Diagnostic Error 干预匹配 ⭐⭐⭐
+>
+> | Root cause（Item 1 已识别）| 正确干预（Item 2 选）| 反 pattern |
+> |---|---|---|
+> | **Cognitive overload + bias** | **CDSS / EDS tools**（real-time + algorithms）| RCA（causes 已知 ≠ unclear）/ training（add burden）|
+> | Causes unclear | **RCA**（找 underlying）| CDSS（无目标）|
+> | System / process gap | **PDSA + FMEA** | training only |
+> | Communication gap | Closed-loop / sign-out / huddles | CDSS（不解决人际）|
+> | Knowledge deficiency | Training / education | CDSS / RCA |
+>
+> ### CDSS / EDS Tools 3 大机制
+> 1. **Remind risk factors from previous encounters**（eg, history of IV drug use → infection risk for SEA）
+> 2. **Prompt specific actions during H&P**（eg, ask about fever during back pain）
+> 3. **Provide quick access to evidence-based algorithms / clinical pathways**（eg, when to order ESR / inflammatory markers）
+>
+> ### "Cause 已知 → 不需 RCA" 铁律 ⭐
+> - **RCA 适用条件**：causes of error 不清楚 → 需要 systematic 找 underlying（fishbone / 5-why）
+> - **本题 cause 已知 = cognitive bias（Item 1 数据已展示）** → RCA 没有目标 → **不选**
+> - CK 题型：Item 1 给数据识别 cause → Item 2 选 cause 对应的干预；如果 Item 2 还选 RCA = 重复 Item 1 工作
+>
+> ### "Cognitive overload → training" 反 pattern ⭐
+> - Training/simulation 只在 **knowledge deficiency** 时有效
+> - Cognitive overload 已是 burden → 加 training = add more burden → **加剧 overload**
+> - CK trap：Choice D simulation-based training = 表面合理实则反向
+>
+> ## 易混陷阱（普适）
+>
+> ### 干扰项分析
+>
+> | 选项 | 为什么错 |
+> |---|---|
+> | **A. Care coordinators / multidisciplinary teams for f/u testing** | Care coordination 改 patient follow-up（10%），**不减 cognitive bias**（80%）|
+> | **B. Electronic decision support tools (CDSS)** ✅ | 直接对策 cognitive overload + bias 80% errors |
+> | **C. Periodic root-cause analysis** ⚠️ 我的选择 | RCA 用于 causes unclear；本题 Item 1 已识别 cognitive bias = primary cause → 不需 RCA |
+> | **D. Simulation-based training H&P** | Training 适用 knowledge deficiency；本题是 cognitive overload → add training = **add burden 加剧 overload** |
+> | **E. Standardized lab protocols auto-screen inflammatory markers** | Inflammatory markers low specificity for back pain → 应**选择性 order**, 不 automatic |
+>
+> ### Linked vignette 双题协同 ⭐
+> - **Item 1（Q106048）= identify root cause**（cognitive overload）
+> - **Item 2（Q106049）= 对应干预**（CDSS 减 cognitive overload）
+> - **正确 logic chain**：cause → 匹配干预；选 RCA = 倒退到 "再找一次 cause"
+>
+> ## 我为什么错
+> - 选了：**C**（RCA — 觉得 "root cause analysis" 听起来 systematic + appropriate）
+> - 错因：**干扰项 + 知识**
+> - 核心陷阱：
+>   - **Item 1 已识别 cause = cognitive bias**，没意识到 RCA 已无目标
+>   - **没建立 "cause → 干预匹配" 的反射**（cognitive overload → CDSS / 不是 RCA / 不是 training）
+>   - 被 "root cause analysis" 这个 buzzword frame 了
+>
+> ## Memory Hook
+> - **"Cause 已知 (Item 1) → 干预匹配 (Item 2)；CDSS 减 cognitive overload，不选 RCA"** ⭐⭐⭐
+> - **"RCA 适用 causes unclear；causes 已知 → RCA 无目标"** ⭐
+> - **"Cognitive overload → 加 training = add burden（反 pattern）"** ⭐
+> - **"CDSS 3 大机制：remind risk factors + prompt actions + evidence-based algorithms"**
+> - 类比：医生 burnout → 加 mandatory mindfulness training = add burden（同反 pattern）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：被 "root cause analysis" buzzword frame 了，没意识到 Item 1 已做完 RCA 工作
+> - 学到：**Linked vignette 双题协同**：Item 1 识别 cause → Item 2 选 cause 对应干预
+> - 学到：**CDSS = cognitive overload 直接对策**（real-time + algorithms 减 mental load）
+> - 学到：**Training 加在 cognitive overload 是反 pattern**（add burden）
+> - 学到：**RCA 是当 causes unclear 时的工具，不是万能 QI 工具**
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q106048]] **linked vignette Item 1**（cognitive overload root cause 识别 — 5-27 错）
+>   - [[mistakes/uworld-mistakes#^Q21477]] Swiss Cheese Model（5-27 错）
+>   - [[mistakes/uworld-mistakes#^Q22581]] RCA primary purpose = past events causes（5-27 错 — RCA 边界）
+> - 📚 主笔记：
+>   - [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.4 cognitive bias + §RCA vs CDSS（待加干预匹配表）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/感染]]（SEA 临床表现 + red flags）
+> - 🌱 TODO：
+>   - **USMLE_患者安全与质量改进工具 待加新 §**「Diagnostic Error 干预匹配表」(cause → intervention) + 「CDSS 3 大机制」+ 「Cognitive overload → training 反 pattern」+ 「RCA 适用条件 = causes unclear」
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 Diagnostic Error 干预匹配表（cause → intervention）
+> - [ ] 默写 CDSS 3 大机制（remind risk factors / prompt actions / algorithms）
+> - [ ] 默写 "Cause 已知 → 不需 RCA" 铁律
+> - [ ] 默写 "Cognitive overload → add training = 反 pattern"
+> - [ ] 反射训练：见"Linked vignette Item 1 已识别 cause" → 0.3 秒锁 Item 2 选 cause-matched intervention
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Diagnostic Error 干预匹配（cognitive overload → CDSS / causes unclear → RCA / system gap → PDSA-FMEA / communication → closed-loop / knowledge deficit → training）/ CDSS / EDS Tools 3 大机制（remind risk factors + prompt H&P actions + evidence-based algorithms）/ "Cause 已知 → 不需 RCA" 铁律 / "Cognitive overload → 加 training = add burden" 反 pattern / Linked vignette 双题协同（Item 1 cause → Item 2 intervention，不重复 RCA）/ Inflammatory markers low specificity for back pain（不应 automatic）
+> 状态:: 🟡
+> 错因:: 干扰项
+
+> [!example]- [2026-05-27] 外科+Ethics / Surgical Time-out — 患者参与 site verification（不是 brief / 不是 ≥2 experienced / 不是 mark nonoperative / 不是 enter OR 前完成 final time-out）(Q22186)
+> ^Q22186
+>
+> ## Stem 模式
+> 65M + knee OA + elective left knee arthroplasty + busy hospital + OR 延误 2 hours + 调**新 OR / 新 nurse / 新 surgical team** → verify patient's planned operation 时，哪个 practice 最 recommended promote patient safety？
+>
+> ## 核心概念
+> **Surgical safety 三联 = preoperative verification + site marking + final time-out。Preoperative verification 必须 involve patient/surrogate + 2 identifiers + ≥2 providers + 在 preoperative holding area。患者参与是关键 redundancy 防 wrong-site surgery。**
+>
+> ## 普适规则
+>
+> ### Surgical Safety 三联完整流程 ⭐⭐⭐
+>
+> | 阶段 | 何时 | 做什么 | 谁 |
+> |---|---|---|---|
+> | **Preoperative verification** | Preoperative holding area | Patient ID + operative site + type of operation + side + 2 identifiers | **≥2 providers + 患者/surrogate** ⭐ |
+> | **Site marking** | Preop | Mark "YES" + initials on **operative** site only + permanent marker | Surgeon |
+> | **Final time-out** ⭐ | **Immediately prior to skin incision in OR** | Repeat verification of patient ID + site + side | **Entire surgical team** + addressing **all** concerns |
+>
+> ### Sentinel Events 风险因素（本题暴露）
+> - **Wrong-side surgery** = sentinel event（patient death / irreversible harm）
+> - **高风险触发**：high task complexity / urgency（**schedule delays / high case volume**）/ **interchangeable surgical teams**（本题：新 OR + 新 nurse + 新 team）
+>
+> ### 患者参与 = 关键 redundancy ⭐
+> - **2 identifiers**（name + DOB）
+> - 患者 OR surrogate confirm operative site + side
+> - **防错机制**：even 1 provider miss → patient 是 last line
+>
+> ### Final Time-out 5 铁律
+> 1. **位置**：OR + 紧贴 incision（不是 preop holding）
+> 2. **时机**：immediately prior to skin incision
+> 3. **参与者**：**entire surgical team**（不是 designated few）
+> 4. **长度**：**不限时** — 所有 concerns / questions must be addressed
+> 5. **范围**：再次 verify patient ID + operative site + side
+>
+> ## 易混陷阱（普适）
+>
+> ### 干扰项分析
+>
+> | 选项 | 为什么错 |
+> |---|---|
+> | **A. Complete all time-out before patient enters OR** | 错。**Final time-out 必须在 OR + immediately prior to incision**；preop verification 可在 holding area 但 final time-out 必须在 OR |
+> | **B. Designate 2 experienced team members for final time-out** | 错。Final time-out 必须 **entire team**（所有 member 都 share responsibility；discrepancies 可能被任何成员 detect）|
+> | **C. Have patient participate in site verification** ✅ | Pre-op verification 应 involve patient/surrogate + 2 identifiers + ≥2 providers |
+> | **D. Keep time-out focused and brief** ⚠️ 我的选择 | 错。**Length 不应 limit** — 所有 concerns / questions from team members must be addressed before procedure begins |
+> | **E. Mark both operative and nonoperative sites** | 错。**Nonoperative sites 不应 mark**（doing so 可能 cause ambiguity）；只 mark operative site |
+>
+> ### "Brief / focused" 反 pattern 普适警示 ⭐
+> - Patient safety procedures 强调 **thoroughness over speed**
+> - 任何 "brief" / "limit length" / "focused-only" 措辞 in safety procedures → **警惕反 pattern**
+> - 类似反 pattern：handoff 强调"omit 不重要" = 错（标准化 sign-out 必须 cover all 维度）
+>
+> ### "Interchangeable surgical teams" 风险信号
+> - Stem 描述"新 OR + 新 nurse + 新 team" → **directly signal sentinel event 风险**
+> - Team 互换 → 失去 redundant familiarity → 必须**加强**（不是 brief）safety procedures
+>
+> ## 我为什么错
+> - 选了：**D**（"keep brief" 觉得 efficiency + 减 distraction 合理）
+> - 错因：**干扰项 + 知识**
+> - 核心陷阱：
+>   - **没建立 "patient safety = thoroughness over speed" 反 pattern 警惕**
+>   - **不知道 final time-out 必须 unlimited time + all concerns addressed**
+>   - 忽略 stem 关键信号 "new team + delay" → 应**加强**而非简化
+>
+> ## Memory Hook
+> - **"Surgical Safety 三联：Preop verification + Site marking + Final time-out"** ⭐⭐⭐
+> - **"患者参与 site verification = 关键 redundancy 防 wrong-site"** ⭐⭐⭐
+> - **"Final time-out 5 铁律：OR + 紧贴 incision + entire team + 不限时 + all concerns"** ⭐
+> - **"Brief / focused in safety = 反 pattern 警惕"** ⭐
+> - **"Mark operative only；nonoperative mark = ambiguity"**
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：D "brief" 听似 efficiency 合理，没意识到 patient safety 必须 thoroughness over speed
+> - 学到：**Final time-out 必须 unlimited time** — 所有 concerns 在 incision 前 address
+> - 学到：**Entire team 而非 designated experienced** — discrepancies 任何 member 可能发现
+> - 学到：**Mark only operative site** — nonoperative mark = ambiguity 反 pattern
+> - 学到：**患者是 last line of defense** in wrong-site surgery prevention
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 待积累（surgical safety / time-out 系列暂无其他题）
+>   - [[mistakes/uworld-mistakes#^Q105800]] Shoulder Dystocia simulation-based training（外科 emergency 安全 — 同 patient safety 大主题）
+> - 📚 主笔记：
+>   - [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]]（待加 §Surgical Safety 三联）
+>   - [[完整笔记/Peixuan分科笔记/外科]]
+>   - [[完整笔记/Peixuan分科笔记/Ethics_Master]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/骨科]]（knee arthroplasty / TJA）
+> - 🌱 TODO：
+>   - **USMLE_患者安全与质量改进工具 待加新 §**「Surgical Safety 三联完整流程」（Preop verification + Site marking + Final time-out）+ 「Final time-out 5 铁律」+ 「Brief / focused in safety = 反 pattern」
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 Surgical Safety 三联（preop / site marking / final time-out 各自要素）
+> - [ ] 默写 Final time-out 5 铁律（OR + immediately prior incision + entire team + 不限时 + all concerns addressed）
+> - [ ] 默写"患者参与 = 关键 redundancy"原则
+> - [ ] 默写"Mark only operative；nonoperative mark = ambiguity"
+> - [ ] 反射训练：见"surgical safety + interchangeable team + delay" → 0.3 秒锁加强 redundancy（不是 brief）
+>
+> ---
+>
+> 学科:: 外科
+> 主题:: Surgical Safety 三联（Preoperative verification + Site marking + Final time-out）/ Preop verification 要素（patient/surrogate + 2 identifiers + ≥2 providers + holding area）/ Site marking 铁律（only operative + permanent marker + "YES" + initials；nonoperative mark = ambiguity）/ Final time-out 5 铁律（OR + immediately prior to incision + entire team + 不限时 + all concerns addressed）/ "Brief / focused in safety" 反 pattern 警惕 / Patient = last line of defense 防 wrong-site / Sentinel events 风险因素（high complexity / urgency / schedule delays / interchangeable teams）
+> 状态:: 🟡
+> 错因:: 干扰项
+
+> [!example]- [2026-05-27] 感染+Ethics / CLABSI Prevention — Hand hygiene 是 fundamental 最 efficacious intervention（多 effective 减 risk）(Q19813) ✓ 做对
+> ^Q19813
+>
+> ## Stem 模式
+> 68M + T2DM + septic knee + PICC 7 天 → 插管处 redness + drainage + 血培养 GP cocci clusters → 已拔管 → 哪个 most effective 减 risk？
+>
+> ## 核心概念
+> **CLABSI prevention 第一支柱 = hand hygiene + sterile technique。CLABSI 病原 = skin flora（CoNS / S aureus）从患者皮肤 / 医护手进入血流 → hand hygiene 是 fundamental + 最 efficacious 防 CLABSI 干预。**
+>
+> ## 普适规则
+>
+> ### CLABSI Prevention 4 大维度 ⭐
+>
+> | 维度 | 干预 |
+> |---|---|
+> | **Insertion** ⭐ | **Hand hygiene**（最 fundamental）+ Full barrier precautions（mask / sterile gloves / gown / drape）+ Chlorhexidine skin prep + Experienced provider |
+> | **Catheter type / site** | PICC > CVC（peripheral > central）；CVC 选 subclavian / IJ > femoral |
+> | **Catheter duration** | Limit <6 days CVC + Prompt removal when 不需要 + 不 routine replacement |
+> | New evidence | Antimicrobial-impregnated catheters（chlorhexidine / silver sulfadiazine）可能 additional benefit |
+>
+> ### CLABSI 病原谱
+> - **Coagulase-negative staphylococci** ⭐（最常见 — skin flora）
+> - **Staphylococcus aureus**
+> - 都是 skin flora → 解释 hand hygiene + chlorhexidine prep 的核心地位
+>
+> ## 易混陷阱（普适）
+>
+> ### 干扰项分析
+>
+> | 选项 | 为什么错 |
+> |---|---|
+> | **A. Topical antibiotic cream over insertion site** | 错。非 hemodialysis CVC（如 PICC）**不推荐** — 增 antimicrobial resistance + Candida colonization |
+> | **B. Central rather than peripheral** | 反向！**Peripheral (PICC) < Central (CVC) CLABSI risk** |
+> | **C. Daily cleansing with antimicrobial soap + water** | 错。Insertion site 应保持 **dry** + 避免 water contact；用 alcohol antiseptic（非 soap）做 dressing change |
+> | **D. Hand washing prior to catheter insertion** ✅ | Fundamental + 最 efficacious |
+> | **E. Prophylactic oral antibiotics** | 错。增 resistance + **C diff infection**；hand hygiene 更 effective |
+>
+> ## 我为什么对 ✓
+> - 选了：**D** ✓ — 反射 hand hygiene 是 infection control 第一原则
+> - 关键反射：见 "central line + infection + 问 prevention" → 0.3 秒锁 hand hygiene
+>
+> ## Memory Hook
+> - **"CLABSI prevention 4 维：Insertion (hand hygiene + barrier + chlorhexidine + experienced) + Type/site (PICC > CVC; subclavian/IJ > femoral) + Duration (<6 days) + Antimicrobial catheters"** ⭐
+> - **"Hand hygiene = fundamental + 最 efficacious infection control"** ⭐⭐⭐
+> - **"CLABSI 病原 = skin flora (CoNS / S aureus) → 解释为何 hand + skin prep 是核心"**
+> - **"Peripheral PICC < Central CVC CLABSI risk"**
+> - **"反 pattern 3 联：topical antibiotic / soap+water at site / prophylactic oral abx"**
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：无 — 自信做对
+> - 学到：**Topical antibiotic at non-HD CVC site 反 pattern**（resistance + Candida）
+> - 学到：**Daily soap+water cleansing 反 pattern**（应 dry + alcohol antiseptic）
+> - 学到：**Prophylactic oral abx 反 pattern**（resistance + C diff）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 待积累（CLABSI 题暂无其他卡 — 此为基础题做对）
+> - 📚 主笔记：
+>   - [[完整笔记/专题笔记/感染/感染_CLABSI完整体系]]（完整体系已建 — 本题验证掌握）
+>   - [[完整笔记/Peixuan分科笔记/感染]]
+> - 🏥 跨学科：
+>   - [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]]（HAI / hand hygiene framework）
+> - 🌱 TODO：
+>   - 验证 [[完整笔记/专题笔记/感染/感染_CLABSI完整体系]] 是否已覆盖 4 维 + 反 pattern 3 联；若已覆盖则无需扩展
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 CLABSI 4 维（Insertion / Type-site / Duration / Antimicrobial catheters）
+> - [ ] 默写 CLABSI 反 pattern 3 联（topical antibiotic / soap+water / prophylactic oral）
+> - [ ] 默写 "PICC < CVC; subclavian/IJ > femoral"
+> - [ ] 反射训练：维持 hand hygiene = infection control 第一反射
+>
+> ---
+>
+> 学科:: 感染
+> 主题:: CLABSI prevention 4 维（Insertion: hand hygiene + barrier + chlorhexidine + experienced / Type-site: PICC > CVC, subclavian-IJ > femoral / Duration: <6 days + prompt removal / Antimicrobial catheters）/ Hand hygiene = fundamental + 最 efficacious / CLABSI 病原 = skin flora（CoNS / S aureus）/ 反 pattern 3 联（topical antibiotic / soap+water 现场 / prophylactic oral abx）/ Peripheral PICC < Central CVC CLABSI risk
+> 状态:: 🟢 ✅ 做对
+> 错因:: —
+
+> [!example]- [2026-05-27] Ethics / Patient Safety — Psychological Safety promotes RRT activation（不是 closed-loop / 不是 independent decision / 不是 cognitive bias / 不是 standardize transitions）(Q106620) ✓ 做对
+> ^Q106620
+>
+> ## Stem 模式
+> Academic medical center + RRT 实施 → 护士担心 elderly 患者 sustained tachycardia → guidelines 推荐 call RRT → 护士 **hesitate** call 因 hospitalist 之前 expressed reservations（"I've been doing this 20 years, I know best, more people involved = more chance hospital holds me responsible for someone else's mistake"）→ 哪个 needs addressing？
+>
+> ## 核心概念
+> **Psychological Safety = team members' comfort in 必要 + appropriate safety actions（openly voice concerns / recruit help / not fear retribution）。Low psych safety 由 strict hierarchy + culture of fear / blame 引发 → 阻碍 RRT activation 等 evidence-based 安全行为 → 必须通过 organizational change management 改文化。**
+>
+> ## 普适规则
+>
+> ### Psychological Safety 4 大特征 ⭐⭐⭐
+>
+> | Hi Psych Safety | Lo Psych Safety |
+> |---|---|
+> | Team members openly voice concerns | Hesitate to voice opinion |
+> | Recruit help without shame | Fear of retribution / punishment |
+> | Flat communication (challenge authority OK) | Strict hierarchy / authority gradient |
+> | Systems thinking (blame system not person) | Culture of fear / individual blame |
+>
+> ### Low Psych Safety 的 Stem 信号
+> - 护士 / junior **hesitate** to voice concern
+> - 资深 / authority figure 说 "I've been doing this X years, I know best"
+> - "**Fear of being blamed / held responsible for someone else's mistake**"
+> - 决策被 hierarchy 压制
+> - High Reliability Organization (HRO) 的反面（aviation / nuclear）= 强调 psych safety
+>
+> ### Psych Safety 改善策略
+> 1. **Change management**（engaging front-line in designing new initiatives）
+> 2. Increasing transparency（feedback / communication）
+> 3. Organizational dedication to safety resources
+> 4. Leadership endorsement of speak-up culture
+>
+> ## 易混陷阱（普适）
+>
+> ### 干扰项分析
+>
+> | 选项 | 为什么错 |
+> |---|---|
+> | **A. Closed-loop communication** | 改善**verbal exchange accuracy**（receiver repeats back sender's message），**不解决 fear of communicating** |
+> | **B. Independent decision-making** | 反 pattern — team-based 决策更优；hospitalist 拒绝 team activation 才是问题 |
+> | **C. Promoting psychological safety** ✅ | 直接对应 stem 的 hesitate + fear + hierarchy |
+> | **D. Reducing cognitive bias** | Cognitive bias = mental shortcuts；**不等同** fear of retribution / blame |
+> | **E. Standardizing transitions of care** | RRT activation 不是 formal transition，是 **joint patient management**（无标准化目标）|
+>
+> ### Psych Safety vs Closed-loop Communication 边界 ⭐
+> - **Closed-loop**：accuracy of verbal message（receiver 复述发送内容）→ 防 miscommunication
+> - **Psych Safety**：team 是否敢/愿意 communicate → 防 silence / hesitation
+> - **题 stem 描述 "hesitate / fear" → 永远是 psych safety**（不是 closed-loop）
+>
+> ### Psych Safety vs Cognitive Bias 边界 ⭐
+> - **Cognitive Bias**：思维 shortcut（anchoring / availability / framing）
+> - **Psych Safety**：emotional / cultural barrier（fear / hierarchy）
+> - **题 stem "fear of retribution / blame" → psych safety**（不是 bias）
+>
+> ## 我为什么对 ✓
+> - 选了：**C** ✓ — 反射 "hesitate + fear of blame + hierarchy" → 0.5 秒锁 psychological safety
+> - 关键反射：see "junior hesitate + senior dismissive + culture of blame" → 永远是 psych safety
+>
+> ## Memory Hook
+> - **"Hesitate + fear of blame + hierarchy = Psychological Safety"** ⭐⭐⭐
+> - **"Closed-loop vs Psych safety 边界：accuracy of message vs 是否敢说"** ⭐
+> - **"Psych safety vs Cognitive bias 边界：emotional barrier vs mental shortcut"** ⭐
+> - **"Psych safety = HRO 核心特征"**
+> - **"'I've been doing this 20 years' = senior 阻碍 team activation = 文化问题"**
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：无 — 自信做对
+> - 学到：**Closed-loop 是 message accuracy；psych safety 是 willingness to speak**（边界明确）
+> - 学到：**Cognitive bias ≠ fear**（mental shortcut vs emotional barrier）
+> - 学到：**RRT activation 不是 transition of care，是 joint management**
+> - 学到：**HRO（aviation / nuclear / high-risk industries）= psych safety 核心特征**
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 待积累（Psych safety 题暂无其他卡 — 此为基础题做对）
+>   - 同 patient safety 大家族：[[mistakes/uworld-mistakes#^Q22186]] surgical time-out（团队 redundancy）/ [[mistakes/uworld-mistakes#^Q106620]] psych safety（团队 culture）
+> - 📚 主笔记：
+>   - [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §1364 Risk factors 3 大类（已含 culture of fear）+ §HRO（待扩 psych safety 详细对照表）
+>   - [[完整笔记/Peixuan分科笔记/Ethics_Master]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/psych]]（团队动力学 / culture change）
+> - 🌱 TODO：
+>   - **USMLE_患者安全与质量改进工具 待加新 §**「Psych Safety vs Closed-loop 边界表」+ 「Psych Safety vs Cognitive Bias 边界表」+ 「Low Psych Safety stem 信号谱」
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 Psych Safety Hi vs Lo 4 大特征对比表
+> - [ ] 默写 Low Psych Safety stem 信号（hesitate / fear of blame / "20 years" / hierarchy）
+> - [ ] 默写 Psych safety vs Closed-loop 边界（speak willingness vs message accuracy）
+> - [ ] 默写 Psych safety vs Cognitive bias 边界（emotional vs mental shortcut）
+> - [ ] 反射训练：维持 0.5 秒锁 psych safety 反射
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Psychological Safety = team members' comfort 必要 safety actions（openly voice + recruit help + not fear retribution）/ Psych Safety 4 大特征 Hi vs Lo（voice / help / hierarchy / blame）/ Low Psych Safety stem 信号（hesitate / fear of blame / "I've been doing this X years" / hierarchy）/ Psych Safety vs Closed-loop 边界（willingness to speak vs message accuracy）/ Psych Safety vs Cognitive Bias 边界（emotional/cultural barrier vs mental shortcut）/ HRO 核心特征 = psych safety / 改善策略（change management + transparency + safety resources + leadership endorsement）/ RRT activation = joint management ≠ transition of care
+> 状态:: 🟢 ✅ 做对
+> 错因:: —
+
+> [!example]- [2026-05-27] 骨科+Ethics / 老年 Fall — Visual Acuity Testing（multifactorial fall risk assessment 包含 sensory disturbances；reliance on visual input ↑ when proprioception ↓）(Q107171) ✓ 做对
+> ^Q107171
+>
+> ## Stem 模式
+> 76F + ED fall 后 follow-up + 既往 2 次 home falls + 独居 + ACE inhibitor + HTN + knee OA + cane 间歇用 + **BP 142/87 sitting → 141/79 standing (no orthostasis)** + muscle weakness + slow gait, **no ataxia or limp** → 哪个 next 减 fall risk？
+>
+> ## 核心概念
+> **所有 fallers 应 multifactorial risk assessment 包含 sensory disturbances（vision / hearing / proprioception）。Age-related declines: proprioception ↓ → reliance on visual input ↑ → diminished visual acuity = substantially elevated fall risk。Visual acuity testing + dilated eye exam + corrective eyewear / cataract surgery / macular degen nutrition = evidence-based fall prevention。**
+>
+> ## 普适规则
+>
+> ### Fall Risk Multifactorial Assessment 矩阵 ⭐⭐⭐
+>
+> | 维度 | 评估 | 干预 |
+> |---|---|---|
+> | **Vision** ⭐ | Visual acuity + dilated eye exam（cataracts / macular degen / dark adaptation 减）| Corrective eyewear + cataract surgery + macular degen nutrition |
+> | **Hearing** | Audiometry | Hearing aids |
+> | **Proprioception / Balance** | Get-up-and-go test | PT balance training |
+> | **Strength** | Manual muscle testing + slow rise from chair | Supervised exercise + PT |
+> | **Medication review** | Polypharmacy + 高 risk drugs（neuroleptics / antidepressants / vasodilators）| Deprescribe |
+> | **Home safety** | OT 评估 | 修缮 + 改造 |
+> | **Bone density** | FRAX → DEXA | Bisphosphonate（secondary injury prevention）|
+>
+> ### Vision = Fall 关键 contributor 机制
+> - Age → proprioception ↓ → 依赖 visual input ↑
+> - 老年眼病（cataract / macular degen）→ dark adaptation ↓ → **暗处 / 夜起厕所 fall 高发**（本题 stem 历史 fall pattern）
+> - **可纠正性强**：corrective eyewear / cataract 手术效益高
+>
+> ### 老人 Fall + ACE inhibitor + No orthostasis 处理
+> - Stem 给出 142/87 → 141/79 = **no orthostasis**（差 <20/10 mmHg）
+> - **不停 ACE**（HTN 控制 / 没 orthostasis 证据）
+> - 反 pattern: 见"老人 + 抗压药 + fall" 自动选"stop ACE" → 错；先查 orthostasis
+>
+> ## 易混陷阱（普适）
+>
+> ### 干扰项分析
+>
+> | 选项 | 为什么错 |
+> |---|---|
+> | **A. 24-hour Holter monitor** | 老年 average-risk faller 无 syncope / palpitations / arrhythmia symptoms → 不 indicate |
+> | **B. Carotid duplex** | Carotid stenosis 不是 typical fall cause；no neuro symptoms |
+> | **C. Stop ACE inhibitor** | **No orthostasis**（142/87 → 141/79）+ HTN 需控制 → 不停 |
+> | **D. Motorized scooter** | Assistive device 应在 multifactorial assessment **之后** identify；无 training 增 fall risk |
+> | **E. Assisted living facility** | **保 independence 是首要** → 先 screen correctable contributors，不直接送 facility |
+> | **F. Visual acuity testing** ✅ | Multifactorial assessment 关键维度；evidence-based reduces fall risk |
+>
+> ### "保 Independence" 老人 Disposition 原则 ⭐
+> - **首要原则**：preservation of independence + autonomy
+> - **顺序**：先 screen correctable → 修正 → 失败才升级 disposition
+> - 反 pattern：直接送 assisted living / facility = 跳过 correctable contributors
+>
+> ## 我为什么对 ✓
+> - 选了：**F** ✓ — 反射 "老人 fall + 夜起厕所 + 历史 multiple falls" → vision testing 是 multifactorial assessment 关键
+> - 关键反射：BP 142/87 → 141/79 = no orthostasis → 排除 stop ACE 干扰
+>
+> ## Memory Hook
+> - **"老人 Fall multifactorial 7 维：Vision + Hearing + Proprioception + Strength + Medication + Home safety + Bone density"** ⭐⭐⭐
+> - **"Age → proprioception ↓ → 依赖 vision ↑ → vision deficit = 高 fall risk"** ⭐
+> - **"暗处 / 夜起厕所 fall = cataract / macular degen dark adaptation ↓"** ⭐
+> - **"BP 差 <20/10 = no orthostasis → 不停降压药"** ⭐
+> - **"保 independence 原则：先 screen correctable，最后才 facility"**
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：无 — 自信做对
+> - 学到：**Vision deficit 是 fall 关键可纠正 contributor**（cataract surgery / corrective eyewear evidence-supported）
+> - 学到：**Orthostasis 定义** = BP 差 ≥20/10 mmHg（sitting → standing）；142/87 → 141/79 = 不算
+> - 学到：**Assisted living 不是 first-line** — 保 independence + 先 screen correctable
+> - 学到：**Holter / carotid duplex** 在 average-risk faller 不 indicate
+>
+> ## 🔗 关联
+> - 🔁 同主题错题（Fall 系列 4 题已成体系）⭐：
+>   - [[mistakes/uworld-mistakes#^Q107151]] Fall screening tool low PPV（5-26 做对）
+>   - [[mistakes/uworld-mistakes#^Q107152]] Tailored prevention; bed alarm 反 pattern（5-26 错）
+>   - [[mistakes/uworld-mistakes#^Q107154]] Bone density secondary prevention; call alarm 反 pattern（5-27 错 🔴）
+>   - [[mistakes/uworld-mistakes#^Q107171]] Visual acuity testing multifactorial assessment（本题 ✓）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/骨科]]（FRAX / osteoporosis / fall risk）
+>   - [[完整笔记/Peixuan分科笔记/眼科]]（cataract / macular degen / dark adaptation）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.9 HAC Falls
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/心内]]（ACE + orthostasis 评估）
+>   - [[完整笔记/Peixuan分科笔记/Ethics_Master]]（autonomy + independence preservation）
+> - 🌱 TODO：
+>   - **强化 Fall 4 题体系 → 必建新衍生 [[完整笔记/专题笔记/USMLE/USMLE_老年Fall3层防护]]** v1
+>     - Multifactorial 7 维矩阵
+>     - 3 层防御（primary / secondary / tertiary）
+>     - 反 pattern 4 联（call alarm / hip protector / stop anticoag / cane for fear）
+>     - 关键铁律（保 independence / orthostasis 定义 / vision priority）
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 Fall multifactorial 7 维矩阵
+> - [ ] 默写"age → proprioception ↓ → vision reliance ↑"机制
+> - [ ] 默写"暗处 fall = cataract / macular degen dark adaptation ↓"
+> - [ ] 默写 orthostasis 定义（BP 差 ≥20/10）
+> - [ ] 默写"保 independence + 先 screen correctable"原则
+> - [ ] 反射训练：维持 0.3 秒锁 visual acuity testing 在 fall risk 评估
+>
+> ---
+>
+> 学科:: 骨科
+> 主题:: Fall Multifactorial Risk Assessment 7 维（Vision + Hearing + Proprioception + Strength + Medication + Home safety + Bone density）/ Vision = fall 关键 contributor 机制（age → proprioception ↓ → 依赖 visual input ↑）/ 暗处 / 夜起 fall = cataract / macular degen dark adaptation ↓ / Orthostasis 定义 BP 差 ≥20/10 → 142/87 vs 141/79 不算 → 不停 ACE / "保 independence" 老人 disposition 原则（先 screen correctable → 失败才升级 facility）/ Holter / Carotid duplex 在 average-risk faller 不 indicate / 与 Q107151 + Q107152 + Q107154 Fall 系列 4 题成体系
+> 状态:: 🟢 ✅ 做对
+> 错因:: —
+
+> [!example]- [2026-05-27] Ethics+内分泌 / Medication Counseling — Teach-back 防 sound-alike drug error（Glucovance vs Glucophage；不是 "ask if questions" 被动 / 不是 avoid combinations / 不是 family / 不是 printed summary）(Q19788) ✓ 做对
+> ^Q19788
+>
+> ## Stem 模式
+> 83M + HTN + 高血脂 + admitted symptomatic hypoglycemia → 之前服 **Glucovance (metformin + glyburide)** → 出院 stop combined + 改 **Glucophage (metformin only)** → 6 天后 mental status change + glucose 40 → 患者**仍服 combined pill**（药瓶在手）→ 哪个 practice reduce medication errors？
+>
+> ## 核心概念
+> **Patient-centered medication counseling = teach-back（最强）+ plain-language + multiple-checkpoint medication reconciliation。Teach-back 让患者 describe their understanding of changes → 直接 detect miscomprehension（特别防 sound-alike drugs 如 Glucovance / Glucophage 经典 trap）。**
+>
+> ## 普适规则
+>
+> ### ADE Risk Factors 3 大类 ⭐⭐⭐
+>
+> | 维度 | Risk Factors | Corrective Strategies |
+> |---|---|---|
+> | **Patient** | Polypharmacy / Low health literacy / Very young or advanced age / Communication barriers / Nonadherence | Increased checkpoints in med reconciliation + plain-language counseling + teach-back |
+> | **Provider** | Vague Rx / Incorrect med reconciliation / Absence of counseling / Illegible handwriting | Standardize Rx + e-prescribing + counseling |
+> | **Medication** ⭐ | **Look-/sound-alike drugs**（Glucovance/Glucophage / prednisone/prednisolone）| Plain-language counseling + teach-back |
+>
+> ### Patient-Centered Counseling 4 法 ⭐
+>
+> | 方法 | 主动 vs 被动 | 效果 |
+> |---|---|---|
+> | **Teach-back** ⭐⭐⭐ | 主动 | 最强 — 患者用自己话 describe 理解 → detect miscomprehension |
+> | **Plain-language** | 主动 | 强 — drug names / indication / dose / frequency 用日常语言 |
+> | **Medication reconciliation**（multi-provider checkpoints）| 主动 | 强 — 防 omission |
+> | "Ask if any questions" | **被动** | 弱 — 患者不知该问什么；通常答 "no questions" |
+>
+> ### Sound-alike Drug Trap（高频考点）
+> - **Glucovance (metformin + glyburide) vs Glucophage (metformin only)** ⭐ — 老人 advanced age + low health literacy 高风险
+> - **Prednisone vs Prednisolone**
+> - **Hydroxyzine vs Hydralazine**
+> - 当 stem 出现 sound-alike → **teach-back 强制**
+>
+> ### "保 Patient Direct Engagement" 原则
+> - **Cognitively intact + 独立** 患者 → **直接 educate 患者**（不应主要靠 family member）
+> - **Family member 介入**条件 = patient cognition / functional status impaired
+> - 本题 patient "fully independent with all ADLs" → direct engagement 优先
+>
+> ## 易混陷阱（普适）
+>
+> ### 干扰项分析
+>
+> | 选项 | 为什么错 |
+> |---|---|
+> | **A. Ask patients to describe the changes made (teach-back)** ✅ | 最强 patient-centered counseling |
+> | **B. Ask if patients have questions at end** | **被动** — 患者不知该问什么；通常答 "no" |
+> | **C. Avoid prescriptions combining multiple medications in one pill** | 错 — combination 增 convenience + adherence；不应一概避免 |
+> | **D. Family member present during counseling** | 该患者 **cognitively intact + 独立** → direct engagement 更 effective；family 仅在 cognition impaired 时主要靠 |
+> | **E. Printed copy of discharge summary** | **被动** — 患者可能不读 / 不理解 |
+>
+> ### Teach-back 反射场景
+> - 出院 medication change + 老人 / low literacy → teach-back
+> - Sound-alike drugs → teach-back
+> - 复杂新治疗方案 → teach-back
+> - **关键**：teach-back ≠ "ask if questions"（主动 vs 被动）
+>
+> ## 我为什么对 ✓
+> - 选了：**A** ✓ — 反射 sound-alike Glucovance/Glucophage → teach-back 强制
+> - 关键反射：老人 + medication change + 没理解 = teach-back（不是 "ask questions" / 不是 family / 不是 printout）
+>
+> ## Memory Hook
+> - **"ADE 3 大维度：Patient + Provider + Medication"** ⭐
+> - **"Patient-Centered Counseling 4 法：Teach-back > Plain-language > Med reconciliation > "ask questions" (被动)"** ⭐⭐⭐
+> - **"Sound-alike Glucovance/Glucophage / prednisone/prednisolone = teach-back 强制"** ⭐
+> - **"Cognitively intact 患者 → direct engagement（不主要靠 family）"** ⭐
+> - **"Teach-back ≠ 'ask if questions'（主动 vs 被动是关键边界）"**
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：无 — 自信做对
+> - 学到：**Teach-back 强制场景** = sound-alike / 老人 / low literacy / 复杂方案
+> - 学到：**"Ask if questions" 是被动反 pattern**（患者不知该问什么）
+> - 学到：**Cognitively intact 患者 family 不是首选** — direct engagement 优先
+> - 学到：**Combination drugs 不应一概避免**（提高 adherence）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 待积累（teach-back / ADE 系列 — 此为基础题做对）
+> - 📚 主笔记：
+>   - [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §ADE / med reconciliation（待加 patient-centered counseling 4 法 + sound-alike drug 高频）
+>   - [[完整笔记/专题笔记/psych/psych_医患沟通对话术SOP]]（teach-back 框架 — 待加 medication counseling 场景）
+>   - [[完整笔记/Peixuan分科笔记/内分泌]]（Glucovance/Glucophage 经典 sound-alike）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/Ethics_Master]]（patient-centered care）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_易混药物对照]]（sound-alike drug 大全 — 待加 Glucovance/Glucophage）
+> - 🌱 TODO：
+>   - **USMLE_易混药物对照 待加** sound-alike 章节：Glucovance/Glucophage + prednisone/prednisolone + hydroxyzine/hydralazine
+>   - **psych_医患沟通对话术SOP 待加** medication counseling 4 法 + teach-back 强制场景
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 ADE 3 大维度（Patient / Provider / Medication）
+> - [ ] 默写 Patient-Centered Counseling 4 法（主动 vs 被动）
+> - [ ] 默写 Sound-alike drug 3 大经典对（Glucovance/Glucophage + prednisone/prednisolone + hydroxyzine/hydralazine）
+> - [ ] 默写"Cognitively intact → direct engagement，不靠 family"
+> - [ ] 反射训练：见"老人 + medication change + sound-alike" → 0.3 秒锁 teach-back
+>
+> ---
+>
+> 学科:: 内分泌
+> 主题:: Patient-Centered Medication Counseling 4 法（Teach-back ⭐ > Plain-language > Multi-provider med reconciliation > "ask if questions" 被动）/ ADE Risk Factors 3 大维度（Patient: polypharmacy/低 literacy/老年/communication barrier/nonadherence + Provider: vague Rx/incorrect reconciliation/absent counseling/illegible + Medication: look/sound-alike）/ Sound-alike drug 经典对（Glucovance/Glucophage / prednisone/prednisolone / hydroxyzine/hydralazine → teach-back 强制）/ "Cognitively intact 独立 → direct engagement 优先" 原则（family 在 cognition impaired 时才主要靠）/ Combination drugs 不一概避免（增 adherence）/ Teach-back 强制场景（sound-alike + 老人 + low literacy + 复杂方案）/ "Ask if questions" 是被动反 pattern
+> 状态:: 🟢 ✅ 做对
+> 错因:: —
+
+> [!example]- [2026-05-27] Ethics+感染 / Patient Safety — Human Factors Engineering: brightly colored signs at point of care（visual aids 优于 training / 优于 patient ask / 优于 supply at workstations）(Q106819) ✓ 做对
+> ^Q106819
+>
+> ## Stem 模式
+> 医院 QA 委员会发现 HAI 高 + drug-resistant enteric pathogens（diarrheal / pneumonia / UTI）+ 已有 isolation guidelines + 担心 staff suboptimal adherence → 哪个 most effective 改善 staff infection-control adherence？
+>
+> ## 核心概念
+> **Human Factors Engineering = process design minimize human effort for correct action。Visual aids at point of care（brightly colored signs outside patient rooms specifying isolation type + instructions）通过 ① optimize environmental design + ② reduce reliance on memory + ③ increase attention via alerts 改善 adherence — 比 passive training / 比 patient-driven advocacy / 比 supply at central location 更 effective。**
+>
+> ## 普适规则
+>
+> ### Human Factors Engineering 3 大机制 ⭐⭐⭐
+> 1. **Optimize environmental design** — sign at room door = relevant info immediately prior to patient contact
+> 2. **Reduce reliance on memory** — sign specifies protocol details（不靠脑记）
+> 3. **Increase attention via alerts** — brightly colored + strategically placed
+>
+> ### Isolation Precautions 4 类速查 ⭐
+>
+> | Type | Pathogens | Key Requirements |
+> |---|---|---|
+> | **Airborne** | TB / primary VZV (chickenpox) / disseminated VZV / VZV in immunocompromised / COVID-19 / measles | **Negative pressure room + N95** |
+> | **Contact** | MDR (MRSA / VRE / ESBL) / C diff / E coli O157:H7 / RSV / VZV (chickenpox / disseminated / in immunocompromised) | Gloves + gowns + single-use equipment |
+> | **Droplet** | Neisseria meningitidis / Hib / Mycoplasma pneumoniae / influenza / adenovirus | Mask within 1-2 m (3-6 ft) |
+> | **Standard** | All patients regardless of infection | Hand hygiene + appropriate PPE when needed |
+>
+> ### Adherence Strategies 效力排序 ⭐
+>
+> | 策略 | 主动/被动 | 效力 |
+> |---|---|---|
+> | **Visual aids at point of care** ⭐ | 主动 + environmental | 最强 |
+> | Equipment at point of care（hand sanitizer outside each room）| 主动 + environmental | 强 |
+> | Patient advocacy / asking providers | 被动（依赖 patient capacity）| 弱 |
+> | Repeated mandatory training | **被动 + add burden** | 弱 |
+> | Equipment at central workstation | 错位置 | 反向 |
+>
+> ## 易混陷阱（普适）
+>
+> ### 干扰项分析
+>
+> | 选项 | 为什么错 |
+> |---|---|
+> | **A. Encouraging patients to ask providers about adherence** | 错。Patient 可能 altered mental status / 复杂 isolation protocol 难记 / isolation 应在 HCW 进房前 initiate（不是患者询问后）|
+> | **B. Brightly colored signs outside patient rooms** ✅ | Human factors engineering：环境设计 + 减记忆负担 + 增 attention |
+> | **C. Hand sanitizer dispensers near computer workstations** | 错位置！应**outside each patient room**（point of care），不是 central workstation |
+> | **D. Repeated mandatory training** | 错。Education / training 是**passive + less effective** 比 environmental design；overuse 加 burden |
+> | **E. Gowns/gloves/masks at single prominent location each floor** | 错位置！应**outside each patient room**（intended use point），不是 central location |
+>
+> ### "Point of Care" 原则 ⭐
+> - 所有 infection control 资源（hand sanitizer / PPE / signs / instructions）应**就近 patient room**
+> - **反 pattern**：放 central workstation / single location / break room → 离 use point 远 → adherence 差
+>
+> ### Education vs Environmental Design 边界 ⭐
+> - **Education / training** = passive；只在 knowledge deficiency 时有效
+> - **Environmental design** = active；改变行为 default
+> - 当 stem "guidelines 已 established 但 adherence 差" → 不是 knowledge 问题，是 design 问题 → **选 environmental，不选 training**
+>
+> ## 我为什么对 ✓
+> - 选了：**B** ✓ — 反射 "guidelines 已有 + adherence 差" → environmental design > training
+> - 关键反射：HAI prevention 看到"colored signs / point of care visual aids" → 优先选
+>
+> ## Memory Hook
+> - **"Human Factors Engineering 3 大机制：optimize design + reduce memory + increase attention"** ⭐⭐⭐
+> - **"Point of care 原则：资源就近 room，不放 central workstation"** ⭐
+> - **"Guidelines 已有 + adherence 差 = design 问题（不是 knowledge）→ environmental > training"** ⭐
+> - **"Isolation 4 类：Airborne (NPR+N95) / Contact (glove+gown) / Droplet (mask 1-2m) / Standard (hand hygiene)"** ⭐
+> - **"Training 在已有 guidelines 时 = passive + add burden 反 pattern"**
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：无 — 自信做对
+> - 学到：**Point of care 原则** — 资源就近 room，不放 central（C / E 反 pattern）
+> - 学到：**Patient advocacy 反 pattern** — isolation 应 HCW 自主 initiate，不靠患者询问
+> - 学到：**Environmental design > training** when guidelines 已存在
+> - 学到：**Isolation 4 类速查**（airborne / contact / droplet / standard）+ 各自要素
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 待积累（human factors engineering 系列 — 此为基础题做对）
+>   - Patient safety 大家族：[[mistakes/uworld-mistakes#^Q106049]] CDSS（cognitive overload 减）/ [[mistakes/uworld-mistakes#^Q22186]] surgical time-out / [[mistakes/uworld-mistakes#^Q106620]] psych safety
+> - 📚 主笔记：
+>   - [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]]（待加 §Human Factors Engineering 3 大机制 + Point of Care 原则 + Adherence Strategies 效力排序）
+>   - [[完整笔记/Peixuan分科笔记/感染]]（isolation 4 类）
+> - 🏥 跨学科：
+>   - [[完整笔记/专题笔记/感染/感染_CLABSI完整体系]]（hand hygiene point of care）
+>   - [[完整笔记/Peixuan分科笔记/Ethics_Master]]
+> - 🌱 TODO：
+>   - **USMLE_患者安全与质量改进工具 待加新 §**「Human Factors Engineering 3 大机制」+ 「Point of Care 原则」+ 「Adherence Strategies 效力排序」+ 「Environmental Design > Training when guidelines exist」铁律
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 Human Factors Engineering 3 大机制
+> - [ ] 默写 Point of Care 原则（资源就近 room）
+> - [ ] 默写 Isolation 4 类（pathogens + requirements）
+> - [ ] 默写 Adherence Strategies 效力排序（visual > equipment point > patient ask > training > central location）
+> - [ ] 默写"Guidelines 已有 + adherence 差 → design 问题（不选 training）"
+> - [ ] 反射训练：见 "guidelines 已存在 + adherence 差" → 0.3 秒锁 environmental design
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Human Factors Engineering 3 大机制（optimize environmental design + reduce reliance on memory + increase attention via alerts）/ Point of Care 原则（资源就近 patient room，不放 central workstation / single location）/ Isolation Precautions 4 类速查（Airborne TB/VZV/COVID/measles → NPR+N95 / Contact MRSA/VRE/ESBL/C diff/RSV → glove+gown / Droplet Neisseria/Hib/Mycoplasma/flu/adenovirus → mask 1-2m / Standard 所有患者 → hand hygiene+PPE）/ Adherence Strategies 效力排序（visual aids point > equipment point > patient ask > training > central location）/ "Guidelines 已有 + adherence 差 → design 问题（不选 training）" 铁律 / Patient advocacy 反 pattern（isolation 应 HCW 自主 initiate）/ Education vs Environmental Design 边界
+> 状态:: 🟢 ✅ 做对
 > 错因:: —

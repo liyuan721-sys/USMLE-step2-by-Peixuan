@@ -256,6 +256,50 @@ Tourette 综合征（确诊 — >1 yr motor + vocal tic，起病 <18 岁）
 ```
 DA 太多 → 治 tic     （抗 DA：VMAT2 / D2 拮抗）
 ACh 太多 → 治 EPS    （抗胆碱：benztropine）
+DA 提升 → 加重 tic   （Stimulant 毒药区 ⚠️）
+```
+
+### 5.x Tourette 毒药区 ⭐⭐⭐（5-27 Q3 驱动 — 永远 ❌）
+
+> [!danger] 5-27 Q3-2026-05-27 暴露的 anchor 陷阱
+> 5-25 Q10 D = antidopaminergic 答对 → 5-27 选项重排 D = methylphenidate → **反射跳 D 但 D 已变毒药** → 错。**字母 anchor 不可信**。
+
+| 药 | 为什么不能用 | 反 pattern |
+|---|---|---|
+| **Methylphenidate / Amphetamine / Adderall** 等 **stimulants** | **加重 tics**（DA 释放↑ + reuptake 抑制）— 直接火上浇油 | ADHD 共病时优先选 α2-agonist (guanfacine) 或 atomoxetine；必须用 stimulant 时先稳 tics |
+| **Benztropine / Diphenhydramine 等 anticholinergics** | **治 EPS 急性 dystonia，与 tics 病机无关** — 不治 tic | 常作干扰项；看 Tourette stem 直接划掉 |
+| **同类 α2 互换**（已 failed guanfacine → 换 clonidine）| 同类换不算阶梯升级；α2 整类视为 1 步 | failed guanfacine = **α2 整类失败** → 跳到 antidopaminergic |
+| **Watchful waiting** | Significant impairment 时已超过 watchful waiting 阶段 | Stem 提"school disruption" / "social withdrawal" → 已需治疗 |
+
+> [!warning] USMLE 字母 anchor 陷阱（普适反 pattern）
+> - **同主题题字母位置可变** — 出题人故意打乱选项顺序测真懂还是字母 anchor
+> - **任何 "上次某字母答对" 反射都不可信** — 永远读到具体药名 / 选项内容
+> - **3 步反 anchor SOP**：
+>   1. 读 stem 至少 2 遍
+>   2. **读 5 选项实际内容**（不看字母位置）
+>   3. 再决策（基于内容，不基于字母）
+> - 详见 [[完整笔记/专题笔记/USMLE/USMLE_答案选项策略]] §二 Answer Letter Anchoring 反 pattern
+
+#### 5.x.1 反 anchor 反射钩
+
+```
+Tourette + "failed α2 (guanfacine OR clonidine) + still significant tics"
+    │
+    ▼
+0.5 秒喊：加 risperidone / aripiprazole（antidopaminergic）⭐
+    │
+    ▼
+绝不选：methylphenidate（stimulant 毒药）/ benztropine（EPS 药）/ 换同类 clonidine / watchful waiting
+```
+
+**Memory Hook**：
+- **"Tourette 阶梯 = HRT → α2 → antidopaminergic → DBS；Stimulant 是毒药，benztropine 是邻居家的药"** ⭐
+- **"答案字母不可信，必须读到具体药名"** ⭐⭐⭐
+- 类比：上次"门牌 304"是 ICU → 这次"门牌 304"可能是营养科 — 门牌（字母）不代表内容
+
+### 5.x.2 原 §五 同型反 pattern 表（保留）
+
+DA 提升 → 加重 tic   （Stimulant 毒药区 — 见 5.x）
 DA 太少 → 治 PD     （增 DA：levodopa / DA 激动剂）
 ```
 
