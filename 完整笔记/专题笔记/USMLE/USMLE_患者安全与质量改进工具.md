@@ -1865,6 +1865,9 @@ CK 高频"哪个 procedure → 哪个并发症"配对题。
 > [!info] CK 高频 stem
 > "Older / female / non-White 病人 diagnostic error 率更高" → 答案常涉及 **implicit bias / deliberate reflection / health disparity 干预**（不是 "blame patient"）
 
+> [!tip] SDOH 完整框架 → 跳转
+> 本节只列 SDOH 作为 medical error 的 patient-side risk factor（简版）。**SDOH 5 大 Domain 完整框架 + 4 种 CK stem 模式 + 高频干预答案库 + LEP / interpreter 铁律 + Cross-cultural care 3 大支柱 + Cultural humility vs Competency** 见独立专题 → [[完整笔记/专题笔记/USMLE/USMLE_SDOH_Health_Equity]]
+
 ### 13.4 Cognitive Biases — 16 大 Bias 配对题 ⭐⭐⭐⭐
 
 **CK 名词配对题大全 — 必背**。
