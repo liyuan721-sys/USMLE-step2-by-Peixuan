@@ -23940,3 +23940,586 @@
 > 主题:: Tailored Fall Prevention（multifactorial → 个体化 menu 优于一刀切）/ Visual cues / wristbands 80% 都贴失效（需 discriminate true high risk）/ Extended bed rest 反 evidence（早 mobilization 优）/ Linked vignette stem-internal linkage（Item 1 数字是 Item 2 decisive context）/ AMBOSS 推荐 ≠ 本题适用（Decisive vs 锦上添花）
 > 状态:: 🟡
 > 错因:: 干扰项
+
+> [!example]- [2026-05-26] OB / Patient Safety — Shoulder Dystocia: Simulation-Based Training (SBT) > checklist > debriefing > RCA（unpredictable emergency 不能靠 risk stratification）(Q105800)
+> ^Q105800
+>
+> ## Stem 模式
+> 27 yo G2P1 39 wks + 既往 SVD 7-lb 婴儿 + 无 DM + BMI 22 + 孕期增重 28 lb 正常 → 突发 shoulder dystocia × 3 min → 需 McRoberts + suprapubic + 后臂娩出 → 婴儿 Apgar 4/7 + 臂丛神经麻痹 → 减 shoulder dystocia 并发症最有效策略？
+>
+> ## 核心概念
+> **Shoulder dystocia = unpredictable obstetric emergency**（**>50% 病例无 identifiable risk factors**，本题就是没风险因素的范例）→ **Risk-stratification checklist 失效** → 全员 staff 需 **Simulation-Based Training (SBT) at regular intervals** 训练协调反应 + 技术 maneuvers。
+>
+> Answer：**C. Schedule simulation drills with entire clinical team at regular intervals** ✓
+>
+> ## 普适规则
+>
+> ### Unpredictable Emergency 干预选择反射钩 ⭐⭐⭐
+>
+> ```
+> 题干信号：事件 unpredictable + 大比例无 risk factors（如 >50%）
+>     │
+>     ▼
+> ① ⭐ SBT（Simulation-Based Training）— 全员 + 定期
+>     • Hands-on 训练 maneuvers
+>     • 团队协调反应
+>     • 跨学科 mock drill
+>     │
+>     ▼ （仅次于 SBT 的辅助）
+> ② Team debriefings after adverse event
+>     • 仅 involved team 受益（reach 有限）
+>     • 改善沟通协调，但**不如 SBT 改善技术 skills**
+>     │
+>     ▼
+> ③ RCA — 仅当 systematic error / preventable 时
+>     • Retrospective 找 root cause
+>     • Shoulder dystocia 大多 unpreventable → RCA 不适用
+>     │
+>     ▼
+> ④ ❌ Risk-stratification checklist — unpredictable event 失效
+>     • >50% no risk factors → checklist miss the majority
+>     • 同 Q107152 "80% 都贴 = 失效" 原理
+> ```
+>
+> ### Shoulder Dystocia 关键事实
+>
+> | 维度 | 内容 |
+> |---|---|
+> | **定义** | Fetal shoulder impaction behind pubic symphysis — obstetric emergency |
+> | **并发症** | Brachial plexus injury / hypoxic encephalopathy / postpartum hemorrhage |
+> | **Risk factors** | DM, fetal weight ≥4500 g, obesity with excessive gestational weight gain |
+> | **关键陷阱** | **>50% 病例无 identifiable risk factors** → **highly unpredictable** |
+> | **管理 maneuvers** | McRoberts (maternal hip hyperflexion) + suprapubic pressure + posterior arm delivery + Wood's screw + Zavanelli (last resort) |
+> | **预防策略** | **SBT** at regular intervals（不是 checklist 因为 unpredictable）|
+>
+> ### 4 选项排除
+>
+> | 选项 | 内容 | 排除依据 |
+> |---|---|---|
+> | A | Debriefings after adverse event | ❌ 仅 involved team 受益；不如 SBT 改善 technical skills |
+> | B | RCA after every event | ❌ Shoulder dystocia 大多 unpreventable + unpredictable；RCA 适用 systematic preventable errors |
+> | **C** ⭐ | SBT 定期 + 全员 | ✅ Unpredictable emergency 唯一 evidence-based 策略 |
+> | D | Risk-stratification checklist | ❌ **>50% 无 risk factors** → checklist 失效；同 Q107152 wristbands 失效原理 |
+>
+> ## 易混陷阱（普适）
+>
+> - ❌ "Patient safety 防御层级 training 是最弱层" → **错**。这是**普适规则**，但**对 unpredictable emergency**（shoulder dystocia / cardiac arrest / OB hemorrhage / anaphylaxis），training 反而是**必要 + 高效**（因为没法 engineer away）
+> - ❌ "Checklist 是 evidence-based" → 普适推荐，但**事件 unpredictable / 大比例无 risk factors 时失效**（同 §1.1 Decisive vs 锦上添花）
+> - ❌ "RCA 万能" → RCA 仅适用 **preventable systematic errors**；unpredictable emergencies 用 SBT
+>
+> ## 我为什么错
+> - 选了：D（Checklist 按 patient characteristics 分层）
+> - 错因：**干扰项**（"checklist = patient safety tool"反射 + 没识别 stem 暗示 unpredictable）
+> - 核心陷阱：
+>   1. **没注意 stem 给的"无 risk factor 范例"**：BMI 22 + 无 DM + 孕期增重正常 + 婴儿正常体重 — 暗示这个事件**没办法预测**
+>   2. **没反应过来"highly unpredictable + 大比例无 risk factor → checklist 失效"**
+>   3. **§1.1 Decisive vs 锦上添花框架**没用上：unpredictable 是 decisive，checklist 是 evidence-based 锦上添花
+> - 应有反射：见 **"unpredictable emergency + this patient 无 risk factor"** → 0.5 秒锁 SBT（全员 + 定期）
+>
+> ## Memory Hook
+> - **"Unpredictable emergency → 训练团队 ready，不是预测谁会出事"** ⭐⭐⭐
+>   - Predictable risk → 筛查 + 高 risk 加干预
+>   - **Unpredictable emergency** → SBT + 全员 ready
+> - **"Shoulder dystocia 50%+ 无 risk factor → checklist 必败"** — 同 Q107152 "80% 都贴 = wristband 失效"原理
+> - **Training 例外规则**：HFE 排序里 training 是 less reliable，**但 unpredictable emergency 是例外** — 必须 train，因为 engineer 不掉
+> - 类比：消防演习每年做 — 不是因为知道哪天着火，是因为**着火时人需要 ready**；shoulder dystocia 同理
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点（**核心**）：没识别 stem 暗示 "no risk factor patient" → 没反应过来 unpredictable nature → 选了 checklist（看着 evidence-based 但本题失效）
+> - 学到：**Training 不总是"最弱层"** — unpredictable emergency 让 training 升级为必要策略
+> - 学到：**§1.1 Decisive vs 锦上添花在 OB safety 应用** — "unpredictable + 50%+ no risk factor" 是 decisive；checklist 是普适推荐 = 锦上添花
+> - 学到：跨题关联 — 同 Q107152 "80% 都贴 = 失效"原理；同 Q107149 alarm 反 evidence
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q107152]] Tailored fall prevention — wristbands 80% 都贴失效（同"工具靠 discrimination 在 high prev 群失效"原理）⭐
+>   - [[mistakes/uworld-mistakes#^Q107149]] Direct supervision for falls（同 evidence-based 训练 / 人 > 机器）
+>   - [[mistakes/uworld-mistakes#^Q23111]] Stem 细节 Decisive vs 锦上添花（**同方法论**）
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.13 SBT（待升级 — 加 unpredictable emergency 反射钩 + Q105800 锚）/ §1.1 Decisive vs 锦上添花
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/OB]]（shoulder dystocia maneuvers 详解 — McRoberts/suprapubic/posterior arm/Wood's screw/Zavanelli）/ [[完整笔记/Peixuan分科笔记/儿科]]（neonatal brachial plexus injury 后遗症）
+> - 🌱 TODO：主笔记 §13.13 升级（次要考点 → 高频考点）；§1.1 Decisive vs 锦上添花扩展场景表加 "Unpredictable OB emergency 行"
+>
+> ## ✅ 复盘行动
+> - [ ] 默写"Unpredictable emergency → SBT；Predictable risk → checklist"反射钩
+> - [ ] 默写"Shoulder dystocia >50% 无 risk factor → checklist 失效"
+> - [ ] 默写 Shoulder dystocia 5 大 maneuvers（McRoberts → suprapubic → posterior arm → Wood's screw → Zavanelli）
+> - [ ] 反射训练：见 stem "this patient 无 X risk factor" → 提示 unpredictable → 锁 SBT / training
+>
+> ---
+>
+> 学科:: OB
+> 主题:: Shoulder Dystocia Unpredictable Emergency → SBT > checklist / debriefing / RCA / Risk-stratification checklist 在 unpredictable event 失效（>50% 无 risk factor）/ Training 例外规则（HFE 普适 less reliable，但 unpredictable emergency 必要）/ §1.1 Decisive vs 锦上添花在 OB safety 应用 / 同 Q107152 "high prev 群工具失效"原理
+> 状态:: 🟡
+> 错因:: 干扰项
+
+> [!example]- [2026-05-26] Ethics / Patient Safety — HFE Standardization：metric-only units > policy / visual cues / 2-person verify（tPA 160 lb 误入 160 kg → 过量）(Q105825) ✓ 做对
+> ^Q105825
+>
+> ## Stem 模式
+> 63 yo M ED + 突发 dysarthria + 右侧肢体无力（acute ischemic stroke）→ tPA candidate → weighing 160 lb **erroneously entered as 160 kg** → 按 160 kg 算 tPA + 2 人验证 + pharmacy 配药 → **过量给药** → 最有效预防策略？
+>
+> ## 核心概念
+> **HFE Standardization & Simplification**：**消除 error-prone 动作本身**（让 equipment + EMR 只显示 kg）> 加层人为检查（policy / visibility / 2-person verify）。后者都依赖 human effort + 易受 cognitive bias（如 confirmation bias）影响。
+>
+> Answer：**D. Standardizing all equipment + EMR to display only metric units (kg)** ✓
+>
+> ## 普适规则
+>
+> ### HFE 5 Methods 3 档 Reliability 速查 ⭐⭐⭐（背）
+>
+> | Reliability | Strategy | 例 |
+> |---|---|---|
+> | **Highest** | Forcing functions | Anesthesia gas 接口形状不同 → 不能接错 |
+> | **Highest** | Computerized automation | Automated vital signs monitoring |
+> | **Highest** | Environment & physical layout | Look-alike drugs 分开存放 |
+> | **High** ⭐ | **Standardization & simplification** | **本题**：equipment 只显示 kg；每个 hospital unit 同一 heparin 流程 |
+> | **High** | Human-machine redundancy | Barcode scanning + visual check |
+> | **Medium** | Reminders / alerts / double-checks | Drug-drug interaction alerts；time-out before procedures |
+> | **Less reliable** | Training / policy / education | 培训提醒注意单位（但 fatigue / 注意力松懈仍会犯错）|
+>
+> ### 本题选项 vs HFE 档次
+>
+> | 选项 | HFE 档次 | 为什么 |
+> |---|---|---|
+> | A | Policy（pharmacist review）| **Less reliable** — 依赖 human effort，pharmacist 注意力松懈 / cognitive bias 仍可漏 |
+> | B | Visual cues（visibility of units in EMR）| **Less reliable** — 还是 manual recording；prominent font 不阻止 misentry |
+> | C | Human-machine redundancy 弱版（2-person verify）| **Medium** — 易 confirmation bias（"既然另一个人验过应该没错"）|
+> | **D** ⭐ | **Standardization & simplification** | **High** — 完全消除 "pound vs kg 选哪个" 这个 error-prone 动作 |
+>
+> ### 反射钩：消除 vs 提醒
+>
+> ```
+> "完全消除 error-prone 动作" > "提醒人不要犯错"
+>     │
+>     ├─ Forcing function（物理 hard stop）
+>     ├─ Automation（机器代劳）
+>     └─ Standardization（统一格式，去掉变异）
+>           ▲
+>           本题选 D 在这一档
+>     │
+>     vs
+>     │
+>     ├─ Alert / reminder（看到提醒，但人可以忽略）
+>     ├─ Double-check（confirmation bias 风险）
+>     └─ Training（fatigue 后失效）
+> ```
+>
+> ## 易混陷阱（普适）
+>
+> - ❌ "2-person verify 是 evidence-based" → 是，但**易 confirmation bias**（第二人默认信任第一人 → 漏错）；不如 Standardization 直接消除
+> - ❌ "Policy 加 review 步骤就能防错" → 加 review = 加 human effort；fatigue / 注意力松懈 / 习惯 override 仍会犯错
+> - ❌ "Visibility / prominent font 是好策略" → 提醒强度 ≠ 防错强度；人会**习惯性忽略**显眼信息（alert fatigue）
+>
+> ## 我为什么对 ✓
+> - 选了：**D** ✓ 自信做对
+> - 关键反射：见 "weight 单位 lb/kg 混淆" → 0.5 秒锁 "**消除单位差异**" = Standardization
+> - 已建立反射：HFE 选项题永远选**最高 reliability 档**
+>
+> ## Memory Hook
+> - **"消除 > 提醒 > 培训"** ⭐⭐⭐
+> - HFE 3 档分级：**Highest（消除）> High（标准化 / 冗余）> Medium（提醒）> Less reliable（培训 / 政策）**
+> - **"Lb vs kg 混淆 = 让 equipment 只显示 kg"** — 别让人选，机器只给一种
+> - 类比：USB-C 接口正反都能插（forcing function）vs 培训用户"小心方向"（less reliable）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点（轻微）：B（visibility）和 D（standardization）易混 — 学到 visibility 只**提醒**人选对单位，standardization **直接消除单位选择动作**
+> - 学到：2-person verify（C）虽常用，但 **confirmation bias** 让其 reliability 不如 standardization
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q19718]] Look-alike vial 错浓度（同 HFE — 用 environment + standardization 防）
+>   - [[mistakes/uworld-mistakes#^Q18754]] CDSS automation 防 medication error（同 HFE Highest 档）
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.6 HFE 5 methods 3 档分级（已建 — Q19718 锚；本卡 Q105825 加锚 standardization 档）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（systems-based safety + medication error prevention）
+> - 🌱 TODO：主笔记 §13.6 加 Q105825 锚定 standardization 档（"weight kg-only"经典例）
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 HFE 3 档分级表（Highest / High / Medium / Less reliable）
+> - [ ] 默写"消除 > 提醒 > 培训"反射钩
+> - [ ] 反射训练：见 medication error stem → 选项扫一遍按 HFE 档次排序 → 选最高档
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: HFE Standardization & Simplification（消除 error-prone 动作 > 加层人为检查）/ HFE 5 methods 3 档分级（Highest/High/Medium/Less reliable）/ Weight 单位 lb-kg 混淆 → equipment 只显示 kg / 2-person verify 易 confirmation bias / Visibility ≠ 防错强度（人会忽略显眼信息）
+> 状态:: 🟢 ✅ 做对（HFE 档次反射建立）
+> 错因:: —
+
+> [!example]- [2026-05-26] 感染 / Ethics — Airborne Precautions for Primary VZV (chickenpox)：颗粒 < 5 微米 → 长时间空中悬浮（不是 hard surface 存活 / 不是大颗粒 / 不是短距离）(Q106949) ✓ 做对
+> ^Q106949
+>
+> ## Stem 模式
+> 67 yo F ED 发热 + 散在 pruritic 水疱性皮疹（crusted + noncrusted 混合）+ 近期去 amusement park 接触 grandchildren + PCR + VZV → 入院 IV acyclovir + 隔离 precaution 基于哪条原理？
+>
+> ## 核心概念
+> **Primary VZV (chickenpox) = Airborne pathogen**：viral particles **<5 微米**（microscopic）→ **空中长时间悬浮**（prolonged suspension）→ 长距离传播 → **N95 + negative-pressure room + HEPA filter** + contact precautions（因为也通过 skin lesions 接触传播）。
+>
+> Answer：**D. Prolonged suspension of viral particles in air** ✓
+>
+> ## 普适规则
+>
+> ### Isolation Precautions 4 大类 ⭐⭐⭐（CK 配对题）
+>
+> | 类型 | 病原体 | 防护装备 | 关键 |
+> |---|---|---|---|
+> | **Standard** | 所有 patient（默认）| Hand hygiene + PPE 按需 | Universal baseline |
+> | **Contact** | C. diff / MRSA / VRE / RSV / 开放性 wound / **未结痂 VZV 皮损** | Gown + gloves | C. diff **soap + water**（不是 alcohol gel）|
+> | **Droplet** | Influenza / Pertussis / N. meningitidis / Mumps / 多数呼吸道病毒 | Surgical mask（3-6 ft 内）| 颗粒大（>5 μm）+ 短距离 + 不悬浮 |
+> | **Airborne** ⭐ | **TB / Varicella(primary chickenpox) / Measles / Disseminated zoster** | **N95 + negative pressure room + HEPA** | 颗粒小（<5 μm）+ 长距离 + **长时间悬浮**|
+>
+> ### Airborne Pathogens 4 个必背（背 "TB-V-M-DZ"）⭐
+>
+> | 病原 | 关键 |
+> |---|---|
+> | **TB** (Tuberculosis) | Airborne 唯一全程 |
+> | **V**aricella primary (chickenpox) | Airborne + contact（未结痂皮损）|
+> | **M**easles (rubeola) | Airborne |
+> | **D**isseminated **Z**oster（or immunocompromised reactivation）| Airborne + contact |
+> | **Localized 免疫正常 herpes zoster** | **Standard only**（不需 airborne / contact）|
+>
+> ### 选项排除
+>
+> | 选项 | 内容 | 排除依据 |
+> |---|---|---|
+> | A | Extended survival on hard surfaces | ❌ VZV 是 highly labile envelope virus，不在硬物长存 |
+> | B | Large particle size | ❌ Airborne 反而是**小颗粒**（<5 μm）才能 suspended |
+> | C | Limited distance traveled | ❌ Airborne 是**长距离**（不限于 3-6 ft 飞沫范围）|
+> | **D** ⭐ | Prolonged suspension in air | ✅ 小颗粒 + 长悬浮 = airborne |
+>
+> ## 易混陷阱（普适）
+>
+> - ❌ "Influenza / RSV 是 airborne" → 错。Droplet（大颗粒 + 短距离），不是 airborne
+> - ❌ "Shingles（reactivation zoster）都需 airborne" → 错。**Localized 免疫正常** = standard only；只有 disseminated / immunocompromised = airborne + contact
+> - ❌ "Chickenpox 只 contact" → 错。Airborne **+** contact（双重）
+>
+> ## 我为什么对 ✓
+> - 选了：**D** ✓
+> - 关键反射：见 VZV (chickenpox) primary infection → 0.5 秒锁 airborne → 颗粒小 + 长悬浮
+>
+> ## Memory Hook
+> - **"TB-V-M-DZ 是 airborne"** ⭐（Tuberculosis / Varicella primary / Measles / Disseminated Zoster）
+> - **小颗粒 < 5 微米 = 飘得远 + 飘得久 = 需要 N95 + negative pressure**
+> - **Chickenpox 双重**：Airborne（小颗粒）+ Contact（皮损 fluid）
+> - **Reactivation zoster 分两种**：Localized 免疫正常 → standard only；Disseminated / 免疫缺陷 → airborne + contact
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：无明显卡点 — 自信做对
+> - 学到：**Shingles 不一定要 airborne** — 取决于 localized vs disseminated + immune 状态
+> - 学到：Airborne pathogens 4 个必背缩写 "TB-V-M-DZ"
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 暂无（Isolation precautions 首张卡）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/感染]]（isolation precautions + airborne pathogens）/ [[完整笔记/Peixuan分科笔记/免疫疫苗]]（VZV vaccine + post-exposure prophylaxis）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（infection control 是 patient safety 一部分）
+> - 🌱 TODO：累积 3+ 道 isolation precaution 题 → 整合 [[完整笔记/专题笔记/感染/感染_Isolation_Precautions速查]]
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 Isolation Precautions 4 大类表
+> - [ ] 默写 "TB-V-M-DZ" airborne pathogens
+> - [ ] 默写 Shingles 隔离分级（localized 免疫正常 = standard / disseminated / 免疫缺陷 = airborne + contact）
+> - [ ] 反射训练：见水痘 / 麻疹 / 结核 / 播散 zoster → 0.5 秒锁 airborne + N95 + 负压
+>
+> ---
+>
+> 学科:: 感染
+> 主题:: Isolation Precautions 4 大类（Standard / Contact / Droplet / Airborne）/ Airborne Pathogens "TB-V-M-DZ"（Tuberculosis / Varicella primary / Measles / Disseminated Zoster）/ Primary VZV chickenpox 双重 airborne + contact / Shingles 分级（localized 免疫正常 standard / disseminated 或 免疫缺陷 airborne + contact）/ 小颗粒 < 5 μm = 飘远 + 飘久
+> 状态:: 🟢 ✅ 做对（Airborne 反射建立）
+> 错因:: —
+
+> [!example]- [2026-05-26] Ethics / Patient Safety — Time-out 三大核心要素：Patient ID + Procedure + Site（不是 indication / 不是 meds / 不是 team names / 不是 complications）(Q107227) ✓ 做对
+> ^Q107227
+>
+> ## Stem 模式
+> 62 yo M 肝硬化 + 腹胀 + 拟行 paracentesis → 已 informed consent + 已准备 → **针刺前 time-out** → 必须包含哪项信息？
+>
+> ## 核心概念
+> **Time-out 三大核心要素**（Joint Commission Universal Protocol）：**Right Patient + Right Procedure + Right Site**。其他信息（indication / meds / 团队名字 / complications）属于**别的流程**（informed consent / medication reconciliation / team debriefing），不在 time-out 范围。
+>
+> Answer：**E. Type of procedure being performed** ✓
+>
+> ## 普适规则
+>
+> ### Time-out 3 大核心要素 ⭐⭐⭐（Joint Commission 标准）
+>
+> ```
+> Time-out（在 skin incision / 针刺前立即做）
+>     │
+>     ├─ ① Patient identity（≥2 identifiers — 姓名 + DOB / MRN）
+>     │      ✓ 不用床号 / 房间号（不会变的 2 个）
+>     │
+>     ├─ ② Procedure being performed（type of operation）⭐ 本题
+>     │      ✓ "We are performing paracentesis on this patient"
+>     │
+>     └─ ③ Site / Location（laterality + 解剖位置）
+>            ✓ 配 "YES + initials" site marking
+> ```
+>
+> ### Patient Safety Procedures 完整流程 ⭐
+>
+> | 阶段 | 内容 | 时机 |
+> |---|---|---|
+> | **Preoperative verification** | Patient ID + operative site + type of operation + side（≥2 providers + patient/surrogate + 2 identifiers）| 在 preop holding area |
+> | **Site marking** | "YES" + initials on operative site（不 mark non-operative sites）+ permanent marker | 操作前任何时间 |
+> | **Time-out** ⭐ | 重新核对 patient ID + procedure + site + side + 团队全员参与 | **Immediately prior to skin incision / 针刺** |
+>
+> ### 选项排除（其他信息归哪个流程）
+>
+> | 选项 | 内容 | 归哪个流程 |
+> |---|---|---|
+> | A | Indication for procedure | **Informed consent**（与患者讨论时） |
+> | B | Medications taken | **Medication reconciliation**（早期评估 + 团队接班时） |
+> | C | Names of team members + roles | **Team safety debriefings**（time-out 之前已熟悉）|
+> | D | Potential complications | **Informed consent**（与患者讨论 risks）|
+> | **E** ⭐ | Type of procedure | ✅ Time-out 三要素之一（Right Procedure）|
+>
+> ## 易混陷阱（普适）
+>
+> - ❌ "Time-out 把 informed consent / med rec 一起做" → 错。Time-out 是**简短聚焦的安全核对**，不重复其他流程
+> - ❌ "Time-out 讨论 complications" → 错。Complications 属 informed consent，不在 time-out 范围
+> - ❌ "Team members 介绍 = time-out 一部分" → 错。Team familiarization 在 time-out **之前**完成（debriefing 阶段）
+> - ❌ "Time-out 用床号 / 房间号 identify" → 错。必须用**不会变**的 2 个（姓名 + DOB / MRN）
+>
+> ## 我为什么对 ✓
+> - 选了：**E** ✓
+> - 关键反射：见 "time-out 包含什么" → 0.5 秒锁 "patient + procedure + site" 三要素
+>
+> ## Memory Hook
+> - **"三 Right：Right Patient + Right Procedure + Right Site"** ⭐⭐⭐
+> - **Time-out ≠ 全流程核对** — 短暂聚焦的 3 要素 safety check，不是 informed consent / med rec / debriefing 替代
+> - **Identifier 2 个不变** — 姓名 + DOB / MRN（不用床号 / 房间号 — 会变）
+> - 类比：开手术前 "三 right" = 飞机起飞前 "weight + balance + flight plan"
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：无明显卡点 — 自信做对
+> - 学到：**Time-out vs Informed consent / Med Rec / Team debriefing 不同流程边界**
+> - 学到：Time-out 三要素之外的内容不属 time-out 范围
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q106239]] Time-out 防 RSO（同 time-out 家族 — surgical counting time-out）
+>   - [[mistakes/uworld-mistakes#^Q19684]] Closed-loop verbal order communication（同 patient safety + communication 家族）
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §3.3 Time-out 详解（已建 — 待加 3 要素 explicit 速查表 + Q107227 锚）/ §6.3 Time-out / Universal Protocol
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/外科]]（surgical safety + universal protocol）
+> - 🌱 TODO：主笔记 §3.3 加 Time-out 3 要素 explicit 速查表 + Q107227 锚定
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 Time-out 3 要素（Right Patient + Right Procedure + Right Site）
+> - [ ] 默写 3 要素之外信息归哪个流程（indication → consent / meds → med rec / team → debriefing / complications → consent）
+> - [ ] 默写 2 identifiers 必须不会变（姓名 + DOB / MRN，不用床号）
+> - [ ] 反射训练：见"time-out 包含什么" → 0.5 秒锁 patient + procedure + site
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Time-out 3 大核心要素（Right Patient + Right Procedure + Right Site）/ Time-out 不替代 informed consent / med rec / team debriefing / 2 identifiers 必须不会变（姓名 + DOB，不用床号）/ Joint Commission Universal Protocol 三阶段（preop verification + site marking + time-out）
+> 状态:: 🟢 ✅ 做对（Time-out 3 要素反射建立）
+> 错因:: —
+
+> [!example]- [2026-05-26] 儿科 / Ethics — Suspected Child Abuse → 先 Interview the patient about abuse（不是 family therapy / 不是 CBT / 不是 mother alone / 不是 reassurance）(Q4320) ✓ 做对
+> ^Q4320
+>
+> ## Stem 模式
+> 10 yo girl 行为改变（睡眠差 + 夜尿 + 成绩下降 + 焦虑 sad）+ 家庭压力（财务困难 + 父母考虑离婚 + 父亲晚上酗酒 + 母亲焦虑）+ 6 月前 checkup 还正常 lively + 父母离开房间后她**突然 burst into tears** → best next step？
+>
+> ## 核心概念
+> **Suspected child abuse → 直接 interview patient about abuse**（physical / emotional / sexual）。**Sudden 行为 / 学业改变 + bedwetting + 焦虑 + 不稳定家庭 + caregiver substance abuse** = 高度怀疑 abuse → mandated reporter 必须先**评估 patient**，再决定是否 report CPS。
+>
+> Answer：**A. Ask the patient about physical, emotional, or sexual abuse** ✓
+>
+> ## 普适规则
+>
+> ### Child Abuse 高 risk 信号 ⭐⭐⭐
+>
+> | 维度 | 内容 |
+> |---|---|
+> | **Caregiver background** | Young / single parents / lower education / **substance abuse** ⭐（本题父亲）/ depression / impulse control disorder / 自己童年被虐 |
+> | **Home environment** | **Unstable family situation**（divorce / conflict）⭐ 本题 / **financial difficulties** ⭐ 本题 / 缺 social support / domestic violence |
+> | **Children risk** | 残疾 / unplanned pregnancy / 不愿要的孩子 |
+> | **Clinical presentation** | Unexplained / implausible injuries / 不同 stage 愈合的 injuries / malnutrition / **sudden behavioral or scholastic changes** ⭐ 本题 |
+> | **Management** | ① Document objective findings ② **Report to CPS** if confirmed / 高怀疑 |
+>
+> ### 儿童 Abuse 评估流程 ⭐
+>
+> ```
+> 高 risk 信号识别（unstable family / caregiver substance / sudden 行为改变 / unexplained injury）
+>     │
+>     ▼
+> ① ⭐ Ask parent to leave room（提供 safe environment）
+>     • 父母在场孩子可能不敢说
+>     • Speak with patient ALONE
+>     │
+>     ▼
+> ② Interview patient about possible abuse（physical / emotional / sexual）
+>     • Open-ended + age-appropriate language
+>     • Document objective findings
+>     │
+>     ▼
+> ③ 如果 confirmed / 高 index of suspicion → mandatory report to CPS
+>     • 不需要 "proof" — 只需 reasonable suspicion
+>     │
+>     ▼
+> ④ 其他后续（secondary）：
+>     • Family therapy / CBT / support groups — 不能 delay 评估 abuse
+>     • Mother interview alone — 不能替代 patient interview
+> ```
+>
+> ### 选项排除
+>
+> | 选项 | 内容 | 排除依据 |
+> |---|---|---|
+> | **A** ⭐ | Ask patient about abuse | ✅ 先评估 patient（priority over 所有后续）|
+> | B | Family support group for alcoholics | ❌ 帮母亲，但**不评估 abuse** |
+> | C | Interview mother alone | ❌ 重要但**不能取代 patient interview**（孩子可能知道母亲不知道的） |
+> | D | Reassure normal stress | ❌ Sudden 改变 + 父亲酗酒 + 突然哭 — 不能 dismiss |
+> | E | Recommend CBT | ❌ Psychotherapy 是**长期管理**，不能 delay 当前 abuse 评估 |
+> | F | Recommend family therapy | ❌ 同 E — 长期管理，不能 delay |
+>
+> ## 易混陷阱（普适）
+>
+> - ❌ "怀疑 abuse → 直接 report CPS" → 错。先 **interview patient** 再 decide
+> - ❌ "Interview mother alone 比 interview patient 早" → 错。Patient interview **优先**（孩子可能知道母亲不知道的）
+> - ❌ "Patient interview 在父母在场下也行" → 错。必须 **父母离开 room**（safe environment）
+> - ❌ "Sudden 行为改变在 stressful family 是 normal" → 错。Sudden + 抵抗 + bedwetting = 必须**排除 abuse**
+>
+> ## 我为什么对 ✓
+> - 选了：**A** ✓
+> - 关键反射：见 "sudden 行为改变 + unstable family + 父亲酗酒 + 孩子突然哭" → 0.5 秒锁 "interview patient about abuse"
+>
+> ## Memory Hook
+> - **"怀疑虐待 → 父母离开 → 直接问孩子"** ⭐⭐⭐
+> - **Mandatory reporter 流程**：**Assess（先评估）→ Report（后上报）**，不要颠倒
+> - **Priority order**：Patient interview > mother interview > family interventions > psychotherapy
+> - **关键 trigger words**：sudden 行为改变 + bedwetting + 学业下降 + 不稳定家庭 + caregiver substance abuse → 高怀疑
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：无明显卡点 — 自信做对
+> - 学到：**Mandatory reporter 评估优先于 report** — 不能跳过 interview 直接 CPS
+> - 学到：**Patient interview > mother interview** — 孩子可能持有母亲不知道的信息
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q13465]] Elder abuse identification（同 abuse 家族 — adult version）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/儿科]]（child abuse + neglect + Munchausen by proxy）/ [[完整笔记/Peixuan分科笔记/Ethics_Master]]（mandatory reporting）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（trauma-informed care + ACE 不良童年经历）
+> - 🌱 TODO：累积 child abuse + elder abuse + IPV 题 → 整合 [[完整笔记/专题笔记/USMLE/USMLE_Abuse_Identification_Reporting]]（3 abuse 类型 + 红旗信号 + mandatory reporter 流程）
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 Child Abuse 5 大 risk 维度（caregiver / home / children / presentation / management）
+> - [ ] 默写 Patient interview 流程（父母离开 → patient alone → 直接问 abuse）
+> - [ ] 默写 priority order（patient > mother > family interventions > psychotherapy）
+> - [ ] 反射训练：见 "sudden 行为 / 学业改变 + unstable family + caregiver substance" → 0.5 秒锁 patient interview
+>
+> ---
+>
+> 学科:: 儿科
+> 主题:: Child Abuse 评估 — 先 interview patient about abuse（父母离开 room）/ Mandatory reporter assess 优先于 report / Child Abuse 5 risk 维度（caregiver/home/children/presentation/management）/ Priority order（patient interview > mother interview > family interventions > psychotherapy）/ Sudden 行为 / 学业改变 + bedwetting + unstable family + caregiver substance = 红旗
+> 状态:: 🟢 ✅ 做对（Child abuse 流程反射建立）
+> 错因:: —
+
+> [!example]- [2026-05-26] Ethics / 老年 — Elder Abuse 识别：异常 fracture + 财务 exploitation + medication nonadherence 恶化 + 与家人同住（不是 alcohol abuse / 不是 dementia / 不是 depression）(Q13465) ✓ 做对
+> ^Q13465
+>
+> ## Stem 模式
+> 81 yo F + T2DM 控制良好（A1c 7.2%）→ 6 月前 nondisplaced orbital fracture → 现 bruising 右前臂 + 右侧腹 + 与女儿女婿同住 + 自述"pharmacy charges too much, can't afford medication" → 4 月内 A1c 7.2% → 9%, FBG 220 → 哪项最可能解释？
+>
+> ## 核心概念
+> **Elder Abuse 经典组合信号**：① **异常解剖位置的 fracture**（orbital fracture 不是 typical fall location）② **多处 injuries**（bruises + fracture）③ **新发 medication nonadherence + comorbid deterioration**（neglect / financial exploitation）④ **Financial 异常**（pharmacy 收费"too much"暗示家人贪占 finances）⑤ **Shared living environment**（risk factor）。
+>
+> Answer：**C. Elder abuse** ✓
+>
+> ## 普适规则
+>
+> ### Elder Abuse 完整识别表 ⭐⭐⭐（背）
+>
+> | 维度 | 内容 |
+> |---|---|
+> | **Risk factors** | **女性** ⭐ / **Dementia or 慢性精神病** / Functional impairments / **Social isolation** OR **Shared living env**（互斥但都是 risk）/ Poor SES / financial stress |
+> | **Physical & sexual abuse 表现** | Atypical 抓伤 / lacerations / contusions / **异常位置 fractures**（如 orbital — not from typical fall）⭐ / 痛与 reported etiology 不符 / 肛门生殖器 injuries / 新发 STI |
+> | **Psychological & verbal abuse** | 行为 / 性格改变 / depression / anxiety |
+> | **Neglect** | 营养 / 水合不足 / 压疮 / **comorbid 病 deterioration** ⭐（如 T2DM 控制变差 — 本题）|
+> | **Financial exploitation** ⭐ | **Medication nonadherence**（钱被占 → 买不起药）/ 多次错过 appointments / 未付租金水电费 / 不寻常 financial transactions |
+>
+> ### 本题 5 大信号集齐 ⭐
+>
+> | Stem 信号 | 对应 Elder Abuse 类型 |
+> |---|---|
+> | **Orbital fracture**（6 月前）| Physical abuse（异常位置 — not typical fall）|
+> | **Bruising 前臂 + 腹**（多处）| Physical abuse（multiple injuries 不同位置） |
+> | **"Pharmacy charges too much, can't afford"** | **Financial exploitation**（家人占用 fix income → 患者付不起药）|
+> | **A1c 7.2% → 9% + FBG 220** | **Neglect / Financial exploitation 后果**（不能买药 → comorbid 恶化）|
+> | **与 daughter + son-in-law 同住** | **Shared living environment**（risk factor — abuser 多是 family member）|
+>
+> ### 选项排除
+>
+> | 选项 | 内容 | 排除依据 |
+> |---|---|---|
+> | A | Late-onset alcohol abuse | ❌ 酒精滥用多见**独居** elder；本题与家人同住反而**增加 elder abuse risk** |
+> | B | Early-stage dementia | ❌ Dementia 可致 nonadherence，但**不解释多处 unusual injuries** + orbital fracture |
+> | **C** ⭐ | Elder abuse | ✅ 5 信号集齐 |
+> | D | Late-life depression | ❌ Depression 致 nonadherence，但**不解释 injuries** + financial concerns |
+> | E | Nutritional deficiency | ❌ Vit C / K 缺可致 bruising，但**不解释 orbital fracture**（atypical）|
+> | F | Psychotic disorder | ❌ 不解释 multiple injuries pattern + financial exploitation |
+>
+> ## 易混陷阱（普适）
+>
+> - ❌ "Orbital fracture 在 80+ 老人是 osteoporosis 自发摔的" → **错**。Orbital 位置是**非典型 fall 位置**（典型是 wrist / hip / spine）；orbital + 多处 bruise = 暴力来源
+> - ❌ "Elder abuse 仅限 nursing home" → 错。**Family member（与同住者）**是最常见 abuser
+> - ❌ "Medication nonadherence 仅是 cognitive 问题" → 错。**Financial exploitation 让老人付不起药**也是常见原因
+> - ❌ "独居老人 abuse 风险更高" → 错。Risk factor 是 **shared living environment**（abuser 常在身边）OR social isolation；**独居 + isolation** 是另一种 risk，但本题是同住 risk
+>
+> ## 我为什么对 ✓
+> - 选了：**C** ✓
+> - 关键反射：见"老人 + 异常位置 fracture + 多处 bruise + 财务 nonadherence + 与家人同住 + comorbid 恶化" → 0.5 秒锁 elder abuse
+>
+> ## Memory Hook
+> - **"老人 5 大信号 = elder abuse"** ⭐⭐⭐
+>   - 异常位置 fracture（orbital / 非典型 fall 位置）
+>   - 多处 bruises 不同 stage
+>   - 财务异常（"can't afford" / missed payments）
+>   - Medication nonadherence + comorbid 恶化
+>   - Shared living environment（家人作为 abuser）
+> - **Elder abuse vs 独居 alcohol abuse 区分**：与家人同住 → elder abuse；独居 → alcohol abuse / 自我 neglect
+> - **Orbital fracture in elder** = **红旗信号**（典型 fall 砸 wrist/hip/spine，不是 orbital）
+> - 类比：同 child abuse "5 risk 维度"框架 — 都是从 caregiver / environment / clinical signs / financial 多维度集成
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：无明显卡点 — 自信做对
+> - 学到：**Orbital fracture 在老人是非典型 fall location → 红旗**
+> - 学到：**Financial exploitation 表现为 medication nonadherence + comorbid 恶化**（不是 cognitive 缺）
+> - 学到：**Shared living env vs social isolation 都是 risk factor，但触发 abuse 类型不同**
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q4320]] Child abuse interview patient first（同 abuse 家族 — child version）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（elder abuse + mandatory reporting to APS）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/内分泌]]（T2DM 控制突然恶化的鉴别 — adherence / financial / medication issues）
+>   - [[完整笔记/Peixuan分科笔记/外科]]（骨折 location 是否符合 mechanism）
+>   - [[完整笔记/Peixuan分科笔记/psych]]（depression vs abuse 区分）
+> - 🌱 TODO：与 Q4320 配对触发 — 整合 [[完整笔记/专题笔记/USMLE/USMLE_Abuse_Identification_Reporting]]（child + elder + IPV 三联）
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 Elder Abuse 5 维度完整表（risk / physical / psychological / neglect / financial）
+> - [ ] 默写 Elder Abuse 5 大信号速查（fracture / bruise / 财务 / nonadherence / 同住）
+> - [ ] 默写 Orbital fracture in elder = 红旗（非典型 fall location）
+> - [ ] 反射训练：见"老人 + 异常 injury + 财务问题 + comorbid 恶化" → 0.5 秒锁 elder abuse
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Elder Abuse 5 大信号（异常位置 fracture / 多处 bruises / 财务异常 / medication nonadherence + comorbid 恶化 / shared living env）/ Elder Abuse 5 维度（risk / physical / psychological / neglect / financial exploitation）/ Orbital fracture in elder = 非典型 fall location = 红旗 / Shared living env vs social isolation 都是 risk / Mandatory report to APS / 与 Child abuse Q4320 配对学习
+> 状态:: 🟢 ✅ 做对（Elder abuse 5 信号反射建立）
+> 错因:: —

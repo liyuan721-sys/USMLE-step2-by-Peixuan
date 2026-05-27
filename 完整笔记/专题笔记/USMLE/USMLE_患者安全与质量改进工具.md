@@ -127,6 +127,41 @@ version: v1.3.9
 > ### v1.3.2（2026-05-25）— Clinical Uncertainty 收尾
 > - §13.14.7 Clinical Uncertainty 4 策略（basic principles / review workup / consult / watchful waiting）+ Memory Hook 1 句
 >
+> ### v1.3.14（2026-05-26）— 5-26 浩斯宾第三批 6 张卡（Shoulder dystocia SBT + HFE / VZV airborne / Time-out 3 elements / Child + Elder abuse）
+> 
+> **背景**：用户做完 5-26 浩斯宾第三批 6 题（Q105800 错 / Q105825 对 / Q106949 对 / Q107227 对 / Q4320 对 / Q13465 对）→ 入库 + 衍生 sync。暴露三个主笔记 gap：① §3.3 Time-out 没列 explicit 3 elements；② §13.13 SBT 标 "次要考点" 实际高频（unpredictable emergency 例外规则）；③ Abuse Identification 完全缺失。
+> 
+> **§3.3 Time-out 详解扩展**（Q107227 锚）：
+> - 新增 **Time-out 3 大核心要素 ASCII**（Right Patient + Right Procedure + Right Site）
+> - 新增 **Patient Safety Procedures 完整流程表**（Preop verification / Site marking / Time-out 三阶段）
+> - 新增 **3 要素之外信息归哪个流程表**（indication → consent / meds → med rec / team → debriefing / complications → consent）
+> - Memory Hook "三 Right"
+> 
+> **§13.13 SBT 升级**（次要考点 → 高频考点，Q105800 锚）：
+> - 新增 **Unpredictable Emergency 干预选择反射钩**（SBT > debriefing > RCA > checklist 失效）
+> - **Training 例外规则 warning callout**：HFE 普适里 training 最弱，但 unpredictable emergency 例外
+> - **Q105800 锚 Shoulder Dystocia 经典 stem 表**（risk factors + >50% 无 risk factor 陷阱 + 5 maneuvers + 并发症 + 预防策略）
+> - **其他 unpredictable emergencies 应用 SBT**（cardiac arrest / OB hemorrhage / anaphylaxis / pediatric resuscitation / difficult airway）
+> - Memory Hook "训练团队 ready，不是预测谁会出事"
+> 
+> **§1.1 Decisive vs 锦上添花扩展**：
+> - 应用扩展场景表加 **Unpredictable OB emergency 行**（Q105800 — ">50% 无 risk factors" 是 decisive；"checklist 是 evidence-based" 是锦上添花）
+> 
+> **新建 §13.15 Abuse Identification & Mandatory Reporting**（Q4320 + Q13465 双锚）：
+> - **Abuse 通用流程 ASCII**（safe environment → interview patient → mandatory report → 反 pattern）
+> - **铁律 danger callout**："Assess 先于 Report" + IPV vs child/elder 区分（IPV self-report；child + elder mandatory）
+> - **Child Abuse 红旗信号 5 维度表**（caregiver / home / children risk / presentation / management）
+> - **Elder Abuse 5 大信号速查表**（risk / physical / psychological / neglect / financial exploitation）
+> - **5 大经典信号集齐示意**（fracture / bruise / 财务 / nonadherence / 同住 = elder abuse）
+> - **Elder Abuse vs 独居 alcohol abuse 区分表**
+> - Memory Hook 5 句
+> 
+> **§13.6 HFE 5 methods**（Q105825 锚 standardization 档）：标准化只显示 kg 是经典 "消除 error-prone 动作"例（已在 v1.3.0 标 highest tier，本卡补充实战 stem）
+> 
+> **同步入库 mistakes/uworld-mistakes.md 5-26 节 6 张新卡**：
+> - 错题：Q105800（Shoulder dystocia SBT，干扰项 — checklist 看着 evidence-based 但 unpredictable 失效）
+> - 做对（🟢）：Q105825 / Q106949 / Q107227 / Q4320 / Q13465
+>
 > ### v1.3.13（2026-05-26）— 5-26 浩斯宾第二批 4 张卡（Falls 系列 + CVC VTE）
 > 
 > **背景**：用户做完 5-26 浩斯宾第二批 4 题（Q19812 错 / Q107149 错 / Q107151 对 / Q107152 错）→ 入库 + 衍生 sync。原 §13.9 HAC 表 Falls 行写"床栏 + 灯光"是**反 evidence**（4-side rails + bright lighting at night 都是 anti-patterns），必须修正。
@@ -330,6 +365,7 @@ version: v1.3.9
 | **End-of-life** | "Irreversible coma" / "no quality of life prospect" | "religious background" / "family preferences" |
 | **Conflict resolution** | "Aggressive escalation" / "patient threat" | "respected senior staff" / "long-time employee" |
 | **Fall prevention strategy**（Q107152 v1.3.13）| "80% classify high-risk" → wristbands 失效 | "AMBOSS table 推荐 visual cues" — 普适推荐 ≠ 本题适用 |
+| **Unpredictable OB emergency**（Q105800 v1.3.14）| ">50% 无 risk factors" / "no risk factors in this patient" → checklist 失效 | "Checklist 是 evidence-based" — 普适推荐 ≠ unpredictable event 适用 |
 
 **一句话锁**：**Decisive = 事件 / 临床事实；锦上添花 = 主角描述 / 普适推荐**。
 
@@ -573,19 +609,56 @@ hazard →  [██░██░██]  ← 防御层 1（如 hand hygiene，有
 > - Forcing function = **单一物理 hard stop**（如氧气接口形状）
 > - Q21477 (Choice B) 错答：clinic 没有物理 hard stop，只是叠加多层 imperfect 屏障
 
-### 3.3 Time-out 详解 — Q106239 错题考点
+### 3.3 Time-out 详解 — Q106239 + Q107227 双锚
 
 **核心**：操作 / 手术 / 关键步骤**正式开始前**全员暂停核对。
+
+#### Time-out 3 大核心要素 ⭐⭐⭐（Q107227 锚定，v1.3.14）
+
+```
+Time-out（在 skin incision / 针刺前立即做）
+    │
+    ├─ ① Right Patient — Patient identity（≥2 identifiers — 姓名 + DOB / MRN）
+    │      ✓ 不用床号 / 房间号（必须用不会变的 2 个）
+    │
+    ├─ ② Right Procedure — Type of procedure being performed
+    │      ✓ "We are performing paracentesis on this patient"
+    │
+    └─ ③ Right Site — Site / Location（laterality + 解剖位置）
+           ✓ 配 "YES + initials" site marking
+```
+
+#### Patient Safety Procedures 完整流程 ⭐
+
+| 阶段 | 内容 | 时机 |
+|---|---|---|
+| **Preoperative verification** | Patient ID + operative site + procedure type + side（≥2 providers + patient/surrogate + 2 identifiers）| Preop holding area |
+| **Site marking** | "YES" + initials on operative site（不 mark non-operative sites）+ permanent marker | 操作前任何时间 |
+| **Time-out** ⭐ | 重新核对 patient ID + procedure + site + side + 团队全员参与 | **Immediately prior to skin incision / 针刺** |
+
+#### 3 要素之外的信息归哪个流程 ⭐
+
+| 内容 | 归哪个流程 | 不在 time-out 因为 |
+|---|---|---|
+| **Indication for procedure** | Informed consent | 与患者讨论时已完成 |
+| **Medications taken** | Medication reconciliation | 早期评估 + 团队接班时完成 |
+| **Names of team members + roles** | Team safety debriefings | Time-out 之前已熟悉 |
+| **Potential complications** | Informed consent | 与患者讨论 risks 时完成 |
 
 **适用场景（CK 高频）**：
 - 手术开台前：核对 patient + site + procedure（防 wrong-site surgery）
 - 手术 counting 前：让 surgeon 知道 nurse 要 count → 减少 interruption
 - 高风险用药前
+- **任何 invasive 操作**（paracentesis / LP / 中心静脉置管 / 关节注射）
 
 **为什么 time-out 有效**：
 1. 把所有人**注意力同步**到 safety 步骤
 2. 提升 **situational awareness**（团队群体警觉）
 3. 给低年资 / 护士**发声窗口**（不打断式提醒）
+
+> [!tip] Memory Hook
+> **"三 Right"**：Right Patient + Right Procedure + Right Site ⭐
+> Time-out ≠ informed consent / med rec / debriefing 的替代 — 是**简短聚焦的 3 要素 safety check**。
 
 > [!warning] Q106239 (Choice A) 陷阱
 > RSO（retained surgical objects）成因 = **distraction / interruption / low situational awareness**，**不是** intimidation / authority 问题。
@@ -2434,7 +2507,7 @@ Solution（Q107152）：tailored multidisciplinary qualitative assessment > quan
          → FMEA（§13.12.4）
 ```
 
-### 13.13 Simulation-Based Training（次要考点）
+### 13.13 Simulation-Based Training (SBT) ⭐⭐（v1.3.14 — 从"次要考点"升级为"高频考点"，Q105800 锚定）
 
 **核心**：用 simulation 训练 first-hand experience，无 patient risk。
 
@@ -2442,6 +2515,151 @@ Solution（Q107152）：tailored multidisciplinary qualitative assessment > quan
 **Disadvantages**：贵 / artificial 环境
 **Resources**：Manikin / anatomical models / actors / VR
 **Examples**：技术（sutures / airway / line）/ 非技术（communication / decision-making / teamwork）/ emergency（BLS/ACLS/ATLS）
+
+#### Unpredictable Emergency 干预选择反射钩 ⭐⭐⭐（Q105800 锚定）
+
+> [!warning] Training 例外规则
+> §三 防御层级里 training / education 通常是**最弱层**（less reliable HFE），但**对 unpredictable emergency 是例外** — training 反而是**必要 + 高效**，因为没法 engineer away。
+
+```
+题干信号：事件 unpredictable + 大比例无 risk factors（如 >50%）
+    │
+    ▼
+① ⭐ SBT（Simulation-Based Training）— 全员 + 定期
+    • Hands-on 训练 maneuvers
+    • 团队协调反应
+    • 跨学科 mock drill
+    │
+    ▼ （仅次于 SBT 的辅助）
+② Team debriefings after adverse event
+    • 仅 involved team 受益（reach 有限）
+    • 改善沟通协调，但**不如 SBT 改善技术 skills**
+    │
+    ▼
+③ RCA — 仅当 systematic error / preventable 时
+    • Retrospective 找 root cause
+    • Unpredictable emergency 大多 unpreventable → RCA 不适用
+    │
+    ▼
+④ ❌ Risk-stratification checklist — unpredictable event 失效
+    • >50% no risk factors → checklist miss the majority
+    • 同 Q107152 "80% 都贴 = 失效"原理
+```
+
+#### Q105800 锚 — Shoulder Dystocia 经典 stem
+
+| 维度 | 内容 |
+|---|---|
+| 事件 | Shoulder dystocia — obstetric emergency |
+| Risk factors | DM / fetal weight ≥4500 g / obesity with excessive gestational weight gain |
+| **关键陷阱** | **>50% 病例无 identifiable risk factors** → highly unpredictable |
+| 5 大 maneuvers | McRoberts (maternal hip hyperflexion) → suprapubic pressure → posterior arm delivery → Wood's screw → Zavanelli (last resort) |
+| 并发症 | Brachial plexus injury / hypoxic encephalopathy / postpartum hemorrhage |
+| **预防策略** | **SBT 定期 + 全员**（不是 risk-stratification checklist 因为 unpredictable） |
+
+#### 其他 Unpredictable Emergencies 应用 SBT 同理
+
+| 事件 | 为什么需要 SBT |
+|---|---|
+| **Cardiac arrest / ACLS** | 时间紧 + 团队协调 + 罕见 |
+| **OB hemorrhage** | 突发 + 大量 + 多人参与 |
+| **Anaphylaxis** | 罕见 + 时间紧 + 多步骤 |
+| **Pediatric resuscitation** | 罕见 + 剂量计算复杂 |
+| **Difficult airway** | 罕见 + 时间紧 |
+
+> [!tip] Memory Hook
+> **"Unpredictable emergency → 训练团队 ready，不是预测谁会出事"** ⭐⭐⭐
+> - Predictable risk → 筛查 + 高 risk 加干预（如术前 DVT prophylaxis）
+> - **Unpredictable emergency** → SBT + 全员 ready（消防演习思路）
+
+### 13.15 Abuse Identification & Mandatory Reporting ⭐⭐（v1.3.14 — Q4320 + Q13465 双锚）
+
+> [!info] 整合来源
+> Q4320（child abuse — interview patient first）+ Q13465（elder abuse — 5 信号识别）双锚定。整合 child + elder + IPV 3 类 abuse 的统一识别框架。
+
+#### Abuse 通用流程 ⭐⭐⭐
+
+```
+怀疑 abuse（红旗信号识别）
+    │
+    ▼
+① ⭐ 提供 safe environment（让 abuser 离开 room）
+    • Child abuse: 让父母离开
+    • Elder abuse: 让 family member 离开
+    • IPV: 让 partner 离开
+    │
+    ▼
+② Interview patient 直接问 abuse（physical / emotional / sexual / financial）
+    • Open-ended + 年龄 / 文化适配语言
+    • Document objective findings
+    │
+    ▼
+③ 高怀疑 / confirmed → Mandatory report
+    • Child abuse → CPS（Child Protective Services）
+    • Elder abuse → APS（Adult Protective Services）
+    • IPV → 鼓励 patient self-report，**不是** mandatory（成年 capacity decision）⭐
+    │
+    ▼
+④ ❌ 不要先做（不能 delay 评估）：
+    • Family therapy / CBT / support groups
+    • Interview perpetrator alone（不能取代 patient interview）
+    • Reassurance（dismissing 红旗信号）
+```
+
+> [!danger] 关键铁律
+> **Assess（先评估）→ Report（后上报）** — 不能跳过 interview 直接报 CPS/APS。
+> **IPV ≠ child/elder abuse**：IPV 是**成年人 autonomy** — 鼓励 self-report，不是 mandatory；child + elder 是 vulnerable population → mandatory。
+
+#### Child Abuse 红旗信号（Q4320 锚）
+
+| 维度 | 内容 |
+|---|---|
+| **Caregiver background** | Young / single parents / lower education / **substance abuse** ⭐ / depression / impulse control disorder / 自己童年被虐 |
+| **Home environment** | **Unstable family situation**（divorce / conflict）/ **financial difficulties** / 缺 social support / domestic violence |
+| **Children risk** | 残疾 / unplanned pregnancy / 不愿要的孩子 |
+| **Clinical presentation** | Unexplained / implausible injuries / 不同 stage 愈合 injuries / malnutrition / **sudden behavioral or scholastic changes** ⭐ |
+| **Management** | Document → patient interview alone → report to **CPS** if confirmed |
+
+#### Elder Abuse 5 大信号速查（Q13465 锚）⭐⭐⭐
+
+| 维度 | 内容 |
+|---|---|
+| **Risk factors** | **女性** ⭐ / **Dementia or 慢性精神病** / Functional impairments / **Shared living env** OR **Social isolation** / Poor SES |
+| **Physical abuse** | Atypical 抓伤 / **异常位置 fractures**（如 orbital — not from typical fall）⭐ / 痛与 reported etiology 不符 / 多处 injuries 不同 stage |
+| **Psychological abuse** | 行为 / 性格改变 / depression / anxiety |
+| **Neglect** ⭐ | 营养不足 / 压疮 / **comorbid 病 deterioration**（如 T2DM 控制突然变差）|
+| **Financial exploitation** ⭐ | **Medication nonadherence**（钱被占）/ 多次错过 appointments / 未付租金水电费 |
+| **Management** | Document → patient interview alone → report to **APS** if confirmed |
+
+#### 5 大经典信号集齐（Q13465 stem 范例）
+
+```
+① 异常位置 fracture（orbital - non-typical fall location）
+② 多处 bruises（前臂 + 腹 - 不同位置）
+③ 财务异常（"pharmacy charges too much, can't afford"）
+④ Medication nonadherence + comorbid 恶化（A1c 7.2 → 9%）
+⑤ Shared living environment（与 daughter + son-in-law 同住）
+   ↓
+= Elder Abuse（不是 dementia / depression / alcohol abuse / nutritional deficiency）
+```
+
+#### Elder Abuse vs 独居 Alcohol Abuse 区分 ⭐
+
+| 信号 | Elder Abuse | Late-onset alcohol abuse |
+|---|---|---|
+| 居住 | **Shared living env**（与家人同住）⭐ | **独居** |
+| Injuries | Multiple 异常位置 | Falls / 醉后伤 |
+| Financial | 家人占用 fix income | 自己花在酒上 |
+| Comorbid | 因 financial exploitation 恶化 | 因 alcohol 致 comorbid |
+
+#### Memory Hook
+
+> [!tip] Abuse 5 大反射钩
+> - **"Assess 先于 Report"** — 先 interview patient，不直接 CPS/APS
+> - **"父母 / 家人离开 room"** — 给 victim safe disclosure 空间
+> - **"Orbital fracture in elder = 红旗"** — 非典型 fall location
+> - **"5 大信号集齐 = elder abuse"**（fracture / bruise / 财务 / nonadherence / 同住）
+> - **"IPV 是 self-report，不是 mandatory"** — 成年 autonomy；child + elder = vulnerable = mandatory
 
 ### 13.14 Navigating Stressful Situations in Residency（v1.3.1 增量）⭐
 
