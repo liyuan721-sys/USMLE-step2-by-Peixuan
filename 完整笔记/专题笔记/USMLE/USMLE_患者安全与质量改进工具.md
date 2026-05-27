@@ -2354,7 +2354,7 @@ CDSS 属于 **Computerized automation**（HFE Highest 档第 2 个）— 减少 
 | HAC | 核心预防 |
 |---|---|
 | **CAUTI** | 减少不必要 catheter + 早拔 |
-| **CLABSI** | Sterile insertion bundle + 早拔 |
+| **CLABSI** ⭐ | Sterile insertion bundle + 早拔；**ID 完整体系**（病原体 / 诊断 DTP / 5 必拔 / 疗程 / HAC 政策）→ [[完整笔记/专题笔记/感染/感染_CLABSI完整体系]]；**预防 bundle 详解** → [[完整笔记/专题笔记/USMLE/USMLE_侵入操作安全流程#5.2.3a CLABSI 预防 Bundle ⭐⭐⭐（USMLE 高频）]] |
 | **VAP** | Head-of-bed 30° + 口腔护理 + 早脱机 |
 | **SSI** | Pre-op abx + skin prep + normothermia |
 | **C. difficile** | 谨慎 abx + isolation + **手卫生用 soap+water**（alcohol gel 无效） |
