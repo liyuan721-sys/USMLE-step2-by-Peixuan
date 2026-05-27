@@ -4,7 +4,7 @@ tags:
   - Ethics
 created: 2026-05-25
 type: 专题笔记
-version: v1.3.9
+version: v1.3.15
 ---
 
 # 患者安全与质量改进工具 — Patient Safety & Quality Improvement Tools
@@ -19,6 +19,7 @@ version: v1.3.9
 >   - [[#2.0 Variation Management — Common Cause vs Special Cause ⭐⭐⭐（AMBOSS 增量 v1.2）]]
 >   - [[#2.4 PDSA Cycle（升级 v1.2 + SMART + PDCA 区分）]]
 >   - [[#2.6 Pareto Chart — 80/20 找最大问题 ⭐（AMBOSS 增量 v1.2）]]
+>   - [[#2.7 4 大 QI Methodology — Model for Improvement / Lean / Six Sigma / Change Management ⭐⭐⭐（v1.3.15 升级 — AMBOSS 4 联表锚定）]]
 > - [[#三、Patient Safety 防御层级 — 强度梯队（核心 ⭐⭐⭐）]]
 > - [[#四、Error 分类与命名]]
 >   - [[#4.4 Adverse Event 4 类完整分类（升级 §4.1）⭐⭐]]
@@ -60,6 +61,19 @@ version: v1.3.9
 ---
 
 > [!info]- 版本历史
+>
+> ### v1.3.15（2026-05-26）— AMBOSS QI 4 联表 + Change management 整合（用户图锚定）
+>
+> **背景**：用户提供 AMBOSS QI Processes 4 联表截图（Model for Improvement/PDSA + Lean + Six Sigma + Change management 4 methodology）→ 暴露 §2.7 只覆盖 Lean + Six Sigma 2 个；**Change management 完全缺失**；Lean vs Six Sigma 区分维度不全；Swiss Cheese vs Lean 区分也没单独点出。
+>
+> **§2.7 升级（"Six Sigma + Lean Process Improvement" → "4 大 QI Methodology 联表"）**：
+> - **§2.7 主表扩 2 行 → 4 行**（Model for Improvement / Lean / Six Sigma / **Change management** ⭐ 新增）+ stem 触发词列加宽
+> - **§2.7.1 新增** Lean vs Six Sigma 关键区分 5 维对照表（目标 / 核心问题 / 场景 / 关键词 / 工具）+ 记忆诀窍（**Lean = 流畅；Six Sigma = 精准**）
+> - **§2.7.2 新增** Swiss Cheese Model vs Lean 区分（mental model vs methodology — 解释 error 发生 vs 主动优化流程）
+> - **§2.7.3 新增** 4 步选择法决策树（PDSA / Lean / Six Sigma / Change management / Swiss Cheese 反射钩）
+> - **§十一 Memory Hooks 追加 3 句**（Lean 流畅 / Six Sigma 精准 / Change management champion+early adopter）
+>
+> **设计原则**：QI methodology 与 QI tool 边界 — methodology = 改进哲学（PDSA / Lean / Six Sigma / Change mgmt 4 大）；tool = 具体工具（FMEA / RCA / Control chart / Pareto / Run chart）。同一个 PDSA 既可在 §2.1 当工具讲（与 FMEA/RCA 并列），也可在 §2.7 当 methodology 讲（与 Lean/Six Sigma 并列）—— 不矛盾，是不同抽象层。
 >
 > ### v1（2026-05-25）— 初版
 > 错题驱动建立（Q21141 Hospice + Q19553 FMEA + Q106239 Time-out + Q21477 Swiss Cheese）
@@ -521,14 +535,142 @@ CK 高频名词。Plan stage 设定 objective 时用：
 > | **Control chart** | 时间趋势 + control limits | ✅ 有 | **判断 common vs special cause variation** |
 > | **Run chart** | 时间趋势 + central line（mean/median） | ❌ 无 | **看趋势**（不能判 stability）|
 
-### 2.7 Six Sigma + Lean Process Improvement（AMBOSS 增量 v1.2）
+### 2.7 4 大 QI Methodology — Model for Improvement / Lean / Six Sigma / Change Management ⭐⭐⭐（v1.3.15 升级 — AMBOSS 4 联表锚定）
 
-| 方法论 | 核心 | CK 关键词 |
+> [!info] Methodology vs Tool 边界
+> - **Methodology**（改进哲学）= 怎么思考问题 → PDSA / Lean / Six Sigma / Change management 4 大
+> - **Tool**（具体工具）= 怎么执行 → FMEA / RCA / Control chart / Pareto / Run chart
+>
+> 同一个 **PDSA** 在 §2.1 / §2.4 作为 **tool** 与 FMEA / RCA 并列；在 §2.7 作为 **methodology** 与 Lean / Six Sigma / Change management 并列 —— 不矛盾，是不同抽象层。
+
+#### 4 大 Methodology 主表（AMBOSS 4 联）
+
+| Methodology | 核心 (Core) | Example | Stem 触发词 ⭐ |
+|---|---|---|---|
+| **Model for Improvement / PDSA cycle** ⭐ | **Incremental cycles** of planning, piloting, assessing, refining（迭代改进）| 新 check-in procedure + weekly patient satisfaction survey | "cyclical" / "iterative" / "pilot then refine" / "small-scale change before full implementation" / "ongoing data collection to adjust" |
+| **Lean** ⭐⭐ | **Reduce waste** + optimize workflow（消除浪费 + 优化流程）| Streamlining scheduling → 减 wait time / no-show | "reduce waste" / "eliminate unnecessary steps" / "streamline" / "reduce no-show / wait time" / "value stream" |
+| **Six Sigma** | **Near-elimination of defects** through statistically driven process（统计学驱动近零缺陷，6σ = 99.99966% = 3.4 defects/million）| Controlling wrong-site surgery rate to < 0.00001% | "near zero defects" / "6σ" / "3.4 per million" / "statistical process control" / "catastrophic error elimination" / "reduce variation" |
+| **Change management** ⭐（新增 v1.3.15）| Engaging **personnel** to adopt + implement organizational change（人因驱动 — 让员工接受变革）| 找 frontline early adopters lead EHR implementation | "**champion**" / "**early adopter**" / "engage staff in adoption" / "culture change for new system" / "physician buy-in" / "resistance to change" |
+
+#### Lean 的 8 大 Waste（医疗版 — TIMWOODS 记忆法）
+
+```
+T - Transportation        不必要搬运（病人 / 标本 / 物资）
+I - Inventory             库存过多
+M - Motion                不必要动作（HCP 走动）
+W - Waiting ⭐ (最常考)    等待时间（病人候诊 / lab 报告 / 转诊）
+O - Overproduction        过度生产 / 检查 / 医嘱
+O - Overprocessing        过度处理
+D - Defects               缺陷（need rework）
+S - Skills underused      人才浪费（高资 HCP 做低端工作）
+```
+
+#### Six Sigma DMAIC 流程
+
+```
+D - Define     定义问题（如 wrong-site surgery rate 偏高）
+M - Measure    测量当前缺陷率（baseline data）
+A - Analyze    找根因（统计学 + control chart + Pareto）
+I - Improve    实施改进（process redesign）
+C - Control    维持改进（statistical process control 长期监控）
+```
+
+#### Change Management 关键概念
+
+| 概念 | 含义 | CK Stem 信号 |
 |---|---|---|
-| **Six Sigma** | **减少 defect + variation** 到 6 σ 水平（极低错误率）；数据驱动 | "reduce variation" / "defect reduction" / "data-driven QI" |
-| **Lean process improvement** ⭐ | **消除 waste / 不必要步骤** → optimize workflow | "reduce wait times" / "eliminate unnecessary steps" / "fewer no-shows" / "shorter waiting times" |
+| **Champion** ⭐ | 变革推动者（关键意见领袖 / 院领导支持） | "physician champion leading the rollout" |
+| **Early adopter** ⭐ | 早期采纳者（先试用 → 影响其他人）| "identify early adopters in each department" |
+| **Stakeholder engagement** | 利益相关者全员参与 | "engage frontline staff in design" |
+| **Culture change** | 组织文化转变（不只是流程改）| "shift from blame to just culture" |
+| **Resistance to change** | 抗拒变革（自然反应，要主动管理）| "staff reluctant to adopt new EHR" |
 
-**共同**：都是 §2.4 PDSA 之外的 QI methodology 家族；CK 一般考名词配对。
+> [!tip] CK 经典 stem
+> 医院要推新 EHR / 新临床路径 / 新 safety protocol — 怎么让员工真的用起来？→ **Change management**（找 champion / 找 early adopter / engage stakeholders）。**不是** education alone（培训不解决"愿不愿意用"）。
+
+---
+
+### 2.7.1 Lean vs Six Sigma 关键区分 ⭐⭐⭐（最高频考点 — v1.3.15 新增）
+
+CK / AMBOSS 反复在 Lean 和 Six Sigma 之间钓选项。**5 维对照**：
+
+| 维度 | **Lean** | **Six Sigma** |
+|---|---|---|
+| **目标** | 减 **waste / inefficiency**（浪费 / 低效） | 减 **defects / variation** 到 6σ（缺陷 / 变异） |
+| **核心问题** | "这一步有没有 **value**？" | "这一步**错误率**有多少？" |
+| **场景** | wait time / no-show / 流程冗余 / 候诊堵塞 | wrong-site surgery / medication error / never events / catastrophic |
+| **关键词** | streamline / workflow / value / waste | defect / variation / statistical / 99.99966% / control chart |
+| **工具** | Value stream map（价值流图）/ Lean 8 waste | Control chart / Capability analysis / DMAIC / statistical process control |
+
+> [!success] 记忆诀窍（v1.3.15 视觉 Hook）
+> - **Lean = 流畅** 🌊 — 去除堵点，让流程跑得**顺**（重点在"流不流畅"）
+> - **Six Sigma = 精准** 🎯 — 消除错误，让结果**零缺陷**（重点在"准不准"）
+>
+> 一句话决策：
+> - 题干说 "**等太久 / no-show / 走太多路 / 不必要步骤**" → **Lean**
+> - 题干说 "**手术错位 / 用错药 / 5σ → 6σ / 统计学**" → **Six Sigma**
+
+> [!warning] Lean 反 pattern
+> "Lean = 减病人数 / 砍预算" ❌ — Lean 减的是 **waste（无价值步骤）**，不减 value。砍病人数是 cost-cutting 不是 Lean。
+
+---
+
+### 2.7.2 Swiss Cheese Model vs Lean — Mental Model vs Methodology 区分 ⭐⭐（v1.3.15 新增）
+
+很多人会把 Swiss Cheese 当成 QI methodology，**但它根本不是**。
+
+| 概念 | 性质 | 用法 |
+|---|---|---|
+| **Swiss Cheese Model** | Patient safety **mental model**（思维模型 — 解释错误为什么发生） | 多层 safeguard 像奶酪片，每片有洞（vulnerabilities）。**洞对齐时 hazard 穿过所有层 → adverse event**。用于**事后解释**或**事前思考防御层**。详见 §3.2 |
+| **Lean** | QI **methodology**（方法学 — 主动改进流程） | 主动**识别并消除 waste**，优化 workflow。用于**改造流程减低效**。详见 §2.7 |
+
+> [!danger] CK 关键区分
+> - 题目问"**用哪种 model 解释**这次 adverse event" → **Swiss Cheese Model**
+> - 题目问"**用哪种 QI methodology 防止再次发生**" → 看具体故障：
+>   - 减 wait / waste → **Lean**
+>   - 减 defect / variation → **Six Sigma**
+>   - 迭代试点 → **PDSA**
+>   - 让员工接受 → **Change management**
+
+**类比**：
+- Swiss Cheese = **解剖图**（告诉你身体怎么坏的）
+- Lean / Six Sigma / PDSA / Change mgmt = **治疗方案**（怎么治）
+
+> [!tip] 同类区分提示
+> **RCA**（§2.3 / §13.12）也是**分析工具**（事后找根因），不是改进 methodology。同样道理：
+> - Swiss Cheese / RCA / Fishbone / 5 Whys = **分析框架**（理解 error）
+> - PDSA / Lean / Six Sigma / Change mgmt = **改进方法**（防止 error）
+> - FMEA / Control chart / Pareto = **QI 工具**（具体操作）
+
+---
+
+### 2.7.3 4 步选择法 — Methodology Decision Tree ⭐（v1.3.15 新增）
+
+```
+看到 QI 场景，按顺序问自己：
+
+├─ 1. 是不是 "小试点 + 迭代 + 反复调整"？      → PDSA / Model for Improvement
+│     ✓ 关键词：cyclical / iterative / pilot then refine
+│
+├─ 2. 是不是 "减 waste / 等待 / 冗余步骤"？     → Lean
+│     ✓ 关键词：streamline / waste / wait time / no-show
+│
+├─ 3. 是不是 "把错误降到接近零 + 统计学"？      → Six Sigma
+│     ✓ 关键词：6σ / 99.99966% / statistical / catastrophic
+│
+└─ 4. 是不是 "让员工接受变革 / champion"？      → Change management
+      ✓ 关键词：champion / early adopter / buy-in / culture
+
+如果题目问 "为什么 error 发生" 而不是 "怎么改" → Swiss Cheese Model
+如果题目问 "找出 error 根本原因 + 系统分析"   → RCA（§2.3）
+如果题目问 "新流程上线前预防 error"            → FMEA（§2.2）
+```
+
+> [!warning] 4 高频陷阱
+> 1. **PDSA vs Lean**：都能"改善满意度"，区分点是**是否 cyclical/iterative**。强调"试点再扩展"= PDSA；强调"消除等待 / 流程冗余"= Lean
+> 2. **Six Sigma 关键词陷阱**：看到 6σ / 99.99966% / 3.4 per million / statistical process control → 直接 Six Sigma
+> 3. **Change management 容易漏选**：题目重点在"**人**"而不是"流程"时选这个 — champion / early adopter / culture / buy-in 是强信号
+> 4. **Swiss Cheese ≠ QI methodology**：它是 error analysis 工具，不是改进方法。同理 RCA / Fishbone / 5 Whys 也是分析工具不是 methodology
 
 ---
 
@@ -1197,7 +1339,7 @@ Verbal handoffs (sign-outs) → adverse events 风险 ↑（especially with **ma
 >
 > **"Pareto 找最大问题（80/20）；Control chart 判 variation（有 limits）；Run chart 看趋势（无 limits）"** — 3 大 measurement tool
 >
-> **"Six Sigma 减 defect / variation；Lean 减 waste / wait time"** — methodology 区分
+> **"4 大 QI Methodology：PDSA（迭代）+ Lean（减 waste）+ Six Sigma（减 defect 到 6σ）+ Change management（人因 + champion / early adopter）"** ⭐⭐⭐（v1.3.15 AMBOSS 4 联表锚定）
 >
 > **"Medical errors = 3rd leading cause of death US (~250,000/yr)"** — Epidemiology 背景
 >
@@ -1286,6 +1428,12 @@ Verbal handoffs (sign-outs) → adverse events 风险 ↑（especially with **ma
 > **"HFE 3 档 reliability：Highest = Forcing + Automation + Environment & physical layout；High = Standardization + Human-machine redundancy；Medium = Reminders + Double-checks；Less = Training/Policy/Education"** ⭐⭐⭐
 >
 > **"High variation = ↑ cost + ↓ quality + ↓ value；Reduce variation 首选 = Data-driven individual feedback vs benchmarks（不是 workshop / patient-centered / malpractice insurance）"** ⭐⭐
+>
+> **"Lean = 流畅 🌊（减 waste / wait time / no-show）；Six Sigma = 精准 🎯（减 defect / variation 到 6σ）"** ⭐⭐⭐（v1.3.15 视觉 Hook — Lean vs Six Sigma 5 维区分核心）
+>
+> **"Change management 三件套：Champion（推动者）+ Early adopter（先用者）+ Culture change（不只是流程改）"** ⭐⭐（v1.3.15 AMBOSS 新增第 4 methodology — 人因驱动）
+>
+> **"Swiss Cheese / RCA / Fishbone / 5 Whys = 分析框架（理解 error）；PDSA / Lean / Six Sigma / Change mgmt = 改进 methodology（防止 error）；FMEA / Control chart / Pareto = QI 工具（具体操作）"** ⭐⭐⭐（v1.3.15 — 3 层抽象边界）
 
 ---
 
