@@ -209,10 +209,130 @@ Planning  计划：识别具体步骤、预判障碍、定义成功
 
 ---
 
+## Part 8. Family Education — 反 Misconception 4 铁律（OUD MAT 家属经典）⭐⭐⭐
+
+> [!info] 场景边界
+> 当 stem 出现 **家属在场 + 家属对治疗提 misconception**（"trading one drug for another" / "怎么会有用" / "依赖了怎么办"）→ 必须**直接回应 misconception**，不能绕开、不能技术性绕、不能讲后果。
+> 经典 stem：**Q105919（OUD + buprenorphine + 妈妈"just trading one drug for another"）**。
+
+### 8.1 4 铁律（必答框架）
+
+| 铁律 | 正确做法 | 反 pattern |
+|---|---|---|
+| **1. 直接回应 misconception** | 承认担忧 + 解释为什么不是 "trading" | 绕开担忧讲技术细节 |
+| **2. Plain language** | "prevents relapse / reduces death" | "partial μ agonist activates receptors" |
+| **3. 强调 long-term outcomes** | **relapse ↓ / overdose ↓ / death ↓**（evidence-based）| 只讲 short-term withdrawal management |
+| **4. 避免绝对化** | "best option" / "first-line for most" | "only way" / "must" |
+
+### 8.2 "为什么不是 trading" 科学回答模板
+
+```
+① illicit opioid (heroin / pills)
+   = 短效 + 高峰陡 + 高 reward + 高 overdose 风险
+
+② Buprenorphine (partial agonist)
+   = 长效 + 平台 + 减 craving 不 high + ceiling effect 防 overdose
+
+③ 净效果
+   = 替代 high-risk drug with low-risk medical therapy + 重塑生活
+   = 医疗替代 substitution therapy
+   ≠ "trading"
+```
+
+### 8.3 MAT 时长铁律（家属常误解）
+
+- **MAT = long-term；多数患者 lifelong**
+- **少数** stable 患者可慢 taper — **以月-年为单位**，不是 "few days"
+- 反 pattern：选项写 "ease withdrawal until take off over next few days" → **直接矛盾 MAT 长期定位**
+
+### 8.4 Family vs Patient Education 优先级
+
+| Stem | 优先 |
+|---|---|
+| OUD + 家属在场 + 家属提问 / misconception | **同时 educate 家属**（不只 patient）— family involvement = OUD outcomes protective factor |
+| Cognitively intact + 独立成人患者 + 家属仅陪伴 | **direct engagement 患者优先**（family 不主要靠）|
+| Cognition impaired / functional status decline | Family member 介入主导 |
+
+### 8.5 Memory Hook
+
+> [!success]
+> - **"妈妈 trading 反应 = 别绕开 misconception，直接答 long-term benefits（relapse / overdose / death ↓）"**
+> - **"MAT ≠ short-term taper；MAT = long-term / often lifelong"**
+> - **"4 铁律：直接 + plain + long-term + 反绝对"**
+
+---
+
+## Part 9. Medication Counseling — Teach-back + Sound-alike 防错（出院 / 复杂方案经典）⭐⭐⭐
+
+> [!info] 场景边界
+> 当 stem 出现 **出院 + medication change + 老人 / low literacy / sound-alike drug**（Glucovance/Glucophage、prednisone/prednisolone、hydroxyzine/hydralazine）→ 必须 **teach-back 强制**。
+> 经典 stem：**Q19788（83M Glucovance → Glucophage，6 天后 hypo 40，患者仍服 combined pill）**。
+
+### 9.1 Patient-Centered Counseling 4 法（效力排序）⭐
+
+| 方法 | 主动 vs 被动 | 效力 |
+|---|---|---|
+| **Teach-back** ⭐⭐⭐ | 主动 | 最强 — 患者用自己话 describe 理解 → detect miscomprehension |
+| **Plain-language**（drug names / indication / dose / frequency）| 主动 | 强 |
+| **Medication reconciliation**（multi-provider checkpoints）| 主动 | 强 — 防 omission |
+| "Ask if any questions" | **被动** | 弱 — 患者不知该问什么；通常答 "no" |
+
+### 9.2 Teach-back 强制场景（反射触发）
+
+```
+Stem 出现 → 0.3 秒锁 teach-back
+─────────────────────────────────────────────
+出院 + medication change + 老人               → teach-back
+Sound-alike drug                              → teach-back
+低 health literacy + 复杂新治疗方案           → teach-back
+住院 → 门诊 transition + polypharmacy         → teach-back
+```
+
+### 9.3 ADE Risk Factors 3 大维度
+
+| 维度 | Risk Factors |
+|---|---|
+| **Patient** | Polypharmacy / Low health literacy / Very young or advanced age / Communication barriers / Nonadherence |
+| **Provider** | Vague Rx / Incorrect med reconciliation / Absence of counseling / Illegible handwriting |
+| **Medication** ⭐ | **Look-/sound-alike drugs**（最高频陷阱 — Glucovance/Glucophage 等）|
+
+### 9.4 反 Pattern 速排
+
+| 选项 | 为什么错 |
+|---|---|
+| "Ask if questions at end" | 被动 — 患者不知该问 |
+| "Avoid combination drugs" | 错 — combination 增 adherence + convenience，不应一概避免 |
+| "Family member present" | 该患者 cognitively intact + 独立 → direct engagement 优先；family 仅在 cognition impaired 时主要靠 |
+| "Printed copy of discharge summary" | 被动 — 患者可能不读 / 不理解 |
+
+### 9.5 Memory Hook
+
+> [!success]
+> - **"出院 + medication change + 老人 / sound-alike → teach-back 强制"**
+> - **"Teach-back ≠ 'ask if questions'（主动 vs 被动 = 决定性边界）"**
+> - **"Cognitively intact 独立 → direct engagement，不主要靠 family"**
+> - **"Sound-alike Glucovance/Glucophage = 内分泌 + Patient Safety 经典对"**
+
+### 9.6 与本笔记其他 Part 的关系
+
+- **Part 1-7（MI / 阶段判断 / 五坑）** = 用于 **行为改变** 场景（戒烟 / 戒酒 / 减重 / 用药依从性差等）
+- **Part 8（Family Education）** = 用于 **家属在场 + misconception** 场景（OUD MAT 家属）
+- **Part 9（Medication Counseling）** = 用于 **复杂 / sound-alike medication change** 场景（出院 / 转科）
+- **三者互补**：MI 改 motivation；Family Ed 改 family misconception；Med Counseling 改 understanding
+
+---
+
 ## 🔗 关联
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes#^Q11936]] MI / 对 precontemplation 患者制造矛盾
   - [[mistakes/uworld-mistakes#^Q21169]] MI / Evoking change talk 向下问
+  - [[mistakes/uworld-mistakes#^Q105919]] OUD / MAT 家属 misconception "trading one drug" → Part 8（5-27 错）
+  - [[mistakes/uworld-mistakes#^Q19788]] Medication counseling / teach-back / Glucovance/Glucophage sound-alike → Part 9（5-27 做对）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
-- 🏥 跨学科：[[完整笔记/Peixuan分科笔记/消化腺]]（酗酒 → LFT 升高 / 复发性 acute pancreatitis，MI 高频出现在酒精/物质滥用躯体并发症场景）
-- 🌱 TODO（待生成衍生）：本专题随对话术错题持续扩充——后续积累 **坏消息告知 (SPIKES) / 知情同意 / 患者拒绝治疗 / 文化敏感 / change talk vs sustain talk** 类错题后，请 Claude Code 整合进本笔记，新增对应章节（如 Part 8 坏消息告知 SPIKES SOP）。
+- 🏥 跨学科：
+  - [[完整笔记/Peixuan分科笔记/消化腺]]（酗酒 → LFT 升高 / 复发性 acute pancreatitis，MI 高频出现在酒精/物质滥用躯体并发症场景）
+  - [[完整笔记/Peixuan分科笔记/内分泌]]（Glucovance/Glucophage sound-alike 经典对 — Part 9）
+  - [[完整笔记/专题笔记/psych/psych_MAT速查]]（OUD MAT 三药 + 启动时机 — Part 8 配套）
+  - [[完整笔记/专题笔记/USMLE/USMLE_易混药物对照]] §2（sound-alike drugs + teach-back — Part 9 配套）
+  - [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]]（ADE / Patient Safety 框架）
+- 🌱 TODO（待生成衍生）：本专题随对话术错题持续扩充——后续积累 **坏消息告知 (SPIKES) / 知情同意 / 患者拒绝治疗 / 文化敏感 / change talk vs sustain talk** 类错题后，请 Claude Code 整合进本笔记，新增对应章节（如 Part 10 坏消息告知 SPIKES SOP）。

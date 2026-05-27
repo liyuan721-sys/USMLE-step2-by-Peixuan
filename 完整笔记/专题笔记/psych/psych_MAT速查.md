@@ -349,16 +349,79 @@ type: 专题笔记
 
 ---
 
+## 四点五、家属教育反 Misconception 4 铁律（Q105919）⭐⭐⭐
+
+> [!info] 场景边界
+> 当 stem 出现 **家属在场 + 家属对 MAT 提 misconception**（"just trading one drug for another" / "怎么能停"）→ 必须**直接回应 misconception**，不能技术性绕、不能 dismiss、不能讲后果。
+> 经典 stem：**Q105919（21F + OUD + buprenorphine + 妈妈 "We came here for help, you're just trading one drug for another"）**。
+
+### 4.5.1 4 铁律（必答框架）
+
+| 铁律 | 正确做法 | 反 pattern |
+|---|---|---|
+| **1. 直接回应 misconception** | 承认担忧 + 解释为什么不是 "trading" | 绕开担忧讲技术细节 |
+| **2. Plain language** | "prevents relapse / reduces death" | "partial μ agonist activates receptors" |
+| **3. 强调 long-term outcomes** | **relapse ↓ / overdose ↓ / death ↓**（evidence-based）| 只讲 short-term withdrawal management |
+| **4. 避免绝对化** | "best option" / "first-line for most" | "only way" / "must" |
+
+### 4.5.2 "为什么不是 trading" 科学回答模板
+
+```
+① illicit opioid (heroin / pills)
+   = 短效 + 高峰陡 + 高 reward + 高 overdose 风险
+
+② Buprenorphine (partial agonist)
+   = 长效 + 平台 + 减 craving 不 high + ceiling effect 防 overdose
+
+③ 净效果
+   = 替代 high-risk drug with low-risk medical therapy + 重塑生活
+   = 医疗替代 substitution therapy
+   ≠ "trading"
+```
+
+### 4.5.3 MAT 时长铁律（家属常误解 — 反 pattern 警示）
+
+> [!danger] **MAT = long-term；多数患者 lifelong**
+> - 少数 stable 患者可慢 taper — **以月-年为单位**，不是 "few days"
+> - Q105919 中干扰项 B "ease withdrawal until take off over next few days" → **直接矛盾 MAT 长期定位**
+> - 反射触发：见到选项暗示 "短期 taper 几天" → 0.3 秒排除
+
+### 4.5.4 Family vs Patient Education 优先级
+
+| Stem | 优先 |
+|---|---|
+| OUD + 家属在场 + 家属提问 / misconception | **同时 educate 家属**（不只 patient）— family involvement = OUD outcomes protective factor |
+| Cognitively intact + 独立成人患者 + 家属仅陪伴 | direct engagement 患者优先 |
+
+### 4.5.5 4 大 Choice 反 Pattern 速排（Q105919 干扰项谱）
+
+| 选项类型 | 例子 | 为什么错 |
+|---|---|---|
+| 用医学术语 | "buprenorphine only partially activates opioid receptors" | 家属听不懂 + 错误暗示 abrupt stop 无 withdrawal |
+| 暗示短期 taper | "ease withdrawal until take off over next few days" | 矛盾 MAT 长期定位 |
+| 绝对化 | "MAT is the only way for her to stop" | non-medication therapy 在 motivated 患者 acceptable（虽 less effective）|
+| **直接答 long-term outcomes** ✅ | "prevents relapse, significantly reduces overdose and death" | 正解 |
+
+### 4.5.6 与 §三 道德反 pattern 的关系
+
+- **§三 道德反 pattern**（"MAT 是治疗不是 enabling"）= 医生**自己**对 MAT 有偏见 → 拒绝 prescribe
+- **§四点五 家属 misconception**（"trading one drug"）= **家属**对 MAT 有偏见 → 医生需 educate
+- **两者共同根源**：MAT 的 stigma 是 OUD 治疗最大障碍 — 既要克服医生 stigma，也要克服家属 stigma
+
+---
+
 ## 五、🔗 关联
 
 - 🔁 **同主题错题**：
   - [[mistakes/uworld-mistakes#^Q18702]] IVDU + AMA + MAT 拒绝 prescribe = punitive 陷阱（触发本笔记 MAT §一道德反 pattern）
+  - [[mistakes/uworld-mistakes#^Q105919]] OUD + buprenorphine + 妈妈 "trading one drug" misconception → 触发 §四点五 家属教育 4 铁律（5-27 错）
   - （待积累其他 MAT 启动时机 / precipitated withdrawal / DER 类错题 → v1 → v1.x 增量）
 - 📚 **主笔记**：
   - [[完整笔记/Peixuan分科笔记/psych]]（Substance use disorder + MAT 长期治疗 — methadone / buprenorphine / naltrexone 选择 + AUD 三药）
   - [[完整笔记/专题笔记/_衍生_Ethics精简框架]]（§三 AMA 管理 + IVDU AMA 必问 withdrawal/cravings → MAT 启动 — 本笔记从 Ethics 框架 §三 移出，原位置保留 stub）
   - [[完整笔记/专题笔记/psych/psych_物质急诊速查]]（急性 opioid overdose / alcohol withdrawal / cocaine 等急性物质急诊 — 与本笔记**长期维持**互补）
   - [[完整笔记/专题笔记/物质单药/psych_物质_Opioids]]（Opioid 单药学习 — heroin / fentanyl / oxycodone / 处方药 toxicology）
+  - [[完整笔记/专题笔记/psych/psych_医患沟通对话术SOP]] Part 8（家属教育反 misconception — 与本笔记 §四点五 同源）
 - 🏥 **跨学科**：
   - [[完整笔记/Peixuan分科笔记/GI]]（Alcoholic hepatitis — Maddrey discriminant function + prednisolone；与 AUD 长期维持衔接）
   - [[完整笔记/Peixuan分科笔记/感染]]（IVDU 相关 endocarditis / HIV / HCV / 注射部位感染 — MAT 减 IV 注射 → 降低这些并发症）

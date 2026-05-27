@@ -253,7 +253,7 @@ Step 3: 根据培养 + 药敏 narrow（48-72h 后）
 
 ### 模式 4：QI / Patient Safety（Donabedian）
 
-ICU CLABSI rate 持续 elevated（详见 [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具#12.2.x Outcome 不变诊断顺序 ⭐⭐⭐（v1.3.9 新增 — Q22359 锚定）]]）：
+ICU CLABSI rate 持续 elevated（详见 [[完整笔记/专题笔记/USMLE/USMLE_患者安全_QI工具#12.2.x Outcome 不变诊断顺序 ⭐⭐⭐（v1.3.9 新增 — Q22359 锚定）]]）：
 
 | Stem 表述 | Indicator 类型 |
 |---|---|
@@ -286,7 +286,7 @@ ICU CLABSI rate 持续 elevated（详见 [[完整笔记/专题笔记/USMLE/USMLE
 | **Coag-neg Staph 必拔管** | ❌ **可保留** + 抗生素 lock；**S. aureus / Candida / Pseudomonas / VRE 才必拔** |
 | **Candida CLABSI 不用眼科会诊** | ❌ **必做** — 排除 endophthalmitis |
 | **S. aureus CLABSI 7 天疗程** | ❌ **≥ 14 天**（拔管后算起），有 IE → 4-6 周 |
-| **CLABSI checklist 实施后率不变 → patient factors** | ❌ Patient factors 不 systematically alter — 先查 **Process compliance**（详见 [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具#12.2.x Outcome 不变诊断顺序 ⭐⭐⭐（v1.3.9 新增 — Q22359 锚定）]]）|
+| **CLABSI checklist 实施后率不变 → patient factors** | ❌ Patient factors 不 systematically alter — 先查 **Process compliance**（详见 [[完整笔记/专题笔记/USMLE/USMLE_患者安全_QI工具#12.2.x Outcome 不变诊断顺序 ⭐⭐⭐（v1.3.9 新增 — Q22359 锚定）]]）|
 
 ---
 
