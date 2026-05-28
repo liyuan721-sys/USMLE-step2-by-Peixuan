@@ -264,6 +264,92 @@ CK 高频"这属于哪类 error"配对题。
 > - "我们是 blame-free culture，从不惩戒" ❌ — Reckless behavior 仍要惩戒
 > - "上报 error 会被记录考核" ❌ — Non-punitive reporting 才有效
 
+#### 5.1.1 Just Culture 3 大 Behavior Categories — 决策树 + 暗号词配对 ⭐⭐⭐（v2.1 增量 — Q126013 锚定）
+
+> [!danger] 上层§5.1 只讲总框架；本子节深化 3 categories sub-classification 决策点 — Q126013 错点正在此层
+
+##### 3 类 Behavior 完整对照表 ⭐
+
+| 维度 | **Human Error** | **At-risk Behavior** ⭐ | **Reckless Behavior** |
+|---|---|---|---|
+| **性质** | **Unintentional slip / mistake** | **Conscious shortcut / workaround** | **Conscious disregard** |
+| **Behavior 触发** | 人在 following expected steps 时 slip | 知道协议但 skip — **system 压力 + 不完全 appreciate risk** | 明知违规 + **无 legitimate rationale** |
+| **意图** | 无意（inadvertent）| 有意（drift from safe practice）但有"理由" | 有意 + 故意冒险 |
+| **Response** | **Consoling**（reassurance + counseling）| **Coaching** ⭐ + **同时改 system conditions** | **Sanctioning**（discipline）|
+| **同时做什么** | 改 system design（防再发生）| 改 system conditions（防再发生）| 个人责任为主，系统次要 |
+
+##### 3 类 Stem 暗号词 → Response 配对 ⭐⭐⭐
+
+| Stem 暗号 | Behavior Category | Response | 例 |
+|---|---|---|---|
+| "**unintentional slip**" / "**inadvertent**" / "flipping wrong switch due to poor labeling" / "following all expected steps but error" | **Human Error** | **Consoling** | 累 nurse 给 0.1 mL 误输 1 mL — slip |
+| "**skips when busy**" / "**workaround**" / "shortcut" / "drift from safe practice" / "**system pressure**" / "**no prior disciplinary history**" + conscious | **At-risk Behavior** ⭐ | **Coaching** + 同时改 system ⭐ | Q126013: nurse "skips 2nd ID check when busy" + staffing shortage + 9hr no break |
+| "**conscious disregard**" / "**no legitimate rationale**" / "**repeated violation despite warnings**" / "intentional risk-taking" + prior disciplinary | **Reckless Behavior** | **Sanctioning** | 反复 hand hygiene 拒做 + 被警告多次 |
+
+##### 决策树（识别 behavior category）⭐
+
+```
+Error 发生 → 判断 behavior category：
+    │
+    ▼
+是 unintentional slip / mistake？（人在 following expected steps 时 slip）
+    │
+    ├─ ✓ Yes → **Human Error** → **Consoling** + 改 system design
+    │
+    └─ ❌ No, 是 conscious choice
+           │
+           ▼
+       有 legitimate rationale (system pressure / time / resource)？
+           │
+           ├─ ✓ Yes（system pressure + 不完全 appreciate risk + no prior disciplinary）
+           │     → **At-risk Behavior** → **Coaching** ⭐ + 同时改 system conditions
+           │
+           └─ ❌ No legitimate rationale（明知 + 故意 + 通常 repeated pattern）
+                 → **Reckless Behavior** → **Sanctioning**
+```
+
+##### Q126013 4 信号识别 At-risk Behavior（停在 coaching 不升 sanctioning）⭐
+
+| Stem 信号 | 解读 |
+|---|---|
+| "states she **skips when busy**" | **Conscious choice**（不是 inadvertent slip）→ 排除 human error |
+| "**covering 2 bays + staffing shortage + no break 9 hr**" | **System pressures present**（legitimate rationale）→ 排除 reckless |
+| "**No prior disciplinary history**" | 不符合 reckless behavior pattern（reckless 通常 repeated）|
+| "Verified med against order **BUT** 没做 second ID check" | Drift from safe practice — 知道步骤但 shortcut → At-risk |
+
+→ 4 信号都指向 **At-risk Behavior → Coaching**
+
+##### 反 pattern 警示 ⭐
+
+| 误判 | 为什么错 |
+|---|---|
+| "Skips when busy" → Human error | ❌ Conscious shortcut ≠ inadvertent slip — slip 必须是按步骤做但 slip |
+| "Skips protocol" → Reckless | ❌ 有 system pressure + no prior disciplinary → 不达 reckless（reckless 要 no legitimate rationale + 通常 repeated）|
+| "Knew protocol but skipped" → Retraining | ❌ 已 know — 不是 knowledge gap；是 conscious shortcut → coaching |
+| "Coaching = soft / 不问责" | ❌ Coaching ≠ no action — coaching 是 individual accountability 的低强度形式（vs 无 action）|
+| "At-risk → 改 system 就够，不 coach" | ❌ 必须 **同时** coach + 改 system — 仅改 system = no-blame culture（也错）|
+
+##### 联动 §5.4 时序原则 + §6.6 Psych Safety
+
+- **§5.4 时序原则**：Systems first → Individual accountability。**Coaching at-risk behavior 属 individual accountability 层**（在 systems 已 reform 后）
+- 但本题 stem 是 **single incident**（不是 sustained interventions 后仍 suboptimal）→ 因此**同时**改 system + coaching，不是先改 system 再 coaching
+- **§6.6 Psych Safety** ✓ — Coaching 必须在 psych-safe 环境进行（reporter 不怕被罚）
+
+##### 类比 — 开车超速
+
+| 情景 | Category | Response |
+|---|---|---|
+| Slip 踩错油门（按步骤做但 slip）| Human error | Consoling + 改 system（pedal 设计 / 车道辅助）|
+| 明知限速 80 但赶时间开 100（有 system pressure 如赶飞机）| **At-risk** ⭐ | **Coaching**（讨论 risk）+ 同时改 system（更好的 GPS / 公司加班政策）|
+| 明知限速 80 + 无任何理由飙 150 + 之前已多次违规 | Reckless | Sanctioning（吊销驾照）|
+
+##### 一句话锁 ⭐⭐⭐
+
+- **"Inadvertent slip → Human error → Consoling"**
+- **"Conscious shortcut + system pressure → At-risk → Coaching + 同时改 system"** ⭐
+- **"Conscious disregard + no rationale → Reckless → Sanctioning"**
+- **"Coaching ≠ no action；Coaching ≠ Retraining；Coaching = individual accountability 低强度形式"**
+
 ### 5.2 Non-punitive Voluntary Reporting
 
 - 上报系统**匿名 + 不惩罚** → 才有人报

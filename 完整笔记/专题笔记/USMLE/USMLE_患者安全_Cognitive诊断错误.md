@@ -598,7 +598,109 @@ Stem 关键词 → 0.3 秒锁
 "Screening / vaccination omission"                   → CDSS reminders
 "Knowledge deficiency / trainee / rare disease"      → training（不选 CDSS）
 "Hierarchy / hesitate / fear"                        → psych safety（不选 CDSS）
+"Initial differential formation + 一般 patient + 防 cognitive bias" → **Metacognition**（不选 CDSS — 见 §13.5.y）⚠️
 ```
+
+---
+
+## §13.5.y Diagnostic Error 防御金字塔 5 层 + "工具 vs 自我意识"反 pattern ⭐⭐⭐⭐（v2.1 增量 — Q19785 锚 + Q106765/Q106048/Q106664 multi-anchor 元 pattern 家族）
+
+> [!danger] 反复错家族警示 ⚠️⚠️
+> 5-26 + 5-27 同型反 pattern 反复发作：
+> - **Q106765** (5-26 Defensive medicine) — 误选 cognitive bias training
+> - **Q106664** (5-27 下午) — Cognitive bias 误归因 teamwork
+> - **Q19785** (5-27 晚) — Metacognition vs CDSS 错位
+>
+> 共同根因 = **"看到 cognitive bias 字眼反射误锁"** + **"工具看着现代 = 答案"反射**。本节为补漏。
+
+### 13.5.y.1 Diagnostic Error 防御金字塔 5 层 ⭐⭐⭐
+
+```
+防 Diagnostic Error 5 层（强度递减 — primary 在顶）：
+    │
+    ├─ ① **Metacognition** ⭐⭐⭐ primary（Q19785 答）
+    │     理解 + self-monitor 自己 cognitive patterns
+    │     工具：Diagnostic time-out + M&M conferences + critical reflection
+    │     → **直接 address clinical reasoning**
+    │
+    ├─ ② **Analytical (System 2) thinking**
+    │     慢思考 + 主动考虑 alternate dx
+    │     vs Intuitive (System 1) = 快思考 = bias 源
+    │
+    ├─ ③ **Independent reconsideration**
+    │     不 prioritize past providers' dx
+    │     防 anchoring + framing biases
+    │
+    ├─ ④ **CDSS** ⭐ adjunct（不是 primary — Q19785 钓饵）
+    │     工具层 — 不直接 address clinical reasoning
+    │     若 clinicians lack understanding of unconscious biases → CDSS 不能挽救
+    │
+    └─ ⑤ Education on specific biases（被动）
+```
+
+### 13.5.y.2 Metacognition vs CDSS 关键边界 ⭐⭐⭐
+
+| 维度 | **Metacognition** | **CDSS** |
+|---|---|---|
+| **作用层面** | **Internal cognitive process**（理解自身思维模式）| **External tool**（基于 patient data prompt actions）|
+| **直接 address clinical reasoning？** | ✓ Yes — 改善 reasoning 本身 | ❌ No — 仅 prompt actions / warnings |
+| **不熟 biases 时仍有效？** | N/A — metacognition 就是学习 biases | ❌ 若 clinicians lack understanding of unconscious biases → CDSS 不能挽救 |
+| **适用场景** | 所有 cognitive bias 防御（一般 patient initial differential 形成）| Drug-drug interaction / dose alerts / specific protocol prompts / busy clinic 特定 task |
+| **关系** | CDSS = adjunct to metacognition，不是替代 |
+
+### 13.5.y.3 "Tool vs Self-awareness" 反 pattern 家族 ⭐⭐⭐⭐（USMLE 元方法）
+
+> [!danger] USMLE 永远选 self-awareness primary，工具 = adjunct
+> 当 stem 给"防 cognitive bias / fear-driven prescribing / individual root cause"时：
+> - **工具选项**（CDSS / training / bias training program）看着"现代化 + evidence-based"
+> - **自我意识选项**（metacognition / clinical pathways / shared understanding）看着"抽象 + 软性"
+> - **但 USMLE 答案：Self-awareness 优先，工具是 adjunct**
+
+#### 同型反 pattern 案例库（5-26 + 5-27 multi-anchor）⭐
+
+| 题 | Stem | 钓饵（工具）| 正解（自我意识）|
+|---|---|---|---|
+| **Q106765** (5-26) | Defensive medicine — fear-driven overuse | E "Cognitive bias training" ❌ | A "Clinical pathways（standard of care → liability protection）" — physician 知道自己 fear → 用 guideline 减 fear，不是 bias training |
+| **Q106664** (5-27 下午) | OR nurse-surgeon collaboration perception gap | A "Cognitive bias among nurses + surgeons" ❌ | B "Differences in understanding of team goals" — 不是大脑 shortcut，是 shared goal mismatch |
+| **Q19785** (5-27 晚) | Complex chronic abdominal symptoms — 防 diagnostic error | E "CDSS with clinical decision support" ❌ | D "Understanding cognitive patterns (metacognition)" — CDSS 是 adjunct，metacognition 是 primary |
+
+#### 共同识别钩 ⭐
+
+| Stem 信号 | 反射 |
+|---|---|
+| "**Reduce diagnostic error / cognitive bias**" + 选项中有"训练" / "工具" / "CDSS" | **优先 self-awareness 选项**（metacognition / understanding patterns / shared goals）|
+| "**Fear-driven** behavior（defensive medicine / risk-averse）" + 选项中"训练" | **优先 guideline / pathway**（shield self from fear，不训练 fear）|
+| "**Asymmetric / perception gap / collaboration**" + 选项中"bias" | **优先 shared understanding / role clarity**（不是 cognitive bias）|
+
+### 13.5.y.4 USMLE 三大反 pattern 元方法联动 ⭐⭐⭐
+
+| 反 pattern | 元方法笔记 | 共同原则 |
+|---|---|---|
+| **字眼陷阱** (RCA vs FMEA 字眼) | [[完整笔记/专题笔记/USMLE/USMLE_患者安全_QI工具]] §13.12.8 | 选项里 "future + potentially + vulnerabilities" 三连 = FMEA 语言（即使 stem retrospective 也钓你）|
+| **Letter Anchor** (上次答案字母) | [[完整笔记/专题笔记/USMLE/USMLE_答案选项策略]] §二 | 永远读到具体内容，不字母 anchor |
+| **Tool > Self-awareness** ⭐ NEW | **本节** §13.5.y | 工具 = adjunct；self-awareness / metacognition 是 primary |
+
+三大反 pattern 都教你：**不被 surface feature 钓走**，永远回到 stem + 选项**内容本质**校验。
+
+### 13.5.y.5 3 大 Cognitive Biases 经典示例（再钉一次）⭐
+
+| Bias | 定义 | 经典 stem 触发 | 防御 |
+|---|---|---|---|
+| **Availability bias** | Over-reliance on **previous experiences**（commonly seen + memorable cases）影响 dx | "I've seen this presentation many times" / "Recently had a similar case" / "Past experiences managing chronic abdominal symptoms" | Metacognition + 主动 consider alternate dx |
+| **Framing bias** | **Previous documentation + patient context** 影响 dx（chart = interpretation 不是 raw data）| "Reviews chart prior to seeing patient" / "Prior dx of X documented" / "Triage labeled" / "Reviewing previous records and prioritizing past providers' diagnoses" | Independent reconsideration + 不 prioritize past dx |
+| **Confirmation bias** | Patient symptoms **incorrectly interpreted to fit presumed dx** | "Discounting inconsistent aspects" / "Over-emphasizing pertinent positives" | Critical reflection + diagnostic time-out |
+
+### 13.5.y.6 Memory Hook ⭐⭐⭐
+
+- **"防 Diagnostic Error 首选 = Metacognition（理解自身 cognitive patterns）"** ⭐
+- **"CDSS = adjunct，不直接 address clinical reasoning"** ⭐
+- **"工具 vs 自我意识 — USMLE 永远选 self-awareness primary"** ⭐⭐⭐ 元方法
+- **"System 1 (intuitive / fast) = bias 源；System 2 (analytical / slow) = 防 bias"**
+- **3 大 Cognitive Biases 一句话**：
+  - **"Availability = 最近见过的占主导"**
+  - **"Framing = chart documentation 带歪 thinking"**
+  - **"Confirmation = symptoms 强行 fit presumed dx"**
+- **类比 — 开车防事故**：司机理解自己 blind spots（metacognition）> 车上有 blind-spot alert（CDSS）；alert 是 adjunct，司机不懂自己习惯 alert 也救不了
 
 ---
 

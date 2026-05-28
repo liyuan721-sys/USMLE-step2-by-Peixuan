@@ -272,6 +272,106 @@ End-of-life ─ ⑤ Hospice（任何场所 — 家 / SNF / inpatient hospice —
 **正解**：**Limit number of prescribers**（PCP 主管 + 与 specialists 协调）
 - Pill organizer / family administer ❌ 不解决 inter-prescriber coordination
 
+### 7.5 Q19909 — Transfer of Care + Loss to Follow-up（lung nodule incidental finding 后未 attend）⭐⭐⭐（v1.1 增量）
+
+**Stem 模式**：73F CAP medically stable + 出院时 incidental lung nodule + outpatient CT 未 attend → biopsy lung adenocarcinoma → 减 future similar errors
+
+**正解**：**A. Explaining importance of primary care follow-up after discharge**
+- < 20% inpatients with incidentally detected lung nodules complete postdischarge follow-up
+- Loss to follow-up = common cause of preventable adverse outcomes / delayed dx
+
+**反 pattern 排除**：
+- B family members → ❌ Independent cognitively intact patient → 直接 engage（不绕过 patient）
+- **C monitor pending results for all discharged patients** → ❌ ⭐ **超 inpatient scope** + 增 provider workload + PCP 已通过 EMR 收 abnormal outpatient test log
+- D postpone discharge → ❌ Medically stable + postpone = net harm（nosocomial / functional decline / resource waste）
+
+---
+
+## §七.x Transfer of Care + Loss to Follow-up SOP ⭐⭐⭐（v1.1 增量 — Q19909 锚定）
+
+> [!success] Transfer of Care 是 discharge 最高 risk 时点 — loss to follow-up 是 preventable adverse outcomes 主因
+
+### 7.x.1 Transfer of Care SOP 5 步
+
+| 步骤 | 内容 |
+|---|---|
+| **① Timely primary care follow-up** | **< 4 weeks** post-discharge — 完成 pending studies + lab tests + new medications + diagnoses |
+| **② High-quality patient counseling**（discharge process）| Face-to-face discourse + 非言语 cues + patient-centered + interactive verification |
+| **③ Teach-back** ⭐ | Patient repeat back understanding — 防 omission（同 Q19788 medication counseling）|
+| **④ Discharge summaries to PCP** | Routed via EMR — PCP 在 patient posthospital visit 时 review abnormal results |
+| **⑤ Address barriers** | 交通 / 经济 / 认知 / 语言 → 改善 attendance |
+
+### 7.x.2 High-Quality Counseling 4 大特征
+
+| 特征 | 详解 |
+|---|---|
+| **Face-to-face discourse** | Allow responses to nonverbal cues |
+| **Patient-centered interaction** ⭐ | Tailored to patient's current motivations, goals, ability |
+| **Interactive verification** ⭐ | Inviting questions + **teach-back** that summarizes understanding |
+| **Empathetic + culturally appropriate** | 减 barriers |
+
+### 7.x.3 反 pattern 4 类（CK 高频钓饵）
+
+| 反 pattern | 例 | 为什么错 |
+|---|---|---|
+| **① Provider-side monitoring for ALL patients** | Q19909 Choice C | **超 inpatient scope**（inpatient = acute care，不是 chronic monitoring）+ 增 provider workload + PCP 已通过 EMR 系统监控 |
+| **② Inform family** when independent + cognitively intact | Q19909 Choice B | 仅适 cognitive impairment 或 patient consent；independent 患者直接 engage |
+| **③ Postpone discharge** medically stable | Q19909 Choice D | Medically stable + postpone = **net harm**（nosocomial / functional decline / resource waste） |
+| **④ Rely on radiology to call patient**（passive system） | — | Loss to follow-up rate 高；患者**主动 understand + commit** 是关键 |
+
+---
+
+## §九 Patient-side vs Provider-side Intervention 哲学 ⭐⭐⭐⭐（v1.1 增量 — multi-anchor 元方法）
+
+> [!danger] USMLE 永远选 **Patient-side intervention** primary，provider-side 是 adjunct ⚠️
+> 5-25 Q20229 + 5-27 Q19909 两次反复错都是**反射选 provider-side**（discharge summary / monitor all pending results）— **patient-side 哲学反射尚未建立**
+
+### 9.1 反 pattern 总览 — Provider-side Reflexive Errors
+
+| 错题 | Provider-side 钓饵（错）| Patient-side 正解 |
+|---|---|---|
+| **Q20229** (5-25) CHF readmission | D "Send discharge summary to PCP" | D "**Telephone outreach by care coordinator within 2 weeks**" |
+| **Q19909** (5-27) Lung nodule loss to follow-up | C "Monitor pending results for all" | A "**Explain importance of primary care follow-up**"（patient counseling）|
+| **Q22061** (5-25) Patient demand unnecessary MRI | E "Diagnose + offer Rx muscle relaxants" | A "**Test nerves with commentary**"（address patient's specific concern）|
+| **Q19788** (5-27) Sound-alike drug error counseling | B "Avoid combinations" / D "Family explanation" | C "**Teach-back**"（patient verifies understanding）|
+
+### 9.2 共同识别钩 ⭐
+
+| Stem 信号 | 反射 |
+|---|---|
+| "Loss to follow-up / readmission / nonadherence" | **Patient-side counseling**（不是 provider-side communication / monitoring）|
+| "Patient demand X / asks specific worry" | **Address patient's specific concern with commentary**（不是替代 dx）|
+| "Medication error potential / sound-alike" | **Teach-back**（不是 family explanation / printed material）|
+| "Confused / forgot / misunderstood" | **Patient-centered counseling + teach-back**（不是 single-direction explanation）|
+
+### 9.3 为什么 Patient-side > Provider-side ⭐
+
+| 维度 | Patient-side | Provider-side |
+|---|---|---|
+| **直接 address 行为驱动？** | ✓ 是 — patient 是 outcome 的直接执行者 | ❌ 间接 — 信息传到 provider 仍要 patient 行动 |
+| **Scalable？** | ✓ 每次 visit / discharge counseling | ❌ Monitor ALL patients 超出 inpatient scope |
+| **Resource burden？** | 低（counseling 是 standard practice）| 高（systematic monitoring 增 workload）|
+| **Evidence base？** | 强（teach-back + telephone outreach reduce readmission 显著）| 较弱（discharge summary 不解决 patient 端 loss）|
+
+### 9.4 Patient-side Intervention 工具家族 ⭐
+
+| 工具 | 何时用 | 锚题 |
+|---|---|---|
+| **Patient-centered counseling**（face-to-face + nonverbal）| Discharge + complex chronic | Q19909 |
+| **Teach-back**（patient verifies understanding）| Sound-alike drug + complex regimen | Q19788 |
+| **Telephone outreach within 2 weeks**（care coordinator）| High readmission risk + chronic disease | Q20229 |
+| **Address specific concern + ongoing commentary** | Patient demand unnecessary intervention | Q22061 |
+| **Motivational interviewing + SMART goal** | Lifestyle modification | Q22080 / Q12-2026-05-26 |
+| **Identify perceptions about causes**（first step PCC）| Cross-cultural care | Q21242 |
+
+### 9.5 一句话锁 ⭐⭐⭐
+
+- **"Loss to follow-up / readmission → Patient-side counseling（不是 provider-side monitoring）"** ⭐
+- **"Inpatient scope = acute care；chronic outpatient monitoring 不是 inpatient 责任"** ⭐
+- **"Teach-back + telephone outreach + patient-centered counseling = patient-side 3 大武器"** ⭐
+- **"Provider-side communication 是 adjunct，不是 primary"** ⭐
+- **类比：药店配药后给患者** — counseling 让患者**理解 + 承诺按时吃**（patient-side）> 药店每天打电话提醒所有客户（provider-side monitoring 超 scope）
+
 ---
 
 ## §八 关联
