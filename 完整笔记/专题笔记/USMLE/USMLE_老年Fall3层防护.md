@@ -97,11 +97,116 @@ Fall risk substantially elevated
 - Vision 是 **可纠正性强**的 contributor — corrective eyewear / cataract surgery 效益高
 - USMLE 反射：post-fall + 老人 + 没做 vision screening → **优先 visual acuity testing**
 
-### 3.2 Get-up-and-Go Test 细节（Q107154 stem 暗示）
+### 3.2 Get-up-and-Go Test 细节（Q107153 + Q107154 双锚）⭐⭐
 
 - Patient rises from chair → walks briskly to end of room → 计时
 - **Time + 主观 difficulty 双指标**预测 fall 风险
-- Stem 描述 "extended time to rise from chair / slow gait" = positive screen
+
+#### 3.2.1 Get-Up-Go 4 档解读 ⭐（v1.3 增量 — Q107153 锚）
+
+```
+让 patient 从 chair 起立 + walk briskly 到房间另一端
+    │
+    ├─ 自己起立 + 不 ataxic + 走得稳 → 低 risk
+    │
+    ├─ **Pushes with arms when rising** ⭐⭐⭐
+    │     → **下肢 strength / muscle imbalance 阳性**
+    │     → **高 fall risk** → **supervised strength training** 必备
+    │     → （即使 walks briskly without ataxia 仍获益）
+    │
+    ├─ Walks slowly / unsteady gait / 需 cane | walker → 高 risk
+    │
+    └─ Cannot complete / 中途坐下 → 极高 risk
+```
+
+#### 3.2.2 Q107153 经典 Stem 解构
+
+| Stem 细节 | 解读 | 干扰 vs decisive |
+|---|---|---|
+| HTN + T2DM + post-MI 2 yr | Chronic disease 多 = fall risk ↑ | **Decisive**（识别 高 risk 患者）|
+| Independent ADL + walks dog 15 min/day | 仍 ambulatory → 不需 SNF / hospital | Decisive（排除 institution）|
+| **Pushes with arms when rising** ⭐ | **Gait/muscle imbalance 阳性** | **Decisive** → primary 答案是 supervised strength training |
+| Walks briskly without ataxia | 不矛盾 — strength 差 ≠ ataxia | 不解锁 "不需 strength training"（陷阱）|
+| 1 glass wine 6 days/wk | 在 women 推荐限内（≤ 1 drink/day）| 干扰（不增 fall risk）|
+| BMI 20 / BP 129/78 无 orthostasis | 排除 vit D deficiency 暗示 + 排除 ACE-I taper | 干扰 |
+
+---
+
+### 3.3 Primary Prevention 反射链 — Supervised Strength Training ⭐⭐⭐（v1.3 增量 — Q107153 锚）
+
+> [!success] **Supervised exercise / strength training 是减 fall risk 最 evidence-based 干预**
+> 适用所有：① 高 risk elderly ② previously fallen ③ Get-Up-Go 异常（pushes with arms / slow gait）
+
+##### Program 必含 3 元素
+
+```
+Supervised exercise training =
+    ├─ Strength training（下肢力量）⭐
+    ├─ Balance training（Tai Chi / single-leg stance）
+    └─ Cardiovascular（walking / 自行车）
+```
+
+##### 反射钩
+
+| Stem 信号 | 0.5 秒锁 |
+|---|---|
+| Elderly + chronic disease + **pushes with arms when rising** | **Supervised strength training** ⭐ |
+| Elderly + prior fall + 仍 ambulatory | Supervised strength training |
+| Elderly + 仅 walks regularly + 无 strength training | **Add supervised strength training**（walking 单独 ≠ strength） |
+
+##### 与 §2 3 层防御联动
+
+| 层级 | Q107153 角色 |
+|---|---|
+| **Primary** ⭐ | Q107153 = 防 fall 发生 — supervised strength training（本题答）|
+| Secondary | Q107154 = 减 fall 后 hip fracture — bone density 优化 |
+| Tertiary | PT / OT rehab 已 fallen 后 |
+
+---
+
+### 3.4 Vitamin D Supplementation 严格条件 ⭐⭐（v1.3 增量 — Q107153 反 pattern 钓饵）
+
+| 条件 | 是否补 Vit D for fall prevention |
+|---|---|
+| **Vitamin D insufficiency < 10 ng/mL**（测过低）| ✓ 补 |
+| **Prior fall history** | ✓ 补 |
+| **Empiric for all elderly**（无以上条件）| ❌ **不**补（无证据 fall risk 减少）|
+
+> [!danger] 反 pattern：Empiric Vit D for elderly
+> "老年人都要补 vit D 防 fall" = ❌ **错** — 只有 **insufficiency < 10 或 prior falls** 才补。
+> Q107153 stem 没测 vit D 水平 + 无 prior fall → ❌ 选 A empiric vit D 错。
+
+---
+
+### 3.5 Antihypertensive Taper in Fall Risk ⭐⭐（v1.3 增量 — Q107153 ACE-I 边界）
+
+##### Antihypertensive 处理决策
+
+| 情况 | 是否 taper |
+|---|---|
+| **Orthostasis 阳性** + 高 fall risk | ✓ 考虑 taper / 换药 |
+| **正常 BP + 无 orthostasis** + 高 fall risk | ❌ **不 taper**（除非有 specific 适应症）|
+| **Post-MI / HFrEF / CKD** 适应症 + 无 orthostasis | ❌ **绝不 taper**（ACE-I 是 mortality benefit 必备）⭐ |
+
+##### Q107153 ACE-I 决策
+
+- BP 129/78 + 无 orthostasis + **post-MI 2 yr**（ACE-I mortality benefit 强适应症）→ ❌ C 错（taper ACE-I）
+- Even 高 fall risk → ACE-I 在 post-MI 不停（mortality risk > fall risk）
+
+##### 反 pattern：见 elderly + fall → 反射 taper 所有 antihypertensive ⚠️
+
+错 — 要看 **3 个 gate**：
+1. 有 orthostasis 阳性吗？（无 → 不 taper）
+2. 有 post-MI / HFrEF / CKD 适应症吗？（有 → 即使 fall risk 高仍不 taper）
+3. BP 是否 well-controlled within target？（well-controlled + 无 orthostasis → 不 taper）
+
+---
+
+### 3.6 Education vs Exercise 边界（v1.3 增量 — Q107153 反 pattern）
+
+> [!warning] **Active exercise > Passive education**
+> "Patient handout describing fall prevention strategies" = **less effective** than supervised exercise training。
+> Education 仅作为 exercise + multifactorial intervention 的**辅助**，不是单独 primary 答案。
 
 ---
 

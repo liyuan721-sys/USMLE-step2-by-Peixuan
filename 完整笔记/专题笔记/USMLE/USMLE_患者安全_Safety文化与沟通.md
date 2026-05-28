@@ -559,6 +559,55 @@ Verbal handoffs (sign-outs) → adverse events 风险 ↑（especially with **ma
 
 衍生 §6.2 的 **closed-loop communication** 在 health care 也叫 **check-back**（AMBOSS 用语）— 同一概念。CK 两个名词都可能出现，识别为等价。
 
+#### 6.5.7 5 大 Team Safety 工具边界表 ⭐⭐⭐（v2.1 增量 — Q106665 + Q19684 + Q106239 + Q21520 + Q107227 多锚定）
+
+> [!danger] 5 大 team safety 工具**各有专属场景，不可互换** — 错位即失分
+
+##### 5 大工具完整对比 ⭐
+
+| 工具 | 何时用 | 解决什么 | Stem 触发词 | 经典锚定 |
+|---|---|---|---|---|
+| **Time-out** | 术前 immediately prior to incision / 高风险操作前 | **Patient ID + Procedure + Site** — wrong-site/patient/procedure 防 | "WHO Universal Protocol" / "RSO 减" / "wrong-site surgery 防" / "patient ID + side + procedure verification" | Q106239 + Q107227 |
+| **Checklist** | 高风险任务执行时 | **Task completion + omission 防** | "task steps" / "high-risk procedure completion" / "surgical safety checklist" | — |
+| **Handoff (I-PASS / SBAR)** | **Shift change** / patient transfer | **Information continuity — errors of omission 防** | "shift change handoff" / "I-PASS" / "SBAR" / "sickest patients first" / "structured communication during transitions" | Q21520 (sickest first) |
+| **Debriefing** ⭐ | **Before / after** clinical event | **Team dynamics + hierarchy + psych safety + shared understanding** | "interprofessional debriefing" / "perioperative team safety briefing" / "address collaboration gap" / "high-reliability organization" | Q106665 (nurse co-lead) |
+| **Closed-loop (Check-back)** | **Real-time** verbal order | **Accuracy of message — misinterpretation 防** | "verbal order" / "20 of K abbreviation" / "read-back" / "sound-alike drug" / "receiver repeat back" | Q19684 |
+
+##### 互换陷阱 4 类（CK 高频钓饵）⭐⭐
+
+| 误用 | 实际应该用 | 原因 |
+|---|---|---|
+| 见 "address interprofessional collaboration gap" → 选 **Handoff template** ❌ | **Debriefing** ✓ | Handoff = shift change 信息传递；不解决 intraoperative team dynamics |
+| 见 "address interprofessional collaboration gap" → 选 **Checklist** ❌ | **Debriefing** ✓ | Checklist = task completion；不改 dynamics |
+| 见 "verbal order miscommunication" → 选 **Sign-out / I-PASS** ❌ | **Closed-loop** ✓ | Sign-out = shift change handoff；本题是 real-time order entry |
+| 见 "RSO + interruption during count" → 选 **Closed-loop** ❌ | **Time-out** ✓ | Closed-loop = verbal order accuracy；time-out 才同步注意力 + 防打断 |
+
+##### Co-leader 选择原则（Debriefing 高频考点）⭐
+
+| 选谁 co-lead？ | 为什么 |
+|---|---|
+| **Lowest-perceiving discipline**（如 nurse 评 surgeon 48 → nurse 当 co-lead） | 给 voice = 直接 address perception gap + 减 hierarchy + 增 psych safety |
+| Highest-status discipline only（surgeons-only） | ❌ 反向加重 hierarchy + 不让 lowest-perceiving 有 voice |
+| 随机轮值 | ❌ 不针对 perception gap source |
+
+##### 反 pattern：Single-discipline Training ⚠️
+
+Training **一个 discipline**（如"surgeons-only safety vigilance training" / "anesthesiologists-only Lean methods"）**不解决 interprofessional** collaboration — 必须 **interactions within team**（如 interprofessional debriefings / 联合 simulation）才行。
+
+##### 一句话锁 ⭐⭐⭐
+
+- **"Time-out 患者 ID / Checklist task / Handoff transition / Debriefing dynamics / Closed-loop message accuracy"** ⭐
+- **"Interprofessional collaboration gap → Debriefing（不是 handoff / 不是 checklist / 不是 single-discipline training）"** ⭐
+- **"Co-leader 选 lowest-perceiving discipline"** ⭐
+
+##### 类比 — 交响乐团
+
+- **Debriefing** = 彩排后讨论会（所有乐器都说话，减 hierarchy）⭐
+- **Checklist** = 乐谱 check（task completion）
+- **Handoff** = 指挥换人交接（shift change）
+- **Time-out** = 演出前最后核对（patient ID + procedure + site）
+- **Closed-loop** = 指挥手势确认（real-time message accuracy）
+
 ---
 
 ## 七、Disclosure of Medical Errors
@@ -973,6 +1022,85 @@ CK 偶尔考概念配对（Thomas-Kilmann model）。
 | 性质 | 思维 shortcut（anchoring / availability / framing）| Emotional / cultural barrier（fear / hierarchy）|
 | Stem 信号 | "fixated on initial impression" / "common dx 太 available" | "fear of being blamed" / "hesitate to challenge senior" |
 | 干预 | CDSS / cognitive forcing strategies | Change management / psych safety initiatives |
+
+#### 6.6.5.1 第 3 反 pattern — Asymmetric Ratings Between Roles = Shared Goal Mismatch ⭐⭐⭐（v2.1 增量 — Q106664 锚定 — 反射 < 1 小时未建立警示）⚠️
+
+> [!danger] 5-27 实战警示
+> 5-27 早上刚加 §6.6.5 + §6.6.7 三件套一句话锁；当天下午做 Q106664 仍被 cognitive bias 字眼吸引选错（A 而非 B）。**反射 < 1 小时未建立** — 此节为补漏。
+
+**Q106664 Stem 模式**：OR 多职业 survey — nurse 评 surgeon 48 / surgeon 评 nurse 88（极不对称）→ 最 likely underlying factor？
+
+**正解**：**Differences in understanding of team goals**（不是 cognitive bias）
+
+##### 第 3 维度补全 — Shared Goal Mismatch（比 §6.6.5 中 cognitive bias / psych safety 更前置）
+
+| 维度 | **Cognitive Bias** | **Psychological Safety** | **Shared Goal Mismatch** ⭐ NEW |
+|---|---|---|---|
+| **失败发生在？** | 医生大脑内部 mental shortcut | 团队互动 — 不敢说 | **团队互动 — 对 "team should function how" 定义不一致** |
+| **独自工作仍发生？** | ✓ 会 | ✗ 不会 | ✗ 不会（需 ≥ 2 角色互动）|
+| **Stem 暗号词** | "reviews chart prior" / "first impression" / "narrowed differential" | "fear of retribution / blame" / "hesitate to challenge" | "**asymmetric ratings between disciplines**" / "perception gap between roles" / "differences in defining collaboration" ⭐ |
+| **解决方案** | Metacognition / CDSS / diagnostic timeout | Just culture / flatten hierarchy / TeamSTEPPS | **Shared goal definition + role clarification + interprofessional debriefings** |
+
+##### Nurse-Surgeon 不对称感知机制（USMLE 经典 stem 触发）⭐
+
+```
+Surgeon 定义 collaboration = "instructions are followed promptly + accurately"
+    │
+    ▼
+Surgeon 评 nurse 高（88）— 因为 nurse 通常 follow instructions
+    │
+    ▼
+但 nurse 定义 collaboration = "my input is respected and acknowledged"
+    │
+    ▼
+Nurse 评 surgeon 低（48）— 因为 surgeon 没充分 acknowledge input
+    │
+    ▼
+不对称感知 = **不是 cognitive bias，是定义不一致 (role + goal mismatch)**
+```
+
+##### 反 pattern 钓饵：把 Cognitive Bias 误归因 Team Dynamic ⚠️
+
+| 错误归因 | 为什么错 |
+|---|---|
+| "Nurses + surgeons 都有 cognitive bias" | ❌ Cognitive bias = **individual diagnostic shortcut** — 不解释 group-level perception gap |
+| "Different medical knowledge / technical skills" | ❌ Technical expertise 差异不解释 collaboration **perception** 差异 |
+| "Fatigue / sleep deprivation" | ❌ 若 fatigue → 跨对象一致低；本题 nurse-nurse 评分高（81）→ 不是 fatigue |
+| **"Differences in understanding of team goals"** ⭐ | ✅ 正解 — 不同角色定义不一致 |
+
+##### 反射钩（与 §6.6.7 三件套联读）
+
+> [!success] 团队沟通完整 5 层模型（v2.1 升级 — 比早上的 4 步更细）
+>
+> ```
+> 理想团队沟通 5 层：
+>     ① "我们对 collaboration 的定义一致吗？" ← Shared Goal 解决（NEW ⭐）
+>           ▼
+>     ② "我敢说"                              ← Psych Safety 解决
+>           ▼
+>     ③ "我说出来"
+>           ▼
+>     ④ "你听对"                              ← Closed-loop 解决
+>           ▼
+>     ⑤ "你处理对"                            ← Cognitive Bias 防御
+> ```
+>
+> **第 ① 层 Shared Goal 比 ② Psych Safety 更前置** — 即使 psych safety 满分，若 surgeon 和 nurse 对 collaboration 的定义不同，**评分仍会不对称**。
+>
+> **一句话锁**：**"定义不一致 = Shared Goal mismatch（debriefings + role clarification）"** ⭐
+
+##### 反射钩（USMLE 救命）
+
+| Stem 暗号 | 0.5 秒锁 |
+|---|---|
+| "**asymmetric ratings between disciplines**" / "nurse 评 surgeon 低 / surgeon 评 nurse 高" / "perception gap between roles" | **Shared Goal Mismatch / Differences in understanding** ⭐ |
+| "fear of retribution / blame / hierarchy / hesitate" | Psych Safety |
+| "reviews chart prior to seeing patient" / "narrowed differential" | Cognitive Bias (framing) |
+| "verbal order misheard / 20 of K abbreviation" | Closed-loop |
+
+##### 类比
+
+餐厅评分系统 — 厨师认为"上菜快 = collaboration 好"，服务员认为"被尊重 = collaboration 好"；两人评分不对称**不是因为大脑偏差，是因为定义不同** → 解决 = **重新定义共同目标 + 各角色 voice debriefing**，不是给厨师做 cognitive bias 培训。
 
 ### 6.6.6 RRT Activation 是 Joint Management（不是 Transition of Care）
 
