@@ -187,6 +187,7 @@ Transplant patient with AF needs rate control
   - [[完整笔记/Peixuan分科笔记/Biostats_Master]] / [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]]（Acute vs Chronic transplant rejection 已有对照）
 - 🌱 TODO：
   - 待建 [[完整笔记/专题笔记/USMLE/USMLE_CYP450药物互动雷区]]（CNI / warfarin / OCP / 抗癫痫 4 大场景 + D-A-M-P-G 口诀）
+  - ✓ 已建：[[完整笔记/专题笔记/免疫/免疫_免疫抑制剂全谱]]（5 大类 + 通路 + 副作用 + 用药前监测，2026-05-28；CNI 肾毒深度保留在本笔记，不重复）
   - 同步 [[完整笔记/专题笔记/心内/心内_继发性高血压鉴别框架]] §5 **加 5.5 Transplant RAS 子节**（三联指纹 + 病因 4 类 + 引用本笔记）
   - 等积累 ≥ 3 道 BK / CMV 题 → 建 [[完整笔记/专题笔记/感染/感染_移植后病毒激活SOP]]（BK / CMV / EBV-PTLD / VZV）
 
