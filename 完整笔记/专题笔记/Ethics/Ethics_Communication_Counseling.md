@@ -756,6 +756,69 @@ Patient 表现 boundary crossing
 
 ---
 
+### §12.8c Interprofessional Communication — Imaging / Lab / Path Discrepancy SOP ⭐⭐（Q107384 锚定 — v1.2 新增）
+
+#### 反射钩
+
+> [!info]
+> 临床医师识别 **discrepancy** between 自己 interpretation 与同事（radiologist / pathologist / lab / specialist）official report → 反射 **directly contact original colleague** discuss + clarify + amend report if needed。
+> ❌ 不绕过 original colleague 自行 order 进一步检查 ❌ 不另请 second opinion ❌ 不立即 repeat same test
+
+#### Imaging Discrepancy 处理 SOP
+
+```
+临床医师识别 imaging 与 official report 不一致
+    │
+    ▼
+① 直接联系 original radiologist
+    • 电话 / 当面 / secure 消息
+    • 临床医师指出 specific finding（如 RUL opacity 位置 + 特征）
+    • Radiologist 重新审视 + 决定 amend report or 维持原判
+    │
+    ▼
+② 若 radiologist amend report → 按 amended report follow-up（CT if indicated）
+② 若 radiologist 维持原判 + 临床医师仍 concern → 进一步沟通 / 或 follow-up imaging
+    │
+    ▼
+③ 仅在 ① 完成后才考虑进一步 imaging（CT / repeat x-ray）
+    • 不绕过 radiologist 直接 order CT = bypass professional communication norms
+```
+
+#### Collaborative Communication 元 pattern — 4 大场景 ⭐
+
+| 场景 | 错误 reflex | 正确 reflex |
+|---|---|---|
+| **Imaging discrepancy** with radiologist report ⭐ | Order more imaging / 另请 radiologist | **Contact original radiologist directly** |
+| **Pathology report** 不符合 clinical picture | Order biopsy 再做 | Contact pathologist + 重审 slides |
+| **Lab result** 与 clinical 不符 | Repeat lab 直接 | Contact lab + 询问 specimen handling / 重测 |
+| **Specialist consult note** 与自己判断不同 | Order 自己想要的 work-up | Discuss with specialist + 调和 plan |
+
+> [!success] 元规则
+> 与同行 colleague 直接 dialogue **永远** > bypass colleague order more tests / 另请 second opinion。
+> Open dialogue 减 diagnostic error = patient safety cornerstone。
+
+#### "Imaging Discrepancy" 5 大干扰项分析（Q107384 模板）
+
+| 干扰 | 例子 | 错点 |
+|---|---|---|
+| Second opinion from **different** radiologist | 直接另请 radiologist 二审 | ❌ Premature + bypass established professional expectation + 额外 charge + 可能产生 additional errors |
+| **Contact original radiologist directly** ⭐ | 正解 | ✅ Collaborative communication + amend report + 减 diagnostic error |
+| **Unilateral CT scan now** | 跳过 radiologist 自行升级 imaging | ❌ Unnecessary testing before clarifying finding；可能 finding 是 over-interpretation；额外 radiation + cost |
+| **Repeat CXR in a week** | 延迟 + 重复 same modality | ❌ Delay management；finding 可能是 missed dx 需立即评估 |
+| **Repeat CXR now** | 立即重复 same modality | ❌ 不 address 与原 radiologist 沟通的根本问题 |
+
+#### CK 类比
+
+和同事在 spreadsheet 数据上不一致 — 你不会直接 export 另做一份 + 找别人 review；你会 walk over 和原作者讨论。临床中的 collaborative communication 是同理。
+
+#### 跨衍生 — Patient Safety 联动
+
+> [!info]
+> Collaborative communication 是 **patient safety / diagnostic error prevention** 的 cornerstone — 详见 [[完整笔记/专题笔记/USMLE/USMLE_患者安全_Safety文化与沟通]]（interprofessional communication / Psychological Safety / Closed-loop communication）。
+> 与 §12.20 PEARLS / §12.20b Angry Patient 区分 — 那些是 **physician ↔ patient** emotion handling；本节是 **physician ↔ colleague** professional dialogue。
+
+---
+
 ### §12.11 Acutely Psychotic Patient — Empathize Without Reinforcing or Challenging ⭐（UW 做对题 — v1.4.5 新增）
 
 #### 反射钩
@@ -1280,6 +1343,49 @@ Patient 觉得被 singled out / accused of being addict
 > 「**Health literacy ≠ literacy**」— middle-school teacher 也可能 low health literacy。
 > 「**Subtle clues: 不问问题 + 不记 med name + 要 take home + 错误 understanding**」→ 反射"low health literacy"→ teach-back + visual aids + plain language。
 > 「**最高频 outcome：缺席 appointments + 高 ED use（不是低 ED use）**」。
+
+#### §12.17b Preventable ADE 3 层 Risk Factors + Vague Rx 反 pattern ⭐⭐（Q19787 锚定 — v1.2 新增）
+
+> [!info] 反射钩
+> Patient took **more than prescribed** + 处方含 **vague language**（"as directed" / "as needed" / "if ineffective, take another"）+ 任何 ADE / withdrawal seizure / overdose 后果 → 反射 **plain-language teaching** as 同时击中 Patient + Provider 双层 root cause 的唯一干预。
+
+##### Preventable ADE — 3 层 Risk Factors + Corrective Strategies
+
+| 层 | Risk Factors | Corrective Strategies |
+|---|---|---|
+| **Patient** | Polypharmacy / **Low health literacy** / Very young or advanced age / Communication barriers / Nonadherence + lack of follow-up | Plain-language counseling + teach-back（见 §12.17）|
+| **Provider** | **Vague prescriptions** ⭐（"as directed" / "as needed" / 无 max dose / 无 interval）/ Incorrect med reconciliation / Absence of counseling / Illegible handwriting | ① **Increased checkpoints in med reconciliation**（multiple providers）② Plain-language counseling ③ Teach-back |
+| **Medication** | Look-alike / sound-alike drugs（prednisone/prednisolone；Glucovance/Glucophage — 见 Q19788）| Teach-back / 包装区分 / 显示完整 med name |
+
+##### Vague Prescription 反 pattern（USMLE 高频红旗）⭐
+
+> [!danger]
+> 任何 prescription 含 **"as directed" / "as needed" / "if ineffective, take another" / 无 max dose / 无 interval** → 是 **vague Rx** → 引发 ADE。
+>
+> **替代**：明确 **max dose per day + interval between doses + "二次服用前等 ≥X 小时"**。
+> **例**：Zolpidem 5mg → "1 pill at 10pm；至少等 8 小时再考虑第 2 颗；每晚最多 2 颗"（不是 "if ineffective, take another"）。
+
+##### "Preventable ADE intervention" 4 大干扰项分析
+
+| 干预 | 何时有效 | 钓饵原因（Q19787 模板）|
+|---|---|---|
+| **Plain-language teaching** ⭐ | Vague Rx + low health literacy + insufficient counseling | ✅ 同时击中 Patient + Provider 双层 root cause |
+| Primary care follow-up | Monitor adverse effects + 长期 reconciliation | ❌ 不 address **initial misinterpretation**（已发生 before follow-up）|
+| Eliminate handwritten Rx | Illegible handwriting cause errors | ❌ 本题问题不是 illegible 而是 **vague language**（电子处方写 "as needed" 仍 vague）|
+| CDSS (Computerized Decision Support) | Drug-drug interaction warnings / dose alerts | ❌ 不 address **insufficient counseling**（CDSS 不在 patient 端工作）|
+| Drug abuse screening | Intentional misuse 怀疑 | ❌ Excessive use = misinterpretation 不是 intentional abuse |
+
+##### Q19787 类比
+
+装修说"看着调"vs"5cm 间距钉一颗螺丝"，前者听起来灵活实际造成无数错误；plain-language teaching = 把 "as directed" 翻译成具体可执行指令。
+
+##### CK Stem 触发 → 反射
+
+| Stem 元素 | 反射 |
+|---|---|
+| Patient took more than prescribed + 处方 ambiguous | **Plain-language teaching** ⭐ |
+| Withdrawal seizure / overdose after vague Rx | 同上 — root cause 在 prescription 那一刻 |
+| Excessive use of zolpidem / opioid 后果 + 不是 intentional | 不是 drug abuse screening；是 misinterpretation |
 
 ---
 
