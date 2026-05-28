@@ -154,6 +154,7 @@ AKI + 慢性 OR 急性？
   - [[mistakes/uworld-mistakes#^Q4004]] Analgesic nephropathy CTIN（混淆 nephrolithiasis — Flank pain 反射 stone）
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/肾脏]]（AKI / 间质性肾炎主章节）
+  - [[完整笔记/专题笔记/肾脏/肾脏_AKI病因全谱]] ★（顶层总览 — 5 兄弟 + 特殊毒物 + 色素 + 结晶 + 血管，2026-05-28）
   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]]（Urinary Casts 指纹族系 — 待整合到那）
 - 🏥 跨学科：
   - [[完整笔记/Peixuan分科笔记/骨科]]（痛风 + allopurinol 适应症）

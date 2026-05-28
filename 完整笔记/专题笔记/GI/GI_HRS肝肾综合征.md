@@ -415,6 +415,7 @@ SBP（腹水 PMN ≥ 250）
   - [[mistakes/uworld-mistakes#^Q4752]] HRS — splanchnic vasodilation + bland UA + 扩容无效
 - 📚 主笔记：
   - [[完整笔记/专题笔记/GI/GI_门脉高压治疗]]（父主题 — 整个门脉高压逻辑 / TIPS / SBP / β-blocker）
+  - [[完整笔记/专题笔记/肾脏/肾脏_AKI病因全谱]] ★（顶层 AKI 总览 — HRS 是其中 §3.9，2026-05-28）
   - [[完整笔记/Peixuan分科笔记/消化腺]]（line 1258-1268 SBP→HRS 预防链）
   - [[完整笔记/Peixuan分科笔记/肾脏]]（AKI 鉴别框架）
 - 🏥 跨学科：
