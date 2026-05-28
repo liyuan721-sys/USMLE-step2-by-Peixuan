@@ -59,13 +59,46 @@ type: 专题笔记
 | **机制** | Coordinate care + 基于 patient outcomes metrics（如 goal A1c% / cancer screening 比例）→ 提供者获 bonus reimbursement |
 | **关系** | ACO = P4P 在组织层的具体形式；P4P = 抽象激励原则 |
 
-### §2.3 High-Quality Care 定义（USMLE 必背）⭐
+### §2.3 High-Quality Care 6 大 Dimensions（IOM / STEEEP 助记）⭐⭐
 
-> [!success]
-> **High-quality care = Timely + Safe + Evidence-based + 避免 resource overuse**
+> [!success] STEEEP 助记
+> **S**afe + **T**imely + **E**ffective + **E**fficient + **E**quitable + **P**atient-centered
 >
-> - **Resource overuse**（不必要 imaging / nongeneric medications / 不必要住院）= **低质量** 表现
-> - **Iatrogenic effects** 是 overuse 的直接后果
+> （IOM "Crossing the Quality Chasm" 2001 框架；USMLE 高频考点 — 题问 quality dimension 时反射这 6 项）
+
+#### IOM 6 Dimensions of Health Care Quality
+
+| Dimension（维度）| 中文 | 描述 |
+|---|---|---|
+| **Safety** | 安全 | • Minimizes preventable errors（减可预防错误）<br>• Avoids harms from care（避免治疗本身造成 harm，如 iatrogenic / HAI / med error）|
+| **Effectiveness** | 有效 | • Adheres to scientific guidelines / evidence（循证）<br>• Avoids **undertreatment & overtreatment**（既不 under 也不 over）|
+| **Patient-centeredness** ⭐ | 以患者为中心 | • Identifies patient values, goals & preferences<br>• Tailors care delivery to expressed patient values<br>→ 详见本笔记 §3 PCC |
+| **Timeliness** | 及时 | • Avoids delays in care, reduces wait times（按推荐间隔筛查、急诊及时处理）|
+| **Efficiency** | 高效 | • Avoids **wasting or overusing resources**（避免 overuse / waste）<br>→ Resource overuse（不必要 imaging / nongeneric meds / 不必要住院）= **Efficiency 维度的低质量** |
+| **Equity** | 公平 | • Provides quality care to all individuals regardless of **demographic attributes**（ethnicity / age / gender / income / insurance status）|
+
+#### CK Stem 触发与维度对照
+
+| Stem 关键词 / 场景 | 涉及 dimension | 反射 |
+|---|---|---|
+| Med error / wrong-site surgery / HAI / fall | **Safety** | RCA / FMEA / hard stop / Swiss cheese |
+| 不 evidence-based / undertreat / overtreat | **Effectiveness** | Adhere to guidelines + avoid both extremes |
+| Patient values / preferences / shared decision | **Patient-centeredness** | §3 PCC 3 原则 |
+| Wait time / delay / 未按推荐间隔筛查 | **Timeliness** | P4P 3 大鼓励行为之一 |
+| Overuse / unnecessary imaging / nongeneric overuse | **Efficiency** | Resource stewardship |
+| Demographic disparity / 种族 / 性别 / 保险状态差异 | **Equity** | Implicit bias / disparity reduction |
+
+#### 易混陷阱
+
+> [!warning] Effectiveness ≠ Efficiency（最易混 ⭐）
+> - **Effectiveness（有效）**：选**对**治疗（evidence-based，不 under 不 over）
+> - **Efficiency（高效）**：**不浪费 / 不 overuse** 资源（即便治疗本身有效也不能 overuse）
+> - **Effectiveness** 答"该不该做这个治疗"；**Efficiency** 答"做多少 / 频率多高才不 wasteful"
+
+> [!warning] Safety ≠ Effectiveness
+> - **Safety** 焦点 = **process harm / preventable error**（操作过程造成 harm）
+> - **Effectiveness** 焦点 = **treatment 是否 evidence-based + 是否合适剂量 / 适应症**
+> - 例：处方对药但用错剂量造成 ADR → 可同时违反 Safety + Effectiveness
 
 ---
 
@@ -129,7 +162,7 @@ Patient 有 high-deductible / 无险 / 经济负担
 |---|---|---|
 | "降 cost + 提 quality" | P4P / ACO / outcome-based reimbursement | Limit / cap / step therapy / prior auth |
 | "Patient-centered approach" | 考虑 affordability + shared decision-making | 频繁 visit / premature behavioral / 次要先 |
-| "High-quality care" | Timely + safe + evidence-based + 避免 overuse | 频繁 imaging / mandate testing |
+| "High-quality care" | STEEEP 6 维度（Safe + Timely + Effective + Efficient + Equitable + Patient-centered，见 §2.3）| 频繁 imaging / mandate testing / 限制 access |
 | "High-deductible / uninsured patient" 治疗选择 | Affordable acceptable alternate（含 generic substitution） | 死守 first-line 贵药 |
 | "Accountable Care Organization" 特征 | Coordinate providers + outcome metrics + bonus | "Restrict services" / "Limit provider choice" |
 
