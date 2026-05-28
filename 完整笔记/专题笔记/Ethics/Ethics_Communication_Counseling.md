@@ -683,6 +683,79 @@ Patient 表现 boundary crossing
 | 关键判定 | "Could be emergency" 是 caving 反 pattern | 真 emergency = airway / shock / 急 deteriorate |
 | Office vs ED | Office unscheduled visit ≠ emergency setting；真 emergency 到 ED | ED / 急救场景 |
 
+### §12.8b Treating Friends / Family — Professional Boundaries 必保 Standards of Care ⭐⭐（Q105782 锚定 — v1.2 新增）
+
+#### 反射钩
+
+> [!info]
+> Friend / family member 同时是 patient + 提出与 standards of care 冲突的请求（如 prolonged opioid for subacute MSK back pain + decline workup）→ 反射 **standards 不让步 + friendship 不构成 refuse 处方理由 + transfer of care 是 standards 不能共识时的退路**。
+
+#### 核心原则（USMLE 必背）⭐
+
+> [!success] 三句话锁
+> ① **Friendship 本身不构成 refuse 处方 / terminate relationship 的理由** — only **standards of care 受损或不能共识**时才考虑
+> ② **Patient autonomy 不 obligate physician 提供 inappropriate intervention** — risk acknowledgment 不能 offload missed diagnosis 风险
+> ③ **Transfer of care = standards 不能共识时退路**（不是 friendship-based termination）
+
+#### Treating Friend / Family SOP — 5 步
+
+```
+① Establish professional boundaries
+    • 明确 "现在是 patient-physician relationship"
+    • Friendship 不可 compromise standards
+    │
+    ▼
+② Standards of care 必须保持
+    • Workup before treatment escalation（lab / imaging if indicated）
+    • Treatment 必须 indication-based（不是 patient request-based）
+    │
+    ▼
+③ Patient declines workup / 要求 inappropriate intervention
+    • Patient 有 right to decline workup（autonomy）
+    • 但 physician NOT obligated 提供 inappropriate intervention
+    • 明确说明 "我只能在 [条件] 下提供 [stronger treatment]"
+    │
+    ▼
+④ Negotiate — 解释 standards + 留谈判空间
+    │
+    ▼
+⑤ Patient 仍不 abide → Transfer of care to another physician
+    • 不是 friendship-based terminate
+    • 是 standards 不能共识时的合规退路
+```
+
+#### "Treating Friend" 4 大钓饵（Q105782 模板）
+
+| 钓饵 | 例子 | 错点 |
+|---|---|---|
+| **Friendship-based refuse** | "I cannot prescribe because you are a personal friend" | ❌ Friendship 不构成 refuse 处方理由 — only standards 受损时 |
+| **Friendship-based terminate** | "Not a good idea to continue relationship because we're friends" | ❌ Friendship 不构成 terminate 理由 — only standards 不能共识时考虑 transfer |
+| **Accept patient's risk acknowledgment** | "OK if you accept the risk of missed diagnosis" | ❌ Patient autonomy 不 obligate 提供 inappropriate intervention；missed dx 风险不能 offload |
+| **正解** ⭐ | "You have right to decline + I'm willing to consider stronger medication only if indicated by lab + imaging" | ✅ Standards 边界明确 + 不 burn relationship + 留谈判空间 |
+
+#### 阿片 indication 边界（USMLE 高频 — Q105782 触发）
+
+| 情境 | 长期阿片合适？ |
+|---|---|
+| **Subacute (< 3 mo) MSK back pain** | ❌ Generally 不推荐 — harm > benefit |
+| **Acute (< 1 mo) MSK back pain** | ❌ 不推荐 |
+| **Malignancy-related back pain**（bony metastasis）| ✅ 适合 — cancer pain control 标准 |
+| **Severe trauma**（vertebral compression fracture）| ✅ 适合（acute）|
+
+#### 与 §12.8 Boundary Setting / §12.16 Controlled Substance Agreement 区分
+
+| Framework | 适用场景 | 关键 |
+|---|---|---|
+| **§12.8 Boundary Setting** | Demanding patient + boundary crossing（不是 friend）| 不评估 + schedule 正常 hours |
+| **§12.8b Treating Friend** ⭐ | Friend / family 同时是 patient + standards 冲突 | Standards 不让步 + 不基于 friendship 拒 / terminate |
+| **§12.16 Controlled Substance Agreement** | Patient 被要求签 pain contract（已在治疗中）| Reframe as universal safety procedure |
+
+#### 类比
+
+朋友请你帮装修，你是 licensed contractor — 你不会因为是朋友就跳过安全规范（standards），也不会因为是朋友就拒绝帮忙（friendship-based refuse）；你按 code 做 + 朋友不接受时建议找别人（transfer of care）。
+
+---
+
 ### §12.11 Acutely Psychotic Patient — Empathize Without Reinforcing or Challenging ⭐（UW 做对题 — v1.4.5 新增）
 
 #### 反射钩
@@ -2053,12 +2126,50 @@ Stage identification（§12.23）
 > Patient interested in CAM → ① Explore reasons ② Discuss risks + benefits ③ Be open to integrating modalities with proven safety + efficacy ④ Consider referral to appropriate CAM provider。
 > **详细 SOP**：见 §12.14 Nonstandard Harmful Therapy（harmful CAM）+ §12.14 子节 Non-harmful CAM Brand Selection（US Pharmacopeia）。
 
-#### §12.34.5 Clinical Uncertainty Counseling
+#### §12.34.5 Clinical Uncertainty Counseling ⭐（v1.2 扩展 — Q18785 锚定）
 
 > [!info]
 > Patient uncertain about treatment / diagnostic step → ① Acknowledge degree of uncertainty ② Convey potential seriousness ③ Individualized DDx discussion based on known facts ④ Explain need for further evaluation ⑤ Clear follow-up plan ⑥ Allow patient to ask questions。
 >
 > Patient declines recommended treatment / diagnostic step → ① Provide accurate + complete info on procedure ② Balanced assessment of intervention（benefits / risks / limitations）③ Thorough explanation of further medical steps + plans → 强化 autonomy + improve decision-making。
+
+##### 3 节 SOP（USMLE 必背 — UW 表格直接考）
+
+```
+① Introduction
+    • Establish rapport（建立融洽）
+    • Assess patient's knowledge + understanding of current facts
+    │
+    ▼
+② Data review
+    • Review established facts（既定事实）
+    • Explain DDx — individualized（基于本 patient 的）
+    • Clearly state level of uncertainty（明确不确定程度）
+    │
+    ▼
+③ Plan of care
+    • Recommend plan to clarify dx（tests / specialty consultation）
+    • Emphasize shared decision-making
+    • Arrange for follow-up（具体时间 + 联系方式）
+```
+
+##### "Clinical Uncertainty 应答" 5 大钓饵（Q18785 模板）
+
+| 钓饵类型 | 例子 | 错点 |
+|---|---|---|
+| **Minimize / Routine 化** | "Colonoscopy is routine in these situations" | 不解释 why 必要 + 不 encourage shared decision-making |
+| **Unnecessarily vague** | "I'm not sure what's wrong, but that's the reason we need a colonoscopy" | Uncertainty alone 不 justify invasive testing — 必须解释 serious possibility |
+| **Blunt / Alarming** | "I suspect you have cancer + colonoscopy is the best way to confirm" | 在 symptoms nonspecific 时过早结论 = alarming；blunt direct statement 仅在 **specific features**（lytic bone lesions / visible mass on CT）时合适 |
+| **False reassurance** | "You probably have cancer but I'll be here to help, no matter what" | 表达 concern + support 但 unnecessarily alarming + 不引导到 plan of care |
+| **正解** ⭐ | "There are several possibilities, some potentially serious. Colonoscopy is the best way to know for sure" | 同时满足 individualized DDx + 不确定程度 + plan to clarify |
+
+##### 与 SPIKES 框架区分
+
+| 维度 | **Clinical Uncertainty Counseling** | **SPIKES** |
+|---|---|---|
+| **适用** | Dx 未定 + serious possibility 存在 | Dx 已确定 + 需要 deliver bad news |
+| **核心** | Convey uncertainty + plan to clarify | Convey diagnosis + 应对 emotion |
+| **First step** | Establish rapport + assess knowledge | Setting + Perception |
 
 #### §12.34.6 Vaccine Hesitancy
 

@@ -425,6 +425,79 @@ adolescent 还有 capacity + chronic life-limiting illness deteriorating
 > [!tip] 一句话锁
 > 「**DNR 仅 arrest 时触发；当前 intervention 不是复苏 → standard of care 全开**」
 
+### §2.2b Medical Futility — Physician 无 ethical obligation 给 futile treatment ⭐⭐（Q21728 锚定）
+
+> [!danger] 核心法理
+> Physician **no ethical obligation** 给 medically futile treatment — 即使 AD 写 "everything possible"，即使 surrogate / family 要求。因为提供 futile treatment **counters beneficence + nonmaleficence**（Autonomy 不超越这两条）。
+
+#### Medical Futility 定义
+
+> [!info]
+> **Medically futile treatment** = clearly offers **no benefit** + cannot accomplish intended goals
+> （含 physiologic improvement / reduction in suffering / palliation）
+
+#### Futility 二分 ⭐ (USMLE 高频)
+
+| 类型 | 定义 | 例子（Q21728）|
+|---|---|---|
+| **Physiologic futility** | Treatment 不能改善 physiologic condition / 达 physiologic goal（含 palliation / comfort）| Cardiac cath in patient with end-stage cancer + anoxic brain injury — 不能改善 MI 也不能挽救 brain |
+| **Qualitative futility** | Marginal benefits substantially outweighed by likelihood of significant pain + suffering | 即使 cath 部分技术成功也无 meaningful improvement in QOL |
+
+→ Q21728 既 physiologic 又 qualitative futile — 两个 angle 都覆盖。
+
+#### Futile vs High-Risk-Some-Benefit 边界 ⭐⭐（CK 易混）
+
+| 维度 | **Medically Futile** | **High-Risk-Some-Benefit** |
+|---|---|---|
+| **定义** | Clearly offers no benefit | High risk + offers some benefit |
+| **例子** | Cardiac cath in metastatic cancer + anoxic brain injury | CPR in non-terminal patient with cardiac arrest（prolongs life）|
+| **Physician obligation** | ❌ No ethical obligation 提供 | ✅ Cannot refuse if informed competent patient / surrogate requests |
+| **AD / surrogate 要求时** | Physician 可 refuse + 同理心 explain | Physician 必须 offer clear guidance 但不能 refuse |
+
+#### Surrogate / AD 要求 Futile Treatment — Physician 处理 SOP
+
+```
+① 倾听 surrogate underlying reasons（不直接 refuse）
+    • Distrust（不信任医疗团队）
+    • Concern for abandonment（怕被放弃照护）
+    • Overestimating treatment benefits（therapeutic misconception 变体）
+    │
+    ▼
+② 同理心 explain why treatment is futile
+    • Physiologic + qualitative 两个角度
+    • 解释 NOT obligate 提供（counters beneficence + nonmaleficence）
+    • 不指责 surrogate / family
+    │
+    ▼
+③ Disagreement persists → palliative care / ethics committee consultation
+    • 必须先尝试 ①② 才升级 — 直接跳 ethics committee 不合适
+```
+
+#### "Futile treatment obligation" 6 大钓饵（USMLE 完整覆盖）
+
+| 钓饵 | 例子 | 错点 |
+|---|---|---|
+| No obligation based on **justice + resource stewardship** | Cost-effective allocation | ❌ Resource stewardship = **insufficient standard** — treatment benefits 有时 justify resource use |
+| No obligation because doesn't improve **terminal prognosis** | Prognosis impact | ❌ Insufficient — benefits 可能在 palliative / comfort 而非 prognosis |
+| **No obligation because treatment clearly unlikely to provide any benefit** ⭐ | Futility 定义直接 | ✅ Physiologic + qualitative 核心 |
+| Obligation based on **autonomy + substituted judgment** | AD = autonomy 表达 | ❌ Autonomy 不 obligate physician 提供 futile treatment |
+| Obligation because **legally requires ethics committee consultation** | 法律要求 | ❌ Ethics committee 可适当但 **not required** routine — 仅 disagreement 持续时 |
+| Obligation because **AD is binding** | "everything possible" 写在 AD | ❌ AD 不 obligate physician 提供 futile treatment — autonomy 不超越 beneficence/nonmaleficence |
+
+#### 一句话锁
+
+> [!success]
+> 「**Futile = no benefit；Physician NO obligation；AD/autonomy 不超越 beneficence**」⭐
+> 「**Physiologic + Qualitative** 二分都要会判」
+> 「**Resource stewardship + prognosis impact = INSUFFICIENT standards**」
+> 「**Ethics committee 是 disagreement 升级**，不是 routine required」
+
+#### 与 §2.1 EOL 5 档关系
+
+Medical Futility 不在 5 档里 — 它是**判断维度**（whether 给某项干预是 futile），决定是否触发 5 档中的 NEOT / Comfort care。先判 futility，再选 EOL 档位。
+
+---
+
 ### §2.3 Advance Directive 完整 SOP ⭐（v1.4 新增 — 之前 TODO 兑现）
 
 > [!info] Advance Directive = legally binding instructions for own health care

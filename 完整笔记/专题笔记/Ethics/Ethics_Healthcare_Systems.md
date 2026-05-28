@@ -209,6 +209,120 @@ ACO 实际花了 $900 万 + quality metrics 达标
 > - **Effectiveness** 焦点 = **treatment 是否 evidence-based + 是否合适剂量 / 适应症**
 > - 例：处方对药但用错剂量造成 ADR → 可同时违反 Safety + Effectiveness
 
+### §2.4 P4P + Equity 风险（防 disparity widening）⭐⭐（Q106618 锚定）
+
+> [!danger] National P4P 的 Equity 副作用 — USMLE 高频考点
+> 不调整 patient demographics 的 P4P → **preferentially reward affluent regions** → 加剧 health disparities → 总体 quality ↓（违反 IOM Equity 维度）
+
+#### 风险机制
+
+```
+P4P 仅看 quality metrics（癌症筛查率 / 用药率）+ 不调整 patient demographics
+    │
+    ▼
+富裕区患者：高 insurance + follow-up 时间 + 自费能力
+    → 更易 complete screening / 维持用药
+    → PCP metric 易达标 → 拿 bonus
+    │
+弱势区患者：低 insurance + 工作时间冲突 + 自费困难
+    → metric 难达标 → PCP 拿不到 bonus
+    │
+    ▼
+Affluent regions ↑ bonus + ↑ resources
+Poor regions ↓ bonus + ↓ resources
+    │
+    ▼
+Widening health disparity → 违反 IOM Equity → 总体 quality ↓
+```
+
+#### 对策 — Demographic Adjustment SOP
+
+| 步骤 | 内容 |
+|---|---|
+| ① 识别 patient demographic characteristics | Insurance type / income level / education / 语言 |
+| ② 识别 community characteristics | Health professions shortage area / SES / 地理 |
+| ③ 调整 incentive 分配 | Shortage area + 弱势 population 给**更高** quality bonus（补偿，不是处罚）|
+| ④ 监测 disparity gap | 持续 audit P4P 是否 widening / closing disparity |
+
+#### Equity ∈ STEEEP — 不是次要维度 ⭐
+
+> [!success]
+> Equity 是 IOM 6 维度（STEEEP）的第 6 维 — **是 quality 本身**，不是道德附加。
+> 即使 Safety + Effectiveness + Timeliness + Efficiency + Patient-centeredness 全部得分，如果 widening disparity → Equity 失败 → **总体 quality ↓**。
+
+#### "National P4P quality consideration" 钓饵对照
+
+| 类型 | 描述 | 是 quality 特征吗？ | 但够吗？ |
+|---|---|---|---|
+| **Patient demographic** ⭐ | 患者群体特征（外部）| ✅ Equity | ✅⭐ 唯一答案 — 跨区域必须调整 |
+| Interprofessional teamwork | 团队协作 | ✅ Quality 特征 | ❌ 仅 clinical practice 内部 |
+| QI initiatives 参与 | 质量改善活动 | ✅ Quality 特征 | ❌ 内部维度 |
+| Years of experience | 经验年限 | ❌ 不应影响 evidence-based 依从 | ❌ 与 metrics 无关 |
+| Burnout prevalence | Burnout 流行率 | ✅ Quality 特征 | ❌ 内部维度 |
+
+#### USMLE buzzword 速查
+
+- **"Health professions shortage area"** → 提示需要 **更高** P4P bonus（补偿）
+- **"National P4P network"** → 必须跨 region 调整 demographics（local P4P 调整空间小）
+- **"Preferentially reward affluent regions"** → P4P 不调整 demographic 的典型副作用描述
+
+### §2.5 Managed Care 反向激励 + Physician COI 边界 ⭐⭐（Q126839 锚定）
+
+> [!danger] 反向 P4P — Managed Care 用 bonus 与 reduced utilization 挂钩
+> Managed care org 用 bonus 与 **reduced specialist referral / reduced imaging / reduced admission** 挂钩 = **反向激励**（P4P 镜像 — P4P 奖励 quality 提升，managed care 反向奖励 utilization 降低）
+
+#### P4P 正向 vs Managed Care 反向激励 — 伦理对照
+
+| 维度 | **P4P（正向激励）** | **Managed Care 反向激励** |
+|---|---|---|
+| **机制** | 达 quality metrics → bonus | Reduced utilization → bonus |
+| **目标** | 改善 quality outcomes | 降 cost |
+| **本身 ethical？** | ✅ 合理（双向优化 cost + quality）| ⚠️ 可以接受 **if 不 compromise medically necessary care** |
+| **边界** | 不应被 gaming（cherry-picking patients）| **不应 withhold medically necessary care** |
+| **典型违规** | P4P 不调整 demographic → widening disparity（Q106618）| Bonus 驱动 withhold necessary referral（Q126839）|
+
+#### Managed Care 反向激励 — 何时变 impermissible
+
+```
+Managed care bonus 与 reduced utilization 挂钩
+    │
+    ├─ 决策 = clinically appropriate（不需 referral / 不需 imaging）
+    │     ✓ Cost-conscious care = ethical
+    │     ✓ 节省的 cost 通过 incentive 部分回流 physician
+    │     ✓ 不 violate beneficence
+    │
+    └─ 决策 = withhold **medically necessary** care
+          ❌ Violates beneficence
+          ❌ Places financial interest above patient welfare
+          ❌ Impermissible COI
+          例：progressive RA on first-line DMARD 失败 → 必需 rheum
+              改 DMARD → 推 NSAID 拖延 = inappropriate
+```
+
+#### Physician COI — 红线（Beneficence > Personal Financial Gain）
+
+> [!success]
+> Physicians 必须 place **patient welfare above personal financial gain**。当 financial incentive 影响 clinical decision-making to the **detriment of the patient** → 违反 beneficence → **不允许**。
+
+#### "Referral COI" 4 大钓饵（Q126839 模板）
+
+| 钓饵类型 | 错点 |
+|---|---|
+| "Appropriate because **single drug class adequate** for disease flare" | 单药对 progressive disease 不 adequate |
+| "Appropriate because **specialist referral only after treatment failure**" | Treatment failure 不是 prerequisite — symptom relief 不 justify defer medically necessary referral |
+| "Inappropriate because **patient didn't get explanation**" | 核心不是 explanation，而是 **COI driving clinical decision** |
+| **"Inappropriate because physician allowed financial incentive to override clinically indicated referral"** ⭐ | 正解 — 直接命中 COI 伦理底线 |
+
+#### 现实背景 — Managed Care 的两面
+
+| 益处 | 滥用风险 |
+|---|---|
+| Cost-conscious care 减 overuse | Bonus 驱动 underuse |
+| Encourages primary care 守门人作用 | 守门人变 gatekeeper denying necessary care |
+| 减不必要 imaging / specialist visits | Withhold medically necessary referral |
+
+→ Managed care 与 P4P 都是 incentive-based payment，**都可 ethical 也都可被滥用**；边界永远是 **是否 compromise medically necessary care**。
+
 ---
 
 ## §3 Patient-Centered Care (PCC) ⭐⭐
@@ -274,6 +388,10 @@ Patient 有 high-deductible / 无险 / 经济负担
 | "High-quality care" | STEEEP 6 维度（Safe + Timely + Effective + Efficient + Equitable + Patient-centered，见 §2.3）| 频繁 imaging / mandate testing / 限制 access |
 | "High-deductible / uninsured patient" 治疗选择 | Affordable acceptable alternate（含 generic substitution） | 死守 first-line 贵药 |
 | "Accountable Care Organization" 特征 | Coordinate providers + outcome metrics + bonus | "Restrict services" / "Limit provider choice" |
+| "National P4P + improve overall quality" | Patient demographic adjustment（§2.4）| Teamwork / QI / experience / burnout（内部维度不够）|
+| "Health professions shortage area" + P4P | 更高 quality bonus 补偿（不是处罚）| 同一 metric 跨区域 |
+| "Bonus tied to reduced specialist referral / utilization" + medically necessary | COI override clinically indicated → impermissible（§2.5）| NSAID adequate / treatment failure prerequisite / explanation 不足 |
+| Physician 受雇 managed care + 临床决策与 financial incentive 冲突 | Patient welfare > personal financial gain | "Cost-conscious care is unethical"（过度概括，错）|
 
 ---
 
@@ -282,6 +400,8 @@ Patient 有 high-deductible / 无险 / 经济负担
 - 🔁 锚定错题：
   - [[mistakes/uworld-mistakes#^Q21751]] P4P / ACO = 双向优化 cost + quality
   - [[mistakes/uworld-mistakes#^Q21966]] PCC + medication affordability
+  - [[mistakes/uworld-mistakes#^Q106618]] P4P + Equity / 防 disparity widening（§2.4 锚）
+  - [[mistakes/uworld-mistakes#^Q126839]] Managed care 反向激励 + Physician COI（§2.5 锚）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（§十一 Communication / 待补 §医疗系统）
 - 🤝 兄弟衍生：
   - [[完整笔记/专题笔记/Ethics/Ethics_Communication_Counseling]]（PEARLS / shared decision-making 沟通框架）
@@ -289,6 +409,6 @@ Patient 有 high-deductible / 无险 / 经济负担
 - 🌱 TODO：积累更多 healthcare systems 题后扩充：
   - Bundled payment / value-based purchasing
   - Capitation vs fee-for-service
-  - Quality metrics 类型（process / outcome / structural）
+  - Quality metrics 类型（process / outcome / structural — Q106618 已部分覆盖）
   - PCMH (Patient-Centered Medical Home) 与 ACO 区分
   - 医保设计（HMO / PPO / HDHP）对患者行为影响
