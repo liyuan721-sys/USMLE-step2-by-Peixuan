@@ -25988,3 +25988,434 @@
 > 主题:: Human Factors Engineering 3 大机制（optimize environmental design + reduce reliance on memory + increase attention via alerts）/ Point of Care 原则（资源就近 patient room，不放 central workstation / single location）/ Isolation Precautions 4 类速查（Airborne TB/VZV/COVID/measles → NPR+N95 / Contact MRSA/VRE/ESBL/C diff/RSV → glove+gown / Droplet Neisseria/Hib/Mycoplasma/flu/adenovirus → mask 1-2m / Standard 所有患者 → hand hygiene+PPE）/ Adherence Strategies 效力排序（visual aids point > equipment point > patient ask > training > central location）/ "Guidelines 已有 + adherence 差 → design 问题（不选 training）" 铁律 / Patient advocacy 反 pattern（isolation 应 HCW 自主 initiate）/ Education vs Environmental Design 边界
 > 状态:: 🟢 ✅ 做对
 > 错因:: —
+
+> [!example]- [2026-05-27] Ethics / Team Functioning — Cognitive Bias 误归因 team collaboration 差异（实际是 Differences in understanding of team goals）⚠️ (Q106664, linked vignette Item 1 of 2 with Q106665)
+> ^Q106664
+>
+> ## Stem 模式
+> OR 多职业团队 survey（surgeons / anesthesiologists / nurses）打分 perceived collaboration quality (1-100)；矩阵显示 **inter-personnel** 评分系统性低于 **intra-personnel**（如 nurse-surgeon score 48 vs surgeon-surgeon 90，**nurse 给 surgeon 仅 48 而 surgeon 给 nurse 88** — 极不对称感知）→ 最 likely underlying factor？
+>
+> ## 核心概念
+> **Suboptimal interprofessional collaboration 最常见根因 = differences in understanding of team goals + roles**（不是 cognitive bias / 不是 knowledge gap / 不是 fatigue）。**Team leaders (surgeons)** 把 collaboration 定义为 "**prompt adherence to instructions**"；**other members (nurses)** 定义为 "**input is respected and acknowledged**" → 角色感知错位 → 评分不对称。
+>
+> Answer：**B. Differences in understanding of team goals**
+>
+> ## 普适规则
+>
+> ### Cognitive Bias vs Team Collaboration 边界 ⭐⭐⭐（与 [[完整笔记/专题笔记/USMLE/USMLE_患者安全_Safety文化与沟通]] §6.6.5 同型）
+>
+> | 维度 | **Cognitive Bias** | **Team Collaboration (Shared Goals / Role Understanding)** |
+> |---|---|---|
+> | **失败发生在？** | **医生大脑内部** mental shortcut（独自决策时也会发生）| **团队互动 dynamic** — 不同角色对"team should function how"的定义不一致 |
+> | **独自工作仍发生？** | ✓ 会（anchoring / framing / availability 在 chart review 时就发生）| ✗ 不会（需 ≥ 2 角色互动）|
+> | **Stem 暗号词** | "reviews chart prior to seeing" / "first impression" / "narrowed differential" | "**perception gap between disciplines**" / "**asymmetric ratings**" / "differences in defining collaboration" |
+> | **影响范围** | **个体 diagnostic decisions**（与 teamwork 关系弱）| **Group communication + collaboration quality**（核心是 team-level）|
+> | **解决方案** | Metacognition + diagnostic timeouts + CDSS | **Shared goal definition + role clarification + debriefings + flatten hierarchy** |
+>
+> ### Effective Team Functioning 6 元素（再钉一次）⭐
+>
+> | 元素 | 内容 |
+> |---|---|
+> | **Safety culture** | Resource commitment to safety |
+> | **Collaboration** ⭐ 本题 | **Shared understanding & prioritization of goals** + **Distinct roles avoiding steep hierarchy** |
+> | **Psychologic safety** | Asking questions & voicing concerns encouraged / Avoiding blame |
+> | **Responsiveness** | Feedback respected & promptly acted on |
+> | **Situational awareness** | Persistent mindfulness & safety vigilance |
+> | **Transparency** | Prompt disclosure of errors & safety information |
+>
+> ### Nurse-Surgeon 不对称感知机制 ⭐
+>
+> ```
+> Surgeon 定义 collaboration = "instructions are followed promptly + accurately"
+>           │
+>           ▼
+> Surgeon 评 nurse 高（88）— 因为 nurse 通常 follow instructions
+>           │
+>           ▼
+> 但 nurse 定义 collaboration = "my input is respected and acknowledged"
+>           │
+>           ▼
+> Nurse 评 surgeon 低（48）— 因为 surgeon 没充分 acknowledge input
+>           │
+>           ▼
+> 不对称感知 = **不是 cognitive bias，是定义不一致 (role + goal mismatch)**
+> ```
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | **A（我选的）** | **Cognitive bias** among nurses and surgeons | ❌ ⭐ **Cognitive bias = 个体 mental shortcut**（anchoring / framing 等），适 **diagnostic** 错误；teamwork 是 **group dynamic** 问题，cognitive bias 解释力弱 ⚠️ |
+> | **B** ⭐ | **Differences in understanding** of team goals | ✅ 不同角色对 collaboration 定义不一致 → 评分不对称的标准答 |
+> | C | Differences in medical knowledge / technical skills | ❌ Technical expertise 差异不解释 collaboration **perception** 差异 — 即使 expertise 一致，role-based 定义仍会 mismatch |
+> | D | Fatigue and sleep deprivation among nurses | ❌ Stem 没给 fatigue 暗号 + nurses 之间 score 高（nurse-nurse 81 vs nurse-surgeon 48）说明 nurses 不是被 fatigue 影响（否则跨对象一致低）|
+>
+> ## 我为什么错
+> - 选了：**A. Cognitive bias**
+> - 错因：**干扰项**（cognitive bias 听起来"全能解释所有 perception 问题"反射）
+> - 核心陷阱：**没识别 cognitive bias 适 individual diagnostic decisions，不适 group teamwork**；asymmetric 评分是 **role-based 定义差异**，不是大脑 shortcut
+> - 元错误：**与早上判分 Q8 RCA-FMEA 字眼陷阱同型** — 都是被"听起来很专业的名词"反射误锁，没用 stem **dynamic 性质**校验
+>
+> ## Memory Hook
+> - **"个体 diagnostic 错 → Cognitive bias；团队 collaboration 错 → Shared goals / role understanding"** ⭐
+> - **"Nurse-Surgeon 评分不对称 = role 定义不一致**（surgeon 重 'follow instructions'，nurse 重 'input acknowledged'）"** ⭐
+> - **"Cognitive bias 解释力 = 0 个体 decision 内部；teamwork dynamic ≠ cognitive bias 适用场景"** ⭐
+> - 类比：餐厅评分系统 — 厨师认为"上菜快 = collaboration 好"，服务员认为"被尊重 = collaboration 好"；两人评分不对称不是因为"大脑偏差"，是因为**定义不同**
+> - **与三件套一句话锁联读**：本题失败在 **第①步"我敢说"的前提"我们对 collaboration 的定义一致吗"** — 这是更底层的 shared understanding，比 psych safety 更前置
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：反射 "perception 差异 = cognitive bias" — 没识别 cognitive bias 是 **individual** 概念
+> - 学到：**Asymmetric ratings between roles** 是 **shared goal mismatch** 暗号 — 不是任何一方大脑出问题
+> - 学到：UW 出题人**故意把 cognitive bias 作为干扰项放进 teamwork 题**测你是否区分边界
+> - 学到：与 [[完整笔记/专题笔记/USMLE/USMLE_患者安全_Safety文化与沟通]] §6.6.5 "Psych Safety vs Cognitive Bias 边界"对应；今天早些时候刚加的"三件套一句话锁"指的就是这种场景——**信息处理偏（cognitive bias）vs 信息不敢传（psych safety）vs 信息传不准（closed-loop）** 之外，还有更前置的 **"信息定义不一致"**（shared understanding）这一层
+> - 元认知：本题暴露了即使刚学过边界表，**在新 stem 形态下仍会被字面诱惑钓走** — 需要每日浩斯宾前默写边界表 5 次
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q106665]] **linked vignette Item 2 of 2 同 stem family**（解决方案 — Nurse-led debriefings）
+>   - [[mistakes/uworld-mistakes#^Q23112]] Effective Team Functioning 6 元素（5-26 做对）
+>   - [[mistakes/uworld-mistakes#^Q106764]] Framing bias（5-26 做对 — Cognitive bias 适 individual diagnostic）
+>   - [[mistakes/uworld-mistakes#^Q106765]] Defensive medicine（5-26 错 — 同型 Linked vignette ≠ 同主题警示）
+>   - [[mistakes/uworld-mistakes#^Q106048]] Cognitive Overload + bias（5-27 — busy ED + bias 是 root cause）
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全_Safety文化与沟通]]（§6.6.5 Psych Safety vs Cognitive Bias 边界表 + §6.6.7 三件套一句话锁 ⭐⭐⭐）/ [[完整笔记/专题笔记/USMLE/USMLE_患者安全_Cognitive诊断错误]]（§13.4 Cognitive Biases）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（teamwork + collaboration）/ [[完整笔记/Peixuan分科笔记/外科]]（OR teamwork dynamics）
+> - 🌱 TODO：本题驱动 USMLE_患者安全_Safety文化与沟通 §6.6.5 **加 "Asymmetric ratings between roles = shared goal mismatch"反 pattern 子节**（与现有 "fear/hesitate = psych safety" + "chart review = framing bias" 反射钩并列）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证 cognitive bias vs teamwork 边界反射）
+> - [ ] 默写 Cognitive Bias vs Team Collaboration 边界表 5 次
+> - [ ] 默写 Effective Team Functioning 6 元素 + 各自经典 stem 暗号
+> - [ ] 默写 Nurse-Surgeon 不对称感知机制（surgeon 重 instruction follow / nurse 重 input acknowledged）
+> - [ ] 反射训练：见 "asymmetric ratings between roles / disciplines" → 0.5 秒锁 **differences in understanding of goals**（不是 cognitive bias / 不是 knowledge）
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Cognitive Bias 不解释 team collaboration 差异（cognitive bias = individual diagnostic shortcut，teamwork = group dynamic）/ Asymmetric ratings between roles = differences in understanding of team goals / role definitions / Surgeon 定义 collaboration = follow instructions vs Nurse 定义 = input acknowledged / Effective Team Functioning 6 元素（Collaboration = shared goals + distinct roles）/ 与 §6.6.5 Psych Safety vs Cognitive Bias 边界同型 / Linked vignette Item 1（Q106665 是 Item 2 — 解决方案 debriefings）
+> 状态:: 🟡（首次错 — cognitive bias 干扰项陷阱）
+> 错因:: 干扰项
+
+> [!example]- [2026-05-27] Ethics / Team Functioning — Nurse-led Debriefings 解决 interprofessional collaboration 差异（不是 Lean / 不是 checklists / 不是 handoff templates / 不是 surgeon-only training）(Q106665, linked vignette Item 2 of 2 with Q106664) ✓ 做对
+> ^Q106665
+>
+> ## Stem 模式
+> 接 Q106664 — 同一 OR survey 显示 suboptimal collaboration → 哪个 intervention 最 likely address findings？
+>
+> ## 核心概念
+> **Team debriefings** = brief interprofessional structured discussions **before / after** clinical event（如术前 / 术后 / safety incident 后）；evidence 来自 **high-reliability organizations**（航空 / 核电 / 急救）。**Nurses as co-leaders**（不是 surgeons-only / 不是 anesthesiologists-only）让 lowest-perceiving-collaboration discipline（本题 nurses score 48 给 surgeons）有 voice → 减 hierarchy + 增 psych safety + 改 interprofessional collaboration。
+>
+> Answer：**B. Having nurses lead portions of the perioperative team safety briefings and debriefings**
+>
+> ## 普适规则
+>
+> ### Debriefings 优化 4 大 team 维度 ⭐
+>
+> | 维度 | Debriefing 改善机制 |
+> |---|---|
+> | **Shared understanding** | Reinforce team's primary goals + each member's specific role on the team |
+> | **Psychological safety** | Encourage each team member to voice concerns（potential factors increasing risk for errors）in group setting with feedback + acknowledgment |
+> | **Reduce hierarchy** ⭐ | Value every team member's role in achieving goals + promoting safety |
+> | **Coordination** | Establish action items to address concerns + ensure accurate understanding |
+>
+> ### Co-leaders 选择原则
+>
+> | 选谁 co-lead？ | 为什么 |
+> |---|---|
+> | **Nurses**（本题）⭐ | Lowest-perceiving discipline（48 给 surgeons）→ 让 nurse 有 voice = 直接 address Q106664 暴露的 perception gap |
+> | Anesthesiologists | 中间评分 — 不是核心 perception gap 的 source |
+> | Surgeons only | 反向 — 加重 hierarchy + 不让 nurse 有 voice |
+>
+> ### 反 pattern 4 类（CK 高频钓饵）
+>
+> | 反 pattern | 例 | 为什么错 |
+> |---|---|---|
+> | **① Lean methodology** | A "anesthesiologists lead Lean methods" | Lean = **减 waste / efficiency**（extended wait times 等）— 不解决 **team communication / hierarchy** 问题 |
+> | **② Checklists** | C "checklists during high-risk procedures" | Checklists 适 **safety task completion**（如 surgical time-out）— 不改 **interprofessional dynamics / hierarchical barriers** |
+> | **③ Handoff templates** | D "template during handoffs and transfers" | Handoff templates 适 **shift change information transfer**（防 errors of omission）— 不解决 **intraoperative team dynamics** |
+> | **④ Single-discipline training** | E "surgeons in safety vigilance" | Training 一个 discipline 不解决 **interprofessional** collaboration — 必须 **interactions within team**（如 debriefings）|
+>
+> ### Debriefings vs Checklists / Handoffs / Time-outs 边界 ⭐⭐
+>
+> | 工具 | 何时用 | 解决什么 |
+> |---|---|---|
+> | **Time-out** | 术前 immediately prior to incision | Patient ID + Procedure + Site — wrong-site/patient/procedure 防 |
+> | **Checklist** | 高风险任务执行时 | Task completion + omission 防 |
+> | **Handoff (I-PASS / SBAR)** | Shift change / transfer | Information continuity — errors of omission 防 |
+> | **Debriefing** ⭐ 本题 | Before / after clinical event | **Team dynamics + hierarchy + psych safety + shared understanding** |
+> | **Closed-loop** | Verbal order real-time | Accuracy of message — misinterpretation 防 |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Anesthesiologists lead Lean methods | ❌ Lean = QI methodology 减 waste，不改 teamwork |
+> | **B** ⭐ | Nurses lead debriefings | ✅ Co-leader = address perception gap + 减 hierarchy + 增 psych safety |
+> | C | Train nurses + surgeons in checklists | ❌ Checklists = task completion，不改 dynamics |
+> | D | Surgeons + nurses use handoff template | ❌ Handoff = transition errors，不是 intraoperative |
+> | E | Train surgeons in safety vigilance | ❌ Single-discipline training 不改 interprofessional |
+>
+> ## 我为什么对 ✓
+> - 选了：**B** ✓
+> - 关键反射：见 "address findings of nurse-surgeon collaboration gap" → 0.5 秒锁 **nurse-led debriefings**（不是 Lean / 不是 checklists / 不是 templates / 不是 single-discipline training）
+> - 用上了 [[完整笔记/专题笔记/USMLE/USMLE_患者安全_Safety文化与沟通]] §6.5.3 + §6.6 Psych Safety 框架
+>
+> ## Memory Hook
+> - **"Debriefings = team dynamics 工具（不是 task / 不是 handoff / 不是 time-out / 不是 single-discipline）"** ⭐
+> - **"Co-leader 选 lowest-perceiving discipline"** — 本题 nurse 评 surgeon 48 → nurse 当 co-leader 给 voice
+> - **5 大 team 工具边界**：Time-out (患者 ID) / Checklist (task) / Handoff (transition) / Debriefing (dynamics) / Closed-loop (message accuracy) ⭐
+> - 类比：交响乐团 — Debriefing = **彩排后讨论会**（所有乐器都说话）；Checklist = **乐谱 check**；Handoff = **指挥换人交接**；Time-out = **演出前最后核对**；Closed-loop = **指挥手势确认**
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点（轻微）：D handoff template 看着像 "team communication" → 学到 handoff 是 **shift change** 工具，不是 intraoperative team dynamics
+> - 学到：**Co-leader 选 lowest-perceiving discipline** 是关键 — 哪个 group 给别人评分最低，就让他们当 co-leader（给 voice）
+> - 学到：5 大 team safety 工具各有专属场景，**不可互换**
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q106664]] **linked vignette Item 1 of 2 同 stem family**（错点 — cognitive bias 误归因）
+>   - [[mistakes/uworld-mistakes#^Q23112]] Effective Team Functioning 6 元素（5-26 做对 — Collaboration = shared goals + distinct roles）
+>   - [[mistakes/uworld-mistakes#^Q106620]] Psych Safety promotes RRT activation（5-27 同 psych safety 家族）
+>   - [[mistakes/uworld-mistakes#^Q18751]] WPE → Interprofessional rounds（5-26 同 interprofessional 协作家族）
+>   - [[mistakes/uworld-mistakes#^Q21520]] Verbal Handoff sickest first（5-26 同 handoff 家族 — 但 handoff ≠ debriefing 边界）
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全_Safety文化与沟通]]（§6.5.3 Teamwork + Mutual Support / §6.6 Psych Safety / §6.6.7 三件套一句话锁）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（teamwork + safety culture）/ [[完整笔记/Peixuan分科笔记/外科]]（OR team safety briefings）
+> - 🌱 TODO：USMLE_患者安全_Safety文化与沟通 §6.5.3 **加 "5 大 team safety 工具边界表"**（Time-out / Checklist / Handoff / Debriefing / Closed-loop 各自专属场景 + 反 pattern 互换警示）
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 Debriefings 优化 4 大 team 维度（shared understanding / psych safety / reduce hierarchy / coordination）
+> - [ ] 默写 5 大 team safety 工具边界（time-out / checklist / handoff / debriefing / closed-loop）
+> - [ ] 默写 Co-leader 选 lowest-perceiving discipline 原则
+> - [ ] 反射训练：见 "address interprofessional collaboration gap" → 0.5 秒锁 debriefings + nurse co-leader
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Team Debriefings 优化 interprofessional collaboration（shared understanding + psych safety + reduce hierarchy + coordination）/ Nurses as co-leaders（lowest-perceiving discipline 给 voice）/ 5 大 team safety 工具边界（Time-out 患者 ID / Checklist task / Handoff transition / Debriefing dynamics / Closed-loop message accuracy）/ Lean vs Debriefings（waste vs dynamics）/ Single-discipline training 反 pattern
+> 状态:: 🟢 ✅ 做对（5 大 team 工具边界反射建立 + co-leader 原则反射建立）
+> 错因:: —
+
+> [!example]- [2026-05-27] 骨科+Ethics / 老年 Fall Prevention — Supervised Strength Training（chronic disease + 起立 push with arms = gait/muscle imbalance 信号；不是 vitamin D empiric / 不是 ACE inhibitor 停 / 不是 handout / 不是 alcohol 减）(Q107153) ✓ 做对
+> ^Q107153
+>
+> ## Stem 模式
+> 70F new patient + HTN + T2DM（metformin）+ post-MI 2 yr（aspirin + β-blocker + ACE-I + statin）+ 独居 + 能 ADL + 1 glass wine 6 days/wk + walk dog 15 min daily + well-balanced diet + BMI 20 + BP 129/78（无 orthostasis）+ HR 64 + **rise from chair pushes with arms** + **walks briskly without ataxia** → 减 fall risk 最有效策略？
+>
+> ## 核心概念
+> **Supervised exercise / strength training** = 减 fall risk 的**最有效** evidence-based intervention（适用所有高 risk elderly + 之前 fallen 者）。Program 必须含 **strength + balance（Tai Chi 类）+ cardiovascular（walking）**。即使**已 ambulatory + walk regularly**，仍 benefit — 因为 walking 单独 ≠ strength training。
+>
+> Answer：**B. Enrollment in a supervised strength training program**
+>
+> ## 普适规则
+>
+> ### 老年 Fall Prevention — Outpatient vs Inpatient 分层 ⭐⭐⭐
+>
+> | 设置 | 策略 |
+> |---|---|
+> | **Outpatient prevention** | ① Screening musculoskeletal（**"get up & go" test** ⭐ 本题信号）+ vision + hearing + bone density + orthostasis ② Medication + home safety review ③ **Vitamin D deficiency 矫正**（仅 select patients < 10 ng/mL 或 prior falls）④ **Supervised exercise program** ⭐⭐⭐ |
+> | **Inpatient prevention** | ① Assess fall risk + customize ② Optimize environment（minimize furniture / lower bed / direct view of nurses）③ Frequent checks ④ **Avoid restraints + overreliance on fall alert systems** |
+>
+> ### Fall Risk Factors 5 大（USMLE 必背）⭐
+>
+> | 类别 | 例 |
+> |---|---|
+> | **Sensory + cognitive** | Vision impairment / hearing / dementia / delirium |
+> | **Chronic disease** | T2DM ⭐（本题）/ arthritis / CVD ⭐（本题）/ Parkinson / stroke |
+> | **Medications** | **Neuroleptics / antidepressants / vasodilators / hypnotics / opioids / antihypertensives**（多药协同）|
+> | **Gait + muscle imbalance** ⭐ 本题 | **Pushes with arms when rising from chair**（"get up & go" test 阳性）/ stooped posture / 步态不稳 |
+> | **Environmental** | 楼梯 / 地毯 / lighting / 鞋 |
+>
+> ### "Get Up & Go" Test 解读（本题核心信号）⭐
+>
+> ```
+> 让 patient 从 chair 起立 + walk briskly 到房间另一端
+>     │
+>     ├─ 能自己起 + ataxic 走 → 低 risk
+>     │
+>     ├─ Pushes with arms when rising（本题）⭐
+>     │     → 提示 **lower extremity strength / muscle imbalance**
+>     │     → **高 fall risk** → 需 supervised strength training
+>     │
+>     ├─ Walks slowly / unsteady gait → 高 risk
+>     │
+>     └─ Cannot complete → 极高 risk
+> ```
+>
+> ### Vitamin D Supplementation 严格条件 ⭐
+>
+> | 条件 | 是否补 |
+> |---|---|
+> | **Vitamin D insufficiency < 10 ng/mL** | ✓ 补 |
+> | **Prior fall history** | ✓ 补 |
+> | **Empiric for all elderly**（无以上条件）| ❌ **不**补（即使 elderly，无证据 fall risk 减少）|
+>
+> 本题：patient 无 prior fall + 无 vitamin D 测过低 → ❌ A 错（empiric vitamin D）
+>
+> ### Antihypertensive 处理（本题 ACE-I）
+>
+> | 情况 | 是否 taper |
+> |---|---|
+> | **Orthostasis 阳性 + 高 fall risk** | ✓ 考虑 taper / 换药 |
+> | **正常 BP + 无 orthostasis + post-MI 适应症** | ❌ **不**taper（ACE-I 在 post-MI 是 mortality benefit 必备）|
+>
+> 本题：BP 129/78 + 无 orthostasis + post-MI → ❌ C 错（ACE-I 不 taper）
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Empiric vitamin D | ❌ 仅 < 10 ng/mL 或 prior falls 才补；本题未测 + 无 prior fall |
+> | **B** ⭐ | Supervised strength training | ✅ Chronic disease + gait/muscle imbalance 信号 + 即使 walk regularly 仍 benefit |
+> | C | Slow taper ACE inhibitor | ❌ 无 orthostasis + post-MI 适应症 = 不 taper |
+> | D | Patient handout describing strategies | ❌ Education 不如 exercise effective（被动 vs 主动）|
+> | E | Reduction in alcohol intake | ❌ 1 drink/day 在 women 推荐限内 — 不增 fall risk |
+>
+> ## 我为什么对 ✓
+> - 选了：**B** ✓
+> - 关键反射：见 "elderly + chronic disease (T2DM/CVD) + pushes with arms rising + walks regularly" → 识别 **gait/muscle imbalance + 高 fall risk** → 0.5 秒锁 supervised strength training
+> - 排除 vitamin D empiric（无 deficiency 测过低）+ ACE-I taper（无 orthostasis）+ handout（education 效力低）+ alcohol（在限内）
+>
+> ## Memory Hook
+> - **"Pushes with arms when rising = gait/muscle imbalance 阳性 → supervised strength training"** ⭐
+> - **"Vitamin D supplementation 仅 insufficiency < 10 或 prior falls — 不 empiric"** ⭐
+> - **"Education 不如 exercise（passive vs active）"**
+> - **"ACE-I 在 post-MI 不 taper（除非 orthostasis 阳性 + 高 fall risk）"**
+> - 类比：老人 fall prevention = 修桥（strength training 实物加固）> 看手册（education）> 吃维生素（vit D — 仅缺才补）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点（轻微）：D handout 看着像 "patient education 总是好的" → 学到 evidence 显示 **active exercise > passive education**
+> - 学到：**"get up & go" test pushes-with-arms 信号** 是 USMLE 经典 gait imbalance 触发词
+> - 学到：vitamin D 在 elderly fall prevention 是 **严格条件下用**（不 empiric）— vs 之前以为"老年都要补 vit D"
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q107154]] 老年 Fall 二级预防 — Bone density 优化（5-27 同 fall prevention 家族 — 不同重点）
+>   - [[mistakes/uworld-mistakes#^Q107149]] Inpatient Fall Prevention — Direct line of sight（5-26 — 不同设置 inpatient vs outpatient）
+>   - [[mistakes/uworld-mistakes#^Q107151]] / [[mistakes/uworld-mistakes#^Q107152]] Fall screening + Tailored Prevention（5-26 同 fall prevention 家族）
+>   - [[mistakes/uworld-mistakes#^Q107171]] Visual Acuity Testing in fall prevention（5-27 sensory 维度）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/骨科]] / [[完整笔记/专题笔记/USMLE/USMLE_老年Fall3层防护]]（如已建）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（geriatric care）/ [[完整笔记/Peixuan分科笔记/心内]]（post-MI ACE-I mortality benefit）/ [[完整笔记/Peixuan分科笔记/内分泌]]（T2DM + vit D）
+> - 🌱 TODO：累积 ≥ 5 道 fall prevention 题（已有 Q107149 + Q107151 + Q107152 + Q107154 + Q107171 + Q107153 = 6 道）→ 在 USMLE_老年Fall3层防护 加 **"Outpatient vs Inpatient 分层 + 5 大 risk factor + Get-Up-Go 测试解读 + Vit D 严格条件 + ACE-I taper 边界"完整体系**
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 Outpatient vs Inpatient fall prevention 分层
+> - [ ] 默写 5 大 fall risk factor + 各自暗号词
+> - [ ] 默写 Get-Up-Go test 4 档解读
+> - [ ] 默写 Vitamin D supplementation 严格条件（< 10 ng/mL 或 prior falls）
+> - [ ] 反射训练：见 "elderly + chronic disease + pushes with arms rising" → 0.3 秒锁 supervised strength training
+>
+> ---
+>
+> 学科:: 骨科
+> 主题:: 老年 Fall Prevention — Supervised Strength Training（chronic disease + gait/muscle imbalance 信号 → 即使 ambulatory 仍获益）/ "Get up & go" test 解读（pushes with arms = 阳性 → 高 fall risk）/ Outpatient vs Inpatient prevention 分层 / 5 大 fall risk factor（sensory + chronic disease + medications + gait + environmental）/ Vitamin D 严格条件（仅 < 10 ng/mL 或 prior falls）/ ACE-I post-MI 不 taper（除非 orthostasis）/ Education vs Exercise（passive vs active）边界
+> 状态:: 🟢 ✅ 做对（Get-Up-Go test + supervised strength training 反射建立）
+> 错因:: —
+
+> [!example]- [2026-05-27] Ethics / Quality — Error Reporting Systems (ERS) 有效性 = Structured 调查 + 响应机制 + 反馈（不是 submit RCA / 不是 individual judgment / 不是只识别最严重 hazards / 不是限定 nurse-MD）(Q106640) ✓ 做对
+> ^Q106640
+>
+> ## Stem 模式
+> Tertiary care hospital admin 实施 voluntary web-based error reporting system（front-line personnel 报 medical errors / safety incidents）→ system 最 effective improving safety 的策略？
+>
+> ## 核心概念
+> **ERS (Error Reporting Systems / Incident Reporting Systems)** = front-line 上报 observed errors（medication admin error 等）的工具。**Effectiveness 决定因素 = structured mechanisms 调查 + 响应 + 反馈**（不是单纯收集）。Reports 必须 trigger **systematic investigation + 反馈给 reporter + transparency** → 才能 sustain 上报文化 + 实际 improvement。
+>
+> Answer：**B. Developing mechanisms for further investigating and responding to each submitted report**
+>
+> ## 普适规则
+>
+> ### ERS 5 大 Effective Implementation Characteristics ⭐⭐⭐
+>
+> | # | 特征 | 详解 |
+> |---|---|---|
+> | **①** ⭐ 本题 | **Structured investigation + response + feedback** | 每个 report 触发系统 investigation + 反馈给 submitter + transparency → 增 confidence + sustain reporting culture |
+> | **②** | **Encourage ALL front-line personnel** | Not only nurses + MDs — 包括 pharmacists / techs / housekeeping / patient transporters etc. |
+> | **③** | **Clear criteria for what to report** | 减 underreporting near-miss（避免依赖 individual judgment）|
+> | **④** | **Eliminate fear of retribution** | Confidentiality + anonymity + focus on **systems** not individual mistakes |
+> | **⑤** | **Simplify reporting process** | 减 time + effort → 增 submission rate |
+>
+> ### ERS vs RCA 边界 ⭐⭐
+>
+> | 工具 | 谁做 | 时机 | 内容 |
+> |---|---|---|---|
+> | **ERS submission** | Front-line personnel | 事件后立刻 | 简短描述 incident — 触发后续 investigation |
+> | **RCA** | **External committee（QI committee）** | ERS 触发后或 sentinel event 后 | Multistep — collect data + causal flowchart + identify root causes + measure changes |
+>
+> ❌ 让 front-line submit RCA with each report = **错位** — RCA 应 external committee 做（front-line 没 access to all data + 增 burden + reduce reporting rate）
+>
+> ### ERS 反 pattern 4 类（CK 高频钓饵）
+>
+> | 反 pattern | 例 | 为什么错 |
+> |---|---|---|
+> | **① Add burden to reporters**（submit RCA）| A | RCA = external committee 工作；front-line submit RCA 增 burden → 减 reporting rate |
+> | **② Individual judgment for reporting**（无 clear criteria）| C | 导致 underreporting **near-miss events**（差点出事但被 catch）— near-miss 是 ERS 核心价值 |
+> | **③ Rely on ERS to identify most serious hazards** | D | ERS = qualitative + incomplete cross-section；适 identify **trends / patterns** 触发 systemic investigation，不是 picking 最 serious cases |
+> | **④ Limit to nurses + MDs only** | E | 应 encourage **ALL front-line personnel** — pharmacist / tech / housekeeping 等 |
+> | **⑤ No feedback to reporter**（缺 closure）| — | Reporter 看不到 outcome → 信心下降 → reporting rate 降 → ERS 失效 |
+>
+> ### Near-miss Events 重要性（USMLE 高频）⭐
+>
+> **Near-miss** = errors caught **before** causing patient harm（如 pharmacist intercept wrong med order before admin）。
+>
+> Near-miss reporting 是 ERS **核心价值**，但常被 underreport 因为：
+> - "No harm done" 心态 → 觉得不值得报
+> - 个人判断 → 不知道是不是 reportable
+>
+> → 必须 **clear criteria** define 什么算 reportable + **culture** 鼓励上报 near-miss
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Submit RCA along with each report | ❌ RCA = external committee 工作 + 增 reporter burden |
+> | **B** ⭐ | Mechanisms for further investigation + response | ✅ ERS effectiveness 核心 — sustain reporting culture + 实际 improvement |
+> | C | Providers use best judgment in deciding what to report | ❌ 缺 clear criteria → underreport near-miss |
+> | D | Rely on ERS to identify most serious hazards | ❌ ERS qualitative + incomplete — 适 trends 不是 picking |
+> | E | Train nurses + physicians as primary users | ❌ 应 ALL front-line personnel |
+>
+> ## 我为什么对 ✓
+> - 选了：**B** ✓
+> - 关键反射：见 "ERS effectiveness improving safety" → 0.5 秒锁 **structured investigation + response + feedback**（不是单纯收集 → sustain reporting culture）
+> - 排除 RCA burden（A）+ individual judgment（C）+ rely on ERS for picking（D）+ limit to nurses/MDs（E）
+>
+> ## Memory Hook
+> - **"ERS effectiveness = structured investigation + response + feedback（不是单纯收集）"** ⭐
+> - **"ERS = front-line submit 简短 + external committee 做 RCA"**（分工边界）⭐
+> - **"Near-miss 是 ERS 核心价值；需 clear criteria 防 underreport"** ⭐
+> - **"ERS 5 大 effective characteristics 缩写 IRCSF"**：**I**nvestigation + response / **R**eport all front-line / **C**lear criteria / **S**afety from retribution / **F**aster / simpler process
+> - 类比：餐厅意见箱 — 收集意见（submit）+ 餐厅每天读 + 写回复 + 改菜单（structured response + feedback）= 顾客继续提意见；不读不回复 = 没人再提
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点（轻微）：A submit RCA 看着像"严谨" → 学到 RCA 是 **external committee 工作**，不应让 front-line 做（burden + 缺 data access）
+> - 学到：**Near-miss reporting** 是 ERS 核心 — 比 actual error reporting 价值更高（早 catch + 系统改进）
+> - 学到：ERS 不是 "picking 最严重案例"工具，是 **trend identification**工具
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q22581]] RCA primary purpose（5-25 + 5-27 反复错 — RCA 是 retrospective + external committee 做）
+>   - [[mistakes/uworld-mistakes#^Q19553]] FMEA prospective（5-25 — 4 大 error analysis tools 时间方向）
+>   - [[mistakes/uworld-mistakes#^Q18751]] WPE → Interprofessional rounds + RCA（5-26 同 patient safety analysis）
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全_QI工具]] §13.12 Analysis Frameworks
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（quality + safety culture）
+> - 🌱 TODO：USMLE_患者安全_QI工具 §13.12 **加 "ERS vs RCA 边界 + ERS 5 大 effective characteristics 子节"**（IRCSF 缩写 + near-miss 重要性 + ERS 反 pattern 4 类）
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 ERS 5 大 effective characteristics（IRCSF 缩写）
+> - [ ] 默写 ERS vs RCA 边界（front-line submit vs external committee 做 RCA）
+> - [ ] 默写 ERS 反 pattern 4 类（RCA burden / individual judgment / picking serious / limit users）
+> - [ ] 默写 Near-miss 定义 + 重要性
+> - [ ] 反射训练：见 "ERS effectiveness" → 0.3 秒锁 structured investigation + response + feedback
+>
+> ---
+>
+> 学科:: Ethics
+> 主题:: Error Reporting Systems (ERS / Incident Reporting Systems) — Structured investigation + response + feedback 决定 effectiveness / ERS 5 大 effective characteristics（IRCSF：Investigation+response / Report all front-line / Clear criteria / Safety from retribution / Faster simpler process）/ ERS vs RCA 边界（ERS = front-line submit 简短 / RCA = external committee 做 multistep）/ Near-miss reporting 是 ERS 核心价值（需 clear criteria 防 underreport）/ ERS 反 pattern 4 类（RCA burden / individual judgment / picking serious / limit nurse-MD users）/ Encourage ALL front-line personnel（pharmacist+tech+housekeeping，不仅 nurse+MD）
+> 状态:: 🟢 ✅ 做对（ERS effectiveness 反射 + ERS vs RCA 边界建立）
+> 错因:: —
