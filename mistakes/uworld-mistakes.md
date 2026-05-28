@@ -28014,7 +28014,8 @@
 > ```
 >
 > ### HRS 病理生理链 ⭐⭐
->
+![[{3009AD02-E8A7-4E2E-8364-012ADE092F5D}.png]]
+
 > ```
 > Advanced liver disease + Portal HTN
 >           │
