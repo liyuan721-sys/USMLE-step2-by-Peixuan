@@ -10371,7 +10371,7 @@
 >
 > 学科:: Psych
 > 主题:: MDMA 中毒 + Serotonin Syndrome / 苯丙胺家族鉴别（MDMA vs 冰毒 vs Adderall）/ 4 大高热综合征 / 派对药 4 兄弟
-> 状态:: 🔴 反复错 + #难记（3 维度进度：① 病因 ✓ 5-27 + ② substance 鉴别 ❌ 5-21 未克服 + ③ 解药 ✓ 5-26 — 2/3 维度搞定）
+> 状态:: 🟡（**3/3 维度全克服**：① 病因 ✓ 5-27 + ② substance 鉴别 ✓ **5-28** Q23 bath salts vs MDMA + ③ 解药 ✓ 5-26；🔴 → 🟡 + **取消 #难记**；继续观察 1 次 random rotation 后完全 🟢）⭐⭐⭐
 > 错因:: pattern
 > 3 维度进度记录:: ① 病因（substance → SS pathway）— 5-27 浩斯宾 Q22 答对 ✓（rave + dancing + trismus + T 41 + dilated pupils → MDMA） ② Substance 鉴别（MDMA vs Bath salts vs Meth）— 5-21 浩斯宾把 bath salts 错答 MDMA ❌ 未克服 ③ 解药（SS vs NMS）— 5-26 浩斯宾 Q22 答对 ✓（cyproheptadine + BZD + cooling，排除 dantrolene NMS 钓饵）；维持 🔴 + 维持 #难记；下次浩斯宾轮值出 bath salts vs MDMA 直接对比题（测剩余 substance 鉴别维度）
 
@@ -17505,7 +17505,7 @@
 >
 > 学科:: 神经
 > 主题:: PD psychosis 第 5 步用药（减药失败后必须上低/零 D2 抗精神病药）/ Quetiapine = PD psychosis 临床首选（availability + safety 最佳）/ Pimavanserin = FDA 唯一专批但 cost/availability 限制 / Clozapine = 低 D2 但 agranulocytosis 需 ANC 监测 / Risperidone-Haloperidol 强 D2 PD 禁用 / Amantadine 多巴胺能药（增释放+抑 reuptake）= PD psychosis 题里永远错误选项 / Pramipexole DA 激动剂火上浇油 / SGA 不均质（risperidone D2 仍强 PD 不可用，只有 Quet/Cloz/Pim 三家通过 PD 例外）/ Selegiline MAO-B 抑制剂同样升 DA / Q16164 第 4 步 + Q12152 第 5 步串联 = 完整 PD psychosis 流程 / **Levodopa = PD foundation 不能减**（5-26 错点漂移已克服 5-27）
-> 状态:: 🟡（5-27 双重测试通过 — 5-26 错点漂移克服；保留 #考前必看）
+> 状态:: 🟡（5-27 双重测试通过 5-26 错点漂移克服 / **5-28 浩斯宾 Q24 间接测 antidopaminergic 原则也 ✓**；保留 #考前必看 巩固）
 > 错因:: pattern
 > 反复错记录:: 2026-05-22 [[mistakes/uworld-mistakes#^Q16164]] 第 4 步减药 + 2026-05-23 [[mistakes/uworld-mistakes#^Q12152]] 第 5 步用药 / 用户自述"应该之前做过但还是错" / 首次入库即 🔴 + 2026-05-24 浩斯宾 Q21 第 **3** 次反复错（第 5 步选 ECT 而非 quetiapine — ECT 是 last-resort 非标准）+ **2026-05-26 浩斯宾 Q20 错点漂移**：5-25 浩斯宾 Q21 答对 quetiapine ✓，但 5-26 又错（选 A discontinue carbidopa-levodopa）— **错点维度从 1 → 2**（ECT + discontinue levodopa 两端钓饵都踩）— 见 [[mistakes/uworld-mistakes#^Q20-2026-05-26]] 配对卡
 > 升档触发:: 同主题流程连续 3 次反复错（Q16164 + Q12152 + 5-24 Q21）→ 用户手动加「考前必看」+ 已触发衍生 [[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]]（汇 Q16164 第 4 步 + Q12152 第 5 步选 quetiapine + 5-24 Q21 ECT 钓饵 → 完整 5 步流程 + 三选一选药 + ECT 适应症边界）
@@ -21527,7 +21527,7 @@
 >
 > 学科:: Ethics
 > 主题:: Swiss Cheese Model（多层 overlapping barrier vs hard stop / automation / PDSA）
-> 状态:: 🔴 反复错 + #难记（5-25 首错选 hard stops / 5-27 浩斯宾 Q7 又错选 PDSA → 升级；见配对卡 [[mistakes/uworld-mistakes#^Q7-2026-05-27]]）
+> 状态:: 🔴 反复错 + #难记（5-25 首错 hard stops / 5-27 浩斯宾 Q7 又错 PDSA → 升级 / **5-28 浩斯宾 Q21 ✓ 反射首次建立** — 识破 "all at once + 5 不同性质 barriers" = SCM；维持 🔴 连对 1 次，再 1 次降 🟡 + 取消 #难记）⭐⭐⭐
 > 错因:: 知识
 > 反复错记录:: 2026-05-25 首次入库 🟡（选 B hard stops — 误"多层防御 = hard stop 复数"） / **2026-05-27 浩斯宾 Q7 又错**（选 D PDSA — 误"5 个措施 = 5 个 cycles"）= 反复错触发 🔴；4 大系统设计模型 stem 暗号词反射钩完全未建立（SCM simultaneously / Hard stop physical / Automation EHR / PDSA cycles）
 
@@ -21588,7 +21588,7 @@
 >
 > 学科:: Ethics
 > 主题:: RCA 目的（identify underlying causes of past events，不是 future vulnerabilities — 与 FMEA 时间方向相反）
-> 状态:: 🔴 反复错 + #考前必看 + #难记（5-24 Q19553 + 5-25 入库 + 5-27 浩斯宾 Q8 第 3 次同型错 — 字眼陷阱反射完全未建立）⚠️⚠️
+> 状态:: 🟡 + #考前必看（5-24 + 5-25 + 5-27 连续 3 次错 → 5-28 浩斯宾 Q20 第 4 次 ✓ 反射建立 — 识破 A 选项"future vulnerabilities" FMEA 语言钓饵选 C；🔴 → 🟡 + 取消 #难记 + 保留 #考前必看 巩固，连对 1 次再 1 完全 🟢）⭐⭐⭐
 > 错因:: pattern（字眼陷阱反射 — "future + potentially + vulnerabilities"三连）
 > 反复错记录:: 2026-05-24 [[mistakes/uworld-mistakes#^Q19553]] FMEA prospective 错（混 RCA/FMEA 时间方向） / 2026-05-25 入库 🔴（选 B "system vulnerabilities ... future" — 把 FMEA 句式当 RCA） / **2026-05-27 浩斯宾 Q8 又错**（选 A "future infusion-pump programming errors" — 同字眼陷阱再踩）= 第 3 次同型错；见配对卡 [[mistakes/uworld-mistakes#^Q8-2026-05-27]]
 > 升档触发:: 第 3 次同型错 + 字眼陷阱反射钩完全未建立 → 加 #考前必看 + 加 #难记；衍生 [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.12 必须加 "RCA-FMEA 字眼陷阱反射钩"子节
@@ -21676,7 +21676,7 @@
 >
 > 学科:: Ethics
 > 主题:: Home Health Care 适应症（medically stable + homebound + skilled needs，不是 admit / SNF）
-> 状态:: 🔴 反复错 + #考前必看（5-25 选 admit / 5-27 浩斯宾 Q9 选 SNF — 两次都不选 home health → 升级；见配对卡 [[mistakes/uworld-mistakes#^Q9-2026-05-27]]）⚠️
+> 状态:: 🔴 反复错 + #考前必看（5-25 选 admit / 5-27 选 SNF — 两次都不选 home health → 升级 / **5-28 浩斯宾 Q22 ✓ 反射首次建立** — 81 yo mild CI + 能 ADL + homebound + son not nearby → 选 C home health；维持 🔴 连对 1 次，再 1 次降 🟡）⭐⭐⭐
 > 错因:: 知识
 > 反复错记录:: 2026-05-25 首次入库 🟡（选 A admit hospital — 误"elderly + fall 必须住院 work-up"）/ **2026-05-27 浩斯宾 Q9 又错**（选 B SNF — 误"加强版 home health"）= 反复错触发 🔴；disposition 决策树 + medically stable 概念反射完全未建立
 > 升档触发:: 2 次反复错 + 都不选 home health（都升级 institution）→ 升 🔴 + 加 #考前必看；衍生 [[完整笔记/专题笔记/Ethics/Ethics_Discharge_Planning速查]] 必建（Hospital / SNF / Home health / Hospice / Assisted living / Outpatient 6 档对照）
@@ -24628,7 +24628,7 @@
 >
 > 学科:: Psych
 > 主题:: Tourette 4 阶梯（CBIT → α2 → antidopaminergic → DBS）+ α2 整类失败升 antidopaminergic（risperidone/aripiprazole/haloperidol/VMAT2）/ Stimulant 是 Tourette 毒药（加重 tics）/ Benztropine 不是 tics 药 / **Answer Letter Anchor 反 pattern**（USMLE 故意打乱字母位置测真懂；任何"上次某字母答对"反射都不可信）/ 与 Q2-2026-05-26 "D = any of above" 同型字母 anchor
-> 状态:: 🟡 + #难记（首次出现 letter anchor 概念，警示反 pattern）
+> 状态:: 🟢（**5-28 浩斯宾 Q24 ✓** — C 而非 D 是 antidopaminergic 时仍正确选 C，反 pattern 反射内化；🟡 → 🟢 + **取消 #难记**）⭐⭐⭐
 > 错因:: pattern
 
 > [!example]- [2026-05-27] Ethics / Patient Safety — Swiss Cheese Model（多 barrier 同时叠加 simultaneously）vs PDSA / Hard stop / Automation 4 大模型混（浩斯宾 Q7 — 升级 Q21477 🔴 反复错）⚠️
@@ -28874,3 +28874,151 @@
 > 主题:: 代谢性酸中毒的肾代偿 5 项↑（CA 活性↑介导 HCO3 重吸收↑ / urinary NH4+ 排↑ 主力 ×10 上调 / titratable acid H2PO4- 排↑ / urinary Cl- 排↑ 电中性平衡 / 集合管 α-intercalated cell H+ 泌出↑）/ 肾排 H+ 3 大通道（NH4+ 主力可极大上调 / Titratable acid H2PO4- 受 PO4 限制 / Free H+ 极小 pH 限度 4.5）/ CA 在肾两面（近端 HCO3 重吸收 + 集合管 H+ 泌出，酸中毒时全升）/ 反 pattern: 生理代偿 vs 药理学方向相反 — CA inhibitor (acetazolamide) 是 CA 活性↓ 致代谢性酸中毒（与生理代偿反向）/ HCO3 重吸收 必伴 urinary Cl- 排↑（β-intercalated cell Cl-/HCO3- 交换电中性）/ 元 pattern "酸中毒时肾所有清酸机制都↑"
 > 状态:: 🟡
 > 错因:: 知识
+
+> [!example]- [2026-05-28] Psych / Atypical MDD First-line ≠ MAOI — 阶梯精度（SSRI 一线，MAOI 是多步失败后）⚠️（5-28 浩斯宾 Q17 — 反射外推错 UWorld "Atypical = phenelzine" 模式）
+> ^Q17-2026-05-28
+>
+> ## Stem 模式
+> 22 yo 大学女生 + 3 mo MDD + hypersomnia + 增重 + leaden paralysis + rejection sensitivity + history of MDE → 问 first-line 药？钓 "Atypical = phenelzine" 反射。
+>
+> ## 核心概念
+> **Atypical MDD first-line = SSRI/SNRI**（modern 2024 指南）；MAOI（phenelzine）= **multi-step 失败后才用**（augment 后仍 refractory）。"Atypical 经典专属 MAOI"是 70-90 年代教学遗留，UWorld 2024 已修正。
+>
+> ## 普适规则 — Atypical MDD 6 阶梯
+>
+> ```
+> First-line:    SSRI (Sertraline / Fluoxetine) 或 SNRI (Venlafaxine)
+>                 ↓ 失败 / intolerance
+> Second-line:   Bupropion 或 Mirtazapine
+>                 ↓ partial response
+> Augment:       Lithium / T3 / Aripiprazole
+>                 ↓ multi-step 失败
+> MAOI:          Phenelzine ⭐ atypical 经典专属（modern = "难治性首选 MAOI"）
+>                 ↓ 极难治
+> ECT / TMS / Esketamine
+> ```
+>
+> ## 易混陷阱（普适）
+> - **"Atypical = phenelzine 一线"是 70-90 年代教学遗留** — modern Step 2 已修正为 SSRI 一线 + 安全性优于 MAOI
+> - MAOI 用于"多步失败" — stem 必须写明 "SSRI tried 6 weeks no response + Bupropion tried 4 weeks no response + augmentation tried 失败"
+> - 仅有"history of MDE" ≠ "SSRI 失败" — 必须 explicit 写明前药 trial 失败才选 MAOI
+> - **MAOI 必背禁忌**：饮食 tyramine 限制（chesese / aged meat / wine）+ serotonergic 药 14 day washout + sympathomimetic 禁用
+>
+> ## 我为什么错
+> - 选了：C Phenelzine (after SSRI trial fails)
+> - 错因：pattern（UWorld 反射外推错）+ 知识（阶梯精度）
+> - 核心陷阱：脑里"Atypical 五联 + leaden paralysis → 直接选 phenelzine" 反射太强，没有解析选项 C "(after SSRI trial fails)" 已经明示这不是 first-line；可能源于 5-26 Dashboard 记 "phenelzine 不是 lithium" 错记成 "Atypical = phenelzine 直接选"
+>
+> ## Memory Hook
+> **"Atypical 一线 — 现代 SSRI；MAOI 留给走投无路"** ⭐
+> 看到 atypical buzzword → 先想 SSRI/SNRI；看到 "SSRI failed + Bupropion failed + augmentation failed" → 才想 phenelzine。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：UWorld 模式反射"Atypical = phenelzine"被我外推到 first-line → 学到 modern Step 2 已修正为 SSRI；MAOI 仅 multi-step 失败后才用
+> - 卡点：5-26 Dashboard 记的"phenelzine 不是 lithium"我错记成"Atypical = phenelzine 直接选"，应理解为 "augment 阶段 lithium vs MAOI 比较"，不是 first-line vs MAOI 比较
+> - 元学习：UWorld 模式反射强化时必须区分"first-line vs 多步失败后"，不能把"经典专属药物"等同于"first-line"
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q15925]] Atypical MDD 5-21 首次入库（诊断维度 ❌ 选 substance-induced；治疗维度未测）— **本卡配对**：诊断维度已克服，治疗阶梯精度本次新加
+>   - [[mistakes/uworld-mistakes#^Q12152]] PD ψ Step 5（同样治疗阶梯精度题 — antipsychotic 子类选择）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Biostats_Master]]（"first-line vs 多步失败后" 是 USMLE 治疗题的高频陷阱设计原则）
+> - 🌱 TODO（待生成衍生增量）：[[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP]] 加 §x **Atypical MDD 6 阶梯**（钉死 first-line = SSRI/SNRI；MAOI = augment 失败后才用 + MAOI 禁忌 SOP）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 — stem 加"SSRI tried no response + Bupropion tried no response"看是否选 phenelzine 阶梯精度建立
+> - [ ] 默写 Atypical MDD 6 阶梯（SSRI → SNRI → Bupropion → Mirtazapine → Augment → MAOI → ECT）
+> - [ ] 默写 MAOI 3 禁忌（tyramine 食物 / serotonergic 药 / sympathomimetic）
+> - [ ] 反射钩修正："Atypical 一线 = SSRI 现代；MAOI = 走投无路"
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: Atypical MDD 治疗 6 阶梯（first-line = SSRI/SNRI；MAOI 多步失败后才用）/ "UWorld 经典专属药物 ≠ first-line" 元 pattern / 5-26 Dashboard "phenelzine 不是 lithium" 是 augment 阶段比较不是 first-line
+> 状态:: 🟡 + #难记（UWorld 模式反射外推陷阱）
+> 错因:: pattern
+
+> [!example]- [2026-05-28] Psych+神经 / DLB ψ vs PD ψ Step 5 钓饵 — ψ 早于 levodopa + cognitive fluctuation = DLB，rivastigmine 一线 + 抗精神病药相对禁忌 ⚠️⚠️（5-28 浩斯宾 Q19 — PD ψ Step 5 反射误覆盖）
+> ^Q19-2026-05-28
+>
+> ## Stem 模式
+> 67 yo M "worsening PD" + visual hallucinations of small animals/faces **started before levodopa** + cognition fluctuates + episodes of unresponsiveness lasting minutes → 钓 PD ψ Step 5 quetiapine 反射。
+>
+> ## 核心概念
+> **DLB (Dementia with Lewy Bodies) ψ** ≠ PD ψ：DLB 时 ψ + parkinsonism + cognitive fluctuation 同步发生（ψ **早于或 ≤1 yr** 与 cognitive decline 关联）；治疗一线 = **cholinesterase inhibitor (rivastigmine)**；抗精神病药即使 atypical 也 **30-50% severe sensitivity reaction**（NMS-like，相对禁忌）。
+>
+> ## 普适规则 — DLB vs PD ψ 决策树
+>
+> ```
+> 有 parkinsonism 的 ψ：
+> │
+> ├─ ψ 是 levodopa 起始后才出现 + 无 cognitive fluctuation
+> │      = PD ψ (drug-induced)
+> │      → Step 5 quetiapine / pimavanserin（不停 levodopa） ⭐
+> │
+> ├─ ψ 早于 levodopa + cognitive fluctuation + episodic unresponsiveness
+> │  + REM sleep behavior disorder + 严重视觉幻觉
+> │      = DLB (Dementia with Lewy Bodies)
+> │      → Rivastigmine / Donepezil 一线 ⭐
+> │      → 抗精神病药即使 quetiapine 30-50% 严重 sensitivity（NMS-like 死亡率↑）
+> │      → "1-year rule": parkinsonism ≤1 yr before cognitive decline = DLB
+> │                                >1 yr before = PD with dementia (PDD)
+> │
+> └─ AD/VaD/FTD 同时 parkinsonism（小概率）→ 各按主病治
+> ```
+>
+> ## 易混陷阱（普适）
+> - **PD ψ vs DLB 核心鉴别 = ψ 时序**：ψ before levodopa = DLB；ψ after levodopa = PD ψ
+> - **DLB 4 大支持特征**：① fluctuating cognition（核心）② recurrent visual hallucinations ③ REM sleep behavior disorder ④ spontaneous parkinsonism
+> - **"1-year rule"**：parkinsonism ≤1 yr before cognitive decline = DLB / >1 yr before = PDD（治疗类似 DLB）
+> - **抗精神病药即使 atypical（quetiapine / clozapine）也 30-50% severe sensitivity reaction** — rigidity + 高热 + AMS + autonomic instability = NMS-like 死亡率↑
+> - **Pimavanserin = 5HT2A inverse agonist 无 D2 拮抗** → DLB ψ 安全 fallback（若 cholinesterase 失败）
+> - **Rivastigmine 同时治 3 端**：ψ + cognitive fluctuation + parkinsonism 都有获益（FDA DLB 适应症）
+>
+> ## 我为什么错
+> - 选了：B Add quetiapine
+> - 错因：pattern（PD ψ Step 5 反射误覆盖 DLB）+ 知识（DLB 一线 rivastigmine 完全空白）
+> - 核心陷阱：5-27/5-28 刚反复训练 PD ψ Step 5 → quetiapine 反射钩太强，stem 关键词"started before levodopa" + "cognition fluctuates" + "episodes of unresponsiveness" 完全被忽略；DLB 知识缺口让我无法识别 stem 类型
+>
+> ## Memory Hook
+> **"ψ 早于 levodopa = DLB，不能上抗精神病药，rivastigmine 一线"** ⭐
+> 关键词反射钩：
+> - "**ψ before levodopa**" → DLB 红旗 ⚠️
+> - "**fluctuating cognition**" → DLB 核心
+> - "**brief episodes of unresponsiveness**" → DLB 极端 cognitive fluctuation
+> - "**REM sleep behavior disorder**" → DLB 支持
+> - "**severe antipsychotic sensitivity**" → DLB 警告
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：PD ψ Step 5 反射钩太强，stem 关键词被忽略 → 学到反射钩建立后必须配套"反 pattern 警示词"（"ψ before levodopa = DLB stop quetiapine"）
+> - 卡点：DLB 一线 rivastigmine 完全空白 → 学到 DLB FDA 适应症 = cholinesterase inhibitor，同时治 ψ + cognitive + parkinsonism
+> - 卡点：DLB vs PDD vs PD ψ 时序鉴别不清 → 学到"1-year rule"（parkinsonism ≤1 yr before cog decline = DLB / >1 yr = PDD）
+> - 元学习：反射钩建立后必须配反 pattern 警示词，避免反射误覆盖；特别是治疗类反射（如"PD ψ → quetiapine"）容易被相似 stem（DLB ψ）钓
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q12152]] PD ψ Step 5 — **本卡反 pattern 配对**（PD ψ → quetiapine vs DLB ψ → rivastigmine + 抗精神病药相对禁忌）
+>   - [[mistakes/uworld-mistakes#^Q20-2026-05-26]] PD ψ 错点漂移（5-26）— 同治疗阶梯精度
+>   - [[mistakes/uworld-mistakes#^Q3-2026-05-27]] Tourette Answer Letter Anchoring（5-27）— 同"反射钩误覆盖"元 pattern
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（DLB 是 neurology dementia 谱系一员，与 AD / VaD / FTD 鉴别）
+> - 🌱 TODO（待生成衍生增量）：[[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]] 加 §六 **DLB vs PD ψ 决策树**（1-year rule + 抗精神病药相对禁忌警告 + rivastigmine 一线 + pimavanserin fallback）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 — stem 微调 ψ 时序看反射建立否
+> - [ ] 默写 DLB vs PD ψ 决策树 + 1-year rule
+> - [ ] 默写 DLB 4 大支持特征（fluctuating cognition / VH / REM behavior / spontaneous parkinsonism）
+> - [ ] 默写 DLB 治疗阶梯（rivastigmine 一线 → 失败上 pimavanserin → 永不 quetiapine / risperidone / haloperidol）
+> - [ ] 反射钩修正："ψ before levodopa + cognitive fluctuation = DLB stop quetiapine"
+>
+> ---
+>
+> 学科:: Psych
+> 主题:: DLB ψ vs PD ψ 钓饵（ψ 早于 levodopa + cognitive fluctuation = DLB）/ DLB 一线 rivastigmine + 抗精神病药相对禁忌（30-50% severe sensitivity reaction NMS-like）/ "1-year rule" parkinsonism ≤1 yr before cog decline = DLB vs >1 yr = PDD / DLB 4 大支持特征 / Pimavanserin = 安全 fallback（无 D2 拮抗）/ 反射钩误覆盖元 pattern — 建立反射钩后必配反 pattern 警示词
+> 状态:: 🔴 + #考前必看 + #难记（PD ψ Step 5 反射误覆盖 + DLB 知识缺口双因）⚠️⚠️
+> 错因:: pattern
