@@ -702,6 +702,254 @@ Stem 关键词 → 0.3 秒锁
   - **"Confirmation = symptoms 强行 fit presumed dx"**
 - **类比 — 开车防事故**：司机理解自己 blind spots（metacognition）> 车上有 blind-spot alert（CDSS）；alert 是 adjunct，司机不懂自己习惯 alert 也救不了
 
+### 13.5.y.7 Metacognition 临床具体动作 — 不再抽象 ⭐⭐⭐（v2.2 增量 — 用户看不懂 metacognition 实战警示）
+
+> [!warning] 用户卡点：metacognition 听起来抽象 — 实战中到底**做什么动作**？
+> 上层 §13.5.y.1-6 给了框架；本节用**具体动作 + 临床脚本**让 metacognition 落地。
+
+##### 13.5.y.7.1 Metacognition 拆解
+
+**Meta** = "关于自己" / **Cognition** = "认知 / 思考"
+→ **Metacognition** = **"思考自己的思考"** = 站在自己大脑外面看自己怎么想
+
+> [!success] 本质
+> = **"我现在的思考是不是被某个 bias 影响了？"** 这种**自我审视的能力**。
+
+##### 13.5.y.7.2 5 大临床具体动作（不再抽象）⭐
+
+| Metacognition 动作 | 具体做什么 | 防什么 bias |
+|---|---|---|
+| **① Diagnostic Time-out** ⭐ | Commit dx 前**停 30 秒**问自己："还有什么可能？我是不是被前医生的 chart 带歪了？" | Framing + Anchoring |
+| **② 主动 generate alternate dx** | "如果不是 X，可能是什么？" — **强制列 5 个 differential** | Anchoring + Premature closure |
+| **③ Reflect on first impression** | "我第一眼想到 X — 这个第一印象是不是 anchoring？raw fact 是什么？" | Anchoring |
+| **④ M&M conference** | 月度反思过去 cases — "上个月那个漏诊 PE 的 case，我当时被什么 bias 影响了？" | All（系统性反思）|
+| **⑤ 主动找 disconfirming evidence** | "什么证据会让我**放弃** X 假设？" — 防 confirmation bias | Confirmation |
+
+##### 13.5.y.7.3 Q19785 实战 metacognition 脚本 ⭐
+
+```
+医生形成 27 岁女 chronic abdominal symptoms 的 initial differential:
+    │
+    ▼
+非 metacognition（System 1 反射）：
+    "看着像 IBS / functional / 心因" → 锁定 → 漏其他
+    
+    ↓
+    
+Metacognition（System 2 + 自我审视）⭐：
+    Step 1: "等等，我现在第一反应是什么？" → IBS
+    Step 2: "我为什么这么想？" → 27 岁女 + chronic + 多 negative workup
+    Step 3: "这是哪种 bias？" → Availability（常见诊断）+ Confirmation（跟前医生）
+    Step 4: "如果不是 IBS，还有什么？"
+            → Endometriosis（27F + 周期性？需问）
+            → Celiac disease（小肠 — endoscopy 没看到全部）
+            → SIBO / 微生态紊乱
+            → Hypothyroidism（GI dysmotility）
+            → Adrenal insufficiency
+            → Eosinophilic GI disease
+            → Functional GI disorder
+    Step 5: 主动 order 针对性 workup（不是重复 negative test）
+```
+
+##### 13.5.y.7.4 自查 — 你懂 metacognition 了吗？
+
+> [!question]- 测试：以下哪个最像 metacognition？
+> A. 医生使用 EHR drug-drug interaction alert
+> B. 医生在 commit 诊断前停 30 秒问自己："我是不是被前医生的 chart 带歪了？还有什么其他可能？"
+> C. 医生读了一篇关于 anchoring bias 的文献
+> D. 医生用 best judgment 凭经验做出快速诊断
+
+> [!success]- 答案
+> **B** — Metacognition = 站在大脑外面审视自己思考
+> - A = CDSS（Layer ④ 工具层）
+> - C = Education on biases（Layer ⑤ 被动）
+> - D = Intuitive thinking（**反 metacognition** — System 1 是 bias 源）
+
+---
+
+### 13.5.y.8 System 1 vs System 2 完整框架（Kahneman 双系统）⭐⭐⭐（v2.2 增量）
+
+> [!info] 这是 metacognition 的**底层认知科学基础** — 必须理解才能真正用上 metacognition
+
+##### 13.5.y.8.1 双系统对照
+
+| 系统 | 特征 | 临床例 | 作用 |
+|---|---|---|---|
+| **System 1**（直觉 / 快思考）| 自动 + 快 + 无意识 + 省能 | "胸痛男 50+" → 0.1 秒想 ACS | **bias 源** ⚠️ |
+| **System 2**（分析 / 慢思考）| 主动 + 慢 + 有意识 + 耗能 | 同 stem → 列 5 个 differential + 评估 likelihood | **防 bias 工具** ⭐ |
+
+##### 13.5.y.8.2 为什么大脑默认 System 1？
+
+- 进化设计：快速决策（System 1）= 在野外救命；慢思考（System 2）= 耗能多
+- 临床现实：每天 30 个病人 — 都用 System 2 会精疲力竭
+- 但 complex / chronic / atypical patient = **必须**切到 System 2
+
+##### 13.5.y.8.3 怎么触发 System 2？
+
+→ 答案 = **Metacognition** ⭐
+
+```
+Metacognition 触发链：
+    
+    "我现在的思考是不是 reflexive (System 1)？"
+            │
+            ├─ 是 reflexive + complex patient → 强制切到 System 2
+            │
+            └─ 是 reflexive + simple straightforward case → System 1 可继续
+```
+
+##### 13.5.y.8.4 触发 System 2 的 stem 信号 ⭐
+
+| Stem 信号 | 是否需 System 2？ |
+|---|---|
+| "Multiple physicians + negative workup" | ✓ 是（complex chronic）|
+| "Atypical presentation" | ✓ 是 |
+| "Symptoms 7 years duration" | ✓ 是 |
+| "Multiple medications + diet changes 无效" | ✓ 是 |
+| "Initial differential formation" | ✓ 是（form complete differential 必须 System 2）|
+| "Classic ACS stem + 50M + crushing chest pain" | ✗ System 1 可（但仍要 quick metacognition check）|
+
+##### 13.5.y.8.5 开车类比（彻底理解）
+
+```
+开车 — System 1：
+    自动换挡 / 看红绿灯刹车 / 看路边人就避让
+    → 大脑无意识完成，省力
+
+开车遇到陌生路 — System 2：
+    主动看路标 + 查 GPS + 想"接下来左转还是右转"
+    → 大脑有意识思考，耗能
+
+临床诊断同理：
+    熟悉 stem → System 1 反射 → bias 风险
+    Complex chronic → 必须切 System 2 → 列完整 differential
+```
+
+---
+
+### 13.5.y.9 CDSS 4 大 Fatal Limitations + 何时是答案 ⭐⭐⭐⭐（v2.2 增量 — Q19785 vs Q106049 边界关键）
+
+> [!warning] CDSS 不是万能 — 4 大限制让它**不能**作为 reasoning 层 primary
+
+##### 13.5.y.9.1 CDSS 本质
+
+> CDSS = **External Prompt 工具**：基于 patient data 触发 alerts / reminders。**不是 reasoning 工具** — 不会"替你想 differential"。
+
+##### 13.5.y.9.2 CDSS 4 大 Fatal Limitations ⭐
+
+| Limitation | 详解 | Q19785 适用？ |
+|---|---|---|
+| **① 不直接 address reasoning** | CDSS 是 **rule-based prompt**（如 "drug X + drug Y → alert"）— 不参与"是什么病"的思考 | ✓ 适用 — 本题问"减 diagnostic error"，CDSS 不能解 |
+| **② 依赖已知规则** | 只能 alert 程序员**事先写好**的规则；罕见组合 / 复杂 chronic 不在规则里 | ✓ 适用 — Q19785 是 complex chronic，没规则可触发 |
+| **③ 若 clinician 不懂 biases → 救不了** | CDSS pop-up 提醒 "考虑 PE" — 但 clinician 已锁定 GERD 心态 → ignore alert（confirmation bias 仍生效）| ✓ 适用 — 不懂 metacognition 的医生看到 alert 也 dismiss |
+| **④ Alert Fatigue** | CDSS 过度 alert → clinician 学会忽略所有 alert | ✓ 适用 — busy clinic 尤其严重 |
+
+##### 13.5.y.9.3 CDSS 是答案的场景 ⭐（vs 不是答案的场景）
+
+> [!success] CDSS 是 **adjunct**，特定场景才是 primary
+
+| **CDSS 是答案** | **CDSS 不是答案** |
+|---|---|
+| **Drug-drug interaction warning**（已知规则可写进 CDSS）| Initial differential formation（reasoning 层 — Q19785 ⚠️）|
+| **Sound-alike drug error 防护** | Defensive medicine fear-driven overuse（fear 不是 CDSS 解决 — Q106765）|
+| **Screening reminder**（mammogram / colonoscopy 漏做）| Team collaboration gap（dynamic 不是 prompt 解决 — Q106664）|
+| **Dose limit alerts**（renal / pediatric weight-based）| Complex chronic patient atypical presentation |
+| **Q106049**（busy ED + cognitive overload + 减负担 ✓）| Q19785（complex chronic + reasoning task ❌）|
+
+##### 13.5.y.9.4 Q19785 vs Q106049 关键边界 ⭐⭐⭐（CDSS 在两题答案相反）
+
+| 题 | Stem | 答案 | 原因 |
+|---|---|---|---|
+| **Q19785**（本题）| Initial differential formation for complex chronic patient | **D Metacognition** ✓ | **Reasoning 层** — CDSS 不解 |
+| **Q106049**（5-27 ✓）| Busy ED + cognitive overload + already-known root cause + 减负担 | **CDSS** ✓ | **工具层** — 减 cognitive load 让 reasoning 有空间 |
+
+###### 关键边界规则 ⭐
+
+```
+判断 CDSS 是否答案：
+    │
+    ▼
+Stem 问的是什么任务？
+    │
+    ├─ Reasoning 任务（form differential / 防 bias）
+    │     → CDSS 不解（reasoning 在大脑里）
+    │     → 答案：Metacognition
+    │
+    ├─ Cognitive load reduction（busy + overload + 已知 root cause）
+    │     → CDSS 减外部负担让 reasoning 有空间
+    │     → 答案：CDSS
+    │
+    ├─ Known rule prompt（drug interaction / dose / screening）
+    │     → CDSS 是设计目的
+    │     → 答案：CDSS
+    │
+    └─ Fear / team dynamic / shared goal mismatch
+          → CDSS 与这些无关
+          → 答案：相应的 self-awareness / guideline / debriefing
+```
+
+##### 13.5.y.9.5 一句话锁 ⭐
+
+- **"形成 differential = reasoning 任务 → metacognition"**（Q19785 — CDSS 不解）⭐
+- **"减 cognitive overload = 工具任务 → CDSS"**（Q106049 — CDSS 是答）⭐
+- **"CDSS 适已知规则 prompt；不适 reasoning + dynamic + fear-driven"**
+
+---
+
+### 13.5.y.10 防御金字塔 5 层 — 排序逻辑详解 ⭐⭐⭐（v2.2 增量）
+
+> [!info] 用户卡点：为什么 "metacognition" 排在 "CDSS" 前面？逻辑是什么？
+
+##### 13.5.y.10.1 排序原则
+
+> [!success] **强度按"是否直接 address clinical reasoning"递减**
+
+```
+顶层 = 直接改 clinician 怎么想（reasoning 层）⭐ primary
+    │
+    ▼
+底层 = 提供外部工具 / 知识（不直接改 reasoning）= adjunct
+```
+
+##### 13.5.y.10.2 5 层逐个讲透 ⭐
+
+| Layer | 名称 | 作用层 | 效力 | 为什么这位置 |
+|---|---|---|---|---|
+| ① ⭐⭐⭐⭐⭐ | **Metacognition** | 直接改 clinician 思考过程本身 | 最强 | bias 在 clinician 大脑里 — 唯一彻底解决方法是让 clinician 自己识别 |
+| ② ⭐⭐⭐⭐ | **Analytical (System 2) thinking** | 让 clinician 从 System 1 切到 System 2 | 强 | 但需要 metacognition 触发 — 你得先知道现在该切 System 2 |
+| ③ ⭐⭐⭐ | **Independent reconsideration** | 避免被前医生 chart 带歪 | 中 | 适用于 chart review 场景（防 anchoring + framing）|
+| ④ ⭐⭐ | **CDSS** | 外部工具 — 不直接改 reasoning | 弱 | 若 clinician 不懂 biases → CDSS 不能挽救（详见 §13.5.y.9）|
+| ⑤ ⭐ | **Education on specific biases** | 教 clinician 知道有哪些 biases | 最弱 | 被动学习 — 知道 ≠ 用上（你知道有 anchoring bias，不等于做题时不犯）|
+
+##### 13.5.y.10.3 类比 — 开车防事故防御金字塔（同源）⭐
+
+```
+开车防事故 防御金字塔（与诊断 error 防御同源）：
+
+① 司机理解自己 blind spots（metacognition）⭐ primary
+    "我每次右转习惯不看后视镜 — 我得提醒自己"
+    
+② 主动慢开 + 多观察（System 2 analytical thinking）
+    熟悉路段也强制减速 + check 左右
+    
+③ 不信前一个司机的判断（independent reconsideration）
+    前车急刹车我也急刹 — 错（anchoring）；自己判断为什么刹
+    
+④ 车上有 blind-spot alert（CDSS — 外部工具）⭐ adjunct
+    雷达 beep — 但司机不懂自己习惯 / 关 alert / fatigue → 不能挽救
+    
+⑤ 上驾校学过"有 blind spot 这回事"（education）
+    知道≠用上
+```
+
+→ **司机自身意识 > 外部 alert** = clinician metacognition > CDSS
+
+##### 13.5.y.10.4 一句话锁 ⭐⭐⭐
+
+- **"防御金字塔排序 = 是否直接改 reasoning（顶）↘ 外部工具（底）"** ⭐
+- **"Metacognition 是 primary 因为 bias 在大脑里"** ⭐
+- **"CDSS 是 adjunct 因为它在大脑外"** ⭐
+
 ---
 
 ## 🔗 关联
