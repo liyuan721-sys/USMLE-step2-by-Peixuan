@@ -350,6 +350,188 @@ Error 发生 → 判断 behavior category：
 - **"Conscious disregard + no rationale → Reckless → Sanctioning"**
 - **"Coaching ≠ no action；Coaching ≠ Retraining；Coaching = individual accountability 低强度形式"**
 
+#### 5.1.2 两两区分 drill-down + 反例对照 ⭐⭐⭐⭐（v2.2 增量 — 用户看不懂边界 5-27 实战警示）
+
+> [!danger] 用户看 §5.1.1 仍卡在"3 类边界到底怎么分"
+> 上层 §5.1.1 给了 3 类对照表 + 决策树 + 暗号词配对；但实战中**两两边界**仍易混。本节做 3 对 pairwise drill-down + 反例对照，强化边界反射。
+
+##### 5.1.2.1 Pair 1 — Human Error vs At-risk Behavior（**最难** — Q126013 错点）⭐
+
+**关键问题**：**"她是 slip 还是 skip？"**
+
+| 维度 | **Human Error (slip)** | **At-risk Behavior (skip)** ⭐ |
+|---|---|---|
+| **她当时在做什么？** | 在**按步骤做**，但某一步出错 | **跳过一步**，知道但选择不做 |
+| **她事后会怎么描述？** | "我也不知道怎么回事，就**突然按错**了" | "**当时太忙了，那一步通常我会跳过**" |
+| **再训练有用吗？** | ❌ 没用（slip 是 human 本能 — 训练 10 次仍会 slip）| ✅ 有用一部分（让她 appreciate risk + behavior change）|
+| **是否 conscious？** | ❌ Unintentional / 无意识 | ✅ Conscious choice |
+| **代表 case** | Vincristine 罐子像 Vinblastine（poor labeling）拿错 | Q126013 nurse skips 2nd ID check when busy |
+
+###### 反例对照（同一 outcome 不同 category）
+
+| Stem 句式 | Category |
+|---|---|
+| "我**其实记得**做了 2nd ID check，但**意识不清楚**点错了 patient" | **Human Error**（slip — 在按步骤做但 slip）|
+| "I **skip** second ID check **when busy**"（Q126013 实际句式）| **At-risk**（conscious skip）⭐ |
+| "Verified med against order **but did not perform** second ID check" + 自述 skips when busy | **At-risk** — 不是 slip 是 conscious shortcut |
+
+###### 反射钩
+
+> 见 nurse 自述 "**通常**会 skip / **when busy** 会 skip / **routinely** 简化某步骤" → **0.3 秒锁 At-risk**（不是 Human Error）
+
+---
+
+##### 5.1.2.2 Pair 2 — At-risk vs Reckless Behavior（**次难**）⭐
+
+**关键问题**：**"她有没有 legitimate rationale？"**
+
+| 维度 | **At-risk** ⭐ | **Reckless** |
+|---|---|---|
+| **System pressure?** | ✅ 有（赶 / 累 / 资源不够 / staffing shortage）| ❌ 没有 |
+| **她是否觉得"应该没事吧"？** | ✅ 是（**不完全 appreciate risk**）| ❌ 明知 risk + 故意冒险 |
+| **Prior disciplinary?** | 通常**无** | 通常**有**（reckless 是 **repeated pattern**）|
+| **Behavior 强度** | Drift from safe practice（慢慢偏离）| Outright violation（公然违规）|
+| **自述** | "I skip when busy" / "I take shortcuts to save time" | "I don't believe in this protocol" / "Alerts are annoying" |
+
+###### Q126013 判定关键（4 信号都指 At-risk 不升 Reckless）
+
+| 信号 | 排除 Reckless 的逻辑 |
+|---|---|
+| ✓ Staffing shortage + 9 hr no break + 2 bays | **System pressure 满满** → 不是 reckless（reckless 无 rationale）|
+| ✓ No prior disciplinary history | **不是 repeated pattern** → 不是 reckless |
+| ✓ 她说"too busy"，不是"我就是不想做" | **不是故意冒险** |
+| ✓ Similar surnames + adjacent beds | **System design 差**也分担责任 |
+
+→ 停在 **At-risk**，**不升 Reckless**
+
+###### 反例对照（同一 nurse 同一 outcome 不同 category）
+
+| Stem 句式 | Category |
+|---|---|
+| Q126013 原句式（staffing shortage + no prior history） | **At-risk** |
+| "Nurse 之前已 **3 次** skip ID check 被警告 + 同事提醒 + **今天 staffing 正常** 但她仍 skip + 自述 'I don't think it's necessary'" | **Reckless** |
+| "Nurse 第一次 skip + staffing 正常 + 但坚持 'I trust my visual recognition more than the protocol'" | **介于** — 倾向 Reckless（无 legitimate rationale）|
+
+###### 反射钩
+
+> 见 "**no prior disciplinary**" + "**system pressure 存在**"（staffing / fatigue / shortage）→ **0.3 秒判断 At-risk，不升 Reckless**
+
+---
+
+##### 5.1.2.3 Pair 3 — Coaching vs Retraining vs Sanctioning（3 个 response 边界）⭐
+
+这 3 个 response **都涉及个人责任**，但**强度和性质不同**：
+
+| Response | 何时用 | 做什么 | 用错的反 pattern |
+|---|---|---|---|
+| **Consoling** | Human Error | **情绪 reassurance** + 修 system design | 用在 conscious skip = no action 反 pattern |
+| **Coaching** ⭐ | At-risk Behavior | **讨论 risk + behavior change**（不是单纯训练知识）+ **同时**修 system conditions | 用在 reckless = 过软；用在 human error = 过严 |
+| **Retraining** | **Knowledge gap**（如新员工 / 不知道协议） | 教会**知识 / 技能** | 用在 At-risk（明知协议）= 错位 — Q126013 D 钓饵 ⚠️ |
+| **Sanctioning** | Reckless Behavior | **Discipline**（warning → suspension → license review）| 用在 At-risk（有 system pressure）= 过严 — Q126013 E 钓饵 |
+
+###### 为什么 Q126013 D (Retraining) 错 ⚠️
+
+- Nurse **已知**协议（自述 "skip when busy" = 她**知道**该做 2nd ID check）
+- Retraining 是 "**不知道**怎么做" 时的 response → **不适用于"知道但 skip"**
+- 这是经典 USMLE 钓饵 — **"反复训练"**听起来"严谨"但**错位**
+
+###### 为什么 Q126013 E (Sanctioning) 错 ⚠️
+
+- Reckless 要求 **no legitimate rationale + 通常 repeated**
+- Q126013 有 staffing shortage + 9 hr no break + no prior disciplinary → **不达 reckless 标准**
+- Sanctioning at-risk → 反向 trigger fear / 藏错 → 回到 Blame Culture
+
+###### Coaching 不是"Soft Consoling" — 关键区分 ⭐
+
+| 维度 | Consoling | Coaching |
+|---|---|---|
+| **重点** | 情绪 reassurance（"你没事吧？"） | **Behavior change conversation**（"你为什么 skip？let's discuss risk + next time strategy"）|
+| **有问责性？** | ❌ 无（纯安慰）| ✅ 有（individual accountability 低强度形式）|
+| **要求改变？** | ❌ 不要求（system 改即可）| ✅ 要求 nurse 改变 behavior + 同时改 system |
+| **何时用** | Human Error（slip 不可控）| At-risk（drift 可纠正）|
+
+> [!warning] Coaching ≠ no action
+> Coaching **是个人问责的开始** — 不是"安慰一下就过"。Just Culture 仍要求 individual accountability，只是 At-risk 的问责形式是 **conversation + behavior change**，不是 discipline。
+
+###### 反射钩
+
+> - 见 "nurse 知道协议但 skip" → **Coaching**（不是 Retraining）
+> - 见 "system pressure + no prior history" → **Coaching**（不是 Sanctioning）
+> - 见 "inadvertent slip" → **Consoling**（不是 Coaching — Coaching 暗含 conscious behavior 要改）
+> - 见 "no rationale + repeated violations" → **Sanctioning**（不是 Coaching — coaching 不够）
+
+---
+
+##### 5.1.2.4 决策树完整走一遍 — Q126013 实战 ⭐⭐⭐
+
+```
+Q126013: Nurse gives wrong medication
+    │
+    ▼
+Step 1: 她是 unintentional slip 吗？
+    │
+    问：她事后是说"我不知道怎么回事突然 slip"还是"我太忙时通常 skip"？
+    │
+    答：她说 "I skip second ID check when busy"
+    │
+    → 这是 CONSCIOUS SKIP，不是 slip
+    │
+    → 不是 Human Error
+    │   不是 Consoling（C 钓饵）❌
+    │
+    ▼
+Step 2: 她有 legitimate rationale 吗？
+    │
+    问：有 system pressure（赶 / 累 / 资源不够）吗？她是否之前已多次违规？
+    │
+    答：
+      ✓ Covering 2 bays（staffing shortage 资源不够）
+      ✓ 9 hours no break（累）
+      ✓ Similar surnames + adjacent beds（system design 差）
+      ✓ No prior disciplinary history（不是 repeated）
+    │
+    → 有 system pressure + 不是 repeated 违规
+    │
+    → 不是 Reckless（如果是 reckless 应该 no rationale + repeated）
+    │   不是 Sanctioning（E 钓饵）❌
+    │
+    ▼
+Step 3: 她知道协议吗？
+    │
+    答：知道（自述 "skip when busy" = 知道该做 2nd ID check 但选择跳过）
+    │
+    → 不是 knowledge gap
+    │   不是 Retraining（D 钓饵）❌
+    │
+    ▼
+Step 4: 最终判定 — At-risk Behavior ⭐
+    │
+    → Response: **Coaching**（A 正解）✅
+    │
+    → 同时改 system conditions：
+        ├─ 改善 staffing（不再让她 cover 2 bays）
+        ├─ 强制 break（9 hr no break 不允许）
+        ├─ EHR 弹窗 "Same surname alert"
+        └─ Bed 编号系统让相邻床不同色
+```
+
+##### 5.1.2.5 5 选项陷阱总结（Q126013 完整 mapping）
+
+| 选项 | 用在哪个 category 才对？ | Q126013 钓在哪？ |
+|---|---|---|
+| **A. Coaching, at-risk driven by system pressures** ⭐ | At-risk Behavior | ✅ **正解** |
+| B. No action, system alone responsible | **没有任何 category 应该 no action** — 任何 conscious action 都需个人责任介入 | No-blame culture 反 pattern |
+| **C（我选的）. Reassuring, human error in unsafe system** | Human Error（slip）| ❌ 把 conscious skip 误当 slip — 没识别 "skips when busy" 是 conscious choice |
+| D. Retraining, knowledge deficit | Knowledge gap（新员工 / 罕见病 / 不知道协议）| ❌ Nurse **已知**协议（自述）— 不是 knowledge deficit |
+| E. Sanctioning, protocol violated regardless of context | Reckless Behavior（no rationale + repeated）| ❌ 有 system pressure + no prior history → 不达 reckless |
+
+##### 5.1.2.6 最终 3 句话锁死 ⭐⭐⭐
+
+> [!success] 最高优先一句话锁
+> - **"Slip = Human Error → Consoling"** — 按步骤但 slip
+> - **"Skip with reason = At-risk → Coaching + 同时改 system"** — 明知 skip + 有 system 压力 ⭐
+> - **"Skip without reason = Reckless → Sanctioning"** — 明知 skip + 无理由 + 通常反复
+
 ### 5.2 Non-punitive Voluntary Reporting
 
 - 上报系统**匿名 + 不惩罚** → 才有人报
