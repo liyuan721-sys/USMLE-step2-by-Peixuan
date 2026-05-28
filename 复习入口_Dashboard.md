@@ -24,46 +24,58 @@ status: 常驻
 
 ---
 
-## 🎯 当前焦点 — 2026-05-26 浩斯宾 21/25（B+ 84%）+ pattern 反射类错占主导 ⚠️
+## 🎯 当前焦点 — 2026-05-28 浩斯宾 23/25（**A 级 92%**）+ **5-27 升级题 5/5 全部反射建立创历史新高** ⭐⭐⭐⭐⭐
 
-> [!danger] 5-26 错点 — 4 题全是 pattern 反射类（80% pattern / 20% 知识）
-> **下一阶段重点 = 反射钩训练（默写 + 反复反射）不是看更多书**
+> [!success] 5-28 突破点 — 历史最佳单日反射建立数（5/5）
+> - **Q22581 RCA-FMEA 第 4 次终于答对** — 5-24/25/27 连续 3 次错的"魔咒"今天破除 → 🔴 → 🟡 + 保留 #考前必看
+> - **Q21477 Swiss Cheese + Q20431 Home Health 首次反射** — 维持 🔴 一次连对（再 1 次降 🟡）
+> - **Q11853 MDMA SS 三维度全克服** — 🔴 → 🟡 + 取消 #难记
+> - **Q3-0527 Tourette Anchor by Letter 反 pattern 内化** — 🟡 → 🟢 + 取消 #难记
+> - **D+2 5-26 主批次 15/15 完美** — Ethics QI 大整理深度内化 ✓
 
-### 强化焦点（反复错 / 错点漂移 — 最高优先级）
+### 强化焦点（反复错 / 新升 🔴 — 最高优先级）⚠️
 
 | 优先级 | 薄弱点 | 错点本质 | 复习入口 |
 |---|---|---|---|
-| ⭐⭐⭐🔴 | **PD ψ Step 5 + Levodopa 不能减**（5-26 错点漂移）| 5-25 答 quetiapine ✓ → 5-26 答 stop levodopa ❌（**错点维度从 1 → 2**）| [[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]] §一.x（v1.1 新增 levodopa foundation 子节）/ [[mistakes/uworld-mistakes#^Q20-2026-05-26]] / [[mistakes/uworld-mistakes#^Q12152]] |
-| ⭐⭐⭐🔴 | **DPN "any of the above" 选项策略**（5-24 + 5-26 同题再错升 🔴）| pattern 反射选最熟悉单选 — USMLE 选项策略没成反射 | [[mistakes/uworld-mistakes#^Q2-2026-05-26]] / [[mistakes/uworld-mistakes#^Q19-2026-05-24]] / **TODO**：[[完整笔记/专题笔记/USMLE/USMLE_答案选项策略]] 待建 |
-| ⭐⭐🟡 | **SMART goal first step + lifestyle 5 步时序**（5-26 新错）| 误把 tracking log 当 first step（premature implementation）| [[mistakes/uworld-mistakes#^Q12-2026-05-26]] / [[mistakes/uworld-mistakes#^Q22080]] |
-| ⭐⭐🟡 | **DOAC + acute stroke**（rivaroxaban < 48h → tPA 禁忌 → thrombectomy if LVO）| 知识缺口（你标 A? — 元认知正确）| [[mistakes/uworld-mistakes#^Q23-2026-05-26]] / **TODO**：[[完整笔记/专题笔记/心内/心内_抗凝抗板_急性血栓]] 加"急性血栓 + anticoagulant 处理 SOP"子节 |
+| ⭐⭐⭐🔴 | **DLB ψ vs PD ψ Step 5 钓饵**（5-28 新升 🔴 + #考前必看 + #难记）⚠️⚠️ | PD ψ Step 5 反射误覆盖 DLB — ψ 早于 levodopa + cog fluctuation 完全被忽略 | [[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]] §六 v1.2 新增决策树 + [[mistakes/uworld-mistakes#^Q19-2026-05-28]] |
+| ⭐⭐🔴 | **Q21477 Swiss Cheese Model**（5-25 + 5-27 反复错 + #难记 / 5-28 首次反射 ✓）| stem 暗号 "all at once / simultaneously" 反射建立中 | [[mistakes/uworld-mistakes#^Q21477]] — 一次连对计数 1/2 |
+| ⭐⭐🔴 | **Q20431 Home Health Care**（5-25 + 5-27 反复错 + #考前必看 / 5-28 首次反射 ✓）| 决策树"stable + mild CI + 能 ADL + homebound" 反射建立中 | [[mistakes/uworld-mistakes#^Q20431]] — 一次连对计数 1/2 |
+| ⭐⭐🟡 | **Atypical MDD first-line = SSRI（不是 MAOI）**（5-28 新错 + #难记）| UWorld 反射"Atypical = phenelzine"外推到 first-line 错 | [[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP]] §3.4.bis v1.1 新增 6 阶梯 + [[mistakes/uworld-mistakes#^Q17-2026-05-28]] |
+| ⭐⭐🔴 | **DPN "any of the above" 选项策略**（5-24 + 5-26 反复错 / 5-27 ✓ 1/2）| pattern 反射选最熟悉单选 — USMLE 选项策略反射建立中 | [[mistakes/uworld-mistakes#^Q19-2026-05-24]] / [[完整笔记/专题笔记/USMLE/USMLE_答案选项策略]] — 连对计数 1/2 |
 
-### 降权焦点（已突破 / 已连对 2 次降 🟡）
+### 降权焦点（5-28 反射建立 / 状态降级）⭐⭐⭐
 
 | 主题 | 状态变更 | 备注 |
 |---|---|---|
-| **OR/CI/因果三连陷阱**（[[mistakes/uworld-mistakes#^Q20227]]）| 🔴 → 🟡 | 5-25 + 5-26 连对 2 次；取消 #考前必看 强制；保留 #难记 |
-| **Atypical MDD MAOI**（phenelzine 不是 lithium）| 🔴 → 🟡 | 5-25 + 5-26 连对 2 次 phenelzine；取消 #考前必看；保留 #难记 |
-| **MDMA SS 解药矩阵**（5-26 解药维度首次答对 Cyproheptadine）| 维持 🔴 + #难记 | Q11853 前 2 维度仍是历史错点（病因 / substance）— 不全降，等病因 / substance 维度也连对再考虑 |
+| **Q22581 RCA-FMEA 时间方向**（5-28 第 4 次终建立 ⭐⭐⭐⭐）| 🔴 → 🟡 + 保留 #考前必看 + 取消 #难记 | 5-24/25/27 连续错 3 次后破除，识破"future + potentially + vulnerabilities" FMEA 语言钓饵 |
+| **Q11853 MDMA SS 3 维度全克服**（病因 5-27 + 解药 5-26 + substance 鉴别 5-28）| 🔴 → 🟡 + 取消 #难记 | bath salts vs MDMA 鉴别建立（缺 trismus / 缺 dilated pupils / 缺典型 SS 模式 + 严重 psychosis + rigidity = bath salts）|
+| **Q3-2026-05-27 Tourette Anchor by Letter**（5-28 C 而非 D 是 antidopaminergic 时仍正确选 C）| 🟡 → 🟢 + 取消 #难记 | 字母位置不可信，看选项内容 — 元方法反射内化 |
+| **Q12152 PD ψ Step 5 + Levodopa 不能减**（5-27 双重测试 + 5-28 间接 Q24）| 🔴 → 🟡 保留 #考前必看 | 反射稳定 — 阶梯第 5 步加 quetiapine 不动 levodopa |
+| **OR/CI/因果三连陷阱**（5-25 + 5-26 连对）| 🔴 → 🟡 取消 #考前必看 / 保留 #难记 | 仍在巩固期 |
 
-### Memory Hook 钉死铁律（每日扫 5 秒）⭐
+### Memory Hook 钉死铁律（每日扫 5 秒）⭐ — v2 更新
 
-> [!danger] 5 条反射钩
+> [!danger] 7 条反射钩
 > 1. **"Levodopa 是地基不能拆；adjunctive 是装饰可以拆；墙裂了（PD ψ）加梁（quetiapine），不是拆地基"** ⭐
-> 2. **"见 'D = any of the above' → 优先 D，不要急选熟悉单选"** ⭐
-> 3. **"Lifestyle counseling first step = set SMART goal；tracking / confidence / specific Rx 都是 SMART 后的事"**
-> 4. **"DOAC < 48h + acute stroke = tPA 禁忌 → thrombectomy if LVO"**
-> 5. **"湿热抖 (SS) → Cyp / 湿热僵 (NMS) → Dan+Brom / 干热不抖 (抗胆碱) → Phys / 麻醉术中 (MH) → Dan"** ⭐
+> 2. **"ψ 早于 levodopa + cognitive fluctuation = DLB → rivastigmine 一线（quetiapine 是 NMS 引信！）"** ⭐⭐ 5-28 新加
+> 3. **"Atypical MDD first-line = SSRI（不是 phenelzine — MAOI 留给走投无路）"** ⭐ 5-28 新加
+> 4. **"见 'D = any of the above' → 优先 D；见 'Anchor by Letter' 反 pattern → 看选项内容不看字母位置"** ⭐
+> 5. **"RCA = 已发生过去 underlying causes；FMEA = 未发生未来 potential vulnerabilities — stem 时态决定方向"** ⭐ 5-28 反射建立
+> 6. **"Swiss Cheese = simultaneously implement ≥2 不同性质 barrier；PDSA = iterative cycles；Hard stop = physical；Automation = EHR alert"** ⭐ 5-28 反射建立
+> 7. **"Home health = stable + mild CI + 能 ADL + homebound + skilled needs；SNF = severe CI + 不能 ADL；admit = 不稳"** ⭐ 5-28 反射建立
 
-> [!tip] 本周行动节奏
-> - **每日浩斯宾前 5 秒扫上面 5 条反射钩**（建立做题前 scan 习惯）
-> - **3/4 错是 pattern 反射错** → 重点 = **默写 + 反射训练**，不是看更多书
-> - 5-24 三巨头剩 Q20 PD ψ 还在 🔴 — 下次出题强制带入（再 1 次答对降 🟡）
-> - Q22 #难记 解药维度首次答对 — 下次浩斯宾改测 MDMA 病因 / substance 维度（剩 2 个未克服层）
+> [!tip] 本周行动节奏（5-29 起）
+> - **每日浩斯宾前 5 秒扫上面 7 条反射钩**（建立做题前 scan 习惯）
+> - **5/5 升级题 5-28 全建立** — 5-29 验证稳定性（Q22581 第 5 次 / Q21477 + Q20431 第 4 次 / Q11853 random rotation / Q3-0527 多次变体）
+> - **Q19 DLB ψ 新 🔴** — 默写 DLB vs PD ψ 决策树 + 1-year rule + DLB 4 大支持特征
+> - **Q17 Atypical MDD 新 🟡** — 默写 Atypical 6 阶梯 + MAOI 3 禁忌
+> - **重点元学习**：反射钩建立后必配套反 pattern 警示词（Q19 教训 — PD ψ Step 5 反射钩过强误覆盖 DLB）
 
 ### 📌 历史焦点存档
-- [[复盘/2026-05-25_浩斯宾判分_v1]]（5-24 三巨头首次连对 + EPS 修复 + 4 衍生）— 已部分突破
-- [[复盘/2026-05-23 Psych 治疗 4 连击 + Q15088]] — MDD-psychotic / ADHD+物滥 / 儿童 GAD vs SAD / BED / 儿童 OCD（5 个 ⭐⭐⭐ 焦点，已沉积入 _衍生_精神障碍选对治疗SOP）
+- [[复盘/2026-05-27_浩斯宾判分_v1]]（5-26 升级题 4/4 全建立 + 4 错 Q3/Q7/Q8/Q9 全在 5-25 旧题反复错）— 升级期
+- [[复盘/2026-05-26_浩斯宾判分_v1]]（5-26 浩斯宾 21/25 84% B+ + Ethics QI 大整理）— 已部分突破
+- [[复盘/2026-05-25_浩斯宾判分_v1]]（5-24 三巨头首次连对 + EPS 修复 + 4 衍生）— 已突破
+- [[复盘/2026-05-23 Psych 治疗 4 连击 + Q15088]] — 已沉积入 _衍生_精神障碍选对治疗SOP
 - [[复盘/2026-05-14_早晨复盘清单]]（抗凝药拮抗剂 / 5 急症 / 三大束）— 1 周重做已过期，待验证状态
 
 ---

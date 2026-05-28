@@ -7,7 +7,7 @@ created: 2026-05-24
 type: 专题笔记
 ---
 
-# Psych_PD Psychosis 5 步阶梯（减药 → 第 5 步选 quetiapine vs pimavanserin vs clozapine）⭐ v1.1（2026-05-26 一致性审计修订）
+# Psych_PD Psychosis 5 步阶梯（减药 → 第 5 步选 quetiapine vs pimavanserin vs clozapine）⭐ v1.2（2026-05-28 新增 DLB vs PD ψ 反 pattern）
 
 > [!info] 一句话定位
 > PD（晚期）+ 视幻觉 / 妄想 / paranoia → PD psychosis。**5 步流程**：排器质 → 排非 PD 精神药 → 减 adjunctive DA → **加低/零 D2 抗精神病药（quetiapine 首选）** → （仅在 motor 能耐受时）谨慎减 levodopa。**钉死铁律**：① 强 D2 药（haloperidol / risperidone / olanzapine）**禁用**（加重 PD 运动症状）② **多巴胺能药（amantadine / pramipexole / MAO-B）反向加剧 psychosis** ③ **ECT 不是标准**（last-resort，非常规阶梯）④ **Levodopa = PD foundation，不轻易减**（5-26 新错点维度 — 见 §一.x）⭐
@@ -299,7 +299,97 @@ Levodopa 还有"刹车"（神经元自身调节），DA agonist 没有刹车。
 
 ---
 
-## 六、Memory Hook
+## 六、DLB vs PD ψ 鉴别 — Step 5 反 pattern ⚠️⚠️（v1.2 新增 2026-05-28）
+
+> [!danger] 5-28 浩斯宾 Q19 暴露 — PD ψ Step 5 反射误覆盖 DLB
+> 5-28 浩斯宾测 DLB ψ stem（ψ 早于 levodopa + cognitive fluctuation + 短时 unresponsive），用户**反射选 quetiapine = PD ψ Step 5 钓饵踩坑**。
+> 教训：**反射钩建立后必须配套反 pattern 警示词**，避免相似 stem 误覆盖。
+
+### 6.1 DLB vs PD ψ 鉴别决策树
+
+```
+有 parkinsonism 的 ψ：
+│
+├─ ψ 是 levodopa 起始后才出现 + 无 cognitive fluctuation
+│      = PD ψ (drug-induced)
+│      → 走 §一 5 步流程 → §二 Step 5 加 quetiapine / pimavanserin
+│      → 不停 levodopa（地基）⭐
+│
+├─ ψ 早于 levodopa + cognitive fluctuation + episodic unresponsiveness
+│  + REM sleep behavior disorder + 严重 visual hallucinations
+│      = DLB (Dementia with Lewy Bodies)
+│      → Rivastigmine / Donepezil 一线 ⭐⭐⭐
+│      → 抗精神病药即使 quetiapine 30-50% severe sensitivity（NMS-like 死亡率↑）相对禁忌
+│      → 若胆碱酯酶失败 → Pimavanserin（无 D2 拮抗 安全 fallback）
+│
+└─ AD/VaD/FTD 同时 parkinsonism（小概率）→ 各按主病治
+```
+
+### 6.2 "1-year rule" — DLB vs PDD 时序鉴别 ⭐
+
+| 时序 | 诊断 | 治疗 |
+|---|---|---|
+| **Parkinsonism ≤ 1 yr before cognitive decline**（≈同步发病） | **DLB** | Rivastigmine 一线 + 抗精神病药相对禁忌 |
+| **Parkinsonism > 1 yr before cognitive decline**（PD 数年后才痴呆） | **PDD** (Parkinson Disease Dementia) | Rivastigmine 一线（治疗与 DLB 类似）+ 抗精神病药相对禁忌 |
+| **PD 多年 + 后期出现 ψ + 无 cognitive fluctuation** | **PD ψ (drug-induced)** | §二 Step 5 quetiapine（不停 levodopa）|
+
+> [!info] 实操简化
+> PDD 和 DLB 治疗思路**几乎一致**（cholinesterase inhibitor 一线 + 抗精神病药慎用）— 1-year rule 主要用于学术区分；Step 2 考核重点 = **DLB vs PD ψ**（两者治疗方向完全相反）。
+
+### 6.3 DLB 4 大支持特征（McKeith 2017 标准）⭐
+
+| 特征 | 描述 | Stem 关键词 |
+|---|---|---|
+| **Fluctuating cognition** ⭐ | Attention / alertness 波动（minutes - hours）| "fluctuates throughout the day" / "episodes of unresponsiveness" / "alternating clarity and confusion" |
+| **Recurrent visual hallucinations** ⭐ | 完整 / 详细 / 复杂（动物 / 人 / 儿童）| "small animals" / "children playing" / "faces" |
+| **REM sleep behavior disorder (RBD)** | 梦境动作化（拳打脚踢 / 大喊大叫）| "acts out dreams" / "physical violence in sleep" / "spouse moved to separate bed" |
+| **Spontaneous parkinsonism** | 不是 levodopa 引起，自发出现 | "developed parkinsonism without medication" / "tremor + bradykinesia preceded any treatment" |
+
+诊断需要 ≥ 2 个 core features（包括 dementia 必备 + ≥ 1 上述 4 个）。
+
+### 6.4 为什么 quetiapine 在 DLB 也不安全 ⚠️
+
+- DLB 患者对 **D2 拮抗剂极敏感** → 即使 atypical（quetiapine / clozapine）也可触发 **severe NMS-like reaction**
+- 表现：rigidity + 高热 + AMS + autonomic instability + 死亡率 ↑
+- 一线 = **cholinesterase inhibitor**（rivastigmine 有 DLB FDA 适应症，donepezil 也可）
+- 一线同时治 3 端：ψ + cognitive fluctuation + parkinsonism 都有获益
+- 若 ψ severe + cholinesterase 失败 → **pimavanserin**（5HT2A inverse agonist + 无 D2 拮抗 → DLB 安全 fallback）
+
+### 6.5 DLB 治疗阶梯
+
+```
+Step 1: 排器质（infection / delirium / metabolic）→ 同 PD ψ
+Step 2: 减非必要 anticholinergic / 抗组胺 / BZD（DLB 极敏感）
+Step 3: Cholinesterase inhibitor 一线
+        Rivastigmine（FDA DLB 适应症）/ Donepezil
+        → 同时治 ψ + cognitive + parkinsonism ⭐
+Step 4: ψ severe + Step 3 失败 → Pimavanserin（无 D2 拮抗 安全）
+Step 5: 永不 — quetiapine / risperidone / olanzapine / haloperidol（D2 拮抗 sensitivity ↑↑）
+```
+
+### 6.6 反射钩 — DLB vs PD ψ 关键词 ⭐
+
+> [!danger] 5 大反射钩
+> - **"ψ before levodopa"** → DLB 红旗 ⚠️
+> - **"fluctuating cognition"** → DLB 核心
+> - **"brief episodes of unresponsiveness"** → DLB 极端 cognitive fluctuation
+> - **"REM sleep behavior disorder"** → DLB 支持
+> - **"severe antipsychotic sensitivity / NMS after quetiapine"** → DLB 警告
+>
+> **反 pattern 警示词**：见到上述任一关键词 → **不能套用 PD ψ Step 5 quetiapine 反射** → 走 DLB 阶梯（rivastigmine 一线）
+
+### 6.7 Memory Hook
+
+> [!success] DLB vs PD ψ 一句话钉死
+> **"ψ 早于 levodopa = DLB → rivastigmine（quetiapine 是 NMS 引信）"**
+> **"ψ 晚于 levodopa + 无 cog fluctuation = PD ψ → quetiapine（地基 levodopa 不能拆）"**
+>
+> 类比："汽车油门卡死"（PD ψ） vs "汽车电路坏了"（DLB — 大脑系统性 cholinergic 衰竭）
+> 油门卡死 → 上软刹车（quetiapine）；电路坏了 → 修电路（cholinesterase inhibitor），强行上刹车 = 烧电路（severe NMS-like）
+
+---
+
+## 七、Memory Hook
 
 > [!success] 记忆挂钩
 > - **一句话锁定 5 步**：**"排器质 → 排非 PD 药 → 减 adjunctive → 减 levodopa → 上 quetiapine。"** 数到 5 不要跳。
@@ -312,10 +402,11 @@ Levodopa 还有"刹车"（神经元自身调节），DA agonist 没有刹车。
 
 ---
 
-## 七、🔗 关联
+## 八、🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q12152]] 🔴 第 5 步选 quetiapine（2026-05-23）+ 5-24 Q21 第 3 次错（同主题）
+  - [[mistakes/uworld-mistakes#^Q12152]] 🟡 第 5 步选 quetiapine（2026-05-23 - 5-27 双重测试通过 + 5-28 间接反射延伸）
+  - [[mistakes/uworld-mistakes#^Q19-2026-05-28]] 🔴 **DLB ψ vs PD ψ 钓饵**（PD ψ Step 5 反射误覆盖 DLB — ψ 早于 levodopa + cog fluctuation + 短时 unresponsive = DLB，rivastigmine 一线，**本笔记 §六 完整决策树**）⭐⭐⭐
   - [[mistakes/uworld-mistakes#^Q16164]] 🔴 第 4 步减药顺序（adjunctive 先减）
   - [[mistakes/uworld-mistakes#^Park1-2026-05-22]] DIP 处理（与 PD psychosis 镜像 — DIP 是 D2 阻断致 parkinsonism；PD psychosis 是 DA 过多致 psychosis；处理方向相反）
   - [[mistakes/uworld-mistakes#^Park2-2026-05-22]] IPD vs DIP 鉴别（PD 诊断基础）
@@ -335,7 +426,7 @@ Levodopa 还有"刹车"（神经元自身调节），DA agonist 没有刹车。
 
 ---
 
-## 八、✅ 用户行动（默写清单）
+## 九、✅ 用户行动（默写清单）
 
 - [ ] 默写 **PD psychosis 5 步流程**（排器质 → 排非 PD 药 → 减 adjunctive → 减 levodopa → 上 quetiapine）
 - [ ] 默写 **Step 3 adjunctive 减药顺序**（amantadine / MAO-B → COMT → DA agonist）
@@ -344,3 +435,7 @@ Levodopa 还有"刹车"（神经元自身调节），DA agonist 没有刹车。
 - [ ] 默写 **ECT 在 PD 真实角色**（抑郁 + psychotic features / 紧张症才用 — 单纯 psychosis 不用）
 - [ ] **反射训练**：PD + 幻觉 + 选项 → 划掉 haloperidol / risperidone / olanzapine（强 D2）+ 划掉 amantadine / pramipexole（DA 能药）+ 划掉 ECT（非标准）→ 剩 quetiapine
 - [ ] 连对 2 道 PD psychosis 题 → 可降级 [[mistakes/uworld-mistakes#^Q12152]] 从 🔴 回 🟡
+- [ ] **v1.2 新增**：默写 **DLB vs PD ψ 决策树**（ψ 早于 levodopa + cog fluctuation + 短时 unresponsive = DLB → rivastigmine 一线 + 抗精神病药相对禁忌）⭐⭐⭐
+- [ ] **v1.2 新增**：默写 **"1-year rule"**（parkinsonism ≤1 yr before cog decline = DLB / >1 yr = PDD）
+- [ ] **v1.2 新增**：默写 **DLB 4 大支持特征**（fluctuating cognition / VH / REM behavior / spontaneous parkinsonism）
+- [ ] **v1.2 新增**：反射钩"**ψ before levodopa = DLB stop quetiapine**"（5-28 Q19 教训）
