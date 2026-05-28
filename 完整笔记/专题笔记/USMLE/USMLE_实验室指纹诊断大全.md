@@ -186,6 +186,22 @@ source_错题: Q17169 触发
 
 ### 1.8 中枢性 vs 肾性 DI ⭐
 
+> [!tip]+ 渗透压正常值速查（也适用 §1.7 SIADH / §1.5 HHS）⭐
+>
+> | 项目 | 正常范围 | 关键阈值 |
+> |---|---|---|
+> | **血浆 Osm (Posm)** | **275–295 mOsm/kg**（中点 ~285）| < 275 = SIADH / 水中毒；> 295 = DI / 脱水 / 高钠 / 高血糖；**> 320 = HHS** |
+> | **尿 Osm (Uosm)** | **50–1200 mOsm/kg**（跨度大）| 最稀 50 / **等渗 300** / 最浓 1200（年轻人 ~1400）|
+> | **Posm 计算式** | 2×Na + Glu/18 + BUN/2.8 | 实测 − 计算 = **Osm gap**（>10 → 甲醇 / 乙二醇 / 异丙醇）|
+>
+> **DI / SIADH 锁定 Uosm 阈值（反直觉考点）**：
+> - **DI**：Posm ↑（>295）但 **Uosm < 300**（应浓缩没浓缩）★
+> - **SIADH**：Posm ↓（<275）但 **Uosm > 100**（应稀释没稀释）★
+> - **等渗尿 Uosm ≈ 300** = 严重 CKD / ATN 失浓缩能力
+> - **正常脱水** Uosm > 800 / **正常水合** Uosm 200-500
+>
+> **记忆口诀**：血浆 **275-295**（中点 285 ≈ 正常 Na × 2）；尿三锚点 **50 / 300 / 1200**（最稀 / 等渗 / 最浓）
+
 | 指纹 | **多尿（>3 L/d，稀尿）+ 稀释尿 Osm↓**（<300）+ **USG < 1.006** + 高 / 正常血 Na（"dry inside, soaked outside"）|
 |---|---|
 | **机制鉴别金标准** | **水剥夺试验 + DDAVP**：① 水剥夺后尿 Osm 仍低（不浓缩）= DI；② 再给 DDAVP → 尿 Osm 升 > 50% = **中枢性**；升 < 10% = **肾性** |
@@ -381,6 +397,34 @@ source_错题: Q17169 触发
 > - **WBC cast ≠ 单纯有 WBC（必须 WBC 嵌入管型 = 间质来源；游离 WBC 可能 UTI）**
 > - **Muddy brown = 肾小管上皮坏死脱屑 + 颗粒变性的 cast**，不是 hemoglobin / myoglobin 染色（虽然横纹肌溶解致 ATN 时也常见）
 > - **Hyaline cast 永远无诊断意义** — 见到不要往病理想
+
+### 2.5.2 HRS 肝肾综合征 ⭐⭐⭐（来源 [[mistakes/uworld-mistakes#^Q4752]]）
+
+| 指纹 | **肝硬化 + AKI + bland UA + 尿 Na < 10 + albumin 扩容无反应** ★★★ |
+|---|---|
+| **机制核心** | Portal HTN → splanchnic vasodilation → **EABV ↓** → RAAS/SNS/ADH ↑ → renal vasoconstriction（**functional**，不是结构损伤）|
+| **关键鉴别** | HRS = "假 prerenal"：UA 完全像 prerenal（bland + 低 FENa + 尿 Na 低），唯一区分 = **NS + albumin 1 g/kg × 2 天扩容是否有反应** ★（HRS 不应；prerenal 应）|
+| **诊断 6 条** | 肝硬化 + 腹水 / AKI (Cr↑≥0.3 或翻倍) / 扩容无反应 / 排休克 / 排肾毒药 / 无肾实质病 |
+| **分型** | **HRS-AKI (旧 Type 1)** 急性 Cr 翻倍 / **HRS-NAKI (旧 Type 2)** 慢性 + 顽固腹水 |
+| **诱因（必查）** | **SBP（最常）** / GI 出血 / 大量放腹水不补 albumin / 过度利尿 |
+| **治疗 1st** | **Terlipressin + Albumin** ★（V1 收 splanchnic → 血赶回循环 → 肾灌注恢复）|
+| **治疗 alt** | Midodrine + Octreotide + Albumin / Norepinephrine + Albumin (ICU) |
+| **桥接** | **TIPS**（HRS-NAKI 更适合 / HRS-AKI 二线 / HE 禁忌中招率高）/ **RRT**（不治 HRS，是 holding pattern）|
+| **根治** ⭐ | **Liver Transplant** ★★★ |
+| **SBP→HRS 预防** | Cefotaxime + **IV Albumin** (Day1 1.5 g/kg + Day3 1 g/kg)，触发指标 **Cr>1 / BUN>30 / Bili>4** |
+| **反直觉三连** | ① 全身水超载但 EABV↓（水都在腹腔池里）② 肾本身好（移植给别人能用）③ **利尿剂禁用**（与心衰相反！）|
+| **详见** | [[完整笔记/专题笔记/GI/GI_HRS肝肾综合征]] / [[完整笔记/专题笔记/GI/GI_门脉高压治疗]] / [[mistakes/uworld-mistakes#^Q4752]] |
+
+> [!danger] HRS vs Prerenal vs ATN 三连鉴别（看完这一表就够）
+>
+> | | **HRS** | **Prerenal** | **ATN** |
+> |---|---|---|---|
+> | 尿 Na | < 10 | < 20 | > 40 |
+> | FENa | < 1% | < 1% | > 2% |
+> | UA | bland | bland | **muddy brown casts** |
+> | Albumin 扩容反应 | **无 ✗** | **有 ✓** | 无 |
+>
+> "扩容反应"就是 HRS 和 prerenal 唯一区分键 — 题干读漏 = 必错
 
 ### 2.6 Hyperkalemia ECG 五阶段指纹（Q19929 触发）
 
