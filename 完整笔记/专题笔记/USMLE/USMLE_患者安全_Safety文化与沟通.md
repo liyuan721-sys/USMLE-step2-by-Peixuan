@@ -876,6 +876,108 @@ Training **一个 discipline**（如"surgeons-only safety vigilance training" / 
 - **Time-out** = 演出前最后核对（patient ID + procedure + site）
 - **Closed-loop** = 指挥手势确认（real-time message accuracy）
 
+##### 6.5.7.1 Briefing vs Debriefing 边界深化 ⭐⭐⭐（v2.2 增量 — Q106665 stem 触发 "perioperative briefings AND debriefings"）
+
+> [!warning] 笔记里 §6.5.7 把 "Debriefing" 列为单一工具；实战中 **Briefing**（事前）vs **Debriefing**（事后）必须分开识别 — Q106665 选项 B 明确包含**两者**。
+
+###### 一句话先记 ⭐
+
+- **Brief** = 事前**说前面**（**B**efore — B 开头对应 B 开头）
+- **De-brief** = "de" 拉丁词根 = "from" → 从刚发生的事**回头看**（事后）
+
+###### Briefing vs Debriefing 完整对照 ⭐⭐⭐
+
+| 维度 | **Briefing**（事前简报）| **Debriefing**（事后复盘）|
+|---|---|---|
+| **时机** | **Before** clinical event | **After** clinical event |
+| **目的** | **Anticipate**（预判 + 准备 + 对齐）| **Learn**（反思 + 改进 + system 优化）|
+| **核心问句** | "We're about to do X. Are we ready?" | "We just did X. What can we learn?" |
+| **典型时长** | 5-10 min | 5-15 min |
+| **侧重** | 风险预测 + 角色分工 + 资源 + emergency plan | What went well + wrong + action items |
+| **能改 dynamics?** | 部分（建立 shared goal）| **强**（reflect on team behavior）|
+| **能减 hierarchy?** | 部分（角色分配让 junior 有 voice）| **强**（每人有 voice 讲 concerns）|
+
+###### Briefing 典型场景
+
+| 场景 | 内容 |
+|---|---|
+| **OR 术前**（pre-op briefing）| Surgeon 简述 procedure + risk + 预测出血 → nurse 报告设备 + blood → anesth 报告 patient comorbidities |
+| **Shift change**（morning briefing）| Charge nurse 通报预期 admissions + 关键 patients + 资源分配 |
+| **ICU rounds 前**（daily rounds briefing）| 团队对齐每个 patient 的 goals of care |
+| **Code blue 前**（high-risk patient）| Crash cart 位置 + 谁压胸 + 谁 bag + 谁 record |
+
+###### Debriefing 典型场景
+
+| 场景 | 内容 |
+|---|---|
+| **OR 术后**（post-op debriefing）| 团队留 5 min — surgeon / anesth / nurse 各讲"今天哪里好 / 哪里能改"|
+| **Code blue 后** | CPR 结束后立刻 — "压胸节奏太慢 / epi 给得太晚 / cart 位置远" |
+| **Sentinel event 后** | 24-48 hr 内（**不是 blame meeting，是 learning meeting**）|
+| **Near-miss 后** | Pharmacist intercept 错药 — 团队复盘"为什么差点出事" |
+
+###### Briefing vs Time-out 边界（USMLE 易混）⭐
+
+> [!danger] **Briefing ≠ Time-out**
+> - **Briefing** = 事前**整体规划**讨论（5-10 min）— 在 OR 大门外 / preop holding area
+> - **Time-out** = **即将开刀那一刻**的最后核对（30 秒-1 min）— **just before incision**
+>
+> **顺序**：**Briefing**（preop holding，整体规划）→ 进 OR → **Time-out**（刀片落下前的最后 patient/site/procedure 核对）→ 开刀
+
+###### Debriefing vs M&M Conference 边界 ⭐
+
+| 维度 | **Debriefing** | **M&M Conference** |
+|---|---|---|
+| **时机** | **Immediate**（事件后立刻 / 当天 / 24-48 hr 内）| **Delayed**（数周后月度）|
+| **范围** | **Same team** 反思 single event | **跨多 case**（科室聚合）|
+| **目的** | 快速 action items + behavior change | 教育性 + system improvement |
+| **时长** | 5-15 min | 1-2 hr |
+
+→ Q106665 是 **debriefing**（immediate post-op），不是 M&M
+
+###### Q106665 为什么选 "briefings AND debriefings"
+
+题目原文："Having nurses lead portions of the **perioperative team safety briefings AND debriefings**"
+
+**关键**：选项里同时提到 **briefings + debriefings 两个都有** — 这是**最完整**的 team safety 工具组合：
+- **Briefing**（术前）= 让 nurse 在术前就有 voice → shared goal alignment
+- **Debriefing**（术后）= 让 nurse 在术后反思时有 voice → behavior change
+
+→ **两个时点都让 nurse 有 voice** = 直接 address Q106664 暴露的 nurse 评 surgeon 48 的 perception gap
+
+###### Stem 暗号词识别 ⭐
+
+| Stem 暗号 | 0.5 秒识别 |
+|---|---|
+| "**Before** incision / event" + 结构化讨论 | **Briefing** |
+| "**Anticipate** risks" / "set goals" / "team alignment" | **Briefing** |
+| "**After** clinical event / surgery / code" + 结构化讨论 | **Debriefing** |
+| "**Reflect on what went well / wrong**" / "learn from event" | **Debriefing** |
+| "**Perioperative briefings AND debriefings**"（Q106665）| 两个**都有** — 术前 + 术后 |
+| "Address **interprofessional collaboration gap** / hierarchy / psych safety" | **Debriefing 优先**（reflection 改 dynamics 更强）|
+
+###### 类比 — 飞行员（high-reliability organization 同源）⭐
+
+```
+Briefing = 起飞前 cockpit briefing
+    机长 + 副驾驶 + 乘务长 — "今天目的地天气差，预计绕飞 30 min，紧急情况谁联系塔台谁广播乘客"
+    
+飞行进行 ...
+
+Debriefing = 降落后 cockpit debriefing
+    "刚才 turbulence 时副驾驶 alert 我太晚 5 秒，下次注意 / 乘务长今天 boarding 比 SOP 快了 8 min，怎么做到的？"
+
+Time-out = 起飞前最后 read-back
+    塔台："Cleared for takeoff runway 27" 
+    机长："Cleared takeoff runway 27, confirming"（30 秒确认）
+```
+
+###### 一句话锁 ⭐⭐⭐
+
+- **"Brief = 事前（anticipate）；Debrief = 事后（learn）"** ⭐
+- **"Perioperative briefings + debriefings 是 OR team 4 大 dynamics 改善工具"**（shared understanding / psych safety / reduce hierarchy / coordination）
+- **"Time-out ≠ Briefing"** — time-out 是刀落前 30 秒最后核对，briefing 是 5-10 min 整体规划
+- **"Debriefing ≠ M&M"** — debriefing immediate + same team；M&M delayed + 跨多 case
+
 ---
 
 ## 七、Disclosure of Medical Errors
