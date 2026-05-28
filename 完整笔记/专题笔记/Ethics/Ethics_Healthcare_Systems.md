@@ -41,9 +41,58 @@ type: 专题笔记
 
 ---
 
+## §1.5 美国医保支付方式演化（CK 背景知识）⭐
+
+理解 P4P / ACO 之前必先理解它们**对抗**的旧模式 = **Fee-for-Service (FFS)**。USMLE healthcare systems 题里 stem 描述的"高 spending / overuse / 慢病管理差"几乎永远是隐含的 FFS 后果。
+
+### Fee-for-Service (FFS) — 旧模式（题里隐含的"现状"）
+
+```
+医师 / 医院每做一项 service → 保险公司付一笔钱
+做得越多 → 赚得越多
+        ↓
+后果：
+① Overuse 滥用（不必要 imaging / 重复检查 / 贵药）
+② 质量与支付无关（治好 vs 治坏都付一样的钱）
+③ Fragmentation 碎片化（每个 provider 各自为政，无 care coordination 动机）
+```
+
+> [!info] 识别 stem 是否隐含 FFS 现状
+> Stem 描述 "high spending + overuse + chronic disease 控制差 + multiple uncoordinated providers" → 几乎都是 FFS 副产品 → 答案必在"激励对齐"路线（P4P / ACO / bundled / outcome-based）。
+
+### 保险公司可以怎么干预？两条对立路线
+
+| 路线 | 机制 | 例子 | USMLE 立场 |
+|---|---|---|---|
+| **路线 A：限制供给（restriction-based）** | 在医师 + 患者之间立审批墙 | Limit 住院天数 / Step therapy / Prior authorization gate | ❌ 几乎永远错（详见 §1） |
+| **路线 B：对齐激励（incentive-based）** ⭐ | 把"支付金额"与"患者结果"绑定 | P4P / ACO / Bundled payment / Shared savings | ✅ 几乎永远对 |
+
+**路线 B 本质**：让医师**赚钱的方式 = 让患者变好的方式**。
+- 做得好（A1c 控制、癌症筛查率高、再住院率低）→ 拿 bonus
+- 做不好 → 不扣钱但也没 bonus（与 penalty-based 限制有别）
+
+### 历史时间线（理解为什么 USMLE 反复考）
+
+| 年份 | 事件 |
+|---|---|
+| 1965 | Medicare / Medicaid 创立 — 主流 = **FFS** |
+| 2001 | IOM "Crossing the Quality Chasm" → 提出 STEEEP 6 维度（§2.3）|
+| 2010 | **Affordable Care Act (ACA)** → 创立 **Medicare Shared Savings Program (MSSP)** → 全美 400+ ACO |
+| 现在 | 商业保险（Aetna / Anthem / Blue Cross）跟进，全面 value-based payment 转型 |
+
+→ USMLE 反复考 P4P/ACO = 反映美国医疗系统**正在发生的**结构性改革，不是抽象理论。
+
+---
+
 ## §2 Pay-for-Performance (P4P) + Accountable Care Organization (ACO) ⭐
 
 ### §2.1 P4P 核心特征
+
+> [!success] 一句话本质
+> **Pay-for-Performance (P4P) 按绩效付费** = 保险公司**额外**付钱给那些让患者达到 **predefined quality metrics**（预定质量指标）的医师 / 医院。
+> 关键：metrics 都是 **evidence-based** — 这就把"赚钱"绑到"做正确的事"上。
+
+#### 基本特征
 
 | 维度 | 内容 |
 |---|---|
@@ -51,13 +100,73 @@ type: 专题笔记
 | **益处** | ① Optimize resource use ② 改善 quality ③ 奖励 evidence-based 资源利用 |
 | **3 大鼓励行为** | ① **Resource stewardship**（evidence-based 利用，减不必要 services）② **Timely care**（按推荐间隔筛查）③ **Improved outcomes**（diabetic control 等）|
 
-### §2.2 ACO = P4P 的组织实现
+#### Quality Metrics 3 大类（USMLE 高频）⭐
+
+| 类别 | 含义 | 指标举例 |
+|---|---|---|
+| **Outcome 结果型** | 患者最终临床结果 | 糖尿病患者 **A1c < 7%** 比例 / 30 天再入院率 / 死亡率 / 控制率 |
+| **Process 过程型** | 是否做了 evidence-based 流程 | 50-75 岁结肠癌筛查率 / 乳腺癌筛查率 / 高血压患者用 ACEi/ARB 比例 / 心梗后 β-blocker 处方率 |
+| **Patient Experience** | 患者主观体验 | 患者满意度评分 / HCAHPS survey 评分 |
+
+> [!info] Outcome vs Process metrics 边界
+> - **Outcome** 直接测"治疗结果好不好"，但受患者依从性 + 社会因素影响（不完全在 provider 控制内）
+> - **Process** 直接测"医师做没做对的事"，更可控但不保证 outcome
+> - 现实中 P4P 系统**双指标并用**（如 Q21751 stem 里 outcome + process 都列出）
+
+### §2.2 ACO = P4P 的"组织壳子"
+
+> [!success] 一句话本质
+> **Accountable Care Organization (ACO) 责任医疗组织** = 一群 providers + medical facilities 组成的 **network**，他们**集体**对一群患者的 **total cost + quality** 负责。
+
+#### 基本特征
 
 | 维度 | 内容 |
 |---|---|
-| **定义** | Network of providers（primary care 医师 + 药师 + hospitalists + 等）+ 医疗机构（hospitals / nursing homes）协调 care |
+| **定义** | Network of providers + medical facilities 协调 care |
 | **机制** | Coordinate care + 基于 patient outcomes metrics（如 goal A1c% / cancer screening 比例）→ 提供者获 bonus reimbursement |
 | **关系** | ACO = P4P 在组织层的具体形式；P4P = 抽象激励原则 |
+
+#### ACO 运作流程（Shared Savings 模型）⭐
+
+```
+保险公司（例如 Medicare）说：
+"我给你们 ACO 一群 attributed beneficiaries（指定患者），
+ 假设这群人按 FFS 算每年要花 $1000 万"
+        ↓
+ACO 实际花了 $900 万 + quality metrics 达标
+        ↓
+节省的 $100 万 → 保险公司 + ACO 分成（shared savings）
+        ↓
+[关键阀门] 如果 quality metrics 不达标
+       → ACO 拿不到 bonus（即使省了钱也不行）⭐
+       → 防止 ACO "省钱靠 underuse 治疗" 钻空子
+```
+
+> [!warning] Shared savings 的"质量阀门"机制
+> 单纯"省钱分成"会激励 ACO **underuse 治疗**（少治 = 省钱）→ 所以 ACO bonus 必须**先过 quality gate**：只有 quality 达标的省钱才有 bonus。这是 ACO 区别于纯成本控制的核心设计。
+
+#### ACO 内部结构（Q21751 stem 提及）
+
+| 成员类型 | 角色 |
+|---|---|
+| **Primary care 医师** | 慢病基础管理 + 守门人 |
+| **药师** | 多药 reconciliation + 依从性管理 |
+| **Hospitalists** | 住院期管理 + 出院规划 |
+| **Hospitals + nursing homes + home health** | 衔接照护各阶段 |
+
+→ 以前这些 providers **各自为政**（FFS 下没人有动力协调）→ ACO 把他们用**同一个支付机制绑在一起** → **care coordination 协调照护**自然发生（不再是道德口号，而是经济利益）。
+
+#### P4P vs ACO 关系（最常混淆点）⭐⭐
+
+| 维度 | **P4P** | **ACO** |
+|---|---|---|
+| 是什么 | **支付原则**（pay based on performance）| **组织形式**（一群人组成的 network）|
+| 比喻 | 游戏规则 | 队伍 |
+| 例子 | "A1c 达标 → 给 bonus" | "Anthem Health Plus ACO" 这个具体组织 |
+| 抽象层 | 抽象激励原则 | 具体组织实现 |
+
+> [!success] 一句话锁
+> **ACO 是 P4P 的载体；P4P 是 ACO 的运作规则。** USMLE 把它们一起考。
 
 ### §2.3 High-Quality Care 6 大 Dimensions（IOM / STEEEP 助记）⭐⭐
 
