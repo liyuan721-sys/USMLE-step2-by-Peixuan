@@ -337,6 +337,51 @@ source_错题: Q17169 触发
 
 > **记忆钩**："Pre-renal 肾在抓 Na 自救（FENa 低）；ATN 肾不抓了（FENa 高）"
 
+### 2.5.1 Urinary Casts 指纹族系 ⭐⭐⭐（任何 AKI 题先扫）
+
+> [!info] 由 [[mistakes/uworld-mistakes#^Q4007]] AIN by allopurinol + [[mistakes/uworld-mistakes#^Q4004]] Analgesic nephropathy CTIN 触发整合 — 两道均因没扫到 UA WBC casts 选错（一个反射 DIL，一个反射 nephrolithiasis）。
+
+| Casts 类型 | 锁定家族 | 典型病 | 关键鉴别 |
+|---|---|---|---|
+| **RBC casts**（红细胞管型 + dysmorphic RBC）| **Glomerular** ⭐ | GN（IgA / postinfectious / RPGN / Lupus nephritis / Anti-GBM）| 必伴**中重度蛋白尿** |
+| **WBC casts**（白细胞管型）| **间质性家族** ⭐ | **AIN / CTIN / pyelonephritis** | 伴**外周嗜酸**（AIN）/ 急慢性区分（AIN 急 / CTIN 慢 + 双小肾） |
+| **Muddy brown casts**（颗粒褐色 / "renal tubular epithelial" casts）| **ATN** | 缺血 / 药毒（aminoglycoside / contrast / cisplatin）/ 横纹肌溶解（尿肌红蛋白）| FENa > 2% |
+| **Waxy casts**（蜡样管型）| **慢性肾衰** | 终末期 CKD | 配双侧小肾 |
+| **Fatty casts + oval fat bodies / Maltese cross**（脂肪管型）| **肾病综合征** | MCD / FSGS / MN / DM 肾病 / Amyloid | 必伴**重度蛋白尿 > 3.5 g/d + 低白蛋白 + edema** |
+| **Granular casts**（颗粒管型）| 非特异 | ATN 早期 / 慢性肾病 / 多种 | 单独无诊断价值 |
+| **Hyaline casts**（透明管型）| 非特异（生理性）| 脱水 / 运动后 / 利尿剂后 | 通常无临床意义 |
+| **Broad casts**（宽管型）| 集合管扩张 | 严重 CKD / ESRD | 预后差 |
+
+> [!success] AKI 题做题 SOP（0.5 秒先扫 casts）⭐⭐⭐
+> ```
+> AKI + UA → 先看 casts：
+>     ├─ RBC casts → GN（→ 看蛋白尿 + 补体 + ANCA + ASO + dsDNA）
+>     ├─ WBC casts → 间质性家族 → 病程急 = AIN（嗜酸 + 新药）/ 慢 = CTIN（双小肾 + 慢镇痛史）
+>     │              / 反复 dysuria-fever = pyelonephritis
+>     ├─ Muddy brown casts → ATN（→ 看 FENa > 2% + 触发：缺血 / 药毒 / 横纹肌）
+>     ├─ Fatty casts + Maltese cross → 肾病综合征（→ 看蛋白 > 3.5 + 低白 + edema）
+>     ├─ Waxy / broad casts → 慢性肾衰（终末期）
+>     ├─ Hyaline casts only → 非特异（脱水 / 运动 / 利尿剂后）
+>     └─ UA bland（无 casts / cells / protein）→ Pre-renal / HRS / Transplant RAS / CNI 毒
+>             （后 4 个需结合 stem 病史 + 扩容反应分鉴别）
+> ```
+
+> [!warning] UA bland 5 鉴别（无 casts 不等于"无病"）
+> | 病 | 区分 |
+> |---|---|
+> | **Pre-renal volume depletion** | 扩容**改善** + FENa < 1% |
+> | **HRS** ⭐ | 肝硬化 + 扩容**无改善** + 肾正常大小 |
+> | **Transplant RAS** | post-tx 1-2 yr + ACEI 后 Cr↑ + resistant HTN + Doppler 见狭窄 |
+> | **CNI 急性毒性** | 血药 ↑ + 加 CYP3A4 抑制剂史 + HTN |
+> | **早期 GN（轻症）** | UA 可"接近 bland"但仔细看仍有 dysmorphic RBC + 轻蛋白 |
+> 详见 [[完整笔记/专题笔记/肾脏/肾脏_移植后AKI鉴别SOP]]（CNI / RAS）+ [[mistakes/uworld-mistakes#^Q4752]] HRS
+
+> [!danger] 反 pattern：把 casts 名字读对很重要
+> - **RBC cast ≠ red cell 在 cast 里（炎症 dysmorphic RBC 提示肾小球破损）**
+> - **WBC cast ≠ 单纯有 WBC（必须 WBC 嵌入管型 = 间质来源；游离 WBC 可能 UTI）**
+> - **Muddy brown = 肾小管上皮坏死脱屑 + 颗粒变性的 cast**，不是 hemoglobin / myoglobin 染色（虽然横纹肌溶解致 ATN 时也常见）
+> - **Hyaline cast 永远无诊断意义** — 见到不要往病理想
+
 ### 2.6 Hyperkalemia ECG 五阶段指纹（Q19929 触发）
 
 ![[{0D71531D-614E-4DF9-BDA6-06BFD8580D72}.png]]

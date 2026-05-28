@@ -27881,3 +27881,996 @@
 > 主题:: Imaging Discrepancy 处理 SOP（临床医师识别 imaging 与 official report 不一致 → 直接联系原 radiologist discuss + collaborative review + amend report if needed → 仅在沟通后才升级 imaging）/ Collaborative communication > order more tests 元 pattern（imaging / pathology / lab / specialist consult 4 场景适用）/ Second opinion from different radiologist = premature + bypass professional norms + 额外 charge / Unilateral CT order = unnecessary testing + 不 address communication gap / Open dialogue 减 diagnostic error = patient safety cornerstone / "Walk over to original author" 元规则（vs export 另做找别人 review）
 > 状态:: 🟢
 > 错因:: 知识 confirm
+
+## 2026-05-28
+
+> [!example]- [2026-05-28] 肾 / Transplant Renal Artery Stenosis — 移植肾 1-2 yr 内 resistant HTN + ACEI 后 Cr↑ 经典指纹 (Q16323)
+> ^Q16323
+>
+> ## Stem 模式
+> 56yo M，1 yr 前因 FSGS 行肾移植；8 wks 前出现 HTN 210/110，amlodipine 控不住；2 wks 前加 lisinopril → 现 Cr 1.5 → 2.4，BP 仍 160/90；tacrolimus 血药浓度 **在治疗范围内**；患者自觉良好，移植区无压痛。最合适的下一步？
+>
+> ## 核心概念
+> **移植肾 = 单肾 = 等效双侧 RAS**：ACEI 加用后 Cr 急性升 + resistant HTN + 1-2 yr post-tx 时间窗 = **Transplant RAS** 三联指纹 → next step = **renal vascular imaging（首选 Doppler US）**。Tacrolimus 血药范围内 → 不是 CNI 毒性。
+>
+> Answer：**D. Renal vascular imaging**
+>
+> ## 普适规则
+>
+> ### Transplant RAS 三联指纹 ⭐
+>
+> | 指纹要素 | 表现 |
+> |---|---|
+> | **时间窗** | post-tx 前 **2 年内最常见**（吻合口狭窄 / 手术创伤 / 供肾动脉粥样硬化 / CMV / BK virus） |
+> | **resistant HTN** | 多药控不住 + 难治型；可伴 flash pulmonary edema |
+> | **ACEI / ARB 后 Cr 急升** | **核心钩子** — 单肾 = 等效双侧 RAS → 加 ACEI 后 GFR 急剧↓ |
+> | 体征 | graft 区 / 上腹 **bruit**；可有 lateralizing bruit |
+> | 诊断 | **Doppler US**（首选，无创）→ 阴性仍高度怀疑则 CTA / MRA → 金标准 angiography |
+> | 治疗 | **PTA ± stent**（angioplasty）；术后停 ACEI 改其他降压 |
+>
+> ### 移植肾 AKI 鉴别 SOP（看到 post-tx Cr↑ 强制扫描 5 项）⭐
+>
+> ```
+> Post-transplant AKI
+>   ├─ ① 急性排斥 → graft 压痛 / 发热 / 突发 Cr↑ → biopsy（金标准）
+>   ├─ ② CNI 毒性（tacrolimus / cyclosporine）→ 血药浓度 ↑ → 降量
+>   ├─ ③ Transplant RAS ⭐ → 1-2 yr 内 + resistant HTN + ACEI 后 Cr↑ → Doppler
+>   ├─ ④ BK virus / CMV → 病毒载量 + 决奥维 + biopsy
+>   └─ ⑤ ATN（围手术期缺血 / 早期）/ obstruction（输尿管） → 影像
+> ```
+>
+> ### ACEI 后 Cr 急性升 → 3 个鉴别（任何患者）
+> | 鉴别 | Cr 上升幅度 | 思路 |
+> |---|---|---|
+> | **双侧 RAS / 移植肾 RAS / 孤立肾 RAS** | **>30%** | ACEI 解除出球小动脉收缩 → GFR 崩塌 → 停 ACEI + 影像 |
+> | 单侧 RAS | <30% 或正常 | 对侧肾代偿 |
+> | 容量收缩（脱水 / 利尿过度） | 缓慢 | 补液后好转 |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Kidney biopsy | ❌ 急排首选，但本题**无 graft 压痛 / 发热 / 起病急** → 应先做无创影像排 RAS |
+> | B | Lisinopril dose increase | ❌ ACEI 本身在 RAS 患者**加重** AKI — 反向操作 |
+> | C | Prednisone discontinuation | ❌ **低剂量** prednisone 不致 HTN / AKI；high-dose 才有钠水潴留 |
+> | **D** ⭐ | Renal vascular imaging | ✅ 经典指纹 + 无创筛查首选 |
+> | **E（我选的）** | Tacrolimus discontinuation | ❌ tacro 血药**在治疗范围**→ 浓度不高 → 不太可能是 CNI 毒性；况且突然停 CNI 会触发排斥 |
+>
+> ## 我为什么错
+> - 选了：**E**（Tacrolimus discontinuation）
+> - 错因：**知识 / pattern**
+> - 核心陷阱：没识别"**ACEI 后 Cr ↑ + 移植肾 + resistant HTN**"= Transplant RAS 指纹；反射性想"移植 + Cr↑ → CNI 毒性 → 停药"，忽略 stem 明确写 **"tacrolimus level within therapeutic range"**
+> - 元错误：忽视 stem 给的关键否定信息（"血药范围内"= 排除 CNI 毒性）
+>
+> ## Memory Hook
+> - **"移植肾 1-2 yr 内 + ACEI 后 Cr 急升 + resistant HTN → Transplant RAS → Doppler"** ⭐
+> - **"单肾 / 移植肾 = 等效双侧 RAS"**（ACEI 全肾断 = GFR 全崩）
+> - **"Tacro 范围内 ≠ CNI 毒性"**（stem 明示在治疗窗内就别选停药）
+> - 类比：双肾 RAS 给 ACEI = 双轨断电；单肾 RAS 给 ACEI = 唯一动脉断电
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：见 "post-tx + Cr↑" 反射 CNI 毒性 / 急排 → 跳过"血药范围内"的否定信息 + 没把 "ACEI 后 Cr↑" 与 RAS 挂钩
+> - 学到：移植肾的 ACEI-Cr↑ pattern 与"双侧 RAS"是同一指纹；Transplant RAS 的特征时间窗是 **1-2 yr 内**
+> - 学到：post-tx AKI 鉴别要走完 5 项 SOP，不能反射只想最近开的药
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 首题（Transplant RAS 主题）；同 ACEI + RAS 大家族见 [[完整笔记/专题笔记/心内/心内_继发性高血压鉴别框架]] §5.4 Q3933 Atherosclerotic RAS
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（line 637 RAS / line 742-805 FMD）
+>   - [[完整笔记/专题笔记/心内/心内_继发性高血压鉴别框架]]（§5.3 Atherosclerotic RAS vs FMD / §5.4 RAS 6 大诊断线索）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/外科]]（移植围手术期 + 吻合口并发症）
+>   - [[完整笔记/Peixuan分科笔记/感染]]（CMV / BK 介导 RAS 病因）
+> - 🌱 TODO：
+>   - [[完整笔记/专题笔记/心内/心内_继发性高血压鉴别框架]] §5 **加 5.5 Transplant RAS 子节**（三联指纹 + 时间窗 + 病因 4 类 + 移植肾 AKI 5 项鉴别 SOP）
+>   - 等积累 ≥ 3 道 post-tx AKI 错题 → 建 [[完整笔记/专题笔记/肾脏/肾脏_移植后AKI鉴别SOP]]（急排 / CNI / RAS / BK-CMV / ATN-梗阻 5 鉴别 + 影像 / biopsy / 血药 next step 决策树）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q16323（验证 Transplant RAS 反射）
+> - [ ] 默写 Transplant RAS 三联指纹（时间窗 / resistant HTN / ACEI 后 Cr↑）
+> - [ ] 默写移植肾 AKI 5 项鉴别 SOP
+> - [ ] 反射训练：见 "post-tx + ACEI 后 Cr ↑" → 0.5 秒锁 Doppler
+> - [ ] 元反思动作：stem 明示"血药范围内"= 强排除信号，要先停下扫"是否有反向暗示"
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: Transplant Renal Artery Stenosis 三联指纹（post-tx 1-2 yr 内 + resistant HTN + ACEI/ARB 后 Cr 急升 — 移植肾 = 单肾 = 等效双侧 RAS）/ 移植肾 AKI 5 项鉴别 SOP（急排 biopsy / CNI 毒性 查血药 / Transplant RAS Doppler / BK-CMV 病毒载量 / ATN-梗阻 影像）/ ACEI 后 Cr 升 >30% = bilateral/孤立肾 RAS 指纹 / Doppler US 为 RAS 首选无创筛查（→ CTA/MRA → angiography 金标）/ 治疗 PTA ± stent / Tacrolimus 血药范围内 ≠ CNI 毒性（强排除信号）
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-28] 肾 / Hepatorenal Syndrome — Splanchnic vasodilation 致 functional renal vasoconstriction + 扩容无反应 + bland UA (Q4752)
+> ^Q4752
+>
+> ## Stem 模式
+> 58yo M HCV 肝硬化，入院因 HE + SBP → lactulose + cefotaxime → MS 改善但肾功能进行性恶化：Cr 1.1 → 1.6 → 2.4 → 3.1 → 3.9 mg/dL；入院时停了 furosemide + spironolactone；BP 98/62，P 102；PE 黄疸 / spider / 腹水 / 下肢水肿；**UA 无 cells / casts / protein**；US 肾大小正常 + 无 hydronephrosis；**IV NS + albumin 输注无改善**。最可能机制？
+>
+> ## 核心概念
+> **Hepatorenal syndrome (HRS) = functional renal vasoconstriction** 继发 advanced liver disease：portal HTN → 内脏血管 NO 等扩张介质↑ → splanchnic vasodilation → **有效动脉血容量 (EABV)↓** → RAAS / SNS / ADH 激活 → **renal vasoconstriction + Na 潴留** → AKI。**真实容量不缺**（甚至总水多），扩容无反应；UA bland（prerenal urine）；唯一根治 = **liver transplant**。
+>
+> Answer：**A. Cirrhosis-associated splanchnic vasodilation**
+>
+> ## 普适规则
+>
+> ### 肝硬化患者 AKI 强制 5 项鉴别 SOP ⭐
+>
+> ```
+> 肝硬化 + Cr 上升
+>   ├─ ① Prerenal volume depletion（GI 出血 / 利尿过度 / 第三间隙）
+>   │     → 扩容 (NS + albumin) **改善** → 是这个
+>   ├─ ② ATN（缺血 / 造影剂 / aminoglycoside / cephalosporin 数天后）
+>   │     → UA: **muddy brown casts** + ↑ FENa
+>   ├─ ③ AIN（药物 — 抗生素 / NSAIDs / PPI）
+>   │     → UA: WBC casts + eosinophiluria + 皮疹 / 嗜酸 / 发热
+>   ├─ ④ Glomerular（HCV-MPGN / IgA / HBV-MN）
+>   │     → UA: RBC casts + proteinuria
+>   └─ ⑤ HRS ⭐（排除诊断）
+>         → 扩容 NS + albumin **无改善** + UA **bland** + 肾正常大小
+>         → Type 1: 2 wks 内 Cr 翻倍 / >2.5（rapidly progressive）
+>         → Type 2: 缓慢 Cr 升 + 难治腹水（与 type 1 截然不同）
+> ```
+>
+> ### HRS 病理生理链 ⭐⭐
+>
+> ```
+> Advanced liver disease + Portal HTN
+>           │
+>           ▼
+> 内脏 NO / vasodilators 释放↑ → Splanchnic vasodilation
+>           │
+>           ▼
+> 血液池在腹腔血管 → 有效动脉血容量 (EABV) ↓
+>           │
+>           ▼
+> SNS + RAAS + ADH 激活 → Renal vasoconstriction + Na/水潴留
+>           │
+>           ▼ + 触发事件 (SBP / GI 出血 / 大量放腹水无 albumin)
+> Overwhelming renal vasoconstriction → 急性 oliguric AKI（HRS Type 1）
+>           │
+>           ▼
+> 唯一根治 = Liver transplant
+> ```
+>
+> ### HRS 治疗阶梯
+> | 阶梯 | 内容 |
+> |---|---|
+> | **桥接（药物）** | **Terlipressin (首选) + Albumin** 或 Midodrine + Octreotide + Albumin（升 MAP + 抗 splanchnic 扩张）|
+> | **触发病因** | 治 SBP / 止 GI 出血 / 停 nephrotoxins |
+> | **预防** | SBP 时 **IV albumin**（Cr>1, BUN>30, Bili>4 触发）|
+> | **根治** ⭐ | **Liver transplant**（绕过 HRS 全套病机） |
+>
+> ### SBP → HRS 预防链（高频）
+> SBP → IV cefotaxime/ceftriaxone + **IV albumin** (Day 1 1.5 g/kg, Day 3 1 g/kg) → 降 HRS 发生率 + 死亡率（已成共识）→ 见 [[完整笔记/Peixuan分科笔记/消化腺]] line 1258
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | **A** ⭐ | Cirrhosis-associated splanchnic vasodilation | ✅ HRS 核心机制 — 扩容无反应 + UA bland 锁定 |
+> | B | Drug-mediated renal tubular injury (cefotaxime ATN) | ❌ 头孢虽可致 ATN，但典型 muddy brown casts + 多在数天后；本题 UA bland |
+> | C | Glomerular immune complex deposition | ❌ HCV 可致 MPGN，但需 proteinuria + RBC casts；本题 UA bland |
+> | **D（我选的）** | Intravascular volume depletion (prerenal) | ❌ **已给 NS + albumin 无改善** = 强力排除容量缺乏 ⚠️ |
+> | E | Renal interstitial inflammation (AIN) | ❌ AIN 需 WBC casts + 嗜酸 + 皮疹 / 发热；本题 UA bland |
+>
+> ## 我为什么错
+> - 选了：**D**（Intravascular volume depletion）
+> - 错因：**pattern / 知识**
+> - 核心陷阱：见"肝硬化 + 利尿剂史 + BP 偏低 + Cr 升" 反射 prerenal → **忽略 stem 关键信息 "no improvement with IV NS + albumin"** — 这正是排除 prerenal 的金标准
+> - 元错误：HRS 本质 = **functional** vasoconstriction（不是真容量缺乏），但表现得像 prerenal（bland UA + 低 FENa）→ 不读"扩容是否有效"就分不清
+>
+> ## Memory Hook
+> - **"肝硬化 + 扩容无效 AKI + bland UA = HRS"** ⭐⭐⭐
+> - **HRS 三步链**：门脉高压 → splanchnic vasodilation → EABV↓ → renal vasoconstriction
+> - **"HRS = 假 prerenal"**（看起来像 prerenal，扩容不应）
+> - **唯一根治 = 移植肝**（绕过病机）
+> - 反 pattern：见"肝硬化 + 利尿 + 低 BP + Cr↑"先别冲 prerenal — 看"扩容是否有效"
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：HRS vs prerenal vs ATN — 关键鉴别 = "扩容反应" + "UA"
+> - 学到：HRS 的 UA 与 prerenal 长得**完全一样**（bland，低 FENa），唯一区分点 = NS + albumin 扩容**无效**
+> - 学到：肝硬化 AKI 必须走完 5 项 SOP（prerenal / ATN / AIN / GN / HRS），HRS 是**排除诊断**
+> - 学到：SBP 给 albumin 不只是扩容，更是**降低 HRS 发生率**（已是 SOC）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 首题（HRS 主题）；肝硬化并发症见 [[mistakes/uworld-mistakes#^Q2357]] Bipolar/Lithium-PKD（同"看患者 lab 否决经典反射"元 pattern）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/消化腺]]（line 1258-1268 HRS + SBP / 1268 splanchnic vasodilation 机制）
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（AKI 鉴别框架）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/感染]]（SBP cefotaxime + albumin 预防 HRS）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]]（HRS 加入 §1.x bland UA + 扩容无效指纹）
+> - 🌱 TODO：
+>   - 建 [[完整笔记/专题笔记/肾脏/肾脏_肝硬化AKI鉴别SOP]]（5 项鉴别 + HRS 病理生理链 + 治疗阶梯 + SBP-HRS 预防链）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] **新增 HRS 条目**：bland UA + low FENa + 肝硬化 + 扩容无效（区别于 prerenal 的"扩容应答"）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q4752（验证 HRS 排除诊断反射）
+> - [ ] 默写 HRS 三步病理生理链
+> - [ ] 默写肝硬化 AKI 5 项鉴别 SOP（prerenal / ATN / AIN / GN / HRS）+ 各自 UA 指纹
+> - [ ] 默写 HRS 治疗阶梯（terlipressin/midodrine+octreotide + albumin → liver transplant 根治）
+> - [ ] 反射训练：见"肝硬化 + Cr 升 + 扩容无效 + UA bland" → 0.5 秒锁 HRS
+> - [ ] 反射训练：见 SBP → 反射加 IV albumin（降 HRS 发生率）
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: Hepatorenal Syndrome 病理生理链（门脉高压 → splanchnic vasodilation → EABV↓ → RAAS/SNS/ADH 激活 → renal vasoconstriction → functional AKI）/ HRS 是肝硬化 AKI 的**排除诊断**（先排 prerenal/ATN/AIN/GN）/ HRS 标志 = 扩容 NS + albumin 无反应 + UA bland（无 cells/casts/protein）+ 肾正常大小 / HRS Type 1 rapidly progressive（2 wks Cr 翻倍）vs Type 2 缓慢 + 难治腹水 / 治疗 terlipressin (首选) 或 midodrine+octreotide+albumin → 根治 = liver transplant / SBP 给 IV albumin 降 HRS 发生率（Day1 1.5g/kg + Day3 1g/kg）/ 反 pattern: 见"肝硬化+利尿+低BP+Cr↑" 别反射 prerenal — 看扩容反应
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-05-28] 肾 / Lithium-induced Nephrogenic DI — 缺陷部位 = 集合管（不是下丘脑！）+ DI 三鉴别表 (Q18520)
+> ^Q18520
+>
+> ## Stem 模式
+> 34yo F 甲减（levothyroxine）+ 双相（**lithium 碳酸盐**）→ 2 wks 夜尿 ≥3 次；BP 134/78, P 88, BMI 27，皮肤干 + 黏膜干（轻度脱水）；**隔夜禁水后**：Na 146, BUN 26, Cr 1.1, **血浆 Osm 308**, **尿 Osm 200 mOsm/kg**（dilute），TSH 7.0。缺陷部位？
+>
+> ## 核心概念
+> **慢性 lithium → 集合管主细胞 (collecting duct principal cells) AQP2 表达↓ + ADH 信号通路损伤 → nephrogenic DI = ADH 抵抗**。禁水 + 血浆 Osm 308（高）+ 尿 Osm 200（低）= 肾该浓缩没浓缩 → 缺陷在 **renal collecting ducts**，**不是下丘脑**（中枢 DI 才在下丘脑）。
+>
+> Answer：**E. Renal collecting ducts**
+>
+> ## 普适规则
+>
+> ### Polyuria + dilute urine 三鉴别（UW table 复述）⭐
+>
+> | | **Primary polydipsia** | **Central DI** | **Nephrogenic DI** |
+> |---|---|---|---|
+> | **机制** | ADH 无关；过量饮水 | **ADH 缺乏**（CNS 病变）| **ADH 抵抗**（肾） |
+> | **病因** | 抗精神病药（口干）/ 精神疾病 | 特发 / 创伤 / 垂体术 / 鞍区肿瘤 / 缺血性脑病 | **慢性 lithium**（最经典）/ 高钙 / Demeclocycline / Amphotericin B / 遗传 (AVPR2 & aquaporin-2) |
+> | **禁水试验 Uosm** | **升高**（正常浓缩）| 仍**低** | 仍**低** |
+> | **DDAVP 反应** | 无变化 | **Uosm ↑ >50%** | **无变化**（区分点）|
+>
+> ### Lithium 致肾性 DI 机制 ⭐
+>
+> ```
+> 长期口服 Lithium
+>         │
+>         ▼ 进入集合管主细胞（经 ENaC）
+> 蓄积于主细胞内
+>         │
+>         ▼
+> ① 抑制腺苷酸环化酶 → cAMP↓ → ADH 信号通路损伤
+> ② AQP2 表达↓ → 集合管水通道少
+>         │
+>         ▼
+> ADH 抵抗 = Nephrogenic DI（部分可逆 → 长期可致 chronic tubulointerstitial nephropathy → ESRD 不可逆）
+> ```
+>
+> ### Lithium-DI 治疗（反直觉）
+> | 药 | 机制 | 备注 |
+> |---|---|---|
+> | **Amiloride** ⭐ | 阻 ENaC → 阻 lithium 进主细胞 | 对 lithium DI 特别有用 |
+> | **Thiazide** | 反常抗利尿（轻度容量收缩 → 近端 Na/H₂O 重吸收↑ → 远端 delivery↓ → 尿量↓） | + 限钠 |
+> | 停 lithium | 部分可逆，但需考虑双相控制 | 与精神科会诊 |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | **A（我选的）** | Hypothalamus | ❌ **中枢 DI 的部位**（ADH 合成在下丘脑视上核 + 室旁核）— 但 lithium **不致中枢 DI**；反射"DI = 中枢"是错点 ⚠️ |
+> | B | Pancreatic islet cells | ❌ 1 型 DM 致渗透性利尿，但需高 Glu / KA / 尿糖 / **Sosm 应 ↑↑**；本题 Glu 112 正常 |
+> | C | Posterior pituitary | ❌ ADH **释放**部位（合成在下丘脑、储存释放在垂体后叶）— 同 A 不符 |
+> | D | Proximal tubule | ❌ **SGLT-2 inhibitor 作用部位** → 渗透性利尿但 **Uosm 高**（含糖）；本题 Uosm 低 + 无 SGLT2i 史 |
+> | **E** ⭐ | Renal collecting ducts | ✅ AQP2 在集合管 → lithium 致 ADH 抵抗就在这里 |
+> | F | Thyroid follicular cells | ❌ TSH 7 提示治疗欠佳的甲减，但**甲减不致多尿 / 稀尿**；TSH 是干扰信号 |
+>
+> ## 我为什么错
+> - 选了：**A**（Hypothalamus）
+> - 错因：**pattern**
+> - 核心陷阱：见 "DI" 反射 "下丘脑 / 垂体" → 没把 lithium 这条强指纹和"肾性 DI"挂钩 → 选错部位
+> - 元错误：DI 不等于中枢 DI；中枢 vs 肾性的部位完全不同（hypothalamus/posterior pituitary vs collecting duct）
+>
+> ## Memory Hook
+> - **"Lithium 2+ wks + 多尿夜尿 + 禁水 Uosm 低 = 肾性 DI = collecting duct"** ⭐
+> - **"DI 在哪？看类型：中枢 → 下丘脑/垂体后叶；肾性 → 集合管"** ⭐⭐⭐
+> - **AQP2 在 collecting duct → ADH 抵抗 → DDAVP 不应答 = 肾性 DI 锁死**
+> - **Lithium 走 ENaC 进主细胞 → amiloride 阻 ENaC = 反向救援**
+> - 反 pattern: TSH 7 是甲减干扰信号，不是多尿原因（甲减反而**抗利尿**、低钠 SIADH 样）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：DI = 中枢的反射，没回头扫"什么药"
+> - 学到：见 DI 题先扫病因 → 有 lithium / 高钙 / 慢性肾间质病 → 肾性；有头部外伤 / 垂体术 / 鞍区病 → 中枢
+> - 学到：禁水试验 + DDAVP 的鉴别用法（DDAVP 后 Uosm 升 >50% = 中枢；不变 = 肾性）
+> - 学到：lithium-DI 治疗反直觉 = thiazide（轻度容量收缩诱发反常抗利尿）+ amiloride（阻 lithium 进主细胞）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q2357]] Bipolar 维持治疗 — 提及 Lithium 致 nephrogenic DI（双相用药决策树场景，本题是 DI 部位/机制场景）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（line 43-55 DI 简表）
+>   - [[完整笔记/Peixuan分科笔记/psych]]（Lithium adverse effects line 880-890）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]]（§1.8 中枢性 vs 肾性 DI — 已涵盖 lithium 病因）
+>   - [[完整笔记/专题笔记/psych/psych_双相障碍用药决策树]]（Lithium 副作用清单 line 236）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/psych]]（双相 / lithium 慢性副作用 — 肾 / 甲状腺 / 甲旁亢 / 高钙 / 体重）
+>   - [[完整笔记/Peixuan分科笔记/endocrine]]（甲减 TSH 解读 — 干扰项）
+> - 🌱 TODO：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]] line 43-55 DI 简表 **扩展为 polyuria 三鉴别完整表**（Primary polydipsia / Central DI / Nephrogenic DI × 病因 + 禁水 + DDAVP），照 UW Q18520 table 1:1
+>   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] §1.8 **加 Lithium-DI 治疗子节**（amiloride 阻 ENaC + thiazide 反常抗利尿 + 限钠 + 与精神科会诊评估停药）
+>   - 等积累 ≥ 3 道 DI 题（中枢 / 肾性 / 妊娠期 / psychogenic）→ 建 [[完整笔记/专题笔记/肾脏/肾脏_DI完整鉴别框架]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q18520（验证 Lithium-DI = 集合管反射）
+> - [ ] 默写 Polyuria + dilute urine 三鉴别表（病因 + 禁水 Uosm + DDAVP 反应）
+> - [ ] 默写 Lithium-DI 机制链（ENaC 入主细胞 → cAMP↓ + AQP2↓ → ADH 抵抗）
+> - [ ] 默写 Lithium-DI 治疗（amiloride + thiazide + 限钠 + 停药评估）
+> - [ ] 反射训练：见 "lithium + 多尿 + 禁水 Uosm 低" → 0.5 秒锁 collecting duct
+> - [ ] 反射训练：见 "DI" 题先扫病因（lithium / 高钙 / 头部 / 垂体术）再定中枢 vs 肾性部位
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: Lithium-induced Nephrogenic DI 缺陷在 renal collecting ducts（不是下丘脑！）/ Polyuria 三鉴别（1° polydipsia ADH 无关 / Central DI = ADH 缺乏（下丘脑/垂体后叶病变）/ Nephrogenic DI = ADH 抵抗（肾））/ 禁水 + DDAVP 鉴别中枢 vs 肾性（中枢 Uosm 升 >50% / 肾性 无变化）/ Lithium-DI 机制（ENaC 入主细胞 → cAMP↓ + AQP2↓ → ADH 抵抗 + 长期致 chronic tubulointerstitial nephropathy 不可逆 ESRD）/ Lithium-DI 治疗（amiloride 阻 ENaC + thiazide 反常抗利尿 + 限钠 + 停药评估）/ 其他肾性 DI 病因（高钙 / Demeclocycline / Amphotericin B / 遗传 AVPR2 & aquaporin-2）/ 反 pattern: 见 DI 别反射"下丘脑"先扫病因（lithium/高钙/头部）定中枢 vs 肾性 / TSH 7 是甲减干扰信号 — 甲减反而抗利尿不致多尿
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-05-28] 肾 / CNI (Tacrolimus) 急性肾毒性 — Diltiazem CYP3A4 抑制 → 血药↑ → arteriolar vasoconstriction（🟡 做对但不确定）(Q16485)
+> ^Q16485
+>
+> ## Stem 模式
+> 58yo F PKD-ESRD post-renal-tx 2 yr，2 mo 前诊 AF 加 **diltiazem** + apixaban + prednisone + tacrolimus + MMF；几周来 oliguria + fatigue；BP 152/86, Cr 2.3（baseline 1.4）；UA bland；**tacro 血药中度升高**；US 无 hydronephrosis。原因？
+>
+> ## 核心概念
+> **CNI（tacrolimus / cyclosporine）急性毒性** = 入球 + 出球小动脉 **vasoconstriction** → prerenal-like AKI（UA bland）+ HTN。CNI **经肝 CYP3A4 清除** → 加 **CYP3A4 抑制剂**（diltiazem / azole / 红霉素 / 葡萄柚）→ 血药 ↑ → 急毒。**调减剂量可逆**；慢性毒 = 长期血管缺血 + 直接小管毒 + 间质纤维化 → 不可逆。
+>
+> Answer：**C. Arteriolar vasoconstriction**
+>
+> ## 普适规则
+>
+> ### CNI 肾毒性双阶段 ⭐
+>
+> | 阶段 | 机制 | 表现 | 可逆性 |
+> |---|---|---|---|
+> | **急性** ⭐ 本题 | 入/出球小动脉 vasoconstriction → ↓RBF / ↓GFR | AKI + HTN + UA bland（prerenal pattern）| **降剂量可逆** |
+> | **慢性** | 血管缺血 + 直接小管毒 + 间质纤维化 | 进行性 ↓ GFR + arteriolopathy on biopsy | **不可逆** |
+>
+> ### CYP3A4 与 CNI 血药互动雷区 ⭐⭐⭐
+>
+> | CYP3A4 **抑制剂**（↑ CNI 血药 → 中毒）| CYP3A4 **诱导剂**（↓ CNI 血药 → 排斥）|
+> |---|---|
+> | **Diltiazem / Verapamil**（非二氢吡啶 CCB）| Rifampin |
+> | Azole 抗真菌（fluconazole / ketoconazole / voriconazole）| Phenytoin / Carbamazepine / Phenobarbital |
+> | Macrolides（**erythromycin / clarithromycin**，**azithromycin 安全**）| St. John's wort |
+> | Protease inhibitors（HIV ritonavir 等）| |
+> | **葡萄柚汁** | |
+>
+> ### 口诀：CYP3A4 抑制剂 = **"D-A-M-P-G"** = Diltiazem / Azole / Macrolide / Protease inh / Grapefruit
+>
+> ### 移植肾 AKI 鉴别 5 项 SOP（沿用 Q16323 框架）
+> ① 急排（biopsy）/ ② **CNI 毒 ⭐ 本题**（血药 ↑ → 降量）/ ③ Transplant RAS（Doppler）/ ④ BK / CMV（病毒载量）/ ⑤ ATN / 梗阻（影像）
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Acute interstitial nephritis | ❌ 需 WBC casts + 嗜酸 + 皮疹；本题 UA bland |
+> | B | Acute tubular necrosis | ❌ ATN 在 post-tx **第 1 周**最常（围手术缺血）+ muddy brown casts |
+> | **C** ⭐ | Arteriolar vasoconstriction | ✅ CNI 急性毒性核心机制 |
+> | D | Cell-mediated rejection | ❌ 急排多在 post-tx 6 mo 内 + graft 压痛 + 炎症证据 |
+> | E | Polyoma (BK) virus reactivation | ❌ 需 decoy cells / BK PCR；本题 UA bland 不符 |
+>
+> ## 我为什么卡点（做对但不确定）
+> - 选了：**C** ✓（做对）
+> - 卡点：知道 tacro 血药 ↑ + diltiazem CYP3A4 互动，但**对"急性 = 血管收缩"机制部位不熟**；差点选 B (ATN) 因混淆"CNI 毒 = 小管毒"
+> - 实际：**急性** CNI 毒 = 血管收缩（功能性，bland UA，可逆）；**慢性** CNI 毒 = 小管 + 间质纤维化（不可逆）
+> - 元错误：知道触发（药物互动）但不知具体病机部位
+>
+> ## Memory Hook
+> - **"Diltiazem + tacro → CYP3A4 抑制 → 血药 ↑ → arteriolar vasoconstriction → bland AKI + HTN"** ⭐
+> - **"CNI 急 = 血管收缩可逆；CNI 慢 = 小管纤维化不可逆"**
+> - CYP3A4 抑制剂记忆 = **"D-A-M-P-G"**
+> - 反 pattern: post-tx AKI + UA bland + **血药 ↑** → 不是急排 / ATN / BK，是 CNI 毒
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：CNI 急 vs 慢的病机部位区别（急 = 血管，慢 = 小管 + 纤维化）
+> - 学到：CYP3A4 互动是 transplant 患者每加新药必扫的"雷区"（CCB AF 治疗需用 amlodipine / 二氢吡啶不抑 CYP3A4 / 而 diltiazem 是大坑）
+> - 学到：与 Q16323（Transplant RAS）配套 — post-tx 单肾对血管损伤特别敏感
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q16323]] Transplant RAS（同移植肾 AKI 5 项鉴别 — 本题是 SOP 中第 ② CNI 毒性）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]
+>   - [[完整笔记/Peixuan分科笔记/外科]]（移植免疫抑制）
+>   - [[完整笔记/Peixuan分科笔记/心内]]（diltiazem CCB AF 治疗）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/感染]]（azole / macrolide 抗感染药与 CYP3A4）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]]（药物相互作用）
+> - 🌱 TODO：
+>   - 待建 [[完整笔记/专题笔记/肾脏/肾脏_移植后AKI鉴别SOP]] **加 §CNI 急性 vs 慢性毒性表 + CYP3A4 互动雷区**（与 Q16323 配套整合）
+>   - 待建 [[完整笔记/专题笔记/USMLE/USMLE_CYP450药物互动雷区]]（CNI / warfarin / OCP / 抗癫痫 4 场景 + D-A-M-P-G 抑制剂口诀）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q16485（验证 CNI 急性 = 血管收缩反射）
+> - [ ] 默写 CNI 急 vs 慢双阶段表 + CYP3A4 抑制剂 D-A-M-P-G
+> - [ ] 反射训练：见 "transplant + 加 diltiazem/azole/macrolide + Cr ↑" → 0.5 秒锁 CNI 毒 + 测血药
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: Calcineurin Inhibitor (CNI) 急性肾毒性 = 入/出球小动脉 vasoconstriction（功能性 prerenal-like，UA bland，降剂量可逆）vs 慢性毒性 = 血管缺血 + 小管毒 + 间质纤维化（不可逆）/ CNI 经肝 CYP3A4 清除 → CYP3A4 抑制剂（Diltiazem/Verapamil/Azole/Macrolide-非 azithro/Protease inh/葡萄柚）致血药↑致急毒；CYP3A4 诱导剂（Rifampin/Phenytoin/CBZ/St.John's wort）致血药↓致排斥 / CYP3A4 抑制剂口诀 D-A-M-P-G / 移植肾 AKI 5 项鉴别 SOP（急排/CNI毒/RAS/BK-CMV/ATN-梗阻）/ CNI 毒性指纹 = UA bland + 血药↑ + HTN + 调减剂量可逆 / AF 移植患者用 CCB 选 amlodipine（二氢吡啶不抑 CYP3A4），避 diltiazem/verapamil
+> 状态:: 🟡（做对但不确定 — 知道触发不知机制部位）
+> 错因:: 知识
+
+> [!example]- [2026-05-28] 心内 + 肾 / Cyanide Toxicity by Sodium Nitroprusside — >24-48 hr infusion + 肾损 → CN 蓄积（🟡 做对但不确定）(Q11566)
+> ^Q11566
+>
+> ## Stem 模式
+> 72yo M HTN 不规律服药 + 每日 1-2 杯酒 → ED 因 SOB / HA / fatigue；BP 184/128, SpO2 90%；papilledema + 双下肺 crackles + 2/6 SEM；Cr 2.0；给 O2 + furosemide + **nitroprusside drip**；**36 hr 后** BP 140/80 不喘了；但**confused + diffuse hyperreflexia**；Bicarb 14, Cr 2.5。原因？
+>
+> ## 核心概念
+> **Sodium nitroprusside** 含 5 个 CN⁻ 基 → 体内代谢释 cyanide → 经肝 rhodanese + thiosulfate → **thiocyanate（经肾排）**。**肾损 + infusion > 24-48 hr → cyanide 蓄积** → 抑制线粒体 cytochrome oxidase / 阻断 oxidative phosphorylation → 强迫无氧代谢 → **高 AG MA + ↑ lactate + 神经症状（confusion / hyperreflexia / seizures）+ 循环崩溃**。治疗：**hydroxocobalamin ± thiosulfate**；**Sodium nitrite + thiosulfate 是替代但 CO 中毒禁用**。
+>
+> Answer：**B. Cyanide toxicity**
+>
+> ## 普适规则
+>
+> ### Cyanide 毒性指纹（5 联）⭐
+>
+> | 指纹要素 | 表现 |
+> |---|---|
+> | **病因** | ① **Nitroprusside infusion > 24-48 hr**（尤其肾损） ② 结构火灾（塑料 / 羊毛 / 丝燃烧）③ 工业（金属冶炼 / 采矿） |
+> | **神经** | Headache → confusion → seizures → coma；**hyperreflexia**（thiocyanate 蓄积致）|
+> | **代谢** | **高 AG MA + ↑ lactate**（强迫无氧代谢）|
+> | **循环** | 早期 HTN / 心动过速 → 晚期循环崩溃 |
+> | **皮肤** | **Cherry-red skin**（同 CO 中毒）|
+>
+> ### Nitroprusside 安全使用规则
+>
+> | 规则 | 说明 |
+> |---|---|
+> | **限时长** | ≤ 24-48 hr |
+> | **避肾损** | 肾功不好慎用或减量（thiocyanate 经肾排）|
+> | **替代药** | HTN 急症首选 IV labetalol / nicardipine（不要默认 nitroprusside）|
+> | **监测** | 长 infusion 监 lactate / ABG / mental status |
+>
+> ### Cyanide 中毒治疗 3 选 ⭐
+>
+> | 治疗 | 机制 | 备注 |
+> |---|---|---|
+> | **Hydroxocobalamin (vit B12a)** ⭐ 首选 | + CN⁻ → cyanocobalamin 经肾排 | 安全（不诱导高铁血红蛋白）|
+> | **Sodium thiosulfate** | + CN⁻ → thiocyanate 经肾排 | 单用慢，常 + hydroxo |
+> | **Sodium nitrite + thiosulfate** | nitrite 诱导高铁血红蛋白 → 结合 CN⁻ | **CO 中毒禁用**（高铁血红蛋白 + CO 致命叠加）|
+>
+> ### 与 CO 中毒 / 高铁血红蛋白血症的鉴别
+>
+> | | Cyanide | CO | Methemoglobinemia |
+> |---|---|---|---|
+> | 病因 | Nitroprusside / 火 / 工业 | 火 / 燃气 / 车尾气 | Dapsone / Benzocaine / Nitrates |
+> | 皮肤 | Cherry-red | Cherry-red | **巧克力棕 / 紫绀**（不响应 O2）|
+> | SpO2 | 正常 / 高 | 假性正常（pulse ox 不分 CO-Hb）| 85% 卡死 |
+> | 治疗 | Hydroxocobalamin | 100% O2 / hyperbaric | **Methylene blue** + 100% O2 |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Alcohol withdrawal | ❌ DTs 多 tachycardia + 重度饮酒史 + 突停；本题 moderate alcohol use 不符 |
+> | **B** ⭐ | Cyanide toxicity | ✅ Nitroprusside × 36 hr + 肾损 + 高 AG MA + 神经症状 |
+> | C | Global cerebral hypoperfusion | ❌ 慢性 HTN 患者 BP 降 25% 在 36 hr 内是合理速率；且不致高 AG MA |
+> | D | Lacunar infarcts | ❌ 小灶卒中致 focal 神经；本题 diffuse hyperreflexia + 无 focal |
+> | E | Uremic encephalopathy | ❌ Cr 2.0→2.5 太轻；uremic encephalopathy 需更重肾衰 |
+>
+> ## 我为什么卡点（做对但不确定）
+> - 选了：**B** ✓（做对）
+> - 卡点：联想到 nitroprusside → cyanide，但对"为什么是 36 hr 后" / "为什么肾损相关" / "和 CO/MetHb 怎么区分"不太熟
+> - 学到：nitroprusside 含 5 个 CN⁻ → 长 infusion + 肾损 = 双重 risk；hydroxocobalamin 是首选解毒；sodium nitrite + thiosulfate 是替代但**CO 中毒禁用**（高铁血红蛋白 + CO 致命）
+>
+> ## Memory Hook
+> - **"Nitroprusside > 24-48 hr + 肾损 + 神经症状 + 高 AG MA = cyanide toxicity"** ⭐
+> - **"Cherry-red 双胞胎：cyanide + CO（区分点：MetHb 是巧克力棕 + SpO2 卡 85%）"**
+> - **"HTN 急症长 infusion 首选 labetalol/nicardipine，不默认 nitroprusside"** ⭐
+> - Hydroxocobalamin = vit B12a，"维生素吃毒" — 安全无 MetHb 风险
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：cyanide vs CO vs MetHb 三大"组织缺氧"机制如何快速区分（皮肤色 / SpO2 / 病因）
+> - 学到：所有 nitroprusside 长用题必扫 cyanide；hydroxocobalamin 与 nitrite+thiosulfate 在 CO 中毒场景的禁忌反差
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 首题（cyanide 主题）；HTN 急症与 nitroprusside 相关见 [[完整笔记/Peixuan分科笔记/心内]]
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/心内]]（HTN emergency / nitroprusside）
+>   - [[完整笔记/Peixuan分科笔记/感染]] / [[完整笔记/Peixuan分科笔记/外科]]（火灾烟雾吸入 cyanide + CO 同时中毒）
+> - 🏥 跨学科：
+>   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]]（待加 cyanide / CO / MetHb 三胞胎鉴别指纹）
+>   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（MetHb / Heinz body）
+> - 🌱 TODO：
+>   - 待建 [[完整笔记/专题笔记/USMLE/USMLE_组织缺氧三胞胎]]（Cyanide / CO / Methemoglobinemia × 病因 + 皮肤色 + SpO2 + 解毒 — 含 nitrite+thiosulfate 在 CO 中毒禁用的反 pattern）
+>   - [[完整笔记/Peixuan分科笔记/心内]] HTN emergency 章节 **加 nitroprusside 安全规则（≤24-48hr / 避肾损 / 长 infusion 替代选 labetalol/nicardipine）**
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q11566（验证 cyanide 5 联指纹反射）
+> - [ ] 默写组织缺氧三胞胎对比表（Cyanide / CO / MetHb）
+> - [ ] 默写 cyanide 解毒 3 选 + sodium nitrite 在 CO 中毒禁用
+> - [ ] 反射训练：见 "nitroprusside > 24 hr + 肾损 + 神经症状 + 高 AG MA + lactate ↑" → 0.5 秒锁 cyanide + hydroxocobalamin
+>
+> ---
+>
+> 学科:: 心内
+> 主题:: Cyanide Toxicity 5 联指纹（Nitroprusside > 24-48hr 尤其肾损 / 神经症状 confusion+hyperreflexia / 高 AG MA + lactate↑ / 循环早期 HTN-tachy 晚期崩溃 / Cherry-red skin）/ 病机：CN⁻ 抑制线粒体 cytochrome oxidase → 强迫无氧代谢 / Nitroprusside 含 5 个 CN 基 + 经肝 rhodanese+thiosulfate → thiocyanate 经肾排 / Nitroprusside 安全规则（≤24-48hr / 避肾损 / HTN 急症长 infusion 首选 labetalol-nicardipine 替代） / Cyanide 解毒 3 选（Hydroxocobalamin 首选 → cyanocobalamin 经肾 / Sodium thiosulfate → thiocyanate / Sodium nitrite+thiosulfate 替代但 CO 中毒禁用 — 高铁血红蛋白+CO 致命叠加） / 组织缺氧三胞胎鉴别（Cyanide 樱红+SpO2正常+解毒hydroxo / CO 樱红+SpO2假性正常+100%O2-高压氧 / MetHb 巧克力棕+SpO2卡85%+解毒methylene blue）
+> 状态:: 🟡（做对但不确定 — 知病因不熟解毒禁忌与鉴别）
+> 错因:: 知识
+
+> [!example]- [2026-05-28] 肾 / Analgesic Nephropathy — 长期 OTC acetaminophen + NSAID/aspirin → CTIN ± papillary necrosis + 双侧小肾 + WBC casts (Q4004)
+> ^Q4004
+>
+> ## Stem 模式
+> 62yo M 慢性背痛 10 yr（工伤后术）+ 长期 **OTC 镇痛药**；近 weeks malaise/fatigue；3 mo 前一次 severe flank pain 自认 "muscle pain"；前列腺轻度增大；Hb 10.4 / MCV 92, BUN 32, Cr 2.2；UA 2+ protein + **WBC 20-30/hpf + RBC 1-2/hpf + WBC and hyaline casts**；US **双侧小肾**。原因？
+>
+> ## 核心概念
+> **Analgesic nephropathy** = 长期联合 **acetaminophen + aspirin / NSAID** → ① acetaminophen 代谢物（NAPQI 样反应性物质）+ ② NSAID 直接氧化损伤；glutathione 耗竭加剧 → **CTIN（chronic tubulointerstitial nephritis）± papillary necrosis** → 表现 = AKI/CKD + UA 主 WBC + WBC casts + 轻蛋白尿 + ± hematuria（有 papillary necrosis 时）+ **双侧小肾 + papillary calcification**。
+>
+> Answer：**E. Tubulointerstitial nephritis**
+>
+> ## 普适规则
+>
+> ### 间质性肾炎家族（必区分 AIN vs CTIN）⭐
+>
+> | | **Acute Interstitial Nephritis (AIN)** | **Chronic TIN (CTIN)** |
+> |---|---|---|
+> | **病因** | 药物（**抗生素 β-lactam / FQ / 磺胺 / NSAIDs / PPI / allopurinol**）/ 感染（**Legionella, CMV, TB, EBV**）/ 自免（**SLE / Sjögren / 结节病**）| **Analgesic nephropathy**（长期 APAP + NSAID）/ 慢性 lithium / 慢性 obstruction / 重金属（Pb / Cd）/ 慢性 reflux / 痛风（chronic urate nephropathy）|
+> | **病程** | 急性（天 - 周）| 慢性（月 - 年）|
+> | **临床** | AKI + **fever + maculopapular rash + 外周嗜酸**（classic triad 只 10%）+ malaise / polyarthralgia | 慢性 CKD + 贫血 + 双侧小肾 ± papillary necrosis（flank pain + hematuria + sloughed papillae）|
+> | **UA** | WBC + **WBC casts** + 轻蛋白 + ± RBC + eosinophiluria | WBC + WBC casts + 轻蛋白（< 1-1.5 g/d）+ 有 papillary necrosis 时 RBC |
+> | **影像** | 正常或轻度增大 | **双侧小肾** + papillary calcification + 不规则轮廓 |
+> | **治疗** | **停 offending drug + 类固醇**（如持续）| **停 analgesics**（不可逆，停可减缓进展）|
+>
+> ### Analgesic nephropathy 病机链 ⭐
+>
+> ```
+> 长期 acetaminophen + aspirin/NSAID 联合
+>           │
+>           ├─ Acetaminophen → NAPQI 样代谢物（aspirin/NSAID 耗 glutathione 加剧）→ 直接小管毒
+>           └─ NSAID → 直接氧化损伤 + ↓ PG → ↓ medullary blood flow
+>                    │
+>                    ▼
+> Chronic tubulointerstitial nephritis ± papillary necrosis
+>                    │
+>                    ▼
+> 双侧小肾 + papillary calcification + 慢性肾衰 + 贫血
+> ```
+>
+> ### Renal papillary necrosis 5 大病因记忆 = **"POSTCARDS"** 简化 = **"DNA-Sickle"**
+> - **D**iabetes mellitus / **N**SAIDs（含 analgesic neph）/ **A**nalgesic abuse / **S**ickle cell disease / **i**nfection（severe pyelonephritis）/ **C**hronic obstruction / TB 等
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Chronic glomerulonephritis | ❌ GN 需 **dysmorphic RBC + RBC casts + 中重度蛋白尿**；本题 WBC casts 占优 → 间质性 |
+> | B | Chronic pyelonephritis | ❌ 多有**反复急性肾盂肾炎史**（dysuria, fever, flank pain reccurent）；本题无 |
+> | **C（我选的）** | Recurrent nephrolithiasis | ❌ 反射 "flank pain → stone"，但 stem 说"自认 muscle pain"+ US 仅小肾**无 acoustic shadowing / 结石**；nephrolithiasis 多致 obstruction-pattern AKI 而非弥漫小肾 |
+> | D | Renal artery stenosis | ❌ RAS 致 **不对称肾** + atrophy；本题**双侧对称小肾** |
+> | **E** ⭐ | Tubulointerstitial nephritis | ✅ WBC + WBC casts + 长期 OTC analgesic + 小肾 = CTIN（analgesic nephropathy）|
+>
+> ## 我为什么错
+> - 选了：**C**（recurrent nephrolithiasis）
+> - 错因：**pattern**
+> - 核心陷阱：见 "severe flank pain" 反射 stone，没扫"自认 muscle pain + US 仅小肾无 stone + UA 主 WBC casts（不是 RBC）"
+> - 元错误：没有"UA WBC casts → 锁间质性肾炎家族"反射；没把"长期 OTC analgesic + 双小肾"作为 analgesic nephropathy 强指纹
+>
+> ## Memory Hook
+> - **"长期 OTC 镇痛（APAP+NSAID）+ 双侧小肾 + WBC casts → Analgesic nephropathy (CTIN ± papillary necrosis)"** ⭐
+> - **"WBC casts = 间质性家族（AIN / CTIN）；RBC casts = GN；muddy brown casts = ATN"** ⭐⭐⭐
+> - Papillary necrosis 5 病因 **"DNA-Sickle"**（DM / NSAID/analgesic / Sickle / TB / obstruction）
+> - 反 pattern: severe flank pain ≠ 一定是 stone — 还可能是 papillary necrosis（脱落乳头堵）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：UA 看 WBC casts 时反射的鉴别框架（AIN vs CTIN vs pyelonephritis）
+> - 学到：双侧对称小肾 = chronic 损伤；不对称 = RAS / 单肾病；nephrolithiasis 不致弥漫小肾
+> - 学到：3 mo 前的"flank pain 自认 muscle pain" = 可能是 sloughed papilla（papillary necrosis）— 经典 stem 钩子
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 首题（CTIN 主题）；同间质性家族见 ↓ Q4007 AIN（同日入库）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]
+>   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]]（待加 Casts 指纹族系）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（sickle cell → papillary necrosis 关联）
+>   - [[完整笔记/Peixuan分科笔记/骨科]] / [[完整笔记/Peixuan分科笔记/外科]]（慢性背痛 / 镇痛药滥用源头）
+> - 🌱 TODO：
+>   - 待建 [[完整笔记/专题笔记/肾脏/肾脏_间质性肾炎AIN_CTIN对照]]（病因 + 病程 + UA + 影像 + 治疗 5 维 + papillary necrosis DNA-Sickle 病因表）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] **加 Urinary Casts 指纹族系**（RBC=GN / WBC=间质性 / muddy brown=ATN / waxy=慢性肾衰 / fatty=肾病 / granular=非特异）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q4004（验证 CTIN + analgesic neph 反射）
+> - [ ] 默写 AIN vs CTIN 5 维对比表
+> - [ ] 默写 Urinary Casts 指纹族系（RBC/WBC/muddy/waxy/fatty/granular）
+> - [ ] 默写 Papillary necrosis 5 病因 "DNA-Sickle"
+> - [ ] 反射训练：见 "长期 OTC 镇痛 + 双侧小肾 + WBC casts" → 0.5 秒锁 Analgesic nephropathy
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: Analgesic Nephropathy（长期 OTC acetaminophen + NSAID/aspirin 联合 → glutathione 耗竭 + NAPQI 样代谢物 + NSAID 氧化 + ↓PG ↓medullary BF → CTIN ± papillary necrosis）/ 间质性肾炎家族 AIN vs CTIN 5 维对比（病因/病程/临床/UA/影像/治疗）/ Urinary Casts 指纹族系（RBC casts=GN / WBC casts=间质性 AIN-CTIN-pyelonephritis / muddy brown=ATN / waxy=慢性肾衰 / fatty=肾病综合征 / granular=非特异）/ Papillary necrosis 5 大病因 "DNA-Sickle"（DM / NSAID-analgesic / Sickle cell / TB-severe infection / Chronic obstruction）/ 双侧对称小肾 = chronic 损伤 vs 不对称 = RAS-单肾病 / 反 pattern: severe flank pain ≠ 一定 stone — 可能 sloughed papilla
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-05-28] 肾 / Acute Interstitial Nephritis (AIN) by Allopurinol — AKI + 外周嗜酸 + WBC casts + 皮疹 + 发热 + 关节痛 (Q4007)
+> ^Q4007
+>
+> ## Stem 模式
+> 46yo M 痛风 3 次发作 1 yr → **allopurinol 2 mo 前**；近 wk 多关节 mild pain（不同于既往 gout）+ malaise/nausea/低热；HTN on lisinopril；T 37.5, BP 128/84；小关节 mild tender 无 edema/erythema；**淡 maculopapular rash on extremities/trunk**；CBC: Hb 13, Plt 320, Leuk 8200（Neut 73, Lymph 20, **Eos 7%**）；BUN 36, Cr 2.2；UA: 1+ protein + **WBC 20-30 + WBC casts**；2 mo 前 labs 正常。诊断？
+>
+> ## 核心概念
+> **Acute Interstitial Nephritis (AIN)** = 抗原超敏 → 肾间质 + 小管炎症 → AKI + WBC + WBC casts + 轻蛋白 + ± RBC + hematuria。**药物占 ~75%**（**Allopurinol** / β-lactam / FQ / 磺胺 / NSAIDs / **PPI**）。**经典 triad（发热 + 皮疹 + 嗜酸）只 10% 全套；外周嗜酸 7% + 皮疹 + 关节痛 + AKI + WBC casts 已足够锁定**。治疗 = **停药** + 严重不缓解 → 类固醇。
+>
+> Answer：**A. Acute interstitial nephritis**
+>
+> ## 普适规则
+>
+> ### AIN 常考药物（高频） ⭐
+> - **Allopurinol** ⭐（本题，潜伏 wks-mo）
+> - **β-lactam**（penicillin / cephalosporin — 经典）
+> - **FQ / 磺胺 / rifampin**
+> - **NSAIDs**（常见，潜伏 mo）
+> - **PPI**（长期）
+> - **Diuretics**（thiazide / furosemide）
+>
+> ### AIN 临床 + 实验室诊断网 ⭐
+>
+> | 维度 | 经典 |
+> |---|---|
+> | 病程 | 新药后 **天 - 周（β-lactam 快）或 wks-mo（NSAID/PPI/allopurinol 慢）** |
+> | 临床 | AKI + malaise / polyarthralgia + 低热 + **maculopapular rash**（只 10% 三联齐全）|
+> | 实验室 | **外周嗜酸 > 5%** + 轻 anemia |
+> | UA | **WBC + WBC casts + 轻蛋白 + ± RBC + hematuria + eosinophiluria**（Hansel 染色）|
+> | 影像 | 正常 / 轻度增大（区别于 CTIN 的双侧小肾）|
+> | 诊断 | **临床诊断**（不一定 biopsy；持续 / 严重 → biopsy 见 tubulointerstitial 炎 + edema + 嗜酸 + 肉芽肿）|
+> | 治疗 | **停 offending drug + 支持** → 持续 → **glucocorticoids** → 严重 → hemodialysis |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | **A** ⭐ | Acute interstitial nephritis | ✅ allopurinol 2 mo + AKI + 嗜酸 + 皮疹 + 关节痛 + WBC casts |
+> | B | Acute urate nephropathy | ❌ 见于 **TLS（化疗后突发 ↑↑ uric acid）**；不是超敏反应；UA bland |
+> | **C（我选的）** | Drug-induced lupus | ❌ DIL 多 procainamide / hydralazine / isoniazid / minocycline 致；**AKI 罕见且经 GN 致**（RBC casts + 重蛋白尿）；嗜酸不典型；本题 WBC casts 是关键否定 |
+> | D | Serum sickness–like reaction | ❌ 多 rash + arthralgia，**AKI + 嗜酸不典型** |
+> | E | Stevens-Johnson syndrome | ❌ SJS 皮疹是 **vesicle + epidermal detachment**，不是 faint maculopapular；AKI 多 prerenal（fluid loss）+ UA bland |
+>
+> ## 我为什么错
+> - 选了：**C**（drug-induced lupus）
+> - 错因：**pattern / 知识**
+> - 核心陷阱：见 "malaise + arthralgia + rash + 药物 2 mo" 反射 DIL，**没扫"WBC casts + 外周嗜酸 + AKI" 这组 AIN 核心三联**
+> - 元错误：DIL 的肾受累罕见且经 GN（RBC casts，不是 WBC casts）→ WBC casts 是排 DIL 的强否定信号
+>
+> ## Memory Hook
+> - **"新药 wks-mo + AKI + 嗜酸 + WBC casts + 皮疹/关节痛 = AIN（多 allopurinol/β-lactam/NSAID/PPI/磺胺）"** ⭐
+> - **AIN classic triad（fever + rash + 嗜酸）只 10% 全套；外周嗜酸 + WBC casts 已足够锁定**
+> - **AKI + WBC casts → 锁间质性家族（AIN 急 / CTIN 慢）；GN 是 RBC casts**
+> - 反 pattern: DIL 致 AKI 罕见且经 GN — 见 WBC casts 排 DIL
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：DIL vs AIN 临床表现**有重叠**（malaise / arthralgia / rash）→ 鉴别点 = **UA**（DIL 经 GN → RBC casts / 重蛋白；AIN 间质 → WBC casts + 嗜酸）+ AKI 频率（AIN 常见 / DIL 罕见）
+> - 学到：Allopurinol 是 AIN 经典致病药（潜伏 wks-mo），与痛风 + lisinopril（ACEI 也可致 AKI 但机制不同）共存场景常考
+> - 学到：WBC casts 在临床实战中是"间质性家族"的强 marker（不分 AIN/CTIN），区分急/慢看病程
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q4004]] Analgesic nephropathy CTIN（同间质性家族，本题是 AIN 急性版本）— 一起看 AIN vs CTIN 5 维对比表
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]
+>   - [[完整笔记/Peixuan分科笔记/骨科]] / [[完整笔记/Peixuan分科笔记/免疫，疫苗]]（痛风 + allopurinol 适应症）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/感染]]（DIL 致病药 procainamide/hydralazine/INH/minocycline）
+>   - [[完整笔记/Peixuan分科笔记/derm]]（药疹鉴别：maculopapular / urticaria / vesicle-SJS / DRESS）
+> - 🌱 TODO：
+>   - 待建 [[完整笔记/专题笔记/肾脏/肾脏_间质性肾炎AIN_CTIN对照]]（与 Q4004 一起整合 — AIN 病因药物清单 + 经典 triad 真实率 + 治疗）
+>   - 待建 [[完整笔记/专题笔记/USMLE/USMLE_药疹+药物超敏对照]]（AIN / DIL / DRESS / SJS-TEN / Serum sickness-like / Erythema multiforme — 共 6 大反应 + 致病药 + UA + 处理）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q4007（验证 AIN vs DIL 反射）
+> - [ ] 默写 AIN 高频致病药 6 类（allopurinol / β-lactam / FQ-磺胺 / NSAID / PPI / 利尿剂）
+> - [ ] 默写 AIN 临床 + 实验室诊断网（病程/临床/嗜酸/UA/影像/治疗）
+> - [ ] 默写 DIL 致病药 4 大 + 经 GN 致 AKI（区别于 AIN 经间质）
+> - [ ] 反射训练：见 "新药 wks-mo + AKI + 嗜酸 + 皮疹/关节痛 + WBC casts" → 0.5 秒锁 AIN + 停药 + 类固醇评估
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: Acute Interstitial Nephritis (AIN) by Allopurinol（抗原超敏 → 肾间质+小管炎症 → AKI）/ AIN 高频致病药 6 类（Allopurinol / β-lactam / FQ-磺胺-rifampin / NSAIDs / PPI / 利尿剂 thiazide-furosemide）/ Classic triad（发热+皮疹+嗜酸）只 10% 全套 — 外周嗜酸 + WBC casts 已足够锁定 / AIN 实验室指纹（外周嗜酸>5% + UA WBC+WBC casts+轻蛋白+±RBC+eosinophiluria-Hansel 染色 / 影像正常或轻度增大区别 CTIN 双小肾）/ 治疗（停药+支持 → 持续给类固醇 → 严重 hemodialysis）/ AIN vs DIL 鉴别（AIN 经间质 WBC casts + 嗜酸；DIL 经 GN RBC casts + 重蛋白；DIL 致 AKI 罕见）/ AIN vs CTIN（急 wks-mo / 慢 mo-yr；AIN 影像正常 / CTIN 双小肾）/ DIL 致病药（procainamide / hydralazine / INH / minocycline）/ WBC casts = 间质性家族强 marker（不分 AIN-CTIN）
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-05-28] 儿科 + 肾 / Secondary Nocturnal Enuresis — 即使 psych stressor 明显，UA 必先（排医学因 UTI/T1DM/DI）(Q20246)
+> ^Q20246
+>
+> ## Stem 模式
+> 7yo F 1 wk 夜尿 → 干燥 1 yr 后再湿；**父母 6 mo 前离婚**；无 fever/dysuria/血尿；饮食正常 6pm 晚饭 + 最后一杯奶/汁 8:30 上床；无医疗史 / 药；BP 96/57, T 36.7, P 70；身高体重 40th；外阴正常；最佳下一步？
+>
+> ## 核心概念
+> **Secondary nocturnal enuresis** = ≥ 6 mo 干燥后**再次**夜尿（vs **Primary** = age ≥ 5 从未干燥过）。**secondary 提示底层医学原因（UTI / T1DM / DI）或心理 stressor**。**评估第一步 = UA**（即使心理 stressor 很明显，也必须先排医学因，因为 UTI / 新发 DM 可无典型症状）；治疗 = 治根本病因。
+>
+> Answer：**A. Obtain a urinalysis**
+>
+> ## 普适规则
+>
+> ### Nocturnal Enuresis 鉴别 + 评估 + 处理 ⭐
+>
+> | | **Primary** | **Secondary** ⭐ 本题 |
+> |---|---|---|
+> | **定义** | age ≥ 5 + **从未**有 ≥ 6 mo 干燥 | 至少 **6 mo 干燥后**再湿 |
+> | **病因** | 脑成熟延迟 / 遗传 (家族史) | **UTI / T1DM / DI** / 心理 stressor / 性虐待 / 便秘 |
+> | **第一步评估** | **UA**⭐（排可能并发的 medical condition）| **UA** ⭐ **强制**（即使 stressor 明显也要先排 medical） |
+> | **管理** | 安抚 + 行为修正（限晚饮 / voiding diary / **bedwetting alarm**）| **治根本病因**（治 UTI / 控 DM / 心理咨询）|
+>
+> ### Secondary enuresis 鉴别 3 大医学因（UA 钥匙）
+>
+> | 病 | UA 线索 | 后续 |
+> |---|---|---|
+> | **UTI** | leuk esterase + / nitrite + / WBC | 培养 → 抗生素 |
+> | **T1DM** | **glucosuria** | Glu / HbA1c / ketones |
+> | **DI** | **低 USG（< 1.006）+ polyuria-polydipsia** | 血 Na / 禁水 + DDAVP |
+>
+> ### Primary enuresis 行为治疗阶梯
+> ① 安抚（多自愈）→ ② 限晚饮 + voiding diary → ③ **Bedwetting alarm**（最有效非药）→ ④ **Desmopressin**（特殊场合用，反弹率高）→ ⑤ **Imipramine**（最后线，心毒性慎用）
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | **A** ⭐ | Obtain a urinalysis | ✅ Secondary enuresis 第一步**强制 UA**（排 UTI/T1DM/DI） |
+> | B | Reassure that it will resolve in a few weeks | ❌ Secondary 不能反射安抚；必须先排医学因 |
+> | **C（我选的）** | Recommend a voiding diary | ❌ Voiding diary 是 **primary** 的行为干预；secondary 必须先排医学 + 治根本病因 |
+> | D | Recommend restricting evening fluid intake | ❌ 同 C，是 primary 行为治疗；不针对 secondary 病因 |
+> | E | Suggest a bed enuresis alarm | ❌ Bedwetting alarm 是 **primary 持续 + 失败行为治疗后**的步骤；不用于 secondary 初始评估 |
+>
+> ## 我为什么错
+> - 选了：**C**（voiding diary）
+> - 错因：**知识 / pattern**
+> - 核心陷阱：没分清 **primary vs secondary enuresis** — primary 干预（voiding diary / bedwetting alarm / 限晚饮）≠ secondary 评估（**UA 排医学因第一步**）
+> - 元错误：见 stem "父母离婚" stressor 强烈 → 反射心理因 → 跳过医学排查；但 secondary enuresis 即使 stressor 明显，**UA 仍是强制第一步**
+>
+> ## Memory Hook
+> - **"Secondary enuresis（干燥 ≥ 6 mo 后再湿）→ UA 第一步强制（排 UTI / T1DM / DI）"** ⭐
+> - **"Primary enuresis → 行为治疗阶梯：安抚 → 限晚饮 / voiding diary → bedwetting alarm → desmopressin → imipramine"** ⭐
+> - **"心理 stressor 明显 ≠ 跳过医学排查"** — 反 pattern
+> - UA = "secondary enuresis 的钥匙"（一个简单测试覆盖 3 大医学因）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：见 "父母离婚" 反射心理因 → 想跳到 voiding diary / 行为干预；但 **secondary** 强制 UA 优先
+> - 学到：primary 评估 = UA + 行为治疗；secondary 评估 = UA + 治根本病因；两者第一步**都是 UA**（这是统一记忆点 — 任何夜尿题先 UA）
+> - 学到：Secondary enuresis 在儿科常考 — 离婚 / 转学 / 弟妹出生 / 性虐待是经典心理触发，但即使如此也不能跳医学
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 首题（enuresis 主题）；DI 见 [[mistakes/uworld-mistakes#^Q18520]] Lithium nephrogenic DI（同日）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/儿科]]
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/psych]]（儿童心理 stressor：离婚 / 性虐待 / 转学）
+>   - [[完整笔记/Peixuan分科笔记/感染]]（UTI 在儿童 UA 解读）
+>   - [[完整笔记/Peixuan分科笔记/endocrine]]（T1DM 在儿童新发）
+> - 🌱 TODO：
+>   - 待建 [[完整笔记/专题笔记/儿科/儿科_Enuresis评估处理SOP]]（Primary vs Secondary 5 维对比 + UA 钥匙 + Primary 行为治疗阶梯 5 级 + Secondary 病因 3 类）
+>   - 待建 [[完整笔记/专题笔记/儿科/儿科_儿童心理stressor清单]]（离婚 / 性虐待 / 转学 / 弟妹出生 + 行为表现：enuresis / regression / 拒学 / 暴力游戏）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q20246（验证 secondary → UA 反射）
+> - [ ] 默写 Primary vs Secondary nocturnal enuresis 5 维对比
+> - [ ] 默写 Primary 行为治疗 5 阶梯（安抚 → voiding diary → alarm → desmopressin → imipramine）
+> - [ ] 默写 Secondary 3 大医学因（UTI / T1DM / DI）+ UA 各自线索
+> - [ ] 反射训练：见 "干燥 ≥ 6 mo 后再夜尿（任何年龄 ≥ 5）" → 0.5 秒锁 UA 第一步（不管 stressor 多明显）
+>
+> ---
+>
+> 学科:: 儿科
+> 主题:: Nocturnal Enuresis Primary（age ≥5 从未 ≥6 mo 干燥；脑成熟延迟+遗传；评估 UA + 行为治疗 5 阶梯：安抚 → 限晚饮+voiding diary → bedwetting alarm 最有效非药 → desmopressin 反弹率高 → imipramine 心毒性慎）vs Secondary（≥6 mo 干燥后再湿；病因 UTI/T1DM/DI/心理 stressor-离婚-性虐待-转学/便秘；评估 UA 第一步强制 + 治根本病因）/ Secondary 3 大医学因 UA 钥匙（UTI: leuk esterase+nitrite+WBC / T1DM: glucosuria / DI: 低 USG<1.006+polyuria-polydipsia）/ 反 pattern: 心理 stressor 明显 ≠ 跳过医学排查 / 任何 enuresis 评估第一步 = UA（统一记忆点）
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-28] 肾 + 心内 / Contrast-Associated AKI (CA-AKI) 预防 = IV 0.9% NS 围手术扩容 — Hold metformin 是防 lactic acidosis 不是防 AKI (Q4491)
+> ^Q4491
+>
+> ## Stem 模式
+> 65yo M T2DM/HTN/CKD on atorvastatin/metformin/empagliflozin/lisinopril；3 wk 渐重 exertional CP → 拟 **coronary angiography**；Cr 2.1（baseline）。哪个干预**最降低 CA-AKI 风险**？
+>
+> ## 核心概念
+> **Contrast-Associated AKI (CA-AKI)** = contrast 后 24-48 hr Cr 升 + 3-7 天回落；机制 = ① **直接小管毒** + ② **prerenal vasoconstriction**（FENa < 1% + muddy brown casts mixed）。**首要预防 = IV isotonic (0.9%) saline periprocedural 扩容** + 用最小 contrast 量 + 避 NSAIDs。**Hold metformin 是预防 metformin 蓄积 → lactic acidosis，不是预防 AKI 本身**。
+>
+> Answer：**B. Administering intravenous 0.9% saline**
+>
+> ## 普适规则
+>
+> ### CA-AKI 风险因素 + 预防 ⭐
+>
+> | 维度 | 内容 |
+> |---|---|
+> | **高危人群** | 已有 CKD（**糖尿病肾病 ↑↑**）/ DM / 老年 / 容量缺乏 / **NSAIDs 共用** / 心衰 / **多次大量 contrast** |
+> | **预防 SOP** | ① **IV 0.9% NS 围手术扩容** ⭐（**isotonic** 优于 0.45% hypotonic）/ ② 用最小 contrast 量 / ③ 避 NSAIDs / ④ 高危 + 容量充足 → 可考虑 **N-acetylcysteine**（争议，弱推荐）/ ⑤ **Iso-osmolar / low-osmolar contrast** 优于 high-osmolar |
+> | **不要做的** | ❌ **Holding ACEI / ARB** 防 CA-AKI **无证据**（且术前停可致 periprocedural HTN） / ❌ Hypotonic saline 不如 isotonic / ❌ **Glucocorticoids 防 contrast 过敏（urticaria-bronchospasm），不防 AKI** |
+>
+> ### Holding Metformin 的真实目的 ⭐⭐⭐
+>
+> ```
+> Metformin 经肾排泄 → 肾功能↓ → metformin 蓄积
+>                                  │
+>                                  ▼
+>                       抑制肝糖异生 + 抑制呼吸链 complex I
+>                                  │
+>                                  ▼
+>                       Lactic acidosis（罕见但致命）
+> ```
+>
+> **Hold metformin** 在 contrast 前 **是预防 lactic acidosis（contrast 致 AKI 后 metformin 蓄积）**，**不是预防 CA-AKI 本身**。常规建议：eGFR < 30 完全停；eGFR 30-60 contrast 当日停 + 48 hr 后 Cr 正常再恢复。
+>
+> ### 同类"为什么停药 ≠ 防该药副作用"陷阱
+>
+> | 临床动作 | 真实目的 | 错误归因 |
+> |---|---|---|
+> | Contrast 前 hold metformin | 防 metformin 蓄积 → lactic acidosis | ❌ 防 CA-AKI |
+> | Contrast 前 NS 扩容 | 防 CA-AKI ⭐ | — |
+> | Contrast 过敏史给 glucocorticoid + antihistamine | 防 anaphylaxis / 荨麻疹 | ❌ 防 CA-AKI |
+> | 长 ACEI 用药 → Cr 升 stable < 30% | 这是 **GFR adaption** 不是肾损 | ❌ 反射停药 |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | IV 0.45% saline | ❌ **Hypotonic** 不如 isotonic 扩容效率；0.9% NS 才是标准 |
+> | **B** ⭐ | IV 0.9% saline | ✅ CA-AKI 预防核心 |
+> | C | Oral prednisone | ❌ 防造影剂**过敏**（荨麻疹 / 支气管痉挛），不防 AKI |
+> | D | Holding lisinopril | ❌ **无证据**防 CA-AKI；术前停可致 periprocedural HTN |
+> | **E（我选的）** | Holding metformin | ❌ 是防 **metformin 蓄积 → lactic acidosis**，**不防 CA-AKI 本身** ⚠️ |
+>
+> ## 我为什么错
+> - 选了：**E**（Hold metformin）
+> - 错因：**知识**
+> - 核心陷阱：知道"contrast 前要停 metformin"是真临床动作，但**错误归因**——以为是防 CA-AKI；实际是防 metformin 蓄积致 lactic acidosis
+> - 元错误："临床动作正确 + 归因错误"是 USMLE 高频陷阱：考的是**why**不只是**what**
+>
+> ## Memory Hook
+> - **"CA-AKI 预防 #1 = IV 0.9% NS 围手术扩容"** ⭐⭐⭐
+> - **"Hold metformin = 防 lactic acidosis；Hold ACEI = 没证据防 AKI"**
+> - 反 pattern: **临床动作正确 ≠ 题问的 why 正确**（USMLE 考归因）
+> - 经典三大"停药"归因错位：① Metformin 停 = 防 lactic acidosis（不防 AKI） ② Glucocorticoid 给 = 防过敏（不防 AKI） ③ ACEI 长用 Cr stable < 30% = GFR adaption（不是肾损）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：知道临床动作但混淆了"为什么"；Metformin 停 → lactic acidosis vs CA-AKI 的归因边界没分清
+> - 学到：USMLE 常用"听过的对动作 + 错归因"陷阱测真懂；做题要回到机制：metformin 经肾排 + 抑制呼吸链 → 肾损时蓄积致 lactic acidosis
+> - 学到：CA-AKI 预防分两层 — 防 AKI 本身（IV NS + 少 contrast + 避 NSAID）vs 防药物蓄积副作用（hold metformin = 防 lactic acidosis）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 首题（CA-AKI 主题）；造影剂相关也见 [[完整笔记/Peixuan分科笔记/心内]] 冠脉造影章节
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]
+>   - [[完整笔记/Peixuan分科笔记/心内]]（PCI / 冠造）
+>   - [[完整笔记/Peixuan分科笔记/endocrine]]（metformin lactic acidosis）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/感染]]（造影剂过敏 vs 真敏 vs 类敏）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]]（**临床动作正确 + 归因错误** 这一元 pattern）
+> - 🌱 TODO：
+>   - 待建 [[完整笔记/专题笔记/肾脏/肾脏_CA-AKI预防SOP]]（预防 vs 危险因素 vs Hold metformin 真目的 vs ACEI 不停的证据）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]] **加 "临床动作正确 + 归因错误" 元 pattern**（metformin/glucocorticoid/ACEI/N-acetylcysteine 4 经典）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q4491（验证 IV 0.9% NS 反射 + metformin 归因纠正）
+> - [ ] 默写 CA-AKI 高危人群 + 预防 SOP 5 项 + 不要做的 3 项
+> - [ ] 默写 "停药 ≠ 防该药副作用" 三大归因错位（metformin / glucocorticoid / ACEI）
+> - [ ] 反射训练：见 "拟 contrast + CKD 高危 + 问预防 AKI" → 0.5 秒锁 IV 0.9% NS（不管 metformin 在场否）
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: Contrast-Associated AKI (CA-AKI) 预防 = IV 0.9% (isotonic) saline 围手术扩容 ⭐（hypotonic 0.45% 弱 / Holding ACEI 无证据反致 periprocedural HTN / Glucocorticoid 防造影剂过敏不防 AKI / N-acetylcysteine 争议弱推荐）/ CA-AKI 机制 = 直接小管毒 + prerenal vasoconstriction（FENa<1%+muddy brown casts mixed；Cr 24-48hr 升 + 3-7 天回落）/ 高危人群（CKD-糖尿病肾病↑↑ / DM / 老年 / 容量缺乏 / NSAIDs / HF / 多次大量 contrast）/ Hold metformin 真目的 = 防 metformin 经肾蓄积 → 抑制呼吸链 complex I → lactic acidosis（**不是防 AKI**；eGFR<30 完全停 / eGFR 30-60 contrast 当日停+48hr后 Cr 正常恢复）/ 元 pattern "临床动作正确+归因错误"USMLE 高频陷阱：metformin/glucocorticoid/ACEI/N-acetylcysteine 4 经典
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-28] 肾 / 代谢性酸中毒的肾代偿 = ↑ Urinary NH4+ + Titratable Acid + ↑ HCO3 重吸收 + Carbonic Anhydrase 活性 ↑（不是↓！）(Q13842)
+> ^Q13842
+>
+> ## Stem 模式
+> 66yo M AAA 修补术 + **infrarenal aorta 长时间 clamping** → 下肢缺血 → 术后 lactic acidosis；ABG pH 7.30, PaCO2 34（呼吸代偿）；Bicarb 16, Lactic 36 mg/dL；Na 136, K 5.1, Cl 98, Cr 0.9。几小时内**肾**的代偿改变？
+>
+> ## 核心概念
+> **代谢性酸中毒的肾代偿** = ① **↑ proximal tubule HCO3 重吸收**（CA 介导，**CA 活性 ↑ 不是 ↓**）+ ② **↑ H+ 排泄**，主要靠 **NH4+** + **titratable acid（H2PO4-）**（不能以 free H+ 主排，限度太低）+ ③ 为维电中性，↑ HCO3 重吸收 → **↑ urinary Cl- 排泄**（β-intercalated cell 用 Cl-/HCO3- 交换）。
+>
+> Answer：**D. Increased urinary ammonium excretion**
+>
+> ## 普适规则
+>
+> ### 酸碱代偿双系统 ⭐⭐⭐
+>
+> | 系统 | 速度 | 机制 |
+> |---|---|---|
+> | **呼吸代偿** | 数分 → hr | ↑ 通气 → ↓ PaCO2 → ↑ pH（chronic 2-5 d 完全）|
+> | **肾代偿** | **天 - hr** | ① **↑ proximal HCO3 重吸收**（CA 介导 ↑） / ② **↑ H+ 排泄**：NH4+ + titratable acid（H2PO4-）→ urinary buffer / ③ **↑ urinary Cl-**（电中性平衡 HCO3 重吸收）|
+>
+> ### 肾排 H+ 的 3 大通道 ⭐
+>
+> | 通道 | 限度 | 占比 |
+> |---|---|---|
+> | **NH4+（ammonium）** ⭐ | **可极大上调（× 10）**最关键 | 主力 |
+> | **Titratable acid（H2PO4-）** | 受 PO4 滤过限制 | 中量 |
+> | Free H+ | 极小（尿 pH 限度 ~4.5） | 微量 |
+>
+> ### Carbonic Anhydrase 在肾的两面 ⭐
+>
+> | 部位 | 作用 |
+> |---|---|
+> | **近端小管 CA 介导 HCO3 重吸收** | CA 活性 ↑ 时 HCO3 重吸收 ↑（防 acidosis 时 CA 活性 ↑ 不是 ↓） |
+> | **集合管 α-intercalated cell** | CA 介导 H+ 泌出（同样酸中毒时 ↑）|
+> | **CA inhibitor（acetazolamide）** | 反向 — 抑 CA → ↑ HCO3 排（致**代谢性酸中毒**）|
+>
+> ### 代谢性酸中毒的"完整"代偿
+> ① 呼吸快速 ↓ PaCO2 → ↑ pH（呼吸代偿）/ ② 肾 hr-d 内 ↑ HCO3 重吸收（CA ↑）+ ↑ NH4+ 排 + ↑ titratable acid 排 + ↑ urinary Cl- 排（电中性）
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | Decreased central respiratory drive | ❌ **↑** 中枢通气驱动（PaCO2 已代偿性 ↓ 至 34）— 题问的是肾，不是脑 |
+> | **B（我选的）** | Decreased renal carbonic anhydrase activity | ❌ **反向** — 酸中毒时 CA 活性 ↑（介导 HCO3 重吸收）;只有 **CA inhibitor（acetazolamide）**才是 CA 活性↓ |
+> | C | Decreased urinary titratable acid excretion | ❌ 反向 — 酸中毒时 **titratable acid 排 ↑**（H2PO4- 缓冲）|
+> | **D** ⭐ | Increased urinary ammonium excretion | ✅ NH4+ 是肾排 H+ **主力**且可大幅上调 |
+> | E | Increased urinary chloride reabsorption | ❌ 反向 — **↑ urinary Cl- 排泄**（与 HCO3 重吸收 stoichiometric 电中性）|
+>
+> ## 我为什么错
+> - 选了：**B**（CA activity ↓）
+> - 错因：**知识**
+> - 核心陷阱：可能反射"acidosis → HCO3 ↓ → CA 不工作"，但实际酸中毒时 CA **活性 ↑** 帮助 HCO3 重吸收（生理代偿方向）；CA inhibitor（acetazolamide）才是反方向药理学
+> - 元错误：搞反方向 — 酸中毒下肾**所有清酸机制都上调**，包括 CA / NH4+ / titratable acid / Cl- 排
+>
+> ## Memory Hook
+> - **"代谢性酸中毒肾代偿 = NH4+ ↑ + titratable acid ↑ + HCO3 重吸收 ↑（CA 活性 ↑）+ urinary Cl- ↑"** ⭐
+> - **"酸中毒时所有肾清酸机制都↑（NH4+ / titratable acid / HCO3 重吸收 / CA 活性 / Cl- 排）"**
+> - **"CA inhibitor (acetazolamide) → CA 活性 ↓ → HCO3 排 ↑ → 代谢性酸中毒"**（药理学方向与生理代偿相反）
+> - 反 pattern: 酸中毒 ≠ "肾 CA 关掉" — 反过来，**CA 全开**
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：CA 在酸中毒中的方向（生理 vs 药理学反向）
+> - 学到：肾排 H+ 主力是 NH4+（× 10 上调）不是 free H+（限度小）；titratable acid 是 H2PO4- 缓冲
+> - 学到：HCO3 重吸收 ↑ 必伴 urinary Cl- 排 ↑（电中性，β-intercalated cell 用 Cl-/HCO3- 交换）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 首题（acid-base 代偿机制题）；lactic acidosis 见 [[mistakes/uworld-mistakes#^Q11566]] cyanide toxicity（同日，但 cyanide 是病因不是代偿）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]
+>   - [[完整笔记/Peixuan分科笔记/外科]]（AAA 修补 / aortic clamping → 下肢缺血 → lactic acidosis）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/Peixuan分科笔记/pulmonary]]（呼吸代偿）
+> - 🌱 TODO：
+>   - 待建 [[完整笔记/专题笔记/肾脏/肾脏_酸碱代偿完整SOP]]（代谢性 / 呼吸性 × 酸 / 碱 4 象限 × 呼吸 + 肾代偿方向 + 时间窗 + CA / NH4+ / Cl- / HCO3 详解 + acetazolamide 反向药理）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]] **加 "生理代偿 vs 药理学方向相反" 元 pattern**（CA / aldosterone / RAAS / sympathetic 4 例）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q13842（验证酸中毒肾代偿 5 项 ↑ 反射）
+> - [ ] 默写代谢性酸中毒肾代偿 5 项 ↑（CA 活性 / HCO3 重吸收 / NH4+ 排 / titratable acid 排 / urinary Cl- 排）
+> - [ ] 默写肾排 H+ 3 大通道 + NH4+ 是主力的原因
+> - [ ] 默写 CA 在生理代偿 vs 药理学（acetazolamide）的反方向
+> - [ ] 反射训练：见 "代谢性酸中毒 + 问肾代偿" → 0.5 秒锁 ↑ NH4+ / ↑ titratable acid / ↑ HCO3 重吸收 / ↑ urinary Cl- / ↑ CA 活性
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: 代谢性酸中毒的肾代偿 5 项↑（CA 活性↑介导 HCO3 重吸收↑ / urinary NH4+ 排↑ 主力 ×10 上调 / titratable acid H2PO4- 排↑ / urinary Cl- 排↑ 电中性平衡 / 集合管 α-intercalated cell H+ 泌出↑）/ 肾排 H+ 3 大通道（NH4+ 主力可极大上调 / Titratable acid H2PO4- 受 PO4 限制 / Free H+ 极小 pH 限度 4.5）/ CA 在肾两面（近端 HCO3 重吸收 + 集合管 H+ 泌出，酸中毒时全升）/ 反 pattern: 生理代偿 vs 药理学方向相反 — CA inhibitor (acetazolamide) 是 CA 活性↓ 致代谢性酸中毒（与生理代偿反向）/ HCO3 重吸收 必伴 urinary Cl- 排↑（β-intercalated cell Cl-/HCO3- 交换电中性）/ 元 pattern "酸中毒时肾所有清酸机制都↑"
+> 状态:: 🟡
+> 错因:: 知识
