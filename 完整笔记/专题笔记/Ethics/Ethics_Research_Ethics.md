@@ -94,6 +94,24 @@ version: v1
 >
 > **Therapeutic misconception**：患者常误以为"参加研究 = 接受最先进治疗"（实际可能 placebo / 实验药未证有效）。Informed consent 必须 actively 破除这个误解。
 >
+> **Therapeutic Misconception 处理 SOP（PI 同时是 treating physician 时）** ⭐ Q107484 锚定
+>
+> 当 PI 自己照护的患者考虑入组其主持的 trial，medical encounter 中的"next action"几乎永远是 **客观解释 trial 性质 + 告知可能不获益**，而不是"披露 + 让 patient 另觅他医"。
+>
+> | 步骤 | 内容 | 注意 |
+> |---|---|---|
+> | ① Disclose PI role | 主动披露 "我是这项研究的主要研究者" | 必做（COI disclosure 起点） |
+> | ② **客观解释 trial 性质 + 可能不获益** ⭐ | "Clinical trial 目的是 advance scientific knowledge for future populations；你可能 randomize 到 control / placebo；experimental treatment 可能 inferior / ineffective / harmful" | 破除 therapeutic misconception 的核心 |
+> | ③ 让患者自主决定（autonomy） | ❌ 不 encourage（即使医师认为获益）❌ 不 discourage（即使有 inferior 风险） | "encourage" / "recommend" / "best interest" 选项均错 |
+> | ④ Trial 与 routine care segregated procedures + documentation | Patient 入组后仍可 continue routine care with 原医师；trial visits 独立 chart | ❌ "Need to seek care elsewhere if participates" 是钓饵 — 不需要换 provider |
+>
+> **3 大不获益原因（informed consent 必含语 — "may not receive direct benefits"）**：
+> - ① Superiority 尚未证实 — 可能 inferior / ineffective / harmful
+> - ② 可能 randomize 到 control / inactive arm
+> - ③ Placebo-controlled trial 中 placebo 可能 inert
+>
+> **元规则**：USMLE "next action" 题型中，PI 双重角色处理选 **educate + objective info > 任何形式的"send away / switch provider"**（与 Q4066 angry patient "不推走" 反 pattern 同型）。
+>
 > ### 支柱 4：Vulnerable Populations + Inducement
 >
 > **Vulnerable population 清单**：low-income / institutionalized / cognitively impaired / pregnant women + fetuses / minors / prisoners / critically ill。

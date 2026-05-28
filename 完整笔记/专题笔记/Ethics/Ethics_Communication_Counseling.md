@@ -1430,6 +1430,81 @@ Patient 觉得被 singled out / accused of being addict
 
 ---
 
+### §12.20b Angry / Verbally Abusive Patient SOP ⭐⭐（v1.2 新增 — Q4066 锚定）
+
+#### 反射钩
+
+> [!info]
+> Patient 当面 verbal abuse / 投诉医师无能力 / yell / threaten 投诉 → 反射 **acknowledge distress + remain nondefensive + open-ended question** 探源 underlying upset。
+
+#### Angry Patient 应答 SOP — 4 步
+
+```
+① Acknowledge distress（共情 + 不回避情绪）
+    • "I can see this is really difficult for you."
+    • ❌ 不 minimize（"很多病人都这样"）❌ 不 contradict
+    │
+    ▼
+② Remain Nondefensive（关键 ⭐）
+    • ❌ 不为自己辩护（"我受过训练" / "我有 attending 可咨询"）
+    • ❌ 不 retaliate（任何负面评论）
+    │
+    ▼
+③ Open-ended Question 探源 ⭐
+    • "May I ask what is upsetting you so that I can help you as best I can?"
+    • "Can you help me understand what's most upsetting right now?"
+    │
+    ▼
+④ Maintain Professionalism + 继续 care plan
+    • 听完后再 attempt examination
+    • Patient 仍 abusive → 暂停 visit + 联系主管 / behavioral health（极端）
+```
+
+#### Angry Patient — 6 大钓饵应答（CK 反 pattern）⭐
+
+| 应答类型 | 例子 | 错点 |
+|---|---|---|
+| **Self-defense / reassure 自己能力** | "I'm well trained / can consult attending if necessary" | Defensive 反触怒；提"young resident / teaching hospital"反复刺激 |
+| **Cite patient bill of rights / 投诉途径** | "You can file a complaint as described in the bill of rights" | 推到投诉系统 = 放弃 relationship；无 poor care evidence 时不合时宜 |
+| **Premature interpretation** of root cause ⭐ | "I imagine you're disappointed your daughter didn't visit" | 即使猜对原因也不要先下结论 — 易激怒（被"读心"）+ 可能错 |
+| **Transfer to attending / supervising physician** ⭐⭐ | "Would you prefer to be seen by my attending?" | Defensive 撤退；routine emotion handling 不需主治介入；把责任推走 ≠ address 直接 source of distress |
+| **跳过情绪强行查体** | "Let me proceed with the examination + make a diagnosis" | 不 address emotion = 患者不配合 → 查体也做不好 |
+| Retaliate / negative comment | 任何 sarcastic / dismissive 回应 | 直接 worsen physician-patient relationship |
+
+#### Angry Patient 四不 ⭐⭐
+
+> [!success]
+> **不防御 / 不评判 / 不解读 / 不推走**
+>
+> - **不防御**：不为自己辩护、不强调资历、不引用 institution（teaching hospital）
+> - **不评判**：不暗示 patient "不理性 / 越界"
+> - **不解读**：即使能猜出 root cause（家人 / 失望 / 疼痛）也不先说，让 patient 自述
+> - **不推走** ⭐：transfer to attending / supervising / consult / 让 patient 投诉 = 几乎永远错
+
+#### 元规则 — "推走 / Send away" 反 pattern 红旗
+
+USMLE Ethics 题里 "transfer to attending / seek care elsewhere / change provider" 几乎 **100% 错** — 与 [[#§Therapeutic Misconception 处理 SOP]]（Q107484 PI 不要求 patient seek care elsewhere）同型：**educate / engage > send away / switch**。
+
+#### 与 PEARLS / NURSE / SPIKES 框架边界
+
+| Framework | 适用场景 | 关键步骤 |
+|---|---|---|
+| **Angry patient SOP** ⭐ | Patient 当面 verbal abuse / 投诉医师 | Acknowledge + nondefensive + open-ended Q |
+| **PEARLS**（§12.20）| 一般 dissatisfaction / 焦虑 about wait / process | Partnership / Empathy / Apology / Respect / Legitimization / Support |
+| **NURSE** | Palliative care emotion handling | Name / Understand / Respect / Support / Explore |
+| **SPIKES** | Breaking bad news | Setting / Perception / Invitation / Knowledge / Emotion / Strategy |
+
+#### CK Stem 触发 + Memory Hook
+
+> [!tip] CK stem
+> 患者 visit 中 yell / threaten 投诉 / verbal abuse 医师 → 选项含 **"acknowledge + open-ended question"** = 正解；含 **"transfer to attending" / "premature interpret cause" / "cite bill of rights" / "proceed with exam"** = 钓饵。
+
+> [!success] Memory Hook
+> **"May I ask what is upsetting you?"** = 标准 open-ended 钩 ⭐
+> **"换主治 / transfer / send away"** 选项 = 红旗（≈ 100% 错）
+
+---
+
 ### §12.22 Language Barriers + Medical Interpreter SOP ⭐⭐（v1.1 新增 — AMBOSS 整合）
 
 #### 反射钩
