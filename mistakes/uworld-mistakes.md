@@ -29361,6 +29361,11 @@
 > ## Stem 模式
 > 18yo AA 男 + **数月多尿**（即使限晚饮水仍 dry day + 夜尿 2-3 次）+ 清亮尿 + **母 SCD 早卒中亡** + Hct **41%（正常）** + Na **138（正常）** + UA **SG 1.001** + pH 6.6 + 蛋白/血/糖/酮/LE/nitrite 均阴 → 病因？答 **C. Hyposthenuria**（SCT → 肾髓质 hypoxic + hyperosmolar → vasa recta 镰变 → countercurrent 受损 → 集合管失浓缩）。
 >
+> > [!info] **AA = African American（非裔美国人/黑人）⭐ USMLE 高频种族缩写**
+> > **HbS 携带率**：AA ~8%（最高）/ 白人 < 0.1% — 镰刀基因在非洲演化对**疟原虫**有保护 → 自然选择保留 → 美国黑人 SCT 1/13、SCD 1/365 出生
+> > **Stem "AA + 任何泌尿/血液线索" → 优先想 Sickle 谱系（SCT/SCD/G6PD）**
+> > 详见 [[完整笔记/专题笔记/USMLE/USMLE_种族族裔指纹速查]]（7 大族裔指纹 + USMLE stem 模式）
+>
 > ## 核心概念
 > **Sickle Cell Trait (SCT, HbAS) hyposthenuria**：肾髓质是全身最 hypoxic + 最 hyperosmolar 区 → RBC 在 vasa recta 内 sickle → 损髓质 countercurrent multiplier → 集合管无法浓缩尿 → **稀尿 + 多尿 + 夜尿 + USG ≤ 1.005** — 但**血 Na 正常**（**Loop of Henle superficial 不依赖 vasa recta + ADH 通路 intact** → 稀释功能保留 + ADH 反应正常）。**Hct 正常**也是 SCT vs SCD 的区分点（SCT 不贫血）。
 >
