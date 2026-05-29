@@ -30104,3 +30104,850 @@
 > 主题:: ADPKD 正向锁定 6 联指纹（① Bilateral flank pain buzzword / ② Palpable bilateral abdominal mass + 肝大 - 双囊肾+肝囊肿不是肿瘤 / ③ 早发 HTN 无肥胖无烟酒 - 囊肿压肾实质 RAAS↑renin↑继发性 / ④ Long-standing nocturia-polyuria - 远端肾小管损 concentrating defect 早 Cr↑ 10-20 yr / ⑤ CKD 渐进+贫血 EPO↓ 51 yo 完美卡 30-40 起 55-60 ESRD 自然病程 / ⑥ 家族史 60% 不明示≠排除 新发突变 10%）/ Extrarenal 5 大系统口诀 "Brain-Liver-Heart-Colon-Hernia"（Berry aneurysm Circle of Willis SAH 致死 / Hepatic cysts 80% / MVP+AR / Diverticulosis 反复憩室炎 / Ventral-inguinal hernias）+ 胰腺-精囊-肾结石 / 诊断 US 多 renal cysts 按年龄家族史阈值 / 管理 ACEi/ARB 首选保肾抑 RAAS + Tolvaptan V2 antagonist 抑囊肿 + 大量饮水 + ESRD 透析/移植 + 家族 SAH 史筛 MRA / 5 选 1 鉴别（BPH 前列腺只 mildly 排 / Horseshoe kidney 不解释肝大双侧 / Nephrolithiasis 单侧绞痛不解释肝大 / RCC 单侧+polycythemia paraneoplastic EPO↑ 与本题贫血反向 = **关键反 pattern**）/ 元学习: 做对≠掌握 排除法说明正向反射未建立需主动训练 / "Bilateral" 是 buzzword 单侧鉴别题不写 / "Liver enlarged + flank mass" 双胞胎组合锁 ADPKD 不是 RCC
 > 状态:: 🟡（答对但用排除法，正向反射未建立）
 > 错因:: pattern
+
+> [!example]- [2026-05-28] 肾/外科 / Bladder (Urothelial) Cancer — Terminal hematuria + clots + 男 >40 + 吸烟 → Cystoscopy（血尿分期定位 3 大类）(Q4751)
+> ^Q4751
+>
+> ## Stem 模式
+> 53yo M + **occasional red urine × 3 mo** + 排尿初正常 → **末段变红（terminal hematuria）** + **small clots** + 无 fever/edema/flank pain/weight loss + 慢性背痛 + **吸烟 1 包/天** + BP 140/90 + UA 仅血阳性。最可能病因？答 **A. Bladder disease**（urothelial carcinoma）。错选 C Nephrolithiasis（被"慢性背痛"误导）。
+>
+> ## 核心概念
+> **Urothelial (bladder) cancer** 经典 stem = **painless total / terminal hematuria + 血块 + 男 >40 + 吸烟史** → **cystoscopy** 评估。Terminal hematuria（排尿末段血）= 膀胱颈/三角区/后尿道/前列腺来源；本题来自 bladder neck / trigone 的肿瘤血管。**Clots 几乎排除肾小球来源**（肾小球疾病的血尿罕有血块）。**慢性背痛是干扰项**，结石本应有 flank/groin colic 而非 chronic back pain。
+>
+> Answer：**A. Bladder disease (urothelial carcinoma)**
+>
+> ## 普适规则
+>
+> ### 血尿分期定位三联（最高产 USMLE 框架）⭐⭐
+>
+> | 分期 | 血出现于排尿 | 提示来源 | 经典病因 |
+> |---|---|---|---|
+> | **Initial（初始）** | 排尿**起始**带血，后段清 | **尿道（urethra）** | Urethritis / urethral injury（如 Foley 创伤）/ 尿道炎 |
+> | **Terminal（末段）** ⭐ | 排尿**结束**时变红 | **膀胱颈 / 三角区 / 后尿道 / 前列腺** | **Urothelial cancer**（bladder neck/trigone 起源）/ Cystitis（infectious or postradiation）/ Urolithiasis（膀胱结石）/ BPH / 前列腺癌 |
+> | **Total（全程）** | 整个排尿过程都有血 | **整个泌尿道任何位置**（上至肾 下至膀胱） | Renal mass / Glomerulonephritis / Urolithiasis / **PCKD** / Pyelonephritis / Urothelial cancer（典型 painless total）/ Trauma / Renal papillary necrosis |
+>
+> ### Cystoscopy 适应症 ⭐
+>
+> | 类别 | 触发条件 |
+> |---|---|
+> | **Hematuria** | **Gross hematuria**（任何，需排除可逆原因）/ **Microscopic hematuria + 尿路恶性风险因素** |
+> | **Infection** | 反复 UTI / 抗生素无效 UTI |
+> | **下尿路症状** | Obstructive 症状疑狭窄/结石；Irritative 症状但无感染 |
+> | **其他疑恶性** | Abnormal bladder imaging（CT）/ Abnormal urine cytology |
+> | ⚠️ **不需要** | 有 glomerular bleeding 证据（**RBC casts** / dysmorphic RBC） |
+>
+> ### Urothelial (Bladder) Cancer 风险因素 ⭐
+>
+> - **Age >40**（高峰 60-70）
+> - **男性**（M:F ≈ 3:1）
+> - **Smoking**（最重要可改变因素，OR 3-4×；约占 50% 病例）
+> - **Aromatic amines / aniline dye**（染料 / 橡胶 / 印刷工业 — benzidine / 2-naphthylamine）
+> - **Cyclophosphamide**（→ acrolein 致 hemorrhagic cystitis + 长期致 bladder ca）→ 用 **mesna** 保护
+> - **Schistosoma haematobium**（中东/北非 — 致 **SCC** 而非 transitional cell）
+> - **Chronic 长期 indwelling catheter** / chronic cystitis → SCC
+> - **Pelvic radiation** 史
+>
+> ### 血块（Clots）规则
+>
+> - **有 clots → 非肾小球**（下尿路 / 上尿路非肾小球来源）
+> - **无 clots + RBC casts + dysmorphic RBC + 蛋白尿** → 肾小球
+> - 机制：肾小球疾病出血量小且流经远端肾单元被尿激酶溶解，难形成块
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 病因 | 关键鉴别 |
+> |---|---|---|
+> | **A** ⭐ | **Bladder disease（urothelial ca）** | ✅ Terminal hematuria + clots + 男 >40 + smoking = 经典指纹；下一步 **cystoscopy** |
+> | B | Glomerular disease | ❌ **血块极罕见**；UA 多见 **RBC casts** + dysmorphic RBC + 蛋白尿；可 total / microscopic |
+> | **C（我选的）** | Nephrolithiasis | ❌ **结石必有 flank/groin colic（绞痛）**— 不是 chronic back pain；本题无急性绞痛；结石可 total hematuria 但少 clots |
+> | D | PCKD（ADPKD） | ❌ 通常 **abdominal/flank pain + bulky mass + total hematuria**；本题无 mass / 无家族史；HTN 更可能是 essential |
+> | E | Urethral injury / urethritis | ❌ **Initial hematuria**（不是 terminal）+ irritative voiding（dysuria） |
+> | F | UTI（pyelonephritis/cystitis/urethritis） | ❌ Pyelonephritis = flank pain + 发热 + 系统症状；Cystitis/urethritis = dysuria + frequency + hesitancy；本题无 LUTS / 无发热 |
+>
+> ## 我为什么错
+> - 选了：**C（Nephrolithiasis）**
+> - 错因：**知识 / 干扰项**
+> - 核心陷阱：① 不知道"血尿分期"框架（Initial / Terminal / Total 三联定位）— 没把 "**turns red by the end of voiding**" 翻译成"末段血尿 → 膀胱颈/三角区/前列腺"；② 被 stem **"chronic back pain"** 干扰认为结石（但**结石痛是急性绞痛 colic** 非慢性背痛）；③ 没识别 **bladder cancer 三联指纹**（男 >40 + 吸烟 + painless gross hematuria w/clots）
+> - 元错误：把"背痛"反射性等同于"结石"，没追问"是 acute renal colic 还是 chronic back pain"
+>
+> ## Memory Hook
+> - **"血尿分期 = 定位三件套"** ⭐
+>   - **Initial（开始红）→ 尿道**（urethritis / catheter trauma）
+>   - **Terminal（结束红）→ 膀胱颈 / 三角区 / 前列腺**（urothelial ca / cystitis / BPH）
+>   - **Total（全程红）→ 整路任何位置**（kidney / GN / stone / PCKD / pyelo）
+> - **"老男+烟+无痛血尿+血块 → 膀胱癌直到证否，下一步 cystoscopy"** ⭐
+> - **"Clots = NOT 肾小球"**（肾小球血尿罕有血块）
+> - **"结石痛 = colic 急性绞痛 ≠ chronic back pain"**（chronic back pain 是干扰项不是诊断线索）
+> - 吸烟致癌三联：**lung ca / 膀胱 ca / RCC** — 任意一个无解释症状先想"癌"
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：反射把"chronic back pain"等同结石，没分清"colic 急性绞痛 vs chronic back pain"
+> - 卡点：不知道"血尿分期 Initial/Terminal/Total"这个 USMLE 高频定位框架
+> - 学到：terminal hematuria = 膀胱颈/三角区/前列腺；血块 = NOT 肾小球；smoking 是 bladder ca 最强风险因子
+> - 学到：cystoscopy 适应症 — gross hematuria（任何）+ microscopic hematuria 有风险因子 + 反复 UTI + abnormal bladder imaging
+> - 学到：肾小球疾病的反 pattern — 罕有血块、RBC casts、dysmorphic RBC、proteinuria
+> - 元学习：当 stem 同时给"无痛血尿 + 血块 + 老男 + 吸烟"四要素同时出现，**先想 urothelial cancer**，不要被次要症状（背痛/腰痛）带偏
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 首题（Bladder cancer / 血尿分期定位主题）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/外科]]（line 1394 Bladder Cancer 速查 — painless hematuria + smoking/male/schistosomiasis + TURBT/cystectomy/chemo；本卡可扩 terminal hematuria pattern + 血尿分期框架）
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（nephritic syndrome hematuria — 反 pattern：clots/no casts 即排除肾小球）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/感染]]（Schistosoma haematobium → bladder SCC；UTI/cystitis hematuria 鉴别）
+>   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（Cyclophosphamide → hemorrhagic cystitis + 长期 bladder ca → mesna 保护；smoking 三联癌 lung/bladder/RCC）
+>   - [[完整笔记/Peixuan分科笔记/pulmonary]]（smoking 致癌谱：lung/bladder/RCC/head&neck/pancreas/esophagus）
+> - 🌱 TODO（早建精简 v1 — 内容已成体系，建议直接建衍生）：
+>   - 建 [[完整笔记/专题笔记/肾脏/肾脏_血尿分期与病因鉴别]]（血尿分期 3 联定位 + 6 大病因谱 + Cystoscopy 适应症 + Clots/RBC casts 反 pattern + Urothelial vs RCC vs Stone vs GN vs PCKD vs UTI 6 选 1 鉴别 + Smoking 三联癌 + Cyclophosphamide/Schistosoma 特殊风险 — 体系完整可建 v1）
+>   - [[完整笔记/Peixuan分科笔记/外科]] line 1394 Bladder Cancer 可扩"Terminal hematuria pattern"行 + cystoscopy 适应症速查
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q4751 — 必须 5 秒内锁 Bladder cancer，不被"chronic back pain"带偏
+> - [ ] 默写血尿分期 3 联（Initial 尿道 / Terminal 膀胱颈三角区 / Total 整路）
+> - [ ] 默写 Cystoscopy 5 大适应症（Gross / Micro+risk / 反复 UTI / Abnormal imaging / Abnormal cytology）
+> - [ ] 默写 Urothelial ca 7 大风险因子（age>40 / male / smoking / 染料 / cyclophosphamide / schistosoma / 长期导尿 / 盆腔放疗）
+> - [ ] 默写"Clots = NOT 肾小球"反 pattern + 肾小球血尿 3 标志（RBC casts / dysmorphic RBC / proteinuria）
+> - [ ] 反射训练：见"老男 + 烟 + painless gross hematuria + clots" → 0.5 秒锁 **Bladder cancer + Cystoscopy**
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: Bladder (Urothelial) Cancer + 血尿分期定位 3 联（Initial 起始→尿道 urethritis/catheter trauma / Terminal 末段→膀胱颈-三角区-后尿道-前列腺 urothelial ca/cystitis/BPH/prostate ca / Total 全程→整路任何位置 kidney mass/GN/stone/PCKD/pyelo/trauma/papillary necrosis）/ Urothelial ca 经典指纹（painless total or terminal hematuria + clots + 男 >40 + 吸烟 → Cystoscopy）/ Cystoscopy 5 大适应症（Gross hematuria 任何 / Microscopic + 恶性风险因素 / 反复 UTI / 抗生素无效 UTI / Obstructive 疑狭窄结石 / Irritative 无感染 / Abnormal bladder imaging CT / Abnormal urine cytology；⚠️ glomerular evidence RBC casts 不做）/ Urothelial ca 7 大风险（age>40 / male M:F 3:1 / smoking 50%病例最强可改变 / aromatic amines 染料橡胶印刷 benzidine 2-naphthylamine / cyclophosphamide acrolein 致 hemorrhagic cystitis → mesna 保护 / Schistosoma haematobium 中东北非致 SCC 而非 TCC / chronic indwelling catheter chronic cystitis → SCC / pelvic radiation）/ Clots = NOT 肾小球 反 pattern（肾小球血尿罕有血块出血量小 + 远端肾单元尿激酶溶解；肾小球 3 标志 RBC casts + dysmorphic RBC + 蛋白尿）/ 6 选 1 鉴别（Bladder ca terminal+clots+男老烟 ✅ / Glomerular RBC casts 无血块 / Nephrolithiasis acute colic flank-groin 非 chronic back pain / PCKD bulky mass+total 家族史 / Urethral injury initial+导尿创伤 / UTI flank+发热 pyelo 或 LUTS dysuria-frequency cystitis）/ 干扰项陷阱 chronic back pain ≠ renal colic（结石痛必急性绞痛非慢性背痛）/ Smoking 致癌谱三联（lung / bladder / RCC + head-neck / pancreas / esophagus）/ 元学习：老男+烟+无痛血尿+血块四要素同框先想 urothelial ca 不被次要症状背痛腰痛带偏
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-28] 肾 / Mixed Acid-Base Disorder — Sepsis 乳酸代酸 + 呼吸肌疲劳呼酸 → Winters 公式算 expected PaCO2 偏离即识别 mixed (Q2790)
+> ^Q2790
+>
+> ## Stem 模式
+> 60yo M + 海里钓鱼脚被礁石划伤 + 未及时清创 + 隔夜红肿热痛 + fever/chills/confusion + T 38.8℃ + BP **86/62** + HR **118** + RR **24**, 呼吸**快而浅 (fast and shallow)** + 右足 purulent drainage + 红斑至 midshin → **ABG: pH 7.08 / PaCO2 42 / HCO3 12**。最准确描述酸碱状态？错选 **B Compensated respiratory acidosis**，正确 **C Mixed metabolic acidosis + respiratory acidosis**。
+>
+> ## 核心概念
+> **Mixed acid-base disorder** = ≥2 个原发紊乱共存。识别钥匙：① pH **极端**（<7.2 或 >7.6）或 **接近正常**伴 HCO3/PaCO2 显著异常；② **代偿值偏离预期**。本题 HCO3 12（代酸明显）但 PaCO2 42 没相应降低（按 Winters 应 ~26）→ 第二原发 respiratory acidosis（sepsis 重病 + respiratory muscle fatigue → 不能 hyperventilate 代偿）。
+>
+> Answer：**C. Mixed metabolic acidosis + respiratory acidosis**
+>
+> ## 普适规则
+>
+> ### 酸碱评估三步法 ⭐
+>
+> | 步骤 | 操作 |
+> |---|---|
+> | ① **看 pH** | <7.35 acidemia / >7.45 alkalemia / 极端值 (<7.2 / >7.6) 或正常但 HCO3/PaCO2 异常 → 怀疑 mixed |
+> | ② **定原发** | HCO3↓ → met acidosis / HCO3↑ → met alkalosis / PaCO2↑ → resp acidosis / PaCO2↓ → resp alkalosis（朝 pH 偏离方向的就是原发） |
+> | ③ **算代偿** | 用公式算 expected PaCO2 或 HCO3，比对实测 → 偏离即第二原发 |
+>
+> ### 代偿公式 ⭐⭐
+>
+> | 原发紊乱 | 代偿公式 |
+> |---|---|
+> | **Metabolic acidosis** | **Winters: PaCO2 expected = 1.5 × HCO3 + 8 ± 2**（粗记：PaCO2 ≈ HCO3 末两位的数字） |
+> | Metabolic alkalosis | ΔPaCO2 ↑ = 0.7 × ΔHCO3 |
+> | Acute resp acidosis | ΔHCO3 ↑ = 0.1 × ΔPaCO2 |
+> | Chronic resp acidosis | ΔHCO3 ↑ = 0.35-0.4 × ΔPaCO2 |
+> | Acute resp alkalosis | ΔHCO3 ↓ = 0.2 × ΔPaCO2 |
+> | Chronic resp alkalosis | ΔHCO3 ↓ = 0.4-0.5 × ΔPaCO2 |
+>
+> 本题：1.5 × 12 + 8 = 26 ± 2 → expected PaCO2 24-28；实测 42 远高于上限 → inappropriate compensation → 第二原发 resp acidosis。
+>
+> ### Mixed 紊乱 5 大典型组合（UW 高频表）⭐
+>
+> | 组合 | HCO3 | PaCO2 | pH | 经典 Stem |
+> |---|---|---|---|---|
+> | **Met acidosis + Resp acidosis** ⭐ | ↓ | ↑ | **Very low** | **Sepsis + lactic acidosis + 呼衰**（本题）/ cardiac arrest |
+> | Met alkalosis + Resp alkalosis | ↑ | ↓ | Very high | Hyperemesis gravidarum + hyperventilation of pregnancy |
+> | Met acidosis + Resp alkalosis | ↓ | ↓ | Near normal | **Salicylate toxicity**（经典）/ sepsis 早期 |
+> | Met alkalosis + Resp acidosis | ↑ | ↑ | Near normal | Overdiuresed HF + 基础 COPD |
+> | Met acidosis + Met alkalosis | ↔ | ↔ | Near normal | **DKA + 重度呕吐** |
+>
+> ### Sepsis 酸碱演化 ⭐
+> - **早期**：tachypnea → resp alkalosis 主导（hyperventilation 应激）
+> - **中期**：tissue hypoperfusion → lactic acidosis；常 mixed met acidosis + resp alkalosis（**Salicylate-like pattern**）
+> - **晚期（本题）**：respiratory muscle fatigue → 不能 hyperventilate 代偿 → **mixed met + resp acidosis**（最危险，pH 崩塌）
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 含义 | 坑 |
+> |---|---|---|
+> | A | Compensated metabolic acidosis | ❌ 单一原发 met acidosis 充分代偿；本题 expected PaCO2 ~26 但实测 42 → **代偿不充分**，不是单一 |
+> | **B（我选的）** | Compensated respiratory acidosis | ❌ 呼酸代偿 HCO3 应**升高**（acute 0.1×ΔPaCO2 / chronic 0.35×ΔPaCO2），本题 HCO3 12 **反而极低** → 不是呼酸代偿 |
+> | **C** ⭐ | Mixed met acidosis + resp acidosis | ✅ HCO3 12 极低 + PaCO2 42 没相应下降 → 双重原发 |
+> | D | Mixed met acidosis + resp alkalosis | ❌ Resp alkalosis 需 PaCO2 **显著↓**（如 sepsis 早期 / salicylate）；本题 PaCO2 42 反向 |
+> | E | Mixed met alkalosis + resp acidosis | ❌ Met alkalosis 需 HCO3 **↑**，本题 HCO3 12 反向 |
+>
+> ## 我为什么错
+> - 选了：**B（Compensated respiratory acidosis）**
+> - 错因：**知识 / pattern**
+> - 核心陷阱：① 没用 Winters 公式算 expected PaCO2 → 漏识别 mixed；② 反射性看 PaCO2 42（偏高）+ pH 7.08 (低) → 选 resp acidosis，忽略 HCO3 12 这个**矛盾信号**（呼酸代偿应 HCO3↑ 不是↓）；③ 没把"sepsis + fast shallow breathing"翻译成"呼吸肌疲劳 = 第二原发呼酸"
+> - 元错误：单看 1-2 个参数就选答案，没做完整三步评估
+>
+> ## Memory Hook
+> - **"先看 pH → 找原发 → 算代偿"** 三步法不可跳 ⭐
+> - **Winters: PaCO2 = 1.5 × HCO3 + 8 ± 2**（代酸专用，最高频）
+> - **HCO3 12 + PaCO2 42 + pH 7.08 = 经典 mixed met+resp acidosis（sepsis 末期）** ⭐
+> - **Sepsis 三段酸碱演化**：早 resp alk → 中 mixed met acid + resp alk (Salicylate-like) → 晚 mixed met + resp acidosis
+> - **"代偿矛盾"= mixed 钥匙**：呼酸代偿 HCO3 应↑（本题↓ = 矛盾 = mixed）
+> - **"fast and shallow + sepsis"= respiratory muscle fatigue** = 第二原发呼酸钓饵
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：没反射用 Winters 公式核对代偿；看 PaCO2 偏高就反射呼酸
+> - 学到：HCO3 与 PaCO2 应**同向移动**才符合单一紊乱代偿（met acid → 都↓ / met alk → 都↑ / resp acid → 都↑ / resp alk → 都↓）；**反向**或**不充分**即 mixed
+> - 学到：sepsis 三阶段酸碱演化（resp alk → mixed met+resp alk → mixed met+resp acid）— 病情越重越往呼酸偏
+> - 学到："fast shallow breathing"是 respiratory muscle fatigue 标志，警惕即将呼衰
+> - 元学习：极端 pH (<7.2 / >7.6) 强制查 mixed
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 首题（Mixed acid-base 主题）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（acid-base 章节）
+>   - [[完整笔记/专题笔记/肾脏/肾脏_酸碱代偿完整SOP]]（已有 SOP，本卡可扩 mixed 5 组合 + sepsis 三阶段演化）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/感染]]（sepsis hemodynamic + lactic acidosis 机制）
+>   - [[完整笔记/Peixuan分科笔记/pulmonary]]（respiratory muscle fatigue → 呼衰 indication for intubation）
+>   - [[完整笔记/Peixuan分科笔记/心内]]（Cardiac arrest = mixed met+resp acidosis 同型）
+> - 🌱 TODO：
+>   - 同步增量到 [[完整笔记/专题笔记/肾脏/肾脏_酸碱代偿完整SOP]] § Mixed 5 组合表 + Winters 公式 + Sepsis 三阶段演化
+>   - 累积 Salicylate / DKA+vomit / Hyperemesis 等 mixed 题 → 整合成专题独立衍生
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q2790 — 必须 5 步走完三步法不跳代偿核对
+> - [ ] 默写 Winters formula（PaCO2 = 1.5×HCO3 + 8 ± 2）
+> - [ ] 默写 Mixed 5 组合（met+resp acid / met+resp alk / met acid+resp alk / met alk+resp acid / met acid+met alk）+ 经典 stem
+> - [ ] 默写 sepsis 三阶段酸碱演化
+> - [ ] 默写 6 代偿公式（met acid Winters / met alk / acute resp acid / chronic resp acid / acute resp alk / chronic resp alk）
+> - [ ] 反射训练：见 ABG "pH 极端 (<7.2 / >7.6) 或正常但 HCO3/PaCO2 偏离" → 0.5 秒怀疑 mixed
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: Mixed Acid-Base Disorder 识别 SOP（三步法：看 pH → 定原发 → 算代偿；代偿偏离即 mixed）/ Winters formula PaCO2 expected = 1.5×HCO3 + 8 ± 2（代酸专用 最高频）/ 6 代偿公式（met acid Winters / met alk 0.7×ΔHCO3 / acute resp acid 0.1×ΔPaCO2 HCO3↑ / chronic resp acid 0.35-0.4×ΔPaCO2 / acute resp alk 0.2×ΔPaCO2 HCO3↓ / chronic resp alk 0.4-0.5×ΔPaCO2）/ Mixed 5 典型组合（met+resp acid sepsis-末期-cardiac arrest 极低 pH / met+resp alk hyperemesis-pregnancy hyperventilation 极高 pH / met acid+resp alk Salicylate-sepsis早 near normal pH / met alk+resp acid overdiuresed HF+COPD near normal pH / met acid+met alk DKA+severe vomit near normal pH）/ Sepsis 三阶段酸碱演化（早 resp alk hyperventilation → 中 mixed met acid+resp alk Salicylate-like → 晚 mixed met+resp acid respiratory muscle fatigue 最危险）/ 代偿矛盾 = mixed 钥匙（呼酸代偿 HCO3 应↑ 本题↓ = 矛盾）/ "Fast and shallow breathing" = respiratory muscle fatigue 标志 即将呼衰 intubation 信号 / 极端 pH <7.2 或 >7.6 强制查 mixed
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-28] 肾/Heme-Onc / Dialysis-Related Amyloidosis (DRA / β2-microglobulin) — 长期透析 + 双肩痛 + 腕管 + bone cysts 三联 (Q21041) 🟡 选对不确定
+> ^Q21041
+>
+> ## Stem 模式
+> 70yo W + **bilateral shoulder pain 3 mo + 镇痛药无效** + **右手食/中/无名指 tingling 3 wks**（carpal tunnel）+ DM nephropathy ESRD + **HD 3×/wk × 20 yr** + 双肩 hypertrophy + 关节活动受限 + **thenar atrophy + 食/中/无名指感觉↓** + X-ray **radiolucent bone cysts 双肩** + US 旋转袖增厚 + hyperechoic 沉积 + Ca 8.1 → 最可能诊断？答 **B. Amyloidosis**（DRA / β2-microglobulin）。
+>
+> ## 核心概念
+> **Dialysis-Related Amyloidosis (DRA)** = 透析 >5-10 年累积 β2-microglobulin（不能被透析膜清除）→ 与 GAG / I 型胶原结合 → 沉积**骨关节系统**。经典三联：① **Scapulohumeral periarthritis**（双肩痛 + 旋转袖增厚 + hyperechoic 沉积）② **Carpal tunnel syndrome**（β2M 沉积横韧带）③ **Bone cysts**（可病理骨折）。**DRA 发病率随年龄 + 透析持续时间↑**。
+>
+> Answer：**B. Amyloidosis**
+>
+> ## 普适规则
+>
+> ### Systemic Amyloidosis 4 型完整对照 ⭐⭐
+>
+> | 类型 | 前驱疾病 | 前驱蛋白 | 淀粉样蛋白 | 经典临床 |
+> |---|---|---|---|---|
+> | **AL（Primary）** | Plasma cell dyscrasia（MM / MGUS） | **Ig light chains**（λ > κ） | AL | 肾综 + cardiomyopathy + 周围神经病 + **macroglossia** + **periorbital purpura** + GI |
+> | **AA（Secondary）** | **慢性炎症**（RA / IBD / OM / TB / FMF） | **Serum amyloid A (SAA)** acute phase | AA | **肾病/肾综（最常见）** + 肝脾大 + GI |
+> | **ATTR（Age-related / Hereditary）** | 老人 / 家族遗传突变 | **Transthyretin (prealbumin)** | ATTR | **Cardiomyopathy（restrictive）** + 周围神经病 + **CTS** |
+> | **DRA（Dialysis-Related）** ⭐ | **ESRD on dialysis >5-10 yr** | **β2-microglobulin** 透析清除不充分 | Aβ2M | **Scapulohumeral periarthritis + CTS + bone cysts**（**仅骨关节，不肾不心**） |
+>
+> ### DRA 经典三联（Q21041 核心）⭐
+>
+> | 部位 | 表现 |
+> |---|---|
+> | **肩** | Scapulohumeral periarthritis — **双肩痛 + 旋转袖增厚 (>8 mm) + hyperechoic 沉积** + ROM↓ |
+> | **腕** | **Carpal tunnel syndrome** — 横韧带 β2M 沉积 → median neuropathy（thenar 萎缩 + 拇/食/中/桡半无名指麻木）|
+> | **骨** | **Radiolucent bone cysts**（肩 / 腕 / 髋 / 脊柱）+ 病理骨折风险 |
+>
+> ### 共同诊断标志
+> - **Congo red 染色阳性**（所有 amyloid）
+> - **苹果绿双折射** under polarized light
+> - **Amorphous hyaline material** on H&E
+> - 活检首选：**腹部脂肪垫**（侵入小）→ 阴性可做受累器官（肾 / 直肠 / 心）
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 坑 |
+> |---|---|---|
+> | A | **Acromegaly** | ❌ 可致 CTS + 软组织增生，但**全身性（jaw / brow / tongue / 手脚）**+ 头痛突出 + **不与透析关联** |
+> | **B** ⭐ | **Amyloidosis (DRA)** | ✅ 透析 20 yr + 三联（肩 + 腕 + 骨囊） |
+> | C | **Polymyalgia rheumatica (PMR)** | ❌ 老年 + 肩痛 patten 像，但**髋带也累及** + 无 hypertrophy / 无 bone cysts + ESR↑↑ + glucocorticoid 戏剧响应 |
+> | D | **Pseudogout (CPPD)** | ❌ **单关节急性炎症**（膝最多）+ chondrocalcinosis（关节软骨钙化线性 radiodense）+ 不致 bone cysts + 不双侧肩 |
+> | E | **Tertiary hyperparathyroidism** | ❌ 可有 bone cysts 但 **autonomy → hyperCa**；本题 Ca **8.1（低）**反向 + 软组织沉积不典型 |
+>
+> ## 我为什么错（"选对但不确定"）
+> - 选了：**B Amyloidosis** ✅
+> - 卡点：**不确定** — 排除法选的 B，没正向锁 DRA 三联（不知道 β2M 沉积模式）
+> - 元错误：不熟 4 型 amyloidosis 完整对照表（AL/AA/ATTR/DRA），看到"透析 20 yr + 关节"应**反射 DRA** 不必排除法
+>
+> ## Memory Hook
+> - **"透析 >5-10 yr + 双肩痛 + 腕管 + bone cysts → DRA (β2M)"** ⭐
+> - **4 型 amyloid 助记**：
+>   - **A**L = **A**bnormal plasma cells（MM / MGUS）→ 全身（肾 + 心 + 神经 + 巨舌 + 紫癜）
+>   - **A**A = **A**cute phase reactant（chronic inflammation / RA）→ **肾**为主
+>   - **A**TTR = **A**ge / **A**utosomal（老人 + 家族）→ **心 + CTS**
+>   - **DRA / Aβ2M** = **D**ialysis → **骨关节**（仅）
+> - **反 pattern: PMR 是 polymyalgia 不是 sclerosis；Acromegaly 全身肢端肥大；Pseudogout 单关节急性；3° HPT hyperCa（本题低 Ca 反向）**
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：不熟 β2M 沉积模式，靠排除法
+> - 学到：透析时长 + 关节骨表现 = **DRA pathognomonic**
+> - 学到：4 型 amyloidosis 各有"指纹器官"（AL 全身 / AA 肾 / ATTR 心+CTS / DRA 骨关节）
+> - 学到：Acromegaly CTS 鉴别要点 — **全身肢端肥大**（jaw/brow/tongue/手脚）+ **不与透析关联**
+> - 学到：PMR vs DRA — PMR 髋带也累 + 无 cysts + ESR↑↑ + 激素戏剧响应
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q16296]] AA Amyloidosis from RA（同日 — 同 amyloidosis 系列 4 型对照）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（line 3834+ Systemic amyloidosis 4 型 + line 4116 β2M dialysis-shoulder + line 4128 β2M bone cysts — 已有完整章节）
+>   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（line 3007 / 2825 Amyloidosis + AL + periorbital purpura）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/外科]]（CTS 鉴别：DRA / Acromegaly / Hypothyroid / Pregnancy / RA / DM）
+>   - [[完整笔记/Peixuan分科笔记/骨科]]（Bone cysts / pathologic fracture 鉴别 — DRA / brown tumor of HPT / multiple myeloma）
+> - 🌱 TODO：
+>   - 累积 amyloidosis 4 型 + 同日 Q16296 → 整合 [[完整笔记/专题笔记/肾脏/肾脏_Amyloidosis四型对照]]（4 型前驱-沉积器官-诊断-治疗对照）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q21041 — 必须**正向锁 DRA**（透析 20yr + 三联）不许排除法
+> - [ ] 默写 4 型 amyloid 完整对照（前驱疾病 / 前驱蛋白 / 沉积器官 / 经典临床）
+> - [ ] 默写 DRA 三联（肩 periarthritis / 腕 CTS / 骨囊）+ 透析时长阈值
+> - [ ] 默写 5 选 1 鉴别（Acromegaly / PMR / Pseudogout / 3° HPT vs DRA）
+> - [ ] 反射训练：见 "long-term HD + 关节骨表现" → 0.5 秒锁 DRA
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: Dialysis-Related Amyloidosis (DRA / β2-microglobulin) 经典三联（Scapulohumeral periarthritis 双肩痛+旋转袖增厚+hyperechoic 沉积 + Carpal tunnel syndrome 横韧带 β2M / thenar 萎缩拇食中桡半无名指麻木 + Radiolucent bone cysts 肩腕髋脊柱病理骨折）/ Systemic Amyloidosis 4 型完整对照（AL=plasma cell dyscrasia MM-MGUS / Ig light chains / 全身肾综+cardiomyopathy+周围神经+macroglossia+periorbital purpura+GI；AA=chronic inflammation RA-IBD-OM-TB-FMF / SAA acute phase / 肾病肾综为主+肝脾大+GI；ATTR=老人或家族遗传 / Transthyretin prealbumin / Restrictive cardiomyopathy+周围神经+CTS；DRA=ESRD on dialysis >5-10yr / β2-microglobulin 透析清除不充分 / 仅骨关节不肾不心）/ Amyloid 共同诊断（Congo red+ / 苹果绿双折射 / amorphous hyaline H&E / 活检首选腹部脂肪垫→阴性做器官）/ 5 选 1 鉴别（Acromegaly 全身肢端肥大 jaw-brow-tongue-手脚不与透析关联 / PMR 髋带也累+无 cysts+ESR↑↑+激素戏剧响应 / Pseudogout 单关节急性 chondrocalcinosis 不双侧 / 3°HPT hyperCa 本题低 Ca 反向 / DRA ✅）/ 4 型助记 "AL=Abnormal plasma cells 全身 / AA=Acute phase reactant 肾 / ATTR=Age-Autosomal 心+CTS / Aβ2M=Dialysis 骨关节"
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-28] 肾/Heme-Onc / AA Amyloidosis from RA — 长期 RA 慢性炎症 + 肾综 + Congo red 阳性沉积 (Q16296) 🟡 选对不确定
+> ^Q16296
+>
+> ## Stem 模式
+> 72yo W + 双下肢水肿 3 mo + 多年关节痛 + **ulnar deviation / swan neck / nodules**（=典型 RA） + ecchymoses + Hb 10.8 + Cr 0.9 + Alb **2.8↓** + UA **4+ proteinuria + 无 cells/casts** → 肾活检最可能见？答 **A. Congo red-positive glomerular deposits**（AA amyloidosis）。
+>
+> ## 核心概念
+> **Nephrotic syndrome** = 4+ proteinuria + pitting edema + hypoalbuminemia。背景 **long-standing RA 慢性炎症** → 肝合成 **Serum amyloid A (SAA)** 持续↑ → 沉积成 **AA amyloid** 于肾小球 → **AA amyloidosis** 致肾综。诊断：**Congo red 染色 + 苹果绿双折射**；脂肪垫活检首选无创，肾活检确诊。
+>
+> Answer：**A. Congo red-positive glomerular deposits**
+>
+> ## 普适规则
+>
+> ### AA Amyloidosis 临床指纹 ⭐
+>
+> | 要素 | 内容 |
+> |---|---|
+> | **前驱炎症** | **RA（最常见）** / IBD / 骨髓炎 / TB / FMF / Castleman / chronic infection |
+> | **机制** | 慢性炎症 → 肝 **SAA acute phase reactant ↑** → 沉积成 AA |
+> | **首发器官** | **肾（最常见）** — proteinuria → 肾综 → CKD |
+> | **次要受累** | 肝脾大 / GI（吸收不良 / dysmotility）/ 皮肤瘀斑（毛细血管脆性）/ 心 GI 神经少 |
+> | **诊断** | Congo red+ / 苹果绿双折射 / amorphous hyaline H&E；脂肪垫优先 |
+> | **治疗** | **控制原发炎症**（RA 用 DMARDs / biologics）→ SAA↓ → 阻止沉积 |
+>
+> ### Nephrotic vs Nephritic UA 对照 ⭐
+>
+> | 表现 | Nephrotic（如 AA amyloid） | Nephritic（如 lupus / PSGN） |
+> |---|---|---|
+> | 蛋白尿 | **>3.5 g/d（4+）** | <3.5 g |
+> | 血尿 | 无或镜下 | **Gross / RBC casts / dysmorphic** |
+> | UA cells/casts | **无（本题）** | RBC casts + WBC casts |
+> | 水肿 | **明显（hypoalbuminemia）** | 较轻 |
+> | HTN | 后期 | **早期突出** |
+> | 补体 | 正常 | 多↓ |
+>
+> ### 4 型 Amyloidosis 复习（同 Q21041）⭐
+> 助记："AL=Abnormal plasma cells / AA=Acute phase reactant / ATTR=Age-Autosomal / DRA=Dialysis"
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 病理 | 临床对应 |
+> |---|---|---|
+> | **A** ⭐ | **Congo red+ glomerular deposits** | ✅ Amyloidosis（本题 AA 继发 RA） |
+> | B | Glomerular immune deposits + cellular proliferation | ❌ **Proliferative GN**（如 lupus nephritis / MPGN）— 多 **HTN + hematuria + RBC casts**，本题无 |
+> | C | Hyalinization of arterioles + small arteries | ❌ **Hypertensive nephrosclerosis** — 需 **long-standing 未控 HTN**（本题 BP 116/72 正常）+ 不典型 nephrotic |
+> | D | Marked mononuclear interstitial infiltration | ❌ **AIN / CTIN** — 多有 **药物史 + 发热 + 皮疹 + WBC casts**，本题无 |
+> | E | Urate crystal deposition in interstitium | ❌ **Gout nephropathy** — 单关节 acute warm swollen painful joint（不 ulnar dev/swan neck，是 RA 不是 gout） |
+>
+> ## 我为什么错（"选对但不确定"）
+> - 选了：**A** ✅
+> - 卡点：**不确定** — 不知道"Congo red" 是 amyloid 标志 vs 其他染色对应什么病；不熟 nephrotic 病因谱里 AA amyloid 位置
+> - 元错误：没把 "RA + 肾综" 反射成 "AA amyloidosis"（RA 致肾综最经典就是 AA）
+>
+> ## Memory Hook
+> - **"RA + 肾综 → 反射 AA amyloidosis"** ⭐（DMARDs 前老 RA 患者并发 #1 肾问题）
+> - **"Congo red+ + 苹果绿双折射"= 任何 amyloid pathognomonic**
+> - **"4+ proteinuria + 无 cells/casts + hypoalbumin + edema"= nephrotic 五件套**
+> - **AA 慢性炎症五大前驱**：RA / IBD / 骨髓炎 / TB / FMF（**家族地中海热**）— 任意一个长史 + 蛋白尿先想 AA
+> - **AA vs AL 鉴别**：AA 有"明显炎症前驱史"+ 肾为主；AL 无炎症前驱（plasma cell dyscrasia）+ 全身多器官（心 / 神经 / 巨舌 / 紫癜）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：不熟"Congo red+" 这个染色标志特异性
+> - 卡点：不知道 RA 致肾综最常见就是 AA amyloidosis
+> - 学到：Nephrotic 5 件套（4+蛋白 / 无 cells-casts / hypoalbumin / 水肿 / 高脂高凝）
+> - 学到：UA "no cells or casts" 是 AA / AL 等 amyloid 肾综的**反 pattern 钩子**（vs nephritic 必有 RBC casts）
+> - 学到：肾活检前推荐**脂肪垫活检**（无创首选）
+> - 学到：治疗 AA = 控原发炎症（不是治肾本身）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q21041]] DRA β2M 透析肩腕骨（同日 — 同 amyloidosis 系列）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（line 3974 / 4150 / 4176 AA amyloidosis 章节 — 已有完整）
+>   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（line 3007 / 3834 Amyloidosis 系列）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/免疫，疫苗]]（RA 病理 + DMARDs / biologics 治疗）
+>   - [[完整笔记/Peixuan分科笔记/GI]]（IBD → AA / FMF AR 突变 → 反复发作性发热腹痛 + AA）
+>   - [[完整笔记/Peixuan分科笔记/感染]]（TB / 骨髓炎 → AA）
+> - 🌱 TODO：
+>   - 累积 Q21041 + Q16296 → 整合 [[完整笔记/专题笔记/肾脏/肾脏_Amyloidosis四型对照]]（4 型前驱-蛋白-器官-诊断-治疗 + 5 选 1 病理对照）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q16296 — 必须**正向锁 AA from RA**（不许排除法）
+> - [ ] 默写 4 型 amyloid 完整对照（同 Q21041）
+> - [ ] 默写 AA 5 大前驱炎症（RA / IBD / OM / TB / FMF）
+> - [ ] 默写 nephrotic 5 件套 + nephrotic vs nephritic UA 对照
+> - [ ] 默写 5 选 1 病理对照（Congo red+ amyloid / immune deposits proliferation lupus-MPGN / hyalinization HTN nephrosclerosis / mononuclear AIN / urate crystal gout）
+> - [ ] 反射训练：见 "long-standing RA + nephrotic" → 0.5 秒锁 AA amyloidosis
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: AA Amyloidosis from RA 经典指纹（长期 RA-IBD-OM-TB-FMF 慢性炎症 → 肝 SAA acute phase reactant↑ → AA 沉积肾小球 → 肾综 4+ proteinuria + hypoalbumin + edema 无 cells/casts ± 皮肤瘀斑毛细血管脆 + 肝脾大 + GI 吸收不良 / 治疗 = 控原发炎症 DMARDs-biologics SAA↓ 阻止沉积）/ Amyloid 共同诊断（Congo red+ / 苹果绿双折射 polarized light / amorphous hyaline H&E / 脂肪垫活检首选无创 → 阴性肾活检）/ Nephrotic vs Nephritic UA 对照（Nephrotic >3.5g+无 cells/casts+水肿明显 hypoalbumin+HTN后期+补体正常 vs Nephritic <3.5g+gross hematuria-RBC casts-dysmorphic+水肿较轻+HTN 早突出+补体多↓）/ 5 选 1 肾活检病理对照（Congo red+ amyloid ✅ / immune deposits+cellular proliferation lupus-MPGN proliferative GN → HTN+hematuria+RBC casts / hyalinization arterioles HTN nephrosclerosis 需 long-standing 未控 HTN / mononuclear infiltrate AIN-CTIN 药物史+发热+皮疹+WBC casts / urate crystal gout 单关节 acute warm swollen 不 RA pattern）/ 4 型 amyloid 助记 AL-Abnormal plasma cells / AA-Acute phase reactant 慢性炎症 / ATTR-Age-Autosomal / DRA-Aβ2M-Dialysis / RA + 肾综反射 AA amyloidosis（DMARDs 前老 RA 患者并发 #1 肾问题）/ AA 5 大前驱（RA / IBD / 骨髓炎 / TB / FMF 家族地中海热 AR 突变反复发热腹痛）
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-28] 肾/内分泌 / CKD-MBD 继发性甲旁亢 — Subperiosteal resorption + 病理骨折 → 测 PTH (Q106299) 🟡 做对但要扎实
+> ^Q106299
+>
+> ## Stem 模式
+> 45yo W + 一周右髋疼痛 + **Stage 4 CKD** + 多种维生素 + lisinopril + amlodipine + 体格 **内外旋疼痛** + X-ray **股骨颈非移位骨折** + **双侧 subperiosteal resorption**。最合适诊断检查？答 **E. PTH level**。
+>
+> ## 核心概念
+> **CKD-MBD (Mineral Bone Disorder)** = CKD ↓ GFR → ① ↓ 1,25-(OH)2 Vit D（活化型）→ ↓ 肠 Ca 吸收 → **↓ 血 Ca**；② ↓ 磷排泄 → **↑ 血 Pi** → 与 Ca 形成 CaPi 复合物 → 进一步 ↓ 游离 Ca → **↑ PTH（Secondary Hyperparathyroidism）**。持续 ↑ PTH → **Osteitis Fibrosa Cystica**（高骨转换 + 矿化↓ + 纤维化 + 骨折风险↑）。**Subperiosteal resorption（特别桡骨指骨）= ↑ PTH 高度特异**。
+>
+> Answer：**E. Parathyroid hormone level**
+>
+> ## 普适规则
+>
+> ### Renal Osteodystrophy 算法 ⭐⭐
+>
+> ```
+> CKD (↓ GFR)
+>   ├─ ↓ 1,25-Dihydroxy Vit D ─┐
+>   ├─ ↓ Phosphate filtration  │
+>   │     ↓                    │
+>   ↓                          ↓
+> ↑ Phosphorus  ───  ↓ Calcium
+>                ↓
+>          ↑ PTH (Secondary HPT)
+>                ↓
+>     ┌──────────┼──────────┐
+> Inadequate Tx  Optimal Tx  Excessive Tx
+>      ↓            ↓            ↓
+> Osteitis      Normal bone   Adynamic
+> fibrosa       turnover      bone disease
+> cystica                     (Low PTH, low
+> (High PTH,                   turnover, low
+> high turnover,              mineralization,
+> ↑ fracture risk)            ↑ fracture risk)
+> ```
+>
+> ### 4 型 Renal Osteodystrophy 对照 ⭐
+>
+> | 类型 | PTH | 骨转换 | 病机 | 治疗 |
+> |---|---|---|---|---|
+> | **Osteitis fibrosa cystica** ⭐ | **↑↑** | **高** | 治疗不足 → 持续 2° HPT → **Subperiosteal resorption + bone cysts + brown tumors** | 低 Pi 饮食 + Pi 结合剂 → Pi 正常后给 VitD |
+> | **Adynamic bone disease** | **↓** | **低** | 过度治疗 (Pi binder + VitD + Calcimimetics 过度) → PTH 被压太低 | 减药 |
+> | Osteomalacia | 不定 | 低矿化 | VitD 缺乏 + Al 蓄积（旧透析液） | VitD 替代 |
+> | Mixed | 中 | 混合 | 上述混合 | 个体化 |
+>
+> ### Subperiosteal Resorption 高度特异 ⭐
+> - 部位：**桡骨指骨** > 锁骨外端 / 颅骨 / 髂骨 / 长骨
+> - 病机：PTH 直接刺激 osteoclasts → 骨膜下小梁吸收
+> - 临床意义：**只见于 ↑ PTH（1° HPT 或 2° HPT）**
+>
+> ### CKD-MBD 治疗阶梯 ⭐
+> 1. **低 Pi 饮食**（首选，最便宜）
+> 2. **Pi 结合剂**（Ca-based: CaCO3/CaAcetate ↔ Non-Ca: Sevelamer / Lanthanum）
+> 3. Pi 正常后 → **Active Vit D**（calcitriol / paricalcitol）小心 hyperCa
+> 4. **Calcimimetics**（cinacalcet）— 增 CaSR 敏感性 → ↓ PTH
+> 5. **Parathyroidectomy** — 难治 3° HPT（autonomy → hyperCa）
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 选项内容 | 坑 |
+> |---|---|---|
+> | A | **Calcitonin** | ❌ PTH 是 Ca 主调；calcitonin 临床不测（作用小） |
+> | B | **CT scan of hip** | ❌ X-ray **已看到骨折** — CT 多余 |
+> | C | **Estrogen level** | ❌ 45 岁尚未绝经 + advanced CKD 才是主要病因 |
+> | D | **Magnesium level** | ❌ HyperMg 可见于 CKD 但**不直接致 MBD**；本题 subperiosteal resorption 强烈指向 PTH |
+> | **E** ⭐ | **PTH level** | ✅ CKD + subperiosteal resorption + 病理骨折 = 2° HPT 直到证否 |
+>
+> ## 我为什么做对但要扎实
+> - 选了：**E** ✅
+> - 卡点：知道选 PTH 但**不熟整个 Renal Osteodystrophy 算法 + 4 型对照**；不熟治疗阶梯
+> - 需扎实：① CKD → ↓ VitD + ↑ Pi → ↓ Ca → ↑ PTH 完整机制链；② 4 型 osteodystrophy；③ 治疗 5 阶梯
+>
+> ## Memory Hook
+> - **"CKD + 骨折 + subperiosteal resorption → 2° HPT → 测 PTH"** ⭐
+> - **CKD-MBD 机制链**："**↓ GFR → ↓ VitD + ↑ Pi → ↓ Ca → ↑ PTH → 骨"**
+> - **Subperiosteal resorption = PTH ↑↑ pathognomonic**（**任何 PTH 升高都可见，1° 或 2° 或 3° HPT**）
+> - **2° vs 3° HPT**：2° = Ca 仍低（HPT 在代偿） / 3° = autonomy → **HyperCa**（移植后或长期 2° 进展）
+> - **Adynamic bone disease 反 pattern**：过度治疗 → PTH 反被压**太低** → 骨低转换 → **骨折风险也↑**（U 型曲线，治疗不及和过度都坏）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：知道选 PTH 但不熟完整机制链
+> - 学到：subperiosteal resorption 桡骨指骨外侧是 PTH↑ 标志（不限于 1° HPT）
+> - 学到：CKD-MBD 治疗 U 型曲线 — 不足 → osteitis fibrosa cystica；过度 → adynamic bone disease；两端都↑骨折风险
+> - 学到：治疗阶梯先 **Pi 控制**（低 Pi 饮食 + Pi 结合剂）→ Pi 正常后再给 active VitD
+> - 学到：Pi 结合剂选 Ca-based（便宜）但 hyperCa 风险 → Sevelamer / Lanthanum（贵但安全）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 首题（CKD-MBD / 2° HPT 主题）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（CKD-MBD / Secondary HPT 章节）
+>   - [[完整笔记/Peixuan分科笔记/endocrine]]（Parathyroid / Ca-Pi 调节）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/外科]]（Parathyroidectomy indications — 3° HPT autonomy / 难治 hyperCa）
+>   - [[完整笔记/Peixuan分科笔记/骨科]]（Pathologic fractures 鉴别 — CKD-MBD / OP / MM / mets / DRA）
+>   - [[完整笔记/Peixuan分科笔记/儿科]]（Renal osteodystrophy in children with CKD → growth retardation / rickets-like）
+> - 🌱 TODO：
+>   - 建 [[完整笔记/专题笔记/肾脏/肾脏_CKD-MBD完整体系]]（机制链 + Renal osteodystrophy 4 型 + 治疗 5 阶梯 + Pi binders 对照 + Subperiosteal resorption 部位）— 内容已成体系
+>   - 累积 1°/2°/3° HPT 题家族 → [[完整笔记/专题笔记/内分泌/内分泌_甲旁亢三级鉴别]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q106299 — 必须**正向锁机制链**（CKD ↓ VitD ↑ Pi ↓ Ca ↑ PTH → 骨）
+> - [ ] 默写 Renal osteodystrophy 4 型 PTH/骨转换/机制/治疗
+> - [ ] 默写 CKD-MBD 治疗 5 阶梯（低 Pi 饮食 / Pi 结合剂 / VitD / Calcimimetics / Parathyroidectomy）
+> - [ ] 默写 1°/2°/3° HPT 三级鉴别（Ca / Pi / PTH / 原因）
+> - [ ] 默写 Subperiosteal resorption 5 大部位
+> - [ ] 反射训练：见 "CKD + subperiosteal resorption" → 0.5 秒锁 2° HPT
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: CKD-MBD (Mineral Bone Disorder) + Secondary Hyperparathyroidism 完整机制链（CKD ↓GFR → ↓ 1,25-(OH)2 Vit D 活化型 → ↓肠 Ca 吸收 → ↓血 Ca；↓ 磷排泄 → ↑血 Pi → CaPi 复合物 → 进一步↓游离 Ca → ↑ PTH 2°HPT；持续 ↑ PTH → Osteitis Fibrosa Cystica 高骨转换+矿化↓+纤维化+骨折↑）/ Renal Osteodystrophy 4 型对照（① Osteitis fibrosa cystica PTH ↑↑ 高转换 治疗不足 subperiosteal resorption+bone cysts+brown tumors / ② Adynamic bone disease PTH ↓ 低转换 过度治疗 / ③ Osteomalacia 低矿化 VitD缺乏+Al蓄积 / ④ Mixed）/ Subperiosteal resorption 5 大部位（桡骨指骨为主+锁骨外端+颅骨+髂骨+长骨；PTH 直接刺激 osteoclasts 骨膜下小梁吸收；任何 1°/2°/3° HPT 都可见）/ CKD-MBD 治疗 5 阶梯（① 低 Pi 饮食 / ② Pi 结合剂 Ca-based CaCO3-CaAcetate vs Non-Ca Sevelamer-Lanthanum / ③ Pi 正常后 Active VitD calcitriol-paricalcitol 小心 hyperCa / ④ Calcimimetics cinacalcet 增 CaSR 敏感性 ↓PTH / ⑤ Parathyroidectomy 难治 3° HPT autonomy hyperCa）/ U 型治疗曲线（治疗不足 → osteitis fibrosa cystica；过度治疗 → adynamic bone disease；两端都↑骨折）/ 1°/2°/3° HPT 鉴别（1°原发腺瘤 hyperCa+低 Pi+PTH↑；2° CKD-VitD 缺乏 低 Ca+高 Pi+PTH↑；3° autonomy 多移植后或长 2°进展 hyperCa+PTH↑↑）/ 5 选 1 鉴别（Calcitonin 临床不测 / CT 已看 X-ray 多余 / Estrogen 45 未绝经+CKD 主因 / Magnesium 不直接致 MBD / PTH ✅）
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-28] 肾 / Hypercalcemia-induced Intrinsic AKI — UNa↑ + BUN/Cr 正常 + Ca 10.9 + 无 hydro → MM 隐藏机制 (Q16044) 🟡 做对但要扎实
+> ^Q16044
+>
+> ## Stem 模式
+> 55yo M + nausea/weakness 1 wk + muscle cramps 3 d + **T2DM 2yr + HTN 10yr + HLD** + metformin/lisinopril/rosuvastatin × 2yr + BP **160/98** + **双下肺 crackles + 双下肢 2+ edema** + K **7.4↑** + HCO3 **14↓** + BUN **82↑↑** + Cr **8（3 mo 前 1.1）↑↑↑** + **Ca 10.9↑** + Protein 1+ + UNa **70 (高)** + RBC/WBC 1-2/hpf + 无 casts + 肾 US **正常大小 + 无 hydro**。最可能病因？答 **F. Renal tubular injury**（intrinsic AKI）。
+>
+> ## 核心概念
+> **Intrinsic AKI（ATN / cast nephropathy）** = 肾小管损伤 → 重吸收能力↓ → **高 UNa（>40）+ FENa>2% + BUN/Cr 正常（~10-15）+ UOsm ~300**。本题 UNa 70 + BUN/Cr = 82/8 = 10.25（正常）+ 无 hydro → 锁 intrinsic。**HyperCa + AKI 反 pattern**：肾衰一般致 **hypoCa**（Pi 排泄↓ + VitD 活化↓）→ 若 AKI + **hyperCa** 必须找隐藏 malignancy（**MM 最常见**，溶骨 + light chain cast nephropathy）。
+>
+> Answer：**F. Renal tubular injury**
+>
+> ## 普适规则
+>
+> ### AKI 三大类对照（最高频）⭐⭐
+>
+> | 指标 | **Prerenal** | **Intrinsic (ATN)** | **Postrenal** |
+> |---|---|---|---|
+> | **BUN/Cr** | **>20** | **~10-15（正常）** | 不定 |
+> | **Urine Na** | **<20 mEq/L** | **>40 mEq/L** | 不定 |
+> | **FENa** | **<1%** | **>2%** | >2%（晚期） |
+> | **Urine osmolality** | **>500 mOsm/kg**（浓缩） | **~300（等渗）** | ~300 |
+> | **Urine specific gravity** | >1.020 | <1.020 | — |
+> | **Microscopy** | Bland | **Muddy brown casts**（ATN） | Bland |
+> | **Imaging** | Normal | Normal | **Hydronephrosis** |
+> | **本题** | 不符（BUN/Cr 10.25 / UNa 70） | ✅ 全部符合 | 不符（无 hydro） |
+>
+> ### HyperCa + AKI = MM 直到证否（反 pattern）⭐⭐⭐
+> - **AKI 通常致 HypoCa**：Pi 排泄↓ → ↑ blood Pi → 与 Ca 形成 CaPi 复合物 → ↓ 游离 Ca；同时 ↓ VitD 活化
+> - **若 AKI + HyperCa → 反向**：必有 underlying malignancy driving Ca↑
+> - **MM 最常**：① osteoclast activating factors → 溶骨 → HyperCa；② **light chain cast nephropathy** → tubule 堵塞 → AKI
+> - **MM CRAB 诊断**：HyperCalcemia / Renal failure / Anemia / Bone lytic lesions + M-spike
+> - UA pattern: dipstick **可阴性**（只测 albumin）但 24h 蛋白 ↑（**Bence-Jones proteinuria** — light chain 不被 dipstick 检出）→ urine protein electrophoresis 才能看出
+> - 治疗：**IV NS + 控肿瘤**（MM 用 bortezomib + dex 等）
+>
+> ### Intrinsic AKI 6 大病因 ⭐
+>
+> | 病因 | 钩子 |
+> |---|---|
+> | **ATN (Ischemic)** | 长 prerenal 失代偿 / 重 sepsis / hypotension → muddy brown casts |
+> | **ATN (Toxic)** | Aminoglycoside / Cisplatin / Contrast / Myoglobin (rhabdo) / Hemoglobin (hemolysis) |
+> | **AIN** | 药物 (NSAID/PPI/β-lactam/sulfa)+发热+皮疹+嗜酸+WBC casts |
+> | **GN** | RBC casts + dysmorphic RBC + 蛋白尿（nephritic） |
+> | **Cast nephropathy** ⭐ | **MM light chain 堵塞 + HyperCa + AKI**（本题隐藏机制） |
+> | **Vasculitis / TTP-HUS** | 全身性 + Schistocytes / ANCA / 神经 / 紫癜 |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 病因 | 坑 |
+> |---|---|---|
+> | A | **Decreased cardiac output** | ❌ Prerenal → BUN/Cr >20 + UNa <20，本题反 |
+> | B | **Drug-induced AIN** | ❌ 多 **rash + fever + 嗜酸 + WBC casts**，本题无 |
+> | C | **Glomerulonephritis** | ❌ 多 **hematuria + RBC casts + dysmorphic RBC**，本题无 casts |
+> | D | **Intravascular volume depletion** | ❌ Prerenal 同 A，反 |
+> | E | **Progression of diabetic nephropathy** | ❌ DN 进展是**多年**渐进，不是 3 个月 Cr 从 1.1 → 8；US 应**萎缩小肾**，本题正常大小 |
+> | **F** ⭐ | **Renal tubular injury** | ✅ UNa 70 + BUN/Cr 10.25 + 无 hydro + hyperCa 提示 MM cast nephropathy |
+>
+> ## 我为什么做对但要扎实
+> - 选了：**F** ✅
+> - 卡点：知道选 intrinsic 但**不熟"AKI + hyperCa = MM 反 pattern"**这个关键钩子
+> - 需扎实：① AKI 三类指标对照表；② intrinsic AKI 6 大病因；③ MM CRAB 诊断 + cast nephropathy 机制；④ Bence-Jones 蛋白 dipstick 阴性陷阱
+>
+> ## Memory Hook
+> - **"AKI + HyperCa → MM 直到证否"** ⭐⭐（反 pattern：肾衰常 hypoCa）
+> - **AKI 三类指标"BUN/Cr | UNa | UOsm | Cast"四件套**：
+>   - Prerenal: >20 / <20 / >500 / Bland
+>   - Intrinsic: ~10-15 / >40 / ~300 / **Muddy brown**
+>   - Postrenal: 不定 / 不定 / ~300 / **Hydronephrosis**
+> - **MM CRAB**: **C**alcium↑ / **R**enal failure / **A**nemia / **B**one lytic + M-spike
+> - **Bence-Jones 蛋白**：dipstick 阴性（只测 albumin）→ 24h 尿蛋白 ↑ + urine protein electrophoresis 才能识别
+> - **DN vs MM-AKI**：DN 缓慢进展数年 + 萎缩小肾 + hypoCa；MM-AKI 数周-月 + 正常或大肾 + hyperCa
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：不熟"AKI + hyperCa = MM"这个反 pattern
+> - 学到：AKI 三类用 4 个指标定位（BUN/Cr ratio / UNa / UOsm / Microscopy）
+> - 学到：MM 致 AKI 机制 = light chain cast nephropathy（不仅是 hyperCa）
+> - 学到：MM 的尿蛋白 dipstick **可阴性**（只测 albumin，不测 light chain）→ 需做 protein electrophoresis 才能识别 Bence-Jones
+> - 学到：DN 进展是数年，不会 3 个月 Cr 翻 7 倍 + 不会致 hyperCa（DN 多 hypoCa）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 首题（AKI 三类鉴别 + MM AKI 反 pattern）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（AKI 章节 / Prerenal vs Intrinsic vs Postrenal 对照）
+>   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（MM CRAB 诊断 + cast nephropathy）
+>   - [[完整笔记/专题笔记/肾脏/肾脏_AKI病因全谱]]（已有衍生，本卡可扩 "AKI + hyperCa 反 pattern" + Bence-Jones dipstick 陷阱）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/endocrine]]（HyperCa 12 因鉴别 CHIMPANZEES + MM 是溶骨 + PTHrP）
+>   - [[完整笔记/Peixuan分科笔记/外科]]（Spinal cord compression from MM bony lesion）
+> - 🌱 TODO：
+>   - 同步增量到 [[完整笔记/专题笔记/肾脏/肾脏_AKI病因全谱]] § Intrinsic AKI 6 大病因 + MM cast nephropathy 钩子 + Bence-Jones dipstick 阴性陷阱
+>   - 累积 MM 题家族 → [[完整笔记/专题笔记/_衍生_MM CRAB诊断与并发症]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q16044 — 必须 5 秒看 UNa>40+BUN/Cr~10+无 hydro 锁 intrinsic + 见 hyperCa 反射 MM
+> - [ ] 默写 AKI 三类对照表（BUN/Cr / UNa / FENa / UOsm / SG / 镜检 / 影像）
+> - [ ] 默写 Intrinsic AKI 6 大病因 + 各钩子
+> - [ ] 默写 MM CRAB + Bence-Jones dipstick 陷阱
+> - [ ] 反射训练：见 "AKI + hyperCa" → 0.5 秒喊 "MM until proven otherwise"
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: AKI 三大类对照 SOP（Prerenal BUN/Cr>20+UNa<20+FENa<1%+UOsm>500+SG>1.020+Bland casts / Intrinsic ATN BUN/Cr~10-15+UNa>40+FENa>2%+UOsm~300+SG<1.020+Muddy brown casts / Postrenal hydronephrosis on US）/ Intrinsic AKI 6 大病因（① ATN ischemic 长 prerenal-sepsis-hypotension muddy brown casts / ② ATN toxic aminoglycoside-cisplatin-contrast-myoglobin-hemoglobin / ③ AIN 药物 NSAID-PPI-β-lactam-sulfa+发热+皮疹+嗜酸+WBC casts / ④ GN RBC casts+dysmorphic+蛋白尿 nephritic / ⑤ Cast nephropathy MM light chain 堵塞 + HyperCa + AKI 反 pattern / ⑥ Vasculitis-TTP-HUS 全身性+Schistocytes-ANCA-神经-紫癜）/ AKI + HyperCa 反 pattern = MM 直到证否（肾衰常 hypoCa via Pi 排泄↓+VitD 活化↓；AKI+hyperCa 必找 underlying malignancy；MM 双机制 osteoclast activating factors→溶骨→hyperCa + light chain cast nephropathy→tubule 堵→AKI）/ MM CRAB 诊断（HyperCalcemia / Renal failure / Anemia / Bone lytic + M-spike）/ Bence-Jones proteinuria dipstick 假阴性（dipstick 只测 albumin 不测 light chain）→ 24h 尿蛋白 ↑ + urine protein electrophoresis 才能识别 / DN vs MM-AKI 鉴别（DN 数年渐进+萎缩小肾+hypoCa；MM-AKI 数周到月+正常或大肾+hyperCa）/ 6 选 1 鉴别（Decreased CO/Volume depletion prerenal BUN/Cr>20+UNa<20 反 / AIN rash-fever-嗜酸-WBC casts 反 / GN RBC casts 反 / DN progression 数年不是 3 个月+萎缩肾 反 / Renal tubular injury ✅）
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-28] 肾/内分泌 / Thiazide-Induced Hyponatremia — 79yo 女低 BMI + HCTZ 3 周 + seizure + euvolemic (Q114863) 🟡 做对但要扎实
+> ^Q114863
+>
+> ## Stem 模式
+> 79yo F + AMS + tonic-clonic seizure 在 ED + 数天 lethargic/confused + HTN + **HCTZ + amlodipine 3 wks 前开始** + T 36.8 + BP 125/70 + **moist mucous membranes**（euvolemic）+ BMI **18.9（低）** + CT head 阴性 → 最可能电解质异常致 seizure？答 **E. Hyponatremia**。
+>
+> ## 核心概念
+> **Thiazide-induced hyponatremia** = 高发 **老年女性低 BMI**，多在 **服药 3-4 周内** 或 **急性诱因后**（diarrhea / 大量饮水）。**双机制**：① **ADH-dependent**（mild volume depletion → ADH↑ → water retention）；② **ADH-independent**（thiazide 直接作用远端肾小管 ↓ free water clearance + 老年人 dilution 能力↓）。多 **euvolemic** 表现（moist mucosa）。重症致 **seizure / 脑水肿**。治疗：**永久停 thiazide + IV NS**；severe (seizure / coma) → **hypertonic saline 3%**。
+>
+> Answer：**E. Hyponatremia**
+>
+> ## 普适规则
+>
+> ### Thiazide-induced Hyponatremia 指纹 ⭐
+>
+> | 要素 | 内容 |
+> |---|---|
+> | **危险因素** | **Age >75 + female + low BMI** + 近期 acute event（diarrhea） |
+> | **时间窗** | **3-4 周内**起病 / acute event 后 |
+> | **容量状态** | 多 **euvolemic**（mild ADH-mediated 水潴留）— 不是 hypovolemic |
+> | **机制** | ADH-dependent + ADH-independent（直接 ↓ 远端稀释能力 + age-related GFR↓） |
+> | **临床** | 早期 subtle（confusion）→ 严重 **seizure / 脑水肿 / 昏迷** |
+> | **治疗** | **永久停 thiazide** + IV fluids；severe → **3% hypertonic saline** 升 Na ≤8-10 mEq/L/24h 避免 ODS |
+>
+> ### 电解质致 Seizure 5 鉴别（横向）⭐⭐
+>
+> | 电解质 | 致 seizure？ | 病机 / 钩子 |
+> |---|---|---|
+> | **HyperCa** | ❌ | 神经兴奋性 **↓** → 迟钝 / 便秘 / muscle weakness（"stones-bones-groans-psychic-moans"） |
+> | **HyperNa** | ⚠️（罕见） | 通常 critical illness + 渴感受损 + bedridden + tube feed；本题 euvolemic + moist mucosa 反对 |
+> | **HypoCa** | ✅（重度） | 神经兴奋性 **↑** → tetany / Chvostek-Trousseau / 重度才 seizure；多有诱因（CKD / 甲旁切术后 / VitD 缺）— 本题无 |
+> | **HypoK** | ❌（不典型） | 多 muscle weakness / paralysis / 心律失常；seizure 不是典型 |
+> | **HypoNa** ⭐ | **✅✅** | **最常见电解质致 seizure**；脑细胞水肿；老年女性 + thiazide pattern = 本题指纹 |
+>
+> ### Hyponatremia 病因（按容量状态）⭐
+>
+> | 容量 | 病因 |
+> |---|---|
+> | **Hypovolemic** | GI loss / 利尿剂（thiazide）/ 出血 / 烧伤 / Addison's |
+> | **Euvolemic** | **Thiazide**（部分）/ **SIADH** / 低甲 / 肾上腺皮质功能↓ / 精神性多饮 / Tea-and-toast 老年 |
+> | **Hypervolemic** | HF / 肝硬化 / 肾病综合征 / CKD |
+>
+> ### 治疗速率（避免 ODS）⭐
+> - **Acute (<48h) symptomatic**：3% NaCl 100 mL bolus → 重复，**总升 ≤8-10 mEq/L/24h**
+> - **Chronic (>48h or unknown)**：升速更慢，**≤6-8 mEq/L/24h**（避免 osmotic demyelination syndrome / central pontine myelinolysis）
+> - **Acute 较安全**（脑未适应）；**Chronic 升太快 → ODS** 是关键风险
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 电解质 | 坑 |
+> |---|---|---|
+> | A | **Hypercalcemia** | ❌ Thiazide 可致 mild hyperCa 但**不致 seizure**（神经兴奋↓）+ 不致 encephalopathy |
+> | B | **Hypernatremia** | ❌ 需 critical illness + bedridden + 渴感受损；本题 euvolemic + moist mucosa 反对 |
+> | C | **Hypocalcemia** | ❌ 重度才 seizure；本题无 CKD / 甲旁切 / VitD 缺等诱因 |
+> | D | **Hypokalemia** | ❌ Thiazide 可致 hypoK 但典型表现是 **weakness / 心律失常**，**不致 seizure** |
+> | **E** ⭐ | **Hyponatremia** | ✅ 老年 F + 低 BMI + thiazide 3 周 + seizure = 经典指纹 |
+>
+> ## 我为什么做对但要扎实
+> - 选了：**E** ✅
+> - 卡点：知道选 hyponatremia 但**不熟双机制（ADH-dep + ADH-indep）+ 不熟电解质致 seizure 横向 5 鉴别**
+> - 需扎实：① Thiazide hypoNa 高危人群 + 时间窗 + 双机制；② 5 电解质致 seizure 横向对照；③ 治疗速率与 ODS 风险
+>
+> ## Memory Hook
+> - **"老女 + 低 BMI + thiazide 3 周 + seizure → hyponatremia"** ⭐
+> - **Thiazide hypoNa 双机制**：① ADH-dep（mild volume depletion）+ ② **ADH-indep（直接 ↓ 远端稀释能力）**
+> - **电解质致 seizure 5 强弱排序**：**HypoNa >> HypoCa（重度）> HypoMg > HypoGlc > HyperNa（罕）**
+> - **HyperCa 不致 seizure 反 pattern**：神经兴奋 ↓ → 迟钝 / 便秘 / weakness（与 hypoCa 相反）
+> - **治疗速率黄金线**：**≤8-10 mEq/L/24h 急性 / ≤6-8 慢性**（防 ODS / CPM）
+> - **Thiazide hypoNa euvolemic 反 pattern**：临床多看起来不脱水（与 loop diuretic 致 hypoNa 多 hypovolemic 不同）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：不熟"老女低 BMI + 数周内"高危
+> - 学到：thiazide hypoNa 双机制（不只是 volume depletion → ADH，还有 ADH-indep 直接作用）
+> - 学到：电解质致 seizure 横向排序 — hypoNa >> hypoCa（重度）；hyperCa 反向（神经兴奋↓不致 seizure）
+> - 学到：治疗速率 ≤8-10/24h 防 ODS；severe symptomatic 才用 3% hypertonic saline
+> - 学到：thiazide hypoNa 多 euvolemic（与 loop diuretic hypovolemic 不同）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q2169]] Severe symptomatic hypercalcemia（同日 — 反 pattern: hyperCa 不致 seizure）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（Na / 电解质 + Diuretics 章节）
+>   - [[完整笔记/Peixuan分科笔记/心内]]（Thiazide 在 HTN 的应用 + 副作用谱）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/neuro]]（Seizure 电解质病因排查 + ODS / CPM）
+>   - [[完整笔记/Peixuan分科笔记/endocrine]]（SIADH + Tea-and-toast 老年 hypoNa）
+>   - [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]]（已有衍生，本卡可扩 hypoNa 电解质致 seizure 横向 5 鉴别 + thiazide hypoNa 指纹）
+> - 🌱 TODO：
+>   - 同步增量到 [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]] § 电解质致 seizure 横向 5 鉴别表 + thiazide hypoNa 指纹 + 治疗速率 ODS 风险
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q114863 — 必须**正向锁老女+低BMI+thiazide 3 周** pattern
+> - [ ] 默写 thiazide hypoNa 双机制（ADH-dep + ADH-indep）
+> - [ ] 默写电解质致 seizure 横向 5 鉴别（HypoNa / HypoCa / HypoK / HyperCa / HyperNa）
+> - [ ] 默写 hypoNa 3 容量分类病因（hypo-/eu-/hyper-volemic）
+> - [ ] 默写治疗速率 ≤8-10 mEq/L/24h + ODS / CPM 风险
+> - [ ] 反射训练：见"老年女性 + thiazide + seizure" → 0.5 秒锁 hyponatremia
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: Thiazide-Induced Hyponatremia 经典指纹（age>75 + female + low BMI + HCTZ 3-4 周内 + acute event 后 + euvolemic moist mucosa；双机制 ADH-dep mild volume depletion→ADH↑ + ADH-indep 直接↓远端稀释能力+age-related GFR↓；severe→seizure/脑水肿/昏迷；治疗永久停 thiazide+IV NS，severe→3% hypertonic saline）/ 电解质致 seizure 5 横向鉴别（HypoNa ✅✅ 最常见 脑水肿 老年女 thiazide / HypoCa ✅ 重度才 tetany Chvostek-Trousseau 多 CKD-甲旁切-VitD缺诱因 / HypoK ❌ 多 weakness-paralysis-心律失常 / HyperCa ❌ 神经兴奋↓→迟钝-便秘-weakness stones-bones-groans-psychic-moans / HyperNa ⚠️罕 critical illness+渴感受损+bedridden+tube feed）/ Hyponatremia 容量分类（Hypovolemic GI loss-thiazide-出血-Addison / Euvolemic thiazide-SIADH-低甲-肾上腺皮质↓-精神多饮-tea-and-toast 老年 / Hypervolemic HF-肝硬化-肾综-CKD）/ 治疗速率防 ODS（acute<48h ≤8-10 mEq/L/24h+3% NaCl 100mL bolus / chronic>48h ≤6-8 mEq/L/24h；ODS/CPM 是 chronic 升太快的关键风险）/ Thiazide vs Loop diuretic hypoNa 容量反 pattern（Thiazide 多 euvolemic / Loop 多 hypovolemic）
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-28] 肾/心内 / ESRD 死因 #1 = Cardiovascular Disease (~50%) — Traditional + ESRD-specific 双轨风险因素 (Q4026) 🟡 做对但要扎实
+> ^Q4026
+>
+> ## Stem 模式
+> 50yo M + HTN + DM + 抑郁 + 2° HPT + ESRD + **HD × 3 yr** + 3 mo 前 catheter-related infection (treated) + 2 yr 前 **right BKA d/t 不愈合足溃疡** + **right carotid bruit** → 未来 5 yr 最大死亡风险？答 **A. Cardiovascular disease**。
+>
+> ## 核心概念
+> **CVD 是 ESRD 患者首要死因，约占 50%**（即使年轻患者也是）。ESRD 患者 CVD 风险由 **traditional + ESRD-specific** 双轨驱动。Stem 多用 "carotid bruit / PAD / amputation / extensive atherosclerosis" 等线索铺垫，让你在死因排序里选 CVD。
+>
+> Answer：**A. Cardiovascular disease**
+>
+> ## 普适规则
+>
+> ### ESRD CVD 风险因素双轨 ⭐⭐
+>
+> | 类别 | 因素 |
+> |---|---|
+> | **Traditional**（普适人群也有） | **HTN（96% ESRD）/ DM / dyslipidemia / LVH** / advanced age / sedentary lifestyle |
+> | **ESRD-specific**（独有） ⭐ | ① **Anemia of CKD**（EPO↓）→ 心脏代偿性高输出 + LVH<br>② **Vascular calcifications**（↑ Pi + ↑ Ca + CKD-MBD）→ 动脉硬化 + 冠脉钙化 + LVDF<br>③ **Oxidative stress**（uremia + dialysis）→ 加速动脉粥样硬化 + NO 合成抑制 |
+>
+> ### ESRD 死因排序（5 yr 内）⭐
+>
+> | 排名 | 死因 | 占比 | 说明 |
+> |---|---|---|---|
+> | **1** ⭐ | **Cardiovascular disease** | **~50%** | MI / stroke / sudden cardiac death（hyperK / arrhythmia） |
+> | 2 | **Infection** | **15-20%** | 透析 catheter-related sepsis / 免疫抑制 / 透析瘘口感染 |
+> | 3 | Suicide / 抑郁 | ~3% | ESRD + 透析患者抑郁率高（**up to 70%**），但 suicide 死亡率仍 << CVD |
+> | 4 | **Venous thromboembolism** | — | ESRD 患者 VTE 风险是普通人 **2 倍**，但仍 << CVD |
+> | 5 | **Voluntary withdrawal of dialysis** | — | 多见**老年人**（quality of life）；50yo 患者罕见 |
+>
+> ### ESRD-specific 死因机制 ⭐
+> - **MI / ACS**：传统冠脉病 + 钙化
+> - **Sudden cardiac death**：HyperK（最常）/ QT 延长 / LVH 导致 arrhythmia
+> - **Stroke**：HTN + 颈动脉粥样硬化（本题 carotid bruit 指纹）
+> - **CHF / LVH**：anemia + HTN + AV fistula 高输出 + 钙化
+> - **PAD**：DM + 钙化 + uremia → 足溃疡 + amputation（本题 BKA 史）
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 死因 | 坑 |
+> |---|---|---|
+> | **A** ⭐ | **Cardiovascular disease** | ✅ ESRD #1 死因 ~50%；本题 carotid bruit + DM + PAD + amputation 多重 CVD 指纹 |
+> | B | **Infection** | ❌ 第二死因 (15-20%) 但 << CVD；3 mo 前 catheter infection 已治；不是首要 |
+> | C | **Suicide** | ❌ ESRD 抑郁率高 (up to 70%) 但 suicide 死亡率仍 << CVD |
+> | D | **Venous thromboembolism** | ❌ ESRD VTE 风险 2× 普通人，但仍 << CVD |
+> | E | **Voluntary withdrawal of dialysis** | ❌ 多见**老年人 + 严重 quality of life 下降**；50yo + 当前稳定不典型 |
+>
+> ## 我为什么做对但要扎实
+> - 选了：**A** ✅
+> - 卡点：知道选 CVD 但**不熟双轨风险因素** + **不熟死因排序的具体百分比**
+> - 需扎实：① ESRD CVD 风险双轨（traditional + ESRD-specific）；② 死因排序 5 名 + 百分比；③ ESRD-specific 5 种 CVD 表现机制
+>
+> ## Memory Hook
+> - **"ESRD 首要死因 = CVD ~50%"** ⭐⭐（不是 infection / suicide / VTE）
+> - **ESRD CVD 双轨风险**：Traditional（HTN / DM / dyslipidemia / LVH）+ ESRD-specific（**A**nemia / **V**ascular calcification / **O**xidative stress）助记 "**AVO**"
+> - **ESRD 死因 5 名次序**：**CVD (50%) > Infection (15-20%) > Suicide > VTE > Withdrawal**
+> - **ESRD vs DM-only**：DM 主导 CVD 是 macro / micro；ESRD 额外加 anemia + 钙化 + uremia 加速 → 风险 **远高于** DM 单独
+> - **临床信号**：Stem 提 **carotid bruit / PAD / BKA / past MI / LVH** = 提示 CVD 死因
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：不熟具体百分比和死因排序
+> - 学到：ESRD CVD 风险是 traditional + ESRD-specific 双轨
+> - 学到：ESRD-specific 三因素 "AVO"（Anemia / Vascular calcification / Oxidative stress）
+> - 学到：ESRD 患者抑郁率 up to 70%，但 suicide 死亡占比仍 << CVD
+> - 学到：Voluntary withdrawal 多见**老年人**（不是 50yo 经典）
+> - 学到：透析 patient 风险管理 = aggressive 控双轨（traditional + ESRD-specific 都要控）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 首题（ESRD 死因 / CKD CVD 风险主题）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（ESRD / CKD complications）
+>   - [[完整笔记/Peixuan分科笔记/心内]]（CVD 风险因素 + LVH + 钙化）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/外科]]（PAD / nonhealing ulcer / amputation in DM-ESRD）
+>   - [[完整笔记/Peixuan分科笔记/感染]]（Catheter-related bloodstream infection 第二死因）
+>   - [[完整笔记/Peixuan分科笔记/psych]]（抑郁 in ESRD / 透析 patient 70%）
+>   - [[完整笔记/Peixuan分科笔记/endocrine]]（DM-ESRD 联合 + 2° HPT 钙化）
+> - 🌱 TODO：
+>   - 累积 ESRD 并发症题家族（CVD / infection / MBD / amyloid / anemia） → 整合 [[完整笔记/专题笔记/肾脏/肾脏_ESRD并发症全谱]]
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q4026 — 必须 5 秒锁 CVD（不被 infection / suicide / VTE 分心）
+> - [ ] 默写 ESRD 死因 5 名 + 百分比（CVD 50% > Infection 15-20% > Suicide > VTE > Withdrawal）
+> - [ ] 默写 ESRD CVD 双轨风险（Traditional 5 + ESRD-specific "AVO" 3）
+> - [ ] 默写 ESRD-specific 5 种 CVD 表现（MI / SCD / Stroke / CHF / PAD）
+> - [ ] 反射训练：见 "ESRD + CVD 指纹（carotid bruit / PAD / BKA）" → 0.5 秒锁 CVD 死因
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: ESRD 死因首位 = Cardiovascular Disease ~50%（不是 infection / suicide / VTE / withdrawal）/ ESRD CVD 风险因素双轨（Traditional HTN 96%-DM-dyslipidemia-LVH-advanced age-sedentary lifestyle / ESRD-specific "AVO": Anemia of CKD EPO↓→心脏代偿高输出+LVH + Vascular calcifications ↑Pi+↑Ca+CKD-MBD→动脉硬化+冠脉钙化+LVDF + Oxidative stress uremia+dialysis→加速 atherogenesis+NO 合成抑制）/ ESRD 死因 5 名排序（CVD 50% > Infection 15-20% catheter-related sepsis+免疫抑制 > Suicide 3% 抑郁率 up to 70% 但死亡<<CVD > VTE 风险 2× 普通人但<<CVD > Voluntary withdrawal 多老年 quality of life）/ ESRD-specific 5 种 CVD 表现（MI/ACS 传统冠脉+钙化 / SCD HyperK 最常+QT 延长+LVH arrhythmia / Stroke HTN+颈动脉粥样硬化-carotid bruit 指纹 / CHF/LVH anemia+HTN+AV fistula 高输出+钙化 / PAD DM+钙化+uremia→足溃疡+amputation BKA 指纹）/ 临床信号 stem 提 carotid bruit / PAD / BKA / past MI / LVH = 提示 CVD 死因 / 5 选 1 鉴别（CVD ✅ / Infection 第二死因仍<<CVD / Suicide 抑郁率高但<<CVD / VTE 2× 风险但<<CVD / Withdrawal 多老年不适合 50yo）
+> 状态:: 🟡
+> 错因:: 知识
