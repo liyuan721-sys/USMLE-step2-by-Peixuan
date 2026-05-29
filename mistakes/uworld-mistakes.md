@@ -29484,7 +29484,7 @@
 >                   → Step 1: **0.9% saline isotonic bolus**（20 mL/kg IV）直到 euvolemic
 >                   → Step 2: 缓慢 hypotonic 纠 Na（**< 0.5 mEq/L/hr** / 24 hr 内 < 10-12 mEq/L）
 > ```
->
+>![[{53105C27-3D2C-479C-9D32-9F475D3DE01B}.png]]
 > ### 儿童脱水 5 大体征（Symptomatic 判定）⭐
 > Tachycardia + 低 BP + **干黏膜** + **cap refill > 3s** + 凹陷囟门 / 哭无泪 / 嗜睡 / DTR↓ / 张力↓ / 尿少（**单尿布 / 天**）→ 任 ≥3 项 = symptomatic
 >
@@ -29670,7 +29670,7 @@
 >
 > ## Stem 模式
 > 54yo M + 自限性 GI 症状（腹痛+水样腹泻 2 次，2 hr 自愈）+ 父 60yo AAA 破裂亡 + lifetime 非吸烟者 + 生命体征正常 + **CT 偶发右肾下极简单囊肿**（薄壁 / 无 septa / 无 enhancement / 单腔 / 均质）→ 患者要求出院，对囊肿管理？答 **C. Reassurance only**（Bosniak I 简单囊肿 = 良性偶发，**无需任何 follow-up**）。
->![[{59569AB0-1C81-4842-B468-E7B1D50EA3A4}.png]]
+>![[{59569AB0-1C81-4842-B468-E7B1D50EA3A4}.png]]![[{AFD52A87-2959-49A5-937B-36B69EA82138}.png]]![[{D6D5097C-96A8-4A3D-A27B-6DF5F1C2870F}.png]]
 > ## 核心概念
 > **Simple Renal Cyst (Bosniak I)** = 最常见肾偶发病变（**> 50 岁 50% 普及**），**几乎全部良性**。CT/US 影像 5 大良性指纹：**薄壁光滑 + 单腔 + 无 septa + 均质内容 + 无 contrast enhancement**。无需 follow-up、无需活检、无需切除、无需 aspiration（除非大而有症状 / 感染）。"Reassurance only" = 正确答案。
 >
@@ -29771,3 +29771,119 @@
 > 主题:: Simple renal cyst (Bosniak I) 管理（reassurance only 无需 follow-up）/ Simple vs Malignant 6 项鉴别（薄壁单腔无 septa 均质无 enhancement vs 厚不规则多腔多 septa 异质有 enhancement，**enhancement 是最关键单标志**）/ Bosniak 5 级管理决策（I-II 无需 → IIF "F"=Follow 6-12 月影像 → III 手术 ~50% 恶 → IV 明显 enhancement+solid 恶高 partial-radical nephrectomy）/ 偶发病变 4 原则（良性+无症状 reassurance / borderline 短期随访 / 可疑恶性 urology+影像/活检 / 症状性大囊肿或感染 aspiration-切开-抗生素）/ 反 pattern: 看到囊肿反射 aspiration/切除是错的，简单囊肿无需任何介入 / 过度介入有风险（aspiration 感染出血复发，surgery 不必要） / Ureteral stent 仅梗阻（hydronephrosis/hydroureter） / 偶发病变元 pattern 跨 4 大（肾/肾上腺/甲状腺/肺 nodule）
 > 状态:: 🟡
 > 错因:: 知识
+
+> [!example]- [2026-05-28] 内分泌/肾 / Severe Symptomatic Hypercalcemia — 急症先 NS+Calcitonin 救命，不诊断 (Q2169) ⚠️错选 Bone marrow biopsy
+> ^Q2169
+>
+> ## Stem 模式
+> 69yo M + **2 天加重 confusion** + 恶心呕吐 + 背痛腹痛 + T2DM/HTN（metformin+amlodipine）+ **pancytopenia**（WBC 3200 / Hct 32% / Plt 87K）+ **Ca 14.1 (severe)** + Cr 1.8 + Glu 190 → 下一步？答 **F. Normal saline infusion**（急症先治高钙救命，不先做 bone marrow biopsy 诊断 MM）。
+>
+> ## 核心概念
+> **Severe (Ca >14) 或 symptomatic hypercalcemia = 内分泌急症**。**铁律：先治急症，后诊断病因**。Patient 多容量耗竭（polyuria + 摄入↓）→ **Step 1: Normal saline 200-300 mL/hr 大量水化**（恢复 GFR + 增 Ca 排泄）→ **Step 2: Calcitonin** 4 IU/kg q12h（24-48 hr 快效但 tachyphylaxis 耐药）→ **Step 3: Bisphosphonate**（zoledronic acid 4 mg IV）—— **起效慢 2-4 天**所以放后，但提供 long-term Ca 下降。
+>
+> ## 普适规则
+>
+> ### Hypercalcemia 3 级分层管理 ⭐（UWorld 高频图）
+>
+> | 严重度 | Ca 阈值 | Short-term | Long-term |
+> |---|---|---|---|
+> | **Severe 或 Symptomatic** ⭐ | **Ca > 14 mg/dL** 或任何症状 | **NS hydration + Calcitonin**（避免 loop diuretic 除非 volume overload）| **Bisphosphonate** (zoledronic acid) |
+> | **Moderate** | Ca 12-14 mg/dL | Usually 无 immediate（除非 symptomatic）| 同 severe 框架 |
+> | **Asymptomatic / Mild** | Ca < 12 mg/dL | 无 immediate | **避免 thiazide / lithium / 容量耗竭 / 长卧床** |
+>
+> ### Hypercalcemia 治疗 6 选 ⭐⭐⭐
+>
+> | 治疗 | 机制 | 起效 | 何时用 |
+> |---|---|---|---|
+> | **Normal saline** ⭐ Step 1 | 容量复苏 → GFR↑ → Ca 尿排↑ | 数小时 | **所有 severe / symptomatic** |
+> | **Calcitonin** ⭐ Step 2 | 抑 osteoclast 骨吸收 | **24-48 hr 快**（但 tachyphylaxis 耐药 → 仅短期）| Severe，与 NS 同时 |
+> | **Bisphosphonate**（zoledronic / pamidronate）⭐ Step 3 long-term | 抑 osteoclast（持久）| **2-4 天慢**（所以放后）| 所有 severe，长期维持 |
+> | **Glucocorticoid** | 抑 1,25-VitD 形成 + 抑淋巴细胞 | **2-5 天**（慢）| 仅 **Vit D 过量 / 肉芽肿（sarcoid/TB）/ 淋巴瘤** |
+> | **Hemodialysis** | 直接除 Ca | 即刻 | 仅**肾衰 / HF 不能耐受 saline** |
+> | **Denosumab** | RANKL 抑制 | 数天 | 难治高钙 / bisphosphonate 失败后备 |
+> | **Loop diuretic (furosemide)** | 减 Ca 重吸收（升支）| 数小时 | **仅 volume overload (HF)**，不 routine ⚠️ |
+>
+> ### 高钙病因 "CHIMPANZEES" 12 因
+> **C**alcium supplementation / **H**yperPTH ⭐ 门诊 #1 / **I**atrogenic（thiazide / lithium / TPN）/ **M**ilk-alkali / **P**aget / **A**ddison's / **N**eoplasm ⭐⭐ 住院 #1 / **Z**ollinger-Ellison（MEN1 联）/ **E**xcess Vit A/D / **E**xcess Ca intake / **S**arcoidosis / **S**ervere 甲亢
+>
+> ### Malignancy-Associated Hypercalcemia 3 机制
+> - **PTHrP**（鳞癌 lung / 头颈 / 食管 / 肾 / 乳腺）→ Cl/PO4 < 33 与 1° HPT 反向
+> - **溶骨**（**MM** ⭐ / 乳腺 / 前列腺）
+> - **1,25-VitD↑**（**淋巴瘤** / 肉芽肿）
+>
+> > [!warning] 老年 + 不明原因高钙 + pancytopenia / 骨痛 / Cr↑ → **MM 必想**（5 联诊断：高 Ca / 肾衰 / 贫血 / 骨溶损 / M-spike — "CRAB")
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 适用 | 为什么本题错 |
+> |---|---|---|
+> | **A（我选的）** | Bone marrow biopsy | ❌ 指向 MM 诊断方向 **没错**，但**急症先治不诊断**；先 saline 救命，稳定后再做 biopsy |
+> | B | Furosemide | ❌ Routine 高钙**不推荐**（加重容量耗竭）；仅 volume overload (HF) 时用 |
+> | C | Hemodialysis | ❌ 仅**肾衰 / HF 不能耐受 saline** 时；本题 Cr 1.8 轻度，可水化 |
+> | D | Insulin | ❌ 用于 **hyperkalemia**（驱 K 入细胞），不是高钙 |
+> | E | Methylprednisolone | ❌ 起效 **2-5 天慢**；仅 Vit D 过量 / 肉芽肿 / 淋巴瘤适用，本题未明确该病因 |
+> | **F** ⭐ | Normal saline infusion | ✅ **第一步救命** — 恢复容量 + GFR↑ + Ca 尿排↑ |
+> | G | Pamidronate (Bisphosphonate) | ❌ **2-4 天慢**，急症不靠它救命；与 saline+calcitonin 同时给但**不是 first step** |
+>
+> ### 反 pattern 警示
+> - **急症先治不诊断** ⭐⭐⭐ — Severe hypercalcemia 是急症，**先 NS + calcitonin** 不先 bone marrow biopsy / 影像诊断病因
+> - **Furosemide 不是 routine 高钙药** — 仅 volume overload (HF) 时考虑，加重 volume depletion 反致 AKI
+> - **Bisphosphonate 起效慢 2-4 天** — 不是急救药，是 long-term 维持
+> - **Glucocorticoid 慢 + 病因特异** — 只 Vit D / 肉芽肿 / 淋巴瘤
+> - **Hemodialysis 仅 saline 不能用时** — Cr 1.8 不是肾衰指征
+> - **Insulin 是 hyperkalemia 不是 hypercalcemia**
+> - **"CRAB" 诊断 MM**：hyperCa / Renal / Anemia / Bone lesion + M-spike — 高度怀疑但**不在急诊先做 biopsy**
+>
+> ## Memory Hook
+> - **"Severe / Symptomatic Hypercalcemia → NS + Calcitonin 先救命，Bisphosphonate 后维持"** ⭐⭐⭐
+> - **"Ca > 14 或有症状 = 急症"** 阈值反射
+> - **"3 急救药"**：NS 立刻 / Calcitonin 24-48hr / Bisphosphonate 2-4 天
+> - **"急症先治不诊断"** — 反 pattern 元规则（同框 DKA / hyperK / status epilepticus）
+> - **"Furosemide ≠ routine 高钙药"** — 仅 HF 时 ⚠️
+> - **Malignancy-HyperCa 3 机制**：PTHrP / 溶骨 / 1,25-VitD↑
+> - **MM "CRAB"**：hyperCa / Renal / Anemia / Bone — 老年 + pancytopenia + 高钙 + 背痛
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 错点：见 pancytopenia + 高钙 + 老年 + 背痛 → 反射 "MM → bone marrow biopsy" 诊断方向，没扫"Ca 14.1 + symptomatic = 急症先治"
+> - 学到：急症先治不诊断元规则（DKA / hyperK / status epilepticus / severe hyperCa 同框）
+> - 学到：Hypercalcemia 3 急救药顺序 — NS 立刻 / Calcitonin 24-48hr / Bisphosphonate 2-4 天 long-term
+> - 学到：Furosemide 不是 routine 高钙药（仅 HF）— 之前可能被旧"loop diuretic 促 Ca 排"教学误导
+> - 学到：Hemodialysis 仅"saline 不能用"时 — Cr 1.8 不是指征
+> - 学到：Glucocorticoid 用于"病因特异"（Vit D / 肉芽肿 / 淋巴瘤）不是 first-line
+> - 元学习：USMLE 急症题用时长（5:50）多是"诊断 vs 治疗"在脑里反复纠结的信号 — 反射先扫"急症阈值（Ca>14 / 有症状）"立刻锁治疗
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 首题（Hypercalcemia 急救主题）
+>   - [[mistakes/uworld-mistakes#^Q19929]] Hyperkalemia ECG（同电解质急症 — 急症先治不查血钾结果）
+>   - [[mistakes/uworld-mistakes#^Q4853]] 婴儿 hypernatremia 复苏（同电解质急症元 pattern — symptomatic 先 isotonic 救命）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/endocrine]]（Ca 调节 / PTH / Vit D）
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（电解质章节）
+>   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（MM "CRAB" + 副肿瘤 Hypercalcemia）
+>   - [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]] §3.1（**已有治疗阶梯但缺 3 级分层 + 急救顺序铁律 + furosemide 精确指征 + glucocorticoid 指征** — 本题入库后将同步增量）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] §1.9 1°HPT（4 因↑Ca 表已有 PTH / PTHrP / 肉芽肿 / FHH）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（MM / 淋巴瘤 / breast / 前列腺 副肿瘤高钙）
+>   - [[完整笔记/Peixuan分科笔记/pulmonary]]（lung 鳞癌 PTHrP / sarcoidosis 1,25-VitD↑）
+>   - [[完整笔记/Peixuan分科笔记/感染]]（TB 肉芽肿 1,25-VitD↑）
+> - 🌱 TODO（衍生增量）：
+>   - [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]] §3.1 **本次同步增补**：3 级分层 / 6 治疗选择对照 / 急救顺序铁律 / furosemide 精确指征 / glucocorticoid 病因特异 / hemodialysis 指征
+>   - 考虑建 [[完整笔记/专题笔记/USMLE/USMLE_急症先治不诊断元规则]]（DKA / hyperK / severe hyperCa / status epilepticus / sepsis 5 大同框）— 等再积累 1-2 题
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q2169（验证 "NS+Calcitonin first" 反射）
+> - [ ] 默写 Hypercalcemia 3 级分层（Severe>14 / Mod 12-14 / Mild<12）
+> - [ ] 默写 6 治疗选择对照（NS / Calcitonin / Bisphosphonate / Glucocorticoid / Hemodialysis / Furosemide × 起效 + 指征）
+> - [ ] 默写 Malignancy-HyperCa 3 机制（PTHrP / 溶骨 / 1,25-VitD↑）
+> - [ ] 默写 MM "CRAB" 诊断
+> - [ ] 反射训练：见 "Ca>14 或 symptomatic" → 0.5 秒锁 NS + Calcitonin（不诊断 / 不 furosemide / 不 dialysis）
+>
+> ---
+>
+> 学科:: 内分泌
+> 主题:: Severe symptomatic hypercalcemia 急救（NS 200-300mL/hr first + calcitonin 24-48hr 快但耐药 + bisphosphonate zoledronic 2-4 天 long-term；急症先治不诊断不先 bone marrow biopsy）/ 3 级分层（Severe Ca>14 或症状 → NS+calcitonin / Mod 12-14 usually 无 immediate / Mild<12 无 immediate + 避免 thiazide-lithium-volume depletion-长卧床）/ 6 治疗对照（NS first 容量复苏 GFR↑ Ca 尿排↑ / Calcitonin 24-48hr tachyphylaxis 耐药 / Bisphosphonate 2-4 天 long-term / Glucocorticoid 2-5 天仅 Vit D-肉芽肿-淋巴瘤 / Hemodialysis 即刻仅肾衰-HF 不能 saline / Loop diuretic 仅 volume overload 不 routine / Denosumab 难治后备）/ CHIMPANZEES 12 因 / Malignancy-HyperCa 3 机制（PTHrP 鳞癌-头颈-肾-乳腺 vs 溶骨 MM-乳腺-前列腺 vs 1,25-VitD↑ 淋巴瘤-肉芽肿）/ MM "CRAB"（hyperCa / Renal / Anemia / Bone + M-spike）/ 反 pattern: 急症先治不诊断 / Furosemide 仅 HF 不 routine 反致 AKI / Bisphosphonate 起效慢非急救 / Glucocorticoid 病因特异 / Hemodialysis 仅 saline 不能用 / Insulin 是 hyperK 不是 hyperCa
+> 状态:: 🟡 + #考前必看（电解质急症 + 急症先治不诊断元 pattern + 高钙 6 治疗选择高频考）
+> 错因:: pattern
