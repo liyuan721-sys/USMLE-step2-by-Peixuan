@@ -269,6 +269,55 @@ GN 共同 UA = **RBC casts + dysmorphic RBC + 蛋白尿**
 
 详细 RTA 4 型对比见 [[完整笔记/Peixuan分科笔记/肾脏]] / [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] §2.3
 
+### 3.11 药物诱发免疫性肾病（DIL-GN / ANCA-AAV / Membranous）★
+
+> [!info] 这是 §2.2 AIN 之外的"另一种药物-免疫肾病通路"
+> AIN = T 细胞介导，肾间质 + WBC casts
+> 本节 = 抗体 / 免疫复合物介导，**肾小球** + **RBC casts + 蛋白尿**
+> 同一些药（hydralazine / penicillamine）可走不同通路 → 别混
+
+#### 通用主线：DIL **典型 90% 不累肾** → 极少数累肾时走 GN 通路
+
+| 4 情境 | 致病药 | 肾累及类型 | UA / Lab |
+|---|---|---|---|
+| **① 典型 DIL，无肾累及**（主线 ★） | **Procainamide** ★★★ / Quinidine / Methyldopa | 无 | 正常 |
+| **② DIL + Lupus-like Nephritis** | **Anti-TNF (infliximab/etanercept)** ★ | 免疫复合物 GN | **RBC casts + 蛋白** + ANA+ + 抗组蛋白+ |
+| **③ Drug-induced Membranous Nephropathy** | **Penicillamine** ★ / Gold / NSAIDs（慢性）| 膜性肾病 | **大量蛋白尿（>3.5 g/d）→ 肾病综合征** + 少 RBC |
+| **④ Drug-induced ANCA-Associated Vasculitis (AAV)** | **Hydralazine / Propylthiouracil (PTU) / Minocycline / Levamisole** ★ | **RPGN / 新月体 GN** | **RBC casts + 急 Cr↑ + MPO-ANCA (p-ANCA)** ★ + 可肺出血 + 紫癜 |
+
+#### 机制速记
+
+```
+DIL 主线（抗组蛋白）→ 关节 + 浆膜 + 皮肤 → 停药即愈
+     │
+     ├─ Anti-TNF 亚组 → 免疫复合物沉积肾小球 → Lupus-like nephritis
+     │
+     ├─ Penicillamine 亚组 → 抗体直接结合 PLA2R / 改变足细胞 → Membranous Nephropathy
+     │
+     └─ Hydralazine/PTU/Minocycline 亚组
+         → 诱导 MPO-ANCA → 中性粒细胞激活 → 小血管炎
+         → RPGN + 肺出血 + 紫癜（类似 GPA/MPA）★
+```
+
+#### 与 SLE / AIN 的最终鉴别（CK 决战表）
+
+| | **典型 DIL** | **SLE** | **AIN** | **DIL-肾累及变体**（少数）|
+|---|---|---|---|---|
+| **肾累及频率** | 罕见（<10%）| 30-50% | 100% | 看亚组 |
+| **UA**（有累及时）| RBC casts + 蛋白 | RBC casts + 蛋白 | **WBC casts + 嗜酸** | RBC casts + 蛋白 |
+| **机制** | 免疫复合物（少）| 免疫复合物 | **T 细胞超敏** | 免疫复合物 / 抗体 / ANCA |
+| **anti-dsDNA** | 阴 | **阳** ★ | — | 一般阴 |
+| **抗组蛋白** | **阳** ★ | 50-70% | — | 阳 |
+| **补体** | 正常 | **低** | 正常 | 视亚组（ANCA 通常正常）|
+| **CNS 累及** | 无 | 有 | 无 | 无 |
+| **治疗** | 停药 | 长期免疫抑制 | 停药 ± 类固醇 | 停药 + 类固醇 ± 强化免疫抑制 |
+
+> [!danger] 看药锁定亚组
+> - 题干 **anti-TNF** + 肾累及 → **DIL + Lupus-like nephritis** → 停 + 类固醇
+> - 题干 **penicillamine** + 大蛋白尿 → **Membranous Nephropathy** → 停 + 换药（Wilson 换 trientine）
+> - 题干 **hydralazine / PTU / minocycline** + RPGN + MPO-ANCA → **药物诱发 ANCA 血管炎** → 停 + 类固醇 + cyclophosphamide/rituximab
+> - 题干 **procainamide** + 关节痛 → **典型 DIL（肾正常）** → 停即可
+
 ---
 
 ## 四、Postrenal AKI 速查
@@ -307,6 +356,9 @@ GN 共同 UA = **RBC casts + dysmorphic RBC + 蛋白尿**
 | **老年男 + BPH + AKI + 残余尿 ↑** | Postrenal (BPH) | 急性 on 慢性 |
 | **CNI 病人 + 新加 azole / 葡萄柚 / 钙拮抗 + Cr ↑** | CNI 急性毒（血药 ↑）| 1-2 wk |
 | **抗真菌 amphotericin 2 周 + Cr ↑ + 低 K + 低 Mg + 非 AG 代酸** | Amphotericin B → ATN + Type 1 RTA + 电解质丢失 | 数天-2 wk |
+| **Anti-TNF / Hydralazine 长期 + 关节痛 + ANA+ + 抗组蛋白+** + 肾累及 | DIL + Lupus-like Nephritis（少数 DIL 真累肾）| 数月-年 |
+| **Hydralazine / PTU / Minocycline 长期 + RPGN + RBC casts + MPO-ANCA+** | 药物诱发 ANCA 血管炎（drug-induced AAV）| 数月-年 |
+| **Penicillamine（Wilson/RA）+ 大量蛋白尿（肾病综合征）** | 药物诱发 Membranous Nephropathy | 数月-年 |
 
 ---
 
@@ -326,6 +378,9 @@ GN 共同 UA = **RBC casts + dysmorphic RBC + 蛋白尿**
 | **Allopurinol** | **AIN** ★ Q4007 | 数周 | WBC casts + 嗜酸 |
 | **Cisplatin** | ATN | 数天 | Muddy brown |
 | **Amphotericin B** | **ATN + Type 1 RTA + 低 K/Mg** ★ | 数天-2 wk | 视亚型 |
+| **Anti-TNF**（infliximab/etanercept）| **DIL + Lupus-like nephritis**（免疫复合物 GN）| 月 | RBC casts + 蛋白 |
+| **Penicillamine** | **Membranous Nephropathy**（肾病综合征）| 月-年 | 大量蛋白 + 少 RBC |
+| **Hydralazine / PTU / Minocycline** | **药物诱发 ANCA 血管炎**（RPGN）| 月-年 | RBC casts + MPO-ANCA+ |
 | **MTX (高剂量)** | 结晶肾病 + 直接毒 | 数小时 | 见结晶 |
 | **Acyclovir IV bolus** | 结晶 ATN | 数小时 | 见结晶 |
 | **Lithium** | 慢性 CTIN / 肾性 DI / 急性 | 慢性 | Bland 或 dilute |
@@ -386,6 +441,26 @@ GN 共同 UA = **RBC casts + dysmorphic RBC + 蛋白尿**
 > 下一步：**换 Liposomal Amphotericin B + 补 K + 补 Mg + IV NS 水化**
 > 经典三联：肾毒 + 远端 RTA + 电解质丢失
 
+> [!question]- Q15: 顽固 HTN 老年用 hydralazine 8 个月 → 急性肾衰 + RBC casts + 肺出血 + **MPO-ANCA (p-ANCA) +**。诊断 + 治疗？
+> A: **药物诱发 ANCA 血管炎（drug-induced AAV → RPGN）** — **不是单纯 DIL**
+> 治：**停 hydralazine + 大剂量类固醇 + cyclophosphamide / rituximab**
+> 同样亚组：PTU（抗甲亢）/ Minocycline / Levamisole（污染可卡因）
+
+> [!question]- Q16: RA 病人 infliximab 6 个月后 + 关节痛加重 + 浆膜炎 + ANA+ + 抗组蛋白+ + **Cr 升 + RBC casts + 蛋白尿 2 g/d**。诊断？
+> A: **Anti-TNF 诱发 DIL + Lupus-like Nephritis**（少数 DIL 真累肾的代表）
+> 治：**停 anti-TNF + 类固醇** ± 转换其他生物制剂
+> 反 pattern：典型 DIL 不累肾（procainamide / hydralazine 单纯 DIL）—— **anti-TNF 是例外**
+
+> [!question]- Q17: Wilson 病用 penicillamine 1 年后下肢水肿 + 24h 蛋白 6 g + Alb ↓ + 高脂血。诊断 + 治疗？
+> A: **Penicillamine 诱发 Membranous Nephropathy** → 肾病综合征
+> 治：**停 penicillamine + 换 trientine**（Wilson 替代螯合剂）
+> 同 NSAIDs 慢性也可致 membranous
+
+> [!question]- Q18: Procainamide 1 年后关节痛 + 胸膜炎 + ANA+ + 抗组蛋白+ + dsDNA- + 补体正常。Cr 0.9 + UA 正常。诊断 + 治疗？
+> A: **典型 DIL（procainamide 是最高风险药）— 无肾累及（90%+ DIL 都这样）**
+> 治：**停 procainamide**（换 amiodarone 等）→ 数周-数月自愈
+> 与 SLE 鉴别：dsDNA-、补体正常、无肾/CNS、停药即愈
+
 ---
 
 ## 八、记忆锚
@@ -420,6 +495,14 @@ GN 共同 UA = **RBC casts + dysmorphic RBC + 蛋白尿**
 > [!tip] CIN 防错记
 > **Hold metformin = 防乳酸酸中毒**（不是防 AKI！）
 > **IV NS 水化 = 防 CI-AKI 的真正招**
+
+> [!tip] DIL 肾累及 4 情境（反直觉补丁）
+> **DIL 主线不累肾**，但少数走 GN 通路：
+> - **Anti-TNF** → DIL + lupus-like nephritis
+> - **Penicillamine** → Membranous Nephropathy
+> - **Hydralazine / PTU / Minocycline** → 药物诱发 ANCA 血管炎 (RPGN)
+> - **Procainamide** → 典型 DIL（**不**累肾）
+> 看药锁定亚组，看 UA 锁定通路
 
 ---
 

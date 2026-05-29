@@ -110,6 +110,14 @@ type: 专题笔记
 > [!warning] 鉴别钩子
 > **WBC casts 排 DIL**（DIL 致 AKI 罕见且经 GN）；**RBC casts 排 AIN**。两者**临床表现高度重叠**（malaise / arthralgia / rash），但 UA + AKI 频率分得清。
 
+> [!info] DIL 少数累肾时的 4 情境（深读）
+> DIL 90%+ 无肾累及，但少数走 GN 通路 — **看药锁定亚组**：
+> - **Anti-TNF** → Lupus-like GN（RBC casts + 蛋白）
+> - **Penicillamine** → Membranous Nephropathy（大量蛋白尿，肾综）
+> - **Hydralazine / PTU / Minocycline** → 药物诱发 ANCA 血管炎（RPGN + MPO-ANCA+）
+> - **Procainamide** → 典型 DIL，**不**累肾
+> 详读 [[完整笔记/专题笔记/肾脏/肾脏_AKI病因全谱]] §3.11
+
 ## 八、CK 解题 SOP
 
 ```
