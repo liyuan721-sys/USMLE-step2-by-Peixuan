@@ -29945,3 +29945,118 @@
 > 主题:: Severe symptomatic hypercalcemia 急救（NS 200-300mL/hr first + calcitonin 24-48hr 快但耐药 + bisphosphonate zoledronic 2-4 天 long-term；急症先治不诊断不先 bone marrow biopsy）/ 3 级分层（Severe Ca>14 或症状 → NS+calcitonin / Mod 12-14 usually 无 immediate / Mild<12 无 immediate + 避免 thiazide-lithium-volume depletion-长卧床）/ 6 治疗对照（NS first 容量复苏 GFR↑ Ca 尿排↑ / Calcitonin 24-48hr tachyphylaxis 耐药 / Bisphosphonate 2-4 天 long-term / Glucocorticoid 2-5 天仅 Vit D-肉芽肿-淋巴瘤 / Hemodialysis 即刻仅肾衰-HF 不能 saline / Loop diuretic 仅 volume overload 不 routine / Denosumab 难治后备）/ CHIMPANZEES 12 因 / Malignancy-HyperCa 3 机制（PTHrP 鳞癌-头颈-肾-乳腺 vs 溶骨 MM-乳腺-前列腺 vs 1,25-VitD↑ 淋巴瘤-肉芽肿）/ MM "CRAB"（hyperCa / Renal / Anemia / Bone + M-spike）/ 反 pattern: 急症先治不诊断 / Furosemide 仅 HF 不 routine 反致 AKI / Bisphosphonate 起效慢非急救 / Glucocorticoid 病因特异 / Hemodialysis 仅 saline 不能用 / Insulin 是 hyperK 不是 hyperCa
 > 状态:: 🟡 + #考前必看（电解质急症 + 急症先治不诊断元 pattern + 高钙 6 治疗选择高频考）
 > 错因:: pattern
+
+> [!example]- [2026-05-28] 肾 / ADPKD 正向锁定指纹 — 51yo + Bilateral flank pain + 肝大 + flank mass + 早 HTN + 10 yr nocturia + CKD + 贫血 (Q4474) ✅做对但**排除法**未建正向反射
+> ^Q4474
+>
+> ## Stem 模式
+> 51yo M + 数周 nausea/fatigue + **bilateral flank pain** 数年 + nocturia × 10 yr + 不烟酒 + BP **164/100** + BMI 24 + **liver enlarged + right flank mass on deep palpation** + 前列腺轻度增大 + Hb **10.4** + BUN 48 + Cr **3.1** → 最可能病因？答 **D. ADPKD**（自主显性多囊肾，6 联正向指纹齐全）。
+>
+> ## 核心概念
+> **ADPKD (Autosomal Dominant Polycystic Kidney Disease)** = 常染色体显性遗传多囊肾，PKD1/PKD2 突变 → 双肾无数囊肿渐进性扩张 → 压肾实质 → CKD 渐进 + 早发 HTN + concentrating defect + extrarenal cysts（肝/脑/胰）。**30-40 yo 起症状，55-60 yo 进 ESRD**。本题 6 联指纹齐全可**正向锁定**，**不必排除法**。
+>
+> ## 普适规则
+>
+> ### ADPKD 正向锁定 6 联指纹 ⭐⭐⭐（≥3 项即锁，不必家族史明示）
+>
+> | 指纹 | Stem 关键词 | 机制 / 考点 |
+> |---|---|---|
+> | **① Bilateral flank pain** ⭐ | "**Bilateral**" 是 buzzword | 单侧 = stone / RCC；双侧 = ADPKD（高特异）|
+> | **② Palpable bilateral abdominal mass / 肝大** ⭐⭐ | "Liver enlarged" + "flank mass on deep palpation" | **巨大多囊肾**（不是肿瘤）+ **80% ADPKD 有 hepatic cysts** |
+> | **③ 早发 HTN** | 50 yo + BMI 24 + 无烟酒 + BP 164/100 | 囊肿压肾实质 → 局部缺血 → **RAAS↑ renin↑** → 继发性 HTN |
+> | **④ Long-standing nocturia / polyuria** | "Nocturia × 10 yr" | **远端肾小管损 → 浓缩缺陷**（nephrogenic DI-like）— 可早 Cr↑ **10-20 yr** |
+> | **⑤ CKD 渐进 + 贫血** | Cr 3.1 + Hb 10.4 + BUN 48 | EPO↓ 贫血 + 51 yo 完美卡 ADPKD 自然病程（30-40 起，55-60 ESRD）|
+> | **⑥ 家族史** | 60% 阳性；本题未明示 | 不写**不排除** — 新发突变 10% / stem 省略 |
+>
+> ### Extrarenal Features 8 项 ⭐（USMLE 高频）
+>
+> 记忆口诀 **"Brain-Liver-Heart-Colon-Hernia"** 5 大系统：
+>
+> | 系统 | 表现 | 高频 |
+> |---|---|---|
+> | **脑** ⭐⭐⭐ | **Berry aneurysm**（Circle of Willis）| **SAH 突发剧烈头痛** = 致死 |
+> | **肝** ⭐ | Hepatic cysts（80%）| 肝大 / 偶发肝囊肿 |
+> | **心** | **MVP + AR** | 心脏杂音 |
+> | **结肠** | **Diverticulosis** | 反复憩室炎 |
+> | **腹壁** | **Ventral / inguinal hernias** | 反复疝 |
+> | 胰腺 | Pancreatic cysts | 多无症状 |
+> | 精囊 | Seminal vesicle cysts | 男性不育 |
+> | 肾 | 多囊 + 肾结石↑ + UTI↑ | — |
+>
+> ### 诊断 + 管理
+> - **诊断**：**US 见多 renal cysts**（按年龄+家族史阈值，如 15-39 yo ≥3 / 40-59 yo ≥2/侧 / 60+ yo ≥4/侧）
+> - **管理**：
+>   - **HTN 控制 — ACEi/ARB 首选**（保肾 + 抑 RAAS）
+>   - **Tolvaptan**（V2 receptor antagonist）— 减缓囊肿生长 ⭐ 新药
+>   - 大量饮水（抑 ADH→ cAMP→ 囊肿生长）
+>   - ESRD → 透析 / 肾移植
+>   - **Cerebral aneurysm 筛查**：仅有家族史 SAH / 高危职业（如飞行员）— **MRA**
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | Stem **缺**的指纹 | 用什么排 |
+> |---|---|---|
+> | A. BPH (Bladder outlet obstruction) | 严重前列腺增大 + 排尿障碍 + 残尿 | 前列腺**只 mildly** + 无尿急尿频 |
+> | B. Horseshoe kidney | UPJ obstruction / 反复 UTI / 单侧 stone | 不解释**肝大 + bilateral pain + 早 HTN** |
+> | C. Nephrolithiasis | **单侧**阵发绞痛 + 向腹股沟放射 + UA 血/晶体 | **Bilateral** + 数年长史 + 不解释肝大 |
+> | **D. ADPKD** ⭐ | （正向锁 6 联）| ✅ |
+> | E. RCC | **单侧** mass + hematuria + fever + weight loss + **paraneoplastic EPO↑→红细胞增多** | **Bilateral pain + 肝大 + 贫血**（贫血是 RCC 的反向指纹）⭐ |
+>
+> ### 反 pattern 警示 ⭐
+> - **"Bilateral" 是 ADPKD buzzword** — 单侧鉴别题不写 bilateral
+> - **"Liver enlarged + flank mass" 双胞胎组合 = 双囊肾 + 肝囊肿** — 不是 RCC 肿瘤
+> - **RCC 是红细胞增多**（paraneoplastic EPO↑），本题 **Hb 10.4 贫血** = **反 RCC**⭐
+> - **早发 HTN 50 yo BMI 24 无烟酒** = 必找继发性病因
+> - **Nocturia 10 年 + 前列腺只 mildly** = 不是 BPH（BPH 前列腺要严重增大 + 残尿）
+> - **家族史不明示≠排除** — 60% 阳，新发突变 10%
+> - **ADPKD 不致单侧 mass** — 单侧 mass 锁 RCC / hydronephrosis
+>
+> ## Memory Hook
+> - **"Bilateral flank + 肝大 + 早 HTN + 长期 nocturia + CKD + 贫血 = ADPKD 6 联"** ⭐⭐⭐ 0.5 秒锁，不必排除
+> - **"Bilateral" 是 ADPKD 的 buzzword** — 单侧 = stone / RCC
+> - **Extrarenal "Brain-Liver-Heart-Colon-Hernia"** 5 大系统 ⭐
+> - **"贫血反 RCC（RCC 是 polycythemia paraneoplastic）"** 关键反 pattern
+> - **HTN 治疗 = ACEi/ARB 首选**（保肾抑 RAAS）+ Tolvaptan 抑囊肿
+> - **Berry aneurysm 致死风险** — 家族 SAH 史需 MRA 筛
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - **卡点：做对了但用排除法 — 正向反射没建立**
+> - 问"题干怎么看出 ADPKD" → 学到 **6 联正向指纹**（bilateral pain / 肝大+flank mass / 早 HTN / nocturia 长史 / CKD+贫血 / 家族史）
+> - 学到 stem 里 "liver enlarged + right flank mass" 不是 RCC，是 **双囊肾 + 肝囊肿**（ADPKD 80% extrarenal）
+> - 学到 **贫血 vs polycythemia 是反 RCC 的关键反 pattern**（RCC paraneoplastic EPO↑ → 红细胞增多）
+> - 学到 nocturia 10 年长史 = **concentrating defect**（远端肾小管损 — 早于 Cr 升高 10-20 yr）
+> - 学到 **"Bilateral" 是 buzzword** — 单侧鉴别题不会写
+> - 元学习：USMLE 题"做对≠掌握" — 排除法做对说明正向反射未建立，需主动反向训练
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 首题（ADPKD / 多囊肾主题）
+>   - [[mistakes/uworld-mistakes#^Q4181]] Simple renal cyst（同日 — 同肾囊肿但单纯偶发 vs ADPKD 系统性多囊）
+>   - [[mistakes/uworld-mistakes#^Q4004]] Analgesic nephropathy（5-28，同 CKD 渐进 + 双侧小肾 vs ADPKD 双肾大）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（已有 ADPKD 章节 line 643-654 速查，本卡可扩 6 联正向指纹）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/neuro]]（**Berry aneurysm → SAH** — ADPKD 致死高风险并发症）
+>   - [[完整笔记/Peixuan分科笔记/心内]]（MVP + AR + 控 HTN）
+>   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（**RCC paraneoplastic EPO↑ polycythemia** vs ADPKD CKD anemia 反 pattern 关键）
+>   - [[完整笔记/Peixuan分科笔记/GI]]（Colonic diverticulosis 反复憩室炎）
+>   - [[完整笔记/Peixuan分科笔记/外科]]（Ventral / inguinal hernias + 透析造瘘 + 肾移植）
+> - 🌱 TODO（早建精简 v1）：
+>   - 建 [[完整笔记/专题笔记/肾脏/肾脏_ADPKD多囊肾正向锁定]]（6 联指纹 + Extrarenal 5 大 + 5 选 1 鉴别 + 反 pattern + 诊断阈值 + 管理 4 阶梯）— 体系完整可建 v1
+>   - [[完整笔记/专题笔记/肾脏/肾脏_肾囊肿Bosniak分类]] 加 § ADPKD vs Simple cyst vs RCC 三联鉴别（同 CT 偶发囊肿但路径不同）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q4474 — 必须**正向锁定**（5 秒内）不许再用排除法
+> - [ ] 默写 ADPKD 6 联正向指纹（bilateral pain / 肝大+mass / 早 HTN / nocturia 长史 / CKD+贫血 / 家族史）
+> - [ ] 默写 Extrarenal "Brain-Liver-Heart-Colon-Hernia" 5 大系统
+> - [ ] 默写 5 选 1 干扰项鉴别（特别是 RCC 反 pattern：贫血 vs polycythemia）
+> - [ ] 反射训练：见 "Bilateral flank pain + 肝大 + 早 HTN" → 0.5 秒锁 ADPKD
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: ADPKD 正向锁定 6 联指纹（① Bilateral flank pain buzzword / ② Palpable bilateral abdominal mass + 肝大 - 双囊肾+肝囊肿不是肿瘤 / ③ 早发 HTN 无肥胖无烟酒 - 囊肿压肾实质 RAAS↑renin↑继发性 / ④ Long-standing nocturia-polyuria - 远端肾小管损 concentrating defect 早 Cr↑ 10-20 yr / ⑤ CKD 渐进+贫血 EPO↓ 51 yo 完美卡 30-40 起 55-60 ESRD 自然病程 / ⑥ 家族史 60% 不明示≠排除 新发突变 10%）/ Extrarenal 5 大系统口诀 "Brain-Liver-Heart-Colon-Hernia"（Berry aneurysm Circle of Willis SAH 致死 / Hepatic cysts 80% / MVP+AR / Diverticulosis 反复憩室炎 / Ventral-inguinal hernias）+ 胰腺-精囊-肾结石 / 诊断 US 多 renal cysts 按年龄家族史阈值 / 管理 ACEi/ARB 首选保肾抑 RAAS + Tolvaptan V2 antagonist 抑囊肿 + 大量饮水 + ESRD 透析/移植 + 家族 SAH 史筛 MRA / 5 选 1 鉴别（BPH 前列腺只 mildly 排 / Horseshoe kidney 不解释肝大双侧 / Nephrolithiasis 单侧绞痛不解释肝大 / RCC 单侧+polycythemia paraneoplastic EPO↑ 与本题贫血反向 = **关键反 pattern**）/ 元学习: 做对≠掌握 排除法说明正向反射未建立需主动训练 / "Bilateral" 是 buzzword 单侧鉴别题不写 / "Liver enlarged + flank mass" 双胞胎组合锁 ADPKD 不是 RCC
+> 状态:: 🟡（答对但用排除法，正向反射未建立）
+> 错因:: pattern
