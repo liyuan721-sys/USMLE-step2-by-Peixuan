@@ -30561,6 +30561,9 @@
 > ↑ fracture risk)            ↑ fracture risk)
 > ```
 >
+> ![[{38C0054E-BB49-4B47-B643-EA545A6EB91D}.png]]
+> > [!info] 图：UWorld 官方 Renal osteodystrophy 算法图（机制链 + 治疗 U 型分流）
+>
 > ### 4 型 Renal Osteodystrophy 对照 ⭐
 >
 > | 类型 | PTH | 骨转换 | 病机 | 治疗 |
