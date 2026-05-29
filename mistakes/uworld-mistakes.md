@@ -29147,3 +29147,210 @@
 > 主题:: Struvite stone 5 联指纹（反复 UTI / 尿 pH>8 / coffin lid 晶 / 大 staghorn / 女性多）/ 病机 = urease+ 菌（Proteus / Klebsiella / Staph sapro / Providencia / Ureaplasma，E. coli 不算）水解 urea → NH3 → 碱化尿 → MgNH4PO4 沉淀 / 治疗三件套 = 完整取石 PCNL + 抗生素 + urease inhibitor (acetohydroxamic acid，菌藏 stone matrix 内抗生素单用不灭) / 5 大肾结石对照（Ca oxalate envelope acidic-neutral thiazide / Ca phosphate wedge alkaline RTA1-hyperPTH / Struvite coffin-lid pH>8 PCNL / Uric acid rhomboid pH<5.5 碱化尿 / Cystine 六角 AR 转运缺陷 chelator）/ 反 pattern: 大 staghorn 不绞痛只反复 UTI / 低钙饮食反致 Ca oxalate↑ / hypoPTH 反 Ca stone 罕见
 > 状态:: 🟢做对
 > 错因:: N/A（pattern 已建立，反射稳定 1:01）
+
+> [!success]- [2026-05-28] 肾/内分泌 / Lithium-induced Nephrogenic DI — 双相药 + 高钠 + Uosm<300 = 锁肾性 DI (Q4425) ✅做对
+> ^Q4425
+>
+> ## Stem 模式
+> 43yo 女 + **confusion + 多饮多尿 + 双相史"药物良控"** + Na 151 + Glu 95 + **Uosm 250 / Posm 326**（Uosm<300 + Posm>295 = DI 锁定）→ 问病因？答 **B. Lithium**（双相一线药 → 肾性 DI #1 元凶）。
+>
+> ## 核心概念
+> **Lithium → 肾性 DI**：Li⁺ 经 ENaC 进集合管主细胞 → 干扰 ADH→cAMP→AQP2 通路 → AQP2 表达↓ → 集合管水重吸收↓ → 稀尿 + Posm↑ + 轻度高钠（intact thirst → Na 不至超高，多在 142-155）。**所有双相用药患者多饮多尿题，第一反射 = Lithium DI**。
+>
+> ## 普适规则
+>
+> ### DI 4 大场景速锁 ⭐
+>
+> | 类型 | 病因 | 关键鉴别 | 治疗 |
+> |---|---|---|---|
+> | **中枢性 DI** | 头外伤 / 垂体术 / 鞍区瘤（colloid cyst / craniopharyngioma / 生殖细胞瘤）/ Sheehan / 自免淋巴细胞性垂体炎 | 水剥夺后给 **DDAVP → Uosm ↑ > 50%** | **DDAVP（desmopressin）** |
+> | **肾性 DI** | **Lithium #1** ⭐ / Demeclocycline / Amphotericin B / Foscarnet / Cidofovir / **Hypercalcemia** / **Severe hypokalemia** / Tubulointerstitial dz / 遗传 AVPR2/AQP2 | 水剥夺后 DDAVP **Uosm 升 < 10%** | **限盐 + 停药** + **Thiazide**（反常抗利尿 — 轻 ECF↓ → 近端 Na/H2O 重吸收↑→远端 delivery↓ → 尿量↓）+ **Amiloride**（Li 专属 — 阻 ENaC 阻 Li 进主细胞）+ NSAID（↓PG 增强 ADH 作用）|
+> | **妊娠性 DI** | 胎盘 **vasopressinase** 降解 ADH | 分娩后消退 | DDAVP（vasopressinase 不降解） |
+> | **Psychogenic polydipsia** | 强迫饮水（精神病 / SSRI / 抗胆碱口干代偿）| **低钠 + 低 Posm**（与 DI 反 — DI 是高钠高 Posm）| 限水 |
+>
+> ### Lithium DI 治疗顺序 ⭐
+> ```
+> ① 停 Lithium（若可，换 valproate / lamotrigine 治双相）
+> ② 限盐（Na↑→Li 排泄↑同时；Na 限同时也减容量负担）
+> ③ Amiloride（保 K + 阻 ENaC → 阻 Li 进主细胞，是 lithium DI 专属神药）
+> ④ Thiazide（反常抗利尿）
+> ⑤ NSAID（PGE2↓ → ADH 作用↑）
+> ```
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 为什么错 |
+> |---|---|---|
+> | A | Dehydration | 低容量高钠应 Uosm **>800（浓缩反应**），本题 **Uosm 250 = 集合管失能** |
+> | C | Divalproic acid | 双相二线情绪稳定剂，副作用是**肝毒 / 致畸 / 高氨 / NTD**，**不致 DI** |
+> | D | Craniopharyngioma | 致**中枢 DI** 但应有**头痛 / 视野缺损（bitemporal hemianopsia）/ 内分泌缺失**，本题查体正常 |
+> | E | Head trauma | 致**中枢 DI** 但 stem 无外伤史 / 无外伤体征 |
+> | F | Psychogenic polydipsia | 应 Na **低 / 低 Posm**，与本题高钠高 Posm 反向 |
+> | **B** ⭐ | Lithium | ✅ 双相 + 多饮多尿 + Uosm<300 + Posm>295 + Na↑ |
+>
+> ### 反 pattern 警示
+> - **双相 + 多饮多尿 + Na 142-155** = Lithium DI（反射 0.5 秒锁定）
+> - **Na 略高（145-160）+ Uosm < 300** = 锁定 DI 不被"轻度高钠"迷惑（DI 因 intact thirst 维持 Na 不至超高，**只有渴感丧失时 Na 才 > 160**）
+> - **Hypercalcemia / Severe hypokalemia** 都能"DI-like"（不要忽略电解质致肾性 DI）
+> - **Lithium 双毒**：① 肾性 DI ② **甲状腺：hypothyroidism**（碘吸收障碍 + 抗甲状腺抗体）— 双相用 Li 患者复查甲功 + 尿量
+>
+> ## Memory Hook
+> - **"双相用药 + 多饮多尿 + Uosm < 300 = Lithium DI"** ⭐ 0.5 秒反射
+> - **"DI 治疗反逻辑：肾性给 thiazide 反而尿少；中枢给 DDAVP"** ⭐
+> - **"Lithium DI 神药 amiloride"**（专属 — 阻 ENaC 阻 Li 进集合管） ⭐
+> - **Lithium 6 毒口诀**："DI + 甲减 + 震颤 + 致畸（Ebstein）+ T 波平 / U 波 + 窄治疗窗"
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 这题反射直接锁 — "双相 + 高钠 + Uosm<300" 是经典 lithium DI 指纹组合
+> - 学到延伸（题外）：
+>   - **DI 4 大场景**完整覆盖（中枢 / 肾性 / 妊娠 / Psychogenic 4 选 1 反向陷阱）
+>   - **Lithium DI 治疗 5 阶梯**（停药 / 限盐 / amiloride / thiazide / NSAID）
+>   - **Lithium 6 毒**（DI / 甲减 / 震颤 / Ebstein / 心电 / 窄治疗窗）
+>   - **valproate 是双相二线**但不致 DI（致畸 NTD / 高氨 / 肝毒 / PCOS）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 首题（Lithium DI / 肾性 DI 主题）
+>   - [[mistakes/uworld-mistakes#^Q17-2026-05-28]] Atypical MDD 治疗阶梯（同日入库，同 psych 药物决策类）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（DI 章节）
+>   - [[完整笔记/Peixuan分科笔记/endocrine]]（ADH / 渗透压调节）
+>   - [[完整笔记/Peixuan分科笔记/psych]]（Lithium 用药监测）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] §1.8 中枢 vs 肾性 DI（**已完整覆盖** — 5 大肾性病因 + 水剥夺 + amiloride 神药 + 高钙致 DI 机制 + 妊娠 DI）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/psych]]（双相用 Li 同时致 ψ 副作用：DI + 甲减 + 震颤 + 心电）
+>   - [[完整笔记/Peixuan分科笔记/OB]]（Lithium 致畸 = Ebstein anomaly 三尖瓣下移）
+>   - [[完整笔记/Peixuan分科笔记/endocrine]]（Lithium 致甲减）
+> - 🌱 TODO：
+>   - 指纹大全 §1.8 已完整 — 不必扩
+>   - 可考虑建 [[完整笔记/专题笔记/psych/psych_Lithium_全身副作用大全]]（6 大系统：DI / 甲减 / 震颤 / Ebstein / 心电 T 波平 / 窄治疗窗 + 监测频率）— 等再积累 2-3 道相关题
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后类似题验证反射稳定
+> - [ ] 默写 DI 4 大场景对照（病因 + 鉴别 + 治疗）
+> - [ ] 默写 Lithium DI 5 阶梯治疗（停药 / 限盐 / amiloride / thiazide / NSAID）
+> - [ ] 默写 Lithium 6 毒（DI / 甲减 / 震颤 / Ebstein / 心电 / 窄治疗窗）
+> - [ ] 反射训练：见 "双相 + 多饮多尿 + Uosm < 300" → 0.5 秒锁 Lithium DI
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: Lithium-induced nephrogenic DI（双相用药 + Na 142-155 + Uosm<300 + Posm>295 = 锁定）/ 病机 = Li 经 ENaC 进集合管主细胞干扰 ADH→cAMP→AQP2 通路 / DI 4 大场景对照（中枢=DDAVP / 肾性=thiazide+amiloride / 妊娠=DDAVP vasopressinase 不降解 / Psychogenic=低钠低 Posm 反向）/ 肾性 DI 7 大病因（Lithium#1 / Demeclocycline / Ampho B / Foscarnet / Cidofovir / 高钙 / 严重低钾 / 遗传 AVPR2 AQP2）/ Lithium DI 治疗 5 阶梯（停药 / 限盐 / amiloride 阻 ENaC 神药 / thiazide 反常抗利尿 / NSAID ↑ADH 作用）/ Lithium 6 毒（DI / 甲减 / 震颤 / Ebstein 三尖瓣下移 / T 波平 U 波 / 窄治疗窗）/ 反 pattern: intact thirst → Na 142-155 不至超高，渴感丧失时 Na 才>160
+> 状态:: 🟢做对
+> 错因:: N/A（DI 指纹组合反射稳定）
+
+> [!success]- [2026-05-28] 儿科 / Primary Nocturnal Enuresis — Alarm 4 月失败 + 想立即改善 → Desmopressin (Q2513) ✅做对
+> ^Q2513
+>
+> ## Stem 模式
+> 7yo 男孩 + **持续夜间遗尿 3 nights/wk**（自 3 yo + 白天 dry）+ **enuresis alarm + reward 4 月无效** + 父亲遗尿史至 8 yo + 拟参夏令营/睡过别人家紧张 → 问下一步？答 **A. Desmopressin**（行为 + alarm 失败 / 想立即改善 → 药物一线 = DDAVP）。
+>
+> ## 核心概念
+> **Primary nocturnal enuresis** = 年龄 ≥5 yo + 从未持续 6 月以上夜间 dry + 无其他基础病；病机 = **bladder control 延迟成熟 + 夜尿生成↑（晚 ADH↓）+ 膀胱容量↓**。家族史强阳（父母任一遗尿 → 子 ~45%；双方都 → ~75%）。**自限**（每年 ~15% 自愈），但行为 + alarm + DDAVP 加速改善。
+>
+> ## 普适规则
+>
+> ### Primary Nocturnal Enuresis 治疗 4 阶梯 ⭐
+>
+> ```
+> Step 1: Behavioral modifications（行为）
+>         - 限晚间饮水（睡前 2hr 内不喝）
+>         - 睡前排尿
+>         - 治疗加剧因素（如 constipation 便秘 — 直肠压迫膀胱）
+>         - "reward chart" 鼓励
+>                  ↓ 行为效果不足
+> Step 2: Enuresis alarm（湿尿报警器）
+>         - 长期最有效（3-4 月起效，治愈率 ~70%）
+>         - 复发率最低 ⭐
+>         - 缺点：起效慢 + 全家睡眠中断
+>                  ↓ alarm 失败 / 想短期立即改善（如夏令营 / sleepover）
+> Step 3: Desmopressin（DDAVP，PO）⭐ 药物一线
+>         - 起效快（数日）+ 适合短期需求
+>         - 机制：↓ 夜尿生成
+>         - 注意：限晚间饮水防低钠 / 停药复发率高
+>                  ↓ 长期 desmopressin 失败 / 难治
+> Step 4: Imipramine（TCA）后备
+>         - 等效 desmopressin 但 cardiotoxic + 过量致命 + 自杀风险
+>         - 仅 DDAVP 失败 + ECG 安全后才用
+> ```
+>
+> ### 谁是 first-line 取决于"长期 vs 即刻"⭐
+> - **想长期治愈 + 不急** → Enuresis alarm
+> - **想立即改善 / 短期需求（夏令营 sleepover）/ alarm 已失败** → **Desmopressin**
+> - 本题：alarm + reward 已 4 月无效 + 拟参夏令营 + 紧张 = **两条理由都指向 Desmopressin**
+>
+> ### Enuresis 评估 — 必须先排基础病
+> | 检查 | 排除什么 |
+> |---|---|
+> | **Urinalysis** | UTI（LE/nitrite+）/ DM（glucosuria）/ DI（USG↓）/ 肾病（蛋白尿 / 血尿）|
+> | **Voiding diary** | 真实尿量 vs 频次 / 区分单纯夜间 vs 日夜兼有 |
+> | **如有日间 incontinence** | bladder dysfunction → 加 anticholinergic (oxybutynin) |
+> | **如有 UTI / 反复 UTI** | 评估 vesicoureteral reflux (VCUG) |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 为什么错 |
+> |---|---|---|
+> | **A** ⭐ | Desmopressin | ✅ alarm 失败 + 即刻改善需求 = first-line 药物 |
+> | B | Imipramine | ❌ 等效但 **cardiotoxic + 自杀风险**，**保留给 DDAVP 失败** |
+> | C | Oxybutynin | ❌ 抗胆碱，**用于日间 + 夜间 incontinence**（增 bladder capacity）；本题只夜间 |
+> | D | Serum glucose | ❌ stem **UA 正常** → 已排 DM，不必重测 |
+> | E | Urine culture | ❌ 无 dysuria / fever / nitrite+，无 UTI 征 |
+> | F | Voiding cystourethrogram (VCUG) | ❌ VCUG 用于**反复 UTI** 诊断 VUR，本题无 UTI 史 |
+>
+> ### 反 pattern 警示
+> - **"4 月 alarm 无效"≠ alarm 本身失效** — alarm 需 3-4 月起效，4 月正好是分界。家长若耐心可继续，**但本题 stem 明确"frustrated + sad + 紧张参夏令营"= 即刻需求 → Desmopressin**
+> - **Imipramine 是后备**（不是 first-line）— 在 USMLE 早期教材里 imipramine 常被列为"二选一"，**现代答案 = desmopressin > imipramine**（安全性差异）
+> - **Oxybutynin 不是 isolated nocturnal enuresis 选项** — 只有日间 incontinence 才考虑
+> - **VCUG / urine culture / serum glucose 都是"早已排除"陷阱** — UA 已经清除这些可能
+>
+> ## Memory Hook
+> - **"7yo + 仅夜间遗尿 + alarm 4 月失败 + 短期需求 = Desmopressin"** ⭐
+> - **治疗 4 阶梯**：Behavioral → Alarm → Desmopressin → Imipramine ⭐
+> - **"Alarm 最有效但慢；Desmopressin 最快但复发；Imipramine 等效但毒"** ⭐
+> - **Alarm vs DDAVP 选择**：长期治愈选 alarm；即刻改善选 DDAVP
+> - **诊断年龄阈值**：**≥ 5 yo**（< 5 yo 还在 bladder control 成熟期，不诊断 enuresis）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 这题反射直接锁 — "alarm 失败 + 夏令营紧张" 两条都指向 DDAVP
+> - 学到延伸（题外）：
+>   - **Enuresis 治疗 4 阶梯**（Behavioral → Alarm → DDAVP → Imipramine）完整结构
+>   - **Alarm 复发率最低 ⭐ 但起效需 3-4 月**
+>   - **DDAVP 起效快但停药复发率高 + 注意低钠（限晚饮水）**
+>   - **Imipramine** 现代降级到后备（毒性 / 自杀）
+>   - **Oxybutynin 只用于日夜兼有 incontinence**（增 bladder capacity）
+>   - **VCUG 触发指征 = 反复 UTI**（非单纯 enuresis）
+>   - **诊断年龄 ≥ 5 yo + UA 必查**（排 DM / DI / UTI / 肾病）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 首题（Primary nocturnal enuresis / 儿科泌尿主题）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/儿科]]（**目前无 enuresis 章节** — 待加 4 阶梯）
+>   - [[完整笔记/Peixuan分科笔记/psych]]（TCA / imipramine 副作用：cardiotoxic + 自杀风险）
+>   - [[完整笔记/专题笔记/_衍生_治疗阶梯升级SOP]]（"长期 vs 即刻"阶梯选择元 pattern — 与 atypical MDD / PD ψ 阶梯类似）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/psych]]（DDAVP 也用于 SIADH 后水中毒预防；TCA 全套副作用）
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（DDAVP = vasopressin 类似物，与 DI 治疗呼应）
+>   - [[完整笔记/Peixuan分科笔记/GI]]（constipation 加剧 enuresis — 双向考点）
+> - 🌱 TODO（早建精简 v1）：
+>   - 建 [[完整笔记/专题笔记/儿科/儿科_遗尿管理4阶梯]]（定义 + 病机 + Risk factors + UA 必查 + 4 阶梯 + Alarm vs DDAVP 选择 + 诊断年龄 + 反 pattern：oxybutynin 仅日夜双 / VCUG 仅反复 UTI）— 体系已完整，可建 v1
+>   - [[完整笔记/专题笔记/_衍生_治疗阶梯升级SOP]] 加 §x 儿科 enuresis 阶梯（"长期 vs 即刻"元 pattern）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后类似题验证反射稳定
+> - [ ] 默写 Enuresis 4 阶梯（Behavioral → Alarm → DDAVP → Imipramine）
+> - [ ] 默写 "长期 vs 即刻" 选择规则（Alarm vs DDAVP）
+> - [ ] 默写 UA 必查清单（DM / DI / UTI / 肾病）
+> - [ ] 反射训练：见 "5yo+ 仅夜间遗尿 + alarm 失败 / 想立即改善" → 0.5 秒锁 Desmopressin
+>
+> ---
+>
+> 学科:: 儿科
+> 主题:: Primary nocturnal enuresis 治疗 4 阶梯（Behavioral → Alarm 最有效慢起 3-4 月复发率最低 → Desmopressin 一线药快起停药复发高 → Imipramine 等效但 cardiotoxic+自杀风险 后备）/ Alarm vs DDAVP 选择元规则（长期治愈=Alarm / 即刻改善 sleepover 夏令营=DDAVP / Alarm 失败=DDAVP）/ 诊断年龄阈值 ≥5 yo / 评估必 UA + voiding diary（排 DM/DI/UTI/肾病）/ Oxybutynin 仅日夜兼有 incontinence 增 bladder capacity / VCUG 仅反复 UTI 诊断 VUR / Constipation 加剧 enuresis 双向考点
+> 状态:: 🟢做对
+> 错因:: N/A（治疗阶梯熟悉 + "即刻 vs 长期"分辨）
