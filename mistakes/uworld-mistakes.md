@@ -29354,3 +29354,313 @@
 > 主题:: Primary nocturnal enuresis 治疗 4 阶梯（Behavioral → Alarm 最有效慢起 3-4 月复发率最低 → Desmopressin 一线药快起停药复发高 → Imipramine 等效但 cardiotoxic+自杀风险 后备）/ Alarm vs DDAVP 选择元规则（长期治愈=Alarm / 即刻改善 sleepover 夏令营=DDAVP / Alarm 失败=DDAVP）/ 诊断年龄阈值 ≥5 yo / 评估必 UA + voiding diary（排 DM/DI/UTI/肾病）/ Oxybutynin 仅日夜兼有 incontinence 增 bladder capacity / VCUG 仅反复 UTI 诊断 VUR / Constipation 加剧 enuresis 双向考点
 > 状态:: 🟢做对
 > 错因:: N/A（治疗阶梯熟悉 + "即刻 vs 长期"分辨）
+
+> [!example]- [2026-05-28] 肾/Heme-Onc / Sickle Cell Trait → Hyposthenuria — 18yo AA + 母 SCD + 多尿稀尿 + Hb 电泳 HbA>HbS (Q4436) ⚠️错选 Central DI
+> ^Q4436
+>
+> ## Stem 模式
+> 18yo AA 男 + **数月多尿**（即使限晚饮水仍 dry day + 夜尿 2-3 次）+ 清亮尿 + **母 SCD 早卒中亡** + Hct **41%（正常）** + Na **138（正常）** + UA **SG 1.001** + pH 6.6 + 蛋白/血/糖/酮/LE/nitrite 均阴 → 病因？答 **C. Hyposthenuria**（SCT → 肾髓质 hypoxic + hyperosmolar → vasa recta 镰变 → countercurrent 受损 → 集合管失浓缩）。
+>
+> ## 核心概念
+> **Sickle Cell Trait (SCT, HbAS) hyposthenuria**：肾髓质是全身最 hypoxic + 最 hyperosmolar 区 → RBC 在 vasa recta 内 sickle → 损髓质 countercurrent multiplier → 集合管无法浓缩尿 → **稀尿 + 多尿 + 夜尿 + USG ≤ 1.005** — 但**血 Na 正常**（**Loop of Henle superficial 不依赖 vasa recta + ADH 通路 intact** → 稀释功能保留 + ADH 反应正常）。**Hct 正常**也是 SCT vs SCD 的区分点（SCT 不贫血）。
+>
+> ## 普适规则
+>
+> ### SCT (HbAS) 5 大并发症 ⭐（虽多无症状但有指纹）
+>
+> | 并发症 | 机制 | 临床 |
+> |---|---|---|
+> | **Hyposthenuria** ⭐ | vasa recta 镰变 → 髓质 countercurrent ↓ | 多尿 + 稀尿 + 夜尿，Na 正常 |
+> | **Hematuria / Papillary necrosis** | 肾乳头微梗死 | painless hematuria，可需输血 |
+> | **Splenic infarction**（高海拔 / 飞行）| 低氧诱发 sickle | LUQ 痛 + 发热（高海拔登山 / 航空） |
+> | **Renal medullary carcinoma** ⭐（罕但**几乎 SCT 专属**）| 镰变长期髓质损伤 | 年轻 AA + 血尿 + 肾肿块 — 必查 sickle 状态 |
+> | **VTE / Priapism / 运动性 rhabdo** | 微血管缺氧 | 罕但 USMLE 提及 |
+>
+> ### SCT vs SCD 鉴别表 ⭐
+>
+> | | **SCT (HbAS)** | **SCD (HbSS)** |
+> |---|---|---|
+> | 基因 | 杂合 1 个 βS | 纯合 2 个 βS |
+> | Hb 电泳 | **HbA > HbS**（HbA 50-60%, HbS 35-45%）| HbS > 80%, HbA 0% |
+> | 贫血 | **无 / Hct 正常** | 慢性溶血 / Hct↓ |
+> | 寿命 | **正常** | ↓ |
+> | 并发症 | 上 5 项（多无症状）| Vaso-occlusive crisis / ACS / stroke / aplastic crisis / 早夭 |
+> | 治疗 | 多不需 | **Hydroxyurea + 输血 + 疫苗 + 镇痛 + HSCT** |
+>
+> ### Hyposthenuria 4 鉴别（USMLE 高频）⭐
+>
+> | 病因 | Na | Posm | Uosm | 关键鉴别 |
+> |---|---|---|---|---|
+> | **Central DI** | **↑↑**（渴感受损时） | ↑ | ↓ | 给 DDAVP → Uosm↑>50% |
+> | **Nephrogenic DI**（Lithium 等） | ↑（intact thirst 时 142-155） | ↑ | ↓ | DDAVP **无反应** |
+> | **SCT hyposthenuria** | **正常** | 正常 | ↓ | **AA + Hb 电泳 HbA>HbS** + 无贫血 |
+> | **Primary polydipsia** | **↓** | ↓ | ↓ | 强迫饮水 + 限饮水可愈 |
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 为什么错 |
+> |---|---|---|
+> | **A（我选的）** | Central DI | ❌ **Na 138 正常**！Central DI 因渴感受损常 Na↑↑；本题 intact thirst + 母 SCD 提示遗传 → 锁 SCT 不锁 DI |
+> | B | Chlamydia | ❌ UTI 表现应 dysuria + LE/nitrite+，本题 UA 全阴 |
+> | **C** ⭐ | Hyposthenuria（SCT） | ✅ AA + 母 SCD + Hb 电泳 HbA>HbS + 无贫血 + 多尿 + Na 正常 |
+> | D | Antihistamine | ❌ 抗胆碱 = **urinary retention + dry mouth + tachycardia**（与多尿反向） |
+> | E | Primary polydipsia | ❌ 应 Na **低 / 低 Posm**，限晚饮水仍多尿不符 |
+> | F/G | DM 1/2 | ❌ UA glucose 阴 + 血糖未给但隐含正常 |
+>
+> ### 反 pattern 警示
+> - **AA + 多尿 + 家族 sickle + Na 正常 + 无贫血** = SCT 5 联（不要反射 DI）⭐
+> - **Central DI 题干必有"渴感受损 / 鞍区病变 / 头外伤"**，本题查体正常 → 排
+> - **SCT 不致贫血**（Hct 41% 正常） — **SCD 才贫血** — Hct 是 SCT vs SCD 第一分水岭
+> - **Renal medullary carcinoma 几乎 SCT 专属** — AA 年轻 + 血尿 + 肾肿块必查 sickle 状态
+>
+> ## Memory Hook
+> - **"AA + 多尿稀尿 + 母/兄妹 sickle + Hct 正常 + Na 正常 = SCT hyposthenuria"** ⭐ 0.5 秒锁
+> - **"SCT 5 害"**：Hyposthenuria + 血尿/papillary necrosis + 高海拔脾梗 + 髓质癌 + VTE/priapism
+> - **"Hb 电泳：HbA>HbS = SCT；HbS 主导无 HbA = SCD"** ⭐
+> - 机制核心：**髓质 hypoxic+hyperosmolar → vasa recta 镰 → countercurrent 坏 → 失浓缩**；但 superficial Loop + ADH 反应 intact → Na 正常
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 错点：见"多尿"直接反射 Central DI，没扫"Na 正常 + AA + 家族 sickle + Hct 41%"4 项排除
+> - 学到：SCT 多无症状但有 5 大并发症（hyposthenuria 最常被忽略）
+> - 学到：Central DI 渴感受损时 Na 升高（intact thirst 维持 142-155）— 本题 138 完全正常
+> - 元学习：USMLE "多尿"题必须先扫 Na — Na ↑（DI），Na ↓（Primary polydipsia），Na **正常**（SCT hyposthenuria）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q4425]] Lithium nephrogenic DI（同日入库 — DI 鉴别同框架；SCT 是"Na 正常"分支）
+>   - 首题（SCT / hyposthenuria 主题）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/hematology oncology]] / [[完整笔记/Peixuan分科笔记/肾脏]]
+>   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] §1.8 中枢 vs 肾性 DI（**待加 SCT hyposthenuria 作为第三类分支**）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/OB]]（SCT 携带者孕前 / 产前筛查 + 配偶筛查防 SCD 子）
+>   - [[完整笔记/Peixuan分科笔记/儿科]]（Renal medullary carcinoma 多在 < 30 yo AA + SCT）
+>   - [[完整笔记/Peixuan分科笔记/外科]]（高海拔 / 航空 / 麻醉低氧 → SCT 脾梗 / VTE 风险）
+> - 🌱 TODO：
+>   - 指纹大全 §1.8 加 **SCT hyposthenuria** 作为"Na 正常的多尿"第三类（与 DI / Primary polydipsia 同框对比）
+>   - 考虑建 [[完整笔记/专题笔记/肾脏/肾脏_多尿4鉴别速锁]]（Central DI / Nephrogenic DI / SCT / Primary polydipsia × Na/Posm/Uosm/DDAVP 反应）— 体系完整，可早建 v1
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q4436（验证 SCT 反射）
+> - [ ] 默写 SCT 5 大并发症（Hyposthenuria + 血尿/papillary necrosis + 脾梗 + 髓质癌 + VTE/priapism）
+> - [ ] 默写 SCT vs SCD 鉴别 6 项（Hb 电泳 / Hct / 寿命 / 并发症 / 治疗）
+> - [ ] 默写 多尿 4 鉴别（Central DI / Nephrogenic DI / SCT hyposthenuria / Primary polydipsia × Na 方向）
+> - [ ] 反射训练：见 "AA + 多尿 + 家族 sickle + Na 正常" → 0.5 秒锁 SCT
+>
+> ---
+>
+> 学科:: Heme-Onc
+> 主题:: SCT (HbAS) hyposthenuria 5 联（AA / 多尿稀尿 USG≤1.005 / 母-兄妹 SCD 家族史 / Hct 正常 / Na 正常）/ 病机 = 髓质 hypoxic+hyperosmolar → vasa recta 镰变 → countercurrent 受损但 superficial Loop+ADH 反应 intact 致 Na 正常 / SCT 5 大并发症（Hyposthenuria / Painless hematuria-papillary necrosis / 高海拔脾梗 / Renal medullary carcinoma 几乎专属 / VTE-priapism-运动性 rhabdo）/ SCT vs SCD 6 鉴别（Hb 电泳 HbA>HbS vs HbS>80% / Hct 正常 vs↓ / 寿命正常 vs↓ / 并发症 / 治疗多不需 vs hydroxyurea-输血-疫苗-HSCT）/ 多尿 4 鉴别 Na 方向（Central DI Na↑↑ / Nephrogenic DI Na↑142-155 / SCT Na 正常 / Primary polydipsia Na↓）/ 反 pattern: Central DI 必有渴感受损或鞍区病变 / SCT 不贫血是与 SCD 分水岭
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-28] 儿科/肾电解质 / 婴儿 Hypovolemic Hypernatremia 复苏 — 严重脱水 + 症状 → 先 0.9% saline (Q4853) ⚠️错选 0.45% saline
+> ^Q4853
+>
+> ## Stem 模式
+> 5 月婴 + **4 天发热 + 腹泻** + 单尿布 / 天 + T 39.1°C + BP 70/45 + HR 200 + 嗜睡 + 张力↓ + DTR↓ + 毛细血管 refill 4s + Na **165** + Cl 110 + HCO3 9 + BUN 33 + Cr 0.8 + Ca 10 + Glu 98 → 复苏首选液？答 **B. 0.9% saline**（症状性 hypovolemic hypernatremia → 先 isotonic 复苏直到 euvolemic，再缓慢 hypotonic 纠 Na）。
+>
+> ## 核心概念
+> **儿童 hypovolemic + symptomatic hypernatremia 急救铁律**：先 **0.9% saline 等渗** 复苏 → 恢复 perfusion → 再用 hypotonic 缓慢纠 Na（**Na↓ < 0.5 mEq/L/hr** 防脑水肿）。"hypernatremia 给 hypotonic" 反射在**急性循环不稳**时是错的 — 快速降 Na 致水进脑细胞 → cerebral edema / 抽搐 / 死亡。
+>
+> ## 普适规则
+>
+> ### Hypernatremia 复苏决策树 ⭐
+>
+> ```
+> Hypernatremia
+>     │
+>     ├─ Euvolemic（无脱水征）
+>     │      → 直接 hypotonic（5% dextrose 或 0.45% saline）缓慢纠 Na
+>     │
+>     └─ Hypovolemic（脱水）
+>            │
+>            ├─ Asymptomatic（无 shock / 无神经症状）
+>            │      → 可直接 hypotonic 缓慢纠 Na
+>            │
+>            └─ Symptomatic（tachycardia / 低 BP / 干黏膜 / cap refill > 3s / 嗜睡）⭐
+>                   → Step 1: **0.9% saline isotonic bolus**（20 mL/kg IV）直到 euvolemic
+>                   → Step 2: 缓慢 hypotonic 纠 Na（**< 0.5 mEq/L/hr** / 24 hr 内 < 10-12 mEq/L）
+> ```
+>
+> ### 儿童脱水 5 大体征（Symptomatic 判定）⭐
+> Tachycardia + 低 BP + **干黏膜** + **cap refill > 3s** + 凹陷囟门 / 哭无泪 / 嗜睡 / DTR↓ / 张力↓ / 尿少（**单尿布 / 天**）→ 任 ≥3 项 = symptomatic
+>
+> ### 婴儿 hypernatremia 高危原因
+> - **GI 丢失**：gastroenteritis（本题）/ 渗透性腹泻 / 呕吐
+> - **不显性丢失↑**：发热 / 高温 / 烧伤 / 早产儿（体表面积大）
+> - **肾性**：DI（罕见婴儿）/ 渗透性利尿（DM）
+> - **摄入低**：母乳不足 + 婴儿无法主诉口渴 ⭐（婴儿专属高危）
+>
+> ### Na 校正速度 ⭐
+> - **< 0.5 mEq/L/hr** 或 **< 10-12 mEq/L / 24 hr**
+> - 快降 Na → 水进脑细胞 → **cerebral edema / 抽搐 / 永久神经损伤 / 死亡**
+> - 24-48 hr 内逐步降至正常
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 张力 | 为什么错 |
+> |---|---|---|
+> | **A（我选的）** | 0.45% saline | ❌ Hypotonic！symptomatic 时直接 hypotonic = 太快降 Na → **cerebral edema** |
+> | **B** ⭐ | 0.9% saline | ✅ Isotonic — 先恢复 perfusion 再纠 Na |
+> | C | 5% albumin | ❌ 胶体无效率优于晶体证据 + 贵 + 不是 first-line |
+> | D | 5% dextrose | ❌ Hypotonic（dextrose 代谢后 = free water）—— 严重低钠风险 |
+> | E | 10% dextrose | ❌ Hypertonic，**仅用于低血糖**，加重高钠 |
+> | F | Sodium bicarbonate | ❌ Hypertonic + 用于严重代酸但**复苏 first 不是它**；本题 HCO3 9 是 hypovolemic 灌注↓ 致 lactic acidosis，恢复 perfusion 自愈 |
+>
+> ### 反 pattern 警示
+> - **"Hypernatremia 给 hypotonic" 反射在 symptomatic 时错** — symptomatic = "**先 isotonic 复苏 → 后 hypotonic 纠 Na**" 两步走
+> - **HCO3 9 严重代酸 ≠ 必上 NaHCO3**（hypovolemic 灌注差 → lactic acidosis，复苏自愈）
+> - **NaHCO3 是 hypertonic** — 高钠时禁用（加重 Na）
+> - **5% dextrose = free water**（代谢后），算 hypotonic
+> - **Asymptomatic euvolemic hypernatremia 才直接用 hypotonic**
+>
+> ## Memory Hook
+> - **"Hypernatremia + 脱水 + symptomatic → 先 0.9% saline 直到 euvolemic，再 hypotonic 纠 Na"** ⭐
+> - **"Na 校正速度 < 0.5 mEq/L/hr / 24hr 内 < 10-12 mEq/L"** ⭐（"慢" — 防 cerebral edema）
+> - 反 pattern：**HCO3 9 严重代酸是 lactate ↑** 不直接上 NaHCO3
+> - **婴儿脱水 5 体征**：HR↑ / BP↓ / 干黏膜 / cap refill>3s / 嗜睡
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 错点：直接反射"hypernatremia → hypotonic"，没扫 stem 严重 shock 体征（BP 70/45 + HR 200 + cap refill 4s + 嗜睡）+ 单尿布
+> - 学到：复苏 2 步走 — Step 1 isotonic 救命，Step 2 hypotonic 纠 Na
+> - 学到：Na 校正速度 < 0.5 mEq/L/hr 防 cerebral edema
+> - 学到：5% dextrose = free water（代谢后），算 hypotonic
+> - 元学习：USMLE 急救题先扫"是否 symptomatic / 循环不稳" — symptomatic 总优先 isotonic 救命
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 首题（儿童 hypovolemic hypernatremia 复苏主题）
+>   - [[mistakes/uworld-mistakes#^Q4425]] Lithium DI（同日入库 — 同 Na 异常电解质题，但 DI 是慢性多尿，本题是急性脱水复苏）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/儿科]]（婴幼儿脱水复苏章节）
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（电解质章节 — Na 校正速度）
+>   - [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]]（**待加 Hypernatremia 复苏决策树**）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/感染]]（gastroenteritis 病因 — rotavirus / 诺如 / 细菌性 — 婴儿脱水头号原因）
+>   - [[完整笔记/Peixuan分科笔记/外科]]（surgical hypernatremia — 烧伤 / 不显性丢失）
+> - 🌱 TODO：
+>   - [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]] 加 **§ Hypernatremia 4 复苏决策树**（Euvolemic / Hypovolemic-Asymp / **Hypovolemic-Symp 先 isotonic** / 校正速度）
+>   - [[完整笔记/Peixuan分科笔记/儿科]] 加 **§婴幼儿脱水复苏 SOP**（5 体征判定 + 等渗复苏 + Na 校正速度）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q4853（验证复苏反射）
+> - [ ] 默写 Hypernatremia 复苏决策树（Euvol / Hypovol-Asymp / Hypovol-Symp）
+> - [ ] 默写 Na 校正速度（< 0.5 mEq/L/hr / 24hr < 10-12）
+> - [ ] 默写 儿童脱水 5 体征
+> - [ ] 反射训练：见 "hypernatremia + 脱水 + symptomatic" → 0.5 秒锁 0.9% saline 先复苏
+>
+> ---
+>
+> 学科:: 儿科
+> 主题:: 儿童 hypovolemic hypernatremia 复苏（symptomatic 时先 0.9% saline 直到 euvolemic 再 hypotonic 缓慢纠 Na）/ Hypernatremia 复苏决策树（Euvolemic 直接 hypotonic / Hypovolemic-Asymptomatic 直接 hypotonic / Hypovolemic-Symptomatic 先 isotonic）/ Na 校正速度 < 0.5 mEq/L/hr 或 24hr 内 < 10-12 防 cerebral edema / 儿童脱水 5 体征（HR↑ BP↓ 干黏膜 cap refill>3s 嗜睡/DTR↓/张力↓/尿少单尿布）/ 婴儿 hypernatremia 高危原因（GI 丢失-发热-烧伤-不显性-DI-DM-摄入低）/ 反 pattern: HCO3 9 严重代酸是 lactate↑ 不直接上 NaHCO3 / 5% dextrose 代谢后 = free water 算 hypotonic / NaHCO3 hypertonic 高钠禁用 / hypernatremia 给 hypotonic 反射在 symptomatic 时错
+> 状态:: 🟡 + #考前必看（儿科急救 + Na 校正速度高频考）
+> 错因:: 知识
+
+> [!example]- [2026-05-28] GYN/外科 / 妇科术后 Uroperitoneum — Hysterectomy + 子宫内膜异位症扭曲解剖 → 单侧 Ureteral Laceration (Q16241) ⚠️错选 SBO
+> ^Q16241
+>
+> ## Stem 模式
+> 37yo 女 + **1 周前腹腔镜 hysterectomy**（重症 endometriosis）+ 出院次日 → **2 天 弥漫腹痛/胀 + 恶心呕吐 + watery 阴道排液** + 既往 2 次剖宫产 + T 38°C + BP 128/72 + HR 88 + 腹胀但**软+无 tender** + **vaginal cuff closed** + Hb 12.2 + Plt 150K + WBC 10K + Na 136 + K 3.6 + **Cr 0.8 正常** + **UA 正常** + US **大量腹腔积液无内部回声** → 诊断？答 **D. Unilateral ureteral laceration**（uroperitoneum — 尿溢腹腔通过未完愈合 vaginal cuff 渗出）。
+>
+> ## 核心概念
+> **Uroperitoneum (尿性腹膜炎)** = 妇科盆腔手术中 ureter 撕裂未识 → 尿溢入腹腔 → **弥漫腹胀 + 大量腹腔积液 + watery 阴道排液 + 尿对腹膜化学刺激 → 低热/恶心**。**单侧损伤 → 对侧肾功能 intact → Cr / UA / 排尿全正常**，是 USMLE 经典"无声陷阱"。**术后 2 周内**可表现（不一定术中识破）。
+>
+> > [!info] 解剖图嵌入位
+> > （Ureter injury during pelvic surgery 解剖图 — Posterior + Anterior 视图 + 3 大易伤位标红：infundibulopelvic ligament / cardinal ligament / 入 bladder 前 — 用户贴图后此处显示）
+> > **图占位**：等用户贴图至 `mistakes/attachments/`，命名 `ureter_injury_pelvic_anatomy.png` → 此处嵌入 `> ![[ureter_injury_pelvic_anatomy.png]]`
+>
+> ## 普适规则
+>
+> ### Ureter 3 大易伤位（妇科盆腔手术）⭐⭐⭐
+>
+> | 位置 | 关联 ligament / 血管 | 手术情境 |
+> |---|---|---|
+> | **① 卵巢血管旁** | **Infundibulopelvic (suspensory) ligament**（含 ovarian artery + vein）| Salpingo-oophorectomy / ovarian cystectomy / hysterectomy 切 IPL 时 |
+> | **② 子宫动脉旁** ⭐ 最常见 | **Cardinal ligament**（含 uterine vessels）| **Hysterectomy 钳夹 uterine artery** 时（"water under the bridge" — ureter 在 uterine artery 下方 2 cm 处穿过）|
+> | **③ 入 bladder 前** | bladder trigone 区 | Anterior colporrhaphy / vaginal hysterectomy |
+>
+> > [!tip] "Water under the bridge" 口诀 ⭐
+> > **Ureter（water）从 uterine artery（bridge）下方穿过** —— 钳夹 uterine artery 时若钳子太深易夹 ureter（距 uterine artery ~2 cm）。这是 hysterectomy 最常 ureter 损伤位。
+>
+> ### Uroperitoneum 临床指纹（5 联）⭐
+> 1. **术后 days-2 周** 出现（不一定术中识破）
+> 2. **弥漫腹胀腹痛 + 大量腹腔积液**（US/CT 见 no internal echoes 的 free fluid）
+> 3. **Watery 阴道排液**（尿溢腹腔→未完愈合 vaginal cuff 渗出 — vaginal cuff closed 也不矛盾，cuff 缝合但未完全愈合）
+> 4. **低热 + 恶心**（尿化学刺激腹膜非感染性）
+> 5. **Cr/UA/排尿全正常**（单侧损伤 + 对侧肾代偿）⭐⭐⭐
+>
+> ### 高危患者
+> - **既往盆腔手术 / 剖宫产 / endometriosis** → 解剖扭曲 + 粘连
+> - **大子宫 / 大附件肿块** → 解剖标志移位
+> - **急诊紧急手术** / 大出血操作匆忙
+>
+> ### 诊断 + 治疗
+> - **金标准影像**：**CT urography**（IV 造影 + 延迟相，见造影剂溢入腹腔）
+> - **替代**：retrograde pyelogram / IVP
+> - **治疗**：**外科修复**（ureteral reimplantation / end-to-end anastomosis / ureteral stent）
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 为什么错 |
+> |---|---|---|
+> | A | Hemoperitoneum | ❌ Hb 12.2 正常 + BP 128/72 + HR 88 — 无失血征；fluid 应有 internal echoes（血凝）|
+> | B | Intraabdominal abscess | ❌ 应**高热 39+ + WBC↑↑ + 局限 tenderness + 包裹积液**，本题 T 38 / WBC 10K / 弥漫软腹 不符 |
+> | **C（我选的）** | Small bowel obstruction (SBO) | ❌ 经典 SBO = **腹胀 + 肠鸣高调 + 呕吐 + 停止排气排便**；本题 **passing flatus + 腹软 + watery 阴道排液**完全反向 |
+> | **D** ⭐ | Unilateral ureteral laceration | ✅ Hysterectomy + endometriosis 扭曲 + 弥漫积液 + watery 排液 + Cr/UA 正常 |
+> | E | Vaginal cuff dehiscence | ❌ Stem 明示 **vaginal cuff closed** — 排；dehiscence 多 6+ 周后 + 触诊 cuff 裂开 |
+>
+> ### 反 pattern 警示
+> - **术后 GI 症状 ≠ 自动 SBO** — 先扫 "passing flatus / 阴道排液 / 腹软无 tender" → 转向 uroperitoneum
+> - **Cr / UA 正常不排 ureter 损伤** — 单侧损伤对侧肾代偿 ⭐ 这是 USMLE 最大陷阱
+> - **vaginal cuff "closed" ≠ 完全愈合** — 仍可让尿渗出
+> - **Endometriosis / 既往盆腔手术 / 剖宫产** = ureter 高危的红旗组合
+> - **CT urography 是金标准**（不是普通 CT）
+>
+> ## Memory Hook
+> - **"Hysterectomy 术后 watery 阴道排液 + 大量腹腔积液 + Cr 正常 = 单侧 ureter laceration (uroperitoneum)"** ⭐
+> - **"Water under the bridge"** — Ureter 在 uterine artery 下方 2 cm 穿过 ⭐
+> - **Ureter 3 易伤位**：IPL（卵巢血管）/ Cardinal（uterine artery）/ 入 bladder 前
+> - **单侧 → Cr/UA/排尿全正常**（USMLE 最大陷阱）⭐⭐
+> - **高危红旗组合**：Endometriosis + 既往盆腔手术 + 大子宫
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 错点：见"术后腹胀 + 呕吐"反射 SBO，没扫"passing flatus + 腹软 + watery 阴道排液 + Cr 正常 + UA 正常"反 pattern
+> - 学到：单侧 ureter 损伤 Cr/UA 正常是 USMLE 经典"无声陷阱" — 对侧肾代偿
+> - 学到："Water under the bridge" — uterine artery 钳夹时易伤 ureter
+> - 学到：Endometriosis + 多次剖宫产 = 解剖扭曲 → ureter 高危红旗
+> - 元学习：术后并发症题 — 先扫"GI 通畅性"（passing flatus 排 SBO）+ "阴道排液性质"（watery = 尿，purulent = 脓 / 血性 = 出血）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 首题（妇科术后 ureter 损伤 / uroperitoneum 主题）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/GYN]]（hysterectomy 并发症）
+>   - [[完整笔记/Peixuan分科笔记/外科]]（盆腔解剖 + 术后并发症）
+>   - [[完整笔记/Peixuan分科笔记/OB]]（cesarean 既往是危险因素）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（uroperitoneum → 尿性腹膜炎 / 单侧 vs 双侧 Cr 差异）
+>   - [[完整笔记/Peixuan分科笔记/外科]]（CT urography vs IVP vs retrograde pyelogram）
+> - 🌱 TODO：
+>   - 建 [[完整笔记/专题笔记/OB_GYN/OB_GYN_妇科手术并发症速查]]（Ureter laceration + Bladder injury + Vaginal cuff dehiscence + Fistula 4 大并发症 × 临床/Cr/治疗 + Ureter 3 易伤位 + "Water under the bridge"）— 体系完整，可早建 v1
+>   - [[完整笔记/Peixuan分科笔记/GYN]] 加 **§ Hysterectomy 并发症 4 大**（uroperitoneum / vaginal cuff dehiscence / fistula / SBO）+ 术后腹胀鉴别决策树
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q16241（验证 uroperitoneum 反射）
+> - [ ] 默写 Ureter 3 易伤位 + "Water under the bridge"
+> - [ ] 默写 Uroperitoneum 5 联指纹（术后 2 周 + 弥漫积液 + watery 排液 + 低热 + Cr 正常）
+> - [ ] 默写 术后腹胀 5 鉴别（SBO / Uroperitoneum / Hemoperitoneum / Abscess / Cuff dehiscence）
+> - [ ] 反射训练：见 "Hysterectomy 术后 + watery 阴道排液 + Cr 正常" → 0.5 秒锁 ureter laceration
+>
+> ---
+>
+> 学科:: GYN
+> 主题:: 妇科术后 Uroperitoneum（单侧 ureter laceration）/ 5 联指纹（术后 days-2 周 / 弥漫腹胀+大量腹腔积液无回声 / watery 阴道排液 / 低热+恶心化学刺激 / Cr-UA-排尿全正常单侧对侧代偿）/ Ureter 3 大易伤位（① Infundibulopelvic ligament 旁 ovarian vessels - 卵巢手术 / ② Cardinal ligament 旁 uterine vessels - hysterectomy "water under the bridge" 最常见 / ③ 入 bladder 前 - anterior colporrhaphy）/ 高危红旗（既往盆腔手术-剖宫产-endometriosis-大子宫-急诊）/ 金标准 CT urography + 治疗外科修复 / 反 pattern: Cr/UA 正常不排 ureter 损伤（单侧对侧代偿是 USMLE 最大陷阱）/ Vaginal cuff closed ≠ 完全愈合 / 术后 GI 症状先扫 passing flatus 排 SBO + watery 阴道排液 = 尿
+> 状态:: 🟡 + #考前必看（妇科术后并发症高频考 + 单侧 Cr 正常陷阱）
+> 错因:: pattern
