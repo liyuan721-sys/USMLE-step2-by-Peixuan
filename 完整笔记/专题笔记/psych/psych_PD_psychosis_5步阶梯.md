@@ -3,6 +3,7 @@ tags:
   - USMLE-Step2
   - Psych
   - 神经
+  - "#难记"
 created: 2026-05-24
 type: 专题笔记
 ---
@@ -43,11 +44,12 @@ Step 2：排非 PD 精神活性药
   ├─ TCA / 抗组胺（H1）/ 类固醇
   │
   ▼ 排除完毕
-Step 3：减 adjunctive DA 能药（按致 psychosis 风险递减顺序）⭐
-  ├─ Amantadine（DA 释放 ↑ + NMDA 拮抗 — 致 psychosis 风险高）— 先减
-  ├─ MAO-B 抑制剂（selegiline / rasagiline — 阻 DA 降解）— 次减
-  ├─ COMT 抑制剂（entacapone — 延长 levodopa 作用）— 再减
-  ├─ DA 激动剂（pramipexole / ropinirole — 直接 D2/D3 激动 ⚠️ 致 psychosis 风险最高，常先停）
+Step 3：减 adjunctive DA 能药（标准临床顺序 — UpToDate / UWorld）⭐
+  ├─ ① Amantadine（DA 释放 ↑ + NMDA 拮抗 — motor benefit 小，先减）
+  ├─ ② MAO-B 抑制剂（selegiline / rasagiline — 阻 DA 降解，仅辅助）
+  ├─ ③ COMT 抑制剂（entacapone — 延长 levodopa 作用，仅辅助 + 单用无效）
+  ├─ ④ DA 激动剂（pramipexole / ropinirole — 直接 D2/D3 激动）
+  │    ⚠️ 致 psychosis 风险**最高** — 但 motor benefit 显著，故标准顺序在 amantadine / MAO-B / COMT 之后减
   │
   ▼ 仍幻觉
 Step 4：⭐ 加低/零 D2 抗精神病药（**不减 levodopa**）⭐
@@ -86,9 +88,10 @@ Step 5：（可选）谨慎减 levodopa
 
 ### 1.x Levodopa 是 PD Foundation — 不能减 + NMS-like 风险 ⭐⭐⭐（v1.1 新增）
 
-> [!danger] Levodopa 减药 / 撤药的后果
+> [!danger] Levodopa 减药 / 撤药的 3 大后果
 >
 > **生理后果**：
+>
 > | 后果 | 机制 | 表现 |
 > |---|---|---|
 > | **严重 motor deterioration** | 中枢 DA 急剧下降 → 黑质纹状体通路断 | Rigidity / akinesia / 卧床 / 误吸 / 跌倒 / 不能进食 |
@@ -96,12 +99,13 @@ Step 5：（可选）谨慎减 levodopa
 > | **生活质量崩塌** | 运动功能丢失 → 抑郁加重 + 家属负担 | 不能起床 / 不能进食 / 抑郁加重 |
 
 > [!warning] Levodopa vs DA agonist 性质完全不同
+>
 > | 药 | 性质 | 减药安全？ |
 > |---|---|---|
 > | **Levodopa** | **替代** 缺失的内源 DA（PD foundation）| ❌ **不能轻易减**（NMS-like + motor 崩） |
-> | DA agonist（pramipexole / ropinirole） | **激动** 现有 D2/D3 受体 | ✅ 可减（致 psychosis 风险高，反而是 PD ψ 首批要减的 adjunctive） |
-> | Amantadine | DA 释放 ↑ + NMDA 拮抗 | ✅ 可减 |
-> | MAO-B / COMT | 延长 levodopa 作用 | ✅ 可减 |
+> | DA agonist（pramipexole / ropinirole） | **激动** 现有 D2/D3 受体 | ✅ 可减（致 psychosis 风险最高，但因 motor benefit 显著，标准顺序在 amantadine / MAO-B / COMT 之后减）|
+> | Amantadine | DA 释放 ↑ + NMDA 拮抗 | ✅ 可减（motor benefit 小 → **首批先减**）|
+> | MAO-B / COMT | 延长 levodopa 作用 | ✅ 可减（次减 / 再减）|
 >
 > **核心：levodopa 是替代，其他是修饰；替代不能停，修饰可以停。**
 
@@ -177,13 +181,18 @@ PD psychosis 第 5 步选药
 
 ## 四、多巴胺能药 PD psychosis 风险排序（致 psychosis 风险高 → 低）
 
-| # | 药 | 机制 | 致 psychosis 风险 | 减药顺序 |
+| 减药顺序 | 药 | 机制 | 致 psychosis 风险 | motor benefit |
 |---|---|---|---|---|
-| 1 | **DA agonist**（pramipexole / ropinirole / rotigotine） | 直接 D2/D3 激动 | **最高** ⚠️ | **先减** |
-| 2 | **Amantadine** | 增 DA 释放 + 弱 NMDA 拮抗 | 高 | 次减 |
-| 3 | **MAO-B 抑制剂**（selegiline / rasagiline） | 阻 DA 降解 | 中 | 再减 |
-| 4 | **COMT 抑制剂**（entacapone / tolcapone） | 延长 levodopa 作用 | 中 | 然后减 |
-| 5 | **Levodopa-carbidopa** | DA 前体 | 较低（**减它会运动失代偿**）| **最后减**（谨慎）|
+| **1st 先减** | **Amantadine** | 增 DA 释放 + 弱 NMDA 拮抗 | 高 | 小（多用于 dyskinesia 辅助）|
+| **2nd 次减** | **MAO-B 抑制剂**（selegiline / rasagiline） | 阻 DA 降解 | 中 | 小（仅辅助）|
+| **3rd 再减** | **COMT 抑制剂**（entacapone / tolcapone） | 延长 levodopa 作用 | 中 | 小（单用无效）|
+| **4th 然后减** | **DA agonist**（pramipexole / ropinirole / rotigotine） | 直接 D2/D3 激动 | **最高** ⚠️ | **大**（仅次 levodopa）|
+| **5th 最后减** | **Levodopa-carbidopa** | DA 前体（替代缺失内源 DA）| 较低 | **最大**（PD foundation） |
+
+> [!warning] 顺序 ≠ psychosis 风险排名
+> **减药顺序按"motor benefit 由小到大"**（先减最不重要的，最后动地基）
+> **不**按 psychosis 风险递减排（DA agonist psychosis 最高，但因 motor benefit 大，反而是第 4 才减）
+> 标准源自 UpToDate / AAN 2024 — UWorld stem 也按此考
 
 ### 4.1 为什么 DA agonist 比 levodopa 更易致 psychosis ⭐（4 个机制）
 

@@ -28337,6 +28337,12 @@
 >
 > Answer：**B. Cyanide toxicity**
 >
+> ![[{D433C56C-29E4-4341-B158-BE04E98112BB}.png]]
+>
+> ![[{C3AF9B51-8A8C-497D-94CE-2FA17B075BF1}.png]]
+>
+> ![[{FF7B2038-5C3E-40F4-B9DC-2921B9A95886}.png]]
+>
 > ## 普适规则
 >
 > ### Cyanide 毒性指纹（5 联）⭐
@@ -28438,6 +28444,8 @@
 > **Analgesic nephropathy** = 长期联合 **acetaminophen + aspirin / NSAID** → ① acetaminophen 代谢物（NAPQI 样反应性物质）+ ② NSAID 直接氧化损伤；glutathione 耗竭加剧 → **CTIN（chronic tubulointerstitial nephritis）± papillary necrosis** → 表现 = AKI/CKD + UA 主 WBC + WBC casts + 轻蛋白尿 + ± hematuria（有 papillary necrosis 时）+ **双侧小肾 + papillary calcification**。
 >
 > Answer：**E. Tubulointerstitial nephritis**
+>
+> ![[{37FC27AE-0625-494A-B16D-CF569F58DC2E}.png]]
 >
 > ## 普适规则
 >

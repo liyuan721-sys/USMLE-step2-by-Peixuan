@@ -131,6 +131,10 @@ GN 共同 UA = **RBC casts + dysmorphic RBC + 蛋白尿**
 
 **Analgesic Nephropathy = 慢性版双打**（CTIN + 乳头坏死） — Q4004 触发：长期 OTC APAP + NSAID/aspirin → 双侧小肾 + WBC casts + 慢性肾衰 + 贫血
 
+![[{37FC27AE-0625-494A-B16D-CF569F58DC2E}.png]]
+
+> 图同步自 [[mistakes/uworld-mistakes#^Q4004]]（机制 = APAP 耗竭 glutathione + NSAID/Aspirin 氧化损伤 → CTIN ± papillary necrosis；UA = WBC casts ± 蛋白尿 + 有 papillary necrosis 时 RBC；影像 = 双侧小肾 + papillary calcification + 不规则轮廓）
+
 > [!warning] 镰刀贫 + NSAID 双高危
 > 镰刀贫病人**禁用 NSAID** 治疼痛危象 — 否则乳头坏死加重
 > 治疼痛用 acetaminophen / opioid / hydroxyurea 预防
