@@ -31,6 +31,15 @@ type: 专题笔记
 ### 关键单标志 ⭐
 **Contrast enhancement = 恶性最关键单标志** —— 任何 enhancement 都让 Bosniak 升级 → 至少 IIF 起跳 / III+ 必转 urology。
 
+![[{AFD52A87-2959-49A5-937B-36B69EA82138}.png]]
+*↑ UWorld Simple vs Malignant 对照 CT：左 Simple cyst（薄壁/单腔/无 enhancement）| 右 Malignant cystic mass（不规则壁/多腔/异质 + enhancement）*
+
+![[{59569AB0-1C81-4842-B468-E7B1D50EA3A4}.png]]
+*↑ Bosniak I 简单囊肿典型 CT 冠状位（来源 [[mistakes/uworld-mistakes#^Q4181]]）：圆形低密度灶 + 薄壁 + 无内分隔*
+
+![[{D6D5097C-96A8-4A3D-A27B-6DF5F1C2870F}.png]]
+*↑ Hydronephrosis 对照（**非囊肿** — 是肾盂扩张 / ureter 梗阻征）：仅此情况才考虑 ureteral stent placement；不要与 simple cyst 混淆*
+
 ---
 
 ## Part 2. Bosniak 5 级分类（管理决策树）⭐⭐⭐

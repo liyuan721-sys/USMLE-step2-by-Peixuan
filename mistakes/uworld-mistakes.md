@@ -29465,6 +29465,9 @@
 > ## 核心概念
 > **儿童 hypovolemic + symptomatic hypernatremia 急救铁律**：先 **0.9% saline 等渗** 复苏 → 恢复 perfusion → 再用 hypotonic 缓慢纠 Na（**Na↓ < 0.5 mEq/L/hr** 防脑水肿）。"hypernatremia 给 hypotonic" 反射在**急性循环不稳**时是错的 — 快速降 Na 致水进脑细胞 → cerebral edema / 抽搐 / 死亡。
 >
+> > ![[{53105C27-3D2C-479C-9D32-9F475D3DE01B}.png]]
+> > *↑ UWorld 官方 Hypernatremia 复苏决策树（Euvolemic → hypotonic / Hypovolemic-Asymp → hypotonic / Hypovolemic-Symp → **isotonic 直到 euvolemic**）*
+>
 > ## 普适规则
 >
 > ### Hypernatremia 复苏决策树 ⭐
@@ -29570,9 +29573,13 @@
 > ## 核心概念
 > **Uroperitoneum (尿性腹膜炎)** = 妇科盆腔手术中 ureter 撕裂未识 → 尿溢入腹腔 → **弥漫腹胀 + 大量腹腔积液 + watery 阴道排液 + 尿对腹膜化学刺激 → 低热/恶心**。**单侧损伤 → 对侧肾功能 intact → Cr / UA / 排尿全正常**，是 USMLE 经典"无声陷阱"。**术后 2 周内**可表现（不一定术中识破）。
 >
-> > [!info] 解剖图嵌入位![[{3FE27EEC-055B-4038-9BE5-EBBE035299CA}.png]]
-> > （Ureter injury during pelvic surgery 解剖图 — Posterior + Anterior 视图 + 3 大易伤位标红：infundibulopelvic ligament / cardinal ligament / 入 bladder 前 — 用户贴图后此处显示）
-> > **图占位**：等用户贴图至 `mistakes/attachments/`，命名 `ureter_injury_pelvic_anatomy.png` → 此处嵌入 `> ![[ureter_injury_pelvic_anatomy.png]]`
+> > ![[{3FE27EEC-055B-4038-9BE5-EBBE035299CA}.png]]
+> > *↑ UWorld 官方 Ureter injury during pelvic surgery 解剖图（Posterior + Anterior 视图）*
+> >
+> > **3 大易伤位（红圈 = common site of injury）**：
+> > - ① **Infundibulopelvic (suspensory) ligament** 处 — ureter 与 ovarian vessels 交叉（卵巢手术 / 切 IPL 时易伤）
+> > - ② **Cardinal ligament** 处 — ureter 在 uterine vessels 下方 ~2 cm 穿过（**"water under the bridge"** — hysterectomy 钳夹 uterine artery 时最常伤）⭐
+> > - ③ **入 bladder 前** — bladder trigone 区（anterior colporrhaphy / vaginal hysterectomy）
 >
 > ## 普适规则
 >
@@ -29670,7 +29677,10 @@
 >
 > ## Stem 模式
 > 54yo M + 自限性 GI 症状（腹痛+水样腹泻 2 次，2 hr 自愈）+ 父 60yo AAA 破裂亡 + lifetime 非吸烟者 + 生命体征正常 + **CT 偶发右肾下极简单囊肿**（薄壁 / 无 septa / 无 enhancement / 单腔 / 均质）→ 患者要求出院，对囊肿管理？答 **C. Reassurance only**（Bosniak I 简单囊肿 = 良性偶发，**无需任何 follow-up**）。
->![[{59569AB0-1C81-4842-B468-E7B1D50EA3A4}.png]]![[{AFD52A87-2959-49A5-937B-36B69EA82138}.png]]![[{D6D5097C-96A8-4A3D-A27B-6DF5F1C2870F}.png]]
+>
+> > ![[{59569AB0-1C81-4842-B468-E7B1D50EA3A4}.png]]
+> > *↑ 本题 CT 冠状位：右肾下极**圆形低密度灶 + 薄壁 + 无内分隔 + 均质** = Bosniak I 简单囊肿典型影像*
+>
 > ## 核心概念
 > **Simple Renal Cyst (Bosniak I)** = 最常见肾偶发病变（**> 50 岁 50% 普及**），**几乎全部良性**。CT/US 影像 5 大良性指纹：**薄壁光滑 + 单腔 + 无 septa + 均质内容 + 无 contrast enhancement**。无需 follow-up、无需活检、无需切除、无需 aspiration（除非大而有症状 / 感染）。"Reassurance only" = 正确答案。
 >
@@ -29687,6 +29697,9 @@
 > | **Contrast enhancement** | **无** | **有** ⭐ 最关键 |
 > | **临床** | 无症状 | 痛 / 血尿 / HTN |
 > | **Follow-up** | **无需** ⭐ | **需影像 + urology 评估** |
+>
+> > ![[{AFD52A87-2959-49A5-937B-36B69EA82138}.png]]
+> > *↑ UWorld 官方 Simple vs Malignant 对照 CT：左 Simple cyst (薄壁 / 单腔 / 无 enhancement) | 右 Malignant cystic mass (不规则壁 / 多腔 / 异质 + enhancement)*
 >
 > ### Bosniak 分类（5 级管理决策）⭐
 >
@@ -29718,6 +29731,9 @@
 > | **C** ⭐ | Reassurance only | ✅ Bosniak I + 无症状 = 不做任何事 + 不需 follow-up |
 > | D | Surgical excision / nephrectomy | ❌ 仅恶性 / Bosniak III-IV |
 > | E | Ureteral stent placement | ❌ 仅尿路梗阻（**hydronephrosis / hydroureter**），本题无 |
+>
+> > ![[{D6D5097C-96A8-4A3D-A27B-6DF5F1C2870F}.png]]
+> > *↑ Hydronephrosis CT 示意（Choice E 延伸）：**肾盂扩张**（dilation of the renal pelvis）= ureter 梗阻征 → 才考虑 stent；本题囊肿无 hydronephrosis 故 stent 不适用*
 >
 > ### 反 pattern 警示
 > - **"看到肾囊肿 → 反射 aspiration / 切除"是错的** — 简单囊肿无需任何介入（**良性影像 + 无症状 = reassurance**）⭐
