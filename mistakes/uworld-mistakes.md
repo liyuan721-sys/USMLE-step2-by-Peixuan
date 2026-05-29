@@ -29054,3 +29054,96 @@
 > 主题:: DLB ψ vs PD ψ 钓饵（ψ 早于 levodopa + cognitive fluctuation = DLB）/ DLB 一线 rivastigmine + 抗精神病药相对禁忌（30-50% severe sensitivity reaction NMS-like）/ "1-year rule" parkinsonism ≤1 yr before cog decline = DLB vs >1 yr = PDD / DLB 4 大支持特征 / Pimavanserin = 安全 fallback（无 D2 拮抗）/ 反射钩误覆盖元 pattern — 建立反射钩后必配反 pattern 警示词
 > 状态:: 🔴 + #考前必看 + #难记（PD ψ Step 5 反射误覆盖 + DLB 知识缺口双因）⚠️⚠️
 > 错因:: pattern
+
+> [!success]- [2026-05-28] 肾 / Struvite Stone — 长大不规则 staghorn + 反复 UTI + urease+ 细菌 → 尿氨↑ + pH>8 + coffin lid 晶 (Q15682) ✅做对 1:01
+> ^Q15682
+>
+> ## Stem 模式
+> 女患 + 反复 UTI 史 + UA：LE+ / nitrite+ / WBC 20-30 / RBC 20-30 + US 左肾盂 **2 cm 不规则结石** → 问形成机制？答 **F. Increased urine ammonia production**（urease-producing 菌水解 urea → NH3 → 碱化尿 → MgNH4PO4 沉淀）。
+>
+> ## 核心概念
+> **Struvite (magnesium ammonium phosphate, MgNH4PO4) stone** = **唯一**与"细菌感染"直接因果的结石；urease+ 菌（**Proteus / Klebsiella / Staph saprophyticus / Providencia / Ureaplasma**，**E. coli 不产 urease**）水解 urea → NH3 → 碱化尿 (pH>8) → Mg/NH4+/PO4 过饱和沉淀 → **长得快 + 大 staghorn**；治疗 **必须完整取石（PCNL）**（抗生素单用不够，菌藏在 stone matrix 内）+ 选择性 urease inhibitor（acetohydroxamic acid）防复发。
+>
+> ## 普适规则
+>
+> ### 5 大肾结石速查（USMLE 高频对照）⭐
+>
+> | 类型 | 占比 | 病机/触发 | 晶体外形 | 尿 pH | X 线 | 治疗 |
+> |---|---|---|---|---|---|---|
+> | **Ca oxalate** | ~75% | 高 Ca / 高 oxalate / **低柠檬酸** / 脂肪泻→游离 oxalate↑ / 低钙饮食反致↑ | **Envelope/八面体** 或 dumbbell | acidic-neutral | radiopaque | 多饮水 + **thiazide**（↓ 尿 Ca）+ citrate |
+> | **Ca phosphate** | ~15% | **RTA type 1** / hyperPTH | wedge/rosette | **alkaline** | radiopaque | thiazide + citrate；治原发 |
+> | **Struvite** | ~10-15% | **urease+ 菌**（Proteus/Klebsiella/Staph sapro/Providencia/Ureaplasma）→ 尿氨↑ + pH>8 | **Coffin lid 棺材盖** | **>8** alkaline | radiopaque（大 staghorn）| **完整取石 PCNL** + 抗生素 + urease inhibitor (acetohydroxamic acid) |
+> | **Uric acid** | ~5-10% | gout / **酸性尿** / 肿瘤溶解 / 慢性腹泻丢 HCO3 | rhomboid/rosette | **<5.5** acidic | **radiolucent** | **碱化尿** (potassium citrate) + allopurinol |
+> | **Cystine** | <1% | **Cystinuria (AR)** 转运缺陷 | **Hexagonal 六角** | acidic | weakly radiopaque | 碱化尿 + 大量饮水 + chelator (tiopronin/D-penicillamine) |
+>
+> ### Struvite 5 联指纹 ⭐（题干一旦看到即锁定）
+> 1. **反复 UTI 史**（dysuria/fever/mild flank pain > 典型肾绞痛 — 大石不进 ureter 不引典型绞痛）
+> 2. **尿 pH > 8**（urea → NH3 碱化）
+> 3. **Coffin lid 棺材盖晶体**
+> 4. **大 staghorn 鹿角石**（充满 calyces）
+> 5. **女性多发**（女性 UTI 多）
+>
+> ### Urease+ 菌口诀
+> **"PPP S K U"** = **P**roteus / **P**rovidencia / **P**seudomonas（部分）/ **S**taph saprophyticus / **K**lebsiella / **U**reaplasma
+> ⚠️ **E. coli 不产 urease**（最常见 UTI 元凶却**不**致 struvite）— 经典反 pattern
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 机制 | 该机制对应的结石 | 为什么本题错 |
+> |---|---|---|---|
+> | A | ↓ 肾 Ca 重吸收 | hyperPTH → Ca stone | PTH 增 Ca 排泄但本题无 hyperPTH 证据 |
+> | B | ↓ 肾 uric acid 重吸收 | 极罕；uric acid stone | 本题尿 pH 高不合 uric acid |
+> | C | ↑ 肠 Ca 吸收 | Ca oxalate | 同上无 hyperCa 证据 |
+> | D | ↑ 肠 oxalate 吸收（脂肪泻 / 低钙饮食 / IBD / 减重手术）| Ca oxalate | 小 oxalate 石可作 struvite nidus 但 struvite 的主因是**氨**而非 oxalate |
+> | E | ↑ uric acid 产生（myeloproliferative / tumor lysis）| uric acid stone | 与 alkaline urine + UTI 不符 |
+> | **F** ⭐ | ↑ 尿氨产生（urease 菌水解 urea）| **Struvite** | ✅ 反复 UTI + 大不规则石 + LE/nitrite+ |
+>
+> ### 反 pattern 警示
+> - **Hypoparathyroidism**（不是 hyper-）→ 肾 Ca 重吸收↓ 但因总 Ca 低 → Ca stone **罕见**（反直觉）
+> - **低钙饮食 / 脂肪吸收不良** → 游离 oxalate↑ → **Ca oxalate stone 反而↑**（Ca 被脂肪结合不再绑 oxalate）
+> - **大 staghorn 结石不进 ureter** → 表现为**反复 UTI > 肾绞痛**（绞痛是小石过 UJ 的特征）
+>
+> ## Memory Hook
+> - **"Coffin lid + pH > 8 + staghorn + 反复 UTI = Struvite，机制 = 尿氨↑（urease 菌）"** ⭐
+> - **"Struvite 治疗 = 取石（PCNL）+ 抗生素 + urease inhibitor 三件套；抗生素单用不灭 stone-matrix 内菌"** ⭐
+> - **Urease+ "PPP-S-K-U"；E. coli 不算** ⭐
+> - 反 pattern：**大 staghorn 不绞痛 → UTI 表现为主**
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 这题做对 1:01，stem 反复 UTI + LE/nitrite+ + 不规则 2cm 肾盂石 → 直接锁 struvite + 氨产生
+> - 做对原因：之前已建"struvite = urease 菌"反射，UA + 影像两条线索同向触发
+> - 学到延伸（不在题干内）：
+>   - Urease+ "PPP S K U" 口诀完整化（之前只记 Proteus / Klebsiella）
+>   - 5 大结石尿 pH 方向反差：**struvite/Ca-P 碱性 vs uric acid/cystine 酸性 vs Ca-oxalate pH 不敏感**
+>   - **完整取石**比抗生素重要（菌藏 stone matrix）— stone matrix 概念
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 首题（struvite/肾结石主题）
+>   - [[mistakes/uworld-mistakes#^Q4004]] Analgesic nephropathy CTIN（同日入库，同肾区 + UA 解读相关 — WBC casts vs 单纯 WBC + nitrite 鉴别）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（KIDNEY STONES 速查表已有 4 行；本题可扩 struvite 5 联指纹 + 治疗三件套）
+>   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]]（**目前 struvite 条目缺失** — 待加 "pH>8 + coffin lid + staghorn + 反复 UTI + urease+ 菌" 五联指纹）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/感染]]（urease+ 菌 — Proteus/Klebsiella/Staph sapro/Ureaplasma；Ureaplasma 在 NICU 早产新生儿肺炎也考；Staph sapro = 年轻女性 UTI #2 元凶）
+>   - [[完整笔记/Peixuan分科笔记/GYN]]（女性反复 UTI 高危 → 防 struvite）
+>   - [[完整笔记/Peixuan分科笔记/外科]]（PCNL 经皮肾镜碎石术）
+> - 🌱 TODO（待生成衍生增量）：
+>   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] **加 struvite 五联指纹**（pH>8 / coffin lid / staghorn / 反复 UTI / urease+ 菌）
+>   - 考虑建 [[完整笔记/专题笔记/肾脏/肾脏_肾结石5型对照]]（5 大结石 × 病机/晶体/pH/X线/治疗 + reciprocal pH pattern + Urease+ "PPP-S-K-U" + Stone matrix 概念）— 现在错题数量未到 3 题，但本题对照表已成体系，可"早建精简 v1"
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后再做类似题验证反射稳定
+> - [ ] 默写 5 大结石对照表（含 pH 方向 + 治疗）
+> - [ ] 默写 Urease+ "PPP-S-K-U" + E. coli 反 pattern
+> - [ ] 默写 Struvite 治疗三件套（PCNL + 抗生素 + urease inhibitor）
+> - [ ] 反射训练：见 "反复 UTI + 大不规则肾石 + LE/nitrite+" → 0.5 秒锁 struvite + 氨产生
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: Struvite stone 5 联指纹（反复 UTI / 尿 pH>8 / coffin lid 晶 / 大 staghorn / 女性多）/ 病机 = urease+ 菌（Proteus / Klebsiella / Staph sapro / Providencia / Ureaplasma，E. coli 不算）水解 urea → NH3 → 碱化尿 → MgNH4PO4 沉淀 / 治疗三件套 = 完整取石 PCNL + 抗生素 + urease inhibitor (acetohydroxamic acid，菌藏 stone matrix 内抗生素单用不灭) / 5 大肾结石对照（Ca oxalate envelope acidic-neutral thiazide / Ca phosphate wedge alkaline RTA1-hyperPTH / Struvite coffin-lid pH>8 PCNL / Uric acid rhomboid pH<5.5 碱化尿 / Cystine 六角 AR 转运缺陷 chelator）/ 反 pattern: 大 staghorn 不绞痛只反复 UTI / 低钙饮食反致 Ca oxalate↑ / hypoPTH 反 Ca stone 罕见
+> 状态:: 🟢做对
+> 错因:: N/A（pattern 已建立，反射稳定 1:01）

@@ -450,6 +450,29 @@ source_错题: Q17169 触发
 > - P 波**在** + P-QRS 解离 → **AV block** → Atropine / pacing
 > - P 波**消失** + 宽 QRS / sine wave → **Hyperkalemia** → **Calcium gluconate**
 
+### 2.7 Struvite Stone（鸟粪石 / 鹿角石）⭐（来源 [[mistakes/uworld-mistakes#^Q15682]] — 做对题 2026-05-28）
+
+| 指纹（**5 联**）| **反复 UTI 史** + **尿 pH > 8** + **Coffin lid 棺材盖晶体** + **大 staghorn 鹿角石** + **女性多发** |
+|---|---|
+| **机制核心** | **Urease+ 菌**水解 urea → 2 NH₃ + CO₂；NH₃ + H₂O → NH₄⁺ + OH⁻ → 尿碱化 → Mg²⁺/NH₄⁺/PO₄³⁻ 过饱和 → **MgNH₄PO₄·6H₂O 沉淀**（长得快，可数周成 staghorn）|
+| **Urease+ 菌口诀** | **"PPP-S-K-U"** = **P**roteus / **P**rovidencia / **P**seudomonas（部分）/ **S**taph **sapro**phyticus / **K**lebsiella / **U**reaplasma ⚠️ **E. coli 不产 urease**（UTI #1 元凶却**不**致 struvite，经典反 pattern）|
+| **加分指纹** | UA：LE⁺ + nitrite⁺ + WBC↑ + RBC↑ / 影像 = radiopaque + 充满肾盂肾盏的鹿角形 / 临床多 **反复发热-脓尿 > 典型肾绞痛**（大石不进 ureter）|
+| **诊断金标准** | 影像（CT / US）+ UA pH > 8 + 尿培养 urease+ 菌 |
+| **治疗第一步** | **完整取石（PCNL 经皮肾镜碎石）** + 长程抗生素 + 选择性 urease inhibitor (**acetohydroxamic acid**) 防复发；⚠️ **抗生素单用不够** — 菌藏 **stone matrix** 内 |
+| **详见** | [[mistakes/uworld-mistakes#^Q15682]] / [[完整笔记/Peixuan分科笔记/肾脏]] |
+
+> [!tip] 5 大肾结石尿 pH 方向反差速记 ⭐
+> | 结石 | 尿 pH | 治疗方向（pH 干预） |
+> |---|---|---|
+> | **Struvite / Ca phosphate** | **碱性（pH > 7）** | 酸化（治原发病为主；struvite 取石）|
+> | **Uric acid / Cystine** | **酸性（pH < 5.5-6）** | **碱化尿**（potassium citrate）|
+> | **Ca oxalate** | pH 不敏感 | thiazide + citrate |
+>
+> **反 pattern**：低钙饮食 / 脂肪吸收不良（IBD / 减重手术）→ Ca 被脂肪绑 → 游离 oxalate↑ → **Ca oxalate 反而↑**（与"补钙防结石"直觉相反）
+
+> [!warning] "大 staghorn 反复 UTI > 肾绞痛" 反 pattern
+> Struvite stone 长得大（充满肾盂肾盏）但**不进 ureter** → 表现为**反复 UTI 发热-脓尿**，**不**像 Ca oxalate 小石那样典型阵发肾绞痛向腹股沟放射。看到"反复 UTI + 不规则肾盂大石" → 锁 struvite 不锁 oxalate。
+
 ---
 
 ## Part 3. 血液系统指纹
