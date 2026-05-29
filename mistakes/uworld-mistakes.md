@@ -30352,6 +30352,8 @@
 > | **ATTR（Age-related / Hereditary）** | 老人 / 家族遗传突变 | **Transthyretin (prealbumin)** | ATTR | **Cardiomyopathy（restrictive）** + 周围神经病 + **CTS** |
 > | **DRA（Dialysis-Related）** ⭐ | **ESRD on dialysis >5-10 yr** | **β2-microglobulin** 透析清除不充分 | Aβ2M | **Scapulohumeral periarthritis + CTS + bone cysts**（**仅骨关节，不肾不心**） |
 >
+> ![[{DD445ED4-93E2-440E-8A8A-B5DF2D974347}.png]]
+>
 > ### DRA 经典三联（Q21041 核心）⭐
 >
 > | 部位 | 表现 |
