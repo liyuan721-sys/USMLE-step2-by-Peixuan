@@ -18653,7 +18653,7 @@
 > 学科:: Ethics
 > 主题:: Perinatal HIV disclosure 应在 adolescence 前完成（3 理由：fosters trust + ↑medication adherence + ↓inadvertent transmission — adolescence 是 sexual exploration 期）/ Pediatric chronic illness disclosure 4 阶段（① respect family concerns + give time ② strongly encourage developing plan + timeline ③ collaborative planning - joint participation ④ joint disclosure — family + physician 一起 deliver）/ "Respect family" ≠ passive（真正 respect = 与 family 一起 plan + timeline，不是把 burden 全推给 family 独自背）/ 3 个 not-good 模式（只强调 risks of delay — instill distrust / passive 推 burden 给 family / unilateral partial disclose without consent）/ Burden sharing 原则（不让 family 独自承担 chronic disease + 增 morbidity/mortality 的 disclosure burden）
 
-> [!success]- [2026-05-23] Ethics / End-of-life care — NEOT (No Escalation of Treatment) 中间地带 (Q21627) 🟡 做对但不确定
+> [!example]- [2026-05-23] Ethics / End-of-life care — NEOT (No Escalation of Treatment) 中间地带 (Q21627) 🟡 做对但不确定
 > ^Q21627
 >
 > ## Stem 模式
@@ -21164,7 +21164,7 @@
 > 状态:: 🟡
 > 错因:: 知识
 
-> [!success]- [2026-05-25] Psych / Tourette 阶梯升级（α2 失败后下一步）(浩斯宾Q10-生成题-做对带卡点)
+> [!example]- [2026-05-25] Psych / Tourette 阶梯升级（α2 失败后下一步）(浩斯宾Q10-生成题-做对带卡点)
 >
 > ## Stem 模式
 > 14 yo Tourette + multiple motor + vocal tics × 18 mo + failed habit-reversal + failed guanfacine × 1 yr + 严重影响 → next step？
@@ -22601,7 +22601,7 @@
 > 状态:: 🟡
 > 错因:: 干扰项
 
-> [!success]- [2026-05-26] Ethics / Cognitive Bias — Framing bias（chart info → 形成 dx 前 → 影响判断）(Q106764, linked vignette Item 1 of 2 with Q106765) ✓ 做对
+> [!example]- [2026-05-26] Ethics / Cognitive Bias — Framing bias（chart info → 形成 dx 前 → 影响判断）(Q106764, linked vignette Item 1 of 2 with Q106765) ✓ 做对
 > ^Q106764
 >
 > ## Stem 模式
@@ -28236,7 +28236,7 @@
 > 状态:: 🟡
 > 错因:: pattern
 
-> [!success]- [2026-05-28] 肾 / CNI (Tacrolimus) 急性肾毒性 — Diltiazem CYP3A4 抑制 → 血药↑ → arteriolar vasoconstriction（🟡 做对但不确定）(Q16485)
+> [!example]- [2026-05-28] 肾 / CNI (Tacrolimus) 急性肾毒性 — Diltiazem CYP3A4 抑制 → 血药↑ → arteriolar vasoconstriction（🟡 做对但不确定）(Q16485)
 > ^Q16485
 >
 > ## Stem 模式
@@ -28326,7 +28326,7 @@
 > 状态:: 🟡（做对但不确定 — 知道触发不知机制部位）
 > 错因:: 知识
 
-> [!success]- [2026-05-28] 心内 + 肾 / Cyanide Toxicity by Sodium Nitroprusside — >24-48 hr infusion + 肾损 → CN 蓄积（🟡 做对但不确定）(Q11566)
+> [!example]- [2026-05-28] 心内 + 肾 / Cyanide Toxicity by Sodium Nitroprusside — >24-48 hr infusion + 肾损 → CN 蓄积（🟡 做对但不确定）(Q11566)
 > ^Q11566
 >
 > ## Stem 模式
@@ -29946,7 +29946,7 @@
 > 状态:: 🟡 + #考前必看（电解质急症 + 急症先治不诊断元 pattern + 高钙 6 治疗选择高频考）
 > 错因:: pattern
 
-> [!success]- [2026-05-28] 肾 / ADPKD 正向锁定指纹 — 51yo + Bilateral flank pain + 肝大 + flank mass + 早 HTN + 10 yr nocturia + CKD + 贫血 (Q4474) ✅做对但**排除法**未建正向反射
+> [!example]- [2026-05-28] 肾 / ADPKD 正向锁定指纹 — 51yo + Bilateral flank pain + 肝大 + flank mass + 早 HTN + 10 yr nocturia + CKD + 贫血 (Q4474) ✅做对但**排除法**未建正向反射
 > ^Q4474
 >
 > ## Stem 模式
