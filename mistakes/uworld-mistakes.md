@@ -6468,7 +6468,7 @@
 > 状态:: 🟡
 > 错因:: 知识
 
-> [!example]- [2026-05-16] 心内 / 肥厚性心肌病 HCM 临床表现与治疗 (Q2686 + Q22660)
+> [!success]- [2026-05-16] 心内 / 肥厚性心肌病 HCM 临床表现与治疗 (Q2686 + Q22660)
 > ^Q2686-Q22660
 >
 > **Stem 模式**
@@ -7292,7 +7292,7 @@
 > 状态:: 🔴 反复错（2026-05-21 浩斯宾 self-test：地高辛中毒诱因误答高钾，应低钾 → 升级）
 > 错因:: pattern
 
-> [!example]- [2026-05-16] 心内 / Symptomatic Bradycardia → Atropine 1st line (Q2141)
+> [!success]- [2026-05-16] 心内 / Symptomatic Bradycardia → Atropine 1st line (Q2141)
 > ^Q2141
 >
 > ## Stem 模式
@@ -11097,7 +11097,7 @@
 > 状态:: 🟢
 > 错因:: ✅ 做对（知识入库）
 
-> [!example]- [2026-05-19] 精神科/药理 — Alprazolam Withdrawal Seizure (Q3762) ✅做对
+> [!success]- [2026-05-19] 精神科/药理 — Alprazolam Withdrawal Seizure (Q3762) ✅做对
 > ^Q3762
 >
 > ## 1. Stem 模式
@@ -15003,7 +15003,7 @@
 
 ## 2026-05-22
 
-> [!example]- [2026-05-22] 儿科 / Psych — Selective Mutism 选择性缄默 (Q3380) ✅做对
+> [!success]- [2026-05-22] 儿科 / Psych — Selective Mutism 选择性缄默 (Q3380) ✅做对
 > ^Q3380
 >
 > ## 1. Stem 模式
@@ -15525,7 +15525,7 @@
 > 状态:: 🟡
 > 错因:: 知识
 
-> [!example]- [2026-05-22] Psych / 精神药理 — Valproate 肝毒性·精神药物招牌副作用 (Q12468) ✅做对
+> [!success]- [2026-05-22] Psych / 精神药理 — Valproate 肝毒性·精神药物招牌副作用 (Q12468) ✅做对
 > ^Q12468
 >
 > ## 1. Stem 模式
@@ -15592,7 +15592,7 @@
 > 状态:: 🟢
 > 错因:: ✅ 做对（知识入库）
 
-> [!example]- [2026-05-22] Psych / 精神药理 — Tardive Dyskinesia 处理 (Q2518) ✅做对
+> [!success]- [2026-05-22] Psych / 精神药理 — Tardive Dyskinesia 处理 (Q2518) ✅做对
 > ^Q2518
 >
 > ## 1. Stem 模式
@@ -15730,7 +15730,7 @@
 > 状态:: 🟡
 > 错因:: 知识
 
-> [!example]- [2026-05-22] 神经 — Idiopathic PD vs Drug-Induced Parkinsonism 鉴别 (自测 Park2) ✅做对
+> [!success]- [2026-05-22] 神经 — Idiopathic PD vs Drug-Induced Parkinsonism 鉴别 (自测 Park2) ✅做对
 > ^Park2-2026-05-22
 >
 > ## 1. Stem 模式
@@ -16263,7 +16263,7 @@
 > 状态:: 🟡
 > 错因:: 知识
 
-> [!example]- [2026-05-22] 儿科 / Psych — Reactive Attachment Disorder (RAD) 反应性依恋障碍 (Q15047) ✅做对
+> [!success]- [2026-05-22] 儿科 / Psych — Reactive Attachment Disorder (RAD) 反应性依恋障碍 (Q15047) ✅做对
 > ^Q15047
 >
 > ## 1. Stem 模式
@@ -16499,7 +16499,7 @@
 > 状态:: 🟡
 > 错因:: 知识
 
-> [!example]- [2026-05-22] 儿科 / Psych — Parent Management Training (PMT) 适应症 · ADHD 跨场所标准 (Q107408) ✅做对
+> [!success]- [2026-05-22] 儿科 / Psych — Parent Management Training (PMT) 适应症 · ADHD 跨场所标准 (Q107408) ✅做对
 > ^Q107408
 >
 > ## 1. Stem 模式
@@ -18653,7 +18653,7 @@
 > 学科:: Ethics
 > 主题:: Perinatal HIV disclosure 应在 adolescence 前完成（3 理由：fosters trust + ↑medication adherence + ↓inadvertent transmission — adolescence 是 sexual exploration 期）/ Pediatric chronic illness disclosure 4 阶段（① respect family concerns + give time ② strongly encourage developing plan + timeline ③ collaborative planning - joint participation ④ joint disclosure — family + physician 一起 deliver）/ "Respect family" ≠ passive（真正 respect = 与 family 一起 plan + timeline，不是把 burden 全推给 family 独自背）/ 3 个 not-good 模式（只强调 risks of delay — instill distrust / passive 推 burden 给 family / unilateral partial disclose without consent）/ Burden sharing 原则（不让 family 独自承担 chronic disease + 增 morbidity/mortality 的 disclosure burden）
 
-> [!example]- [2026-05-23] Ethics / End-of-life care — NEOT (No Escalation of Treatment) 中间地带 (Q21627) 🟡 做对但不确定
+> [!success]- [2026-05-23] Ethics / End-of-life care — NEOT (No Escalation of Treatment) 中间地带 (Q21627) 🟡 做对但不确定
 > ^Q21627
 >
 > ## Stem 模式
@@ -21164,7 +21164,7 @@
 > 状态:: 🟡
 > 错因:: 知识
 
-> [!example]- [2026-05-25] Psych / Tourette 阶梯升级（α2 失败后下一步）(浩斯宾Q10-生成题-做对带卡点)
+> [!success]- [2026-05-25] Psych / Tourette 阶梯升级（α2 失败后下一步）(浩斯宾Q10-生成题-做对带卡点)
 >
 > ## Stem 模式
 > 14 yo Tourette + multiple motor + vocal tics × 18 mo + failed habit-reversal + failed guanfacine × 1 yr + 严重影响 → next step？
@@ -22601,7 +22601,7 @@
 > 状态:: 🟡
 > 错因:: 干扰项
 
-> [!example]- [2026-05-26] Ethics / Cognitive Bias — Framing bias（chart info → 形成 dx 前 → 影响判断）(Q106764, linked vignette Item 1 of 2 with Q106765) ✓ 做对
+> [!success]- [2026-05-26] Ethics / Cognitive Bias — Framing bias（chart info → 形成 dx 前 → 影响判断）(Q106764, linked vignette Item 1 of 2 with Q106765) ✓ 做对
 > ^Q106764
 >
 > ## Stem 模式
@@ -22694,7 +22694,7 @@
 > 状态:: 🟡（2026-05-26 降级：选项无 anchoring 才做对，事后暴露"chart = raw data"误解，反射未建立）
 > 错因:: 知识
 
-> [!example]- [2026-05-26] Ethics / Patient Safety — Hand hygiene 持续 suboptimal + systems 已 done → Individual accountability + Just culture（时序原则）(Q106042) ✓ 做对
+> [!success]- [2026-05-26] Ethics / Patient Safety — Hand hygiene 持续 suboptimal + systems 已 done → Individual accountability + Just culture（时序原则）(Q106042) ✓ 做对
 > ^Q106042
 >
 > ## Stem 模式
@@ -22847,7 +22847,7 @@
 > 状态:: 🟢 ✅ 做对（just culture 时序反射建立）
 > 错因:: —
 
-> [!example]- [2026-05-26] Ethics / Quality — Systemic healthcare quality concerns → Team-based efforts + 沟通 stakeholders + shared goals（Q23111）✓ 做对
+> [!success]- [2026-05-26] Ethics / Quality — Systemic healthcare quality concerns → Team-based efforts + 沟通 stakeholders + shared goals（Q23111）✓ 做对
 > ^Q23111
 >
 > ## Stem 模式
@@ -22995,7 +22995,7 @@
 > 状态:: 🟢 ✅ 做对
 > 错因:: —
 
-> [!example]- [2026-05-26] Ethics / QI — Lean methodology = 减 waste（no-show 50% → 15%, 同步 visits）vs Six Sigma / Change management / PDSA / Swiss cheese（Q21753）✓ 做对
+> [!success]- [2026-05-26] Ethics / QI — Lean methodology = 减 waste（no-show 50% → 15%, 同步 visits）vs Six Sigma / Change management / PDSA / Swiss cheese（Q21753）✓ 做对
 > ^Q21753
 >
 > ## Stem 模式
@@ -23080,7 +23080,7 @@
 > 状态:: 🟢 ✅ 做对
 > 错因:: —
 
-> [!example]- [2026-05-26] Ethics / Implicit Bias — Group debriefing + metacognition + assess（不是 anonymous portal / 不是 zero-tolerance / 不是 punitive remediation）(Q21366) ✓ 做对
+> [!success]- [2026-05-26] Ethics / Implicit Bias — Group debriefing + metacognition + assess（不是 anonymous portal / 不是 zero-tolerance / 不是 punitive remediation）(Q21366) ✓ 做对
 > ^Q21366
 >
 > ## Stem 模式
@@ -23175,7 +23175,7 @@
 > 状态:: 🟢 ✅ 做对
 > 错因:: —
 
-> [!example]- [2026-05-26] Ethics / Patient Safety — Effective Team Functioning = Shared understanding of goals（6 元素表 — 核心元素）(Q23112) ✓ 做对
+> [!success]- [2026-05-26] Ethics / Patient Safety — Effective Team Functioning = Shared understanding of goals（6 元素表 — 核心元素）(Q23112) ✓ 做对
 > ^Q23112
 >
 > ## Stem 模式
@@ -23260,7 +23260,7 @@
 > 状态:: 🟢 ✅ 做对
 > 错因:: —
 
-> [!example]- [2026-05-26] Ethics / Patient Safety — Wrong Patient Error (WPE) sentinel event → RCA → suboptimal teamwork → Interprofessional rounds（Q18751）✓ 做对
+> [!success]- [2026-05-26] Ethics / Patient Safety — Wrong Patient Error (WPE) sentinel event → RCA → suboptimal teamwork → Interprofessional rounds（Q18751）✓ 做对
 > ^Q18751
 >
 > ## Stem 模式
@@ -23376,7 +23376,7 @@
 > 状态:: 🟢 ✅ 做对
 > 错因:: —
 
-> [!example]- [2026-05-26] Ethics / QI — Quality Indicators 4 类（Structural / Process / Outcome / Balancing）+ 缺 Process indicator 诊断（Q22359）✓ 做对
+> [!success]- [2026-05-26] Ethics / QI — Quality Indicators 4 类（Structural / Process / Outcome / Balancing）+ 缺 Process indicator 诊断（Q22359）✓ 做对
 > ^Q22359
 >
 > ## Stem 模式
@@ -23490,7 +23490,7 @@
 > 状态:: 🟢 ✅ 做对
 > 错因:: —
 
-> [!example]- [2026-05-26] Ethics / Patient Safety — Verbal Handoff Best Practices: Focus on sickest patients first（不是 questions at end / 不 discourage note-taking / 不 exhaustive details）(Q21520) ✓ 做对
+> [!success]- [2026-05-26] Ethics / Patient Safety — Verbal Handoff Best Practices: Focus on sickest patients first（不是 questions at end / 不 discourage note-taking / 不 exhaustive details）(Q21520) ✓ 做对
 > ^Q21520
 >
 > ## Stem 模式
@@ -23774,7 +23774,7 @@
 > 状态:: 🟡
 > 错因:: 知识
 
-> [!example]- [2026-05-26] Biostats / Falls — Screening tool Low PPV（high pretest probability + 80% classify as high-risk vs 实际 fall rate 11.5/1000）(Q107151, linked vignette Item 1 of 2 with Q107152) ✓ 做对
+> [!success]- [2026-05-26] Biostats / Falls — Screening tool Low PPV（high pretest probability + 80% classify as high-risk vs 实际 fall rate 11.5/1000）(Q107151, linked vignette Item 1 of 2 with Q107152) ✓ 做对
 > ^Q107151
 >
 > ## Stem 模式
@@ -24062,7 +24062,7 @@
 > 状态:: 🟡
 > 错因:: 干扰项
 
-> [!example]- [2026-05-26] Ethics / Patient Safety — HFE Standardization：metric-only units > policy / visual cues / 2-person verify（tPA 160 lb 误入 160 kg → 过量）(Q105825) ✓ 做对
+> [!success]- [2026-05-26] Ethics / Patient Safety — HFE Standardization：metric-only units > policy / visual cues / 2-person verify（tPA 160 lb 误入 160 kg → 过量）(Q105825) ✓ 做对
 > ^Q105825
 >
 > ## Stem 模式
@@ -24157,7 +24157,7 @@
 > 状态:: 🟢 ✅ 做对（HFE 档次反射建立）
 > 错因:: —
 
-> [!example]- [2026-05-26] 感染 / Ethics — Airborne Precautions for Primary VZV (chickenpox)：颗粒 < 5 微米 → 长时间空中悬浮（不是 hard surface 存活 / 不是大颗粒 / 不是短距离）(Q106949) ✓ 做对
+> [!success]- [2026-05-26] 感染 / Ethics — Airborne Precautions for Primary VZV (chickenpox)：颗粒 < 5 微米 → 长时间空中悬浮（不是 hard surface 存活 / 不是大颗粒 / 不是短距离）(Q106949) ✓ 做对
 > ^Q106949
 >
 > ## Stem 模式
@@ -24241,7 +24241,7 @@
 > 状态:: 🟢 ✅ 做对（Airborne 反射建立）
 > 错因:: —
 
-> [!example]- [2026-05-26] Ethics / Patient Safety — Time-out 三大核心要素：Patient ID + Procedure + Site（不是 indication / 不是 meds / 不是 team names / 不是 complications）(Q107227) ✓ 做对
+> [!success]- [2026-05-26] Ethics / Patient Safety — Time-out 三大核心要素：Patient ID + Procedure + Site（不是 indication / 不是 meds / 不是 team names / 不是 complications）(Q107227) ✓ 做对
 > ^Q107227
 >
 > ## Stem 模式
@@ -24332,7 +24332,7 @@
 > 状态:: 🟢 ✅ 做对（Time-out 3 要素反射建立）
 > 错因:: —
 
-> [!example]- [2026-05-26] 儿科 / Ethics — Suspected Child Abuse → 先 Interview the patient about abuse（不是 family therapy / 不是 CBT / 不是 mother alone / 不是 reassurance）(Q4320) ✓ 做对
+> [!success]- [2026-05-26] 儿科 / Ethics — Suspected Child Abuse → 先 Interview the patient about abuse（不是 family therapy / 不是 CBT / 不是 mother alone / 不是 reassurance）(Q4320) ✓ 做对
 > ^Q4320
 >
 > ## Stem 模式
@@ -24435,7 +24435,7 @@
 > 状态:: 🟢 ✅ 做对（Child abuse 流程反射建立）
 > 错因:: —
 
-> [!example]- [2026-05-26] Ethics / 老年 — Elder Abuse 识别：异常 fracture + 财务 exploitation + medication nonadherence 恶化 + 与家人同住（不是 alcohol abuse / 不是 dementia / 不是 depression）(Q13465) ✓ 做对
+> [!success]- [2026-05-26] Ethics / 老年 — Elder Abuse 识别：异常 fracture + 财务 exploitation + medication nonadherence 恶化 + 与家人同住（不是 alcohol abuse / 不是 dementia / 不是 depression）(Q13465) ✓ 做对
 > ^Q13465
 >
 > ## Stem 模式
@@ -24534,7 +24534,7 @@
 
 ## 2026-05-27
 
-> [!example]- [2026-05-27] Psych / Tourette α2 失败 + Answer Letter Anchoring（浩斯宾 Q3 — 反射选 D 但 D 已变 methylphenidate 毒药；与 5-25 Q10 配对警示）
+> [!success]- [2026-05-27] Psych / Tourette α2 失败 + Answer Letter Anchoring（浩斯宾 Q3 — 反射选 D 但 D 已变 methylphenidate 毒药；与 5-25 Q10 配对警示）
 > ^Q3-2026-05-27
 >
 > ## Stem 模式
@@ -25493,7 +25493,7 @@
 > 状态:: 🟡
 > 错因:: 干扰项
 
-> [!example]- [2026-05-27] 感染+Ethics / CLABSI Prevention — Hand hygiene 是 fundamental 最 efficacious intervention（多 effective 减 risk）(Q19813) ✓ 做对
+> [!success]- [2026-05-27] 感染+Ethics / CLABSI Prevention — Hand hygiene 是 fundamental 最 efficacious intervention（多 effective 减 risk）(Q19813) ✓ 做对
 > ^Q19813
 >
 > ## Stem 模式
@@ -25573,7 +25573,7 @@
 > 状态:: 🟢 ✅ 做对
 > 错因:: —
 
-> [!example]- [2026-05-27] Ethics / Patient Safety — Psychological Safety promotes RRT activation（不是 closed-loop / 不是 independent decision / 不是 cognitive bias / 不是 standardize transitions）(Q106620) ✓ 做对
+> [!success]- [2026-05-27] Ethics / Patient Safety — Psychological Safety promotes RRT activation（不是 closed-loop / 不是 independent decision / 不是 cognitive bias / 不是 standardize transitions）(Q106620) ✓ 做对
 > ^Q106620
 >
 > ## Stem 模式
@@ -25674,7 +25674,7 @@
 > 状态:: 🟢 ✅ 做对
 > 错因:: —
 
-> [!example]- [2026-05-27] 骨科+Ethics / 老年 Fall — Visual Acuity Testing（multifactorial fall risk assessment 包含 sensory disturbances；reliance on visual input ↑ when proprioception ↓）(Q107171) ✓ 做对
+> [!success]- [2026-05-27] 骨科+Ethics / 老年 Fall — Visual Acuity Testing（multifactorial fall risk assessment 包含 sensory disturbances；reliance on visual input ↑ when proprioception ↓）(Q107171) ✓ 做对
 > ^Q107171
 >
 > ## Stem 模式
@@ -25780,7 +25780,7 @@
 > 状态:: 🟢 ✅ 做对
 > 错因:: —
 
-> [!example]- [2026-05-27] Ethics+内分泌 / Medication Counseling — Teach-back 防 sound-alike drug error（Glucovance vs Glucophage；不是 "ask if questions" 被动 / 不是 avoid combinations / 不是 family / 不是 printed summary）(Q19788) ✓ 做对
+> [!success]- [2026-05-27] Ethics+内分泌 / Medication Counseling — Teach-back 防 sound-alike drug error（Glucovance vs Glucophage；不是 "ask if questions" 被动 / 不是 avoid combinations / 不是 family / 不是 printed summary）(Q19788) ✓ 做对
 > ^Q19788
 >
 > ## Stem 模式
@@ -25885,7 +25885,7 @@
 > 状态:: 🟢 ✅ 做对
 > 错因:: —
 
-> [!example]- [2026-05-27] Ethics+感染 / Patient Safety — Human Factors Engineering: brightly colored signs at point of care（visual aids 优于 training / 优于 patient ask / 优于 supply at workstations）(Q106819) ✓ 做对
+> [!success]- [2026-05-27] Ethics+感染 / Patient Safety — Human Factors Engineering: brightly colored signs at point of care（visual aids 优于 training / 优于 patient ask / 优于 supply at workstations）(Q106819) ✓ 做对
 > ^Q106819
 >
 > ## Stem 模式
@@ -26097,7 +26097,7 @@
 > 状态:: 🟡（首次错 — cognitive bias 干扰项陷阱）
 > 错因:: 干扰项
 
-> [!example]- [2026-05-27] Ethics / Team Functioning — Nurse-led Debriefings 解决 interprofessional collaboration 差异（不是 Lean / 不是 checklists / 不是 handoff templates / 不是 surgeon-only training）(Q106665, linked vignette Item 2 of 2 with Q106664) ✓ 做对
+> [!success]- [2026-05-27] Ethics / Team Functioning — Nurse-led Debriefings 解决 interprofessional collaboration 差异（不是 Lean / 不是 checklists / 不是 handoff templates / 不是 surgeon-only training）(Q106665, linked vignette Item 2 of 2 with Q106664) ✓ 做对
 > ^Q106665
 >
 > ## Stem 模式
@@ -26198,7 +26198,7 @@
 > 状态:: 🟢 ✅ 做对（5 大 team 工具边界反射建立 + co-leader 原则反射建立）
 > 错因:: —
 
-> [!example]- [2026-05-27] 骨科+Ethics / 老年 Fall Prevention — Supervised Strength Training（chronic disease + 起立 push with arms = gait/muscle imbalance 信号；不是 vitamin D empiric / 不是 ACE inhibitor 停 / 不是 handout / 不是 alcohol 减）(Q107153) ✓ 做对
+> [!success]- [2026-05-27] 骨科+Ethics / 老年 Fall Prevention — Supervised Strength Training（chronic disease + 起立 push with arms = gait/muscle imbalance 信号；不是 vitamin D empiric / 不是 ACE inhibitor 停 / 不是 handout / 不是 alcohol 减）(Q107153) ✓ 做对
 > ^Q107153
 >
 > ## Stem 模式
@@ -26316,7 +26316,7 @@
 > 状态:: 🟢 ✅ 做对（Get-Up-Go test + supervised strength training 反射建立）
 > 错因:: —
 
-> [!example]- [2026-05-27] Ethics / Quality — Error Reporting Systems (ERS) 有效性 = Structured 调查 + 响应机制 + 反馈（不是 submit RCA / 不是 individual judgment / 不是只识别最严重 hazards / 不是限定 nurse-MD）(Q106640) ✓ 做对
+> [!success]- [2026-05-27] Ethics / Quality — Error Reporting Systems (ERS) 有效性 = Structured 调查 + 响应机制 + 反馈（不是 submit RCA / 不是 individual judgment / 不是只识别最严重 hazards / 不是限定 nurse-MD）(Q106640) ✓ 做对
 > ^Q106640
 >
 > ## Stem 模式
@@ -27196,7 +27196,7 @@
 > 状态:: 🟡
 > 错因:: 知识 + 干扰项
 
-> [!example]- [2026-05-27] Ethics / Communication — Clinical Uncertainty Counseling 3 节 SOP（Introduction + Data review + Plan of care）— 不 minimize（"colonoscopy is routine" 钓饵）/ 不 vague（"not sure what's wrong" 钓饵）/ 不 alarming blunt（"I suspect cancer" 钓饵）/ 不 falsely reassuring（"no matter what" 钓饵）(Q18785) ✓ 做对
+> [!success]- [2026-05-27] Ethics / Communication — Clinical Uncertainty Counseling 3 节 SOP（Introduction + Data review + Plan of care）— 不 minimize（"colonoscopy is routine" 钓饵）/ 不 vague（"not sure what's wrong" 钓饵）/ 不 alarming blunt（"I suspect cancer" 钓饵）/ 不 falsely reassuring（"no matter what" 钓饵）(Q18785) ✓ 做对
 > ^Q18785
 >
 > ## Stem 模式
@@ -27271,7 +27271,7 @@
 > 状态:: 🟢
 > 错因:: 知识 confirm
 
-> [!example]- [2026-05-27] Ethics / Healthcare Systems — P4P + Equity / Health Disparities — 大型国家 P4P 必须按 **patient demographic characteristics**（insurance type / income / shortage area status）调整 incentive 分配，否则 **preferentially reward affluent regions** → 加剧 health disparities → 反而**降低 overall quality**（不是 teamwork / QI / experience / burnout）(Q106618) ✓ 做对
+> [!success]- [2026-05-27] Ethics / Healthcare Systems — P4P + Equity / Health Disparities — 大型国家 P4P 必须按 **patient demographic characteristics**（insurance type / income / shortage area status）调整 incentive 分配，否则 **preferentially reward affluent regions** → 加剧 health disparities → 反而**降低 overall quality**（不是 teamwork / QI / experience / burnout）(Q106618) ✓ 做对
 > ^Q106618
 >
 > ## Stem 模式
@@ -27345,7 +27345,7 @@
 > 状态:: 🟢
 > 错因:: 知识 confirm
 
-> [!example]- [2026-05-27] Ethics / Professional Boundaries — Treating Friends/Family — 关系本身不禁止处方但 **standards of care 必须保持**；患者 decline 必要 evaluation + 要求 controlled substance → physician 不 obligated 提供 inappropriate intervention；处理 = 明确 standards 边界 + 谈判 + transfer of care if 不 abide（不是 refuse based on friendship / 不是 terminate relationship / 不是 accept patient's risk acknowledgment）(Q105782) ✓ 做对
+> [!success]- [2026-05-27] Ethics / Professional Boundaries — Treating Friends/Family — 关系本身不禁止处方但 **standards of care 必须保持**；患者 decline 必要 evaluation + 要求 controlled substance → physician 不 obligated 提供 inappropriate intervention；处理 = 明确 standards 边界 + 谈判 + transfer of care if 不 abide（不是 refuse based on friendship / 不是 terminate relationship / 不是 accept patient's risk acknowledgment）(Q105782) ✓ 做对
 > ^Q105782
 >
 > ## Stem 模式
@@ -27436,7 +27436,7 @@
 > 状态:: 🟢
 > 错因:: 知识 confirm
 
-> [!example]- [2026-05-27] Ethics / End-of-Life — Medical Futility — physician **no ethical obligation** 给 futile treatment（即使 AD 写 "everything possible" 即使 surrogate 要求）/ Futility 二分（Physiologic = 不能改善生理 / Qualitative = marginal benefits substantially outweighed by 痛苦）/ High-risk-some-benefit ≠ futile（informed competent request 时不能 refuse）/ Resource stewardship + prognosis impact **不是** sufficient standard for futility(Q21728) ✓ 做对
+> [!success]- [2026-05-27] Ethics / End-of-Life — Medical Futility — physician **no ethical obligation** 给 futile treatment（即使 AD 写 "everything possible" 即使 surrogate 要求）/ Futility 二分（Physiologic = 不能改善生理 / Qualitative = marginal benefits substantially outweighed by 痛苦）/ High-risk-some-benefit ≠ futile（informed competent request 时不能 refuse）/ Resource stewardship + prognosis impact **不是** sufficient standard for futility(Q21728) ✓ 做对
 > ^Q21728
 >
 > ## Stem 模式
@@ -27530,7 +27530,7 @@
 > 状态:: 🟢
 > 错因:: 知识 confirm
 
-> [!example]- [2026-05-27] Ethics / Healthcare Systems — Managed Care 反向激励 + Physician COI — managed care 用 bonus 与 utilization metrics 挂钩 **本身不 inherently unethical**（cost-conscious care 合理）/ **但 financial incentive → withholding medically necessary referral → impermissible**（violates beneficence）/ 医师必须 place patient welfare above personal financial gain / 与正向 P4P 镜像（P4P = 奖励质量 / Managed care 反向 = 奖励 reduced utilization）(Q126839) ✓ 做对
+> [!success]- [2026-05-27] Ethics / Healthcare Systems — Managed Care 反向激励 + Physician COI — managed care 用 bonus 与 utilization metrics 挂钩 **本身不 inherently unethical**（cost-conscious care 合理）/ **但 financial incentive → withholding medically necessary referral → impermissible**（violates beneficence）/ 医师必须 place patient welfare above personal financial gain / 与正向 P4P 镜像（P4P = 奖励质量 / Managed care 反向 = 奖励 reduced utilization）(Q126839) ✓ 做对
 > ^Q126839
 >
 > ## Stem 模式
@@ -27624,7 +27624,7 @@
 > 状态:: 🟢
 > 错因:: 知识 confirm
 
-> [!example]- [2026-05-27] Ethics / Patient Safety — Preventable ADE 3 层 Risk Factors（Patient / Provider / Medication）+ Plain-language teaching 击中 vague Rx + low health literacy 双因素 root cause（不是 follow-up / 不是 illegible / 不是 CDSS / 不是 drug abuse screening — 都不 address initial misinterpretation）(Q19787) ✓ 做对
+> [!success]- [2026-05-27] Ethics / Patient Safety — Preventable ADE 3 层 Risk Factors（Patient / Provider / Medication）+ Plain-language teaching 击中 vague Rx + low health literacy 双因素 root cause（不是 follow-up / 不是 illegible / 不是 CDSS / 不是 drug abuse screening — 都不 address initial misinterpretation）(Q19787) ✓ 做对
 > ^Q19787
 >
 > ## Stem 模式
@@ -27698,7 +27698,7 @@
 > 状态:: 🟢
 > 错因:: 知识 confirm
 
-> [!example]- [2026-05-27] Ethics / Research — Minors (<18) 入组研究必须 **age-appropriate Assent**（agreement，不是 legal consent）+ parental/guardian informed consent / Assent oral script (7-11) vs written (≥12) / Exception: study directly benefits minor → assent 不 required / Assent ≠ medical treatment of minors（治疗不需要 minor agreement）(Q107485) ✓ 做对
+> [!success]- [2026-05-27] Ethics / Research — Minors (<18) 入组研究必须 **age-appropriate Assent**（agreement，不是 legal consent）+ parental/guardian informed consent / Assent oral script (7-11) vs written (≥12) / Exception: study directly benefits minor → assent 不 required / Assent ≠ medical treatment of minors（治疗不需要 minor agreement）(Q107485) ✓ 做对
 > ^Q107485
 >
 > ## Stem 模式
@@ -27793,7 +27793,7 @@
 > 状态:: 🟢
 > 错因:: 知识 confirm
 
-> [!example]- [2026-05-27] Ethics / Interprofessional Communication — Imaging Discrepancy → **直接联系 radiologist** discuss + amend report（不是另请 second opinion / 不是 bypass radiologist 自己 order CT / 不是 repeat x-ray now/later 跳过 collaborative dialogue）(Q107384) ✓ 做对
+> [!success]- [2026-05-27] Ethics / Interprofessional Communication — Imaging Discrepancy → **直接联系 radiologist** discuss + amend report（不是另请 second opinion / 不是 bypass radiologist 自己 order CT / 不是 repeat x-ray now/later 跳过 collaborative dialogue）(Q107384) ✓ 做对
 > ^Q107384
 >
 > ## Stem 模式
@@ -28236,7 +28236,7 @@
 > 状态:: 🟡
 > 错因:: pattern
 
-> [!example]- [2026-05-28] 肾 / CNI (Tacrolimus) 急性肾毒性 — Diltiazem CYP3A4 抑制 → 血药↑ → arteriolar vasoconstriction（🟡 做对但不确定）(Q16485)
+> [!success]- [2026-05-28] 肾 / CNI (Tacrolimus) 急性肾毒性 — Diltiazem CYP3A4 抑制 → 血药↑ → arteriolar vasoconstriction（🟡 做对但不确定）(Q16485)
 > ^Q16485
 >
 > ## Stem 模式
@@ -28326,7 +28326,7 @@
 > 状态:: 🟡（做对但不确定 — 知道触发不知机制部位）
 > 错因:: 知识
 
-> [!example]- [2026-05-28] 心内 + 肾 / Cyanide Toxicity by Sodium Nitroprusside — >24-48 hr infusion + 肾损 → CN 蓄积（🟡 做对但不确定）(Q11566)
+> [!success]- [2026-05-28] 心内 + 肾 / Cyanide Toxicity by Sodium Nitroprusside — >24-48 hr infusion + 肾损 → CN 蓄积（🟡 做对但不确定）(Q11566)
 > ^Q11566
 >
 > ## Stem 模式
@@ -29946,7 +29946,7 @@
 > 状态:: 🟡 + #考前必看（电解质急症 + 急症先治不诊断元 pattern + 高钙 6 治疗选择高频考）
 > 错因:: pattern
 
-> [!example]- [2026-05-28] 肾 / ADPKD 正向锁定指纹 — 51yo + Bilateral flank pain + 肝大 + flank mass + 早 HTN + 10 yr nocturia + CKD + 贫血 (Q4474) ✅做对但**排除法**未建正向反射
+> [!success]- [2026-05-28] 肾 / ADPKD 正向锁定指纹 — 51yo + Bilateral flank pain + 肝大 + flank mass + 早 HTN + 10 yr nocturia + CKD + 贫血 (Q4474) ✅做对但**排除法**未建正向反射
 > ^Q4474
 >
 > ## Stem 模式
