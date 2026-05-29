@@ -178,6 +178,7 @@ Transplant patient with AF needs rate control
   - [[mistakes/uworld-mistakes#^Q16323]] Transplant RAS（post-tx 1-2 yr + ACEI 后 Cr↑ + resistant HTN）
   - [[mistakes/uworld-mistakes#^Q16485]] CNI 急性毒性（diltiazem CYP3A4 抑制 → 血药↑ → arteriolar vasoconstriction）
 - 📚 主笔记：
+  - [[完整笔记/专题笔记/肾脏/肾脏_移植术后并发症记忆地图]]（★ 抗遗忘入口页 — 时间轴 / Cr↑五选一 / 药物人设 / 全症状反查表）
   - [[完整笔记/Peixuan分科笔记/肾脏]]（AKI 鉴别主章节）
   - [[完整笔记/Peixuan分科笔记/外科]]（移植围手术期 + 免疫抑制）
   - [[完整笔记/专题笔记/心内/心内_继发性高血压鉴别框架]]（§5 Atherosclerotic RAS vs FMD — 待加 §5.5 Transplant RAS 子节）
