@@ -14,6 +14,100 @@ type: 专题笔记
 
 ---
 
+## Part 0. 基础解剖：Vaginal Cuff + 尿渗漏路径 ⭐⭐⭐
+
+### 0.1 Vaginal Cuff（阴道残端 / 阴道穹隆缝合处）是什么
+
+**Vaginal cuff** = Total hysterectomy 后 vagina 顶端的**缝合切缘**（"cuff" = 袖口，形象描述环形缝合线）。子宫 + cervix 切除后 vagina 上端原本敞开，外科医生把它**缝起来** = vaginal cuff。
+
+**术前 vs 术后解剖关键差异**：
+
+```
+术前（子宫完整）：
+        腹腔 (peritoneal cavity)
+              │
+        ┌─ 子宫 (uterus) ────┐
+        │   ↓                │  Broad ligament
+        │  Cervix（关闭=屏障）│  + peritoneal reflection
+        │   ↓                │  把腹腔与外界分隔
+        │  Vagina            │
+        └─ 通向阴道口 ────────┘
+
+  ⭐ Cervix 是天然屏障 — 腹腔与 vagina 不直接相通
+
+
+术后（Total hysterectomy）：
+        腹腔 (peritoneal cavity)
+              │
+        【子宫 + cervix 都被切除】
+              │
+        ━━━━ Vaginal cuff（缝合线）━━━━  ⭐ 唯一屏障
+              │
+        Vagina
+              │
+        通向阴道口
+
+  ⭐ Cuff 是术后腹腔与阴道**唯一**分隔
+  ⭐ 缝线**机械闭合 ≠ 组织完全愈合**（fibrosis 需数周-数月）
+```
+
+### 0.2 尿从腹腔到阴道的渗漏链 ⭐⭐⭐（Uroperitoneum 核心机制）
+
+```
+术中：Hysterectomy 钳夹 uterine artery 时夹到 ureter
+      （"water under the bridge" — ureter 在 uterine artery 下方 ~2 cm 穿过）
+                │
+                ▼
+术后 days-2 周：ureter 部分撕裂处持续漏尿
+                │
+                ▼
+        尿液从 ureter 漏出 → 进入 retroperitoneum
+                │
+                ▼
+        继续渗入 peritoneal cavity（腹腔）
+                │
+                ▼
+        Uroperitoneum 形成 — 腹腔积尿
+        （US/CT：大量无回声 free fluid）
+                │
+                ▼
+        尿液在腹腔内找最薄弱出口
+                │
+                ▼
+        Vaginal cuff 缝合线缝隙 ⭐
+        （缝线闭合但组织未愈合，缝隙 < 1 mm 够液体渗）
+                │
+                ▼
+        尿液经 cuff 缝隙渗入 vagina
+                │
+                ▼
+        从阴道口流出 = "watery vaginal discharge"（清亮水样）
+```
+
+### 0.3 为什么是 watery（清亮水样）？
+
+尿液本身就是 water-based 液体 — 与其他术后阴道排液性质形成鉴别：
+
+| 排液性质 | 提示 |
+|---|---|
+| **Watery 清亮水样** ⭐ | **Urine 起源**（uroperitoneum / fistula）|
+| **Purulent 脓性** | 感染（cuff abscess / endometritis）|
+| **Bloody 血性** | 出血（hemoperitoneum / cuff dehiscence）|
+| **Mucus 粘液** | Fistula（多 cervical 起源但 cervix 已切，提示瘘）|
+
+### 0.4 Uroperitoneum vs Fistula 时间差（高频考点）
+
+| 概念 | 机制 | 时间 | 临床 |
+|---|---|---|---|
+| **Uroperitoneum** | 尿先入腹腔 → 经 cuff 缝隙渗 | **术后 days-2 周** | 弥漫腹胀 + 大量积液 + **间歇** watery 排液 |
+| **Vesicovaginal fistula** | 膀胱 ↔ 阴道**直接通道** | **术后 2-4 周** | **持续** watery 漏尿 + 无尿失禁感（缺血坏死形成瘘需时间）|
+| **Ureterovaginal fistula** | Ureter ↔ 阴道**直接通道** | 术后 2-4 周 | 类似 vesicovaginal + Cr 可↑（取决侧）|
+
+> [!warning] 反 pattern 锁定 ⭐
+> **"Vaginal cuff appears closed" ≠ 排除 uroperitoneum** — 闭合的 cuff 缝线缝隙仍能让液体渗出。USMLE stem 故意写 "cuff appears closed" 来钓"排除 uroperitoneum / 转向 SBO"反射，**这是陷阱不是排除**。
+
+---
+
 ## Part 1. Ureter 3 大易伤位 ⭐⭐⭐（解剖学基础）
 
 ![[{3FE27EEC-055B-4038-9BE5-EBBE035299CA}.png]]
