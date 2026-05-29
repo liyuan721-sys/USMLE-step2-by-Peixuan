@@ -35,6 +35,64 @@ type: 专题笔记
 
 ---
 
+## Part 1.5 关键解剖卡点：为什么 stem 写"单侧 mass"但 ADPKD 是双侧？⭐⭐⭐
+
+> [!warning] USMLE 高频陷阱
+> Stem 描述的是**体检发现**，不是**病理范围**。**双侧多囊肾，但右侧触诊更容易摸到** —— 不是"只有右侧有 mass"。
+
+### 解剖原因：左右肾触诊难度差
+
+```
+                    前面
+                ┌─────────┐
+                │  ━ 胃 ━  │
+                │  ━ 脾 ━  │← 遮挡左肾（前方屏障）
+        ┌───────┤          ├───────┐
+        │ 肝 ↓ │           │      │
+        │ 推下 ↓│          │      │
+        │ 右肾 │   脊柱    │ 左肾 │
+        │（低位）│          │（高位）│
+        └───────┴──────────┴───────┘
+                    后面
+```
+
+| 因素 | 右肾 | 左肾 |
+|---|---|---|
+| **位置** | **低 ~1-2 cm**（被肝推下）| 高 |
+| **前方遮挡** | 肝（实质但稳定）| **胃 + 脾**（含气 + 移动）|
+| **正常触诊** | 下极常可触及（瘦人）| 极难触及 |
+| **ADPKD 触诊** | **大囊肾从肋缘下凸出** ⭐ | 被胃/脾遮 → 体检难摸到 |
+
+### Stem 双侧线索的真正位置 ⭐
+
+回看 Q4474 stem 逻辑链：
+
+```
+"Bilateral flank pain" ← 病理双侧性的 buzzword（题干自报答案）⭐
+                ↓
+体检 "liver enlarged + right flank mass" ← 临床发现（解剖学使然右侧明显）
+                ↓
+US 必然双侧多囊（stem 不必重复说，buzzword 已定）
+```
+
+### 反 pattern 高频陷阱 ⭐⭐⭐
+
+| 看到 | ❌ 错反射 | ✅ 正确解读 |
+|---|---|---|
+| "Right flank mass" 单侧描述 | 反射 RCC | 先扫 stem 有无 "bilateral" buzzword |
+| 单侧 mass + bilateral pain | 矛盾不解？ | **信病理 buzzword 不信体检发现** ⭐ |
+| 真正单侧 mass 锁 RCC | "Right flank mass" 一句话 | RCC stem 必有 unilateral hematuria + paraneoplastic **polycythemia** + weight loss + fever，**绝不写 "bilateral" 任何线索** |
+
+### 类比的临床场景
+- **Cardiomegaly 全心扩大** → stem 常只写 "PMI displaced **laterally**"（非 "bilateral"）
+- **Hepatosplenomegaly** → stem 可能只写 "hepatomegaly" 或 "splenomegaly" 其一
+- **Bilateral lung 病变** → 体检常只描述一侧听到的体征
+
+### 一句话锁定
+**ADPKD 双肾都大，但右肾在体检中更容易"凸出来被摸到"**（左肾位置高 + 被胃脾遮）。Stem 写 "right flank mass" 是体检表象，**"bilateral flank pain" 才是病理范围 buzzword** ⭐⭐⭐
+
+---
+
 ## Part 2. Extrarenal Features 8 项 ⭐
 
 记忆口诀：**"Brain-Liver-Heart-Colon-Hernia"** 5 大系统 + 胰腺 / 精囊 / 肾内并发症

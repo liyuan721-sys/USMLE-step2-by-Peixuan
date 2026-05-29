@@ -29968,6 +29968,45 @@
 > | **⑤ CKD 渐进 + 贫血** | Cr 3.1 + Hb 10.4 + BUN 48 | EPO↓ 贫血 + 51 yo 完美卡 ADPKD 自然病程（30-40 起，55-60 ESRD）|
 > | **⑥ 家族史** | 60% 阳性；本题未明示 | 不写**不排除** — 新发突变 10% / stem 省略 |
 >
+> ### ⚠️ 为什么 stem 写 "right flank mass" 单侧而 ADPKD 是双侧？⭐⭐⭐（关键解剖卡点）
+>
+> **答**：stem 描述的是**体检发现**，不是**病理范围**。**双侧多囊肾，但右侧触诊更容易摸到** —— 解剖原因：
+>
+> ```
+>                     前面
+>                 ┌─────────┐
+>                 │  ━ 胃 ━  │
+>                 │  ━ 脾 ━  │← 遮挡左肾（前方屏障）
+>         ┌───────┤          ├───────┐
+>         │ 肝 ↓  │          │       │
+>         │ 推下 ↓│          │       │
+>         │ 右肾  │   脊柱   │ 左肾  │
+>         │（低位）│          │（高位）│
+>         └───────┴──────────┴───────┘
+>                     后面
+> ```
+>
+> | 因素 | 右肾 | 左肾 |
+> |---|---|---|
+> | **位置** | **低 ~1-2 cm**（被肝推下）| 高 |
+> | **前方遮挡** | 肝（实质但稳定）| **胃 + 脾**（含气 + 移动）|
+> | **正常触诊** | 下极常可触及（瘦人）| 极难触及 |
+> | **ADPKD 触诊** | **大囊肾从肋缘下凸出** ⭐ | 被胃/脾遮 → 体检难摸到 |
+>
+> **Stem 双侧线索其实在别处** ⭐：
+> - "**Bilateral** flank pain" ← **病理双侧 buzzword**（题干自报答案）
+> - "Liver enlarged + right flank mass" ← 体检发现（受解剖限制）
+> - US 必然双侧多囊（stem 不必重复说，buzzword 已定）
+>
+> > [!warning] 反 pattern 高频陷阱 ⭐
+> > - **看到 "right flank mass" 单侧 ≠ 反射 RCC** — 必须先扫 stem 有无 "**bilateral**" buzzword
+> > - **单侧 mass + bilateral pain = ADPKD**（**体检 vs 病理范围矛盾时，信任病理 buzzword 不信体检发现**）⭐
+> > - **真正单侧 mass 锁 RCC 的 stem** = unilateral hematuria + paraneoplastic EPO↑（**polycythemia**）+ weight loss + fever — **没有 "bilateral" 任何线索**
+>
+> **类比临床场景**：
+> - Cardiomegaly 全心扩大 → stem 常只写 "PMI **displaced laterally**"（非 "bilateral"）
+> - Hepatosplenomegaly → stem 可能只写"hepatomegaly"或"splenomegaly"其一
+>
 > ### Extrarenal Features 8 项 ⭐（USMLE 高频）
 >
 > 记忆口诀 **"Brain-Liver-Heart-Colon-Hernia"** 5 大系统：
