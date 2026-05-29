@@ -29570,7 +29570,7 @@
 > ## 核心概念
 > **Uroperitoneum (尿性腹膜炎)** = 妇科盆腔手术中 ureter 撕裂未识 → 尿溢入腹腔 → **弥漫腹胀 + 大量腹腔积液 + watery 阴道排液 + 尿对腹膜化学刺激 → 低热/恶心**。**单侧损伤 → 对侧肾功能 intact → Cr / UA / 排尿全正常**，是 USMLE 经典"无声陷阱"。**术后 2 周内**可表现（不一定术中识破）。
 >
-> > [!info] 解剖图嵌入位
+> > [!info] 解剖图嵌入位![[{3FE27EEC-055B-4038-9BE5-EBBE035299CA}.png]]
 > > （Ureter injury during pelvic surgery 解剖图 — Posterior + Anterior 视图 + 3 大易伤位标红：infundibulopelvic ligament / cardinal ligament / 入 bladder 前 — 用户贴图后此处显示）
 > > **图占位**：等用户贴图至 `mistakes/attachments/`，命名 `ureter_injury_pelvic_anatomy.png` → 此处嵌入 `> ![[ureter_injury_pelvic_anatomy.png]]`
 >
@@ -29664,3 +29664,110 @@
 > 主题:: 妇科术后 Uroperitoneum（单侧 ureter laceration）/ 5 联指纹（术后 days-2 周 / 弥漫腹胀+大量腹腔积液无回声 / watery 阴道排液 / 低热+恶心化学刺激 / Cr-UA-排尿全正常单侧对侧代偿）/ Ureter 3 大易伤位（① Infundibulopelvic ligament 旁 ovarian vessels - 卵巢手术 / ② Cardinal ligament 旁 uterine vessels - hysterectomy "water under the bridge" 最常见 / ③ 入 bladder 前 - anterior colporrhaphy）/ 高危红旗（既往盆腔手术-剖宫产-endometriosis-大子宫-急诊）/ 金标准 CT urography + 治疗外科修复 / 反 pattern: Cr/UA 正常不排 ureter 损伤（单侧对侧代偿是 USMLE 最大陷阱）/ Vaginal cuff closed ≠ 完全愈合 / 术后 GI 症状先扫 passing flatus 排 SBO + watery 阴道排液 = 尿
 > 状态:: 🟡 + #考前必看（妇科术后并发症高频考 + 单侧 Cr 正常陷阱）
 > 错因:: pattern
+
+> [!example]- [2026-05-28] 肾/外科 / 偶发 Simple Renal Cyst — CT 偶见 + 无症状 → Reassurance only 无需 follow-up (Q4181) ⚠️错选 Percutaneous aspiration
+> ^Q4181
+>
+> ## Stem 模式
+> 54yo M + 自限性 GI 症状（腹痛+水样腹泻 2 次，2 hr 自愈）+ 父 60yo AAA 破裂亡 + lifetime 非吸烟者 + 生命体征正常 + **CT 偶发右肾下极简单囊肿**（薄壁 / 无 septa / 无 enhancement / 单腔 / 均质）→ 患者要求出院，对囊肿管理？答 **C. Reassurance only**（Bosniak I 简单囊肿 = 良性偶发，**无需任何 follow-up**）。
+>![[{59569AB0-1C81-4842-B468-E7B1D50EA3A4}.png]]
+> ## 核心概念
+> **Simple Renal Cyst (Bosniak I)** = 最常见肾偶发病变（**> 50 岁 50% 普及**），**几乎全部良性**。CT/US 影像 5 大良性指纹：**薄壁光滑 + 单腔 + 无 septa + 均质内容 + 无 contrast enhancement**。无需 follow-up、无需活检、无需切除、无需 aspiration（除非大而有症状 / 感染）。"Reassurance only" = 正确答案。
+>
+> ## 普适规则
+>
+> ### Simple cyst vs Malignant cystic mass 6 项鉴别 ⭐⭐⭐（UWorld 高频图）
+>
+> | 特征 | **Simple cyst（良性）** | **Malignant cystic mass** |
+> |---|---|---|
+> | **壁** | 薄 / 光滑 / 规则 | **厚 / 不规则** |
+> | **腔数** | 单腔 (unilocular) | **多腔 (multilocular)** |
+> | **Septa** | 无 | **多 / 厚 / 可钙化** |
+> | **内容** | 均质（液体）| **异质**（solid + cystic）|
+> | **Contrast enhancement** | **无** | **有** ⭐ 最关键 |
+> | **临床** | 无症状 | 痛 / 血尿 / HTN |
+> | **Follow-up** | **无需** ⭐ | **需影像 + urology 评估** |
+>
+> ### Bosniak 分类（5 级管理决策）⭐
+>
+> ```
+> Class I:   薄壁 + 无 septa + 无 enhancement + 均质
+>            → 良性 → 无需 follow-up（本题）
+> Class II:  细薄 septa（≤1mm）+ 微小钙化 + 无 enhancement
+>            → 良性 → 无需 follow-up
+> Class IIF: borderline（多 thin septa / 较厚钙化）
+>            → 不确定 → 6-12 月 follow-up 影像（"F" = Follow）
+> Class III: 厚壁 / 不规则 septa / 厚 enhancement
+>            → 可疑恶性 ~50% → 手术（partial nephrectomy）
+> Class IV:  明显 enhancement + solid 成分
+>            → 恶性高度可能 → partial / radical nephrectomy
+> ```
+>
+> ### 偶发 (incidentaloma) 影像处理 4 原则 ⭐
+> 1. **良性影像特征 + 无症状 → reassurance + 无 follow-up**（最常见，避免过度医疗）
+> 2. **borderline 特征 → 短期 follow-up 影像**（看是否变化）
+> 3. **可疑恶性 → urology / oncology + 进一步 imaging / biopsy / 手术**
+> 4. **症状性大囊肿 / 感染 → aspiration / marsupialization / 抗生素**
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 内容 | 为什么错 |
+> |---|---|---|
+> | A | Antibiotics | ❌ 无 UTI / 无感染征（无 fever、UA 正常、无 dysuria）|
+> | **B（我选的）** | Percutaneous aspiration | ❌ 仅**大而有症状 / 感染脓肿 / 难鉴别诊断**时；本题无症状 + 良性影像不需 |
+> | **C** ⭐ | Reassurance only | ✅ Bosniak I + 无症状 = 不做任何事 + 不需 follow-up |
+> | D | Surgical excision / nephrectomy | ❌ 仅恶性 / Bosniak III-IV |
+> | E | Ureteral stent placement | ❌ 仅尿路梗阻（**hydronephrosis / hydroureter**），本题无 |
+>
+> ### 反 pattern 警示
+> - **"看到肾囊肿 → 反射 aspiration / 切除"是错的** — 简单囊肿无需任何介入（**良性影像 + 无症状 = reassurance**）⭐
+> - **简单囊肿是良性偶发 = "不做任何事"**（USMLE 反过度医疗陷阱的高频考点）
+> - **过度介入有风险**：aspiration → 感染 / 出血 / 复发；surgery → 不必要风险
+> - **5 大恶性特征任一存在 → 必转 urology**：厚壁 / 多 septa / 钙化厚 / **enhancement** ⭐ / solid 成分
+> - **AAA 家族史 + 非吸烟** 是干扰背景信息（不影响囊肿管理）
+> - **Ureteral stent** 仅梗阻时用（hydronephrosis / hydroureter / stone obstruction），本题无
+>
+> ## Memory Hook
+> - **"简单肾囊肿 = 良性偶发 + Reassurance only + 无需 follow-up"** ⭐
+> - **Simple cyst 5 联**：薄壁 / 单腔 / 无 septa / 均质 / **无 enhancement** ⭐
+> - **Bosniak 5 级**：I-II 无需 → IIF 短期随访 → III-IV 手术 ⭐
+> - **Enhancement 是恶性最关键单标志** ⭐⭐⭐
+> - 反 pattern：偶发 + 良性影像 + 无症状 = **不做任何事**（避免过度医疗）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 错点：选 Percutaneous aspiration 反映"看到囊肿 → 必处理"反射，没用"Simple cyst 5 联良性特征 → reassurance"决策框架
+> - 学到：Simple renal cyst 是 > 50 岁人群极常见偶发病变（50% 普及率），几乎全部良性
+> - 学到：Bosniak 分类是肾囊肿管理决策树（I-II 无需 → IIF 随访 → III-IV 手术）
+> - 学到：**Enhancement 是 Bosniak 升级最关键单标志**（Class IIF→III 主要看 enhancement）
+> - 元学习：USMLE 偶发病变题的元 pattern = "良性影像 + 无症状 = reassurance"（反过度医疗）— 与 incidental adrenal mass / incidental thyroid nodule 同框
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 首题（Simple renal cyst / 偶发肾病变主题）
+>   - [[mistakes/uworld-mistakes#^Q15682]] Struvite stone（同日入库，同 CT 影像肾病变 — 但需介入 vs Simple cyst 不需介入对比）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（**待加 Bosniak 章节** — 目前空白）
+>   - [[完整笔记/Peixuan分科笔记/外科]]（偶发病变管理 + 影像决策）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/endocrine]]（incidentaloma 元 pattern — adrenal / thyroid 类似框架）
+>   - [[完整笔记/Peixuan分科笔记/心内]]（AAA family history 干扰背景 — > 50 yo 一次性筛查男 65-75 吸烟史 USPSTF B 级）
+>   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（renal cell carcinoma — 与 Bosniak III/IV 鉴别）
+> - 🌱 TODO（早建精简 v1）：
+>   - 建 [[完整笔记/专题笔记/肾脏/肾脏_肾囊肿Bosniak分类]]（Simple vs Malignant 6 项鉴别 + Bosniak 5 级管理 + 偶发病变 4 原则 + 干扰项 5 选 + RCC 鉴别）— 体系完整，可建 v1
+>   - [[完整笔记/专题笔记/USMLE/USMLE_鉴别诊断速查]] 加 § 偶发病变 (Incidentaloma) 元 pattern（肾 / 肾上腺 / 甲状腺 / 肺 nodule 4 大）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q4181（验证 reassurance 反射）
+> - [ ] 默写 Simple vs Malignant 6 项鉴别（壁 / 腔 / septa / 内容 / **enhancement** / 临床）
+> - [ ] 默写 Bosniak 5 级管理（I-II 无 / IIF 随访 / III-IV 手术）
+> - [ ] 默写 偶发病变 4 原则
+> - [ ] 反射训练：见 "CT 偶发简单囊肿 + 薄壁单腔无 septa 无 enhancement + 无症状" → 0.5 秒锁 Reassurance only
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: Simple renal cyst (Bosniak I) 管理（reassurance only 无需 follow-up）/ Simple vs Malignant 6 项鉴别（薄壁单腔无 septa 均质无 enhancement vs 厚不规则多腔多 septa 异质有 enhancement，**enhancement 是最关键单标志**）/ Bosniak 5 级管理决策（I-II 无需 → IIF "F"=Follow 6-12 月影像 → III 手术 ~50% 恶 → IV 明显 enhancement+solid 恶高 partial-radical nephrectomy）/ 偶发病变 4 原则（良性+无症状 reassurance / borderline 短期随访 / 可疑恶性 urology+影像/活检 / 症状性大囊肿或感染 aspiration-切开-抗生素）/ 反 pattern: 看到囊肿反射 aspiration/切除是错的，简单囊肿无需任何介入 / 过度介入有风险（aspiration 感染出血复发，surgery 不必要） / Ureteral stent 仅梗阻（hydronephrosis/hydroureter） / 偶发病变元 pattern 跨 4 大（肾/肾上腺/甲状腺/肺 nodule）
+> 状态:: 🟡
+> 错因:: 知识
