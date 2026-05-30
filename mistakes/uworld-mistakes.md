@@ -31816,3 +31816,160 @@
 > 主题:: 老男+吸烟+无痛 gross hematuria → Cystoscopy (bladder cancer 工作流) — 年龄>40+吸烟+无痛肉眼全程血尿→bladder cancer 直到证否(最常见尿路恶性 烟草/工业化学致 urothelium 恶变 新生脆弱血管出血)；gross hematuria 工作流 UA 确认(>3 RBC/hpf)+排 UTI(脓尿菌尿)/GN(RBC casts-dysmorphic)→无病因+>40 紧急评估尿路恶性→cystoscopy(看膀胱壁+活检切除)+CT urography(看肾+转移)；尿 cytology 敏感性<35% 阴性不排除 / 膀胱癌速查(表现刺激性排尿+无痛血尿 / 诊断 flexible cystoscopy+活检金标准 / 分期 TURBT+上尿路影像 / 治疗 无肌层浸润 TURBT+膀胱内 BCG 免疫 / 肌层浸润根治性膀胱切除+全身化疗 / 转移全身化疗免疫) / 5 选 1 鉴别(A 腹部 US 漏小肿块不评浸润 / B cystoscopy ✅ / C PSA 前列腺癌外周带血尿少见 / D reassurance >40 无痛血尿必紧急评估 / E 尿培养无痛无白细胞感染不太可能) / 同主题 Q4751 第 2 次本卡补 total hematuria+工作流首选
 > 状态:: 🟢
 > 错因:: ✅ 做对（知识入库）
+
+> [!success]- [2026-05-30] 肾 / 门诊慢性无症状高钾(K6.0)+CKD+无 ECG 改变 → 先 Review 用药 (Q2167) ✅做对
+> ^Q2167
+>
+> ## Stem 模式
+> 66yo M 常规随访，仅轻度乏力。HTN + T2DM + **CKD** + ischemic cardiomyopathy；查体大致正常（2/6 全收缩期杂音 unchanged、双下肢 trace edema）。labs：Na 135、**K 6.0**、HCO3 24（正常）、BUN 38、**Cr 2.4（2 月前 2.3，稳定）**、Ca 8.2、**Glu 196（轻度）**。**ECG NSR 无异常**。高钾最佳下一步？答 **E. Review current medications**。
+>
+> ## 核心概念
+> 门诊**慢性、无症状、轻度高钾**（K 6.0、**无 ECG 改变**、Cr 稳定）。门诊高钾最常见 = 肾排钾↓（肾功能不全）+ 损害 RAAS 轴的药物。本例 HTN + ischemic cardiomyopathy → **极可能在用 ACEi/ARB**（GDMT）。**紧急治疗（IV calcium / insulin）仅用于 ECG 改变 / K≥6.5 / 快速升** —— 本题三者皆无（**A. calcium ❌**）。下一步 = 排急性继发因素 + **审查现用药找升 K 元凶**（非选 BB / K-sparing 利尿剂 / ACEi-ARB / NSAID / TMP）。
+>
+> Answer：**E. Review current medications**
+>
+> ## 普适规则
+>
+> ### 门诊慢性高钾 workup 顺序 ⭐⭐（与 Q19 元凶定位互补）
+>
+> ```
+> 慢性/门诊无症状高钾 (K<6.5, 无 ECG 改变)
+> ├─ ① 排紧急 (ECG 改变 / K≥6.5 / 快速升) → 无 → 不给 IV calcium
+> ├─ ② Review 现用药 (元凶: 非选 BB / K-sparing / ACEi-ARB / NSAID / TMP) ← 首选
+> ├─ ③ 排急性继发 (未控高血糖 shift / TLS / 酸中毒)
+> ├─ ④ 尿电解质 (尿 K / TTKG → 肾性 vs 肾外) — 若无元凶药才查
+> └─ ⑤ 持续不明 → renin + aldosterone (查 hypoaldosteronism) — 最后
+> ```
+>
+> - **"高钾"≠"立刻 IV calcium"**：先看 ECG + 慢急性；无 ECG 改变 + 慢性 → 撤药 / shift，不是 calcium
+> - **T2DM + 持续不明高钾** → 想 **type 4 RTA / hyporeninemic hypoaldosteronism**（renin/aldo 在 workup 最后查）
+> - 完整升 K 药物 9 类表见 [[mistakes/uworld-mistakes#^Q19-2026-05-18]]（不重复）
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 为什么错 |
+> |---|---|
+> | A. IV calcium gluconate | ❌ 仅 ECG 改变 / K≥6.5 / 快速升才用；本题 K 6.0 + ECG 正常 |
+> | B. 测 renin + aldosterone | ❌ 仅持续不明高钾时查 hypoaldosteronism；**应先 review 用药**（workup 第 ⑤ 步，不是首选）|
+> | C. 测血酮 | ❌ 胰岛素缺乏高血糖可 shift K，但需 Glu>300 + AGMA；本题 HCO3 24 正常 + Glu 196 轻 → 不太可能 |
+> | D. 尿常规 + 尿电解质 | ❌ 尿电解质可分肾性 vs 肾外，但**仅在无元凶药时才查**（workup 第 ④ 步，排在 review 药之后）|
+>
+> ## 我为什么做对
+> - 选了：**E** ✅
+> - 抓对线索：K 6.0 + ECG 正常 + Cr 稳定 + 心脏病史（极可能在用 ACEi/ARB）→ 先 review 用药；不给 calcium（无 ECG 改变）；renin/aldo 是后线
+> - 知识入库：门诊慢性高钾 workup 顺序（review 药 → 排急性继发 → 尿电解质 → renin/aldo）
+>
+> ## Memory Hook
+> - **"门诊慢性高钾 + 无 ECG 改变 → 先 Review 用药，不是 IV calcium"** ⭐⭐
+> - **workup 顺序**：review 药 → 排急性继发(高血糖/TLS) → 尿电解质 → renin/aldo（最后）
+> - **T2DM 持续不明高钾 → hyporeninemic hypoaldosteronism (type 4 RTA)**
+> - 急症治疗阶梯见 [[mistakes/uworld-mistakes#^Q4422]]（有 ECG 改变时怎么做）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 抓对：无 ECG 改变 + 慢性 + 心脏病史 → review 用药优先
+> - 学到：门诊高钾 workup 顺序，renin/aldo 是排查 hypoaldosteronism 的最后一步
+> - 学到：尿电解质排在 review 用药之后（无元凶药才查）
+>
+> ## 🔗 关联
+> - 🔁 同主题：
+>   - [[mistakes/uworld-mistakes#^Q19-2026-05-18]] 高钾三联炸弹 + 元凶定位 SOP + 9 类升 K 药物表（本卡补"门诊无 ECG 改变 workup 顺序"角度）
+>   - [[mistakes/uworld-mistakes#^Q4422]] 高钾急症 3S 治疗阶梯（互补 — 有 ECG 改变时）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（电解质 / 高钾 / type 4 RTA hypoaldosteronism）
+> - 🌱 TODO：
+>   - 候选衍生：[[完整笔记/专题笔记/肾脏/肾脏_高钾血症完整体系]]（合并 Q19+Q2167+Q4422 → 元凶定位 + workup 顺序 + 3S 治疗阶梯，待用户确认）
+>
+> ## ✅ 复盘行动
+> - [ ] 默写门诊慢性高钾 workup 顺序（review 药 → 排急性继发 → 尿电解质 → renin/aldo）
+> - [ ] 反射训练：见"K 6.0 + ECG 正常 + CKD/心脏病史" → 锁 review 用药（不给 calcium）
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: 门诊慢性无症状高钾(K6.0)+无 ECG 改变 → 先 Review 用药 — 门诊高钾最常见=肾排钾↓(肾功能不全)+损 RAAS 轴药物；CKD+HTN+ischemic cardiomyopathy 极可能在用 ACEi/ARB(GDMT)→升 K；紧急治疗(IV calcium/insulin)仅用于 ECG 改变/K≥6.5/快速升，本题 K6.0+ECG 正常+Cr 稳定 三者皆无→不给 calcium；下一步=排急性继发+审查现用药找升 K 元凶(非选 BB/K-sparing/ACEi-ARB/NSAID/TMP) / 门诊慢性高钾 workup 顺序(①排紧急 ②review 用药首选 ③排急性继发 高血糖-TLS-酸 ④尿电解质 肾性 vs 肾外 ⑤持续不明查 renin+aldo hypoaldosteronism 最后) / T2DM 持续不明高钾→type 4 RTA hyporeninemic hypoaldosteronism / 5 选 1 鉴别(A calcium 仅 ECG 改变才用 / B renin-aldo 应先 review 药是后线 / C 血酮需 Glu>300+AGMA 本题 HCO3 正常不太可能 / D 尿电解质仅无元凶药才查排第④ / E review 用药 ✅) / 同主题 Q19 元凶定位 + Q4422 急症治疗阶梯互补
+> 状态:: 🟢
+> 错因:: ✅ 做对（知识入库）
+
+> [!success]- [2026-05-30] 肾 / 高钾急症(TLS,K6.8,peaked T)已给 calcium → 下一步 Insulin+glucose (Q4422) ✅做对
+> ^Q4422
+>
+> ## Stem 模式
+> 58yo M **Burkitt lymphoma** 入院化疗，HTN + **stable angina** + HLD。化疗后 **2 天** nausea + 全身乏力。labs：Na 140、**K 6.8**、HCO3 19、BUN 24、Cr 1.6、Ca 8、Glu 110。**ECG peaked T waves**；**已给 calcium gluconate**。最佳初始治疗？答 **D. Insulin and glucose**。
+>
+> ## 核心概念
+> **高钾急症**（Burkitt 化疗 2 天 → **tumor lysis syndrome (TLS)**：高 K + 低 Ca + HCO3↓）。**ECG peaked T + K 6.8 → emergency**（致命性心律失常风险）。治疗顺序 = **① IV calcium**（稳膜，**不降 K**，数分钟，**已给**）→ **② insulin + glucose**（移 K 入细胞，快）→ **③ definitive 移出体外**（stool patiromer / kidney furosemide / blood dialysis，均慢，数小时）。已给 calcium → 下一步即 **insulin + glucose**。
+>
+> Answer：**D. Insulin and glucose**
+>
+> ## 普适规则
+>
+> ### 高钾急症 3S 治疗阶梯 ⭐⭐
+>
+> ```
+> 高钾急症 (ECG 改变 / K≥6.5 / 快速升, 如 TLS)
+> ├─ ① Stabilize 膜: IV calcium gluconate (拮抗膜抑制, 不降 K, 数分钟起效) ← 本题已给
+> ├─ ② Shift 入细胞 (快, 分钟):
+> │     ├─ Insulin + glucose ← 首选 (insulin ↑Na-K ATPase; glucose 防低糖)
+> │     ├─ β2 agonist 雾化 (3 线; CAD/active angina 慎用 — 本题 stable angina → 避)
+> │     └─ NaHCO3 (单用效差, 非一二线)
+> └─ ③ Sink 移出体外 (慢, >30 min-小时):
+>       furosemide(肾) / patiromer(肠) / dialysis(血; ESRD recalcitrant, 准备>1h)
+> ```
+>
+> - **calcium 不降 K，只稳膜**；真正降 K 靠 ② shift + ③ 移出
+> - **insulin 必配 glucose**（防低糖）；**dextrose alone 无效**（无 insulin 不 shift）
+> - **β2 agonist = 3 线 shift**，active CAD/angina 慎用（tachycardia 诱发 angina）
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 为什么错 |
+> |---|---|
+> | A. Hemodialysis | ❌ 准备 >1h（置管 + 机器），用于 ESRD recalcitrant；急症须先 calcium + insulin |
+> | B. High-dose dextrose alone | ❌ 无 insulin 不足以 shift K 入细胞 |
+> | C. Inhaled β2 agonist | ❌ 3 线 shift；active CAD / stable angina 慎用（诱发 tachycardia-angina）|
+> | E. IV furosemide | ❌ 利尿排 K >30 min 才起效；peaked T 须先稳膜 |
+> | F. IV NaHCO3 | ❌ 单用降 K 效差，非常规一/二线 |
+>
+> ## 我为什么做对
+> - 选了：**D** ✅
+> - 抓对线索：已给 calcium（稳膜）→ 下一步 shift = insulin + glucose（首选）；β2 在 angina 慎用；furosemide/dialysis 太慢；dextrose alone 缺 insulin
+> - 知识入库：3S 治疗阶梯执行顺序 + 各 shift/sink 手段速度与禁忌
+>
+> ## Memory Hook
+> - **"高钾急症 3S：Stabilize(calcium) → Shift(insulin+glucose 首选) → Sink(furosemide/dialysis)"** ⭐⭐
+> - **"calcium 不降 K，只稳膜"**；已给 calcium → 下一步 insulin+glucose
+> - **"dextrose alone 无效，必须配 insulin"**
+> - **"β2 agonist = 3 线，CAD/angina 慎用"**
+> - **TLS**（Burkitt + 化疗 2 天 + 高 K + 低 Ca + HCO3↓）= 经典高钾急症诱因
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 抓对：已给 calcium → 序贯 insulin+glucose（shift 首选）
+> - 学到：dialysis/furosemide 太慢（移出体外），急症须先稳膜 + shift
+> - 学到：β2 agonist 3 线 + CAD/angina 慎用；dextrose alone 缺 insulin 无效
+>
+> ## 🔗 关联
+> - 🔁 同主题：
+>   - [[mistakes/uworld-mistakes#^Q19-2026-05-18]] 高钾元凶定位 + 3S 框架来源（本卡补"急症治疗阶梯执行顺序 + 各手段速度/禁忌"）
+>   - [[mistakes/uworld-mistakes#^Q2167]] 门诊无 ECG 改变 → review 用药（互补 — 非急症怎么做）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（高钾 3S 治疗框架）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（TLS：高 K + 高 P + 高尿酸 + 低 Ca / rasburicase 预防）
+> - 🌱 TODO：
+>   - 候选衍生：[[完整笔记/专题笔记/肾脏/肾脏_高钾血症完整体系]]（合并 Q19+Q2167+Q4422，待用户确认）
+>
+> ## ✅ 复盘行动
+> - [ ] 默写高钾急症 3S 阶梯（calcium → insulin+glucose → furosemide/dialysis）+ 各起效时间
+> - [ ] 默写 shift 手段排序：insulin+glucose（首选）> β2（3 线，CAD 慎）> NaHCO3（单用差）
+> - [ ] 反射训练：见"高钾急症 + 已给 calcium" → 锁 insulin+glucose
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: 高钾急症(TLS,K6.8,peaked T)已给 calcium → 下一步 Insulin+glucose — Burkitt 化疗 2 天→TLS(高 K+低 Ca+HCO3↓)；ECG peaked T+K6.8=emergency；3S 治疗阶梯(①Stabilize IV calcium gluconate 稳膜不降 K 数分钟已给 ②Shift 入细胞快 insulin+glucose 首选 insulin↑Na-K ATPase+glucose 防低糖 / β2 agonist 3 线 CAD-angina 慎 / NaHCO3 单用差 ③Sink 移出体外慢>30min furosemide 肾-patiromer 肠-dialysis 血 ESRD recalcitrant 准备>1h)；calcium 不降 K 只稳膜，真正降 K 靠 shift+移出；dextrose alone 无 insulin 无效 / 5 选 1 鉴别(A hemodialysis 准备>1h ESRD recalcitrant 用 / B dextrose alone 无 insulin 不 shift / C inhaled β2 3 线 angina 慎 / D insulin+glucose ✅ / E furosemide >30min 太慢 / F NaHCO3 单用差) / TLS=Burkitt+化疗 2 天+高 K+低 Ca+HCO3↓经典诱因 / 同主题 Q19 元凶定位 + Q2167 门诊非急症互补
+> 状态:: 🟢
+> 错因:: ✅ 做对（知识入库）
