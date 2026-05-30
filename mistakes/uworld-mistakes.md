@@ -21527,7 +21527,7 @@
 >
 > 学科:: Ethics
 > 主题:: Swiss Cheese Model（多层 overlapping barrier vs hard stop / automation / PDSA）
-> 状态:: 🔴 反复错 + #难记（5-25 首错 hard stops / 5-27 浩斯宾 Q7 又错 PDSA → 升级 / **5-28 浩斯宾 Q21 ✓ 反射首次建立** — 识破 "all at once + 5 不同性质 barriers" = SCM；维持 🔴 连对 1 次，再 1 次降 🟡 + 取消 #难记）⭐⭐⭐
+> 状态:: 🟡（5-25 首错 hard stops / 5-27 浩斯宾 Q7 又错 PDSA → 升 🔴 / **5-28 浩斯宾 Q21 ✓ 反射首次建立** — 识破 "all at once + 5 不同性质 barriers" = SCM / **5-30 浩斯宾 Q1 ✓ 连对 2 次 → 降 🟡 + 取消 #难记**；再连对 1 次降 🟢）⭐⭐⭐
 > 错因:: 知识
 > 反复错记录:: 2026-05-25 首次入库 🟡（选 B hard stops — 误"多层防御 = hard stop 复数"） / **2026-05-27 浩斯宾 Q7 又错**（选 D PDSA — 误"5 个措施 = 5 个 cycles"）= 反复错触发 🔴；4 大系统设计模型 stem 暗号词反射钩完全未建立（SCM simultaneously / Hard stop physical / Automation EHR / PDSA cycles）
 
@@ -24815,7 +24815,7 @@
 >
 > 学科:: Ethics
 > 主题:: RCA primary purpose = identify underlying causes of past events（不是 future vulnerabilities = FMEA 语言）/ 4 大 Error Analysis Tools 钉死（RCA past / FMEA future / CCA aggregate multiple / M&M case discussion）/ Stem retrospective 三大信号（errors HAVE occurred / investigations reveal / RCA recommended）/ 选项陷阱字眼 → 工具识别表（future + potentially + vulnerabilities = FMEA）/ RCA 3 大原则（fundamental factors / focus on systems no blame / action plan）
-> 状态:: 🔴 反复错 + #考前必看 + #难记（5-24 Q19553 + 5-25 Q22581 + 5-27 Q8 第 3 次同型错 — 字眼陷阱反射完全未建立）⚠️⚠️
+> 状态:: 🟡 + #考前必看（5-24 Q19553 + 5-25 Q22581 + 5-27 Q8 第 3 次同型错 → 升 🔴 / **5-28 浩斯宾 Q20 ✓ 反射建立** — 识破 A "future vulnerabilities" = FMEA 语言 / **5-30 浩斯宾 Q2 反向 FMEA ✓ + Q23 RCA ✓ 连对 → 降 🟡 + 取消 #难记**；再连对 1 次降 🟢，保留 #考前必看）⚠️
 > 错因:: pattern
 
 > [!example]- [2026-05-27] Ethics / 老年 — Home Health Care vs SNF / admit 反复错（浩斯宾 Q9 — 升级 Q20431 🔴 反复错 + 加 #考前必看）⚠️
@@ -24933,7 +24933,7 @@
 >
 > 学科:: Ethics
 > 主题:: Home Health Care 适应症（medically stable + homebound + skilled needs 三联）/ Disposition 决策树（stable → supervision → homebound + skilled）/ SNF 触发（severe CI + 不能 ADL + 持续 monitoring；mild CI + minor injury ≠ SNF）/ Medically stable + admit = net harm / Home health care 服务范围（nursing / PT / OT / SW / wound / med management）+ benefits（autonomy 保 + 减 readmission + 省 cost）/ "保 independence"原则
-> 状态:: 🔴 反复错 + #考前必看（5-25 Q20431 选 admit / 5-27 Q9 选 SNF — 两次都不选 home health → 升级）⚠️
+> 状态:: 🟡 + #考前必看（5-25 Q20431 选 admit / 5-27 Q9 选 SNF — 两次都不选 home health → 升 🔴 / **5-28 浩斯宾 Q22 ✓ 反射首次建立** / **5-30 浩斯宾 Q3 ✓ 连对 2 次 → 降 🟡**；再连对 1 次降 🟢，保留 #考前必看）⚠️
 > 错因:: 知识
 
 > [!example]- [2026-05-27] Psych+Ethics / OUD 家属教育 — Buprenorphine "trading one drug" misconception → 直接答 long-term outcomes（不是 ease withdrawal / 不是 partial agonist 术语 / 不是 "only way"）(Q105919)
@@ -25159,7 +25159,7 @@
 >
 > 学科:: 骨科
 > 主题:: 老年 Fall 3 层防御（primary 防发生 / secondary 减 injury / tertiary recovery）/ Secondary fall injury prevention = bone density 优化（FRAX 10-yr risk >2.5% → DEXA → bisphosphonate）/ Hip fracture 是 fall 后 leading serious injury / Fall 反 pattern 4 联（call alarm 无法激活 / hip protector 依从性差 / 停抗凝违反 AF stroke 风险铁律 / cane for fear 反增 fall）/ AF + fall = 不停抗凝（stroke ≫ SDH）/ "Primary 已做 → 切 secondary 思维模型" / Bisphosphonate 治疗 threshold（10-yr fracture risk >2.5% 或 T ≤ -2.5）
-> 状态:: 🔴 反复错 + #考前必看（5-26 Q107152 bed alarm 错 + 5-27 Q107154 call alarm 错 — call alarm 反 pattern 2 次未固化 → 升 🔴）⚠️
+> 状态:: 🔴 反复错 + #考前必看（5-26 Q107152 bed alarm 错 + 5-27 Q107154 call alarm 错 — call alarm 反 pattern 2 次未固化 → 升 🔴 / **5-30 浩斯宾 Q5 + Q20 ✓ 反射首次建立 连对 1 次** — 识破 call alarm 非 evidence-based，选 strength training + DEXA + bisphosphonate；维持 🔴，再 1 次降 🟡）⚠️
 > 错因:: 干扰项
 
 > [!example]- [2026-05-27] Ethics / Patient Safety — 诊断错误 root cause = Cognitive Overload（busy urgent care + multitasking → availability bias 40% + confirmation bias 40% = 80% errors）(Q106048)
@@ -29052,7 +29052,7 @@
 >
 > 学科:: Psych
 > 主题:: DLB ψ vs PD ψ 钓饵（ψ 早于 levodopa + cognitive fluctuation = DLB）/ DLB 一线 rivastigmine + 抗精神病药相对禁忌（30-50% severe sensitivity reaction NMS-like）/ "1-year rule" parkinsonism ≤1 yr before cog decline = DLB vs >1 yr = PDD / DLB 4 大支持特征 / Pimavanserin = 安全 fallback（无 D2 拮抗）/ 反射钩误覆盖元 pattern — 建立反射钩后必配反 pattern 警示词
-> 状态:: 🔴 + #考前必看 + #难记（PD ψ Step 5 反射误覆盖 + DLB 知识缺口双因）⚠️⚠️
+> 状态:: 🔴 + #考前必看 + #难记（PD ψ Step 5 反射误覆盖 + DLB 知识缺口双因 / 5-28 浩斯宾 Q19 钓饵再踩 / **5-30 浩斯宾 Q21 ✓ 反射首次建立 连对 1 次** — ψ 早于 levodopa + cognitive fluctuation = DLB → rivastigmine；维持 🔴，再 1 次降 🟡）⚠️⚠️
 > 错因:: pattern
 
 > [!success]- [2026-05-28] 肾 / Struvite Stone — 长大不规则 staghorn + 反复 UTI + urease+ 细菌 → 尿氨↑ + pH>8 + coffin lid 晶 (Q15682) ✅做对 1:01
