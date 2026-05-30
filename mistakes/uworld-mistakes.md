@@ -30968,6 +30968,9 @@
 > ## 核心概念
 > 男性骨盆骨折 → 高危 **Posterior urethral injury (PUI, 后尿道损伤)**，最常发生在 **bulbomembranous junction**（球膜部交界，前后尿道移行点）。膀胱-前列腺被骨盆暴力上移撕扯尿道。三联指纹 = **尿道口出血 + 无法排尿 + high-riding prostate**（+ 会阴瘀斑）。怀疑尿道损伤 → **造影必须先于任何导尿**。
 >
+> ![[{FD850957-693E-4EF1-BC58-0739B17C1B78}.png]]
+> *男性尿道解剖：以 **UG 隔膜（membranous urethra 层）** 为界——隔膜上=后尿道（prostatic + membranous，被骨盆环包裹 → 绑 pelvic fracture）；隔膜下=前尿道（bulbous + penile → 绑骑跨伤/阴茎骨折）。本题损伤点 bulbomembranous junction 正是图中前后移行处。（同图见 [[完整笔记/专题笔记/外科/外科_GU创伤处理体系#3.4 尿道损伤 (Urethral injury) ⭐（Q3349 主战场）]]）*
+>
 > Answer：**D. Retrograde urethrography**
 >
 > ## 普适规则

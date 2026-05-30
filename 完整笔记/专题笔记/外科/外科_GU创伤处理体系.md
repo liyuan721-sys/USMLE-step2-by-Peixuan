@@ -127,6 +127,12 @@ type: 专题笔记
 
 - **共同诊断**：尿道口血 / high-riding prostate / 无法排尿 → **retrograde urethrography 必须先于任何导尿**；造影剂外渗 = 确诊
 
+![[{FD850957-693E-4EF1-BC58-0739B17C1B78}.png]]
+> *男性尿道分段解剖（前/后尿道分界）：以 **urogenital diaphragm（UG 隔膜 = membranous urethra 所在层）** 为界。*
+> - **后尿道 (posterior)** = prostatic urethra + membranous urethra（隔膜**上/内侧**，被骨盆环包裹）→ 故与 **pelvic fracture** 绑定。
+> - **前尿道 (anterior)** = bulbous + penile urethra（隔膜**下/外侧**，bulbomembranous junction 以远）→ 故与 **骑跨伤 / 阴茎骨折**绑定。
+> - 记忆锚：图中 membranous urethra 是"危险窄颈"，控尿括约肌 + cavernous nerves 都贴在这一段——解释了为何后尿道急性探查易致 ED + 尿失禁。
+
 | | 解剖 | 机制 | 处理 |
 |---|---|---|---|
 | **后尿道 (PUI)** | membranous + prostatic（UG 隔膜上）| **pelvic fracture** | **耻骨上造瘘 (suprapubic catheter) + 延期修复** |
