@@ -6,7 +6,7 @@ created: 2026-05-23
 type: 专题笔记
 ---
 
-# 精神障碍选对治疗 SOP（v1.1 — 2026-05-28 加 Atypical MDD 6 阶梯 first-line SSRI 反 pattern）
+# 精神障碍选对治疗 SOP（v1.2 — 2026-05-30 加 §3.7 急性激越即刻处理正向 SOP）
 
 > [!info] 这是什么
 > 把"诊断对了 → 治疗错了"这一类错题统一收口的 SOP。核心抓手：**先定准诊断 + 亚型 → 再按亚型对号入座**，不要凭"大方向感觉"选治疗。
@@ -281,6 +281,67 @@ ECT / TMS / Esketamine
 
 错题：[[mistakes/uworld-mistakes#^Q15071|Q15071 BPD → DBT，选了 valproate 错]]（mood stabilizer 反射误用 + 漏选 DBT 一线）
 
+### 3.7 急性激越（Acute Agitation）即刻处理 SOP ⭐⭐⭐（v1.2 新增 2026-05-30）
+
+> [!danger] 反复错维度："急性即刻 (acute/immediate) ≠ 长期维持 (maintenance)"
+> 这是 [[mistakes/uworld-mistakes#^Q2355|Q2355]] / [[mistakes/uworld-mistakes#^Q15856|Q15856]] 🔴 反复错的核心。stem 给 **acute psychotic agitation**（ED / immediate control），干扰项全是**维持药**（lithium / valproate / lamotrigine / SSRI）。维持药起效要**天到周**，急性行为急症**用不上** — 只能选**分钟级起效**的 IM 药。
+>
+> §3.4 讲的是反向（精神病性抑郁的"急" ≠ IM）；本节是**正向**（真·行为激越 = IM 是答案）。两节互为镜像。
+
+#### 一线 = IM Antipsychotic ± IM Benzodiazepine ⭐
+
+| 方案 | 组成 | 适用 |
+|---|---|---|
+| **Olanzapine IM ± lorazepam** ⭐ | 非典型 AP + BZD | 一般急性精神病性激越（首选之一）|
+| **Haloperidol + lorazepam (± diphenhydramine)** | 典型 AP + BZD（± 抗胆碱防 EPS）| 经典三件套（"B52" 变体）|
+| **Ziprasidone / Aripiprazole IM** | 非典型 AP | 替代选择 |
+| **Lorazepam IM 单药** | BZD | 物质 / 戒断 / 病因不明时更安全（避免 AP）|
+
+> [!warning] Olanzapine IM + 肠外 BZD 的雷点
+> Olanzapine IM 与肠外 benzodiazepine **同时给**有 **呼吸抑制 + 低血压**报道 → 教科书建议**错开给 / 监测**。但 CK 层面"olanzapine + lorazepam"作为急性激越方案仍是正解。
+
+#### 反 Pattern：维持药在 "acute/immediate" 题里全是干扰 ⭐⭐⭐
+
+| 干扰药 | 真实适应症 | 起效 | 为什么不能急用 |
+|---|---|---|---|
+| **Lithium** | 双相维持 / 抗躁狂 | **5-7 天** | 急性激越来不及；需监测血药浓度 |
+| **Valproate** | 双相维持 / 抗躁狂 | **数天** | 同上 |
+| **Lamotrigine** | 双相抑郁维持 | **数周**（需滴定防 SJS）| 起效最慢 |
+| **SSRI / Fluoxetine** | 抑郁 / 焦虑维持 | **4-6 周** | 与激越无关 |
+| **口服 antipsychotic** | 维持 / 配合 | 较慢 + 需配合度 | 激越拒口服时无法给 |
+
+#### 反射钩 ⭐
+
+```
+Stem 出现 → 0.3 秒锁 IM 路径：
+─────────────────────────────────────────
+"ED / acute / immediate control"
+"agitation / aggression / 砸门 / 扔东西 / 攻击性"
+"refusing oral medication / 拒绝口服"
+      ↓
+一线 = IM antipsychotic (olanzapine / haloperidol) ± lorazepam
+      ↓
+所有"心境稳定剂 / 抗抑郁"选项 = 维持药 = 干扰，闭眼划掉
+```
+
+#### 三个相邻"急"陷阱一次分清（交叉校验 §3.4）⭐
+
+| "急"的类型 | stem 画面 | 一线 | IM antipsychotic 角色 |
+|---|---|---|---|
+| **急性激越 / 攻击性**（本节）| 砸门 / 攻击 / 拒口服 | **IM AP ± lorazepam** | ✅ 真适应症 |
+| **精神病性抑郁的"急"**（§3.4）| 拒食 / 迟滞 / 退缩 / 急自杀 | **ECT** | ❌ 治不了抑郁本体 |
+| **Catatonia**（§3.4）| 蜡样屈曲 / 缄默 / 拒动 | **Lorazepam IV → ECT** | ❌❌ 禁用（加重 + 诱发 NMS）|
+
+> [!success] Memory Hook
+> **"Acute 激越 = 分钟级 IM（olanzapine/haloperidol + lorazepam）；所有'稳定剂/抗抑郁'都是慢药 = 干扰。"** ⭐
+> **"急性激越打人 → IM 压；精神病性抑郁烂在床上 → ECT 救；Catatonia → 先 lorazepam 别碰 AP。"** ⭐⭐⭐
+
+#### 错题锚
+
+- [[mistakes/uworld-mistakes#^Q15856]] 急性躁动 → lorazepam ± haloperidol IM 三件套（🔴 反复错）
+- [[mistakes/uworld-mistakes#^Q2355]] 急性躁狂激越拒口服 → IM olanzapine/haloperidol（🔴 反复错）
+- 2026-05-29 浩斯宾 Q17 ✓ 首次做对（反射建立中 — 用户标了不确定）
+
 ---
 
 ## 四、5 大反陷阱口诀（Memory Hook）
@@ -354,3 +415,4 @@ ECT / TMS / Esketamine
 |---|---|---|
 | **v1** | 2026-05-23 | 初版精简：5 大陷阱 + SOP 三步法 + 5 张对号入座表（ADHD/焦虑/进食/MDD/心理治疗）+ 5 句口诀 + 反向钩；触发 = 2026-05-23 psych 治疗 4 连击 + Q15088 反复错 |
 | **v1.1** | 2026-05-23 | §3.4 加「急 ≠ IM antipsychotic」拆分表（5 种"急"对应的真正一线 + IM 角色）+ Catatonia 雷区（禁用 antipsychotic）+ §五反向钩加 2 条（砸门攻击性 / Catatonia）+ 🔁 加 Q2355/Q15856（IM antipsychotic 真适应症对照）。触发 = 用户提问"急的话是不是还可以 IM 抗精神病药" |
+| **v1.2** | 2026-05-30 | §3.7 新增「急性激越即刻处理正向 SOP」— IM antipsychotic ± lorazepam 一线 + 维持药全家干扰表 + 反射钩 + 三个"急"陷阱分清表（交叉校验 §3.4）。触发 = 5-29 浩斯宾 Q17 ✓（Q15856/Q2355 🔴 反复错正向收口；用户标不确定 → 反射建立中）|
