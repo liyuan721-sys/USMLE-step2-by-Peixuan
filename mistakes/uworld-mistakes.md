@@ -31300,6 +31300,10 @@
 > ## 核心概念
 > **Primary VUR（原发性膀胱输尿管反流）** = 先天**短 intravesical ureter（膀胱壁内段）**，膀胱收缩时压不住 → 尿液逆流入上尿路。典型表现 **febrile UTI**。诊断：renal US（hydronephrosis）+ VCUG（确诊 + 分级）。**钙盏变钝 = 结构损伤 = severe (grade III-IV)** → 需**预防性抗生素 ± 手术**（防复发肾盂肾炎 → renal scarring → CKD）。
 >
+> **Primary VUR 机制图**（正常：膀胱收缩压迫足够长的 intravesical ureter 壁内段 → 维持 UVJ 闭合；VUR：先天**短壁内段** → 压力超过压迫力 → 尿液逆流 → 细菌上行 → febrile UTI）：
+>
+> ![[{E904FD64-85F4-4AD4-802F-DF07E5E4658F}.png]]
+>
 > Answer：**E. Prophylactic antibiotic therapy**
 >
 > ## 普适规则
@@ -31400,6 +31404,10 @@
 > │     └─ 扩容后无改善 → HRS → 内脏血管收缩剂 + 求肝移植
 > └─ 尿钠极低（<10 mEq/L）支持 HRS
 > ```
+>
+> **UW 肝硬化 AKI 评估流程图**（排梗阻 → 收 UA → bland UA → 疑 HRS：测尿钠 + 试验扩容 → 改善=血容量不足 / 无改善=HRS 缩血管+肝移植）：
+>
+> ![[{9A6335C7-4A19-44E9-82AE-954E574E60D2}.png]]
 >
 > - **尿钠 <10**（HRS）vs **<20**（经典 prerenal）vs **>40**（ATN）
 > - **扩容无改善** = 确认 HRS（病因是内脏血管扩张，非真容量缺）

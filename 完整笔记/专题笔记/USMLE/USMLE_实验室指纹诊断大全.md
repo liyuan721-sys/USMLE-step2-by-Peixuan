@@ -459,7 +459,7 @@ source_错题: Q17169 触发
 | **加分指纹** | UA：LE⁺ + nitrite⁺ + WBC↑ + RBC↑ / 影像 = radiopaque + 充满肾盂肾盏的鹿角形 / 临床多 **反复发热-脓尿 > 典型肾绞痛**（大石不进 ureter）|
 | **诊断金标准** | 影像（CT / US）+ UA pH > 8 + 尿培养 urease+ 菌 |
 | **治疗第一步** | **完整取石（PCNL 经皮肾镜碎石）** + 长程抗生素 + 选择性 urease inhibitor (**acetohydroxamic acid**) 防复发；⚠️ **抗生素单用不够** — 菌藏 **stone matrix** 内 |
-| **详见** | [[mistakes/uworld-mistakes#^Q15682]] / [[完整笔记/Peixuan分科笔记/肾脏]] |
+| **详见** | [[完整笔记/专题笔记/肾脏/肾脏_肾结石5型对照]]（5 型完整对照 + 钙石防复发 + 急性处理）/ [[mistakes/uworld-mistakes#^Q15682]] / [[mistakes/uworld-mistakes#^Q3895]] 钙草酸防复发 / [[完整笔记/Peixuan分科笔记/肾脏]] |
 
 > [!tip] 5 大肾结石尿 pH 方向反差速记 ⭐
 > | 结石 | 尿 pH | 治疗方向（pH 干预） |
