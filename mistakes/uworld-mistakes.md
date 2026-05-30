@@ -31274,3 +31274,252 @@
 > 主题:: 钙草酸结石防复发首选降钠(非降钙) — 草酸钙是最常见结石；预防=↓成石物(Ca-oxalate)+↑抑制因子(citrate)；↓钠→近端小管 Na-水重吸收↑耦联 Ca 重吸收↑→↓尿钙→↓成石(本题预制食品+苏打=高钠) / 钙结石防复发措施(↑饮水>2L尿/↓钠<2300mg ↓尿钙/↑枸橼酸果蔬绑尿钙/↑钾↑尿枸橼酸/↓动物蛋白↓尿钙/正常膳食钙1200mg 肠道绑 oxalate↓吸收/↓oxalate 菠菜土豆/thiazide ↑肾 Ca 重吸收/potassium citrate ↑尿枸橼酸) / 经典反直觉陷阱: 低膳食钙→肠道结合 oxalate↓→oxalate 吸收↑→尿 oxalate↑→结石更多，应维持正常膳食钙非补剂 / 5 选 1 鉴别(A 降钙 ❌反直觉促石 / B 降钾 ❌反了↑钾保护 / C 降钠 ✅ / D 高动物蛋白 ❌↑尿钙↓枸橼酸 / E 高 oxalate ❌↑尿草酸但不建议完全禁)
 > 状态:: 🟡
 > 错因:: 知识
+
+> [!example]- [2026-05-30] 儿科 / Primary VUR — 钙盏变钝=severe(III-IV)→预防性抗生素 (Q106084) 🟡 做对但不确定
+> ^Q106084
+>
+> ## Stem 模式
+> 9 月龄女婴，**第一次 febrile UTI** 抗生素疗程后随访（现无热无症状）；renal US 见**单侧 hydronephrosis**；VCUG 见**单侧尿液反流入输尿管 + 集合系统伴扩张 + 肾盏变钝 (blunting of calyces)** → 最佳下一步？答 **E. Prophylactic antibiotic therapy**。
+>
+> ## 核心概念
+> **Primary VUR（原发性膀胱输尿管反流）** = 先天**短 intravesical ureter（膀胱壁内段）**，膀胱收缩时压不住 → 尿液逆流入上尿路。典型表现 **febrile UTI**。诊断：renal US（hydronephrosis）+ VCUG（确诊 + 分级）。**钙盏变钝 = 结构损伤 = severe (grade III-IV)** → 需**预防性抗生素 ± 手术**（防复发肾盂肾炎 → renal scarring → CKD）。
+>
+> Answer：**E. Prophylactic antibiotic therapy**
+>
+> ## 普适规则
+>
+> ### Primary VUR 分级与管理 ⭐⭐
+>
+> ```
+> Primary VUR（儿童）
+> ├─ 病机：先天短 intravesical ureter → 膀胱收缩压不住 → 尿反流
+> ├─ 表现：febrile UTI（hydronephrosis on US 常见）
+> ├─ 诊断：renal US（hydronephrosis）+ VCUG（分级 + 确诊）
+> ├─ Mild (grade I-II)：观察 ± 预防性抗生素；5 岁前多自愈（输尿管段随生长变长）
+> └─ Severe (grade III-IV，肾盏变钝/结构损伤)：预防性抗生素 ± 手术
+>      └─ 不治 → 反复 pyelonephritis → renal scarring → CKD
+> ```
+>
+> - **UTI 上行风险 ∝ VUR 严重度** → severe 复发 pyelo 风险高
+> - 预防性抗生素**不阻止反流本身**，但**保持尿无菌** → 限制复发感染风险
+> - 加做：筛查/治疗合并的**膀胱-肠功能障碍**（如便秘 → stool softener/laxative）
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 为什么错 |
+> |---|---|
+> | A. Alpha blocker | ❌ ↓输尿管平滑肌张力 + ↓管内压 → 膀胱-输尿管压力梯度↑ → **可能加重**反流 |
+> | B. Diuretic | ❌ 既不阻反流也不灭菌 → 不降 CKD/感染风险 |
+> | C. Observation, no management | ❌ 适合 **mild** VUR；本题 severe（肾盏变钝）需预防性抗生素 |
+> | D. Observation + serial urine cultures | ❌ 无症状患者**不推荐**连续尿培养（污染致假阳性 → 滥用抗生素/耐药）|
+>
+> ## 我为什么做对但不确定
+> - 选了：**E** ✅
+> - 卡点：不确定 grade III-IV 该上预防性抗生素还是观察；VUR 分级↔管理对应关系不熟
+> - 需扎实：① 肾盏变钝 = severe (III-IV)；② mild vs severe 管理分叉；③ 预防性抗生素机制（不防反流但保尿无菌）
+>
+> ## Memory Hook
+> - **"肾盏变钝 (blunting of calyces) = severe VUR (III-IV) → 预防性抗生素 ± 手术"** ⭐⭐
+> - **Mild VUR (I-II) → 观察，5 岁前多自愈**
+> - **预防性抗生素 = 保尿无菌（不防反流）→ 防复发 pyelo → 防 renal scarring**
+> - 反直觉：alpha blocker 反而**可能加重** VUR（降管压 → 梯度↑）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：severe VUR 管理选项分不清
+> - 学到：肾盏变钝 = 结构损伤 = grade III-IV severe
+> - 学到：预防性抗生素是保尿无菌、非阻反流
+> - 学到：无症状儿童不做连续尿培养（污染→耐药）
+> - 学到：VUR 要同时筛膀胱-肠功能障碍（便秘）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 首题（Primary VUR 主题）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/儿科]]（VUR / febrile UTI / posterior urethral valves）
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（hydronephrosis / reflux nephropathy / CKD）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/感染]]（儿童 febrile UTI 病原 + 治疗）
+> - 🌱 TODO：
+>   - 累积儿科泌尿题（VUR / posterior urethral valves / 遗尿）→ 建 [[完整笔记/专题笔记/儿科/儿科_VUR分级与管理]]（病机 + 分级 + mild/severe 管理 + 诊断影像）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q106084 — 必须正向锁"肾盏变钝 → severe → 预防性抗生素"
+> - [ ] 默写 VUR 分级↔管理（mild I-II 观察 / severe III-IV 抗生素±手术）
+> - [ ] 默写预防性抗生素机制（保尿无菌≠阻反流）
+> - [ ] 反射训练：见"febrile UTI + 肾盏变钝" → 0.5 秒锁预防性抗生素
+>
+> ---
+>
+> 学科:: 儿科
+> 主题:: Primary VUR 分级与管理 — 病机先天短 intravesical ureter 膀胱收缩压不住→尿反流；表现 febrile UTI(US hydronephrosis 常见)；诊断 renal US+VCUG 分级；Mild grade I-II 观察±预防性抗生素 5 岁前多自愈(输尿管段随生长变长)；Severe grade III-IV 肾盏变钝=结构损伤→预防性抗生素±手术，不治→反复 pyelo→renal scarring→CKD；UTI 上行风险∝VUR 严重度；预防性抗生素保尿无菌非阻反流；加筛膀胱-肠功能障碍(便秘 stool softener) / 5 选 1 鉴别(A alpha blocker ↓管压→梯度↑可能加重反流 / B diuretic 不阻反流不灭菌 / C 纯观察适合 mild / D 连续尿培养无症状不推荐污染致耐药 / E 预防性抗生素 ✅)
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-30] 肾 / 肝硬化 AKI 诊断下一步 = 测尿钠（疑 HRS）(Q2219) 🟡 做对但不确定
+> ^Q2219
+>
+> ## Stem 模式
+> 62yo M **酒精性肝硬化** + 1 周腹水加重 + 2 天**尿量骤减**，服 furosemide+spironolactone。BP 91/55、HR 116、shifting dullness、2+ 下肢水肿。Na 130、BUN 63、**Cr 2.4（3 周前 1.1）**。尿 dipstick **蛋白/血阴性（bland UA）**，**renal US 正常**。腹水 leukocyte 160/mm³ × 30% 中性 = **PMN 48 < 250（非 SBP）**。**诊断 AKI 病因的**最佳下一步？答 **E. Urine sodium measurement**。
+>
+> ## 核心概念
+> 肝硬化 + AKI + **bland UA**（排内在肾病）+ **renal US 正常**（排梗阻）→ 疑 **Hepatorenal syndrome (HRS)**。HRS = splanchnic vasodilation → EABV↓ → RAAS 极度激活 → **极致 Na 潴留（尿 Na <10，比经典 prerenal <20 更低）** + renal vasoconstriction → 进展性 oliguric AKI。诊断线索 = **极低尿钠 + 扩容无改善**。诊断下一步 = **测尿钠（+ 扩容试验）**。
+>
+> Answer：**E. Urine sodium measurement**
+>
+> ## 普适规则
+>
+> ### 肝硬化 / advanced liver disease 的 AKI 评估算法 ⭐⭐
+>
+> ```
+> 肝硬化 + AKI
+> ├─ ① 有尿路梗阻？ → 有 → 处理梗阻
+> │                  → 无（renal US 正常）↓
+> ├─ ② 收集 UA
+> │     ├─ UA 异常 / 病史提示特异病因（ATN / AIN）→ 对应处理
+> │     └─ Bland UA ↓
+> ├─ ③ 疑 HRS：测尿钠 + 试验性扩容（IV albumin）
+> │     ├─ 扩容后改善 → 血管内容量不足（继续扩容）
+> │     └─ 扩容后无改善 → HRS → 内脏血管收缩剂 + 求肝移植
+> └─ 尿钠极低（<10 mEq/L）支持 HRS
+> ```
+>
+> - **尿钠 <10**（HRS）vs **<20**（经典 prerenal）vs **>40**（ATN）
+> - **扩容无改善** = 确认 HRS（病因是内脏血管扩张，非真容量缺）
+> - **SBP 阈值 = 腹水 PMN ≥250/mm³**；本题 PMN 48 → **不是 SBP**（SBP 是 HRS 最常诱因，但本题腹水未达 SBP）
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 为什么错 |
+> |---|---|
+> | A. CT abdomen | ❌ 查 postrenal（如肿瘤压双输尿管），但 renal US 正常已排除梗阻 |
+> | B. Kidney biopsy | ❌ HRS 是临床诊断，肾组织相对正常；极少需活检 |
+> | C. Serum complement | ❌ 低补体见于 GN（伴 proteinuria+hematuria，本题缺如）|
+> | D. Urine protein electrophoresis | ❌ 查 multiple myeloma（bland UA AKI = cast nephropathy），但肝硬化+腹水下 HRS 更可能；贫血非特异 |
+>
+> ## 我为什么做对但不确定
+> - 选了：**E** ✅
+> - 卡点：不确定"诊断下一步"是测尿钠还是直接扩容；HRS 诊断流程顺序不熟
+> - 需扎实：① HRS 诊断算法（排梗阻→UA→bland→测尿钠+扩容试验）；② 尿钠 cutoff（HRS<10 / prerenal<20 / ATN>40）；③ 腹水 PMN ≥250=SBP 阈值
+>
+> ## Memory Hook
+> - **"肝硬化 AKI + bland UA + 肾 US 正常 → 疑 HRS → 测尿钠（<10）+ 扩容试验"** ⭐⭐
+> - **HRS 尿钠 <10**（比经典 prerenal <20 更低 = remarkable Na avidity）
+> - **腹水 PMN ≥250 = SBP**；本题 48 不达标 ≠ SBP
+> - **扩容无改善 = 确认 HRS**（内脏血管扩张，非真容量缺）
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：诊断下一步选项纠结（测尿钠 vs 扩容 vs 影像）
+> - 学到：HRS 诊断算法 = 排梗阻 → UA → bland → 测尿钠 + 扩容试验
+> - 学到：HRS 尿钠 <10（比 prerenal <20 更低）
+> - 学到：腹水 PMN = 总白细胞 × 中性比例；本题 48 < 250 → 非 SBP
+> - 学到：扩容无应答是 HRS 的确认点
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q4752]] HRS 机制 / 排除诊断（同主题第 2 次 — 本卡补"诊断下一步=测尿钠"角度）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（AKI 评估 / 尿钠 / FENa）
+>   - [[完整笔记/Peixuan分科笔记/消化腺]]（肝硬化 / 腹水 / SBP / HRS line 1258-1268）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/感染]]（SBP PMN≥250 + cefotaxime+albumin）
+> - 🌱 TODO：
+>   - 衍生已覆盖（无需新增）：[[完整笔记/专题笔记/GI/GI_HRS肝肾综合征]]（尿钠<10 + SBP 250 阈值 + 诊断算法）/ [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] §2.5.2 / [[完整笔记/专题笔记/肾脏/肾脏_AKI病因全谱]] §3.9
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q2219 — 必须锁"肝硬化 bland AKI + 肾 US 正常 → 测尿钠"
+> - [ ] 默写 HRS 诊断算法（排梗阻→UA→测尿钠+扩容）
+> - [ ] 默写尿钠 cutoff（HRS<10 / prerenal<20 / ATN>40）
+> - [ ] 默写腹水 PMN≥250=SBP；会算 总白细胞×中性比例
+> - [ ] 反射训练：见"肝硬化 AKI + bland UA + US 正常" → 0.5 秒锁测尿钠
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: 肝硬化 AKI 诊断下一步=测尿钠(疑 HRS) — 肝硬化+AKI+bland UA(排内在肾病)+renal US 正常(排梗阻)→疑 HRS；HRS=splanchnic vasodilation→EABV↓→RAAS 极度激活→极致 Na 潴留(尿 Na<10 比经典 prerenal<20 更低)+renal vasoconstriction→进展 oliguric AKI；诊断线索=极低尿钠+扩容无改善 / 肝硬化 AKI 评估算法(①排尿路梗阻 US ②收 UA bland→③疑 HRS 测尿钠+试验扩容 albumin，改善=容量不足/无改善=HRS→内脏血管收缩剂+肝移植) / 尿钠 cutoff(HRS<10 / prerenal<20 / ATN>40) / SBP 阈值=腹水 PMN≥250(本题 160×30%=48 非 SBP，SBP 是 HRS 最常诱因) / 5 选 1 鉴别(A CT 查 postrenal 但 US 已排梗阻 / B 肾活检 HRS 临床诊断肾组织正常极少需 / C 低补体 GN 伴 proteinuria-hematuria 本题缺 / D 尿蛋白电泳查 MM cast nephropathy 但 HRS 更可能 / E 测尿钠 ✅) / 同主题 Q4752 第 2 次本卡补诊断下一步角度
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-30] 肾 / 虚弱老人体重减轻+advanced CKD → watchful waiting+营养补充 (Q14465) 🟡 做对但不确定
+> ^Q14465
+>
+> ## Stem 模式
+> 88yo F 进行性食欲↓ + 3 月内**减重 4.5 kg**；HTN + 缓慢下降的肾功能，**6 月内用药未变**。BMI 18、消瘦虚弱。Hgb 10.3/MCV 90（**mild normocytic anemia**）、**Cr 3.2 / eGFR 11（advanced CKD）**、Ca 8、TSH/LFT 正常、**FOBT 阴性**、affect/cognition 正常。体重减轻管理最佳下一步？答 **A. Nutritional supplementation**。
+>
+> ## 核心概念
+> 老年**非意向性体重减轻**（>5% / 6-12 月）。**Advanced end-organ disease（如 CKD）通过 anorexia + cachexia 致体重减轻**。本例初筛除 advanced CKD（eGFR 11 + 正细胞贫血）外无异常、**无恶性线索**（无 GI 症状/便血、Ca 正常、FOBT 阴性）、affect/cognition 正常（非 MDD）→ 体重减轻可由 CKD 解释。**虚弱 + 预期寿命有限 → watchful waiting**（避免不改善 QoL/寿命的低产出检查）+ **营养补充**（BMI<18.5 高热量补剂逆转 cachexia / protein-energy wasting）。
+>
+> Answer：**A. Nutritional supplementation**
+>
+> ## 普适规则
+>
+> ### 老年非意向性体重减轻评估 + 何时停查 ⭐⭐
+>
+> ```
+> 老年非意向性体重减轻（>5% / 6-12 月）
+> ├─ 病因谱：恶性肿瘤 / 抑郁 / 慢性终末器官病(CKD-COPD-CHF) / 神经(吞咽) / 社会(贫困-孤立) / 味嗅↓-牙差
+> ├─ 初筛：H&P + 基础 labs(CBC/代谢/TSH/LFT) + FOBT
+> ├─ 有恶性/特异线索(便血/高钙/不明贫血/局灶症状) → 针对性检查
+> └─ 无恶性线索 + 已有解释(如 advanced CKD) + 虚弱 + 预期寿命有限
+>      → Watchful waiting(避免低产出检查) + 营养补充(BMI<18.5)
+> ```
+>
+> - **检查门槛 = 是否改善 QoL / 预期寿命**；低产出检查反↑焦虑/不适/花费
+> - **营养补充指征**：malnutrition（BMI<18.5）→ 高热量补剂逆转 cachexia
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 为什么错 |
+> |---|---|
+> | B. SSRI (sertraline) | ❌ MDD 可致体重减轻，但本题 **affect/cognition 正常** → MDD 不太可能 |
+> | C. 上下消化道内镜 | ❌ 查恶性，但**无 GI 症状/便血**；体重减轻+正细胞贫血已被 advanced CKD 解释 |
+> | D. UGI series + 小肠随访 | ❌ 同上，无 GI 线索不指征 |
+> | E. Whole-body CT | ❌ 无定位症状者更可能查出 **incidental findings** 而非 occult malignancy → 不指征 |
+>
+> ## 我为什么做对但不确定
+> - 选了：**A** ✅
+> - 卡点：不确定该不该进一步查肿瘤（内镜/CT）vs 直接营养支持；对"虚弱老人+寿命有限→watchful waiting"原则不踏实
+> - 需扎实：① 老年体重减轻病因谱（含 advanced 终末器官病 cachexia）；② "无恶性线索+虚弱+寿命有限→停低产出检查" goals-of-care 原则；③ 营养补充指征（BMI<18.5）
+>
+> ## Memory Hook
+> - **"虚弱老人 + 体重减轻 + 已有解释 (advanced CKD) + 无恶性线索 → watchful waiting + 营养补充"** ⭐⭐
+> - **检查门槛 = 能否改善 QoL / 预期寿命**（不能 → 不查）
+> - **normocytic anemia + eGFR 11 = advanced CKD** 解释体重减轻（anorexia + cachexia）
+> - **全身 CT 在无定位症状者多查出 incidentaloma，非 occult cancer**
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 卡点：要不要追加内镜/CT 查肿瘤
+> - 学到：advanced 终末器官病（CKD/COPD/CHF）经 anorexia+cachexia 致体重减轻
+> - 学到：虚弱+寿命有限 → 以"是否改善 QoL/寿命"为检查门槛
+> - 学到：BMI<18.5 营养补充逆转 cachexia
+> - 学到：无定位症状全身 CT 多查出 incidentaloma
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - 首题（老年非意向性体重减轻 / goals-of-care 停查主题）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（advanced CKD / cachexia / protein-energy wasting）
+>   - [[完整笔记/Peixuan分科笔记/GI]]（体重减轻 / 恶性筛查）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/ethics]]（goals of care / 避免低产出检查 / 预期寿命权衡）
+>   - [[完整笔记/Peixuan分科笔记/psych]]（MDD 致体重减轻的鉴别）
+> - 🌱 TODO：
+>   - 累积老年医学/低产出检查题 → 建 [[完整笔记/专题笔记/USMLE/USMLE_老年体重减轻与停查原则]]（病因谱 + watchful waiting goals-of-care 决策）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q14465 — 不被"体重减轻→查肿瘤"带偏，锁 watchful waiting+营养
+> - [ ] 默写老年体重减轻病因谱（含 advanced 终末器官病）
+> - [ ] 默写"停查门槛 = QoL/寿命"原则
+> - [ ] 反射训练：见"虚弱老人 + 体重减轻 + 已有解释 + 无恶性线索" → 0.5 秒锁 watchful waiting+营养
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: 老年非意向性体重减轻+advanced CKD→watchful waiting+营养补充 — 非意向性体重减轻(>5%/6-12 月)；advanced end-organ disease(CKD/COPD/CHF)经 anorexia+cachexia 致减重；本例除 advanced CKD(eGFR 11+正细胞贫血)外初筛无异常+无恶性线索(无 GI 症状-便血-高钙，FOBT 阴)+affect/cognition 正常(非 MDD)→CKD 解释减重；虚弱+寿命有限→watchful waiting(避免不改善 QoL/寿命的低产出检查)+营养补充(BMI<18.5 高热量补剂逆转 cachexia/PEW) / 评估算法(病因谱→初筛 H&P+CBC/代谢/TSH/LFT+FOBT→有恶性线索针对性查→无线索+已有解释+虚弱寿命有限 watchful waiting+营养) / 检查门槛=能否改善 QoL/预期寿命 / 5 选 1 鉴别(A 营养补充 ✅ / B SSRI affect-cognition 正常非 MDD / C 内镜无 GI 线索 / D UGI series 同 / E 全身 CT 无定位症状多查 incidentaloma 非 occult cancer)
+> 状态:: 🟡
+> 错因:: 知识
