@@ -25,25 +25,49 @@ type: 专题笔记
 > | **膀胱 Bladder** | **腹膜内 vs 腹膜外** | 腹膜外 → Foley 引流 | 腹膜内 → 手术 |
 > | **尿道 Urethra** | **前 vs 后** | 后尿道 → 造瘘 + 延期 | 前(阴茎骨折) → <24h 急修 |
 > | **生殖器 Genital** | （破裂即急症）| — | 睾丸破裂 / 阴茎骨折 → 手术 |
+>
+> *（顺序 = 解剖从上到下：肾 → 输尿管 → 膀胱 → 尿道 → 生殖器；全笔记统一此序）*
 
 ---
 
 ## Part 2. 影像三分法 ⭐⭐（GU 创伤"下一步检查"通用框架）
 
 ```
-钝性 GU 创伤 → 先定位损伤层面 → 选影像
-├─ 尿道损伤线索：尿道口血 / high-riding prostate / 会阴瘀斑 / 骨盆骨折
-│    → Retrograde urethrography（逆行尿道造影）★必须先于任何导尿★
-├─ 膀胱损伤线索：耻骨上痛 / 骨盆骨折 + 肉眼血尿（尿道已排除后）
-│    → CT cystography / Retrograde cystography（被动灌注造影剂后成像）
+钝性 GU 创伤 → 先定位损伤层面 → 选影像（解剖从上到下：肾→输尿管→膀胱→尿道）
 ├─ 肾损伤线索：flank/背痛 + CVA 压痛 + 血尿，或高危机制
 │    → CT abdomen/pelvis with IV contrast（带 delayed/excretory 期看漏尿）
-└─ 输尿管损伤线索：盆腔/妇科术后 flank 痛 / urinoma / Cr↑
-     → CT urography（delayed 期）/ Retrograde pyelography
+├─ 输尿管损伤线索：盆腔/妇科术后 flank 痛 / urinoma / Cr↑
+│    → CT urography（delayed 期）/ Retrograde pyelography
+├─ 膀胱损伤线索：耻骨上痛 / 骨盆骨折 + 肉眼血尿（尿道已排除后）
+│    → CT cystography / Retrograde cystography（被动灌注造影剂后成像）
+└─ 尿道损伤线索：尿道口血 / high-riding prostate / 会阴瘀斑 / 骨盆骨折
+     → Retrograde urethrography（逆行尿道造影）★必须先于任何导尿★
 ```
 
 > [!danger] 铁律：怀疑尿道损伤 → 造影先于导尿
 > 尿道口血 / high-riding prostate / 无法排尿 → **先 retrograde urethrography**，**绝不先插 Foley**（盲插可把**部分撕裂变完全断裂**）。
+
+#### 影像方法对比表 ⭐⭐⭐（总混就看这张）
+
+| 层面 | 触发指纹 | 影像方法 | 造影剂怎么进 | 一句话雷区 |
+|---|---|---|---|---|
+| **肾 Kidney** | flank/背痛 + CVA 压痛 + 血尿 / 高危机制 | **CT abd/pelvis with IV contrast** | **IV**：静脉注 → 肾排泄 | 要带 **delayed/excretory 期**才看得到集合系统漏尿 |
+| **输尿管 Ureter** | 盆腔/妇科术后 flank 痛 / urinoma / Cr↑ | **CT uro·graphy**（delayed 期）/ Retrograde **pyel·ography** | CT urography=**IV**；pyelography=**逆行** | 常规 CT 早期相**看不到**，必须 delayed 期 |
+| **膀胱 Bladder** | 耻骨上痛 / 骨盆骨折 + 肉眼血尿（尿道已排除）| **CT / Retrograde cyst·ography**（**膀胱**造影）| **逆行**：经导尿管灌 **≥300 mL** | 灌注量不够会**假阴性**；先排除尿道 |
+| **尿道 Urethra** | 尿道口血 / high-riding prostate / 会阴瘀斑 | **Retrograde urethr·ography**（逆行**尿道**造影）| **逆行**：从尿道口主动注 | 必须**先于 Foley**；造影剂外渗=确诊 |
+
+> [!tip] 怎么彻底不混 —— 抓两条轴
+> **轴① 词根 = 查哪一段**（`-graphy` 前的部位词根，背下来就不混名字）：
+> - `urethr/o` = 尿道 → **urethr**ography
+> - `cyst/o` = 膀胱 → **cyst**ography
+> - `pyel/o` = 肾盂 → **pyel**ography
+> - `uro-` = 整条尿路 → **uro**graphy（= CT + IV 造影的 delayed 期重建）
+>
+> **轴② 造影剂怎么进 = 上尿路 vs 下尿路**：
+> - **上尿路（肾 / 输尿管）→ IV 造影**：血供 + 排泄好，静脉造影剂能随尿排到病灶 → 看 **delayed/excretory 期**（CT IV / CT urography）。
+> - **下尿路（膀胱 / 尿道）→ 逆行（retrograde）主动灌注**：IV 排到这里浓度不够、且要靠"充盈到漏点"才看得见破口 → 必须从下往上主动注（cystography / urethrography）。
+>
+> **一句话**：*"上面靠肾排（IV+delayed），下面靠手灌（retrograde）；名字看词根，部位对得上。"*
 
 ---
 
@@ -125,7 +149,15 @@ type: 专题笔记
 
 ### 3.4 尿道损伤 (Urethral injury) ⭐（Q3349 主战场）
 
-- **共同诊断**：尿道口血 / high-riding prostate / 无法排尿 → **retrograde urethrography 必须先于任何导尿**；造影剂外渗 = 确诊
+- **诊断流程（前后通用）**：尿道口血 / 无法排尿 → **retrograde urethrography 必须先于任何导尿**；造影剂外渗 = 确诊
+- **体征要分清——真共同 vs 定位征**：
+  - **真共同（前后都有）**：尿道口出血 (blood at meatus) + 无法排尿
+  - **定位征（指向某一段，别混）**：
+    - **High-riding prostate = 后尿道 (PUI) 特异** ⭐——pelvic fracture 撕裂 puboprostatic ligaments + 巨大 pelvic hematoma 把前列腺-膀胱复合体**向上顶移** → DRE 摸到前列腺漂高/摸不到；**前尿道无此征**（无韧带断、无血肿上顶）
+    - **会阴/阴囊蝶形血肿 (butterfly hematoma) = 前尿道（球部骑跨伤）偏向**——Buck's 筋膜破 → 血沿 Colles 筋膜走成蝶形
+
+> [!warning] high-riding prostate 出现 = 锁后尿道
+> 题干给 **骨盆骨折 + high-riding prostate** → 几乎钉死 **后尿道损伤**，不要再考虑前尿道。反之**骑跨伤 / 会阴蝶形血肿 + 无骨盆骨折** → 前尿道（球部）。
 
 ![[{FD850957-693E-4EF1-BC58-0739B17C1B78}.png]]
 > *男性尿道分段解剖（前/后尿道分界）：以 **urogenital diaphragm（UG 隔膜 = membranous urethra 所在层）** 为界。*
@@ -133,10 +165,10 @@ type: 专题笔记
 > - **前尿道 (anterior)** = bulbous + penile urethra（隔膜**下/外侧**，bulbomembranous junction 以远）→ 故与 **骑跨伤 / 阴茎骨折**绑定。
 > - 记忆锚：图中 membranous urethra 是"危险窄颈"，控尿括约肌 + cavernous nerves 都贴在这一段——解释了为何后尿道急性探查易致 ED + 尿失禁。
 
-| | 解剖 | 机制 | 处理 |
-|---|---|---|---|
-| **后尿道 (PUI)** | membranous + prostatic（UG 隔膜上）| **pelvic fracture** | **耻骨上造瘘 (suprapubic catheter) + 延期修复** |
-| **前尿道** | bulbar + penile（UG 隔膜下）| **骑跨伤 (bulbar) / 阴茎骨折 (penile)** | penile fracture 合并者 **<24h 急修**；骑跨伤部分撕裂可导管引流 |
+| | 解剖 | 机制 | 定位征（锁段） | 处理 |
+|---|---|---|---|---|
+| **后尿道 (PUI)** | membranous + prostatic（UG 隔膜上）| **pelvic fracture** | **High-riding prostate** ⭐特异 | **耻骨上造瘘 (suprapubic catheter) + 延期修复** |
+| **前尿道** | bulbar + penile（UG 隔膜下）| **骑跨伤 (bulbar) / 阴茎骨折 (penile)** | **会阴蝶形血肿**；前列腺位置正常 | penile fracture 合并者 **<24h 急修**；骑跨伤部分撕裂可导管引流 |
 
 > [!warning] 为什么后尿道延期、前尿道急修（不在尿道本身，在"周围战场"）
 > **后尿道延期 3 理由**（都来自 pelvic fracture 背景）：
