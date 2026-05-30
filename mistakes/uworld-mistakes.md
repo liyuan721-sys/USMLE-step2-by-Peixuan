@@ -30989,6 +30989,19 @@
 > - **治疗**：多数 PUI → **临时耻骨上膀胱造瘘 (suprapubic catheter) 引流 + 延期修复**（不是急诊一期吻合）
 > - **前尿道损伤**（阴茎骨折 / 骑跨伤）→ 常 24h 内紧急修复（与 PUI 不同）
 >
+> ### 为什么后尿道延期、前尿道急修 ⭐⭐（机制 — 不在尿道本身，在"周围战场"）
+>
+> **后尿道 (PUI) 延期修复 3 大理由**（机制都来自 pelvic fracture 这个高能量背景）：
+> 1. **盆腔血肿在填塞止血 (tamponade)**：骨盆骨折造成巨大 pelvic hematoma，本身压迫止血；急性探查 → 破坏填塞 → 大出血。且组织肿胀、解剖层次扭曲 → 吻合口质量差。
+> 2. **控尿 + 勃起神经血管束就贴在 membranous urethra 旁**（cavernous nerves）：急性期操作 → **永久 ED + 尿失禁** 风险显著↑。延期等组织稳定再精修，功能预后更好。
+> 3. **急性盲操作易把部分撕裂变完全断裂**（与"造影前禁导尿"同理）。
+>
+> **前尿道（尤其 penile fracture）急修理由**：
+> - **阴茎骨折本身就是外科急症**：tunica albuginea 破裂常合并尿道损伤，**24h 内修复**才能防 penile curvature（成角畸形）/ ED / 狭窄 / 血肿机化；拖延 = 功能毁损。
+> - **无 pelvic hematoma 干扰、解剖未被骨折扭曲 + 位置浅表可达** → 立即修复技术可行、出血可控。
+>
+> > **反射口诀**：*"盆腔骨折伤后尿道 → 先造瘘等等（怕动血肿/神经）；阴茎骨折伤前尿道 → 抢在 24h（怕功能毁）。"*
+>
 > ## 易混陷阱（普适）
 >
 > | 选项 | 为什么错 |
@@ -31036,7 +31049,7 @@
 > ---
 >
 > 学科:: 外科
-> 主题:: Posterior urethral injury (PUI) 处理 — 男骨盆骨折高危 PUI 发生于 bulbomembranous junction；三联指纹 尿道口血+无法排尿+high-riding prostate(+会阴瘀斑)；怀疑尿道损伤→retrograde urethrography 必须先于导尿(导尿可使部分撕裂变完全断裂=禁忌)；造影剂外渗=确诊；治疗多为临时耻骨上膀胱造瘘+延期修复(非急诊一期吻合)，前尿道损伤(阴茎骨折/骑跨伤)反而常24h内紧急修复 / GU 创伤影像三分法（尿道线索→urethrography / 膀胱线索→CT或retrograde cystography被动灌注 / 肾线索 flank-CVA-血尿或高危机制→CT abd-pelvis 多期）/ 5 选 1 鉴别（A Foley 造影前导尿禁忌 / B 立即手术 PUI 不一期吻合 / C cystography 评膀胱须先排尿道 / D urethrography ✅ / E 睾丸 US 本题阴囊瘀斑源于尿道损伤睾丸无压痛）
+> 主题:: Posterior urethral injury (PUI) 处理 — 男骨盆骨折高危 PUI 发生于 bulbomembranous junction；三联指纹 尿道口血+无法排尿+high-riding prostate(+会阴瘀斑)；怀疑尿道损伤→retrograde urethrography 必须先于导尿(导尿可使部分撕裂变完全断裂=禁忌)；造影剂外渗=确诊；治疗多为临时耻骨上膀胱造瘘+延期修复(非急诊一期吻合)，前尿道损伤(阴茎骨折/骑跨伤)反而常24h内紧急修复 / 为什么处理不同(不在尿道本身在周围战场)：后尿道延期 3 理由=①pelvic hematoma 填塞止血急性探查破坏 tamponade 大出血+解剖扭曲吻合差 ②控尿+勃起神经血管束 cavernous nerves 贴 membranous urethra 急性操作→永久 ED+尿失禁风险↑ ③急性盲操作部分撕裂变完全断裂；前尿道(penile fracture)急修=tunica albuginea 破裂本身急症 24h 内修防成角畸形-ED-狭窄+无血肿干扰解剖未扭曲位置浅表可达 / GU 创伤影像三分法（尿道线索→urethrography / 膀胱线索→CT或retrograde cystography被动灌注 / 肾线索 flank-CVA-血尿或高危机制→CT abd-pelvis 多期）/ 5 选 1 鉴别（A Foley 造影前导尿禁忌 / B 立即手术 PUI 不一期吻合 / C cystography 评膀胱须先排尿道 / D urethrography ✅ / E 睾丸 US 本题阴囊瘀斑源于尿道损伤睾丸无压痛）
 > 状态:: 🟡
 > 错因:: 知识
 
