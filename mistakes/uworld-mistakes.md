@@ -31523,3 +31523,296 @@
 > 主题:: 老年非意向性体重减轻+advanced CKD→watchful waiting+营养补充 — 非意向性体重减轻(>5%/6-12 月)；advanced end-organ disease(CKD/COPD/CHF)经 anorexia+cachexia 致减重；本例除 advanced CKD(eGFR 11+正细胞贫血)外初筛无异常+无恶性线索(无 GI 症状-便血-高钙，FOBT 阴)+affect/cognition 正常(非 MDD)→CKD 解释减重；虚弱+寿命有限→watchful waiting(避免不改善 QoL/寿命的低产出检查)+营养补充(BMI<18.5 高热量补剂逆转 cachexia/PEW) / 评估算法(病因谱→初筛 H&P+CBC/代谢/TSH/LFT+FOBT→有恶性线索针对性查→无线索+已有解释+虚弱寿命有限 watchful waiting+营养) / 检查门槛=能否改善 QoL/预期寿命 / 5 选 1 鉴别(A 营养补充 ✅ / B SSRI affect-cognition 正常非 MDD / C 内镜无 GI 线索 / D UGI series 同 / E 全身 CT 无定位症状多查 incidentaloma 非 occult cancer)
 > 状态:: 🟡
 > 错因:: 知识
+
+> [!success]- [2026-05-30] 肾 / 氨基糖苷 (amikacin) 肾毒性 = toxic ATN (Q4379) ✅做对
+> ^Q4379
+>
+> ## Stem 模式
+> 76yo M 因 acute pyelonephritis 致 septic shock 住院（CT：右肾周 stranding + urolithiasis + 轻度 hydronephrosis）→ IVF+升压药+广谱抗生素，好转、结石自排，出院到 SNF 续用 **IV amikacin**，**3 天前完成**。今查体正常。**Cr 3.6（出院时 0.9）**，**FENa >2%**，UA 见**偶发上皮细胞管型、无白细胞**。肾功能障碍最可能病因？答 **B. Drug-induced AKI**（氨基糖苷致 ATN）。
+>
+> ## 核心概念
+> **Aminoglycosides（amikacin/gentamicin）→ toxic ATN**。经肾小球滤过后被 **PCT（S1/S2 皮质段）**摄取蓄积，**通常用药 >5-7 天**达毒性浓度。ATN 指纹：**FENa >2%、无血细胞、muddy brown（颗粒）或上皮细胞管型**。**停药 ~3 周** PCT 再生 → Cr 回基线。一次性日剂量可降毒性；即使监测血药浓度仍可中毒 → 非必要不用（如 MDR 革兰阴性菌）。
+>
+> Answer：**B. Drug-induced acute kidney injury**
+>
+> ## 普适规则
+>
+> ### ATN 病因 + 表现 ⭐⭐
+>
+> ```
+> ATN（急性肾小管坏死）
+> ├─ Ischemic 缺血型：长时间低血压 / sepsis（corticomedullary PCT + TAL 为主）
+> └─ Toxic 毒性型（cortical PCT 为主）
+>      ├─ 抗生素：aminoglycosides / vancomycin
+>      ├─ 抗病毒：cidofovir / foscarnet
+>      └─ 杂项：造影剂 / cisplatin / 重金属 / heme pigment（横纹肌溶解-溶血）
+> 表现：BUN/Cr <20:1，FENa >2%，muddy brown/上皮细胞管型，低尿渗，少尿或多尿 ± 电解质紊乱
+> 恢复：停药 ~3 周 PCT 再生 → 回基线
+> ```
+>
+> ### 时间线鉴别（本题关键）⭐
+> - **造影剂 AKI**：给药后 **24-48h** Cr 升，3-7d 回基线
+> - **缺血性 ATN（sepsis/低血压）**：insult 后 **24-48h** 发病
+> - **氨基糖苷 ATN**：用药 **>5-7 天**后 → 看 Cr **何时**升来定因
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 为什么错 |
+> |---|---|
+> | A. Contrast-associated AKI | ❌ Cr 升在入院 CT 后 24-48h，本题 Cr 升发生在**出院后**（amikacin 期），时间不符 |
+> | C. Postinfectious GN | ❌ 可感染后 10d 起、FENa>2%，但 UA 应有 **RBC + RBC casts**；且 PIGN 多链球菌/葡萄球菌（G+，非氨基糖苷单药治）|
+> | D. Renal scarring after pyelo | ❌ 瘢痕**数月**形成，不会急升 Cr |
+> | E. Septic shock–induced (ischemic) ATN | ❌ 缺血性 ATN 在 insult 后 24-48h；本题**出院时 Cr 正常 0.9** → 急性缺血不太可能（时间线否决）|
+>
+> ## 我为什么做对
+> - 选了：**B** ✅
+> - 抓对线索：amikacin 用药 >5-7 天 + **出院时 Cr 正常 (0.9) 之后才升 (3.6)** + FENa>2% + 上皮细胞管型 = toxic ATN；时间线否决 ischemic (E) 和造影剂 (A)
+> - 知识入库：氨基糖苷 ATN 时间窗（>5-7d）+ 可逆（停药 ~3 周）
+>
+> ## Memory Hook
+> - **"氨基糖苷 (amikacin/gentamicin) ATN = 用药 >5-7 天后，FENa>2% + 上皮/muddy brown 管型，停药 ~3 周恢复"** ⭐⭐
+> - **ATN 两类**：ischemic（低血压/sepsis）+ toxic（氨基糖苷/万古/造影剂/cisplatin/重金属/heme）
+> - **时间线鉴别**：ischemic & 造影剂 24-48h 内；氨基糖苷 >5-7d → 看 Cr 何时升
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 抓对：用药时间窗 + Cr 升的时间点是鉴别钥匙
+> - 学到：氨基糖苷在 PCT 蓄积，>5-7d 毒性，~3 周可逆
+> - 学到：即使监测血药浓度仍可中毒 → 非必要不用
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q16044]] AKI 三大类对照 SOP（ATN toxic 含氨基糖苷 — 本卡是其具体应用）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（ATN / AKI 分类 / FENa）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/感染]]（氨基糖苷用于 MDR 革兰阴性菌 + 肾毒性权衡）
+> - 🌱 TODO：
+>   - 衍生已覆盖：[[完整笔记/专题笔记/肾脏/肾脏_AKI病因全谱]]（ATN toxic 氨基糖苷条目）
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 ATN 两类 + toxic 病因清单
+> - [ ] 默写氨基糖苷 ATN 时间窗（>5-7d）+ 恢复（~3 周）
+> - [ ] 反射训练：见"用氨基糖苷数天后 Cr 升 + FENa>2% + 上皮管型" → 0.5 秒锁 toxic ATN
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: 氨基糖苷 (amikacin/gentamicin) 肾毒性 = toxic ATN — 经 PCT(S1/S2 皮质段)摄取蓄积通常用药 >5-7 天达毒性；ATN 指纹 FENa>2%+无血细胞+muddy brown/上皮细胞管型+BUN/Cr<20:1+低尿渗；停药 ~3 周 PCT 再生回基线；一次性日剂量降毒性但监测血药仍可中毒→非必要不用(MDR G-) / ATN 两类(ischemic 长低血压-sepsis corticomedullary PCT+TAL / toxic cortical PCT 抗生素氨基糖苷-万古 / 抗病毒 cidofovir-foscarnet / 杂项造影剂-cisplatin-重金属-heme pigment) / 时间线鉴别(造影剂 AKI 24-48h 升 3-7d 回 / 缺血 ATN insult 后 24-48h / 氨基糖苷 >5-7d → 看 Cr 何时升) / 5 选 1 鉴别(A 造影剂 Cr 升在出院后非入院 CT 后 / B drug-induced ✅ / C PIGN 应有 RBC+RBC casts G+菌非氨基糖苷治 / D 瘢痕数月不急升 / E 缺血 ATN 出院时 Cr 正常 0.9 否决)
+> 状态:: 🟢
+> 错因:: ✅ 做对（知识入库）
+
+> [!success]- [2026-05-30] 肾 / 酸碱状态金标准 = pH + PaCO2 (Q2787) ✅做对
+> ^Q2787
+>
+> ## Stem 模式
+> 56yo 糖尿病男 + 恶心呕吐到 ED。哪**一对**实验室值最能反映患者酸碱状态？答 **A. pH and PaCO2**。
+>
+> ## 核心概念
+> 血液主要细胞外缓冲 = **CO2-碳酸氢盐缓冲对（pK 6.1）**。Henderson-Hasselbalch：**pH = 6.1 + log([HCO3⁻]/(0.03×PaCO2))**，三变量（pH、acid=PaCO2、conjugate base=HCO3）**已知任意 2 → 算第 3**。ABG 直接测 **pH + PaCO2** → 计算 HCO3 → 完整定酸碱状态。
+>
+> Answer：**A. pH and PaCO2**
+>
+> ## 普适规则
+> - **ABG 直接测 pH + PaCO2**；HCO3 由 H-H 公式推导
+> - **PaO2 / PO2 = 氧合状态，不是酸碱**
+> - **尿 pH（4.5-8）= 肾对酸的处理**，波动大，不能像 pH/HCO3/PaCO2 那样清晰判定血清酸碱
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 为什么错 |
+> |---|---|
+> | B. pH + PaO2 / C. PaO2 + PaCO2 | ❌ PaO2 反映**氧合**，与酸碱状态无关 |
+> | D. Urinary pH + PaCO2 / E. Urinary pH + HCO3 | ❌ 尿 pH 反映肾处理酸，**不能**判定血清酸碱状态 |
+>
+> ## 我为什么做对
+> - 选了：**A** ✅
+> - 抓对线索：ABG 直接测 pH + PaCO2，HCO3 由 H-H 算；PaO2/尿 pH 都不是血清酸碱指标
+> - 知识入库：H-H 公式三变量，测 2 算 1
+>
+> ## Memory Hook
+> - **"酸碱状态金标准 = ABG 的 pH + PaCO2（HCO3 由 Henderson-Hasselbalch 算出）"** ⭐⭐
+> - **PaO2 = 氧合 ≠ 酸碱；尿 pH = 肾处理酸 ≠ 血清酸碱**
+> - **H-H：pH = 6.1 + log([HCO3]/(0.03×PaCO2))**
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 抓对：区分"酸碱"与"氧合"，区分"尿 pH"与"血清酸碱"
+> - 学到：临床 ABG 只直接测 pH + PaCO2，HCO3 是算出来的
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q2790]] Mixed acid-base 识别 SOP（三步法 + 代偿公式 — 本卡是其前置基础：先有 pH+PaCO2 才能走 SOP）
+> - 📚 主笔记：
+>   - [[完整笔记/专题笔记/肾脏/肾脏_酸碱代偿完整SOP]]（三步法 / 代偿公式 / mixed 识别）
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（酸碱生理 / 缓冲对）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/pulmonary]]（PaCO2 / 通气 vs 氧合 PaO2 区分）
+> - 🌱 TODO：
+>   - 衍生已覆盖：[[完整笔记/专题笔记/肾脏/肾脏_酸碱代偿完整SOP]]
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 Henderson-Hasselbalch 公式（pH = 6.1 + log([HCO3]/0.03×PaCO2)）
+> - [ ] 反射：见"评估酸碱" → pH + PaCO2（不是 PaO2、不是尿 pH）
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: 酸碱状态评估金标准 = pH + PaCO2 — 血主要细胞外缓冲 CO2-HCO3 对(pK 6.1)；Henderson-Hasselbalch pH=6.1+log([HCO3]/(0.03×PaCO2)) 三变量已知 2 算 3；ABG 直接测 pH+PaCO2→算 HCO3→定酸碱 / PaO2(PO2)=氧合非酸碱 / 尿 pH(4.5-8)=肾处理酸波动大不能定血清酸碱 / 5 选 1 鉴别(A pH+PaCO2 ✅ / B pH+PaO2 PaO2 是氧合 / C PaO2+PaCO2 含氧合 / D 尿 pH+PaCO2 尿 pH 不定血清 / E 尿 pH+HCO3 同)
+> 状态:: 🟢
+> 错因:: ✅ 做对（知识入库）
+
+> [!success]- [2026-05-30] 肾 / Calciphylaxis (钙化防御) 危险因素 = hyperphosphatemia (Q15372) ✅做对
+> ^Q15372
+>
+> ## Stem 模式
+> 67yo F 痛性皮损 1-2 周；长期 ESRD 因糖尿病肾病 **HD 每周 3 次**；**血清 Ca 正常**。皮损 punch biopsy 见**小动脉中层钙化 + subintimal fibrosis + 血栓性闭塞、无 vasculitis** = **calciphylaxis**。哪项增加该皮损风险？答 **B. Hyperphosphatemia**。
+>
+> ## 核心概念
+> **Calciphylaxis（calcific uremic arteriolopathy，钙化防御/钙性尿毒症性小动脉病）** = 系统性**小动脉钙化 + 软组织钙沉积** → 局部缺血坏死。最常见于**长期 ESRD 透析或肾移植后**。表现痛性紫红结节/斑块 → 缺血坏死溃疡 → 感染 sepsis，**死亡率高**。多见**脂肪区（躯干/大腿）**，**外周脉搏完整**（区别动脉粥样硬化）。实验室常 **PTH 高 + hyperphosphatemia**（ESRD 磷清除↓）。**血清 Ca 常正常**（组织 Ca 浓度可远高）。
+>
+> Answer：**B. Hyperphosphatemia**
+>
+> ## 普适规则
+>
+> ### Calciphylaxis 危险因素 + 特征 ⭐⭐
+>
+> ```
+> Calciphylaxis (calcific uremic arteriolopathy)
+> ├─ 病机：小动脉 + 软组织钙化 → 局部缺血坏死
+> │        (Ca×P 乘积↑ + 钙化抑制剂缺如 Fetuin-A + 慢性炎症)
+> ├─ 高危：ESRD on HD / 肾移植后；hyperphosphatemia / hypercalcemia /
+> │        hyperparathyroidism / 口服抗凝 warfarin(vit K 抑制剂) / 肥胖 DM / 低镁
+> ├─ 表现：痛性紫红结节/斑块 → 缺血坏死溃疡 → 感染 sepsis；
+> │        多见脂肪区(躯干/大腿)；外周脉搏完整(区别动脉粥样)
+> ├─ 诊断：皮肤活检 = 小动脉钙化/闭塞 + subintimal fibrosis (无 vasculitis)
+> └─ 管理：镇痛 + 伤口护理 + 治高危(降磷/降钙) + 优化透析
+> ```
+>
+> ## 易混陷阱（普适）⭐ 多为"反向"陷阱
+>
+> | 选项 | 为什么错 |
+> |---|---|
+> | A. Hypermagnesemia | ❌ Mg **抑制**骨外钙化 → **低镁**增风险、**高镁降**风险（反向）|
+> | C. Hypocalcemia | ❌ **高钙**（非低钙）才是危险因素；但血清 Ca 常正常**不排除**（组织 Ca 高）|
+> | D. Recurrent hypoglycemia | ❌ ESRD 因胰岛素清除↓可低血糖，但低血糖**不促** calciphylaxis |
+> | E. Vitamin K excess | ❌ vit K **促** matrix 蛋白防钙化 → vit K **缺乏/抑制剂(warfarin)** 增风险、excess 反**降**（反向）|
+>
+> ## 我为什么做对
+> - 选了：**B** ✅
+> - 抓对线索：ESRD + 小动脉钙化活检 = calciphylaxis；ESRD → 磷清除↓ → **hyperphosphatemia** 是核心危险因素
+> - 知识入库：危险因素全谱 + 两个"反向陷阱"（低镁非高镁、vit K 缺非 excess）+ 血清 Ca 常正常
+>
+> ## Memory Hook
+> - **"Calciphylaxis = ESRD 长期透析 + 痛性紫红结节/溃疡 + 活检小动脉钙化无 vasculitis → 核心危险因素 hyperphosphatemia"** ⭐⭐
+> - **反向陷阱**：**低镁**（非高镁）、**vit K 缺/warfarin**（非 vit K excess）增风险
+> - **血清 Ca 常正常 ≠ 排除**（组织 Ca 远高）
+> - 区别动脉粥样：calciphylaxis **外周脉搏完整** + 脂肪区
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 抓对：ESRD + 小动脉钙化无 vasculitis = calciphylaxis 锁定
+> - 学到：危险因素 hyperP/hyperCa/hyperPTH/warfarin/低镁/vit K 缺
+> - 学到：两个反向陷阱（Mg 和 vit K 方向相反）
+> - 学到：血清 Ca 正常不能排除（组织钙高 + 局部炎症）
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q4026]] ESRD 死因 / CKD-MBD 并发症（calciphylaxis 是 ESRD-MBD 严重表现之一）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（ESRD / CKD-MBD / 矿物质骨病）
+>   - [[完整笔记/Peixuan分科笔记/endocrine]]（继发性甲旁亢 / 磷钙代谢）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/derm]]（痛性紫红结节/坏死性皮损鉴别）
+> - 🌱 TODO：
+>   - 累积 ESRD 并发症题（CVD / calciphylaxis / MBD / anemia）→ 整合 [[完整笔记/专题笔记/肾脏/肾脏_ESRD并发症全谱]]（与 Q4026 TODO 合流）
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 calciphylaxis 危险因素全谱（含两反向陷阱）
+> - [ ] 默写诊断（活检小动脉钙化无 vasculitis）+ 管理（降磷钙 + 优化透析）
+> - [ ] 反射训练：见"ESRD HD + 痛性紫红皮损 + 活检小动脉钙化" → 0.5 秒锁 calciphylaxis / 危险因素 hyperphosphatemia
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: Calciphylaxis (calcific uremic arteriolopathy 钙化防御) 危险因素 = hyperphosphatemia — 系统性小动脉钙化+软组织钙沉积→局部缺血坏死(Ca×P↑+钙化抑制剂 Fetuin-A 缺+慢性炎症)；最常 ESRD on HD 或肾移植后；表现痛性紫红结节/斑块→缺血坏死溃疡→感染 sepsis 死亡率高，多脂肪区躯干大腿，外周脉搏完整(区别动脉粥样)；活检小动脉中层钙化+subintimal fibrosis+血栓闭塞无 vasculitis；血清 Ca 常正常(组织 Ca 远高不排除)；管理镇痛+伤口护理+降磷降钙+优化透析 / 危险因素(ESRD-HD-移植 / hyperphosphatemia 核心 ESRD 磷清除↓ / hypercalcemia / hyperparathyroidism / warfarin vit K 抑制剂 / 肥胖 DM / 低镁) / 5 选 1 反向陷阱(A hypermagnesemia 反:Mg 抑骨外钙化低镁才增风险 / B hyperphosphatemia ✅ / C hypocalcemia 反:高钙才危险但血 Ca 常正常不排除 / D recurrent hypoglycemia ESRD 胰岛素清除↓可低糖但不促 / E vit K excess 反:vit K 缺/warfarin 才增风险 excess 降)
+> 状态:: 🟢
+> 错因:: ✅ 做对（知识入库）
+
+> [!success]- [2026-05-30] 肾 / 老男+吸烟+无痛 gross hematuria → Cystoscopy (Q16045) ✅做对
+> ^Q16045
+>
+> ## Stem 模式
+> 67yo M **间断血尿 2 周**，**无痛**、无尿急尿痛尿频、无尿道分泌物；**全程血尿（throughout micturition）**；CAD/HTN/高脂史；**吸烟 1 包/天 × 40 年**；直肠指检前列腺增大无压痛/硬结。UA **>50 RBC/hpf，无白细胞、无管型、无 dysmorphic RBC**；尿 cytology 无异常细胞。最佳下一步？答 **B. Cystoscopy**。
+>
+> ## 核心概念
+> 老年（>40）+ 40 pack-year 吸烟 + **无痛性肉眼血尿全程（total）** → **bladder cancer 直到证否**（最常见尿路恶性，烟草/工业化学致 urothelium 恶变；新生脆弱血管出血）。Gross hematuria 工作流：**UA 确认血尿（>3 RBC/hpf）+ 排 UTI（脓尿/菌尿）/ GN（RBC casts、dysmorphic）**；无明确病因 + 年龄 >40 → **紧急评估尿路恶性 → cystoscopy（看膀胱壁 + 活检/切除）+ CT urography（看肾 + 转移）**。尿 cytology **敏感性 <35%**，**阴性不能排除**膀胱/肾癌。
+>
+> Answer：**B. Cystoscopy**
+>
+> ## 普适规则
+>
+> ### Bladder (urothelial) cancer 速查 ⭐
+>
+> | 项 | 要点 |
+> |---|---|
+> | 表现 | 刺激性排尿症状（频/急/痛）+ 区域痛 + **无痛肉眼血尿** |
+> | 诊断 | **Flexible cystoscopy + 活检（金标准）** + 尿 cytology（敏感性低 <35%）|
+> | 分期 | TURBT + 上尿路影像（IVP/MRI/CT）|
+> | 治疗 | 无肌层浸润 → TURBT + 膀胱内免疫（BCG）；肌层浸润 → 根治性膀胱切除 + 全身化疗；转移 → 全身化疗+免疫 |
+>
+> - **血尿分期定位**：全程（total）= 整条尿路任何位置（含膀胱）；与 [[mistakes/uworld-mistakes#^Q4751]] terminal 角度互补
+> - **gross hematuria + age >40 + 无 GN/UTI 证据 → cystoscopy + CT urography**（不能只靠 cytology）
+>
+> ## 易混陷阱（普适）
+>
+> | 选项 | 为什么错 |
+> |---|---|
+> | A. Abdominal ultrasound | ❌ 常漏小膀胱肿块，无法评浸润深度/外侵/淋巴结 |
+> | C. PSA level | ❌ 前列腺癌多无症状、外周带生长，**血尿少见**；不是血尿首查 |
+> | D. Reassurance / routine follow-up | ❌ >40 无痛血尿**必须紧急评估**（延误膀胱/肾癌 → 预后差）|
+> | E. Urine culture | ❌ UTI 致刺激性症状 + 脓尿 + 菌尿；本题无痛无白细胞 → 感染不太可能 |
+>
+> ## 我为什么做对
+> - 选了：**B** ✅
+> - 抓对线索：老男 + 40 pack-year + 无痛 gross hematuria + 无白细胞/管型/dysmorphic = bladder cancer → cystoscopy；cytology 阴性不能排除（敏感性 <35%）
+> - 知识入库：gross hematuria 工作流（UA → 无 GN/UTI + >40 → cystoscopy + CT urography）
+>
+> ## Memory Hook
+> - **"老男 + 吸烟 + 无痛 gross hematuria → bladder cancer 直到证否 → cystoscopy + CT urography"** ⭐⭐
+> - **尿 cytology 敏感性 <35% → 阴性不能排除**膀胱/肾癌
+> - **诊断金标准 = flexible cystoscopy + 活检**
+> - 与 Q4751（terminal hematuria）互补：本卡 total hematuria + 工作流首选
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 抓对：吸烟史 + 无痛肉眼血尿 + 无 GN/UTI 证据 = 膀胱癌工作流
+> - 学到：cystoscopy 是首选 + 金标准，cytology 低敏不能 rule out
+> - 学到：US 漏小肿块、不评浸润；PSA 非血尿首查
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q4751]] Urothelial ca + 血尿分期 3 联（同主题第 2 次 — 本卡补 total hematuria + gross hematuria 工作流 cystoscopy+CT urography）
+> - 📚 主笔记：
+>   - [[完整笔记/Peixuan分科笔记/外科]]（line 1394 Bladder cancer 速查 / TURBT / cystectomy）
+>   - [[完整笔记/Peixuan分科笔记/肾脏]]（血尿评估 / GN vs 非 GN）
+> - 🏥 跨学科：
+>   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（吸烟致癌谱 / urothelial ca 化疗）
+> - 🌱 TODO：
+>   - 累积膀胱癌/血尿题（Q4751 + Q16045）→ 建 [[完整笔记/专题笔记/肾脏/肾脏_血尿评估与膀胱癌]]（血尿分期 + GN vs 非 GN + cystoscopy 适应症 + 膀胱癌速查）
+>
+> ## ✅ 复盘行动
+> - [ ] 默写 gross hematuria 工作流（UA → 无 GN/UTI + >40 → cystoscopy + CT urography）
+> - [ ] 默写 cytology 敏感性 <35%（阴性不排除）
+> - [ ] 反射训练：见"老男 + 吸烟 + 无痛 gross hematuria" → 0.5 秒锁 cystoscopy
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: 老男+吸烟+无痛 gross hematuria → Cystoscopy (bladder cancer 工作流) — 年龄>40+吸烟+无痛肉眼全程血尿→bladder cancer 直到证否(最常见尿路恶性 烟草/工业化学致 urothelium 恶变 新生脆弱血管出血)；gross hematuria 工作流 UA 确认(>3 RBC/hpf)+排 UTI(脓尿菌尿)/GN(RBC casts-dysmorphic)→无病因+>40 紧急评估尿路恶性→cystoscopy(看膀胱壁+活检切除)+CT urography(看肾+转移)；尿 cytology 敏感性<35% 阴性不排除 / 膀胱癌速查(表现刺激性排尿+无痛血尿 / 诊断 flexible cystoscopy+活检金标准 / 分期 TURBT+上尿路影像 / 治疗 无肌层浸润 TURBT+膀胱内 BCG 免疫 / 肌层浸润根治性膀胱切除+全身化疗 / 转移全身化疗免疫) / 5 选 1 鉴别(A 腹部 US 漏小肿块不评浸润 / B cystoscopy ✅ / C PSA 前列腺癌外周带血尿少见 / D reassurance >40 无痛血尿必紧急评估 / E 尿培养无痛无白细胞感染不太可能) / 同主题 Q4751 第 2 次本卡补 total hematuria+工作流首选
+> 状态:: 🟢
+> 错因:: ✅ 做对（知识入库）
