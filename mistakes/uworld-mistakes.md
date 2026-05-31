@@ -32358,3 +32358,121 @@
 > 主题:: 袢利尿致代谢性碱中毒(肝硬化) — 肝硬化腹水袢利尿(抑 Na-K-2Cl)排 Na/水/K/Cl→收缩性碱+容量收缩↑肾 H⁺ 排泄→代碱；指纹 HCO3 31↑+K3.1↓+Cl92↓；判原发看 HCO3 方向(高=代碱 低=代酸/呼碱)；干扰项(A 过度通气=呼碱 HCO3 应低本题 31 高 / C HRS=代酸+高 K相反 / E sepsis 乳酸代酸 / B 肝性胸水呼碱呼酸)；看插管反射呼吸性没看 HCO3 高+低 K 低 Cl 袢利尿指纹 / 同主题 Q2786 呼碱对比 Q106381 同患者群低钠
 > 状态:: 🟡
 > 错因:: pattern
+
+> [!example]- [2026-05-30] 肾 / SIADH — 等容量低钠+低尿酸+SSRI → 药物性 SIADH (Q2180) 🟡 做对但不确定
+> ^Q2180
+>
+> ## Stem 模式
+> 65F，意识改变（晨起头痛渐 incoherent），前一天恶心呕吐数次，3 周前抑郁起 **sertraline(SSRI)**，RA 用 adalimumab。BP 110/70 无体位性↓、黏膜湿润、无 JVD、无水肿（**等容量**）。Na 119↓ / K 4.0 / HCO3 24 / **尿酸 1.5↓** / **血渗 260↓** / **尿渗 500↑** / **尿 Na 56↑**。问低钠原因？选 **A 药物副作用(SSRI)** ✓（做对但不确定）。
+>
+> ## 核心概念
+> 低渗性低钠 + **等容量** + **尿渗 >100（不恰当浓缩）** + **尿 Na >40** + **血尿酸低** + K/酸碱正常 = **SIADH**。SSRI + 老年 = 经典药物性 SIADH；**恶心是强 ADH 刺激**会加重。
+>
+> ## 普适规则
+> - **SIADH 五联**：低渗低钠 + 等容量 + 尿渗 >100 + 尿 Na >40 + **尿酸低**（+ K 正常 + 酸碱正常）。
+> - **病因**：CNS（卒中/出血/外伤）、肺（肺炎/SCLC 异位 ADH）、**药物（SSRI、carbamazepine、cyclophosphamide、NSAID）**、疼痛/恶心。
+> - **治疗**：限水 ± 盐片；重症（seizure）→ 3% 高张盐水。
+>
+> ## 易混陷阱（普适）
+> - **D 低容量低钠**：呕吐诱选，但低容量 = **尿 Na <20 + 尿酸高 + 黏膜干 + 体位性↓**；本题全相反（尿 Na 56、尿酸低、黏膜湿）→ 等容量 SIADH。
+> - **C 颅内肿瘤**：可致 SIADH/CSW，但本题无 papilledema/局灶体征。
+> - **E 盐皮质激素缺乏(Addison)**：应高 K + 代酸；本题 K 正常、HCO3 正常。
+> - **G ADH 抵抗(肾性 DI)**：致**高钠**失水，方向反。
+>
+> ## 我为什么错 / 不确定
+> - 选了：A（做对但不确定）
+> - 不确定点：呕吐病史让我犹豫 SIADH vs 低容量低钠；没第一时间用 **尿 Na 56 + 尿酸低 + 黏膜湿** 锁定等容量。
+> - 错因：[知识] —— SIADH 五联（尤其低尿酸这条鉴别）记不牢。
+>
+> ## Memory Hook
+>
+> > **"等容量 + 尿渗高 + 尿 Na 高 + 尿酸低 = SIADH"**；SSRI + 老人 + 恶心 = 三连击。
+> > 区分低容量：低容量 = 尿 Na 低 + 尿酸**高** + 黏膜干。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 关键反思：低钠先定**容量轴**——尿 Na + 尿酸 + 黏膜/体位性，三点一起看，别被"呕吐"单点误导。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q106381]] 肝硬化高容量低钠（低钠容量轴对比）
+>   - [[mistakes/uworld-mistakes#^Q114863]] Thiazide 致低钠 seizure
+> - 📚 主笔记：[[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]] / [[完整笔记/Peixuan分科笔记/肾脏]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（SSRI 是 SIADH 常见药因）
+> - 🌱 TODO：已把"低尿酸 + 尿 Na 分 SIADH vs 低容量"增量同步进电解质急症速查
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q2180
+> - [ ] 默写 SIADH 五联（含低尿酸）
+> - [ ] 反射训练：低钠先看尿 Na + 尿酸定容量轴
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: SIADH 五联 + 药物性(SSRI) — 65F 等容量低钠 Na119+血渗 260↓+尿渗 500↑+尿 Na56↑+尿酸 1.5↓+K/酸碱正常 → SIADH，SSRI(sertraline)+老年+恶心(强 ADH 刺激)；五联=低渗低钠+等容量+尿渗>100+尿 Na>40+尿酸低；病因 CNS/肺(SCLC)/药(SSRI carbamazepine cyclophosphamide NSAID)/疼痛恶心；治限水±盐片重症 3%高张；干扰项(D 低容量=尿 Na<20 尿酸高黏膜干体位性↓相反 / C 颅内肿瘤无 papilledema / E Addison 高 K 代酸 / G 肾性 DI 高钠)；呕吐诱选低容量没用尿 Na56+尿酸低+黏膜湿锁等容量 / 同主题 Q106381 高容量低钠 Q114863 噻嗪低钠
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-05-30] 肾 / Bulimia 呕吐 → saline-responsive 代谢性碱中毒(尿Cl低)→ 补 NS (Q4866) 🟡 做对但不确定
+> ^Q4866
+>
+> ## Stem 模式
+> 21F，进行性乏力近晕厥（3 小时运动），学业差，BP 106/58，P110，BMI 21，**干皮+细面毛(lanugo)+牙釉质侵蚀** → **bulimia(自诱呕吐)**。Na 134 / **K 2.4↓** / **Cl 90↓** / **HCO3 40↑** / **尿 Cl 9↓**。问除补 K 外最佳治疗？选 **E 生理盐水(NS)** ✓（做对但不确定）。
+>
+> ## 核心概念
+> 呕吐丢 HCl → 丢 H⁺/Cl⁻ → **启动**代谢性碱；容量收缩 + **Cl 耗竭 perpetuate**（低 Cl 损害肾排 HCO3）。**尿 Cl 9（<20）= saline-responsive** → **NS 补容量 + Cl** 恢复肾排 HCO3 纠碱。
+>
+> ## 普适规则
+>
+> ### 代谢性碱：saline-responsive vs resistant（用尿 Cl 分）
+>
+> | 类型 | 尿 Cl | 病因 | 治疗 |
+> |---|---|---|---|
+> | **Saline-responsive**（容量↓）| **< 20** | 呕吐 / NG 吸引 / 既往利尿剂 / 收缩性碱 | **0.9% NS** + 补 K |
+> | **Saline-resistant**（容量↑/正常）| **> 20** | Conn / Cushing / Bartter-Gitelman / 当前利尿剂 | 治原发（Conn→螺内酯；容量过载→acetazolamide）|
+>
+> - **指纹**：HCO3↑ + 低 K + 低 Cl + 尿 Cl 低 = 呕吐型 saline-responsive 代碱。
+> - **尿 Cl 比尿 Na 可靠**（RAAS 激活会让尿 Na 失真，尿 Cl 才反映真实容量/Cl 状态）。
+>
+> ## 易混陷阱（普适）
+> - **A Acetazolamide**：用于**容量过载**的袢利尿致碱；本题容量**不足**应给 NS，acetazolamide 会加重容量不足。
+> - **B Ammonium chloride**：强酸，用于**无法给 NS**（容量过载）的重度代碱；本题容量不足 → 首选 NS。
+> - **C 纸袋呼吸**：致轻度呼酸，不解决容量/Cl 耗竭。
+> - **D Fludrocortisone**：Addison 用（高 K + 代酸）；与本题（低 K + 代碱）不符。
+> - **F Spironolactone**：醛固酮增多症用，但 Conn 应有**高血压 + 尿 Cl 高**。
+>
+> ## 我为什么错 / 不确定
+> - 选了：E（做对但不确定）
+> - 不确定点：知道呕吐 → 代碱，但**不确定为什么是 NS 而非 acetazolamide/ammonium chloride**；没用"尿 Cl 9 = saline-responsive"这条硬指标定方向。
+> - 错因：[知识] —— saline-responsive vs resistant 的尿 Cl 分型 + 各药适应证记不牢。
+>
+> ## Memory Hook
+>
+> > **"呕吐 + 低 K 低 Cl 高 HCO3 + 尿 Cl <20 = saline-responsive 代碱 → 补 NS"**
+> > 尿 Cl 低 = "缺 Cl/缺容量" → 给盐水补上；尿 Cl 高（Conn/Bartter）才不靠盐水。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 关键反思：代碱治疗先查**尿 Cl** 定 responsive/resistant，再选药；NS 是 saline-responsive 的答案。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q2826]] 肝硬化袢利尿致代碱（同为低 K 低 Cl 代碱）
+>   - [[mistakes/uworld-mistakes#^Q2786]] ABG 判读（代碱 HCO3 高）
+> - 📚 主笔记：[[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]] / [[完整笔记/专题笔记/肾脏/肾脏_酸碱代偿完整SOP]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（bulimia nervosa：lanugo + 牙釉质侵蚀 + 自诱呕吐）
+> - 🌱 TODO：已把"代碱 saline-responsive vs resistant（尿 Cl）"增量同步进电解质急症速查
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q4866
+> - [ ] 默写代碱 saline-responsive vs resistant（尿 Cl <20 vs >20）+ 各治疗
+> - [ ] 反射训练：代碱先查尿 Cl
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: 代谢性碱中毒 saline-responsive(尿Cl<20)→NS — 21F bulimia(lanugo+牙釉质侵蚀+自诱呕吐)呕吐丢 HCl 启动代碱+Cl 耗竭/容量收缩 perpetuate；K2.4↓Cl90↓HCO3 40↑尿 Cl9↓=saline-responsive→0.9%NS 补容量+Cl 恢复肾排 HCO3+补 K；分型尿 Cl<20 responsive(呕吐/NG/既往利尿/收缩性碱 NS)vs>20 resistant(Conn/Cushing/Bartter-Gitelman/当前利尿 治原发)；尿 Cl 比尿 Na 可靠(RAAS 让尿 Na 失真)；干扰项(A acetazolamide 容量过载用本题容量不足 / B NH4Cl 无法给 NS 时 / C 纸袋呼酸 / D fludrocortisone Addison 高 K 代酸 / F spironolactone Conn 有高血压尿 Cl 高)；知呕吐→代碱但不确定为何 NS 而非 acetazolamide 没用尿 Cl9 定 responsive / 同主题 Q2826 袢利尿代碱 Q2786 ABG
+> 状态:: 🟡
+> 错因:: 知识
