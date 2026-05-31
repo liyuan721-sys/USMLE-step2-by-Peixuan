@@ -1,5 +1,3 @@
-# UWorld 错题整理
-
 ## 2026-05-10
 
 > [!example]- [2026-05-10] Biostats / Hill's criteria — Dose-Response 识别 (Q20787)
