@@ -31997,3 +31997,74 @@
 > 主题:: 高钾急症(TLS,K6.8,peaked T)已给 calcium → 下一步 Insulin+glucose — Burkitt 化疗 2 天→TLS(高 K+低 Ca+HCO3↓)；ECG peaked T+K6.8=emergency；3S 治疗阶梯(①Stabilize IV calcium gluconate 稳膜不降 K 数分钟已给 ②Shift 入细胞快 insulin+glucose 首选 insulin↑Na-K ATPase+glucose 防低糖 / β2 agonist 3 线 CAD-angina 慎 / NaHCO3 单用差 ③Sink 移出体外慢>30min furosemide 肾-patiromer 肠-dialysis 血 ESRD recalcitrant 准备>1h)；calcium 不降 K 只稳膜，真正降 K 靠 shift+移出；dextrose alone 无 insulin 无效 / 5 选 1 鉴别(A hemodialysis 准备>1h ESRD recalcitrant 用 / B dextrose alone 无 insulin 不 shift / C inhaled β2 3 线 angina 慎 / D insulin+glucose ✅ / E furosemide >30min 太慢 / F NaHCO3 单用差) / TLS=Burkitt+化疗 2 天+高 K+低 Ca+HCO3↓经典诱因 / 同主题 Q19 元凶定位 + Q2167 门诊非急症互补
 > 状态:: 🟢
 > 错因:: ✅ 做对（知识入库）
+
+> [!example]- [2026-05-30] 肾 / RTA — Sjögren+低K高Cl正常AG代酸+尿pH>5.5 → Type 1 远端RTA (Q18881) 🟡 做对但不会
+> ^Q18881
+>
+> ## Stem 模式
+> 58 岁女，5 年 Sjögren 史（眼干口干 + 腮腺肿大），疲劳 + 肌痉挛。K 3.1↓ / Cl 116↑ / HCO3 13↓ / pH 7.32 / PaCO2 26 / **尿 pH 6.8**。问酸碱紊乱的原因 → 选 **B "impaired urinary acid excretion"**（远端泌 H⁺ 障碍 = Type 1 RTA）。
+>
+> ## 核心概念
+> **低 K + 高 Cl + 低 HCO3 + 正常 AG = NAGMA（正常阴离子间隙代酸 / hyperchloremic）。** 本题 AG = 139−(116+13) = **10（正常）**。在代酸背景下 **尿 pH > 5.5 不恰当地偏碱** = 远端肾小管无法酸化尿液 = **Type 1 (distal) RTA**，是 Sjögren 经典并发症。
+>
+> ## 普适规则
+>
+> ### NAGMA 四病因 + 尿 pH + 尿 AG 一表分（USMLE 核心鉴别）
+>
+> | 病因 | K | 尿 pH | 尿 AG | Stem 线索 |
+> |---|---|---|---|---|
+> | **腹泻**（GI 丢 HCO3）| ↓ | **酸 < 5.5** | **负**（neGUTive）| 肠丢碱，肾正常酸化 |
+> | **Type 1 远端 RTA** | ↓ | **碱 > 5.5** ⭐ | 正 | Sjögren / 自免 / 肾结石 / amphotericin |
+> | **Type 2 近端 RTA** | ↓ | 多变（早 < 5.5）| 正 | Fanconi / MM / Wilson / acetazolamide |
+> | **Type 4 RTA** | **↑** | < 5.5 | 正 | 老糖人 + 糖尿病肾病 + 低肾素低醛 |
+>
+> ### 两步定位法
+> 1. **AG 正常 + 低 HCO3** → 锁定 NAGMA（vs 高 AG 的 MUDPILES/DKA/lactate）
+> 2. **看尿能否酸化**：代酸时尿 pH **> 5.5（不恰当偏碱）= 远端 RTA（Type 1）**；尿 pH < 5.5（肾正常代偿）= 腹泻 / Type 2 / Type 4
+> 3. 分不清腹泻 vs RTA → 算 **尿 AG = U_Na + U_K − U_Cl**：**负 = 腹泻（neGUTive，肠道在排 NH4Cl）**；**正 = RTA（肾排不出 H⁺/NH4⁺）**
+>
+> ## 易混陷阱（普适）
+>
+> - **A "impaired respiratory muscle function"**（呼吸肌障碍 = 呼酸）→ 呼酸应 **PaCO2 ↑ (>40)**；本题 **PaCO2 26 是低的** = 对代酸的代偿性呼吸性碱化（Winter: 预期 PaCO2 = 1.5×13+8 = 27.5 ±2，本题 26 = 单纯代酸恰当代偿，无叠加呼吸紊乱）。
+> - **C/F 腹泻 / HCO3 入胞**：也是 NAGMA，但肾酸化完好 → **尿 pH 应 < 5.5**；本题尿 pH 6.8 偏碱 = 肾酸化缺陷，排除。
+> - **D 酮酸 / E 乳酸**：是 **高 AG (AGMA)**；本题 AG = 10 正常，直接排除。
+> - **指纹钩子**：低 K + 高 Cl + 正常 AG 代酸 → 见 [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全#2.3 RTA 四型对比 ⭐]]
+>
+> ## 我为什么错
+> - 选了：B（**做对了，但其实不会**）
+> - 错因：[知识] —— 知道 Sjögren↔RTA 这个联想，但**没有走"AG 正常→NAGMA→尿 pH 判酸化能力"的完整逻辑链**，靠病因联想蒙对，PaCO2 26 为什么不是呼吸问题也说不清。
+> - 核心卡点：① 不会现场算 AG 判正常/升高；② 不知道"代酸时尿 pH > 5.5 = 远端 RTA"这条硬指纹；③ 不会用 Winter 公式确认 PaCO2 是代偿而非原发。
+>
+> ## Memory Hook
+>
+> > **"代酸 + 尿不变酸（pH > 5.5）= 远端肾在偷懒 = Type 1 RTA"**
+> > Sjögren（干燥的口眼）→ 干燥的肾小管，泌不出 H⁺。
+> > NAGMA 助记 **HARDASS**：Hyperalimentation / **A**cetazolamide / **R**TA / **D**iarrhea / Addison / Spironolactone / Saline。
+> > 尿 AG：**neGUT-ive = GUT（腹泻）**；正值 = 肾（RTA）。
+>
+> ---
+>
+> ## 🤔 我的提问 / 卡点
+> - 问：正常尿 pH 多少？→ 4.5–8.0，典型 5.5–6.5；关键阈值 **代酸背景下 > 5.5 提示远端 RTA**。
+> - 问：低 K 高 Cl 考虑什么？→ 正常 AG 代酸（NAGMA / hyperchloremic）；HCO3 丢失 → Cl 代偿升高 + K 常伴丢失。
+>
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes#^Q3895]] 钙草酸结石防复发（Type 1 RTA 易致钙磷结石，同日肾）
+>   - 待积累更多 RTA / 酸碱题
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/肾脏]] / [[完整笔记/专题笔记/肾脏/肾脏_酸碱代偿完整SOP]] / [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/骨科]]（Sjögren 自免病；肾外表现 = 远端 RTA + 间质性肾炎）
+> - 🌱 TODO：等积累 ≥3 道 RTA / NAGMA 题 → 在指纹大全 Part 2.3 补"NAGMA 决策树版"（已先把尿 AG 增量同步进去）
+>
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q18881（验证能走完整逻辑链而非蒙）
+> - [ ] 默写 NAGMA 四病因 + 尿 pH + 尿 AG 一表分
+> - [ ] 默写两步定位法 + Winter 公式现场算一遍
+> - [ ] 反射训练：见"代酸 + 尿 pH > 5.5" → 锁 Type 1 远端 RTA
+>
+> ---
+>
+> 学科:: 肾
+> 主题:: NAGMA 鉴别 + Type 1 远端 RTA — 低 K+高 Cl+正常 AG 代酸(AG=10)+尿 pH 6.8>5.5+Sjögren → impaired urinary acid excretion(远端泌 H⁺ 障碍)；NAGMA 四病因(腹泻尿 pH<5.5 尿 AG 负 / Type1 远端尿 pH>5.5 低 K / Type2 近端 Fanconi / Type4 高 K 老糖人)；两步法(①AG 正常→NAGMA ②代酸时尿 pH>5.5=远端 RTA<5.5=腹泻/Type2/4 ③尿 AG 负=腹泻正=RTA)；PaCO2 26 是 Winter 代偿(1.5×13+8=27.5)非呼酸(呼酸 PaCO2>40)；干扰项(A 呼吸肌=呼酸 PaCO2↑ / C-F 腹泻尿 pH<5.5 / D-E 高 AG)；做对但靠 Sjögren↔RTA 联想蒙、不会算 AG 不知尿 pH 硬指纹 / 同主题 Q3895 钙结石互补
+> 状态:: 🟡
+> 错因:: 知识
