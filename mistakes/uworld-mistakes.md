@@ -15220,7 +15220,7 @@
 >
 > 学科:: Psych
 > 主题:: 急性躁动药物管理（lorazepam ± haloperidol IM）/ 急性即刻处理 ≠ 长期维持框架（情绪稳定剂口服·需数天滴定，救不了急性）
-> 状态:: 🔴 反复错（与 Q2355 同考点「急性即刻处理 ≠ 长期维持」连续第 2 次错：2026-05-21 Q2355 误选 Valproate、2026-05-22 Q15856 误选 Lithium）
+> 状态:: 🟡（与 Q2355 同考点「急性即刻处理 ≠ 长期维持」连续第 2 次错：2026-05-21 Q2355 误选 Valproate、2026-05-22 Q15856 误选 Lithium → 升 🔴 / 5-30 浩斯宾 Q17 ✓（标不确定）+ 5-31 浩斯宾 Q21 ✓（确定）连对 2 次 → 降 🟡，再连对 1 次降 🟢）
 > 错因:: pattern
 
 > [!example]- [2026-05-22] Psych / 急性精神病的初始抗精神病药选择 (Q4895)
@@ -21997,7 +21997,7 @@
 >
 > 学科:: Biostats
 > 主题:: USMLE 答案选项策略 ("D = any of the above" 暗号) / DPN first-line 4 选 1 平等
-> 状态:: 🔴 反复错（5-24 Q19 首错 / 5-26 浩斯宾 Q2 再错 → 升级）
+> 状态:: 🟡（5-24 Q19 首错 / 5-26 浩斯宾 Q2 再错 → 升 🔴 / 5-30 浩斯宾 Q19 ✓ + 5-31 浩斯宾 Q22 ✓ 连对 2 次 → 降 🟡，再连对 1 次降 🟢）
 > 错因:: pattern
 
 > [!example]- [2026-05-26] Ethics / Lifestyle counseling first step = SMART goal via MI（不是 tracking log / 不是 confidence rating / 不是 specific Rx）(浩斯宾 Q12)
@@ -24813,7 +24813,7 @@
 >
 > 学科:: Ethics
 > 主题:: RCA primary purpose = identify underlying causes of past events（不是 future vulnerabilities = FMEA 语言）/ 4 大 Error Analysis Tools 钉死（RCA past / FMEA future / CCA aggregate multiple / M&M case discussion）/ Stem retrospective 三大信号（errors HAVE occurred / investigations reveal / RCA recommended）/ 选项陷阱字眼 → 工具识别表（future + potentially + vulnerabilities = FMEA）/ RCA 3 大原则（fundamental factors / focus on systems no blame / action plan）
-> 状态:: 🟡 + #考前必看（5-24 Q19553 + 5-25 Q22581 + 5-27 Q8 第 3 次同型错 → 升 🔴 / **5-28 浩斯宾 Q20 ✓ 反射建立** — 识破 A "future vulnerabilities" = FMEA 语言 / **5-30 浩斯宾 Q2 反向 FMEA ✓ + Q23 RCA ✓ 连对 → 降 🟡 + 取消 #难记**；再连对 1 次降 🟢，保留 #考前必看）⚠️
+> 状态:: 🟢 + #考前必看（**5-31 浩斯宾 Q23 ✓ 连对达 🟢门槛** / 5-24 Q19553 + 5-25 Q22581 + 5-27 Q8 第 3 次同型错 → 升 🔴 / **5-28 浩斯宾 Q20 ✓ 反射建立** — 识破 A "future vulnerabilities" = FMEA 语言 / **5-30 浩斯宾 Q2 反向 FMEA ✓ + Q23 RCA ✓ 连对 → 降 🟡 + 取消 #难记**；再连对 1 次降 🟢，保留 #考前必看）⚠️
 > 错因:: pattern
 
 > [!example]- [2026-05-27] Ethics / 老年 — Home Health Care vs SNF / admit 反复错（浩斯宾 Q9 — 升级 Q20431 🔴 反复错 + 加 #考前必看）⚠️
@@ -25157,7 +25157,7 @@
 >
 > 学科:: 骨科
 > 主题:: 老年 Fall 3 层防御（primary 防发生 / secondary 减 injury / tertiary recovery）/ Secondary fall injury prevention = bone density 优化（FRAX 10-yr risk >2.5% → DEXA → bisphosphonate）/ Hip fracture 是 fall 后 leading serious injury / Fall 反 pattern 4 联（call alarm 无法激活 / hip protector 依从性差 / 停抗凝违反 AF stroke 风险铁律 / cane for fear 反增 fall）/ AF + fall = 不停抗凝（stroke ≫ SDH）/ "Primary 已做 → 切 secondary 思维模型" / Bisphosphonate 治疗 threshold（10-yr fracture risk >2.5% 或 T ≤ -2.5）
-> 状态:: 🔴 反复错 + #考前必看（5-26 Q107152 bed alarm 错 + 5-27 Q107154 call alarm 错 — call alarm 反 pattern 2 次未固化 → 升 🔴 / **5-30 浩斯宾 Q5 + Q20 ✓ 反射首次建立 连对 1 次** — 识破 call alarm 非 evidence-based，选 strength training + DEXA + bisphosphonate；维持 🔴，再 1 次降 🟡）⚠️
+> 状态:: 🟡 + #考前必看（5-26 Q107152 bed alarm 错 + 5-27 Q107154 call alarm 错 — call alarm 反 pattern 2 次未固化 → 升 🔴 / **5-30 浩斯宾 Q5 + Q20 ✓ 反射首次建立 连对 1 次** + **5-31 浩斯宾 Q19 ✓ 连对 2 次 → 降 🟡** — 识破 call alarm 非 evidence-based，选 strength training + DEXA + bisphosphonate；保留 #考前必看，再连对 1 次降 🟢）⚠️
 > 错因:: 干扰项
 
 > [!example]- [2026-05-27] Ethics / Patient Safety — 诊断错误 root cause = Cognitive Overload（busy urgent care + multitasking → availability bias 40% + confirmation bias 40% = 80% errors）(Q106048)
@@ -29050,7 +29050,7 @@
 >
 > 学科:: Psych
 > 主题:: DLB ψ vs PD ψ 钓饵（ψ 早于 levodopa + cognitive fluctuation = DLB）/ DLB 一线 rivastigmine + 抗精神病药相对禁忌（30-50% severe sensitivity reaction NMS-like）/ "1-year rule" parkinsonism ≤1 yr before cog decline = DLB vs >1 yr = PDD / DLB 4 大支持特征 / Pimavanserin = 安全 fallback（无 D2 拮抗）/ 反射钩误覆盖元 pattern — 建立反射钩后必配反 pattern 警示词
-> 状态:: 🔴 + #考前必看 + #难记（PD ψ Step 5 反射误覆盖 + DLB 知识缺口双因 / 5-28 浩斯宾 Q19 钓饵再踩 / **5-30 浩斯宾 Q21 ✓ 反射首次建立 连对 1 次** — ψ 早于 levodopa + cognitive fluctuation = DLB → rivastigmine；维持 🔴，再 1 次降 🟡）⚠️⚠️
+> 状态:: 🟡 + #考前必看 + #难记（PD ψ Step 5 反射误覆盖 + DLB 知识缺口双因 / 5-28 浩斯宾 Q19 钓饵再踩 / **5-30 浩斯宾 Q21 ✓ 反射首次建立 连对 1 次** + **5-31 浩斯宾 Q20 ✓ 连对 2 次 → 降 🟡** — ψ 早于 levodopa + cognitive fluctuation = DLB → rivastigmine + 抗精神病药相对禁忌；保留 #考前必看 + #难记，再连对 1 次降 🟢）⚠️
 > 错因:: pattern
 
 > [!success]- [2026-05-28] 肾 / Struvite Stone — 长大不规则 staghorn + 反复 UTI + urease+ 细菌 → 尿氨↑ + pH>8 + coffin lid 晶 (Q15682) ✅做对 1:01
@@ -29946,7 +29946,7 @@
 >
 > 学科:: 内分泌
 > 主题:: Severe symptomatic hypercalcemia 急救（NS 200-300mL/hr first + calcitonin 24-48hr 快但耐药 + bisphosphonate zoledronic 2-4 天 long-term；急症先治不诊断不先 bone marrow biopsy）/ 3 级分层（Severe Ca>14 或症状 → NS+calcitonin / Mod 12-14 usually 无 immediate / Mild<12 无 immediate + 避免 thiazide-lithium-volume depletion-长卧床）/ 6 治疗对照（NS first 容量复苏 GFR↑ Ca 尿排↑ / Calcitonin 24-48hr tachyphylaxis 耐药 / Bisphosphonate 2-4 天 long-term / Glucocorticoid 2-5 天仅 Vit D-肉芽肿-淋巴瘤 / Hemodialysis 即刻仅肾衰-HF 不能 saline / Loop diuretic 仅 volume overload 不 routine / Denosumab 难治后备）/ CHIMPANZEES 12 因 / Malignancy-HyperCa 3 机制（PTHrP 鳞癌-头颈-肾-乳腺 vs 溶骨 MM-乳腺-前列腺 vs 1,25-VitD↑ 淋巴瘤-肉芽肿）/ MM "CRAB"（hyperCa / Renal / Anemia / Bone + M-spike）/ 反 pattern: 急症先治不诊断 / Furosemide 仅 HF 不 routine 反致 AKI / Bisphosphonate 起效慢非急救 / Glucocorticoid 病因特异 / Hemodialysis 仅 saline 不能用 / Insulin 是 hyperK 不是 hyperCa
-> 状态:: 🟡 + #考前必看（电解质急症 + 急症先治不诊断元 pattern + 高钙 6 治疗选择高频考）
+> 状态:: 🔴 + #考前必看（电解质急症 + 急症先治不诊断元 pattern + 高钙 6 治疗选择高频考 / 5-28 误选 bone marrow biopsy（先诊断）+ 5-31 浩斯宾 Q12 未选 NS（犹豫 calcitonin/透析）— "急症先 NS 补容量+利钙尿"反射仍未建立，反复错 → 升 🔴）
 > 错因:: pattern
 
 > [!example]- [2026-05-28] 肾 / ADPKD 正向锁定指纹 — 51yo + Bilateral flank pain + 肝大 + flank mass + 早 HTN + 10 yr nocturia + CKD + 贫血 (Q4474) ✅做对但**排除法**未建正向反射
