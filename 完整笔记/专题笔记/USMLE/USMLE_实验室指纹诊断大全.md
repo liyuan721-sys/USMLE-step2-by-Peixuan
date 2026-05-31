@@ -383,6 +383,30 @@ source_错题: Q17169 触发
 > [!tip] 一句话记忆钩
 > "Type 1/2 低 K，Type 4 高 K；Type 1 尿 pH 高，Type 2/4 尿 pH 低；**老糖人 + 高 K + 代酸 = Type 4**；甜 = DKA；黑 = Addison；老 = Type 4。"
 
+#### RTA 的先天 / 遗传病因总表 ⭐（按年龄分两套：婴儿 = 遗传性，成人 = 后天）
+
+> [!warning] 病因按年龄分两套
+> **成人新发 RTA = 后天获得**（自免 / 药 / 副蛋白）；**婴儿 / 新生儿期起病 = 原发遗传性**（基因突变直接坏掉小管转运体）。同一个泵坏，病因换一套。儿科 FTT + NAGMA 就是遗传性 RTA 的典型首发（来源 [[mistakes/uworld-mistakes#^Q4828]]）。
+
+| 类型 | 遗传病 / 基因 | 遗传方式 | 识别钩子 ⭐ |
+|---|---|---|---|
+| **Type 1 远端** | **ATP6V1B1**（H⁺-ATPase B1 亚基）| AR | **伴感音神经性耳聋**（早发）⭐ |
+| Type 1 远端 | ATP6V0A4（H⁺-ATPase a4 亚基）| AR | 耳聋较晚 / 可变 |
+| Type 1 远端 | **SLC4A1**（AE1，Cl⁻/HCO3⁻ 交换体）| AD（多）/ AR | 可伴**遗传性球形 / 椭圆形红细胞增多** |
+| **Type 2 近端**（多为 **Fanconi** 一部分）| **胱氨酸贮积症 cystinosis（CTNS）** | AR | **儿童 Fanconi 最常见病因** ⭐ + 角膜胱氨酸结晶 + 生长迟缓 |
+| Type 2 / Fanconi | **Wilson 病**（ATP7B）| AR | K-F 环 + 肝病 + 神经精神 |
+| Type 2 / Fanconi | 半乳糖血症 / 遗传性果糖不耐受 | AR | 喂奶 / 进果糖后呕吐 + 低血糖 + 肝大 |
+| Type 2 / Fanconi | 酪氨酸血症 I 型 | AR | 肝衰 + 煮卷心菜味 |
+| Type 2 / Fanconi | **Lowe 综合征**（OCRL）| **X 连锁** | 眼脑肾三联（先天白内障 + 智力障碍 + Fanconi）|
+| Type 2 / Fanconi | Dent 病（CLCN5）| X 连锁 | 低分子蛋白尿 + 高钙尿 + 肾结石 |
+| **Type 4**（醛固酮抵抗）| **假性醛固酮减少症 1 型 PHA1**：ENaC（SCNN1，AR 重型）/ MR 受体（NR3C2，AD 轻型）| AR / AD | 新生儿**失盐危象**（低钠 + 高钾 + 代酸 + 醛固酮↑↑）；AD 型随龄改善 |
+| Type 4（高钾高血压型）| **Gordon 综合征 / PHA2**（WNK1/4、KLHL3、CUL3）| AD | **高钾 + 高血压 + NAGMA + 低肾素**，**噻嗪特效** ⭐ |
+
+> [!tip] 三个最高频钩
+> - **远端 RTA 婴儿 + 耳聋 → ATP6V1B1（H⁺-ATPase）突变** ⭐
+> - **儿童 Fanconi（Type 2）找代谢病 → 首位 cystinosis**；再想 Wilson / 半乳糖血症 / 果糖不耐受
+> - **PHA1（婴儿失盐 + 高钾，醛固酮高 = 抵抗不是缺乏）** vs **Addison/CAH（醛固酮低 = 缺乏）**——醛固酮高低是分水岭
+
 ### 2.4 TLS（肿瘤溶解综合征）
 
 | 指纹 | **K↑ + Phos↑ + UA↑ + Ca↓**（4 联）+ AKI |
