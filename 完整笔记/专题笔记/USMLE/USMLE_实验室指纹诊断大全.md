@@ -311,6 +311,13 @@ source_错题: Q17169 触发
 | **Type 2**（近端）| **↓** | < 5.5（早期）| 正常 | PCT 重吸收 HCO3 障碍 + Fanconi | MM / Wilson / 重金属 / acetazolamide |
 | **Type 4**（醛固酮抵抗）⭐ | **↑** | < 5.5 | **正常** | Aldo 缺乏 / 抵抗 → K 不能排 + H+ 排泌↓ | 见下表 |
 
+> [!danger] 入口反射：「低钾 + 高氯」先想 NAGMA，再用血钾切 Type 4 ⭐
+> **看到「低 K + 高 Cl + 低 HCO3」第一反应 = NAGMA（正常 AG 代酸）**，别急着算 AG 也已八九不离十。
+> **关键捷径——先用血钾把 Type 4 切出去**：Type 4 是四病因里唯一**高钾**的（aldo 抵抗 → 排不出 K）。
+> - **低钾 + 高氯 → 基本排除 Type 4**，只剩 **腹泻 / Type 1 / Type 2**（再走下面两步）
+> - **高钾 + 高氯 → 直奔 Type 4**（老糖人 + 糖尿病肾病，见下方完整指纹）
+> 一句话：**「钾低看远近端 RTA / 腹泻，钾高直接 Type 4」**。
+
 > [!tip] NAGMA（正常 AG 代酸）两步定位 + 尿 AG ⭐（Q18881 触发增量）
 > NAGMA = 低 HCO3 + **正常 AG** + 高 Cl（hyperchloremic）。四病因 = **腹泻 / Type 1 / Type 2 / Type 4 RTA**。
 >
