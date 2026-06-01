@@ -107,6 +107,21 @@ Linked vignette 题里，**Item 1 给的数字往往是 Item 2 的 decisive cont
 
 ## 二、QI 工具 — Prospective vs Retrospective
 
+### 2.0' 一句话锁定（5 工具条件反射版）⭐⭐⭐
+
+> [!tip] 看 buzzword 直接锁工具，不犹豫
+> | 工具 | 一句话核心 | Stem buzzword |
+> |---|---|---|
+> | **Six Sigma** | 减少变异 / 近零缺陷（统计驱动）| "reduce variation" / "near-zero defects" / "3.4 per million" / "6σ" / "statistical process control" |
+> | **Lean** | 减少浪费 / 提高效率（去掉不增值步骤）| "eliminate waste" / "streamline" / "efficiency" |
+> | **PDSA**（Plan-Do-Study-Act）| 小范围快速试错循环 | "small (rapid) test of change" / "pilot then scale" / "rapid cycle" |
+> | **RCA**（Root Cause Analysis）| 事件**发生后**回溯找根因（retrospective）| "after a sentinel event" / "wrong-site surgery occurred" / "fishbone" |
+> | **FMEA**（Failure Mode & Effects Analysis）| 事件**发生前**预判可能出错处（prospective）| "before operations begin" / "new unit not yet opened" / "proactively identify risks" |
+
+> [!warning] 两条最高频一刀切
+> - **Six Sigma（减变异）vs Lean（去浪费）**：3.4 per million / reduce variation → Six Sigma；eliminate waste / streamline → Lean（详见 §2.7.1）。
+> - **RCA（事后 retrospective）vs FMEA（事前 prospective）**：出事**之后**查根因 → RCA；出事**之前**防漏洞 → FMEA（字眼陷阱详见 §13.12.8）。
+
 ### 2.0 Variation Management — Common Cause vs Special Cause ⭐⭐⭐（AMBOSS 增量 v1.2）
 
 **Variation 定义**：医疗系统中 expected outcome vs actual outcome 的差异。一些 variation 是必要的（个性化照护）；不可预测的 variation 才是 QI 改进目标。
