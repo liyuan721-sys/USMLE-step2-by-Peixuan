@@ -1019,8 +1019,9 @@ CNS hyperarousal 反弹（GABA 突然撤离）
 
 | 指纹 | **CK↑↑↑** (>5× ULN) + **尿肌红蛋白**（dipstick 阳性 + 镜下无 RBC）+ K↑ + Phos↑ + Ca↓ + AKI |
 |---|---|
-| **病因** | 挤压伤 / statin / 长时间地上躺 / 强训 / 抽搐 / 中暑 |
+| **病因** | 挤压伤 / statin / 长时间地上躺 / 强训 / 抽搐 / 中暑 / **阿片过量制动**（found down）|
 | **治疗** | **大量补液**（首选，2-3 L/h IV NS）+ 监测 K + 必要时透析 |
+| **来源** | [[mistakes/uworld-mistakes_2026-06#^Q4683]] found down + 花斑 + K↑PO4↑Ca↓ + AST>ALT → 2 天内 AKI（做对但不确定 2026-06-04）；Na 正常可直接排除 ODS |
 
 ### 6.5 Refeeding 综合征
 
