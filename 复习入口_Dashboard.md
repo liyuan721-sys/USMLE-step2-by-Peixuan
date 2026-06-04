@@ -24,7 +24,131 @@ status: 常驻
 
 ---
 
-## 🎯 当前焦点 — 2026-05-28 浩斯宾 23/25（**A 级 92%**）+ **5-27 升级题 5/5 全部反射建立创历史新高** ⭐⭐⭐⭐⭐
+## 🗓️ 考前 10 周计划（2026-06-05 制定）
+
+> [!success] 暂定考期 — **2026-08-18~20**（W3 出分后正式确认，可 ±1 周）
+> 起跑 6/8（周一），每周休半天 ≈ 6.5 有效天/天 13h（7:00-11:30 / 12:30-17:30 / 18:30-22:00）。
+> 现状：UWorld 已做 96%（剩 181），正确率 57%，独立错题 ~2000-2200。
+
+### 三阶段主线
+
+```
+W1-W3  错题歼灭战（已锁）   → 收尾 181 + 错题刷完 + Biostats/Ethics 打地基
+W4-W8  全库二刷（范围待定） → W3 出分定:智能二刷 or 仅错题+弱科
+W9-W10 Taper + Free120     → 不学新内容,临考雷达
+```
+
+### W1-W3 锁定（错题歼灭）
+
+| 周 | 日期 | 主线 | 评估检查点 |
+|---|---|---|---|
+| **W1** | 6/8-6/14 | 收尾 181 未做 + 错题刷（心内/肾/Heme）+ Biostats/Ethics 每日 40min | NBME 11（基线）|
+| W2 | 6/15-6/21 | 错题主刷（感染/儿科/肺）+ Biostats 续 | — |
+| W3 | 6/22-6/28 | 错题刷完（风湿/皮/眼）+ 错题日志整理 | NBME 13（**出分定二刷范围**）|
+
+> [!warning] W3 决策闸门
+> - NBME 13 **≥ 235** + 进度不滞后 → 二刷走**智能版**（错题+flagged+弱科抽样），考期锁 8 月中
+> - NBME 13 **< 225** 或滞后 → 二刷只做错题+弱科，砍已对题，考期留 buffer 到 8 月底
+
+### W4-W10 评估排布（最预测的压最后）
+
+```
+W5 UWSA1 │ W6 NBME14 │ W7 UWSA2(强预测) │ W8 NBME15
+W9 NBME16 + Free120#1 │ W10 Free120 #2/#3 + UWSA3 → 考试
+```
+
+> [!danger] Go/No-Go 放行标准
+> W8-W10 评估（NBME 15/16 + Free120）**稳定 ≥ 245** → 按期考；若 <235 → 用半天 buffer 推 1-2 周（最晚 9 月初仍在窗口）。
+
+### 平行线：OET + ECFMG（别堆在 CK 后）
+
+> [!danger] 顺序别搞反：认证资格(eligibility) ≠ 认证(certification)
+> **ECFMG 认证是终点，不是前提**——它要求先过 Step1+Step2CK+OET+学历核验。报考 Step 2 **只需「认证资格」**（MyIntealth 申请状态到 **Accepted / Pending Credential Verification**），不是 full certification。
+> - 报考入口 2024 起转到 **FSMB**（`usmle.fsmb.org`），后台自动核验 ECFMG eligibility
+> - **EPIC 在并行跑 = 正确且足够，不卡报考 Step 2**（已在做 ✓）
+> - 全套**认证**只会在 CK 出分(9月中)后才完成 → 9/2 提交 ERAS 时认证 "in progress" 是常态
+
+```
+现在(6月)   → ① 确认 ECFMG 认证申请状态到 Accepted/Pending（这才是报考 Step2 的闸门）
+             → ② 去 FSMB 选 8 月考试窗 + 拿 permit + Prometric 约位（热门点位早满）
+             → EPIC 继续跑（并行，不卡考试）
+7月初/中    → OET：先裸做 1 套模拟定要不要练 → 占晚上练 Writing 信+Speaking role-play → 考
+7月底/8初   → OET 出分(~3周)
+8/20       → Step 2 CK   │   9/2-3 → 提交 ERAS   │   9/23-24 → 项目开审
+9月中       → CK 出分 → 认证最后一块拼齐
+```
+- OET 强制（与"不做实习"无关）：L/R/S ≥350、W ≥300，单次达标，2025/1/1 后有效
+- 待核实：目标专科要求 ECFMG **认证**是"面试前"还是"排名前"完成
+
+### 两个长期盯防点
+- **Biostats / Ethics 完全没碰** → W1 起每日 40min，地基：[[完整笔记/Peixuan分科笔记/Biostats_Master]] / [[完整笔记/Peixuan分科笔记/Ethics_Master]]
+- **Correct→Incorrect 188（改答案改错）** → 二刷时记录第一直觉 vs 改后命中率，详见 [[完整笔记/专题笔记/USMLE/USMLE_即时精析与入库速查]] Part 5
+
+> [!info] 关联
+> 复盘 SOP → [[完整笔记/专题笔记/USMLE/USMLE_即时精析与入库速查]] ｜ 评估记录 → [[NBME/nbme-records]] ｜ 弱科焦点 → [[薄弱点]] ｜ **报考链路分步勾选** → [[Match申请追踪]]
+
+---
+
+## 🎯 当前焦点 — W1（6/8-6/14）错题歼灭：收尾 181 + 心内/肾/Heme 错题刷 + NBME 11 基线 + Biostats/Ethics 起步
+
+> [!tip] 每日通用模板（13h）
+> **上午 7:00-11:30** 计时 block（新/错题）+ 每 block 完立刻【即时精析】｜ **下午 12:30-17:30** 深精析 + 错题入库 + unused 清理 ｜ **晚上 18:30-22:00** Biostats/Ethics 40min + 主动回忆当日错题
+> 精析协议见 [[完整笔记/专题笔记/USMLE/USMLE_即时精析与入库速查]]
+
+### 本周目标产出（周末验收）
+
+- [ ] **181 unused 清零**（Tue-Sat 每天 ~35 题滚动消化）
+- [ ] 心内 / 肾 / Heme-Onc 的 **incorrect 各过一遍**（UWorld 按 subject+incorrect 筛，看各自题量分配天数）
+- [ ] **NBME 11 基线分**记录 → [[NBME/nbme-records]]，并据最弱 system 微调本周错题优先级
+- [ ] Biostats / Ethics **每日 40min ×6**（地基，别拖到最后）
+- [ ] W1 错题入库 + 衍生加反链（按入库过滤器，不全入库）
+
+### 每日 to-do
+
+**周一 6/8 — NBME 11 基线日**
+
+- [ ] AM：NBME 11 全长模考（4 blocks 计时，练考试节奏）
+- [ ] PM：判分 + 逐题精析，圈出最弱 system → 定本周错题刷顺序
+- [ ] Eve：Biostats 40min（研究设计/描述统计起步）+ 当日错题入库
+
+**周二 6/9 — 心内错题 + 收尾**
+
+- [ ] AM：2 block 心内 incorrect 计时重做 + 即时精析
+- [ ] PM：深精析 + 心内错题入库（已覆盖的去衍生加反链）+ unused ~35
+- [ ] Eve：Ethics 40min（informed consent / capacity 起步）+ 回忆当日错题
+
+**周三 6/10 — 心内收尾 + 肾起步**
+
+- [ ] AM：心内 incorrect 剩余 + 肾 incorrect 开刷
+- [ ] PM：精析 + 入库 + unused ~35
+- [ ] Eve：Biostats 40min + 回忆
+
+**周四 6/11 — 肾错题主刷**
+
+- [ ] AM：2 block 肾 incorrect + 即时精析
+- [ ] PM：精析 + 入库 + unused ~35
+- [ ] Eve：Ethics 40min + 回忆
+
+**周五 6/12 — Heme-Onc 错题主刷**
+
+- [ ] AM：2 block Heme incorrect + 即时精析
+- [ ] PM：精析 + 入库 + unused ~35
+- [ ] Eve：Biostats 40min + 回忆
+
+**周六 6/13 — Heme 收尾 + 周内滚动**
+
+- [ ] AM：Heme incorrect 剩余 + 本周入库错题第一次主动回忆（盖答案自测）
+- [ ] PM：unused 清零 + 改答案题命中率小结（盯 Correct→Incorrect 习惯）
+- [ ] Eve：Ethics/Biostats 40min + 回忆
+
+**周日 6/14 — 弹性 + 休半天**
+
+- [ ] AM：收尾任何 unused/错题尾巴 + W1 薄弱点小结 → [[薄弱点]]
+- [ ] PM/Eve：**休息半天**（半天可前移到任意一天，别硬扛到状态崩）
+
+---
+
+## 🎯 历史焦点 — 2026-05-28 浩斯宾 23/25（**A 级 92%**）+ **5-27 升级题 5/5 全部反射建立创历史新高** ⭐⭐⭐⭐⭐
 
 > [!success] 5-28 突破点 — 历史最佳单日反射建立数（5/5）
 > - **Q22581 RCA-FMEA 第 4 次终于答对** — 5-24/25/27 连续 3 次错的"魔咒"今天破除 → 🔴 → 🟡 + 保留 #考前必看
