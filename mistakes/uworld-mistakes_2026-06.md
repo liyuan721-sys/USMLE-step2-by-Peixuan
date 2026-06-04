@@ -13,6 +13,7 @@ type: 错题数据源
 ## 2026-06-04
 
 > [!example]- [2026-06-04] 儿科 / 婴儿 UTI 经验性抗生素 (Q15829)
+> ^Q15829
 > 
 > ## Stem 模式
 > 9 月龄女婴，发热（≥39°C）+ 喂养差 + 易激惹，无局灶体征（囟门软平、肺清、腹软无皮疹）；UA 显示 **nitrites + leukocyte esterase 阳性** → 婴儿 UTI。问经验性首选药。
@@ -52,7 +53,7 @@ type: 错题数据源
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - （暂无同主题 UTI 错题——本卡为该主题首张）
+>   - [[mistakes/uworld-mistakes_2026-06#^Q4196]] 成人女性 UTI 病原与 nitrites 判读（同 E. coli / nitrites+LE 体系，诊断角度）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/儿科]] / [[完整笔记/Peixuan分科笔记/感染]]
 > - 📚 专题：[[完整笔记/专题笔记/儿科/儿科_发热婴儿按月龄workup]] / [[完整笔记/专题笔记/感染/感染_头孢菌素分代速查]] / [[完整笔记/专题笔记/儿科/儿科_VUR分级与管理]]
 > - 🏥 跨学科：[[完整笔记/专题笔记/感染/感染_抗生素高频20场景秒杀]]（儿童禁忌药——fluoroquinolone 软骨 / tetracycline 牙齿）
@@ -71,6 +72,7 @@ type: 错题数据源
 > 错因:: 知识
 
 > [!example]- [2026-06-04] 外科 / 术后急性尿潴留 (Q4615)
+> ^Q4615
 > 
 > ## Stem 模式
 > 82 岁男性，右髋骨折术后第 2 天**躁动 + 意识混乱**；既往 BPH + 轻度认知障碍；无 Foley，**下腹压痛、按压加重躁动**；无发热、WBC 正常、术口清洁。问最佳下一步。→ 急性尿潴留（AUR）致谵妄。
@@ -131,3 +133,60 @@ type: 错题数据源
 > 主题:: 术后急性尿潴留
 > 状态:: 🟡
 > 错因:: pattern
+
+> [!example]- [2026-06-04] 感染 / UTI 病原与 nitrites 判读（做对但不确定）(Q4196)
+> ^Q4196
+> 
+> ## Stem 模式
+> 17 岁女，3 天 dysuria + 排尿后点滴出血；性活跃 3 个伴侣不用套、既往 PID；**宫颈分泌物清亮、无 CMT**；UA：nitrites 阳性 + LE 阳性 + 50 WBC/hpf；β-hCG 阴性。问最可能病原 → **E. coli**。
+> 
+> ## 核心概念
+> Dysuria + **nitrites 阳性** + LE + pyuria = UTI；**nitrites 阳性特异性指向 Enterobacteriaceae（E. coli / Klebsiella / Proteus）**——这些菌把尿中硝酸盐还原成亚硝酸盐。性活跃是 UTI 常见诱因（≠ 一定是 STI）。
+> 
+> ## 普适规则
+> 
+> **dysuria 女性病原鉴别：nitrites 是分水岭**
+> 
+> | 病原 | nitrites | 分泌物 / 体征 | 线索 |
+> |---|---|---|---|
+> | **E. coli（UTI 首位）** | ✅ 阳性 | 无异常分泌物、无 CMT | nitrites + LE + pyuria |
+> | Klebsiella / Proteus | ✅ 阳性 | 同上 | Enterobacteriaceae |
+> | Chlamydia / Trichomonas（STI） | ❌ 阴性 | **黏液脓性分泌物 + CMT** | 性传播；本例分泌物清亮、无 CMT → 不支持 |
+> | Candida（vulvovaginitis） | ❌ 阴性 | 浓稠白带 + 瘙痒 | 诱因：DM / 抗生素 / 免疫低下 |
+> | Pseudomonas / S. aureus | ❌ 阴性 | — | 仅住院 / 留置导尿患者 |
+> 
+> ## 易混陷阱（普适）
+> 性活跃 + 多伴侣 + 既往 PID 会把人**诱向 STI**，但鉴别看两点：① **nitrites 阳性 = G− 肠杆菌（UTI），STI 不会阳性**；② STI 通常有**黏液脓性分泌物 + CMT**，本例分泌物清亮、无 CMT → 排除。清亮宫颈分泌物多为生理性。
+> 
+> ## 我为什么不确定
+> - 选了：C E. coli（✅ 正确）
+> - 卡点：性史（3 伴侣 / 不用套 / 既往 PID）一度让我犹豫要不要选 Chlamydia
+> - 没踩实的点：**nitrites 阳性 = Enterobacteriaceae 特异**这条硬指标 + STI 该有 CMT + 黏液脓性分泌物（本例都没有）→ 答对≠完全掌握，要把"nitrites 一锤定音"刻进反射
+> 
+> ## Memory Hook
+> "**nitrites 阳性 = 肠杆菌（E. coli）；STI 不产 nitrites、且要有 CMT + 脓性分泌物**" —— 性史是烟雾弹，nitrites 是真凶 ID。
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 做对了但靠"感觉"，被性史干扰差点改选 Chlamydia。学到：UA 上 nitrites 阳性是客观硬证据，直接锁定 G− 肠杆菌；STI 该有的 CMT / 脓性分泌物在本例缺失。下次见 nitrites 阳性不再被性史带偏。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q15829]] 婴儿 UTI 经验药（同为 E. coli / nitrites+LE 体系，治疗角度）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/感染]] / [[完整笔记/Peixuan分科笔记/GYN]]
+> - 📚 专题：[[完整笔记/专题笔记/感染/感染_抗生素高频20场景秒杀]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/GYN]]（STI 宫颈炎——CMT + 黏液脓性分泌物 vs 生理性清亮分泌物） / [[完整笔记/Peixuan分科笔记/OB]]（育龄女性先查 β-hCG）
+> - 🌱 TODO：等感染章节复习完，整合"UA 判读速查（nitrites / LE / WBC / 病原对应）"→ 生成 [[完整笔记/专题笔记/感染/感染_尿液分析UA判读速查]]
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做（验证不再被性史干扰）
+> - [ ] 默写"nitrites 阳性病原谱"（E. coli / Klebsiella / Proteus）+ STI vs UTI 鉴别两要点
+> - [ ] 找 3 道类似题：搜 "dysuria sexually active" + "positive nitrites" + "UTI vs STI"
+> 
+> ---
+> 
+> 学科:: 感染
+> 主题:: UTI病原与nitrites判读
+> 状态:: 🟡
+> 错因:: 知识
