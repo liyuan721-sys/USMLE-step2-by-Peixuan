@@ -223,8 +223,8 @@ Major Depressive Disorder
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q-CJD-FTD误选-2026-05-12]] 同样是"看主线反射诊断"的错误模式
-  - [[mistakes/uworld-mistakes#^Q-AD-MMSE19-Memantine-2026-05-12]] 同样是 AD 治疗谱系题（但方向相反）
+  - [[mistakes/uworld-mistakes_2026-05#^Q-CJD-FTD误选-2026-05-12]] 同样是"看主线反射诊断"的错误模式
+  - [[mistakes/uworld-mistakes_2026-05#^Q-AD-MMSE19-Memantine-2026-05-12]] 同样是 AD 治疗谱系题（但方向相反）
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/neuro]]
   - [[完整笔记/Peixuan分科笔记/psych]]
@@ -394,8 +394,8 @@ PrP^Sc (异常 prion, β-pleated sheet)
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q-Pseudodementia-Donepezil误选-2026-05-12]] 同"反射性诊断 + 单一症状导向"模式
-  - [[mistakes/uworld-mistakes#^Q-FTD-镜像-2026-05-12]] 同选项不同答案的对照学习
+  - [[mistakes/uworld-mistakes_2026-05#^Q-Pseudodementia-Donepezil误选-2026-05-12]] 同"反射性诊断 + 单一症状导向"模式
+  - [[mistakes/uworld-mistakes_2026-05#^Q-FTD-镜像-2026-05-12]] 同选项不同答案的对照学习
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/neuro]]
 - 🏥 跨学科：无明显跨学科（CJD 纯 Neuro）

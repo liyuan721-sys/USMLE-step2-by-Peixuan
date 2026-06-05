@@ -107,8 +107,8 @@ BPH + LUTS（已排除前列腺癌 / 尿道狭窄 / 神经源膀胱）
 
 > [!danger] 易错点清单
 > - **finasteride 不用于急性症状缓解**——起效要数月；想"这周就好"选 α-blocker。
-> - **慢性进行性 Cr↑ 的 BPH** → 先做**肾脏超声排 hydronephrosis（肾后性梗阻）**，不是直接上药（见 [[mistakes/uworld-mistakes#^Q20536]]）。
-> - **年轻男性梗阻性排尿** + 器械史 / 外伤史 → 想**尿道狭窄（urethral stricture）**，不是 BPH（见 [[mistakes/uworld-mistakes#^Q15906]]）。
+> - **慢性进行性 Cr↑ 的 BPH** → 先做**肾脏超声排 hydronephrosis（肾后性梗阻）**，不是直接上药（见 [[mistakes/uworld-mistakes_2026-05#^Q20536]]）。
+> - **年轻男性梗阻性排尿** + 器械史 / 外伤史 → 想**尿道狭窄（urethral stricture）**，不是 BPH（见 [[mistakes/uworld-mistakes_2026-05#^Q15906]]）。
 > - **bethanechol（胆碱能）治尿潴留促排空、oxybutynin（抗胆碱）治 OAB、phenazopyridine 仅尿路镇痛**——都不是 BPH 缩体积药，别混。
 > - **白内障术前**问出 tamsulosin → 告知术者，不是停药/取消手术。
 
@@ -136,8 +136,8 @@ BPH + LUTS（已排除前列腺癌 / 尿道狭窄 / 神经源膀胱）
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes_2026-06#^Q11109]] tamsulosin 输尿管结石 MET（α1 阻滞剂同药，扩展 IFIS）
   - [[mistakes/uworld-mistakes_2026-06#^Q4615]] 术后急性尿潴留（BPH 是 AUR 主危险因素）
-  - [[mistakes/uworld-mistakes#^Q20536]] BPH 梗阻性肾病——慢升 Cr 先肾 US
-  - [[mistakes/uworld-mistakes#^Q15906]] 年轻男尿道狭窄（≠BPH 的鉴别）
+  - [[mistakes/uworld-mistakes_2026-05#^Q20536]] BPH 梗阻性肾病——慢升 Cr 先肾 US
+  - [[mistakes/uworld-mistakes_2026-05#^Q15906]] 年轻男尿道狭窄（≠BPH 的鉴别）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/肾脏]] / [[完整笔记/Peixuan分科笔记/外科]]
 - 📄 速查版：[[完整笔记/专题笔记/肾脏/肾脏_BPH药物治疗_速查]]
 - 🧭 上层决策：[[完整笔记/专题笔记/肾脏/肾脏_下尿路梗阻诊疗决策]]（BPH 在其中是病因之一）

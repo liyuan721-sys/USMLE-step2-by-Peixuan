@@ -107,7 +107,7 @@ MDMA **特异并发症**（USMLE 高频）：
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q11853]] MDMA + Serotonin Syndrome（本笔记体系的触发错题）
+  - [[mistakes/uworld-mistakes_2026-05#^Q11853]] MDMA + Serotonin Syndrome（本笔记体系的触发错题）
 - 📚 主笔记：[[完整笔记/专题笔记/psych/psych_物质急诊速查]] —— 横向比较总索引（对应 §3 中毒鉴别表、§4 Serotonin Syndrome、§9 戒断镜像、§11 Stem 模式库、§12 完整管理对照表）。
 - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/肾脏]]（MDMA 致 SIADH / 稀释性低钠血症 — 低钠分型与纠正速率、渗透性脱髓鞘风险）。
 - 🌱 TODO（待生成衍生）：等兴奋剂类错题积累 ≥3 题，整合 cocaine / meth / MDMA 横向对比 → 生成 [[完整笔记/专题笔记/_衍生_兴奋剂三剑客对比]]。

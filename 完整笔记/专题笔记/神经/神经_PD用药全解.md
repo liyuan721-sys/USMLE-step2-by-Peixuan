@@ -284,8 +284,8 @@ Pimavanserin → Quetiapine → Clozapine → ... → Risperidone → Haloperido
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q16164]] PD psychosis 管理（第 4 步顺序：adjunctive 先减，levodopa 最后）
-  - [[mistakes/uworld-mistakes#^Q12152]] PD psychosis 第 5 步用药（quetiapine 非 amantadine）
+  - [[mistakes/uworld-mistakes_2026-05#^Q16164]] PD psychosis 管理（第 4 步顺序：adjunctive 先减，levodopa 最后）
+  - [[mistakes/uworld-mistakes_2026-05#^Q12152]] PD psychosis 第 5 步用药（quetiapine 非 amantadine）
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/neuro]]（PD 主章节）
   - [[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]] ★（PD psychosis 5 步深读 + DLB vs PD ψ 反 pattern）

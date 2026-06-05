@@ -183,7 +183,7 @@ H₁ = "被告有罪"（你想证明的：有差异 / 药有效）
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#Q4121]] Randomization Success 判定（Power 概念首次出现）
+  - [[mistakes/uworld-mistakes_2026-05#Q4121]] Randomization Success 判定（Power 概念首次出现）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
 - 🌱 TODO（待生成）：积累 5+ 道 RCT 质量评估错题后，由 Claude Code 整合进 [[完整笔记/专题笔记/USMLE/USMLE_RCT质量评估]]，本卡作为核心速查部分
 

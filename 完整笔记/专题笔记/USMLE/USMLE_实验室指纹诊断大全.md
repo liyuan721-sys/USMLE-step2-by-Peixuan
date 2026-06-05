@@ -151,7 +151,7 @@ source_错题: Q17169 触发
 > - **DKA**：全身缺 K，但血清 K 假性正常 / 高（H+ 内移驱赶 K+ 外移 + 胰岛素缺乏 K 跑出细胞）→ 治疗中 K 暴跌
 > - **Type 4 RTA**：醛固酮抵抗，肾不能排 K → **真性高 K**
 
-> [!info] DKA 为什么腹痛 + 恶心呕吐（高频考点）⭐⭐（来源 [[mistakes/uworld-mistakes#^Q2796]]）
+> [!info] DKA 为什么腹痛 + 恶心呕吐（高频考点）⭐⭐（来源 [[mistakes/uworld-mistakes_2026-05#^Q2796]]）
 > DKA 的腹痛**是 DKA 本身引起的**，不是另一个病。机制（按主次）：
 > 1. **酸中毒本身**（最主要）：严重代酸直接刺激腹腔 → 弥漫性腹痛 + 恶心呕吐。**腹痛程度与酸中毒严重度相关，与血糖高低不直接相关**；纠酸后缓解。
 > 2. **酮酸直接刺激**胃肠道（β-OHB / AcAc）。
@@ -312,7 +312,7 @@ source_错题: Q17169 触发
 > [!warning] 高频陷阱（必看）
 > - **Insulinoma vs 磺脲偷用化验完全一样**（都两高 + proinsulin 高）→ 唯一区别 = **磺脲类血药筛查**；年轻 + 有药物渠道 → 概率上先想磺脲。
 > - **C-peptide↓ 反向题**：insulin↑ + C-pep↓ 直接锁"外源注射胰岛素"，不要被"insulin 高"骗去想 insulinoma。
-> - **化验题眼 > 人口学画像**：UW 经典套路用"年轻女学生 + 期末压力 + 偏瘦"诱导你选进食障碍/催吐（[[mistakes/uworld-mistakes#^Q20217|Q20217]] 触发题）；化验值已锁死分支，人口学只是钓饵。
+> - **化验题眼 > 人口学画像**：UW 经典套路用"年轻女学生 + 期末压力 + 偏瘦"诱导你选进食障碍/催吐（[[mistakes/uworld-mistakes_2026-05#^Q20217|Q20217]] 触发题）；化验值已锁死分支，人口学只是钓饵。
 > - **酒精 / 饥饿 / 呕吐性低血糖**：insulin 不高（非胰岛素介导）；呕吐还会有 OH + 代碱 + 低氯（一同审）。
 > - **"家属有 DM" / "医护身份"** = UW 固定的**药物获取渠道**关键词 → 立刻怀疑 surreptitious。
 
@@ -321,9 +321,9 @@ source_错题: Q17169 触发
 > - **Whipple 病**（Whipple's disease）= *Tropheryma whipplei* 感染：关节痛 + 腹泻 + 吸收不良 + CNS 受累；PAS-阳性巨噬细胞
 > - 两个完全不同 — Stem 出现"Whipple"先看上下文
 
-| **详见** | [[完整笔记/Peixuan分科笔记/endocrine]] / 触发题 [[mistakes/uworld-mistakes#^Q20217|Q20217]] |
+| **详见** | [[完整笔记/Peixuan分科笔记/endocrine]] / 触发题 [[mistakes/uworld-mistakes_2026-05#^Q20217|Q20217]] |
 |---|---|
-| **跨学科** | [[完整笔记/Peixuan分科笔记/psych]]（surreptitious sulfonylurea use → factitious disorder；C-pep↓ 注射胰岛素 → Munchausen / 医护 factitious — 心理动机评估见 [[mistakes/uworld-mistakes#^Q3719\|Q3719]]）|
+| **跨学科** | [[完整笔记/Peixuan分科笔记/psych]]（surreptitious sulfonylurea use → factitious disorder；C-pep↓ 注射胰岛素 → Munchausen / 医护 factitious — 心理动机评估见 [[mistakes/uworld-mistakes_2026-05#^Q3719\|Q3719]]）|
 
 ---
 
@@ -435,7 +435,7 @@ source_错题: Q17169 触发
 #### RTA 的先天 / 遗传病因总表 ⭐（按年龄分两套：婴儿 = 遗传性，成人 = 后天）
 
 > [!warning] 病因按年龄分两套
-> **成人新发 RTA = 后天获得**（自免 / 药 / 副蛋白）；**婴儿 / 新生儿期起病 = 原发遗传性**（基因突变直接坏掉小管转运体）。同一个泵坏，病因换一套。儿科 FTT + NAGMA 就是遗传性 RTA 的典型首发（来源 [[mistakes/uworld-mistakes#^Q4828]]）。
+> **成人新发 RTA = 后天获得**（自免 / 药 / 副蛋白）；**婴儿 / 新生儿期起病 = 原发遗传性**（基因突变直接坏掉小管转运体）。同一个泵坏，病因换一套。儿科 FTT + NAGMA 就是遗传性 RTA 的典型首发（来源 [[mistakes/uworld-mistakes_2026-05#^Q4828]]）。
 
 | 类型 | 遗传病 / 基因 | 遗传方式 | 识别钩子 ⭐ |
 |---|---|---|---|
@@ -519,7 +519,7 @@ source_错题: Q17169 触发
 
 ### 2.5.1 Urinary Casts 指纹族系 ⭐⭐⭐（任何 AKI 题先扫）
 
-> [!info] 由 [[mistakes/uworld-mistakes#^Q4007]] AIN by allopurinol + [[mistakes/uworld-mistakes#^Q4004]] Analgesic nephropathy CTIN 触发整合 — 两道均因没扫到 UA WBC casts 选错（一个反射 DIL，一个反射 nephrolithiasis）。
+> [!info] 由 [[mistakes/uworld-mistakes_2026-05#^Q4007]] AIN by allopurinol + [[mistakes/uworld-mistakes_2026-05#^Q4004]] Analgesic nephropathy CTIN 触发整合 — 两道均因没扫到 UA WBC casts 选错（一个反射 DIL，一个反射 nephrolithiasis）。
 
 | Casts 类型 | 锁定家族 | 典型病 | 关键鉴别 |
 |---|---|---|---|
@@ -554,7 +554,7 @@ source_错题: Q17169 触发
 > | **Transplant RAS** | post-tx 1-2 yr + ACEI 后 Cr↑ + resistant HTN + Doppler 见狭窄 |
 > | **CNI 急性毒性** | 血药 ↑ + 加 CYP3A4 抑制剂史 + HTN |
 > | **早期 GN（轻症）** | UA 可"接近 bland"但仔细看仍有 dysmorphic RBC + 轻蛋白 |
-> 详见 [[完整笔记/专题笔记/肾脏/肾脏_移植后AKI鉴别SOP]]（CNI / RAS）+ [[mistakes/uworld-mistakes#^Q4752]] HRS
+> 详见 [[完整笔记/专题笔记/肾脏/肾脏_移植后AKI鉴别SOP]]（CNI / RAS）+ [[mistakes/uworld-mistakes_2026-05#^Q4752]] HRS
 
 > [!danger] 反 pattern：把 casts 名字读对很重要
 > - **RBC cast ≠ red cell 在 cast 里（炎症 dysmorphic RBC 提示肾小球破损）**
@@ -562,7 +562,7 @@ source_错题: Q17169 触发
 > - **Muddy brown = 肾小管上皮坏死脱屑 + 颗粒变性的 cast**，不是 hemoglobin / myoglobin 染色（虽然横纹肌溶解致 ATN 时也常见）
 > - **Hyaline cast 永远无诊断意义** — 见到不要往病理想
 
-### 2.5.2 HRS 肝肾综合征 ⭐⭐⭐（来源 [[mistakes/uworld-mistakes#^Q4752]]）
+### 2.5.2 HRS 肝肾综合征 ⭐⭐⭐（来源 [[mistakes/uworld-mistakes_2026-05#^Q4752]]）
 
 | 指纹 | **肝硬化 + AKI + bland UA + 尿 Na < 10 + albumin 扩容无反应** ★★★ |
 |---|---|
@@ -577,7 +577,7 @@ source_错题: Q17169 触发
 | **根治** ⭐ | **Liver Transplant** ★★★ |
 | **SBP→HRS 预防** | Cefotaxime + **IV Albumin** (Day1 1.5 g/kg + Day3 1 g/kg)，触发指标 **Cr>1 / BUN>30 / Bili>4** |
 | **反直觉三连** | ① 全身水超载但 EABV↓（水都在腹腔池里）② 肾本身好（移植给别人能用）③ **利尿剂禁用**（与心衰相反！）|
-| **详见** | [[完整笔记/专题笔记/GI/GI_HRS肝肾综合征]] / [[完整笔记/专题笔记/GI/GI_门脉高压治疗]] / [[mistakes/uworld-mistakes#^Q4752]] |
+| **详见** | [[完整笔记/专题笔记/GI/GI_HRS肝肾综合征]] / [[完整笔记/专题笔记/GI/GI_门脉高压治疗]] / [[mistakes/uworld-mistakes_2026-05#^Q4752]] |
 
 > [!danger] HRS vs Prerenal vs ATN 三连鉴别（看完这一表就够）
 >
@@ -596,7 +596,7 @@ source_错题: Q17169 触发
 *↑ UWorld 官方 4 阶段进展示意图*
 
 ![[{F5468E78-C4BB-4C45-9B25-78E2C5F9684A}.png]]
-*↑ 真实 12 导联 sine wave 例图（来自 [[mistakes/uworld-mistakes#^Q19929]]）*
+*↑ 真实 12 导联 sine wave 例图（来自 [[mistakes/uworld-mistakes_2026-05#^Q19929]]）*
 
 | 指纹 | **ECG 进展 5 阶段**：Peaked T → P 变平/消失 → QRS 增宽 → **Sine wave** → Asystole/VF |
 |---|---|
@@ -607,14 +607,14 @@ source_错题: Q17169 触发
 | **治疗第一步** | **Calcium gluconate** 1-2 g IV 慢推（1-3 min 起效，稳膜不降钾）→ 然后 Insulin+Glucose / β2 agonist（shift）→ Furosemide / Patiromer / 透析（remove）|
 | **易混陷阱** | Sine wave ≠ Torsades：sine 用 **Calcium**（高钾），TdP 用 **Magnesium**（长 QT 多形性 VT）|
 | **C-BIG-K-D** | **C**alcium → **B**icarb/**I**nsulin+**G**lucose → **K**ayexalate（现 Patiromer/SZC）→ **D**ialysis |
-| **详见** | [[草稿/2026-05-17_高钾血症完整体系_v1]] / [[mistakes/uworld-mistakes#^Q19929]] / [[mistakes/uworld-mistakes#^Q19-2026-05-18]]（trigger vs permissive 元凶定位）|
+| **详见** | [[草稿/2026-05-17_高钾血症完整体系_v1]] / [[mistakes/uworld-mistakes_2026-05#^Q19929]] / [[mistakes/uworld-mistakes_2026-05#^Q19-2026-05-18]]（trigger vs permissive 元凶定位）|
 
 > [!warning] 休克 + Brady + ECG 异常的鉴别铁律
 > 看到 "HR 60 + BP 80/30 + ECG 异常" — 不要反射性给 Atropine。先扫 P 波：
 > - P 波**在** + P-QRS 解离 → **AV block** → Atropine / pacing
 > - P 波**消失** + 宽 QRS / sine wave → **Hyperkalemia** → **Calcium gluconate**
 
-### 2.7 Struvite Stone（鸟粪石 / 鹿角石）⭐（来源 [[mistakes/uworld-mistakes#^Q15682]] — 做对题 2026-05-28）
+### 2.7 Struvite Stone（鸟粪石 / 鹿角石）⭐（来源 [[mistakes/uworld-mistakes_2026-05#^Q15682]] — 做对题 2026-05-28）
 
 | 指纹（**5 联**）| **反复 UTI 史** + **尿 pH > 8** + **Coffin lid 棺材盖晶体** + **大 staghorn 鹿角石** + **女性多发** |
 |---|---|
@@ -623,7 +623,7 @@ source_错题: Q17169 触发
 | **加分指纹** | UA：LE⁺ + nitrite⁺ + WBC↑ + RBC↑ / 影像 = radiopaque + 充满肾盂肾盏的鹿角形 / 临床多 **反复发热-脓尿 > 典型肾绞痛**（大石不进 ureter）|
 | **诊断金标准** | 影像（CT / US）+ UA pH > 8 + 尿培养 urease+ 菌 |
 | **治疗第一步** | **完整取石（PCNL 经皮肾镜碎石）** + 长程抗生素 + 选择性 urease inhibitor (**acetohydroxamic acid**) 防复发；⚠️ **抗生素单用不够** — 菌藏 **stone matrix** 内 |
-| **详见** | [[完整笔记/专题笔记/肾脏/肾脏_肾结石5型对照]]（5 型完整对照 + 钙石防复发 + 急性处理）/ [[mistakes/uworld-mistakes#^Q15682]] / [[mistakes/uworld-mistakes#^Q3895]] 钙草酸防复发 / [[完整笔记/Peixuan分科笔记/肾脏]] |
+| **详见** | [[完整笔记/专题笔记/肾脏/肾脏_肾结石5型对照]]（5 型完整对照 + 钙石防复发 + 急性处理）/ [[mistakes/uworld-mistakes_2026-05#^Q15682]] / [[mistakes/uworld-mistakes_2026-05#^Q3895]] 钙草酸防复发 / [[完整笔记/Peixuan分科笔记/肾脏]] |
 
 > [!tip] 5 大肾结石尿 pH 方向反差速记 ⭐
 > | 结石 | 尿 pH | 治疗方向（pH 干预） |
@@ -793,7 +793,7 @@ source_错题: Q17169 触发
 > ① **冬季取暖**：gas heater / faulty furnace + 全家头痛恶心 + cherry red + SpO₂ 98%（假高）
 > ② **火灾后**：smoke inhalation + 面部煤灰 + 焦鼻毛 + 神志改变 → **同时考虑 CO + Cyanide**
 
-### 5.5 慢性酒精性多系统指纹 ⭐（来源 [[mistakes/uworld-mistakes#^Q2692]] AIC + [[mistakes/uworld-mistakes#^Q12432]] AUD vs AD 鉴别 — 做对题 2026-05-19）
+### 5.5 慢性酒精性多系统指纹 ⭐（来源 [[mistakes/uworld-mistakes_2026-05#^Q2692]] AIC + [[mistakes/uworld-mistakes_2026-05#^Q12432]] AUD vs AD 鉴别 — 做对题 2026-05-19）
 
 | 指纹 | **MCV > 100**（无 B12/叶酸缺乏的大细胞贫血）+ **AST/ALT > 2:1**（"AST is higher"，"toAST = 致敬"）+ **三系轻度受累**（贫血 + Plt↓ ± WBC↓）|
 |---|---|
@@ -816,7 +816,7 @@ source_错题: Q17169 触发
 > [!info] 临床场景
 > 中年女性 + 应激事件（如离婚）后 1 年 + 失眠 + 焦虑 + 睡前饮酒助眠 + 工作迟到 + tremor + 实验室异常
 >
-> **关键鉴别**：是 Adjustment Disorder（[Q3382](mistakes/uworld-mistakes.md#^Q3382)）还是 Alcohol Use Disorder？
+> **关键鉴别**：是 Adjustment Disorder（[Q3382](mistakes/uworld-mistakes_2026-05.md#^Q3382)）还是 Alcohol Use Disorder？
 
 **Alcohol → 失眠的机制**（高频考点）：
 ```
@@ -857,7 +857,7 @@ CNS hyperarousal 反弹（GABA 突然撤离）
 
 > [!warning] 离婚 stressor 双面性（USMLE 经典陷阱）
 > 同样的"离婚后失眠 + 抑郁样症状"stem，**时间窗 + 实验室指纹决定不同诊断**：
-> - 离婚 ≤ 3 月 + SIGECAPS < 5 + 实验室正常 → **AD**（psychotherapy 一线，见 [Q3382](mistakes/uworld-mistakes.md#^Q3382)）
+> - 离婚 ≤ 3 月 + SIGECAPS < 5 + 实验室正常 → **AD**（psychotherapy 一线，见 [Q3382](mistakes/uworld-mistakes_2026-05.md#^Q3382)）
 > - 离婚 ≤ 3 月 + SIGECAPS ≥ 5 + 实验室正常 → **MDD**（SSRI/SNRI + psychotherapy）
 > - 离婚 > 6 月 + MCV↑ + AST/ALT≥2:1 + tremor → **AUD**（戒酒咨询 ± naltrexone）
 > - 离婚后 1-12 月内丧亲反应 → **Uncomplicated grief**（支持性心理治疗）
@@ -965,7 +965,7 @@ CNS hyperarousal 反弹（GABA 突然撤离）
 > - **CO**：赖着不走的房客 + 让邻居一起罢工
 > - **Cyanide**：断电的工厂（complex IV 罢工）
 
-### 5.8 "心动过缓 + 低血压"三联中毒（β-blocker / CCB / Digoxin）⭐（来源 [[mistakes/uworld-mistakes#^Q2663]] β-blocker toxicity → Glucagon）
+### 5.8 "心动过缓 + 低血压"三联中毒（β-blocker / CCB / Digoxin）⭐（来源 [[mistakes/uworld-mistakes_2026-05#^Q2663]] β-blocker toxicity → Glucagon）
 
 | 共有指纹 | **HR↓↓ + BP↓↓ + IVF/atropine 无效**（"自杀 + 心动过缓 + 低血压"三联触发）|
 |---|---|
@@ -976,7 +976,7 @@ CNS hyperarousal 反弹（GABA 突然撤离）
 | **诊断金标准** | 病史 + 用药史 → **药源推断**（CAD/HTN 老人 = BB/CCB 嫌疑；AFib/HF = dig 嫌疑）+ 特异线索（wheezing / 血糖方向 / GI+视觉+K）|
 | **治疗第一步** | **β-blocker → Glucagon 3-10 mg IV bolus + 1-5 mg/h 输注**；**CCB → Calcium + insulin/dextrose（HIE）**；**Digoxin → Digoxin-Fab** |
 | **关键陷阱** | "**Atropine fail → think Glucagon**"（atropine 走 vagal 通路绕不过 β-receptor 阻断）；Dobutamine 在 BB 中毒无效（受体级别被堵）；Pacing 因 cAMP↓ 心肌反应差（capture failure）|
-| **详见** | [[mistakes/uworld-mistakes#^Q2663]] 完整三联鉴别表 + 高频中毒-解毒剂 17 项速查 + β-blocker 选择性差异（cardioselective / non-selective / lipid-soluble）|
+| **详见** | [[mistakes/uworld-mistakes_2026-05#^Q2663]] 完整三联鉴别表 + 高频中毒-解毒剂 17 项速查 + β-blocker 选择性差异（cardioselective / non-selective / lipid-soluble）|
 
 > [!success] Stem 触发模式
 > 自杀企图（suicide note）+ CAD/HTN 病史 + bradycardia + hypotension + **wheezing** + IVF/atropine 无效 → **β-blocker → Glucagon**
@@ -1048,7 +1048,7 @@ CNS hyperarousal 反弹（GABA 突然撤离）
 | **典型患者** | **运动员 weight-cutting**（如本题）/ 呕吐 / 腹泻 / 出汗 / 利尿剂 / 失血 / 烧伤 |
 | **vs 神经源 OH** | 容量型：HR ↑≥30 + 实验室异常；神经源型：HR 几乎不动 + 实验室正常 + DM/Parkinson 背景 |
 | **治疗** | **补液 + 补 K**（容量型立即改善，与神经源型 midodrine 不同）|
-| **详见** | [[mistakes/uworld-mistakes#^Q21638]] Volume-mediated Orthostatic Syncope（摔跤运动员）|
+| **详见** | [[mistakes/uworld-mistakes_2026-05#^Q21638]] Volume-mediated Orthostatic Syncope（摔跤运动员）|
 
 > [!tip] "脱水四联"与"PAI 五联"对比
 > - **PAI 五联**：Na↓ / **K↑** / HCO3↓ / Glu↓ / Eos↑（cortisol + aldo 双缺）
@@ -1216,8 +1216,8 @@ Step 6: 锁定 → 选答案
 ## 🔗 关联
 
 - 🔁 **同主题错题**：
-  - [[mistakes/uworld-mistakes#^Q17169]] Adrenal Crisis（PAI 五联指纹触发本笔记）
-  - [[mistakes/uworld-mistakes#^Q19929]] Hyperkalemia 紧急（Sine wave ECG 指纹触发 2.6 新增）
+  - [[mistakes/uworld-mistakes_2026-05#^Q17169]] Adrenal Crisis（PAI 五联指纹触发本笔记）
+  - [[mistakes/uworld-mistakes_2026-05#^Q19929]] Hyperkalemia 紧急（Sine wave ECG 指纹触发 2.6 新增）
   - 等内分泌 / 肾 / 血液 / 中毒 / 急诊各类"指纹病"错题积累
 - 📚 **主笔记**：
   - [[完整笔记/Peixuan分科笔记/endocrine]]（内分泌指纹病主战场）

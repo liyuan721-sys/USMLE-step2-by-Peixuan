@@ -81,7 +81,7 @@ source_错题: Q4725
 > - **两路汇合**：每 2 min check pulse & rhythm + treat reversible causes → 直到 ROSC
 > - **★ Amiodarone 注脚**：仅在 **第 3 次除颤后** 给（300 mg → 150 mg）
 > 
-> 🔗 详见 [[mistakes/uworld-mistakes#^Q4725]]
+> 🔗 详见 [[mistakes/uworld-mistakes_2026-05#^Q4725]]
 
 ### 2.1 文字版总流程
 
@@ -721,7 +721,7 @@ STEMI 在 ACLS 框架中 = **5T 之 Thrombosis (Coronary)**：
 ## 🔗 关联
 
 - 🔁 **同主题错题**：
-  - [[mistakes/uworld-mistakes#^Q4725]] PEA 房颤陷阱（首张 ACLS 卡）
+  - [[mistakes/uworld-mistakes_2026-05#^Q4725]] PEA 房颤陷阱（首张 ACLS 卡）
   - 等后续 VF / Asystole / 同步复律 / 5H5T 各因 / ROSC 后管理题积累
 - 📚 **主笔记**：
   - [[完整笔记/Peixuan分科笔记/心内]]（ACLS + 心律失常急救）

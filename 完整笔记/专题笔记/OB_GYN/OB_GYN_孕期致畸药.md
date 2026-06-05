@@ -161,11 +161,11 @@ type: 专题笔记
 | 禁忌（致畸）| Valproate / Carbamazepine / Oxcarbazepine（神经管缺陷）/ Paroxetine（心脏缺陷）|
 
 ![[{8AE1070A-55EC-4697-A3BD-B17EE9CE1F02}.png]]
-*↑ UW 原图：Treatment of bipolar disorder during pregnancy（与上方表格同源）。来源 [[mistakes/uworld-mistakes#^Q15103]]，图同时存于错题卡 + 本节，双地点 Obsidian 反向链接调取*
+*↑ UW 原图：Treatment of bipolar disorder during pregnancy（与上方表格同源）。来源 [[mistakes/uworld-mistakes_2026-05#^Q15103]]，图同时存于错题卡 + 本节，双地点 Obsidian 反向链接调取*
 
 > **换药时序**：致畸 mood stabilizer（valproate 等）患者计划怀孕 → **先延迟怀孕 3-6 个月**做缓慢 cross-taper 换 lamotrigine → 稳定后再尝试怀孕（不是立刻怀孕）。
 >
-> → 对标错题：[[mistakes/uworld-mistakes#^Q15103]]（孕期换 lamotrigine）/ [[mistakes/uworld-mistakes#^Q15841]]（双相稳定不能停 lithium）
+> → 对标错题：[[mistakes/uworld-mistakes_2026-05#^Q15103]]（孕期换 lamotrigine）/ [[mistakes/uworld-mistakes_2026-05#^Q15841]]（双相稳定不能停 lithium）
 
 **精神科致畸药口诀 ⭐：“丙卡奥致管缺，锂帕致心”**
 

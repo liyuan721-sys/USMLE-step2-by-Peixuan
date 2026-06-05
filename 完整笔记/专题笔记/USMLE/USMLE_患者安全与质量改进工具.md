@@ -243,10 +243,10 @@ type: 专题笔记-索引
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q19553]] FMEA 事前 vs RCA 事后
-  - [[mistakes/uworld-mistakes#^Q106239]] Time-out 减少 retained surgical objects
-  - [[mistakes/uworld-mistakes#^Q21477]] Swiss Cheese Model 多层防御
-  - [[mistakes/uworld-mistakes#^Q21141]] Hospice eligibility（必须放弃 curative）
+  - [[mistakes/uworld-mistakes_2026-05#^Q19553]] FMEA 事前 vs RCA 事后
+  - [[mistakes/uworld-mistakes_2026-05#^Q106239]] Time-out 减少 retained surgical objects
+  - [[mistakes/uworld-mistakes_2026-05#^Q21477]] Swiss Cheese Model 多层防御
+  - [[mistakes/uworld-mistakes_2026-05#^Q21141]] Hospice eligibility（必须放弃 curative）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
 - 🏥 跨学科：
   - [[完整笔记/Peixuan分科笔记/外科]]（surgical time-out / wrong-site surgery / RSO）

@@ -10,7 +10,7 @@ type: 专题笔记
 # OB/GYN — 妇科手术并发症速查（Hysterectomy / 盆腔手术）
 
 > [!info] 笔记定位
-> 妇科盆腔手术（hysterectomy / oophorectomy / cesarean）术后并发症是 USMLE Step 2 GYN/外科高频。本笔记按"4 大常见并发症 × 临床/Cr/UA/治疗"组织，含 Ureter 3 大易伤位解剖图 + "Water under the bridge" 经典口诀 + 术后腹胀 5 鉴别决策树。来源：[[mistakes/uworld-mistakes#^Q16241]]（错题 2026-05-28，体系早建 v1）。
+> 妇科盆腔手术（hysterectomy / oophorectomy / cesarean）术后并发症是 USMLE Step 2 GYN/外科高频。本笔记按"4 大常见并发症 × 临床/Cr/UA/治疗"组织，含 Ureter 3 大易伤位解剖图 + "Water under the bridge" 经典口诀 + 术后腹胀 5 鉴别决策树。来源：[[mistakes/uworld-mistakes_2026-05#^Q16241]]（错题 2026-05-28，体系早建 v1）。
 
 ---
 
@@ -222,7 +222,7 @@ type: 专题笔记
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q16241]] Uroperitoneum / Ureter laceration（5-28 错题 — 体系源头）
+  - [[mistakes/uworld-mistakes_2026-05#^Q16241]] Uroperitoneum / Ureter laceration（5-28 错题 — 体系源头）
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/GYN]]（hysterectomy 并发症章节）
   - [[完整笔记/Peixuan分科笔记/外科]]（盆腔解剖 + 术后并发症）

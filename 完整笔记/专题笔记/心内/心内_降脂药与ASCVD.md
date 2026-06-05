@@ -521,7 +521,7 @@ Step 2: 分层
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q17515]] Statin myalgia → moderate-intensity 换药（首发触发题）
+  - [[mistakes/uworld-mistakes_2026-05#^Q17515]] Statin myalgia → moderate-intensity 换药（首发触发题）
 - 📚 关联主笔记：
   - [[完整笔记/Peixuan分科笔记/心内]]
   - [[完整笔记/Peixuan分科笔记/Biostats_Master]]（Pooled Cohort race-specific 模型）

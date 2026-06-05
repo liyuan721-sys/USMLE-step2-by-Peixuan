@@ -2837,7 +2837,7 @@ features</td>
 >
 > 题眼：癫痫/双相 + 叶酸缺乏线索
 >
-> → 双相孕期维持：valproate 致畸必须停，孕前 3-6 月 cross-taper 换 **lamotrigine**（见 [[mistakes/uworld-mistakes#^Q15103]]）
+> → 双相孕期维持：valproate 致畸必须停，孕前 3-6 月 cross-taper 换 **lamotrigine**（见 [[mistakes/uworld-mistakes_2026-05#^Q15103]]）
 
 **二、抗癫痫药（高频考点）**
 
@@ -2933,7 +2933,7 @@ features</td>
 >
 > 完整 Bipolar 孕期用药表见 [[完整笔记/专题笔记/OB_GYN/OB_GYN_孕期致畸药]] §六
 >
-> → 对标错题：[[mistakes/uworld-mistakes#^Q15103]]（孕期换 lamotrigine）/ [[mistakes/uworld-mistakes#^Q15841]]（双相稳定不能停 lithium）
+> → 对标错题：[[mistakes/uworld-mistakes_2026-05#^Q15103]]（孕期换 lamotrigine）/ [[mistakes/uworld-mistakes_2026-05#^Q15841]]（双相稳定不能停 lithium）
 
 **SSRI（尤其晚孕期）：**
 

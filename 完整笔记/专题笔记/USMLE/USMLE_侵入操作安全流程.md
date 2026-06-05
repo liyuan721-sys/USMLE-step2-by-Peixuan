@@ -675,7 +675,7 @@ COPD? → 避 SC（气胸代偿差）→ IJV
 ## 🔗 关联
 
 - 🔁 **同主题错题**：
-  - [[mistakes/uworld-mistakes#^Q3504]] CVC 置入后必做 CXR（首张程序题）
+  - [[mistakes/uworld-mistakes_2026-05#^Q3504]] CVC 置入后必做 CXR（首张程序题）
   - 等后续 NG / ET / 胸管 / LP / Foley / 腹穿 / 心包穿刺题积累
 - 📚 **主笔记**：
   - [[完整笔记/Peixuan分科笔记/外科]]（侵入操作 + procedure safety 主战场）

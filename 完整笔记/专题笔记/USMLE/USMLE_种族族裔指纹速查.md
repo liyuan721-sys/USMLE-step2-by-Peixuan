@@ -9,7 +9,7 @@ type: 专题笔记
 # USMLE — 种族族裔指纹速查（Race/Ethnicity Stem Triggers）
 
 > [!info] 笔记定位
-> USMLE stem 写出 race/ethnicity（如 "African American" / "Ashkenazi Jewish" / "Mediterranean"）几乎都是**有意的诊断线索**。本笔记按"族裔 × 高发疾病 × 机制 × Stem 模式"组织，是 USMLE 的"族裔指纹"速查。来源：[[mistakes/uworld-mistakes#^Q4436]]（5-28 SCT 错题 — 反射"AA + 多尿 + 家族 sickle"未建立 → 早建 v1）。
+> USMLE stem 写出 race/ethnicity（如 "African American" / "Ashkenazi Jewish" / "Mediterranean"）几乎都是**有意的诊断线索**。本笔记按"族裔 × 高发疾病 × 机制 × Stem 模式"组织，是 USMLE 的"族裔指纹"速查。来源：[[mistakes/uworld-mistakes_2026-05#^Q4436]]（5-28 SCT 错题 — 反射"AA + 多尿 + 家族 sickle"未建立 → 早建 v1）。
 
 ---
 
@@ -149,7 +149,7 @@ type: 专题笔记
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q4436]] SCT hyposthenuria — AA 触发未建立（5-28 错题 — 体系源头）
+  - [[mistakes/uworld-mistakes_2026-05#^Q4436]] SCT hyposthenuria — AA 触发未建立（5-28 错题 — 体系源头）
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（Sickle / Thalassemia / G6PD / BRCA）
   - [[完整笔记/Peixuan分科笔记/感染]]（TB / 疟疾进化 / NPC EBV）

@@ -8,7 +8,7 @@ type: 错题数据源
 
 # UWorld 错题本 — 2026 年 6 月
 
-> 主错题数据源延续 [[mistakes/uworld-mistakes]]（5 月及以前）。本文件存 6 月新增错题卡，结构、模板、inline fields 规则完全一致（见 [[CLAUDE]] §七）。
+> 主错题数据源延续 [[mistakes/uworld-mistakes_2026-05]]（5 月及以前）。本文件存 6 月新增错题卡，结构、模板、inline fields 规则完全一致（见 [[CLAUDE]] §七）。
 
 ## 2026-06-04
 
@@ -427,8 +427,8 @@ type: 错题数据源
 >   - [[mistakes/uworld-mistakes_2026-06#^Q3435]] Crohn 吸收不良 → 草酸钙石（同结石分型 + oxalate 吸收方向，正好与本题 A 干扰项互为镜像）
 >   - [[mistakes/uworld-mistakes_2026-06#^Q11109]] 输尿管结石 MET 用药（同结石主题，治疗角度）
 >   - [[mistakes/uworld-mistakes_2026-06#^Q4749]] 结石致梗阻性尿路病 + 梗阻后利尿（同结石主题，病理生理角度）
->   - [[mistakes/uworld-mistakes#^Q15682]] Struvite 感染石（同 5 型对照，碱性石对照）
->   - [[mistakes/uworld-mistakes#^Q3895]] 钙草酸石防复发降钠（同 5 型对照）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q15682]] Struvite 感染石（同 5 型对照，碱性石对照）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3895]] 钙草酸石防复发降钠（同 5 型对照）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/肾脏]]
 > - 📚 专题：[[完整笔记/专题笔记/肾脏/肾脏_肾结石5型对照]]（尿酸石病机 + 尿 pH 互反 pattern + radiolucent）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/hematology oncology]]（肿瘤溶解综合征 → 尿酸石；allopurinol/rasburicase 预防）/ [[完整笔记/Peixuan分科笔记/骨科]]（gout 高尿酸血症）
@@ -492,7 +492,7 @@ type: 错题数据源
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-06#^Q15674]] 尿酸结石（同结石分型；本题草酸 vs 那题尿酸，oxalate 吸收方向互为镜像）
 >   - [[mistakes/uworld-mistakes_2026-06#^Q11109]] 输尿管结石 MET 用药（同结石主题，治疗角度）
->   - [[mistakes/uworld-mistakes#^Q3895]] 钙草酸石防复发降钠 + 维持正常膳食钙（同草酸钙石，饮食角度）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3895]] 钙草酸石防复发降钠 + 维持正常膳食钙（同草酸钙石，饮食角度）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/肾脏]] / [[完整笔记/Peixuan分科笔记/GI]]
 > - 📚 专题：[[完整笔记/专题笔记/肾脏/肾脏_肾结石5型对照]]（Part 4 钙石防复发 + Part 7 脂肪吸收不良反直觉点）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/GI]]（Crohn 末端回肠病 → 胆盐/脂肪吸收不良）/ [[完整笔记/Peixuan分科笔记/外科]]（小肠切除 / 胃旁路术后并发症）
@@ -617,7 +617,7 @@ type: 错题数据源
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-06#^Q3967]] 肾乳头坏死（同非肾小球血尿——完整 RBC 无管型）
 >   - [[mistakes/uworld-mistakes_2026-06#^Q15674]] 尿酸结石 / [[mistakes/uworld-mistakes_2026-06#^Q3435]] 肠源性高草酸尿（同结石家族，成人典型绞痛 vs 本题儿童无痛对照）
->   - [[mistakes/uworld-mistakes#^Q4751]] Bladder cancer（成人 cystoscopy 适应症 vs 儿童不用）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4751]] Bladder cancer（成人 cystoscopy 适应症 vs 儿童不用）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/肾脏]] / [[完整笔记/Peixuan分科笔记/儿科]]
 > - 📚 专题：[[完整笔记/专题笔记/肾脏/肾脏_血尿分期与病因鉴别]]（儿童血尿评估 + 亮红 vs 棕色尿）/ [[完整笔记/专题笔记/肾脏/肾脏_肾结石5型对照]]（Part 6 儿童非典型表现）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/儿科]]（儿童影像避辐射原则；PSGN 棕色尿 vs 本题亮红）/ [[完整笔记/Peixuan分科笔记/endocrine]]（hypercalciuria → 儿童结石）
@@ -675,7 +675,7 @@ type: 错题数据源
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q20246]] 继发性遗尿 UA 必先排医学因（同遗尿 workup，本题为合并便秘分支）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20246]] 继发性遗尿 UA 必先排医学因（同遗尿 workup，本题为合并便秘分支）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/儿科]]
 > - 📚 专题：[[完整笔记/专题笔记/儿科/儿科_遗尿管理4阶梯]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/GI]]（便秘 / 粪嵌塞 / 溢出性失禁 overflow incontinence）
@@ -795,7 +795,7 @@ type: 错题数据源
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q4751]] 血尿肾小球 vs 非肾小球（同肾科蛋白尿/血尿谱，nephritic vs nephrotic 对照）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4751]] 血尿肾小球 vs 非肾小球（同肾科蛋白尿/血尿谱，nephritic vs nephrotic 对照）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/肾脏]]
 > - 📚 专题：[[完整笔记/专题笔记/肾脏/肾脏_肾炎肾病综合征对照]]（Part 4 并发症谱 + 总钙↓陷阱——本卡触发建）/ [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]]（肾病综合征四联：蛋白尿>3.5 + 低白蛋白 + 水肿 + 高脂）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/hematology oncology]]（高凝——抗凝血酶 III 丢 → 肾静脉血栓 / DVT-PE）/ [[完整笔记/Peixuan分科笔记/感染]]（Ig 丢 → 荚膜菌感染）/ [[完整笔记/Peixuan分科笔记/心内]]（加速动脉粥样硬化 / 高脂）
@@ -854,7 +854,7 @@ type: 错题数据源
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q4007]] AIN（同"皮疹+关节痛+肾损"鉴别——但 AIN 是间质超敏，本题是免疫复合物血管炎）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4007]] AIN（同"皮疹+关节痛+肾损"鉴别——但 AIN 是间质超敏，本题是免疫复合物血管炎）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/免疫，疫苗]] / [[完整笔记/Peixuan分科笔记/肾脏]]
 > - 📚 专题：[[完整笔记/专题笔记/免疫/免疫_血管炎大小血管谱系]]（本卡触发新建——口径三分 + 小血管三轴 + 补体分水岭）/ [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]]（低补体 vs 正常补体血清学）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/感染]]（HCV 肝外表现——MCS / 膜增生性 GN）/ [[完整笔记/Peixuan分科笔记/GI]]（HCV 肝大/肝病）/ [[完整笔记/Peixuan分科笔记/肾脏]]（冷球蛋白 → 膜增生性 GN，RBC 管型）
@@ -1116,7 +1116,7 @@ type: 错题数据源
 > [!example]- [2026-06-05] 内分泌 / 重度高钙急救（🔴 反复错追踪·第3次 → 原卡 Q2169）(Q2169-R0605)
 > ^Q2169-R0605
 > 
-> **🔴 反复错追踪**（完整知识 → [[mistakes/uworld-mistakes#^Q2169]]）
+> **🔴 反复错追踪**（完整知识 → [[mistakes/uworld-mistakes_2026-05#^Q2169]]）
 > - 这次选了：**A Bone marrow biopsy**（5-28 + 5-31 + 6-5 第 3 次同坑）
 > - 又栽原因：被"全血细胞减少 → MM"诱去先诊断，忘了"急症先治"
 > - 钉死反射：**Ca>14 或症状性 → 先 NS + calcitonin（救命），骨髓活检等之后**
@@ -1131,7 +1131,7 @@ type: 错题数据源
 > [!example]- [2026-06-05] 肾 / SIADH 治疗（🔴 反复错追踪 → 原卡 Q2181）(Q2181-R0605)
 > ^Q2181-R0605
 > 
-> **🔴 反复错追踪**（完整知识 → [[mistakes/uworld-mistakes#^Q2181]]）
+> **🔴 反复错追踪**（完整知识 → [[mistakes/uworld-mistakes_2026-05#^Q2181]]）
 > - 这次选了：**G 碳酸氢钠**（上次做对、这次错 = 退步）
 > - 又栽原因：没把"重症低钠唯一答案 = 3% 高张盐水"刻死
 > - 钉死反射：**Na<120 或 seizure/重度意识障碍 → 3% 高张盐水**；NS 反加重、HCO3 无效
@@ -1146,7 +1146,7 @@ type: 错题数据源
 > [!example]- [2026-06-05] 肾 / 锂致肾性 DI 缺陷部位（🔴 反复错追踪 → 原卡 Q18520）(Q18520-R0605)
 > ^Q18520-R0605
 > 
-> **🔴 反复错追踪**（完整知识 → [[mistakes/uworld-mistakes#^Q18520]]）
+> **🔴 反复错追踪**（完整知识 → [[mistakes/uworld-mistakes_2026-05#^Q18520]]）
 > - 这次选了：**F 甲状腺滤泡细胞**（被 TSH 7 钓饵带偏）
 > - 又栽原因：孤立看 TSH，没把尿渗对照血渗——甲减不致多尿
 > - 钉死反射：**血浓（渗308/Na146）+ 尿稀（200）+ 锂 → 肾性 DI，缺陷在集合管**；TSH 是钓饵
@@ -1161,7 +1161,7 @@ type: 错题数据源
 > [!example]- [2026-06-05] 肾 / 移植肾 RAS（🔴 反复错追踪 → 原卡 Q16323）(Q16323-R0605)
 > ^Q16323-R0605
 > 
-> **🔴 反复错追踪**（完整知识 → [[mistakes/uworld-mistakes#^Q16323]]）
+> **🔴 反复错追踪**（完整知识 → [[mistakes/uworld-mistakes_2026-05#^Q16323]]）
 > - 这次选了：**B Lisinopril 加量**（正好最有害）
 > - 又栽原因：没认出"移植肾 ACEI 后 Cr↑ = RAS 指纹"，反向加药
 > - 钉死反射：**移植肾 ACEI 后 Cr↑ → 停/换 ACEI + 肾血管 Doppler**，绝不加量
@@ -1176,7 +1176,7 @@ type: 错题数据源
 > [!example]- [2026-06-05] 肾 / AIN（🔴 反复错追踪 → 原卡 Q4007）(Q4007-R0605)
 > ^Q4007-R0605
 > 
-> **🔴 反复错追踪**（完整知识 → [[mistakes/uworld-mistakes#^Q4007]]）
+> **🔴 反复错追踪**（完整知识 → [[mistakes/uworld-mistakes_2026-05#^Q4007]]）
 > - 这次选了：**C Drug-induced lupus**
 > - 又栽原因：AIN vs DIL 分水岭没用上——没扫尿管型类型
 > - 钉死反射：**WBC casts + 嗜酸 = AIN**（DIL 是 RBC casts + 重蛋白，且 DIL 致 AKI 罕见）
@@ -1191,7 +1191,7 @@ type: 错题数据源
 > [!example]- [2026-06-05] 肾 / AA 淀粉样变（🔴 反复错追踪 → 原卡 Q16296）(Q16296-R0605)
 > ^Q16296-R0605
 > 
-> **🔴 反复错追踪**（完整知识 → [[mistakes/uworld-mistakes#^Q16296]]）
+> **🔴 反复错追踪**（完整知识 → [[mistakes/uworld-mistakes_2026-05#^Q16296]]）
 > - 这次选了：**B 增殖性免疫沉积**（上次选对不确定、这次错 = 退步）
 > - 又栽原因：没把"长期 RA + 肾综无管型 = AA 淀粉样变"正向锁死
 > - 钉死反射：**长期 RA/IBD/化脓 + 肾综（无 cells/casts）→ Congo red 阳性、苹果绿双折射**；增殖性沉积是狼疮/GN（有 RBC casts）
@@ -1206,7 +1206,7 @@ type: 错题数据源
 > [!example]- [2026-06-05] 肾 / HRS 诊断下一步（🟡 反复不确定追踪 → 原卡 Q2219）(Q2219-R0605)
 > ^Q2219-R0605
 > 
-> **🟡 反复不确定追踪**（完整知识 → [[mistakes/uworld-mistakes#^Q2219]]）
+> **🟡 反复不确定追踪**（完整知识 → [[mistakes/uworld-mistakes_2026-05#^Q2219]]）
 > - 这次：**选对（测尿钠）但仍不确定**（第 2 次做对不自信）
 > - 卡点：诊断下一步顺序（测尿钠 vs 扩容 vs 影像）仍不笃定
 > - 钉死反射：**肝硬化 + AKI + bland UA + 肾 US 正常 → 直接测尿钠（疑 HRS，尿钠<10）**；不先扩容/不先影像
@@ -1314,9 +1314,9 @@ type: 错题数据源
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q21656]] PPV/NPV vs Prevalence（同 4 指标家族，prevalence 联动）
->   - [[mistakes/uworld-mistakes#^Q107214]] LR+ 阳性似然比（Sn/Sp 衍生指标）
->   - [[mistakes/uworld-mistakes#^Q7711]] ROC + Cutoff 跷跷板（Sn/Sp 此消彼长）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21656]] PPV/NPV vs Prevalence（同 4 指标家族，prevalence 联动）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107214]] LR+ 阳性似然比（Sn/Sp 衍生指标）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q7711]] ROC + Cutoff 跷跷板（Sn/Sp 此消彼长）
 > - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_诊断4指标动态_PPV陷阱]]（行/列指标 + PPV 陷阱）/ [[完整笔记/Peixuan分科笔记/Biostats_Master]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/hematology oncology]]（SCD 筛查/诊断试验场景）
 > - 🌱 TODO：连对 2 道 Sn/Sp/PPV/NPV 判读题 → 降 🟢
@@ -1376,9 +1376,9 @@ type: 错题数据源
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q3941]] Null Hypothesis（CI/p 与 H₀ 基础）
->   - [[mistakes/uworld-mistakes#^Q21248]] OR-CI 表格判读（CI 含/不含 null 的判读）
->   - [[mistakes/uworld-mistakes#^Q20227]] CI 不含 1 ≠ 因果（同"CI 越界陷阱"谱系）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3941]] Null Hypothesis（CI/p 与 H₀ 基础）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21248]] OR-CI 表格判读（CI 含/不含 null 的判读）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20227]] CI 不含 1 ≠ 因果（同"CI 越界陷阱"谱系）
 > - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_统计显著vs临床显著]]（本卡驱动新建）/ [[完整笔记/Peixuan分科笔记/Biostats_Master]]
 > - 🏥 跨学科：[[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]（CI 不含 null 的统计 vs 因果阶梯 —— 与本卡"统计 vs 临床"互补）
 > - 🌱 TODO：累积 3+ 道 effect size / MCID 题 → 扩衍生加"MCID 常见阈值表"
@@ -1441,9 +1441,9 @@ type: 错题数据源
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q20057]] ARR 反推样本量（ARR 家族）
->   - [[mistakes/uworld-mistakes#^Q20430]] ARP 阳性归因比（害人场景对应指标）
->   - [[mistakes/uworld-mistakes#^Q7708]] / [[mistakes/uworld-mistakes#^Q7709]] 复合终点 + NNT（同风险指标家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20057]] ARR 反推样本量（ARR 家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20430]] ARP 阳性归因比（害人场景对应指标）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q7708]] / [[mistakes/uworld-mistakes_2026-05#^Q7709]] 复合终点 + NNT（同风险指标家族）
 > - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]]（半步陷阱 + 救人/害人 6 指标）/ [[完整笔记/Peixuan分科笔记/Biostats_Master]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（降压药复合心血管终点解读）
 > - 🌱 TODO：连对 2 道 ARR/RRR/NNT 计算题 → 降 🟢
@@ -1502,8 +1502,8 @@ type: 错题数据源
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q20283]] Case-Control vs Cohort 场景适配（cohort 能算 RR）
->   - [[mistakes/uworld-mistakes#^Q20057]] ARR 反推样本量（同风险指标家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20283]] Case-Control vs Cohort 场景适配（cohort 能算 RR）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20057]] ARR 反推样本量（同风险指标家族）
 > - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]]（RR 在救人/害人框架定位）/ [[完整笔记/Peixuan分科笔记/Biostats_Master]]
 > - 🏥 跨学科：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]]（medication errors / ADE 概念区分）
 > - 🌱 TODO：找 3 道"多结局图 + 选对行"读图题强化

@@ -141,7 +141,7 @@ status: 日总结-v1
 > 输入文件：
 >   - /mnt/user-data/outputs/2026-05-12_Neuro_HY200_错题详细breakdown_v1.md
 >   - /mnt/user-data/outputs/2026-05-12_Neuro_HY200_听课笔记草稿_v1.md
->   - mistakes/uworld-mistakes.md (筛选相关 Q#####)
+>   - mistakes/uworld-mistakes_2026-05.md (筛选相关 Q#####)
 > 要求：
 >   - 严格按 Peixuan 双链路径 v2 规则
 >   - 中英双语 + callout + ASCII 树

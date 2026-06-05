@@ -56,7 +56,7 @@ source: 错题驱动 Q3375 Tourette + Q2357 双相 + Q12152 PD psychosis（2026-
 > [!info] 7 大高频疾病阶梯
 > 每个一张表 + 一个 ASCII 树，按"哪类病人卡在哪阶梯"组织。表格里所有 Q 号都是真实错题锚点，可点跳。
 
-### 1. Tourette 三级阶梯 — from [[mistakes/uworld-mistakes#^Q3375]]
+### 1. Tourette 三级阶梯 — from [[mistakes/uworld-mistakes_2026-05#^Q3375]]
 
 ```
 Tourette 综合征（>1 yr motor + vocal tic，起病 < 18 岁）
@@ -83,7 +83,7 @@ Tourette 综合征（>1 yr motor + vocal tic，起病 < 18 岁）
 
 ---
 
-### 2. Bipolar I 维持治疗 — from [[mistakes/uworld-mistakes#^Q2357]]
+### 2. Bipolar I 维持治疗 — from [[mistakes/uworld-mistakes_2026-05#^Q2357]]
 
 ```
 Bipolar I 急性期稳定后 → 维持治疗 4 大一线（疗效相当）
@@ -115,7 +115,7 @@ ECT（电休克）/ Clozapine（难治性 + 自杀风险高时）
 
 ---
 
-### 3. PD Psychosis 5 步流程 — from [[mistakes/uworld-mistakes#^Q12152]]
+### 3. PD Psychosis 5 步流程 — from [[mistakes/uworld-mistakes_2026-05#^Q12152]]
 
 ```
 PD 患者出现幻觉 / 妄想
@@ -377,10 +377,10 @@ T2DM 新诊断 + A1c 目标未达标
 ## §七 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q3375]] Tourette 药物升级（α2 用 1 年仍恶化 → 抗 DA）— 阶梯升级的"教科书原型"
-  - [[mistakes/uworld-mistakes#^Q2357]] Bipolar I 维持选药（肾否决 Li → 换 VPA）— 同阶梯换药 + 反复错点"先扫 lab 再选药"
-  - [[mistakes/uworld-mistakes#^Q12152]] PD psychosis 第 5 步（减药失败 → 上 quetiapine）— "减药失败也算升级"反直觉示范
-  - [[mistakes/uworld-mistakes#^Q16164]] PD psychosis 第 4 步（轻症减药即可）— 与 Q12152 串起来 = 完整 5 步流程
+  - [[mistakes/uworld-mistakes_2026-05#^Q3375]] Tourette 药物升级（α2 用 1 年仍恶化 → 抗 DA）— 阶梯升级的"教科书原型"
+  - [[mistakes/uworld-mistakes_2026-05#^Q2357]] Bipolar I 维持选药（肾否决 Li → 换 VPA）— 同阶梯换药 + 反复错点"先扫 lab 再选药"
+  - [[mistakes/uworld-mistakes_2026-05#^Q12152]] PD psychosis 第 5 步（减药失败 → 上 quetiapine）— "减药失败也算升级"反直觉示范
+  - [[mistakes/uworld-mistakes_2026-05#^Q16164]] PD psychosis 第 4 步（轻症减药即可）— 与 Q12152 串起来 = 完整 5 步流程
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/psych]]（Tourette / 双相 / MDD 全套阶梯）
   - [[完整笔记/Peixuan分科笔记/neuro]]（PD psychosis 流程 + Tourette 基底节通路）

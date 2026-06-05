@@ -602,7 +602,7 @@ Young female + chest pain + 既往:
 - [[完整笔记/_衍生_Screening_Guidelines]] — Turner 随访
 
 ### 错题
-- [[mistakes/uworld-mistakes]] — 搜 "Turner"
+- [[mistakes/uworld-mistakes_2026-05]] — 搜 "Turner"
 
 ### 相关专题（建议建）
 - [[完整笔记/_衍生_核心疾病专题/Marfan]] — 同样 aortic dissection 风险

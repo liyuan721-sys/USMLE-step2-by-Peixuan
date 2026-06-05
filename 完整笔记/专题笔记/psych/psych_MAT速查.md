@@ -413,8 +413,8 @@ type: 专题笔记
 ## 五、🔗 关联
 
 - 🔁 **同主题错题**：
-  - [[mistakes/uworld-mistakes#^Q18702]] IVDU + AMA + MAT 拒绝 prescribe = punitive 陷阱（触发本笔记 MAT §一道德反 pattern）
-  - [[mistakes/uworld-mistakes#^Q105919]] OUD + buprenorphine + 妈妈 "trading one drug" misconception → 触发 §四点五 家属教育 4 铁律（5-27 错）
+  - [[mistakes/uworld-mistakes_2026-05#^Q18702]] IVDU + AMA + MAT 拒绝 prescribe = punitive 陷阱（触发本笔记 MAT §一道德反 pattern）
+  - [[mistakes/uworld-mistakes_2026-05#^Q105919]] OUD + buprenorphine + 妈妈 "trading one drug" misconception → 触发 §四点五 家属教育 4 铁律（5-27 错）
   - （待积累其他 MAT 启动时机 / precipitated withdrawal / DER 类错题 → v1 → v1.x 增量）
 - 📚 **主笔记**：
   - [[完整笔记/Peixuan分科笔记/psych]]（Substance use disorder + MAT 长期治疗 — methadone / buprenorphine / naltrexone 选择 + AUD 三药）

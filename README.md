@@ -54,7 +54,7 @@ USMLE-step2-by-Peixuan/
 │   ├── _weekly_review_template.md  # 周总结模板
 │   ├── YYYY-MM-DD.md               # 每日错题记录（按需创建）
 │   ├── weekly-YYYY-Www.md          # 周总结（按 ISO 周）
-│   └── uworld-mistakes.md          # 旧版索引（历史归档）
+│   └── uworld-mistakes_2026-05.md          # 旧版索引（历史归档）
 │
 └── NBME/                           # NBME 模考记录
     └── nbme-records.md

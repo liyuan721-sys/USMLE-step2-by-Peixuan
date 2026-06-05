@@ -11,7 +11,7 @@ type: 专题笔记
 > [!info] 这一篇定位
 > HRS 的**机制 / 诊断 / 分型 / 鉴别 / 治疗** 一站式专题。
 > 父主题 = 门脉高压（见 [[完整笔记/专题笔记/GI/GI_门脉高压治疗]]）。
-> 错题驱动来源 = [[mistakes/uworld-mistakes#^Q4752]]。
+> 错题驱动来源 = [[mistakes/uworld-mistakes_2026-05#^Q4752]]。
 
 ---
 
@@ -19,7 +19,7 @@ type: 专题笔记
 
 ![[{9A6335C7-4A19-44E9-82AE-954E574E60D2}.png]]
 
-> 图同步嵌入自 [[mistakes/uworld-mistakes#^Q2219]]（排梗阻 → 收 UA → bland UA → 疑 HRS：测尿钠 + 试验扩容 → 改善=血容量不足 / 无改善=HRS）
+> 图同步嵌入自 [[mistakes/uworld-mistakes_2026-05#^Q2219]]（排梗阻 → 收 UA → bland UA → 疑 HRS：测尿钠 + 试验扩容 → 改善=血容量不足 / 无改善=HRS）
 
 ### 如何读这张流程图（HRS 是"排除性诊断"，3 道关逐个排）⭐
 
@@ -83,7 +83,7 @@ type: 专题笔记
 
 ![[{3009AD02-E8A7-4E2E-8364-012ADE092F5D}.png]]
 
-> 图同步嵌入自 [[mistakes/uworld-mistakes#^Q4752]] + [[完整笔记/专题笔记/GI/GI_门脉高压治疗]]
+> 图同步嵌入自 [[mistakes/uworld-mistakes_2026-05#^Q4752]] + [[完整笔记/专题笔记/GI/GI_门脉高压治疗]]
 
 ### ASCII 复述
 
@@ -448,7 +448,7 @@ SBP（腹水 PMN ≥ 250）
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q4752]] HRS — splanchnic vasodilation + bland UA + 扩容无效
+  - [[mistakes/uworld-mistakes_2026-05#^Q4752]] HRS — splanchnic vasodilation + bland UA + 扩容无效
 - 📚 主笔记：
   - [[完整笔记/专题笔记/GI/GI_门脉高压治疗]]（父主题 — 整个门脉高压逻辑 / TIPS / SBP / β-blocker）
   - [[完整笔记/专题笔记/肾脏/肾脏_AKI病因全谱]] ★（顶层 AKI 总览 — HRS 是其中 §3.9，2026-05-28）

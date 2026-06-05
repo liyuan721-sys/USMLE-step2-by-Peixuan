@@ -228,7 +228,7 @@ NE 再摄取抑制相对强度（越往下，高剂量越要盯血压）
 | **Risperidone** | **高** | 高（剂量依赖） | 中 | SGA 中 **高泌乳素血症**最突出；高剂量近似 FGA |
 | **Ziprasidone** | 低 | 低 | **高** | 代谢负担小但 **QT 延长最明显** → 心脏病史慎用 |
 
-> [!info] UWorld 官方 SGA 副作用对比表（来源 [[mistakes/uworld-mistakes#^Park1-2026-05-22]]）
+> [!info] UWorld 官方 SGA 副作用对比表（来源 [[mistakes/uworld-mistakes_2026-05#^Park1-2026-05-22]]）
 > 上表已对齐 UW 数值（2026-05-22 入库 Park1 卡截图）。**考试以 UW 三档评级为准**：Aripiprazole / Lurasidone / Ziprasidone 代谢低；Clozapine / Olanzapine 代谢"很高"；Risperidone EPS 高；Ziprasidone QT 高。**记忆轴线 = "副作用最低 = Aripiprazole 三低；最危险 = Olanzapine/Clozapine 代谢 + Ziprasidone QT + Risperidone EPS"**。
 >
 > ![[{EA3EBE9B-A1FE-4C6E-B47D-36294E1526CC}.png]]
@@ -417,10 +417,10 @@ EPS (锥体外系反应)
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q2501]] EPS vs NMS 鉴别
-  - [[mistakes/uworld-mistakes#^Q2499]] SGA 机制（5-HT2A + D2 阻断）
-  - [[mistakes/uworld-mistakes#^Q20497]] venlafaxine → 剂量依赖性高血压（§1.4 素材）
-  - [[mistakes/uworld-mistakes#^Q15098]] lamotrigine → 皮疹 / SJS-TEN（§4.2 素材）
+  - [[mistakes/uworld-mistakes_2026-05#^Q2501]] EPS vs NMS 鉴别
+  - [[mistakes/uworld-mistakes_2026-05#^Q2499]] SGA 机制（5-HT2A + D2 阻断）
+  - [[mistakes/uworld-mistakes_2026-05#^Q20497]] venlafaxine → 剂量依赖性高血压（§1.4 素材）
+  - [[mistakes/uworld-mistakes_2026-05#^Q15098]] lamotrigine → 皮疹 / SJS-TEN（§4.2 素材）
   - 其余同主题错题等积累
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（NMS / 5-HT 综合征急诊处理见 [[完整笔记/专题笔记/psych/psych_物质急诊速查]] §4 / §5）
 - 🏥 跨学科：

@@ -98,7 +98,7 @@ type: 专题笔记
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q3762]] 苯二氮䓬相关考点
+  - [[mistakes/uworld-mistakes_2026-05#^Q3762]] 苯二氮䓬相关考点
 - 📚 主笔记：[[完整笔记/专题笔记/psych/psych_物质急诊速查]]（横向比较总索引 —— **§9 戒断速表 / §10.4 Flumazenil 详解 / §16.3 BZD 半衰期专题**）
 - 🏥 跨学科：
   - [[完整笔记/Peixuan分科笔记/神经]]（戒断 seizure / 抗惊厥用药）

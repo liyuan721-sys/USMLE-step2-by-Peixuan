@@ -617,15 +617,15 @@ Fall risk substantially elevated（尤其暗处 / 夜起厕所）
 ## 🔗 关联
 
 - 🔁 **同主题错题**（聚焦 HFE + 药物 + HAC）：
-  - [[mistakes/uworld-mistakes#^Q19788]] Patient-Centered Counseling + Glucovance/Glucophage sound-alike + teach-back（5-27 做对）
-  - [[mistakes/uworld-mistakes#^Q106819]] Human Factors Engineering + 视觉提示（5-27 做对）
-  - [[mistakes/uworld-mistakes#^Q22186]] Surgical Safety + 患者参与 site verification（5-27 错）
-  - [[mistakes/uworld-mistakes#^Q107151]] Fall screening tool low PPV（5-26 做对）
-  - [[mistakes/uworld-mistakes#^Q107152]] Tailored fall prevention + bed alarm 反 pattern（5-26 错）
-  - [[mistakes/uworld-mistakes#^Q107154]] Fall secondary prevention + bone density + call alarm 反 pattern（5-27 错 🔴）
-  - [[mistakes/uworld-mistakes#^Q107171]] Fall + visual acuity + multifactorial 7 维（5-27 做对）
-  - [[mistakes/uworld-mistakes#^Q19718]] HFE 5 methods 3 档分级 + Q105825 standardization 锚
-  - [[mistakes/uworld-mistakes#^Q20431]] Prescribing Cascade + home health care
+  - [[mistakes/uworld-mistakes_2026-05#^Q19788]] Patient-Centered Counseling + Glucovance/Glucophage sound-alike + teach-back（5-27 做对）
+  - [[mistakes/uworld-mistakes_2026-05#^Q106819]] Human Factors Engineering + 视觉提示（5-27 做对）
+  - [[mistakes/uworld-mistakes_2026-05#^Q22186]] Surgical Safety + 患者参与 site verification（5-27 错）
+  - [[mistakes/uworld-mistakes_2026-05#^Q107151]] Fall screening tool low PPV（5-26 做对）
+  - [[mistakes/uworld-mistakes_2026-05#^Q107152]] Tailored fall prevention + bed alarm 反 pattern（5-26 错）
+  - [[mistakes/uworld-mistakes_2026-05#^Q107154]] Fall secondary prevention + bone density + call alarm 反 pattern（5-27 错 🔴）
+  - [[mistakes/uworld-mistakes_2026-05#^Q107171]] Fall + visual acuity + multifactorial 7 维（5-27 做对）
+  - [[mistakes/uworld-mistakes_2026-05#^Q19718]] HFE 5 methods 3 档分级 + Q105825 standardization 锚
+  - [[mistakes/uworld-mistakes_2026-05#^Q20431]] Prescribing Cascade + home health care
 - 📚 **配套子文件**：
   - [[完整笔记/专题笔记/USMLE/USMLE_患者安全_QI工具]]
   - [[完整笔记/专题笔记/USMLE/USMLE_患者安全_Safety文化与沟通]]

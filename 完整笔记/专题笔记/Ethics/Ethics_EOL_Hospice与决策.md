@@ -1083,7 +1083,7 @@ Elderly + chronic disease decision-making
 - **Q23113（Distressed surrogate 3 大技巧 — refocus on patient + help apply knowledge + shared decision-making / "I trust you" = passive abandonment / "Help me understand what patient was like before she got sick" 钥匙句式 / 与 Q21627 同主题累积薄弱信号）⭐ v1.4.6 错题入库**
 - **Q21142（Home Hospice Care eligibility + 4 大 misconceptions — hospice 不缩短 life expectancy 反而可能 small ↑ survival / early referral enhances quality / aim 不是 hasten death）⭐ v1.4.7 做对题知识补充**
 - **Q21210（Elderly ESRD — Conservative Kidney Care vs Dialysis counseling — dialysis benefit negligible in elderly comorbid + functional decline / conservative care = comfort + 6 mo–2 yr life expectancy / patient asks X → 必 explain X benefits + risks 不 unilateral eliminate）⭐ v1.4.7 做对题知识补充**
-- **[[mistakes/uworld-mistakes#^Q20431]]（Home Health Care 适应症 — medically stable + homebound + skilled needs / mild CI + minor injury + 独居 → home health 不是 admit / SNF）⭐ v1.1 错题入库 → §2.9 Levels of Care 6 档阶梯**
+- **[[mistakes/uworld-mistakes_2026-05#^Q20431]]（Home Health Care 适应症 — medically stable + homebound + skilled needs / mild CI + minor injury + 独居 → home health 不是 admit / SNF）⭐ v1.1 错题入库 → §2.9 Levels of Care 6 档阶梯**
 - 前提是 capacity 无 → [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §二（Q19048 capacity reassessment + advanced directive 不指定时走 surrogate + POA/guardian 顶层）
 - 跨学科 [[完整笔记/Peixuan分科笔记/neuro]]（Advanced Alzheimer dementia 自然病程 + Acute stroke + tPA criteria）/ [[完整笔记/Peixuan分科笔记/感染]]（重症 sepsis + multi-organ failure 预后）/ [[完整笔记/Peixuan分科笔记/hematology oncology]]（Metastatic cancer ≠ thrombolysis 禁忌 / hospice 仍给 standard of care for treatable acute events）
 

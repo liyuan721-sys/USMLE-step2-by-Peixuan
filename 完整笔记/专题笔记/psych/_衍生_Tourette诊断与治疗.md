@@ -172,7 +172,7 @@ source: v1 错题驱动 Q19552 诊断侧 + Q3375 治疗侧（2026-05-23）；v1.
 | **Vocal** | **grunting（哼哼）** / **sniffing/snorting（吸鼻 / 喷鼻）** / **throat clearing（清嗓子）** / **barking（犬吠样）** / **yelling（喊叫）** | **echolalia（重复别人话）** / **coprolalia（淫秽语，"obscenities"）** / palilalia（重复自己话）|
 
 > [!info] coprolalia 不是诊断必需
-> 大众文化把 Tourette 等同于 coprolalia，但实际**<10%** 患者有 coprolalia，**不是诊断标准**。USMLE 用 **echolalia** 测发声 tic 概念更常见（[[mistakes/uworld-mistakes#^Q19552]] 经典案例）。
+> 大众文化把 Tourette 等同于 coprolalia，但实际**<10%** 患者有 coprolalia，**不是诊断标准**。USMLE 用 **echolalia** 测发声 tic 概念更常见（[[mistakes/uworld-mistakes_2026-05#^Q19552]] 经典案例）。
 
 > [!warning] Stem 词反射钩
 > - 看到 **eye blinking / shoulder shrugging / facial grimacing / head jerking** 反复 + 患儿想忍忍不住 → 先想 motor tic
@@ -368,16 +368,16 @@ DA 太少 → 治 PD     （增 DA：levodopa / DA 激动剂）
 ## 九、关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q19552]] Tourette 诊断陷阱（echolalia ≠ OCD；2026-05-23；**诊断侧** — 本衍生 §三核心来源）
-  - [[mistakes/uworld-mistakes#^Q3375]] Tourette 药物升级（α2 失败 → 抗 DA；2026-05-23；**治疗侧** — 本衍生 §四 + §五核心来源）
-  - [[mistakes/uworld-mistakes#^Q20930]] 儿童 GAD + Tetrabenazine 干扰项（2026-05-23；**tetrabenazine 双面钩**反向对照）
-  - [[mistakes/uworld-mistakes#^Q14348]] ADHD 成人 atomoxetine（2026-05-23；**共病 ADHD 用药** — α2 / atomoxetine vs 兴奋剂）
-  - [[mistakes/uworld-mistakes#^Q107408]] PMT + ADHD 跨场所标准（2026-05-22；**儿童 ADHD 药物三档**镜像）
-  - [[mistakes/uworld-mistakes#^Q16066]] TD 识别 + EPS 四兄弟（2026-05-20；**同 D2 通路 + 方向三角** — TD 是 D2 慢性阻断后的反弹，Tourette 是原发 DA 过度活跃，两条路径殊途同归 VMAT2）
-  - [[mistakes/uworld-mistakes#^Q2505]] 急性 dystonic reaction（2026-05-21；**抗胆碱治 EPS ≠ 治 tic 反陷阱**）
-  - [[mistakes/uworld-mistakes#^Q11898]] Akathisia + propranolol（2026-05-21；**EPS 治疗谱** vs tic 治疗谱完整对照）
-  - [[mistakes/uworld-mistakes#^Q2357]] Bipolar I 维持选药（**治疗阶梯升级 SOP** 同 framework）
-  - [[mistakes/uworld-mistakes#^Q12152]] PD psychosis 第 5 步（**治疗阶梯升级 SOP** 同 framework）
+  - [[mistakes/uworld-mistakes_2026-05#^Q19552]] Tourette 诊断陷阱（echolalia ≠ OCD；2026-05-23；**诊断侧** — 本衍生 §三核心来源）
+  - [[mistakes/uworld-mistakes_2026-05#^Q3375]] Tourette 药物升级（α2 失败 → 抗 DA；2026-05-23；**治疗侧** — 本衍生 §四 + §五核心来源）
+  - [[mistakes/uworld-mistakes_2026-05#^Q20930]] 儿童 GAD + Tetrabenazine 干扰项（2026-05-23；**tetrabenazine 双面钩**反向对照）
+  - [[mistakes/uworld-mistakes_2026-05#^Q14348]] ADHD 成人 atomoxetine（2026-05-23；**共病 ADHD 用药** — α2 / atomoxetine vs 兴奋剂）
+  - [[mistakes/uworld-mistakes_2026-05#^Q107408]] PMT + ADHD 跨场所标准（2026-05-22；**儿童 ADHD 药物三档**镜像）
+  - [[mistakes/uworld-mistakes_2026-05#^Q16066]] TD 识别 + EPS 四兄弟（2026-05-20；**同 D2 通路 + 方向三角** — TD 是 D2 慢性阻断后的反弹，Tourette 是原发 DA 过度活跃，两条路径殊途同归 VMAT2）
+  - [[mistakes/uworld-mistakes_2026-05#^Q2505]] 急性 dystonic reaction（2026-05-21；**抗胆碱治 EPS ≠ 治 tic 反陷阱**）
+  - [[mistakes/uworld-mistakes_2026-05#^Q11898]] Akathisia + propranolol（2026-05-21；**EPS 治疗谱** vs tic 治疗谱完整对照）
+  - [[mistakes/uworld-mistakes_2026-05#^Q2357]] Bipolar I 维持选药（**治疗阶梯升级 SOP** 同 framework）
+  - [[mistakes/uworld-mistakes_2026-05#^Q12152]] PD psychosis 第 5 步（**治疗阶梯升级 SOP** 同 framework）
 
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/psych]]（Tourette 主章节）

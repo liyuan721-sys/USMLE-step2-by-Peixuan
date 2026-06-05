@@ -3104,7 +3104,7 @@
 > - Nitroprusside 使用必须 **限时长 ≤ 24-48 hr** + **避肾损 / 肝病**患者
 > - 长 infusion 监 **lactate / ABG / mental status**
 >
-> 触发题：[[mistakes/uworld-mistakes#^Q11566]] 慢性 HTN + 不规律服药 + Cr 2.0 + 36 hr nitroprusside → confusion + hyperreflexia + Bicarb 14 = cyanide toxicity；首选解毒 **Hydroxocobalamin**（vit B12a，安全无 MetHb 风险）。完整三胞胎对照见本节上方表 + [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] §5.7。
+> 触发题：[[mistakes/uworld-mistakes_2026-05#^Q11566]] 慢性 HTN + 不规律服药 + Cr 2.0 + 36 hr nitroprusside → confusion + hyperreflexia + Bicarb 14 = cyanide toxicity；首选解毒 **Hydroxocobalamin**（vit B12a，安全无 MetHb 风险）。完整三胞胎对照见本节上方表 + [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] §5.7。
 
 ---
 
@@ -3409,17 +3409,17 @@
 > [!info] 元 Pattern 概念
 > 元 pattern 是 **USMLE 反复跨学科考的"做题陷阱模板"**，不是某个具体疾病知识。识别这类 pattern 能跨题型共用 — 一次掌握，多题受益。
 
-### 临床动作正确 + 归因错误 ⭐⭐⭐（来源 [[mistakes/uworld-mistakes#^Q4491]] CA-AKI 预防）
+### 临床动作正确 + 归因错误 ⭐⭐⭐（来源 [[mistakes/uworld-mistakes_2026-05#^Q4491]] CA-AKI 预防）
 
 > [!warning] 核心
 > USMLE 喜欢测**"知道该做什么 + 不知道为什么做"** — 题问 **"primary purpose / main reason"** 时，**临床动作对** ≠ **归因对**。考的是 **why** 不是 **what**。
 
 | 临床动作 | **真实目的** | ❌ 常被错误归因为 | 触发 / 引用 |
 |---|---|---|---|
-| Contrast 前 **hold metformin** | **防 metformin 蓄积 → lactic acidosis**（metformin 经肾排 + 抑制呼吸链 complex I）| ❌ "防 CA-AKI" | [[mistakes/uworld-mistakes#^Q4491]] |
+| Contrast 前 **hold metformin** | **防 metformin 蓄积 → lactic acidosis**（metformin 经肾排 + 抑制呼吸链 complex I）| ❌ "防 CA-AKI" | [[mistakes/uworld-mistakes_2026-05#^Q4491]] |
 | Contrast 过敏史给 **glucocorticoid + antihistamine** | **防 anaphylaxis / 荨麻疹 / 支气管痉挛** | ❌ "防 CA-AKI" | — |
 | Contrast 前给 **N-acetylcysteine (NAC)** | **争议弱推荐**防 CA-AKI（部分研究有效，但 weak evidence）| ⚠️ "必给"是过度 | — |
-| Contrast 前 **hold ACEI / ARB** | **无证据**防 CA-AKI；反致 periprocedural HTN → 不推荐停 | ❌ "伤肾药都停"反射 | [[mistakes/uworld-mistakes#^Q4491]] |
+| Contrast 前 **hold ACEI / ARB** | **无证据**防 CA-AKI；反致 periprocedural HTN → 不推荐停 | ❌ "伤肾药都停"反射 | [[mistakes/uworld-mistakes_2026-05#^Q4491]] |
 | ACEI 长用 Cr **stable < 30% 升** | **GFR 适应性下调**（不是肾损 — 出球小动脉舒张降 GFR 是 ACEI 治疗效应）| ❌ 反射停药 | — |
 | **Aspirin in pregnancy（低剂量 81 mg）** | **防 preeclampsia**（高危孕妇 12 wks 起）| ❌ "抗凝防 stroke" | — |
 | **Statin for primary prevention**（无既往 ASCVD）| **降 ASCVD 风险**（抗炎 + plaque 稳定，不只是降 LDL 数字）| ⚠️ 只为 LDL 数字 | — |
@@ -3436,14 +3436,14 @@
 
 ---
 
-### 生理代偿 vs 药理学方向相反 ⭐⭐⭐（来源 [[mistakes/uworld-mistakes#^Q13842]] 代谢性酸中毒肾代偿）
+### 生理代偿 vs 药理学方向相反 ⭐⭐⭐（来源 [[mistakes/uworld-mistakes_2026-05#^Q13842]] 代谢性酸中毒肾代偿）
 
 > [!warning] 核心
 > 身体**生理代偿**（应对应激的自愈方向）和**药理学**（药物 / 抑制剂作用方向）**经常方向相反**。看到"系统 X 对 stimulus 的反应"题，不要把"X 抑制剂的作用方向"代入答案 — 生理代偿是**激活、上调、增加**；药物多是**抑制、下调、拮抗**。
 
 | 系统 | **生理代偿方向**（stimulus → 自愈）| **药理学（抑制剂 / 拮抗剂）方向** | 触发 / 例子 |
 |---|---|---|---|
-| **Carbonic Anhydrase (CA)** ⭐ | 代谢性酸中毒 → CA 活性 **↑**（介导近端 HCO3 重吸收 ↑ + 集合管 H+ 泌出 ↑） | **Acetazolamide 抑 CA → HCO3 排 ↑ → 致代谢性酸中毒**（治高原病 / 青光眼 / 假性脑瘤）| [[mistakes/uworld-mistakes#^Q13842]] |
+| **Carbonic Anhydrase (CA)** ⭐ | 代谢性酸中毒 → CA 活性 **↑**（介导近端 HCO3 重吸收 ↑ + 集合管 H+ 泌出 ↑） | **Acetazolamide 抑 CA → HCO3 排 ↑ → 致代谢性酸中毒**（治高原病 / 青光眼 / 假性脑瘤）| [[mistakes/uworld-mistakes_2026-05#^Q13842]] |
 | **RAAS** | 容量 ↓ / BP ↓ / Na ↓ → RAAS **激活**（renin ↑ → AT-II → aldo ↑ → 保 Na + 缩血管 + 升 BP） | **ACEI / ARB / 直接 renin 抑制 / spironolactone-eplerenone 抑 aldo → 降 BP + 排 Na** | HF / HTN / CKD 治疗 |
 | **Aldosterone** | 高钾 / 低钠 → aldo **↑**（远端 K 排 ↑ + Na 重吸 ↑ + H+ 排 ↑）| **Spironolactone / Eplerenone 拮抗 → K ↑ + Na 排 + 致代谢性酸中毒（轻）**| HF / Conn / CKD |
 | **Sympathetic / β-receptor** | 心衰 / 休克 → 交感 **↑**（短期代偿：HR ↑ + 收缩力 ↑ + 缩血管）| **β-blocker 抑交感 → 长期改善心衰死亡率**（短期代偿 ≠ 长期获益的反 pattern） | CHF / 房颤 |
@@ -3451,8 +3451,8 @@
 | **PTH** | 低钙 → PTH **↑**（动骨 + 远端肾重吸 Ca + 1,25-D 合成 ↑）| **Cinacalcet 激活 CaSR → PTH ↓**（治 2° HPT / 转移性钙化）| CKD-MBD |
 | **TSH** | 低 T4 → TSH **↑**（甲状腺合成 ↑）| **Levothyroxine 替代 → 反馈 TSH ↓** | 甲减治疗 |
 | **Cortisol axis (ACTH)** | 低 cortisol → ACTH **↑**（CRH ↑ → ACTH ↑ → 肾上腺合成 cortisol ↑）| **慢性糖皮质激素 → 反馈 ACTH ↓ → 肾上腺萎缩**（突然停药致 adrenal crisis）| Cushing / Addison |
-| **NH4+ 排（肾酸代偿）**| 代谢性酸中毒 → NH4+ 排 **↑ × 10**（主力清酸通道，× 10 上调）| 无相应"抑制剂"药；但 **CKD 中 NH4+ 排能力 ↓** 致 acidosis 难纠 | [[mistakes/uworld-mistakes#^Q13842]] |
-| **Urinary Cl- 排（伴 HCO3 重吸）** | 代谢性酸中毒 → urinary Cl- 排 **↑**（β-intercalated cell Cl-/HCO3- 交换 — 电中性平衡）| — | [[mistakes/uworld-mistakes#^Q13842]] |
+| **NH4+ 排（肾酸代偿）**| 代谢性酸中毒 → NH4+ 排 **↑ × 10**（主力清酸通道，× 10 上调）| 无相应"抑制剂"药；但 **CKD 中 NH4+ 排能力 ↓** 致 acidosis 难纠 | [[mistakes/uworld-mistakes_2026-05#^Q13842]] |
+| **Urinary Cl- 排（伴 HCO3 重吸）** | 代谢性酸中毒 → urinary Cl- 排 **↑**（β-intercalated cell Cl-/HCO3- 交换 — 电中性平衡）| — | [[mistakes/uworld-mistakes_2026-05#^Q13842]] |
 
 **CK 解题 SOP**：
 1. 题问"在 X 应激下，Y 系统**如何变化**" → 答**生理代偿方向**（多是上调 / 激活 / 增加）

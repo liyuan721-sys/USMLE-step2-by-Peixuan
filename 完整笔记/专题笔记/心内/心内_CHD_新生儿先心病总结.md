@@ -697,8 +697,8 @@ PGE1 急救                    ACEi + 利尿 → 手术 / 自愈
 ## 🔗 关联
 
 - 🔁 **同主题错题**：
-  - [[mistakes/uworld-mistakes#^Q20421]] IDM-HCM（首张新生儿 CHD + 杂音 + IDM 综合题；本笔记的诞生触发题）⭐ 母题
-  - [[mistakes/uworld-mistakes#^Q16280]] VSD 婴儿期心衰（PVR 下降曲线 → 1-2 月发病；高输出量 HF 容量超载 vs 泵衰竭；婴儿心衰 vs 成人心衰对照；杂音反直觉规律）⭐
+  - [[mistakes/uworld-mistakes_2026-05#^Q20421]] IDM-HCM（首张新生儿 CHD + 杂音 + IDM 综合题；本笔记的诞生触发题）⭐ 母题
+  - [[mistakes/uworld-mistakes_2026-05#^Q16280]] VSD 婴儿期心衰（PVR 下降曲线 → 1-2 月发病；高输出量 HF 容量超载 vs 泵衰竭；婴儿心衰 vs 成人心衰对照；杂音反直觉规律）⭐
   - 等后续 ASD / PDA / TOF / d-TGA / HLHS / AS / PS / CoA / Truncus / TAPVR 错题积累
 - 📚 **主笔记**：
   - [[完整笔记/Peixuan分科笔记/儿科]]（新生儿评估 / CHD 大类）

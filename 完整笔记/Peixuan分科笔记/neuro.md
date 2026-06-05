@@ -6401,7 +6401,7 @@ features</td>
 **myoclonus 不是典型 UMN 或 LMN 体征。它本质是脑缺氧后的异常神经放电/去抑制，不一定马上改变腱反射。后期才可能出现 hyperreflexia**
 
 ⚠️ **Myoclonus 6 大成因鉴别**（USMLE 高频）：
-- **Serotonin Syndrome**（SSRI / MDMA / Tramadol / Triptan 等 5-HT 类合用）— 伴 hyperreflexia + clonus + 高热 + AMS（见 [[mistakes/uworld-mistakes#^Q11853]]）
+- **Serotonin Syndrome**（SSRI / MDMA / Tramadol / Triptan 等 5-HT 类合用）— 伴 hyperreflexia + clonus + 高热 + AMS（见 [[mistakes/uworld-mistakes_2026-05#^Q11853]]）
 - **缺氧后脑病**（心跳骤停后 72h 内）— 伴昏迷，预后差
 - **代谢性**（尿毒症 asterixis / 肝衰 / 低钠 / 低钙 / 低血糖）
 - **感染性**（CJD = prion / 脑炎 / SSPE = 麻疹后亚急性硬化性脑炎）

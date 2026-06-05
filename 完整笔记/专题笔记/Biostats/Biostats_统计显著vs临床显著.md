@@ -12,7 +12,7 @@ version: v1.0
 > [!info] 定位
 > 本笔记解决一类高频 CK 陷阱：**CI 显示"统计显著"，但 effect size 太小 → 临床无意义**。
 > 教学目标（First Aid / UWorld）：**"A statistically significant finding may or may not be clinically relevant."**
-> 由错题 [[mistakes/uworld-mistakes#^Q106495]] 驱动新建。
+> 由错题 [[mistakes/uworld-mistakes_2026-05#^Q106495]] 驱动新建。
 
 ---
 
@@ -28,7 +28,38 @@ version: v1.0
 
 ---
 
-## 二、四种组合 ⭐
+## 二、Effect size（效应量）是什么 ⭐⭐⭐
+
+**Effect size = 效应有多大（差异 / 关联的"量级"），与样本量无关。** 它回答"差多少、值不值得在意"（= 临床重要性那一问），**不是**"是不是偶然"（那是 p / CI 的事）。
+
+> [!info] 不是单一公式，而是一类指标 —— 按结局类型选
+
+| 结局类型 | Effect size 指标 | 公式 / 取值 |
+|---|---|---|
+| **连续变量**（均数）| 组间均数差 mean difference | mean₁ − mean₂（Q106495 的 −0.05 天就是这个）|
+| 连续变量（标准化）| **Cohen's d** | d = (mean₁ − mean₂) / SD_pooled |
+| **二分类**（事件率）| ARR / RRR / RR / OR / HR | 见 [[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]] |
+| 相关 | 相关系数 r | −1 ~ +1，越远离 0 越强 |
+
+> 关键认知：你学过的 **ARR / RRR / RR / OR / 均数差本身就是 effect size** —— 它们衡量"效应大小"；CI / p 只衡量"是否显著"。
+
+### Cohen's d（最常被单独叫"effect size"的那个）
+
+把均数差用标准差"标准化"，便于跨研究比较：
+
+```
+d = (mean₁ − mean₂) / SD_pooled（合并标准差）
+```
+
+| d 值 | 效应大小 |
+|---|---|
+| ≈ 0.2 | small（小）|
+| ≈ 0.5 | medium（中）|
+| ≈ 0.8 | large（大）|
+
+---
+
+## 三、四种组合 ⭐
 
 | 统计 | 临床 | 含义 | 典型场景 |
 |---|---|---|---|
@@ -43,7 +74,7 @@ version: v1.0
 
 ---
 
-## 三、CK 解题两步法 ⭐⭐⭐
+## 四、CK 解题两步法 ⭐⭐⭐
 
 ```
 第 1 步：统计显著？
@@ -62,7 +93,7 @@ version: v1.0
 
 ---
 
-## 四、Stem 反射钩
+## 五、Stem 反射钩
 
 | Stem 信号 | 反射 |
 |---|---|
@@ -73,7 +104,7 @@ version: v1.0
 
 ---
 
-## 五、Memory Hook
+## 六、Memory Hook
 
 > [!success] 记忆挂钩
 > - **"CI 不含 null = 统计显著；effect size vs 阈值 = 临床显著。两步分开判。"**
@@ -83,13 +114,13 @@ version: v1.0
 
 ---
 
-## 六、🔗 关联
+## 七、🔗 关联
 
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes_2026-06#^Q106495]] 统计显著 vs 临床显著（CI 不含 0 但 effect size < 阈值）⭐ 源头
-  - [[mistakes/uworld-mistakes#^Q3941]] Null Hypothesis（CI/p 与 H₀ 基础）
-  - [[mistakes/uworld-mistakes#^Q21248]] OR-CI 表格判读（CI 含/不含 null）
-  - [[mistakes/uworld-mistakes#^Q20227]] CI 不含 1 ≠ 因果（CI 越界陷阱谱系）
+  - [[mistakes/uworld-mistakes_2026-05#^Q3941]] Null Hypothesis（CI/p 与 H₀ 基础）
+  - [[mistakes/uworld-mistakes_2026-05#^Q21248]] OR-CI 表格判读（CI 含/不含 null）
+  - [[mistakes/uworld-mistakes_2026-05#^Q20227]] CI 不含 1 ≠ 因果（CI 越界陷阱谱系）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
 - 📋 邻近笔记：
   - [[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]（CI 不含 null 的"统计 vs 因果"阶梯 — 与本卡"统计 vs 临床"互补，构成 CI 判读双陷阱）
@@ -99,7 +130,7 @@ version: v1.0
 
 ---
 
-## 七、✅ 默写测试
+## 八、✅ 默写测试
 
 > [!question]- 默写题 1
 > 一个结果"统计显著"和"临床重要"分别由什么判定？为什么 CI 不含 null 不能说明临床重要？
@@ -109,3 +140,9 @@ version: v1.0
 
 > [!question]- 默写题 3
 > 一个 RCT p=0.08（不显著）但点估计效应看起来很大、样本只有 30 人。最可能的问题是什么？该怎么改善？
+
+> [!question]- 默写题 4
+> 什么是 effect size（效应量）？它和 p 值各回答什么问题？连续变量结局常用哪两个 effect size 指标？
+
+> [!question]- 默写题 5
+> 写出 Cohen's d 的公式，并说出 d ≈ 0.2 / 0.5 / 0.8 分别对应 small / medium / large 中的哪个。

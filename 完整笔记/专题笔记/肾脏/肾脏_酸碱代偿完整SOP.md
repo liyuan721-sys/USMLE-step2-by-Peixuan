@@ -53,10 +53,10 @@ type: 专题笔记
 
 | Q# | pH | 关键参数 | 原发判读 | 一句话坑 |
 |---|---|---|---|---|
-| [[mistakes/uworld-mistakes#^Q2786]] | 7.49↑ | PaCO2 30↓ / HCO3 24 正常 | **uncompensated 呼吸性碱**（肺炎过度通气）| 呕吐诱选代碱，但 **HCO3 正常 → 不是代碱** |
-| [[mistakes/uworld-mistakes#^Q2826]] | 7.47↑ | HCO3 31↑ / K↓Cl↓ | **代谢性碱**（袢利尿/收缩性碱）| 插管诱选呼碱，但 **HCO3 高 = 代碱**（呼碱 HCO3 低）|
-| [[mistakes/uworld-mistakes#^Q13842]] | 7.30↓ | HCO3 16↓ / 乳酸↑ / PaCO2 34↓ | **高 AG 代酸**（AAA 夹闭乳酸）+ 呼吸代偿 | 肾代偿排 H⁺ 靠 **NH4⁺**；尿 Cl **排泄**↑（非重吸收）|
-| [[mistakes/uworld-mistakes#^Q18881]] | 7.32↓ | HCO3 13↓ / AG 10 正常 / PaCO2 26 | **NAGMA → Type 1 RTA**；PaCO2 26 = Winter 代偿 | 代酸时 **尿 pH > 5.5 = 远端 RTA**；PaCO2 低是代偿非呼碱 |
+| [[mistakes/uworld-mistakes_2026-05#^Q2786]] | 7.49↑ | PaCO2 30↓ / HCO3 24 正常 | **uncompensated 呼吸性碱**（肺炎过度通气）| 呕吐诱选代碱，但 **HCO3 正常 → 不是代碱** |
+| [[mistakes/uworld-mistakes_2026-05#^Q2826]] | 7.47↑ | HCO3 31↑ / K↓Cl↓ | **代谢性碱**（袢利尿/收缩性碱）| 插管诱选呼碱，但 **HCO3 高 = 代碱**（呼碱 HCO3 低）|
+| [[mistakes/uworld-mistakes_2026-05#^Q13842]] | 7.30↓ | HCO3 16↓ / 乳酸↑ / PaCO2 34↓ | **高 AG 代酸**（AAA 夹闭乳酸）+ 呼吸代偿 | 肾代偿排 H⁺ 靠 **NH4⁺**；尿 Cl **排泄**↑（非重吸收）|
+| [[mistakes/uworld-mistakes_2026-05#^Q18881]] | 7.32↓ | HCO3 13↓ / AG 10 正常 / PaCO2 26 | **NAGMA → Type 1 RTA**；PaCO2 26 = Winter 代偿 | 代酸时 **尿 pH > 5.5 = 远端 RTA**；PaCO2 低是代偿非呼碱 |
 
 > [!warning] 串讲核心：判原发先读数，别被病史词带偏
 > 呕吐 → 不一定代碱（看 HCO3 升没升）；插管/呼吸机 → 不一定呼吸性（看 HCO3 方向）；FTT/疲劳 → 先算 AG + 看尿 pH。**数定原发，史定病因。**
@@ -148,7 +148,7 @@ type: 专题笔记
 > - **肾代偿慢**（2–3 天才建立）→ 呼吸紊乱才有 **急性**（系数小，HCO₃ 几乎没动）vs **慢性**（系数大，HCO₃ 动足）之分
 > - **肺代偿快**（分钟级）→ 代谢紊乱马上被肺代偿，**没有急慢之分**（代酸 / 代碱各只 1 个公式）
 
-### 3.2.bis 肾代偿到底怎么排酸 / 补碱？（NH4⁺ + titratable acid）⭐（来源 [[mistakes/uworld-mistakes#^Q13842]]）
+### 3.2.bis 肾代偿到底怎么排酸 / 补碱？（NH4⁺ + titratable acid）⭐（来源 [[mistakes/uworld-mistakes_2026-05#^Q13842]]）
 
 > [!info]- 肾排酸的分子机制（点开看"为什么"）
 > **大前提：肾不能直接排游离 H⁺。** 尿酸化极限 pH ≈ 4.5（游离 H⁺ 仅 ~0.03 mmol/L），而每天产 ~70 mEq 固定酸 → **必须把 H⁺ 绑到缓冲分子上排出**。

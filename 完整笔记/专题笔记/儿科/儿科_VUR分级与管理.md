@@ -122,7 +122,7 @@ type: 专题笔记
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q106084]] Primary VUR — 肾盏变钝=severe→预防性抗生素（本笔记来源）
+  - [[mistakes/uworld-mistakes_2026-05#^Q106084]] Primary VUR — 肾盏变钝=severe→预防性抗生素（本笔记来源）
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/儿科]]（VUR / febrile UTI / posterior urethral valves）
   - [[完整笔记/Peixuan分科笔记/肾脏]]（hydronephrosis / reflux nephropathy / CKD）

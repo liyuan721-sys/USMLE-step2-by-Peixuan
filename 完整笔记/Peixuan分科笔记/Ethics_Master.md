@@ -222,7 +222,7 @@
 | 场景 | 标准答案 |
 |---|---|
 | **病人威胁要伤害特定他人**(Tarasoff) | **警告潜在受害者 + 通知警方** |
-| **病人有自杀风险** | **不可让其离开**,精神科评估,必要时 **involuntary hold**（详见 [[mistakes/uworld-mistakes#^Q15895]] — 青少年 passive SI 实战场景：未成年人 SI 时打破保密通知父母 + duty to protect）|
+| **病人有自杀风险** | **不可让其离开**,精神科评估,必要时 **involuntary hold**（详见 [[mistakes/uworld-mistakes_2026-05#^Q15895]] — 青少年 passive SI 实战场景：未成年人 SI 时打破保密通知父母 + duty to protect）|
 | **司机有癫痫 / 视力问题不能开车** ⚠️补充 | **劝其停止 + 报告 DMV**(因州而异,多数选报告) |
 
 ### 同事问题(Impaired Physician)⚠️补充

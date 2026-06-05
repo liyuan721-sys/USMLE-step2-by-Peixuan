@@ -55,7 +55,7 @@
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q20227]] OR 方向陷阱（同日 Biostats）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20227]] OR 方向陷阱（同日 Biostats）
 >   - 待积累更多 Hill's / 因果推断题
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
 > - 🏥 跨学科：无
@@ -141,9 +141,9 @@
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q20787]] Hill's criteria（同日 Biostats）
->   - [[mistakes/uworld-mistakes#^Q20283]] Case-Control vs Cohort 场景适配
->   - [[mistakes/uworld-mistakes#^Q21248]] OR-CI 表格判读 + Confounding
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20787]] Hill's criteria（同日 Biostats）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20283]] Case-Control vs Cohort 场景适配
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21248]] OR-CI 表格判读 + Confounding
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/OB]]（pregnancy-related death 流行病学 / 种族差异）
 > - 🌱 TODO：等积累 ≥ 3 道 OR 方向 / case-control 错题 → 整合到 [[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]] 或生成 [[完整笔记/专题笔记/_衍生_OR_RR方向陷阱]]
@@ -256,7 +256,7 @@
 > ## 关联
 > - [[完整笔记/Peixuan分科笔记/Biostats_Master#反推公式]]
 > - [[完整笔记/专题笔记/USMLE/USMLE_高频评分_公式#流行病学反推]]
-> - [[mistakes/uworld-mistakes]] 搜 Q20430（上一道 ARP）
+> - [[mistakes/uworld-mistakes_2026-05]] 搜 Q20430（上一道 ARP）
 > 
 > ## 跨科考点（OB / 手术）
 > - 剖宫产术后切口感染预防 = **Cephalexin** 口服
@@ -1093,9 +1093,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q107183]] RRR 计算（亚组限定 + 分母法则）
->   - [[mistakes/uworld-mistakes#^Q20057]] ARR 反推样本量（早上）
->   - [[mistakes/uworld-mistakes#^Q20430]] ARP 阳性归因比（早上）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107183]] RRR 计算（亚组限定 + 分母法则）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20057]] ARR 反推样本量（早上）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20430]] ARP 阳性归因比（早上）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]] / [[完整笔记/专题笔记/USMLE/USMLE_广告题解题策略]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（ACS / NSTEMI / 抗血小板药 — Efrenzia 类似 ticagrelor，新型 P2Y12 抑制剂）
 > - 🌱 TODO（待生成衍生）：Biostats 章节复习完后，请 Claude Code 整合所有"广告/摘要解读"类错题 → 扩充 [[完整笔记/专题笔记/USMLE/USMLE_广告题解题策略]]
@@ -1178,9 +1178,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q7688]] HR 解读（同为大型 multicenter RCT = Phase III）
->   - [[mistakes/uworld-mistakes#^Q7708-Q7709-Efrenzia]] Efrenzia 广告题（Phase III 后的真实广告）
->   - [[mistakes/uworld-mistakes#^Q20283]] Case-Control vs Cohort（观察性 vs 实验性 study design）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q7688]] HR 解读（同为大型 multicenter RCT = Phase III）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q7708-Q7709-Efrenzia]] Efrenzia 广告题（Phase III 后的真实广告）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20283]] Case-Control vs Cohort（观察性 vs 实验性 study design）
 > - 📚 主笔记：
 > - [[完整笔记/专题笔记/USMLE/USMLE_临床试验分期]] ⭐ 今日新建
 > - 🌱 TODO（待生成衍生）：Biostats 章节复习完后，请 Claude Code 整合所有 Phase 相关错题 → 扩充 [[完整笔记/专题笔记/USMLE/USMLE_临床试验分期]]
@@ -1478,7 +1478,7 @@
 > 
 > - 🔁 同主题错题：
 >   - Q12684 (Item 1 同 vignette) — Observational study identification（做对了，但同一 stem 两个考点 = 高频考法）
->   - [[mistakes/uworld-mistakes#^Q3941]] Bias 鉴别题（如已建）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3941]] Bias 鉴别题（如已建）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/Biostats_Master]]
 >   - [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]]
@@ -1607,8 +1607,8 @@
 > - 🔁 同主题错题：
 >   - 首道 Hypothesis testing / Null hypothesis 题
 >   - 关联到 study design 系列：
->     - [[mistakes/uworld-mistakes#^Q12684]] Cross-sectional 识别（本题正是其衍生考法）
->     - [[mistakes/uworld-mistakes#^Q12685]] Reporting bias（同日 Biostats）
+>     - [[mistakes/uworld-mistakes_2026-05#^Q12684]] Cross-sectional 识别（本题正是其衍生考法）
+>     - [[mistakes/uworld-mistakes_2026-05#^Q12685]] Reporting bias（同日 Biostats）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/Biostats_Master]]
 >   - [[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]]（RR/OR/Prevalence 区分基础）
@@ -1838,9 +1838,9 @@
 > - 🔁 同主题错题：
 >   - **Q21248 Item 2 同 vignette** — Confounding（做对了，同 stem 两考点 = 高频考法）
 >   - 同日 Biostats 系列：
->     - [[mistakes/uworld-mistakes#^Q12685]] Reporting bias
->     - [[mistakes/uworld-mistakes#^Q107800]] ROC 最佳 cutoff
->     - [[mistakes/uworld-mistakes#^Q3941]] Null hypothesis（同样涉及"CI 跨 null value"概念）
+>     - [[mistakes/uworld-mistakes_2026-05#^Q12685]] Reporting bias
+>     - [[mistakes/uworld-mistakes_2026-05#^Q107800]] ROC 最佳 cutoff
+>     - [[mistakes/uworld-mistakes_2026-05#^Q3941]] Null hypothesis（同样涉及"CI 跨 null value"概念）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/Biostats_Master]]
 >   - [[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]]（RR/OR 区分基础）
@@ -1967,10 +1967,10 @@
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q7688]] Study Design 判定（Item 2）
->   - [[mistakes/uworld-mistakes#^Q20090]] Cohort vs Case-Control 鉴别
->   - [[mistakes/uworld-mistakes#^Q20283]] Cross-sectional 识别
->   - [[mistakes/uworld-mistakes#^Q20058]] Observational study 类型
+>   - [[mistakes/uworld-mistakes_2026-05#^Q7688]] Study Design 判定（Item 2）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20090]] Cohort vs Case-Control 鉴别
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20283]] Cross-sectional 识别
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20058]] Observational study 类型
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
 > - 🏥 跨学科：暂无
 > - 🌱 TODO（待生成衍生）：等 Biostats 章节复习完，请 Claude Code 整合 **Q7688 + Q20090 + Q20283 + Q20058 + Q20435** 这 5 道 Study Design 错题 → 生成 [[完整笔记/专题笔记/USMLE/USMLE_Study_Design决策树]]
@@ -2069,7 +2069,7 @@
 > ## 🔗 关联
 > 
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^AMBOSS-CJD57]] CJD 误选 FTD（同"反射性诊断 + 单一症状导向"）
+>   - [[mistakes/uworld-mistakes_2026-05#^AMBOSS-CJD57]] CJD 误选 FTD（同"反射性诊断 + 单一症状导向"）
 >   - 等积累更多痴呆题 → AD / VaD / LBD 实战
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/神经/神经_老年痴呆鉴别]]（可治痴呆 8 大 + Pseudo 5 钩子直接收录）
@@ -2172,7 +2172,7 @@
 > ## 🔗 关联
 > 
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^AMBOSS-Pseudo78]] Pseudodementia 误选 Donepezil（同"反射性诊断 + 单一症状导向"模式）
+>   - [[mistakes/uworld-mistakes_2026-05#^AMBOSS-Pseudo78]] Pseudodementia 误选 Donepezil（同"反射性诊断 + 单一症状导向"模式）
 >   - 等后续 PD / HD / TD / Wilson 不自主运动题积累
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/神经/神经_老年痴呆鉴别]]（CJD 4 大金标准 + 痴呆速度分类）
@@ -2625,8 +2625,8 @@
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q20435]] Cohort vs Case-Control（matched control 概念 — 上一题，导致本题概念污染）
->   - [[mistakes/uworld-mistakes#^Q7688]] Study Design 判定
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20435]] Cohort vs Case-Control（matched control 概念 — 上一题，导致本题概念污染）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q7688]] Study Design 判定
 >   - 本题是 **RCT 质量评估**首题，等后续题积累
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（carvedilol 是 systolic HF 三大 mortality-benefit β-blocker 之一：carvedilol / metoprolol succinate / bisoprolol）
@@ -3673,8 +3673,8 @@
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q3354]] 肢体血管创伤（同日，hard signs 直接 OR — "跳过影像"反向案例）
->   - [[mistakes/uworld-mistakes#^Q3504]] CVC 程序题（同日，"程序题先确认后治疗"方法论互补）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3354]] 肢体血管创伤（同日，hard signs 直接 OR — "跳过影像"反向案例）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3504]] CVC 程序题（同日，"程序题先确认后治疗"方法论互补）
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/USMLE/USMLE_读题策略|读题策略 — 新增"诊断阶梯不跳级"模块]] ⭐（本题贡献新方法论，等累计 3+ 道阶梯跳级题后正式补 Part 8）
 >   - [[完整笔记/Peixuan分科笔记/外科]]（钝性胸创 + 创伤一般原则 + ATLS）
@@ -4198,7 +4198,7 @@
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q3910]] LQTS（今日，电生理 + 抗心律失常药系列）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3910]] LQTS（今日，电生理 + 抗心律失常药系列）
 >   - 与今日 Q4212 / Q3504 / Q3354 / Q19889 / Q3910 共同构成 7 题"紧急决策"系列
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/心内/心内_ACLS急救决策树]] ⭐（本题落地的衍生笔记 — 12 个 Part 完整版）
@@ -4467,9 +4467,9 @@
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q3910]] LQTS（同日，"运动诱发晕厥"鉴别 — Q3910 是 LQT1 不是 orthostatic）
->   - [[mistakes/uworld-mistakes#^Q17169]] PAI（同日，**"脱水四联"指纹思维**第二次应用 + adrenal crisis 也致 orthostatic）
->   - [[mistakes/uworld-mistakes#^Q4725]] PEA（今日，"先脉搏后节律"和"先 HR 反应后定型"思路类似）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3910]] LQTS（同日，"运动诱发晕厥"鉴别 — Q3910 是 LQT1 不是 orthostatic）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q17169]] PAI（同日，**"脱水四联"指纹思维**第二次应用 + adrenal crisis 也致 orthostatic）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4725]] PEA（今日，"先脉搏后节律"和"先 HR 反应后定型"思路类似）
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/心内/心内_晕厥鉴别决策树]] ⭐（本题落地的衍生笔记 — 11 个 Part 完整版）
 >   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] ⭐（Part 6.7 脱水四联指纹已沉淀）
@@ -4933,10 +4933,10 @@
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q21638]] Orthostatic Hypotension（同日，与本题对比：Q21638 是真 OH，本题是 vasovagal 不是 OH）
->   - [[mistakes/uworld-mistakes#^Q3910]] LQTS（同日，心源性晕厥代表，与本题反射性形成对比）
->   - [[mistakes/uworld-mistakes#^Q4725]] PEA（今日，急救场景的晕厥）
->   - [[mistakes/uworld-mistakes#^Q19889]] 钝性胸创（同日，**"过度评估倾向"陷阱第 2 次出现** ⭐）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21638]] Orthostatic Hypotension（同日，与本题对比：Q21638 是真 OH，本题是 vasovagal 不是 OH）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3910]] LQTS（同日，心源性晕厥代表，与本题反射性形成对比）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4725]] PEA（今日，急救场景的晕厥）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19889]] 钝性胸创（同日，**"过度评估倾向"陷阱第 2 次出现** ⭐）
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/心内/心内_晕厥鉴别决策树]] ⭐（本题大量补充该衍生：Vasovagal 5 联 / 7 维框架 / Situational 8 种 / Seizure aura 详解 / 颞叶癫痫 / convulsive syncope）
 >   - [[完整笔记/专题笔记/USMLE/USMLE_读题策略|读题策略 — 反向应用框架]] ⭐（"知道分类不会用 → 不查"是本题方法论缺口）
@@ -5140,7 +5140,7 @@
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q19889]] 经典 Vasovagal + Seizure aura 鉴别（2026-05-14 同主题）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19889]] 经典 Vasovagal + Seizure aura 鉴别（2026-05-14 同主题）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/专题笔记/心内/心内_晕厥鉴别决策树]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Psych]]（PNES 非癫痫性发作鉴别）
 > - 🌱 TODO：无（衍生 Part 8.3 已含 lateral 咬伤 + postictal confusion 金标准 ✓）
@@ -5588,8 +5588,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q3910]] J&L-N LQTS（首张抗心律失常药 / Vaughan-Williams 卡）
->   - [[mistakes/uworld-mistakes#^STQ20260515-38]] Class IB 独特机制 — 缩短 QT（Vaughan-Williams 三亚类对比）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3910]] J&L-N LQTS（首张抗心律失常药 / Vaughan-Williams 卡）
+>   - [[mistakes/uworld-mistakes_2026-05#^STQ20260515-38]] Class IB 独特机制 — 缩短 QT（Vaughan-Williams 三亚类对比）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/专题笔记/心内/心内_Vaughan_Williams抗心律失常药]]（本次增量更新：Part 8.4 + 新增 8.5 WPW 三状态对照 + Digoxin 双重雷 + 收费站/村路类比）
 > - 🏥 跨学科：无
 > - 🌱 TODO（待生成衍生）：
@@ -5720,9 +5720,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q3069]] WPW + Preexcited AF（同为心律失常急性识别；那题"快"，本题"慢"；共同点：都需根据 ECG 模式分类）
->   - [[mistakes/uworld-mistakes#^Q21579]] 经典 Vasovagal（Syncope 4 大类鉴别母题，本题增 Cardiac 子型详解）
->   - [[mistakes/uworld-mistakes#^Q21638]] Volume-mediated OH（Syncope 4 大类对照）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3069]] WPW + Preexcited AF（同为心律失常急性识别；那题"快"，本题"慢"；共同点：都需根据 ECG 模式分类）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21579]] 经典 Vasovagal（Syncope 4 大类鉴别母题，本题增 Cardiac 子型详解）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21638]] Volume-mediated OH（Syncope 4 大类对照）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/专题笔记/心内/心内_晕厥鉴别决策树]]（本次增量并入 Part 5 Cardiac Syncope）/ [[完整笔记/专题笔记/心内/心内_Vaughan_Williams抗心律失常药]]（Part 7.6 扩展传导系统病变 7 大病因）
 > - 🏥 跨学科：无
 > - 🌱 TODO（待生成衍生）：
@@ -6098,7 +6098,7 @@
 > | "VSD 右→左分流" | 当下 SpO₂ 95% / never turned blue → ❌排除；右→左是 **Eisenmenger 晚期**才出现 |
 > | "先心病出生立刻发病" | **左→右分流 CHD 都"延迟发病"**（依赖 PVR 下降）；发绀型才出生立即发病 |
 > | 小 VSD vs 大 VSD 杂音 | **小 VSD 杂音更响**（湍流大）；大 VSD 杂音反轻 |
-> | VSD vs IDM-HCM（[[mistakes/uworld-mistakes#^Q20421]]）| VSD = 分流 + 进行性恶化；IDM-HCM = 流出道梗阻 + 一过性自愈；两题共用"婴儿不发绀 + 收缩期杂音"的分诊框架 |
+> | VSD vs IDM-HCM（[[mistakes/uworld-mistakes_2026-05#^Q20421]]）| VSD = 分流 + 进行性恶化；IDM-HCM = 流出道梗阻 + 一过性自愈；两题共用"婴儿不发绀 + 收缩期杂音"的分诊框架 |
 >
 > ## 我为什么错 / 卡点
 > - **卡点 1：对 VSD 发病时序不清晰** → 不理解为什么"先天性"病偏偏 1 个月才发作
@@ -6136,7 +6136,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q20421]] IDM-HCM（同为新生儿/婴儿不发绀心脏病；那题流出道梗阻 + 一过性自愈，本题分流 + 进行性恶化；共用"婴儿不发绀 + 收缩期杂音"分诊框架）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20421]] IDM-HCM（同为新生儿/婴儿不发绀心脏病；那题流出道梗阻 + 一过性自愈，本题分流 + 进行性恶化；共用"婴儿不发绀 + 收缩期杂音"分诊框架）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/儿科]]
 >   - [[完整笔记/Peixuan分科笔记/心内]]
@@ -6343,7 +6343,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q12374]] Acute viral pericarditis（pleuritic + friction rub + PR depression → NSAID + colchicine）— 同 family "胸痛鉴别 / 各病因"
+>   - [[mistakes/uworld-mistakes_2026-05#^Q12374]] Acute viral pericarditis（pleuritic + friction rub + PR depression → NSAID + colchicine）— 同 family "胸痛鉴别 / 各病因"
 >   - （胸痛鉴别 2/3 道，再积累 1 道触发衍生笔记）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/心内]]
@@ -6697,9 +6697,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q3910]] J&L-N LQTS（首张电生理卡）
->   - [[mistakes/uworld-mistakes#^STQ20260515-38]] Class IB 独特机制 — 缩短 QT
->   - [[mistakes/uworld-mistakes#^STQ20260516-16]] CAST 临床应用反向（同日同根问题）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3910]] J&L-N LQTS（首张电生理卡）
+>   - [[mistakes/uworld-mistakes_2026-05#^STQ20260515-38]] Class IB 独特机制 — 缩短 QT
+>   - [[mistakes/uworld-mistakes_2026-05#^STQ20260516-16]] CAST 临床应用反向（同日同根问题）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/心内]]
 >   - [[完整笔记/专题笔记/心内/心内_Vaughan_Williams抗心律失常药]]（Part 12.10 双向锁死表已增量）
@@ -6791,8 +6791,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^STQ20260516-15]] Vaughan Williams 双向锁死（同日同根问题）
->   - [[mistakes/uworld-mistakes#^STQ20260515-38]] Class IB 独特机制（Class I 三亚类系列）
+>   - [[mistakes/uworld-mistakes_2026-05#^STQ20260516-15]] Vaughan Williams 双向锁死（同日同根问题）
+>   - [[mistakes/uworld-mistakes_2026-05#^STQ20260515-38]] Class IB 独特机制（Class I 三亚类系列）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/心内]]
 >   - [[完整笔记/专题笔记/心内/心内_Vaughan_Williams抗心律失常药]]（Part 2.4 CAST 试验 + Part 14 陷阱表已有，本次扩 Part 12.11 反向应用决策树）
@@ -7060,7 +7060,7 @@
 >
 > **🔗 关联**
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q4277-v2]] 第二次错（2026-05-18）— 同题，新陷阱：late-peaking vs early-peaking + soft single S2 机制
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4277-v2]] 第二次错（2026-05-18）— 同题，新陷阱：late-peaking vs early-peaking + soft single S2 机制
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/专题笔记/心内/心内_瓣膜病听诊推理框架]] / [[草稿/2026-05-16_瓣膜病心音机制框架_v1]]（今日新建草稿）
 > - 🏥 跨学科：（暂无）
 > - 🌱 TODO（待生成衍生）：
@@ -7332,8 +7332,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q4456]] 老年间歇性 AV 阻滞（PR 长 + QRS 长 → EP study + PPM；结下水平 atropine 无效）
->   - [[mistakes/uworld-mistakes#^Q4454]] Digoxin toxicity（缓 + GI + 神经三联，"治速的药"用错时致命）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4456]] 老年间歇性 AV 阻滞（PR 长 + QRS 长 → EP study + PPM；结下水平 atropine 无效）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4454]] Digoxin toxicity（缓 + GI + 神经三联，"治速的药"用错时致命）
 > - 📚 主笔记 + 已有衍生：
 >   - [[完整笔记/Peixuan分科笔记/心内]]（心律失常 / ACLS）
 >   - [[完整笔记/专题笔记/心内/心内_Vaughan_Williams抗心律失常药]] **Part 7.6 + 7.6.y + 7.6.z**（今日同步整合 v1.6 — 缓 vs 速反向 / 5 大禁用药 / D vs E 陷阱）⭐
@@ -7548,8 +7548,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q4456]] 老年间歇性 AV 阻滞（PR 长 + QRS 长 → EP study + PPM；结下水平 atropine 无效）
->   - [[mistakes/uworld-mistakes#^Q2141]] Symptomatic bradycardia（Atropine 1st line / 结上有效结下起搏）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4456]] 老年间歇性 AV 阻滞（PR 长 + QRS 长 → EP study + PPM；结下水平 atropine 无效）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2141]] Symptomatic bradycardia（Atropine 1st line / 结上有效结下起搏）
 > - 📚 主笔记 + 已有衍生：
 >   - [[完整笔记/Peixuan分科笔记/心内]]
 >   - [[完整笔记/专题笔记/心内/心内_AV_Block完整鉴别]]（今日同步生成 v1 ⭐ 来源本卡）
@@ -8183,7 +8183,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q15831]] 机械瓣新发杂音 → PVD（同样是"瓣膜出问题先做 echo"逻辑）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q15831]] 机械瓣新发杂音 → PVD（同样是"瓣膜出问题先做 echo"逻辑）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/感染]]
 >   - [[完整笔记/Peixuan分科笔记/心内]]
@@ -8746,7 +8746,7 @@
 >
 > ### 9. 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q4277]] 第一次错（2026-05-16）— 同题，前次陷阱：误以为 AS → S3（实为 S4，向心性肥厚）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4277]] 第一次错（2026-05-16）— 同题，前次陷阱：误以为 AS → S3（实为 S4，向心性肥厚）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/专题笔记/心内/心内_瓣膜病听诊推理框架]]（2026-05-18 新建）
 > - 🏥 跨学科：暂无
 > - 🌱 TODO（待生成衍生）：
@@ -8810,7 +8810,7 @@
 > | Septic shock | 正常 ECG (HR↑代偿) | Fluids → Norepi |
 > | Hypovolemic shock | 正常 ECG (HR↑代偿) | **Fluids** |
 >
-> **④ 药物诱发高钾参考清单**（本题非药物诱发 — 元凶是 AKI；此表与 [[mistakes/uworld-mistakes#^Q19-2026-05-18]] 三联炸弹联动复习）
+> **④ 药物诱发高钾参考清单**（本题非药物诱发 — 元凶是 AKI；此表与 [[mistakes/uworld-mistakes_2026-05#^Q19-2026-05-18]] 三联炸弹联动复习）
 >
 > ![[{6FB1F19E-E649-4697-9A24-CEFE1EC3C09D}.png]]
 > *↑ UWorld 官方 9 类升 K 药表（ACEi/ARB / NSAIDs / K-sparing / Heparin / TMP / Cyclosporine / Nonselective β / Digoxin / Succinylcholine + 机制）— 任何高钾 stem 都必须先扫这 9 类*
@@ -8842,7 +8842,7 @@
 >
 > **🔗 关联**
 > > - 🔁 同主题错题：
-> >   - [[mistakes/uworld-mistakes#^Q19-2026-05-18]] 高钾三联 K 炸弹（同日 / Trigger vs Permissive 思维 — 此题是急性处理面，那题是元凶定位面）
+> >   - [[mistakes/uworld-mistakes_2026-05#^Q19-2026-05-18]] 高钾三联 K 炸弹（同日 / Trigger vs Permissive 思维 — 此题是急性处理面，那题是元凶定位面）
 > > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/肾脏]] / [[完整笔记/Peixuan分科笔记/心内]] / [[草稿/2026-05-17_高钾血症完整体系_v1]] §Brady+Hypo 鉴别 + §Sine wave vs TdP（本卡触发增量）
 > > - 🏥 跨学科：
 > >   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] §2.6 Hyperkalemia ECG 指纹（本卡触发新增）
@@ -9541,8 +9541,8 @@
 > ## 🔗 关联
 >
 > - 🔁 **同主题错题**：
->   - [[mistakes/uworld-mistakes#^Q3382]] AD vs MDD + psychotherapy 一线（"诊断对 ≠ 治疗对"同源 — 精神科治疗原则）
->   - [[mistakes/uworld-mistakes#^Q12432]] AUD vs AD 鉴别（做对，离婚 stressor 双面性 — 实验室指纹 MCV+AST/ALT 定胜负）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3382]] AD vs MDD + psychotherapy 一线（"诊断对 ≠ 治疗对"同源 — 精神科治疗原则）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q12432]] AUD vs AD 鉴别（做对，离婚 stressor 双面性 — 实验室指纹 MCV+AST/ALT 定胜负）
 >   - 等后续 OUD / Smoking cessation / BZD 戒断错题积累
 >
 > - 📚 **主笔记**：
@@ -9665,7 +9665,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q12541]] AUD 维持期一线药（Naltrexone）— 治"防复发"，不治急性戒断（本题反向 — 戒断用 BZD）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q12541]] AUD 维持期一线药（Naltrexone）— 治"防复发"，不治急性戒断（本题反向 — 戒断用 BZD）
 >   - 等积累更多 AWS / DT / 其他物质戒断错题后横向连接
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/psych/psych_物质急诊速查]] §9.2 AWS 4 阶段时间轴 + §15.1 AWS seizure 用药（BZD 救命 + Phenytoin 陷阱）
@@ -9846,8 +9846,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q11853]] MDMA 中毒（同日入库 — 中毒 hyperthermia 飙 vs 本题戒断 vitals 平，正好成对）
->   - [[mistakes/uworld-mistakes#^Q3187]] AWS withdrawal seizure（同日做对 — alcohol 戒断 vital signs storm，本题反向）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q11853]] MDMA 中毒（同日入库 — 中毒 hyperthermia 飙 vs 本题戒断 vitals 平，正好成对）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3187]] AWS withdrawal seizure（同日做对 — alcohol 戒断 vital signs storm，本题反向）
 >   - 等积累更多 OUD / opioid 中毒错题后横向连接
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/psych/psych_物质急诊速查]] §9.3 各物质戒断对症急救药（阿片 vital signs 鉴别）
@@ -10334,9 +10334,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q11815]] Synthetic Cathinone（**完美对照** — 5-20 入库，本题 5-19 — 两张连续天入库的"反复错搭子"；本题 = MDMA "爱"共情高热短病程，Q11815 = bath salts "狂暴"combative 体温正常超长病程；两张都 🔴 是因为互相混淆 — 本题 5-20 self-test 病因答成 SS 未答 MDMA / Q11815 5-21 self-test 误答 MDMA 应答合成卡西酮）⭐
->   - [[mistakes/uworld-mistakes#^Q3189]] Heroin 戒断（同日入库 — vital signs 是关键鉴别；本题 = 中毒 hyperthermia，Q3189 = 戒断 vitals 正常，正好成对）
->   - [[mistakes/uworld-mistakes#^Q3187]] AWS withdrawal seizure（同日做对 — 戒断相关 seizure vs 本题中毒相关 seizure）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q11815]] Synthetic Cathinone（**完美对照** — 5-20 入库，本题 5-19 — 两张连续天入库的"反复错搭子"；本题 = MDMA "爱"共情高热短病程，Q11815 = bath salts "狂暴"combative 体温正常超长病程；两张都 🔴 是因为互相混淆 — 本题 5-20 self-test 病因答成 SS 未答 MDMA / Q11815 5-21 self-test 误答 MDMA 应答合成卡西酮）⭐
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3189]] Heroin 戒断（同日入库 — vital signs 是关键鉴别；本题 = 中毒 hyperthermia，Q3189 = 戒断 vitals 正常，正好成对）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3187]] AWS withdrawal seizure（同日做对 — 戒断相关 seizure vs 本题中毒相关 seizure）
 >   - 等积累更多 cocaine / amphetamine / DPH / cholinergic / SS / NMS / 低钠错题后横向连接
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/psych/psych_物质急诊速查]] ⭐ **本错题触发新建**（v1 含 6 大物质中毒鉴别 + SS/NMS/MH 三联 + 干湿对照）
@@ -10352,7 +10352,7 @@
 >   - ✅ neuro.md L7490 表升级为三联（含 SS）+ L12023/L6401 加反链
 >   - 待积累：累积 SIADH 错题 5+ 道后 → 单独衍生 [[完整笔记/专题笔记/肾脏/肾脏_低钠血症鉴别决策树]]（MDMA / SSRI / HF / 肝硬化 / Addison 全谱）
 >   - 待积累：累积 amphetamine 家族错题（冰毒 / Adderall）后 → 考虑加 [[完整笔记/专题笔记/psych/psych_苯丙胺家族鉴别表]] 单独衍生
->   - **占位：待 Methamphetamine 错题入库后** → 给本卡 + [[mistakes/uworld-mistakes#^Q11815]] Bath Salts 都补一条 meth 反链 → 形成 **MDMA / Bath Salts / Meth 三角对照网**（5-HT"爱" vs Cathinone"狂暴超长" vs DA"疯+烂牙"）。Stem 触发词：Ice / Crystal Meth / Crank / Speed / Tina / Glass / meth mouth / 长时间清醒
+>   - **占位：待 Methamphetamine 错题入库后** → 给本卡 + [[mistakes/uworld-mistakes_2026-05#^Q11815]] Bath Salts 都补一条 meth 反链 → 形成 **MDMA / Bath Salts / Meth 三角对照网**（5-HT"爱" vs Cathinone"狂暴超长" vs DA"疯+烂牙"）。Stem 触发词：Ice / Crystal Meth / Crank / Speed / Tina / Glass / meth mouth / 长时间清醒
 >
 > ## ✅ 复盘行动
 >
@@ -10812,7 +10812,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q15103]] Bipolar 孕期维持治疗（同为 bipolar 维持主题 — 本题 = stable 不减停 lithium / Q15103 = 孕期换低致畸药 lamotrigine；都体现"bipolar 终身维持"原则）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q15103]] Bipolar 孕期维持治疗（同为 bipolar 维持主题 — 本题 = stable 不减停 lithium / Q15103 = 孕期换低致畸药 lamotrigine；都体现"bipolar 终身维持"原则）
 >   - 等后续题积累 → 重点关注 maintenance therapy / 沟通题两类
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/psych]]（bipolar disorder / 维持治疗章节）
@@ -10927,8 +10927,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q12541]] AUD 一线药 — Bupropion 误选 → 正解 Naltrexone（同 AUD 维持期用药主题）
->   - [[mistakes/uworld-mistakes#^Q3187]] AWS withdrawal seizure（同 alcohol 主题 — 本题 = 维持期 / Q3187 = 急性戒断期）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q12541]] AUD 一线药 — Bupropion 误选 → 正解 Naltrexone（同 AUD 维持期用药主题）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3187]] AWS withdrawal seizure（同 alcohol 主题 — 本题 = 维持期 / Q3187 = 急性戒断期）
 >   - 可横向关联：Opioid use disorder 药物（Methadone / Buprenorphine / Naltrexone）、Smoking cessation（Varenicline / Bupropion / NRT）
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/psych/psych_物质急诊速查]] §15.2 AUD 维持期 3 药对比（本题已同步 Disulfiram 三必备 + 不降 craving 陷阱）
@@ -12511,7 +12511,7 @@
 > > **多方向眼震**是 PCP 招牌；本题 EOM 正常 + 尿筛 PCP 阴性 → 排除 PCP。
 >
 > > [!warning] 陷阱 4：Brief Psychotic Disorder 需“不能由物质解释”
-> > BPD = 精神病 1 天–1 月，但**必须排除物质 / 其他精神病 / 躯体病**。本题有明确物质中毒 → 不诊断 BPD（呼应同日 [[mistakes/uworld-mistakes#^Q15843]]）。
+> > BPD = 精神病 1 天–1 月，但**必须排除物质 / 其他精神病 / 躯体病**。本题有明确物质中毒 → 不诊断 BPD（呼应同日 [[mistakes/uworld-mistakes_2026-05#^Q15843]]）。
 >
 > ## 我为什么错
 >
@@ -12540,9 +12540,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q11853]] MDMA + Serotonin Syndrome（**完美对照** —— 本题 D 选项即 MDMA；MDMA = 共情 + 高热 + 短病程 vs bath salts = 攻击 + 体温常正常 + 长病程）
->   - [[mistakes/uworld-mistakes#^Q3191]] PCP 中毒（PCP 有多方向眼震 + 在尿筛内；本题 EOM 正常 + 尿筛阴性 → 排除 PCP）
->   - [[mistakes/uworld-mistakes#^Q15843]] Bipolar I vs Brief Psychotic Disorder（同日 —— “psychosis 能否由物质 / mood episode 解释”是共同鉴别轴）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q11853]] MDMA + Serotonin Syndrome（**完美对照** —— 本题 D 选项即 MDMA；MDMA = 共情 + 高热 + 短病程 vs bath salts = 攻击 + 体温常正常 + 长病程）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3191]] PCP 中毒（PCP 有多方向眼震 + 在尿筛内；本题 EOM 正常 + 尿筛阴性 → 排除 PCP）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q15843]] Bipolar I vs Brief Psychotic Disorder（同日 —— “psychosis 能否由物质 / mood episode 解释”是共同鉴别轴）
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/psych/psych_物质急诊速查]]（§3 6 大物质中毒鉴别 / §13 UDS 漏检 — bath salts 测不出）
 >   - [[完整笔记/Peixuan分科笔记/psych]]（物质相关障碍）
@@ -12551,7 +12551,7 @@
 > - 🌱 TODO（待生成衍生）：
 >   - **衍生增量**：synthetic cathinone（bath salts）目前**不在** [[完整笔记/专题笔记/psych/psych_物质急诊速查]] §3「6 大物质中毒鉴别表」内 → 建议补一行（病程长 + combative + 尿筛阴性）
 >   - 等积累更多拟交感 / 派对药鉴别题 → [[完整笔记/专题笔记/psych/psych_物质急诊速查]] §11 stem 库加 bath salts 场景
->   - **占位：待 Methamphetamine 错题入库后** → 给本卡 + [[mistakes/uworld-mistakes#^Q11853]] MDMA 都补一条 meth 反链 → 形成 **MDMA / Bath Salts / Meth 三角对照网**（5-HT"爱" vs Cathinone"狂暴超长" vs DA"疯+烂牙"）。Stem 触发词：Ice / Crystal Meth / Crank / Speed / Tina / Glass / meth mouth / 长时间清醒
+>   - **占位：待 Methamphetamine 错题入库后** → 给本卡 + [[mistakes/uworld-mistakes_2026-05#^Q11853]] MDMA 都补一条 meth 反链 → 形成 **MDMA / Bath Salts / Meth 三角对照网**（5-HT"爱" vs Cathinone"狂暴超长" vs DA"疯+烂牙"）。Stem 触发词：Ice / Crystal Meth / Crank / Speed / Tina / Glass / meth mouth / 长时间清醒
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q11815
@@ -12674,7 +12674,7 @@
 > - 「UDS 是什么」→ 学到：Urine Drug Screening（尿液药物筛查），长期阿片治疗的常规监测，查违禁药 / 依从性 / 药物转售三件事；初筛用 immunoassay，意外阳性需 GC-MS 确证。
 >
 > **8. 🔗 关联**
-> - 🔁 同主题错题：[[mistakes/uworld-mistakes#^Q11815]] synthetic cathinone（UDS 漏检方向 — 本题是假阳性、它是假阴性，正好成对）/（等后续 UDS / 医患沟通伦理类错题积累）
+> - 🔁 同主题错题：[[mistakes/uworld-mistakes_2026-05#^Q11815]] synthetic cathinone（UDS 漏检方向 — 本题是假阳性、它是假阴性，正好成对）/（等后续 UDS / 医患沟通伦理类错题积累）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/Ethics_Master]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Biostats_Master]]（筛查 vs 确证 = 敏感性/特异性、PPV 的临床应用）
 > - 🌱 TODO（待生成衍生）：等 Ethics + Psych 章节复习完，请 Claude Code 整合「UDS 假阳性」「医患沟通『先验证再行动』原则」「医生保密 vs 上报义务」类错题 → 生成 [[完整笔记/专题笔记/_衍生_医患沟通行动顺序]]（核心：确证优先 / 温和半行动陷阱 / 保密边界）
@@ -12853,7 +12853,7 @@
 > - 「怎么和焦虑症/panic/adjustment 区分？」→ 学到优先级阶梯：物质①→躯体病②→原发焦虑③（均为排除性诊断）；并掌握 Panic/GAD/Adjustment 三者按「发作性 vs 持续性、有无触发源、时间长短」分家。
 >
 > **8. 🔗 关联**
-> - 🔁 同主题错题：[[mistakes/uworld-mistakes#^Q13573]]（UDS 题「半行动陷阱」≈ 本题「只解释一部分的选项」，同一种『部分正确=错』命题逻辑）
+> - 🔁 同主题错题：[[mistakes/uworld-mistakes_2026-05#^Q13573]]（UDS 题「半行动陷阱」≈ 本题「只解释一部分的选项」，同一种『部分正确=错』命题逻辑）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（Stimulants / 物质诱发 vs 原发焦虑障碍）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/endocrine]]（甲亢 = 焦虑/心悸/震颤的躯体病鉴别，属优先级阶梯第②步）
 > - 🌱 TODO（待生成衍生）：等 Psych 章节复习完，请 Claude Code 整合「stimulant intoxication(caffeine/amphetamine/cocaine) vs 原发焦虑/躁狂」+「焦虑症状的排除性诊断优先级」类错题 → 生成 [[完整笔记/专题笔记/psych/psych_交感兴奋鉴别诊断]]（核心：交感兴奋症状群 + 暴露史 → 物质诱发优先；排除性诊断阶梯；Panic/GAD/Adjustment 分家表）
@@ -12914,7 +12914,7 @@
 > - 卡点：知道 conjunctival injection 诊断特异，但没记清是什么药 → 学到：结膜充血+口干+正常瞳 = 大麻三件套，是选项里大麻的专属钥匙。
 >
 > **🔗 关联**
-> - 🔁 同主题错题：[[mistakes/uworld-mistakes#^Q11853]] MDMA 中毒 / [[mistakes/uworld-mistakes#^Q11815]] synthetic cathinone / [[mistakes/uworld-mistakes#^Q3191]] PCP 中毒（同属物质中毒「瞳孔 + 特异体征」鉴别）
+> - 🔁 同主题错题：[[mistakes/uworld-mistakes_2026-05#^Q11853]] MDMA 中毒 / [[mistakes/uworld-mistakes_2026-05#^Q11815]] synthetic cathinone / [[mistakes/uworld-mistakes_2026-05#^Q3191]] PCP 中毒（同属物质中毒「瞳孔 + 特异体征」鉴别）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（瞳孔/眼震等神经体征是中毒鉴别的核心分诊器）
 > - 🌱 TODO（待生成衍生）：等再积累 2-3 道中毒/戒断题(cocaine / opioid 中毒 vs 戒断 / PCP 眼震) → 请 Claude Code 整合所有 "acute drug intoxication & withdrawal" 错题 → 生成 [[完整笔记/专题笔记/psych/psych_中毒戒断综合征速查]]（瞳孔决策树 + 8药对比表 + 戒断 vs 中毒对照）
@@ -12974,7 +12974,7 @@
 > - "对话术题没思路" → 学到：先识别患者所处 Stages of Change 阶段 → 再按阶段选话术，这是对话术题的统一入口。
 >
 > **8. 🔗 关联**
-> - 🔁 同主题错题：[[mistakes/uworld-mistakes#^Q21169]] MI / Evoking change talk 向下问（同样选了 B 讲后果）
+> - 🔁 同主题错题：[[mistakes/uworld-mistakes_2026-05#^Q21169]] MI / Evoking change talk 向下问（同样选了 B 讲后果）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/专题笔记/psych/psych_医患沟通对话术SOP]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/消化腺]]（alcohol → LFT 升高 + HTN 恶化，本题躯体背景）
 > - 🌱 TODO：MI 已积累 2 题，已生成 [[完整笔记/专题笔记/psych/psych_医患沟通对话术SOP]]；后续补坏消息告知(SPIKES)/知情同意/患者拒绝治疗类错题继续整合进该专题。
@@ -13038,7 +13038,7 @@
 > - "另一道话术题也错" → 学到：连错 2 题暴露同一反射（讲后果），且本题考更细的 Evoking 技巧——readiness ruler 必须向下问，不是向上问。
 >
 > **8. 🔗 关联**
-> - 🔁 同主题错题：[[mistakes/uworld-mistakes#^Q11936]] MI / 对 precontemplation 患者制造矛盾（同样选 B 讲后果）
+> - 🔁 同主题错题：[[mistakes/uworld-mistakes_2026-05#^Q11936]] MI / 对 precontemplation 患者制造矛盾（同样选 B 讲后果）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/专题笔记/psych/psych_医患沟通对话术SOP]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/消化腺]]（复发性 acute pancreatitis + 酗酒，本题躯体背景）
 > - 🌱 TODO：与 Q11936 共同构成 MI 错题对，已生成 [[完整笔记/专题笔记/psych/psych_医患沟通对话术SOP]]；后续 change talk vs sustain talk 题继续补入。
@@ -13165,7 +13165,7 @@
 > - "是所有 SNRI 都高血压还是只有 venlafaxine？" → 高血压是**类效应**，但 venlafaxine 因 5-HT>>NE 亲和、需高剂量才显 NE 效应，所以最典型最常考；duloxetine 更常考疼痛适应症+肝毒。
 >
 > ### 8. 🔗 关联
-> - 🔁 同主题错题：[[mistakes/uworld-mistakes#^Q15098]] lamotrigine→皮疹/SJS-TEN（同属"精神科药物标志副作用"，互补陷阱）
+> - 🔁 同主题错题：[[mistakes/uworld-mistakes_2026-05#^Q15098]] lamotrigine→皮疹/SJS-TEN（同属"精神科药物标志副作用"，互补陷阱）
 > - 📚 主笔记：[[完整笔记/专题笔记/psych/psych_精神科药物副作用速查]] §1.4 / [[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（药源性高血压，列入继发性 HTN 鉴别）
 > - 🌱 TODO：venlafaxine→BP / lamotrigine→rash / clozapine→CBC / 抗精神病药→代谢 / lithium→TSH肾 / TCA→ECG —— "药↔标志副作用↔监测"映射已并入 [[完整笔记/专题笔记/psych/psych_精神科药物副作用速查]] §6
@@ -13217,7 +13217,7 @@
 > - "这个考点不确定，总结入库" → 明确两层：lamotrigine = 双相抑郁相用药 + 标志副作用是皮疹（且要立即停药）；并扩展出 SJS/TEN 分型、风险放大因素、跨科诱因药。
 >
 > ### 8. 🔗 关联
-> - 🔁 同主题错题：[[mistakes/uworld-mistakes#^Q20497]] venlafaxine→剂量依赖性高血压（同属"精神科药物标志副作用"，互补陷阱）
+> - 🔁 同主题错题：[[mistakes/uworld-mistakes_2026-05#^Q20497]] venlafaxine→剂量依赖性高血压（同属"精神科药物标志副作用"，互补陷阱）
 > - 📚 主笔记：[[完整笔记/专题笔记/psych/psych_精神科药物副作用速查]] §4.2 / [[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/derm]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/derm]]（SJS/TEN 分型与诱因；其他高频诱因药：carbamazepine·phenytoin·磺胺·别嘌醇·NSAIDs）
 > - 🌱 TODO：lamotrigine→rash 与 venlafaxine→BP 已并入 [[完整笔记/专题笔记/psych/psych_精神科药物副作用速查]]（§4.2 / §6）；如 SJS/TEN 诱因题积累够，另在 derm 侧建衍生
@@ -13284,8 +13284,8 @@
 >
 > **8. 🔗 关联**
 > - 🔁 同主题错题：
->   - `[[mistakes/uworld-mistakes#^Q16066]]` 本题（TD，能停药 → 停 risperidone）
->   - [[mistakes/uworld-mistakes#^Q2518]] TD 处理（5-22 做对 — 减量不可行 + VMAT2 无效 → 换 clozapine；本卡 = TD 识别，Q2518 = 处理阶梯）
+>   - `[[mistakes/uworld-mistakes_2026-05#^Q16066]]` 本题（TD，能停药 → 停 risperidone）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2518]] TD 处理（5-22 做对 — 减量不可行 + VMAT2 无效 → 换 clozapine；本卡 = TD 识别，Q2518 = 处理阶梯）
 >   - （等后续抗精神病药 EPS 错题积累 — parkinsonism 待补）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（movement disorders——TD 舞蹈样运动 vs Huntington 鉴别）
@@ -13361,7 +13361,7 @@
 >
 > **8. 🔗 关联**
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q11903]] 共病抑郁主题（DPN+抑郁选 SNRI vs MS+抑郁识别并发症，互补：一考治疗选药、一考并发症识别）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q11903]] 共病抑郁主题（DPN+抑郁选 SNRI vs MS+抑郁识别并发症，互补：一考治疗选药、一考并发症识别）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/神经]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/眼科]]（optic neuritis 是 MS 经典首发）
 > - 🌱 TODO（待生成衍生）：
@@ -13685,9 +13685,9 @@
 >
 > **8. 🔗 关联**
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q15895]] 儿童抑郁+隐晦自杀线索→急诊评估住院（**对照题**：成人门诊评估不住院 vs 儿童急诊住院，区别在 plan/intent + 心理社会支持 + 随访 + 年龄）
->   - [[mistakes/uworld-mistakes#^Q11903]] 抑郁治疗选药（DPN+抑郁→SNRI）— 互补：那道考"确诊后选什么药"，这道考"开药/住院前先评估"
->   - [[mistakes/uworld-mistakes#^Q15145]] MS 继发抑郁识别 — 同 psych depression 大主题
+>   - [[mistakes/uworld-mistakes_2026-05#^Q15895]] 儿童抑郁+隐晦自杀线索→急诊评估住院（**对照题**：成人门诊评估不住院 vs 儿童急诊住院，区别在 plan/intent + 心理社会支持 + 随访 + 年龄）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q11903]] 抑郁治疗选药（DPN+抑郁→SNRI）— 互补：那道考"确诊后选什么药"，这道考"开药/住院前先评估"
+>   - [[mistakes/uworld-mistakes_2026-05#^Q15145]] MS 继发抑郁识别 — 同 psych depression 大主题
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：（无，本题为纯精神科管理流程题）
 > - 🌱 TODO（待生成衍生）：
@@ -14120,7 +14120,7 @@
 >
 > **8. 🔗 关联**
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q15856]] 急性躁动的药物管理（**同考点「急性即刻处理 ≠ 长期维持」** — 本题误选 Valproate、Q15856 误选 Lithium，连续 2 次错）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q15856]] 急性躁动的药物管理（**同考点「急性即刻处理 ≠ 长期维持」** — 本题误选 Valproate、Q15856 误选 Lithium，连续 2 次错）
 >   - （等后续精神科 acute agitation / bipolar 题积累后横向连接）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/专题笔记/psych/psych_双相障碍用药决策树]]
 > - 🏥 跨学科：（无特别跨科关联）
@@ -14407,7 +14407,7 @@
 >
 > **8. 🔗 关联**
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q15811]] 精神病性抑郁·急迫情况（拒食/自杀）→ ECT（与本题配对：本题讲非急迫的药物联合）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q15811]] 精神病性抑郁·急迫情况（拒食/自杀）→ ECT（与本题配对：本题讲非急迫的药物联合）
 >   - 等后续「lithium 适应症 / ECT 指征 / 双相 vs 单相用药」积累
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（MDD 亚型 + 联合用药）
 > - 🏥 跨学科：无（纯精神科用药决策）
@@ -14426,7 +14426,7 @@
 >
 > 学科:: Psych
 > 主题:: 精神病性抑郁（MDD with psychotic features）联合用药 = 抗抑郁药 + 抗精神病药（或 ECT）/ 抑郁联合用药按适应症对号入座 / Lithium 是增效剂非抗精神病药 / 症状维度→药类映射
-> 状态:: 🔴 反复错（2026-05-23 重做 Q15088 再次选 C Fluoxetine+Lithium → 见 [[mistakes/uworld-mistakes#^Q15088-redo]]）
+> 状态:: 🔴 反复错（2026-05-23 重做 Q15088 再次选 C Fluoxetine+Lithium → 见 [[mistakes/uworld-mistakes_2026-05#^Q15088-redo]]）
 > 错因:: 知识
 
 > [!example]- [2026-05-21] 精神科 / MDD with Psychotic Features → ECT (Q15811)
@@ -14474,7 +14474,7 @@
 > > **普通 catatonia 一线 = lorazepam**（GABA-A 激动剂；lorazepam challenge 诊断 + 治疗合一，常数十分钟戏剧性起效）→ ECT 是二线（lorazepam 无效 / 部分有效 / 危及生命时）。
 > > **只有 malignant catatonia（恶性紧张症）** = 普通 catatonia 叠加「高热 + 自主神经不稳 + 严重肌强直」→ 内科急症、进展快，ECT 紧急上升为一线 / 首选。
 > > 读题盯「高热 + 生命体征剧烈波动」区分；NMS ≈ 药物诱发的 malignant catatonia，ECT 对两者都有效。catatonia 若由抗精神病药诱发 → 停抗精神病药，别加 / 换。
-> > 详见 [[mistakes/uworld-mistakes#^Q15791]] 紧张症卡。
+> > 详见 [[mistakes/uworld-mistakes_2026-05#^Q15791]] 紧张症卡。
 >
 > **4. 易混陷阱（普适）**
 > - **antipsychotic alone（A Clozapine / D Olanzapine）❌** 单用抗精神病不足以治 psychotic depression（需联合抗抑郁药）。
@@ -14501,7 +14501,7 @@
 >
 > **8. 🔗 关联**
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q15088]] 精神病性抑郁·非急迫 → 抗抑郁药+抗精神病药联合（与本题配对：本题讲急迫情况的 ECT）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q15088]] 精神病性抑郁·非急迫 → 抗抑郁药+抗精神病药联合（与本题配对：本题讲急迫情况的 ECT）
 >   - 等后续精神科 ECT / psychotic depression 题积累
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/肾脏]]（拒食脱水 → decreased skin turgor / dry mucous membranes 是 hypovolemia 体征）；[[完整笔记/专题笔记/OB_GYN/OB_GYN_孕期致畸药]]（妊娠用药受限是 ECT 选项的底层理由）
@@ -14564,7 +14564,7 @@
 >
 > **8. 🔗 关联**
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q11967]] 儿童急性精神病→SLE——同为"被正在吃的药诱导归因 → 忽略真病因"陷阱孪生题（本题阿立哌唑 / Q11967 安非他命）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q11967]] 儿童急性精神病→SLE——同为"被正在吃的药诱导归因 → 忽略真病因"陷阱孪生题（本题阿立哌唑 / Q11967 安非他命）
 >   - （高泌乳素主题首题，等后续 prolactinoma / 抗精神病药副作用错题积累后横向连）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/endocrine]] / [[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（抗精神病药升泌乳素规律：一代/risperidone 升，二代 aripiprazole 几乎不升）；[[完整笔记/Peixuan分科笔记/GYN]]（高泌乳素抑制 GnRH → 闭经/不孕鉴别）
@@ -14636,7 +14636,7 @@
 >
 > **8. 🔗 关联**
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q4848]] 高泌乳素——同为"被正在吃的药诱导归因 → 忽略真病因"陷阱孪生题（Q4848 阿立哌唑 / 本题安非他命）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4848]] 高泌乳素——同为"被正在吃的药诱导归因 → 忽略真病因"陷阱孪生题（Q4848 阿立哌唑 / 本题安非他命）
 >   - （SLE 主题首题，等后续 SLE/lupus nephritis/自身抗体错题积累后横向连）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/免疫疫苗]] / [[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/肾脏]]（lupus nephritis：蛋白尿+血尿）；[[完整笔记/Peixuan分科笔记/hematology oncology]]（SLE 致血小板↓/溶贫/白细胞↓）；[[完整笔记/Peixuan分科笔记/儿科]]（儿童急性精神病罕见 → 必排可逆器质病因）
@@ -14755,9 +14755,9 @@
 >
 > **8. 🔗 关联**
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q11898]] Akathisia 静坐不能（同 EPS：本题 dystonia / 那题 akathisia；haloperidol 在两题都是"加重 EPS"错答案）
->   - [[mistakes/uworld-mistakes#^Q4885]] 二代抗精神病药代谢监测（同属抗精神病药副作用大家族：本题 EPS / 那题代谢监测）
->   - [[mistakes/uworld-mistakes#^Q16115]] Clozapine 致癫痫（同家族：本题致 EPS / 那题致癫痫，对照"哪些药致什么"）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q11898]] Akathisia 静坐不能（同 EPS：本题 dystonia / 那题 akathisia；haloperidol 在两题都是"加重 EPS"错答案）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4885]] 二代抗精神病药代谢监测（同属抗精神病药副作用大家族：本题 EPS / 那题代谢监测）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q16115]] Clozapine 致癫痫（同家族：本题致 EPS / 那题致癫痫，对照"哪些药致什么"）
 >   - （等后续 EPS/运动障碍错题积累 → NMS、serotonin syndrome、tardive dyskinesia 题做到后回链此卡）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/消化补充内容]]（prochlorperazine/metoclopramide 作止吐药，化疗呕吐处理高频出 EPS）
@@ -14827,9 +14827,9 @@
 >
 > **8. 🔗 关联**
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q2505]] 急性肌张力障碍（抗精神病/止吐药副作用大家族）
->   - [[mistakes/uworld-mistakes#^Q16115]] Clozapine 致癫痫（同 clozapine，与本题代谢监测互补）
->   - [[mistakes/uworld-mistakes#^Q11898]] Akathisia 静坐不能（抗精神病药副作用大家族 — EPS 治疗端）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2505]] 急性肌张力障碍（抗精神病/止吐药副作用大家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q16115]] Clozapine 致癫痫（同 clozapine，与本题代谢监测互补）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q11898]] Akathisia 静坐不能（抗精神病药副作用大家族 — EPS 治疗端）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/endocrine]]（SGA→新发糖尿病/代谢综合征）；[[完整笔记/Peixuan分科笔记/hematology oncology]]（clozapine→agranulocytosis 查 ANC）
 > - 🌱 TODO（待生成衍生）：psych 章节复习完，请 Claude Code 整合**抗精神病药副作用+监测类错题**（Q4885 代谢 / Q16115 致癫痫 / ziprasidone QT / risperidone 泌乳素 / lithium 肾甲功）→ 生成 [[完整笔记/专题笔记/_衍生_抗精神病药副作用对照]]（含"招牌副作用→该查什么"映射表）
@@ -14904,9 +14904,9 @@
 >
 > **8. 🔗 关联**
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q4885]] Olanzapine vs Clozapine 代谢监测（同 clozapine，"招牌副作用→查什么"互补）
->   - [[mistakes/uworld-mistakes#^Q2505]] 急性肌张力障碍（抗精神病/止吐药副作用大家族，对照"哪些药致 EPS vs 致癫痫"）
->   - [[mistakes/uworld-mistakes#^Q11898]] Akathisia 静坐不能（同 EPS 家族，治疗端：减量 + propranolol）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4885]] Olanzapine vs Clozapine 代谢监测（同 clozapine，"招牌副作用→查什么"互补）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2505]] 急性肌张力障碍（抗精神病/止吐药副作用大家族，对照"哪些药致 EPS vs 致癫痫"）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q11898]] Akathisia 静坐不能（同 EPS 家族，治疗端：减量 + propranolol）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/neuro]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/hematology oncology]]（clozapine→agranulocytosis 查 ANC）
 > - 🌱 TODO（待生成衍生）：psych 章节复习完，请 Claude Code 整合 **抗精神病药副作用类错题**（Q16115 致癫痫 / Q4885 代谢监测 / clozapine 三大监测 / EPS / ziprasidone QT / risperidone 泌乳素）→ 生成 [[完整笔记/专题笔记/_衍生_抗精神病药副作用对照]]；另整合 **降低癫痫阈值药物** 错题 → 生成 [[完整笔记/专题笔记/_衍生_致癫痫药物清单]]
@@ -14977,9 +14977,9 @@
 >
 > **8. 🔗 关联**
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q2505]] 急性肌张力障碍（同 EPS，治疗用 benztropine/diphenhydramine；haloperidol 在两题都是"加重 EPS"错答案）
->   - [[mistakes/uworld-mistakes#^Q16115]] Clozapine 致癫痫（抗精神病药副作用大家族）
->   - [[mistakes/uworld-mistakes#^Q4885]] Olanzapine vs Clozapine 代谢监测（抗精神病药副作用谱）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2505]] 急性肌张力障碍（同 EPS，治疗用 benztropine/diphenhydramine；haloperidol 在两题都是"加重 EPS"错答案）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q16115]] Clozapine 致癫痫（抗精神病药副作用大家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4885]] Olanzapine vs Clozapine 代谢监测（抗精神病药副作用谱）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/neuro]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（propranolol 作 β-blocker，注意哮喘等禁忌）
 > - 🌱 TODO（待生成衍生）：psych 章节复习完，请 Claude Code 整合 **四大 EPS 诊断+治疗类错题**（Q2505 dystonia / Q11898 akathisia / +未来 parkinsonism、TD）→ 生成 [[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]]（起病时间轴 + 治疗药物映射），与 [[完整笔记/专题笔记/_衍生_抗精神病药副作用对照]] 互补
@@ -15049,8 +15049,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q8909]] DSM-5 焦虑障碍鉴别（selective mutism 同属焦虑障碍、常共病 SAD）
->   - [[mistakes/uworld-mistakes#^Q3382]] Adjustment disorder vs MDD（"满足更特异诊断不诊断 adjustment" 同一排除逻辑）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q8909]] DSM-5 焦虑障碍鉴别（selective mutism 同属焦虑障碍、常共病 SAD）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3382]] Adjustment disorder vs MDD（"满足更特异诊断不诊断 adjustment" 同一排除逻辑）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/儿科]]（发育里程碑用于排除发育迟缓 / ASD；selective mutism vs 社交语用沟通障碍）
 > - 🌱 TODO（待生成衍生）：等 psych 焦虑障碍章节复习完，整合儿童焦虑谱系（selective mutism / separation anxiety / SAD / specific phobia / stranger anxiety）→ 生成 [[完整笔记/专题笔记/_衍生_儿童焦虑谱系鉴别]]
@@ -15120,7 +15120,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q2501]] NMS vs EPS 鉴别 + NMS 用药（同 NMS；本卡补「NMS 实验室表现 / leukocytosis 陷阱」）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2501]] NMS vs EPS 鉴别 + NMS 用药（同 NMS；本卡补「NMS 实验室表现 / leukocytosis 陷阱」）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/肾脏]]（横纹肌溶解 → 肌红蛋白尿：尿潜血试纸 + 而 RBC 少 → AKI）；[[完整笔记/Peixuan分科笔记/neuro]]（铅管样强直 vs 其他运动 / 张力异常）
 > - 🌱 TODO（待生成衍生）：等 psych 复习完，整合「高热 + 肌强直急症」（NMS / 5-HT 综合征 / malignant catatonia / malignant hyperthermia）→ 生成 [[完整笔记/专题笔记/_衍生_高热肌强直急症鉴别]]（含各自实验室指纹 + 治疗 + ECT 是否适用）
@@ -15203,8 +15203,8 @@
 >
 > **🔗 关联**
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q2355]] 急性躁狂激越即刻处理（**同考点「急性即刻处理 ≠ 长期维持」** — Q2355 误选 Valproate、本题误选 Lithium，连续 2 次错）
->   - [[mistakes/uworld-mistakes#^Q4895]] 急性精神病初始抗精神病药选择（**镜像题** — 本题不配合 → IM 镇静 vs Q4895 配合 → PO 治本）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2355]] 急性躁狂激越即刻处理（**同考点「急性即刻处理 ≠ 长期维持」** — Q2355 误选 Valproate、本题误选 Lithium，连续 2 次错）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4895]] 急性精神病初始抗精神病药选择（**镜像题** — 本题不配合 → IM 镇静 vs Q4895 配合 → PO 治本）
 >   - （等后续 psych 急性管理题积累 — acute psychosis / delirium / 戒断性躁动镇静）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/感染]]（冷静后 workup 排除 substance/medical cause，思路与谵妄鉴别相通）
@@ -15284,7 +15284,7 @@
 >
 > **🔗 关联**
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q15856]] 急性躁动用 lorazepam±haloperidol IM 镇静（**镜像题**：不配合→IM 镇静 vs 本题配合→PO 治本）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q15856]] 急性躁动用 lorazepam±haloperidol IM 镇静（**镜像题**：不配合→IM 镇静 vs 本题配合→PO 治本）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：（无明显跨学科，省略）
 > - 🌱 TODO（待生成衍生）：等 psych 章节复习完，请 Claude Code 整合「抗精神病药剂型/适应症选择」类错题（PO vs IM vs LAI vs clozapine 时机、SGA vs FGA 取舍、nonadherence 处理）→ 生成 [[完整笔记/专题笔记/_衍生_抗精神病药选择决策树]]
@@ -15367,7 +15367,7 @@
 >
 > **9. 🔗 关联**
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q15843]] Bipolar I vs Brief Psychotic Disorder（同涉 BPD — Q15843 分"是不是 mood disorder"，本题分"是不是 psychosis"，鉴别轴互补）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q15843]] Bipolar I vs Brief Psychotic Disorder（同涉 BPD — Q15843 分"是不是 mood disorder"，本题分"是不是 psychosis"，鉴别轴互补）
 >   - （等后续 schizophreniform / schizophrenia / ASD·PTSD·grief 错题积累后横向连）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：（无明显跨学科）
@@ -15503,8 +15503,8 @@
 >
 > **🔗 关联**
 > > - 🔁 同主题错题：
-> >   - [[mistakes/uworld-mistakes#^Q11967]] 儿童急性精神病→SLE（**同核心原则**：急性/新发精神病 = 排除性诊断，先 workup 排器质/药物，别被"在吃的药 / 既往史"诱导归因）
-> >   - [[mistakes/uworld-mistakes#^Q16064]] 心理治疗五选鉴别（同为精神科，互补：Q16064 考已确诊精分的治疗选择，本题考未确诊时"先 workup 不先治"）
+> >   - [[mistakes/uworld-mistakes_2026-05#^Q11967]] 儿童急性精神病→SLE（**同核心原则**：急性/新发精神病 = 排除性诊断，先 workup 排器质/药物，别被"在吃的药 / 既往史"诱导归因）
+> >   - [[mistakes/uworld-mistakes_2026-05#^Q16064]] 心理治疗五选鉴别（同为精神科，互补：Q16064 考已确诊精分的治疗选择，本题考未确诊时"先 workup 不先治"）
 > > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/感染]]（new-onset psychosis workup 含梅毒/HIV，器质病因排查）
 > > - 🌱 TODO（待生成衍生）：等 psych 章节积累 3+ 道"诊断 vs 先 workup / 急诊精神科首步"错题后，请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/_衍生_新发精神病急诊处理SOP]]（new-onset psychosis 决策树 + 抗精神病药指征 + 各类精神病性障碍鉴别 + 既往史诱导陷阱）
@@ -15571,8 +15571,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q4885]] 二代抗精神病药代谢监测（同「招牌副作用 → 该查什么」映射框架）
->   - [[mistakes/uworld-mistakes#^Q16115]] Clozapine 致癫痫（同「精神药物 → 招牌严重副作用」家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4885]] 二代抗精神病药代谢监测（同「招牌副作用 → 该查什么」映射框架）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q16115]] Clozapine 致癫痫（同「精神药物 → 招牌严重副作用」家族）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/GI]]（药物性肝损伤 DILI：肝细胞型 = 转氨酶↑↑）；[[完整笔记/Peixuan分科笔记/hematology oncology]]（VPA → 血小板减少）
 > - 🌱 TODO（待生成衍生）：等 psych 章节复习完，请 Claude Code 整合「精神药物副作用 + 监测」类错题（Q4885 代谢 / Q16115 致癫痫 / Q12468 肝毒 / lithium 肾甲 / lamotrigine SJS / ziprasidone QT）→ 生成 [[完整笔记/专题笔记/_衍生_精神科用药副作用对照]]（抗精神病药 + 心境稳定剂，含「招牌副作用 → 该查什么」映射）
@@ -15641,9 +15641,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q16066]] Tardive Dyskinesia & EPS 四兄弟鉴别（**同主题 TD** — 5-20 错题，本题 5-22 做对 = TD 考点进步）
->   - [[mistakes/uworld-mistakes#^Q11898]] Akathisia 静坐不能（同四大 EPS — 起病时间 + 治疗对照；akathisia 用 propranolol）
->   - [[mistakes/uworld-mistakes#^Q2505]] 急性肌张力障碍（同四大 EPS — 抗胆碱能治 dystonia 但对 TD 无效/加重，关键对比）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q16066]] Tardive Dyskinesia & EPS 四兄弟鉴别（**同主题 TD** — 5-20 错题，本题 5-22 做对 = TD 考点进步）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q11898]] Akathisia 静坐不能（同四大 EPS — 起病时间 + 治疗对照；akathisia 用 propranolol）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2505]] 急性肌张力障碍（同四大 EPS — 抗胆碱能治 dystonia 但对 TD 无效/加重，关键对比）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/neuro]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/消化补充内容]]（metoclopramide 作止吐药也致 TD）
 > - 🌱 TODO（待生成衍生）：等 psych 复习完，请 Claude Code 整合四大 EPS 错题（Q2505 dystonia / Q11898 akathisia / Q16066 + Q2518 TD / 待补 parkinsonism）→ 生成 [[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]]（起病时间轴 + 治疗药映射）
@@ -15684,7 +15684,7 @@
 >
 > ## 4. 易混陷阱（普适）
 > - **"帕金森 = levodopa"反射性套用** —— DIP 患者用 levodopa 加重精神病、突破不了 D2 阻断。
-> - 抗胆碱能（benztropine）治 DIP / acute dystonia 但**对 TD 无效甚至加重**（[[mistakes/uworld-mistakes#^Q2518]]）。
+> - 抗胆碱能（benztropine）治 DIP / acute dystonia 但**对 TD 无效甚至加重**（[[mistakes/uworld-mistakes_2026-05#^Q2518]]）。
 > - Propranolol = **akathisia** 专属，不治 parkinsonism；valbenazine（VMAT2）= **TD** 专属，不治 DIP。
 > - Haloperidol 在 EPS 治疗题里永远是错答案 —— 自己是元凶。
 >
@@ -15708,10 +15708,10 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Park2-2026-05-22]] IPD vs DIP 鉴别（**镜像对** — 本卡 DIP 处理、那卡 IPD 诊断 / 三轴鉴别）
->   - [[mistakes/uworld-mistakes#^Q2505]] Acute Dystonic Reaction（四大 EPS — dystonia 用抗胆碱）
->   - [[mistakes/uworld-mistakes#^Q11898]] Akathisia（四大 EPS — propranolol 是 akathisia 的不是 DIP 的）
->   - [[mistakes/uworld-mistakes#^Q2518]] Tardive Dyskinesia 处理（四大 EPS — 抗胆碱对 TD 无效 / 加重，与 DIP 相反）
+>   - [[mistakes/uworld-mistakes_2026-05#^Park2-2026-05-22]] IPD vs DIP 鉴别（**镜像对** — 本卡 DIP 处理、那卡 IPD 诊断 / 三轴鉴别）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2505]] Acute Dystonic Reaction（四大 EPS — dystonia 用抗胆碱）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q11898]] Akathisia（四大 EPS — propranolol 是 akathisia 的不是 DIP 的）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2518]] Tardive Dyskinesia 处理（四大 EPS — 抗胆碱对 TD 无效 / 加重，与 DIP 相反）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/neuro]]
 > - 🏥 跨学科：[[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]] §4.3（四大 EPS 体系完整版，本卡是 §4.3 锚点）
 > - 🌱 TODO：已并入 [[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]] §4.3
@@ -15773,15 +15773,15 @@
 > ---
 >
 > ## 🤔 我的提问 / 卡点
-> （本题做对，无主动提问）核心收获：IPD vs DIP 用「对称性 + 病程 + 用药史」三轴二分；本卡是 [[mistakes/uworld-mistakes#^Park1-2026-05-22]] 的镜像（那题 DIP 处理选错 levodopa）。
+> （本题做对，无主动提问）核心收获：IPD vs DIP 用「对称性 + 病程 + 用药史」三轴二分；本卡是 [[mistakes/uworld-mistakes_2026-05#^Park1-2026-05-22]] 的镜像（那题 DIP 处理选错 levodopa）。
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Park1-2026-05-22]] DIP 处理选错 levodopa（**镜像题** — 本卡 IPD 诊断、那卡 DIP 处理）
->   - [[mistakes/uworld-mistakes#^Q2505]] Acute Dystonic Reaction（四大 EPS）
->   - [[mistakes/uworld-mistakes#^Q11898]] Akathisia（四大 EPS）
->   - [[mistakes/uworld-mistakes#^Q2518]] Tardive Dyskinesia 处理（四大 EPS）
->   - [[mistakes/uworld-mistakes#^Q16066]] TD & EPS 四兄弟鉴别
+>   - [[mistakes/uworld-mistakes_2026-05#^Park1-2026-05-22]] DIP 处理选错 levodopa（**镜像题** — 本卡 IPD 诊断、那卡 DIP 处理）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2505]] Acute Dystonic Reaction（四大 EPS）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q11898]] Akathisia（四大 EPS）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2518]] Tardive Dyskinesia 处理（四大 EPS）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q16066]] TD & EPS 四兄弟鉴别
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]] §4.3（四大 EPS 体系完整版）
 > - 🌱 TODO：已并入 [[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]] §4.3；后续积累 Parkinson-plus（PSP / MSA / CBD / DLB）题 → 单独建衍生
@@ -15867,8 +15867,8 @@
 >
 > **【8. 🔗 关联】**
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q17169]] Adrenal Crisis vs Anaphylaxis（同**内分泌急症 + 诊断对≠下一步对**模式 — 那题对液体反应差锁 adrenal、本题低 T3/T4 锁 euthyroid sick）
->   - [[mistakes/uworld-mistakes#^Q15856]] 急性躁动药物管理（**诊断对、时机错** 同源 — 那题误用长期 Li、本题误用 levothyroxine）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q17169]] Adrenal Crisis vs Anaphylaxis（同**内分泌急症 + 诊断对≠下一步对**模式 — 那题对液体反应差锁 adrenal、本题低 T3/T4 锁 euthyroid sick）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q15856]] 急性躁动药物管理（**诊断对、时机错** 同源 — 那题误用长期 Li、本题误用 levothyroxine）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（eating disorder 住院指征）/ [[完整笔记/Peixuan分科笔记/endocrine]]（甲状腺鉴别）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（AN 住院核心指征：HR <40 / BP <80/60 / 心律失常 / 心肌萎缩）/ [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]]（TSH-T3-T4-rT3 模式指纹）
 > - 🌱 TODO（待生成衍生）：等 psych eating disorder + endocrine 甲状腺章节复习完，请 Claude Code 整合 [AN 住院指征 + euthyroid sick vs 原发甲减 + 亚临床甲减] → 生成 [[完整笔记/专题笔记/内分泌/_衍生_甲状腺激素异常模式速查]]（含 euthyroid sick / 原发甲减 / 继发甲减 / 亚临床的 TSH-T3-T4-rT3 矩阵 + 三把钥匙）
@@ -15929,8 +15929,8 @@
 >
 > **8. 🔗 关联**
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^AMBOSS-Pseudo78]] Pseudodementia vs AD（同痴呆鉴别族：那题假性痴呆 vs AD，本题 bvFTD vs DLB / AD；共享「症状起病模式定位」思路）
->   - [[mistakes/uworld-mistakes#^AMBOSS-CJD57]] CJD 招牌识别（同痴呆族 — CJD 是"快速进展 + myoclonus"独门指纹，与 bvFTD 起病缓慢 + 行为主导互补）
+>   - [[mistakes/uworld-mistakes_2026-05#^AMBOSS-Pseudo78]] Pseudodementia vs AD（同痴呆鉴别族：那题假性痴呆 vs AD，本题 bvFTD vs DLB / AD；共享「症状起病模式定位」思路）
+>   - [[mistakes/uworld-mistakes_2026-05#^AMBOSS-CJD57]] CJD 招牌识别（同痴呆族 — CJD 是"快速进展 + myoclonus"独门指纹，与 bvFTD 起病缓慢 + 行为主导互补）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（FTD 的 disinhibition / apathy 易与精神科行为障碍混淆；神经精神症状用 SSRI / trazodone 控制）
 > - 🌱 TODO（待生成衍生）：等 neuro 章节 dementia 复习完，请 Claude Code 整合 dementia 鉴别类错题（AD / bvFTD / DLB / VaD / NPH / CJD / Pseudodementia）→ 生成 [[完整笔记/专题笔记/神经/_衍生_痴呆鉴别速查表]]（核心：首发症状定位 + DLB 数特征框架 + FTD vs AD 镜像表）
@@ -16066,11 +16066,11 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q3382]] Adjustment Disorder vs MDD + psychotherapy 一线（**直接同主题** — 那题 AD 治疗端、本题 AD 诊断时间线鉴别）
->   - [[mistakes/uworld-mistakes#^Q15925]] Atypical MDD（同抑郁谱系 — mood reactivity 是 atypical 诊断要件；物质量少不构成 substance-induced）
->   - [[mistakes/uworld-mistakes#^Q4816]] PDD（dysthymia）vs 人格障碍（同抑郁谱系慢性侧 — PDD ≥2 年；与 AD 时间线对比互补）
->   - [[mistakes/uworld-mistakes#^Q15843]] Bipolar I vs Brief Psychotic Disorder（同决策链「躁狂史 → MDD/Bipolar」分叉锚点）
->   - [[mistakes/uworld-mistakes#^Q15054]] 抗抑郁药诱发转躁 first-step（同 bipolar 谱系 — 揭露隐藏躁狂史）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3382]] Adjustment Disorder vs MDD + psychotherapy 一线（**直接同主题** — 那题 AD 治疗端、本题 AD 诊断时间线鉴别）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q15925]] Atypical MDD（同抑郁谱系 — mood reactivity 是 atypical 诊断要件；物质量少不构成 substance-induced）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4816]] PDD（dysthymia）vs 人格障碍（同抑郁谱系慢性侧 — PDD ≥2 年；与 AD 时间线对比互补）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q15843]] Bipolar I vs Brief Psychotic Disorder（同决策链「躁狂史 → MDD/Bipolar」分叉锚点）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q15054]] 抗抑郁药诱发转躁 first-step（同 bipolar 谱系 — 揭露隐藏躁狂史）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：无显著跨学科关联（纯精神科时间线鉴别）
 > - 🌱 TODO（待生成衍生）：等 psych 章节累积 3-4 道「应激 / 抑郁谱系 + Bipolar 谱系鉴别」错题后（本题 + Dysthymia + ASD/PTSD + Normal grief + Bipolar I/II + Cyclothymia），请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/psych/_衍生_精神科抑郁躁狂谱系决策树]]（整合本卡的完整 ASCII 决策链 + 两张对比表）
@@ -16241,7 +16241,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q2552]] Pseudocyesis 假孕（**同 somatoform 家族** — 假孕本质也是 somatization；OB 表现 + psych 本质）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2552]] Pseudocyesis 假孕（**同 somatoform 家族** — 假孕本质也是 somatization；OB 表现 + psych 本质）
 >   - （等后续 Factitious / Malingering / Illness anxiety / Conversion 错题积累后横向连）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（Conversion 表现为神经症状 —— 「真神经病 vs 功能性」鉴别 = 神经查体内部矛盾 + 解剖学不符）/ [[完整笔记/Peixuan分科笔记/OB]]（Pseudocyesis 是 somatization 在妇产领域的体现）
@@ -16316,9 +16316,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q3380]] Selective Mutism 选择性缄默（同**儿科精神 + 早期社交退缩**家族 — UWorld RAD 鉴别表里也列 selective mutism；但 SM 在家正常说话、RAD 跨场所退缩 + neglect 史）
->   - [[mistakes/uworld-mistakes#^Q3382]] Adjustment Disorder vs MDD（同**adjustment 兜底**逻辑 — 满足更特异诊断时不诊断 adjustment）
->   - [[mistakes/uworld-mistakes#^Q21259]] Adjustment Disorder vs MDD 时间线（同抑郁谱系决策链，与 RAD 镜像：那题 adjustment 是"够不上 MDD"的兜底；本题 RAD 是"够上更特异"覆盖 adjustment）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3380]] Selective Mutism 选择性缄默（同**儿科精神 + 早期社交退缩**家族 — UWorld RAD 鉴别表里也列 selective mutism；但 SM 在家正常说话、RAD 跨场所退缩 + neglect 史）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3382]] Adjustment Disorder vs MDD（同**adjustment 兜底**逻辑 — 满足更特异诊断时不诊断 adjustment）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21259]] Adjustment Disorder vs MDD 时间线（同抑郁谱系决策链，与 RAD 镜像：那题 adjustment 是"够不上 MDD"的兜底；本题 RAD 是"够上更特异"覆盖 adjustment）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/儿科]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/儿科]]（发育里程碑用于排除发育迟缓 / ASD；foster care / 童年逆境与精神病理的关联）/ [[完整笔记/Peixuan分科笔记/ethics]]（child welfare / 监护权 / mandatory reporting 与 neglect 病史相关）
 > - 🌱 TODO（待生成衍生）：等 psych 儿童章节 + 上述 selective mutism / DSED / ASD / PTSD 错题积累后，请 Claude Code 整合「儿童早期社交-依恋谱系」→ 生成 [[完整笔记/专题笔记/psych/_衍生_儿童早期社交依恋谱系鉴别]]（RAD / DSED / Selective mutism / ASD / Adjustment / PTSD 六兄弟决策树 + 早期 neglect → RAD/DSED 镜像分叉 + 发育里程碑排除框架）
@@ -16401,9 +16401,9 @@
 >
 > ## 8. 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Park1-2026-05-22]] DIP 处理（镜像同源 — 本卡多巴胺过多致 psychosis 需减 levodopa；那卡 D2 阻断致 parkinsonism 禁 levodopa；同一根"多巴胺双刃剑"两端）
->   - [[mistakes/uworld-mistakes#^Park2-2026-05-22]] IPD vs DIP 鉴别（本卡是 IPD 治疗副产物 psychosis）
->   - [[mistakes/uworld-mistakes#^Q2518]] Tardive Dyskinesia 处理（同 D2 通路 / 抗精神病药 EPS 家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Park1-2026-05-22]] DIP 处理（镜像同源 — 本卡多巴胺过多致 psychosis 需减 levodopa；那卡 D2 阻断致 parkinsonism 禁 levodopa；同一根"多巴胺双刃剑"两端）
+>   - [[mistakes/uworld-mistakes_2026-05#^Park2-2026-05-22]] IPD vs DIP 鉴别（本卡是 IPD 治疗副产物 psychosis）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2518]] Tardive Dyskinesia 处理（同 D2 通路 / 抗精神病药 EPS 家族）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（抗精神病药 D2 拮抗强度谱、EPS 风险——与本题同源）
 > - 🌱 TODO（待生成衍生）：等神经科 + 精神科复习完后，请 Claude Code 整合「PD psychosis 管理 / 抗精神病药 D2 谱 / 药源性运动障碍(含 metoclopramide、抗精神病药 EPS) / 多巴胺能药双刃剑」类错题 → 生成 [[完整笔记/专题笔记/神经/_衍生_多巴胺受体药物双刃剑]]
@@ -16421,7 +16421,7 @@
 > 主题:: PD psychosis 管理 5 步流程（排除 infection/delirium/dementia → 监测 → 减非 PD 精神活性药 → 减 PD 药 → 难治用低/零 D2 抗精神病药）/ 多巴胺能药双刃剑（↑psychosis/ICD vs ↓parkinsonism）/ Pramipexole = DA 激动剂最易诱发 psychosis / Pimavanserin = 纯 5-HT2A 零 D2 FDA 唯一专批 PD psychosis / PD 用药躲着 D2 走
 > 状态:: 🔴
 > 错因:: 知识
-> 升档记录:: 2026-05-23 同主题第 2 次错（[[mistakes/uworld-mistakes#^Q12152]] 流程第 5 步选 quetiapine），从 🟡 升 🔴
+> 升档记录:: 2026-05-23 同主题第 2 次错（[[mistakes/uworld-mistakes_2026-05#^Q12152]] 流程第 5 步选 quetiapine），从 🟡 升 🔴
 
 > [!example]- [2026-05-22] 精神科 / Cluster B 人格障碍鉴别 (Q16310)
 > ^Q16310
@@ -16478,8 +16478,8 @@
 >
 > **8. 🔗 关联**
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q16309]] Paranoid Personality Disorder（Cluster A 镜像 — 同 personality disorder 家族，PPD「Weird」cluster vs 本题「Wild」cluster；两题共建 Cluster A/B/C 全图）
->   - [[mistakes/uworld-mistakes#^Q4816]] PDD vs Personality Disorder 鉴别（同 personality disorder 主题 — PD 不靠时间靠 persistent pattern since early adulthood，本题 §4 也踩这个点）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q16309]] Paranoid Personality Disorder（Cluster A 镜像 — 同 personality disorder 家族，PPD「Weird」cluster vs 本题「Wild」cluster；两题共建 Cluster A/B/C 全图）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4816]] PDD vs Personality Disorder 鉴别（同 personality disorder 主题 — PD 不靠时间靠 persistent pattern since early adulthood，本题 §4 也踩这个点）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🌱 TODO（待生成衍生）：等 psych 章节复习完，请 Claude Code 整合 Cluster B 人格障碍错题（HPD/NPD/BPD/ASPD 鉴别 + 各自诊断硬条件）→ 生成 [[完整笔记/专题笔记/psych/_衍生_ClusterB人格障碍鉴别表]]（与 Q16309 TODO 的 [[完整笔记/专题笔记/psych/psych_人格障碍鉴别速查]] 可合并为 Cluster A/B/C 全图）
 >
@@ -16561,10 +16561,10 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q3380]] Selective Mutism（同 **儿科 psych + 跨场所差异** 套路 — SM 是"家里说话、外面不说"; 本题是"家里闹、外面不闹"; 反向但同框架）
->   - [[mistakes/uworld-mistakes#^Q15047]] Reactive Attachment Disorder（同 **儿科 psych + 跨场所** 套路 + 发育里程碑/学校表现常被题干用来排 ASD / ADHD / 发育迟缓 / 铅中毒）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3380]] Selective Mutism（同 **儿科 psych + 跨场所差异** 套路 — SM 是"家里说话、外面不说"; 本题是"家里闹、外面不闹"; 反向但同框架）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q15047]] Reactive Attachment Disorder（同 **儿科 psych + 跨场所** 套路 + 发育里程碑/学校表现常被题干用来排 ASD / ADHD / 发育迟缓 / 铅中毒）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/儿科]] / [[完整笔记/Peixuan分科笔记/psych]]
-> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（ADHD 药物谱 — methylphenidate / amphetamine / atomoxetine / clonidine / guanfacine；与 [[mistakes/uworld-mistakes#^Q11967]] ADHD 药物精神病鉴别题同源）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（ADHD 药物谱 — methylphenidate / amphetamine / atomoxetine / clonidine / guanfacine；与 [[mistakes/uworld-mistakes_2026-05#^Q11967]] ADHD 药物精神病鉴别题同源）
 > - 🌱 TODO（待生成衍生）：等儿科 + psych 章节复习完，请 Claude Code 整合「儿童行为问题决策树（ADHD / PMT / ODD / CD / RAD / DSED / SM）+ 跨场所标准 + ADHD 药物谱（兴奋剂 / atomoxetine / α2 激动剂）」→ 生成 [[完整笔记/专题笔记/儿科/_衍生_儿童行为问题决策树与跨场所差异]]
 >
 > ## ✅ 复盘行动
@@ -16636,8 +16636,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q107408]] 儿科 PMT vs ADHD 跨场所标准（同 **ADHD 药物谱**框架；本题成人 nonstimulant 选 atomoxetine，Q107408 给出儿科药物三档 — 互为成人/儿童对照）
->   - [[mistakes/uworld-mistakes#^Q11967]] 青少年急性精神病 → SLE（同 **ADHD 药物 amphetamine** 出现在题干 — 那题是排除药物归因，本题是替换药物为非成瘾选项）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107408]] 儿科 PMT vs ADHD 跨场所标准（同 **ADHD 药物谱**框架；本题成人 nonstimulant 选 atomoxetine，Q107408 给出儿科药物三档 — 互为成人/儿童对照）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q11967]] 青少年急性精神病 → SLE（同 **ADHD 药物 amphetamine** 出现在题干 — 那题是排除药物归因，本题是替换药物为非成瘾选项）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/儿科]]（clonidine/guanfacine 儿童 ADHD 应用，与成人对比）
 > - 🌱 TODO（待生成衍生）：等精神科 / 药理章节复习完，请 Claude Code 整合「ADHD 用药决策（stimulant vs nonstimulant、成人 vs 儿童、物质滥用史特殊情况）」类错题 → 生成 [[完整笔记/专题笔记/psych/_衍生_ADHD用药决策树]]（与 [[完整笔记/专题笔记/儿科/_衍生_儿童行为问题决策树与跨场所差异]] 的 ADHD 药物谱部分互链）
@@ -16701,8 +16701,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q8909]] DSM-5 焦虑障碍鉴别 — SAD vs Specific Phobia vs Panic vs Agoraphobia（同框架："怕什么"/担忧靶点为主轴；那题考成人 SAD 子型，本题考儿童 GAD vs SAD 鉴别 — 互补）
->   - [[mistakes/uworld-mistakes#^Q21090]] 围产期 GAD（**同陷阱**：USMLE 用一个生活事件外壳[怀孕/儿童学业]把多领域 worry 包装得像单一议题，实际辐射多领域 → GAD）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q8909]] DSM-5 焦虑障碍鉴别 — SAD vs Specific Phobia vs Panic vs Agoraphobia（同框架："怕什么"/担忧靶点为主轴；那题考成人 SAD 子型，本题考儿童 GAD vs SAD 鉴别 — 互补）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21090]] 围产期 GAD（**同陷阱**：USMLE 用一个生活事件外壳[怀孕/儿童学业]把多领域 worry 包装得像单一议题，实际辐射多领域 → GAD）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/儿科]]（儿童 GAD 诊断阈值≠成人：仅需≥1 项附加症状；儿童躯体化/拒学常见）
 > - 🌱 TODO（待生成衍生）：等 psych 焦虑障碍部分复习完后，整合"焦虑障碍鉴别"系列错题（GAD / social / separation / OCD / panic / specific phobia）→ 生成 [[完整笔记/专题笔记/psych/_衍生_焦虑障碍鉴别速查]]（核心：以"担忧靶点数量+性质"为主轴的决策树；与 Q8909 TODO `psych_DSM5焦虑障碍鉴别决策树` 同主题，建衍生时合并去重）
@@ -16787,8 +16787,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q2353]] AN + euthyroid sick（**同进食障碍家族用药**：那题显式给出"Fluoxetine = bulimia 一线 ≠ AN，AN 的 SSRI/olanzapine 都是二线辅助"，与本题 BED 一线 SSRI 互为三兄弟拼图）
->   - [[mistakes/uworld-mistakes#^Q12541]] Alcohol Use Disorder 一线药（**同 Bupropion 禁忌**：那卡显式列"Bupropion 禁忌 = 癫痫 + 饮食障碍 bulimia/anorexia"，与本题 BED 用药表里"Bupropion 进食障碍永远禁"互证）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2353]] AN + euthyroid sick（**同进食障碍家族用药**：那题显式给出"Fluoxetine = bulimia 一线 ≠ AN，AN 的 SSRI/olanzapine 都是二线辅助"，与本题 BED 一线 SSRI 互为三兄弟拼图）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q12541]] Alcohol Use Disorder 一线药（**同 Bupropion 禁忌**：那卡显式列"Bupropion 禁忌 = 癫痫 + 饮食障碍 bulimia/anorexia"，与本题 BED 用药表里"Bupropion 进食障碍永远禁"互证）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/endocrine]]（肥胖管理药物 orlistat/phentermine/GLP-1 在减重语境下对照）
 > - 🌱 TODO（待生成衍生）：等 psych 进食障碍 + 减重药错题积累到 3-4 道后，整合 → 生成 [[完整笔记/专题笔记/psych/_衍生_进食障碍药物对照]]（三障碍一线药 + 减肥药 vs BED 药鉴别 + Bupropion 禁忌）
@@ -16874,9 +16874,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q2496]] Panic Disorder 急性发作用药（**同焦虑谱系药物表**：那卡完整列出 OCD=SSRI 高剂量+ERP / 二线 Clomipramine、Buspirone=GAD 专属、SSRI 4-6 周起效不救急，与本题"OCD 只认 SSRI+CBT-ERP"互证 + 对照成人 vs 儿童剂量）
->   - [[mistakes/uworld-mistakes#^Q16153]] 儿童 GAD vs Social Anxiety（**同焦虑题 SOP 决策树**：那题 OCD 是"单一靶点-侵入思维+ritual"末端节点，本题正好走到该末端 — 互补构成完整决策树）
->   - [[mistakes/uworld-mistakes#^Q16490]] BED 药物选择（同今日 psych 系列、同"精神障碍选对药 + 排诱饵"逻辑：BED 排减肥药 / OCD 排 psychodynamic）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2496]] Panic Disorder 急性发作用药（**同焦虑谱系药物表**：那卡完整列出 OCD=SSRI 高剂量+ERP / 二线 Clomipramine、Buspirone=GAD 专属、SSRI 4-6 周起效不救急，与本题"OCD 只认 SSRI+CBT-ERP"互证 + 对照成人 vs 儿童剂量）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q16153]] 儿童 GAD vs Social Anxiety（**同焦虑题 SOP 决策树**：那题 OCD 是"单一靶点-侵入思维+ritual"末端节点，本题正好走到该末端 — 互补构成完整决策树）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q16490]] BED 药物选择（同今日 psych 系列、同"精神障碍选对药 + 排诱饵"逻辑：BED 排减肥药 / OCD 排 psychodynamic）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/儿科]]（儿童/青少年精神障碍起病与用药：fidgety 注意力差伪装 ADHD 反陷阱）
 > - 🌱 TODO（待生成衍生）：
@@ -16900,7 +16900,7 @@
 > ^Q15088-redo
 >
 > > [!danger] 反复错 (2/2)
-> > 同 Q15088 [[mistakes/uworld-mistakes#^Q15088|2026-05-21 首次入库版]] 已学过「妄想 = 必须有抗精神病药」+「Lithium 不治妄想」，2 天后重做**仍选 C（fluoxetine + lithium）**。本卡专门记录**深层错因**（治疗哲学误区，非概念漏背），与旧卡互补不重复。
+> > 同 Q15088 [[mistakes/uworld-mistakes_2026-05#^Q15088|2026-05-21 首次入库版]] 已学过「妄想 = 必须有抗精神病药」+「Lithium 不治妄想」，2 天后重做**仍选 C（fluoxetine + lithium）**。本卡专门记录**深层错因**（治疗哲学误区，非概念漏背），与旧卡互补不重复。
 >
 > ## Stem 模式
 > 重度抑郁（辞职、不出门、不洗澡、终末失眠 4:30AM、10磅体重↓、精神运动迟滞 whispers/slow）+ **躯体妄想**「身体长虫了 / 在腐烂 / 我该死」→ 诊断 **MDD with Psychotic Features（精神病性抑郁）**。既往 2 次发作用过 fluoxetine/venlafaxine（提示既往是非精神病性单药可控）。
@@ -16955,7 +16955,7 @@
 > - **mood-congruent 躯体妄想 buzzword**：身体烂了/长虫了/内脏没了/该死=抑郁主题情绪协调性妄想。
 >
 > ## 我为什么错（深层 — 重做后才挖出来的根错因）
-> 选 C（fluoxetine+lithium）。我**看到了**妄想，但推理链有 3 个错接：①把「不急」当成「妄想可以不治」（其实抗精神病药不是急救药，妄想不治会一直拖）；②把 lithium 当成「温和版抗精神病药/情绪稳定剂能压住」（lithium 根本不治妄想，是增效剂）；③把精神运动迟滞误读成「情况稳定」。本质 = **治疗哲学误区**，不是单纯漏看关键词。**首次错[[mistakes/uworld-mistakes#^Q15088|2026-05-21]] 只识别到"概念混淆"层，重做才挖到"治疗哲学误区"层** — 这就是为什么 2 天后再做仍错：旧卡修了表层、没修底层逻辑。
+> 选 C（fluoxetine+lithium）。我**看到了**妄想，但推理链有 3 个错接：①把「不急」当成「妄想可以不治」（其实抗精神病药不是急救药，妄想不治会一直拖）；②把 lithium 当成「温和版抗精神病药/情绪稳定剂能压住」（lithium 根本不治妄想，是增效剂）；③把精神运动迟滞误读成「情况稳定」。本质 = **治疗哲学误区**，不是单纯漏看关键词。**首次错[[mistakes/uworld-mistakes_2026-05#^Q15088|2026-05-21]] 只识别到"概念混淆"层，重做才挖到"治疗哲学误区"层** — 这就是为什么 2 天后再做仍错：旧卡修了表层、没修底层逻辑。
 >
 > ## Memory Hook
 > - 一句话锁定：**「妄想靠抗精神病药打掉，和急不急无关；急不急只决定要不要上 ECT。」**
@@ -16972,10 +16972,10 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q15088]] **同题首次错（2026-05-21）**——同样选 C；旧卡分析停在"概念混淆"层，本卡补深层"治疗哲学误区"层
->   - [[mistakes/uworld-mistakes#^Q15811]] MDD with Psychotic Features → ECT（**同诊断家族同期题**，2026-05-21 同日学过；那题考"急→ECT"分支，本题考"不急→AD+AP"分支 — 决策树左右臂互补）
->   - [[mistakes/uworld-mistakes#^Q16490]] BED 用药——同 psych 治疗"选对药/排诱饵"逻辑
->   - [[mistakes/uworld-mistakes#^Q8923]] 儿童 OCD 管理——同 psych 治疗"选对治疗类型/排诱饵"逻辑
+>   - [[mistakes/uworld-mistakes_2026-05#^Q15088]] **同题首次错（2026-05-21）**——同样选 C；旧卡分析停在"概念混淆"层，本卡补深层"治疗哲学误区"层
+>   - [[mistakes/uworld-mistakes_2026-05#^Q15811]] MDD with Psychotic Features → ECT（**同诊断家族同期题**，2026-05-21 同日学过；那题考"急→ECT"分支，本题考"不急→AD+AP"分支 — 决策树左右臂互补）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q16490]] BED 用药——同 psych 治疗"选对药/排诱饵"逻辑
+>   - [[mistakes/uworld-mistakes_2026-05#^Q8923]] 儿童 OCD 管理——同 psych 治疗"选对治疗类型/排诱饵"逻辑
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🌱 TODO（待生成衍生）：
 >   - 等 MDD/抑郁治疗题积累到 3-4 道 → 整合 → 生成 [[完整笔记/专题笔记/psych/_衍生_MDD治疗决策树]]（普通 vs 精神病性 vs 难治性分流 + 联合方案对号入座 + ECT 适应症 + 「急不急≠治不治妄想」纠正）
@@ -17064,7 +17064,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：（**首题** — 低血糖 insulin/C-peptide 鉴别）
->   - [[mistakes/uworld-mistakes#^Q3719]] Factitious vs Malingering 鉴别（**跨学科孪生题**：surreptitious sulfonylurea use 在精神科诊断上属 factitious disorder — 内分泌化验找病因 vs 精神科动机找病因，互为正反两面）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3719]] Factitious vs Malingering 鉴别（**跨学科孪生题**：surreptitious sulfonylurea use 在精神科诊断上属 factitious disorder — 内分泌化验找病因 vs 精神科动机找病因，互为正反两面）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/endocrine]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（偷用磺脲类 ↔ factitious disorder 鉴别：内因型 sick role 动机 vs malingering 外部获益）
 > - 🧬 指纹：[[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全#1.10 内源性高胰岛素血症 / 低血糖鉴别]]（已建 1.10 条目，本题为触发题）
@@ -17166,8 +17166,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q16309]] Paranoid PD ✅做对（Cluster A，本题 Cluster B；同为 PD 诊断对比）
->   - [[mistakes/uworld-mistakes#^Q4816]] PDD vs 人格障碍鉴别（"先找僵化行为模式，找不到只有情绪 → 回情绪障碍"；本题反过来：有 PD 模式 → 不能只看 mood）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q16309]] Paranoid PD ✅做对（Cluster A，本题 Cluster B；同为 PD 诊断对比）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4816]] PDD vs 人格障碍鉴别（"先找僵化行为模式，找不到只有情绪 → 回情绪障碍"；本题反过来：有 PD 模式 → 不能只看 mood）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（BPD 章节 ~ 行 2015-2031）
 > - 📋 治疗 SOP：[[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP#3.5 心理治疗对号入座]]（DBT-BPD 行）+ 新增 §3.6 BPD 治疗层级（adjunct vs 一线）
 > - 🏥 跨学科：暂无明显跨学科（BPD 是纯精神科）；潜在关联 — [[完整笔记/Peixuan分科笔记/psych]] 自杀风险评估（BPD 长期自杀风险管理）
@@ -17262,8 +17262,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题（按时间倒序）：
->   - [[mistakes/uworld-mistakes#^Q16153]] GAD vs Social Anxiety 儿童（2026-05-23；"一条社交担忧 ≠ SAD，先数靶点数"）
->   - [[mistakes/uworld-mistakes#^Q21090]] 围产期 GAD（2026-05-19；"生活事件外壳 ≠ 单一议题"）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q16153]] GAD vs Social Anxiety 儿童（2026-05-23；"一条社交担忧 ≠ SAD，先数靶点数"）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21090]] 围产期 GAD（2026-05-19；"生活事件外壳 ≠ 单一议题"）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（GAD in children 已有"#薄弱点"标记，行 2152）
 > - 📋 治疗 SOP：[[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP#3.2 焦虑谱系（先数靶点 → 再分配药）]]（GAD 一线 SSRI/SNRI/CBT；Buspirone 二线；已新增 §五反向钩 — Tetrabenazine = 焦虑题钓饵）
 > - 🏥 跨学科：
@@ -17460,7 +17460,7 @@
 > - 选了：**A. Amantadine**
 > - 错因：**pattern + 知识缺口**
 > - 核心陷阱：① 把"PD + 药物相关症状"反射性当成"加抗 PD 药"，忽略本题已说"加量后才出现 psychosis"——明明是**多巴胺过多**反而想加更多 DA；② **不熟 amantadine 是多巴胺能药**（增释放 + 抑 reuptake），看到"治 PD 的药"就觉得对症；③ **没记牢第 5 步的具体药选择**：知道"低 D2"，但记不住 Quetiapine 是 first choice、不会一刀切 5 个选项。
-> - 元错误：**这是同主题第 2 次错（[[mistakes/uworld-mistakes#^Q16164]] 2026-05-22 减药题刚做完）**——昨天卡在"减药 vs 加药"反射，今天卡在"减药失败下一步选哪个药"。两题串起来才是完整的 PD psychosis 流程，单题解答不够。
+> - 元错误：**这是同主题第 2 次错（[[mistakes/uworld-mistakes_2026-05#^Q16164]] 2026-05-22 减药题刚做完）**——昨天卡在"减药 vs 加药"反射，今天卡在"减药失败下一步选哪个药"。两题串起来才是完整的 PD psychosis 流程，单题解答不够。
 >
 > ## Memory Hook
 > - **一句话锁定**：**"PD 看见鬼 → 先减药；减药救不回运动 → 上 Quetiapine。Amantadine / Pramipexole 是多巴胺能，火上浇油，看到划掉。"**
@@ -17479,13 +17479,13 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题（按时间倒序）：
->   - [[mistakes/uworld-mistakes#^Q16164]] PD psychosis 管理 — **第 4 步减药**（2026-05-22，本题前 1 天；昨天考"减药就够"反应轻症，今天考"减药失败必上 quetiapine"——同流程两端，**该卡刚同步升 🔴 反复错**）
->   - [[mistakes/uworld-mistakes#^Park1-2026-05-22]] DIP 处理（同 D2 通路：那卡是 D2 阻断致 parkinsonism 禁 levodopa；本卡是减 levodopa 不够 → 用低 D2 quetiapine — 都是"多巴胺双刃剑"两端）
->   - [[mistakes/uworld-mistakes#^Q2518]] Tardive Dyskinesia 处理（同 D2 通路 / 抗精神病药 EPS 家族；TD 处理用 VMAT2 抑制剂 tetrabenazine — 与本题 PD 第 5 步用药同源"D2 与运动症状平衡"主题）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q16164]] PD psychosis 管理 — **第 4 步减药**（2026-05-22，本题前 1 天；昨天考"减药就够"反应轻症，今天考"减药失败必上 quetiapine"——同流程两端，**该卡刚同步升 🔴 反复错**）
+>   - [[mistakes/uworld-mistakes_2026-05#^Park1-2026-05-22]] DIP 处理（同 D2 通路：那卡是 D2 阻断致 parkinsonism 禁 levodopa；本卡是减 levodopa 不够 → 用低 D2 quetiapine — 都是"多巴胺双刃剑"两端）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2518]] Tardive Dyskinesia 处理（同 D2 通路 / 抗精神病药 EPS 家族；TD 处理用 VMAT2 抑制剂 tetrabenazine — 与本题 PD 第 5 步用药同源"D2 与运动症状平衡"主题）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/Peixuan分科笔记/psych]]
 > - 📋 草稿（已全覆盖本题）：[[草稿/2026-05-22_PD用药全解_主笔记草稿_v4]]（v4 第 94-103 行 Pimavanserin 段 + 第 145 行 Quetiapine 段 + 第 308 行高频陷阱表 + 第 323-324 行 Memory Hook "PD 看见鬼，先减药别加药" — **本题增量为零**，草稿已覆盖第 5 步 quetiapine first choice + D2 安全谱 + Amantadine/Pramipexole 多巴胺能陷阱）
 > - 🏥 跨学科：
->   - [[完整笔记/Peixuan分科笔记/psych]]（抗精神病药 D2 拮抗强度谱 / EPS 风险 / 1 代 vs 2 代 vs 3 代 — 与 [[mistakes/uworld-mistakes#^Q2518]] TD 题、[[mistakes/uworld-mistakes#^Q20930]] tetrabenazine 题同源）
+>   - [[完整笔记/Peixuan分科笔记/psych]]（抗精神病药 D2 拮抗强度谱 / EPS 风险 / 1 代 vs 2 代 vs 3 代 — 与 [[mistakes/uworld-mistakes_2026-05#^Q2518]] TD 题、[[mistakes/uworld-mistakes_2026-05#^Q20930]] tetrabenazine 题同源）
 >   - [[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]]（PD psychosis 不是 EPS，但同 D2 通路；EPS 是抗精神病药→D2 阻断→运动障碍，PD psychosis 是 PD 药→DA 过多→精神症状，**镜像同源**）
 >   - [[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP]]（PD psychosis 是"治疗副产物精神症状"特殊场景，与"原发性精神病选药 SOP"互为对照 — 一个躲 D2 走，一个走 D2 用）
 > - 🌱 TODO（待生成衍生）：神经科 + 精神科复习完 → 整合 [[完整笔记/专题笔记/神经/_衍生_多巴胺受体药物双刃剑]]（草稿 v4 整合 + Q16164 + Q12152 + DIP + TD + tetrabenazine 全收纳，按"多巴胺过多 vs 多巴胺不足"两端组织）
@@ -17505,7 +17505,7 @@
 > 主题:: PD psychosis 第 5 步用药（减药失败后必须上低/零 D2 抗精神病药）/ Quetiapine = PD psychosis 临床首选（availability + safety 最佳）/ Pimavanserin = FDA 唯一专批但 cost/availability 限制 / Clozapine = 低 D2 但 agranulocytosis 需 ANC 监测 / Risperidone-Haloperidol 强 D2 PD 禁用 / Amantadine 多巴胺能药（增释放+抑 reuptake）= PD psychosis 题里永远错误选项 / Pramipexole DA 激动剂火上浇油 / SGA 不均质（risperidone D2 仍强 PD 不可用，只有 Quet/Cloz/Pim 三家通过 PD 例外）/ Selegiline MAO-B 抑制剂同样升 DA / Q16164 第 4 步 + Q12152 第 5 步串联 = 完整 PD psychosis 流程 / **Levodopa = PD foundation 不能减**（5-26 错点漂移已克服 5-27）
 > 状态:: 🟡（5-27 双重测试通过 5-26 错点漂移克服 / **5-28 浩斯宾 Q24 间接测 antidopaminergic 原则也 ✓**；保留 #考前必看 巩固）
 > 错因:: pattern
-> 反复错记录:: 2026-05-22 [[mistakes/uworld-mistakes#^Q16164]] 第 4 步减药 + 2026-05-23 [[mistakes/uworld-mistakes#^Q12152]] 第 5 步用药 / 用户自述"应该之前做过但还是错" / 首次入库即 🔴 + 2026-05-24 浩斯宾 Q21 第 **3** 次反复错（第 5 步选 ECT 而非 quetiapine — ECT 是 last-resort 非标准）+ **2026-05-26 浩斯宾 Q20 错点漂移**：5-25 浩斯宾 Q21 答对 quetiapine ✓，但 5-26 又错（选 A discontinue carbidopa-levodopa）— **错点维度从 1 → 2**（ECT + discontinue levodopa 两端钓饵都踩）— 见 [[mistakes/uworld-mistakes#^Q20-2026-05-26]] 配对卡
+> 反复错记录:: 2026-05-22 [[mistakes/uworld-mistakes_2026-05#^Q16164]] 第 4 步减药 + 2026-05-23 [[mistakes/uworld-mistakes_2026-05#^Q12152]] 第 5 步用药 / 用户自述"应该之前做过但还是错" / 首次入库即 🔴 + 2026-05-24 浩斯宾 Q21 第 **3** 次反复错（第 5 步选 ECT 而非 quetiapine — ECT 是 last-resort 非标准）+ **2026-05-26 浩斯宾 Q20 错点漂移**：5-25 浩斯宾 Q21 答对 quetiapine ✓，但 5-26 又错（选 A discontinue carbidopa-levodopa）— **错点维度从 1 → 2**（ECT + discontinue levodopa 两端钓饵都踩）— 见 [[mistakes/uworld-mistakes_2026-05#^Q20-2026-05-26]] 配对卡
 > 升档触发:: 同主题流程连续 3 次反复错（Q16164 + Q12152 + 5-24 Q21）→ 用户手动加「考前必看」+ 已触发衍生 [[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]]（汇 Q16164 第 4 步 + Q12152 第 5 步选 quetiapine + 5-24 Q21 ECT 钓饵 → 完整 5 步流程 + 三选一选药 + ECT 适应症边界）
 > 5-26 错点漂移升级:: 5-25 第 1 次答对 quetiapine 后 5-26 又错（stop levodopa）→ 维持 🔴 + 强化 #考前必看；衍生 [[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]] **必须增量**补 "Levodopa 是 foundation 不能减 + NMS-like 风险" 子节
 > **5-27 错点漂移正式克服**:: 5-27 浩斯宾 Q20（已减全部前 4 步药仍 ψ）✓ 答 D quetiapine + Q23（未上 amantadine/anticholinergic 起点 step 4）✓ 答 B 减 pramipexole + 加 quetiapine — **双重测试不同入药谱都答对** ⭐⭐⭐ 5 步阶梯反射真建立（识别"哪个药要减"顺序 + 识别"加什么" + 识别"禁忌 haloperidol/risperidone/停 levodopa/ECT"）→ **🔴 → 🟡 + 保留 #考前必看**（错点漂移历史 + 高频考点）
@@ -17609,17 +17609,17 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题（按时间倒序）：
->   - [[mistakes/uworld-mistakes#^Q12152]] PD psychosis 第 5 步用药（2026-05-23 今日；**同 MAO 抑制剂家族** — selegiline 是 MAO-B 抑制剂，与 phenelzine（非选择性 MAOI）同属一类；selegiline 低剂量选择性 MAO-B → tyramine 风险小，**高剂量失选择性** → 同样需忌口）
->   - [[mistakes/uworld-mistakes#^Q11853]] MDMA 中毒 + Serotonin Syndrome（2026-05-19 #难记；**同 5-HT 综合征家族** — MAOI + 5-HT 能药那条祸的延伸，MDMA 是强 5-HT 释放剂，本题反向考"MAOI + 食物 ≠ SS"）
->   - [[mistakes/uworld-mistakes#^Q12203]] NMS 诊断 · 白细胞陷阱（2026-05-22；**同四大急症对比表** — 与本题第三普适规则共用对照框架，本题加入 HTN crisis 第 4 列扩为四联）
->   - [[mistakes/uworld-mistakes#^Q2501]] NMS vs EPS 鉴别 + NMS 用药（2026-05-19；同 NMS 系列；本题与之同属精神药物急症家族）
->   - [[mistakes/uworld-mistakes#^Q20497]] Venlafaxine 剂量依赖性高血压（2026-05-20；**同抗抑郁药急性 HTN 家族** — Venlafaxine = SNRI 高剂量 NE↑ → 血压↑；本题 MAOI + tyramine 也是 NE↑ → 血压↑，**机制同源不同药源**）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q12152]] PD psychosis 第 5 步用药（2026-05-23 今日；**同 MAO 抑制剂家族** — selegiline 是 MAO-B 抑制剂，与 phenelzine（非选择性 MAOI）同属一类；selegiline 低剂量选择性 MAO-B → tyramine 风险小，**高剂量失选择性** → 同样需忌口）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q11853]] MDMA 中毒 + Serotonin Syndrome（2026-05-19 #难记；**同 5-HT 综合征家族** — MAOI + 5-HT 能药那条祸的延伸，MDMA 是强 5-HT 释放剂，本题反向考"MAOI + 食物 ≠ SS"）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q12203]] NMS 诊断 · 白细胞陷阱（2026-05-22；**同四大急症对比表** — 与本题第三普适规则共用对照框架，本题加入 HTN crisis 第 4 列扩为四联）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2501]] NMS vs EPS 鉴别 + NMS 用药（2026-05-19；同 NMS 系列；本题与之同属精神药物急症家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20497]] Venlafaxine 剂量依赖性高血压（2026-05-20；**同抗抑郁药急性 HTN 家族** — Venlafaxine = SNRI 高剂量 NE↑ → 血压↑；本题 MAOI + tyramine 也是 NE↑ → 血压↑，**机制同源不同药源**）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（MAOI 章节 + 食物相互作用 + tyramine 清单）/ [[完整笔记/Peixuan分科笔记/心内]]（hypertensive crisis 鉴别与处理 — phentolamine / nitroprusside / labetalol）
 > - 📋 草稿（本题增量已并入）：[[草稿/2026-05-23_NMS_MH_Serotonin三联鉴别_专题草稿_v1]]（**已升 v1.1** — 新增 "MAOI 两条祸（决策分流）" 节 + High-Yield Summary Table 加入 HTN crisis 第 4 列 + tyramine 食物清单 + 隐藏 MAOI 三剑客；扩 v2 时把 HTN crisis 升级为完整列与 NMS/MH/SS 平级）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/感染]]（**Linezolid 是隐藏 MAOI** — 治 VRE / MRSA / 复杂 SSTI；与 SSRI / 曲马多联用诱发 SS；用前需停 5-HT 能药 2 周，fluoxetine 因长半衰期需 5 周）
 >   - [[完整笔记/Peixuan分科笔记/心内]]（hypertensive crisis 解药选择 — phentolamine = 纯 α 阻断对 tyramine 危象首选；β 阻断单用禁忌【会让 α 失对抗】，用 labetalol 必须 α+β 双阻）
->   - [[完整笔记/Peixuan分科笔记/neuro]]（MAO-B 抑制剂 selegiline / rasagiline 在 PD 治疗中的 tyramine 风险 + serotonergic 风险 — 与 [[mistakes/uworld-mistakes#^Q12152]] PD psychosis 题串联）
+>   - [[完整笔记/Peixuan分科笔记/neuro]]（MAO-B 抑制剂 selegiline / rasagiline 在 PD 治疗中的 tyramine 风险 + serotonergic 风险 — 与 [[mistakes/uworld-mistakes_2026-05#^Q12152]] PD psychosis 题串联）
 > - 🌱 TODO（待生成衍生）：等 psych + neuro 章节复习完 → 把 [[草稿/2026-05-23_NMS_MH_Serotonin三联鉴别_专题草稿_v1]] 升级为正式衍生 [[完整笔记/专题笔记/_衍生_高热肌强直急症鉴别]]，并入 HTN crisis（adrenergic）+ 抗胆碱能毒性两列，形成"急性精神药物急症五联"完整决策树（食物 / 5-HT 药 / 抗精神病药 / 麻醉 / 抗胆碱能）
 >
 > ## ✅ 复盘行动
@@ -17704,16 +17704,16 @@
 >     ↓
 > 典型场景：
 >   - Tourette 升级（α2 → 抗 DA）⭐ 本题
->   - 双相维持选药（[[mistakes/uworld-mistakes#^Q2357]] 一线失败 → 换器官代谢路径）
+>   - 双相维持选药（[[mistakes/uworld-mistakes_2026-05#^Q2357]] 一线失败 → 换器官代谢路径）
 >   - 哮喘 step-up（ICS → ICS+LABA → +LAMA → 生物制剂）
 >   - HTN 加药（一种 → 联合 → 三联 → 难治性 HTN workup）
 >   - MDD 部分应答（SSRI 增量 → 换 SSRI → augment 第二药 → ECT）
->   - PD psychosis（[[mistakes/uworld-mistakes#^Q12152]] 减药失败 → 上 quetiapine）
+>   - PD psychosis（[[mistakes/uworld-mistakes_2026-05#^Q12152]] 减药失败 → 上 quetiapine）
 > ```
 >
 > ## 易混陷阱（普适）
 > - **"Tic 是不自主运动 → 选抗胆碱药"反射 ❌**：抗胆碱药（benztropine / trihexyphenidyl）治的是**抗精神病药引起的 EPS**（D2 阻断 → ACh 相对↑ → 胆碱能优势 → dystonia/parkinsonism），机制是"反向降低 ACh 优势"，**与 tic 的"DA 过度活跃"完全相反**。本题 A 选项是最大陷阱，凭"运动症状模糊联想"必中招。
-> - **"Tetrabenazine 是 USMLE 钓饵药"反射的反向应用**：[[mistakes/uworld-mistakes#^Q20930]]（昨日同主题反陷阱）里 tetrabenazine 出现在**焦虑题**当干扰项 = 钓饵；本题它出现在 **Tourette 题** = **真适应症**。**同一个药在不同诊断里是钓饵 vs 答案**，关键看"题问的是什么病"。
+> - **"Tetrabenazine 是 USMLE 钓饵药"反射的反向应用**：[[mistakes/uworld-mistakes_2026-05#^Q20930]]（昨日同主题反陷阱）里 tetrabenazine 出现在**焦虑题**当干扰项 = 钓饵；本题它出现在 **Tourette 题** = **真适应症**。**同一个药在不同诊断里是钓饵 vs 答案**，关键看"题问的是什么病"。
 > - **"兴奋剂治 ADHD" + "ADHD 与 Tourette 常共病"陷阱**：Tourette 患者 ~50% 共病 ADHD，但**兴奋剂可能加重 tic**。这种情况下 ADHD 用药优先选 **α2 激动剂（clonidine / guanfacine）或 atomoxetine**（NRI 非兴奋剂），而不是 methylphenidate。看到"Tourette + ADHD + 兴奋剂选项" → 警铃。
 > - **SSRI 不治 tic 但治 OCD**：Tourette 也常共病 OCD（~40%）。题干如果给"tic + 强迫思维 + 仪式行为" → 加 SSRI 治 OCD，但**不替代 tic 治疗**。**两条独立线**，不能用 SSRI 顶替抗多巴胺。
 > - **Pimozide 用前必查 ECG**：强 D2 拮抗 + **QT 延长** → 需基线 + 滴定中 ECG 监测；如果题干给"QT 已延长 / 低钾 / 低镁"病人 → 选 risperidone / tetrabenazine，避开 pimozide。
@@ -17729,7 +17729,7 @@
 > ## Memory Hook
 > - **一句话锁定**：**"Tic = 多巴胺太嗨 → 把多巴胺摁下去（抗 DA）。抗胆碱治的是 EPS 副作用，不是 tic 本病。"**
 > - **类比挂钩（用户原稿"踩油门 vs 踩刹车"扩展）**：脑子 DA 油门踩太死（tic）→ 要**踩刹车**（anti-DA：阻断 D2 或耗竭 DA）；抗胆碱药 = 修"刹车踩过头后的副作用"（治 EPS）；兴奋剂 = **再踩一脚油门** = 越踩越糟（加重 tic）。**三角方向钩**：抗 DA 治 tic ↔ 抗胆碱治 EPS ↔ 兴奋剂加重 tic。
-> - **Tetrabenazine 双面钩**（与 Q20930 互证）：**焦虑题里出现 tetrabenazine = 钓饵划掉**（[[mistakes/uworld-mistakes#^Q20930]]）；**Tourette / Huntington / TD 题里出现 tetrabenazine = 真答案**。**同一个药在不同诊断里身份对调** — USMLE 的经典考法。
+> - **Tetrabenazine 双面钩**（与 Q20930 互证）：**焦虑题里出现 tetrabenazine = 钓饵划掉**（[[mistakes/uworld-mistakes_2026-05#^Q20930]]）；**Tourette / Huntington / TD 题里出现 tetrabenazine = 真答案**。**同一个药在不同诊断里身份对调** — USMLE 的经典考法。
 > - **升级题反射钩**：stem 出现 "**用了一段时间仍恶化 / 控制不够**" → **找下一阶梯**，不是换同一阶梯药。Tourette / 双相维持 / 哮喘 / HTN / MDD / PD psychosis 全套用此 SOP。
 > - **共病双轨记忆**：**Tourette 三大共病** = ADHD（50%）/ OCD（40%）/ 焦虑抑郁。其中 **ADHD 用 α2 或 atomoxetine 而非兴奋剂**（避免加重 tic）；**OCD 用 SSRI 但不替代 tic 治疗**（两条独立线）；**抑郁焦虑 SSRI** 也是独立线。
 > - **方向三角口诀**：**"DA 太多治 tic，ACh 太多治 EPS，DA 太少治 PD"** — 三个方向，三个药篮子，对号入座不混淆。
@@ -17745,14 +17745,14 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题（按时间倒序）：
->   - [[mistakes/uworld-mistakes#^Q20930]] 儿童 GAD + Tetrabenazine 干扰项陷阱（2026-05-23 同日；**完美反向对照** — 那题 tetrabenazine 在焦虑题里是钓饵，本题 tetrabenazine 在 Tourette 题里是真答案；**同一药两种身份的经典考法**）
->   - [[mistakes/uworld-mistakes#^Q14348]] ADHD 成人 atomoxetine（2026-05-23 同日；同 **儿童/青少年精神药谱** — clonidine/guanfacine α2 在儿童的角色：ADHD + Tourette + 失眠 + tics 一石多鸟）
->   - [[mistakes/uworld-mistakes#^Q107408]] PMT + ADHD 跨场所标准（2026-05-22；**ADHD 药物三档** = 兴奋剂 → atomoxetine → α2 — 本题阶梯的儿童 ADHD 镜像版）
->   - [[mistakes/uworld-mistakes#^Q16066]] TD 识别 + EPS 四兄弟（2026-05-20；**同 D2 通路 + 方向三角** — 那题考"抗精神病药慢性 D2 阻断 → TD" + VMAT2 治疗，本题考"原发 DA 过度活跃 → Tourette" + VMAT2 治疗 — 都用 VMAT2 但是两条不同病理路径殊途同归）
->   - [[mistakes/uworld-mistakes#^Q2505]] 急性 dystonic reaction（2026-05-21；**抗胆碱治 EPS ≠ 治 tic 反陷阱** — 那题考抗胆碱治急性 dystonia，本题考抗胆碱**不治** tic；两题串记可锁死方向三角）
->   - [[mistakes/uworld-mistakes#^Q11898]] Akathisia 静坐不能（2026-05-21；同 **EPS 治疗谱** propranolol；和本题"tic 治疗谱"形成完整对照）
->   - [[mistakes/uworld-mistakes#^Q2357]] Bipolar I 维持选药（2026-05-19/23 反复错升 🔴；**同治疗阶梯升级 SOP** — 那题是器官功能否决一线药，本题是疗效不足升下阶梯，**两种升级触发机制**）
->   - [[mistakes/uworld-mistakes#^Q12152]] PD psychosis 第 5 步（2026-05-23 反复错 🔴；同**治疗阶梯升级** — 减药失败 → 上 quetiapine，本题 α2 失败 → 上抗 DA）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20930]] 儿童 GAD + Tetrabenazine 干扰项陷阱（2026-05-23 同日；**完美反向对照** — 那题 tetrabenazine 在焦虑题里是钓饵，本题 tetrabenazine 在 Tourette 题里是真答案；**同一药两种身份的经典考法**）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q14348]] ADHD 成人 atomoxetine（2026-05-23 同日；同 **儿童/青少年精神药谱** — clonidine/guanfacine α2 在儿童的角色：ADHD + Tourette + 失眠 + tics 一石多鸟）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107408]] PMT + ADHD 跨场所标准（2026-05-22；**ADHD 药物三档** = 兴奋剂 → atomoxetine → α2 — 本题阶梯的儿童 ADHD 镜像版）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q16066]] TD 识别 + EPS 四兄弟（2026-05-20；**同 D2 通路 + 方向三角** — 那题考"抗精神病药慢性 D2 阻断 → TD" + VMAT2 治疗，本题考"原发 DA 过度活跃 → Tourette" + VMAT2 治疗 — 都用 VMAT2 但是两条不同病理路径殊途同归）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2505]] 急性 dystonic reaction（2026-05-21；**抗胆碱治 EPS ≠ 治 tic 反陷阱** — 那题考抗胆碱治急性 dystonia，本题考抗胆碱**不治** tic；两题串记可锁死方向三角）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q11898]] Akathisia 静坐不能（2026-05-21；同 **EPS 治疗谱** propranolol；和本题"tic 治疗谱"形成完整对照）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2357]] Bipolar I 维持选药（2026-05-19/23 反复错升 🔴；**同治疗阶梯升级 SOP** — 那题是器官功能否决一线药，本题是疗效不足升下阶梯，**两种升级触发机制**）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q12152]] PD psychosis 第 5 步（2026-05-23 反复错 🔴；同**治疗阶梯升级** — 减药失败 → 上 quetiapine，本题 α2 失败 → 上抗 DA）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/儿科]]（Tourette 起病 < 18 岁 + 共病模式）/ [[完整笔记/Peixuan分科笔记/neuro]]（基底节 DA 通路 + 运动障碍鉴别）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（基底节 DA 通路 + chorea/myoclonus/dystonia/tic 鉴别 — 见本卡 §三 体征鉴别表）
@@ -17776,7 +17776,7 @@
 > ---
 >
 > 学科:: Psych
-> 主题:: Tourette 药物升级（HRT → α2 激动剂 → 抗多巴胺药）/ tic 神经生物学 = 基底节 DA 过度活跃 → 治疗降 DA / 抗多巴胺药两类（VMAT2 抑制剂 tetrabenazine 耗竭 + D2 拮抗 risperidone/haloperidol/pimozide）/ Tic 治疗方向三角（抗 DA 治 tic / 抗胆碱治 EPS / 兴奋剂加重 tic）/ Tetrabenazine 双面身份（焦虑题钓饵 vs Tourette/HD/TD 真答案 — 与 [[mistakes/uworld-mistakes#^Q20930]] 完美反向对照）/ HRT = Tourette 一线行为治疗（identify urge + competing response，≠ 标准 CBT ≠ CBT-ERP）/ Pimozide QT 延长需 ECG / Tourette 共病三大（ADHD 50% 用 α2 不用兴奋剂 / OCD 40% 用 SSRI 但不替代 tic 治疗 / 抑郁焦虑 SSRI 独立线）/ 治疗阶梯升级通用 SOP："用了一段时间仍恶化"= 升级题找下一阶梯 / 反射钩：抗胆碱治 EPS ≠ 治 tic（方向相反）
+> 主题:: Tourette 药物升级（HRT → α2 激动剂 → 抗多巴胺药）/ tic 神经生物学 = 基底节 DA 过度活跃 → 治疗降 DA / 抗多巴胺药两类（VMAT2 抑制剂 tetrabenazine 耗竭 + D2 拮抗 risperidone/haloperidol/pimozide）/ Tic 治疗方向三角（抗 DA 治 tic / 抗胆碱治 EPS / 兴奋剂加重 tic）/ Tetrabenazine 双面身份（焦虑题钓饵 vs Tourette/HD/TD 真答案 — 与 [[mistakes/uworld-mistakes_2026-05#^Q20930]] 完美反向对照）/ HRT = Tourette 一线行为治疗（identify urge + competing response，≠ 标准 CBT ≠ CBT-ERP）/ Pimozide QT 延长需 ECG / Tourette 共病三大（ADHD 50% 用 α2 不用兴奋剂 / OCD 40% 用 SSRI 但不替代 tic 治疗 / 抑郁焦虑 SSRI 独立线）/ 治疗阶梯升级通用 SOP："用了一段时间仍恶化"= 升级题找下一阶梯 / 反射钩：抗胆碱治 EPS ≠ 治 tic（方向相反）
 > 状态:: 🟡
 > 错因:: 知识
 
@@ -17892,7 +17892,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题（按时间倒序）：
->   - [[mistakes/uworld-mistakes#^Q2468]] 儿科 Edwards 心脏畸形 → VSD（2026-05-18；**同染色体三体 + 心脏畸形 + karyotype 诊断**框架；那题考 Edwards → VSD，本题考 Down → VSD/AVSD；两题共同点 = **染色体综合征首选 karyotype**；可串记三大三体心脏畸形）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2468]] 儿科 Edwards 心脏畸形 → VSD（2026-05-18；**同染色体三体 + 心脏畸形 + karyotype 诊断**框架；那题考 Edwards → VSD，本题考 Down → VSD/AVSD；两题共同点 = **染色体综合征首选 karyotype**；可串记三大三体心脏畸形）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/儿科]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/心内]]（VSD / AVSD / endocardial cushion defect — DS 心脏畸形 #1 AVSD #2 VSD）
@@ -17965,9 +17965,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q3375]] Tourette 药物升级（α2 失败 → 抗多巴胺）（2026-05-23 同日；**同诊断、考治疗阶梯** — 那题考"诊断对了选下一阶梯"，本题考"诊断错了选错治疗"，两题串记 = Tourette 全套：先诊断对（本题）→ 再升阶梯对（Q3375））
->   - [[mistakes/uworld-mistakes#^Q2357]] Bipolar I 维持选药（2026-05-19/23 反复错 🔴；同属 **"读对线索才选对"** — 那题被器官功能否决一线药线索干扰，本题被家族史 + 焦虑烟雾弹干扰，**两种"读错线索 → 选错药"陷阱**）
->   - [[mistakes/uworld-mistakes#^Q20930]] 儿童 GAD + Tetrabenazine 干扰项（2026-05-23 同日；**同 tic vs 焦虑诊断方向** — 那题考焦虑题里 tetrabenazine 是钓饵，本题考 Tourette 题里 ERP/fluoxetine 是钓饵，**两题都测"不要被相关共病/相关药物带偏主诊断"**）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3375]] Tourette 药物升级（α2 失败 → 抗多巴胺）（2026-05-23 同日；**同诊断、考治疗阶梯** — 那题考"诊断对了选下一阶梯"，本题考"诊断错了选错治疗"，两题串记 = Tourette 全套：先诊断对（本题）→ 再升阶梯对（Q3375））
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2357]] Bipolar I 维持选药（2026-05-19/23 反复错 🔴；同属 **"读对线索才选对"** — 那题被器官功能否决一线药线索干扰，本题被家族史 + 焦虑烟雾弹干扰，**两种"读错线索 → 选错药"陷阱**）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20930]] 儿童 GAD + Tetrabenazine 干扰项（2026-05-23 同日；**同 tic vs 焦虑诊断方向** — 那题考焦虑题里 tetrabenazine 是钓饵，本题考 Tourette 题里 ERP/fluoxetine 是钓饵，**两题都测"不要被相关共病/相关药物带偏主诊断"**）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/儿科]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（tic 基底节多巴胺通路 vs OCD 皮层-纹状体-丘脑-皮层 CSTC 环路 — 两种神经回路决定治疗方向）
@@ -18032,9 +18032,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题（按日入库顺序）：
->   - [[mistakes/uworld-mistakes#^Q18702]] AMA discharge IVDU IE empathic investigation（2026-05-23 同日；**autonomy vs beneficence** — 本题公共健康 override，那题 beneficence 努力 prevent AMA；两题构成"autonomy 何时 override / 何时努力说服"双面）
->   - [[mistakes/uworld-mistakes#^Q105595]] 青少年 conditional confidentiality（2026-05-23 同日；**conditional autonomy 框架** — autonomy 给 adolescent 有例外，本题成人 autonomy 有例外，两题构成"autonomy 总有边界"主题）
->   - [[mistakes/uworld-mistakes#^Q3614]] HIPAA verbal consent + minimum necessary disclosure（2026-05-23 同日；**Ethics 四道同日 — 完整 Ethics 框架启动**）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q18702]] AMA discharge IVDU IE empathic investigation（2026-05-23 同日；**autonomy vs beneficence** — 本题公共健康 override，那题 beneficence 努力 prevent AMA；两题构成"autonomy 何时 override / 何时努力说服"双面）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q105595]] 青少年 conditional confidentiality（2026-05-23 同日；**conditional autonomy 框架** — autonomy 给 adolescent 有例外，本题成人 autonomy 有例外，两题构成"autonomy 总有边界"主题）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3614]] HIPAA verbal consent + minimum necessary disclosure（2026-05-23 同日；**Ethics 四道同日 — 完整 Ethics 框架启动**）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/感染]]（Meningococcal meningitis — droplet precaution + close contact prophylaxis 选择 rifampin / cipro / ceftriaxone）
@@ -18103,14 +18103,14 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q3625]] 公共健康 override autonomy meningococcal（2026-05-23 同日；**autonomy 何时 override vs 何时努力说服** — 本题 IE 没传染第三方 → beneficence 努力说服；那题 meningococcal 传染第三方 → 直接 override）
->   - [[mistakes/uworld-mistakes#^Q105595]] 青少年 conditional confidentiality（2026-05-23 同日；**conditional 框架** — autonomy / privacy 都有 conditional 例外）
->   - [[mistakes/uworld-mistakes#^Q3614]] HIPAA verbal consent（2026-05-23 同日；Ethics 四道同日完整框架）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3625]] 公共健康 override autonomy meningococcal（2026-05-23 同日；**autonomy 何时 override vs 何时努力说服** — 本题 IE 没传染第三方 → beneficence 努力说服；那题 meningococcal 传染第三方 → 直接 override）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q105595]] 青少年 conditional confidentiality（2026-05-23 同日；**conditional 框架** — autonomy / privacy 都有 conditional 例外）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3614]] HIPAA verbal consent（2026-05-23 同日；Ethics 四道同日完整框架）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/感染]]（Right-sided IE + IVDU — septic pulmonary emboli + vancomycin empiric 覆盖 MRSA）
 >   - [[完整笔记/Peixuan分科笔记/psych]]（Opioid use disorder + MAT — methadone / buprenorphine / naltrexone 选择）
-> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 的 4 道之一（详见 [[mistakes/uworld-mistakes#^Q3625]] TODO 优先 1）
+> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 的 4 道之一（详见 [[mistakes/uworld-mistakes_2026-05#^Q3625]] TODO 优先 1）
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做（重点：第一眼识别"withholding 治疗作 leverage = coercion"）
@@ -18200,9 +18200,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q3625]] 公共健康 override autonomy（2026-05-23 同日；**autonomy 的 conditional 边界** — adult 也有例外，adolescent 也有例外）
->   - [[mistakes/uworld-mistakes#^Q18702]] AMA discharge IVDU（2026-05-23 同日；**conditional 而非 unconditional** — autonomy / confidentiality 都不是绝对）
->   - [[mistakes/uworld-mistakes#^Q3614]] HIPAA verbal consent + minimum necessary disclosure（2026-05-23 同日；同 HIPAA 主题 — 本题 HIPAA adolescent 局限 / 那题 HIPAA verbal consent + minimum necessary）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3625]] 公共健康 override autonomy（2026-05-23 同日；**autonomy 的 conditional 边界** — adult 也有例外，adolescent 也有例外）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q18702]] AMA discharge IVDU（2026-05-23 同日；**conditional 而非 unconditional** — autonomy / confidentiality 都不是绝对）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3614]] HIPAA verbal consent + minimum necessary disclosure（2026-05-23 同日；同 HIPAA 主题 — 本题 HIPAA adolescent 局限 / 那题 HIPAA verbal consent + minimum necessary）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/psych]]（adolescent 抑郁 + 物质试用 — screening + suicidality 评估触发 breach 例外）
@@ -18275,9 +18275,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q105595]] 青少年 conditional confidentiality（2026-05-23 同日；**HIPAA 局限** — 那题 HIPAA 不保 adolescent unconditional privacy，本题 HIPAA verbal consent + minimum necessary — 两题构成"HIPAA 实际范围"完整理解）
->   - [[mistakes/uworld-mistakes#^Q3625]] 公共健康 override autonomy（2026-05-23 同日；Ethics 四道同日完整框架）
->   - [[mistakes/uworld-mistakes#^Q18702]] AMA discharge IVDU（2026-05-23 同日；Ethics 四道同日完整框架）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q105595]] 青少年 conditional confidentiality（2026-05-23 同日；**HIPAA 局限** — 那题 HIPAA 不保 adolescent unconditional privacy，本题 HIPAA verbal consent + minimum necessary — 两题构成"HIPAA 实际范围"完整理解）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3625]] 公共健康 override autonomy（2026-05-23 同日；Ethics 四道同日完整框架）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q18702]] AMA discharge IVDU（2026-05-23 同日；Ethics 四道同日完整框架）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/GI]]（Alcoholic hepatitis — Maddrey discriminant function + prednisolone / pentoxifylline）
@@ -18358,16 +18358,16 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q3625]] 公共健康 override autonomy（2026-05-23 同日；**autonomy 例外 ③ lack of capacity** 的细化 — 那题考公共健康例外，本题考 capacity 例外的动态评估）
->   - [[mistakes/uworld-mistakes#^Q18702]] AMA discharge IVDU（2026-05-23 同日；AMA documentation 也需 capacity ✓ 作为前提）
->   - [[mistakes/uworld-mistakes#^Q7283]] Pediatric chronic illness disclosure（2026-05-23 同日；**Ethics 8 道同日完整框架**）
->   - [[mistakes/uworld-mistakes#^Q3624]] Joint custody one parent consent（2026-05-23 同日；同 consent 框架 — 本题 reassess capacity，那题 parent consent 法则）
->   - [[mistakes/uworld-mistakes#^Q19132]] HIV chronic disease disclosure timeline（2026-05-23 同日）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3625]] 公共健康 override autonomy（2026-05-23 同日；**autonomy 例外 ③ lack of capacity** 的细化 — 那题考公共健康例外，本题考 capacity 例外的动态评估）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q18702]] AMA discharge IVDU（2026-05-23 同日；AMA documentation 也需 capacity ✓ 作为前提）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q7283]] Pediatric chronic illness disclosure（2026-05-23 同日；**Ethics 8 道同日完整框架**）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3624]] Joint custody one parent consent（2026-05-23 同日；同 consent 框架 — 本题 reassess capacity，那题 parent consent 法则）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19132]] HIV chronic disease disclosure timeline（2026-05-23 同日）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/psych]]（Delirium / dementia 致 capacity ↓ + assessment 工具）
 >   - [[完整笔记/Peixuan分科笔记/外科]]（DM + PAD wet gangrene → amputation + revascularization 决策）
-> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 的 8 道之一（详见 [[mistakes/uworld-mistakes#^Q3625]] TODO 优先 1）— **8 道已凑齐，强烈建议立即建衍生**
+> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 的 8 道之一（详见 [[mistakes/uworld-mistakes_2026-05#^Q3625]] TODO 优先 1）— **8 道已凑齐，强烈建议立即建衍生**
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做（重点：第一眼锁"曾经 incapacitated 现在改善 = reassess capacity"反射）
@@ -18447,10 +18447,10 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q19132]] HIV chronic disease disclosure timeline（2026-05-23 同日；**完美对照** — 那题 grandmother 不让 disclose HIV → collaborative plan + timeline；本题 parents 不让 disclose ALL prognosis → 先 assess understanding；两题构成"chronic 儿科 disclosure 二步法：先 assess understanding → 再 collaborative plan"）
->   - [[mistakes/uworld-mistakes#^Q3624]] Joint custody one parent consent（2026-05-23 同日；同 Pediatric ethics 主题）
->   - [[mistakes/uworld-mistakes#^Q19048]] Capacity reassessment（2026-05-23 同日；同 "respect 患者 emerging autonomy" 框架）
->   - [[mistakes/uworld-mistakes#^Q105595]] 青少年 conditional confidentiality（2026-05-23 同日；同 pediatric autonomy 推进 + 不能 unconditional promise / 不能 dismiss patient concerns）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19132]] HIV chronic disease disclosure timeline（2026-05-23 同日；**完美对照** — 那题 grandmother 不让 disclose HIV → collaborative plan + timeline；本题 parents 不让 disclose ALL prognosis → 先 assess understanding；两题构成"chronic 儿科 disclosure 二步法：先 assess understanding → 再 collaborative plan"）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3624]] Joint custody one parent consent（2026-05-23 同日；同 Pediatric ethics 主题）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19048]] Capacity reassessment（2026-05-23 同日；同 "respect 患者 emerging autonomy" 框架）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q105595]] 青少年 conditional confidentiality（2026-05-23 同日；同 pediatric autonomy 推进 + 不能 unconditional promise / 不能 dismiss patient concerns）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]] / [[完整笔记/Peixuan分科笔记/儿科]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（B-ALL induction 失败 → consolidation / re-induction / HSCT 评估）
@@ -18539,10 +18539,10 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q7283]] Pediatric chronic illness disclosure（2026-05-23 同日；同 pediatric ethics — 那题 parents withhold info / 本题 parents 不一致 consent）
->   - [[mistakes/uworld-mistakes#^Q19132]] HIV chronic disease disclosure timeline（2026-05-23 同日；同 pediatric ethics — guardian decision-making 框架）
->   - [[mistakes/uworld-mistakes#^Q105595]] 青少年 conditional confidentiality（2026-05-23 同日；同 minor consent 框架 — 本题 minor consent 法则 / 那题 minor confidentiality 法则）
->   - [[mistakes/uworld-mistakes#^Q3625]] 公共健康 override autonomy（2026-05-23 同日；同 court order 误用陷阱 — 两题都是"以为需 court order 实际不需"）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q7283]] Pediatric chronic illness disclosure（2026-05-23 同日；同 pediatric ethics — 那题 parents withhold info / 本题 parents 不一致 consent）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19132]] HIV chronic disease disclosure timeline（2026-05-23 同日；同 pediatric ethics — guardian decision-making 框架）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q105595]] 青少年 conditional confidentiality（2026-05-23 同日；同 minor consent 框架 — 本题 minor consent 法则 / 那题 minor confidentiality 法则）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3625]] 公共健康 override autonomy（2026-05-23 同日；同 court order 误用陷阱 — 两题都是"以为需 court order 实际不需"）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]] / [[完整笔记/Peixuan分科笔记/儿科]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/免疫疫苗]]（Tetanus prophylaxis after wound — TIG + Tdap 决策 based on wound type + vaccination history）
@@ -18629,10 +18629,10 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q7283]] Pediatric chronic illness disclosure — assess understanding first（2026-05-23 同日；**完美互补** — 那题 step 1 = assess understanding，本题 step 3-4 = collaborative plan + joint disclosure；两题构成 chronic 儿科 disclosure 全流程）
->   - [[mistakes/uworld-mistakes#^Q3624]] Joint custody one parent consent（2026-05-23 同日；同 pediatric ethics — guardian decision-making 框架）
->   - [[mistakes/uworld-mistakes#^Q105595]] 青少年 conditional confidentiality（2026-05-23 同日；本题 11-12 岁前 disclose → 进入 adolescence 后 confidentiality 主题接力）
->   - [[mistakes/uworld-mistakes#^Q19048]] Capacity reassessment（2026-05-23 同日；同 "respect emerging autonomy" 框架）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q7283]] Pediatric chronic illness disclosure — assess understanding first（2026-05-23 同日；**完美互补** — 那题 step 1 = assess understanding，本题 step 3-4 = collaborative plan + joint disclosure；两题构成 chronic 儿科 disclosure 全流程）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3624]] Joint custody one parent consent（2026-05-23 同日；同 pediatric ethics — guardian decision-making 框架）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q105595]] 青少年 conditional confidentiality（2026-05-23 同日；本题 11-12 岁前 disclose → 进入 adolescence 后 confidentiality 主题接力）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19048]] Capacity reassessment（2026-05-23 同日；同 "respect emerging autonomy" 框架）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]] / [[完整笔记/Peixuan分科笔记/儿科]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/感染]]（Perinatal HIV transmission → ART since infancy + viral suppression target undetectable + CD4 monitoring）
@@ -18712,14 +18712,14 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题（Ethics 9 道完整框架 — 本卡是第 9 道）：
->   - [[mistakes/uworld-mistakes#^Q19048]] Capacity reassessment（2026-05-23 同日；**同 end-of-life 决策框架** — 那题 capacity 评估前提，本题 surrogate 决定时的中间选项；advanced directive 不指定时 surrogate 用 substituted judgment）
->   - [[mistakes/uworld-mistakes#^Q3625]] 公共健康 override autonomy（2026-05-23 同日；同 autonomy 边界主题）
->   - [[mistakes/uworld-mistakes#^Q18702]] AMA IVDU IE（2026-05-23 同日；同 empathic + collaborative + reframe 主题）
->   - [[mistakes/uworld-mistakes#^Q105595]] 青少年 conditional confidentiality（2026-05-23 同日；Ethics 框架）
->   - [[mistakes/uworld-mistakes#^Q3614]] HIPAA disclosure（2026-05-23 同日；Ethics 框架）
->   - [[mistakes/uworld-mistakes#^Q7283]] Pediatric chronic illness disclosure - assess understanding（2026-05-23 同日；同 "先 understand → 再 reframe / plan" 框架）
->   - [[mistakes/uworld-mistakes#^Q3624]] Joint custody one parent consent（2026-05-23 同日；Ethics 框架）
->   - [[mistakes/uworld-mistakes#^Q19132]] HIV chronic disease disclosure timeline（2026-05-23 同日；同 collaborative + reframe family concerns 框架）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19048]] Capacity reassessment（2026-05-23 同日；**同 end-of-life 决策框架** — 那题 capacity 评估前提，本题 surrogate 决定时的中间选项；advanced directive 不指定时 surrogate 用 substituted judgment）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3625]] 公共健康 override autonomy（2026-05-23 同日；同 autonomy 边界主题）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q18702]] AMA IVDU IE（2026-05-23 同日；同 empathic + collaborative + reframe 主题）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q105595]] 青少年 conditional confidentiality（2026-05-23 同日；Ethics 框架）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3614]] HIPAA disclosure（2026-05-23 同日；Ethics 框架）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q7283]] Pediatric chronic illness disclosure - assess understanding（2026-05-23 同日；同 "先 understand → 再 reframe / plan" 框架）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3624]] Joint custody one parent consent（2026-05-23 同日；Ethics 框架）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19132]] HIV chronic disease disclosure timeline（2026-05-23 同日；同 collaborative + reframe family concerns 框架）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（Advanced Alzheimer dementia 自然病程 + end-of-life decision）
@@ -18813,11 +18813,11 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题（Ethics 第 10 道）：
->   - [[mistakes/uworld-mistakes#^Q21627]] NEOT end-of-life 3 philosophies（2026-05-23 同日；**advance care planning 的下一步** — 本题启动 advance care planning，那题 advance directive 不指定时用 NEOT 中间地带；两题构成 advance care 全流程：先 plan with patient → 不行才走 surrogate）
->   - [[mistakes/uworld-mistakes#^Q7283]] Pediatric ALL chronic illness disclosure - assess understanding（2026-05-23 同日；**同 pediatric chronic illness 三方平衡** — 那题 disclosure 阶段先 assess understanding，本题 planning 阶段 family-centered）
->   - [[mistakes/uworld-mistakes#^Q19132]] Perinatal HIV disclosure - collaborative plan + timeline（2026-05-23 同日；**同 pediatric chronic illness collaborative process** — 那题 disclosure timeline，本题 advance care planning timing；同 "early + collaborative" 主题）
->   - [[mistakes/uworld-mistakes#^Q105595]] Adolescent conditional confidentiality（2026-05-23 同日；**同 adolescent maturing autonomy** — 那题 confidentiality 给 adolescent autonomy，本题 advance care planning 给 adolescent participation；两题构成 adolescent autonomy 推进双面）
->   - [[mistakes/uworld-mistakes#^Q19048]] Capacity reassessment（2026-05-23 同日；同 patient preferences 主题 — 那题 adult capacity 恢复后 supersede，本题 adolescent 有 maturing capacity to participate）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21627]] NEOT end-of-life 3 philosophies（2026-05-23 同日；**advance care planning 的下一步** — 本题启动 advance care planning，那题 advance directive 不指定时用 NEOT 中间地带；两题构成 advance care 全流程：先 plan with patient → 不行才走 surrogate）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q7283]] Pediatric ALL chronic illness disclosure - assess understanding（2026-05-23 同日；**同 pediatric chronic illness 三方平衡** — 那题 disclosure 阶段先 assess understanding，本题 planning 阶段 family-centered）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19132]] Perinatal HIV disclosure - collaborative plan + timeline（2026-05-23 同日；**同 pediatric chronic illness collaborative process** — 那题 disclosure timeline，本题 advance care planning timing；同 "early + collaborative" 主题）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q105595]] Adolescent conditional confidentiality（2026-05-23 同日；**同 adolescent maturing autonomy** — 那题 confidentiality 给 adolescent autonomy，本题 advance care planning 给 adolescent participation；两题构成 adolescent autonomy 推进双面）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19048]] Capacity reassessment（2026-05-23 同日；同 patient preferences 主题 — 那题 adult capacity 恢复后 supersede，本题 adolescent 有 maturing capacity to participate）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]] / [[完整笔记/Peixuan分科笔记/儿科]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/pulmonary]]（CF — chronic life-limiting + FEV1 monitoring + transplant 评估）
@@ -18905,15 +18905,15 @@
 >
 > ## 🤔 我的提问 / 卡点
 > - 卡点："抗胆碱治 EPS"反射太强，没区分急性 vs 慢性 → 学到：抗胆碱**只一线治急性 dystonia**；DIP 是二线辅助；TD **禁用**（反加重）。
-> - 卡点：与 [[mistakes/uworld-mistakes#^Park1-2026-05-22]] DIP 处理同主题 — Park1 错"levodopa"，今日错"benztropine"，两端钓饵都踩过，更印证 DIP 首选 = **减元凶 + 换低 D2** 这一条。
+> - 卡点：与 [[mistakes/uworld-mistakes_2026-05#^Park1-2026-05-22]] DIP 处理同主题 — Park1 错"levodopa"，今日错"benztropine"，两端钓饵都踩过，更印证 DIP 首选 = **减元凶 + 换低 D2** 这一条。
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Park1-2026-05-22]] DIP 处理（5-22 错 — levodopa 是钓饵）— 两题钓饵两端都踩
->   - [[mistakes/uworld-mistakes#^Q2505]] Acute dystonia → benztropine（同 EPS 四联，对照急性 vs 慢性治疗方向）
->   - [[mistakes/uworld-mistakes#^Q11898]] Akathisia → propranolol（同 EPS 四联）
->   - [[mistakes/uworld-mistakes#^Q2518]] TD 处理 → VMAT2 + 换 clozapine（同慢性 EPS 阵营）
->   - [[mistakes/uworld-mistakes#^Q16066]] TD 识别 + EPS 四兄弟
+>   - [[mistakes/uworld-mistakes_2026-05#^Park1-2026-05-22]] DIP 处理（5-22 错 — levodopa 是钓饵）— 两题钓饵两端都踩
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2505]] Acute dystonia → benztropine（同 EPS 四联，对照急性 vs 慢性治疗方向）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q11898]] Akathisia → propranolol（同 EPS 四联）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2518]] TD 处理 → VMAT2 + 换 clozapine（同慢性 EPS 阵营）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q16066]] TD 识别 + EPS 四兄弟
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/neuro]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/消化补充内容]]（metoclopramide / prochlorperazine 长期止吐药也致 DIP / TD）
@@ -19011,7 +19011,7 @@
 > 主题:: USMLE 答案选项策略 ("D = any of the above" 暗号 — 多 first-line 平等的指南题常用此型) / DPN first-line 4 选 1（duloxetine / pregabalin / gabapentin / TCA）按共病副作用个体化 / 老年 TCA 慎用抗胆碱副作用 / "临床首选 vs USMLE 最完整答案" 区分
 > 状态:: 🔴（5-27 浩斯宾 Q21 答对 1 次，连对 2 次可降 🟡 — 见下记录）
 > 错因:: pattern
-> 反复错记录:: 2026-05-24 首次入库 🟡（pattern 反射选熟悉单选 C duloxetine）/ **2026-05-26 浩斯宾 Q2 同题再错**（仍选 C duloxetine，"D = any of above" 暗号没成反射）— 见配对卡 [[mistakes/uworld-mistakes#^Q2-2026-05-26]] / **2026-05-27 浩斯宾 Q21 答对 ✓**（mild CKD eGFR 48 干扰下仍选 D — 识别 CKD 是锦上添花不是 decisive；"D = any of above" 反射首次建立）⭐
+> 反复错记录:: 2026-05-24 首次入库 🟡（pattern 反射选熟悉单选 C duloxetine）/ **2026-05-26 浩斯宾 Q2 同题再错**（仍选 C duloxetine，"D = any of above" 暗号没成反射）— 见配对卡 [[mistakes/uworld-mistakes_2026-05#^Q2-2026-05-26]] / **2026-05-27 浩斯宾 Q21 答对 ✓**（mild CKD eGFR 48 干扰下仍选 D — 识别 CKD 是锦上添花不是 decisive；"D = any of above" 反射首次建立）⭐
 > 升档触发:: 2 次同题 pattern 反射错（5-24 / 5-26）→ 🟡 升 🔴 + 加 #难记；建议建衍生 [[完整笔记/专题笔记/USMLE/USMLE_答案选项策略]]（5 大选项策略 + 各自 stem 触发词 + 真题反射钩库 + Letter Anchor 反 pattern 子节）
 > 降级进度:: 5-27 连对 1 次（Q21）→ 维持 🔴；5-28 再 1 次连对 → 降 🟡
 >
@@ -19145,7 +19145,7 @@
 > | **DNR** (Do Not Resuscitate) | 不复苏 | CPR / defibrillation | **其他所有 standard of care** |
 > | **DNI** (Do Not Intubate) | 不插管 | 气管插管 / 机械通气 | **Non-invasive vent (BiPAP) 仍可 / 其他 treatment 仍做** |
 > | **Comfort care only** | 完全舒缓 | Curative interventions | Pain control + 喂养 + 输液（按需） |
-> | **NEOT** (No Escalation of Treatment — [[mistakes/uworld-mistakes#^Q21627]]) | 不再升级 | 新加 dialysis / 新加 vent / 新加 invasive | 已有 care 继续（不撤） |
+> | **NEOT** (No Escalation of Treatment — [[mistakes/uworld-mistakes_2026-05#^Q21627]]) | 不再升级 | 新加 dialysis / 新加 vent / 新加 invasive | 已有 care 继续（不撤） |
 > | **Withdrawal of life support** | 主动撤 | 撤 vent / 撤 pressor / 撤 dialysis | Comfort measures only |
 >
 > ### 三、Capacity vs Competency（informed consent 的法律 vs 临床区分）
@@ -19211,8 +19211,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q21627]] NEOT — End-of-life 3 philosophies（DNR vs NEOT vs Withdrawal 边界，本题补 DNR 范围限定）
->   - [[mistakes/uworld-mistakes#^Q19048]] Capacity reassessment — capacity 动态恢复 + surrogate ≠ permanent（本题 incoherent 走 wife surrogate，与 Q19048 capacity-reassessment 路径互补）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21627]] NEOT — End-of-life 3 philosophies（DNR vs NEOT vs Withdrawal 边界，本题补 DNR 范围限定）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19048]] Capacity reassessment — capacity 动态恢复 + surrogate ≠ permanent（本题 incoherent 走 wife surrogate，与 Q19048 capacity-reassessment 路径互补）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（Acute ischemic stroke — tPA criteria / 4.5 hr window / contraindications）
@@ -19324,7 +19324,7 @@
 >
 > ## 🤔 我的提问 / 卡点
 > - 卡点：选 D 拖延是因为"给患者时间想清楚"听起来合理 → 学到 complete previa 已 bleed 过一次 = repeat hemorrhage imminent，不能拖；当 medical urgency 存在时延迟决策 = 不负责任 ≠ patient-centered。
-> - 卡点：选 C "和 husband 讨论"看似 collaborative → 学到 autonomy 是患者**自己**的，husband preference 不改医学必要性；推家属代决 = 把 burden 推给家属（同 [[mistakes/uworld-mistakes#^Q3625]] 不让 wife 做 coercion 工具）。
+> - 卡点：选 C "和 husband 讨论"看似 collaborative → 学到 autonomy 是患者**自己**的，husband preference 不改医学必要性；推家属代决 = 把 burden 推给家属（同 [[mistakes/uworld-mistakes_2026-05#^Q3625]] 不让 wife 做 coercion 工具）。
 > - 卡点：B 选项语气"I will only recommend" 听着 paternalistic 不舒服 → 学到 Directive counseling 不是 paternalism；当只有 1 safe option 时**不明说 = 失职**（fail to discharge ethical duty）。患者仍有权 refuse，但 physician 必须**先**给明确推荐。
 >
 > ## 🔗 关联
@@ -19466,8 +19466,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q18702]] IVDU IE AMA — Refuse 端 autonomy（capacity ✓ 可 refuse + 努力说服 → §一 例外 / §三 AMA）— 与本题构成 refuse/demand 双侧对比
->   - [[mistakes/uworld-mistakes#^Q3625]] Meningococcal refuse — Refuse 端 autonomy 4 大例外（公共健康 override）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q18702]] IVDU IE AMA — Refuse 端 autonomy（capacity ✓ 可 refuse + 努力说服 → §一 例外 / §三 AMA）— 与本题构成 refuse/demand 双侧对比
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3625]] Meningococcal refuse — Refuse 端 autonomy 4 大例外（公共健康 override）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]] / [[完整笔记/Peixuan分科笔记/pulmonary]]（USPSTF lung cancer screening 标准）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/pulmonary]] — USPSTF 2021 lung cancer screening 标准（50-80 + 20 pack-year + 戒烟 < 15 年 + LDCT 每年）
@@ -19585,8 +19585,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q3614]] HIPAA employer disclosure — Disclosure SOP（physician → 第三方 release info SOP）；与本题构成 confidentiality 双侧：本题 family → physician（接收）vs Q3614 physician → employer（释放）
->   - [[mistakes/uworld-mistakes#^Q105595]] 青少年 conditional confidentiality — HIPAA 不保 unconditional privacy（5 漏洞）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3614]] HIPAA employer disclosure — Disclosure SOP（physician → 第三方 release info SOP）；与本题构成 confidentiality 双侧：本题 family → physician（接收）vs Q3614 physician → employer（释放）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q105595]] 青少年 conditional confidentiality — HIPAA 不保 unconditional privacy（5 漏洞）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/psych]] — Opioid withdrawal 三联（腹痛 + 呕吐 + 腹泻 + 鼻涕 + lacrimation + 瞳孔散大 + piloerection + yawning）vs 食物中毒鉴别；SUD 沟通策略
@@ -19692,9 +19692,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q21627]] NEOT — End-of-life 3 philosophies + surrogate substituted judgment（家属 reframing 与本题 patient reframing 同框架）
->   - [[mistakes/uworld-mistakes#^Q7283]] Pediatric chronic illness disclosure — 先 assess understanding（§七 阶段 1 同本题 §13.1 阶段 ①）
->   - [[mistakes/uworld-mistakes#^Q19132]] Perinatal HIV disclosure — collaborative plan + timeline + avoid false hope
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21627]] NEOT — End-of-life 3 philosophies + surrogate substituted judgment（家属 reframing 与本题 patient reframing 同框架）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q7283]] Pediatric chronic illness disclosure — 先 assess understanding（§七 阶段 1 同本题 §13.1 阶段 ①）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19132]] Perinatal HIV disclosure — collaborative plan + timeline + avoid false hope
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/hematology oncology]] — Metastatic melanoma 预后（brain mets）+ palliative care
@@ -19814,8 +19814,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q3742]] Collateral Information SOP — Family 想 private 谈（与 IPV partner-related collateral info 衔接）
->   - [[mistakes/uworld-mistakes#^Q105595]] Adolescent confidentiality — IPV 是 breach 例外之一（safety threat）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3742]] Collateral Information SOP — Family 想 private 谈（与 IPV partner-related collateral info 衔接）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q105595]] Adolescent confidentiality — IPV 是 breach 例外之一（safety threat）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]] / [[完整笔记/Peixuan分科笔记/GYN]]（IPV 是 GYN well-woman visit 标配 screening）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/GYN]] — IPV screening 是 well-woman visit / 妇科常规
@@ -19926,9 +19926,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q7283]] Pediatric chronic illness disclosure — 阶段 ① "assess current understanding"（与本题 first step "identify perceptions" 同框架）
->   - [[mistakes/uworld-mistakes#^Q19132]] Perinatal HIV disclosure — Collaborative + culturally sensitive
->   - [[mistakes/uworld-mistakes#^Q21143]] Reframing terminal goals — Wish...worry framework 也基于"先 explore understanding"
+>   - [[mistakes/uworld-mistakes_2026-05#^Q7283]] Pediatric chronic illness disclosure — 阶段 ① "assess current understanding"（与本题 first step "identify perceptions" 同框架）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19132]] Perinatal HIV disclosure — Collaborative + culturally sensitive
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21143]] Reframing terminal goals — Wish...worry framework 也基于"先 explore understanding"
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/psych]] — Cultural formulation interview (CFI) + culturally bound syndromes
@@ -20160,8 +20160,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q21733]] Medication Adherence — Motivational interviewing 是 adherence 7 工具之一（与本题 lifestyle modification MI 同框架）
->   - [[mistakes/uworld-mistakes#^Q21242]] Cross-cultural care — patient-centered counseling first step 框架
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21733]] Medication Adherence — Motivational interviewing 是 adherence 7 工具之一（与本题 lifestyle modification MI 同框架）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21242]] Cross-cultural care — patient-centered counseling first step 框架
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]] / [[完整笔记/Peixuan分科笔记/Biostats_Master]]（USPSTF screening guidelines）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/endocrine]] — Prediabetes management（lifestyle modification first line + metformin if HbA1c >6.0 + high risk）
@@ -20285,8 +20285,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q105595]] 青少年 conditional confidentiality — 5 breach 例外（safety threats / legal mandate / reportable infections）— 本题 child abuse 是 mandatory reporting + safety breach 同 framework
->   - [[mistakes/uworld-mistakes#^Q20531]] IPV Screening — 与 child abuse / elder abuse 同 abuse spectrum + mandatory reporting
+>   - [[mistakes/uworld-mistakes_2026-05#^Q105595]] 青少年 conditional confidentiality — 5 breach 例外（safety threats / legal mandate / reportable infections）— 本题 child abuse 是 mandatory reporting + safety breach 同 framework
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20531]] IPV Screening — 与 child abuse / elder abuse 同 abuse spectrum + mandatory reporting
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]] / [[完整笔记/Peixuan分科笔记/儿科]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/psych]] — Factitious Disorder Imposed on Another / Munchausen 母系 psychopath profile + 治疗
@@ -20421,7 +20421,7 @@
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - （Boundary setting / demanding patient 题家族待积累 — 当前仅本题；未来 medication-seeking / opioid-demanding / 反复无理要求题集中后整合）
->   - [[mistakes/uworld-mistakes#^Q19110]] Emergency exception — 与 boundary crossing "evaluate could be emergency" caving 反 pattern 区分
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19110]] Emergency exception — 与 boundary crossing "evaluate could be emergency" caving 反 pattern 区分
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/psych]] — Borderline personality features + manipulation pattern + therapeutic relationship boundary
@@ -20563,10 +20563,10 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q21143]] Reframing Terminal Goals — wish...worry framework first step "explore understanding"（同 PCC understand patient framework）
->   - [[mistakes/uworld-mistakes#^Q21242]] Cross-cultural Care — identify perceptions first（同 PCC first step）
->   - [[mistakes/uworld-mistakes#^Q22080]] SMART Goals — discuss patient-defined manageable change first（同 PCC patient priorities）
->   - [[mistakes/uworld-mistakes#^Q21733]] Medication Adherence — identify barrier type first（同 understand patient framework）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21143]] Reframing Terminal Goals — wish...worry framework first step "explore understanding"（同 PCC understand patient framework）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21242]] Cross-cultural Care — identify perceptions first（同 PCC first step）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q22080]] SMART Goals — discuss patient-defined manageable change first（同 PCC patient priorities）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21733]] Medication Adherence — identify barrier type first（同 understand patient framework）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/骨科]] — Knee OA 管理（exercise / weight loss / NSAIDs / IA steroid / TKA criteria）
@@ -20635,8 +20635,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q21972]] CAM supplement brand recommendation（2026-05-25 同日；都是 patient feels alienated → physician 用 standard / universal 方式 respond 不 dismissive）
->   - [[mistakes/uworld-mistakes#^Q105595]] 青少年 conditional confidentiality（standard / transparent framework > unconditional promise — 同样是 reframe alleviates concern）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21972]] CAM supplement brand recommendation（2026-05-25 同日；都是 patient feels alienated → physician 用 standard / universal 方式 respond 不 dismissive）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q105595]] 青少年 conditional confidentiality（standard / transparent framework > unconditional promise — 同样是 reframe alleviates concern）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/专题笔记/_衍生_Ethics精简框架]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/psych]]（Opioid Use Disorder + chronic pain management + addiction risk stratification）
@@ -20705,8 +20705,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q22080]] SMART Goals + MI（lifestyle modification → 设 patient-defined goal + open-ended；本题是 confidence-building 与 SMART 相关）
->   - [[mistakes/uworld-mistakes#^Q21733]] Medication adherence interventions（forgetfulness vs ambivalence → automated reminders）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q22080]] SMART Goals + MI（lifestyle modification → 设 patient-defined goal + open-ended；本题是 confidence-building 与 SMART 相关）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21733]] Medication adherence interventions（forgetfulness vs ambivalence → automated reminders）
 > - 📚 主笔记：[[完整笔记/专题笔记/Ethics/Ethics_Communication_Counseling]]（patient communication & counseling frameworks — v2.0 拆分独立文件）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/pulmonary]]（Smoking cessation pharmacotherapy — varenicline 2x durable abstinence；reduce-to-quit strategy）
@@ -20783,7 +20783,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q21242]] Cross-cultural counseling individual encounter（identify perceptions first，不是 materials / scientific）— 本题是 organizational level, 那题是 individual encounter；两题构成 cross-cultural care 完整框架
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21242]] Cross-cultural counseling individual encounter（identify perceptions first，不是 materials / scientific）— 本题是 organizational level, 那题是 individual encounter；两题构成 cross-cultural care 完整框架
 > - 📚 主笔记：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §12.3 Cross-cultural Care
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/psych]]（Cultural formulation interview / DSM-5 cultural concepts of distress）
@@ -20877,7 +20877,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q105781]] Pain contract universal procedure（2026-05-25 同日；都是 patient feels alienated → physician 不要 dismissive/redirect）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q105781]] Pain contract universal procedure（2026-05-25 同日；都是 patient feels alienated → physician 不要 dismissive/redirect）
 > - 📚 主笔记：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §12.14 Nonstandard Harmful Therapy（与本题构成 CAM 双面）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/骨科]]（Knee OA 管理 — exercise + weight loss + NSAID first-line）
@@ -20948,8 +20948,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q21627]] NEOT — substituted judgment + shared values（与本题完全同主题 substituted judgment；那题做对但 🟡 不确定，本题首次错；substituted judgment 知识有 cumulative weakness signal — 建议下次同主题再错升 🔴）
->   - [[mistakes/uworld-mistakes#^Q107705]] DNR ≠ Do Not Treat（surrogate hierarchy + substituted judgment）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21627]] NEOT — substituted judgment + shared values（与本题完全同主题 substituted judgment；那题做对但 🟡 不确定，本题首次错；substituted judgment 知识有 cumulative weakness signal — 建议下次同主题再错升 🔴）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107705]] DNR ≠ Do Not Treat（surrogate hierarchy + substituted judgment）
 > - 📚 主笔记：[[完整笔记/专题笔记/Ethics/Ethics_EOL_Hospice与决策]] §二 End-of-Life §2.5（substituted judgment 指南；v2.0 拆分独立文件）+ [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §二 Surrogate hierarchy
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（Withdrawing dialysis — multi-organ failure / ethical considerations）
@@ -21020,9 +21020,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q3614]] HIPAA verbal consent + minimum necessary（PHI disclosure 类）
->   - [[mistakes/uworld-mistakes#^Q105595]] 青少年 conditional confidentiality（类似 conditional disclosure + alternate）
->   - [[mistakes/uworld-mistakes#^Q3742]] Collateral information（PHI receive vs share 方向）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3614]] HIPAA verbal consent + minimum necessary（PHI disclosure 类）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q105595]] 青少年 conditional confidentiality（类似 conditional disclosure + alternate）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3742]] Collateral information（PHI receive vs share 方向）
 > - 📚 主笔记：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §二 Surrogate hierarchy + §五 HIPAA
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/感染]]（PCP + HIV — initial workup + ART initiation + opportunistic infection prophylaxis + CD4 < 200 → TMP-SMX）
@@ -21276,7 +21276,7 @@
 > Hospice 与 palliative care 的边界 — 误以为 hospice 也可同时接 curative
 >
 > ## 🔗 关联
-> - 🔁 同主题错题：[[mistakes/uworld-mistakes#^Q19553]]（同日 — FMEA prospective）/ [[mistakes/uworld-mistakes#^Q106239]]（同日 — surgical time-out）/ [[mistakes/uworld-mistakes#^Q21477]]（同日 — Swiss Cheese Model）
+> - 🔁 同主题错题：[[mistakes/uworld-mistakes_2026-05#^Q19553]]（同日 — FMEA prospective）/ [[mistakes/uworld-mistakes_2026-05#^Q106239]]（同日 — surgical time-out）/ [[mistakes/uworld-mistakes_2026-05#^Q21477]]（同日 — Swiss Cheese Model）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（§八 End-of-Life — 当前无 hospice eligibility 节，需补）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/hematology oncology]]（晚期癌症 goal-of-care 转折）
 > - 🌱 TODO：本日 4 题 Ethics / Patient Safety 集中错 → 建 [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]]（FMEA / RCA / Control chart / Swiss Cheese / Forcing function / Time-out / Closed-loop / Hospice eligibility 速查）
@@ -21353,7 +21353,7 @@
 > 4 大 QI 工具时间属性没分清 — 默认上来就选 control chart
 >
 > ## 🔗 关联
-> - 🔁 同主题错题：[[mistakes/uworld-mistakes#^Q21141]] / [[mistakes/uworld-mistakes#^Q106239]] / [[mistakes/uworld-mistakes#^Q21477]]（同日 Ethics 4 联）
+> - 🔁 同主题错题：[[mistakes/uworld-mistakes_2026-05#^Q21141]] / [[mistakes/uworld-mistakes_2026-05#^Q106239]] / [[mistakes/uworld-mistakes_2026-05#^Q21477]]（同日 Ethics 4 联）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（当前无 patient safety / QI 工具节，需补）
 > - 🏥 跨学科：无（纯系统层）
 > - 🌱 TODO：建 [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]]（4 大工具时间轴 + 关键词 + Swiss Cheese / Forcing function）
@@ -21431,7 +21431,7 @@
 > Patient safety 干预的"对症选择"反射没建立 — 看到 "team / safety" 就拍 hierarchy
 >
 > ## 🔗 关联
-> - 🔁 同主题错题：[[mistakes/uworld-mistakes#^Q21141]] / [[mistakes/uworld-mistakes#^Q19553]] / [[mistakes/uworld-mistakes#^Q21477]]（同日 Ethics 4 联）
+> - 🔁 同主题错题：[[mistakes/uworld-mistakes_2026-05#^Q21141]] / [[mistakes/uworld-mistakes_2026-05#^Q19553]] / [[mistakes/uworld-mistakes_2026-05#^Q21477]]（同日 Ethics 4 联）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/外科]]（surgical workflow / Universal Protocol）
 > - 🌱 TODO：建 [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] 时纳入"干预对症表"（打断 → time-out / 权威 → flatten / 沟通 → closed-loop / 复杂新技能 → simulation）
@@ -21511,7 +21511,7 @@
 > SCM vs forcing function 边界没分清 — "hard stops" 听起来像"多层防护"导致选错
 >
 > ## 🔗 关联
-> - 🔁 同主题错题：[[mistakes/uworld-mistakes#^Q21141]] / [[mistakes/uworld-mistakes#^Q19553]] / [[mistakes/uworld-mistakes#^Q106239]]（同日 Ethics 4 联）
+> - 🔁 同主题错题：[[mistakes/uworld-mistakes_2026-05#^Q21141]] / [[mistakes/uworld-mistakes_2026-05#^Q19553]] / [[mistakes/uworld-mistakes_2026-05#^Q106239]]（同日 Ethics 4 联）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]（§十二 / forcing function 已有 hard stop 记忆词，但 SCM 章节缺）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/感染]]（infection control bundle = SCM 典型应用）
 > - 🌱 TODO：建 [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]]（必含 SCM / Forcing function / Automation / PDSA 模型对照 + FMEA / RCA / Control chart / Near-miss 时间轴 + Time-out / Closed-loop / Hierarchy 干预对症表 + Hospice eligibility）
@@ -21571,7 +21571,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q19553]] FMEA vs Control chart（同主题 — 那题是 prospective FMEA，本题是 retrospective RCA — 时间方向反向）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19553]] FMEA vs Control chart（同主题 — 那题是 prospective FMEA，本题是 retrospective RCA — 时间方向反向）
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]]（§二 QI 工具 + §13.12 Analysis Frameworks）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]
 > - 🌱 TODO：衍生 §13.12 加 **AMBOSS 4 工具完整表**（含 Common cause analysis — 当前衍生只 cover RCA/FMEA/M&M，缺 Common cause analysis 子节）
@@ -21588,7 +21588,7 @@
 > 主题:: RCA 目的（identify underlying causes of past events，不是 future vulnerabilities — 与 FMEA 时间方向相反）
 > 状态:: 🟡 + #考前必看（5-24 + 5-25 + 5-27 连续 3 次错 → 5-28 浩斯宾 Q20 第 4 次 ✓ 反射建立 — 识破 A 选项"future vulnerabilities" FMEA 语言钓饵选 C；🔴 → 🟡 + 取消 #难记 + 保留 #考前必看 巩固，连对 1 次再 1 完全 🟢）⭐⭐⭐
 > 错因:: pattern（字眼陷阱反射 — "future + potentially + vulnerabilities"三连）
-> 反复错记录:: 2026-05-24 [[mistakes/uworld-mistakes#^Q19553]] FMEA prospective 错（混 RCA/FMEA 时间方向） / 2026-05-25 入库 🔴（选 B "system vulnerabilities ... future" — 把 FMEA 句式当 RCA） / **2026-05-27 浩斯宾 Q8 又错**（选 A "future infusion-pump programming errors" — 同字眼陷阱再踩）= 第 3 次同型错；见配对卡 [[mistakes/uworld-mistakes#^Q8-2026-05-27]]
+> 反复错记录:: 2026-05-24 [[mistakes/uworld-mistakes_2026-05#^Q19553]] FMEA prospective 错（混 RCA/FMEA 时间方向） / 2026-05-25 入库 🔴（选 B "system vulnerabilities ... future" — 把 FMEA 句式当 RCA） / **2026-05-27 浩斯宾 Q8 又错**（选 A "future infusion-pump programming errors" — 同字眼陷阱再踩）= 第 3 次同型错；见配对卡 [[mistakes/uworld-mistakes_2026-05#^Q8-2026-05-27]]
 > 升档触发:: 第 3 次同型错 + 字眼陷阱反射钩完全未建立 → 加 #考前必看 + 加 #难记；衍生 [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.12 必须加 "RCA-FMEA 字眼陷阱反射钩"子节
 
 > [!example]- [2026-05-25] Ethics / Home Health Care 适应症（medically stable + homebound + skilled needs，不是住院 / SNF）(Q20431)
@@ -21902,7 +21902,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q22080]] SMART + MI（同主题 — patient-centered 减 unnecessary intervention）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q22080]] SMART + MI（同主题 — patient-centered 减 unnecessary intervention）
 > - 📚 主笔记：[[完整笔记/专题笔记/Ethics/Ethics_Communication_Counseling]] §12.6 PCC First Step Subjective Experience（同哲学 — 不 jump to 诊断 / 治疗，先 address patient's subjective experience）+ §12.13 Antibiotic Stewardship（同型 — patient demand unnecessary intervention，counseling 减 request）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/骨科]]（low back pain red flags + imaging indications）
 > - 🌱 TODO：累积 ≥ 3 道"patient demand unnecessary intervention"题 → 衍生 Ethics_Communication_Counseling 加 §12.35 "Patient Demands for Unnecessary Workup — Specific Concern Counseling"（含 imaging / abx / specialist referral / med 4 子场景）
@@ -21931,7 +21931,7 @@
 > ## 核心概念
 > **DPN first-line = duloxetine / pregabalin / gabapentin / TCA 4 选 1 平等**（ADA/AAN 2024）；按共病 + 副作用谱个体化。USMLE 此型选项 "**D = any of the above**" **通常就是答案**（出题测多 first-line 平等，不是单一首选）。
 >
-> Answer：**D**（与 [[mistakes/uworld-mistakes#^Q19-2026-05-24]] 完全同型）
+> Answer：**D**（与 [[mistakes/uworld-mistakes_2026-05#^Q19-2026-05-24]] 完全同型）
 >
 > ## 普适规则
 >
@@ -21982,7 +21982,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q19-2026-05-24]] **完全同题 — 5-24 first 错 / 5-26 reflex 再错 = 反复错升 🔴 触发**
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19-2026-05-24]] **完全同题 — 5-24 first 错 / 5-26 reflex 再错 = 反复错升 🔴 触发**
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]（答题策略章节待建）/ [[完整笔记/Peixuan分科笔记/endocrine]]（DM 神经病变 first-line）/ [[完整笔记/Peixuan分科笔记/neuro]]（神经病理性疼痛药 — DPN / 三叉神经痛 / PHN 同 first-line 谱）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Biostats_Master]] — Test-taking strategies（多个 first-line 题型 + 选项形态识别）
 > - 🌱 TODO：**第 2 次错触发** → 建 [[完整笔记/专题笔记/USMLE/USMLE_答案选项策略]] 衍生（5 大选项策略 + 各自 stem 触发词 + 真题反射钩库）
@@ -22067,12 +22067,12 @@
 >
 > ## 🤔 我的提问 / 卡点
 > - 卡点：被 "tracking 是好习惯" 反射吸引 → 学到 SMART goal 是 **anchor**；没 anchor 的 tracking + log 没意义（不知道在 measure 什么、不知道达标线）
-> - 关联：[[mistakes/uworld-mistakes#^Q22080]] Q22080 (5-24) 同一题但选项不同 — 那次我做对 B（直接 set goal）；今天 stem 微调（明显放 tracking 选项作干扰）就被钓了
+> - 关联：[[mistakes/uworld-mistakes_2026-05#^Q22080]] Q22080 (5-24) 同一题但选项不同 — 那次我做对 B（直接 set goal）；今天 stem 微调（明显放 tracking 选项作干扰）就被钓了
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q22080]] (5-24) — 同 SMART goal first step 题；那次我做对 B，今天换 stem 变错 = pattern 没建立
->   - [[mistakes/uworld-mistakes#^Q21733]] (5-24) — Medication adherence MI（lifestyle modification + MI 同框架）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q22080]] (5-24) — 同 SMART goal first step 题；那次我做对 B，今天换 stem 变错 = pattern 没建立
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21733]] (5-24) — Medication adherence MI（lifestyle modification + MI 同框架）
 > - 📚 主笔记：[[完整笔记/专题笔记/Ethics/Ethics_Communication_Counseling]] §13.5 SMART Goals + Motivational Interviewing / [[完整笔记/Peixuan分科笔记/Ethics_Master]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/endocrine]]（prediabetes lifestyle modification first-line）/ [[完整笔记/Peixuan分科笔记/心内]]（HTN lifestyle + preexercise CV testing 标准）
 > - 🌱 TODO：累积 3+ 道 SMART / MI / behavioral change 题 → 衍生 [[完整笔记/专题笔记/USMLE/USMLE_Behavioral_Change_SMART_MI]]（stages of change + relapse prevention + 详细 MI 技术）
@@ -22170,9 +22170,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q12152]] **本卡配对** — PD ψ Step 5 5-23 首错（选 ECT）/ 5-25 答对 / 5-26 又错（选 stop levodopa）= 错点维度从 1 → 2，反复错状态加深
->   - [[mistakes/uworld-mistakes#^Park1-2026-05-22]] DIP 处理（5-22 错 levodopa）— 5-22 在 DIP 中错"加 levodopa"；本题在 PD ψ 中错"减 levodopa" — **levodopa 的"该加 / 该减"边界**两端都踩过
->   - [[mistakes/uworld-mistakes#^Q16164]] PD ψ 第 4 步减药（5-22）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q12152]] **本卡配对** — PD ψ Step 5 5-23 首错（选 ECT）/ 5-25 答对 / 5-26 又错（选 stop levodopa）= 错点维度从 1 → 2，反复错状态加深
+>   - [[mistakes/uworld-mistakes_2026-05#^Park1-2026-05-22]] DIP 处理（5-22 错 levodopa）— 5-22 在 DIP 中错"加 levodopa"；本题在 PD ψ 中错"减 levodopa" — **levodopa 的"该加 / 该减"边界**两端都踩过
+>   - [[mistakes/uworld-mistakes_2026-05#^Q16164]] PD ψ 第 4 步减药（5-22）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]]
 > - 🏥 跨学科：[[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]]（与 DIP / TD / akathisia / acute dystonia 同 antipsychotic 谱）
 > - 🌱 TODO：[[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]] **增量补 "Levodopa 不减 + NMS-like 风险" 子节** ⭐（含 5-26 钓饵反 pattern + 替代 vs 激动剂边界）
@@ -22365,10 +22365,10 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q19553]] FMEA prospective（5-25）— 同 QI 工具配对题家族
->   - [[mistakes/uworld-mistakes#^Q22581]] RCA — Identify underlying causes（5-25）— 同 QI 工具家族
->   - [[mistakes/uworld-mistakes#^Q21477]] Swiss Cheese Model（5-25）— 同 patient safety
->   - [[mistakes/uworld-mistakes#^Q106239]] Surgical Time-out（5-25）— 同 patient safety
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19553]] FMEA prospective（5-25）— 同 QI 工具配对题家族
+>   - [[mistakes/uworld-mistakes_2026-05#^Q22581]] RCA — Identify underlying causes（5-25）— 同 QI 工具家族
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21477]] Swiss Cheese Model（5-25）— 同 patient safety
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106239]] Surgical Time-out（5-25）— 同 patient safety
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §二 QI 工具 / §13.12 Analysis Frameworks（RCA + Fishbone + 5 Whys + M&M + FMEA 对照）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（Quality improvement + Patient safety 章节）
 > - 🌱 TODO：fishbone diagram 视觉结构（3 大组件 + 鱼骨示意）已在 §13.12，可考虑加 USMLE_患者安全与质量改进工具 §二.x 加 fishbone vs Lean 对照子节（5-26 错点驱动）
@@ -22578,8 +22578,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q106764]] **linked vignette Item 1 of 2 同 stem family**（cognitive bias framing）— 做对，但**警示**：linked vignette ≠ 同主题
->   - [[mistakes/uworld-mistakes#^Q22061]] 减 unnecessary imaging request（5-25 — 同 quality improvement）— specific exam + commentary 减 overuse
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106764]] **linked vignette Item 1 of 2 同 stem family**（cognitive bias framing）— 做对，但**警示**：linked vignette ≠ 同主题
+>   - [[mistakes/uworld-mistakes_2026-05#^Q22061]] 减 unnecessary imaging request（5-25 — 同 quality improvement）— specific exam + commentary 减 overuse
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §12 Healthcare Quality 框架 / §12.4 Cost-conscious + ASPs
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（Quality / Cost / Liability）
 > - 🌱 TODO：累积 3+ 道 defensive medicine / clinical pathway / cost-quality 题 → 在 USMLE_患者安全与质量改进工具 §12.x 加 "Defensive medicine 处理 SOP" 子节（含 5 反 pattern + standard of care 逻辑）
@@ -22672,7 +22672,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q106765]] **linked vignette Item 2 of 2 同 stem family**（defensive medicine — 我错了，把 cognitive bias 反射跨题）⚠️
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106765]] **linked vignette Item 2 of 2 同 stem family**（defensive medicine — 我错了，把 cognitive bias 反射跨题）⚠️
 >   - （Cognitive bias 题家族待积累 — anchoring / availability / confirmation / premature closure）
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.4 Cognitive Biases / §13.4.1 4 大经典 Cognitive Bias 速查表（v1.3.5 + v1.3.7 Anchoring vs Framing 深度区分 / v1.3.8 二次深化）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（diagnostic error）/ [[完整笔记/Peixuan分科笔记/Biostats_Master]]（selection bias vs cognitive bias 区分）
@@ -22826,9 +22826,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q21477]] Swiss Cheese Model（5-25 — 同 patient safety 多层防御）
->   - [[mistakes/uworld-mistakes#^Q106239]] Surgical Time-out（5-25）
->   - [[mistakes/uworld-mistakes#^Q23111]] Healthcare quality team-based efforts（同日 5-26 — 同 quality improvement 家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21477]] Swiss Cheese Model（5-25 — 同 patient safety 多层防御）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106239]] Surgical Time-out（5-25）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q23111]] Healthcare quality team-based efforts（同日 5-26 — 同 quality improvement 家族）
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §5.1 Just Culture / §5.4 Hand Hygiene Case Study + Just Culture 时序原则（**v1.3.6 锚定本卡 Q106042**）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/感染]]（HAI 预防 + 5 时机 WHO）
 > - 🌱 TODO：本卡已被衍生 v1.3.6 完整锚定（§5.4），无需新增量
@@ -22904,7 +22904,7 @@
 > | **Near miss** | 差点出事但拦下 | Penicillin allergy 被 nurse 拦 |
 > | **Sentinel event** | 死亡 / 严重伤害 / 永久功能丧失 | Wrong-site surgery |
 >
-> **关键**：Variations **本身就是 quality 问题**，即使无 adverse event — 需要 team-based intervention 减 variation（同 5-25 [[mistakes/uworld-mistakes#^Q106290]] data-driven feedback）。
+> **关键**：Variations **本身就是 quality 问题**，即使无 adverse event — 需要 team-based intervention 减 variation（同 5-25 [[mistakes/uworld-mistakes_2026-05#^Q106290]] data-driven feedback）。
 >
 > ### Stem 细节解读 — Decisive vs 锦上添花 ⭐⭐⭐（普适反射钩，2026-05-26 追加）
 >
@@ -22975,8 +22975,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q106042]] Hand hygiene + just culture（同日 5-26 — 同 systems improvement 家族）
->   - [[mistakes/uworld-mistakes#^Q21753]] Lean methodology no-show（同日 5-26 — 同 QI methodology 家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106042]] Hand hygiene + just culture（同日 5-26 — 同 systems improvement 家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21753]] Lean methodology no-show（同日 5-26 — 同 QI methodology 家族）
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §6.5 Collaboration and Teamwork 框架 / §12.7 Variation Reduction Strategy
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（healthcare quality + 系统改进）
 > - 🌱 TODO：累积 3+ 道 systemic quality concern + team-based response 题 → 在 §6.5 加 "Healthcare quality concerns 处理优先级" 子节
@@ -23058,9 +23058,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q21970]] Fishbone diagram（同日 5-26 — 同 QI 工具配对家族）
->   - [[mistakes/uworld-mistakes#^Q19553]] FMEA prospective（5-25）
->   - [[mistakes/uworld-mistakes#^Q22581]] RCA（5-25）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21970]] Fishbone diagram（同日 5-26 — 同 QI 工具配对家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19553]] FMEA prospective（5-25）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q22581]] RCA（5-25）
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §2.7 Six Sigma + Lean / §2.4 PDSA / §三 防御金字塔 Swiss Cheese
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（QI methodology 速查）
 > - 🌱 TODO：在 USMLE_患者安全与质量改进工具 §2.x 加 "QI Processes 4 联表（Model for Improvement / Lean / Six Sigma / Change management）"（AMBOSS table 完整版 — 当前 §2.7 只有 Lean + Six Sigma 简版）
@@ -23155,7 +23155,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q106764]] Framing bias（同日 5-26 — 同 cognitive / unconscious bias 家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106764]] Framing bias（同日 5-26 — 同 cognitive / unconscious bias 家族）
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.4 Cognitive Biases / §13.3 Risk Factors for Medical Errors（HCP-associated bias）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（health disparities + minority care）
 > - 🌱 TODO：累积 3+ 道 implicit bias / health disparities 题 → 在 §13.4.x 加 "Implicit bias 3 大管理 + 4 反 pattern" 子节（含 Joint Commission framework + IAT 工具）
@@ -23240,8 +23240,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q19739]] **本卡同 effective team 框架**（Q19739 是 senior resident pressure junior med student → hierarchy + intimidation → poor teamwork → PPH；同 6 元素表锚定，强调 psychologic safety）
->   - [[mistakes/uworld-mistakes#^Q18751]] Wrong patient error → interprofessional rounds（同日 5-26 — 同 teamwork 家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19739]] **本卡同 effective team 框架**（Q19739 是 senior resident pressure junior med student → hierarchy + intimidation → poor teamwork → PPH；同 6 元素表锚定，强调 psychologic safety）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q18751]] Wrong patient error → interprofessional rounds（同日 5-26 — 同 teamwork 家族）
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §6.5.3 Teamwork and Mutual Support / **Features of Effective Teams 6 元素表（v1.3.3 锚定 Q19739 + Q23112 双锚）**
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（团队合作 + 系统改进）
 > - 🌱 TODO：本卡已被衍生 §6.5.3 完整覆盖，无需新增量；可考虑给 6 元素表加 Q23112 锚定标注
@@ -23354,9 +23354,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q22581]] RCA principles + 4 工具对照（5-25）— 同 RCA framework
->   - [[mistakes/uworld-mistakes#^Q23112]] Effective team functioning（同日 5-26 — interprofessional rounds 应用层面）
->   - [[mistakes/uworld-mistakes#^Q21477]] Swiss Cheese Model（5-25）— 同 patient safety system 思路
+>   - [[mistakes/uworld-mistakes_2026-05#^Q22581]] RCA principles + 4 工具对照（5-25）— 同 RCA framework
+>   - [[mistakes/uworld-mistakes_2026-05#^Q23112]] Effective team functioning（同日 5-26 — interprofessional rounds 应用层面）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21477]] Swiss Cheese Model（5-25）— 同 patient safety system 思路
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.12 Analysis Frameworks（RCA + Fishbone + 5 Whys + M&M + FMEA + Common Cause Analysis 4 工具对照）/ §4.1 Sentinel event 定义 + 强制流程 / §6.5 Collaboration framework
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（patient safety + sentinel event reporting）
 > - 🌱 TODO：本卡已被衍生 §13.12 + §4.1 完整覆盖，可加 WPE → interprofessional rounds 流程图作为 §13.12 子节
@@ -23470,8 +23470,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q106289]] Variation Reduction Strategy — Data-driven feedback（5-25 area — 同 process variation 概念）
->   - [[mistakes/uworld-mistakes#^Q106290]] Variation Reduction Strategy（同上）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106289]] Variation Reduction Strategy — Data-driven feedback（5-25 area — 同 process variation 概念）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106290]] Variation Reduction Strategy（同上）
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §12.2 Donabedian Model — 5 类 Healthcare Quality Measures（Structural / Process / Outcome / Balancing / Composite）/ §12.7 Variation Reduction Strategy
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/Biostats_Master]]（quality measurement statistics）
 > - 🌱 TODO：本卡已被衍生 §12.2 完整覆盖；可考虑加 "Outcome 不变时诊断顺序" 子节（process first → structural → patient factors）
@@ -23561,7 +23561,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q19684]] Closed-loop verbal order communication（同日 5-26 — 同 closed-loop 家族但不同应用）⭐ 串联点：handoff selective read-back vs verbal order universal read-back
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19684]] Closed-loop verbal order communication（同日 5-26 — 同 closed-loop 家族但不同应用）⭐ 串联点：handoff selective read-back vs verbal order universal read-back
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §6.4 I-PASS — 住院医交接框架 / §6.2 Closed-loop communication
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（patient safety + communication breakdown）
 > - 🌱 TODO：在 §6.4 加 "Reducing Errors in Patient Handoffs — 3 优化 + 6 best practices + 3 反 pattern" 子节（含 selective vs universal read-back 区分）⭐
@@ -23751,8 +23751,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q107151]] Fall risk screening tool low PPV（同 vignette 家族 — Item 1 of 2 of next pair）
->   - [[mistakes/uworld-mistakes#^Q107152]] Tailored fall prevention strategy（同 vignette Item 2 — bed alarm 反 pattern 第二次出现）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107151]] Fall risk screening tool low PPV（同 vignette 家族 — Item 1 of 2 of next pair）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107152]] Tailored fall prevention strategy（同 vignette Item 2 — bed alarm 反 pattern 第二次出现）
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.9 HAC Falls（待扩 §13.9.1）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（delirium / dementia management — 夜亮 worsens delirium）
@@ -23830,10 +23830,10 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q21656]] PPV NPV vs Prevalence（同 PPV 与 prevalence 关系）
->   - [[mistakes/uworld-mistakes#^Q107214]] LR+ 阳性似然比（同 screening 评估家族）
->   - [[mistakes/uworld-mistakes#^Q107800]] ROC 最佳 cutoff（同 screening 设计家族）
->   - [[mistakes/uworld-mistakes#^Q107152]] **linked vignette Item 2 of 2 同 stem family**（fall prevention strategy）— 我错了，没把 Item 1 的"80%"用在 Item 2 ⚠️
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21656]] PPV NPV vs Prevalence（同 PPV 与 prevalence 关系）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107214]] LR+ 阳性似然比（同 screening 评估家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107800]] ROC 最佳 cutoff（同 screening 设计家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107152]] **linked vignette Item 2 of 2 同 stem family**（fall prevention strategy）— 我错了，没把 Item 1 的"80%"用在 Item 2 ⚠️
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]（PPV/NPV/prevalence 关系）/ [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.9 HAC Falls
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（quality improvement + screening tool 设计）
 > - 🌱 TODO：本卡为做对题，无需新衍生；但 Item 2 (Q107152) 的关联中要标出"Item 1 的 80% 是 Item 2 的 decisive context"
@@ -23924,10 +23924,10 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q107151]] **linked vignette Item 1 of 2**（Biostats PPV）⭐ 串联点：Item 1 的 80% 是 Item 2 的 decisive context
->   - [[mistakes/uworld-mistakes#^Q107149]] Direct supervision for falls（同日 5-26 — 同 fall prevention 家族；同强调 bed alarm 反 pattern）
->   - [[mistakes/uworld-mistakes#^Q23111]] Stem 细节 Decisive vs 锦上添花（**同方法论** — 80% 是 decisive，AMBOSS 推荐是锦上添花）
->   - [[mistakes/uworld-mistakes#^Q106765]] Linked vignette Item 2 不能 reflex-match（同陷阱：linked vignette 跨题逻辑）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107151]] **linked vignette Item 1 of 2**（Biostats PPV）⭐ 串联点：Item 1 的 80% 是 Item 2 的 decisive context
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107149]] Direct supervision for falls（同日 5-26 — 同 fall prevention 家族；同强调 bed alarm 反 pattern）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q23111]] Stem 细节 Decisive vs 锦上添花（**同方法论** — 80% 是 decisive，AMBOSS 推荐是锦上添花）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106765]] Linked vignette Item 2 不能 reflex-match（同陷阱：linked vignette 跨题逻辑）
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §1.1 Decisive vs 锦上添花（待加 Q107152 案例）/ §13.9 HAC Falls（待扩 §13.9.1）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Biostats_Master]]（Item 1 PPV 是 Item 2 context source）
 > - 🌱 TODO：
@@ -24040,9 +24040,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q107152]] Tailored fall prevention — wristbands 80% 都贴失效（同"工具靠 discrimination 在 high prev 群失效"原理）⭐
->   - [[mistakes/uworld-mistakes#^Q107149]] Direct supervision for falls（同 evidence-based 训练 / 人 > 机器）
->   - [[mistakes/uworld-mistakes#^Q23111]] Stem 细节 Decisive vs 锦上添花（**同方法论**）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107152]] Tailored fall prevention — wristbands 80% 都贴失效（同"工具靠 discrimination 在 high prev 群失效"原理）⭐
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107149]] Direct supervision for falls（同 evidence-based 训练 / 人 > 机器）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q23111]] Stem 细节 Decisive vs 锦上添花（**同方法论**）
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.13 SBT（待升级 — 加 unpredictable emergency 反射钩 + Q105800 锚）/ §1.1 Decisive vs 锦上添花
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/OB]]（shoulder dystocia maneuvers 详解 — McRoberts/suprapubic/posterior arm/Wood's screw/Zavanelli）/ [[完整笔记/Peixuan分科笔记/儿科]]（neonatal brachial plexus injury 后遗症）
 > - 🌱 TODO：主笔记 §13.13 升级（次要考点 → 高频考点）；§1.1 Decisive vs 锦上添花扩展场景表加 "Unpredictable OB emergency 行"
@@ -24137,8 +24137,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q19718]] Look-alike vial 错浓度（同 HFE — 用 environment + standardization 防）
->   - [[mistakes/uworld-mistakes#^Q18754]] CDSS automation 防 medication error（同 HFE Highest 档）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19718]] Look-alike vial 错浓度（同 HFE — 用 environment + standardization 防）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q18754]] CDSS automation 防 medication error（同 HFE Highest 档）
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.6 HFE 5 methods 3 档分级（已建 — Q19718 锚；本卡 Q105825 加锚 standardization 档）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（systems-based safety + medication error prevention）
 > - 🌱 TODO：主笔记 §13.6 加 Q105825 锚定 standardization 档（"weight kg-only"经典例）
@@ -24311,8 +24311,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q106239]] Time-out 防 RSO（同 time-out 家族 — surgical counting time-out）
->   - [[mistakes/uworld-mistakes#^Q19684]] Closed-loop verbal order communication（同 patient safety + communication 家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106239]] Time-out 防 RSO（同 time-out 家族 — surgical counting time-out）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19684]] Closed-loop verbal order communication（同 patient safety + communication 家族）
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §3.3 Time-out 详解（已建 — 待加 3 要素 explicit 速查表 + Q107227 锚）/ §6.3 Time-out / Universal Protocol
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/外科]]（surgical safety + universal protocol）
 > - 🌱 TODO：主笔记 §3.3 加 Time-out 3 要素 explicit 速查表 + Q107227 锚定
@@ -24415,7 +24415,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q13465]] Elder abuse identification（同 abuse 家族 — adult version）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q13465]] Elder abuse identification（同 abuse 家族 — adult version）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/儿科]]（child abuse + neglect + Munchausen by proxy）/ [[完整笔记/Peixuan分科笔记/Ethics_Master]]（mandatory reporting）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（trauma-informed care + ACE 不良童年经历）
 > - 🌱 TODO：累积 child abuse + elder abuse + IPV 题 → 整合 [[完整笔记/专题笔记/USMLE/USMLE_Abuse_Identification_Reporting]]（3 abuse 类型 + 红旗信号 + mandatory reporter 流程）
@@ -24509,7 +24509,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q4320]] Child abuse interview patient first（同 abuse 家族 — child version）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4320]] Child abuse interview patient first（同 abuse 家族 — child version）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（elder abuse + mandatory reporting to APS）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/内分泌]]（T2DM 控制突然恶化的鉴别 — adherence / financial / medication issues）
@@ -24578,7 +24578,7 @@
 > |---|---|
 > | "上次同主题题 X 字母是答案" → 反射选 X 字母 | 出题人故意打乱字母位置测真懂还是 anchor |
 > | "题目相似 → 答案字母应相同" | 字母无意义，必须读到具体药名 / 概念 |
-> | 与 [[mistakes/uworld-mistakes#^Q2-2026-05-26]] "D = any of above" anchor 同型 | 都是字母 anchor 陷阱 |
+> | 与 [[mistakes/uworld-mistakes_2026-05#^Q2-2026-05-26]] "D = any of above" anchor 同型 | 都是字母 anchor 陷阱 |
 >
 > ## 易混陷阱（普适）
 >
@@ -24594,7 +24594,7 @@
 > - 选了：**D?**（methylphenidate）
 > - 错因：**pattern（answer letter anchor）**
 > - 核心陷阱：**5-25 Q10 选项排列让 D = antidopaminergic 答对** → 5-27 反射跳 D，但**没读 D 实际药名**（D 换成了 methylphenidate 毒药）
-> - 元错误：与 [[mistakes/uworld-mistakes#^Q2-2026-05-26]] "D = any of above" 同型 字母 anchor 陷阱 — 都不读选项实际内容
+> - 元错误：与 [[mistakes/uworld-mistakes_2026-05#^Q2-2026-05-26]] "D = any of above" 同型 字母 anchor 陷阱 — 都不读选项实际内容
 >
 > ## Memory Hook
 > - **"Tourette 阶梯 = CBIT → α2 → antidopaminergic → DBS；Stimulant 是毒药"** ⭐
@@ -24610,7 +24610,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q2-2026-05-26]] DPN "D = any of above" — 同型字母 anchor 陷阱（不同方向：那题 D 是真答案；本题 D 是钓饵）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2-2026-05-26]] DPN "D = any of above" — 同型字母 anchor 陷阱（不同方向：那题 D 是真答案；本题 D 是钓饵）
 >   - 5-25 Tourette α2 失败题（未标 anchor，做对带卡点 — 见 2026-05-25 节内"Tourette 阶梯升级"卡）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/专题笔记/psych/_衍生_Tourette诊断与治疗]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（Tourette 基底节多巴胺过度）
@@ -24695,9 +24695,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q21477]] Swiss Cheese 5-25 首错（选 hard stops）— **本卡配对** — 5-25 + 5-27 反复错升 🔴
->   - [[mistakes/uworld-mistakes#^Q19553]] FMEA prospective (5-25 同 QI 家族)
->   - [[mistakes/uworld-mistakes#^Q21753]] Lean methodology (5-26 同 QI 家族)
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21477]] Swiss Cheese 5-25 首错（选 hard stops）— **本卡配对** — 5-25 + 5-27 反复错升 🔴
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19553]] FMEA prospective (5-25 同 QI 家族)
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21753]] Lean methodology (5-26 同 QI 家族)
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]]（§二 QI 工具 / §三 防御金字塔 — **必须强化 4 大系统设计模型钉死表 + stem 暗号词**）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/感染]]（infection control bundle = SCM 典型应用）
 > - 🌱 TODO：USMLE_患者安全与质量改进工具 §二.x **加 4 大系统设计模型钉死表**（SCM simultaneously / Hard stop physical / Automation EHR / PDSA cycles + stem 暗号词 + 反 pattern 警示）
@@ -24797,8 +24797,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q22581]] RCA 5-25 同型错 — **本卡配对** — 5-25 + 5-27 同 future vulnerabilities 字眼陷阱
->   - [[mistakes/uworld-mistakes#^Q19553]] FMEA prospective (5-25 — 反向；那题选项 B FMEA 是答案，与 RCA 时间方向相反)
+>   - [[mistakes/uworld-mistakes_2026-05#^Q22581]] RCA 5-25 同型错 — **本卡配对** — 5-25 + 5-27 同 future vulnerabilities 字眼陷阱
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19553]] FMEA prospective (5-25 — 反向；那题选项 B FMEA 是答案，与 RCA 时间方向相反)
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.12 Analysis Frameworks（RCA / FMEA / CCA / M&M）— **必须强化字眼陷阱警示**
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（quality / patient safety）
 > - 🌱 TODO：USMLE_患者安全与质量改进工具 §13.12 **加 "RCA-FMEA 字眼陷阱反射钩"子节** — "future + potentially + vulnerabilities" = FMEA 语言警示 + 4 工具完整表 + stem 时间方向校验 SOP
@@ -24913,9 +24913,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q20431]] Home Health Care 5-25 首错（选 admit）— **本卡配对** — 5-25 + 5-27 反复错升 🔴
->   - [[mistakes/uworld-mistakes#^Q107149]] Inpatient fall prevention (5-26 — 不同设置 inpatient vs discharge home)
->   - [[mistakes/uworld-mistakes#^Q20229]] Telephone outreach readmission (5-25 — 同 patient-side intervention 哲学)
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20431]] Home Health Care 5-25 首错（选 admit）— **本卡配对** — 5-25 + 5-27 反复错升 🔴
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107149]] Inpatient fall prevention (5-26 — 不同设置 inpatient vs discharge home)
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20229]] Telephone outreach readmission (5-25 — 同 patient-side intervention 哲学)
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/专题笔记/Ethics/Ethics_EOL_Hospice与决策]] §2.9 home health care
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/内分泌]]（DM polypharmacy + insulin med management）/ 老年病学
 > - 🌱 TODO：**建** [[完整笔记/专题笔记/Ethics/Ethics_Discharge_Planning速查]]（**Hospital / SNF / Home health / Hospice / Assisted living / Outpatient 6 档完整对照** + 决策树 + 三联触发词 + 红线警示）
@@ -25018,7 +25018,7 @@
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - 待积累（OUD MAT family education / "trading" misconception 类型暂无其他题）
->   - 同一系列 [[mistakes/uworld-mistakes#^Q4320]]（不是同主题但都是 family communication 框架）
+>   - 同一系列 [[mistakes/uworld-mistakes_2026-05#^Q4320]]（不是同主题但都是 family communication 框架）
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/psych/psych_MAT速查]]（MAT 三药对比 — buprenorphine / methadone / naltrexone）
 >   - [[完整笔记/专题笔记/psych/psych_医患沟通对话术SOP]]（family education / misconception 反应框架）
@@ -25132,8 +25132,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q107151]] **Fall screening tool low PPV**（同 fall 系列；5-26 做对）
->   - [[mistakes/uworld-mistakes#^Q107152]] **Tailored fall prevention; bed alarm 反 pattern**（5-26 错；与本题 call alarm 反 pattern 同源 — **第 2 次踩坑**）⚠️
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107151]] **Fall screening tool low PPV**（同 fall 系列；5-26 做对）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107152]] **Tailored fall prevention; bed alarm 反 pattern**（5-26 错；与本题 call alarm 反 pattern 同源 — **第 2 次踩坑**）⚠️
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/骨科]]（osteoporosis / hip fracture / FRAX / DEXA / bisphosphonate）
 >   - [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.9 HAC Falls（待扩 secondary prevention 段）
@@ -25255,9 +25255,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q106764]] **Framing bias case-level**（5-26 做对 — chart-based dx → framing）
->   - [[mistakes/uworld-mistakes#^Q18796]] / [[mistakes/uworld-mistakes#^Q18797]] **4 大 cognitive bias 经典**（anchoring / framing 区分）
->   - [[mistakes/uworld-mistakes#^Q106765]] **Defensive medicine vs cognitive bias 边界**（5-26 错 — linked vignette Item 2）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106764]] **Framing bias case-level**（5-26 做对 — chart-based dx → framing）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q18796]] / [[mistakes/uworld-mistakes_2026-05#^Q18797]] **4 大 cognitive bias 经典**（anchoring / framing 区分）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106765]] **Defensive medicine vs cognitive bias 边界**（5-26 错 — linked vignette Item 2）
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.4（4 大 cognitive bias 已覆盖；待加 cognitive overload = bias enabling factor + 数据题算占比方法）
 >   - [[完整笔记/Peixuan分科笔记/Ethics_Master]]
@@ -25360,9 +25360,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q106048]] **linked vignette Item 1**（cognitive overload root cause 识别 — 5-27 错）
->   - [[mistakes/uworld-mistakes#^Q21477]] Swiss Cheese Model（5-27 错）
->   - [[mistakes/uworld-mistakes#^Q22581]] RCA primary purpose = past events causes（5-27 错 — RCA 边界）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106048]] **linked vignette Item 1**（cognitive overload root cause 识别 — 5-27 错）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21477]] Swiss Cheese Model（5-27 错）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q22581]] RCA primary purpose = past events causes（5-27 错 — RCA 边界）
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.4 cognitive bias + §RCA vs CDSS（待加干预匹配表）
 > - 🏥 跨学科：
@@ -25467,7 +25467,7 @@
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - 待积累（surgical safety / time-out 系列暂无其他题）
->   - [[mistakes/uworld-mistakes#^Q105800]] Shoulder Dystocia simulation-based training（外科 emergency 安全 — 同 patient safety 大主题）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q105800]] Shoulder Dystocia simulation-based training（外科 emergency 安全 — 同 patient safety 大主题）
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]]（待加 §Surgical Safety 三联）
 >   - [[完整笔记/Peixuan分科笔记/外科]]
@@ -25649,7 +25649,7 @@
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - 待积累（Psych safety 题暂无其他卡 — 此为基础题做对）
->   - 同 patient safety 大家族：[[mistakes/uworld-mistakes#^Q22186]] surgical time-out（团队 redundancy）/ [[mistakes/uworld-mistakes#^Q106620]] psych safety（团队 culture）
+>   - 同 patient safety 大家族：[[mistakes/uworld-mistakes_2026-05#^Q22186]] surgical time-out（团队 redundancy）/ [[mistakes/uworld-mistakes_2026-05#^Q106620]] psych safety（团队 culture）
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §1364 Risk factors 3 大类（已含 culture of fear）+ §HRO（待扩 psych safety 详细对照表）
 >   - [[完整笔记/Peixuan分科笔记/Ethics_Master]]
@@ -25745,10 +25745,10 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题（Fall 系列 4 题已成体系）⭐：
->   - [[mistakes/uworld-mistakes#^Q107151]] Fall screening tool low PPV（5-26 做对）
->   - [[mistakes/uworld-mistakes#^Q107152]] Tailored prevention; bed alarm 反 pattern（5-26 错）
->   - [[mistakes/uworld-mistakes#^Q107154]] Bone density secondary prevention; call alarm 反 pattern（5-27 错 🔴）
->   - [[mistakes/uworld-mistakes#^Q107171]] Visual acuity testing multifactorial assessment（本题 ✓）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107151]] Fall screening tool low PPV（5-26 做对）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107152]] Tailored prevention; bed alarm 反 pattern（5-26 错）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107154]] Bone density secondary prevention; call alarm 反 pattern（5-27 错 🔴）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107171]] Visual acuity testing multifactorial assessment（本题 ✓）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/骨科]]（FRAX / osteoporosis / fall risk）
 >   - [[完整笔记/Peixuan分科笔记/眼科]]（cataract / macular degen / dark adaptation）
@@ -25962,7 +25962,7 @@
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - 待积累（human factors engineering 系列 — 此为基础题做对）
->   - Patient safety 大家族：[[mistakes/uworld-mistakes#^Q106049]] CDSS（cognitive overload 减）/ [[mistakes/uworld-mistakes#^Q22186]] surgical time-out / [[mistakes/uworld-mistakes#^Q106620]] psych safety
+>   - Patient safety 大家族：[[mistakes/uworld-mistakes_2026-05#^Q106049]] CDSS（cognitive overload 减）/ [[mistakes/uworld-mistakes_2026-05#^Q22186]] surgical time-out / [[mistakes/uworld-mistakes_2026-05#^Q106620]] psych safety
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]]（待加 §Human Factors Engineering 3 大机制 + Point of Care 原则 + Adherence Strategies 效力排序）
 >   - [[完整笔记/Peixuan分科笔记/感染]]（isolation 4 类）
@@ -26072,11 +26072,11 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q106665]] **linked vignette Item 2 of 2 同 stem family**（解决方案 — Nurse-led debriefings）
->   - [[mistakes/uworld-mistakes#^Q23112]] Effective Team Functioning 6 元素（5-26 做对）
->   - [[mistakes/uworld-mistakes#^Q106764]] Framing bias（5-26 做对 — Cognitive bias 适 individual diagnostic）
->   - [[mistakes/uworld-mistakes#^Q106765]] Defensive medicine（5-26 错 — 同型 Linked vignette ≠ 同主题警示）
->   - [[mistakes/uworld-mistakes#^Q106048]] Cognitive Overload + bias（5-27 — busy ED + bias 是 root cause）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106665]] **linked vignette Item 2 of 2 同 stem family**（解决方案 — Nurse-led debriefings）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q23112]] Effective Team Functioning 6 元素（5-26 做对）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106764]] Framing bias（5-26 做对 — Cognitive bias 适 individual diagnostic）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106765]] Defensive medicine（5-26 错 — 同型 Linked vignette ≠ 同主题警示）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106048]] Cognitive Overload + bias（5-27 — busy ED + bias 是 root cause）
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全_Safety文化与沟通]]（§6.6.5 Psych Safety vs Cognitive Bias 边界表 + §6.6.7 三件套一句话锁 ⭐⭐⭐）/ [[完整笔记/专题笔记/USMLE/USMLE_患者安全_Cognitive诊断错误]]（§13.4 Cognitive Biases）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（teamwork + collaboration）/ [[完整笔记/Peixuan分科笔记/外科]]（OR teamwork dynamics）
 > - 🌱 TODO：本题驱动 USMLE_患者安全_Safety文化与沟通 §6.6.5 **加 "Asymmetric ratings between roles = shared goal mismatch"反 pattern 子节**（与现有 "fear/hesitate = psych safety" + "chart review = framing bias" 反射钩并列）
@@ -26174,11 +26174,11 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q106664]] **linked vignette Item 1 of 2 同 stem family**（错点 — cognitive bias 误归因）
->   - [[mistakes/uworld-mistakes#^Q23112]] Effective Team Functioning 6 元素（5-26 做对 — Collaboration = shared goals + distinct roles）
->   - [[mistakes/uworld-mistakes#^Q106620]] Psych Safety promotes RRT activation（5-27 同 psych safety 家族）
->   - [[mistakes/uworld-mistakes#^Q18751]] WPE → Interprofessional rounds（5-26 同 interprofessional 协作家族）
->   - [[mistakes/uworld-mistakes#^Q21520]] Verbal Handoff sickest first（5-26 同 handoff 家族 — 但 handoff ≠ debriefing 边界）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106664]] **linked vignette Item 1 of 2 同 stem family**（错点 — cognitive bias 误归因）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q23112]] Effective Team Functioning 6 元素（5-26 做对 — Collaboration = shared goals + distinct roles）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106620]] Psych Safety promotes RRT activation（5-27 同 psych safety 家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q18751]] WPE → Interprofessional rounds（5-26 同 interprofessional 协作家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21520]] Verbal Handoff sickest first（5-26 同 handoff 家族 — 但 handoff ≠ debriefing 边界）
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全_Safety文化与沟通]]（§6.5.3 Teamwork + Mutual Support / §6.6 Psych Safety / §6.6.7 三件套一句话锁）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（teamwork + safety culture）/ [[完整笔记/Peixuan分科笔记/外科]]（OR team safety briefings）
 > - 🌱 TODO：USMLE_患者安全_Safety文化与沟通 §6.5.3 **加 "5 大 team safety 工具边界表"**（Time-out / Checklist / Handoff / Debriefing / Closed-loop 各自专属场景 + 反 pattern 互换警示）
@@ -26292,10 +26292,10 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q107154]] 老年 Fall 二级预防 — Bone density 优化（5-27 同 fall prevention 家族 — 不同重点）
->   - [[mistakes/uworld-mistakes#^Q107149]] Inpatient Fall Prevention — Direct line of sight（5-26 — 不同设置 inpatient vs outpatient）
->   - [[mistakes/uworld-mistakes#^Q107151]] / [[mistakes/uworld-mistakes#^Q107152]] Fall screening + Tailored Prevention（5-26 同 fall prevention 家族）
->   - [[mistakes/uworld-mistakes#^Q107171]] Visual Acuity Testing in fall prevention（5-27 sensory 维度）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107154]] 老年 Fall 二级预防 — Bone density 优化（5-27 同 fall prevention 家族 — 不同重点）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107149]] Inpatient Fall Prevention — Direct line of sight（5-26 — 不同设置 inpatient vs outpatient）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107151]] / [[mistakes/uworld-mistakes_2026-05#^Q107152]] Fall screening + Tailored Prevention（5-26 同 fall prevention 家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107171]] Visual Acuity Testing in fall prevention（5-27 sensory 维度）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/骨科]] / [[完整笔记/专题笔记/USMLE/USMLE_老年Fall3层防护]]（如已建）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（geriatric care）/ [[完整笔记/Peixuan分科笔记/心内]]（post-MI ACE-I mortality benefit）/ [[完整笔记/Peixuan分科笔记/内分泌]]（T2DM + vit D）
 > - 🌱 TODO：累积 ≥ 5 道 fall prevention 题（已有 Q107149 + Q107151 + Q107152 + Q107154 + Q107171 + Q107153 = 6 道）→ 在 USMLE_老年Fall3层防护 加 **"Outpatient vs Inpatient 分层 + 5 大 risk factor + Get-Up-Go 测试解读 + Vit D 严格条件 + ACE-I taper 边界"完整体系**
@@ -26397,9 +26397,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q22581]] RCA primary purpose（5-25 + 5-27 反复错 — RCA 是 retrospective + external committee 做）
->   - [[mistakes/uworld-mistakes#^Q19553]] FMEA prospective（5-25 — 4 大 error analysis tools 时间方向）
->   - [[mistakes/uworld-mistakes#^Q18751]] WPE → Interprofessional rounds + RCA（5-26 同 patient safety analysis）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q22581]] RCA primary purpose（5-25 + 5-27 反复错 — RCA 是 retrospective + external committee 做）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19553]] FMEA prospective（5-25 — 4 大 error analysis tools 时间方向）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q18751]] WPE → Interprofessional rounds + RCA（5-26 同 patient safety analysis）
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全_QI工具]] §13.12 Analysis Frameworks
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（quality + safety culture）
 > - 🌱 TODO：USMLE_患者安全_QI工具 §13.12 **加 "ERS vs RCA 边界 + ERS 5 大 effective characteristics 子节"**（IRCSF 缩写 + near-miss 重要性 + ERS 反 pattern 4 类）
@@ -26474,7 +26474,7 @@
 >
 > → 4 信号都指向 **At-risk Behavior → Coaching**（A）
 >
-> ### Just Culture 时序原则联动（§5.4 / [[mistakes/uworld-mistakes#^Q106042]]）
+> ### Just Culture 时序原则联动（§5.4 / [[mistakes/uworld-mistakes_2026-05#^Q106042]]）
 >
 > Coaching at-risk behavior ⭐ **必须 simultaneously address system conditions**（不是单纯改个人）— 这是 Just Culture "先修路再问司机"原则的体现：
 > - 修路 = fix system pressures（more staffing / breaks / different surnames flagged）
@@ -26516,9 +26516,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q106042]] Just Culture 时序原则（5-26 ✓ — Systems first then individual accountability；本题是 individual accountability 层面的 sub-classification）
->   - [[mistakes/uworld-mistakes#^Q106664]] Cognitive bias 误归因 teamwork（5-27 同型 — 都是 individual vs system 边界混淆）
->   - [[mistakes/uworld-mistakes#^Q105825]] HFE Standardization（5-26 ✓ — tPA 160 lb 误入 160 kg 是 system design 错，类似本题 system pressure）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106042]] Just Culture 时序原则（5-26 ✓ — Systems first then individual accountability；本题是 individual accountability 层面的 sub-classification）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106664]] Cognitive bias 误归因 teamwork（5-27 同型 — 都是 individual vs system 边界混淆）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q105825]] HFE Standardization（5-26 ✓ — tPA 160 lb 误入 160 kg 是 system design 错，类似本题 system pressure）
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全_Safety文化与沟通]] §5.1 Just Culture / §5.4 Hand Hygiene Case + Just Culture 时序原则
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]
 > - 🌱 TODO：USMLE_患者安全_Safety文化与沟通 §5.1 **加 "Just Culture 3 大 Behavior Categories 决策树 + 暗号词配对表"** 子节（Q126013 锚 — 当前 §5.1 仅讲 Just Culture 总框架，缺 3 categories sub-classification）
@@ -26621,10 +26621,10 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q20229]] Hospital Readmission Reduction — Telephone outreach（5-25 同 patient-side > provider-side intervention 哲学；时机不同 — discharge 时 vs 出院后）
->   - [[mistakes/uworld-mistakes#^Q19788]] Medication Counseling — Teach-back（5-27 同 high-quality counseling 工具）
->   - [[mistakes/uworld-mistakes#^Q22061]] 减 unnecessary imaging request — specific commentary（5-25 同 patient-centered counseling）
->   - [[mistakes/uworld-mistakes#^Q20431]] Home Health Care 适应症（5-25 + 5-27 反复错 — 同 disposition + 防 readmission）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20229]] Hospital Readmission Reduction — Telephone outreach（5-25 同 patient-side > provider-side intervention 哲学；时机不同 — discharge 时 vs 出院后）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19788]] Medication Counseling — Teach-back（5-27 同 high-quality counseling 工具）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q22061]] 减 unnecessary imaging request — specific commentary（5-25 同 patient-centered counseling）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20431]] Home Health Care 适应症（5-25 + 5-27 反复错 — 同 disposition + 防 readmission）
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全_QI工具]]（§12.x Healthcare Quality）/ [[完整笔记/专题笔记/Ethics/Ethics_Discharge_Planning速查]]（5-27 新建 — 加 Q19909 anchor）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/肺]]（lung nodule follow-up — Fleischner Society guidelines）/ [[完整笔记/Peixuan分科笔记/Ethics_Master]]（transfer of care）
 > - 🌱 TODO：[[完整笔记/专题笔记/Ethics/Ethics_Discharge_Planning速查]] **加 "Transfer of Care + Loss to Follow-up SOP" 子节**（Q19909 锚）+ "Patient-side vs Provider-side Intervention 哲学" 子节（Q19909 + Q20229 + Q22061 + Q19788 multi-anchor 反 pattern：provider-side monitoring 总是 vs patient-centered counseling）
@@ -26759,12 +26759,12 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q106764]] Framing bias chart documentation（5-26 ✓ 但暴露 chart=raw data 卡点）
->   - [[mistakes/uworld-mistakes#^Q106765]] Defensive medicine vs cognitive bias training（5-26 错 — 同 "工具 vs 自我意识" 反 pattern）
->   - [[mistakes/uworld-mistakes#^Q106048]] Cognitive Overload + bias（5-27 — busy ED + bias 是 root cause）
->   - [[mistakes/uworld-mistakes#^Q106049]] CDSS 减 cognitive overload + bias（5-27 同 vignette Item 2 — CDSS 在 Q106049 是正解，本题是错位钓饵）
->   - [[mistakes/uworld-mistakes#^Q106664]] Cognitive bias 误归因 teamwork（5-27 同型 — cognitive bias 边界混淆家族）
->   - [[mistakes/uworld-mistakes#^Q21366]] Implicit bias 3 大管理（5-26 ✓ — 同 metacognition 训练）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106764]] Framing bias chart documentation（5-26 ✓ 但暴露 chart=raw data 卡点）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106765]] Defensive medicine vs cognitive bias training（5-26 错 — 同 "工具 vs 自我意识" 反 pattern）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106048]] Cognitive Overload + bias（5-27 — busy ED + bias 是 root cause）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106049]] CDSS 减 cognitive overload + bias（5-27 同 vignette Item 2 — CDSS 在 Q106049 是正解，本题是错位钓饵）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106664]] Cognitive bias 误归因 teamwork（5-27 同型 — cognitive bias 边界混淆家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21366]] Implicit bias 3 大管理（5-26 ✓ — 同 metacognition 训练）
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全_Cognitive诊断错误]]（§13.4 Cognitive Biases / §13.5 Diagnostic Error Prevention）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（diagnostic error + metacognition）
 > - 🌱 TODO：USMLE_患者安全_Cognitive诊断错误 **加 "Diagnostic Error 防御金字塔 5 层 + 'Tool > Self-awareness' 反 pattern 警示" 子节**（Q19785 锚 — 与 Q106765 + Q106048 + Q106664 形成 "工具 vs 自我意识" multi-anchor 反 pattern 家族）
@@ -26859,8 +26859,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q106885]] COI mitigation — independent analysis 不是 disclosure（同 Research Ethics COI 家族）
->   - [[mistakes/uworld-mistakes#^Q19785]] Metacognition vs CDSS（5-27 — Ethics 反 pattern 家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106885]] COI mitigation — independent analysis 不是 disclosure（同 Research Ethics COI 家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19785]] Metacognition vs CDSS（5-27 — Ethics 反 pattern 家族）
 > - 📚 主笔记：[[完整笔记/专题笔记/Ethics/Ethics_Research_Ethics]]（§Therapeutic misconception + §COI mitigation）/ [[完整笔记/Peixuan分科笔记/Ethics_Master]]（§十四 研究伦理）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Biostats_Master]]（RCT 设计 + randomization + placebo control 概念基础）
 > - 🌱 TODO：Ethics_Research_Ethics **补 "Therapeutic Misconception 处理 SOP + PI-as-treating-physician 边界"** 子节（Q107484 锚 — 钓饵 B "seek care elsewhere" 错位需收录到 §3 易混陷阱）
@@ -26968,7 +26968,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q107484]] PI 双重角色 + 不要求 patient seek care elsewhere（同 "不推走" 反 pattern 家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107484]] PI 双重角色 + 不要求 patient seek care elsewhere（同 "不推走" 反 pattern 家族）
 >   - 待积累更多 difficult patient / angry patient 题
 > - 📚 主笔记：[[完整笔记/专题笔记/Ethics/Ethics_Communication_Counseling]]（§12.20 PEARLS + 待补 §Angry patient SOP）/ [[完整笔记/Peixuan分科笔记/Ethics_Master]]（§十一 Communication）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（情绪应对框架 — anger 可能 mask depression / pain undertreatment / delirium）
@@ -27066,7 +27066,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q21966]] Patient-centered care + medication affordability（同 healthcare quality / systems 家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21966]] Patient-centered care + medication affordability（同 healthcare quality / systems 家族）
 >   - 待积累更多 P4P / ACO / 医保设计题
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（待补 §医疗系统 / Healthcare systems / 支付改革）
 > - 🏥 跨学科：无（纯 healthcare systems / health economics）
@@ -27174,7 +27174,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q21751]] P4P / ACO = 双向优化 cost + quality（同 healthcare systems / quality 家族 — 系统层 vs 患者层互补）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21751]] P4P / ACO = 双向优化 cost + quality（同 healthcare systems / quality 家族 — 系统层 vs 患者层互补）
 >   - 待积累更多 PCC / shared decision-making 题
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（待补 §医疗系统 / PCC / shared decision-making）/ [[完整笔记/专题笔记/Ethics/Ethics_Communication_Counseling]]（PEARLS + 沟通框架）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/pulmonary]]（asthma stepwise management — second-line generic alternate acceptable）
@@ -27324,8 +27324,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题 / 做对题：
->   - [[mistakes/uworld-mistakes#^Q21751]] P4P / ACO = 双向优化 cost + quality（同 Healthcare Systems 家族）
->   - [[mistakes/uworld-mistakes#^Q126839]] Managed care withhold referral COI（同 P4P 反向 — 今日同时入库）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21751]] P4P / ACO = 双向优化 cost + quality（同 Healthcare Systems 家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q126839]] Managed care withhold referral COI（同 P4P 反向 — 今日同时入库）
 > - 📚 主笔记：[[完整笔记/专题笔记/Ethics/Ethics_Healthcare_Systems]]（§2 P4P + ACO / §2.3 STEEEP Equity）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Biostats_Master]]（confounding by SES / community-level factors）
 > - 🌱 TODO：Ethics_Healthcare_Systems **新增 §2.4 P4P Equity 风险**（demographic adjustment SOP + Q106618 锚 + IOM Equity 维度细化）
@@ -27602,8 +27602,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题做对题：
->   - [[mistakes/uworld-mistakes#^Q106618]] P4P 正向 + Equity / Health disparities（同 Healthcare Systems 家族 — 正向 P4P 镜像）
->   - [[mistakes/uworld-mistakes#^Q21751]] P4P / ACO = 双向优化（Healthcare Systems 基础）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106618]] P4P 正向 + Equity / Health disparities（同 Healthcare Systems 家族 — 正向 P4P 镜像）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21751]] P4P / ACO = 双向优化（Healthcare Systems 基础）
 > - 📚 主笔记：[[完整笔记/专题笔记/Ethics/Ethics_Healthcare_Systems]]（§2 P4P — 待新增 §2.5 Managed Care 反向激励 + COI 边界）/ [[完整笔记/Peixuan分科笔记/Ethics_Master]]（§十二 — physician COI 待扩）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/hematology oncology]]（也涉及 oncology referral 时机；RA 属风湿，但跨学科教训：specialist referral 何时 mandatory）
 > - 🌱 TODO：Ethics_Healthcare_Systems **新增 §2.5 Managed Care 反向激励 + Physician COI 边界**（Q126839 锚 — 正向 vs 反向 P4P 对照表 + impermissible 触发线 + 4 大钓饵）
@@ -27677,8 +27677,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题做对题：
->   - [[mistakes/uworld-mistakes#^Q19788]] Teach-back 防 sound-alike drug error（Glucovance vs Glucophage — Medication 层 + teach-back 5-27 ✓）
->   - [[mistakes/uworld-mistakes#^Q107339]] Low Health Literacy subtle clues（§12.17 锚）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19788]] Teach-back 防 sound-alike drug error（Glucovance vs Glucophage — Medication 层 + teach-back 5-27 ✓）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107339]] Low Health Literacy subtle clues（§12.17 锚）
 > - 📚 主笔记：[[完整笔记/专题笔记/Ethics/Ethics_Communication_Counseling]]（§12.17 Low Health Literacy — 待补 ADE 3 层 framework）/ [[完整笔记/专题笔记/USMLE/USMLE_患者安全_HFE与药物HAC]]（药物 HAC 防御）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（zolpidem withdrawal seizure / benzodiazepine-like agonist 突停风险）
 > - 🌱 TODO：Ethics_Communication §12.17 **补 ADE 3 层 Risk Factors 表 + Q19787 锚**（vague Rx 反 pattern + 4 大干扰项分析）
@@ -27771,8 +27771,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题做对题 / 错题：
->   - [[mistakes/uworld-mistakes#^Q107484]] Therapeutic misconception + PI 角色（同 Research Ethics 家族 — 5-27）
->   - [[mistakes/uworld-mistakes#^Q106885]] COI mitigation independent analysis（Research Ethics）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q107484]] Therapeutic misconception + PI 角色（同 Research Ethics 家族 — 5-27）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106885]] COI mitigation independent analysis（Research Ethics）
 > - 📚 主笔记：[[完整笔记/专题笔记/Ethics/Ethics_Research_Ethics]]（§支柱 4 Vulnerable Populations — 待详细展开 Minor Assent SOP）/ [[完整笔记/Peixuan分科笔记/Ethics_Master]]（§十四 研究伦理）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/儿科]]（Pediatric informed consent + 14-18 mature minor / emancipated minor 区分）
 > - 🌱 TODO：Ethics_Research_Ethics **新增 §4.1 Minor Assent SOP**（Q107485 锚 — age cutoff + exception + vs consent + vs treatment）
@@ -27861,7 +27861,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题做对题：
->   - [[mistakes/uworld-mistakes#^Q106665]] Nurse-led Debriefings 解决 interprofessional collaboration 差异（同 interprofessional family，5-27）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106665]] Nurse-led Debriefings 解决 interprofessional collaboration 差异（同 interprofessional family，5-27）
 >   - 待积累更多 interprofessional / diagnostic error 题
 > - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_患者安全_Safety文化与沟通]]（interprofessional communication / 待补 §Imaging Discrepancy）/ [[完整笔记/专题笔记/Ethics/Ethics_Communication_Counseling]]（待新增 §Interprofessional Communication）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/外科]]（Time-out / interprofessional handoff — 同 collaborative communication 家族）
@@ -28079,7 +28079,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - 首题（HRS 主题）；肝硬化并发症见 [[mistakes/uworld-mistakes#^Q2357]] Bipolar/Lithium-PKD（同"看患者 lab 否决经典反射"元 pattern）
+>   - 首题（HRS 主题）；肝硬化并发症见 [[mistakes/uworld-mistakes_2026-05#^Q2357]] Bipolar/Lithium-PKD（同"看患者 lab 否决经典反射"元 pattern）
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/GI/GI_HRS肝肾综合征]] ★（HRS 完整专题 — 机制 / 分型 / 鉴别 / 治疗 / 反直觉点；2026-05-28 建成）
 >   - [[完整笔记/专题笔记/GI/GI_门脉高压治疗]]（父主题 — 门脉高压完整逻辑 / 侧支物理学 / SBP / HE）
@@ -28206,7 +28206,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q2357]] Bipolar 维持治疗 — 提及 Lithium 致 nephrogenic DI（双相用药决策树场景，本题是 DI 部位/机制场景）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2357]] Bipolar 维持治疗 — 提及 Lithium 致 nephrogenic DI（双相用药决策树场景，本题是 DI 部位/机制场景）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（line 43-55 DI 简表）
 >   - [[完整笔记/Peixuan分科笔记/psych]]（Lithium adverse effects line 880-890）
@@ -28302,7 +28302,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q16323]] Transplant RAS（同移植肾 AKI 5 项鉴别 — 本题是 SOP 中第 ② CNI 毒性）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q16323]] Transplant RAS（同移植肾 AKI 5 项鉴别 — 本题是 SOP 中第 ② CNI 毒性）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]
 >   - [[完整笔记/Peixuan分科笔记/外科]]（移植免疫抑制）
@@ -28598,7 +28598,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q4004]] Analgesic nephropathy CTIN（同间质性家族，本题是 AIN 急性版本）— 一起看 AIN vs CTIN 5 维对比表
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4004]] Analgesic nephropathy CTIN（同间质性家族，本题是 AIN 急性版本）— 一起看 AIN vs CTIN 5 维对比表
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]
 >   - [[完整笔记/Peixuan分科笔记/骨科]] / [[完整笔记/Peixuan分科笔记/免疫，疫苗]]（痛风 + allopurinol 适应症）
@@ -28689,7 +28689,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - 首题（enuresis 主题）；DI 见 [[mistakes/uworld-mistakes#^Q18520]] Lithium nephrogenic DI（同日）
+>   - 首题（enuresis 主题）；DI 见 [[mistakes/uworld-mistakes_2026-05#^Q18520]] Lithium nephrogenic DI（同日）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/儿科]]
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]
@@ -28885,7 +28885,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - 首题（acid-base 代偿机制题）；lactic acidosis 见 [[mistakes/uworld-mistakes#^Q11566]] cyanide toxicity（同日，但 cyanide 是病因不是代偿）
+>   - 首题（acid-base 代偿机制题）；lactic acidosis 见 [[mistakes/uworld-mistakes_2026-05#^Q11566]] cyanide toxicity（同日，但 cyanide 是病因不是代偿）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]
 >   - [[完整笔记/Peixuan分科笔记/外科]]（AAA 修补 / aortic clamping → 下肢缺血 → lactic acidosis）
@@ -28956,8 +28956,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q15925]] Atypical MDD 5-21 首次入库（诊断维度 ❌ 选 substance-induced；治疗维度未测）— **本卡配对**：诊断维度已克服，治疗阶梯精度本次新加
->   - [[mistakes/uworld-mistakes#^Q12152]] PD ψ Step 5（同样治疗阶梯精度题 — antipsychotic 子类选择）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q15925]] Atypical MDD 5-21 首次入库（诊断维度 ❌ 选 substance-induced；治疗维度未测）— **本卡配对**：诊断维度已克服，治疗阶梯精度本次新加
+>   - [[mistakes/uworld-mistakes_2026-05#^Q12152]] PD ψ Step 5（同样治疗阶梯精度题 — antipsychotic 子类选择）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Biostats_Master]]（"first-line vs 多步失败后" 是 USMLE 治疗题的高频陷阱设计原则）
 > - 🌱 TODO（待生成衍生增量）：[[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP]] 加 §x **Atypical MDD 6 阶梯**（钉死 first-line = SSRI/SNRI；MAOI = augment 失败后才用 + MAOI 禁忌 SOP）
@@ -29036,9 +29036,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q12152]] PD ψ Step 5 — **本卡反 pattern 配对**（PD ψ → quetiapine vs DLB ψ → rivastigmine + 抗精神病药相对禁忌）
->   - [[mistakes/uworld-mistakes#^Q20-2026-05-26]] PD ψ 错点漂移（5-26）— 同治疗阶梯精度
->   - [[mistakes/uworld-mistakes#^Q3-2026-05-27]] Tourette Answer Letter Anchoring（5-27）— 同"反射钩误覆盖"元 pattern
+>   - [[mistakes/uworld-mistakes_2026-05#^Q12152]] PD ψ Step 5 — **本卡反 pattern 配对**（PD ψ → quetiapine vs DLB ψ → rivastigmine + 抗精神病药相对禁忌）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20-2026-05-26]] PD ψ 错点漂移（5-26）— 同治疗阶梯精度
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3-2026-05-27]] Tourette Answer Letter Anchoring（5-27）— 同"反射钩误覆盖"元 pattern
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（DLB 是 neurology dementia 谱系一员，与 AD / VaD / FTD 鉴别）
 > - 🌱 TODO（待生成衍生增量）：[[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]] 加 §六 **DLB vs PD ψ 决策树**（1-year rule + 抗精神病药相对禁忌警告 + rivastigmine 一线 + pimavanserin fallback）
@@ -29124,7 +29124,7 @@
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - 首题（struvite/肾结石主题）
->   - [[mistakes/uworld-mistakes#^Q4004]] Analgesic nephropathy CTIN（同日入库，同肾区 + UA 解读相关 — WBC casts vs 单纯 WBC + nitrite 鉴别）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4004]] Analgesic nephropathy CTIN（同日入库，同肾区 + UA 解读相关 — WBC casts vs 单纯 WBC + nitrite 鉴别）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（KIDNEY STONES 速查表已有 4 行；本题可扩 struvite 5 联指纹 + 治疗三件套）
 >   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]]（**目前 struvite 条目缺失** — 待加 "pH>8 + coffin lid + staghorn + 反复 UTI + urease+ 菌" 五联指纹）
@@ -29215,7 +29215,7 @@
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - 首题（Lithium DI / 肾性 DI 主题）
->   - [[mistakes/uworld-mistakes#^Q17-2026-05-28]] Atypical MDD 治疗阶梯（同日入库，同 psych 药物决策类）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q17-2026-05-28]] Atypical MDD 治疗阶梯（同日入库，同 psych 药物决策类）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（DI 章节）
 >   - [[完整笔记/Peixuan分科笔记/endocrine]]（ADH / 渗透压调节）
@@ -29436,7 +29436,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q4425]] Lithium nephrogenic DI（同日入库 — DI 鉴别同框架；SCT 是"Na 正常"分支）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4425]] Lithium nephrogenic DI（同日入库 — DI 鉴别同框架；SCT 是"Na 正常"分支）
 >   - 首题（SCT / hyposthenuria 主题）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/hematology oncology]] / [[完整笔记/Peixuan分科笔记/肾脏]]
@@ -29545,7 +29545,7 @@
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - 首题（儿童 hypovolemic hypernatremia 复苏主题）
->   - [[mistakes/uworld-mistakes#^Q4425]] Lithium DI（同日入库 — 同 Na 异常电解质题，但 DI 是慢性多尿，本题是急性脱水复苏）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4425]] Lithium DI（同日入库 — 同 Na 异常电解质题，但 DI 是慢性多尿，本题是急性脱水复苏）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/儿科]]（婴幼儿脱水复苏章节）
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（电解质章节 — Na 校正速度）
@@ -29811,7 +29811,7 @@
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - 首题（Simple renal cyst / 偶发肾病变主题）
->   - [[mistakes/uworld-mistakes#^Q15682]] Struvite stone（同日入库，同 CT 影像肾病变 — 但需介入 vs Simple cyst 不需介入对比）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q15682]] Struvite stone（同日入库，同 CT 影像肾病变 — 但需介入 vs Simple cyst 不需介入对比）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（**待加 Bosniak 章节** — 目前空白）
 >   - [[完整笔记/Peixuan分科笔记/外科]]（偶发病变管理 + 影像决策）
@@ -29922,8 +29922,8 @@
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - 首题（Hypercalcemia 急救主题）
->   - [[mistakes/uworld-mistakes#^Q19929]] Hyperkalemia ECG（同电解质急症 — 急症先治不查血钾结果）
->   - [[mistakes/uworld-mistakes#^Q4853]] 婴儿 hypernatremia 复苏（同电解质急症元 pattern — symptomatic 先 isotonic 救命）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19929]] Hyperkalemia ECG（同电解质急症 — 急症先治不查血钾结果）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4853]] 婴儿 hypernatremia 复苏（同电解质急症元 pattern — symptomatic 先 isotonic 救命）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/endocrine]]（Ca 调节 / PTH / Vit D）
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（电解质章节）
@@ -30080,8 +30080,8 @@
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - 首题（ADPKD / 多囊肾主题）
->   - [[mistakes/uworld-mistakes#^Q4181]] Simple renal cyst（同日 — 同肾囊肿但单纯偶发 vs ADPKD 系统性多囊）
->   - [[mistakes/uworld-mistakes#^Q4004]] Analgesic nephropathy（5-28，同 CKD 渐进 + 双侧小肾 vs ADPKD 双肾大）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4181]] Simple renal cyst（同日 — 同肾囊肿但单纯偶发 vs ADPKD 系统性多囊）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4004]] Analgesic nephropathy（5-28，同 CKD 渐进 + 双侧小肾 vs ADPKD 双肾大）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（已有 ADPKD 章节 line 643-654 速查，本卡可扩 6 联正向指纹）
 > - 🏥 跨学科：
@@ -30406,7 +30406,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q16296]] AA Amyloidosis from RA（同日 — 同 amyloidosis 系列 4 型对照）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q16296]] AA Amyloidosis from RA（同日 — 同 amyloidosis 系列 4 型对照）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（line 3834+ Systemic amyloidosis 4 型 + line 4116 β2M dialysis-shoulder + line 4128 β2M bone cysts — 已有完整章节）
 >   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（line 3007 / 2825 Amyloidosis + AL + periorbital purpura）
@@ -30502,7 +30502,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q21041]] DRA β2M 透析肩腕骨（同日 — 同 amyloidosis 系列）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21041]] DRA β2M 透析肩腕骨（同日 — 同 amyloidosis 系列）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（line 3974 / 4150 / 4176 AA amyloidosis 章节 — 已有完整）
 >   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（line 3007 / 3834 Amyloidosis 系列）
@@ -30838,7 +30838,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q2169]] Severe symptomatic hypercalcemia（同日 — 反 pattern: hyperCa 不致 seizure）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2169]] Severe symptomatic hypercalcemia（同日 — 反 pattern: hyperCa 不致 seizure）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（Na / 电解质 + Diuretics 章节）
 >   - [[完整笔记/Peixuan分科笔记/心内]]（Thiazide 在 HTN 的应用 + 副作用谱）
@@ -31038,7 +31038,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q3358]] 钝性肾损伤 → CT（GU 创伤另一端：肾 vs 尿道影像选择）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3358]] 钝性肾损伤 → CT（GU 创伤另一端：肾 vs 尿道影像选择）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/外科]]（创伤 / GU trauma）
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（泌尿系统解剖 + 损伤）
@@ -31078,7 +31078,7 @@
 > - **令人担忧的损伤机制**：高速减速 / 直接 flank 打击 / 椎旁挤压
 > - **血尿**（肉眼或镜下）—— 但 **血尿缺失不能排除肾损伤**（重伤中可达 1/3 无血尿）
 >
-> ### GU 损伤定位 → 影像（与 [[mistakes/uworld-mistakes#^Q3349]] 同框架）
+> ### GU 损伤定位 → 影像（与 [[mistakes/uworld-mistakes_2026-05#^Q3349]] 同框架）
 >
 > | 损伤层面 | 典型线索 | 影像 |
 > |---|---|---|
@@ -31116,7 +31116,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q3349]] 后尿道损伤 → urethrography（GU 创伤另一端：尿道 vs 肾影像选择）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3349]] 后尿道损伤 → urethrography（GU 创伤另一端：尿道 vs 肾影像选择）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（肾损伤 / 血尿）
 >   - [[完整笔记/Peixuan分科笔记/外科]]（钝性腹部创伤 / FAST）
@@ -31193,7 +31193,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q4751]] ADPKD（结构性原因致慢升 Cr + 可触及腹部包块 — 同为"先 US 评结构"思路）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4751]] ADPKD（结构性原因致慢升 Cr + 可触及腹部包块 — 同为"先 US 评结构"思路）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（obstructive uropathy / CKD 评估 / hydronephrosis）
 >   - [[完整笔记/Peixuan分科笔记/外科]]（BPH / LUTS / 尿潴留）
@@ -31274,7 +31274,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q15682]] Struvite 结石指纹 + 5 大结石对照（同结石家族）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q15682]] Struvite 结石指纹 + 5 大结石对照（同结石家族）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（nephrolithiasis / 结石预防）
 > - 🏥 跨学科：
@@ -31448,7 +31448,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q4752]] HRS 机制 / 排除诊断（同主题第 2 次 — 本卡补"诊断下一步=测尿钠"角度）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4752]] HRS 机制 / 排除诊断（同主题第 2 次 — 本卡补"诊断下一步=测尿钠"角度）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（AKI 评估 / 尿钠 / FENa）
 >   - [[完整笔记/Peixuan分科笔记/消化腺]]（肝硬化 / 腹水 / SBP / HRS line 1258-1268）
@@ -31613,7 +31613,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q16044]] AKI 三大类对照 SOP（ATN toxic 含氨基糖苷 — 本卡是其具体应用）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q16044]] AKI 三大类对照 SOP（ATN toxic 含氨基糖苷 — 本卡是其具体应用）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（ATN / AKI 分类 / FENa）
 > - 🏥 跨学科：
@@ -31674,7 +31674,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q2790]] Mixed acid-base 识别 SOP（三步法 + 代偿公式 — 本卡是其前置基础：先有 pH+PaCO2 才能走 SOP）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2790]] Mixed acid-base 识别 SOP（三步法 + 代偿公式 — 本卡是其前置基础：先有 pH+PaCO2 才能走 SOP）
 > - 📚 主笔记：
 >   - [[完整笔记/专题笔记/肾脏/肾脏_酸碱代偿完整SOP]]（三步法 / 代偿公式 / mixed 识别）
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（酸碱生理 / 缓冲对）
@@ -31751,7 +31751,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q4026]] ESRD 死因 / CKD-MBD 并发症（calciphylaxis 是 ESRD-MBD 严重表现之一）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4026]] ESRD 死因 / CKD-MBD 并发症（calciphylaxis 是 ESRD-MBD 严重表现之一）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（ESRD / CKD-MBD / 矿物质骨病）
 >   - [[完整笔记/Peixuan分科笔记/endocrine]]（继发性甲旁亢 / 磷钙代谢）
@@ -31794,7 +31794,7 @@
 > | 分期 | TURBT + 上尿路影像（IVP/MRI/CT）|
 > | 治疗 | 无肌层浸润 → TURBT + 膀胱内免疫（BCG）；肌层浸润 → 根治性膀胱切除 + 全身化疗；转移 → 全身化疗+免疫 |
 >
-> - **血尿分期定位**：全程（total）= 整条尿路任何位置（含膀胱）；与 [[mistakes/uworld-mistakes#^Q4751]] terminal 角度互补
+> - **血尿分期定位**：全程（total）= 整条尿路任何位置（含膀胱）；与 [[mistakes/uworld-mistakes_2026-05#^Q4751]] terminal 角度互补
 > - **gross hematuria + age >40 + 无 GN/UTI 证据 → cystoscopy + CT urography**（不能只靠 cytology）
 >
 > ## 易混陷阱（普适）
@@ -31826,7 +31826,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q4751]] Urothelial ca + 血尿分期 3 联（同主题第 2 次 — 本卡补 total hematuria + gross hematuria 工作流 cystoscopy+CT urography）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4751]] Urothelial ca + 血尿分期 3 联（同主题第 2 次 — 本卡补 total hematuria + gross hematuria 工作流 cystoscopy+CT urography）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/外科]]（line 1394 Bladder cancer 速查 / TURBT / cystectomy）
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（血尿评估 / GN vs 非 GN）
@@ -31873,7 +31873,7 @@
 >
 > - **"高钾"≠"立刻 IV calcium"**：先看 ECG + 慢急性；无 ECG 改变 + 慢性 → 撤药 / shift，不是 calcium
 > - **T2DM + 持续不明高钾** → 想 **type 4 RTA / hyporeninemic hypoaldosteronism**（renin/aldo 在 workup 最后查）
-> - 完整升 K 药物 9 类表见 [[mistakes/uworld-mistakes#^Q19-2026-05-18]]（不重复）
+> - 完整升 K 药物 9 类表见 [[mistakes/uworld-mistakes_2026-05#^Q19-2026-05-18]]（不重复）
 >
 > ## 易混陷阱（普适）
 >
@@ -31893,7 +31893,7 @@
 > - **"门诊慢性高钾 + 无 ECG 改变 → 先 Review 用药，不是 IV calcium"** ⭐⭐
 > - **workup 顺序**：review 药 → 排急性继发(高血糖/TLS) → 尿电解质 → renin/aldo（最后）
 > - **T2DM 持续不明高钾 → hyporeninemic hypoaldosteronism (type 4 RTA)**
-> - 急症治疗阶梯见 [[mistakes/uworld-mistakes#^Q4422]]（有 ECG 改变时怎么做）
+> - 急症治疗阶梯见 [[mistakes/uworld-mistakes_2026-05#^Q4422]]（有 ECG 改变时怎么做）
 >
 > ---
 >
@@ -31904,8 +31904,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题：
->   - [[mistakes/uworld-mistakes#^Q19-2026-05-18]] 高钾三联炸弹 + 元凶定位 SOP + 9 类升 K 药物表（本卡补"门诊无 ECG 改变 workup 顺序"角度）
->   - [[mistakes/uworld-mistakes#^Q4422]] 高钾急症 3S 治疗阶梯（互补 — 有 ECG 改变时）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19-2026-05-18]] 高钾三联炸弹 + 元凶定位 SOP + 9 类升 K 药物表（本卡补"门诊无 ECG 改变 workup 顺序"角度）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4422]] 高钾急症 3S 治疗阶梯（互补 — 有 ECG 改变时）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（电解质 / 高钾 / type 4 RTA hypoaldosteronism）
 > - 🌱 TODO：
@@ -31983,8 +31983,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题：
->   - [[mistakes/uworld-mistakes#^Q19-2026-05-18]] 高钾元凶定位 + 3S 框架来源（本卡补"急症治疗阶梯执行顺序 + 各手段速度/禁忌"）
->   - [[mistakes/uworld-mistakes#^Q2167]] 门诊无 ECG 改变 → review 用药（互补 — 非急症怎么做）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q19-2026-05-18]] 高钾元凶定位 + 3S 框架来源（本卡补"急症治疗阶梯执行顺序 + 各手段速度/禁忌"）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2167]] 门诊无 ECG 改变 → review 用药（互补 — 非急症怎么做）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（高钾 3S 治疗框架）
 > - 🏥 跨学科：
@@ -32056,7 +32056,7 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q3895]] 钙草酸结石防复发（Type 1 RTA 易致钙磷结石，同日肾）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3895]] 钙草酸结石防复发（Type 1 RTA 易致钙磷结石，同日肾）
 >   - 待积累更多 RTA / 酸碱题
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/肾脏]] / [[完整笔记/专题笔记/肾脏/肾脏_酸碱代偿完整SOP]] / [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/骨科]]（Sjögren 自免病；肾外表现 = 远端 RTA + 间质性肾炎）
@@ -32120,9 +32120,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q2826]] 肝硬化袢利尿→代碱（HCO3↑ 才是代碱）
->   - [[mistakes/uworld-mistakes#^Q13842]] 代酸的肾代偿
->   - [[mistakes/uworld-mistakes#^Q18881]] 代酸 ABG + Winter 代偿
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2826]] 肝硬化袢利尿→代碱（HCO3↑ 才是代碱）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q13842]] 代酸的肾代偿
+>   - [[mistakes/uworld-mistakes_2026-05#^Q18881]] 代酸 ABG + Winter 代偿
 > - 📚 主笔记：[[完整笔记/专题笔记/肾脏/肾脏_酸碱代偿完整SOP]] / [[完整笔记/Peixuan分科笔记/肾脏]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/pulmonary]]（肺炎/PE 致过度通气 = 急性呼碱头号病因）
 > - 🌱 TODO：ABG 判读题已积累 4 道（Q2786/Q2826/Q13842/Q18881）→ 可在酸碱 SOP 加"4 道 ABG 实战判读"小节
@@ -32161,7 +32161,7 @@
 >
 > ## 我为什么错
 > - 选了：A（囊性纤维化）
-> - 错因：[pattern] —— 婴儿 FTT 反射 CF，**没识别 "NAGMA + 碱性尿 → Type 1 RTA" 这个指纹**（与 [[mistakes/uworld-mistakes#^Q18881]] 成人 Sjögren 同款，只是儿科版）。
+> - 错因：[pattern] —— 婴儿 FTT 反射 CF，**没识别 "NAGMA + 碱性尿 → Type 1 RTA" 这个指纹**（与 [[mistakes/uworld-mistakes_2026-05#^Q18881]] 成人 Sjögren 同款，只是儿科版）。
 > - 核心卡点：没算 AG、没把碱性尿当作"肾酸化障碍"的硬信号。
 >
 > ## Memory Hook
@@ -32177,8 +32177,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q18881]] 成人 Sjögren → Type 1 RTA（同款指纹）
->   - [[mistakes/uworld-mistakes#^Q3895]] 钙草酸结石（Type 1 RTA 易致结石）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q18881]] 成人 Sjögren → Type 1 RTA（同款指纹）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3895]] 钙草酸结石（Type 1 RTA 易致结石）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/肾脏]] / [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/肾脏]]（RTA 机制）；CF 鉴别 → [[完整笔记/Peixuan分科笔记/pulmonary]]
 > - 🌱 TODO：RTA 题已 2 道（成人 Q18881 + 儿科 Q4828）→ 第 3 道后在指纹大全补 NAGMA 决策树
@@ -32231,8 +32231,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q18881]] 代酸 + 尿 AG（尿 AG 正负也由 NH4Cl 排泄决定）
->   - [[mistakes/uworld-mistakes#^Q2786]] 呼碱 ABG（对比代偿时间轴）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q18881]] 代酸 + 尿 AG（尿 AG 正负也由 NH4Cl 排泄决定）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2786]] 呼碱 ABG（对比代偿时间轴）
 > - 📚 主笔记：[[完整笔记/专题笔记/肾脏/肾脏_酸碱代偿完整SOP]] / [[完整笔记/Peixuan分科笔记/肾脏]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/外科]]（AAA 主动脉夹闭 → 下肢缺血再灌注 → 乳酸酸中毒）
 > - 🌱 TODO：肾酸碱处理机制（NH4⁺/titratable acid/尿 AG）→ 可在酸碱 SOP 加"肾如何排酸"小节
@@ -32291,8 +32291,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q2826]] 肝硬化袢利尿 → 代碱（同患者群电解质）
->   - [[mistakes/uworld-mistakes#^Q2219]] 肝硬化 AKI → 测尿钠疑 HRS
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2826]] 肝硬化袢利尿 → 代碱（同患者群电解质）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2219]] 肝硬化 AKI → 测尿钠疑 HRS
 > - 📚 主笔记：[[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]] / [[完整笔记/Peixuan分科笔记/肾脏]]
 > - 🏥 跨学科：[[完整笔记/专题笔记/GI/GI_HRS肝肾综合征]] / [[完整笔记/Peixuan分科笔记/消化腺]]（肝硬化门脉高压 → 高容量低钠）
 > - 🌱 TODO：已把"轻度高容量低钠=不特殊治疗 + 噻嗪加重低钠"增量同步进电解质急症速查
@@ -32347,9 +32347,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q2786]] 呼碱（HCO3 正常/低，与代碱 HCO3 高对比）
->   - [[mistakes/uworld-mistakes#^Q106381]] 肝硬化高容量低钠（同患者群）
->   - [[mistakes/uworld-mistakes#^Q13842]] 代酸代偿（ABG 三步法串联）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2786]] 呼碱（HCO3 正常/低，与代碱 HCO3 高对比）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106381]] 肝硬化高容量低钠（同患者群）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q13842]] 代酸代偿（ABG 三步法串联）
 > - 📚 主笔记：[[完整笔记/专题笔记/肾脏/肾脏_酸碱代偿完整SOP]] / [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]]
 > - 🏥 跨学科：[[完整笔记/专题笔记/GI/GI_门脉高压治疗]] / [[完整笔记/Peixuan分科笔记/消化腺]]（腹水→袢利尿是源头）
 > - 🌱 TODO：ABG 实战 4 道（Q2786/Q2826/Q13842/Q18881）→ 酸碱 SOP 加实战判读小节
@@ -32412,8 +32412,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q106381]] 肝硬化高容量低钠（低钠容量轴对比）
->   - [[mistakes/uworld-mistakes#^Q114863]] Thiazide 致低钠 seizure
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106381]] 肝硬化高容量低钠（低钠容量轴对比）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q114863]] Thiazide 致低钠 seizure
 > - 📚 主笔记：[[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]] / [[完整笔记/Peixuan分科笔记/肾脏]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（SSRI 是 SIADH 常见药因）
 > - 🌱 TODO：已把"低尿酸 + 尿 Na 分 SIADH vs 低容量"增量同步进电解质急症速查
@@ -32475,8 +32475,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q2826]] 肝硬化袢利尿致代碱（同为低 K 低 Cl 代碱）
->   - [[mistakes/uworld-mistakes#^Q2786]] ABG 判读（代碱 HCO3 高）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2826]] 肝硬化袢利尿致代碱（同为低 K 低 Cl 代碱）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2786]] ABG 判读（代碱 HCO3 高）
 > - 📚 主笔记：[[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]] / [[完整笔记/专题笔记/肾脏/肾脏_酸碱代偿完整SOP]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（bulimia nervosa：lanugo + 牙釉质侵蚀 + 自诱呕吐）
 > - 🌱 TODO：已把"代碱 saline-responsive vs resistant（尿 Cl）"增量同步进电解质急症速查
@@ -32536,8 +32536,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q2180]] SIADH 五联（低钠 + 高尿渗但**无多尿** — 与本题正好对照）
->   - [[mistakes/uworld-mistakes#^Q106381]] 肝硬化高容量低钠（低钠的容量轴鉴别）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2180]] SIADH 五联（低钠 + 高尿渗但**无多尿** — 与本题正好对照）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106381]] 肝硬化高容量低钠（低钠的容量轴鉴别）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/肾脏]] / [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/endocrine]]（DI / AVP / 高血糖致渗透性利尿）
 > - 🌱 TODO：等积累 ≥3 道 多尿/DI 题 → 建 [[完整笔记/专题笔记/肾脏/_衍生_多尿鉴别算法]]（water vs solute diuresis）
@@ -32593,10 +32593,10 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q13842]] 代酸的肾代偿（NH4⁺/titratable/尿 Cl）
->   - [[mistakes/uworld-mistakes#^Q18881]] 代酸 ABG + Winter 代偿（Type 1 RTA）
->   - [[mistakes/uworld-mistakes#^Q2786]] 呼吸性碱中毒（uncompensated，HCO₃⁻ 正常）
->   - [[mistakes/uworld-mistakes#^Q2826]] 袢利尿致代谢性碱中毒（HCO₃⁻↑）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q13842]] 代酸的肾代偿（NH4⁺/titratable/尿 Cl）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q18881]] 代酸 ABG + Winter 代偿（Type 1 RTA）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2786]] 呼吸性碱中毒（uncompensated，HCO₃⁻ 正常）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2826]] 袢利尿致代谢性碱中毒（HCO₃⁻↑）
 > - 📚 主笔记：[[完整笔记/专题笔记/肾脏/肾脏_酸碱代偿完整SOP]] / [[完整笔记/Peixuan分科笔记/肾脏]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/endocrine]]（DKA 是 AG 代酸的经典内分泌病因）
 > - 🌱 TODO：ABG 实战已积累多道（Q2786/Q2826/Q13842/Q18881 + 本题）→ 在酸碱 SOP 补"DKA 三低血气"实战判读
@@ -32654,10 +32654,10 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q2180]] SIADH 五联（诊断）
->   - [[mistakes/uworld-mistakes#^Q114931]] 等容量低钠病因 workup（同 patient set — 尿渗定病因）
->   - [[mistakes/uworld-mistakes#^Q117977]] SIADH vs 溶质性利尿（多尿鉴别）
->   - [[mistakes/uworld-mistakes#^Q114863]] thiazide 低钠 seizure（重症升钠）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2180]] SIADH 五联（诊断）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q114931]] 等容量低钠病因 workup（同 patient set — 尿渗定病因）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q117977]] SIADH vs 溶质性利尿（多尿鉴别）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q114863]] thiazide 低钠 seizure（重症升钠）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/肾脏]] / [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/pulmonary]]（SCLC 异位 ADH）/ [[完整笔记/Peixuan分科笔记/hematology oncology]]（副肿瘤综合征）
 > - 🌱 TODO：低钠卡已积累 ≥5 道 → 建 [[完整笔记/专题笔记/肾脏/_衍生_低钠血症诊疗SOP]]（容量轴 + 尿渗 + 严重度治疗 + ODS）
@@ -32723,11 +32723,11 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q2180]] SIADH 五联（诊断指纹）
->   - [[mistakes/uworld-mistakes#^Q2181]] SIADH 治疗（同 patient set — 严重度选治疗）
->   - [[mistakes/uworld-mistakes#^Q117977]] 多尿鉴别（尿渗算法）
->   - [[mistakes/uworld-mistakes#^Q106381]] 高容量低钠（肝硬化）
->   - [[mistakes/uworld-mistakes#^Q114863]] thiazide 致低钠 seizure
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2180]] SIADH 五联（诊断指纹）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2181]] SIADH 治疗（同 patient set — 严重度选治疗）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q117977]] 多尿鉴别（尿渗算法）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q106381]] 高容量低钠（肝硬化）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q114863]] thiazide 致低钠 seizure
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/肾脏]] / [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（SSRI → SIADH；GAD 易原发多饮）
 > - 🌱 TODO：低钠卡已积累 ≥5 道 → 建 [[完整笔记/专题笔记/肾脏/_衍生_低钠血症诊疗SOP]]（分类大表 + 尿渗决策 + 治疗）
@@ -32926,7 +32926,7 @@
 >
 > ## 易混陷阱（普适）
 > - **滴尿是 overflow（满则溢），本质是潴留**——不是"漏一点可以观察"。膀胱膨隆 + 排不出 → 必须导尿减压。
-> - **C Oxybutynin（抗胆碱）方向相反**：治急迫/逼尿肌过度活动，会**加重潴留**（对照 [[mistakes/uworld-mistakes#^Q12033]]：急迫才用抗毒蕈碱，潴留禁用）。
+> - **C Oxybutynin（抗胆碱）方向相反**：治急迫/逼尿肌过度活动，会**加重潴留**（对照 [[mistakes/uworld-mistakes_2026-05#^Q12033]]：急迫才用抗毒蕈碱，潴留禁用）。
 > - **A 抗生素**：UTI（发热 + 尿频）才用；潴留 + 耻骨上压痛 ≠ UTI。
 > - **D pessary**：治压力性失禁 / 盆腔脱垂（尿道高活动度），非本例 overflow。
 > - **E 耻骨上膀胱造瘘**：更有创，仅尿道导尿**禁忌**时（尿道损伤/狭窄）；本例近期导尿过（无狭窄）+ 无裂伤（无损伤）→ 首选尿道导尿。
@@ -32946,8 +32946,8 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q12033]] 急迫性失禁（抗毒蕈碱）— 与本题 overflow/潴留正好方向相反
->   - [[mistakes/uworld-mistakes#^Q15906]] 梗阻性排尿/PVR↑（下尿路症状谱）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q12033]] 急迫性失禁（抗毒蕈碱）— 与本题 overflow/潴留正好方向相反
+>   - [[mistakes/uworld-mistakes_2026-05#^Q15906]] 梗阻性排尿/PVR↑（下尿路症状谱）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/OB]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/GYN]]（尿失禁分型：overflow vs 急迫 vs 压力）
 > - 🌱 TODO：积累排尿障碍题 → 建 [[完整笔记/专题笔记/OB_GYN/OB_GYN_尿失禁分型与治疗]]（含 overflow/潴留导尿）
@@ -32998,9 +32998,9 @@
 >
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes#^Q2796]] DKA / 新发 T1DM（同诊断，急性失代偿面）
->   - [[mistakes/uworld-mistakes#^Q117977]] 高血糖致渗透性利尿（多尿机制同源）
->   - [[mistakes/uworld-mistakes#^Q2180]] / [[mistakes/uworld-mistakes#^Q2181]] SIADH（过量 ADH = 尿少，方向对照）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2796]] DKA / 新发 T1DM（同诊断，急性失代偿面）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q117977]] 高血糖致渗透性利尿（多尿机制同源）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q2180]] / [[mistakes/uworld-mistakes_2026-05#^Q2181]] SIADH（过量 ADH = 尿少，方向对照）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/endocrine]]（T1DM）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/儿科]]（遗尿原发 vs 继发 + 继发病因）
 > - 🌱 TODO：积累儿童多尿/遗尿题 → 建 [[完整笔记/专题笔记/儿科/儿科_遗尿原发vs继发与病因]]

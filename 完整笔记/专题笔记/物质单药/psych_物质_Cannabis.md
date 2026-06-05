@@ -91,7 +91,7 @@ type: 专题笔记
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q4215]] 大麻相关考点
+  - [[mistakes/uworld-mistakes_2026-05#^Q4215]] 大麻相关考点
 - 📚 主笔记：[[完整笔记/专题笔记/psych/psych_物质急诊速查]]（横向比较总索引 —— **§3 中毒鉴别表 / §12 完整管理对照表**）
 - 🏥 跨学科：
   - [[完整笔记/Peixuan分科笔记/GI]]（CHS vs cyclic vomiting / 周期性呕吐鉴别）

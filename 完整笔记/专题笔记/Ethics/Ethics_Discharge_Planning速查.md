@@ -377,12 +377,12 @@ End-of-life ─ ⑤ Hospice（任何场所 — 家 / SNF / inpatient hospice —
 ## §八 关联
 
 - 🔁 **同主题错题**：
-  - [[mistakes/uworld-mistakes#^Q20431]] Home Health Care 5-25 首错 🔴
-  - [[mistakes/uworld-mistakes#^Q9-2026-05-27]] 5-27 SNF 反复错升 🔴 + #考前必看
-  - [[mistakes/uworld-mistakes#^Q21141]] Hospice eligibility（5-25）
-  - [[mistakes/uworld-mistakes#^Q20229]] Telephone outreach readmission（5-25）
-  - [[mistakes/uworld-mistakes#^Q107185]] Geriatric polypharmacy limit prescribers（5-25）
-  - [[mistakes/uworld-mistakes#^Q107149]] Inpatient fall prevention (5-26 — 不同 setting inpatient vs discharge home)
+  - [[mistakes/uworld-mistakes_2026-05#^Q20431]] Home Health Care 5-25 首错 🔴
+  - [[mistakes/uworld-mistakes_2026-05#^Q9-2026-05-27]] 5-27 SNF 反复错升 🔴 + #考前必看
+  - [[mistakes/uworld-mistakes_2026-05#^Q21141]] Hospice eligibility（5-25）
+  - [[mistakes/uworld-mistakes_2026-05#^Q20229]] Telephone outreach readmission（5-25）
+  - [[mistakes/uworld-mistakes_2026-05#^Q107185]] Geriatric polypharmacy limit prescribers（5-25）
+  - [[mistakes/uworld-mistakes_2026-05#^Q107149]] Inpatient fall prevention (5-26 — 不同 setting inpatient vs discharge home)
 - 📚 **主笔记**：
   - [[完整笔记/Peixuan分科笔记/Ethics_Master]]
   - [[完整笔记/专题笔记/Ethics/Ethics_EOL_Hospice与决策]] §2.9 home health care 哲学

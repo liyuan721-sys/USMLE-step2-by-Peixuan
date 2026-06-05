@@ -100,7 +100,7 @@ type: 专题笔记
 >    ➜ 轻-中度 / 单次发作稳定 → mood stab 单药维持
 >    ➜ Stem 暗号："maintenance / prevent recurrence / long-term /
 >                stable on current regimen / after acute episode resolved"
->    ➜ 4 选 1 详见 [[mistakes/uworld-mistakes#^Q2357]] 🔴
+>    ➜ 4 选 1 详见 [[mistakes/uworld-mistakes_2026-05#^Q2357]] 🔴
 > ═══════════════════════════════════════════════════════════════
 > ```
 
@@ -151,7 +151,7 @@ type: 专题笔记
 >    - **IM haloperidol + IM lorazepam**（双管齐下 — 最经典 USMLE 答案）⭐
 >    - 或 IM olanzapine / ziprasidone（ziprasidone 需 ECG）
 >    - 几分钟到几十分钟起效，目的 = 镇静 + 安全
->    - [[mistakes/uworld-mistakes#^Q15856]] 5-22 错题就是这一层
+>    - [[mistakes/uworld-mistakes_2026-05#^Q15856]] 5-22 错题就是这一层
 >
 > **Step 2 = Layer 1**：**病人冷静、愿口服后** — **PO SGA + 起 mood stabilizer**
 >    - SGA：olanzapine / risperidone / aripiprazole / quetiapine 任选
@@ -333,7 +333,7 @@ type: 专题笔记
 
 ## 八、关联
 
-- 🔁 同主题错题：[[mistakes/uworld-mistakes#^Q15849]] 双相抑郁误选 Haloperidol（首题，等后续 psych 用药错题积累）
+- 🔁 同主题错题：[[mistakes/uworld-mistakes_2026-05#^Q15849]] 双相抑郁误选 Haloperidol（首题，等后续 psych 用药错题积累）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（双相障碍、心境稳定剂、抗精神病药）
 - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/OB]]（育龄/孕期用药：Valproate→NTD、Lithium→Ebstein 畸形；产后是双相高发与复发窗口）
 - 🌱 TODO（错题驱动增量）：积累「混合发作 / 快速循环 / 产后双相 / 共病物质滥用」类错题后，增量补充本笔记对应分支

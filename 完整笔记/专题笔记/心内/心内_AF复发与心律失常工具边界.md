@@ -16,7 +16,7 @@ source: 2026-05-18 Claude.ai 草稿 v2 整合（触发错题 Q21530）
 > 2. **心律失常诊断/操作工具的适用边界**（CSM / Adenosine / Atropine / EPS — 各自能做什么、不能做什么）
 > 3. **AV block 定位**（nodal vs infranodal — Atropine 反应是关键判断点）+ MI 部位 vs AV block 对应规律（不是 100% 固定）+ 非 MI 病因（Lyme / 退行性 / 先天性等）+ 实战判断流程
 >
-> **触发错题**：[[mistakes/uworld-mistakes#^Q21530]]（AF 复发 + BMI 35，误选 CSM "定位起搏点"）
+> **触发错题**：[[mistakes/uworld-mistakes_2026-05#^Q21530]]（AF 复发 + BMI 35，误选 CSM "定位起搏点"）
 
 ---
 
@@ -374,7 +374,7 @@ source: 2026-05-18 Claude.ai 草稿 v2 整合（触发错题 Q21530）
 ## 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q21530]] AF 复发筛 OSA + CSM/Atropine 适用边界（2026-05-18 触发本笔记）
+  - [[mistakes/uworld-mistakes_2026-05#^Q21530]] AF 复发筛 OSA + CSM/Atropine 适用边界（2026-05-18 触发本笔记）
   - 等积累后续：AVNRT 急性处理 / 房扑揭示 F 波 / 下壁 vs 前壁 MI + AV block / Lyme carditis 等
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/心内]] §AF + §AV block 章节

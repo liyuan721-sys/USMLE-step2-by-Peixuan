@@ -23,7 +23,7 @@ source: 2026-05-16 Claude.ai 草稿 v2 整合（Q2429 TOF 触发）
 > - [[完整笔记/专题笔记/心内/心内_CHD_ToF法洛四联症]] = ToF 深度
 > - [[完整笔记/专题笔记/心内/心内_CHD_DiGeorge综合征]] / [[完整笔记/专题笔记/心内/心内_CHD_IAA主动脉弓中断]] = 单病/综合征
 >
-> **触发错题**：[[mistakes/uworld-mistakes#^Q2429]] TOF 锁定
+> **触发错题**：[[mistakes/uworld-mistakes_2026-05#^Q2429]] TOF 锁定
 >
 > **核心理念**：诊断 = 决策树，不是猜谜。每个问题应该"砍掉一半选项"。
 
@@ -450,7 +450,7 @@ STEP 5: 4 肢血压差？
 
 > [!info] UWorld 原图 — TOF 解剖 + R→L 分流机制
 > ![[{6EBEDA9F-A2FC-47FF-8172-005EF61E257D}.png]]
-> 4 个 PROVe 缺陷在解剖图上直接标注；右侧循环示意去氧血经 VSD R→L 入主动脉 → 中心性紫绀（来源 Q2429，同图在 [[mistakes/uworld-mistakes#^Q2429]]）
+> 4 个 PROVe 缺陷在解剖图上直接标注；右侧循环示意去氧血经 VSD R→L 入主动脉 → 中心性紫绀（来源 Q2429，同图在 [[mistakes/uworld-mistakes_2026-05#^Q2429]]）
 
 **Tet spell 病理生理**：
 ```
@@ -729,9 +729,9 @@ STEP 5: 4 肢 BP？
 ## 十一、关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q2429]] TOF 锁定（起源题）
-  - [[mistakes/uworld-mistakes#^Q2468]] Edwards (T18) → VSD（染色体病 → CHD 关联）
-  - [[mistakes/uworld-mistakes#^Q3546]] Innocent (Still) murmur — 儿科杂音良性 4 铁律
+  - [[mistakes/uworld-mistakes_2026-05#^Q2429]] TOF 锁定（起源题）
+  - [[mistakes/uworld-mistakes_2026-05#^Q2468]] Edwards (T18) → VSD（染色体病 → CHD 关联）
+  - [[mistakes/uworld-mistakes_2026-05#^Q3546]] Innocent (Still) murmur — 儿科杂音良性 4 铁律
 - 📚 学科主笔记 + 已有 CHD 姐妹专题：
   - [[完整笔记/Peixuan分科笔记/儿科]]（先心病章节）
   - [[完整笔记/Peixuan分科笔记/心内]]（成人 GUCH / 心脏听诊）

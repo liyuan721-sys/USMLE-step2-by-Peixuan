@@ -116,7 +116,7 @@ type: 专题笔记
 > | **尿渗 600** | **多尿**分型 | >600 溶质利尿（高糖/甘露醇）|
 > | **尿渗 500** | 肾前性 vs ATN | >500 prerenal / <350 ATN |
 
-> 错题：[[mistakes/uworld-mistakes#^Q117977]] 多尿（尿渗 600 溶质利尿）/ [[mistakes/uworld-mistakes#^Q114931]] 低钠（尿渗 100 分 SIADH vs 多饮）/ [[mistakes/uworld-mistakes#^Q2180]] / [[mistakes/uworld-mistakes#^Q2181]] SIADH（血渗 250 + 尿渗 500）
+> 错题：[[mistakes/uworld-mistakes_2026-05#^Q117977]] 多尿（尿渗 600 溶质利尿）/ [[mistakes/uworld-mistakes_2026-05#^Q114931]] 低钠（尿渗 100 分 SIADH vs 多饮）/ [[mistakes/uworld-mistakes_2026-05#^Q2180]] / [[mistakes/uworld-mistakes_2026-05#^Q2181]] SIADH（血渗 250 + 尿渗 500）
 
 ---
 
@@ -142,7 +142,7 @@ type: 专题笔记
 ## 三、SIADH 专节
 
 > [!info] 错题来源
-> 诊断指纹见 [[mistakes/uworld-mistakes#^Q2180]]；病因 workup 见 [[mistakes/uworld-mistakes#^Q114931]]；治疗见 [[mistakes/uworld-mistakes#^Q2181]]；与渗透性利尿对照见 [[mistakes/uworld-mistakes#^Q117977]]。
+> 诊断指纹见 [[mistakes/uworld-mistakes_2026-05#^Q2180]]；病因 workup 见 [[mistakes/uworld-mistakes_2026-05#^Q114931]]；治疗见 [[mistakes/uworld-mistakes_2026-05#^Q2181]]；与渗透性利尿对照见 [[mistakes/uworld-mistakes_2026-05#^Q117977]]。
 
 ### 3.1 SIADH 五联（诊断指纹）
 
@@ -195,8 +195,8 @@ SIADH 里**输液必须比尿液更浓**才能升钠：
 ## 五、按容量轴的其他低钠（鉴别要点）
 
 - **低容量低钠**：尿 Na <20（肾外）/ >20（肾内）；黏膜干、体位性↓、**尿酸高**。治疗 = 等张盐水（NS）补容量（与 SIADH 相反！）。
-- **高容量低钠**（心衰 / 肝硬化 / 肾综）：EABV↓ → RAAS+ADH↑。**限水 + 治原发**；利尿用袢，**避免噻嗪**。见 [[mistakes/uworld-mistakes#^Q106381]]。
-- **噻嗪致低钠** ⭐：经典药物性低钠（强降压 + ADH↑ + 远端稀释能力↓）；可重到 seizure。**有明确起药时间关联时先归咎药、不跳 SIADH**（SIADH 是排除性诊断）。见 [[mistakes/uworld-mistakes#^Q114863]]。
+- **高容量低钠**（心衰 / 肝硬化 / 肾综）：EABV↓ → RAAS+ADH↑。**限水 + 治原发**；利尿用袢，**避免噻嗪**。见 [[mistakes/uworld-mistakes_2026-05#^Q106381]]。
+- **噻嗪致低钠** ⭐：经典药物性低钠（强降压 + ADH↑ + 远端稀释能力↓）；可重到 seizure。**有明确起药时间关联时先归咎药、不跳 SIADH**（SIADH 是排除性诊断）。见 [[mistakes/uworld-mistakes_2026-05#^Q114863]]。
 - **原发多饮**：尿渗 <100；GAD / 精神病 / 怕结石猛喝水。治疗 = 限水。
 
 ---
@@ -218,12 +218,12 @@ SIADH 里**输液必须比尿液更浓**才能升钠：
 ## 七、🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q2180]] SIADH 五联（诊断）
-  - [[mistakes/uworld-mistakes#^Q2181]] SIADH 治疗（重症 3% 高张盐水）
-  - [[mistakes/uworld-mistakes#^Q114931]] 等容量低钠病因 workup（尿渗定 SIADH vs 多饮）
-  - [[mistakes/uworld-mistakes#^Q117977]] 多尿鉴别：溶质性利尿 vs SIADH
-  - [[mistakes/uworld-mistakes#^Q106381]] 高容量低钠（肝硬化）
-  - [[mistakes/uworld-mistakes#^Q114863]] 噻嗪致低钠 seizure
+  - [[mistakes/uworld-mistakes_2026-05#^Q2180]] SIADH 五联（诊断）
+  - [[mistakes/uworld-mistakes_2026-05#^Q2181]] SIADH 治疗（重症 3% 高张盐水）
+  - [[mistakes/uworld-mistakes_2026-05#^Q114931]] 等容量低钠病因 workup（尿渗定 SIADH vs 多饮）
+  - [[mistakes/uworld-mistakes_2026-05#^Q117977]] 多尿鉴别：溶质性利尿 vs SIADH
+  - [[mistakes/uworld-mistakes_2026-05#^Q106381]] 高容量低钠（肝硬化）
+  - [[mistakes/uworld-mistakes_2026-05#^Q114863]] 噻嗪致低钠 seizure
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/肾脏]] / [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]]（§2.1 低钠全表）/ [[完整笔记/专题笔记/肾脏/肾脏_酸碱代偿完整SOP]]
 - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（SSRI→SIADH；GAD 易原发多饮）/ [[完整笔记/Peixuan分科笔记/pulmonary]]（SCLC 异位 ADH）/ [[完整笔记/Peixuan分科笔记/endocrine]]（ADH / 肾上腺功能不全低钠）
 - 🌱 TODO：①本 SOP 与 [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]] §2.1 低钠部分**有内容重叠**，待定夺是否合并/精简；②再积累多尿/DI 题 → 拆出 [[完整笔记/专题笔记/肾脏/_衍生_多尿鉴别算法]]

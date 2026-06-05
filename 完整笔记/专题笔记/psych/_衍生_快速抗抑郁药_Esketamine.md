@@ -135,9 +135,9 @@ Esketamine 拮抗 NMDA
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q15811]] MDD with psychotic features → ECT（**镜像**：那题选 ECT 因为更危急 / 拒食；esketamine 是次一级危急的快速选项）
-  - [[mistakes/uworld-mistakes#^Q15054]] 抗抑郁药诱发转躁（drug-induced 急性事件 — esketamine 在 bipolar 倾向患者也需谨慎）
-  - [[mistakes/uworld-mistakes#^Q15088]] 精神病性抑郁联合用药（联合用药思维 — esketamine 必配 oral AD 同源逻辑）
+  - [[mistakes/uworld-mistakes_2026-05#^Q15811]] MDD with psychotic features → ECT（**镜像**：那题选 ECT 因为更危急 / 拒食；esketamine 是次一级危急的快速选项）
+  - [[mistakes/uworld-mistakes_2026-05#^Q15054]] 抗抑郁药诱发转躁（drug-induced 急性事件 — esketamine 在 bipolar 倾向患者也需谨慎）
+  - [[mistakes/uworld-mistakes_2026-05#^Q15088]] 精神病性抑郁联合用药（联合用药思维 — esketamine 必配 oral AD 同源逻辑）
   - （等真实 esketamine UW 题积累 → 添 Q##### 锚点）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 - 🏥 跨学科：

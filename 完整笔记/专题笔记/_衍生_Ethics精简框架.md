@@ -1879,31 +1879,31 @@ DNR / Living will ↔ Informed refusal 的 advance 形式（→ §八）
 
 | 错题 | 主题一句话 |
 |---|---|
-| [[mistakes/uworld-mistakes#^Q3625]] | Meningococcal — autonomy override 4 例外（公共健康例外不需 court order）→ §一 |
-| [[mistakes/uworld-mistakes#^Q18702]] | IVDU IE AMA — AMA 三步法（empathic investigate → document refusal → offer alternative）+ IVDU 必问 withdrawal/cravings → MAT → §三 |
-| [[mistakes/uworld-mistakes#^Q105595]] | 青少年 conditional confidentiality — 默认 private + 5 breach 例外 + HIPAA 不保 unconditional → §四 |
-| [[mistakes/uworld-mistakes#^Q3614]] | HIPAA employer disclosure — verbal OR written OK + minimum necessary + sensitive default 不透露 → §五 |
-| [[mistakes/uworld-mistakes#^Q19048]] | Decision-making capacity reassessment — capacity 4 要素 + 动态可恢复 + surrogate 不 permanent → §二 |
-| [[mistakes/uworld-mistakes#^Q7283]] | Pediatric chronic illness disclosure — 先 determine current understanding（阶段 1）→ §七 |
-| [[mistakes/uworld-mistakes#^Q3624]] | Joint custody one parent consent — minor consent 3 例外 + court order 仅 both refuse life-saving → §六 |
-| [[mistakes/uworld-mistakes#^Q19132]] | Perinatal HIV disclosure — collaborative plan + timeline（阶段 3-4）→ §七 |
-| [[mistakes/uworld-mistakes#^Q21627]] | NEOT — end-of-life 3 philosophies + surrogate substituted judgment → §八 |
-| [[mistakes/uworld-mistakes#^Q21658]] | Adolescent CF advance care planning — family-centered（patient 作 participant）+ deteriorating 触发 + 反向直觉好处 → §七 |
-| [[mistakes/uworld-mistakes#^Q106885]] ⭐ v1.4 | COI in clinical research — industry-employed statistician 做 analysis = 核心 COI / 双盲不能 mitigate analysis bias → §十 |
-| [[mistakes/uworld-mistakes#^Q107705]] ⭐ v1.4 | DNR ≠ Do Not Treat — DNR 范围限定（仅 arrest）+ Capacity vs Competency 名词区分 + Surrogate hierarchy 完整版 → §二 + §八 |
-| [[mistakes/uworld-mistakes#^Q19063]] ⭐ v1.4 | Directive counseling — complete placenta previa = vaginal contraindicated → CD 唯一 safe → directive counseling + 5 大假尊重 anti-pattern → §九 |
-| [[mistakes/uworld-mistakes#^Q22639]] ⭐ v1.4 | Autonomy DEMAND vs REFUSE 不对称 — lung cancer screening request 不达 USPSTF 阈值 → physician 可 ethically decline → §一 |
-| [[mistakes/uworld-mistakes#^Q3742]] ⭐ v1.4 | Collateral Information SOP — passive listen / cannot reciprocate / 不强制 include patient + confidentiality 方向不对称 → §五.5 |
-| [[mistakes/uworld-mistakes#^Q107497]] ⭐ v1.4.2 | Medical Malpractice 4 D's — Duty + Deviation + Direct causation + Damages；Known complication ≠ malpractice unless deviation → §11.1 |
-| [[mistakes/uworld-mistakes#^Q19110]] ⭐ v1.4.2 | Emergency exception + Informed Refusal same elements + Retroactive consent 不存在 — trauma decompensating → §11.2-5 |
-| [[mistakes/uworld-mistakes#^Q21143]] ⭐ v1.4.3 | Reframing Terminal Illness Goals — wish...worry framework + alternate means → §12.1 |
-| [[mistakes/uworld-mistakes#^Q20531]] ⭐ v1.4.3 | IPV Screening — chronic 不明 somatic + 反复 visits 三联暗号 + normalizing statement → §12.2 |
-| [[mistakes/uworld-mistakes#^Q21242]] ⭐ v1.4.3 | Cross-cultural Care — identify perceptions first，不是 materials / scientific → §12.3 |
-| [[mistakes/uworld-mistakes#^Q21733]] ⭐ v1.4.3 | Medication Adherence — automated reminders for forgetfulness，不是 belittling video → §12.4 |
-| [[mistakes/uworld-mistakes#^Q22080]] ⭐ v1.4.3 | SMART Goals + MI — lifestyle modification first step；routine 不需 preexercise CV testing → §12.5 |
-| [[mistakes/uworld-mistakes#^Q20432]] ⭐ v1.4.4 | PCC First Step — determine pain + activity impact，不 jump to weight loss recommendation；shared decision-making 边界 → §12.6 |
-| [[mistakes/uworld-mistakes#^Q106638]] ⭐ v1.4.4 | Medical Child Abuse Communication — direct + safety-first + 不 dismissive reassurance + mandatory reporting → §12.7 |
-| [[mistakes/uworld-mistakes#^Q3805]] ⭐ v1.4.4 | Boundary Setting — 不评估 + direct schedule normal hours + 不 hypothesize emergency caving → §12.8 |
+| [[mistakes/uworld-mistakes_2026-05#^Q3625]] | Meningococcal — autonomy override 4 例外（公共健康例外不需 court order）→ §一 |
+| [[mistakes/uworld-mistakes_2026-05#^Q18702]] | IVDU IE AMA — AMA 三步法（empathic investigate → document refusal → offer alternative）+ IVDU 必问 withdrawal/cravings → MAT → §三 |
+| [[mistakes/uworld-mistakes_2026-05#^Q105595]] | 青少年 conditional confidentiality — 默认 private + 5 breach 例外 + HIPAA 不保 unconditional → §四 |
+| [[mistakes/uworld-mistakes_2026-05#^Q3614]] | HIPAA employer disclosure — verbal OR written OK + minimum necessary + sensitive default 不透露 → §五 |
+| [[mistakes/uworld-mistakes_2026-05#^Q19048]] | Decision-making capacity reassessment — capacity 4 要素 + 动态可恢复 + surrogate 不 permanent → §二 |
+| [[mistakes/uworld-mistakes_2026-05#^Q7283]] | Pediatric chronic illness disclosure — 先 determine current understanding（阶段 1）→ §七 |
+| [[mistakes/uworld-mistakes_2026-05#^Q3624]] | Joint custody one parent consent — minor consent 3 例外 + court order 仅 both refuse life-saving → §六 |
+| [[mistakes/uworld-mistakes_2026-05#^Q19132]] | Perinatal HIV disclosure — collaborative plan + timeline（阶段 3-4）→ §七 |
+| [[mistakes/uworld-mistakes_2026-05#^Q21627]] | NEOT — end-of-life 3 philosophies + surrogate substituted judgment → §八 |
+| [[mistakes/uworld-mistakes_2026-05#^Q21658]] | Adolescent CF advance care planning — family-centered（patient 作 participant）+ deteriorating 触发 + 反向直觉好处 → §七 |
+| [[mistakes/uworld-mistakes_2026-05#^Q106885]] ⭐ v1.4 | COI in clinical research — industry-employed statistician 做 analysis = 核心 COI / 双盲不能 mitigate analysis bias → §十 |
+| [[mistakes/uworld-mistakes_2026-05#^Q107705]] ⭐ v1.4 | DNR ≠ Do Not Treat — DNR 范围限定（仅 arrest）+ Capacity vs Competency 名词区分 + Surrogate hierarchy 完整版 → §二 + §八 |
+| [[mistakes/uworld-mistakes_2026-05#^Q19063]] ⭐ v1.4 | Directive counseling — complete placenta previa = vaginal contraindicated → CD 唯一 safe → directive counseling + 5 大假尊重 anti-pattern → §九 |
+| [[mistakes/uworld-mistakes_2026-05#^Q22639]] ⭐ v1.4 | Autonomy DEMAND vs REFUSE 不对称 — lung cancer screening request 不达 USPSTF 阈值 → physician 可 ethically decline → §一 |
+| [[mistakes/uworld-mistakes_2026-05#^Q3742]] ⭐ v1.4 | Collateral Information SOP — passive listen / cannot reciprocate / 不强制 include patient + confidentiality 方向不对称 → §五.5 |
+| [[mistakes/uworld-mistakes_2026-05#^Q107497]] ⭐ v1.4.2 | Medical Malpractice 4 D's — Duty + Deviation + Direct causation + Damages；Known complication ≠ malpractice unless deviation → §11.1 |
+| [[mistakes/uworld-mistakes_2026-05#^Q19110]] ⭐ v1.4.2 | Emergency exception + Informed Refusal same elements + Retroactive consent 不存在 — trauma decompensating → §11.2-5 |
+| [[mistakes/uworld-mistakes_2026-05#^Q21143]] ⭐ v1.4.3 | Reframing Terminal Illness Goals — wish...worry framework + alternate means → §12.1 |
+| [[mistakes/uworld-mistakes_2026-05#^Q20531]] ⭐ v1.4.3 | IPV Screening — chronic 不明 somatic + 反复 visits 三联暗号 + normalizing statement → §12.2 |
+| [[mistakes/uworld-mistakes_2026-05#^Q21242]] ⭐ v1.4.3 | Cross-cultural Care — identify perceptions first，不是 materials / scientific → §12.3 |
+| [[mistakes/uworld-mistakes_2026-05#^Q21733]] ⭐ v1.4.3 | Medication Adherence — automated reminders for forgetfulness，不是 belittling video → §12.4 |
+| [[mistakes/uworld-mistakes_2026-05#^Q22080]] ⭐ v1.4.3 | SMART Goals + MI — lifestyle modification first step；routine 不需 preexercise CV testing → §12.5 |
+| [[mistakes/uworld-mistakes_2026-05#^Q20432]] ⭐ v1.4.4 | PCC First Step — determine pain + activity impact，不 jump to weight loss recommendation；shared decision-making 边界 → §12.6 |
+| [[mistakes/uworld-mistakes_2026-05#^Q106638]] ⭐ v1.4.4 | Medical Child Abuse Communication — direct + safety-first + 不 dismissive reassurance + mandatory reporting → §12.7 |
+| [[mistakes/uworld-mistakes_2026-05#^Q3805]] ⭐ v1.4.4 | Boundary Setting — 不评估 + direct schedule normal hours + 不 hypothesize emergency caving → §12.8 |
 
 #### 做对题知识点集成（v1.4 + v1.4.1，不入错题库）
 

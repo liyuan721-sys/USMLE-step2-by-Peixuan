@@ -386,10 +386,10 @@ Stem 关键词 → 0.3 秒锁的答案
 ## 🔗 关联
 
 ### 🔁 同主题错题（Fall 系列 4 题成体系）
-- [[mistakes/uworld-mistakes#^Q107151]] Fall screening tool low PPV（5-26 做对）
-- [[mistakes/uworld-mistakes#^Q107152]] Tailored fall prevention; bed alarm 反 pattern（5-26 错）
-- [[mistakes/uworld-mistakes#^Q107154]] Bone density secondary prevention; call alarm 反 pattern（5-27 错 🔴）
-- [[mistakes/uworld-mistakes#^Q107171]] Visual acuity testing multifactorial（5-27 做对）
+- [[mistakes/uworld-mistakes_2026-05#^Q107151]] Fall screening tool low PPV（5-26 做对）
+- [[mistakes/uworld-mistakes_2026-05#^Q107152]] Tailored fall prevention; bed alarm 反 pattern（5-26 错）
+- [[mistakes/uworld-mistakes_2026-05#^Q107154]] Bone density secondary prevention; call alarm 反 pattern（5-27 错 🔴）
+- [[mistakes/uworld-mistakes_2026-05#^Q107171]] Visual acuity testing multifactorial（5-27 做对）
 
 ### 📚 主笔记
 - [[完整笔记/Peixuan分科笔记/骨科]]（osteoporosis / hip fracture / FRAX / DEXA / bisphosphonate）

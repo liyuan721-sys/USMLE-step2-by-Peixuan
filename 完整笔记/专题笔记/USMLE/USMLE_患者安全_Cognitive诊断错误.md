@@ -955,12 +955,12 @@ Stem 问的是什么任务？
 ## 🔗 关联
 
 - 🔁 **同主题错题**（聚焦 Cognitive Bias + Diagnostic Error）：
-  - [[mistakes/uworld-mistakes#^Q106048]] Cognitive Overload root cause + Availability + Confirmation（5-27 错）
-  - [[mistakes/uworld-mistakes#^Q106049]] CDSS 减 cognitive overload；"Cause 已知 → 不需 RCA"（5-27 错）
-  - [[mistakes/uworld-mistakes#^Q106764]] Framing bias case-level（5-26 做对）
-  - [[mistakes/uworld-mistakes#^Q106765]] Defensive Medicine vs cognitive bias 边界（5-26 错）
-  - [[mistakes/uworld-mistakes#^Q18796]] / [[mistakes/uworld-mistakes#^Q18797]] 4 大经典 cognitive bias / Anchoring vs Framing
-  - [[mistakes/uworld-mistakes#^Q21366]] Implicit Bias 3 步管理
+  - [[mistakes/uworld-mistakes_2026-05#^Q106048]] Cognitive Overload root cause + Availability + Confirmation（5-27 错）
+  - [[mistakes/uworld-mistakes_2026-05#^Q106049]] CDSS 减 cognitive overload；"Cause 已知 → 不需 RCA"（5-27 错）
+  - [[mistakes/uworld-mistakes_2026-05#^Q106764]] Framing bias case-level（5-26 做对）
+  - [[mistakes/uworld-mistakes_2026-05#^Q106765]] Defensive Medicine vs cognitive bias 边界（5-26 错）
+  - [[mistakes/uworld-mistakes_2026-05#^Q18796]] / [[mistakes/uworld-mistakes_2026-05#^Q18797]] 4 大经典 cognitive bias / Anchoring vs Framing
+  - [[mistakes/uworld-mistakes_2026-05#^Q21366]] Implicit Bias 3 步管理
 - 📚 **配套子文件**：
   - [[完整笔记/专题笔记/USMLE/USMLE_患者安全_QI工具]]
   - [[完整笔记/专题笔记/USMLE/USMLE_患者安全_Safety文化与沟通]]

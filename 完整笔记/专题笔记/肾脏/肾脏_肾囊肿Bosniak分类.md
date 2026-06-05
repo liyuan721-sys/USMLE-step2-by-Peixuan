@@ -9,7 +9,7 @@ type: 专题笔记
 # 肾脏 — Renal Cyst Bosniak 分类 + 偶发病变管理
 
 > [!info] 笔记定位
-> Renal cyst Bosniak 分类是 USMLE Step 2 偶发肾病变管理的核心决策树。**Simple renal cyst（Bosniak I）**在 > 50 岁人群普及率 ~50%，几乎全部良性，无需 follow-up。"Reassurance only" 是高频正确答案，反过度医疗。本笔记同时覆盖 incidentaloma 元 pattern（跨 4 大：肾 / 肾上腺 / 甲状腺 / 肺 nodule）。来源：[[mistakes/uworld-mistakes#^Q4181]]（错题 2026-05-28，体系早建 v1）。
+> Renal cyst Bosniak 分类是 USMLE Step 2 偶发肾病变管理的核心决策树。**Simple renal cyst（Bosniak I）**在 > 50 岁人群普及率 ~50%，几乎全部良性，无需 follow-up。"Reassurance only" 是高频正确答案，反过度医疗。本笔记同时覆盖 incidentaloma 元 pattern（跨 4 大：肾 / 肾上腺 / 甲状腺 / 肺 nodule）。来源：[[mistakes/uworld-mistakes_2026-05#^Q4181]]（错题 2026-05-28，体系早建 v1）。
 
 ---
 
@@ -35,7 +35,7 @@ type: 专题笔记
 *↑ UWorld Simple vs Malignant 对照 CT：左 Simple cyst（薄壁/单腔/无 enhancement）| 右 Malignant cystic mass（不规则壁/多腔/异质 + enhancement）*
 
 ![[{59569AB0-1C81-4842-B468-E7B1D50EA3A4}.png]]
-*↑ Bosniak I 简单囊肿典型 CT 冠状位（来源 [[mistakes/uworld-mistakes#^Q4181]]）：圆形低密度灶 + 薄壁 + 无内分隔*
+*↑ Bosniak I 简单囊肿典型 CT 冠状位（来源 [[mistakes/uworld-mistakes_2026-05#^Q4181]]）：圆形低密度灶 + 薄壁 + 无内分隔*
 
 ![[{D6D5097C-96A8-4A3D-A27B-6DF5F1C2870F}.png]]
 *↑ Hydronephrosis 对照（**非囊肿** — 是肾盂扩张 / ureter 梗阻征）：仅此情况才考虑 ureteral stent placement；不要与 simple cyst 混淆*
@@ -145,7 +145,7 @@ Bosniak Class IV
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q4181]] Simple renal cyst → Reassurance only（5-28 错题 — 体系源头）
+  - [[mistakes/uworld-mistakes_2026-05#^Q4181]] Simple renal cyst → Reassurance only（5-28 错题 — 体系源头）
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/肾脏]]（待加 Bosniak 章节 — 目前空白）
   - [[完整笔记/Peixuan分科笔记/外科]]（偶发病变管理 + 影像决策）

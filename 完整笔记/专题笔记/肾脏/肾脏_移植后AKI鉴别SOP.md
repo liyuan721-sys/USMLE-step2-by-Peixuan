@@ -8,7 +8,7 @@ type: 专题笔记
 ---
 
 > [!info] 触发错题
-> 由 [[mistakes/uworld-mistakes#^Q16323]] Transplant RAS（1-2 yr 内 + ACEI 后 Cr↑ + resistant HTN）+ [[mistakes/uworld-mistakes#^Q16485]] CNI 急性毒性（diltiazem CYP3A4 抑制 → tacro 血药↑ → arteriolar vasoconstriction）一同触发；两道均涉及 post-tx AKI 鉴别 5 项 SOP → 整合成完整框架。
+> 由 [[mistakes/uworld-mistakes_2026-05#^Q16323]] Transplant RAS（1-2 yr 内 + ACEI 后 Cr↑ + resistant HTN）+ [[mistakes/uworld-mistakes_2026-05#^Q16485]] CNI 急性毒性（diltiazem CYP3A4 抑制 → tacro 血药↑ → arteriolar vasoconstriction）一同触发；两道均涉及 post-tx AKI 鉴别 5 项 SOP → 整合成完整框架。
 
 # 移植后 AKI 鉴别 SOP (Post-Transplant Acute Kidney Injury) 完整框架
 
@@ -175,8 +175,8 @@ Transplant patient with AF needs rate control
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q16323]] Transplant RAS（post-tx 1-2 yr + ACEI 后 Cr↑ + resistant HTN）
-  - [[mistakes/uworld-mistakes#^Q16485]] CNI 急性毒性（diltiazem CYP3A4 抑制 → 血药↑ → arteriolar vasoconstriction）
+  - [[mistakes/uworld-mistakes_2026-05#^Q16323]] Transplant RAS（post-tx 1-2 yr + ACEI 后 Cr↑ + resistant HTN）
+  - [[mistakes/uworld-mistakes_2026-05#^Q16485]] CNI 急性毒性（diltiazem CYP3A4 抑制 → 血药↑ → arteriolar vasoconstriction）
 - 📚 主笔记：
   - [[完整笔记/专题笔记/肾脏/肾脏_移植术后并发症记忆地图]]（★ 抗遗忘入口页 — 时间轴 / Cr↑五选一 / 药物人设 / 全症状反查表）
   - [[完整笔记/Peixuan分科笔记/肾脏]]（AKI 鉴别主章节）

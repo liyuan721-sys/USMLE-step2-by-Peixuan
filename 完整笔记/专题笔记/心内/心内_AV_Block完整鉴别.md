@@ -134,7 +134,7 @@ QRS 节律 (规律, 室率 35):    QRS  ─  QRS  ─  QRS
 > [!info] UWorld Mobitz I vs II 鉴别表（高密度对照，必背）⭐
 > ![[{076A3A14-4304-48E4-9091-BA4F9A7417A9}.png]]
 > 6 维对照：阻滞水平 / ECG / QRS 宽度 / 迷走 ↓ 反应 / 迷走 ↑ 反应 / 进展完全 AVB 风险（→ PPM 指征）
-> 同图在 [[mistakes/uworld-mistakes#^Q3766]]
+> 同图在 [[mistakes/uworld-mistakes_2026-05#^Q3766]]
 
 ---
 
@@ -482,7 +482,7 @@ AV Block 患者
 ## 12. 关联
 
 - 🔁 **同主题错题**：
-  - [[mistakes/uworld-mistakes#^Q3766]] Mobitz I vs II 鉴别（本笔记来源 ⭐）
+  - [[mistakes/uworld-mistakes_2026-05#^Q3766]] Mobitz I vs II 鉴别（本笔记来源 ⭐）
   - 等束支阻滞 / 病窦 / 急性 MI + 传导阻滞题积累
 - 📚 **主笔记 + 已有衍生**：
   - [[完整笔记/Peixuan分科笔记/心内]]

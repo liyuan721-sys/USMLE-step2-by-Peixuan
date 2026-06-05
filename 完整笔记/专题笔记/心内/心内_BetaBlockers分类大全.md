@@ -14,7 +14,7 @@ source: 2026-05-18 Claude.ai 草稿 v1 整合（Q15973 触发）
 > 这是 BB 章节的**根基笔记**。所有 BB 相关错题、临床决策、副作用陷阱都从这里展开。
 > **跨学科引用**：心内 / 内分泌（甲亢、嗜铬、DM）/ 产科（孕期 HTN）/ 神经（migraine 预防、表演焦虑）/ 消化（门脉高压）/ 眼科（青光眼）。
 >
-> **触发错题**：[[mistakes/uworld-mistakes#^Q15973]]（Conventional BB → weight gain + glucose intolerance）
+> **触发错题**：[[mistakes/uworld-mistakes_2026-05#^Q15973]]（Conventional BB → weight gain + glucose intolerance）
 >
 > **姐妹专题**：[[完整笔记/专题笔记/心内/心内_降压药副作用速查]]（HTN 药物广覆盖 — 5+2 类降压药矩阵）；本笔记是 **BB-specific 深度**。
 
@@ -465,7 +465,7 @@ Vasodilatory BB（carvedilol / labetalol / nebivolol）
 ## 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q15973]] 降压药 + DM 代谢副作用（首题，触发本笔记，2026-05-18）
+  - [[mistakes/uworld-mistakes_2026-05#^Q15973]] 降压药 + DM 代谢副作用（首题，触发本笔记，2026-05-18）
   - 等积累后续：HFrEF GDMT 用药 / 甲亢风暴 / 孕期 HTN / 门脉高压预防 等
 - 📚 主笔记 / 姐妹专题：
   - [[完整笔记/Peixuan分科笔记/心内]]（HF / HTN / 心律失常 / CAD 章节都用 BB）

@@ -7,7 +7,7 @@ type: 专题笔记
 ---
 
 > [!info] 触发错题
-> 由 [[mistakes/uworld-mistakes#^Q4007]] AIN by allopurinol（混淆 DIL）+ [[mistakes/uworld-mistakes#^Q4004]] Analgesic nephropathy CTIN（混淆 nephrolithiasis）一同触发；两道均为同日 UA WBC casts 没扫到导致选错 → 整合成"间质性肾炎家族"对照笔记。
+> 由 [[mistakes/uworld-mistakes_2026-05#^Q4007]] AIN by allopurinol（混淆 DIL）+ [[mistakes/uworld-mistakes_2026-05#^Q4004]] Analgesic nephropathy CTIN（混淆 nephrolithiasis）一同触发；两道均为同日 UA WBC casts 没扫到导致选错 → 整合成"间质性肾炎家族"对照笔记。
 
 # 间质性肾炎家族 (Interstitial Nephritis Family) — AIN vs CTIN 对照
 
@@ -179,8 +179,8 @@ AKI + 慢性 OR 急性？
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q4007]] AIN by allopurinol（混淆 DIL — WBC casts 没扫到）
-  - [[mistakes/uworld-mistakes#^Q4004]] Analgesic nephropathy CTIN（混淆 nephrolithiasis — Flank pain 反射 stone）
+  - [[mistakes/uworld-mistakes_2026-05#^Q4007]] AIN by allopurinol（混淆 DIL — WBC casts 没扫到）
+  - [[mistakes/uworld-mistakes_2026-05#^Q4004]] Analgesic nephropathy CTIN（混淆 nephrolithiasis — Flank pain 反射 stone）
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/肾脏]]（AKI / 间质性肾炎主章节）
   - [[完整笔记/专题笔记/肾脏/肾脏_AKI病因全谱]] ★（顶层总览 — 5 兄弟 + 特殊毒物 + 色素 + 结晶 + 血管，2026-05-28）

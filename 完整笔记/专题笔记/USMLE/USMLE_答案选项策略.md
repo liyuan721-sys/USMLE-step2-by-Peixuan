@@ -228,9 +228,9 @@ USMLE 几乎不给 all of above 当答案，因为：
 ## §六 关联
 
 - 🔁 **同主题错题**：
-  - [[mistakes/uworld-mistakes#^Q19-2026-05-24]] DPN "D = any of above" 首错（🔴 + #难记）
-  - [[mistakes/uworld-mistakes#^Q2-2026-05-26]] DPN 同题再错（升 🔴）
-  - [[mistakes/uworld-mistakes#^Q3-2026-05-27]] Tourette anchor by letter（新型 anchor 陷阱）
+  - [[mistakes/uworld-mistakes_2026-05#^Q19-2026-05-24]] DPN "D = any of above" 首错（🔴 + #难记）
+  - [[mistakes/uworld-mistakes_2026-05#^Q2-2026-05-26]] DPN 同题再错（升 🔴）
+  - [[mistakes/uworld-mistakes_2026-05#^Q3-2026-05-27]] Tourette anchor by letter（新型 anchor 陷阱）
 - 📚 **主笔记**：
   - [[完整笔记/专题笔记/USMLE/USMLE_读题策略]]（stem 读法 + 时间方向 + decisive vs 锦上添花）
   - [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]]（学科特定陷阱）

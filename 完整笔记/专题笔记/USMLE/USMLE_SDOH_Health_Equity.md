@@ -223,7 +223,7 @@ Minority / immigrant patient hesitant for screening / treatment
 > ❌ 不是直接发 culturally appropriate materials（adjunct）
 > ❌ 不是反射推家庭 discussion（要看 individual preference）
 
-详见 [[mistakes/uworld-mistakes#^Q21242]] 完整拆解。
+详见 [[mistakes/uworld-mistakes_2026-05#^Q21242]] 完整拆解。
 
 ---
 
@@ -301,8 +301,8 @@ Minority / immigrant patient hesitant for screening / treatment
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q21242]] Cross-cultural Care — first step = identify perceptions（非白人 cancer screening hesitant）
-  - [[mistakes/uworld-mistakes#^Q21366]] Implicit Bias — group debriefing + metacognition（Joint Commission 3 步 + 4 反 pattern；与 SDOH 互补的 provider-side mechanism）
+  - [[mistakes/uworld-mistakes_2026-05#^Q21242]] Cross-cultural Care — first step = identify perceptions（非白人 cancer screening hesitant）
+  - [[mistakes/uworld-mistakes_2026-05#^Q21366]] Implicit Bias — group debriefing + metacognition（Joint Commission 3 步 + 4 反 pattern；与 SDOH 互补的 provider-side mechanism）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]]（§13.3.3 Patient-Associated Risk Factors 简版 + §13.4.x Implicit Bias 完整管理）
 - 🏥 跨学科：
   - [[完整笔记/Peixuan分科笔记/Biostats_Master]] — Screening 完成率 disparities by minority / immigrant status + Quaternary prevention

@@ -398,10 +398,10 @@ Patient 有 high-deductible / 无险 / 经济负担
 ## §5 关联
 
 - 🔁 锚定错题：
-  - [[mistakes/uworld-mistakes#^Q21751]] P4P / ACO = 双向优化 cost + quality
-  - [[mistakes/uworld-mistakes#^Q21966]] PCC + medication affordability
-  - [[mistakes/uworld-mistakes#^Q106618]] P4P + Equity / 防 disparity widening（§2.4 锚）
-  - [[mistakes/uworld-mistakes#^Q126839]] Managed care 反向激励 + Physician COI（§2.5 锚）
+  - [[mistakes/uworld-mistakes_2026-05#^Q21751]] P4P / ACO = 双向优化 cost + quality
+  - [[mistakes/uworld-mistakes_2026-05#^Q21966]] PCC + medication affordability
+  - [[mistakes/uworld-mistakes_2026-05#^Q106618]] P4P + Equity / 防 disparity widening（§2.4 锚）
+  - [[mistakes/uworld-mistakes_2026-05#^Q126839]] Managed care 反向激励 + Physician COI（§2.5 锚）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]]（§十一 Communication / 待补 §医疗系统）
 - 🤝 兄弟衍生：
   - [[完整笔记/专题笔记/Ethics/Ethics_Communication_Counseling]]（PEARLS / shared decision-making 沟通框架）

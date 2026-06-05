@@ -133,7 +133,7 @@ Phase 0 →     ↘
 > [!tip] 共同主线 — "Unopposed α1 三大场景"
 > 后 3 行（可卡因 / 嗜铬 / Vasospasm）共享机制：**β2 阻断 → 血管失去扩张缓冲 → α1 收缩无对抗 → 痉挛 / HTN 危象**。
 > 一句话：**"看到 unopposed α1 三连，永远不上单 β-B"**。
-> 来源 [[mistakes/uworld-mistakes#^Q2723]] Vasospastic Angina 用药。
+> 来源 [[mistakes/uworld-mistakes_2026-05#^Q2723]] Vasospastic Angina 用药。
 
 ---
 
@@ -865,13 +865,13 @@ HFrEF + AFib + 用药列表含 Digoxin + 多系统亚急性症状
 ## 🔗 关联
 
 - 🔁 **同主题错题**：
-  - [[mistakes/uworld-mistakes#^Q3910]] J&L-N LQTS（首张电生理 / 抗心律失常药卡）
-  - [[mistakes/uworld-mistakes#^STQ20260515-38]] Class IB 独特机制 — 缩短 QT（Vaughan-Williams 三亚类对比）
-  - [[mistakes/uworld-mistakes#^STQ20260516-15]] Vaughan Williams 4 大类 ECG 双向锁死（反向题）→ Part 12.10
-  - [[mistakes/uworld-mistakes#^STQ20260516-16]] CAST 临床应用反向（远期 MI 干扰项）→ Part 12.11
-  - [[mistakes/uworld-mistakes#^Q3069]] WPW + Preexcited AF → Procainamide（Class I 三亚类适应症陷阱 + ABCD-V 禁忌 + Digoxin 双重雷）
-  - [[mistakes/uworld-mistakes#^Q4454]] Digoxin Toxicity（综合征三联 + DIG-SICK + first step = dig level not echo + DigiFab）→ 触发 Part 6.1
-  - [[mistakes/uworld-mistakes#^Q2141]] Symptomatic Bradycardia → Atropine 1st line（缓 vs 速反向 + 5 大禁用药 + D Glucagon / E NE 干扰项）→ 触发 Part 7.6.y + 7.6.z
+  - [[mistakes/uworld-mistakes_2026-05#^Q3910]] J&L-N LQTS（首张电生理 / 抗心律失常药卡）
+  - [[mistakes/uworld-mistakes_2026-05#^STQ20260515-38]] Class IB 独特机制 — 缩短 QT（Vaughan-Williams 三亚类对比）
+  - [[mistakes/uworld-mistakes_2026-05#^STQ20260516-15]] Vaughan Williams 4 大类 ECG 双向锁死（反向题）→ Part 12.10
+  - [[mistakes/uworld-mistakes_2026-05#^STQ20260516-16]] CAST 临床应用反向（远期 MI 干扰项）→ Part 12.11
+  - [[mistakes/uworld-mistakes_2026-05#^Q3069]] WPW + Preexcited AF → Procainamide（Class I 三亚类适应症陷阱 + ABCD-V 禁忌 + Digoxin 双重雷）
+  - [[mistakes/uworld-mistakes_2026-05#^Q4454]] Digoxin Toxicity（综合征三联 + DIG-SICK + first step = dig level not echo + DigiFab）→ 触发 Part 6.1
+  - [[mistakes/uworld-mistakes_2026-05#^Q2141]] Symptomatic Bradycardia → Atropine 1st line（缓 vs 速反向 + 5 大禁用药 + D Glucagon / E NE 干扰项）→ 触发 Part 7.6.y + 7.6.z
   - 等后续 Brugada / CPVT / 获得性 QT / TdP / 更多 WPW / SVT 错题积累
 - 📚 **主笔记**：
   - [[完整笔记/Peixuan分科笔记/心内]]（电生理 + 心律失常）

@@ -148,7 +148,7 @@ Adenosine                                    Atropine
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q19788]] Glucovance vs Glucophage sound-alike + teach-back（5-27 做对）
+  - [[mistakes/uworld-mistakes_2026-05#^Q19788]] Glucovance vs Glucophage sound-alike + teach-back（5-27 做对）
   - （暂无 adenosine / atropine 直接错题；等积累后回填）
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/心内]]（adenosine / atropine）

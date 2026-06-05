@@ -9,7 +9,7 @@ type: 专题笔记
 # 肾脏 — ADPKD 多囊肾 正向锁定 6 联指纹
 
 > [!info] 笔记定位
-> ADPKD (Autosomal Dominant Polycystic Kidney Disease) 是 USMLE Step 2 肾科高频题型。本笔记目标：**从"排除法选对"升级到"5 秒正向锁定"**。来源：[[mistakes/uworld-mistakes#^Q4474]]（5-28 做对题但**排除法 + 正向反射未建立** → 早建 v1）。
+> ADPKD (Autosomal Dominant Polycystic Kidney Disease) 是 USMLE Step 2 肾科高频题型。本笔记目标：**从"排除法选对"升级到"5 秒正向锁定"**。来源：[[mistakes/uworld-mistakes_2026-05#^Q4474]]（5-28 做对题但**排除法 + 正向反射未建立** → 早建 v1）。
 
 ---
 
@@ -233,8 +233,8 @@ PKD1/PKD2 突变 → polycystin 异常
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q4474]] ADPKD 正向锁定 6 联（5-28 做对题但排除法 — 体系源头）
-  - [[mistakes/uworld-mistakes#^Q4181]] Simple renal cyst（5-28 — 同肾囊肿但单纯偶发对照）
+  - [[mistakes/uworld-mistakes_2026-05#^Q4474]] ADPKD 正向锁定 6 联（5-28 做对题但排除法 — 体系源头）
+  - [[mistakes/uworld-mistakes_2026-05#^Q4181]] Simple renal cyst（5-28 — 同肾囊肿但单纯偶发对照）
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/肾脏]] line 643-654 已有 ADPKD 速查（本笔记是衍生扩展）
   - [[完整笔记/专题笔记/肾脏/肾脏_肾囊肿Bosniak分类]]（Simple vs ADPKD vs RCC 三联鉴别同框）

@@ -113,8 +113,8 @@ type: 专题笔记
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q3189]] 海洛因戒断 vs BZD 戒断（戒断症状 + 体检发现对照）
-  - [[mistakes/uworld-mistakes#^Q13573]] 长期阿片治疗 + 处方监控 + UDS 假阳性
+  - [[mistakes/uworld-mistakes_2026-05#^Q3189]] 海洛因戒断 vs BZD 戒断（戒断症状 + 体检发现对照）
+  - [[mistakes/uworld-mistakes_2026-05#^Q13573]] 长期阿片治疗 + 处方监控 + UDS 假阳性
 - 📚 主笔记：[[完整笔记/专题笔记/psych/psych_物质急诊速查]] —— 横向比较总索引（**阿片重点深挖在** §9 戒断镜像 + 戒断对症急救药、§14 Opioid 处方规范与监测、§15 OUD 维持期 3 药对比；另见 §3 中毒鉴别表、§11 Stem 模式库、§12 完整管理对照表）。
 - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/外科]]（围术期 / 慢性疼痛阿片处方 — 安全处方、PDMP 监测、术后呼吸抑制风险）。
 - 🌱 TODO（待生成衍生）：等阿片处方 / 维持期错题积累 ≥3 题，整合 Naloxone / Methadone / Buprenorphine / Naltrexone 三阶段决策 → 生成 [[完整笔记/专题笔记/_衍生_阿片三阶段用药决策树]]。

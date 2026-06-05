@@ -1549,13 +1549,13 @@ Nurse 评 surgeon 低（48）— 因为 surgeon 没充分 acknowledge input
 ## 🔗 关联
 
 - 🔁 **同主题错题**（聚焦 Safety 文化 + Communication）：
-  - [[mistakes/uworld-mistakes#^Q106620]] Psychological Safety vs Closed-loop vs Cognitive Bias（5-27 做对）
-  - [[mistakes/uworld-mistakes#^Q22186]] Surgical Time-out + 患者参与 site verification（5-27 错）
-  - [[mistakes/uworld-mistakes#^Q105800]] Shoulder Dystocia SBT（5-26 入库）
-  - [[mistakes/uworld-mistakes#^Q106042]] Just Culture 时序原则
-  - [[mistakes/uworld-mistakes#^Q19739]] / [[mistakes/uworld-mistakes#^Q23112]] Features of Effective Teams 6 元素
-  - [[mistakes/uworld-mistakes#^Q4320]] / [[mistakes/uworld-mistakes#^Q13465]] Abuse identification + mandatory reporting
-  - [[mistakes/uworld-mistakes#^Q107227]] / [[mistakes/uworld-mistakes#^Q106239]] Time-out 3 要素
+  - [[mistakes/uworld-mistakes_2026-05#^Q106620]] Psychological Safety vs Closed-loop vs Cognitive Bias（5-27 做对）
+  - [[mistakes/uworld-mistakes_2026-05#^Q22186]] Surgical Time-out + 患者参与 site verification（5-27 错）
+  - [[mistakes/uworld-mistakes_2026-05#^Q105800]] Shoulder Dystocia SBT（5-26 入库）
+  - [[mistakes/uworld-mistakes_2026-05#^Q106042]] Just Culture 时序原则
+  - [[mistakes/uworld-mistakes_2026-05#^Q19739]] / [[mistakes/uworld-mistakes_2026-05#^Q23112]] Features of Effective Teams 6 元素
+  - [[mistakes/uworld-mistakes_2026-05#^Q4320]] / [[mistakes/uworld-mistakes_2026-05#^Q13465]] Abuse identification + mandatory reporting
+  - [[mistakes/uworld-mistakes_2026-05#^Q107227]] / [[mistakes/uworld-mistakes_2026-05#^Q106239]] Time-out 3 要素
 - 📚 **配套子文件**：
   - [[完整笔记/专题笔记/USMLE/USMLE_患者安全_QI工具]]
   - [[完整笔记/专题笔记/USMLE/USMLE_患者安全_Cognitive诊断错误]]

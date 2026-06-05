@@ -161,11 +161,11 @@ W9 NBME16 + Free120#1 │ W10 Free120 #2/#3 + UWSA3 → 考试
 
 | 优先级 | 薄弱点 | 错点本质 | 复习入口 |
 |---|---|---|---|
-| ⭐⭐⭐🔴 | **DLB ψ vs PD ψ Step 5 钓饵**（5-28 新升 🔴 + #考前必看 + #难记）⚠️⚠️ | PD ψ Step 5 反射误覆盖 DLB — ψ 早于 levodopa + cog fluctuation 完全被忽略 | [[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]] §六 v1.2 新增决策树 + [[mistakes/uworld-mistakes#^Q19-2026-05-28]] |
-| ⭐⭐🔴 | **Q21477 Swiss Cheese Model**（5-25 + 5-27 反复错 + #难记 / 5-28 首次反射 ✓）| stem 暗号 "all at once / simultaneously" 反射建立中 | [[mistakes/uworld-mistakes#^Q21477]] — 一次连对计数 1/2 |
-| ⭐⭐🔴 | **Q20431 Home Health Care**（5-25 + 5-27 反复错 + #考前必看 / 5-28 首次反射 ✓）| 决策树"stable + mild CI + 能 ADL + homebound" 反射建立中 | [[mistakes/uworld-mistakes#^Q20431]] — 一次连对计数 1/2 |
-| ⭐⭐🟡 | **Atypical MDD first-line = SSRI（不是 MAOI）**（5-28 新错 + #难记）| UWorld 反射"Atypical = phenelzine"外推到 first-line 错 | [[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP]] §3.4.bis v1.1 新增 6 阶梯 + [[mistakes/uworld-mistakes#^Q17-2026-05-28]] |
-| ⭐⭐🔴 | **DPN "any of the above" 选项策略**（5-24 + 5-26 反复错 / 5-27 ✓ 1/2）| pattern 反射选最熟悉单选 — USMLE 选项策略反射建立中 | [[mistakes/uworld-mistakes#^Q19-2026-05-24]] / [[完整笔记/专题笔记/USMLE/USMLE_答案选项策略]] — 连对计数 1/2 |
+| ⭐⭐⭐🔴 | **DLB ψ vs PD ψ Step 5 钓饵**（5-28 新升 🔴 + #考前必看 + #难记）⚠️⚠️ | PD ψ Step 5 反射误覆盖 DLB — ψ 早于 levodopa + cog fluctuation 完全被忽略 | [[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]] §六 v1.2 新增决策树 + [[mistakes/uworld-mistakes_2026-05#^Q19-2026-05-28]] |
+| ⭐⭐🔴 | **Q21477 Swiss Cheese Model**（5-25 + 5-27 反复错 + #难记 / 5-28 首次反射 ✓）| stem 暗号 "all at once / simultaneously" 反射建立中 | [[mistakes/uworld-mistakes_2026-05#^Q21477]] — 一次连对计数 1/2 |
+| ⭐⭐🔴 | **Q20431 Home Health Care**（5-25 + 5-27 反复错 + #考前必看 / 5-28 首次反射 ✓）| 决策树"stable + mild CI + 能 ADL + homebound" 反射建立中 | [[mistakes/uworld-mistakes_2026-05#^Q20431]] — 一次连对计数 1/2 |
+| ⭐⭐🟡 | **Atypical MDD first-line = SSRI（不是 MAOI）**（5-28 新错 + #难记）| UWorld 反射"Atypical = phenelzine"外推到 first-line 错 | [[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP]] §3.4.bis v1.1 新增 6 阶梯 + [[mistakes/uworld-mistakes_2026-05#^Q17-2026-05-28]] |
+| ⭐⭐🔴 | **DPN "any of the above" 选项策略**（5-24 + 5-26 反复错 / 5-27 ✓ 1/2）| pattern 反射选最熟悉单选 — USMLE 选项策略反射建立中 | [[mistakes/uworld-mistakes_2026-05#^Q19-2026-05-24]] / [[完整笔记/专题笔记/USMLE/USMLE_答案选项策略]] — 连对计数 1/2 |
 
 ### 🔴 肾 / 电解质急症反复错簇（2026-06-05 一日大批暴露）⚠️⚠️⚠️
 
@@ -174,13 +174,13 @@ W9 NBME16 + Free120#1 │ W10 Free120 #2/#3 + UWSA3 → 考试
 
 | 卡 | 钉死反射（0.5 秒锁） | 入口 |
 |---|---|---|
-| 🔴 **Q2169 重度高钙（第 3 次错！）** | Ca>14 或症状 → **先 NS + calcitonin**，不先 bone marrow biopsy（诊断等救命后）| [[mistakes/uworld-mistakes#^Q2169]] |
-| 🔴 **Q2181 SIADH 治疗** | 重症低钠（Na<120/seizure）→ **3% 高张盐水**；NS 反加重、碳酸氢钠无效 | [[mistakes/uworld-mistakes#^Q2181]] |
-| 🔴 **Q18520 锂致肾性 DI** | 血渗↑/Na↑ + 尿渗↓（矛盾）+ 锂 → 肾性 DI **缺陷在集合管**；TSH↑是钓饵 | [[mistakes/uworld-mistakes#^Q18520]] |
-| 🔴 **Q16323 移植肾 RAS** | 移植肾 ACEI 后 Cr↑ = RAS → **停/换 ACEI + Doppler**，绝不加量 | [[mistakes/uworld-mistakes#^Q16323]] |
-| 🔴 **Q4007 AIN（allopurinol）** | **WBC casts + 嗜酸 = AIN**（≠DIL 的 RBC casts；≠ACEI 的 bland UA）| [[mistakes/uworld-mistakes#^Q4007]] |
-| 🔴 **Q16296 AA 淀粉样变** | 长期 RA + 肾综无管型 → **Congo red**（≠增殖性免疫沉积/狼疮）| [[mistakes/uworld-mistakes#^Q16296]] |
-| 🟡 **Q2219 HRS（反复不确定）** | 肝硬化 + bland AKI + 肾 US 正常 → **测尿钠**（疑 HRS）| [[mistakes/uworld-mistakes#^Q2219]] |
+| 🔴 **Q2169 重度高钙（第 3 次错！）** | Ca>14 或症状 → **先 NS + calcitonin**，不先 bone marrow biopsy（诊断等救命后）| [[mistakes/uworld-mistakes_2026-05#^Q2169]] |
+| 🔴 **Q2181 SIADH 治疗** | 重症低钠（Na<120/seizure）→ **3% 高张盐水**；NS 反加重、碳酸氢钠无效 | [[mistakes/uworld-mistakes_2026-05#^Q2181]] |
+| 🔴 **Q18520 锂致肾性 DI** | 血渗↑/Na↑ + 尿渗↓（矛盾）+ 锂 → 肾性 DI **缺陷在集合管**；TSH↑是钓饵 | [[mistakes/uworld-mistakes_2026-05#^Q18520]] |
+| 🔴 **Q16323 移植肾 RAS** | 移植肾 ACEI 后 Cr↑ = RAS → **停/换 ACEI + Doppler**，绝不加量 | [[mistakes/uworld-mistakes_2026-05#^Q16323]] |
+| 🔴 **Q4007 AIN（allopurinol）** | **WBC casts + 嗜酸 = AIN**（≠DIL 的 RBC casts；≠ACEI 的 bland UA）| [[mistakes/uworld-mistakes_2026-05#^Q4007]] |
+| 🔴 **Q16296 AA 淀粉样变** | 长期 RA + 肾综无管型 → **Congo red**（≠增殖性免疫沉积/狼疮）| [[mistakes/uworld-mistakes_2026-05#^Q16296]] |
+| 🟡 **Q2219 HRS（反复不确定）** | 肝硬化 + bland AKI + 肾 US 正常 → **测尿钠**（疑 HRS）| [[mistakes/uworld-mistakes_2026-05#^Q2219]] |
 
 > [!tip] 一条贯穿技能（今日最大教训）
 > **"尿渗永远对照血渗/血钠看"**：血浓(渗↑/Na↑)+尿稀 = DI；血稀 = 原发多饮。**单独看 UA/电解质/TSH 就会被钓饵带走**（Q18520 两次栽 TSH、Q4007 栽 ACEI、Q3950 栽造影剂）。
@@ -419,7 +419,7 @@ tag:#薄弱点 tag:#考前必看 -file:"_考前必看" -file:"复习入口_Dashb
 ### 错题与记录
 - [[错题本]]
 - [[薄弱点]]
-- [[mistakes/uworld-mistakes]]
+- [[mistakes/uworld-mistakes_2026-05]]
 - [[NBME/nbme-records]]
 
 ### 小组讲课笔记

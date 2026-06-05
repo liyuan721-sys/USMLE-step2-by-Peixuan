@@ -14,7 +14,7 @@
 - 完整笔记/_衍生_核心疾病专题/(跨科疾病专题，如 Turner/APS)
 - 完整笔记/小组讲课笔记/(课堂笔记归档)
 - notes/(Claude Code 生成的英文高频大纲)
-- mistakes/uworld-mistakes(错题本)
+- mistakes/uworld-mistakes_2026-05(错题本)
 - NBME/nbme-records(NBME 记录)
 - 根目录:错题本.md / 薄弱点.md / 工作流.md / 常用prompts.md / 复习入口_Dashboard.md
 

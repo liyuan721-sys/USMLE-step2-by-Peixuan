@@ -138,7 +138,7 @@ Stem：adjusted OR = 3.07 (95% CI 1.85-5.10)
 | 2 | **Consistency（一致性）** | 不同人群 / 设计 / 时间得相同结果 | 多研究 meta-analysis |
 | 3 | **Specificity（特异性）** | 1 暴露 → 1 结局（弱准则，多因多果常见）| 仅烟瘤 — 但弱 |
 | 4 | **Temporality（时序）⭐** | **暴露在结局之前**（必要条件）| 唯一**必须满足**的准则 |
-| 5 | **Biological gradient（剂量反应）⭐** | dose↑ → effect↑ | [[mistakes/uworld-mistakes#^Q20787]] 高频考点 |
+| 5 | **Biological gradient（剂量反应）⭐** | dose↑ → effect↑ | [[mistakes/uworld-mistakes_2026-05#^Q20787]] 高频考点 |
 | 6 | **Plausibility（生物学合理性）** | 有合理机制 | 流行病学 + 实验室一致 |
 | 7 | **Coherence（连贯性）** | 与既往知识不矛盾 | — |
 | 8 | **Experiment（实验证据）** | RCT 介入证实 | 戒烟可降肺癌 = experiment |
@@ -159,7 +159,7 @@ Stem：adjusted OR = 3.07 (95% CI 1.85-5.10)
 | 情况 | 含义 | 例子 |
 |---|---|---|
 | **Adj OR ≈ Unadj OR**（变化小） | 这些 confounders 没解释关联 → 真实关联 / 或有 unmeasured | Adj OR 3.0 vs Unadj 3.1 |
-| **Adj OR < Unadj OR 但仍显著** | 部分由 confounders 解释 + **残留有 unmeasured** ⭐ | Adj OR 2.65 vs Unadj 3.07（[[mistakes/uworld-mistakes#^Q20227]]）|
+| **Adj OR < Unadj OR 但仍显著** | 部分由 confounders 解释 + **残留有 unmeasured** ⭐ | Adj OR 2.65 vs Unadj 3.07（[[mistakes/uworld-mistakes_2026-05#^Q20227]]）|
 | **Adj OR → 1 / 失去显著** | 关联**完全由**调整的 confounders 解释 | Adj OR 1.05 (CI 含 1) |
 
 > [!tip] USMLE 高频考点
@@ -167,7 +167,7 @@ Stem：adjusted OR = 3.07 (95% CI 1.85-5.10)
 
 ---
 
-## 七、5 个干扰项一刀切（[[mistakes/uworld-mistakes#^Q20227]] 类）
+## 七、5 个干扰项一刀切（[[mistakes/uworld-mistakes_2026-05#^Q20227]] 类）
 
 经典 case-control + OR 3.07 (CI 不含 1) 题，5 个选项各踩什么坑：
 
@@ -200,14 +200,14 @@ Stem：adjusted OR = 3.07 (95% CI 1.85-5.10)
 ## 九、🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q20227]] 🔴 OR 方向 + Case-control 不能算 risk + CI ≠ causality（**3 次反复错家族源头**）
-  - [[mistakes/uworld-mistakes#^Q20787]] Bradford Hill — Dose-Response（铁律 ④ 实例）
-  - [[mistakes/uworld-mistakes#^Q20283]] Case-Control vs Cohort 场景适配
-  - [[mistakes/uworld-mistakes#^Q21248]] OR-CI 表格判读 + Confounding
-  - [[mistakes/uworld-mistakes#^Q12685]] Reporting bias（同 Biostats 偏倚谱）
+  - [[mistakes/uworld-mistakes_2026-05#^Q20227]] 🔴 OR 方向 + Case-control 不能算 risk + CI ≠ causality（**3 次反复错家族源头**）
+  - [[mistakes/uworld-mistakes_2026-05#^Q20787]] Bradford Hill — Dose-Response（铁律 ④ 实例）
+  - [[mistakes/uworld-mistakes_2026-05#^Q20283]] Case-Control vs Cohort 场景适配
+  - [[mistakes/uworld-mistakes_2026-05#^Q21248]] OR-CI 表格判读 + Confounding
+  - [[mistakes/uworld-mistakes_2026-05#^Q12685]] Reporting bias（同 Biostats 偏倚谱）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
 - 📋 邻近笔记：[[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]] / [[完整笔记/专题笔记/Biostats/Biostats_α_β_Power]]
-- 🏥 跨学科：[[完整笔记/Peixuan分科笔记/OB]]（pregnancy-related death 流行病学 / 种族差异 — [[mistakes/uworld-mistakes#^Q20227]] 原 stem）
+- 🏥 跨学科：[[完整笔记/Peixuan分科笔记/OB]]（pregnancy-related death 流行病学 / 种族差异 — [[mistakes/uworld-mistakes_2026-05#^Q20227]] 原 stem）
 - 🌱 TODO：等积累 5+ 道 OR / RR / 因果推断错题 → v2 扩"adjusted vs crude 完整对照表 + Mantel-Haenszel + interaction vs confounding 区分"
 
 ---
@@ -218,4 +218,4 @@ Stem：adjusted OR = 3.07 (95% CI 1.85-5.10)
 - [ ] 默写 **Hill 9 准则**（背完整 9 条，三金刚优先）
 - [ ] 默写 **5 个选项 5 个错点对照**（case-control OR 题钓饵地图）
 - [ ] **反射训练**：见 OR 题 → ① 圈"X compared to Y" → ② 圈研究设计 → ③ 圈 CI → ④ 圈"causality / risk" 钓饵
-- [ ] 连对 2 道 OR 题 → 可降级 [[mistakes/uworld-mistakes#^Q20227]] 从 🔴 回 🟡
+- [ ] 连对 2 道 OR 题 → 可降级 [[mistakes/uworld-mistakes_2026-05#^Q20227]] 从 🔴 回 🟡

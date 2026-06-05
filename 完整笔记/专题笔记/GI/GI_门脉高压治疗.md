@@ -494,7 +494,7 @@ Overwhelming renal vasoconstriction → 急性 oliguric AKI（HRS Type 1）
 唯一根治 = Liver transplant
 ```
 
-> 图同步嵌入自 [[mistakes/uworld-mistakes#^Q4752]]（方案 A 双地点）
+> 图同步嵌入自 [[mistakes/uworld-mistakes_2026-05#^Q4752]]（方案 A 双地点）
 
 ### 6.2 完整治疗阶梯（6 步）
 
@@ -691,7 +691,7 @@ HRS 诊断成立
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - （待入库 — 等做到肝硬化/门脉高压相关 UW 题再追加 `[[mistakes/uworld-mistakes#^Q#####]]`）
+  - （待入库 — 等做到肝硬化/门脉高压相关 UW 题再追加 `[[mistakes/uworld-mistakes_2026-05#^Q#####]]`）
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/GI]]（肝硬化 / 静脉曲张 / HE 母章节）
   - [[完整笔记/Peixuan分科笔记/消化补充内容]]（L13 利尿性 HE + 补钾）

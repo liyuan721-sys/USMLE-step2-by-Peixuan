@@ -308,7 +308,7 @@ Acute ischemic stroke + last DOAC dose < 48 hr
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q4469]] AF 抗凝指征 — CHA₂DS₂-VASc 评分是抗凝触发器，不是"有 AF 就抗凝"
+  - [[mistakes/uworld-mistakes_2026-05#^Q4469]] AF 抗凝指征 — CHA₂DS₂-VASc 评分是抗凝触发器，不是"有 AF 就抗凝"
   - 抗凝药拮抗剂 4 对（2026-05-14 self-test 卡，无 Q 锚点）— 6 对拮抗剂总表 + Warfarin 急性出血 SOP
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/Peixuan分科笔记/hematology oncology]]
 - 🏥 跨学科：

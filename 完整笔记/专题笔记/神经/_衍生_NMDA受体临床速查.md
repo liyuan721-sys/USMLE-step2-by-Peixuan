@@ -54,7 +54,7 @@ LTP（长时程增强）= 学习记忆的细胞基础
 |---|---|---|---|
 | **Ketamine** | 强拮抗 | 分离麻醉（急诊 / 儿科 / 战地）；街头滥用 "Special K" | DEA Schedule III；致解离 / 幻觉 |
 | **Esketamine** (Spravato) | 强拮抗（S 对映体）| **TRD + MDD with acute SI** | 鼻喷剂；详见 [[完整笔记/专题笔记/psych/_衍生_快速抗抑郁药_Esketamine]] |
-| **PCP** | 强拮抗 | 街头滥用（"天使尘"）| 暴力 + 解离 + 眼球震颤 + 眼震；急救 BZD（详见 [[mistakes/uworld-mistakes#^Q3191]]）|
+| **PCP** | 强拮抗 | 街头滥用（"天使尘"）| 暴力 + 解离 + 眼球震颤 + 眼震；急救 BZD（详见 [[mistakes/uworld-mistakes_2026-05#^Q3191]]）|
 | **Memantine** | **弱**拮抗 | **中-重度 Alzheimer**（不是 mild）| 拮抗病理性谷氨酸过度兴奋，但不灭正常信号 —— "调音不灭音" |
 | **Dextromethorphan** | 弱拮抗 | 止咳；高剂量滥用致解离 / 幻觉 | 配 ondansetron / promethazine 增强滥用风险 |
 | **Tramadol** / **Methadone** | 部分拮抗 | 止痛 / OUD 治疗 | 5-HT 综合征 + 癫痫风险（你 Q3762 卡 Bupropion-Tramadol 并列降阈值药）|
@@ -95,7 +95,7 @@ LTP（长时程增强）= 学习记忆的细胞基础
 
 - 治疗：长效 BZD（chlordiazepoxide / diazepam）—— 重新踩刹车 + 慢慢撤
 - 阿片戒断**不致命**：因为不动 GABA / NMDA 轴
-- 详见 [[mistakes/uworld-mistakes#^Q3762]] Alprazolam withdrawal seizure
+- 详见 [[mistakes/uworld-mistakes_2026-05#^Q3762]] Alprazolam withdrawal seizure
 
 ### 3.5 Excitotoxicity（兴奋毒性）— 卒中 / TBI 的细胞死亡机制
 
@@ -140,11 +140,11 @@ LTP（长时程增强）= 学习记忆的细胞基础
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q3762]] Alprazolam withdrawal seizure（NMDA 上调 + GABA 下调 → 戒断癫痫）
-  - [[mistakes/uworld-mistakes#^Q3191]] PCP 中毒首选 BZD（NMDA 拮抗剂中毒处理）
-  - [[mistakes/uworld-mistakes#^Q15791]] Catatonia（NMDA hypofunction 假说之一 — lorazepam 一线）
-  - [[mistakes/uworld-mistakes#^Q15017]] 新发精神病 workup 顺序（anti-NMDA 脑炎是必排器质病因之一）
-  - [[mistakes/uworld-mistakes#^Q11967]] 儿童急性精神病→SLE（多系统拼图思路 — anti-NMDA 脑炎是同范式）
+  - [[mistakes/uworld-mistakes_2026-05#^Q3762]] Alprazolam withdrawal seizure（NMDA 上调 + GABA 下调 → 戒断癫痫）
+  - [[mistakes/uworld-mistakes_2026-05#^Q3191]] PCP 中毒首选 BZD（NMDA 拮抗剂中毒处理）
+  - [[mistakes/uworld-mistakes_2026-05#^Q15791]] Catatonia（NMDA hypofunction 假说之一 — lorazepam 一线）
+  - [[mistakes/uworld-mistakes_2026-05#^Q15017]] 新发精神病 workup 顺序（anti-NMDA 脑炎是必排器质病因之一）
+  - [[mistakes/uworld-mistakes_2026-05#^Q11967]] 儿童急性精神病→SLE（多系统拼图思路 — anti-NMDA 脑炎是同范式）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/免疫疫苗]]
 - 🏥 跨学科：
   - [[完整笔记/专题笔记/psych/_衍生_快速抗抑郁药_Esketamine]]（Esketamine 详细，NMDA 拮抗剂代表）

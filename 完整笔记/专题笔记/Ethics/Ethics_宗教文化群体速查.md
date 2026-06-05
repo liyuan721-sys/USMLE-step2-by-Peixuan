@@ -416,7 +416,7 @@ type: 专题笔记
 
 - 🔁 **同主题错题**：
   - （待积累 — 当前错题本主要在 capacity / surrogate / consent 范畴，无明确 JW / Christian Science / 其他宗教类专题错题；累积后补回）
-  - [[mistakes/uworld-mistakes]] §minor consent 类 TODO（提及 Jehovah's Witness 拒输血 + parental refusal vaccine + court order）— 见 [[完整笔记/Peixuan分科笔记/ethics]] 反复错引用
+  - [[mistakes/uworld-mistakes_2026-05]] §minor consent 类 TODO（提及 Jehovah's Witness 拒输血 + parental refusal vaccine + court order）— 见 [[完整笔记/Peixuan分科笔记/ethics]] 反复错引用
 - 📚 **主笔记**：
   - [[完整笔记/Peixuan分科笔记/ethics]]（Adult capacity + Minor consent + court order vs ethics committee 完整 SOP — 与本笔记**互补**：主笔记给"决策机制框架"，本笔记给"宗教 / 文化群体特征"）
   - [[完整笔记/Peixuan分科笔记/Ethics_Master]]（§15 JW 输血两种情境对比 — 本笔记 §二扩展）

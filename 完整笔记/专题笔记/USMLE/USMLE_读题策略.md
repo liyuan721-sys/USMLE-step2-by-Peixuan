@@ -231,7 +231,7 @@ Step 4: 任 1 项满足（或 ≥ 阈值）→ 类别诊断成立
 > 
 > **核心教学点**：稳定 + 三件套全阴性 + 无症状 = **可出院**（Q19889 答案 D）；"跳影像直接 OR" 仅左下路（不稳定且复苏未稳定）使用。
 > 
-> 🔗 详见 [[mistakes/uworld-mistakes#^Q19889]]
+> 🔗 详见 [[mistakes/uworld-mistakes_2026-05#^Q19889]]
 
 ### 3.5 一句话锁定
 
@@ -472,7 +472,7 @@ Step 3: 用 demographics + 起病 + 伴随症状定病
 | 错误路径 | Grey Turner → 急性胰腺炎 → 查 lipase |
 | 正确路径 | Grey Turner = 腹膜后出血 → demographics（老烟枪）+ 起病（突发崩溃）→ AAA → 床旁 US |
 | 修正习惯 | 看到经典体征 → **先问病理过程，再列鉴别** |
-| 链回 | [[mistakes/uworld-mistakes#^Q4212]] |
+| 链回 | [[mistakes/uworld-mistakes_2026-05#^Q4212]] |
 
 ### 8.2 Q17169 — Adrenal Crisis vs Anaphylaxis
 
@@ -481,7 +481,7 @@ Step 3: 用 demographics + 起病 + 伴随症状定病
 | 错误路径 | Eos 12% → 过敏 → Anaphylaxis |
 | 正确路径 | PAI 五联指纹（Na↓ / K↑ / HCO3↓ / Glu↓ / Eos↑）+ 数月体重↓ + 应激事件 → Adrenal crisis |
 | 修正习惯 | 症状不特异时 → **指纹思维**；慢性 + 急性 = 失代偿 |
-| 链回 | [[mistakes/uworld-mistakes#^Q17169]] |
+| 链回 | [[mistakes/uworld-mistakes_2026-05#^Q17169]] |
 
 ### 8.3 Q3504 — CVC 置入后必做 CXR
 
@@ -490,7 +490,7 @@ Step 3: 用 demographics + 起病 + 伴随症状定病
 | 错误路径 | 脓毒症 → 抗生素 → 通过新置 CVC 给药 |
 | 正确路径 | Stem 详细描述置管步骤 → **程序性安全题** → CXR 确认位置 → 外周 IV 给抗生素同步 |
 | 修正习惯 | 操作刚结束 + best next step → **默认程序题**，先选确认 |
-| 链回 | [[mistakes/uworld-mistakes#^Q3504]] |
+| 链回 | [[mistakes/uworld-mistakes_2026-05#^Q3504]] |
 
 ### 8.4 Q3354 — Hard vs Soft Signs
 
@@ -499,7 +499,7 @@ Step 3: 用 demographics + 起病 + 伴随症状定病
 | 错误路径 | "no active bleeding" → 排除 hard signs → 走 soft 路径 → Doppler |
 | 正确路径 | 列完整 4B → hematoma + cool + feeble pulses → **2 项 Hard signs** → 直接 OR |
 | 修正习惯 | 见 "no X" → **列完整 criteria 逐项核对**；soft + 缺血 → **质变升级 Hard** |
-| 链回 | [[mistakes/uworld-mistakes#^Q3354]] |
+| 链回 | [[mistakes/uworld-mistakes_2026-05#^Q3354]] |
 
 ---
 
@@ -542,13 +542,13 @@ Step 3: 用 demographics + 起病 + 伴随症状定病
 ## 🔗 关联
 
 - 🔁 **同主题错题**：
-  - [[mistakes/uworld-mistakes#^Q4212]] 体征 ≠ 疾病（Grey Turner 多病因）
-  - [[mistakes/uworld-mistakes#^Q17169]] 症状不特异 → 指纹思维（PAI 五联）
-  - [[mistakes/uworld-mistakes#^Q3504]] 题型识别（程序题 vs 临床决策）
-  - [[mistakes/uworld-mistakes#^Q3354]] criteria 完整核对（4B's of Hard）
-  - [[mistakes/uworld-mistakes#^Q15054]] 先读问句 / first step vs 长期治疗
-  - [[mistakes/uworld-mistakes#^Q2355]] 先读问句 / 急性即刻处理 vs 长期框架
-  - [[mistakes/uworld-mistakes#^Q7289]] 先读问句 / 沟通题 vs 决策题
+  - [[mistakes/uworld-mistakes_2026-05#^Q4212]] 体征 ≠ 疾病（Grey Turner 多病因）
+  - [[mistakes/uworld-mistakes_2026-05#^Q17169]] 症状不特异 → 指纹思维（PAI 五联）
+  - [[mistakes/uworld-mistakes_2026-05#^Q3504]] 题型识别（程序题 vs 临床决策）
+  - [[mistakes/uworld-mistakes_2026-05#^Q3354]] criteria 完整核对（4B's of Hard）
+  - [[mistakes/uworld-mistakes_2026-05#^Q15054]] 先读问句 / first step vs 长期治疗
+  - [[mistakes/uworld-mistakes_2026-05#^Q2355]] 先读问句 / 急性即刻处理 vs 长期框架
+  - [[mistakes/uworld-mistakes_2026-05#^Q7289]] 先读问句 / 沟通题 vs 决策题
   - 等后续 pattern 错题积累
 - 📚 **主笔记 / 衍生互链**：
   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]]（Part 5 指纹思维详解）

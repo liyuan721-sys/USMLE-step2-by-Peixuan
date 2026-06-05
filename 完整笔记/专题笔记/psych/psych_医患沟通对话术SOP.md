@@ -138,7 +138,7 @@ Planning  计划：识别具体步骤、预判障碍、定义成功
 #### 来源
 
 - 2026-05-20 MI 巩固练习第 1 题：52 岁吸烟男（precontemplation），误选 E「你不担心会得肺癌/心脏病吗？」= 疑问句式威胁。正确 C = 非评判认可 + 开放式提问引向患者自己的改变理由。
-- 关联：[[mistakes/uworld-mistakes#^Q11936]] / [[mistakes/uworld-mistakes#^Q21169]]（同一"讲后果"反射，连错根源）
+- 关联：[[mistakes/uworld-mistakes_2026-05#^Q11936]] / [[mistakes/uworld-mistakes_2026-05#^Q21169]]（同一"讲后果"反射，连错根源）
 
 ---
 
@@ -324,10 +324,10 @@ Sound-alike drug                              → teach-back
 
 ## 🔗 关联
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q11936]] MI / 对 precontemplation 患者制造矛盾
-  - [[mistakes/uworld-mistakes#^Q21169]] MI / Evoking change talk 向下问
-  - [[mistakes/uworld-mistakes#^Q105919]] OUD / MAT 家属 misconception "trading one drug" → Part 8（5-27 错）
-  - [[mistakes/uworld-mistakes#^Q19788]] Medication counseling / teach-back / Glucovance/Glucophage sound-alike → Part 9（5-27 做对）
+  - [[mistakes/uworld-mistakes_2026-05#^Q11936]] MI / 对 precontemplation 患者制造矛盾
+  - [[mistakes/uworld-mistakes_2026-05#^Q21169]] MI / Evoking change talk 向下问
+  - [[mistakes/uworld-mistakes_2026-05#^Q105919]] OUD / MAT 家属 misconception "trading one drug" → Part 8（5-27 错）
+  - [[mistakes/uworld-mistakes_2026-05#^Q19788]] Medication counseling / teach-back / Glucovance/Glucophage sound-alike → Part 9（5-27 做对）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 - 🏥 跨学科：
   - [[完整笔记/Peixuan分科笔记/消化腺]]（酗酒 → LFT 升高 / 复发性 acute pancreatitis，MI 高频出现在酒精/物质滥用躯体并发症场景）

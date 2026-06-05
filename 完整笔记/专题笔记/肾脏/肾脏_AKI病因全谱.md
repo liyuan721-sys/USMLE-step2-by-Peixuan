@@ -133,7 +133,7 @@ GN 共同 UA = **RBC casts + dysmorphic RBC + 蛋白尿**
 
 ![[{37FC27AE-0625-494A-B16D-CF569F58DC2E}.png]]
 
-> 图同步自 [[mistakes/uworld-mistakes#^Q4004]]（机制 = APAP 耗竭 glutathione + NSAID/Aspirin 氧化损伤 → CTIN ± papillary necrosis；UA = WBC casts ± 蛋白尿 + 有 papillary necrosis 时 RBC；影像 = 双侧小肾 + papillary calcification + 不规则轮廓）
+> 图同步自 [[mistakes/uworld-mistakes_2026-05#^Q4004]]（机制 = APAP 耗竭 glutathione + NSAID/Aspirin 氧化损伤 → CTIN ± papillary necrosis；UA = WBC casts ± 蛋白尿 + 有 papillary necrosis 时 RBC；影像 = 双侧小肾 + papillary calcification + 不规则轮廓）
 
 > [!warning] 镰刀贫 + NSAID 双高危
 > 镰刀贫病人**禁用 NSAID** 治疼痛危象 — 否则乳头坏死加重
@@ -536,13 +536,13 @@ DIL 主线（抗组蛋白）→ 关节 + 浆膜 + 皮肤 → 停药即愈
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q4491]] Contrast-Associated AKI — IV NS 水化预防 / Hold metformin 防乳酸酸中毒
-  - [[mistakes/uworld-mistakes#^Q4004]] Analgesic Nephropathy — 长期 APAP + NSAID/aspirin → CTIN + 乳头坏死 + 双侧小肾
-  - [[mistakes/uworld-mistakes#^Q4007]] AIN by Allopurinol — 痛风用药 3 周 + 皮疹 + 嗜酸 + WBC casts
-  - [[mistakes/uworld-mistakes#^Q4752]] HRS — splanchnic vasodilation + 扩容无应答 + bland UA
-  - [[mistakes/uworld-mistakes#^Q16485]] CNI Acute Toxicity — Diltiazem CYP3A4 抑制 → tacrolimus 血药 ↑ → afferent 收缩
-  - [[mistakes/uworld-mistakes#^Q16323]] Transplant RAS — 移植 1-2 yr + ACEI 后 Cr ↑ + resistant HTN
-  - [[mistakes/uworld-mistakes#^Q19929]] Hyperkalemia ECG — AKI 后顽固高 K 急救
+  - [[mistakes/uworld-mistakes_2026-05#^Q4491]] Contrast-Associated AKI — IV NS 水化预防 / Hold metformin 防乳酸酸中毒
+  - [[mistakes/uworld-mistakes_2026-05#^Q4004]] Analgesic Nephropathy — 长期 APAP + NSAID/aspirin → CTIN + 乳头坏死 + 双侧小肾
+  - [[mistakes/uworld-mistakes_2026-05#^Q4007]] AIN by Allopurinol — 痛风用药 3 周 + 皮疹 + 嗜酸 + WBC casts
+  - [[mistakes/uworld-mistakes_2026-05#^Q4752]] HRS — splanchnic vasodilation + 扩容无应答 + bland UA
+  - [[mistakes/uworld-mistakes_2026-05#^Q16485]] CNI Acute Toxicity — Diltiazem CYP3A4 抑制 → tacrolimus 血药 ↑ → afferent 收缩
+  - [[mistakes/uworld-mistakes_2026-05#^Q16323]] Transplant RAS — 移植 1-2 yr + ACEI 后 Cr ↑ + resistant HTN
+  - [[mistakes/uworld-mistakes_2026-05#^Q19929]] Hyperkalemia ECG — AKI 后顽固高 K 急救
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/肾脏]]（肾学科主笔记 — AKI / CKD / GN / RTA 全谱）
   - [[完整笔记/专题笔记/肾脏/肾脏_间质性肾炎AIN_CTIN对照]] ★（AIN vs CTIN 深读）

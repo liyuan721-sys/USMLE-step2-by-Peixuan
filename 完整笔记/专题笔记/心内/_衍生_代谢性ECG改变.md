@@ -12,7 +12,7 @@ type: 专题笔记
 
 > [!info] 用途
 > 把"看 ECG 反推病因"的高频 pattern 集中到一张地图。覆盖 5 种电解质（K / Ca / Mg）+ 体温 + 药物中毒（Digoxin / TCA / BB-CCB / Cocaine）+ 神经源性（SAH/ICH）。
-> 错题地基：[[mistakes/uworld-mistakes#^Q19929]] sine wave / [[mistakes/uworld-mistakes#^Q4454]] Digoxin / [[mistakes/uworld-mistakes#^Q21638]] OH。电解质细节见 [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]]。
+> 错题地基：[[mistakes/uworld-mistakes_2026-05#^Q19929]] sine wave / [[mistakes/uworld-mistakes_2026-05#^Q4454]] Digoxin / [[mistakes/uworld-mistakes_2026-05#^Q21638]] OH。电解质细节见 [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]]。
 
 ---
 
@@ -228,8 +228,8 @@ type: 专题笔记
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q19929]] 高钾 sine wave + Brady+Hypo 鉴别
-  - [[mistakes/uworld-mistakes#^Q4454]] Digoxin 中毒诱因（低 K / 低 Mg / 高 Ca → 中毒，bidirectional VT 等表现）
+  - [[mistakes/uworld-mistakes_2026-05#^Q19929]] 高钾 sine wave + Brady+Hypo 鉴别
+  - [[mistakes/uworld-mistakes_2026-05#^Q4454]] Digoxin 中毒诱因（低 K / 低 Mg / 高 Ca → 中毒，bidirectional VT 等表现）
   - （等 TdP / TCA / Osborn / SAH-T 等错题积累）
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/心内]]（心律失常 / ECG）

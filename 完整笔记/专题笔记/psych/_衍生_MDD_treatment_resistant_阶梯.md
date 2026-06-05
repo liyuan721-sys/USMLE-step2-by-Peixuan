@@ -18,7 +18,7 @@ type: 专题笔记
 > | 1 | 2026-05-23 浩斯宾 Q15 | 生成题 | atypical MDD 4 药失败 → ？ | lithium augmentation | **phenelzine (MAOI)** |
 > | 2 | 2026-05-24 浩斯宾 Q24 | 生成题 | 同题型再问 | lithium augmentation | **phenelzine (MAOI)** |
 >
-> + [[mistakes/uworld-mistakes#^Q15925]] atypical 诊断角度（5-21）
+> + [[mistakes/uworld-mistakes_2026-05#^Q15925]] atypical 诊断角度（5-21）
 
 ---
 
@@ -74,7 +74,7 @@ Step 6：神经调控 / 难治性
 
 ### 2.1 Atypical MDD（非典型抑郁）⭐ 用户反复错
 
-**诊断要件**（[[mistakes/uworld-mistakes#^Q15925]]）：
+**诊断要件**（[[mistakes/uworld-mistakes_2026-05#^Q15925]]）：
 - **Mood reactivity（心境反应性）** — 能对正性事件高兴 ⭐ 必有
 - ≥ 2 项：① 食欲 / 体重↑ ② Hypersomnia 嗜睡 ③ Leaden paralysis 铅样麻痹 ④ Interpersonal rejection sensitivity 拒绝敏感
 
@@ -108,7 +108,7 @@ Step 5：ECT / TMS / Esketamine
 | 机制 | 不可逆 MAO-A + MAO-B 抑制 → 5-HT / NE / DA 降解↓ → 突触间神经递质↑ |
 | Atypical 适应症 | **经典专属**（vs TCA 历史对照证据强）|
 | **Washout 时间** | SSRI 停 **2 周** → MAOI；**Fluoxetine 停 5 周**（半衰期长）→ MAOI；停 MAOI ≥ 2 周才能用 SSRI |
-| **忌口（tyramine HTN crisis）** | 陈年奶酪 / 红酒 / 腌肉 / 发酵豆 / 熟透水果 / 啤酒 / 酱料 — 见 [[草稿/2026-05-23_NMS_MH_Serotonin三联鉴别_专题草稿_v1]] §二 / [[mistakes/uworld-mistakes#^Q4879]]|
+| **忌口（tyramine HTN crisis）** | 陈年奶酪 / 红酒 / 腌肉 / 发酵豆 / 熟透水果 / 啤酒 / 酱料 — 见 [[草稿/2026-05-23_NMS_MH_Serotonin三联鉴别_专题草稿_v1]] §二 / [[mistakes/uworld-mistakes_2026-05#^Q4879]]|
 | **5-HT 综合征禁联** | SSRI / SNRI / TCA / tramadol / meperidine / linezolid（弱 MAOI）/ DXM / 曲坦 / methylene blue |
 | 副作用 | 直立性低血压 / 失眠 / 体重↑ / 性功能障碍 |
 | HTN crisis 解药 | **Phentolamine（α 阻断）/ Nitroprusside / Labetalol（α+β）**；**禁单用 β 阻断**（α 失对抗→血压更高）|
@@ -178,7 +178,7 @@ Step 2：ECT ⭐ 跳级
 ```
 
 > [!warning] 单药都不够
-> Psychotic MDD 用 **单 SSRI / 单 SGA / 单 lithium / BZD / MAOI 都不够** — 必须 **SSRI + SGA** 或 **ECT**。[[mistakes/uworld-mistakes#^Q15088]] 🔴 反复错。
+> Psychotic MDD 用 **单 SSRI / 单 SGA / 单 lithium / BZD / MAOI 都不够** — 必须 **SSRI + SGA** 或 **ECT**。[[mistakes/uworld-mistakes_2026-05#^Q15088]] 🔴 反复错。
 
 ---
 
@@ -332,9 +332,9 @@ Step 2：ECT ⭐ 跳级
 **第一步**：
 1. **立即停 SSRI**
 2. **起 mood stabilizer**（lithium / valproate / lamotrigine / 二代抗精神病药）
-3. 后续按 bipolar 维持治疗（4 选 1 — 见 [[mistakes/uworld-mistakes#^Q2357]]）
+3. 后续按 bipolar 维持治疗（4 选 1 — 见 [[mistakes/uworld-mistakes_2026-05#^Q2357]]）
 
-[[mistakes/uworld-mistakes#^Q15054]] 同主题。
+[[mistakes/uworld-mistakes_2026-05#^Q15054]] 同主题。
 
 ---
 
@@ -373,14 +373,14 @@ Step 2：ECT ⭐ 跳级
 ## 九、🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q15925]] 🔴 Atypical MDD 诊断 + 治疗阶梯（**5-21 诊断 + 5-23 浩斯宾 Q15 治疗 + 5-24 浩斯宾 Q24 治疗 — 三次反复错**）
-  - [[mistakes/uworld-mistakes#^Q15088]] 🔴 Psychotic MDD 治疗（SSRI + SGA 双药）
-  - [[mistakes/uworld-mistakes#^Q15811]] Psychotic MDD → ECT（重症跳级）
-  - [[mistakes/uworld-mistakes#^Q15054]] SSRI 转躁 → 停 SSRI + 起 mood stabilizer
-  - [[mistakes/uworld-mistakes#^Q4879]] MAOI tyramine HTN crisis（MAOI 副作用谱）
-  - [[mistakes/uworld-mistakes#^Q7289]] 抗抑郁药青少年自杀（黑框警告 + 治疗仍需做）
-  - [[mistakes/uworld-mistakes#^Q4816]] PDD（dysthymia）vs 人格障碍鉴别
-  - [[mistakes/uworld-mistakes#^Q2357]] 双相维持 4 选 1（与转躁后维持关联）
+  - [[mistakes/uworld-mistakes_2026-05#^Q15925]] 🔴 Atypical MDD 诊断 + 治疗阶梯（**5-21 诊断 + 5-23 浩斯宾 Q15 治疗 + 5-24 浩斯宾 Q24 治疗 — 三次反复错**）
+  - [[mistakes/uworld-mistakes_2026-05#^Q15088]] 🔴 Psychotic MDD 治疗（SSRI + SGA 双药）
+  - [[mistakes/uworld-mistakes_2026-05#^Q15811]] Psychotic MDD → ECT（重症跳级）
+  - [[mistakes/uworld-mistakes_2026-05#^Q15054]] SSRI 转躁 → 停 SSRI + 起 mood stabilizer
+  - [[mistakes/uworld-mistakes_2026-05#^Q4879]] MAOI tyramine HTN crisis（MAOI 副作用谱）
+  - [[mistakes/uworld-mistakes_2026-05#^Q7289]] 抗抑郁药青少年自杀（黑框警告 + 治疗仍需做）
+  - [[mistakes/uworld-mistakes_2026-05#^Q4816]] PDD（dysthymia）vs 人格障碍鉴别
+  - [[mistakes/uworld-mistakes_2026-05#^Q2357]] 双相维持 4 选 1（与转躁后维持关联）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 - 📋 邻近笔记：
   - [[完整笔记/专题笔记/psych/psych_精神科药物副作用速查]]（MAOI / TCA / SSRI / SGA 副作用对照）
@@ -407,4 +407,4 @@ Step 2：ECT ⭐ 跳级
 - [ ] 默写 **Antidepressant 反应时间表**（睡食 1-2 周 / 精力 2-4 周 / 情绪 4-6 周 / 完全 6-12 周）
 - [ ] 默写 **Washout 时间**（SSRI → MAOI 2 周；fluoxetine → MAOI 5 周）
 - [ ] **反射训练**：见 atypical + "愿试经典药" → 0.5 秒喊 MAOI (phenelzine)；不要再回到 lithium augmentation
-- [ ] 连对 2 道 atypical TRD 题 → [[mistakes/uworld-mistakes#^Q15925]] 可降级 🔴 → 🟡
+- [ ] 连对 2 道 atypical TRD 题 → [[mistakes/uworld-mistakes_2026-05#^Q15925]] 可降级 🔴 → 🟡

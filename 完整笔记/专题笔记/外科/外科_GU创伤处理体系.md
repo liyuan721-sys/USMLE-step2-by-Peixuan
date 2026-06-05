@@ -11,7 +11,7 @@ type: 专题笔记
 
 > [!info] 笔记定位
 > GU 创伤是 USMLE Step 2 外科 / 肾科高频题型，考点几乎都落在两件事：**①下一步做哪个影像（按解剖层面三分）②开不开刀（每一层的决定变量不同）**。本笔记目标：见到 stem 5 秒按"层面 → 影像 → 手术/保守"锁答案。
-> 来源错题：[[mistakes/uworld-mistakes#^Q3349]]（后尿道损伤 → retrograde urethrography）/ [[mistakes/uworld-mistakes#^Q3358]]（钝性肾损伤 → CT）。
+> 来源错题：[[mistakes/uworld-mistakes_2026-05#^Q3349]]（后尿道损伤 → retrograde urethrography）/ [[mistakes/uworld-mistakes_2026-05#^Q3358]]（钝性肾损伤 → CT）。
 
 ---
 
@@ -235,8 +235,8 @@ GU 创伤 → 哪一层？
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q3349]] 后尿道损伤 (PUI) → retrograde urethrography + 耻骨上造瘘延期修复（尿道层面 + "为什么延期"机制）
-  - [[mistakes/uworld-mistakes#^Q3358]] 钝性肾损伤 flank+CVA+血尿 → CT abd/pelvis（肾层面影像选择）
+  - [[mistakes/uworld-mistakes_2026-05#^Q3349]] 后尿道损伤 (PUI) → retrograde urethrography + 耻骨上造瘘延期修复（尿道层面 + "为什么延期"机制）
+  - [[mistakes/uworld-mistakes_2026-05#^Q3358]] 钝性肾损伤 flank+CVA+血尿 → CT abd/pelvis（肾层面影像选择）
   - [[mistakes/uworld-mistakes_2026-06#^Q3348]] 腹膜外膀胱破裂（骨盆骨折 + FAST 阴性 → 前壁；FAST 定位两型）
   - （等输尿管 / 睾丸 / 阴茎骨折题积累继续挂）
 - 📚 主笔记：

@@ -99,9 +99,9 @@ type: 专题笔记
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q3187]] 酒精相关考点
-  - [[mistakes/uworld-mistakes#^Q12541]] 酒精相关考点
-  - [[mistakes/uworld-mistakes#^Q15104]] AUD 维持期 Disulfiram 三必备条件
+  - [[mistakes/uworld-mistakes_2026-05#^Q3187]] 酒精相关考点
+  - [[mistakes/uworld-mistakes_2026-05#^Q12541]] 酒精相关考点
+  - [[mistakes/uworld-mistakes_2026-05#^Q15104]] AUD 维持期 Disulfiram 三必备条件
 - 📚 主笔记：[[完整笔记/专题笔记/psych/psych_物质急诊速查]]（横向比较总索引 —— **§9 戒断时间轴 / §15 维持期 3 药 / §16 停药综合征**）
 - 🏥 跨学科：
   - [[完整笔记/Peixuan分科笔记/神经]]（Wernicke-Korsakoff / 戒断 seizure）

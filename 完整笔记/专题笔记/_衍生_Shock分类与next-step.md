@@ -12,7 +12,7 @@ type: 专题笔记
 
 > [!info] 用途
 > USMLE 高频"休克病人下一步"题的统一框架：① 4 大类（+1 内分泌） ② 血流动力学指纹（CVP / PCWP / CO / SVR） ③ 每类一线 next-step ④ 易混镜像题。
-> 锚点错题：[[mistakes/uworld-mistakes#^Q4212]] AAA / [[mistakes/uworld-mistakes#^Q4725]] PEA / [[mistakes/uworld-mistakes#^Q12118]] PPCM / [[mistakes/uworld-mistakes#^Q20254]] 心包填塞 / [[mistakes/uworld-mistakes#^Q17169]] Addison 危象 / [[mistakes/uworld-mistakes#^Q19929]] 高钾伪 brady。
+> 锚点错题：[[mistakes/uworld-mistakes_2026-05#^Q4212]] AAA / [[mistakes/uworld-mistakes_2026-05#^Q4725]] PEA / [[mistakes/uworld-mistakes_2026-05#^Q12118]] PPCM / [[mistakes/uworld-mistakes_2026-05#^Q20254]] 心包填塞 / [[mistakes/uworld-mistakes_2026-05#^Q17169]] Addison 危象 / [[mistakes/uworld-mistakes_2026-05#^Q19929]] 高钾伪 brady。
 
 ---
 
@@ -75,7 +75,7 @@ type: 专题笔记
 ## §二 Hypovolemic（低容量休克）
 
 ### 2.1 类型
-- **出血性 (hemorrhagic)** — 创伤、GI 出血、产科、**ruptured AAA** ⭐（[[mistakes/uworld-mistakes#^Q4212]]）
+- **出血性 (hemorrhagic)** — 创伤、GI 出血、产科、**ruptured AAA** ⭐（[[mistakes/uworld-mistakes_2026-05#^Q4212]]）
 - **非出血性** — 严重脱水 / GI 丢失 / 烧伤 / 第三间隙（胰腺炎）
 
 ### 2.2 Next-Step
@@ -88,7 +88,7 @@ type: 专题笔记
 | ④ 检查反应 | 反应不足 → 找漏诊（继续出血 / 心源性合并）|
 
 > [!danger] Ruptured AAA 钥匙
-> 男性老年 + 长期吸烟 / HTN + 突发腹/背痛 + 低血压 + 搏动性腹部包块 → **OR 直接送**（不等 CT 确诊；不稳定患者不做 CT）。详见 [[mistakes/uworld-mistakes#^Q4212]]。
+> 男性老年 + 长期吸烟 / HTN + 突发腹/背痛 + 低血压 + 搏动性腹部包块 → **OR 直接送**（不等 CT 确诊；不稳定患者不做 CT）。详见 [[mistakes/uworld-mistakes_2026-05#^Q4212]]。
 
 ---
 
@@ -96,8 +96,8 @@ type: 专题笔记
 
 ### 3.1 病因（"泵坏了"）
 - **大面积 MI（最常见）**，含 RV 梗死
-- **机械并发症**：papillary muscle rupture → 急性 MR / VSR（[[mistakes/uworld-mistakes#^Q12340]]）/ 游离壁破裂
-- **PPCM / 暴发性心肌炎 / 心动过速性心肌病**（[[mistakes/uworld-mistakes#^Q12118]] / [[mistakes/uworld-mistakes#^Q4238]]）
+- **机械并发症**：papillary muscle rupture → 急性 MR / VSR（[[mistakes/uworld-mistakes_2026-05#^Q12340]]）/ 游离壁破裂
+- **PPCM / 暴发性心肌炎 / 心动过速性心肌病**（[[mistakes/uworld-mistakes_2026-05#^Q12118]] / [[mistakes/uworld-mistakes_2026-05#^Q4238]]）
 - 重度心律失常 / 重度瓣膜病
 - 心包填塞算 obstructive（见 §四）
 
@@ -117,7 +117,7 @@ type: 专题笔记
 > 心源性休克给 1L NS 可能致死。**先做床旁心超**（评估 EF / 机械并发症 / 心包 / RV），再决定液体。
 > 例外：**RV 梗死**（下壁 MI + RA 怒张 + 清肺 + 低 BP）→ **需要适量补液 + 避免硝酸甘油**（依赖前负荷）。
 
-### 3.3 PEA / 心搏停（[[mistakes/uworld-mistakes#^Q4725]]）
+### 3.3 PEA / 心搏停（[[mistakes/uworld-mistakes_2026-05#^Q4725]]）
 
 ```
 PEA（电活动有 / 无脉搏）
@@ -133,7 +133,7 @@ PEA（电活动有 / 无脉搏）
 
 ## §四 Obstructive（梗阻性休克）
 
-### 4.1 心包填塞（Cardiac Tamponade）— [[mistakes/uworld-mistakes#^Q20254]]
+### 4.1 心包填塞（Cardiac Tamponade）— [[mistakes/uworld-mistakes_2026-05#^Q20254]]
 
 | 维度 | 内容 |
 |---|---|
@@ -194,7 +194,7 @@ PEA（电活动有 / 无脉搏）
 > 2. **Neurogenic shock**（脊髓损伤史、warm）
 > 3. **BB / CCB / Digoxin 中毒**（药物史）
 
-### 5.3 Anaphylactic Shock — vs Adrenal Crisis（[[mistakes/uworld-mistakes#^Q17169]]）
+### 5.3 Anaphylactic Shock — vs Adrenal Crisis（[[mistakes/uworld-mistakes_2026-05#^Q17169]]）
 
 | 维度 | **Anaphylaxis** | **Adrenal Crisis** |
 |---|---|---|
@@ -290,15 +290,15 @@ PEA（电活动有 / 无脉搏）
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q4212]] Ruptured AAA（hypovolemic — 不稳直接 OR）
-  - [[mistakes/uworld-mistakes#^Q4725]] 心搏停 PEA（5H + 5T 可逆因排查）
-  - [[mistakes/uworld-mistakes#^Q12340]] VSR（cardiogenic 机械并发症）
-  - [[mistakes/uworld-mistakes#^Q12118]] PPCM（cardiogenic — 妊娠末月新发心衰）
-  - [[mistakes/uworld-mistakes#^Q4238]] Tachy-induced cardiomyopathy
-  - [[mistakes/uworld-mistakes#^Q20254]] Malignant pericardial effusion → 填塞
-  - [[mistakes/uworld-mistakes#^Q17169]] Adrenal Crisis vs Anaphylaxis（关键镜像题）
-  - [[mistakes/uworld-mistakes#^Q19929]] 高钾伪 brady-shock
-  - [[mistakes/uworld-mistakes#^Q2663]] β-blocker 中毒 → Glucagon（药物源休克）
+  - [[mistakes/uworld-mistakes_2026-05#^Q4212]] Ruptured AAA（hypovolemic — 不稳直接 OR）
+  - [[mistakes/uworld-mistakes_2026-05#^Q4725]] 心搏停 PEA（5H + 5T 可逆因排查）
+  - [[mistakes/uworld-mistakes_2026-05#^Q12340]] VSR（cardiogenic 机械并发症）
+  - [[mistakes/uworld-mistakes_2026-05#^Q12118]] PPCM（cardiogenic — 妊娠末月新发心衰）
+  - [[mistakes/uworld-mistakes_2026-05#^Q4238]] Tachy-induced cardiomyopathy
+  - [[mistakes/uworld-mistakes_2026-05#^Q20254]] Malignant pericardial effusion → 填塞
+  - [[mistakes/uworld-mistakes_2026-05#^Q17169]] Adrenal Crisis vs Anaphylaxis（关键镜像题）
+  - [[mistakes/uworld-mistakes_2026-05#^Q19929]] 高钾伪 brady-shock
+  - [[mistakes/uworld-mistakes_2026-05#^Q2663]] β-blocker 中毒 → Glucagon（药物源休克）
   - （等积累 septic / neurogenic / tension PTX 错题）
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/心内]]（cardiogenic / obstructive）

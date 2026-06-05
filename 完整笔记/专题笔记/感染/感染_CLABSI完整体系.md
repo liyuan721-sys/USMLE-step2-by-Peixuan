@@ -309,7 +309,7 @@ ICU CLABSI rate 持续 elevated（详见 [[完整笔记/专题笔记/USMLE/USMLE
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q3504]] CVC 置入后必做 CXR（CLABSI 不是直接锚但同 CVC 主题）
+  - [[mistakes/uworld-mistakes_2026-05#^Q3504]] CVC 置入后必做 CXR（CLABSI 不是直接锚但同 CVC 主题）
   - 暂无直接 CLABSI 诊治错题（待 UW 出现后回填）
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/感染]]（学科主笔记 — ID 整体视角）

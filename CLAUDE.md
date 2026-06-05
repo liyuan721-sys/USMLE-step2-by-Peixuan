@@ -50,8 +50,9 @@ USMLE-step2-by-Peixuan/
 │
 ├── 草稿/                              ← Claude.ai 生成的草稿（待整合）
 ├── 常用prompts/                       ← Claude Code 调用的 prompt 模板
-├── mistakes/
-│   └── uworld-mistakes.md             ← ⭐ 唯一错题数据源（按日期 ## 分节）
+├── mistakes/                              ← ⭐ 错题数据源（按月拆分，每文件按日期 ## 分节）
+│   ├── uworld-mistakes_2026-05.md             ← 5 月及以前错题
+│   └── uworld-mistakes_2026-06.md             ← ⭐ 当月错题（新错题入这里；每月新建一个）
 ├── NBME/nbme-records.md
 └── notes/                             ← Claude Code 生成的英文高频大纲
     ├── Biostats_Epi.md
@@ -59,8 +60,9 @@ USMLE-step2-by-Peixuan/
 ```
 
 > [!warning] 关键路径速记
-> - **错题数据源**：`mistakes/uworld-mistakes.md`（按日期 `##` 分节）
-> - **错题聚合视图**：`错题本.md`（根目录，Dataview 自动聚合，**不存数据**）
+> - **错题数据源（⭐ 按月拆分）**：新错题进**当月**文件 `mistakes/uworld-mistakes_YYYY-MM.md`（如 2026-06 → `uworld-mistakes_2026-06.md`）；`uworld-mistakes_2026-05.md` 只存 5 月及以前。**入库前先 `Get-ChildItem mistakes\uworld-mistakes_*.md` 找当月文件**（无则按同结构 + frontmatter `type: 错题数据源` 新建，开头注明"延续 [[mistakes/uworld-mistakes_上月]]"）。
+> - **错题反链指向卡所在月文件**：链接某张卡用它**实际所在的月文件**锚点（6 月卡 → `[[mistakes/uworld-mistakes_2026-06#^Q#####]]`，5 月及以前 → `[[mistakes/uworld-mistakes_2026-05#^Q#####]]`）。跨月时别一律写成同一个文件。
+> - **错题聚合视图**：`错题本.md`（根目录，DataviewJS 自动聚合，**不存数据**）。⚠️ 其 JS 当前硬编码**单一文件路径**，新建月文件后需同步把新文件加进扫描列表，否则当月卡不进聚合。
 > - **学科主笔记**：`完整笔记/Peixuan分科笔记/[学科].md`
 > - **专题/衍生笔记**：`完整笔记/专题笔记/[学科]/[笔记名].md`（按学科分子目录）；真正跨学科无单一归属的衍生放 `完整笔记/专题笔记/[笔记名].md` 根目录
 > - **草稿**：vault 根目录下的 `草稿/` 文件夹
@@ -72,8 +74,8 @@ USMLE-step2-by-Peixuan/
 |---|---|---|
 | **学科笔记** | `[[完整笔记/Peixuan分科笔记/学科名]]` | `[[完整笔记/Peixuan分科笔记/Biostats_Master]]` |
 | **专题/衍生** | `[[完整笔记/专题笔记/学科/笔记名]]` | `[[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]]` / `[[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]]` |
-| **错题数据源** | `[[mistakes/uworld-mistakes]]` | — |
-| **错题内部跳转** | `[[mistakes/uworld-mistakes#^Q#####]]` | `[[mistakes/uworld-mistakes#^Q12685]]` |
+| **错题数据源** | `[[mistakes/uworld-mistakes_2026-05]]` | — |
+| **错题内部跳转** | `[[mistakes/uworld-mistakes_2026-05#^Q#####]]` | `[[mistakes/uworld-mistakes_2026-05#^Q12685]]` |
 | **跨科主题** | 双归属（学科 + 专题）| — |
 
 ### ❌ 禁止行为
@@ -103,7 +105,7 @@ USMLE-step2-by-Peixuan/
 
 | 阶段 | 谁负责 | 产出 | 存放位置 |
 |---|---|---|---|
-| 做题时遇到错题 | Claude.ai | 错题卡入库版（callout 折叠 + inline fields 沉底）| 用户手动贴到 `mistakes/uworld-mistakes.md` 当日 `##` 节 |
+| 做题时遇到错题 | Claude.ai | 错题卡入库版（callout 折叠 + inline fields 沉底）| 用户手动贴到 `mistakes/uworld-mistakes_2026-05.md` 当日 `##` 节 |
 | 错题暴露新知识缺口 | Claude.ai | 主笔记草稿（版本递增 v1→v2→v3）| `草稿/` |
 | 章节复习完 | **Claude Code** | 正式主笔记 | `完整笔记/专题笔记/[学科]/xxx.md`；真正跨学科无单一归属 → `完整笔记/专题笔记/_衍生_xxx.md`（根目录）|
 
@@ -112,7 +114,7 @@ USMLE-step2-by-Peixuan/
 ```
 1. 读 CLAUDE.md（本文件）
 2. 找对应草稿（在 草稿/ 下，找 vX 最新版）
-3. 读 mistakes/uworld-mistakes.md 里所有相关 Q##### 错题卡
+3. 读 mistakes/uworld-mistakes_2026-05.md 里所有相关 Q##### 错题卡
    - 可用 grep "学科:: 目标学科" 或 grep "主题:: 关键词" 检索
 4. 检查 完整笔记/专题笔记/**/ 下是否已有同名笔记（按学科子目录搜全）
    - 有 → 增量更新（保留原结构，添加新内容）
@@ -163,7 +165,7 @@ type: 专题笔记
 - 表格**前后必须空行**
 - 子标题和表格之间**必须空一行**
 - ASCII 树**必须包在 ``` 代码块**里
-- **Markdown 表格 cell 内禁用 `[[xxx|alias]]` 形式 wikilink** — `|` 会被 linter 当成列分隔符 → 链接断裂 + 表格列错乱。表格内只用纯 wikilink `[[mistakes/uworld-mistakes#^Q15071]]`（Obsidian 自动显示成 `Q15071`）。段落 / callout / 列表内可继续用 `|alias` 形式
+- **Markdown 表格 cell 内禁用 `[[xxx|alias]]` 形式 wikilink** — `|` 会被 linter 当成列分隔符 → 链接断裂 + 表格列错乱。表格内只用纯 wikilink `[[mistakes/uworld-mistakes_2026-05#^Q15071]]`（Obsidian 自动显示成 `Q15071`）。段落 / callout / 列表内可继续用 `|alias` 形式
 - **错题卡 callout 内的图片嵌入必须带 `>` 前缀**：`> ![[image.png]]`。裸露的 `![[image.png]]` 会**打断 callout**（Obsidian 看到非 `>` 行就结束 callout），导致折叠失效 + 后续 `>` 内容变成**独立 quote block** 永久显示。同理：任何嵌入元素（图片 / pdf / 引用文件）放进 callout 都必须保持 `>` 前缀连续
 - 改完后跑 awk 自查（见工作流.md）：before/after-table 必须为空
 
@@ -187,8 +189,8 @@ type: 专题笔记
 ```markdown
 ## 🔗 关联
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q#####]] 主题一句话
-  - [[mistakes/uworld-mistakes#^Q#####]] 主题一句话
+  - [[mistakes/uworld-mistakes_2026-05#^Q#####]] 主题一句话
+  - [[mistakes/uworld-mistakes_2026-05#^Q#####]] 主题一句话
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/学科名]] / [[完整笔记/专题笔记/学科/笔记名]]
 - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/学科]]（关联点一句话）
 - 🌱 TODO（待生成衍生）：等 X 章节复习完，整合 [具体错题主题] → 生成 [[完整笔记/专题笔记/_衍生_具体名]]
@@ -309,7 +311,7 @@ type: 专题笔记
 
 ### 错题本（数据源）结构
 
-`mistakes/uworld-mistakes.md` 按**日期** `##` 节分类，每节内按错题顺序排：
+`mistakes/uworld-mistakes_2026-05.md` 按**日期** `##` 节分类，每节内按错题顺序排：
 
 ```markdown
 ## 2026-05-12
@@ -370,7 +372,7 @@ type: 专题笔记
 | "更新 XX 主笔记" | 先 view 现有笔记，再增量修改（保留原结构）|
 | "添加错题到主笔记" | ❌ **拒绝** — 错题在错题本，主笔记是知识图谱，分开维护 |
 | "整理我的错题本" | 仅做格式整理 / 排序 / 索引生成，不修改卡片内容 |
-| "把这条错题入库" | 检查 inline fields 是否齐全（学科/主题/状态/错因 4 字段），缺则补；append 到 `mistakes/uworld-mistakes.md` 当日 `##` 节末尾 |
+| "把这条错题入库" | ① 先找**当月**文件 `mistakes/uworld-mistakes_YYYY-MM.md`（无则新建）；② 查重 Q#####；③ 检查 inline fields 齐全（学科/主题/状态/错因 4 字段）缺则补；④ append 到当月文件当日 `##` 节末尾（无该节则新建）；⑤ 反链指向卡所在月文件锚点 |
 | "更新错题本.md 的视图" | 仅在用户明确指令下，修改 Dataview query |
 | "生成 XX 章节大纲" | 输出到 `notes/` 目录（英文高频大纲专属）|
 | "在学科主笔记加 XX" | 用户明确指令 → 才修改 `Peixuan分科笔记/` 下的文件 |
@@ -393,6 +395,7 @@ type: 专题笔记
 | **v7（2026-05-22）** | 2026-05-22 | 专题笔记按学科分子目录（心内 / USMLE / psych / 衍生 / OB_GYN / 神经 / 感染 / 内分泌 / Biostats / 肾脏 / 儿科）；61 张笔记移位、1644 条反链 sed 同步更新；§二 / §三 / §四 / §五 / §六 路径约定全部同步 |
 | **v7.1（2026-05-22）** | 2026-05-22 | 取消 `衍生/` 子目录：有明确学科归属的衍生进对应学科子目录（代谢性ECG→心内 / 四大EPS→psych / 电解质急症→肾脏）；真正跨学科无单一归属的衍生（如 _衍生_Shock分类）放根目录。所有反链 sed 同步 |
 | **v8（2026-05-28）** | 2026-05-28 | §七 加 **Callout 类型规则（视觉分类）** —— `[!success]-` 绿色专属 🟢 自信做对（标题不含"做对但.../排除法/卡点/不确定"），其他全 `[!example]-` 紫色含 🟡 答对但不掌握 + 🔴 反复错 + 错题。一次性批量改 46 张历史做对题 callout（commit a57af3c），再修正 6 张 🟡 答对但卡点的 callout 恢复紫色（commit 95fb680） |
+| **v9（2026-06-05）** | 2026-06-05 | **错题本按月拆分**：`uworld-mistakes.md` 重命名为 `uworld-mistakes_2026-05.md`（存 5 月及以前），新错题进当月 `uworld-mistakes_YYYY-MM.md`（2026-06 起）；全 vault 1397 条反链用 `uworld-mistakes(?!_)` 负向先行断言批量改名（避开 `_2026-06`/`_backup_`）；§二 / §九 路径约定 + 反链指向卡所在月文件规则同步。⚠️ 遗留：`错题本.md` DataviewJS 仍硬编码单文件，需扩成多月扫描 |
 
 ---
 
@@ -400,7 +403,7 @@ type: 专题笔记
 
 > [!info] 规则触发条件
 > 用户说**"生成今日复盘 / 昨日学习一句话+25题自测 / 每日复盘"**等类似指令时，Claude Code **必须**按本节规则**自动**生成复盘 .md。
-> 用户**不需要**手动维护任何复习日期 — 全部基于 `mistakes/uworld-mistakes.md` 的 `## YYYY-MM-DD` 日期节自动计算。
+> 用户**不需要**手动维护任何复习日期 — 全部基于 `mistakes/uworld-mistakes_2026-05.md` 的 `## YYYY-MM-DD` 日期节自动计算。
 > **核心目标**：防止用户偷懒不打开周复盘文件 — 把必复内容**强制混入**每日做题流。
 
 ### 11.1 输出文件位置 + 命名
@@ -438,7 +441,7 @@ type: 每日复盘
 
 | 时间点 | 含义 | 日期源 |
 |---|---|---|
-| **D+1** | 昨日新学（**仅 §一 一句话总结，§二 不出题** — 昨日内容还记得）| `mistakes/uworld-mistakes.md` 的 `## (today - 1 天)` 节 |
+| **D+1** | 昨日新学（**仅 §一 一句话总结，§二 不出题** — 昨日内容还记得）| `mistakes/uworld-mistakes_2026-05.md` 的 `## (today - 1 天)` 节 |
 | **D+2** | 前天新学（**§二 主批次** — 防 2 天遗忘）| `## (today - 2 天)` 节 |
 | **D+3** | 3 天前 | `## (today - 3 天)` 节 |
 | **D+7** | 1 周前（"1 周重做"窗口）| `## (today - 7 天)` 节 |
@@ -473,7 +476,7 @@ type: 每日复盘
 
 | 优先级 | 来源 | 抽题数 | 规则 |
 |---|---|---|---|
-| 1 | **状态:: 🔴 反复错** 错题 | **≤2 道** | `grep "状态:: 🔴" mistakes/uworld-mistakes.md` → 每道至少出 1 题，最多 2 道 |
+| 1 | **状态:: 🔴 反复错** 错题 | **≤2 道** | `grep "状态:: 🔴" mistakes/uworld-mistakes_2026-05.md` → 每道至少出 1 题，最多 2 道 |
 | 2 | **#考前必看** 标签笔记 | **≤1 道** | grep `#考前必看` 全 vault → 优先抽最近未轮值的 |
 | 3 | **#难记** 标签笔记 | **轮换 1 道** | grep `#难记` 全 vault → 按 N 取模轮换（今天 mod N，明天 mod N+1）|
 | 弹性 | 4 道内如有空缺 | 填随机 🟡 错题 | 抽最近 14 天内入库的 🟡 错题 |
@@ -528,7 +531,7 @@ type: 每日复盘
 **Claude Code 每次任务前，最起码确认 3 件事：**
 1. 当前任务属于"整合主笔记"还是"修改主笔记"还是"错题入库"还是"其他"？
 2. 涉及哪个学科 / 章节？对应草稿在哪里？错题本里有哪些 Q##### 相关？
-3. 输出路径是 `完整笔记/专题笔记/` 还是 `mistakes/uworld-mistakes.md` 还是别的？
+3. 输出路径是 `完整笔记/专题笔记/` 还是 `mistakes/uworld-mistakes_2026-05.md` 还是别的？
 
 **错题入库时务必检查：① inline fields 4 字段齐全 ② 三段式顺序正确（知识在前 / 学习记录在中 / inline fields 沉底）。**
 
