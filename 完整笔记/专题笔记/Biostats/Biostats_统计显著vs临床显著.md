@@ -86,7 +86,7 @@ version: v1.0
 ## 六、🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q106495]] 统计显著 vs 临床显著（CI 不含 0 但 effect size < 阈值）⭐ 源头
+  - [[mistakes/uworld-mistakes_2026-06#^Q106495]] 统计显著 vs 临床显著（CI 不含 0 但 effect size < 阈值）⭐ 源头
   - [[mistakes/uworld-mistakes#^Q3941]] Null Hypothesis（CI/p 与 H₀ 基础）
   - [[mistakes/uworld-mistakes#^Q21248]] OR-CI 表格判读（CI 含/不含 null）
   - [[mistakes/uworld-mistakes#^Q20227]] CI 不含 1 ≠ 因果（CI 越界陷阱谱系）

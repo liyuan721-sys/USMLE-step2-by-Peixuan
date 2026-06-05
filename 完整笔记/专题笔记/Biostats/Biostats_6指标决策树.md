@@ -59,8 +59,8 @@
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes#^Q20561]] RRR vs ARR 半步陷阱（算到 ARR 就停，漏 ÷Risk_ctrl）
-  - [[mistakes/uworld-mistakes#^Q20711]] RR 计算 — 多结局图锁定正确结局行
+  - [[mistakes/uworld-mistakes_2026-06#^Q20561]] RRR vs ARR 半步陷阱（算到 ARR 就停，漏 ÷Risk_ctrl）
+  - [[mistakes/uworld-mistakes_2026-06#^Q20711]] RR 计算 — 多结局图锁定正确结局行
   - [[mistakes/uworld-mistakes#^Q20057]] ARR 反推样本量
   - [[mistakes/uworld-mistakes#^Q20430]] ARP 阳性归因比（害人场景）
   - [[mistakes/uworld-mistakes#^Q7708]] / [[mistakes/uworld-mistakes#^Q7709]] 复合终点 + NNT
