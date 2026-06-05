@@ -33,6 +33,19 @@
 
 ---
 
+## 🧮 RRR 的两个等价公式 ⭐
+
+> [!tip] 给 RR 时走捷径
+> - **法 1（先减后除）**：RRR = ARR / Risk_ctrl =（Risk_ctrl − Risk_tx）/ Risk_ctrl
+> - **法 2（用 RR）**：**RRR = 1 − RR**，其中 **RR = Risk_tx / Risk_ctrl**
+>
+> 两者完全等价（把 RR 代入即得：1 − Risk_tx/Risk_ctrl =（Risk_ctrl − Risk_tx）/ Risk_ctrl）。
+> **stem 直接给 RR 就用法 2 最快**：如 RR = 0.83 → RRR = 1 − 0.83 = **0.17**（[[mistakes/uworld-mistakes_2026-06#^Q20561]]）。
+
+> 同理害人场景：**RRI = RR − 1**（RR > 1 时），与 RRI = ARI / Risk_unexp 等价。
+
+---
+
 ## 🔑 三大配套法则
 
 1. **分母法则**：分母总是"大的那个"

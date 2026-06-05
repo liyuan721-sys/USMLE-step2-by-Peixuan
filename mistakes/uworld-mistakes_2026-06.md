@@ -1417,7 +1417,7 @@ type: 错题数据源
 > | 指标 | 公式 | 字面提示 |
 > |---|---|---|
 > | ARR | Risk_ctrl − Risk_tx | Absolute = 绝对差（百分点）|
-> | **RRR** | ARR / Risk_ctrl | **R**elative = 相对 → **必须除基线** |
+> | **RRR** | ARR / Risk_ctrl = **1 − RR** | **R**elative = 相对 → **必须除基线**；stem 给 RR 时直接 **1 − RR** |
 > | RR | Risk_tx / Risk_ctrl | 比值 |
 > | NNT | 1 / ARR | 人数 |
 > 
