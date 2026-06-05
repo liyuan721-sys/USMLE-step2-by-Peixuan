@@ -27913,7 +27913,7 @@
 >   ├─ ① 急性排斥 → graft 压痛 / 发热 / 突发 Cr↑ → biopsy（金标准）
 >   ├─ ② CNI 毒性（tacrolimus / cyclosporine）→ 血药浓度 ↑ → 降量
 >   ├─ ③ Transplant RAS ⭐ → 1-2 yr 内 + resistant HTN + ACEI 后 Cr↑ → Doppler
->   ├─ ④ BK virus / CMV → 病毒载量 + 决奥维 + biopsy
+>   ├─ ④ BK virus / CMV → 病毒载量(PCR) + biopsy → BK 减免疫抑制 / CMV 更昔洛韦(ganciclovir)
 >   └─ ⑤ ATN（围手术期缺血 / 早期）/ obstruction（输尿管） → 影像
 > ```
 >
