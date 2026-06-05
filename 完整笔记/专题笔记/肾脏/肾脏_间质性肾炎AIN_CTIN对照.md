@@ -118,6 +118,27 @@ type: 专题笔记
 > - **Procainamide** → 典型 DIL，**不**累肾
 > 详读 [[完整笔记/专题笔记/肾脏/肾脏_AKI病因全谱]] §3.11
 
+## 七.5、AIN vs 血流动力学型 AKI（ACEI / lisinopril red herring）⭐（Q4007 干扰项）
+
+> [!warning] lisinopril 是 red herring —— 专钓"ACEI 致 AKI"
+> Q4007 给了 **lisinopril（ACEI）**，诱你选"ACEI 致 AKI"。但 **ACEI 的 AKI 是血流动力学型（bland UA）**，本题尿是 **嗜酸 + WBC casts 的炎症型** → 直接出局 ACEI，锁 **allopurinol → AIN**。
+
+| 维度 | **AIN（炎症型）** | **ACEI 致 AKI（血流动力学型）** |
+|---|---|---|
+| 机制 | 药物**超敏** → 间质+小管炎症 | **扩出球小动脉 → GFR↓**（功能性，非结构破坏）|
+| **UA** ⭐ | **WBC casts + 嗜酸 + 脓尿 + 轻蛋白** | **bland（干净）** |
+| 全身 | 发热 / 皮疹 / 关节痛 / malaise | 无（可有高钾、轻 Cr↑）|
+| **时机** ⭐ | **新药**（数周–月，本题 allopurinol 2 mo）| 新起 ACEI / 容量不足时 Cr 跳升 |
+| 该药慢急 | allopurinol = **新加** | lisinopril = **慢性老药**，无新暴露 |
+
+> [!tip] 两条反射把它们分开
+> ① **先看尿性质**：bland → 血流动力学/prerenal（想 ACEI、容量不足）；**嗜酸 + WBC casts** → AIN。
+> ② **看用药时机**：本题 **allopurinol 2 个月前新起**（吻合 AIN 潜伏期），lisinopril 是慢性老药、无新暴露 → 真凶是 allopurinol。
+> 补充：**ACEI 不是经典 AIN 药**（AIN 高频药见 §三：NSAID/PPI/β-lactam-磺胺/allopurinol/利尿剂）。
+
+> [!info] ACEI 真正与 AKI 强相关的场景 = 双侧肾动脉狭窄 (RAS)
+> 起 ACEI 后 Cr 跳升的经典是 **双侧 RAS**（扩出球小动脉 → 已狭窄的肾灌注进一步↓）。但那也是 **bland UA + 无嗜酸/管型**，与 AIN 两条路。**NSAID 特殊**：既可致 AIN（超敏），也可致血流动力学型（缩入球小动脉）—— 看 UA 区分。
+
 ## 八、CK 解题 SOP
 
 ```
@@ -179,3 +200,4 @@ AKI + 慢性 OR 急性？
 | 版本 | 日期 | 变更 |
 |---|---|---|
 | v1 | 2026-05-28 | 由 Q4007 + Q4004 错题触发新建：AIN vs CTIN 5 维对比 + AIN 致病药 6 类 + Analgesic nephropathy 病机链 + Papillary necrosis "DNA-Sickle" + Urinary Casts 指纹族系 + AIN vs DIL 鉴别 |
+| v1.1 | 2026-06-05 | Q4007 6-5 重错（升🔴）触发：加 **§七.5 AIN vs 血流动力学型 AKI（ACEI/lisinopril red herring）**——bland UA vs 嗜酸+WBC casts + 用药时机（新药 vs 慢性）+ ACEI 真相关场景双侧 RAS + NSAID 双通路 |
