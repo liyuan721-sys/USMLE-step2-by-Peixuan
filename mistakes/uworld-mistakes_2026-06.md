@@ -1753,3 +1753,120 @@ type: 错题数据源
 > 主题:: p 值与 CI 互译（CI 不含 null⟺p<0.05）
 > 状态:: 🟡
 > 错因:: 知识
+
+> [!example]- [2026-06-05] Biostats / HR 多结局判读 — 短期手术风险 + "别下没测过的结论"（STICH）(Q7690)
+> ^Q7690
+> 
+> ## Stem 模式
+> RCT abstract（CABG + 药物 vs 单药物，LVEF≤35%）多行 HR 结果 → 问"基于研究结果，哪条陈述最佳"。
+> 
+> ## 核心概念
+> **逐行读 HR**：HR>1=风险↑（更差），HR<1=获益，**CI 不含 1 = 显著**。关键行 = **30 天内死亡 HR 3.12 (1.33–7.31)** → 手术**短期死亡风险显著更高**（正解）。这是手术经典模式：**早期有风险、长期才获益**。
+> 
+> ## 普适规则
+> 
+> | 看哪 | 怎么判 |
+> |---|---|
+> | HR 数值 | >1 风险↑ / <1 获益 / =1 无差异 |
+> | 显著性 | CI **不含 1**（HR/比值的 null=1）= 显著 |
+> | 围术期/30 天行 ⭐ | 藏着手术**短期风险**，多结局题必看 |
+> | 主要 vs 次要终点 | 主要终点不显著 ≠ 全部无效；次要复合终点可显著 |
+> 
+> 本题：主要终点全因死亡 HR 0.86 (0.72–1.04) P=0.12 **含 1 → 不显著**；但多条复合终点（死亡/住院 HR 0.74–0.84）显著获益。
+> 
+> ## 易混陷阱（普适）
+> - **选项提到研究"没测量"的结局（QoL / MI）= 钓饵**：无数据 → 不能下结论（D 错在 QoL 根本没测）。
+> - "主要终点不显著" 不等于 "手术没用"：看次要复合终点（本题多个 HR<1 显著）。
+> - HR 方向别反：HR 0.84 死亡/HF 住院 = **降低** HF 事件（不是增加 → B 错）；HR 0.60 死亡/再血管化 = 再手术**更少**（不是更多 → C 错）。
+> 
+> ## 我为什么错
+> - 选了：D（手术不影响长期生活质量）
+> - 错因：干扰项 —— ① 没读"30 天死亡 HR 3.12"那行（手术短期风险=正解 A）② 选了一个**研究没测量**的结局（QoL）下结论
+> - 核心陷阱：被"主要终点不显著"带偏 → 误推"手术长期没用/不影响 QoL"，忽略次要复合终点显著获益 + QoL 未测
+> 
+> ## Memory Hook
+> **"多结局 HR 逐行读，'30 天/围术期'那行藏手术短期风险；选项提到没测的指标（QoL/MI）=钓饵。手术=早期险、长期益。"**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> D 为什么错？→ 研究**没测 QoL**，不能下结论；且多条复合终点 HR<1 显著 → 手术确实影响长期结局。正解 A 来自被忽略的"30 天死亡 HR 3.12（显著）"。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-05#^Q7688]] HR 解读（同 multicenter RCT）
+>   - [[mistakes/uworld-mistakes_2026-06#^Q3909]] HR/RR 的 CI 不含 null⟺显著（互译）
+>   - [[mistakes/uworld-mistakes_2026-06#^Q106495]] 统计显著 vs 临床显著（读结果别越界）
+> - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]（CI 含/不含 null 判读）/ [[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]] / [[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（CABG vs 药物治疗 / 缺血性心肌病 LVEF≤35% — STICH 试验）
+> - 🌱 TODO：累积 3+ 道 abstract 多结局判读题 → 考虑衍生 `Biostats_Abstract多结局判读SOP`
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q7690
+> - [ ] 反射训练：多结局题先扫"围术期/30 天"行 + 圈出"研究没测的结局"钓饵
+> - [ ] 默写 HR 判读（>1/<1/=1 + CI 不含 1=显著）
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: HR 多结局判读（短期风险+未测结局陷阱）
+> 状态:: 🟡
+> 错因:: 干扰项
+
+> [!example]- [2026-06-05] Biostats / ITT vs as-treated 分析 → selection bias（crossover/不依从）(Q7690-Item2)
+> ^Q7690-Item2
+> 
+> ## Stem 模式
+> 同 STICH abstract（接 [[mistakes/uworld-mistakes_2026-06#^Q7690]]）：medical 组 17% 最终做了 CABG、CABG 组 91% 做了 → 若**把两组合并、按"实际有没有做 CABG"重新分组**比较结局，会引入哪种偏倚？
+> 
+> ## 核心概念
+> **按"实际接受的治疗"重新分组（as-treated / per-protocol）= 丢掉随机化 → selection bias**。谁交叉、谁没做手术**本身与预后相关**（如 CABG 组没做的 9% 可能病太重/术前死亡），重排后两组不再可比。**解法 = ITT（intention-to-treat）：永远按最初随机分配的组分析**，不管实际接受了什么。
+> 
+> ## 普适规则
+> 
+> | 分析方式 | 怎么分组 | 后果 |
+> |---|---|---|
+> | **ITT（金标准）** ⭐ | 按**随机分配**的组（不管实际治疗）| 保住随机化，避免 selection bias，结果保守可信 |
+> | **As-treated / Per-protocol** | 按**实际接受**的治疗重排 | **破坏随机化 → selection bias**；高估疗效 |
+> 
+> 触发信号：**RCT + crossover / 不依从（"X% 实际接受了另一组治疗"）+ "按实际治疗分析"** → selection bias。
+> 
+> ## 易混陷阱（普适）
+> - **Observer/detection bias**（C 钓饵）= 评估者知道分组影响**结局判定**；本题问题在"重分组"，不在"谁评估"。
+> - **Measurement bias** = 测量工具/方法系统误差；**Recall bias** = 回顾性研究回忆暴露有差异（RCT 前瞻无）；**Lead-time** = 筛查题。
+> - 关键区分：**selection bias = 谁进哪个组的问题**（随机化被破坏）；不是测量/观察的问题。
+> 
+> ## 我为什么错
+> - 选了：C（Observer bias）
+> - 错因：知识 —— 不知道"按实际治疗重新分组 = as-treated = 破坏随机化 = selection bias"，也没联想到 ITT 是解法
+> - 核心陷阱：把"合并分析/重新分组"误归为"观察/评估"问题（observer），其实是"谁分到哪组"问题（selection）
+> 
+> ## Memory Hook
+> **"按'实际治疗'重分组 = 丢随机化 = selection bias；解法 = ITT（按随机分配分析）。crossover/不依从是信号。"**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 为什么不是 observer bias？→ observer 是"评估者知道分组影响判定"；本题是"按实际治疗重排破坏随机化"=谁进哪组的问题=selection bias。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q7690]] 同 STICH abstract（Item 1，HR 多结局判读）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q22363]] Internal Validity + Blinding（measurement bias / 偏倚谱）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20090]] Case series 缺 control → selection bias
+>   - [[mistakes/uworld-mistakes_2026-05#^Q12685]] Reporting bias（偏倚谱系）
+> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_Study_Design决策树]]（RCT 质量 / ITT）/ [[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - 🏥 跨学科：暂无
+> - 🌱 TODO：累积 3+ 道 bias 题 → 衍生 `Biostats_偏倚谱系与对策`（selection/measurement/observer/recall/lead-time + 各自对策）
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q7690-Item2
+> - [ ] 默写 ITT vs as-treated 区别 + 各自后果
+> - [ ] 反射训练：RCT + crossover + "按实际治疗分析" → selection bias（解法 ITT）
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: ITT vs as-treated（selection bias）
+> 状态:: 🟡
+> 错因:: 知识
