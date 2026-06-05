@@ -28532,7 +28532,7 @@
 > 状态:: 🟡
 > 错因:: pattern
 
-> [!example]- [2026-05-28] 肾 / Acute Interstitial Nephritis (AIN) by Allopurinol — AKI + 外周嗜酸 + WBC casts + 皮疹 + 发热 + 关节痛 (Q4007)
+> [!example]- [2026-05-28] 肾 / Acute Interstitial Nephritis (AIN) by Allopurinol — AKI + 外周嗜酸 + WBC casts + 皮疹 + 发热 + 关节痛 (Q4007) 🔴 反复错（6-5 重错选 drug-induced lupus）
 > ^Q4007
 >
 > ## Stem 模式
@@ -28608,6 +28608,7 @@
 >   - 待建 [[完整笔记/专题笔记/USMLE/USMLE_药疹+药物超敏对照]]（AIN / DIL / DRESS / SJS-TEN / Serum sickness-like / Erythema multiforme — 共 6 大反应 + 致病药 + UA + 处理）
 >
 > ## ✅ 复盘行动
+> - [ ] **🔴 2026-06-05 重错（选 C drug-induced lupus）**——又栽在 AIN vs DIL。关键分水岭：**WBC casts + 外周嗜酸 + eosinophiluria = AIN（经间质）**；DIL 是经 GN→**RBC casts + 重蛋白**，且 DIL 致 AKI 罕见。本题 WBC casts + 嗜酸 7% = 铁证 AIN。
 > - [ ] 1 周后重做 Q4007（验证 AIN vs DIL 反射）
 > - [ ] 默写 AIN 高频致病药 6 类（allopurinol / β-lactam / FQ-磺胺 / NSAID / PPI / 利尿剂）
 > - [ ] 默写 AIN 临床 + 实验室诊断网（病程/临床/嗜酸/UA/影像/治疗）
@@ -28618,7 +28619,7 @@
 >
 > 学科:: 肾
 > 主题:: Acute Interstitial Nephritis (AIN) by Allopurinol（抗原超敏 → 肾间质+小管炎症 → AKI）/ AIN 高频致病药 6 类（Allopurinol / β-lactam / FQ-磺胺-rifampin / NSAIDs / PPI / 利尿剂 thiazide-furosemide）/ Classic triad（发热+皮疹+嗜酸）只 10% 全套 — 外周嗜酸 + WBC casts 已足够锁定 / AIN 实验室指纹（外周嗜酸>5% + UA WBC+WBC casts+轻蛋白+±RBC+eosinophiluria-Hansel 染色 / 影像正常或轻度增大区别 CTIN 双小肾）/ 治疗（停药+支持 → 持续给类固醇 → 严重 hemodialysis）/ AIN vs DIL 鉴别（AIN 经间质 WBC casts + 嗜酸；DIL 经 GN RBC casts + 重蛋白；DIL 致 AKI 罕见）/ AIN vs CTIN（急 wks-mo / 慢 mo-yr；AIN 影像正常 / CTIN 双小肾）/ DIL 致病药（procainamide / hydralazine / INH / minocycline）/ WBC casts = 间质性家族强 marker（不分 AIN-CTIN）
-> 状态:: 🟡
+> 状态:: 🔴
 > 错因:: pattern
 
 > [!example]- [2026-05-28] 儿科 + 肾 / Secondary Nocturnal Enuresis — 即使 psych stressor 明显，UA 必先（排医学因 UTI/T1DM/DI）(Q20246)
@@ -32604,7 +32605,7 @@
 > 状态:: 🟡
 > 错因:: 知识
 
-> [!example]- [2026-05-31] 肾/内分泌 / SIADH 治疗：severe symptomatic → 3% 高张盐水 (Q2181) 🟡 做对但不确定
+> [!example]- [2026-05-31] 肾/内分泌 / SIADH 治疗：severe symptomatic → 3% 高张盐水 (Q2181) 🔴 反复错（6-5 重错选碳酸氢钠）
 > ^Q2181
 >
 > ## Stem 模式
@@ -32654,6 +32655,7 @@
 > - 🌱 TODO：低钠卡已积累 ≥5 道 → 建 [[完整笔记/专题笔记/肾脏/_衍生_低钠血症诊疗SOP]]（容量轴 + 尿渗 + 严重度治疗 + ODS）
 >
 > ## ✅ 复盘行动
+> - [ ] **🔴 2026-06-05 重错（选 G 碳酸氢钠）**——上次"做对但不确定"，这次直接错 → 升 🔴 反复错。碳酸氢钠是代酸/高钾用，对 SIADH 无效；重症低钠唯一答案 = 3% 高张盐水。
 > - [ ] 1 周后重做 Q2181
 > - [ ] 默写 SIADH 治疗按严重度（重症 3% / 轻症限水）+ "NS 加重 SIADH（尿渗>盐水渗）"
 > - [ ] 反射训练：低钠 + seizure/重度意识障碍/Na<120 → 锁 3% 高张盐水（≤8 mEq/L/24h）
@@ -32662,7 +32664,7 @@
 >
 > 学科:: 肾
 > 主题:: SIADH 治疗按严重度 + 3% 高张盐水 — SCLC 异位 ADH→SIADH(低渗低钠 Na117+等容量+尿渗 500>100 不当浓缩);治疗按严重度(无/轻症 Na120-130 嗜睡健忘→限水<800mL/d±盐片 / 重症 Na<120 或 seizure-coma-重度意识障碍→3%高张盐水);本题 Na117+难唤醒=重症→3%;纠正速率≤8mEq/L/24h 防 ODS(渗透性脱髓鞘/central pontine myelinolysis);关键陷阱 SIADH 别给 NS(0.9%≈300)/half-NS(0.45%≈150)<尿渗 500→自由水潴留钠更低,只有 3%(>500)有效;干扰项(B half-NS+F NS 加重 / C desmopressin ADH 类似物加重 / D hydrocortisone 是肾上腺功能不全低容量低钠 / E mannitol 颅内压 / G bicarb 代酸高钾);做对但在 3%vs 限水犹豫+没反应 NS 加重 SIADH / 同 set Q114931 病因 workup + Q2180 五联 + Q117977 多尿
-> 状态:: 🟡
+> 状态:: 🔴
 > 错因:: 知识
 
 > [!success]- [2026-05-31] 肾 / 等容量低钠病因 workup：尿渗 分 SIADH vs 原发多饮 (Q114931) ✅ 做对
