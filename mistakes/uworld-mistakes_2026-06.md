@@ -530,7 +530,7 @@ type: 错题数据源
 > | **S** | **Sickle cell（病 / trait）** ⭐ |
 > | **T** | Tuberculosis（肾结核）|
 > | **C** | Cirrhosis（慢性酒精肝）|
-> | **A** | **Analgesics（NSAID / 非那西丁，长期滥用）** ⭐ |
+> | **A** | **Analgesics（NSAID / phenacetin，长期滥用）** ⭐ |
 > | **R** | Renal vein thrombosis / RTA |
 > | **D** | **Diabetes mellitus** ⭐ |
 > | **S** | Systemic vasculitis |
