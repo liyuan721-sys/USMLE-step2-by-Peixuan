@@ -28621,6 +28621,7 @@
 > 主题:: Acute Interstitial Nephritis (AIN) by Allopurinol（抗原超敏 → 肾间质+小管炎症 → AKI）/ AIN 高频致病药 6 类（Allopurinol / β-lactam / FQ-磺胺-rifampin / NSAIDs / PPI / 利尿剂 thiazide-furosemide）/ Classic triad（发热+皮疹+嗜酸）只 10% 全套 — 外周嗜酸 + WBC casts 已足够锁定 / AIN 实验室指纹（外周嗜酸>5% + UA WBC+WBC casts+轻蛋白+±RBC+eosinophiluria-Hansel 染色 / 影像正常或轻度增大区别 CTIN 双小肾）/ 治疗（停药+支持 → 持续给类固醇 → 严重 hemodialysis）/ AIN vs DIL 鉴别（AIN 经间质 WBC casts + 嗜酸；DIL 经 GN RBC casts + 重蛋白；DIL 致 AKI 罕见）/ AIN vs CTIN（急 wks-mo / 慢 mo-yr；AIN 影像正常 / CTIN 双小肾）/ DIL 致病药（procainamide / hydralazine / INH / minocycline）/ WBC casts = 间质性家族强 marker（不分 AIN-CTIN）
 > 状态:: 🔴
 > 错因:: pattern
+> #考前必看
 
 > [!example]- [2026-05-28] 儿科 + 肾 / Secondary Nocturnal Enuresis — 即使 psych stressor 明显，UA 必先（排医学因 UTI/T1DM/DI）(Q20246)
 > ^Q20246
@@ -31466,6 +31467,7 @@
 > 主题:: 肝硬化 AKI 诊断下一步=测尿钠(疑 HRS) — 肝硬化+AKI+bland UA(排内在肾病)+renal US 正常(排梗阻)→疑 HRS；HRS=splanchnic vasodilation→EABV↓→RAAS 极度激活→极致 Na 潴留(尿 Na<10 比经典 prerenal<20 更低)+renal vasoconstriction→进展 oliguric AKI；诊断线索=极低尿钠+扩容无改善 / 肝硬化 AKI 评估算法(①排尿路梗阻 US ②收 UA bland→③疑 HRS 测尿钠+试验扩容 albumin，改善=容量不足/无改善=HRS→内脏血管收缩剂+肝移植) / 尿钠 cutoff(HRS<10 / prerenal<20 / ATN>40) / SBP 阈值=腹水 PMN≥250(本题 160×30%=48 非 SBP，SBP 是 HRS 最常诱因) / 5 选 1 鉴别(A CT 查 postrenal 但 US 已排梗阻 / B 肾活检 HRS 临床诊断肾组织正常极少需 / C 低补体 GN 伴 proteinuria-hematuria 本题缺 / D 尿蛋白电泳查 MM cast nephropathy 但 HRS 更可能 / E 测尿钠 ✅) / 同主题 Q4752 第 2 次本卡补诊断下一步角度
 > 状态:: 🟡
 > 错因:: 知识
+> #考前必看
 
 > [!example]- [2026-05-30] 肾 / 虚弱老人体重减轻+advanced CKD → watchful waiting+营养补充 (Q14465) 🟡 做对但不确定
 > ^Q14465
@@ -32667,6 +32669,7 @@
 > 主题:: SIADH 治疗按严重度 + 3% 高张盐水 — SCLC 异位 ADH→SIADH(低渗低钠 Na117+等容量+尿渗 500>100 不当浓缩);治疗按严重度(无/轻症 Na120-130 嗜睡健忘→限水<800mL/d±盐片 / 重症 Na<120 或 seizure-coma-重度意识障碍→3%高张盐水);本题 Na117+难唤醒=重症→3%;纠正速率≤8mEq/L/24h 防 ODS(渗透性脱髓鞘/central pontine myelinolysis);关键陷阱 SIADH 别给 NS(0.9%≈300)/half-NS(0.45%≈150)<尿渗 500→自由水潴留钠更低,只有 3%(>500)有效;干扰项(B half-NS+F NS 加重 / C desmopressin ADH 类似物加重 / D hydrocortisone 是肾上腺功能不全低容量低钠 / E mannitol 颅内压 / G bicarb 代酸高钾);做对但在 3%vs 限水犹豫+没反应 NS 加重 SIADH / 同 set Q114931 病因 workup + Q2180 五联 + Q117977 多尿
 > 状态:: 🔴
 > 错因:: 知识
+> #考前必看
 
 > [!success]- [2026-05-31] 肾 / 等容量低钠病因 workup：尿渗 分 SIADH vs 原发多饮 (Q114931) ✅ 做对
 > ^Q114931
