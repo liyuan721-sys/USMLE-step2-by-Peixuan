@@ -195,7 +195,9 @@ Stem 说 "PPV 低"
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - 暂无直接锚定题（待 UW 出现 PPV / Sp 联动陷阱题后回填）
+  - [[mistakes/uworld-mistakes#^Q21797]] PPV/NPV 定义判读（行指标 vs 列指标 — "of positive/negative result"）
+  - [[mistakes/uworld-mistakes#^Q21656]] PPV/NPV vs Prevalence（行指标随人群构成变化）
+  - 待 UW 出现 PPV / Sp 联动陷阱题（高 prevalence 但 PPV 低）后继续回填
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]（§111-150 PPV/NPV 基础 + §1015-1027 Cutoff 调整）
 - 🏥 跨学科：
   - [[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]]（RR/OR/ARR/RRR 风险指标家族 — 与本笔记的 Sn/Sp/PPV/NPV 诊断指标家族区分）
