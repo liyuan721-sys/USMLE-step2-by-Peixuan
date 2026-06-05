@@ -27882,7 +27882,7 @@
 
 ## 2026-05-28
 
-> [!example]- [2026-05-28] 肾 / Transplant Renal Artery Stenosis — 移植肾 1-2 yr 内 resistant HTN + ACEI 后 Cr↑ 经典指纹 (Q16323)
+> [!example]- [2026-05-28] 肾 / Transplant Renal Artery Stenosis — 移植肾 1-2 yr 内 resistant HTN + ACEI 后 Cr↑ 经典指纹 (Q16323) 🔴 反复错（6-5 重错选 Lisinopril 加量）
 > ^Q16323
 >
 > ## Stem 模式
@@ -27967,6 +27967,7 @@
 >   - 等积累 ≥ 3 道 post-tx AKI 错题 → 建 [[完整笔记/专题笔记/肾脏/肾脏_移植后AKI鉴别SOP]]（急排 / CNI / RAS / BK-CMV / ATN-梗阻 5 鉴别 + 影像 / biopsy / 血药 next step 决策树）
 >
 > ## ✅ 复盘行动
+> - [ ] **🔴 2026-06-05 重错（选 B Lisinopril 加量）**——选了正好**最有害**的操作。移植肾=等效双侧 RAS，**ACEI 后 Cr↑就是 RAS 指纹，加量只会进一步崩 GFR**；正确是**停/换 ACEI + 肾血管影像（Doppler）**。升 🔴。
 > - [ ] 1 周后重做 Q16323（验证 Transplant RAS 反射）
 > - [ ] 默写 Transplant RAS 三联指纹（时间窗 / resistant HTN / ACEI 后 Cr↑）
 > - [ ] 默写移植肾 AKI 5 项鉴别 SOP
@@ -27977,7 +27978,7 @@
 >
 > 学科:: 肾
 > 主题:: Transplant Renal Artery Stenosis 三联指纹（post-tx 1-2 yr 内 + resistant HTN + ACEI/ARB 后 Cr 急升 — 移植肾 = 单肾 = 等效双侧 RAS）/ 移植肾 AKI 5 项鉴别 SOP（急排 biopsy / CNI 毒性 查血药 / Transplant RAS Doppler / BK-CMV 病毒载量 / ATN-梗阻 影像）/ ACEI 后 Cr 升 >30% = bilateral/孤立肾 RAS 指纹 / Doppler US 为 RAS 首选无创筛查（→ CTA/MRA → angiography 金标）/ 治疗 PTA ± stent / Tacrolimus 血药范围内 ≠ CNI 毒性（强排除信号）
-> 状态:: 🟡
+> 状态:: 🔴
 > 错因:: 知识
 
 > [!example]- [2026-05-28] 肾 / Hepatorenal Syndrome — Splanchnic vasodilation 致 functional renal vasoconstriction + 扩容无反应 + bland UA (Q4752)
@@ -32248,7 +32249,7 @@
 > 状态:: 🟡
 > 错因:: 知识
 
-> [!example]- [2026-05-30] 肾 / 肝硬化高容量低钠 — Na130 非重 → 不需特殊治疗(噻嗪会加重低钠) (Q106381) 🟡 做错
+> [!example]- [2026-05-30] 肾 / 肝硬化高容量低钠 — Na130 非重 → 不需特殊治疗(噻嗪会加重低钠) (Q106381) 🟡 做错（6-5 选对但不确定，较上次进步）
 > ^Q106381
 >
 > ## Stem 模式
@@ -32297,6 +32298,7 @@
 > - 🌱 TODO：已把"轻度高容量低钠=不特殊治疗 + 噻嗪加重低钠"增量同步进电解质急症速查
 >
 > ## ✅ 复盘行动
+> - [ ] **🟢→ 2026-06-05 这次选对但不确定（上次做错）**——方向对了：Na130 非重度 + 高容量（肝硬化）→ 不需特殊治疗、不上盐水/不补盐片/不噻嗪。还差"自信"，保持 🟡，再对 1 次升 🟢。
 > - [ ] 1 周后重做 Q106381
 > - [ ] 默写低钠"何时/如何治"表（容量轴 × 严重度轴）
 > - [ ] 锁定：噻嗪加重低钠（vs 袢相对安全）
