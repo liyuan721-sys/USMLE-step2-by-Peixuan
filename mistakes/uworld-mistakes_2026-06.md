@@ -1519,3 +1519,234 @@ type: 错题数据源
 > 主题:: RR 计算（锁定正确结局行）
 > 状态:: 🟡
 > 错因:: 粗心
+
+> [!example]- [2026-06-05] Biostats / p 值与显著性水平的定义（"X% level" = α 不是风险）(Q20754)
+> ^Q20754
+> 
+> ## Stem 模式
+> Case-control 研究，ER/PR 表达与后续乳腺癌的关联 "**statistically significant at the 1% level**" → 问最恰当解读。
+> 
+> ## 核心概念
+> **"significant at X% level" = α = X%，且 p < α**。含义：**若 H₀（无关联）为真，纯靠运气看到这种（或更极端）结果的概率 < X%**。这个 X% 是"数据在 H₀ 下出现的概率阈值"，**不是**疾病风险 / 效应大小 / 归因 / 因果。
+> 
+> ## 普适规则
+> 
+> | 概念 | 精确定义 |
+> |---|---|
+> | **H₀** | 默认"无关联 / 无差异" |
+> | **p 值** | 假设 H₀ 为真时，得到当前或更极端结果的概率 |
+> | **α（显著性水平）** | 预设阈值（常 0.05 / 0.01）= 拒绝真 H₀ 的概率上限 = Type I error |
+> | **"significant at X% level"** | α = X%，p < α → "若无关联，这种结果靠运气出现 < X%" |
+> 
+> ## 易混陷阱（普适）
+> - "significant at **X%** level" 的 X% **永远是 α（概率阈值）**，绝不是"X% 的人 / X% 的风险 / X% 的归因 / X% 的风险下降"。
+> - 显著性**不提供** magnitude（风险大小）、causality（因果）、risk reduction（降险）的信息——这些要看另外的指标（ARR/RR/OR + Hill 准则）。
+> 
+> ## 我为什么错（卡点）
+> - 选了：B（✅ 做对）
+> - 卡点：做对但**没真懂**——不确定 "1% level" 到底指 α 还是某种风险，靠排除 / 语感选的 B
+> - 核心陷阱：没把 "X% level" 锁定成 α 的概率含义
+> 
+> ## Memory Hook
+> **"'significant at X% level' 里的 X% = α = '若无关联，靠运气看到这结果的概率 < X%'；它管概率，不管风险 / 因果 / 大小。"**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 1% 到底是什么的 1%？→ 是 **α**（概率阈值），即"H₀ 为真时结果靠运气出现的概率上限"，不是发病率 / 风险 / 归因。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q106495]] 统计显著 vs 临床显著（同 α/p 族；那题考"显著 ≠ 临床重要"，互补）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3941]] Null Hypothesis（H₀ 基础）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20227]] CI 不含 1 ≠ 因果（显著 ≠ 因果，同陷阱谱系）
+> - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_α_β_Power]]（α = Type I error 阈值）/ [[完整笔记/专题笔记/Biostats/Biostats_统计显著vs临床显著]] / [[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - 🏥 跨学科：[[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]（显著性 ≠ 因果）
+> - 🌱 TODO：连对 2 道 p值/α 定义题 → 降 🟢
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q20754
+> - [ ] 默写 p 值定义（P(数据│H₀ 真)）+ α 含义
+> - [ ] 反射训练：见 "significant at X% level" → 立刻翻成"若无关联靠运气出现概率 < X%"，别挂到风险上
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: p 值与显著性水平的定义
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-06-05] Biostats / Study Design 选择 — 比较"发病风险"用 cohort（🔴 反复错 → 同族 Q20435/Q20283）(Q20376)
+> ^Q20376
+> 
+> ## Stem 模式
+> 妈妈问：加速增重 vs 正常增重的幼儿，**将来发生**儿童肥胖的**风险**怎么比 → 哪种 study design 最合适？
+> 
+> ## 核心概念
+> 要"**比较 exposed vs unexposed 的发病风险（risk of developing disease）**" → **cohort study**（从暴露出发前瞻随访，能算并比较 risk）。**case-control 从疾病状态倒推暴露 → cases 已有病，算不出"发生风险"，只出 OR**。
+> 
+> ## 普适规则
+> 
+> | Study design | 出发点 | 能算的关联指标 | 不能算 |
+> |---|---|---|---|
+> | **Cohort**（前瞻）⭐ | 暴露 → 随访结局 | **RR / risk / IR / HR** | — |
+> | **Case-control** | 疾病状态 → 倒推暴露 | **OR** | ❌ risk / RR（cases 已有病）|
+> | **Cross-sectional** | 同一时点快照 | prevalence ratio / OR | ❌ incidence / risk（无时间）|
+> | Case report / series | 描述个案 | 无（仅生成假设）| 任何关联检验 |
+> 
+> 反射：题问"**compare risk of developing disease between exposed/unexposed**" → **cohort**。
+> 
+> ## 易混陷阱（普适）
+> - "risk of developing" / "incidence" / "compare exposed vs unexposed 发病" → **cohort**（不是 case-control）。
+> - case-control 永远出 **OR**，不出 risk；cross-sectional 只出 prevalence。
+> - descriptive（case report/series、cross-sectional 描述型）只生成假设；analytic（cohort/case-control）才检验关联。
+> 
+> ## 我为什么错
+> - 选了：A（case-control）
+> - 错因：知识 —— 没抓住"compare risk of **developing** disease"=必须前瞻=cohort；把"比较两组"误等于 case-control
+> - 核心陷阱：cohort vs case-control 反复混（本主题第 3 次：见 Q20435 / Q20283）→ 升 🔴
+> 
+> ## Memory Hook
+> **"比'发病风险'→ cohort（暴露往前追）；'从病倒推暴露'→ case-control（出 OR 不出 risk）。"**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 为什么不是 case-control？→ 它从"已肥胖 vs 没肥胖"倒推暴露，cases 已有病，**无法测"发生风险"**；要比较发病风险只能前瞻 = cohort。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题（🔴 反复错家族）：
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20435]] Study Design 判定 — Cohort vs Case-Control
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20283]] Case-Control vs Cohort 场景适配
+>   - [[mistakes/uworld-mistakes_2026-06#^Q20503]] 生态学研究（study design 谱系）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - 🏥 跨学科：[[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]（case-control 只能算 OR 铁律②）
+> - 🌱 TODO：**已够 6 道**（Q7688/Q20090/Q20283/Q20058/Q20435/Q20376）→ 整合 [[完整笔记/专题笔记/USMLE/USMLE_Study_Design决策树]]
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q20376
+> - [ ] 默写 4 种 design 能算/不能算什么（risk / OR / prevalence）
+> - [ ] 反射训练：见"risk of developing / compare exposed vs unexposed 发病"→ 秒选 cohort
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: Study Design 选择（比较发病风险→cohort）
+> 状态:: 🔴
+> 错因:: 知识
+
+> [!example]- [2026-06-05] Biostats / 生态学研究 + 生态学谬误（population-level 不能推个体）(Q20503)
+> ^Q20503
+> 
+> ## Stem 模式
+> 研究 county-level 绿地% 与抑郁相关死亡率，只收**人群层面**数据（无 individual data），给 RR + 95% CI（均 <1 且不含 1）→ 问最佳陈述。
+> 
+> ## 核心概念
+> **数据在人群 / 社区层面（county）、无个体数据 = ecological study（生态学研究）**。它只能得出"**人群层面的统计显著关联**"；**推断到个体 = ecological fallacy（生态学谬误）；推断因果也不行**。
+> 
+> ## 普适规则
+> 
+> | 想下的结论 | 生态学研究能否支持 |
+> |---|---|
+> | "**人群层面**有统计显著关联"（CI 不含 null）| ✅ 可以（本题正解 E）|
+> | "**某个体**风险更低 / 相同"（individual-level）| ❌ **ecological fallacy** |
+> | "X **导致 / 预防** Y"（causality）| ❌ 观察性 + 生态学只生成假设 |
+> 
+> > Ecological fallacy：人群层面的关联，**不代表**该人群里任一个体也有同样关联。
+> 
+> ## 易混陷阱（普适）
+> - 选项出现 **"an individual / a subject（某个体）"** + 数据是人群层面 → 多半踩 **ecological fallacy**。
+> - 选项出现 **"causes / prevents（因果）"** → 观察性研究一律排除。
+> - 识别 ecological study 的信号：数据单位是**群体**（county / 国家 / 地区的率与暴露%），**没有个体记录**。
+> 
+> ## 我为什么错
+> - 选了：C（"某个体"在高绿地环境风险显著更低）
+> - 错因：知识 —— 把人群层面关联**越级**推到个体，正中 ecological fallacy
+> - 核心陷阱：没识别"county-level、无个体数据"=生态学研究 → 结论只能停在人群层面
+> 
+> ## Memory Hook
+> **"生态学研究 = 群体数据；结论只能说'人群层面有关联'。推到个体 = 生态学谬误；推到因果 = 另一个错。"**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> C 哪里错？→ C 在讲"an individual（某个体）"，但研究只有 county 层面数据，无法保证个体也成立 = ecological fallacy。正解 E 只说"人群层面有显著关联"，不越级。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q20376]] Study Design 选择（design 谱系）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20435]] Study Design 判定
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20227]] 关联 ≠ 因果（观察性不能下因果）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - 🏥 跨学科：[[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]（关联 ≠ 因果 铁律③④）
+> - 🌱 TODO：并入 [[完整笔记/专题笔记/USMLE/USMLE_Study_Design决策树]]（加 ecological study + ecological fallacy 条目）
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q20503
+> - [ ] 默写 ecological study 识别信号 + ecological fallacy 定义
+> - [ ] 反射训练：选项里"某个体"+人群层面数据 → 警惕 ecological fallacy
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: 生态学研究 + 生态学谬误
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-06-05] Biostats / p 值 ↔ CI 互译（CI 不含 null ⟺ p<0.05）(Q3909)
+> ^Q3909
+> 
+> ## Stem 模式
+> Cohort，5 年 RR = 1.60，**95% CI = 1.02–2.15**（不含 1）→ 问最可能的 p 值（选项 0.04 / 0.06 / 0.09 / 0.11 / 0.20）。
+> 
+> ## 核心概念
+> **95% CI 不含 null（RR/OR 的 null=1，差值的 null=0）⟺ p < 0.05**。CI = 1.02–2.15 不含 1 → 显著 → **p < 0.05 → 0.04**。其余选项均 >0.05（对应 CI 会含 1）。
+> 
+> ## 普适规则
+> 
+> | CI 状态 | 95% CI | 99% CI |
+> |---|---|---|
+> | **null 在 CI 外**（不含）| **p < 0.05** | **p < 0.01** |
+> | null 在 CI 内（含）| p ≥ 0.05 | p ≥ 0.01 |
+> 
+> > p 值与 CI 是**同一信息的两种表达**：CI 越界 = 显著 = p 小于对应阈值。
+> 
+> ## 易混陷阱（普适）
+> - RR/OR 的 null = **1**；均数差 / risk difference 的 null = **0**（别用错 null）。
+> - 95% ↔ 0.05、99% ↔ 0.01 配对；CI 收窄到 99% 仍不含 null → p 更小（<0.01）。
+> - 显著只说"非偶然"，**不代表**因果或临床重要（见 Q106495 / Q20227）。
+> 
+> ## 我为什么错（卡点）
+> - 选了：A（0.04，✅ 做对）
+> - 卡点：做对但**没真懂题干**——没把"CI 1.02–2.15 不含 1"自动翻译成"p<0.05"，靠感觉选
+> - 核心陷阱：没建立 CI ⟺ p 的互译反射
+> 
+> ## Memory Hook
+> **"95% CI 不含 null ⟺ p<0.05；99% CI 不含 null ⟺ p<0.01。CI 和 p 是一回事的两种说法。"**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 为什么是 0.04？→ 95% CI 不含 1 = 显著 = p<0.05；选项里只有 0.04<0.05，其余都会让 CI 含 1。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q20754]] "X% level"=α 的定义（同 α/p 族）
+>   - [[mistakes/uworld-mistakes_2026-06#^Q106495]] 统计显著 vs 临床显著
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3941]] Null Hypothesis
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20227]] CI 不含 1 ≠ 因果
+> - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_统计显著vs临床显著]] / [[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]] / [[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - 🏥 跨学科：[[完整笔记/专题笔记/Biostats/Biostats_α_β_Power]]（α 阈值）
+> - 🌱 TODO：连对 2 道 CI↔p 互译题 → 降 🟢
+> 
+> ## ✅ 复盘行动
+> - [ ] 1 周后重做 Q3909
+> - [ ] 默写 CI↔p 互译表（95%↔0.05 / 99%↔0.01；RR null=1 / 差值 null=0）
+> - [ ] 反射训练：见 CI → 先看含不含 null → 立刻翻成 p ⪋ 阈值
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: p 值与 CI 互译（CI 不含 null⟺p<0.05）
+> 状态:: 🟡
+> 错因:: 知识

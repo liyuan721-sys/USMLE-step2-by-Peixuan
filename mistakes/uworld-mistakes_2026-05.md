@@ -1873,7 +1873,7 @@
 > 状态:: 🟡
 > 错因:: 知识
 
-> [!example]- [2026-05-12] Biostats / Study Design 判定 — Cohort vs Case-Control (Q20435)
+> [!example]- [2026-05-12] Biostats / Study Design 判定 — Cohort vs Case-Control（🔴 反复错 → 2026-06-05 Q20376 同族再错）(Q20435)
 > ^Q20435
 > 
 > ## Stem 模式
@@ -1984,12 +1984,13 @@
 > - [ ] 明天让 Claude Code 生成 [[完整笔记/专题笔记/USMLE/USMLE_Study_Design决策树]]
 > - [ ] 下次看到 "diagnosis of X" → 强制问"X 是 exposure 还是 outcome"
 > - [ ] 下次看到 "matched control" → 强制问"按什么分组"
+> - [ ] 🔴 **反复错升级（2026-06-05）**：[[mistakes/uworld-mistakes_2026-06#^Q20376]] 同族再错（"比较发病风险→cohort"没反射）→ 默写 4 类 design "能算什么"，连对 2 道才降级
 > 
 > ---
 > 
 > 学科:: Biostats
 > 主题:: Study Design 判定
-> 状态:: 🟡
+> 状态:: 🔴
 > 错因:: 知识
 
 > [!example]- [2026-05-12] 神经 / Pseudodementia vs AD (AMBOSS-Pseudo78)
