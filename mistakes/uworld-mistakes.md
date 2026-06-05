@@ -28106,7 +28106,7 @@
 > 状态:: 🟡
 > 错因:: pattern
 
-> [!example]- [2026-05-28] 肾 / Lithium-induced Nephrogenic DI — 缺陷部位 = 集合管（不是下丘脑！）+ DI 三鉴别表 (Q18520)
+> [!example]- [2026-05-28] 肾 / Lithium-induced Nephrogenic DI — 缺陷部位 = 集合管（不是下丘脑！）+ DI 三鉴别表 (Q18520) 🔴 反复错（6-5 重错选甲状腺滤泡细胞）
 > ^Q18520
 >
 > ## Stem 模式
@@ -28220,6 +28220,7 @@
 >   - 等积累 ≥ 3 道 DI 题（中枢 / 肾性 / 妊娠期 / psychogenic）→ 建 [[完整笔记/专题笔记/肾脏/肾脏_DI完整鉴别框架]]
 >
 > ## ✅ 复盘行动
+> - [ ] **🔴 2026-06-05 重错（选 F 甲状腺滤泡细胞）**——被 TSH 7（甲减）干扰带偏。甲减**不致多尿/稀释尿**（反而抗利尿）；本题锂 + 持续稀释尿 = **肾性 DI，缺陷在集合管（renal collecting ducts）对 ADH 抵抗**。升 🔴。
 > - [ ] 1 周后重做 Q18520（验证 Lithium-DI = 集合管反射）
 > - [ ] 默写 Polyuria + dilute urine 三鉴别表（病因 + 禁水 Uosm + DDAVP 反应）
 > - [ ] 默写 Lithium-DI 机制链（ENaC 入主细胞 → cAMP↓ + AQP2↓ → ADH 抵抗）
@@ -28231,7 +28232,7 @@
 >
 > 学科:: 肾
 > 主题:: Lithium-induced Nephrogenic DI 缺陷在 renal collecting ducts（不是下丘脑！）/ Polyuria 三鉴别（1° polydipsia ADH 无关 / Central DI = ADH 缺乏（下丘脑/垂体后叶病变）/ Nephrogenic DI = ADH 抵抗（肾））/ 禁水 + DDAVP 鉴别中枢 vs 肾性（中枢 Uosm 升 >50% / 肾性 无变化）/ Lithium-DI 机制（ENaC 入主细胞 → cAMP↓ + AQP2↓ → ADH 抵抗 + 长期致 chronic tubulointerstitial nephropathy 不可逆 ESRD）/ Lithium-DI 治疗（amiloride 阻 ENaC + thiazide 反常抗利尿 + 限钠 + 停药评估）/ 其他肾性 DI 病因（高钙 / Demeclocycline / Amphotericin B / 遗传 AVPR2 & aquaporin-2）/ 反 pattern: 见 DI 别反射"下丘脑"先扫病因（lithium/高钙/头部）定中枢 vs 肾性 / TSH 7 是甲减干扰信号 — 甲减反而抗利尿不致多尿
-> 状态:: 🟡
+> 状态:: 🔴
 > 错因:: pattern
 
 > [!example]- [2026-05-28] 肾 / CNI (Tacrolimus) 急性肾毒性 — Diltiazem CYP3A4 抑制 → 血药↑ → arteriolar vasoconstriction（🟡 做对但不确定）(Q16485)
@@ -29937,6 +29938,7 @@
 >   - 考虑建 [[完整笔记/专题笔记/USMLE/USMLE_急症先治不诊断元规则]]（DKA / hyperK / severe hyperCa / status epilepticus / sepsis 5 大同框）— 等再积累 1-2 题
 >
 > ## ✅ 复盘行动
+> - [ ] **🔴 2026-06-05 第 3 次重错（又选 A bone marrow biopsy）**——5-28 + 5-31 + 6-5 三次栽同一个坑："急症先治不诊断"反射仍未建立。**Ca>14 或症状性 → 先 NS 补容量 + calcitonin，不是先 bone marrow biopsy**（MM 诊断等救命之后）。已 #考前必看，建议每日强制过一遍。
 > - [ ] 1 周后重做 Q2169（验证 "NS+Calcitonin first" 反射）
 > - [ ] 默写 Hypercalcemia 3 级分层（Severe>14 / Mod 12-14 / Mild<12）
 > - [ ] 默写 6 治疗选择对照（NS / Calcitonin / Bisphosphonate / Glucocorticoid / Hemodialysis / Furosemide × 起效 + 指征）
@@ -30427,7 +30429,7 @@
 > 状态:: 🟡
 > 错因:: 知识
 
-> [!example]- [2026-05-28] 肾/Heme-Onc / AA Amyloidosis from RA — 长期 RA 慢性炎症 + 肾综 + Congo red 阳性沉积 (Q16296) 🟡 选对不确定
+> [!example]- [2026-05-28] 肾/Heme-Onc / AA Amyloidosis from RA — 长期 RA 慢性炎症 + 肾综 + Congo red 阳性沉积 (Q16296) 🔴 反复错（6-5 重错选 B 增殖性免疫沉积）
 > ^Q16296
 >
 > ## Stem 模式
@@ -30511,6 +30513,7 @@
 >   - 累积 Q21041 + Q16296 → 整合 [[完整笔记/专题笔记/肾脏/肾脏_Amyloidosis四型对照]]（4 型前驱-蛋白-器官-诊断-治疗 + 5 选 1 病理对照）
 >
 > ## ✅ 复盘行动
+> - [ ] **🔴 2026-06-05 重错（选 B 增殖性免疫沉积）**——上次"选对不确定"这次直接错 → 升 🔴。关键：**长期 RA + 肾综（4+ 蛋白、无 cells/casts）+ 瘀斑 = AA 淀粉样变 → Congo red 阳性、苹果绿双折射**；B（immune deposits + 增殖）是狼疮/增殖性 GN（有 RBC casts + 血尿，本题没有）。
 > - [ ] 1 周后重做 Q16296 — 必须**正向锁 AA from RA**（不许排除法）
 > - [ ] 默写 4 型 amyloid 完整对照（同 Q21041）
 > - [ ] 默写 AA 5 大前驱炎症（RA / IBD / OM / TB / FMF）
@@ -30522,7 +30525,7 @@
 >
 > 学科:: 肾
 > 主题:: AA Amyloidosis from RA 经典指纹（长期 RA-IBD-OM-TB-FMF 慢性炎症 → 肝 SAA acute phase reactant↑ → AA 沉积肾小球 → 肾综 4+ proteinuria + hypoalbumin + edema 无 cells/casts ± 皮肤瘀斑毛细血管脆 + 肝脾大 + GI 吸收不良 / 治疗 = 控原发炎症 DMARDs-biologics SAA↓ 阻止沉积）/ Amyloid 共同诊断（Congo red+ / 苹果绿双折射 polarized light / amorphous hyaline H&E / 脂肪垫活检首选无创 → 阴性肾活检）/ Nephrotic vs Nephritic UA 对照（Nephrotic >3.5g+无 cells/casts+水肿明显 hypoalbumin+HTN后期+补体正常 vs Nephritic <3.5g+gross hematuria-RBC casts-dysmorphic+水肿较轻+HTN 早突出+补体多↓）/ 5 选 1 肾活检病理对照（Congo red+ amyloid ✅ / immune deposits+cellular proliferation lupus-MPGN proliferative GN → HTN+hematuria+RBC casts / hyalinization arterioles HTN nephrosclerosis 需 long-standing 未控 HTN / mononuclear infiltrate AIN-CTIN 药物史+发热+皮疹+WBC casts / urate crystal gout 单关节 acute warm swollen 不 RA pattern）/ 4 型 amyloid 助记 AL-Abnormal plasma cells / AA-Acute phase reactant 慢性炎症 / ATTR-Age-Autosomal / DRA-Aβ2M-Dialysis / RA + 肾综反射 AA amyloidosis（DMARDs 前老 RA 患者并发 #1 肾问题）/ AA 5 大前驱（RA / IBD / 骨髓炎 / TB / FMF 家族地中海热 AR 突变反复发热腹痛）
-> 状态:: 🟡
+> 状态:: 🔴
 > 错因:: 知识
 
 > [!example]- [2026-05-28] 肾/内分泌 / CKD-MBD 继发性甲旁亢 — Subperiosteal resorption + 病理骨折 → 测 PTH (Q106299) 🟡 做对但要扎实
