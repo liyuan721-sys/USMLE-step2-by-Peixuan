@@ -1966,6 +1966,7 @@ type: 错题数据源
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - 本题为首张假体/植入物感染卡，等积累人工瓣膜 / CIED 感染后成系列
+>   - [[mistakes/uworld-mistakes_2026-06#^Q14664]] 血培污染 vs 真感染判读 —— coag-neg staph 平时是头号污染菌，但**本题在假体上 = 当真感染**（生物膜温床）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/感染]] / [[完整笔记/Peixuan分科笔记/骨科]]
 > - 🏥 跨学科：[[完整笔记/专题笔记/感染/感染_感染性心内膜炎完整体系]]（人工瓣膜早期 IE 同样以 coagulase-negative staph 为主——「假体物 + 表皮葡定植」共通逻辑）/ [[完整笔记/专题笔记/感染/感染_STI分泌物综合征鉴别]] §三（本题干扰项 DGI / 反应性关节炎的归属）
 > - 🌱 TODO：累积 3+ 道假体/植入物感染题（关节 / 人工瓣膜 / CIED / 血管移植物）→ 生成 [[完整笔记/专题笔记/感染/感染_假体植入物感染病原时相]]
@@ -2195,6 +2196,32 @@ type: 错题数据源
 > | **① 经验抗真菌** | **Echinocandin（micafungin 等）一线**；ID 科会诊定方案 / 疗程 |
 > | **② 拔除 CVC** | 源头控制；Candida 生物膜（glycocalyx）使留置导管成难根除巢穴 |
 > | **③ 评估转移灶** | **全部需眼科查 endophthalmitis**；持续阳性 → echo 排 IE / 腹部 CT |
+> 
+> **血培污染 vs 真感染判读（普适，Q9111 也调用）**
+> 
+> | 长出来的菌 | 判断 |
+> |---|---|
+> | **几乎从不是污染（一律当真）** | **Candida/酵母** ⭐、**S. aureus** ⭐、肺炎链球菌、肠杆菌（E. coli/Klebsiella）、Pseudomonas、GAS/GBS、Listeria、Bacteroides |
+> | **最常见污染菌（皮肤定植）** | **Coagulase-negative staph（S. epidermidis）** ⭐头号、Cutibacterium acnes、Corynebacterium、Bacillus（非炭疽）、Micrococcus |
+> 
+> 何时才"复查排污染"——**三条同时满足**：
+> 
+> ```
+> ① 菌种 = 皮肤common菌（coag-neg staph / Cutibacterium / Corynebacterium / Bacillus）
+>      ＋
+> ② 阳性比例低（多套里仅 1 套阳 / 单瓶孤立）
+>      ＋
+> ③ 临床不支持（无脓毒发热、无置入物、免疫正常）
+>      → 倾向污染 → 复查多部位多套血培
+> 任一"当真信号"（多套均阳 / 上表左列菌 / 有 CVC·人工瓣·假体 / 免疫抑制 / 脓毒）→ 别当污染
+> ```
+> 
+> > [!warning] 同一个菌、两种命运 —— coagulase-negative staph
+> > 它是**头号污染菌**，但碰到**植入物（假体/导管/人工瓣）**就翻身变真凶（生物膜定植）。
+> > - 本题 **Candida → 永不污染**，立即治。
+> > - 普通患者单套长 S. epidermidis → 多半污染，复查。
+> > - **[[mistakes/uworld-mistakes_2026-06#^Q9111]] 假体关节 / CVC / 人工瓣患者长 S. epidermidis → 当真感染**（治 + 拔/换假体）。
+> > 钥匙：**有没有"假体/导管"这个生物膜温床**。
 > 
 > ## 易混陷阱（普适）
 > 血培酵母**绝不是污染**——不能选「复查血培排除污染」（治疗反而要在抗真菌后**连续血培确认根除**）。galactomannan（Aspergillus 细胞壁）、Histoplasma 抗原都不是念珠菌检查方向；β-D-glucan 才对酵母敏感(非特异)。CVC 即使局部无红肿**也要拔**（生物膜，非导管口感染）。
