@@ -49,7 +49,7 @@ Step 2：用一条鉴别钥匙定唯一病原（见 §四-六）
 | **<200** | **PCP（Pneumocystis jirovecii 肺炎）** ⭐ | 亚急性干咳 + 劳力性呼吸困难 + **双肺弥漫间质浸润** + **LDH↑** + 运动后血氧↓ | **TMP-SMX**（高剂量）+ 激素（PaO₂<70 或 A-a>35）|
 | **<150** | 播散性组织胞浆菌（Histoplasma capsulatum） | 发热 + 体重↓ + 肝脾大 + 全血细胞↓；尿/血抗原 | Amphotericin B → Itraconazole |
 | **<100** | **弓形虫脑炎（Toxoplasma）** ⭐；**隐球菌脑膜炎（Cryptococcus）** ⭐；食管念珠菌 | Toxo：多发环形强化灶（基底节）；Crypto：亚急性头痛 + ↑颅压；食管炎吞咽痛 | Toxo → 乙胺嘧啶 + 磺胺嘧啶 + 亚叶酸；Crypto → Ampho B + Flucytosine → Fluconazole；食管 Candida → Fluconazole |
-| **<50** | **MAC（播散性）** ⭐；**CMV（视网膜炎/结肠炎/食管炎）** ⭐；原发 CNS 淋巴瘤（EBV）；PML（JC 病毒）；Bartonella（杆菌性血管瘤病）| MAC：发热 + 体重↓ + 腹泻 + ALP↑ + 血培 NTM；CMV 视网膜：pizza-pie 出血渗出 | MAC → **大环内酯 + ethambutol**；CMV → Ganciclovir；淋巴瘤 → 化疗/放疗 + ART；PML → 优化 ART |
+| **<50** | **MAC（播散性）** ⭐；**CMV（视网膜炎/结肠炎/食管炎）** ⭐；原发 CNS 淋巴瘤（EBV）；PML（JC 病毒）；**Bartonella（杆菌性血管瘤病）**| MAC：发热 + 体重↓ + 腹泻 + ALP↑ + 血培 NTM；CMV 视网膜：pizza-pie 出血渗出；**Bartonella：血管瘤样紫红色皮损/结节（需与 KS 鉴别）** | MAC → **大环内酯 + ethambutol**；CMV → Ganciclovir；淋巴瘤 → 化疗/放疗 + ART；PML → 优化 ART；**Bartonella → 大环内酯/doxycycline** |
 
 > [!success] CD4 阈值口诀
 > - **500 → 黏膜 + 皮肤**（thrush / OHL / KS / 带状疱疹）
@@ -57,6 +57,9 @@ Step 2：用一条鉴别钥匙定唯一病原（见 §四-六）
 > - **150 → 组织胞浆菌**
 > - **100 → 脑 + 食管**（Toxo / Crypto / 食管 Candida）
 > - **50 → 钱花光了**（MAC / CMV / 淋巴瘤 / PML —— 最深的坑）
+
+> [!info] 旁系：Candida 内眼炎（endophthalmitis）
+> 不是 CD4 驱动，而是**血行播散性念珠菌病**的眼并发症：长期 **CVC / TPN / 广谱抗生素 / 中性粒减少**患者血流播散 → 单侧飞蚊 + 进行性视力下降 + **黄白色棉球样脉络膜视网膜浸润**（与 CMV pizza-pie 出血渗出不同）。处理：全身抗真菌 ± 玻璃体内干预。→ 呼应 [[mistakes/uworld-mistakes_2026-06#^Q14664]]：所有念珠菌血症都需眼科会诊查 endophthalmitis。
 
 ---
 
@@ -107,6 +110,12 @@ Step 2：用一条鉴别钥匙定唯一病原（见 §四-六）
 
 > [!success] 颅内三连记忆
 > **多发环形 = 虫（Toxo）；单发 = 瘤（淋巴瘤）；不强化白质 = 病毒（PML）。** 隐球菌看脑膜 + CrAg + 高颅压。
+
+> [!tip] CSF 判读补充（鉴别第二维度）
+> - **隐球菌脑膜炎**：**↑开放压**（高颅压突出）、↑蛋白、↓糖、**CrAg / India ink ⊕**；处理含**反复 LP 降颅压**（治疗成败关键之一）
+> - **弓形虫脑炎**：以影像为主（多发环形 + Toxo IgG ⊕）；CSF 蛋白可略高、细胞可正常，**通常不靠 LP 确诊**（且占位有疝风险时慎穿）
+> - **PML**：CSF 多正常，**JC 病毒 PCR ⊕**支持
+> - **CNS 淋巴瘤**：CSF **EBV DNA ⊕** + 细胞学；thallium SPECT ⊕（与 Toxo 鉴别）
 
 ---
 
@@ -207,3 +216,4 @@ CD4 钟表
 ## 版本记录
 
 - **v1**（2026-06-06）：错题驱动早建（[[mistakes/uworld-mistakes_2026-06#^Q2268]] MAC + [[mistakes/uworld-mistakes_2026-06#^Q3917]] CMV）。框架 = 两步定位法（CD4 锁范围 → 鉴别钥匙定唯一）+ CD4 分层总表 + 预防阈值 + 腹泻/CNS/食管三张鉴别速查 + 对口药配对表。
+- **v1.1**（2026-06-06）：分科扫描增量并入（感染/neuro/眼科）。§二 Bartonella 展开临床（血管瘤样皮损 vs KS）+ 旁系 Candida 内眼炎（呼应 [[mistakes/uworld-mistakes_2026-06#^Q14664]]）；§五加 CSF 判读对照（隐球菌高颅压/反复LP、Toxo 影像为主、PML JC-PCR、淋巴瘤 EBV-DNA）。
