@@ -42,7 +42,7 @@ W9-W10 Taper + Free120     → 不学新内容,临考雷达
 
 | 周 | 日期 | 主线 | 评估检查点 |
 |---|---|---|---|
-| **W1** | 6/8-6/14 | 收尾 181 未做 + 错题刷（心内/肾/Heme）+ Biostats/Ethics 每日 40min | NBME 11（基线）|
+| **W1** | 6/8-6/14 | 收尾 181 未做 + 每天一主题错题刷（感染/血液/骨科风湿/神经/皮肤）+ Biostats/Ethics 每日 40min | NBME 11（基线，周五）|
 | W2 | 6/15-6/21 | 错题主刷（感染/儿科/肺）+ Biostats 续 | — |
 | W3 | 6/22-6/28 | 错题刷完（风湿/皮/眼）+ 错题日志整理 | NBME 13（**出分定二刷范围**）|
 
@@ -89,7 +89,7 @@ W9 NBME16 + Free120#1 │ W10 Free120 #2/#3 + UWSA3 → 考试
 
 ---
 
-## 🎯 当前焦点 — W1（6/8-6/14）错题歼灭：收尾 181 + 心内/肾/Heme 错题刷 + NBME 11 基线 + Biostats/Ethics 起步
+## 🎯 当前焦点 — W1（6/8-6/14）错题歼灭：收尾 181 + 每天一主题（感染/血液/骨科风湿/神经/皮肤）+ 周五 NBME 11 基线 + Biostats/Ethics 起步
 
 > [!tip] 每日通用模板（13h）
 > **上午 7:00-11:30** 计时 block（新/错题）+ 每 block 完立刻【即时精析】｜ **下午 12:30-17:30** 深精析 + 错题入库 + unused 清理 ｜ **晚上 18:30-22:00** Biostats/Ethics 40min + 主动回忆当日错题
@@ -98,47 +98,47 @@ W9 NBME16 + Free120#1 │ W10 Free120 #2/#3 + UWSA3 → 考试
 ### 本周目标产出（周末验收）
 
 - [ ] **181 unused 清零**（Tue-Sat 每天 ~35 题滚动消化）
-- [ ] 心内 / 肾 / Heme-Onc 的 **incorrect 各过一遍**（UWorld 按 subject+incorrect 筛，看各自题量分配天数）
-- [ ] **NBME 11 基线分**记录 → [[NBME/nbme-records]]，并据最弱 system 微调本周错题优先级
+- [ ] 感染 / 血液 / 骨科风湿 / 神经 / 皮肤 的 **incorrect 各过一遍**（UWorld 按 subject+incorrect 筛，每天一个主题）
+- [ ] **NBME 11 基线分**（**周五 6/12** 做）记录 → [[NBME/nbme-records]]，据最弱 system 定 **W2** 错题优先级
 - [ ] Biostats / Ethics **每日 40min ×6**（地基，别拖到最后）
 - [ ] W1 错题入库 + 衍生加反链（按入库过滤器，不全入库）
 
 ### 每日 to-do
 
-**周一 6/8 — NBME 11 基线日**
+**周一 6/8 — 感染错题主刷**（today，接今天在刷的感染）
 
-- [ ] AM：NBME 11 全长模考（4 blocks 计时，练考试节奏）
-- [ ] PM：判分 + 逐题精析，圈出最弱 system → 定本周错题刷顺序
-- [ ] Eve：Biostats 40min（研究设计/描述统计起步）+ 当日错题入库
+- [ ] AM：2 block 感染 incorrect 计时重做 + 即时精析
+- [ ] PM：深精析 + 感染错题入库（已覆盖的去衍生加反链）+ unused ~35
+- [ ] Eve：Biostats 40min（研究设计/描述统计起步）+ 回忆当日错题
 
-**周二 6/9 — 心内错题 + 收尾**
-
-- [ ] AM：2 block 心内 incorrect 计时重做 + 即时精析
-- [ ] PM：深精析 + 心内错题入库（已覆盖的去衍生加反链）+ unused ~35
-- [ ] Eve：Ethics 40min（informed consent / capacity 起步）+ 回忆当日错题
-
-**周三 6/10 — 心内收尾 + 肾起步**
-
-- [ ] AM：心内 incorrect 剩余 + 肾 incorrect 开刷
-- [ ] PM：精析 + 入库 + unused ~35
-- [ ] Eve：Biostats 40min + 回忆
-
-**周四 6/11 — 肾错题主刷**
-
-- [ ] AM：2 block 肾 incorrect + 即时精析
-- [ ] PM：精析 + 入库 + unused ~35
-- [ ] Eve：Ethics 40min + 回忆
-
-**周五 6/12 — Heme-Onc 错题主刷**
+**周二 6/9 — 血液（Heme-Onc）错题主刷**
 
 - [ ] AM：2 block Heme incorrect + 即时精析
 - [ ] PM：精析 + 入库 + unused ~35
+- [ ] Eve：Ethics 40min（informed consent / capacity 起步）+ 回忆
+
+**周三 6/10 — 骨科 + 风湿错题主刷**
+
+- [ ] AM：2 block 骨科/风湿 incorrect + 即时精析
+- [ ] PM：精析 + 入库 + unused ~35
 - [ ] Eve：Biostats 40min + 回忆
 
-**周六 6/13 — Heme 收尾 + 周内滚动**
+**周四 6/11 — 神经系统错题主刷**
 
-- [ ] AM：Heme incorrect 剩余 + 本周入库错题第一次主动回忆（盖答案自测）
-- [ ] PM：unused 清零 + 改答案题命中率小结（盯 Correct→Incorrect 习惯）
+- [ ] AM：2 block 神经 incorrect + 即时精析
+- [ ] PM：精析 + 入库 + unused ~35
+- [ ] Eve：Ethics 40min + 回忆
+
+**周五 6/12 — NBME 11 基线日** ⭐
+
+- [ ] AM：NBME 11 全长模考（4 blocks 计时，练考试节奏）
+- [ ] PM：判分 + 逐题精析，圈出最弱 system → 定 **W2** 错题优先级
+- [ ] Eve：**NBME 11 基线分记录** → [[NBME/nbme-records]] + Biostats 40min
+
+**周六 6/13 — 皮肤错题主刷 + NBME 精析**
+
+- [ ] AM：皮肤 incorrect + 即时精析 + NBME 11 错题逐题精析入库
+- [ ] PM：本周入库错题第一次主动回忆（盖答案自测）+ unused 清零 + 改答案题命中率小结（盯 Correct→Incorrect 习惯）
 - [ ] Eve：Ethics/Biostats 40min + 回忆
 
 **周日 6/14 — 弹性 + 休半天**
