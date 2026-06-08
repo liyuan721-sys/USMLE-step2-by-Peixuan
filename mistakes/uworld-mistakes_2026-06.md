@@ -3458,3 +3458,116 @@ type: 错题数据源
 > 主题:: 百日咳成人发病 = 疫苗免疫衰减
 > 状态:: 🟡
 > 错因:: pattern
+
+> [!success]- [2026-06-08] 感染 / SCD 骨髓炎经验抗生素 = 抗葡萄球菌 + 三代头孢覆盖 Salmonella (Q3571·✅做对·不确定) #难记
+> ^Q3571
+> 
+> ## Stem 模式
+> 15 岁男童 **镰刀细胞病（SCD）**，既往多次急性血管闭塞危象（多在手臂）；2 天**发热 + 左膝剧痛**；T 38.2、**胫骨近端明显压痛肿胀**；白细胞↑ + CRP↑；MRI **胫骨近端明显炎症、无关节积液 = 骨髓炎（非化脓性关节炎）**；已抽血培养。问最佳经验抗生素。→ **Ceftriaxone + clindamycin（B）**。
+> 
+> ## 核心概念
+> SCD 骨髓炎双病原 = **Staphylococcus aureus + Salmonella（荚膜革兰阴性）**。SCD 因微梗死成感染灶 + 功能性无脾 → 易骨髓炎。故经验治疗须**同时覆盖两者**：抗葡萄球菌（clindamycin/vancomycin/nafcillin/cefazolin）**＋三代头孢（ceftriaxone/cefotaxime）覆盖 Salmonella**。只覆盖一边都不够。
+> 
+> ## 普适规则
+> 
+> **儿童骨髓炎经验抗生素（按人群）**
+> 
+> | 人群 | 最常见病原 | 经验方案 |
+> |---|---|---|
+> | **健康儿童·低 MRSA 风险** | S. aureus | Nafcillin/oxacillin 或 cefazolin |
+> | **健康儿童·高 MRSA 风险** | S. aureus(MRSA) | Clindamycin 或 vancomycin |
+> | **SCD 儿童** | **S. aureus + Salmonella** | 上述抗葡萄球菌 **＋三代头孢（ceftriaxone/cefotaxime）** |
+> 
+> ## 易混陷阱（普适）
+> - **Cefazolin / oxacillin / vancomycin（A、C、E）**：只覆盖（甲敏或耐药）金葡，**不覆盖 Salmonella** → SCD 患儿不足。
+> - **Gentamicin（D）**：氨基糖苷覆盖 Salmonella 等 G−，**不覆盖金葡** → 单用不足。
+> - **正解 = clindamycin（抗葡萄球菌含 MRSA）＋ ceftriaxone（覆盖 Salmonella）**，两手都要硬。
+> - **骨髓炎 vs 化脓性关节炎**：MRI 无关节积液 + 干骺端炎症 = 骨髓炎；有积液 + 关节计数 >50,000 = septic arthritis。
+> 
+> ## 我为什么不确定
+> - 做对：靠"SCD → Salmonella"反射选了含 ceftriaxone 的 B，但**不确定为什么还要配 clindamycin**
+> - 真正考点：SCD 骨髓炎是**双覆盖**——既要 Salmonella（三代头孢）**又要**金葡（含 MRSA → clindamycin/vanc）；金葡其实仍是 SCD 骨髓炎重要病原，不能因"SCD = Salmonella"就漏掉金葡
+> - 与今日 [[mistakes/uworld-mistakes_2026-06#^Q3640]] 对照：**脓毒症 → 肺炎链球菌（荚膜菌）**；**骨髓炎（有骨痛）→ S. aureus + Salmonella 双覆盖**。同一 SCD，问法不同病原不同
+> 
+> ## Memory Hook
+> **「SCD 骨髓炎 = 金葡 + Salmonella 双覆盖：抗葡萄球菌(clinda/vanc) ＋ 三代头孢(ceftriaxone)。单覆盖一边都错。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> SCD 不是"骨髓炎 = Salmonella"吗，为什么还要 clindamycin？→ 因为 **S. aureus 仍是 SCD 骨髓炎的重要（甚至并列）病原**，Salmonella 只是"相对健康儿童更突出"；经验期不能赌单一病原 → **双覆盖**。一旦血培养/活检出结果再降阶。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q3640]] SCD 无脾**脓毒症**→肺炎链球菌（同 SCD 不同问法：脓毒症 vs 骨髓炎，本日入库·核心对照）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/hematology oncology]]（SCD 并发症）/ [[完整笔记/Peixuan分科笔记/感染]] / [[完整笔记/Peixuan分科笔记/儿科]] / [[完整笔记/Peixuan分科笔记/骨科]]（骨髓炎 vs 化脓性关节炎）
+> - 📚 专题：[[完整笔记/专题笔记/感染/感染_抗生素高频20场景秒杀]]（骨髓炎经验方案）
+> - 🌱 TODO：累积 SCD 系列（脓毒症 / 骨髓炎 / 急性胸综合征 / 无脾预防）→ 生成 [[完整笔记/专题笔记/感染/感染_无脾与荚膜菌感染]]（与 Q3640 同一 TODO）
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写「SCD 骨髓炎 = 金葡 + Salmonella 双覆盖（抗葡 ＋ 三代头孢）」
+> - [ ] 默写 SCD 脓毒症(肺炎链球菌) vs 骨髓炎(金葡+Salmonella) 的问法分水岭
+> - [ ] 找 3 道类似题：搜 "sickle cell osteomyelitis Salmonella empiric" + "ceftriaxone clindamycin osteomyelitis SCD" + "pediatric osteomyelitis empiric antibiotics"
+> 
+> ---
+> 
+> 学科:: 感染
+> 主题:: SCD 骨髓炎经验抗生素（金葡 + Salmonella 双覆盖）
+> 状态:: 🟡
+> 错因:: 知识（答对未掌握）
+
+> [!success]- [2026-06-08] 感染 / 晚期 AIDS 不强化无占位白质灶 = PML（JC 病毒）(Q2277·✅做对·不确定) #难记
+> ^Q2277
+> 
+> ## Stem 模式
+> 43 岁男（住收容所），意识混乱 + **左侧无力**；近月进行性记忆/言语障碍 + 左侧无力；**4 年前确诊 HIV、6 个月前患 PCP**，未规律 ART；恶病质 + **口腔鹅口疮**；左侧反射亢进、肌张力↑、Babinski ⊕、表达性失语；**CD4 30**、Toxoplasma 血清⊕；CT 增强见**多发不对称、低密度、不强化白质灶、无水肿**。问最可能病因。→ **进行性多灶性白质脑病 PML（E）**。
+> 
+> ## 核心概念
+> **PML = JC 病毒再激活**，见于**严重免疫抑制（AIDS，CD4<200，常<50）**。JC 病毒裂解少突胶质 → **白质脱髓鞘**。影像钥匙：**不对称、不强化、无占位/无水肿**白质灶。诊断 **CSF JC-PCR**；无特效药，**优化 ART** 可能阻止进展，但常致命。
+> 
+> ## 普适规则
+> 
+> **AIDS CNS 占位/病灶 — 一条钥匙定病原**
+> 
+> | 影像 | 病因 | 关键点 |
+> |---|---|---|
+> | **多发环形强化 + 水肿（基底节）** | **Toxoplasma 弓形虫** | Toxo IgG⊕；经验治疗 2 周看反应 |
+> | **单发环形强化 + 水肿** | **原发 CNS 淋巴瘤（EBV）** | 多 CD4<50；EBV-PCR；SPECT |
+> | **不强化、无占位、不对称白质灶** | **PML（JC 病毒）** | CD4 极低；CSF JC-PCR |
+> 
+> ## 易混陷阱（普适）
+> - **脑弓形虫（A）**：AIDS 最常见 CNS 感染，但**多发环形强化 + 水肿**；本例 Toxo IgG⊕只代表**既往暴露**（很常见），影像不强化无水肿 → 不是活动弓形虫。
+> - **HSV 脑炎（B）**：急性、颞叶**强化**灶 + 占位；与本例慢性、不强化、多灶不符。
+> - **HIV 相关痴呆（C）**：弥漫脑萎缩、脑室扩大，**非局灶不对称白质灶**。
+> - **原发 CNS 淋巴瘤（D）**：通常**单发环形强化 + 水肿**；本例多发、不强化、无水肿 → 不符。
+> 
+> ## 我为什么不确定
+> - 做对：抓住"不强化 + 无水肿 + 白质灶"选了 PML，但**对"Toxo 血清⊕为何不选弓形虫"心里没底**
+> - 真正考点：① PML 影像三联 = **不强化 + 无占位/水肿 + 不对称白质**；② **Toxo IgG⊕ = 既往暴露 ≠ 活动感染**（人群普遍⊕），弓形虫脑炎要**多发环形强化 + 水肿**才算；③ 强化/水肿"有无"是 PML 与 Toxo/淋巴瘤的分水岭
+> 
+> ## Memory Hook
+> **「晚期 AIDS（CD4<50）+ 不强化无水肿不对称白质灶 = PML（JC 病毒）→ 优化 ART；Toxo IgG⊕只是既往暴露，弓形虫要环形强化 + 水肿。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> Toxoplasma 血清是阳的，为什么不选脑弓形虫？→ **Toxo IgG⊕在人群中极常见，只说明既往感染过、不代表现在活动**。活动弓形虫脑炎影像应是**多发环形强化 + 周围水肿（基底节）**；本例**不强化、无水肿** → 直接排除弓形虫，指向 PML。强化与水肿的"有/无"就是这组 AIDS CNS 病的核心鉴别钥匙。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - （首张 PML 卡；与弓形虫脑炎 / CNS 淋巴瘤累积后成 AIDS-CNS 系列）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/感染]] / [[完整笔记/Peixuan分科笔记/神经]]
+> - 📚 专题：[[完整笔记/专题笔记/感染/感染_AIDS机会性感染按CD4谱]]（CNS：多发环形→Toxo / 单发→淋巴瘤 / 不强化无占位→PML）
+> - 🌱 TODO：把"强化/水肿有无 = AIDS-CNS 三病鉴别钥匙"确认已在 AIDS CD4 谱专题（已覆盖，复盘时核对一次）
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写 AIDS-CNS 三病影像钥匙（环形强化+水肿多发=Toxo / 单发=淋巴瘤 / 不强化无水肿=PML）
+> - [ ] 默写「Toxo IgG⊕ = 既往暴露 ≠ 活动感染」
+> - [ ] 找 3 道类似题：搜 "PML JC virus nonenhancing white matter AIDS" + "toxoplasma vs PML imaging" + "CNS lymphoma vs toxoplasmosis AIDS"
+> 
+> ---
+> 
+> 学科:: 感染
+> 主题:: PML（JC 病毒）晚期 AIDS 不强化白质灶
+> 状态:: 🟡
+> 错因:: 知识（答对未掌握）
