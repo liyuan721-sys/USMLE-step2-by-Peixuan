@@ -3333,7 +3333,7 @@ type: 错题数据源
 > - [ ] **反射重建**：疑暴发脑膜炎球菌脑膜炎（发热+瘀点+颈抵抗+数小时恶化）→ **唯一答案 = 立刻 vancomycin + ceftriaxone**（血培养后即给，勿等 LP/CT，勿降温）。
 > - [ ] 默写脑膜炎处理顺序（血培养 → 立刻抗生素 + 地塞米松 → 必要时 CT → LP）
 > - [ ] 默写"先 CT 后 LP"的 5 个指征 + 排除热射病（瘀点+颈抵抗≠热射病）
-> - [ ] 连对 2 次 → 降 🟡
+> - [ ] 连对 2 次 → 降 🟡（**2026-06-09 自测 Q21 ✓ 第 1 次确认，1/2**）
 > 
 > ---
 > 
@@ -3688,7 +3688,7 @@ type: 错题数据源
 > - 🔴 **反复错轨迹**：本卡（治疗 Q4843，误选 azithromycin）+ [[mistakes/uworld-mistakes_2026-06#^Q4353]]（病原，误选 Bartonella）= **同一陷阱连错 2 次**：把**急性化脓性**颈淋巴结炎当成了**猫抓病/慢性**。→ 升 🔴 + #难记。
 > - [ ] **反射重建**：见"**急性（数日）+ 红肿热痛/波动 + 单侧**"颈淋巴结 → 立即反射 **S. aureus/S. pyogenes**（治 clindamycin），**绝不先想猫抓病**（那是**慢性数周 + 无痛 + 猫史 + 抓痕丘疹**）。
 > - [ ] 默写 azithromycin/Bartonella 的真正适应（猫抓病/NTM **慢性**淋巴结炎）
-> - [ ] 连对 2 次（自测/重做）→ 降 🟡
+> - [ ] 连对 2 次（自测/重做）→ 降 🟡（**2026-06-09 自测 Q20 ✓ 第 1 次确认，1/2**）
 > - [ ] 找 3 道类似题：搜 "acute cervical lymphadenitis Staphylococcus" + "cat scratch disease Bartonella chronic" + "nontuberculous mycobacterial lymphadenitis child"
 > 
 > ---
@@ -4450,7 +4450,7 @@ type: 错题数据源
 > - 🌱 TODO：建 [[完整笔记/专题笔记/儿科/儿科_颈部肿块鉴别]]（急/慢 × 单/双 → 病原 + 处理）
 > 
 > ## ✅ 复盘行动
-> - 🔴 **反复错（与 Q4843 同概念第 2 次）**：连对 2 次（自测/重做）→ 降 🟡
+> - 🔴 **反复错（与 Q4843 同概念第 2 次）**：连对 2 次（自测/重做）→ 降 🟡（**2026-06-09 自测 Q20 ✓ 第 1 次确认，1/2**）
 > - [ ] **反射重建**：见"急性 + 红痛波动 + 单侧"颈淋巴结 → 立即 **S. aureus/GAS**，不先想猫抓病
 > - [ ] 默写"急/慢 × 单/双 → 病原"表
 > - [ ] 找 3 道类似题：搜 "acute cervical lymphadenitis Staphylococcus" + "cat scratch chronic Bartonella" + "pediatric neck mass"
