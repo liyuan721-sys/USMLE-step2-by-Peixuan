@@ -3486,6 +3486,7 @@ type: 错题数据源
 > - **Cefazolin / oxacillin / vancomycin（A、C、E）**：只覆盖（甲敏或耐药）金葡，**不覆盖 Salmonella** → SCD 患儿不足。
 > - **Gentamicin（D）**：氨基糖苷覆盖 Salmonella 等 G−，**不覆盖金葡** → 单用不足。
 > - **正解 = clindamycin（抗葡萄球菌含 MRSA）＋ ceftriaxone（覆盖 Salmonella）**，两手都要硬。
+> - **"抗葡萄球菌"选药**：MSSA → **nafcillin/oxacillin/cefazolin**（首选）；MRSA/重过敏 → **vanc/clindamycin**（nafcillin 只覆 MSSA 不覆 MRSA；万古能覆 MRSA 但治 MSSA 反不如 nafcillin）。
 > - **骨髓炎 vs 化脓性关节炎**：MRI 无关节积液 + 干骺端炎症 = 骨髓炎；有积液 + 关节计数 >50,000 = septic arthritis。
 > 
 > ## 我为什么不确定

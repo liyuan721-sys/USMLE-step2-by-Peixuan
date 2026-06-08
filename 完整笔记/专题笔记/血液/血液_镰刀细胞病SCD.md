@@ -73,6 +73,8 @@ parent_topic: 镰刀细胞病 SCD — 危象谱 + 无脾感染套餐 + 急诊分
 | 健康儿童·高 MRSA | MRSA | Clindamycin 或 vancomycin |
 | **SCD 儿童** | **S. aureus + Salmonella** | 抗葡萄球菌(clinda/vanc) **＋ 三代头孢(ceftriaxone/cefotaxime)** |
 
+> [!tip] "抗葡萄球菌"选药：**MSSA → nafcillin/oxacillin/cefazolin（首选）；MRSA/重过敏 → vanc/clindamycin**（nafcillin 只覆 MSSA 不覆 MRSA；万古能覆 MRSA 但治 MSSA 反不如 nafcillin）。详见 [[完整笔记/专题笔记/感染/感染_皮肤软组织感染分层鉴别]] §三。
+
 > [!tip] 为什么单覆盖一边都错
 > Salmonella 只是"相对健康儿童更突出"，**S. aureus 仍是 SCD 骨髓炎重要病原**；经验期不能赌单一病原 → **双覆盖**，出培养再降阶。
 
