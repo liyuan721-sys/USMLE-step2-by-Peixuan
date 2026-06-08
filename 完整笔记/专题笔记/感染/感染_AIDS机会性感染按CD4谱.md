@@ -24,7 +24,7 @@ Step 1：看 CD4 落哪一档 → 缩小病原范围
   <500  口腔念珠菌 / OHL / KS / 细菌性肺炎 / TB / 带状疱疹
   <200  PCP（卡氏肺孢菌肺炎）→ 此线起 TMP-SMX 预防
   <150  播散性组织胞浆菌（Histoplasma）
-  <100  弓形虫脑炎 / 隐球菌脑膜炎 / 食管念珠菌
+  <100  Toxoplasma 脑炎 / 隐球菌脑膜炎 / 食管念珠菌
   <50   MAC / CMV / 原发 CNS 淋巴瘤 / PML
         │
 Step 2：用一条鉴别钥匙定唯一病原（见 §四-六）
@@ -48,7 +48,7 @@ Step 2：用一条鉴别钥匙定唯一病原（见 §四-六）
 | **<500** | 口腔念珠菌（thrush）；口腔毛状白斑 OHL（EBV）；Kaposi 肉瘤（HHV-8）；细菌性肺炎（肺炎链球菌）；带状疱疹（VZV）；肺结核（任何 CD4，此线风险升） | thrush 白膜可刮；OHL 侧舌**不可刮**；KS 紫红斑块 | Candida → 局部/氟康唑；KS → 优化 ART |
 | **<200** | **PCP（Pneumocystis jirovecii 肺炎）** ⭐ | 亚急性干咳 + 劳力性呼吸困难 + **双肺弥漫间质浸润** + **LDH↑** + 运动后血氧↓ | **TMP-SMX**（高剂量）+ 激素（PaO₂<70 或 A-a>35）|
 | **<150** | 播散性组织胞浆菌（Histoplasma capsulatum） | 发热 + 体重↓ + 肝脾大 + 全血细胞↓；尿/血抗原 | Amphotericin B → Itraconazole |
-| **<100** | **弓形虫脑炎（Toxoplasma）** ⭐；**隐球菌脑膜炎（Cryptococcus）** ⭐；食管念珠菌 | Toxo：多发环形强化灶（基底节）；Crypto：亚急性头痛 + ↑颅压；食管炎吞咽痛 | Toxo → 乙胺嘧啶 + 磺胺嘧啶 + 亚叶酸；Crypto → Ampho B + Flucytosine → Fluconazole；食管 Candida → Fluconazole |
+| **<100** | **Toxoplasma 脑炎（弓形虫）** ⭐；**隐球菌脑膜炎（Cryptococcus）** ⭐；食管念珠菌 | Toxo：多发环形强化灶（基底节）；Crypto：亚急性头痛 + ↑颅压；食管炎吞咽痛 | Toxo → 乙胺嘧啶 + 磺胺嘧啶 + 亚叶酸；Crypto → Ampho B + Flucytosine → Fluconazole；食管 Candida → Fluconazole |
 | **<50** | **MAC（播散性）** ⭐；**CMV（视网膜炎/结肠炎/食管炎）** ⭐；原发 CNS 淋巴瘤（EBV）；PML（JC 病毒）；**Bartonella（杆菌性血管瘤病）**| MAC：发热 + 体重↓ + 腹泻 + ALP↑ + 血培 NTM；CMV 视网膜：pizza-pie 出血渗出；**Bartonella：血管瘤样紫红色皮损/结节（需与 KS 鉴别）** | MAC → **大环内酯 + ethambutol**；CMV → Ganciclovir；淋巴瘤 → 化疗/放疗 + ART；PML → 优化 ART；**Bartonella → 大环内酯/doxycycline** |
 
 > [!success] CD4 阈值口诀
@@ -70,8 +70,8 @@ Step 2：用一条鉴别钥匙定唯一病原（见 §四-六）
 
 | CD4 阈值 | 预防对象 | 药 | 备注 |
 |---|---|---|---|
-| **<200** | **PCP** | **TMP-SMX** | 也顺带覆盖弓形虫；CD4<200 或有口腔念珠菌/AIDS 定义病即起 |
-| **<100**（+ Toxo IgG ⊕） | **弓形虫** | **TMP-SMX** | 通常已因 PCP 在吃 TMP-SMX，自动覆盖 |
+| **<200** | **PCP** | **TMP-SMX** | 也顺带覆盖 Toxoplasma（弓形虫）；CD4<200 或有口腔念珠菌/AIDS 定义病即起 |
+| **<100**（+ Toxo IgG ⊕） | **Toxoplasma（弓形虫）** | **TMP-SMX** | 通常已因 PCP 在吃 TMP-SMX，自动覆盖 |
 | **<50** | **MAC** | （阿奇霉素，每周）| ⚠️ **现已不再常规推荐**——若及时启动 ART，因成本/低风险/耐药而取消 |
 
 > [!tip] 何时停预防（同样高频）
@@ -103,7 +103,7 @@ Step 2：用一条鉴别钥匙定唯一病原（见 §四-六）
 
 | 病变 | 病原 | 影像特征 | 关键线索 | 治疗 |
 |---|---|---|---|---|
-| **弓形虫脑炎** | Toxoplasma | **多发**环形强化、基底节、有占位水肿 | **Toxo IgG ⊕**；经验治疗 2 周无改善 → 活检 | 乙胺嘧啶 + 磺胺嘧啶 + 亚叶酸 |
+| **Toxoplasma 脑炎（弓形虫）** | Toxoplasma | **多发**环形强化、基底节、有占位水肿 | **Toxo IgG ⊕**；经验治疗 2 周无改善 → 活检 | 乙胺嘧啶 + 磺胺嘧啶 + 亚叶酸 |
 | **原发 CNS 淋巴瘤** | EBV | **单发**、弱环形强化 | CSF EBV ⊕；thallium SPECT ⊕；Toxo IgG 常阴 | 化疗/放疗 + ART |
 | **PML** | JC 病毒 | **白质**多灶、**不强化、无占位** | 亚急性局灶神经缺损 + 认知下降 | **优化 ART**（无特异抗病毒）|
 | **隐球菌脑膜炎** | Cryptococcus | 多无占位（脑膜为主）；↑颅压 | India ink / **隐球菌抗原（CrAg）**⊕；亚急性头痛 | Ampho B + Flucytosine → Fluconazole；**反复 LP 降颅压** |
@@ -113,7 +113,7 @@ Step 2：用一条鉴别钥匙定唯一病原（见 §四-六）
 
 > [!tip] CSF 判读补充（鉴别第二维度）
 > - **隐球菌脑膜炎**：**↑开放压**（高颅压突出）、↑蛋白、↓糖、**CrAg / India ink ⊕**；处理含**反复 LP 降颅压**（治疗成败关键之一）
-> - **弓形虫脑炎**：以影像为主（多发环形 + Toxo IgG ⊕）；CSF 蛋白可略高、细胞可正常，**通常不靠 LP 确诊**（且占位有疝风险时慎穿）
+> - **Toxoplasma 脑炎**：以影像为主（多发环形 + Toxo IgG ⊕）；CSF 蛋白可略高、细胞可正常，**通常不靠 LP 确诊**（且占位有疝风险时慎穿）
 > - **PML**：CSF 多正常，**JC 病毒 PCR ⊕**支持
 > - **CNS 淋巴瘤**：CSF **EBV DNA ⊕** + 细胞学；thallium SPECT ⊕（与 Toxo 鉴别）
 
@@ -136,8 +136,8 @@ Step 2：用一条鉴别钥匙定唯一病原（见 §四-六）
 
 | 病原 | 一线治疗 |
 |---|---|
-| PCP（Pneumocystis jirovecii） | **TMP-SMX** + 激素（PaO₂<70 / A-a>35）|
-| 弓形虫脑炎 | **乙胺嘧啶 + 磺胺嘧啶 + 亚叶酸** |
+| PCP（Pneumocystis jirovecii） | **TMP-SMX** + 激素（PaO₂<70 / A-a>35）；**磺胺过敏/G6PD → atovaquone / pentamidine / clindamycin-primaquine** |
+| Toxoplasma 脑炎 | **乙胺嘧啶 + 磺胺嘧啶 + 亚叶酸** |
 | 隐球菌脑膜炎 | **Amphotericin B + Flucytosine** → Fluconazole 巩固 |
 | 播散性 MAC | **Macrolide（克拉/阿奇）+ Ethambutol** |
 | CMV（视网膜/结肠/食管） | **Ganciclovir / Valganciclovir** |
@@ -148,7 +148,7 @@ Step 2：用一条鉴别钥匙定唯一病原（见 §四-六）
 | Kaposi 肉瘤（HHV-8） | 优化 ART（重病加化疗）|
 
 > [!danger] 反复出现的"对口药"陷阱
-> - **pyrimethamine（乙胺嘧啶）= 弓形虫**，不是 MAC（错题 [[mistakes/uworld-mistakes_2026-06#^Q2268]] 即误选 pyrimethamine 给 MAC）
+> - **pyrimethamine（乙胺嘧啶）= Toxoplasma（弓形虫）**，不是 MAC（错题 [[mistakes/uworld-mistakes_2026-06#^Q2268]] 即误选 pyrimethamine 给 MAC）
 > - **MAC = 大环内酯 + ethambutol**，不是 INH（那是 TB）
 > - 血培循环里是**非结核分枝杆菌（NTM）= MAC**，不是 TB
 
@@ -170,7 +170,7 @@ CD4 钟表
   食管：白斑→Candida（先经验氟康唑）/ 大线溃疡→CMV / 小簇溃疡→HSV
 
 对口药陷阱
-  pyrimethamine = 弓形虫（不是 MAC）
+  pyrimethamine = Toxoplasma 弓形虫（不是 MAC）
   MAC = 大环内酯 + ethambutol（不是 INH）
   血里分枝杆菌 = NTM = MAC（不是 TB）
 

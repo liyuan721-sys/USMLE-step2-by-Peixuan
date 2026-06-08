@@ -2108,7 +2108,7 @@ type: 错题数据源
 > - 📚 专题：[[完整笔记/专题笔记/感染/感染_梅毒分期诊疗与血清学]] ⭐（§二血清学：筛查算法 + discordant 两方向 + RPR 假阴 prozone）/ [[完整笔记/专题笔记/感染/感染_抗生素高频20场景秒杀]]（梅毒 = PCN G；孕妇脱敏）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（神经梅毒 Argyll Robertson / 脊髓痨）
 > - 📚 专题2：[[完整笔记/专题笔记/感染/感染_生殖器溃疡鉴别]]（一期下疳在五病鉴别中的位置）
-> - 🌱 TODO：累积非溃疡性 STI 题（淋病 / 衣原体 / 滴虫 / BV）→ 生成 [[完整笔记/专题笔记/感染/感染_STI分泌物综合征鉴别]]
+> - 🌱 TODO：已建 [[完整笔记/专题笔记/感染/感染_STI分泌物综合征鉴别]] ✓（淋病 / 衣原体 / Trichomonas / BV）；下一步 PID / 盆腔脓肿题 → 拆 PID 专题
 > 
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做
@@ -2280,11 +2280,11 @@ type: 错题数据源
 > | **治疗** | **Macrolide + Ethambutol**；不再常规一级预防 |
 > 
 > ## 易混陷阱（普适）
-> 干扰项各有"对口病"：INH（M. tuberculosis）、metronidazole（Entamoeba）、**pyrimethamine（弓形虫 toxoplasmosis）**、dapsone（PCP 替代）。**血中循环 NTM = MAC，而非 TB**（TB 多局限肺/不在血培循环）。
+> 干扰项各有"对口病"：INH（M. tuberculosis）、metronidazole（Entamoeba）、**pyrimethamine（Toxoplasma 弓形虫）**、dapsone（PCP 替代）。**血中循环 NTM = MAC，而非 TB**（TB 多局限肺/不在血培循环）。
 > 
 > ## 我为什么错
 > - 选了：E（pyrimethamine 为基础）
-> - 错因：知识 —— pyrimethamine 是弓形虫治疗，不是 MAC；没把「血培 NTM = MAC → 大环内酯」对上
+> - 错因：知识 —— pyrimethamine 是 Toxoplasma（弓形虫）治疗，不是 MAC；没把「血培 NTM = MAC → 大环内酯」对上
 > - 核心陷阱：CD4<50 机会性感染按"病原 → 对口药"配对，MAC 的钥匙是大环内酯
 > 
 > ## Memory Hook
@@ -2299,7 +2299,7 @@ type: 错题数据源
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-06#^Q3917]] 同 AIDS CD4<50 机会性感染（CMV 结肠炎；MAC 是其干扰项，两题正好互为鉴别）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/感染]]
-> - 📚 专题：[[完整笔记/专题笔记/感染/感染_AIDS机会性感染按CD4谱]] ⭐（CD4<50 档；§七对口药陷阱：pyrimethamine=弓形虫≠MAC）/ [[完整笔记/专题笔记/感染/感染_抗生素高频20场景秒杀]]（PJP → TMP-SMX）
+> - 📚 专题：[[完整笔记/专题笔记/感染/感染_AIDS机会性感染按CD4谱]] ⭐（CD4<50 档；§七对口药陷阱：pyrimethamine=Toxoplasma≠MAC）/ [[完整笔记/专题笔记/感染/感染_抗生素高频20场景秒杀]]（PJP → TMP-SMX）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/hematology oncology]]（晚期 AIDS 全血细胞↓ / CNS 淋巴瘤同 EBV 谱）
 > - 🌱 TODO：累积 PCP / Toxo / Crypto 错题 → 回流 AIDS 谱表对应行；HIV 初始评估 + ART 启动错题 → 生成 [[完整笔记/专题笔记/感染/感染_HIV初始管理与ART]]
 > 
@@ -2625,7 +2625,7 @@ type: 错题数据源
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes_2026-06#^Q3104]] 巴贝虫病（同蜱传发热；巴贝虫=溶血 vs 埃立克=cytopenia 无皮疹，正好对照）
+>   - [[mistakes/uworld-mistakes_2026-06#^Q3104]] Babesiosis 巴贝虫病（同蜱传发热；Babesia=溶血 vs 埃立克=cytopenia 无皮疹，正好对照）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/感染]]（Rickettsia / tick-borne 段）
 > - 📚 专题：[[完整笔记/专题笔记/感染/感染_抗生素高频20场景秒杀]] §二 #9（Lyme：早期 EM → doxy；神经/心脏 → ceftriaxone）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/hematology oncology]]（白↓板↓的感染性病因）/ [[完整笔记/Peixuan分科笔记/neuro]]（蜱传意识改变 / Lyme 神经）
@@ -2768,14 +2768,14 @@ type: 错题数据源
 > 状态:: 🟡
 > 错因:: 干扰项
 
-> [!example]- [2026-06-08] 感染 / 巴贝虫病 Babesiosis（无脾 + 血管内溶血 → 血涂片）(Q3104)
+> [!example]- [2026-06-08] 感染 / Babesiosis 巴贝虫病（无脾 + 血管内溶血 → 血涂片）(Q3104)
 > ^Q3104
 > 
 > ## Stem 模式
 > 32 岁男性，5 天间歇高热/寒战/大汗 + 乏力 + **深色尿**；10 年前**脾切除（asplenia）**；Long Island NY，近期**新英格兰露营、腿上 2 只蜱**；T 39.5；**轻度巩膜黄染**、肝缘下 3cm；**Hgb 9.4↓、网织 10%↑、血小板 110k↓、WBC 12k**；胆红素 4.3、AST/ALT↑、**LDH 300**。问如何确诊。→ **血涂片**。
 > 
 > ## 核心概念
-> **巴贝虫病（Babesiosis，Babesia microti，原虫）**：**Ixodes scapularis 蜱**、美国**东北部**（Long Island/新英格兰）。寄生红细胞内 → **血管内溶血**（贫血 + 网织↑ + 黄疸 + 深色尿 + 间接胆红素↑ + LDH↑）。**无脾/免疫抑制/>50 岁 → 重症**。诊断：**薄血涂片见红细胞内环状体 / "Maltese cross 马耳他十字"** / PCR。治疗：**atovaquone + azithromycin**（重症 quinine + clindamycin）。与 Lyme / Anaplasma **共感染常见**（同 Ixodes 蜱）。
+> **Babesiosis（巴贝虫病，Babesia microti，原虫 protozoa）**：**Ixodes scapularis 蜱**、美国**东北部**（Long Island/新英格兰）。寄生红细胞内 → **血管内溶血**（贫血 + 网织↑ + 黄疸 + 深色尿 + 间接胆红素↑ + LDH↑）。**无脾/免疫抑制/>50 岁 → 重症**。诊断：**薄血涂片见红细胞内环状体 / "Maltese cross 马耳他十字"** / PCR。治疗：**atovaquone + azithromycin**（重症 quinine + clindamycin）。与 Lyme / Anaplasma **共感染常见**（同 Ixodes 蜱）。
 > 
 > ## 普适规则
 > 
@@ -2783,47 +2783,47 @@ type: 错题数据源
 > 
 > | 病 | 病原 / 蜱 | 招牌 | 诊断 |
 > |---|---|---|---|
-> | **巴贝虫 Babesia** | 原虫 / **Ixodes**（东北）| **血管内溶血** + 无脾重症 | 血涂片 **Maltese cross** |
+> | **Babesia（Babesia）** | 原虫 / **Ixodes**（东北）| **血管内溶血** + 无脾重症 | 血涂片 **Maltese cross** |
 > | 埃立克 Ehrlichia | / Amblyomma（东南/中南）| 无皮疹 + 白↓板↓LFT↑ | 单核 morulae / PCR |
 > | 无形体 Anaplasma | / Ixodes | 白↓板↓ | 粒细胞 morulae |
 > | RMSF | Rickettsia / Dermacentor | 皮疹腕踝→掌跖 | 抗体 / 临床 + doxy |
 > | Lyme | Borrelia / Ixodes | EM 游走红斑 | 血清学 |
 > 
 > ## 易混陷阱（普适）
-> - **血管内溶血（网织↑/LDH↑/深色尿/黄疸）+ 无脾 + 东北蜱 = 巴贝虫**——这套溶血指纹是把它和其他蜱传病分开的钥匙（埃立克/无形体/RMSF 主要是 cytopenia，不是溶血）。
+> - **血管内溶血（网织↑/LDH↑/深色尿/黄疸）+ 无脾 + 东北蜱 = Babesia**——这套溶血指纹是把它和其他蜱传病分开的钥匙（埃立克/无形体/RMSF 主要是 cytopenia，不是溶血）。
 > - **抗立克次体抗体（A，我选的）**：查 RMSF；但 RMSF 有皮疹、溶血罕见，地理也偏南。
 > - PCR Ehrlichia（D）：Amblyomma（东南/中南），白↓板↓非溶血；Lyme 血清（C）：EM 疹无溶血；tourniquet test（E）：登革；病毒肝炎血清（F）：AST/ALT >1000。
 > 
 > ## 我为什么错
 > - 选了：A（抗立克次体抗体）
-> - 错因：干扰项 —— "蜱传发热"反射到立克次体（RMSF），没抓住"**血管内溶血 + 无脾**"这条直指巴贝虫的指纹；也没想到血涂片看红细胞内虫体
-> - 核心陷阱：蜱传病里**唯巴贝虫是红细胞内寄生 → 溶血 + 血涂片诊断**（Maltese cross）
+> - 错因：干扰项 —— "蜱传发热"反射到立克次体（RMSF），没抓住"**血管内溶血 + 无脾**"这条直指Babesia的指纹；也没想到血涂片看红细胞内虫体
+> - 核心陷阱：蜱传病里**唯Babesia是红细胞内寄生 → 溶血 + 血涂片诊断**（Maltese cross）
 > 
 > ## Memory Hook
-> **「无脾 + 东北蜱 + 血管内溶血（网织↑/LDH↑/深色尿）= 巴贝虫 → 血涂片 Maltese cross；atovaquone + azithro。」**
+> **「无脾 + 东北蜱 + 血管内溶血（网织↑/LDH↑/深色尿）= Babesia → 血涂片 Maltese cross；atovaquone + azithro。」**
 > 
 > ---
 > 
 > ## 🤔 我的提问 / 卡点
-> 怎么从一堆蜱传病里锁定巴贝虫？→ 看**溶血**：巴贝虫寄生红细胞 → 血管内溶血（贫血+网织↑+黄疸+深色尿+LDH↑），其他蜱传病主要是白↓板↓+LFT↑而非溶血。再加"无脾→重症"。确诊就是血涂片找虫体。
+> 怎么从一堆蜱传病里锁定Babesia？→ 看**溶血**：Babesia寄生红细胞 → 血管内溶血（贫血+网织↑+黄疸+深色尿+LDH↑），其他蜱传病主要是白↓板↓+LFT↑而非溶血。再加"无脾→重症"。确诊就是血涂片找虫体。
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：
->   - [[mistakes/uworld-mistakes_2026-06#^Q3247]] 埃立克体病（同蜱传发热；埃立克=cytopenia 无皮疹 vs 巴贝虫=溶血，正好对照）
+>   - [[mistakes/uworld-mistakes_2026-06#^Q3247]] 埃立克体病（同蜱传发热；埃立克=cytopenia 无皮疹 vs Babesia=溶血，正好对照）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/感染]] / [[完整笔记/Peixuan分科笔记/hematology oncology]]（血管内溶血）
-> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/hematology oncology]]（溶血性贫血:网织↑/LDH↑/间接胆红素↑/结合珠蛋白↓）/ [[完整笔记/Peixuan分科笔记/外科]]（asplenia → 包膜菌 + 巴贝虫重症风险）
-> - 🌱 TODO：已建 [[完整笔记/专题笔记/感染/感染_蜱传疾病鉴别]] ✓（巴贝虫在 §二/§三）；下一步 Lyme 分期题 → 拆 Lyme 专题
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/hematology oncology]]（溶血性贫血:网织↑/LDH↑/间接胆红素↑/结合珠蛋白↓）/ [[完整笔记/Peixuan分科笔记/外科]]（asplenia → 包膜菌 + Babesia重症风险）
+> - 🌱 TODO：已建 [[完整笔记/专题笔记/感染/感染_蜱传疾病鉴别]] ✓（Babesia在 §二/§三）；下一步 Lyme 分期题 → 拆 Lyme 专题
 > 
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做
-> - [ ] 默写蜱传 5 病鉴别（病原/蜱/招牌/诊断）+ 巴贝虫溶血指纹
-> - [ ] 默写「无脾 → 巴贝虫 + 包膜菌重症」
+> - [ ] 默写蜱传 5 病鉴别（病原/蜱/招牌/诊断）+ Babesia溶血指纹
+> - [ ] 默写「无脾 → Babesia + 包膜菌重症」
 > - [ ] 找 3 道类似题：搜 "babesiosis Maltese cross" + "asplenia tick hemolysis" + "Ixodes coinfection"
 > 
 > ---
 > 
 > 学科:: 感染
-> 主题:: 巴贝虫病 Babesiosis（无脾 + 血管内溶血）
+> 主题:: Babesiosis 巴贝虫病（无脾 + 血管内溶血）
 > 状态:: 🟡
 > 错因:: 干扰项
 
