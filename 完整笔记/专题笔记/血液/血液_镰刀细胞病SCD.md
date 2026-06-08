@@ -76,6 +76,18 @@ parent_topic: 镰刀细胞病 SCD — 危象谱 + 无脾感染套餐 + 急诊分
 > [!tip] 为什么单覆盖一边都错
 > Salmonella 只是"相对健康儿童更突出"，**S. aureus 仍是 SCD 骨髓炎重要病原**；经验期不能赌单一病原 → **双覆盖**，出培养再降阶。
 
+> [!danger] 缺口在金葡，不在 Salmonella（最易绕错的点）
+> **Ceftriaxone（三代头孢）本身就同时覆盖肺炎链球菌 + Salmonella**（跨 G⁺/G⁻ 谱够宽），所以 Salmonella 这条线它一个药就管了。
+> **但 ceftriaxone 不可靠覆盖 S. aureus（MSSA 非首选、MRSA 完全不覆盖）** → 这才是要补 **clindamycin/vancomycin** 的真正原因。
+>
+> | 药 | 肺炎链球菌 | Salmonella | 金葡(含 MRSA) |
+> |---|---|---|---|
+> | **Ceftriaxone(3 代)** | ✅ | ✅ | ❌(MRSA 不覆) |
+> | **Cefazolin(1 代)** | ✅ | ❌ | ✅(MSSA) |
+> | **Clindamycin/Vanc** | — | ❌ | ✅(含 MRSA) |
+>
+> 所以 SCD 骨髓炎不能指望单一头孢通吃：**ceftriaxone 补 Salmonella + clinda/vanc 补金葡**。反过来用 cefazolin(覆金葡却漏 Salmonella)也不行。详见 [[完整笔记/专题笔记/感染/感染_头孢菌素分代速查]] §2.3。
+
 ### 2.3 预防套餐（无脾患者长期管理）⭐
 
 ```
