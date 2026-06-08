@@ -1972,9 +1972,10 @@ type: 错题数据源
 > - 🌱 TODO：累积 3+ 道假体/植入物感染题（关节 / 人工瓣膜 / CIED / 血管移植物）→ 生成 [[完整笔记/专题笔记/感染/感染_假体植入物感染病原时相]]
 > 
 > ## ✅ 复盘行动
-> - [ ] 1 周后重做
+> - [x] 1 周后重做 —— **2026-06-08 重做 ✓ 做对**（自信选 H S. epidermidis；上次 6-06 误选 E Pseudomonas）
 > - [ ] 默写「PJI 三时相时间 + 病原」表
 > - [ ] 找 3 道类似题：搜 "prosthetic joint infection" + "coagulase-negative staphylococci" + "synovial fluid leukocyte cutoff"
+> - 📈 状态轨迹：6-06 错（🟡）→ **6-08 重做做对（第 1 次确认）**；按"连对 2 次升 🟢"规则，再连对 1 次 → 🟢。
 > 
 > ---
 > 
