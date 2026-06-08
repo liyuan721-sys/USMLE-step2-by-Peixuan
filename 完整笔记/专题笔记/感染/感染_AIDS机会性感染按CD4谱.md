@@ -45,11 +45,11 @@ Step 2：用一条鉴别钥匙定唯一病原（见 §四-六）
 
 | CD4 阈值 | 新增风险病原 | 经典画像 | 对口治疗 |
 |---|---|---|---|
-| **<500** | 口腔念珠菌（thrush）；口腔毛状白斑 OHL（EBV）；Kaposi 肉瘤（HHV-8）；细菌性肺炎（肺炎链球菌）；带状疱疹（VZV）；肺结核（任何 CD4，此线风险升） | thrush 白膜可刮；OHL 侧舌**不可刮**；KS 紫红斑块 | Candida → 局部/氟康唑；KS → 优化 ART |
+| **<500** | 口腔念珠菌（thrush）；口腔毛状白斑 OHL（EBV）；Kaposi 肉瘤（HHV-8）；细菌性肺炎（肺炎链球菌）；带状疱疹（VZV）；肺结核（任何 CD4，此线风险升） | thrush 白膜可刮；OHL 侧舌**不可刮**；KS 紫红斑块 | Candida → 局部/fluconazole；KS → 优化 ART |
 | **<200** | **PCP（Pneumocystis jirovecii 肺炎）** ⭐ | 亚急性干咳 + 劳力性呼吸困难 + **双肺弥漫间质浸润** + **LDH↑** + 运动后血氧↓ | **TMP-SMX**（高剂量）+ 激素（PaO₂<70 或 A-a>35）|
 | **<150** | 播散性组织胞浆菌（Histoplasma capsulatum） | 发热 + 体重↓ + 肝脾大 + 全血细胞↓；尿/血抗原 | Amphotericin B → Itraconazole |
-| **<100** | **Toxoplasma 脑炎（弓形虫）** ⭐；**隐球菌脑膜炎（Cryptococcus）** ⭐；食管念珠菌 | Toxo：多发环形强化灶（基底节）；Crypto：亚急性头痛 + ↑颅压；食管炎吞咽痛 | Toxo → 乙胺嘧啶 + 磺胺嘧啶 + 亚叶酸；Crypto → Ampho B + Flucytosine → Fluconazole；食管 Candida → Fluconazole |
-| **<50** | **MAC（播散性）** ⭐；**CMV（视网膜炎/结肠炎/食管炎）** ⭐；原发 CNS 淋巴瘤（EBV）；PML（JC 病毒）；**Bartonella（杆菌性血管瘤病）**| MAC：发热 + 体重↓ + 腹泻 + ALP↑ + 血培 NTM；CMV 视网膜：pizza-pie 出血渗出；**Bartonella：血管瘤样紫红色皮损/结节（需与 KS 鉴别）** | MAC → **大环内酯 + ethambutol**；CMV → Ganciclovir；淋巴瘤 → 化疗/放疗 + ART；PML → 优化 ART；**Bartonella → 大环内酯/doxycycline** |
+| **<100** | **Toxoplasma 脑炎（弓形虫）** ⭐；**隐球菌脑膜炎（Cryptococcus）** ⭐；食管念珠菌 | Toxo：多发环形强化灶（基底节）；Crypto：亚急性头痛 + ↑颅压；食管炎吞咽痛 | Toxo → pyrimethamine + sulfadiazine + leucovorin；Crypto → Ampho B + Flucytosine → Fluconazole；食管 Candida → Fluconazole |
+| **<50** | **MAC（播散性）** ⭐；**CMV（视网膜炎/结肠炎/食管炎）** ⭐；原发 CNS 淋巴瘤（EBV）；PML（JC 病毒）；**Bartonella（杆菌性血管瘤病）**| MAC：发热 + 体重↓ + 腹泻 + ALP↑ + 血培 NTM；CMV 视网膜：pizza-pie 出血渗出；**Bartonella：血管瘤样紫红色皮损/结节（需与 KS 鉴别）** | MAC → **macrolide + ethambutol**；CMV → Ganciclovir；淋巴瘤 → 化疗/放疗 + ART；PML → 优化 ART；**Bartonella → macrolide/doxycycline** |
 
 > [!success] CD4 阈值口诀
 > - **500 → 黏膜 + 皮肤**（thrush / OHL / KS / 带状疱疹）
@@ -72,7 +72,7 @@ Step 2：用一条鉴别钥匙定唯一病原（见 §四-六）
 |---|---|---|---|
 | **<200** | **PCP** | **TMP-SMX** | 也顺带覆盖 Toxoplasma（弓形虫）；CD4<200 或有口腔念珠菌/AIDS 定义病即起 |
 | **<100**（+ Toxo IgG ⊕） | **Toxoplasma（弓形虫）** | **TMP-SMX** | 通常已因 PCP 在吃 TMP-SMX，自动覆盖 |
-| **<50** | **MAC** | （阿奇霉素，每周）| ⚠️ **现已不再常规推荐**——若及时启动 ART，因成本/低风险/耐药而取消 |
+| **<50** | **MAC** | （azithromycin，每周）| ⚠️ **现已不再常规推荐**——若及时启动 ART，因成本/低风险/耐药而取消 |
 
 > [!tip] 何时停预防（同样高频）
 > ART 有效后 **CD4 回升 >200 持续 ≥3 个月 → 停 PCP 预防**。核心原则：**免疫重建 = 撤预防**。
@@ -103,7 +103,7 @@ Step 2：用一条鉴别钥匙定唯一病原（见 §四-六）
 
 | 病变 | 病原 | 影像特征 | 关键线索 | 治疗 |
 |---|---|---|---|---|
-| **Toxoplasma 脑炎（弓形虫）** | Toxoplasma | **多发**环形强化、基底节、有占位水肿 | **Toxo IgG ⊕**；经验治疗 2 周无改善 → 活检 | 乙胺嘧啶 + 磺胺嘧啶 + 亚叶酸 |
+| **Toxoplasma 脑炎（弓形虫）** | Toxoplasma | **多发**环形强化、基底节、有占位水肿 | **Toxo IgG ⊕**；经验治疗 2 周无改善 → 活检 | pyrimethamine + sulfadiazine + leucovorin |
 | **原发 CNS 淋巴瘤** | EBV | **单发**、弱环形强化 | CSF EBV ⊕；thallium SPECT ⊕；Toxo IgG 常阴 | 化疗/放疗 + ART |
 | **PML** | JC 病毒 | **白质**多灶、**不强化、无占位** | 亚急性局灶神经缺损 + 认知下降 | **优化 ART**（无特异抗病毒）|
 | **隐球菌脑膜炎** | Cryptococcus | 多无占位（脑膜为主）；↑颅压 | India ink / **隐球菌抗原（CrAg）**⊕；亚急性头痛 | Ampho B + Flucytosine → Fluconazole；**反复 LP 降颅压** |
@@ -123,12 +123,12 @@ Step 2：用一条鉴别钥匙定唯一病原（见 §四-六）
 
 | 病原 | 内镜形态 | 伴随 | 治疗 |
 |---|---|---|---|
-| **Candida** | 白色斑块/伪膜 | 多伴口腔 thrush；最常见 | **经验氟康唑**；无效再 EGD |
+| **Candida** | 白色斑块/伪膜 | 多伴口腔 thrush；最常见 | **经验fluconazole**；无效再 EGD |
 | **CMV** | **大的、线状/单个深溃疡** | CD4<50 | Ganciclovir |
 | **HSV** | **小而多发、簇状、punched-out 溃疡** | 口唇疱疹史 | Acyclovir |
 
 > [!tip] 食管炎策略
-> AIDS + 吞咽痛 + 口腔 thrush → **先经验氟康唑**（最常见 Candida），**不先内镜**；氟康唑无效才 EGD 活检区分 CMV（大线状溃疡）vs HSV（小簇溃疡）。
+> AIDS + 吞咽痛 + 口腔 thrush → **先经验fluconazole**（最常见 Candida），**不先内镜**；fluconazole无效才 EGD 活检区分 CMV（大线状溃疡）vs HSV（小簇溃疡）。
 
 ---
 
@@ -137,9 +137,9 @@ Step 2：用一条鉴别钥匙定唯一病原（见 §四-六）
 | 病原 | 一线治疗 |
 |---|---|
 | PCP（Pneumocystis jirovecii） | **TMP-SMX** + 激素（PaO₂<70 / A-a>35）；**磺胺过敏/G6PD → atovaquone / pentamidine / clindamycin-primaquine** |
-| Toxoplasma 脑炎 | **乙胺嘧啶 + 磺胺嘧啶 + 亚叶酸** |
+| Toxoplasma 脑炎 | **pyrimethamine + sulfadiazine + leucovorin** |
 | 隐球菌脑膜炎 | **Amphotericin B + Flucytosine** → Fluconazole 巩固 |
-| 播散性 MAC | **Macrolide（克拉/阿奇）+ Ethambutol** |
+| 播散性 MAC | **Macrolide (clarithromycin/azithromycin) + Ethambutol** |
 | CMV（视网膜/结肠/食管） | **Ganciclovir / Valganciclovir** |
 | 食管/口腔念珠菌 | **Fluconazole**（口腔轻症可局部）|
 | 播散性组织胞浆菌 | **Amphotericin B** → Itraconazole |
@@ -149,7 +149,7 @@ Step 2：用一条鉴别钥匙定唯一病原（见 §四-六）
 
 > [!danger] 反复出现的"对口药"陷阱
 > - **pyrimethamine（乙胺嘧啶）= Toxoplasma（弓形虫）**，不是 MAC（错题 [[mistakes/uworld-mistakes_2026-06#^Q2268]] 即误选 pyrimethamine 给 MAC）
-> - **MAC = 大环内酯 + ethambutol**，不是 INH（那是 TB）
+> - **MAC = macrolide + ethambutol**，不是 INH（那是 TB）
 > - 血培循环里是**非结核分枝杆菌（NTM）= MAC**，不是 TB
 
 ---
@@ -167,11 +167,11 @@ CD4 钟表
 鉴别钥匙
   腹泻：血便→CMV / 水样+高热→MAC / 重度水样→Crypto
   CNS：多发环形→Toxo / 单发→淋巴瘤 / 不强化白质→PML / 脑膜+CrAg→隐球菌
-  食管：白斑→Candida（先经验氟康唑）/ 大线溃疡→CMV / 小簇溃疡→HSV
+  食管：白斑→Candida（先经验fluconazole）/ 大线溃疡→CMV / 小簇溃疡→HSV
 
 对口药陷阱
   pyrimethamine = Toxoplasma 弓形虫（不是 MAC）
-  MAC = 大环内酯 + ethambutol（不是 INH）
+  MAC = macrolide + ethambutol（不是 INH）
   血里分枝杆菌 = NTM = MAC（不是 TB）
 
 预防阈值
@@ -185,7 +185,7 @@ CD4 钟表
 ## 九、🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes_2026-06#^Q2268]] 播散性 MAC（CD4<50 + 血培 NTM + ALP↑ → 大环内酯）
+  - [[mistakes/uworld-mistakes_2026-06#^Q2268]] 播散性 MAC（CD4<50 + 血培 NTM + ALP↑ → macrolide）
   - [[mistakes/uworld-mistakes_2026-06#^Q3917]] CMV 结肠炎（CD4<50 血便 vs MAC 水样的鉴别）
   - （等积累 PCP / Toxo / Crypto / 食管炎错题继续回流本表）
 - 📚 主笔记：

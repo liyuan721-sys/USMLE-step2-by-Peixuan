@@ -47,7 +47,7 @@ parent_topic: 咽炎鉴别 + GAS 诊治流程 + 链球菌后并发症
 > **儿童未治 GAS 的 ARF（急性风湿热）风险远高于成人** → **RADT 阴性用咽培养兜底**（敏感性更高）。成人阴性不必。
 
 > [!tip] 治疗
-> **一线 penicillin V / amoxicillin**（PCN 过敏 → cephalexin / 大环内酯）。治疗目的：缩短病程 + 减传播 + **预防 ARF**（PSGN 不被抗生素预防）。
+> **一线 penicillin V / amoxicillin**（PCN 过敏 → cephalexin / macrolide）。治疗目的：缩短病程 + 减传播 + **预防 ARF**（PSGN 不被抗生素预防）。
 
 ---
 
