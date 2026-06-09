@@ -62,9 +62,9 @@ parent_topic: 儿童喘鸣 stridor / 急性上气道梗阻鉴别 — 定位 + 4 
 
 ## 四、深颈间隙感染（颈源性气道梗阻）
 
-> [!info] 咽后脓肿 RPA vs 扁桃体周脓肿 PTA
+> [!info] 咽后脓肿 RPA (Retropharyngeal abscess) vs 扁桃体周脓肿 PTA (Peritonsillar abscess)
 > 
-> | | **咽后脓肿（RPA）** | **扁桃体周脓肿（PTA）** |
+> | | **咽后脓肿 Retropharyngeal abscess（RPA）** | **扁桃体周脓肿 Peritonsillar abscess（PTA）** |
 > |---|---|---|
 > | 年龄 | **2-4 岁** | 青少年/年轻成人 |
 > | 招牌 | **颈伸展痛/拒动颈 + 吞咽痛 + 后咽壁膨隆** | **单侧扁桃体肿 + 悬雍垂偏向对侧 + 张口困难（trismus）+ 含热土豆音** |

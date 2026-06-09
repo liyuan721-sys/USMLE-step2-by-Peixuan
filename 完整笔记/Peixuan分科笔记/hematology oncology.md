@@ -2241,6 +2241,10 @@ Tx:
 
 **慢性肝病**
 
+> [!tip] 心算 + A/G 比值（交叉参考）
+> Gamma gap = 总蛋白 − 白蛋白；A/G ratio = 白蛋白 / 球蛋白（正常 1.0–2.5，**< 1 倒置**）。题干只给总蛋白 + 白蛋白时自己减。**单克隆**（M-spike）→ SPEP 查骨髓瘤/MGUS/Waldenström；**多克隆**（弥漫宽峰）→ 慢性感染（**TB**）/自免/慢性肝病。
+> 详见 [[完整笔记/专题笔记/USMLE/USMLE_高频评分_公式]]（球蛋白 & A/G 比值）+ [[mistakes/uworld-mistakes_2026-06#^Q19418]]（老年 TB 多克隆高 γ 球蛋白）。
+
 **<span class="mark">TRANSPLANT REJECTION</span>**
 
 > Hyperacute: minutes
