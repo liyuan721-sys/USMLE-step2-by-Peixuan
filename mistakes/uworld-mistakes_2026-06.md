@@ -5195,6 +5195,7 @@ type: 错题数据源
 > 
 > > [!info] 巴龙霉素（paromomycin）临床应用 ⭐
 > > **氨基糖苷类（aminoglycoside），口服不吸收 → 留肠腔起效**（全身毒性低；经破损黏膜吸收时仍有肾/耳毒性）。
+> >
 > > | 适应症 | 角色 |
 > > |---|---|
 > > | **阿米巴病（amebiasis）肠腔包囊清除** | **腔内杀虫剂（luminal agent）**：配甲硝唑（先清组织）；替代 = 双碘喹啉（iodoquinol）/ 二氯尼特（diloxanide furoate）|
