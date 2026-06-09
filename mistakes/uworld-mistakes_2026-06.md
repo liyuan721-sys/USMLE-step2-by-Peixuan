@@ -5184,7 +5184,19 @@ type: 错题数据源
 > - 核心陷阱：肝脓肿先看**宿主 + 旅行/腹泻史**：年轻 + 发展中国家旅行 + 腹泻 + 右叶单发 = 阿米巴；老年/中毒貌/胆道源 = 化脓性
 > 
 > ## Memory Hook
-> **「发展中国家旅行 + 腹泻史 + 肝右叶单发低回声 + 嗜酸不高 = 阿米巴肝脓肿（Entamoeba）→ metronidazole + paromomycin；化脓性是老年/中毒貌/胆道源。」**
+> **「发展中国家旅行 + 腹泻史 + 肝右叶单发低回声 + 嗜酸不高 = 阿米巴肝脓肿（amebic liver abscess，Entamoeba histolytica）→ 甲硝唑（metronidazole）+ 巴龙霉素（paromomycin）；化脓性是老年/中毒貌/胆道源。」**
+> 
+> > [!info] 巴龙霉素（paromomycin）临床应用 ⭐
+> > **氨基糖苷类（aminoglycoside），口服不吸收 → 留肠腔起效**（全身毒性低；经破损黏膜吸收时仍有肾/耳毒性）。
+> > | 适应症 | 角色 |
+> > |---|---|
+> > | **阿米巴病（amebiasis）肠腔包囊清除** | **腔内杀虫剂（luminal agent）**：配甲硝唑（先清组织）；替代 = 双碘喹啉（iodoquinol）/ 二氯尼特（diloxanide furoate）|
+> > | **贾第虫病（giardiasis）** | **孕妇首选**（不吸收 → 对胎儿安全）|
+> > | **隐孢子虫病（cryptosporidiosis）** | HIV/免疫抑制辅助 |
+> > | **内脏利什曼病（visceral leishmaniasis）** | 注射剂型 |
+> > | **肝性脑病（hepatic encephalopathy）** | 历史用法（降肠道产氨菌）；现被利福昔明（rifaximin）/ 乳果糖（lactulose）取代 |
+> >
+> > **一句话**：阿米巴 = 甲硝唑（metronidazole，清组织滋养体）+ 巴龙霉素（paromomycin，清肠腔包囊）两步走防复发。
 > 
 > ---
 > 
