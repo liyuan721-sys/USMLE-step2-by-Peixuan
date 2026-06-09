@@ -46,7 +46,7 @@ Step 2：用一条鉴别钥匙定唯一病原（见 §四-六）
 | CD4 阈值 | 新增风险病原 | 经典画像 | 对口治疗 |
 |---|---|---|---|
 | **<500** | 口腔念珠菌（thrush）；口腔毛状白斑 OHL（EBV）；Kaposi 肉瘤（HHV-8）；细菌性肺炎（肺炎链球菌）；带状疱疹（VZV）；肺结核（任何 CD4，此线风险升） | thrush 白膜可刮；OHL 侧舌**不可刮**；KS 紫红斑块 | Candida → 局部/fluconazole；KS → 优化 ART |
-| **<200** | **PCP（Pneumocystis jirovecii 肺炎）** ⭐ | 亚急性干咳 + 劳力性呼吸困难 + **双肺弥漫间质浸润** + **LDH↑** + 运动后血氧↓ | **TMP-SMX**（高剂量）+ 激素（PaO₂<70 或 A-a>35）|
+| **<200** | **PCP（Pneumocystis jirovecii 肺炎）** ⭐ | 亚急性干咳 + 劳力性呼吸困难 + **双肺弥漫间质浸润** + **LDH↑** + 运动后血氧↓ | **TMP-SMX**（高剂量）+ 激素（**三指征任一**：PaO₂<70 / A-a≥35 / SaO₂<92%，见 §七后）|
 | **<150** | 播散性组织胞浆菌（Histoplasma capsulatum） | 发热 + 体重↓ + 肝脾大 + 全血细胞↓；尿/血抗原 | Amphotericin B → Itraconazole |
 | **<100** | **Toxoplasma 脑炎（弓形虫）** ⭐；**隐球菌脑膜炎（Cryptococcus）** ⭐；食管念珠菌 | Toxo：多发环形强化灶（基底节）；Crypto：亚急性头痛 + ↑颅压；食管炎吞咽痛 | Toxo → pyrimethamine + sulfadiazine + leucovorin；Crypto → Ampho B + Flucytosine → Fluconazole；食管 Candida → Fluconazole |
 | **<50** | **MAC（播散性）** ⭐；**CMV（视网膜炎/结肠炎/食管炎）** ⭐；原发 CNS 淋巴瘤（EBV）；PML（JC 病毒）；**Bartonella（杆菌性血管瘤病）**| MAC：发热 + 体重↓ + 腹泻 + ALP↑ + 血培 NTM；CMV 视网膜：pizza-pie 出血渗出；**Bartonella：血管瘤样紫红色皮损/结节（需与 KS 鉴别）** | MAC → **macrolide + ethambutol**；CMV → Ganciclovir；淋巴瘤 → 化疗/放疗 + ART；PML → 优化 ART；**Bartonella → macrolide/doxycycline** |
@@ -136,10 +136,23 @@ Step 2：用一条鉴别钥匙定唯一病原（见 §四-六）
 
 | 病原 | 一线治疗 |
 |---|---|
-| PCP（Pneumocystis jirovecii） | **TMP-SMX** + 激素（PaO₂<70 / A-a>35）；**磺胺过敏/G6PD → atovaquone / pentamidine / clindamycin-primaquine** |
+| PCP（Pneumocystis jirovecii） | **TMP-SMX** + 激素（**三指征任一**，见下）；**磺胺过敏/G6PD → atovaquone / pentamidine / clindamycin-primaquine** |
 | Toxoplasma 脑炎 | **pyrimethamine + sulfadiazine + leucovorin** |
 | 隐球菌脑膜炎 | **Amphotericin B + Flucytosine** → Fluconazole 巩固 |
 | 播散性 MAC | **Macrolide (clarithromycin/azithromycin) + Ethambutol** |
+
+> [!danger] PCP 辅助激素"三指征"⭐（高频，重症才加）
+> **中重度 PCP 才加糖皮质激素（prednisone）**——满足以下**任一即给**（均**室内空气 room air** 下测）：
+> | # | 指征 | 阈值 |
+> |---|---|---|
+> | 1 | **动脉血氧分压 PaO₂** | **< 70 mmHg** |
+> | 2 | **肺泡-动脉氧分压差 A-a gradient** | **≥ 35 mmHg** |
+> | 3 | **脉氧 / 血氧饱和度 SaO₂** | **< 92%** |
+> 
+> - **时机**：**确诊/抗 PCP 当时、72 小时内尽早加**（**先于或同时**用 TMP-SMX，**不要等病情恶化**）。
+> - **机制/为何加**：抗 PCP 杀菌 → 菌体崩解 → **肺部炎症一过性加重、氧合恶化**；激素**抑制这波炎症 → 降低呼吸衰竭与死亡率**。
+> - **反 pattern**：轻症（不达三指征）**不加激素**；别看到 PCP 就反射给激素。
+> - 记忆：**"70 / 35 / 92"**——PaO₂掉到 70 以下、A-a 撑到 35 以上、SaO₂跌破 92%，任一 → 上激素。
 | CMV（视网膜/结肠/食管） | **Ganciclovir / Valganciclovir** |
 | 食管/口腔念珠菌 | **Fluconazole**（口腔轻症可局部）|
 | 播散性组织胞浆菌 | **Amphotericin B** → Itraconazole |
@@ -178,6 +191,9 @@ CD4 钟表
   <200 PCP（TMP-SMX，顺带 Toxo）
   CD4>200×3 月 → 停 PCP 预防
   <50 MAC 预防已不再常规推荐
+
+PCP 激素三指征（任一即给,room air,72h内尽早）
+  70 / 35 / 92 = PaO₂<70 / A-a≥35 / SaO₂<92%
 ```
 
 ---
@@ -207,6 +223,7 @@ CD4 钟表
 
 - [ ] 默写 **§二 CD4 分层总表**（5 档阈值 + 病原 + 对口药）
 - [ ] 默写 **§三预防阈值**（<200 PCP / >200×3 月停 / <50 MAC 已不推荐）
+- [ ] 默写 **PCP 激素三指征**（70 / 35 / 92 任一 → 加 prednisone；72h 内尽早）
 - [ ] 默写 **三张鉴别钥匙表**（腹泻血/水 · CNS 占位 · 食管溃疡形态）
 - [ ] UW 搜 `HIV opportunistic` / `CD4 count` / `PCP prophylaxis` / `toxoplasmosis ring-enhancing` / `CMV colitis` 各 2-3 题
 - [ ] 错题立即入库 + 回流到本表对应行
@@ -217,3 +234,4 @@ CD4 钟表
 
 - **v1**（2026-06-06）：错题驱动早建（[[mistakes/uworld-mistakes_2026-06#^Q2268]] MAC + [[mistakes/uworld-mistakes_2026-06#^Q3917]] CMV）。框架 = 两步定位法（CD4 锁范围 → 鉴别钥匙定唯一）+ CD4 分层总表 + 预防阈值 + 腹泻/CNS/食管三张鉴别速查 + 对口药配对表。
 - **v1.1**（2026-06-06）：分科扫描增量并入（感染/neuro/眼科）。§二 Bartonella 展开临床（血管瘤样皮损 vs KS）+ 旁系 Candida 内眼炎（呼应 [[mistakes/uworld-mistakes_2026-06#^Q14664]]）；§五加 CSF 判读对照（隐球菌高颅压/反复LP、Toxo 影像为主、PML JC-PCR、淋巴瘤 EBV-DNA）。
+- **v1.2**（2026-06-09）：**PCP 辅助激素"三指征"补全**——原仅 PaO₂<70 / A-a>35（两条），补第三条 **SaO₂<92%**；§七后新增 **danger callout**（三指征任一即给 + room air + 72h 内尽早 + 机制：杀菌后炎症加重 → 激素抑制降死亡 + 轻症不加反 pattern）；§二/§七表行同步标"三指征任一"；Memory Hook 加"70/35/92"口诀；§十复盘加默写项。
