@@ -4044,7 +4044,7 @@ type: 错题数据源
 >   - （首张 Campylobacter 卡；等积累 Salmonella/Shigella/EHEC/C. diff 后成"感染性腹泻何时给药"系列）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/GI]] / [[完整笔记/Peixuan分科笔记/感染]] / [[完整笔记/Peixuan分科笔记/儿科]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（Campylobacter → Guillain-Barré）
-> - 🌱 TODO：累积感染性腹泻题（Campylobacter/Salmonella/Shigella/EHEC/Vibrio）→ 生成 [[完整笔记/专题笔记/感染/感染_感染性腹泻何时用抗生素]]
+> - 🌱 TODO：已建 [[完整笔记/专题笔记/感染/感染_感染性腹泻何时用抗生素]] ✓（血性4病原表+何时给药）
 > 
 > ## ✅ 复盘行动
 > - [ ] 默写 Campylobacter 轻症=支持 / 重症高危=azithromycin
@@ -5670,7 +5670,7 @@ type: 错题数据源
 >   - [[mistakes/uworld-mistakes_2026-06#^Q17637]] 轻症 Campylobacter 肠炎仅支持治疗（药敏是干扰，同"别过度处理自限腹泻"）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/儿科]] / [[完整笔记/Peixuan分科笔记/GI]] / [[完整笔记/Peixuan分科笔记/感染]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/肾脏]]（脱水/容量评估）
-> - 🌱 TODO：累积感染性腹泻题（病毒/Campylobacter/Salmonella/EHEC）→ 生成 [[完整笔记/专题笔记/感染/感染_感染性腹泻何时用抗生素]]
+> - 🌱 TODO：已建 [[完整笔记/专题笔记/感染/感染_感染性腹泻何时用抗生素]] ✓
 > 
 > ## ✅ 复盘行动
 > - [ ] 默写"急性非血性水样泻 = 病毒；按脱水程度补液（ORS vs IV）"
@@ -6385,7 +6385,7 @@ type: 错题数据源
 >   - [[mistakes/uworld-mistakes_2026-06#^Q3917]] CMV 结肠炎（AIDS 血性腹泻）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/感染]] / [[完整笔记/Peixuan分科笔记/GI]] / [[完整笔记/Peixuan分科笔记/儿科]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/肾脏]]（STEC → HUS）/ [[完整笔记/Peixuan分科笔记/neuro]]（弯曲菌 → GBS / 志贺 → 惊厥）
-> - 🌱 TODO：感染性腹泻题已够（病毒/Campylobacter/Shigella/CMV）→ 可建 [[完整笔记/专题笔记/感染/感染_感染性腹泻何时用抗生素]]（含血性 4 病原表）
+> - 🌱 TODO：已建 [[完整笔记/专题笔记/感染/感染_感染性腹泻何时用抗生素]] ✓（血性4病原表+STEC禁抗生素）
 > 
 > ## ✅ 复盘行动
 > - [ ] 默写感染性血性腹泻表（STEC/志贺/弯曲/沙门：暴露 + 治疗 + 并发症）
