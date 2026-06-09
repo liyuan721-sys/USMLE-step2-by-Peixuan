@@ -3702,7 +3702,7 @@ type: 错题数据源
 > - 🔴 **反复错轨迹**：本卡（治疗 Q4843，误选 azithromycin）+ [[mistakes/uworld-mistakes_2026-06#^Q4353]]（病原，误选 Bartonella）= **同一陷阱连错 2 次**：把**急性化脓性**颈淋巴结炎当成了**猫抓病/慢性**。→ 升 🔴 + #难记。
 > - [ ] **反射重建**：见"**急性（数日）+ 红肿热痛/波动 + 单侧**"颈淋巴结 → 立即反射 **S. aureus/S. pyogenes**（治 clindamycin），**绝不先想猫抓病**（那是**慢性数周 + 无痛 + 猫史 + 抓痕丘疹**）。
 > - [ ] 默写 azithromycin/Bartonella 的真正适应（猫抓病/NTM **慢性**淋巴结炎）
-> - [ ] 连对 2 次（自测/重做）→ 降 🟡（**2026-06-09 自测 Q20 ✓ 第 1 次确认，1/2**）
+> - [ ] 连对 2 次（自测/重做）→ 降 🟡（~~2026-06-09 自测 Q20 ✓ 1/2~~ **作废**：6-09 真题重做又错 azithromycin → **计数清零**，见追踪卡 [[mistakes/uworld-mistakes_2026-06#^Q4843-R0609]]）
 > - [ ] 找 3 道类似题：搜 "acute cervical lymphadenitis Staphylococcus" + "cat scratch disease Bartonella chronic" + "nontuberculous mycobacterial lymphadenitis child"
 > 
 > ---
@@ -6336,7 +6336,7 @@ type: 错题数据源
 > 状态:: 🟡
 > 错因:: 知识
 
-> [!success]- [2026-06-09] 感染 / 高热 + 血黏液便 + 儿童惊厥 = 志贺菌肠炎（✅做对·补知识）(Q12458)
+> [!example]- [2026-06-09] 感染 / 高热 + 血黏液便 + 儿童惊厥 = 志贺菌肠炎（做对后重做错·6-09 选 C.perfringens）(Q12458)
 > ^Q12458
 > 
 > ## Stem 模式
@@ -6392,13 +6392,14 @@ type: 错题数据源
 > - [ ] 默写感染性血性腹泻表（STEC/志贺/弯曲/沙门：暴露 + 治疗 + 并发症）
 > - [ ] 默写"志贺儿童惊厥"+"STEC 禁抗生素(↑HUS) vs 志贺抗生素不增 HUS"
 > - [ ] 找 3 道类似题：搜 "Shigella seizure children bloody diarrhea" + "E coli O157 HUS antibiotics" + "Campylobacter GBS Salmonella bacteremia"
+> - ⚠️ **降级（做对→重做错）**：6-09 重做**误选 C. perfringens** → 答对≠掌握，降 🟢→🟡。**反射**：儿童 **高热 + 血黏液便 + 惊厥 = 志贺菌（Shigella）**；C. perfringens/ETEC 是**水样非血性 + 无高热/惊厥**，方向相反。再连对 2 次升回 🟢。
 > 
 > ---
 > 
 > 学科:: 感染
 > 主题:: 志贺菌肠炎（高热血黏便+儿童惊厥）+ 感染性血性腹泻谱
-> 状态:: 🟢
-> 错因:: 无（做对补知识）
+> 状态:: 🟡
+> 错因:: 知识
 
 > [!example]- 🔴 [2026-06-09] 感染 / 追踪：婴儿粟粒结核（反复错×2·又选 Listeria）(Q19349-R0609) #难记
 > ^Q19349-R0609
