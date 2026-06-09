@@ -140,6 +140,12 @@ Step 2：用一条鉴别钥匙定唯一病原（见 §四-六）
 | Toxoplasma 脑炎 | **pyrimethamine + sulfadiazine + leucovorin** |
 | 隐球菌脑膜炎 | **Amphotericin B + Flucytosine** → Fluconazole 巩固 |
 | 播散性 MAC | **Macrolide (clarithromycin/azithromycin) + Ethambutol** |
+| CMV（视网膜/结肠/食管） | **Ganciclovir / Valganciclovir** |
+| 食管/口腔念珠菌 | **Fluconazole**（口腔轻症可局部）|
+| 播散性组织胞浆菌 | **Amphotericin B** → Itraconazole |
+| PML（JC 病毒） | **优化 ART**（无特异药）|
+| 原发 CNS 淋巴瘤（EBV） | 化疗/放疗 + ART |
+| Kaposi 肉瘤（HHV-8） | 优化 ART（重病加化疗）|
 
 > [!danger] PCP 辅助激素"三指征"⭐（高频，重症才加）
 > **中重度 PCP 才加糖皮质激素（prednisone）**——满足以下**任一即给**（均**室内空气 room air** 下测）：
@@ -154,12 +160,13 @@ Step 2：用一条鉴别钥匙定唯一病原（见 §四-六）
 > - **机制/为何加**：抗 PCP 杀菌 → 菌体崩解 → **肺部炎症一过性加重、氧合恶化**；激素**抑制这波炎症 → 降低呼吸衰竭与死亡率**。
 > - **反 pattern**：轻症（不达三指征）**不加激素**；别看到 PCP 就反射给激素。
 > - 记忆：**"70 / 35 / 92"**——PaO₂掉到 70 以下、A-a 撑到 35 以上、SaO₂跌破 92%，任一 → 上激素。
-| CMV（视网膜/结肠/食管） | **Ganciclovir / Valganciclovir** |
-| 食管/口腔念珠菌 | **Fluconazole**（口腔轻症可局部）|
-| 播散性组织胞浆菌 | **Amphotericin B** → Itraconazole |
-| PML（JC 病毒） | **优化 ART**（无特异药）|
-| 原发 CNS 淋巴瘤（EBV） | 化疗/放疗 + ART |
-| Kaposi 肉瘤（HHV-8） | 优化 ART（重病加化疗）|
+
+> [!info] 别混：急性 HIV（血清转换期）也致无菌性脑膜炎（非 OI）⭐
+> 上表是**晚期 AIDS 的机会性感染（OI，CD4 低）**；而 **急性 HIV 感染（acute retroviral syndrome 急性逆转录病毒综合征，血清转换期）约 25% 致无菌性（淋巴细胞性）脑膜炎** —— **与 CD4 无关**，发生在刚感染 2–4 周。
+> - **线索**：CSF **淋巴细胞为主 + 糖正常 + 蛋白轻↑** + **肠病毒（enterovirus）PCR 阴** + 全身淋巴结肿大 + 斑丘疹 + 性活跃。
+> - **诊断**：**HIV RNA 病毒载量**（早期 Ag/Ab 抗体可阴）。
+> - **对照（晚期 OI，别混）**：隐球菌脑膜炎（cryptococcal，CD4<100，**糖低** + ↑颅压 + CrAg）/ 弓形虫脑炎（toxoplasma，CD4<100，环形强化灶）。
+> - 详见 [[mistakes/uworld-mistakes_2026-06#^Q19266]] + [[完整笔记/专题笔记/感染/感染_脑膜炎CSF鉴别]]。
 
 > [!danger] 反复出现的"对口药"陷阱
 > - **pyrimethamine（乙胺嘧啶）= Toxoplasma（弓形虫）**，不是 MAC（错题 [[mistakes/uworld-mistakes_2026-06#^Q2268]] 即误选 pyrimethamine 给 MAC）
@@ -236,3 +243,4 @@ PCP 激素三指征（任一即给,room air,72h内尽早）
 - **v1**（2026-06-06）：错题驱动早建（[[mistakes/uworld-mistakes_2026-06#^Q2268]] MAC + [[mistakes/uworld-mistakes_2026-06#^Q3917]] CMV）。框架 = 两步定位法（CD4 锁范围 → 鉴别钥匙定唯一）+ CD4 分层总表 + 预防阈值 + 腹泻/CNS/食管三张鉴别速查 + 对口药配对表。
 - **v1.1**（2026-06-06）：分科扫描增量并入（感染/neuro/眼科）。§二 Bartonella 展开临床（血管瘤样皮损 vs KS）+ 旁系 Candida 内眼炎（呼应 [[mistakes/uworld-mistakes_2026-06#^Q14664]]）；§五加 CSF 判读对照（隐球菌高颅压/反复LP、Toxo 影像为主、PML JC-PCR、淋巴瘤 EBV-DNA）。
 - **v1.2**（2026-06-09）：**PCP 辅助激素"三指征"补全**——原仅 PaO₂<70 / A-a>35（两条），补第三条 **SaO₂<92%**；§七后新增 **danger callout**（三指征任一即给 + room air + 72h 内尽早 + 机制：杀菌后炎症加重 → 激素抑制降死亡 + 轻症不加反 pattern）；§二/§七表行同步标"三指征任一"；Memory Hook 加"70/35/92"口诀；§十复盘加默写项。
+- **v1.3**（2026-06-10）：**修复 §七对口药表被 PCP 激素 callout 劈开的破损**——后 6 行（CMV/念珠菌/组织胞浆菌/PML/CNS 淋巴瘤/Kaposi）丢表头且紧贴 callout 不渲染 → 并回主表（10 行连续）、callout 移至表后。新增 **info callout：急性 HIV（血清转换期）致无菌性脑膜炎**（约 25%，CSF 淋巴+糖正常+肠病毒阴+皮疹淋巴结，查 HIV RNA；与晚期隐球菌/弓形虫 OI 对照）→ 链 [[mistakes/uworld-mistakes_2026-06#^Q19266]]。
