@@ -50,6 +50,12 @@ parent_topic: 儿童喘鸣 stridor / 急性上气道梗阻鉴别 — 定位 + 4 
 > [!warning] Croup = 副流感（你的错题 Q115197）
 > **犬吠咳 + 吸气 stridor + 一般情况好 = croup → 副流感病毒**；误选 **Hib = 会厌炎**（流涎 + 三脚架 + 中毒貌 + 无咳，完全不同）。**stridor ≠ 反射 Hib**——看伴随。
 
+> [!info] 成人会厌炎（adult epiglottitis）—— 和儿童不一样
+> - **病原**：成人以**肺炎链球菌 S. pneumoniae / 流感嗜血杆菌 H. influenzae** 为主（不只 Hib）；危险因素 **糖尿病、肥胖、URI 前驱**。
+> - **更隐匿**：常无儿童经典"3 D"（流涎/吞咽困难/窘迫），早期只**咽痛 + 吞咽痛 + 声音闷**，但可**迅速进展**——**pooled 口腔分泌物 + stridor = 警报**。
+> - **诊断**：气道**稳** → **颈侧位片 lateral neck radiograph**（thumbprint 拇指征 / 会厌肿大）或直接喉镜；气道**不稳 → 先建立气道再检查**。（UW Q15961）
+> - **治疗**：必要时建立气道 + IV **头孢曲松 ceftriaxone + 万古霉素 vancomycin**。
+
 ---
 
 ## 三、下气道对照：毛细支气管炎（别和 croup 混）
