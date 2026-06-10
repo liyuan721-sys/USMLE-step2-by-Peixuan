@@ -59,6 +59,9 @@ H. influenzae
 - **慢性铜绿定植**：**吸入妥布霉素（inhaled tobramycin）** ± 阿奇霉素（azithromycin，抗炎/抗生物膜）维持。
 - **Burkholderia cepacia**：多重耐药，常需 TMP-SMX / 美罗培南 联合，预后差。
 
+> [!tip] 为什么氨基糖苷偏偏选妥布霉素 tobramycin
+> ① **氨基糖苷里抗铜绿最强**（活性 > 庆大霉素 gentamicin）；② **有 CF 专属吸入剂型（吸入妥布霉素 inhaled tobramycin / TOBI）**——气道局部浓度极高、全身吸收少（肾/耳毒性低），慢性铜绿定植维持就靠它；③ 急性期与抗铜绿 β-内酰胺 β-lactam **协同杀菌 + 防治疗中耐药**。（CF 药代改变：分布容积大、清除快 → 常需更高剂量）
+
 ---
 
 ## 五、Memory Hook
