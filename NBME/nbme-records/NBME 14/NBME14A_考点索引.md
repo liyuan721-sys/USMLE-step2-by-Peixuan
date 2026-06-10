@@ -1,0 +1,213 @@
+---
+nbme: 14A
+type: 考点索引
+tags: [USMLE-Step2, NBME模拟题, 索引]
+---
+
+# NBME 14A 考点索引（按 HY 分层）
+
+## ⭐⭐⭐⭐⭐ HY 5（39 题）
+- [[NBME14A_S1_breakdown#^Q004]] 睾丸扭转急诊手术 — 外科
+- [[NBME14A_S1_breakdown#^Q008]] CHF 确诊用 Echo — 心内
+- [[NBME14A_S1_breakdown#^Q016]] 血友病 A — hematology oncology
+- [[NBME14A_S1_breakdown#^Q019]] MS 长期 DMT — neuro
+- [[NBME14A_S1_breakdown#^Q023]] PCOS 诊断 — GYN
+- [[NBME14A_S1_breakdown#^Q028]] 酒精戒断 BZD — psych
+- [[NBME14A_S1_breakdown#^Q029]] 坏死性筋膜炎清创 — 外科
+- [[NBME14A_S1_breakdown#^Q031]] PCOS 内膜活检 — GYN
+- [[NBME14A_S1_breakdown#^Q037]] IDA 铁三项三低 — hematology oncology
+- [[NBME14A_S1_breakdown#^Q038]] 原发HTN首选噻嗪 — 心内
+- [[NBME14A_S1_breakdown#^Q044]] 精神分裂症诊断 — psych
+- [[NBME14A_S2_breakdown#^Q062]] 一级预防优先运动 — 心内
+- [[NBME14A_S2_breakdown#^Q067]] 急性 HIV 感染 — 感染
+- [[NBME14A_S2_breakdown#^Q068]] 中枢性 DI 处理 — endocrine
+- [[NBME14A_S2_breakdown#^Q075]] Forest Plot 解读 — Biostats_Master
+- [[NBME14A_S2_breakdown#^Q079]] 镰状细胞病电泳 — hematology oncology
+- [[NBME14A_S2_breakdown#^Q084]] HUS / STEC O157 — 儿科
+- [[NBME14A_S2_breakdown#^Q086]] 主动脉瓣狭窄 AS — 心内
+- [[NBME14A_S2_breakdown#^Q089]] 穿透伤心脏压塞 — 外科
+- [[NBME14A_S2_breakdown#^Q092]] 外推性 COPD — Biostats_Master
+- [[NBME14A_S2_breakdown#^Q095]] 青少年 MDD 易激惹 — psych
+- [[NBME14A_S2_breakdown#^Q097]] 川崎病急性期治疗 — 儿科
+- [[NBME14A_S2_breakdown#^Q100]] 双侧张力性气胸 — pulmonary
+- [[NBME14A_S3_breakdown#^Q102]] 肾性骨病 PTH↑ — 肾脏
+- [[NBME14A_S3_breakdown#^Q103]] NSAID 致 CKD 进展 — 肾脏
+- [[NBME14A_S3_breakdown#^Q111]] UC 美沙拉嗪首选 — GI
+- [[NBME14A_S3_breakdown#^Q114]] 妊娠期甲亢 PTU — OB
+- [[NBME14A_S3_breakdown#^Q129]] 三度房室传导阻滞 — 心内
+- [[NBME14A_S3_breakdown#^Q131]] 敏感度计算 OI — Biostats_Master
+- [[NBME14A_S3_breakdown#^Q144]] 法洛四联症 — newborn care and screening
+- [[NBME14A_S4_breakdown#^Q159]] 病例对照研究设计 — Biostats_Master
+- [[NBME14A_S4_breakdown#^Q166]] 多发性骨髓瘤 — hematology oncology
+- [[NBME14A_S4_breakdown#^Q167]] Wernicke 脑病处理 — neuro
+- [[NBME14A_S4_breakdown#^Q177]] 患者自主撤治疗 — ethics
+- [[NBME14A_S4_breakdown#^Q181]] 哮喘混合性酸中毒 — pulmonary
+- [[NBME14A_S4_breakdown#^Q184]] 震颤谵妄 DTs — psych
+- [[NBME14A_S4_breakdown#^Q186]] 双相障碍 I 型诊断 — psych
+- [[NBME14A_S4_breakdown#^Q187]] PCP 肺炎机会感染 — 感染
+- [[NBME14A_S4_breakdown#^Q196]] HOCM β阻滞剂 — 心内
+
+## ⭐⭐⭐⭐ HY 4（147 题）
+- [[NBME14A_S1_breakdown#^Q001]] 潜伏结核 INH 治疗 — 感染
+- [[NBME14A_S1_breakdown#^Q002]] 髋一过性滑膜炎 — 儿科
+- [[NBME14A_S1_breakdown#^Q003]] 孕期 UTI 性交后预防 — OB
+- [[NBME14A_S1_breakdown#^Q005]] 临终先开家庭会 — ethics
+- [[NBME14A_S1_breakdown#^Q006]] 角部妊娠破裂 — OB
+- [[NBME14A_S1_breakdown#^Q007]] CDH 肺发育不全 — newborn care and screening
+- [[NBME14A_S1_breakdown#^Q009]] IM 肝功能评估 — 感染
+- [[NBME14A_S1_breakdown#^Q010]] RAST 鉴定过敏原 — 免疫疫苗
+- [[NBME14A_S1_breakdown#^Q011]] 甲肝自限性 — GI
+- [[NBME14A_S1_breakdown#^Q012]] SLE 急性心包炎 — 心内
+- [[NBME14A_S1_breakdown#^Q013]] PSP 核上性麻痹 — neuro
+- [[NBME14A_S1_breakdown#^Q014]] 尾部退化综合征 — OB
+- [[NBME14A_S1_breakdown#^Q015]] 骨软化症 PTH↑ — endocrine
+- [[NBME14A_S1_breakdown#^Q017]] 拒绝不必要疫苗 — ethics
+- [[NBME14A_S1_breakdown#^Q018]] Insulinoma 诊断 — endocrine
+- [[NBME14A_S1_breakdown#^Q020]] 婴儿病毒性心肌炎 — 儿科
+- [[NBME14A_S1_breakdown#^Q021]] IBS-D 首选 loperamide — GI
+- [[NBME14A_S1_breakdown#^Q022]] 手足口病无需检查 — 儿科
+- [[NBME14A_S1_breakdown#^Q024]] 期中分析↑I类错误 — Biostats_Master
+- [[NBME14A_S1_breakdown#^Q025]] MI 后抑郁 SSRI — psych
+- [[NBME14A_S1_breakdown#^Q026]] 母乳婴儿补 VitD — 儿科
+- [[NBME14A_S1_breakdown#^Q027]] 假体关节牙科预防 — 骨科
+- [[NBME14A_S1_breakdown#^Q030]] 脾切术后血小板增多 — hematology oncology
+- [[NBME14A_S1_breakdown#^Q032]] 胃癌初诊 EGD — GI
+- [[NBME14A_S1_breakdown#^Q033]] 试验匹配缺失 — Biostats_Master
+- [[NBME14A_S1_breakdown#^Q034]] CGD 氧化爆发试验 — 免疫疫苗
+- [[NBME14A_S1_breakdown#^Q036]] 老年 SDH 亚急性 — neuro
+- [[NBME14A_S1_breakdown#^Q039]] 腋窝肿块超声 — 外科
+- [[NBME14A_S1_breakdown#^Q040]] 肾上腺偶发瘤 — endocrine
+- [[NBME14A_S1_breakdown#^Q041]] 孕前DM畸形风险 — OB
+- [[NBME14A_S1_breakdown#^Q042]] PCP 弥散障碍 — pulmonary
+- [[NBME14A_S1_breakdown#^Q043]] 社交焦虑 CBT — psych
+- [[NBME14A_S1_breakdown#^Q045]] 手部 OA 结节 — 骨科
+- [[NBME14A_S1_breakdown#^Q046]] 错误部位手术预防 — ethics
+- [[NBME14A_S1_breakdown#^Q047]] 贾第虫病 — 儿科
+- [[NBME14A_S1_breakdown#^Q048]] 青春期乳芽 — 儿科
+- [[NBME14A_S1_breakdown#^Q049]] 支气管扩张症病因 — pulmonary
+- [[NBME14A_S1_breakdown#^Q050]] FMD肾动脉狭窄 — 肾脏
+- [[NBME14A_S2_breakdown#^Q051]] IPF 激素治疗 — pulmonary
+- [[NBME14A_S2_breakdown#^Q052]] 癫痫后肩后脱位 — 骨科
+- [[NBME14A_S2_breakdown#^Q053]] BPH 溢出性尿失禁 — 肾脏
+- [[NBME14A_S2_breakdown#^Q054]] 甲状腺结节超声 — endocrine
+- [[NBME14A_S2_breakdown#^Q055]] RCA 系统根因 — ethics
+- [[NBME14A_S2_breakdown#^Q056]] T2DM 早期 C 肽升高 — endocrine
+- [[NBME14A_S2_breakdown#^Q057]] Dipstick 血尿镜检 — 肾脏
+- [[NBME14A_S2_breakdown#^Q058]] 支气管内病变咯血 — pulmonary
+- [[NBME14A_S2_breakdown#^Q059]] STI 强制上报 — ethics
+- [[NBME14A_S2_breakdown#^Q060]] 轮椅依赖压疮预防 — 儿科
+- [[NBME14A_S2_breakdown#^Q063]] 长春新碱神经病 — hematology oncology
+- [[NBME14A_S2_breakdown#^Q064]] 外阴硬化性苔藓 — GYN
+- [[NBME14A_S2_breakdown#^Q065]] AATD 家族基因检测 — pulmonary
+- [[NBME14A_S2_breakdown#^Q066]] 卒中后降压优先 — neuro
+- [[NBME14A_S2_breakdown#^Q069]] 术后 ACS 心梗 — 心内
+- [[NBME14A_S2_breakdown#^Q070]] 阿片过量纳洛酮 — 外科
+- [[NBME14A_S2_breakdown#^Q071]] ACEI 致羊水过少 — OB
+- [[NBME14A_S2_breakdown#^Q072]] 老年便血查结肠镜 — GI
+- [[NBME14A_S2_breakdown#^Q073]] 减压病高压氧 — neuro
+- [[NBME14A_S2_breakdown#^Q074]] 3岁发育里程碑 — 儿科
+- [[NBME14A_S2_breakdown#^Q076]] 恐慌障碍急性处理 — psych
+- [[NBME14A_S2_breakdown#^Q077]] 早孕 TVUS 确诊 — OB
+- [[NBME14A_S2_breakdown#^Q078]] 急性哀伤反应 — psych
+- [[NBME14A_S2_breakdown#^Q080]] Croup 冷雾处理 — 儿科
+- [[NBME14A_S2_breakdown#^Q082]] 癌痛阶梯换 IV 吗啡 — hematology oncology
+- [[NBME14A_S2_breakdown#^Q083]] Asherman 综合征 — GYN
+- [[NBME14A_S2_breakdown#^Q085]] 强直性肌营养不良 — neuro
+- [[NBME14A_S2_breakdown#^Q087]] Ramsay Hunt 综合征 — neuro
+- [[NBME14A_S2_breakdown#^Q088]] TRALI 输血肺损伤 — pulmonary
+- [[NBME14A_S2_breakdown#^Q090]] 股疝择期手术 — 外科
+- [[NBME14A_S2_breakdown#^Q091]] OCP 吸烟禁忌阈值 — GYN
+- [[NBME14A_S2_breakdown#^Q093]] Sjögren 用毛果芸香碱 — 免疫疫苗
+- [[NBME14A_S2_breakdown#^Q094]] 早产高危识别 — OB
+- [[NBME14A_S2_breakdown#^Q098]] 寻药行为 SUD 筛查 — ethics
+- [[NBME14A_S2_breakdown#^Q099]] 医护流感疫苗 — Biostats_Master
+- [[NBME14A_S3_breakdown#^Q101]] SVCS 放疗 — hematology oncology
+- [[NBME14A_S3_breakdown#^Q104]] 糖尿病 CN VI 麻痹 — endocrine
+- [[NBME14A_S3_breakdown#^Q105]] PTU 致粒缺 — endocrine
+- [[NBME14A_S3_breakdown#^Q106]] 阿片 IV→PO 换算 — GI
+- [[NBME14A_S3_breakdown#^Q107]] 术后膈下脓肿 — 外科
+- [[NBME14A_S3_breakdown#^Q108]] PCI 后无症状不监测 — 心内
+- [[NBME14A_S3_breakdown#^Q109]] 胰腺癌腹腔丛阻滞 — hematology oncology
+- [[NBME14A_S3_breakdown#^Q110]] CLL 首要并发症感染 — hematology oncology
+- [[NBME14A_S3_breakdown#^Q112]] OCP 相关高血压 — GYN
+- [[NBME14A_S3_breakdown#^Q113]] 发作性睡病 — neuro
+- [[NBME14A_S3_breakdown#^Q115]] FHH 家族低尿钙高钙 — endocrine
+- [[NBME14A_S3_breakdown#^Q116]] CVID 诊断 — 免疫疫苗
+- [[NBME14A_S3_breakdown#^Q117]] 患病率计算 — Biostats_Master
+- [[NBME14A_S3_breakdown#^Q119]] 坐骨神经痛保守治疗 — 骨科
+- [[NBME14A_S3_breakdown#^Q120]] 儿科钝伤X线首步 — 外科
+- [[NBME14A_S3_breakdown#^Q121]] TMP-SMX 药物性肝炎 — GI
+- [[NBME14A_S3_breakdown#^Q122]] 病毒支气管炎处理 — pulmonary
+- [[NBME14A_S3_breakdown#^Q123]] 急性附睾炎 — 外科
+- [[NBME14A_S3_breakdown#^Q124]] 知情同意优先级 — Ethics_Master
+- [[NBME14A_S3_breakdown#^Q125]] 厌食症诊断 — psych
+- [[NBME14A_S3_breakdown#^Q127]] de Quervain 甲状腺炎 — endocrine
+- [[NBME14A_S3_breakdown#^Q128]] SPT 产后发热 — OB
+- [[NBME14A_S3_breakdown#^Q130]] 球形红细胞胆绞痛 — hematology oncology
+- [[NBME14A_S3_breakdown#^Q133]] HIV新诊断情绪沟通 — ethics
+- [[NBME14A_S3_breakdown#^Q134]] 锂盐抗自杀效应 — psych
+- [[NBME14A_S3_breakdown#^Q135]] 网球鞋钉刺骨髓炎 — 骨科
+- [[NBME14A_S3_breakdown#^Q136]] 晚期减速紧急剖宫产 — OB
+- [[NBME14A_S3_breakdown#^Q137]] 急性闭角型青光眼 — 眼科
+- [[NBME14A_S3_breakdown#^Q138]] ITP 激素首选治疗 — hematology oncology
+- [[NBME14A_S3_breakdown#^Q139]] AAA超声筛查 — Biostats_Master
+- [[NBME14A_S3_breakdown#^Q140]] 弥漫性食管痉挛 — GI
+- [[NBME14A_S3_breakdown#^Q142]] CLABSI 预防 — 感染
+- [[NBME14A_S3_breakdown#^Q143]] AIS 核型确认 — GYN
+- [[NBME14A_S3_breakdown#^Q145]] Essential Tremor 诊断 — neuro
+- [[NBME14A_S3_breakdown#^Q146]] 性别焦虑并发MDD — psych
+- [[NBME14A_S3_breakdown#^Q148]] PE高概率V/Q确诊 — pulmonary
+- [[NBME14A_S3_breakdown#^Q149]] 糖尿病神经源性膀胱 — 肾脏
+- [[NBME14A_S3_breakdown#^Q150]] 半月板撕裂手术 — 骨科
+- [[NBME14A_S4_breakdown#^Q151]] 扁周脓肿抗生素 — 感染
+- [[NBME14A_S4_breakdown#^Q152]] HIV猫砂弓形虫预防 — 感染
+- [[NBME14A_S4_breakdown#^Q153]] 双胎妊娠早产风险 — OB
+- [[NBME14A_S4_breakdown#^Q154]] 糖皮质激素高血糖 — endocrine
+- [[NBME14A_S4_breakdown#^Q155]] 系统性差错上报 — Ethics_Master
+- [[NBME14A_S4_breakdown#^Q156]] 卵巢癌手术探查 — GYN
+- [[NBME14A_S4_breakdown#^Q157]] 阑尾脓肿经皮引流 — 外科
+- [[NBME14A_S4_breakdown#^Q158]] 急性上肢动脉栓塞 — 心内
+- [[NBME14A_S4_breakdown#^Q161]] 胆石性胰腺炎CT诊断 — GI
+- [[NBME14A_S4_breakdown#^Q162]] 肺源性心脏病 — pulmonary
+- [[NBME14A_S4_breakdown#^Q163]] Turner综合征核型 — GYN
+- [[NBME14A_S4_breakdown#^Q164]] 率 vs 绝对人数 — Biostats_Master
+- [[NBME14A_S4_breakdown#^Q168]] 痛风急性期用药 — 免疫疫苗
+- [[NBME14A_S4_breakdown#^Q169]] 婴幼儿哮喘诊断 — 儿科
+- [[NBME14A_S4_breakdown#^Q170]] 秘密利尿剂低钾 — 肾脏
+- [[NBME14A_S4_breakdown#^Q171]] 移植后皮肤 SCC — derm
+- [[NBME14A_S4_breakdown#^Q172]] COPD 肺心病氧疗 — pulmonary
+- [[NBME14A_S4_breakdown#^Q173]] 急性肌张力障碍苯托品 — psych
+- [[NBME14A_S4_breakdown#^Q174]] CKD 继发甲旁亢 — 肾脏
+- [[NBME14A_S4_breakdown#^Q175]] DiGeorge 综合征 — 儿科
+- [[NBME14A_S4_breakdown#^Q176]] 异物吸入诊断 — 儿科
+- [[NBME14A_S4_breakdown#^Q178]] Bell 麻痹预后 — neuro
+- [[NBME14A_S4_breakdown#^Q179]] MVP 心内膜炎预防 — 心内
+- [[NBME14A_S4_breakdown#^Q180]] 结直肠癌筛查 — Biostats_Master
+- [[NBME14A_S4_breakdown#^Q183]] 原发性闭经定义 — GYN
+- [[NBME14A_S4_breakdown#^Q185]] 冠状颅缝早闭 — 儿科
+- [[NBME14A_S4_breakdown#^Q189]] 淋病暴露经验治疗 — 感染
+- [[NBME14A_S4_breakdown#^Q190]] 枪伤强制报警义务 — ethics
+- [[NBME14A_S4_breakdown#^Q191]] 糖尿病足 MRI — 外科
+- [[NBME14A_S4_breakdown#^Q192]] RA 双踝晨僵 — 免疫疫苗
+- [[NBME14A_S4_breakdown#^Q193]] AML 肿瘤溶解预防 — hematology oncology
+- [[NBME14A_S4_breakdown#^Q194]] Factor VII 缺乏 — hematology oncology
+- [[NBME14A_S4_breakdown#^Q197]] NF1 眼科筛查 — 儿科
+- [[NBME14A_S4_breakdown#^Q198]] 乳胶过敏性休克预防 — 免疫疫苗
+- [[NBME14A_S4_breakdown#^Q199]] H. pylori 根除三联 — GI
+- [[NBME14A_S4_breakdown#^Q200]] 新生儿HSV脑炎预防 — newborn care and screening
+
+## ⭐⭐⭐ HY 3（13 题）
+- [[NBME14A_S1_breakdown#^Q035]] 妊娠期股癣 — derm
+- [[NBME14A_S2_breakdown#^Q061]] 肛裂 — GI
+- [[NBME14A_S2_breakdown#^Q081]] 环状胰腺良性 — GI
+- [[NBME14A_S3_breakdown#^Q118]] 脂溢性角化观察 — derm
+- [[NBME14A_S3_breakdown#^Q126]] 同僚失职上报链条 — ethics
+- [[NBME14A_S3_breakdown#^Q132]] 围绝经期 HRT 管理 — GYN
+- [[NBME14A_S3_breakdown#^Q141]] 非特异性外阴阴道炎 — 儿科
+- [[NBME14A_S3_breakdown#^Q147]] 男孩正常青春期 SMR 2 — 儿科
+- [[NBME14A_S4_breakdown#^Q160]] 处方安全书写规范 — Ethics_Master
+- [[NBME14A_S4_breakdown#^Q165]] ADHD 成人预后用药 — 儿科
+- [[NBME14A_S4_breakdown#^Q182]] 导管扩张症 — GYN
+- [[NBME14A_S4_breakdown#^Q188]] 性交后UTI预防 — 肾脏
+- [[NBME14A_S4_breakdown#^Q195]] 耳鸣不需追加检查 — neuro
+
