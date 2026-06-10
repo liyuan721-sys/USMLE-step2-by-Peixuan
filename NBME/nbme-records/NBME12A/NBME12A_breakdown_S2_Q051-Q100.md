@@ -794,7 +794,7 @@ tags:
 >
 > **Treatment:** Timed voiding, clean intermittent self-catheterization (CIC) as first-line; alpha-blockers (tamsulosin) reduce bladder neck resistance; bethanechol (muscarinic agonist) occasionally used to enhance detrusor contractility
 >
-> **治疗:** 定时排尿、清洁间歇性自我导尿（CIC）为一线治疗；α受体阻滞剂（坦索罗辛）降低膀胱颈阻力；贝坦尼克（毒蕈碱激动剂）偶尔用于增强逼尿肌收缩力
+> **治疗:** 定时排尿、清洁间歇性自我导尿（CIC）为一线治疗；α受体阻滞剂（坦索罗辛）降低膀胱颈阻力；氨甲酰甲胆碱 bethanechol（毒蕈碱激动剂）偶尔用于增强逼尿肌收缩力
 >
 > #### Options Elimination / 错误选项排除逻辑
 >

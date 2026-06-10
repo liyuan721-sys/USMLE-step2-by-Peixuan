@@ -1242,7 +1242,7 @@ tags:
 >   脓腔内容物为无菌性（无细菌）；因此广谱抗菌药物无适应症
 >
 > - Metronidazole kills invasive trophozoites; luminal agents (paromomycin, iodoquinol) then eliminate residual intestinal cysts\
->   甲硝唑杀灭侵袭性滋养体；随后需加用管腔内药物（巴龙霉素、碘仿）清除残余肠道包囊
+>   甲硝唑杀灭侵袭性滋养体；随后需加用管腔内药物（巴龙霉素 paromomycin、双碘喹啉 iodoquinol）清除残余肠道包囊
 >
 > **Anatomic rule of thumb:** Right lobe abscesses are safer than left lobe — left lobe abscesses are adjacent to the pericardium and carry a much higher risk of cardiac tamponade upon rupture.
 >
@@ -1272,7 +1272,7 @@ tags:
 >
 > **Treatment:** Metronidazole (or tinidazole) for tissue-invasive phase + luminal agent (paromomycin or iodoquinol) for intestinal carriage; aspiration or surgery only if failing medical therapy.
 >
-> **治疗:** 甲硝唑（或替硝唑）用于组织侵袭期 + 管腔内药物（巴龙霉素或碘仿）清除肠道携带状态；仅在药物治疗失败时才考虑穿刺或手术引流。
+> **治疗:** 甲硝唑（或替硝唑）用于组织侵袭期 + 管腔内药物（巴龙霉素或双碘喹啉 iodoquinol）清除肠道携带状态；仅在药物治疗失败时才考虑穿刺或手术引流。
 >
 > #### Options Elimination / 错误选项排除逻辑
 >
@@ -1322,7 +1322,7 @@ tags:
 > | Intestinal manifestations <br> 肠道表现 | Bloody mucoid diarrhea (amoebic dysentery); flask-shaped mucosal ulcers on colonoscopy; trophozoites with ingested RBCs on smear <br> 血性黏液腹泻（阿米巴痢疾）；结肠镜下烧瓶形溃疡；涂片可见吞噬红细胞的滋养体 |
 > | Diagnosis <br> 诊断方法 | Serology (anti-E. histolytica IgG, sensitivity >95%); stool O&P (sensitivity ~70%); PCR; CT shows fluid-filled hypodense mass <br> 血清学（抗溶组织内阿米巴IgG，灵敏度>95%）；粪便O&P（灵敏度约70%）；PCR；CT示低密度液性肿块 |
 > | Treatment — tissue phase <br> 组织侵袭期治疗 | Metronidazole 500–750 mg TID × 7–10 days OR tinidazole 2 g/day × 5 days (better tolerated) <br> 甲硝唑500–750 mg每日三次×7–10天，或替硝唑2g/天×5天（耐受性更好） |
-> | Treatment — luminal phase <br> 管腔期治疗 | Always follow with paromomycin 25–35 mg/kg/day × 7 days OR iodoquinol 650 mg TID × 20 days to prevent relapse <br> 必须随后使用巴龙霉素25–35 mg/kg/天×7天或碘仿650 mg每日三次×20天，防止复发 |
+> | Treatment — luminal phase <br> 管腔期治疗 | Always follow with paromomycin 25–35 mg/kg/day × 7 days OR iodoquinol 650 mg TID × 20 days to prevent relapse <br> 必须随后使用巴龙霉素25–35 mg/kg/天×7天或双碘喹啉650 mg每日三次×20天，防止复发 |
 > | Indications for aspiration/drainage <br> 穿刺/引流指征 | Failure of medical therapy; left lobe location; abscess >5 cm; imminent rupture; diagnostic uncertainty <br> 药物治疗无效；左叶位置；脓肿>5cm；即将破裂；诊断不确定时 |
 >
 > #### Extensions / 延伸扩展
@@ -1345,7 +1345,7 @@ tags:
 > > 甲硝唑后必跟管腔药清包囊防复发
 >
 > > [!warning] 🔍 核查 / 增补
-> > 音译问题:文中把luminal agent 'iodoquinol' 译为'碘仿'有误——碘仿=iodoform(消毒剂),iodoquinol正确中文为'双碘喹啉/碘喹醇'。多处出现(机制段/治疗段/HY表),建议入库时统一订正为'双碘喹啉(iodoquinol)'。
+> > 音译已订正（2026-06-10）：原文把 luminal agent 'iodoquinol' 误译为'碘仿'（碘仿=iodoform 是消毒剂），已统一改为'双碘喹啉 iodoquinol'（机制段/治疗段/HY 表共 3 处）。
 >
 > #### 🔗 关联专题笔记
 > - [[感染_肝脏占位囊肿鉴别]]
