@@ -1099,6 +1099,25 @@ CNS hyperarousal 反弹（GABA 突然撤离）
 
 **H**yperalimentation / **A**ddison's / **R**TA / **D**iarrhea / **A**cetazolamide / **S**pironolactone / **S**aline infusion
 
+### 8.3 铁中毒 iron poisoning 指纹 ⭐（MUDPILES 的 "I"）
+
+> [!warning] 幼儿误服 + 这组指纹 = 铁，别选铅
+> 派生自 [[mistakes/uworld-mistakes_2026-06#^Q3827]]（4 岁误服，我选了铅）。
+
+| 指纹项 | 表现 | 机制 |
+|---|---|---|
+| **腐蚀性 GI + 呕血** | 腹痛/呕吐/腹泻 + **呕血 hematemesis / 黑便** | 铁**直接腐蚀胃肠黏膜** → 出血 |
+| **低容量休克**（数小时内）| 低血压 + 心动过速 + CRT↑ + 肾前性氮质血症 | 胃肠大量丢失 |
+| **高 AG 代酸** | AG↑（如 27）、HCO₃↓ | 铁吸收产 H⁺ + 休克乳酸 |
+| **radiopaque 片影** | 腹部 X 线胃/十二指肠**不透 X 线**阴影 | 部分铁剂不透 X 线 |
+| **确诊 / 治疗** | 血清铁↑ / **去铁胺 deferoxamine（IV 螯合）** | — |
+
+**vs 铅 lead 中毒**：铅也可 radiopaque + 腹痛，但 **不腐蚀胃黏膜（无呕血）、不致高 AG 代酸**、常伴神经/AMS（慢性）→ 与"呕血 + AG 代酸 + 休克"不符。
+
+### 8.4 radiopaque 误服速记（X 线可见的吞服物）
+
+**重金属（铅 lead / 铁 iron / 砷 arsenic）+ 含碘剂 + 肠溶/缓释片（enteric-coated / sustained-release）+ 钙剂 + 部分卤代烃**。
+
 ---
 
 ## Part 9. 学习方法升级
@@ -1265,6 +1284,8 @@ Step 6: 锁定 → 选答案
 - **应试目标**：USMLE Step 2 CK 全系统"症状不特异但实验室特征"病的快速识别
 - **复习节奏**：考前每周扫一次 Part 1-6（指纹组合默写）+ Part 8（计算公式）；考前 1 周 + Part 7（形态学）
 - **下次升级**：每次错题暴露新指纹病 → 加进对应 Part；积累足够后拆分子衍生
+
+**v1.8**（2026-06-11）— §8 新增 8.3 铁中毒指纹（[[mistakes/uworld-mistakes_2026-06#^Q3827]] 触发，误选铅）：腐蚀呕血 + 低容量休克 + 高 AG 代酸 + radiopaque + 去铁胺，附 vs 铅鉴别；+ 8.4 radiopaque 误服速记（重金属/含碘/肠溶缓释/钙）。
 
 **Last updated**: 2026-05-21 v1.7 — 新增 **Part 10 神经 / 精神科标志物指纹（CSF·EEG·PSG）**：10.1 CSF 5-HIAA↓→自杀（+ BBB 取样逻辑）+ 10.2 CSF/EEG/影像标志物 5 行联立速查（5-HIAA / orexin / 14-3-3 / 3-Hz spike-wave / hydrocephalus ex vacuo）+ 10.3 睡眠障碍 PSG 鉴别（MDD「三降一升」/ MDD·OSA·RBD·PLMD 联立 / ↓REM latency 与 narcolepsy 区分）；§6.2 Carcinoid 加尿/CSF 5-HIAA 升降对照。源 Q15897 + Q15924（知识点补充，未入错题本）
 
