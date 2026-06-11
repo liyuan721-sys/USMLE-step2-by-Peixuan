@@ -15873,7 +15873,7 @@
 >   - [[mistakes/uworld-mistakes#^Q15856]] 急性躁动药物管理（**诊断对、时机错** 同源 — 那题误用长期 Li、本题误用 levothyroxine）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（eating disorder 住院指征）/ [[完整笔记/Peixuan分科笔记/endocrine]]（甲状腺鉴别）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（AN 住院核心指征：HR <40 / BP <80/60 / 心律失常 / 心肌萎缩）/ [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]]（TSH-T3-T4-rT3 模式指纹）
-> - 🌱 TODO（待生成衍生）：等 psych eating disorder + endocrine 甲状腺章节复习完，请 Claude Code 整合 [AN 住院指征 + euthyroid sick vs 原发甲减 + 亚临床甲减] → 生成 [[完整笔记/专题笔记/内分泌/_衍生_甲状腺激素异常模式速查]]（含 euthyroid sick / 原发甲减 / 继发甲减 / 亚临床的 TSH-T3-T4-rT3 矩阵 + 三把钥匙）
+> - 🌱 TODO（待生成衍生）：等 psych eating disorder + endocrine 甲状腺章节复习完，请 Claude Code 整合 [AN 住院指征 + euthyroid sick vs 原发甲减 + 亚临床甲减] → 生成 [[完整笔记/专题笔记/内分泌/内分泌_甲状腺激素异常模式速查]]（含 euthyroid sick / 原发甲减 / 继发甲减 / 亚临床的 TSH-T3-T4-rT3 矩阵 + 三把钥匙）
 >
 > **【9. ✅ 复盘行动】**
 > - [ ] 1 周后重做（看到低 T3/T4 先用三把钥匙，别只看 TSH 高没高）
@@ -15935,7 +15935,7 @@
 >   - [[mistakes/uworld-mistakes#^AMBOSS-CJD57]] CJD 招牌识别（同痴呆族 — CJD 是"快速进展 + myoclonus"独门指纹，与 bvFTD 起病缓慢 + 行为主导互补）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（FTD 的 disinhibition / apathy 易与精神科行为障碍混淆；神经精神症状用 SSRI / trazodone 控制）
-> - 🌱 TODO（待生成衍生）：等 neuro 章节 dementia 复习完，请 Claude Code 整合 dementia 鉴别类错题（AD / bvFTD / DLB / VaD / NPH / CJD / Pseudodementia）→ 生成 [[完整笔记/专题笔记/神经/_衍生_痴呆鉴别速查表]]（核心：首发症状定位 + DLB 数特征框架 + FTD vs AD 镜像表）
+> - 🌱 TODO（待生成衍生）：等 neuro 章节 dementia 复习完，请 Claude Code 整合 dementia 鉴别类错题（AD / bvFTD / DLB / VaD / NPH / CJD / Pseudodementia）→ 生成 [[完整笔记/专题笔记/神经/神经_痴呆鉴别速查表]]（核心：首发症状定位 + DLB 数特征框架 + FTD vs AD 镜像表）
 >
 > **9. ✅ 复盘行动**
 > - [ ] 1 周后重做（盲做能否直接说出 bvFTD）
@@ -16075,7 +16075,7 @@
 >   - [[mistakes/uworld-mistakes#^Q15054]] 抗抑郁药诱发转躁 first-step（同 bipolar 谱系 — 揭露隐藏躁狂史）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：无显著跨学科关联（纯精神科时间线鉴别）
-> - 🌱 TODO（待生成衍生）：等 psych 章节累积 3-4 道「应激 / 抑郁谱系 + Bipolar 谱系鉴别」错题后（本题 + Dysthymia + ASD/PTSD + Normal grief + Bipolar I/II + Cyclothymia），请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/psych/_衍生_精神科抑郁躁狂谱系决策树]]（整合本卡的完整 ASCII 决策链 + 两张对比表）
+> - 🌱 TODO（待生成衍生）：等 psych 章节累积 3-4 道「应激 / 抑郁谱系 + Bipolar 谱系鉴别」错题后（本题 + Dysthymia + ASD/PTSD + Normal grief + Bipolar I/II + Cyclothymia），请 Claude Code 整合 → 生成 [[完整笔记/专题笔记/psych/psych_精神科抑郁躁狂谱系决策树]]（整合本卡的完整 ASCII 决策链 + 两张对比表）
 >
 > ---
 >
@@ -16162,7 +16162,7 @@
 > - 🔁 同主题错题：（首题，等后续 OB 早孕鉴别 / psych 躯体化题积累再横向连）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/OB]]（早孕 hCG + 超声鉴别 + 流产谱系）/ [[完整笔记/Peixuan分科笔记/psych]]（pseudocyesis 属躯体症状相关障碍）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（假孕本质是 somatization，需精神科处理 —— OB 表现、psych 本质的跨科题）
-> - 🌱 TODO（待生成衍生）：本次已生成草稿 [[草稿/2026-05-22_怀疑怀孕鉴别_hCG超声决策树_v1]]，等 OB 早孕章节 + psych 躯体化章节复习完，请 Claude Code 把此草稿正式整合入 [[完整笔记/专题笔记/OB_GYN/_衍生_怀疑怀孕鉴别_hCG超声决策树]]
+> - 🌱 TODO（待生成衍生）：本次已生成草稿 [[草稿/2026-05-22_怀疑怀孕鉴别_hCG超声决策树_v1]]，等 OB 早孕章节 + psych 躯体化章节复习完，请 Claude Code 把此草稿正式整合入 [[完整笔记/专题笔记/OB_GYN/OB_GYN_怀疑怀孕鉴别_hCG超声决策树]]
 >
 > **【9. ✅ 复盘行动】**
 > - [ ] 1 周后重做（先看诊室 hCG + 超声，再决定是否还在"真孕"框）
@@ -16247,7 +16247,7 @@
 >   - （等后续 Factitious / Malingering / Illness anxiety / Conversion 错题积累后横向连）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（Conversion 表现为神经症状 —— 「真神经病 vs 功能性」鉴别 = 神经查体内部矛盾 + 解剖学不符）/ [[完整笔记/Peixuan分科笔记/OB]]（Pseudocyesis 是 somatization 在妇产领域的体现）
-> - 🌱 TODO（待生成衍生）：等 psych 章节复习完，请 Claude Code 整合 somatoform 一家人错题（Conversion / Somatic / Illness anxiety / Factitious / Malingering + Pseudocyesis）→ 生成 [[完整笔记/专题笔记/psych/_衍生_Somatoform五兄弟鉴别]]（含决策树 + 5 维对比表 + 陷阱清单 + Pseudocyesis 入列第六兄弟）
+> - 🌱 TODO（待生成衍生）：等 psych 章节复习完，请 Claude Code 整合 somatoform 一家人错题（Conversion / Somatic / Illness anxiety / Factitious / Malingering + Pseudocyesis）→ 生成 [[完整笔记/专题笔记/psych/psych_Somatoform五兄弟鉴别]]（含决策树 + 5 维对比表 + 陷阱清单 + Pseudocyesis 入列第六兄弟）
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q3719
@@ -16323,7 +16323,7 @@
 >   - [[mistakes/uworld-mistakes#^Q21259]] Adjustment Disorder vs MDD 时间线（同抑郁谱系决策链，与 RAD 镜像：那题 adjustment 是"够不上 MDD"的兜底；本题 RAD 是"够上更特异"覆盖 adjustment）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/儿科]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/儿科]]（发育里程碑用于排除发育迟缓 / ASD；foster care / 童年逆境与精神病理的关联）/ [[完整笔记/Peixuan分科笔记/ethics]]（child welfare / 监护权 / mandatory reporting 与 neglect 病史相关）
-> - 🌱 TODO（待生成衍生）：等 psych 儿童章节 + 上述 selective mutism / DSED / ASD / PTSD 错题积累后，请 Claude Code 整合「儿童早期社交-依恋谱系」→ 生成 [[完整笔记/专题笔记/psych/_衍生_儿童早期社交依恋谱系鉴别]]（RAD / DSED / Selective mutism / ASD / Adjustment / PTSD 六兄弟决策树 + 早期 neglect → RAD/DSED 镜像分叉 + 发育里程碑排除框架）
+> - 🌱 TODO（待生成衍生）：等 psych 儿童章节 + 上述 selective mutism / DSED / ASD / PTSD 错题积累后，请 Claude Code 整合「儿童早期社交-依恋谱系」→ 生成 [[完整笔记/专题笔记/psych/psych_儿童早期社交依恋谱系鉴别]]（RAD / DSED / Selective mutism / ASD / Adjustment / PTSD 六兄弟决策树 + 早期 neglect → RAD/DSED 镜像分叉 + 发育里程碑排除框架）
 >
 > ## ✅ 复盘行动
 > - [ ] 默写 RAD 四大核心特征（neglect 史 + 退缩 + 负性情绪 + <5 岁）
@@ -16408,7 +16408,7 @@
 >   - [[mistakes/uworld-mistakes#^Q2518]] Tardive Dyskinesia 处理（同 D2 通路 / 抗精神病药 EPS 家族）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（抗精神病药 D2 拮抗强度谱、EPS 风险——与本题同源）
-> - 🌱 TODO（待生成衍生）：等神经科 + 精神科复习完后，请 Claude Code 整合「PD psychosis 管理 / 抗精神病药 D2 谱 / 药源性运动障碍(含 metoclopramide、抗精神病药 EPS) / 多巴胺能药双刃剑」类错题 → 生成 [[完整笔记/专题笔记/神经/_衍生_多巴胺受体药物双刃剑]]
+> - 🌱 TODO（待生成衍生）：等神经科 + 精神科复习完后，请 Claude Code 整合「PD psychosis 管理 / 抗精神病药 D2 谱 / 药源性运动障碍(含 metoclopramide、抗精神病药 EPS) / 多巴胺能药双刃剑」类错题 → 生成 [[完整笔记/专题笔记/神经/神经_多巴胺受体药物双刃剑]]
 >
 > ## 9. ✅ 复盘行动
 > - [ ] 1 周后盲做此题（测"减药 vs 加药"反向逻辑）
@@ -16483,7 +16483,7 @@
 >   - [[mistakes/uworld-mistakes#^Q16309]] Paranoid Personality Disorder（Cluster A 镜像 — 同 personality disorder 家族，PPD「Weird」cluster vs 本题「Wild」cluster；两题共建 Cluster A/B/C 全图）
 >   - [[mistakes/uworld-mistakes#^Q4816]] PDD vs Personality Disorder 鉴别（同 personality disorder 主题 — PD 不靠时间靠 persistent pattern since early adulthood，本题 §4 也踩这个点）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
-> - 🌱 TODO（待生成衍生）：等 psych 章节复习完，请 Claude Code 整合 Cluster B 人格障碍错题（HPD/NPD/BPD/ASPD 鉴别 + 各自诊断硬条件）→ 生成 [[完整笔记/专题笔记/psych/_衍生_ClusterB人格障碍鉴别表]]（与 Q16309 TODO 的 [[完整笔记/专题笔记/psych/psych_人格障碍鉴别速查]] 可合并为 Cluster A/B/C 全图）
+> - 🌱 TODO（待生成衍生）：等 psych 章节复习完，请 Claude Code 整合 Cluster B 人格障碍错题（HPD/NPD/BPD/ASPD 鉴别 + 各自诊断硬条件）→ 生成 [[完整笔记/专题笔记/psych/psych_ClusterB人格障碍鉴别表]]（与 Q16309 TODO 的 [[完整笔记/专题笔记/psych/psych_人格障碍鉴别速查]] 可合并为 Cluster A/B/C 全图）
 >
 > **9. ✅ 复盘行动**
 > - [ ] 1 周后重做本题 + 4 道自测题
@@ -16567,7 +16567,7 @@
 >   - [[mistakes/uworld-mistakes#^Q15047]] Reactive Attachment Disorder（同 **儿科 psych + 跨场所** 套路 + 发育里程碑/学校表现常被题干用来排 ASD / ADHD / 发育迟缓 / 铅中毒）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/儿科]] / [[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（ADHD 药物谱 — methylphenidate / amphetamine / atomoxetine / clonidine / guanfacine；与 [[mistakes/uworld-mistakes#^Q11967]] ADHD 药物精神病鉴别题同源）
-> - 🌱 TODO（待生成衍生）：等儿科 + psych 章节复习完，请 Claude Code 整合「儿童行为问题决策树（ADHD / PMT / ODD / CD / RAD / DSED / SM）+ 跨场所标准 + ADHD 药物谱（兴奋剂 / atomoxetine / α2 激动剂）」→ 生成 [[完整笔记/专题笔记/儿科/_衍生_儿童行为问题决策树与跨场所差异]]
+> - 🌱 TODO（待生成衍生）：等儿科 + psych 章节复习完，请 Claude Code 整合「儿童行为问题决策树（ADHD / PMT / ODD / CD / RAD / DSED / SM）+ 跨场所标准 + ADHD 药物谱（兴奋剂 / atomoxetine / α2 激动剂）」→ 生成 [[完整笔记/专题笔记/儿科/儿科_儿童行为问题决策树与跨场所差异]]
 >
 > ## ✅ 复盘行动
 > - [ ] 默写 PMT 三段（A-B-C）+ 每段"用什么 / 避什么"对照
@@ -16642,7 +16642,7 @@
 >   - [[mistakes/uworld-mistakes#^Q11967]] 青少年急性精神病 → SLE（同 **ADHD 药物 amphetamine** 出现在题干 — 那题是排除药物归因，本题是替换药物为非成瘾选项）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/儿科]]（clonidine/guanfacine 儿童 ADHD 应用，与成人对比）
-> - 🌱 TODO（待生成衍生）：等精神科 / 药理章节复习完，请 Claude Code 整合「ADHD 用药决策（stimulant vs nonstimulant、成人 vs 儿童、物质滥用史特殊情况）」类错题 → 生成 [[完整笔记/专题笔记/psych/_衍生_ADHD用药决策树]]（与 [[完整笔记/专题笔记/儿科/_衍生_儿童行为问题决策树与跨场所差异]] 的 ADHD 药物谱部分互链）
+> - 🌱 TODO（待生成衍生）：等精神科 / 药理章节复习完，请 Claude Code 整合「ADHD 用药决策（stimulant vs nonstimulant、成人 vs 儿童、物质滥用史特殊情况）」类错题 → 生成 [[完整笔记/专题笔记/psych/psych_ADHD用药决策树]]（与 [[完整笔记/专题笔记/儿科/儿科_儿童行为问题决策树与跨场所差异]] 的 ADHD 药物谱部分互链）
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q14348
@@ -16707,7 +16707,7 @@
 >   - [[mistakes/uworld-mistakes#^Q21090]] 围产期 GAD（**同陷阱**：USMLE 用一个生活事件外壳[怀孕/儿童学业]把多领域 worry 包装得像单一议题，实际辐射多领域 → GAD）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/儿科]]（儿童 GAD 诊断阈值≠成人：仅需≥1 项附加症状；儿童躯体化/拒学常见）
-> - 🌱 TODO（待生成衍生）：等 psych 焦虑障碍部分复习完后，整合"焦虑障碍鉴别"系列错题（GAD / social / separation / OCD / panic / specific phobia）→ 生成 [[完整笔记/专题笔记/psych/_衍生_焦虑障碍鉴别速查]]（核心：以"担忧靶点数量+性质"为主轴的决策树；与 Q8909 TODO `psych_DSM5焦虑障碍鉴别决策树` 同主题，建衍生时合并去重）
+> - 🌱 TODO（待生成衍生）：等 psych 焦虑障碍部分复习完后，整合"焦虑障碍鉴别"系列错题（GAD / social / separation / OCD / panic / specific phobia）→ 生成 [[完整笔记/专题笔记/psych/psych_焦虑障碍鉴别速查]]（核心：以"担忧靶点数量+性质"为主轴的决策树；与 Q8909 TODO `psych_DSM5焦虑障碍鉴别决策树` 同主题，建衍生时合并去重）
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后盲做 Q16153，重点练"先数靶点"这一步
@@ -16793,7 +16793,7 @@
 >   - [[mistakes/uworld-mistakes#^Q12541]] Alcohol Use Disorder 一线药（**同 Bupropion 禁忌**：那卡显式列"Bupropion 禁忌 = 癫痫 + 饮食障碍 bulimia/anorexia"，与本题 BED 用药表里"Bupropion 进食障碍永远禁"互证）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/endocrine]]（肥胖管理药物 orlistat/phentermine/GLP-1 在减重语境下对照）
-> - 🌱 TODO（待生成衍生）：等 psych 进食障碍 + 减重药错题积累到 3-4 道后，整合 → 生成 [[完整笔记/专题笔记/psych/_衍生_进食障碍药物对照]]（三障碍一线药 + 减肥药 vs BED 药鉴别 + Bupropion 禁忌）
+> - 🌱 TODO（待生成衍生）：等 psych 进食障碍 + 减重药错题积累到 3-4 道后，整合 → 生成 [[完整笔记/专题笔记/psych/psych_进食障碍药物对照]]（三障碍一线药 + 减肥药 vs BED 药鉴别 + Bupropion 禁忌）
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q16490
@@ -16882,8 +16882,8 @@
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/儿科]]（儿童/青少年精神障碍起病与用药：fidgety 注意力差伪装 ADHD 反陷阱）
 > - 🌱 TODO（待生成衍生）：
->   - 等 psych 心理治疗类题积累到 3-4 道 → 整合 → 生成 [[完整笔记/专题笔记/psych/_衍生_心理治疗对号入座]]（CBT-ERP/DBT/Psychodynamic/Exposure/标准CBT 各治什么）
->   - 等焦虑谱系用药题积累后 → 生成 [[完整笔记/专题笔记/psych/_衍生_焦虑谱系药物]]（SSRI/Buspirone/Clomipramine/BZD 适应症对照；与 Q2496 现有 TODO `_衍生_焦虑谱系鉴别` 一诊断侧一治疗侧、与 Q16153 TODO `_衍生_焦虑障碍鉴别速查` / Q8909 TODO `psych_DSM5焦虑障碍鉴别决策树` 同源，建衍生时合并去重）
+>   - 等 psych 心理治疗类题积累到 3-4 道 → 整合 → 生成 [[完整笔记/专题笔记/psych/psych_心理治疗对号入座]]（CBT-ERP/DBT/Psychodynamic/Exposure/标准CBT 各治什么）
+>   - 等焦虑谱系用药题积累后 → 生成 [[完整笔记/专题笔记/psych/psych_焦虑谱系药物]]（SSRI/Buspirone/Clomipramine/BZD 适应症对照；与 Q2496 现有 TODO `_衍生_焦虑谱系鉴别` 一诊断侧一治疗侧、与 Q16153 TODO `_衍生_焦虑障碍鉴别速查` / Q8909 TODO `psych_DSM5焦虑障碍鉴别决策树` 同源，建衍生时合并去重）
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q8923
@@ -16980,7 +16980,7 @@
 >   - [[mistakes/uworld-mistakes#^Q8923]] 儿童 OCD 管理——同 psych 治疗"选对治疗类型/排诱饵"逻辑
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🌱 TODO（待生成衍生）：
->   - 等 MDD/抑郁治疗题积累到 3-4 道 → 整合 → 生成 [[完整笔记/专题笔记/psych/_衍生_MDD治疗决策树]]（普通 vs 精神病性 vs 难治性分流 + 联合方案对号入座 + ECT 适应症 + 「急不急≠治不治妄想」纠正）
+>   - 等 MDD/抑郁治疗题积累到 3-4 道 → 整合 → 生成 [[完整笔记/专题笔记/psych/psych_MDD治疗决策树]]（普通 vs 精神病性 vs 难治性分流 + 联合方案对号入座 + ECT 适应症 + 「急不急≠治不治妄想」纠正）
 >   - 今日 psych 治疗四连（Q14348 ADHD / Q16490 BED / Q8923 OCD / Q15088 MDD-psychotic）已可触发 → 生成 [[完整笔记/专题笔记/psych/psych_精神障碍选对治疗SOP]]（统一陷阱：先定准诊断/亚型→再选治疗，别凭「大方向感觉」选）
 >
 > ## ✅ 复盘行动
@@ -17070,7 +17070,7 @@
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/endocrine]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（偷用磺脲类 ↔ factitious disorder 鉴别：内因型 sick role 动机 vs malingering 外部获益）
 > - 🧬 指纹：[[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全#1.10 内源性高胰岛素血症 / 低血糖鉴别]]（已建 1.10 条目，本题为触发题）
-> - 🌱 TODO（待生成衍生）：等内分泌低血糖章节复习完，整合"低血糖四联鉴别（insulin / C-peptide / proinsulin / 磺脲类筛查）"类错题 → 生成 [[完整笔记/专题笔记/内分泌/_衍生_低血糖鉴别决策树]]
+> - 🌱 TODO（待生成衍生）：等内分泌低血糖章节复习完，整合"低血糖四联鉴别（insulin / C-peptide / proinsulin / 磺脲类筛查）"类错题 → 生成 [[完整笔记/专题笔记/内分泌/内分泌_低血糖鉴别决策树]]
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后盲做重做（先看化验再看人口学）
@@ -17490,7 +17490,7 @@
 >   - [[完整笔记/Peixuan分科笔记/psych]]（抗精神病药 D2 拮抗强度谱 / EPS 风险 / 1 代 vs 2 代 vs 3 代 — 与 [[mistakes/uworld-mistakes#^Q2518]] TD 题、[[mistakes/uworld-mistakes#^Q20930]] tetrabenazine 题同源）
 >   - [[完整笔记/专题笔记/psych/psych_四大EPS诊断治疗对照]]（PD psychosis 不是 EPS，但同 D2 通路；EPS 是抗精神病药→D2 阻断→运动障碍，PD psychosis 是 PD 药→DA 过多→精神症状，**镜像同源**）
 >   - [[完整笔记/专题笔记/psych/psych_精神障碍选对治疗SOP]]（PD psychosis 是"治疗副产物精神症状"特殊场景，与"原发性精神病选药 SOP"互为对照 — 一个躲 D2 走，一个走 D2 用）
-> - 🌱 TODO（待生成衍生）：神经科 + 精神科复习完 → 整合 [[完整笔记/专题笔记/神经/_衍生_多巴胺受体药物双刃剑]]（草稿 v4 整合 + Q16164 + Q12152 + DIP + TD + tetrabenazine 全收纳，按"多巴胺过多 vs 多巴胺不足"两端组织）
+> - 🌱 TODO（待生成衍生）：神经科 + 精神科复习完 → 整合 [[完整笔记/专题笔记/神经/神经_多巴胺受体药物双刃剑]]（草稿 v4 整合 + Q16164 + Q12152 + DIP + TD + tetrabenazine 全收纳，按"多巴胺过多 vs 多巴胺不足"两端组织）
 >
 > ## ✅ 复盘行动
 > - [ ] **3 天后重做 Q12152 + Q16164 串联**（先做 Q16164 测第 4 步，再做 Q12152 测第 5 步；连对 2 轮 → 可降级到 🟡）
@@ -17763,7 +17763,7 @@
 > - 🌱 TODO（待生成衍生）：
 >   - **优先 1**：等积累 3+ 道"治疗阶梯升级"类错题（**已有 Q3375 Tourette / Q2357 双相 / Q12152 PD psychosis 共 3 道**） → 可触发生成 [[完整笔记/专题笔记/_衍生_治疗阶梯升级SOP]]（Tourette / 双相 / 哮喘 step-up / HTN / MDD / PD psychosis 统一框架："用了一段仍恶化 → 找下一阶梯"+ 各疾病阶梯图）
 >   - **优先 2**：等积累 3+ 道"多巴胺方向药"类错题（**已有 Q3375 Tourette / Q16066 TD / Q12152 PD psychosis / Q20930 tetrabenazine 钓饵 共 4 道**）→ **可触发生成** [[完整笔记/专题笔记/psych/psych_多巴胺方向药物三角]]（治 tic 抗 DA / 治 EPS 抗 ACh / 治 PD 增 DA / 兴奋剂 ↑DA / VMAT2 双向用途 — Tourette/HD/TD vs 焦虑题钓饵）
->   - **优先 3**：[[完整笔记/专题笔记/儿科/_衍生_儿童行为问题决策树与跨场所差异]]（Q107408 TODO 已有）扩 Tourette 章节
+>   - **优先 3**：[[完整笔记/专题笔记/儿科/儿科_儿童行为问题决策树与跨场所差异]]（Q107408 TODO 已有）扩 Tourette 章节
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后盲做 Q3375 — 第一眼锁"α2 失败 → 抗 DA"反射

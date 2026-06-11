@@ -403,9 +403,9 @@ Stem 出现 → 0.3 秒锁 IM 路径：
   - [[完整笔记/Peixuan分科笔记/儿科]]（PMT / ADHD 跨场所 / 儿童 OCD / 儿童 GAD / Clonidine 儿科首选）
   - [[完整笔记/Peixuan分科笔记/endocrine]]（减肥药家族对照 orlistat/phentermine/GLP-1；甲状腺与情绪/焦虑共病）
 - 🌱 TODO（待生成衍生）：
-  - 等焦虑诊断侧题（Q8909 + Q16153 + Q21090 + Q2496）整合 → 生成 [[完整笔记/专题笔记/psych/_衍生_焦虑障碍鉴别速查]]（诊断侧，与本笔记治疗侧互补）
-  - 等 MDD 治疗专题题积累 ≥5 道 → 生成 [[完整笔记/专题笔记/psych/_衍生_MDD治疗决策树]]（含 SWITCH/AUGMENT/COMBINE 升级树）
-  - 等心理治疗类题积累 ≥4 道 → 生成 [[完整笔记/专题笔记/psych/_衍生_心理治疗对号入座]]（CBT-ERP / DBT / Psychodynamic / Exposure / 标准 CBT）
+  - 等焦虑诊断侧题（Q8909 + Q16153 + Q21090 + Q2496）整合 → 生成 [[完整笔记/专题笔记/psych/psych_焦虑障碍鉴别速查]]（诊断侧，与本笔记治疗侧互补）
+  - 等 MDD 治疗专题题积累 ≥5 道 → 生成 [[完整笔记/专题笔记/psych/psych_MDD治疗决策树]]（含 SWITCH/AUGMENT/COMBINE 升级树）
+  - 等心理治疗类题积累 ≥4 道 → 生成 [[完整笔记/专题笔记/psych/psych_心理治疗对号入座]]（CBT-ERP / DBT / Psychodynamic / Exposure / 标准 CBT）
 
 ---
 
