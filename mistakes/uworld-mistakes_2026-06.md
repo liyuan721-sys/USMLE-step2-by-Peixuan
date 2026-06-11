@@ -11062,7 +11062,7 @@ type: 错题数据源
 > ## 🔗 关联
 > - 🔁 同主题错题：[[mistakes/uworld-mistakes_2026-06#^Q4487]] TCA（抗胆碱对照）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]]
-> - 🧩 专题：[[完整笔记/专题笔记/心内/心内_宽QRS鉴别与解毒]]（§1.3 BB vs CCB 血糖+解药）
+> - 🧩 专题：[[完整笔记/专题笔记/心内/心内_宽QRS鉴别与解毒]]（§1.3 BB vs CCB 血糖+解药）/ [[完整笔记/专题笔记/USMLE/USMLE_毒物综合征toxidrome速查]]（§四 解毒剂表 + 焊死 callout：CCB 钙+HIET ≠ 高钾钙+移钾 / BB glucagon 低糖 vs CCB 高糖分流）
 > - 🌱 TODO：—
 > 
 > ## ✅ 复盘行动

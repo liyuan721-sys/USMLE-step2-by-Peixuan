@@ -43,6 +43,7 @@ type: 专题笔记
 
 > [!warning] 易混
 > 瞳孔缩小也见于 organophosphate / clonidine / 桥脑出血 / PCP；但"针尖瞳 + **呼吸抑制** + 意识抑制"组合最指向阿片。
+> **呼吸抑制完整鉴别**（中枢抑制/神经肌肉/代谢 + 可乐定李鬼 + 高镁血症）见 [[完整笔记/专题笔记/USMLE/USMLE_呼吸抑制低通气鉴别]]。
 
 ---
 
@@ -84,6 +85,9 @@ type: 专题笔记
 
 > [!danger] 三个临床阶段别混（详见主笔记 §15.7）
 > **过量（→ Naloxone 救命）≠ 戒断（→ Methadone/Buprenorphine/Clonidine 管症状）≠ 维持（→ Naltrexone 防复发）**。
+
+> [!info] 受体药理深挖
+> 4 药的**受体机制 + 部分激动剂"沉降性戒断"陷阱 + 可乐定蓝斑 α2 机制 + Suboxone 防滥用设计** 见 [[完整笔记/专题笔记/USMLE/USMLE_毒物综合征toxidrome速查]] §5.1。
 
 ---
 
