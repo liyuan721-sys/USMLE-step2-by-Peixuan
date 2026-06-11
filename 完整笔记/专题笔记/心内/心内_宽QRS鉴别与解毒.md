@@ -129,6 +129,8 @@ ECG 5 阶段：T 高尖 → P 平+PR长 → P 消失+QRS 宽 → sine wave → a
 
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes_2026-06#^Q4487]] TCA 过量 QRS 130ms → 碳酸氢钠（误选葡萄糖酸钙）✅ §1.1 锚点
+  - [[mistakes/uworld-mistakes_2026-06#^Q3138]] TCA 碳酸氢钠"治心脏毒性"（做对，§1.1 机制正解对照）
+  - [[mistakes/uworld-mistakes_2026-06#^Q19181]] β阻滞剂中毒（低血糖 → 区分 CCB，§1.3 实战，做对）
   - [[mistakes/uworld-mistakes_2026-05#^Q19929]] 高钾宽 QRS / sine wave
   - [[mistakes/uworld-mistakes_2026-05#^Q4454]] Digoxin 中毒（鉴别用，digoxin 不增宽 QRS）
   - （等积累 Brugada / CCB 中毒各 1-2 道补锚点）
