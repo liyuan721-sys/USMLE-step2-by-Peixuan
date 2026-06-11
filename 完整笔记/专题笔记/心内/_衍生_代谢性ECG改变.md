@@ -24,7 +24,7 @@ type: 专题笔记
 | **Peaked T**（窄尖对称）| 高钾（早期）| K 6-6.5；vs 超急期 MI（宽不对称 + ST↑）|
 | **U 波** | **低钾 / 低镁** | 利尿剂、呕吐、CYP 干扰 |
 | **长 QT (>500ms)** | **低 K / 低 Mg / 低 Ca / 药物 / 先天 LQTS** | TdP 风险 |
-| **短 QT** | **高钙 / Digoxin 治疗效应** | 评估病因 |
+| **短 QT** | **高钙 / 高钾 / Digoxin 治疗效应** | 评估病因（高钙 phase2 / 高钾 phase3）|
 | **Osborn (J) 波** | **低温**（<32°C）⭐ / SAH / 高钙 / ICH | 测体温！ |
 | **Scooped ST ("Dali")** | Digoxin **治疗剂量效应**（≠ 中毒）| 看用药 |
 | **Bidirectional VT** | **Digoxin 中毒** ⭐ | 老人 + 黄视 + 低 K |
@@ -185,7 +185,7 @@ type: 专题笔记
 | QT | 病因 |
 |---|---|
 | 长 QT | **低 K / 低 Mg / 低 Ca**、药物（**列单**：抗心律失常 IA/III、azithromycin / fluoroquinolones / TCA / SSRI / 抗精神病药 ziprasidone / methadone）、ICH/SAH、先天 LQTS |
-| 短 QT | **高钙**、digoxin 治疗效应、先天短 QT 综合征 |
+| 短 QT | **高钙**（缩 phase2 平台期）、**高钾**（加速 phase3 复极）、digoxin 治疗效应、先天短 QT 综合征 → 纵深见 [[完整笔记/专题笔记/心内/心内_QT间期长短与TdP]] |
 
 ### 7.3 PR / QRS 异常
 
@@ -242,7 +242,7 @@ type: 专题笔记
   - [[完整笔记/Peixuan分科笔记/neuro]]（SAH / ICH 神经源性 ECG）
 - 🌱 TODO（待积累）：
   - 等收齐 TdP / digoxin tox / TCA / Osborn / WPW 各 1-2 道错题 → 各段补"题号锚点"
-  - 等积累 → 单独建 `_衍生_长QT综合征与TdP处置`（含药物清单 + LQTS 1/2/3 / Romano-Ward / Jervell-Lange-Nielsen）
+  - ✅ 已建 [[完整笔记/专题笔记/心内/心内_QT间期长短与TdP]]（2026-06-11，含药物清单 + LQTS 1/2/3 / Romano-Ward / JLN + short QT 双机制）
 
 ## ✅ 复盘行动
 
