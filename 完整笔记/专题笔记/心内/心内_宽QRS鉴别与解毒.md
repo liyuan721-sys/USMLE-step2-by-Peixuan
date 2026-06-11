@@ -128,9 +128,10 @@ ECG 5 阶段：T 高尖 → P 平+PR长 → P 消失+QRS 宽 → sine wave → a
 ## 🔗 关联
 
 - 🔁 同主题错题：
+  - [[mistakes/uworld-mistakes_2026-06#^Q4487]] TCA 过量 QRS 130ms → 碳酸氢钠（误选葡萄糖酸钙）✅ §1.1 锚点
   - [[mistakes/uworld-mistakes_2026-05#^Q19929]] 高钾宽 QRS / sine wave
   - [[mistakes/uworld-mistakes_2026-05#^Q4454]] Digoxin 中毒（鉴别用，digoxin 不增宽 QRS）
-  - （等积累 TCA / Brugada / CCB 中毒各 1-2 道补锚点）
+  - （等积累 Brugada / CCB 中毒各 1-2 道补锚点）
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/心内]]（心律失常 / ECG）
   - [[完整笔记/Peixuan分科笔记/肾脏]]（高钾）
@@ -141,7 +142,7 @@ ECG 5 阶段：T 高尖 → P 平+PR长 → P 消失+QRS 宽 → sine wave → a
   - [[完整笔记/专题笔记/心内/心内_Vaughan_Williams抗心律失常药]](IC 类钠通道阻断同机制)
   - [[完整笔记/专题笔记/USMLE/USMLE_重金属中毒对照铅砷汞铁]](中毒解毒对照思路)
 - 🌱 TODO：
-  - 等收齐 **TCA 过量（R aVR + NaHCO3）** 错题 → §1.1 补锚点
+  - ✅ TCA 过量错题已接入（[[mistakes/uworld-mistakes_2026-06#^Q4487]]）
   - 等收齐 **Brugada（coved ST / 发热诱发）** 错题 → §1.4 补锚点
   - 等收齐 **CCB vs BB 中毒（血糖方向）** 错题 → §1.3 补锚点
 
