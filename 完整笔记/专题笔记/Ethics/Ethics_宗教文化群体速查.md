@@ -420,7 +420,7 @@ type: 专题笔记
 - 📚 **主笔记**：
   - [[完整笔记/Peixuan分科笔记/ethics]]（Adult capacity + Minor consent + court order vs ethics committee 完整 SOP — 与本笔记**互补**：主笔记给"决策机制框架"，本笔记给"宗教 / 文化群体特征"）
   - [[完整笔记/Peixuan分科笔记/Ethics_Master]]（§15 JW 输血两种情境对比 — 本笔记 §二扩展）
-  - [[完整笔记/专题笔记/_衍生_Ethics精简框架]]（Capacity + Surrogate + court order 框架 — 本笔记是其"特殊群体"分支扩展）
+  - [[完整笔记/专题笔记/Ethics/Ethics_精简框架]]（Capacity + Surrogate + court order 框架 — 本笔记是其"特殊群体"分支扩展）
 - 🏥 **跨学科**：
   - [[完整笔记/Peixuan分科笔记/OB]]（避孕 / 堕胎 / IVF / Catholic 立场 + 孕期 JW 大出血 / Christian Science 拒胎心监护）
   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（输血替代方案 — EPO / IV iron / TXA / cell saver；JW 化疗）

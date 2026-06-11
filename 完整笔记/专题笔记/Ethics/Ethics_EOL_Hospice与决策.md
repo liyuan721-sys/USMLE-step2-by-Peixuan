@@ -36,7 +36,7 @@ version: v1.1
 ---
 
 > [!info] 文件起源
-> 从 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §七 + §八 拆出（2026-05-25 拆分，方案 2）。原文超大（4362 行），按主题分文件后单文件 ≈ 880 行可一次看完。
+> 从 [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §七 + §八 拆出（2026-05-25 拆分，方案 2）。原文超大（4362 行），按主题分文件后单文件 ≈ 880 行可一次看完。
 > 主题专注：儿童慢病 disclosure 全流程 + EOL 5 档 + DNR + Advance directive + Hospice + ESRD conservative care + **Levels of Care 6 档老年照护阶梯**（v1.1 新增 — Q20431 锚定）。
 
 > [!tip] 适用场景速查
@@ -407,7 +407,7 @@ adolescent 还有 capacity + chronic life-limiting illness deteriorating
 
 > [!danger] DNR 是窄定义不是宽定义
 > **DNR 仅 prohibit cardiopulmonary resuscitation (CPR + defibrillation) in event of cardiopulmonary arrest** — 不等于 "Do Not Treat"。其他 therapeutic intervention 仍按 standard of care。
-> 患者 incoherent → 不影响 DNR 解读，但需走 substitute decision-maker（按 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §二 hierarchy）consent for treatment。
+> 患者 incoherent → 不影响 DNR 解读，但需走 substitute decision-maker（按 [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §二 hierarchy）consent for treatment。
 > Metastatic cancer / terminal illness **不是** thrombolysis / 急性 intervention 禁忌；quality-of-life-impacting 干预仍 indicated。
 
 #### DNR 适用 vs 不适用情境
@@ -527,7 +527,7 @@ Patient lacks capacity（incapacitated）
             │
             ├─ ✅ 有 POA → POA 按 substituted judgment 决定
             │
-            └─ ❌ 无 POA → 走 next of kin hierarchy（[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §二）
+            └─ ❌ 无 POA → 走 next of kin hierarchy（[[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §二）
                    ↓
             （仍 → substituted judgment + shared values）
 ```
@@ -915,7 +915,7 @@ Elderly + ESRD imminent + comorbidities + patient asks about dialysis
 #### 一句话锁
 
 > [!success]
-> 「**Patient asked X → 必 explain X benefits + risks，不 unilateral eliminate X**」（同 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §九 directive 但反方向 — 那里 1 safe option directive 推荐；这里 patient asks 必 discuss）
+> 「**Patient asked X → 必 explain X benefits + risks，不 unilateral eliminate X**」（同 [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §九 directive 但反方向 — 那里 1 safe option directive 推荐；这里 patient asks 必 discuss）
 > 「**Elderly + comorbidity + functional decline → dialysis benefit negligible**；conservative kidney care = comfort + 6 mo–2 yr life expectancy」
 
 ### §2.9 Levels of Care — 美国老年照护 6 档阶梯 ⭐⭐（v1.1 新增 — Q20431 锚定）
@@ -1084,19 +1084,19 @@ Elderly + chronic disease decision-making
 - **Q21142（Home Hospice Care eligibility + 4 大 misconceptions — hospice 不缩短 life expectancy 反而可能 small ↑ survival / early referral enhances quality / aim 不是 hasten death）⭐ v1.4.7 做对题知识补充**
 - **Q21210（Elderly ESRD — Conservative Kidney Care vs Dialysis counseling — dialysis benefit negligible in elderly comorbid + functional decline / conservative care = comfort + 6 mo–2 yr life expectancy / patient asks X → 必 explain X benefits + risks 不 unilateral eliminate）⭐ v1.4.7 做对题知识补充**
 - **[[mistakes/uworld-mistakes_2026-05#^Q20431]]（Home Health Care 适应症 — medically stable + homebound + skilled needs / mild CI + minor injury + 独居 → home health 不是 admit / SNF）⭐ v1.1 错题入库 → §2.9 Levels of Care 6 档阶梯**
-- 前提是 capacity 无 → [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §二（Q19048 capacity reassessment + advanced directive 不指定时走 surrogate + POA/guardian 顶层）
+- 前提是 capacity 无 → [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §二（Q19048 capacity reassessment + advanced directive 不指定时走 surrogate + POA/guardian 顶层）
 - 跨学科 [[完整笔记/Peixuan分科笔记/neuro]]（Advanced Alzheimer dementia 自然病程 + Acute stroke + tPA criteria）/ [[完整笔记/Peixuan分科笔记/感染]]（重症 sepsis + multi-organ failure 预后）/ [[完整笔记/Peixuan分科笔记/hematology oncology]]（Metastatic cancer ≠ thrombolysis 禁忌 / hospice 仍给 standard of care for treatable acute events）
 
 ---
 
 ## 🔗 关联（全文件）
 
-- 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/专题笔记/_衍生_Ethics精简框架]]（核心 ethics 框架）
+- 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/专题笔记/Ethics/Ethics_精简框架]]（核心 ethics 框架）
 - 🔁 跨节联动：
-  - 本文件 §一 ↔ [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §六 Minor Consent
-  - 本文件 §二 Surrogate ↔ [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §二 Capacity + Surrogate hierarchy
+  - 本文件 §一 ↔ [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §六 Minor Consent
+  - 本文件 §二 Surrogate ↔ [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §二 Capacity + Surrogate hierarchy
   - 本文件 §二.6 Code Status Discussion ↔ [[完整笔记/专题笔记/Ethics/Ethics_Communication_Counseling]]（待建）
-  - 本文件 §二 Directive 反方向 ↔ [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §九 Directive Counseling
+  - 本文件 §二 Directive 反方向 ↔ [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §九 Directive Counseling
 - 🏥 跨学科：
   - [[完整笔记/Peixuan分科笔记/儿科]]（pediatric chronic illness disclosure / advance care planning）
   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（B-ALL induction / metastatic cancer）

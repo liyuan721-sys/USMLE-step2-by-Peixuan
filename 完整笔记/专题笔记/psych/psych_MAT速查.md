@@ -418,7 +418,7 @@ type: 专题笔记
   - （待积累其他 MAT 启动时机 / precipitated withdrawal / DER 类错题 → v1 → v1.x 增量）
 - 📚 **主笔记**：
   - [[完整笔记/Peixuan分科笔记/psych]]（Substance use disorder + MAT 长期治疗 — methadone / buprenorphine / naltrexone 选择 + AUD 三药）
-  - [[完整笔记/专题笔记/_衍生_Ethics精简框架]]（§三 AMA 管理 + IVDU AMA 必问 withdrawal/cravings → MAT 启动 — 本笔记从 Ethics 框架 §三 移出，原位置保留 stub）
+  - [[完整笔记/专题笔记/Ethics/Ethics_精简框架]]（§三 AMA 管理 + IVDU AMA 必问 withdrawal/cravings → MAT 启动 — 本笔记从 Ethics 框架 §三 移出，原位置保留 stub）
   - [[完整笔记/专题笔记/psych/psych_物质急诊速查]]（急性 opioid overdose / alcohol withdrawal / cocaine 等急性物质急诊 — 与本笔记**长期维持**互补）
   - [[完整笔记/专题笔记/物质单药/psych_物质_Opioids]]（Opioid 单药学习 — heroin / fentanyl / oxycodone / 处方药 toxicology）
   - [[完整笔记/专题笔记/psych/psych_医患沟通对话术SOP]] Part 8（家属教育反 misconception — 与本笔记 §四点五 同源）

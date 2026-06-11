@@ -4414,7 +4414,7 @@ type: 错题数据源
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/感染]] / [[完整笔记/Peixuan分科笔记/endocrine]]（糖尿病感染易感）
 > - 📚 专题：[[完整笔记/专题笔记/感染/感染_头孢菌素分代速查]]（脓毒症经验 cefepime/抗铜绿）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/肾脏]]（脓毒症 AKI / 乳酸酸中毒）/ [[完整笔记/Peixuan分科笔记/心内]]（脓毒性休克升压药 norepinephrine）
-> - 🌱 TODO：累积脓毒症/休克 bundle 题 → 与 [[完整笔记/专题笔记/_衍生_Shock分类与next-step]] 交叉
+> - 🌱 TODO：累积脓毒症/休克 bundle 题 → 与 [[完整笔记/专题笔记/心内/心内_Shock分类与next-step]] 交叉
 > 
 > ## ✅ 复盘行动
 > - [ ] 默写脓毒症 Hour-1 bundle（血培养→1h 抗生素→3h 30mL/kg→乳酸）
@@ -10437,7 +10437,7 @@ type: 错题数据源
 > - 🔁 同主题错题（同 Poisoning & Environmental block）：
 >   - [[mistakes/uworld-mistakes_2026-06#^Q19085]] EAPH（运动后晕厥；干扰项 E）/ [[mistakes/uworld-mistakes_2026-06#^Q11417]] 低体温（对侧体温急症）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/Peixuan分科笔记/外科]]
-> - 🧩 专题：[[完整笔记/专题笔记/心内/心内_运动相关晕厥急症四鉴别]]（热射病行）/ [[完整笔记/专题笔记/_衍生_高热肌强直急症鉴别]]（EHS/SS/NMS/MH）
+> - 🧩 专题：[[完整笔记/专题笔记/心内/心内_运动相关晕厥急症四鉴别]]（热射病行）/ [[完整笔记/专题笔记/USMLE/USMLE_高热肌强直急症鉴别]]（EHS/SS/NMS/MH）
 > - 🏥 跨学科：[[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]]（NMS）/ [[完整笔记/专题笔记/USMLE/USMLE_毒物综合征toxidrome速查]]
 > - 🌱 TODO：强化"高热四鉴别（EHS/SS/NMS/MH）线索表"反射
 > 

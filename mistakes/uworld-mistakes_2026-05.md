@@ -15130,7 +15130,7 @@
 >   - [[mistakes/uworld-mistakes_2026-05#^Q2501]] NMS vs EPS 鉴别 + NMS 用药（同 NMS；本卡补「NMS 实验室表现 / leukocytosis 陷阱」）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/肾脏]]（横纹肌溶解 → 肌红蛋白尿：尿潜血试纸 + 而 RBC 少 → AKI）；[[完整笔记/Peixuan分科笔记/neuro]]（铅管样强直 vs 其他运动 / 张力异常）
-> - 🌱 TODO（待生成衍生）：等 psych 复习完，整合「高热 + 肌强直急症」（NMS / 5-HT 综合征 / malignant catatonia / malignant hyperthermia）→ 生成 [[完整笔记/专题笔记/_衍生_高热肌强直急症鉴别]]（含各自实验室指纹 + 治疗 + ECT 是否适用）
+> - 🌱 TODO（待生成衍生）：等 psych 复习完，整合「高热 + 肌强直急症」（NMS / 5-HT 综合征 / malignant catatonia / malignant hyperthermia）→ 生成 [[完整笔记/专题笔记/USMLE/USMLE_高热肌强直急症鉴别]]（含各自实验室指纹 + 治疗 + ECT 是否适用）
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q12203（盖选项，先锁 NMS，别被白细胞带走）
@@ -17627,7 +17627,7 @@
 >   - [[完整笔记/Peixuan分科笔记/感染]]（**Linezolid 是隐藏 MAOI** — 治 VRE / MRSA / 复杂 SSTI；与 SSRI / 曲马多联用诱发 SS；用前需停 5-HT 能药 2 周，fluoxetine 因长半衰期需 5 周）
 >   - [[完整笔记/Peixuan分科笔记/心内]]（hypertensive crisis 解药选择 — phentolamine = 纯 α 阻断对 tyramine 危象首选；β 阻断单用禁忌【会让 α 失对抗】，用 labetalol 必须 α+β 双阻）
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（MAO-B 抑制剂 selegiline / rasagiline 在 PD 治疗中的 tyramine 风险 + serotonergic 风险 — 与 [[mistakes/uworld-mistakes_2026-05#^Q12152]] PD psychosis 题串联）
-> - 🌱 TODO（待生成衍生）：等 psych + neuro 章节复习完 → 把 [[草稿/2026-05-23_NMS_MH_Serotonin三联鉴别_专题草稿_v1]] 升级为正式衍生 [[完整笔记/专题笔记/_衍生_高热肌强直急症鉴别]]，并入 HTN crisis（adrenergic）+ 抗胆碱能毒性两列，形成"急性精神药物急症五联"完整决策树（食物 / 5-HT 药 / 抗精神病药 / 麻醉 / 抗胆碱能）
+> - 🌱 TODO（待生成衍生）：等 psych + neuro 章节复习完 → 把 [[草稿/2026-05-23_NMS_MH_Serotonin三联鉴别_专题草稿_v1]] 升级为正式衍生 [[完整笔记/专题笔记/USMLE/USMLE_高热肌强直急症鉴别]]，并入 HTN crisis（adrenergic）+ 抗胆碱能毒性两列，形成"急性精神药物急症五联"完整决策树（食物 / 5-HT 药 / 抗精神病药 / 麻醉 / 抗胆碱能）
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后盲做 Q4879（先扫"触发"是食物还是药）
@@ -17637,7 +17637,7 @@
 > - [ ] 默写隐藏 MAOI 三剑客（linezolid / selegiline 高剂量 / methylene blue）+ 临床场景
 > - [ ] 找 3 道类似题：MAOI + 食物 / SSRI + tramadol 引发 SS / linezolid + SSRI 引发 SS / Venlafaxine 高剂量 HTN
 > - [ ] 给 [[完整笔记/Peixuan分科笔记/psych]] MAOI 章节加「难记」标签（"两条祸分流"是反复混淆点）
-> - [ ] psych + neuro 复习完 → 触发 v1.1 草稿升级为正式衍生 [[完整笔记/专题笔记/_衍生_高热肌强直急症鉴别]]
+> - [ ] psych + neuro 复习完 → 触发 v1.1 草稿升级为正式衍生 [[完整笔记/专题笔记/USMLE/USMLE_高热肌强直急症鉴别]]
 >
 > ---
 >
@@ -17767,7 +17767,7 @@
 >   - [[完整笔记/Peixuan分科笔记/心内]]（Pimozide QT 延长监测 — D2 拮抗药心血管副作用）
 > - 🌱 TODO（待生成衍生）：
 >   - **优先 1**：等积累 3+ 道"治疗阶梯升级"类错题（**已有 Q3375 Tourette / Q2357 双相 / Q12152 PD psychosis 共 3 道**） → 可触发生成 [[完整笔记/专题笔记/_衍生_治疗阶梯升级SOP]]（Tourette / 双相 / 哮喘 step-up / HTN / MDD / PD psychosis 统一框架："用了一段仍恶化 → 找下一阶梯"+ 各疾病阶梯图）
->   - **优先 2**：等积累 3+ 道"多巴胺方向药"类错题（**已有 Q3375 Tourette / Q16066 TD / Q12152 PD psychosis / Q20930 tetrabenazine 钓饵 共 4 道**）→ **可触发生成** [[完整笔记/专题笔记/_衍生_多巴胺方向药物三角]]（治 tic 抗 DA / 治 EPS 抗 ACh / 治 PD 增 DA / 兴奋剂 ↑DA / VMAT2 双向用途 — Tourette/HD/TD vs 焦虑题钓饵）
+>   - **优先 2**：等积累 3+ 道"多巴胺方向药"类错题（**已有 Q3375 Tourette / Q16066 TD / Q12152 PD psychosis / Q20930 tetrabenazine 钓饵 共 4 道**）→ **可触发生成** [[完整笔记/专题笔记/psych/psych_多巴胺方向药物三角]]（治 tic 抗 DA / 治 EPS 抗 ACh / 治 PD 增 DA / 兴奋剂 ↑DA / VMAT2 双向用途 — Tourette/HD/TD vs 焦虑题钓饵）
 >   - **优先 3**：[[完整笔记/专题笔记/儿科/_衍生_儿童行为问题决策树与跨场所差异]]（Q107408 TODO 已有）扩 Tourette 章节
 >
 > ## ✅ 复盘行动
@@ -18047,7 +18047,7 @@
 >   - [[完整笔记/Peixuan分科笔记/感染]]（Meningococcal meningitis — droplet precaution + close contact prophylaxis 选择 rifampin / cipro / ceftriaxone）
 >   - [[完整笔记/Peixuan分科笔记/psych]]（Psychiatric hold — autonomy 例外 ② imminent harm to self/others 的实操）
 > - 🌱 TODO（待生成衍生）：
->   - **优先 1**：4 道同日 Ethics 错题已成体系（autonomy override / AMA / conditional confid / HIPAA disclosure）→ **触发新建** [[完整笔记/专题笔记/_衍生_Ethics精简框架]]（autonomy 4 例外 + AMA 三步法 + adolescent conditional confid + HIPAA disclosure SOP + Ethics committee 何时 consult + decision-making capacity 评估）
+>   - **优先 1**：4 道同日 Ethics 错题已成体系（autonomy override / AMA / conditional confid / HIPAA disclosure）→ **触发新建** [[完整笔记/专题笔记/Ethics/Ethics_精简框架]]（autonomy 4 例外 + AMA 三步法 + adolescent conditional confid + HIPAA disclosure SOP + Ethics committee 何时 consult + decision-making capacity 评估）
 >   - **优先 2**：积累 traumatic情境（emergency consent / surrogate / advance directive / DNR / 安乐死 / futile care）→ 扩 Ethics 衍生
 >
 > ## ✅ 复盘行动
@@ -18117,7 +18117,7 @@
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/感染]]（Right-sided IE + IVDU — septic pulmonary emboli + vancomycin empiric 覆盖 MRSA）
 >   - [[完整笔记/Peixuan分科笔记/psych]]（Opioid use disorder + MAT — methadone / buprenorphine / naltrexone 选择）
-> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 的 4 道之一（详见 [[mistakes/uworld-mistakes_2026-05#^Q3625]] TODO 优先 1）
+> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] 的 4 道之一（详见 [[mistakes/uworld-mistakes_2026-05#^Q3625]] TODO 优先 1）
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做（重点：第一眼识别"withholding 治疗作 leverage = coercion"）
@@ -18214,7 +18214,7 @@
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/psych]]（adolescent 抑郁 + 物质试用 — screening + suicidality 评估触发 breach 例外）
 >   - [[完整笔记/Peixuan分科笔记/儿科]]（青少年 health visit + 独立 consent 特殊主题 — 性健康 / 物质滥用 / 心理健康各州 vary）
-> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 的 4 道之一
+> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] 的 4 道之一
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做（重点：第一眼锁"conditional confidentiality"概念）
@@ -18288,7 +18288,7 @@
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/Peixuan分科笔记/ethics]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/GI]]（Alcoholic hepatitis — Maddrey discriminant function + prednisolone / pentoxifylline）
-> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 的 4 道之一
+> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] 的 4 道之一
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做（重点：第一眼锁"verbal consent OK + minimum necessary"）
@@ -18374,7 +18374,7 @@
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/psych]]（Delirium / dementia 致 capacity ↓ + assessment 工具）
 >   - [[完整笔记/Peixuan分科笔记/外科]]（DM + PAD wet gangrene → amputation + revascularization 决策）
-> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 的 8 道之一（详见 [[mistakes/uworld-mistakes_2026-05#^Q3625]] TODO 优先 1）— **8 道已凑齐，强烈建议立即建衍生**
+> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] 的 8 道之一（详见 [[mistakes/uworld-mistakes_2026-05#^Q3625]] TODO 优先 1）— **8 道已凑齐，强烈建议立即建衍生**
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做（重点：第一眼锁"曾经 incapacitated 现在改善 = reassess capacity"反射）
@@ -18462,7 +18462,7 @@
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（B-ALL induction 失败 → consolidation / re-induction / HSCT 评估）
 >   - [[完整笔记/Peixuan分科笔记/psych]]（儿童 anticipatory grief / death anxiety / palliative care 沟通）
-> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 的 8 道之一
+> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] 的 8 道之一
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做（重点：儿童 raise concerns → 先 assess understanding，不 abrupt jump）
@@ -18554,7 +18554,7 @@
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/免疫疫苗]]（Tetanus prophylaxis after wound — TIG + Tdap 决策 based on wound type + vaccination history）
 >   - [[完整笔记/Peixuan分科笔记/感染]]（Clostridium tetani — spore germination in puncture wound + 神经毒素机制）
-> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 的 8 道之一
+> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] 的 8 道之一
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做（重点：第一眼锁"joint custody one parent consent 法律足够"反射）
@@ -18644,7 +18644,7 @@
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/感染]]（Perinatal HIV transmission → ART since infancy + viral suppression target undetectable + CD4 monitoring）
 >   - [[完整笔记/Peixuan分科笔记/psych]]（Pediatric chronic illness 心理影响 + adherence behavioral strategies）
-> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 的 8 道之一 — **8 道完成 + 框架全启动，强烈建议立即建衍生**
+> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] 的 8 道之一 — **8 道完成 + 框架全启动，强烈建议立即建衍生**
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做（重点：disclosure = collaborative + plan + timeline + joint participation，不是 passive / unilateral / only-risks）
@@ -18732,7 +18732,7 @@
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（Advanced Alzheimer dementia 自然病程 + end-of-life decision）
 >   - [[完整笔记/Peixuan分科笔记/感染]]（重症 sepsis + multi-organ failure 预后 + futility 评估）
 >   - [[完整笔记/Peixuan分科笔记/外科]]（Sacral pressure ulcer + nursing home patient care）
-> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 的第 9 道 — 衍生**必加** NEOT / Time-limited trial / Withdrawal 三 philosophies 对比章节 + surrogate decision 指南（substituted judgment + shared values，不是 simply advising 情绪）+ "framework reframe" 沟通技巧
+> - 🌱 TODO（待生成衍生）：本卡是触发 [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] 的第 9 道 — 衍生**必加** NEOT / Time-limited trial / Withdrawal 三 philosophies 对比章节 + surrogate decision 指南（substituted judgment + shared values，不是 simply advising 情绪）+ "framework reframe" 沟通技巧
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做（重点：第一眼锁 "family reluctant withdraw + prognosis poor + further escalation futile → propose NEOT"）
@@ -19224,7 +19224,7 @@
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（Acute ischemic stroke — tPA criteria / 4.5 hr window / contraindications）
 >   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（Metastatic cancer ≠ thrombolysis 禁忌；hospice 仍给 standard of care for treatable acute events）
-> - 📋 衍生：[[完整笔记/专题笔记/Ethics/Ethics_EOL_Hospice与决策]] §二 End-of-life Care（v1.4 新增 DNR 范围限定子节 + Advance Directive 完整 SOP；v2.0 拆分独立文件）/ [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §二 Capacity（v1.4 补 surrogate hierarchy POA/guardian 顶层）
+> - 📋 衍生：[[完整笔记/专题笔记/Ethics/Ethics_EOL_Hospice与决策]] §二 End-of-life Care（v1.4 新增 DNR 范围限定子节 + Advance Directive 完整 SOP；v2.0 拆分独立文件）/ [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §二 Capacity（v1.4 补 surrogate hierarchy POA/guardian 顶层）
 > - 🌱 TODO：累积 DNR / DNI / Comfort care / hospice 题家族 → 单独整合 [[完整笔记/专题笔记/_衍生_End_of_Life_完整SOP]]（覆盖 5 档 end-of-life care + advance directive + POA + 范围限定陷阱）
 >
 > ## ✅ 复盘行动
@@ -19342,7 +19342,7 @@
 >   - [[完整笔记/Peixuan分科笔记/OB]] — Placenta previa 4 类（complete / partial / marginal / low-lying — 仅 complete + persistent partial 需 CD）
 >   - [[完整笔记/Peixuan分科笔记/外科]] — Acute appendicitis directive counseling（surgery 唯一 safe option，保守治疗禁忌）
 >   - [[完整笔记/Peixuan分科笔记/感染]] — Sepsis 1 hr abx directive（不 wait culture）
-> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §十一 Directive Counseling（v1.4 新增）
+> - 📋 衍生：[[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §十一 Directive Counseling（v1.4 新增）
 > - 🌱 TODO：累积 3+ 道 directive counseling vs shared decision-making 题 → 整合 [[完整笔记/专题笔记/USMLE/USMLE_Directive_vs_Shared_Decision_Making]]（覆盖适用场景对比 + 5 大假尊重 anti-pattern）
 >
 > ## ✅ 复盘行动
@@ -19479,7 +19479,7 @@
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/pulmonary]] — USPSTF 2021 lung cancer screening 标准（50-80 + 20 pack-year + 戒烟 < 15 年 + LDCT 每年）
 >   - [[完整笔记/Peixuan分科笔记/Biostats_Master]] — Screening 原则（高 sensitivity / 早干预改 outcome / pre-test probability 足够高）+ overdiagnosis / incidental finding 的 harm
-> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §一 Autonomy（v1.4 增量补 DEMAND vs REFUSE 不对称子节）
+> - 📋 衍生：[[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §一 Autonomy（v1.4 增量补 DEMAND vs REFUSE 不对称子节）
 > - 🌱 TODO：累积 3+ 道 demand-side autonomy 题（如 antibiotic for viral URI / opioid for chronic pain / unnecessary imaging）→ 整合 [[完整笔记/专题笔记/USMLE/USMLE_Autonomy_Demand_Refuse]]（不对称完整 SOP + 拒绝 nonindicated 的 5 步沟通法）
 >
 > ## ✅ 复盘行动
@@ -19598,7 +19598,7 @@
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/psych]] — Opioid withdrawal 三联（腹痛 + 呕吐 + 腹泻 + 鼻涕 + lacrimation + 瞳孔散大 + piloerection + yawning）vs 食物中毒鉴别；SUD 沟通策略
 >   - [[完整笔记/Peixuan分科笔记/OB]] — Pregnancy + SUD（perinatal SUD screening + ART safe in pregnancy）
-> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §五.5 Collateral Information SOP（v1.4 新增）
+> - 📋 衍生：[[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §五.5 Collateral Information SOP（v1.4 新增）
 > - 🌱 TODO：累积 3+ 道 family-physician 沟通题 → 整合 [[完整笔记/专题笔记/USMLE/USMLE_Confidentiality_Bidirectional]]（physician→family vs family→physician 不对称 SOP）
 >
 > ## ✅ 复盘行动
@@ -19707,7 +19707,7 @@
 >   - [[完整笔记/Peixuan分科笔记/hematology oncology]] — Metastatic melanoma 预后（brain mets）+ palliative care
 >   - [[完整笔记/Peixuan分科笔记/psych]] — Anticipatory grief + terminal illness communication
 >   - [[完整笔记/Peixuan分科笔记/neuro]] — Brain mets 自然病程 + bed-bound 末期表现
-> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §13.1 Reframing Terminal Illness Goals（v1.4.3 新增）
+> - 📋 衍生：[[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §13.1 Reframing Terminal Illness Goals（v1.4.3 新增）
 > - 🌱 TODO：累积 terminal illness communication 题家族（hope/worry framework + 父母告知 children prognosis + DNR discussion 沟通技巧）→ 整合 [[完整笔记/专题笔记/USMLE/USMLE_Terminal_Communication]]
 >
 > ## ✅ 复盘行动
@@ -19829,7 +19829,7 @@
 >   - [[完整笔记/Peixuan分科笔记/psych]] — Somatic symptom disorder 鉴别 + trauma-informed care + PTSD risk
 >   - [[完整笔记/Peixuan分科笔记/OB]] — Pregnancy 期间 IPV ↑（high-risk period）+ postpartum IPV screening
 >   - [[完整笔记/Peixuan分科笔记/消化补充内容]] — Chronic abdominal pain 鉴别（functional / IBS / IPV-related）
-> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §13.2 IPV Screening（v1.4.3 新增）
+> - 📋 衍生：[[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §13.2 IPV Screening（v1.4.3 新增）
 > - 🌱 TODO：累积 IPV / elder abuse / child abuse / sexual abuse screening 题家族 → 整合 [[完整笔记/专题笔记/USMLE/USMLE_Abuse_Screening_SOP]]（screening signs + interview strategy + 强制报告 vs autonomy 边界 + mandatory reporters）
 >
 > ## ✅ 复盘行动
@@ -19940,7 +19940,7 @@
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/psych]] — Cultural formulation interview (CFI) + culturally bound syndromes
 >   - [[完整笔记/Peixuan分科笔记/Biostats_Master]] — Screening 完成率 disparities by minority / immigrant status + 高 value care principles
-> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §13.3 Cross-cultural Care（v1.4.3 新增）
+> - 📋 衍生：[[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §13.3 Cross-cultural Care（v1.4.3 新增）
 > - 🌱 TODO：累积 cross-cultural / language barrier / interpreter use 题家族 → 整合 [[完整笔记/专题笔记/USMLE/USMLE_Cross_Cultural_Care]]（含 interpreter services 规则 + 文化-specific perceptions + cultural humility framework）
 >
 > ## ✅ 复盘行动
@@ -20051,7 +20051,7 @@
 >   - [[完整笔记/Peixuan分科笔记/neuro]] — Carbamazepine focal seizure + therapeutic level + AED selection
 >   - [[完整笔记/Peixuan分科笔记/psych]] — Motivational interviewing technique + adolescent autonomy + behavioral change theory
 >   - [[完整笔记/Peixuan分科笔记/儿科]] — Adolescent adherence challenges + transition to adult care
-> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §13.4 Medication Adherence Interventions（v1.4.3 新增）
+> - 📋 衍生：[[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §13.4 Medication Adherence Interventions（v1.4.3 新增）
 > - 🌱 TODO：累积 3+ 道 adherence / chronic disease management 题 → 整合 [[完整笔记/专题笔记/USMLE/USMLE_Adherence_Behavioral_Change]]
 >
 > ## ✅ 复盘行动
@@ -20175,7 +20175,7 @@
 >   - [[完整笔记/Peixuan分科笔记/心内]] — HTN lifestyle modification（DASH + exercise + weight loss）+ preexercise CV testing 标准
 >   - [[完整笔记/Peixuan分科笔记/psych]] — Motivational interviewing 完整原则 + behavioral change theory（stages of change）
 >   - [[完整笔记/Peixuan分科笔记/Biostats_Master]] — USPSTF screening principles + overdiagnosis harm
-> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §13.5 SMART Goals + Motivational Interviewing（v1.4.3 新增）
+> - 📋 衍生：[[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §13.5 SMART Goals + Motivational Interviewing（v1.4.3 新增）
 > - 🌱 TODO：累积 3+ 道 lifestyle modification / behavioral change 题 → 整合 [[完整笔记/专题笔记/USMLE/USMLE_Behavioral_Change_SMART_MI]]（含 stages of change + relapse prevention + 详细 MI 技术）
 >
 > ## ✅ 复盘行动
@@ -20300,7 +20300,7 @@
 >   - [[完整笔记/Peixuan分科笔记/儿科]] — Child abuse 5 大类（physical / sexual / emotional / neglect / medical）+ 各自 stem 暗号 + reporting
 >   - [[完整笔记/Peixuan分科笔记/感染]] — Recurrent infection / immunodeficiency 鉴别（与 unexplainable illness 区分）
 >   - [[完整笔记/Peixuan分科笔记/neuro]] — TCA toxidrome（QRS 延长 + 散瞳 + 心律 + 抗胆碱）+ NaHCO3 治疗 + Pediatric seizure 鉴别
-> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §12.7 Suspected Child Abuse Communication（v1.4.4 新增）
+> - 📋 衍生：[[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §12.7 Suspected Child Abuse Communication（v1.4.4 新增）
 > - 🌱 TODO：累积 child abuse / elder abuse / IPV / sexual abuse 题家族 → 整合 [[完整笔记/专题笔记/USMLE/USMLE_Abuse_Reporting_SOP]]（含 5 类 abuse + mandatory reporter 完整名单 + reasonable suspicion 触发标准）
 >
 > ## ✅ 复盘行动
@@ -20433,7 +20433,7 @@
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/psych]] — Borderline personality features + manipulation pattern + therapeutic relationship boundary
 >   - [[完整笔记/Peixuan分科笔记/Ethics_Master]] — Therapeutic relationship + professional conduct + 与 sexual misconduct boundary 区分
-> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §12.8 Boundary Setting with Demanding Patients（v1.4.4 新增）
+> - 📋 衍生：[[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §12.8 Boundary Setting with Demanding Patients（v1.4.4 新增）
 > - 🌱 TODO：累积 boundary crossing / professional conduct / dual relationship 题家族 → 整合 [[完整笔记/专题笔记/USMLE/USMLE_Professional_Boundaries]]（含 gifts / 社交媒体 / dual relationship / sexual misconduct / demanding patient SOP）
 >
 > ## ✅ 复盘行动
@@ -20579,7 +20579,7 @@
 >   - [[完整笔记/Peixuan分科笔记/骨科]] — Knee OA 管理（exercise / weight loss / NSAIDs / IA steroid / TKA criteria）
 >   - [[完整笔记/Peixuan分科笔记/Biostats_Master]] — Patient-reported outcomes (PROs) + high-value care principles
 >   - [[完整笔记/Peixuan分科笔记/psych]] — Identity-defining activities + meaning in chronic illness
-> - 📋 衍生：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §12.6 Patient-Centered Care (PCC)（v1.4.4 新增）
+> - 📋 衍生：[[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §12.6 Patient-Centered Care (PCC)（v1.4.4 新增）
 > - 🌱 TODO：累积 PCC / shared decision-making / decision aids 题家族 → 整合 [[完整笔记/专题笔记/USMLE/USMLE_Patient_Centered_Care]]（含 decision aids 使用 + 共同决策 vs 信息呈现 vs 单方推荐边界）
 >
 > ## ✅ 复盘行动
@@ -20644,7 +20644,7 @@
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-05#^Q21972]] CAM supplement brand recommendation（2026-05-25 同日；都是 patient feels alienated → physician 用 standard / universal 方式 respond 不 dismissive）
 >   - [[mistakes/uworld-mistakes_2026-05#^Q105595]] 青少年 conditional confidentiality（standard / transparent framework > unconditional promise — 同样是 reframe alleviates concern）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/专题笔记/_衍生_Ethics精简框架]]
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/专题笔记/Ethics/Ethics_精简框架]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/psych]]（Opioid Use Disorder + chronic pain management + addiction risk stratification）
 >   - [[完整笔记/Peixuan分科笔记/外科]]（chronic post-surgical pain management）
@@ -20791,7 +20791,7 @@
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-05#^Q21242]] Cross-cultural counseling individual encounter（identify perceptions first，不是 materials / scientific）— 本题是 organizational level, 那题是 individual encounter；两题构成 cross-cultural care 完整框架
-> - 📚 主笔记：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §12.3 Cross-cultural Care
+> - 📚 主笔记：[[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §12.3 Cross-cultural Care
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/psych]]（Cultural formulation interview / DSM-5 cultural concepts of distress）
 >   - 健康政策 / 公共卫生（provider training as health disparity intervention）
@@ -20885,7 +20885,7 @@
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-05#^Q105781]] Pain contract universal procedure（2026-05-25 同日；都是 patient feels alienated → physician 不要 dismissive/redirect）
-> - 📚 主笔记：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §12.14 Nonstandard Harmful Therapy（与本题构成 CAM 双面）
+> - 📚 主笔记：[[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §12.14 Nonstandard Harmful Therapy（与本题构成 CAM 双面）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/骨科]]（Knee OA 管理 — exercise + weight loss + NSAID first-line）
 >   - 药理 / 监管（FDA 监管 vs Dietary Supplement Health and Education Act DSHEA 1994 — supplements 不需 pre-market approval）
@@ -20957,7 +20957,7 @@
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-05#^Q21627]] NEOT — substituted judgment + shared values（与本题完全同主题 substituted judgment；那题做对但 🟡 不确定，本题首次错；substituted judgment 知识有 cumulative weakness signal — 建议下次同主题再错升 🔴）
 >   - [[mistakes/uworld-mistakes_2026-05#^Q107705]] DNR ≠ Do Not Treat（surrogate hierarchy + substituted judgment）
-> - 📚 主笔记：[[完整笔记/专题笔记/Ethics/Ethics_EOL_Hospice与决策]] §二 End-of-Life §2.5（substituted judgment 指南；v2.0 拆分独立文件）+ [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §二 Surrogate hierarchy
+> - 📚 主笔记：[[完整笔记/专题笔记/Ethics/Ethics_EOL_Hospice与决策]] §二 End-of-Life §2.5（substituted judgment 指南；v2.0 拆分独立文件）+ [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §二 Surrogate hierarchy
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（Withdrawing dialysis — multi-organ failure / ethical considerations）
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（Advanced dementia — capacity considerations + end-of-life）
@@ -21030,7 +21030,7 @@
 >   - [[mistakes/uworld-mistakes_2026-05#^Q3614]] HIPAA verbal consent + minimum necessary（PHI disclosure 类）
 >   - [[mistakes/uworld-mistakes_2026-05#^Q105595]] 青少年 conditional confidentiality（类似 conditional disclosure + alternate）
 >   - [[mistakes/uworld-mistakes_2026-05#^Q3742]] Collateral information（PHI receive vs share 方向）
-> - 📚 主笔记：[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §二 Surrogate hierarchy + §五 HIPAA
+> - 📚 主笔记：[[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §二 Surrogate hierarchy + §五 HIPAA
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/感染]]（PCP + HIV — initial workup + ART initiation + opportunistic infection prophylaxis + CD4 < 200 → TMP-SMX）
 >   - [[完整笔记/Peixuan分科笔记/Ethics_Master]]（PHI / surrogate hierarchy 经典内容）

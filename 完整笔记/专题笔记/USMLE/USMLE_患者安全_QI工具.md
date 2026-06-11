@@ -643,7 +643,7 @@ AMBOSS 给出的 **Systems Approach 4 Components**（与 §12.3 上面的 HRO 5 
 
 > [!tip] CK 高频 stem
 > 病人 demand 抗生素 for viral URI / acute bronchitis → **patient education + antibiotic stewardship**（不 prescribe / 不开 placebo / 不顺从 demand）
-> 参考 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §12.13 Antibiotic Stewardship Counseling 子节（reframe as "chest cold" / delayed Rx）
+> 参考 [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §12.13 Antibiotic Stewardship Counseling 子节（reframe as "chest cold" / delayed Rx）
 
 ### 12.5 Benefit-Cost Analysis (BCA)
 

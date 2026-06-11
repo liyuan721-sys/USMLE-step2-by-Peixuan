@@ -63,7 +63,7 @@ version: v1.1
 ---
 
 > [!info] 文件起源
-> 从 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §十二 拆出（2026-05-25 拆分，方案 2）。原文超大（4362 行），按主题分文件后单文件 ≈ 1400 行。
+> 从 [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §十二 拆出（2026-05-25 拆分，方案 2）。原文超大（4362 行），按主题分文件后单文件 ≈ 1400 行。
 > 主题专注：19 个 Patient Communication & Counseling Framework 全集 + 横向对比表 + 元规律。
 >
 > ### v1.1（2026-05-25）— AMBOSS Patient Communication 章节整合
@@ -86,7 +86,7 @@ version: v1.1
 > - **§12.9 横向对比升级 17 → 32 framework**
 > - **§12.10 元规律升级 17 → 32 framework + 第 1 步 "Understand Patient" 范式扩展**
 >
-> **引用约定**：本文件中 "§九" / "§二" / "§十三" 等数字编号节，未注明文件路径的，均指 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] 中对应章节。本文件内子节用 "§X.X" 编号（§12.1 - §12.19）保持与原文一致便于查找。
+> **引用约定**：本文件中 "§九" / "§二" / "§十三" 等数字编号节，未注明文件路径的，均指 [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] 中对应章节。本文件内子节用 "§X.X" 编号（§12.1 - §12.19）保持与原文一致便于查找。
 
 > [!tip] 适用场景速查（19 子节）
 > - Terminal illness unattainable goal → §12.1 Wish-Worry framework
@@ -148,7 +148,7 @@ version: v1.1
 >
 > "Respect patient autonomy by doing nothing" 不是 ethical action — 是失职。
 >
-> Communication framework 永远要求 physician **active engagement**：normalize / reframe / suggest alternate / set SMART goal / offer support。被动是 abandonment（[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §十三 trap #2）。
+> Communication framework 永远要求 physician **active engagement**：normalize / reframe / suggest alternate / set SMART goal / offer support。被动是 abandonment（[[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §十三 trap #2）。
 >
 > ### Feature 4：避免 "burden 推给 family"
 >
@@ -676,7 +676,7 @@ Patient 表现 boundary crossing
 
 #### Boundary vs Emergency Exception 区分（USMLE 易混）
 
-| 维度 | Boundary Crossing | Emergency Exception（[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §11.4）|
+| 维度 | Boundary Crossing | Emergency Exception（[[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §11.4）|
 |---|---|---|
 | 患者 condition | Nonemergent（chronic / 已 Tx）| Life-threatening + 紧迫 |
 | Decision | **不**评估 + 安排正常预约 | **必**评估 + 不需 consent |
@@ -1049,7 +1049,7 @@ Patient 决定使用 nonstandard harmful therapy
     └─ ✅ 坚持使用
            │
            ▼
-        ③ Respect autonomy（[[完整笔记/专题笔记/_衍生_Ethics精简框架]] §一 — adult + capacity ✓ + informed）
+        ③ Respect autonomy（[[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §一 — adult + capacity ✓ + informed）
            Understand + acknowledge motivation（减肥 / 改善某症状 / 文化信仰）
            │
            ▼
@@ -1094,7 +1094,7 @@ Patient 决定使用 nonstandard harmful therapy
 
 > [!warning] §九 vs §12.14 不要混
 >
-> | 维度 | [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §九 Directive Counseling | §12.14 Nonstandard Harmful Therapy |
+> | 维度 | [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §九 Directive Counseling | §12.14 Nonstandard Harmful Therapy |
 > |---|---|---|
 > | **场景** | 只有 **1 safe option**（如 complete previa → C-section）| Patient 选 nonstandard harmful + 有 standard alternative |
 > | **Physician role** | 明确推荐 + active guide | Explain risks + respect choice + frequent f/u |
@@ -2160,7 +2160,7 @@ Stage identification（§12.23）
 - 与 caregiver 一起 plan care
 - Refer to social work / case manager 为 long-term planning
 
-> [!tip] 与 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §二 Capacity 联动
+> [!tip] 与 [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §二 Capacity 联动
 > Memory loss / cognitive impairment 时 — **先 facilitate understanding before judging capacity**（§二 v1.4.1 新增）。Communication 技巧（concrete language / quiet space）就是这一步骤的工具。
 
 ---
@@ -2340,7 +2340,7 @@ Stage identification（§12.23）
 > 4. **Fear-based / dramatic intervention** 误当 effective — show seizure video / smoking 强化 fear / "miracle" false hope
 > 5. **Challenging patient reality prematurely** — psychotic beliefs / cultural beliefs / firmly-held views 早期 challenge → 损 alliance（§12.11 / §12.3 共享）⭐ v1.4.5
 > 6. **Confronting / threatening with consequences** — restraint / security / medication 作威胁 → escalate（§12.12 / §12.8 共享）⭐ v1.4.5
-> 7. **Abandoning patient when choices disagree with medical advice** — refuse care / require waiver / conditional 治疗（§12.14 共享，反 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §三 AMA 三步法）⭐ v1.4.5
+> 7. **Abandoning patient when choices disagree with medical advice** — refuse care / require waiver / conditional 治疗（§12.14 共享，反 [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §三 AMA 三步法）⭐ v1.4.5
 > 8. **Ignoring impaired judgment context** — 把 mood episode / acute psychosis / intoxication 患者的"选择"当成 informed autonomy（§12.15 共享）⭐ v1.4.5
 
 > [!info] 深度理解（v1.4.5 更新）— "First Step Understand" 元规律的 3 层结构
@@ -2350,7 +2350,7 @@ Stage identification（§12.23）
 > **第 1 层 — 评估 patient 的 cognitive state（能不能做决定？）**
 > - §12.11 acutely psychotic：先识别是否有 insight
 > - §12.15 gift acceptance：先识别 mood episode 是否影响 judgment
-> - [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §二 capacity：4 要素评估
+> - [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §二 capacity：4 要素评估
 > → 没 capacity / impaired judgment → 不能套用一般 framework
 >
 > **第 2 层 — 评估 patient 的 subjective experience（怎么看这件事？）**
@@ -2373,13 +2373,13 @@ Stage identification（§12.23）
 
 ## 🔗 关联（全文件）
 
-- 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/专题笔记/_衍生_Ethics精简框架]]（核心 ethics 框架）
+- 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/专题笔记/Ethics/Ethics_精简框架]]（核心 ethics 框架）
 - 🔁 跨节联动：
   - §12.1 Wish-Worry ↔ [[完整笔记/专题笔记/Ethics/Ethics_EOL_Hospice与决策]] §二 EOL care
-  - §12.7 Child Abuse ↔ [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §五 HIPAA mandatory reporting
-  - §12.8 Boundary ↔ [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §11.4 Emergency Exception
-  - §12.11 Acutely Psychotic ↔ [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §二 Capacity
-  - §12.14 vs Directive ↔ [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §九 Directive Counseling
+  - §12.7 Child Abuse ↔ [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §五 HIPAA mandatory reporting
+  - §12.8 Boundary ↔ [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §11.4 Emergency Exception
+  - §12.11 Acutely Psychotic ↔ [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §二 Capacity
+  - §12.14 vs Directive ↔ [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §九 Directive Counseling
   - §12.15 Gift vs COI ↔ [[完整笔记/专题笔记/Ethics/Ethics_Research_Ethics]] §1.1 COI in Research
 - 🏥 跨学科：
   - [[完整笔记/Peixuan分科笔记/psych]]（MI 完整原则 + behavioral change theory + 情感反应处理 + Borderline personality boundary issues + Factitious Disorder Imposed on Another）

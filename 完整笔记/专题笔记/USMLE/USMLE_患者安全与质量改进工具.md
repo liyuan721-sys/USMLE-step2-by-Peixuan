@@ -251,7 +251,7 @@ type: 专题笔记-索引
 - 🏥 跨学科：
   - [[完整笔记/Peixuan分科笔记/外科]]（surgical time-out / wrong-site surgery / RSO）
   - [[完整笔记/Peixuan分科笔记/感染]]（hand hygiene / 感染控制 bundle）
-  - [[完整笔记/专题笔记/_衍生_Ethics精简框架]]（disclosure / capacity / end-of-life 详细版）
+  - [[完整笔记/专题笔记/Ethics/Ethics_精简框架]]（disclosure / capacity / end-of-life 详细版）
 - 🌱 TODO（未来扩展）：
   - 攒 ≥ 3 道 communication 题后 → 整合 SBAR / I-PASS / closed-loop 子页
   - 攒 ≥ 5 道 hospice / palliative 题后 → 单独建 [[完整笔记/专题笔记/Ethics/Ethics_Hospice与EOL速查]]

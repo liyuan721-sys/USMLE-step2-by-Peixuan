@@ -1240,7 +1240,7 @@ Time-out = 起飞前最后 read-back
 **Follow-up**：debriefing with peers + 找 support system + reflection
 
 > [!tip] 引用
-> 详细 verbal de-escalation 见 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §12.12 Agitated ED Verbal De-escalation
+> 详细 verbal de-escalation 见 [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §12.12 Agitated ED Verbal De-escalation
 
 #### 13.14.2 Leaving Against Medical Advice (DAMA / AMA) — 5 Key Components ⭐⭐
 
@@ -1248,7 +1248,7 @@ Time-out = 起飞前最后 read-back
 
 | 步 | 内容 | 关键 |
 |---|---|---|
-| 1 | **Assess decision-making capacity** ⭐ | Capacity 4 要素（Communicate / Understand / Appreciate / Reason）— 详见 [[完整笔记/专题笔记/_衍生_Ethics精简框架]] §二 Capacity |
+| 1 | **Assess decision-making capacity** ⭐ | Capacity 4 要素（Communicate / Understand / Appreciate / Reason）— 详见 [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §二 Capacity |
 | 2 | **Severity assessment** of medical condition | 离开会发生什么 risk |
 | 3 | **Identify reasons** for early departure | 经济 / 家庭 / 不信任 / 误解 — 多数 可解决 |
 | 4 | **Discuss alternatives** + follow-up | Outpatient / partial / 家庭支援 / 重新入院 |
