@@ -195,7 +195,7 @@ type: 专题笔记
 | 长 PR（单一）| 1 度 AV block：迷走、训练有素、药物（BB/CCB/digoxin）、缺血、电解质 |
 | Wenckebach（PR 渐长后脱落）| Mobitz I — 良性 |
 | PR 固定突然脱落 | Mobitz II — 需起搏器 |
-| 宽 QRS（无 BBB）| TCA / 高钾 / 钠通道阻断剂 |
+| 宽 QRS（无 BBB）| TCA / 高钾 / 钠通道阻断剂 → 鉴别+解毒见 [[完整笔记/专题笔记/心内/心内_宽QRS鉴别与解毒]] |
 | Sine wave | 重度高钾 |
 | J / Osborn 波 | 低温 / 重度高钙 / SAH / Brugada |
 
