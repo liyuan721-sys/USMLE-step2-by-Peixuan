@@ -57,6 +57,8 @@ type: 专题笔记
 ## 🔗 关联
 
 - 🔁 同主题错题：
+  - [[mistakes/uworld-mistakes_2026-06#^Q17900]] 有机磷/神经毒剂（**胆碱能 DUMBELS** 标杆 → RBC AChE）
+  - [[mistakes/uworld-mistakes_2026-06#^Q4035]] TCA 过量（**抗胆碱** + 钠通道宽 QRS → 碳酸氢钠）
   - [[mistakes/uworld-mistakes_2026-06#^Q3856]] 腐蚀剂误服（口咽溃疡 + 流涎 + 意识清）
   - [[mistakes/uworld-mistakes_2026-06#^Q3827]] 铁中毒（呕血 + 高 AG 代酸 + radiopaque）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/GI]]（腐蚀剂食管损伤）/ [[完整笔记/Peixuan分科笔记/外科]]
