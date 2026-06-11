@@ -13917,7 +13917,7 @@
 > 状态:: 🟡
 > 错因:: 知识
 > 反复错记录:: 2026-05-21 首次入库 🟡（诊断角度 — mood reactivity / 五联诊断要件）/ 2026-05-23 浩斯宾 Q15 第 2 次相关错（治疗阶梯角度：选 lithium augmentation，正解 phenelzine MAOI）/ 2026-05-24 浩斯宾 Q24 第 3 次（仍选 lithium augmentation，5-23 警告未消化）
-> 升档触发:: 诊断角度 + 治疗阶梯角度连续暴露（2 次同治疗题错）→ 🟡 升 🔴 → 用户手动加「难记」+「考前必看」+ 已触发衍生 [[完整笔记/专题笔记/psych/_衍生_MDD_treatment_resistant_阶梯]]
+> 升档触发:: 诊断角度 + 治疗阶梯角度连续暴露（2 次同治疗题错）→ 🟡 升 🔴 → 用户手动加「难记」+「考前必看」+ 已触发衍生 [[完整笔记/专题笔记/psych/psych_MDD_treatment_resistant_阶梯]]
 > 元教训:: 5-23 判分要求"默写阶梯"未完成 → 5-24 同题再错 = 被动扫 §一 不等于主动掌握，反复错 2+ 次必须当场默写
 > 降档记录:: **2026-05-26 降 🟡** — 5-25 浩斯宾 Q22 + 5-26 浩斯宾 Q21 连续 2 次答对 phenelzine（atypical MDD MAOI 反射建立）→ 🔴 降 🟡 + 取消 #考前必看 强制；保留 #难记 巩固
 >
@@ -14989,7 +14989,7 @@
 >   - [[mistakes/uworld-mistakes_2026-05#^Q4885]] Olanzapine vs Clozapine 代谢监测（抗精神病药副作用谱）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/neuro]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（propranolol 作 β-blocker，注意哮喘等禁忌）
-> - 🌱 TODO（待生成衍生）：psych 章节复习完，请 Claude Code 整合 **四大 EPS 诊断+治疗类错题**（Q2505 dystonia / Q11898 akathisia / +未来 parkinsonism、TD）→ 生成 [[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]]（起病时间轴 + 治疗药物映射），与 [[完整笔记/专题笔记/_衍生_抗精神病药副作用对照]] 互补
+> - 🌱 TODO（待生成衍生）：psych 章节复习完，请 Claude Code 整合 **四大 EPS 诊断+治疗类错题**（Q2505 dystonia / Q11898 akathisia / +未来 parkinsonism、TD）→ 生成 [[完整笔记/专题笔记/psych/psych_四大EPS诊断治疗对照]]（起病时间轴 + 治疗药物映射），与 [[完整笔记/专题笔记/_衍生_抗精神病药副作用对照]] 互补
 >
 > **9. ✅ 复盘行动**
 > - [ ] 1 周后重做 Q11898
@@ -15653,7 +15653,7 @@
 >   - [[mistakes/uworld-mistakes_2026-05#^Q2505]] 急性肌张力障碍（同四大 EPS — 抗胆碱能治 dystonia 但对 TD 无效/加重，关键对比）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/neuro]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/消化补充内容]]（metoclopramide 作止吐药也致 TD）
-> - 🌱 TODO（待生成衍生）：等 psych 复习完，请 Claude Code 整合四大 EPS 错题（Q2505 dystonia / Q11898 akathisia / Q16066 + Q2518 TD / 待补 parkinsonism）→ 生成 [[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]]（起病时间轴 + 治疗药映射）
+> - 🌱 TODO（待生成衍生）：等 psych 复习完，请 Claude Code 整合四大 EPS 错题（Q2505 dystonia / Q11898 akathisia / Q16066 + Q2518 TD / 待补 parkinsonism）→ 生成 [[完整笔记/专题笔记/psych/psych_四大EPS诊断治疗对照]]（起病时间轴 + 治疗药映射）
 >
 > ## ✅ 复盘行动
 > - [ ] 默写四大 EPS 速查（起病时间 + 治疗）
@@ -15720,8 +15720,8 @@
 >   - [[mistakes/uworld-mistakes_2026-05#^Q11898]] Akathisia（四大 EPS — propranolol 是 akathisia 的不是 DIP 的）
 >   - [[mistakes/uworld-mistakes_2026-05#^Q2518]] Tardive Dyskinesia 处理（四大 EPS — 抗胆碱对 TD 无效 / 加重，与 DIP 相反）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/neuro]]
-> - 🏥 跨学科：[[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]] §4.3（四大 EPS 体系完整版，本卡是 §4.3 锚点）
-> - 🌱 TODO：已并入 [[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]] §4.3
+> - 🏥 跨学科：[[完整笔记/专题笔记/psych/psych_四大EPS诊断治疗对照]] §4.3（四大 EPS 体系完整版，本卡是 §4.3 锚点）
+> - 🌱 TODO：已并入 [[完整笔记/专题笔记/psych/psych_四大EPS诊断治疗对照]] §4.3
 >
 > ## ✅ 复盘行动
 > - [ ] 默写 DIP 阶梯（减药 → 换 quetiapine/clozapine → amantadine / benztropine；**levodopa 禁**）
@@ -15790,8 +15790,8 @@
 >   - [[mistakes/uworld-mistakes_2026-05#^Q2518]] Tardive Dyskinesia 处理（四大 EPS）
 >   - [[mistakes/uworld-mistakes_2026-05#^Q16066]] TD & EPS 四兄弟鉴别
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/Peixuan分科笔记/psych]]
-> - 🏥 跨学科：[[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]] §4.3（四大 EPS 体系完整版）
-> - 🌱 TODO：已并入 [[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]] §4.3；后续积累 Parkinson-plus（PSP / MSA / CBD / DLB）题 → 单独建衍生
+> - 🏥 跨学科：[[完整笔记/专题笔记/psych/psych_四大EPS诊断治疗对照]] §4.3（四大 EPS 体系完整版）
+> - 🌱 TODO：已并入 [[完整笔记/专题笔记/psych/psych_四大EPS诊断治疗对照]] §4.3；后续积累 Parkinson-plus（PSP / MSA / CBD / DLB）题 → 单独建衍生
 >
 > ## ✅ 复盘行动
 > - [ ] 默写 §3 IPD vs DIP 三轴鉴别表（对称 / 病程 / 药史 + 6 维度）
@@ -16986,7 +16986,7 @@
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🌱 TODO（待生成衍生）：
 >   - 等 MDD/抑郁治疗题积累到 3-4 道 → 整合 → 生成 [[完整笔记/专题笔记/psych/_衍生_MDD治疗决策树]]（普通 vs 精神病性 vs 难治性分流 + 联合方案对号入座 + ECT 适应症 + 「急不急≠治不治妄想」纠正）
->   - 今日 psych 治疗四连（Q14348 ADHD / Q16490 BED / Q8923 OCD / Q15088 MDD-psychotic）已可触发 → 生成 [[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP]]（统一陷阱：先定准诊断/亚型→再选治疗，别凭「大方向感觉」选）
+>   - 今日 psych 治疗四连（Q14348 ADHD / Q16490 BED / Q8923 OCD / Q15088 MDD-psychotic）已可触发 → 生成 [[完整笔记/专题笔记/psych/psych_精神障碍选对治疗SOP]]（统一陷阱：先定准诊断/亚型→再选治疗，别凭「大方向感觉」选）
 >
 > ## ✅ 复盘行动
 > - [ ] **3 天内**重做 Q15088（不是 1 周后 — 反复错要短间隔）
@@ -17176,7 +17176,7 @@
 >   - [[mistakes/uworld-mistakes_2026-05#^Q16309]] Paranoid PD ✅做对（Cluster A，本题 Cluster B；同为 PD 诊断对比）
 >   - [[mistakes/uworld-mistakes_2026-05#^Q4816]] PDD vs 人格障碍鉴别（"先找僵化行为模式，找不到只有情绪 → 回情绪障碍"；本题反过来：有 PD 模式 → 不能只看 mood）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（BPD 章节 ~ 行 2015-2031）
-> - 📋 治疗 SOP：[[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP#3.5 心理治疗对号入座]]（DBT-BPD 行）+ 新增 §3.6 BPD 治疗层级（adjunct vs 一线）
+> - 📋 治疗 SOP：[[完整笔记/专题笔记/psych/psych_精神障碍选对治疗SOP#3.5 心理治疗对号入座]]（DBT-BPD 行）+ 新增 §3.6 BPD 治疗层级（adjunct vs 一线）
 > - 🏥 跨学科：暂无明显跨学科（BPD 是纯精神科）；潜在关联 — [[完整笔记/Peixuan分科笔记/psych]] 自杀风险评估（BPD 长期自杀风险管理）
 > - 🌱 TODO（待生成衍生）：人格障碍错题已积累 3 道（Q16309 PPD + Q4816 PDD-PD 鉴别 + Q15071 BPD）→ 再积累 2+ 道 → 生成 [[完整笔记/专题笔记/psych/psych_人格障碍鉴别速查]]（Cluster A/B/C 全表 + 高频混淆：BPD vs Histrionic / BPD vs Bipolar / OCPD vs OCD / Schizoid vs Avoidant 等）
 >
@@ -17272,7 +17272,7 @@
 >   - [[mistakes/uworld-mistakes_2026-05#^Q16153]] GAD vs Social Anxiety 儿童（2026-05-23；"一条社交担忧 ≠ SAD，先数靶点数"）
 >   - [[mistakes/uworld-mistakes_2026-05#^Q21090]] 围产期 GAD（2026-05-19；"生活事件外壳 ≠ 单一议题"）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（GAD in children 已有"#薄弱点"标记，行 2152）
-> - 📋 治疗 SOP：[[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP#3.2 焦虑谱系（先数靶点 → 再分配药）]]（GAD 一线 SSRI/SNRI/CBT；Buspirone 二线；已新增 §五反向钩 — Tetrabenazine = 焦虑题钓饵）
+> - 📋 治疗 SOP：[[完整笔记/专题笔记/psych/psych_精神障碍选对治疗SOP#3.2 焦虑谱系（先数靶点 → 再分配药）]]（GAD 一线 SSRI/SNRI/CBT；Buspirone 二线；已新增 §五反向钩 — Tetrabenazine = 焦虑题钓饵）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/儿科]]（儿童 GAD vs ADHD 鉴别 — 起病 < 12 岁 + 多场所是 ADHD 硬门槛）
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（Tetrabenazine 真适应症：Huntington's chorea / Tourette / Tardive dyskinesia 的 VMAT2 抑制机制）
@@ -17368,7 +17368,7 @@
 > - 🔁 同主题错题：（**首道 defense mechanism 题** — 待积累）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（Defense Mechanisms 章节 行 1656；**缺 intellectualization / rationalization 定义，是空白点**）
 > - 🏥 跨学科：暂无（defense mechanism 是纯精神科 / 心理学概念）
-> - 📋 衍生速查：[[完整笔记/专题笔记/psych/_衍生_防御机制鉴别速查]]（v1 精简版 2026-05-23 已建 — 触发题为本题；含 10 不成熟 + 4 成熟机制 + 6 组高频混淆对照 + 17 条 USMLE 反射钩）
+> - 📋 衍生速查：[[完整笔记/专题笔记/psych/psych_防御机制鉴别速查]]（v1 精简版 2026-05-23 已建 — 触发题为本题；含 10 不成熟 + 4 成熟机制 + 6 组高频混淆对照 + 17 条 USMLE 反射钩）
 > - 🌱 TODO（待扩展）：积累 3+ 道 defense mechanism 错题后 → 扩衍生 v2（加"假性机制题"诱饵分析）；BPD splitting / NPD projection 类题 → 入 psych_人格障碍鉴别速查（计划中）
 >
 > ## ✅ 复盘行动
@@ -17493,8 +17493,8 @@
 > - 📋 草稿（已全覆盖本题）：[[草稿/2026-05-22_PD用药全解_主笔记草稿_v4]]（v4 第 94-103 行 Pimavanserin 段 + 第 145 行 Quetiapine 段 + 第 308 行高频陷阱表 + 第 323-324 行 Memory Hook "PD 看见鬼，先减药别加药" — **本题增量为零**，草稿已覆盖第 5 步 quetiapine first choice + D2 安全谱 + Amantadine/Pramipexole 多巴胺能陷阱）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/psych]]（抗精神病药 D2 拮抗强度谱 / EPS 风险 / 1 代 vs 2 代 vs 3 代 — 与 [[mistakes/uworld-mistakes_2026-05#^Q2518]] TD 题、[[mistakes/uworld-mistakes_2026-05#^Q20930]] tetrabenazine 题同源）
->   - [[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]]（PD psychosis 不是 EPS，但同 D2 通路；EPS 是抗精神病药→D2 阻断→运动障碍，PD psychosis 是 PD 药→DA 过多→精神症状，**镜像同源**）
->   - [[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP]]（PD psychosis 是"治疗副产物精神症状"特殊场景，与"原发性精神病选药 SOP"互为对照 — 一个躲 D2 走，一个走 D2 用）
+>   - [[完整笔记/专题笔记/psych/psych_四大EPS诊断治疗对照]]（PD psychosis 不是 EPS，但同 D2 通路；EPS 是抗精神病药→D2 阻断→运动障碍，PD psychosis 是 PD 药→DA 过多→精神症状，**镜像同源**）
+>   - [[完整笔记/专题笔记/psych/psych_精神障碍选对治疗SOP]]（PD psychosis 是"治疗副产物精神症状"特殊场景，与"原发性精神病选药 SOP"互为对照 — 一个躲 D2 走，一个走 D2 用）
 > - 🌱 TODO（待生成衍生）：神经科 + 精神科复习完 → 整合 [[完整笔记/专题笔记/神经/_衍生_多巴胺受体药物双刃剑]]（草稿 v4 整合 + Q16164 + Q12152 + DIP + TD + tetrabenazine 全收纳，按"多巴胺过多 vs 多巴胺不足"两端组织）
 >
 > ## ✅ 复盘行动
@@ -17763,7 +17763,7 @@
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/儿科]]（Tourette 起病 < 18 岁 + 共病模式）/ [[完整笔记/Peixuan分科笔记/neuro]]（基底节 DA 通路 + 运动障碍鉴别）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（基底节 DA 通路 + chorea/myoclonus/dystonia/tic 鉴别 — 见本卡 §三 体征鉴别表）
->   - [[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]]（抗胆碱治 EPS / VMAT2 治 TD 对照 — 与本题"tic 治疗方向三角"互证）
+>   - [[完整笔记/专题笔记/psych/psych_四大EPS诊断治疗对照]]（抗胆碱治 EPS / VMAT2 治 TD 对照 — 与本题"tic 治疗方向三角"互证）
 >   - [[完整笔记/Peixuan分科笔记/心内]]（Pimozide QT 延长监测 — D2 拮抗药心血管副作用）
 > - 🌱 TODO（待生成衍生）：
 >   - **优先 1**：等积累 3+ 道"治疗阶梯升级"类错题（**已有 Q3375 Tourette / Q2357 双相 / Q12152 PD psychosis 共 3 道**） → 可触发生成 [[完整笔记/专题笔记/_衍生_治疗阶梯升级SOP]]（Tourette / 双相 / 哮喘 step-up / HTN / MDD / PD psychosis 统一框架："用了一段仍恶化 → 找下一阶梯"+ 各疾病阶梯图）
@@ -17979,7 +17979,7 @@
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（tic 基底节多巴胺通路 vs OCD 皮层-纹状体-丘脑-皮层 CSTC 环路 — 两种神经回路决定治疗方向）
 > - 🌱 TODO（待生成衍生）：
->   - **优先 1**：等 psych 复习完整合"Tourette 全套"（Q3375 升级 + Q19552 诊断鉴别）→ 生成 [[完整笔记/专题笔记/psych/_衍生_Tourette诊断与治疗]]（含 tic / OCD / ADHD 三鉴别表 + echolalia/coprolalia 发声 tic + 升级阶梯 HRT → α2 → 抗 DA + 共病管理 + 干扰项陷阱）
+>   - **优先 1**：等 psych 复习完整合"Tourette 全套"（Q3375 升级 + Q19552 诊断鉴别）→ 生成 [[完整笔记/专题笔记/psych/psych_Tourette诊断与治疗]]（含 tic / OCD / ADHD 三鉴别表 + echolalia/coprolalia 发声 tic + 升级阶梯 HRT → α2 → 抗 DA + 共病管理 + 干扰项陷阱）
 >   - **优先 2**：积累 3+ 道"家族史 / 共病烟雾弹带偏主诊断"类错题 → 并入 [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]] 新增章节"家族史 ≠ 患者诊断 / 共病 ≠ 主诊断"
 >
 > ## ✅ 复盘行动
@@ -18924,7 +18924,7 @@
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/neuro]]
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/消化补充内容]]（metoclopramide / prochlorperazine 长期止吐药也致 DIP / TD）
-> - 📋 衍生：[[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]] §4.3 DIP 段已扩展覆盖；[[草稿/2026-05-23_多巴胺方向药物三角_v1]] §一 ②③④ 四类 DA 通路问题对应治疗
+> - 📋 衍生：[[完整笔记/专题笔记/psych/psych_四大EPS诊断治疗对照]] §4.3 DIP 段已扩展覆盖；[[草稿/2026-05-23_多巴胺方向药物三角_v1]] §一 ②③④ 四类 DA 通路问题对应治疗
 > - 🌱 TODO：本题已纳入既有衍生 §4.3，无新衍生需求；后续若再积累 DIP 题（特别是 metoclopramide 长期致 DIP）→ 增量更新衍生
 >
 > ## ✅ 复盘行动
@@ -21207,7 +21207,7 @@
 > 没把 clonidine 与 guanfacine 识别为同类 — 反射卡 0.5 秒
 >
 > ## 🔗 关联
-> - 🔁 同主题错题：[[完整笔记/专题笔记/psych/_衍生_Tourette诊断与治疗]]（已有衍生 — Tourette 诊断 + 阶梯）
+> - 🔁 同主题错题：[[完整笔记/专题笔记/psych/psych_Tourette诊断与治疗]]（已有衍生 — Tourette 诊断 + 阶梯）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（Tourette 神经基础 — 基底节多巴胺过度）
 > - 🌱 TODO：本次卡点 → 衍生笔记加"α2 整类 vs 同类换药 反射"
@@ -22181,7 +22181,7 @@
 >   - [[mistakes/uworld-mistakes_2026-05#^Park1-2026-05-22]] DIP 处理（5-22 错 levodopa）— 5-22 在 DIP 中错"加 levodopa"；本题在 PD ψ 中错"减 levodopa" — **levodopa 的"该加 / 该减"边界**两端都踩过
 >   - [[mistakes/uworld-mistakes_2026-05#^Q16164]] PD ψ 第 4 步减药（5-22）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]]
-> - 🏥 跨学科：[[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]]（与 DIP / TD / akathisia / acute dystonia 同 antipsychotic 谱）
+> - 🏥 跨学科：[[完整笔记/专题笔记/psych/psych_四大EPS诊断治疗对照]]（与 DIP / TD / akathisia / acute dystonia 同 antipsychotic 谱）
 > - 🌱 TODO：[[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]] **增量补 "Levodopa 不减 + NMS-like 风险" 子节** ⭐（含 5-26 钓饵反 pattern + 替代 vs 激动剂边界）
 >
 > ## ✅ 复盘行动
@@ -24619,7 +24619,7 @@
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-05#^Q2-2026-05-26]] DPN "D = any of above" — 同型字母 anchor 陷阱（不同方向：那题 D 是真答案；本题 D 是钓饵）
 >   - 5-25 Tourette α2 失败题（未标 anchor，做对带卡点 — 见 2026-05-25 节内"Tourette 阶梯升级"卡）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/专题笔记/psych/_衍生_Tourette诊断与治疗]]
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/专题笔记/psych/psych_Tourette诊断与治疗]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（Tourette 基底节多巴胺过度）
 > - 🌱 TODO：**建** [[完整笔记/专题笔记/USMLE/USMLE_答案选项策略]] 5 大策略 + **加 "Answer Letter Anchor 反 pattern"子节**（与 "D = any of above" 同型 — 都是字母 anchor）
 >
@@ -28965,9 +28965,9 @@
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-05#^Q15925]] Atypical MDD 5-21 首次入库（诊断维度 ❌ 选 substance-induced；治疗维度未测）— **本卡配对**：诊断维度已克服，治疗阶梯精度本次新加
 >   - [[mistakes/uworld-mistakes_2026-05#^Q12152]] PD ψ Step 5（同样治疗阶梯精度题 — antipsychotic 子类选择）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP]]
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/专题笔记/psych/psych_精神障碍选对治疗SOP]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/Biostats_Master]]（"first-line vs 多步失败后" 是 USMLE 治疗题的高频陷阱设计原则）
-> - 🌱 TODO（待生成衍生增量）：[[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP]] 加 §x **Atypical MDD 6 阶梯**（钉死 first-line = SSRI/SNRI；MAOI = augment 失败后才用 + MAOI 禁忌 SOP）
+> - 🌱 TODO（待生成衍生增量）：[[完整笔记/专题笔记/psych/psych_精神障碍选对治疗SOP]] 加 §x **Atypical MDD 6 阶梯**（钉死 first-line = SSRI/SNRI；MAOI = augment 失败后才用 + MAOI 禁忌 SOP）
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 — stem 加"SSRI tried no response + Bupropion tried no response"看是否选 phenelzine 阶梯精度建立
@@ -29556,12 +29556,12 @@
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/儿科]]（婴幼儿脱水复苏章节）
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（电解质章节 — Na 校正速度）
->   - [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]]（**待加 Hypernatremia 复苏决策树**）
+>   - [[完整笔记/专题笔记/肾脏/肾脏_电解质急症速查]]（**待加 Hypernatremia 复苏决策树**）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/感染]]（gastroenteritis 病因 — rotavirus / 诺如 / 细菌性 — 婴儿脱水头号原因）
 >   - [[完整笔记/Peixuan分科笔记/外科]]（surgical hypernatremia — 烧伤 / 不显性丢失）
 > - 🌱 TODO：
->   - [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]] 加 **§ Hypernatremia 4 复苏决策树**（Euvolemic / Hypovolemic-Asymp / **Hypovolemic-Symp 先 isotonic** / 校正速度）
+>   - [[完整笔记/专题笔记/肾脏/肾脏_电解质急症速查]] 加 **§ Hypernatremia 4 复苏决策树**（Euvolemic / Hypovolemic-Asymp / **Hypovolemic-Symp 先 isotonic** / 校正速度）
 >   - [[完整笔记/Peixuan分科笔记/儿科]] 加 **§婴幼儿脱水复苏 SOP**（5 体征判定 + 等渗复苏 + Na 校正速度）
 >
 > ## ✅ 复盘行动
@@ -29935,14 +29935,14 @@
 >   - [[完整笔记/Peixuan分科笔记/endocrine]]（Ca 调节 / PTH / Vit D）
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（电解质章节）
 >   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（MM "CRAB" + 副肿瘤 Hypercalcemia）
->   - [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]] §3.1（**已有治疗阶梯但缺 3 级分层 + 急救顺序铁律 + furosemide 精确指征 + glucocorticoid 指征** — 本题入库后将同步增量）
+>   - [[完整笔记/专题笔记/肾脏/肾脏_电解质急症速查]] §3.1（**已有治疗阶梯但缺 3 级分层 + 急救顺序铁律 + furosemide 精确指征 + glucocorticoid 指征** — 本题入库后将同步增量）
 >   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] §1.9 1°HPT（4 因↑Ca 表已有 PTH / PTHrP / 肉芽肿 / FHH）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（MM / 淋巴瘤 / breast / 前列腺 副肿瘤高钙）
 >   - [[完整笔记/Peixuan分科笔记/pulmonary]]（lung 鳞癌 PTHrP / sarcoidosis 1,25-VitD↑）
 >   - [[完整笔记/Peixuan分科笔记/感染]]（TB 肉芽肿 1,25-VitD↑）
 > - 🌱 TODO（衍生增量）：
->   - [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]] §3.1 **本次同步增补**：3 级分层 / 6 治疗选择对照 / 急救顺序铁律 / furosemide 精确指征 / glucocorticoid 病因特异 / hemodialysis 指征
+>   - [[完整笔记/专题笔记/肾脏/肾脏_电解质急症速查]] §3.1 **本次同步增补**：3 级分层 / 6 治疗选择对照 / 急救顺序铁律 / furosemide 精确指征 / glucocorticoid 病因特异 / hemodialysis 指征
 >   - 考虑建 [[完整笔记/专题笔记/USMLE/USMLE_急症先治不诊断元规则]]（DKA / hyperK / severe hyperCa / status epilepticus / sepsis 5 大同框）— 等再积累 1-2 题
 >
 > ## ✅ 复盘行动
@@ -30852,9 +30852,9 @@
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/neuro]]（Seizure 电解质病因排查 + ODS / CPM）
 >   - [[完整笔记/Peixuan分科笔记/endocrine]]（SIADH + Tea-and-toast 老年 hypoNa）
->   - [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]]（已有衍生，本卡可扩 hypoNa 电解质致 seizure 横向 5 鉴别 + thiazide hypoNa 指纹）
+>   - [[完整笔记/专题笔记/肾脏/肾脏_电解质急症速查]]（已有衍生，本卡可扩 hypoNa 电解质致 seizure 横向 5 鉴别 + thiazide hypoNa 指纹）
 > - 🌱 TODO：
->   - 同步增量到 [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]] § 电解质致 seizure 横向 5 鉴别表 + thiazide hypoNa 指纹 + 治疗速率 ODS 风险
+>   - 同步增量到 [[完整笔记/专题笔记/肾脏/肾脏_电解质急症速查]] § 电解质致 seizure 横向 5 鉴别表 + thiazide hypoNa 指纹 + 治疗速率 ODS 风险
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q114863 — 必须**正向锁老女+低BMI+thiazide 3 周** pattern
@@ -32300,7 +32300,7 @@
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-05#^Q2826]] 肝硬化袢利尿 → 代碱（同患者群电解质）
 >   - [[mistakes/uworld-mistakes_2026-05#^Q2219]] 肝硬化 AKI → 测尿钠疑 HRS
-> - 📚 主笔记：[[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]] / [[完整笔记/Peixuan分科笔记/肾脏]]
+> - 📚 主笔记：[[完整笔记/专题笔记/肾脏/肾脏_电解质急症速查]] / [[完整笔记/Peixuan分科笔记/肾脏]]
 > - 🏥 跨学科：[[完整笔记/专题笔记/GI/GI_HRS肝肾综合征]] / [[完整笔记/Peixuan分科笔记/消化腺]]（肝硬化门脉高压 → 高容量低钠）
 > - 🌱 TODO：已把"轻度高容量低钠=不特殊治疗 + 噻嗪加重低钠"增量同步进电解质急症速查
 >
@@ -32357,7 +32357,7 @@
 >   - [[mistakes/uworld-mistakes_2026-05#^Q2786]] 呼碱（HCO3 正常/低，与代碱 HCO3 高对比）
 >   - [[mistakes/uworld-mistakes_2026-05#^Q106381]] 肝硬化高容量低钠（同患者群）
 >   - [[mistakes/uworld-mistakes_2026-05#^Q13842]] 代酸代偿（ABG 三步法串联）
-> - 📚 主笔记：[[完整笔记/专题笔记/肾脏/肾脏_酸碱代偿完整SOP]] / [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]]
+> - 📚 主笔记：[[完整笔记/专题笔记/肾脏/肾脏_酸碱代偿完整SOP]] / [[完整笔记/专题笔记/肾脏/肾脏_电解质急症速查]]
 > - 🏥 跨学科：[[完整笔记/专题笔记/GI/GI_门脉高压治疗]] / [[完整笔记/Peixuan分科笔记/消化腺]]（腹水→袢利尿是源头）
 > - 🌱 TODO：ABG 实战 4 道（Q2786/Q2826/Q13842/Q18881）→ 酸碱 SOP 加实战判读小节
 >
@@ -32421,7 +32421,7 @@
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-05#^Q106381]] 肝硬化高容量低钠（低钠容量轴对比）
 >   - [[mistakes/uworld-mistakes_2026-05#^Q114863]] Thiazide 致低钠 seizure
-> - 📚 主笔记：[[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]] / [[完整笔记/Peixuan分科笔记/肾脏]]
+> - 📚 主笔记：[[完整笔记/专题笔记/肾脏/肾脏_电解质急症速查]] / [[完整笔记/Peixuan分科笔记/肾脏]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（SSRI 是 SIADH 常见药因）
 > - 🌱 TODO：已把"低尿酸 + 尿 Na 分 SIADH vs 低容量"增量同步进电解质急症速查
 >
@@ -32484,7 +32484,7 @@
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-05#^Q2826]] 肝硬化袢利尿致代碱（同为低 K 低 Cl 代碱）
 >   - [[mistakes/uworld-mistakes_2026-05#^Q2786]] ABG 判读（代碱 HCO3 高）
-> - 📚 主笔记：[[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]] / [[完整笔记/专题笔记/肾脏/肾脏_酸碱代偿完整SOP]]
+> - 📚 主笔记：[[完整笔记/专题笔记/肾脏/肾脏_电解质急症速查]] / [[完整笔记/专题笔记/肾脏/肾脏_酸碱代偿完整SOP]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（bulimia nervosa：lanugo + 牙釉质侵蚀 + 自诱呕吐）
 > - 🌱 TODO：已把"代碱 saline-responsive vs resistant（尿 Cl）"增量同步进电解质急症速查
 >
@@ -32545,7 +32545,7 @@
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-05#^Q2180]] SIADH 五联（低钠 + 高尿渗但**无多尿** — 与本题正好对照）
 >   - [[mistakes/uworld-mistakes_2026-05#^Q106381]] 肝硬化高容量低钠（低钠的容量轴鉴别）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/肾脏]] / [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]]
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/肾脏]] / [[完整笔记/专题笔记/肾脏/肾脏_电解质急症速查]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/endocrine]]（DI / AVP / 高血糖致渗透性利尿）
 > - 🌱 TODO：等积累 ≥3 道 多尿/DI 题 → 建 [[完整笔记/专题笔记/肾脏/_衍生_多尿鉴别算法]]（water vs solute diuresis）
 >
@@ -32665,9 +32665,9 @@
 >   - [[mistakes/uworld-mistakes_2026-05#^Q114931]] 等容量低钠病因 workup（同 patient set — 尿渗定病因）
 >   - [[mistakes/uworld-mistakes_2026-05#^Q117977]] SIADH vs 溶质性利尿（多尿鉴别）
 >   - [[mistakes/uworld-mistakes_2026-05#^Q114863]] thiazide 低钠 seizure（重症升钠）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/肾脏]] / [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]]
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/肾脏]] / [[完整笔记/专题笔记/肾脏/肾脏_电解质急症速查]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/pulmonary]]（SCLC 异位 ADH）/ [[完整笔记/Peixuan分科笔记/hematology oncology]]（副肿瘤综合征）
-> - 🌱 TODO：低钠卡已积累 ≥5 道 → 建 [[完整笔记/专题笔记/肾脏/_衍生_低钠血症诊疗SOP]]（容量轴 + 尿渗 + 严重度治疗 + ODS）
+> - 🌱 TODO：低钠卡已积累 ≥5 道 → 建 [[完整笔记/专题笔记/肾脏/肾脏_低钠血症诊疗SOP]]（容量轴 + 尿渗 + 严重度治疗 + ODS）
 >
 > ## ✅ 复盘行动
 > - [ ] **🔴 2026-06-05 重错（选 G 碳酸氢钠）**——上次"做对但不确定"，这次直接错 → 升 🔴 反复错。碳酸氢钠是代酸/高钾用，对 SIADH 无效；重症低钠唯一答案 = 3% 高张盐水。
@@ -32735,9 +32735,9 @@
 >   - [[mistakes/uworld-mistakes_2026-05#^Q117977]] 多尿鉴别（尿渗算法）
 >   - [[mistakes/uworld-mistakes_2026-05#^Q106381]] 高容量低钠（肝硬化）
 >   - [[mistakes/uworld-mistakes_2026-05#^Q114863]] thiazide 致低钠 seizure
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/肾脏]] / [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]]
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/肾脏]] / [[完整笔记/专题笔记/肾脏/肾脏_电解质急症速查]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（SSRI → SIADH；GAD 易原发多饮）
-> - 🌱 TODO：低钠卡已积累 ≥5 道 → 建 [[完整笔记/专题笔记/肾脏/_衍生_低钠血症诊疗SOP]]（分类大表 + 尿渗决策 + 治疗）
+> - 🌱 TODO：低钠卡已积累 ≥5 道 → 建 [[完整笔记/专题笔记/肾脏/肾脏_低钠血症诊疗SOP]]（分类大表 + 尿渗决策 + 治疗）
 >
 > ## ✅ 复盘行动
 > - [ ] 默写 低钠三步 workup（血渗 → 容量 → 尿渗/尿 Na）

@@ -11,7 +11,7 @@ type: 专题笔记
 
 > [!info] 一句话本质
 > **Esketamine（Spravato，鼻喷剂）= ketamine 的 S-对映体**，FDA 2019 批准。**NMDA 拮抗剂**，绕过 SSRI 慢调 5-HT 的传统路径，**几小时-72 小时**抗抑郁，专攻"等不及"的急性 SI 和难治抑郁（TRD）。
-> 机制基础详见 [[完整笔记/专题笔记/神经/_衍生_NMDA受体临床速查]]。
+> 机制基础详见 [[完整笔记/专题笔记/神经/神经_NMDA受体临床速查]]。
 
 ---
 
@@ -141,8 +141,8 @@ Esketamine 拮抗 NMDA
   - （等真实 esketamine UW 题积累 → 添 Q##### 锚点）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]
 - 🏥 跨学科：
-  - [[完整笔记/专题笔记/神经/_衍生_NMDA受体临床速查]]（机制：NMDA 拮抗 → 谷氨酸爆发 → BDNF）
-  - [[完整笔记/专题笔记/psych/_衍生_自杀风险评估与降险]](esketamine 在「降自杀风险药」清单中的位置)
+  - [[完整笔记/专题笔记/神经/神经_NMDA受体临床速查]]（机制：NMDA 拮抗 → 谷氨酸爆发 → BDNF）
+  - [[完整笔记/专题笔记/psych/psych_自杀风险评估与降险]](esketamine 在「降自杀风险药」清单中的位置)
   - [[完整笔记/专题笔记/psych/psych_物质急诊速查]](ketamine 滥用 — "Special K")
 - 🌱 TODO（待积累）：
   - 等真实 UW esketamine 题 → 添 Q 锚点

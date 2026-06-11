@@ -388,10 +388,10 @@ T2DM 新诊断 + A1c 目标未达标
   - [[完整笔记/Peixuan分科笔记/心内]]（HTN 加药 + Resistant HTN workup）
   - [[完整笔记/Peixuan分科笔记/endocrine]]（T2DM 阶梯 + 按合并症选第 2 药）
 - 🏥 跨学科：
-  - [[完整笔记/专题笔记/psych/_衍生_Tourette诊断与治疗]]（Tourette 三级阶梯应用 1 — 本 SOP 的具体落地）
+  - [[完整笔记/专题笔记/psych/psych_Tourette诊断与治疗]]（Tourette 三级阶梯应用 1 — 本 SOP 的具体落地）
   - [[完整笔记/专题笔记/psych/psych_双相障碍用药决策树]]（Bipolar 4 选 1 决策树细化版 — 与本 SOP §三-2 互证）
-  - [[完整笔记/专题笔记/psych/_衍生_MDD_treatment_resistant_阶梯]]（MDD 5 阶梯细化 — 本 SOP §三-6 的扩展）
-  - [[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP]]（精神科选药原则 — 与本 SOP 升级原则互补）
+  - [[完整笔记/专题笔记/psych/psych_MDD_treatment_resistant_阶梯]]（MDD 5 阶梯细化 — 本 SOP §三-6 的扩展）
+  - [[完整笔记/专题笔记/psych/psych_精神障碍选对治疗SOP]]（精神科选药原则 — 与本 SOP 升级原则互补）
 - 🌱 TODO（待积累更多升级题继续扩）：
   - **GERD step-up**（PPI 起始 → 加量 → BID → 加 H2RA 夜间 → workup / 抗反流手术）
   - **类风湿（RA）DMARD 阶梯**（Methotrexate 起始 → +TNF-α 抑制剂 / 其他生物制剂 → JAK 抑制剂）

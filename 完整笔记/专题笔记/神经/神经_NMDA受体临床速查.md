@@ -53,7 +53,7 @@ LTP（长时程增强）= 学习记忆的细胞基础
 | 药 | NMDA 作用 | 临床用途 | 重点 |
 |---|---|---|---|
 | **Ketamine** | 强拮抗 | 分离麻醉（急诊 / 儿科 / 战地）；街头滥用 "Special K" | DEA Schedule III；致解离 / 幻觉 |
-| **Esketamine** (Spravato) | 强拮抗（S 对映体）| **TRD + MDD with acute SI** | 鼻喷剂；详见 [[完整笔记/专题笔记/psych/_衍生_快速抗抑郁药_Esketamine]] |
+| **Esketamine** (Spravato) | 强拮抗（S 对映体）| **TRD + MDD with acute SI** | 鼻喷剂；详见 [[完整笔记/专题笔记/psych/psych_快速抗抑郁药_Esketamine]] |
 | **PCP** | 强拮抗 | 街头滥用（"天使尘"）| 暴力 + 解离 + 眼球震颤 + 眼震；急救 BZD（详见 [[mistakes/uworld-mistakes_2026-05#^Q3191]]）|
 | **Memantine** | **弱**拮抗 | **中-重度 Alzheimer**（不是 mild）| 拮抗病理性谷氨酸过度兴奋，但不灭正常信号 —— "调音不灭音" |
 | **Dextromethorphan** | 弱拮抗 | 止咳；高剂量滥用致解离 / 幻觉 | 配 ondansetron / promethazine 增强滥用风险 |
@@ -147,7 +147,7 @@ LTP（长时程增强）= 学习记忆的细胞基础
   - [[mistakes/uworld-mistakes_2026-05#^Q11967]] 儿童急性精神病→SLE（多系统拼图思路 — anti-NMDA 脑炎是同范式）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/免疫疫苗]]
 - 🏥 跨学科：
-  - [[完整笔记/专题笔记/psych/_衍生_快速抗抑郁药_Esketamine]]（Esketamine 详细，NMDA 拮抗剂代表）
+  - [[完整笔记/专题笔记/psych/psych_快速抗抑郁药_Esketamine]]（Esketamine 详细，NMDA 拮抗剂代表）
   - [[完整笔记/Peixuan分科笔记/OB]]（MgSO4 in eclampsia — Mg 是天然 NMDA 拮抗剂）
   - [[完整笔记/Peixuan分科笔记/GYN]] / [[完整笔记/Peixuan分科笔记/hematology oncology]]（anti-NMDA 脑炎与卵巢畸胎瘤 / 副肿瘤综合征）
   - [[完整笔记/专题笔记/psych/psych_物质急诊速查]]（PCP / ketamine / dextromethorphan 滥用）

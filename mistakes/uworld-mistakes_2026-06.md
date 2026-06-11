@@ -10175,7 +10175,7 @@ type: 错题数据源
 > - 🔁 同主题错题（同日环境急诊 block）：
 >   - [[mistakes/uworld-mistakes_2026-06#^Q19263]] 高压电击伤 / [[mistakes/uworld-mistakes_2026-06#^Q20184]] 溺水（环境体温/急诊）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/Peixuan分科笔记/外科]]
-> - 🧩 专题：[[完整笔记/专题笔记/心内/_衍生_代谢性ECG改变]]（低体温 Osborn J 波 / QT 延长）
+> - 🧩 专题：[[完整笔记/专题笔记/心内/心内_代谢性ECG改变]]（低体温 Osborn J 波 / QT 延长）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（AUD 冷暴露风险）
 > - 🌱 TODO：建"低体温分级 + 复温阶梯"小卡（被动/主动外/主动内）
 > 
@@ -10279,7 +10279,7 @@ type: 错题数据源
 >   - [[mistakes/uworld-mistakes_2026-06#^Q17900]] 有机磷（对侧：胆碱能 vs 抗胆碱）
 >   - [[mistakes/uworld-mistakes_2026-06#^Q3856]] 腐蚀剂误服（toxidrome 谱）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/Peixuan分科笔记/psych]]（TCA）
-> - 🧩 专题：[[完整笔记/专题笔记/USMLE/USMLE_毒物综合征toxidrome速查]]（抗胆碱 toxidrome）/ [[完整笔记/专题笔记/心内/_衍生_代谢性ECG改变]]（宽 QRS）
+> - 🧩 专题：[[完整笔记/专题笔记/USMLE/USMLE_毒物综合征toxidrome速查]]（抗胆碱 toxidrome）/ [[完整笔记/专题笔记/心内/心内_代谢性ECG改变]]（宽 QRS）
 > - 🏥 跨学科：[[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]]（中毒指纹）/ [[完整笔记/专题笔记/肾脏/肾脏_高钾血症完整体系]]（钙剂 vs 碳酸氢钠适应证别混）
 > - 🌱 TODO：建"宽 QRS 鉴别（TCA / 高钾 / CCB / Brugada）+ 对应解毒"小卡
 > 
@@ -10438,7 +10438,7 @@ type: 错题数据源
 >   - [[mistakes/uworld-mistakes_2026-06#^Q19085]] EAPH（运动后晕厥；干扰项 E）/ [[mistakes/uworld-mistakes_2026-06#^Q11417]] 低体温（对侧体温急症）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/Peixuan分科笔记/外科]]
 > - 🧩 专题：[[完整笔记/专题笔记/心内/心内_运动相关晕厥急症四鉴别]]（热射病行）/ [[完整笔记/专题笔记/USMLE/USMLE_高热肌强直急症鉴别]]（EHS/SS/NMS/MH）
-> - 🏥 跨学科：[[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]]（NMS）/ [[完整笔记/专题笔记/USMLE/USMLE_毒物综合征toxidrome速查]]
+> - 🏥 跨学科：[[完整笔记/专题笔记/psych/psych_四大EPS诊断治疗对照]]（NMS）/ [[完整笔记/专题笔记/USMLE/USMLE_毒物综合征toxidrome速查]]
 > - 🌱 TODO：强化"高热四鉴别（EHS/SS/NMS/MH）线索表"反射
 > 
 > ## ✅ 复盘行动

@@ -70,7 +70,7 @@ SI 评估三要素：
 |---|---|---|---|
 | **Lithium** ⭐⭐⭐ | **双相 + 复发性单极抑郁** | **最强**（~5 倍降率）| **独立于稳心境** —— 这是 Lithium 在抑郁谱系里的"独门附加值"。题干强调"自杀风险"+"双相倾向" → Lithium 被点名 |
 | **Clozapine** ⭐⭐⭐ | **精分 / 分裂情感障碍 + 复发性自杀** | FDA 特批此适应症 | **唯一**有"reducing recurrent suicidal behavior" FDA 适应症的抗精神病药 |
-| **Esketamine** ⭐⭐ | **TRD + MDD with acute SI** | 快速起效（小时 - 72h）| 详见 [[完整笔记/专题笔记/psych/_衍生_快速抗抑郁药_Esketamine]] |
+| **Esketamine** ⭐⭐ | **TRD + MDD with acute SI** | 快速起效（小时 - 72h）| 详见 [[完整笔记/专题笔记/psych/psych_快速抗抑郁药_Esketamine]] |
 | **SSRI / 抗抑郁药** ⭐ | 任何 MDD（成人）| **间接** —— 治好 MDD 即降险 | ⚠️ <25 黑框警告 = 念头 / 行为短期↑（非 completed suicide）；长期降险（Q7289 核心）|
 
 > [!tip] Lithium 在抑郁题里 = "降自杀 / 双相暗示"信号
@@ -173,8 +173,8 @@ SI 评估三要素：
   - [[mistakes/uworld-mistakes_2026-05#^Q16064]] 心理治疗五选鉴别（DBT for BPD 自伤 / SI）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/ethics]]
 - 🏥 跨学科：
-  - [[完整笔记/专题笔记/psych/_衍生_快速抗抑郁药_Esketamine]](快速起效药物的"降险"角色)
-  - [[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]]（Clozapine 副作用监测，但 clozapine 是降自杀首选）
+  - [[完整笔记/专题笔记/psych/psych_快速抗抑郁药_Esketamine]](快速起效药物的"降险"角色)
+  - [[完整笔记/专题笔记/psych/psych_四大EPS诊断治疗对照]]（Clozapine 副作用监测，但 clozapine 是降自杀首选）
   - [[完整笔记/Peixuan分科笔记/ethics]]（非自愿住院 / 知情同意 / duty to protect / Tarasoff）
 - 🌱 TODO（待积累）：
   - 等积累 Tarasoff / duty to warn 错题 → 单独建条目（与 duty to protect 区分）

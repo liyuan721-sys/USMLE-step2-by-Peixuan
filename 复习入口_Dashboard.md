@@ -164,7 +164,7 @@ W9 NBME16 + Free120#1 │ W10 Free120 #2/#3 + UWSA3 → 考试
 | ⭐⭐⭐🔴 | **DLB ψ vs PD ψ Step 5 钓饵**（5-28 新升 🔴 + #考前必看 + #难记）⚠️⚠️ | PD ψ Step 5 反射误覆盖 DLB — ψ 早于 levodopa + cog fluctuation 完全被忽略 | [[完整笔记/专题笔记/psych/psych_PD_psychosis_5步阶梯]] §六 v1.2 新增决策树 + [[mistakes/uworld-mistakes_2026-05#^Q19-2026-05-28]] |
 | ⭐⭐🔴 | **Q21477 Swiss Cheese Model**（5-25 + 5-27 反复错 + #难记 / 5-28 首次反射 ✓）| stem 暗号 "all at once / simultaneously" 反射建立中 | [[mistakes/uworld-mistakes_2026-05#^Q21477]] — 一次连对计数 1/2 |
 | ⭐⭐🔴 | **Q20431 Home Health Care**（5-25 + 5-27 反复错 + #考前必看 / 5-28 首次反射 ✓）| 决策树"stable + mild CI + 能 ADL + homebound" 反射建立中 | [[mistakes/uworld-mistakes_2026-05#^Q20431]] — 一次连对计数 1/2 |
-| ⭐⭐🟡 | **Atypical MDD first-line = SSRI（不是 MAOI）**（5-28 新错 + #难记）| UWorld 反射"Atypical = phenelzine"外推到 first-line 错 | [[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP]] §3.4.bis v1.1 新增 6 阶梯 + [[mistakes/uworld-mistakes_2026-05#^Q17-2026-05-28]] |
+| ⭐⭐🟡 | **Atypical MDD first-line = SSRI（不是 MAOI）**（5-28 新错 + #难记）| UWorld 反射"Atypical = phenelzine"外推到 first-line 错 | [[完整笔记/专题笔记/psych/psych_精神障碍选对治疗SOP]] §3.4.bis v1.1 新增 6 阶梯 + [[mistakes/uworld-mistakes_2026-05#^Q17-2026-05-28]] |
 | ⭐⭐🔴 | **DPN "any of the above" 选项策略**（5-24 + 5-26 反复错 / 5-27 ✓ 1/2）| pattern 反射选最熟悉单选 — USMLE 选项策略反射建立中 | [[mistakes/uworld-mistakes_2026-05#^Q19-2026-05-24]] / [[完整笔记/专题笔记/USMLE/USMLE_答案选项策略]] — 连对计数 1/2 |
 
 ### 🔴 肾 / 电解质急症反复错簇（2026-06-05 一日大批暴露）⚠️⚠️⚠️
@@ -256,7 +256,7 @@ W9 NBME16 + Free120#1 │ W10 Free120 #2/#3 + UWSA3 → 考试
 >        ⚠ 噻嗪 + NS 会反向加重 SIADH/高容量低钠
 > ```
 >
-> **跳转**：ABG 三步法 + 4 病例实战 → [[完整笔记/专题笔记/肾脏/肾脏_酸碱代偿完整SOP]] ｜ RTA 四型 + NAGMA 两步 + 尿 AG → [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] §2.3 ｜ 代碱分型 + 低钠容量轴 → [[完整笔记/专题笔记/肾脏/_衍生_电解质急症速查]]
+> **跳转**：ABG 三步法 + 4 病例实战 → [[完整笔记/专题笔记/肾脏/肾脏_酸碱代偿完整SOP]] ｜ RTA 四型 + NAGMA 两步 + 尿 AG → [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] §2.3 ｜ 代碱分型 + 低钠容量轴 → [[完整笔记/专题笔记/肾脏/肾脏_电解质急症速查]]
 >
 > **5 条反射钩**：
 > 1. **判酸碱原发先读数** — 看 HCO3/PaCO2 哪个朝 pH 方向变，别被病史词带偏（数定原发，史定病因）

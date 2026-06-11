@@ -294,8 +294,8 @@ source: 错题驱动 Q3375 Tourette + Q16066 TD + Q12152 PD psychosis + Q20930 t
   - [[mistakes/uworld-mistakes_2026-05#^Q11898]] Akathisia + propranolol（2026-05-21；**EPS 四兄弟另一治疗谱** — β 阻断 ≠ 抗 DA / 抗胆碱方向）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]] / [[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/Peixuan分科笔记/GI]]（metoclopramide 止吐 + 长期 TD 风险）
 - 🏥 跨学科：
-  - [[完整笔记/专题笔记/psych/_衍生_Tourette诊断与治疗]]（Tourette 三级阶梯 + 共病模式 — 本衍生第 §2.1 §3 表 1 互证）
-  - [[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]]（急性 dystonia / akathisia / parkinsonism / TD 四治疗谱 — 与本衍生 §2.2 §三表 2 互证）
+  - [[完整笔记/专题笔记/psych/psych_Tourette诊断与治疗]]（Tourette 三级阶梯 + 共病模式 — 本衍生第 §2.1 §3 表 1 互证）
+  - [[完整笔记/专题笔记/psych/psych_四大EPS诊断治疗对照]]（急性 dystonia / akathisia / parkinsonism / TD 四治疗谱 — 与本衍生 §2.2 §三表 2 互证）
   - [[完整笔记/Peixuan分科笔记/心内]]（Pimozide / Haloperidol / Valbenazine QT 延长监测）
 - 🌱 TODO（待扩展）：
   - 等积累 hyperprolactinemia / prolactinoma 错题 → 扩 §2.3 DA 激动剂的 prolactin 应用（cabergoline > bromocriptine）+ 男性 HRT 抑制 prolactin 框架

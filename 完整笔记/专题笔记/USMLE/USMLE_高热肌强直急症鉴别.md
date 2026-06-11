@@ -217,7 +217,7 @@ MAOI 患者出问题
   - [[完整笔记/Peixuan分科笔记/psych]]（NMS / SS / 抗精神病药 EPS）
   - [[完整笔记/Peixuan分科笔记/neuro]]（PD 用药 + MAO-B + serotonin）
   - [[完整笔记/Peixuan分科笔记/心内]]（HTN crisis 鉴别与处理 — phentolamine / nitroprusside / labetalol）
-  - [[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]]（抗精神病药谱系副作用）
+  - [[完整笔记/专题笔记/psych/psych_四大EPS诊断治疗对照]]（抗精神病药谱系副作用）
   - [[完整笔记/专题笔记/psych/psych_精神科药物副作用速查]]
   - [[完整笔记/专题笔记/神经/神经_PD用药全解]]（MAO-B + 5-HT 能药 → SS）
 - 🏥 跨学科：

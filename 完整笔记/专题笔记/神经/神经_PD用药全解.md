@@ -292,7 +292,7 @@ Pimavanserin → Quetiapine → Clozapine → ... → Risperidone → Haloperido
   - [[完整笔记/专题笔记/psych/psych_多巴胺方向药物三角]]（DA 通路问题分类 + 4 通路 + DA-PRL 跷跷板）
 - 🏥 跨学科：
   - [[完整笔记/Peixuan分科笔记/psych]]（抗精神病药 D2 谱 / EPS / 5-HT 综合征）
-  - [[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]]（药源性运动障碍）
+  - [[完整笔记/专题笔记/psych/psych_四大EPS诊断治疗对照]]（药源性运动障碍）
   - [[完整笔记/专题笔记/USMLE/USMLE_高热肌强直急症鉴别]]（MAO-B + 5-HT 能药 → SS）
 - 🌱 TODO（待生成衍生）：
   - 等积累 ≥ 3 道 PD 相关错题（DA 激动剂 ICD / Amantadine 青斑 / Metoclopramide EPS）→ 扩 §三 各药增量

@@ -187,9 +187,9 @@ Step 3：对号入座（查 §四 6 组高频对照，排掉同动作邻居）
   - [[mistakes/uworld-mistakes_2026-05#^Q3536]] 60M 医生胰腺癌 → Intellectualization（D/E 卡点，触发本衍生）
   - （首道 defense mechanism 题，等后续题积累）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（Defense Mechanisms 章节 行 1656 — 缺 intellectualization / rationalization 定义，本衍生补全）
-- 📋 治疗 SOP：[[完整笔记/专题笔记/psych/_衍生_精神障碍选对治疗SOP]]（防御机制属诊断辅助，与治疗 SOP 互补）
+- 📋 治疗 SOP：[[完整笔记/专题笔记/psych/psych_精神障碍选对治疗SOP]]（防御机制属诊断辅助，与治疗 SOP 互补）
 - 🏥 跨学科：
-  - [[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]]（精神药物副作用 vs 心理防御机制不同维度）
+  - [[完整笔记/专题笔记/psych/psych_四大EPS诊断治疗对照]]（精神药物副作用 vs 心理防御机制不同维度）
   - [[完整笔记/Peixuan分科笔记/ethics]]（医患沟通中识别病人防御机制 → 调整沟通策略）
 - 🌱 TODO（待扩展 v2）：
   - 积累 3+ 道 defense mechanism 错题后 → 扩 §七 高频"假性"机制题（出现但不是答案的诱饵分析）

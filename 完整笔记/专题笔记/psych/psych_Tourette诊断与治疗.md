@@ -386,7 +386,7 @@ DA 太少 → 治 PD     （增 DA：levodopa / DA 激动剂）
 
 - 🏥 跨学科：
   - [[完整笔记/Peixuan分科笔记/neuro]]（chorea / myoclonus / dystonia / tic / TD 六者鉴别 — 见本衍生 §3.2 + Sydenham chorea 神经表现）
-  - [[完整笔记/专题笔记/psych/_衍生_四大EPS诊断治疗对照]]（抗胆碱治 EPS / VMAT2 治 TD 对照 — 与本衍生"方向三角"互证）
+  - [[完整笔记/专题笔记/psych/psych_四大EPS诊断治疗对照]]（抗胆碱治 EPS / VMAT2 治 TD 对照 — 与本衍生"方向三角"互证）
   - [[完整笔记/Peixuan分科笔记/心内]]（Pimozide QT 延长监测 — D2 拮抗药心血管副作用；急性风湿热心炎 — Sydenham 同属 ARF Jones 标准）
   - [[完整笔记/Peixuan分科笔记/感染]]（**链球菌后病** — Sydenham chorea + PANDAS + 急性风湿热 — 见本衍生 §3.2.1 三大鉴别）
 
