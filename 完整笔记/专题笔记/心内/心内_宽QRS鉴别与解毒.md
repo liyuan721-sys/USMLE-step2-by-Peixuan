@@ -60,6 +60,19 @@ type: 专题笔记
 > > [!tip] 同机制可推广
 > > IC 类（Flecainide 氟卡尼）、**可卡因 cocaine**、苯海拉明 diphenhydramine、局麻药 local anesthetics 过量的宽 QRS —— 都是钠通道阻断，处理同（NaHCO3 碳酸氢钠）。Brugada 也是钠通道（先天功能丧失）→ 故 Brugada 患者要**避开**这些药。
 
+> [!danger] TCA 低血压：为什么用去甲肾上腺素 norepinephrine、不用多巴胺 dopamine ⭐
+> **根子 = TCA 阻断外周 α1 肾上腺素受体 → 血管扩张 → 外周血管阻力 SVR (systemic vascular resistance)↓ → 低血压**（次要：钠通道阻断的负性肌力）。纠正方向 = **重新激动 α1 收缩血管**。
+>
+> 升压阶梯：
+> ```
+> ① 等张盐水 isotonic saline 补容量 + IV 碳酸氢钠 sodium bicarbonate（顺带改善心脏毒性/血压）
+> ② 难治 → 直接 α1 激动升压药：去甲肾上腺素 norepinephrine（首选）
+> ```
+>
+> - **去甲肾上腺素 = 强效"直接作用 (direct-acting)"α1（+β1）激动剂** → 直接收缩血管，**正面对抗 TCA 的 α1 阻断**（受体被部分挡住，加大直接激动剂竞争性占位即可）；备选 去氧肾上腺素 phenylephrine / 肾上腺素 epinephrine。
+> - ❌ **避开多巴胺 dopamine**：它部分靠**"间接作用"——刺激神经末梢释放储存的去甲肾上腺素**升压；但 TCA **阻断 NE 再摄取 → 突触前 NE 储存耗竭 (depleted catecholamine stores)** → 多巴胺"叫不出货"→ 升压不可靠。
+> - **钥匙：直接 vs 间接** —— 储存被耗竭时只有**直接激动剂**靠谱。（对照可乐定那条"激动 vs 拮抗"，同属受体药理破直觉：见 [[完整笔记/专题笔记/USMLE/USMLE_毒物综合征toxidrome速查]] §5.1）
+
 ### 1.2 高钾 —— 最致命，先给钙
 
 ```
@@ -163,3 +176,4 @@ ECG 5 阶段：T 高尖 → P 平+PR长 → P 消失+QRS 宽 → sine wave → a
 - **v1**（2026-06-11）：四病因鉴别（TCA / 高钾 / CCB / Brugada）+ 对应解毒；含 CCB"主征非宽 QRS"纠偏（核心是 Brady+低压+高血糖）+ 钠通道阻断家族（TCA/IC/可卡因/Brugada）串联。
 - **v1.1**（2026-06-11）：补全药名中英双语（葡萄糖酸钙 calcium gluconate / 胰高血糖素 glucagon / 维拉帕米 verapamil / 地尔硫卓 diltiazem / 异丙肾上腺素 isoproterenol / 奎尼丁 quinidine / 氟卡尼 flecainide / 苯海拉明 diphenhydramine / 脂肪乳 lipid emulsion / 沙丁胺醇 albuterol），遵守 [feedback_bilingual_disease_drug]。
 - **v1.2**（2026-06-11）：§1.4 补"电风暴"折叠详解块（电风暴定义 + Brugada phase 2 折返机制 + isoproterenol 从下顶/quinidine 从上压 的一推一拉 + ICD 仍为根本治疗的优先级）。
+- **v1.3**（2026-06-12）：§1.1 补 TCA 低血压升压药 callout —— 低血压根子 = α1 阻断致血管扩张（SVR↓）→ 用**直接 α1 激动剂去甲肾上腺素 norepinephrine**（备选 phenylephrine/epinephrine），❌ 避开**多巴胺**（间接靠释放储存 NE，TCA 致储存耗竭→叫不出货）；"直接 vs 间接"钥匙 + 链 toxidrome §5.1 可乐定"激动 vs 拮抗"镜像。
