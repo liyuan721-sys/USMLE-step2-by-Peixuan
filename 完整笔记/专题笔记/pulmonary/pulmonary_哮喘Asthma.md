@@ -89,6 +89,11 @@ Allergen (过敏原)
 | **Step 4** | Daily 症状 + FEV₁ ↓ | **中/高剂量 ICS–formoterol 每日 + PRN** |
 | **Step 5** | Step 4 后仍未控制 + 频繁需 OCS | **高剂量 ICS–LABA + LAMA**；加**生物制剂**（Anti-IgE / Anti-IL-5），必要时短程 OCS |
 
+> [!info] MART 是什么（Step 3+ 的核心给药模式）
+> **MART = Maintenance And Reliever Therapy（维持与缓解联合疗法）**：用**同一支 ICS–formoterol（如 budesonide 布地奈德–formoterol 福莫特罗）**，既当每日固定维持药、又当喘了按需吸的缓解药——**一支两用**。
+> - **为什么只能用 formoterol（福莫特罗）**：它是**起效快的 LABA**（几分钟见效，像 SABA 一样快）又长效，所以能同时担任"救急"和"长期控制"。**salmeterol（沙美特罗）起效慢，不能当 reliever**，只能做维持。
+> - **好处**：取代"ICS 维持 + 单独 SABA 救急"的两支方案；每次救急都顺带吸入抗炎 ICS → 减少重症发作。
+
 > [!tip] 记忆钩子（阶梯）
 > - **Step 1–2：Less than daily → ICS–formoterol PRN**
 > - **Step 3：Most days → 每日低剂量 ICS–formoterol + PRN**
