@@ -80,7 +80,14 @@ type: 专题笔记
 ### 4.3 吸入药阶梯（GOLD 分组思路）
 
 > [!info] 关键缩写
-> **SABA**（short-acting β₂-agonist，短效 β₂ 激动剂，如 albuterol 沙丁胺醇）；**LABA**（long-acting β₂-agonist，长效 β₂ 激动剂）；**SAMA**（short-acting muscarinic antagonist，短效抗胆碱药，如 ipratropium 异丙托溴铵）；**LAMA**（long-acting muscarinic antagonist，长效抗胆碱药，如 tiotropium 噻托溴铵）；**ICS**（inhaled corticosteroid，吸入糖皮质激素）。
+> 
+> | 缩写 | 全称 | 中文 | 代表药 |
+> |:---|:---|:---|:---|
+> | **SABA** | short-acting β₂-agonist | 短效 β₂ 激动剂 | albuterol 沙丁胺醇 |
+> | **LABA** | long-acting β₂-agonist | 长效 β₂ 激动剂 | salmeterol 沙美特罗 / formoterol 福莫特罗 |
+> | **SAMA** | short-acting muscarinic antagonist | 短效抗胆碱药 | ipratropium 异丙托溴铵 |
+> | **LAMA** | long-acting muscarinic antagonist | 长效抗胆碱药 | tiotropium 噻托溴铵 |
+> | **ICS** | inhaled corticosteroid | 吸入糖皮质激素 | fluticasone 氟替卡松 / budesonide 布地奈德 |
 
 - **稳定期 COPD 初始维持治疗 → LABA + LAMA**（双长效支气管扩张剂为主力）
 - **ICS 不是 COPD 一线**：仅在**频繁急性加重 + 血嗜酸高 (eosinophilia)** 时加用；ICS 在 COPD 增加肺炎风险
