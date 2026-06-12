@@ -60,6 +60,23 @@ type: 专题笔记
 
 ---
 
+## 三·补、肺移植排异：急性 vs 慢性专表（Lung transplant rejection）
+
+> [!info] 用途
+> 把上面分散在 §二（急性诊断）/ §三（慢性 BO）的"肺"行合成一张并排专表，肺移植题直接看这一张。
+
+| 维度 | **急性排异 Acute**（细胞介导 cell-mediated）| **慢性排异 Chronic**（细胞 + 抗体混合 mixed cell-mediated & antibody）|
+|---|---|---|
+| **临床表现 Clinical presentation** | **≤6 个月**；**可无症状**，或发热 fever / 咳嗽 cough / 呼吸困难 dyspnea | 移植后**数月–数年**；**渐进性咳嗽 + 呼吸困难**；**有急性排异发作史 history of acute episodes** |
+| **诊断 Diagnosis** | **BAL（支气管肺泡灌洗 bronchoalveolar lavage）先排感染**；活检 = **黏膜下淋巴细胞浸润 + 血管周围炎 perivascular inflammation** | **PFT（肺功能检查 pulmonary function testing）呈阻塞性 obstructive pattern**；BAL 排感染；活检 = **黏膜下淋巴细胞浸润 + 闭塞性细支气管炎 bronchiolitis obliterans (BO)** |
+| **治疗 Management** | **大剂量糖皮质激素 high-dose glucocorticoids** | **支持治疗 supportive**；可能**再移植 repeat transplant** |
+
+> [!tip] Memory Hook（肺专属）
+> **急性 = ≤6 月 + 可无症状 + 血管周围炎 + 大剂量激素（可逆）｜慢性 = 数月年 + 阻塞性 PFT + BO + 支持/再移植（不可逆）。**
+> 两者活检都有"黏膜下淋巴细胞浸润"，**区别在血管周围炎（急）vs 闭塞性细支气管炎 BO（慢）**。共同点：诊断都要 **BAL 先排感染**（CMV 巨细胞病毒 cytomegalovirus / PCP 耶氏肺孢子菌肺炎 Pneumocystis pneumonia / 真菌），上激素前尤其。
+
+---
+
 ## 四、急性排异治疗阶梯
 
 | 类型 | 一线 | 二线/难治 |
