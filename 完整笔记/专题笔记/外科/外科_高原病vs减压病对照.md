@@ -63,6 +63,13 @@ type: 专题笔记
 > [!tip] 药物分工记忆
 > **乙酰唑胺管"高"（脑/AMS 预防+治）；地塞米松管"脑"（HACE）；硝苯地平管"肺"（HAPE）。** 但**任何严重型,下降永远是第一位**。
 
+> [!danger] 利尿剂（呋塞米 furosemide）是 HACE/HAPE 的陷阱选项（Q20203）
+> HACE / HAPE 的水肿都是**非心源性 / 非容量过载**：
+> - **HACE** = 缺氧诱导脑血管扩张 + 毛细血管渗漏（血管源性 vasogenic）。
+> - **HAPE** = 不均匀肺血管收缩 → 局部毛细血管压↑ → 渗漏（非心源性）。
+>
+> → **呋塞米 furosemide 无效甚至有害**。高原患者反而常**容量不足**（碳酸氢盐利尿 bicarbonate diuresis + 液体向血管外转移 + 醛固酮 aldosterone 抑制）。**别把脑/肺水肿当"水多了"上利尿** —— 答案是地塞米松（HACE）/ 硝苯地平（HAPE）+ 下降。
+
 > [!info]- 乙酰唑胺 acetazolamide 治高原反应的机制（通气悖论 + 解刹车）
 > **它是碳酸酐酶抑制剂（carbonic anhydrase inhibitor），靠制造代谢性酸中毒，解除身体给呼吸踩的刹车。**
 >
@@ -157,7 +164,8 @@ type: 专题笔记
 
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes_2026-06#^Q20364]] DCS 1 型 the bends（潜水后关节痛无压痛 → 高压氧；高原病三药是干扰项）✅
-  - （等积累 HACE / HAPE / DCS 2型/AGE 错题 → 补题号锚点）
+  - [[mistakes/uworld-mistakes_2026-06#^Q20203]] HACE → 地塞米松 + 下降（误选呋塞米 furosemide —— 利尿剂陷阱）✅
+  - （等积累 HAPE / DCS 2型/AGE 错题 → 补题号锚点）
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/外科]]（环境急症）
   - [[完整笔记/Peixuan分科笔记/pulmonary]]（HAPE = 非心源性肺水肿）
@@ -183,3 +191,4 @@ type: 专题笔记
 
 - **v1**（2026-06-11）：HAI（AMS/HACE/HAPE 三型谱 + 机制 + 药物分工）vs DCS（Henry 定律氮气泡 + I/II 型 + AGE 近亲）对照；§零总分表锁大方向（缺O₂下降 vs 氮气泡高压氧）+ §三易混陷阱。药名建卡即双语（乙酰唑胺/地塞米松/硝苯地平/西地那非）。
 - **v1.1**（2026-06-11）：补缩写全称中英（HAI/DCS/AGE/HBOT/ICP 首次出现）+ §零特异药行补英文（acetazolamide/dexamethasone/nifedipine），修正"首次出现纯中文"漏点。
+- **v1.2**（2026-06-12）：§一加 [!danger] 利尿剂陷阱 callout（HACE/HAPE 水肿 = 非心源性/非容量过载 → 呋塞米 furosemide 无效有害 + 高原患者本就容量不足），兑现 [[mistakes/uworld-mistakes_2026-06#^Q20203]]（误选呋塞米）；§关联补 Q20203 锚点。

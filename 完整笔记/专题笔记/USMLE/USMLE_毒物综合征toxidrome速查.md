@@ -55,6 +55,31 @@ type: 专题笔记
 
 ---
 
+## 二-ter、尼古丁中毒 nicotine poisoning（双相 + 毒蕈碱，别当肠胃病）⭐
+
+> 错题地基：[[mistakes/uworld-mistakes_2026-06#^Q20437]]（5 岁误服 → 误选肠套叠）。
+
+> [!danger] 双相反应 biphasic —— 小剂量"兴奋"、大剂量"抑制"
+> **<6 岁误服**最常见（烟头 / 电子烟液 e-cigarette liquid / 尼古丁胶 nicotine gum / 绿色烟草病 green tobacco sickness 经皮）。尼古丁在烟碱受体 (nicotinic receptor) 上**剂量依赖**地先激动后抑制：
+>
+> | 相 | 时间 | 机制 | 表现 |
+> |---|---|---|---|
+> | **刺激相 stimulatory** | <1h | 小剂量**激动**烟碱受体 | 高血压 (HTN) / 心动过速 / 躁动 / **肌阵挛 myoclonus** / 抽搐 |
+> | **抑制相 inhibitory** | 1–4h | 大剂量**功能性抑制** | 低血压 / 心动过缓 / 昏迷 / 肌麻痹 |
+>
+> 叠加**毒蕈碱样 muscarinic**（乙酰胆碱受体）：流涎 / 呕吐腹泻 / 支气管漏 bronchorrhea / 喘鸣 wheezing。
+> **治疗 = 支持为主**；抽搐 → 苯二氮䓬 benzodiazepine；有症状的心动过缓 + 毒蕈碱 → 阿托品 atropine；经皮暴露 → 去污。
+
+> [!warning] 易混：别被"呕吐腹泻"骗去肠道病
+> 小孩呕吐腹泻 + 肠鸣↑ 像胃肠炎/肠套叠，但**同时有 HTN + 心动过速 + 喘鸣 + 流涎 + 肌阵挛** = **多系统兴奋（交感 + 毒蕈碱）+ 肌阵挛 → 指向中毒**，不是单纯 GI。
+> - **肠套叠 intussusception / 病毒胃肠炎**：无 HTN / 喘鸣 / 流涎 / 肌阵挛。
+> - **过敏 anaphylaxis**：低血压（非 HTN）+ 荨麻疹 + 气道水肿；无肌阵挛。
+> - **会厌炎 epiglottitis**（未免疫 Hib）：发热 + 吞咽困难 + stridor（非 wheezing）。
+>
+> vs **有机磷 organophosphate**：尼古丁早期偏**交感兴奋（HTN/心动过速）**、有机磷偏**毒蕈碱全开（缓脉/缩瞳/DUMBELS）**；两者都有烟碱样肌束颤/肌阵挛。
+
+---
+
 ## 三、特殊：腐蚀剂 caustic ingestion 要点
 
 - **碱性 alkali**（管道清洁剂）→ **液化坏死**，穿透深 → 食管穿孔/纵隔炎、**远期食管狭窄 + 数年后鳞癌**；胃损伤较轻（胃酸中和）。
@@ -176,6 +201,13 @@ type: 专题笔记
 | 水杨酸 salicylate | 碳酸氢钠 + 血液透析 hemodialysis |
 | 局麻药/脂溶性药过量 (LAST) | 脂肪乳 lipid emulsion |
 
+> [!danger] 顺序焊死：去污 (decontamination) 优先于解毒 —— 有机磷皮肤暴露（Q3134）
+> 错题地基：[[mistakes/uworld-mistakes_2026-06#^Q3134]]（3 岁储物棚化学品 + 针尖瞳 + 肌束颤，插管后误选碳酸氢钠）。
+> **中毒处理顺序**：**① ABC 稳定（插管）→ ② 去污（脱去污染衣物 + 大量冲洗皮肤/眼）→ ③ 解毒（阿托品 atropine + 解磷定 pralidoxime）**。
+> - 有机磷为**脂溶性、可经皮吸收**：污染衣物（化学品 + 呕吐物）若不脱 + 不冲，会**持续吸收 + 污染医护**（医护需戴 PPE 个人防护装备 personal protective equipment）。
+> - ❌ **碳酸氢钠 sodium bicarbonate / 测 QRS = TCA 过量**（抗胆碱：散瞳/干红/宽 QRS），与有机磷（**缩瞳/湿/肌束颤**）方向相反 —— 别把胆碱能错认 TCA。
+> - ❌ **毒扁豆碱 physostigmine** 治抗胆碱，给有机磷会**加重**；血液透析对胆碱能中毒无用。
+
 > [!danger] 焊死陷阱：CCB 中毒的"钙 + 胰岛素-葡萄糖" ≠ 高钾的"钙 + 胰岛素-葡萄糖"
 > 同样两味药，**给的理由完全相反**：
 >
@@ -277,7 +309,11 @@ type: 专题笔记
 
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes_2026-06#^Q17900]] 有机磷/神经毒剂（**胆碱能 DUMBELS** 标杆 → RBC AChE）
+  - [[mistakes/uworld-mistakes_2026-06#^Q3134]] 有机磷皮肤暴露（插管后**去污优先**：脱衣冲洗 → 误选碳酸氢钠）
+  - [[mistakes/uworld-mistakes_2026-06#^Q20437]] 尼古丁中毒（双相 + 毒蕈碱 → 误选肠套叠）
   - [[mistakes/uworld-mistakes_2026-06#^Q4035]] TCA 过量（**抗胆碱** + 钠通道宽 QRS → 碳酸氢钠）
+  - [[mistakes/uworld-mistakes_2026-06#^Q2662]] 抗胆碱中毒（苯海拉明：干红热散瞳 + 尿潴留 ✅做对）
+  - [[mistakes/uworld-mistakes_2026-06#^Q2664]] 苯二氮䓬过量（镇静催眠 vs 阿片：瞳孔/呼吸 ✅做对）
   - [[mistakes/uworld-mistakes_2026-06#^Q3856]] 腐蚀剂误服（口咽溃疡 + 流涎 + 意识清）
   - [[mistakes/uworld-mistakes_2026-06#^Q3827]] 铁中毒（呕血 + 高 AG 代酸 + radiopaque）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/GI]]（腐蚀剂食管损伤）/ [[完整笔记/Peixuan分科笔记/外科]]
@@ -299,4 +335,5 @@ type: 专题笔记
 - **v1.9**（2026-06-12）：§三-bis 按 UWorld 原图校准 APAP 活性炭窗口 —— **摄入 <4h 来诊 → first step = 活性炭**（1h 内最佳，证据支持 4h 内仍减肝毒性）+ 同步 ≥4h 测浓度落 Rumack-Matthew 列线图 + 经验性 NAC 指征（肝损/≥8h）+ UWorld 决策树 + 临床 4 期；**修正前版"单选选测浓度不选活性炭"的错误**（与 UWorld 矛盾——两步先后非二选一）。psych_物质急诊速查 §10 同步。
 - **v1.10**（2026-06-12）：§三-bis 嵌入 UWorld 三张原图（读图识别后重排为 决策树 → Rumack-Matthew 列线图 → APAP 毒性总表）+ 斜体图注，紧跟 APAP 决策树 callout 作图文对照。
 - **v1.8**（2026-06-12）：加 §三-bis 消化道去污 GI decontamination —— 中毒处理三层次（去污/解毒/增强清除）+ 活性炭（1h 窗 + PHAILS 无效口诀 + 气道禁忌 + MDAC 肠道透析）+ 全肠灌洗 WBI（铁/锂/缓释/藏毒包）+ 洗胃/吐根弃用；补全 PHAILS 各毒物"专属解法"交叉指向 §四。+ §关联回链 [[完整笔记/专题笔记/psych/psych_物质急诊速查]]，与其 §10 互为姊妹页（去污+解毒 ↔ 戒断+急救），双向闭合。
+- **v1.11**（2026-06-12）：加 §二-ter 尼古丁中毒 nicotine poisoning（双相：刺激相<1h HTN/心动过速/肌阵挛 → 抑制相 1–4h 低压/缓脉/昏迷 + 毒蕈碱样；别被呕吐腹泻骗去肠套叠/胃肠炎/过敏/会厌炎），兑现 [[mistakes/uworld-mistakes_2026-06#^Q20437]]；§四加 [!danger] 去污优先于解毒（有机磷皮肤暴露 ① ABC → ② 脱衣冲洗 → ③ 阿托品+解磷定；碳酸氢钠是 TCA 的反向陷阱），兑现 [[mistakes/uworld-mistakes_2026-06#^Q3134]]；§关联补 Q20437/Q3134 锚点。
 - **v1.7**（2026-06-12）：§5.1 加可乐定破直觉 [!question] callout —— α2 是抑制性自身受体（Gi→↓NE 释放）→ 激动"刹车受体"= 抗交感（非兴奋）；对比 α1 拮抗剂下游拦截；阿片/可乐定同偶联 Gi 抑制蓝斑；骤停反跳高血压须渐减；同类 methyldopa/dexmedetomidine。
