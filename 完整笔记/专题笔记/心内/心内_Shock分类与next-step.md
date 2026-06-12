@@ -133,6 +133,30 @@ PEA（电活动有 / 无脉搏）
 
 ## §四 Obstructive（梗阻性休克）
 
+### 4.0 三因速辨（都 JVD↑ + 低 BP + 冷 + 脉压窄）⭐ — 2026-06-12 新增
+
+> [!danger] 三者共享"梗阻性外观"，靠床旁体征 + ECG + 超声切开
+> 心包填塞 (cardiac tamponade)、大面积肺栓塞 (massive PE)、张力性气胸 (tension pneumothorax, PTX) 都表现**颈静脉怒张 (JVD) + 低血压 + 冷末梢 + 心动过速**。一张表区分：
+
+| 维度 | 心包填塞 Tamponade | 大面积肺栓塞 Massive PE | 张力性气胸 Tension PTX |
+|---|---|---|---|
+| **心音** | **遥远 (muffled)** | 正常（可 P2 亢进 / 右心 S3）| 正常 |
+| **呼吸音** | 双侧正常 | 双侧正常 | **患侧消失** |
+| **叩诊** | 正常 | 正常 | **患侧过清音 (hyperresonant)** |
+| **气管** | 居中 | 居中 | **偏向健侧 (away)** |
+| **PCWP** | **↑（= CVP，等压）** | 正常 / ↓ | ↓ |
+| **ECG** | **电交替 (electrical alternans) + 低电压** | **S1Q3T3 / 新发 RBBB / 窦速** | 窦速 |
+| **床旁超声** | 心包积液 + **RV 舒张期塌陷** + IVC 充盈 | **RV 扩张 + McConnell 征** | **肺滑动征消失 + 条形码征 (barcode)** |
+| **诱因钥匙** | 恶性肿瘤 / 主动脉夹层 / 尿毒症 / 心脏术后或穿透伤 | 制动 / 术后 / 活动性癌 / OCP / 既往 VTE | **创伤 / 机械通气（正压通气）** / 瘦高年轻男 / COPD-CF |
+| **第一步处理** | **心包穿刺 pericardiocentesis** | **溶栓 tPA**（不稳无禁忌）/ 取栓 | **立即针刺减压 → 胸管** |
+
+> [!tip] 30 秒分流口诀
+> **听诊先分**：心音遥远 → 填塞；患侧呼吸音消失 + 气管偏健侧 → 张力性气胸；双侧都正常 → 想 massive PE。
+> **再看 ECG/超声确认**：电交替 = 填塞；S1Q3T3 + RV 扩张 = PE；肺滑动消失 = PTX。
+> **三个第一步互不通用**：穿刺 / 溶栓 / 针刺减压 —— 全都**不靠大量补液、不靠纯升压药**。
+>
+> 全体系外链：PE → [[完整笔记/专题笔记/pulmonary/pulmonary_肺栓塞PE]] ｜ 气胸 → [[完整笔记/专题笔记/pulmonary/pulmonary_气胸Pneumothorax]] ｜ 心包填塞 → [[完整笔记/专题笔记/心内/心内_心包心肌病谱]]
+
 ### 4.1 心包填塞（Cardiac Tamponade）— [[mistakes/uworld-mistakes_2026-05#^Q20254]]
 
 | 维度 | 内容 |
@@ -299,7 +323,9 @@ PEA（电活动有 / 无脉搏）
   - [[mistakes/uworld-mistakes_2026-05#^Q17169]] Adrenal Crisis vs Anaphylaxis（关键镜像题）
   - [[mistakes/uworld-mistakes_2026-05#^Q19929]] 高钾伪 brady-shock
   - [[mistakes/uworld-mistakes_2026-05#^Q2663]] β-blocker 中毒 → Glucagon（药物源休克）
-  - （等积累 septic / neurogenic / tension PTX 错题）
+  - [[mistakes/uworld-mistakes_2026-06#^Q16316]] 创伤张力性气胸 + 持续大漏气 → 支气管镜（obstructive — tension PTX 锚点）
+  - [[mistakes/uworld-mistakes_2026-06#^Q4613]] 制动 + 突发 PE 渗出血性积液（obstructive — PE 识别）
+  - （等积累 septic / neurogenic 错题）
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/心内]]（cardiogenic / obstructive）
   - [[完整笔记/Peixuan分科笔记/感染]]（septic shock / sepsis bundle）
@@ -311,6 +337,8 @@ PEA（电活动有 / 无脉搏）
   - [[完整笔记/专题笔记/肾脏/肾脏_电解质急症速查]]（休克 + 电解质共病）
   - [[完整笔记/专题笔记/心内/心内_ACLS急救决策树]](PEA / VF / 急救流程)
   - [[完整笔记/专题笔记/心内/心内_主动脉急症决策树]](AAA / 夹层)
+  - [[完整笔记/专题笔记/pulmonary/pulmonary_肺栓塞PE]]（massive PE 全体系：Wells / 溶栓 vs 取栓）
+  - [[完整笔记/专题笔记/pulmonary/pulmonary_气胸Pneumothorax]]（张力性气胸全体系：针刺减压阶梯）
 - 🌱 TODO（待积累）：
   - 等 septic shock / neurogenic / tension PTX 错题各 1 道 → 添 stem 锚点
   - 等积累 burn / pancreatitis 第三间隙休克错题

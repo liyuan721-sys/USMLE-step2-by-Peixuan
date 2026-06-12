@@ -131,6 +131,8 @@ parent_topic: 儿童喘鸣 stridor / 急性上气道梗阻鉴别 — 定位 + 4 
 
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes_2026-06#^Q115197]] Croup 病因 = 副流感（误选 Hib = 会厌炎）
+  - [[mistakes/uworld-mistakes_2026-06#^Q14717]] 哮吼 Croup 定位 = 喉+近端气管水肿（声门下，上气道喘鸣安静缓解）
+  - [[mistakes/uworld-mistakes_2026-06#^Q3289]] 会厌炎气道处理 = 插管一线（可控环境），手术气道仅插管失败时
   - [[mistakes/uworld-mistakes_2026-06#^Q3788]] 新生儿破伤风（"吸气性 stridor"线索的不同病因对照——喉肌痉挛）
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/pulmonary]]（上气道梗阻总表 + 困难气道算法 + 异物管理）/ [[完整笔记/Peixuan分科笔记/儿科]] / [[完整笔记/Peixuan分科笔记/感染]]（会厌炎/气管炎抗生素）

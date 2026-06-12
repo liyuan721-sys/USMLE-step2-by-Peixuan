@@ -9005,9 +9005,9 @@ type: 错题数据源
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：（暂无）
-> - 📚 主笔记：[[完整笔记/专题笔记/儿科/儿科_喘鸣stridor急性气道鉴别]]（会厌炎 / 成人会厌炎）
+> - 📚 主笔记：[[完整笔记/专题笔记/儿科/儿科_喘鸣stridor急性气道鉴别]]（会厌炎 / 成人会厌炎）/ [[完整笔记/专题笔记/外科/外科_困难气道与紧急气道]]（§一升级阶梯 + §二插管失败为何不选 LMA/BiPAP/盲鼻插；本卡 Q15962 已反链于此）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/感染]]（HIV 机会感染 / 念珠菌）/ [[mistakes/uworld-mistakes_2026-06#^Q15961]] 成人会厌炎诊断（同病不同步骤：诊断 vs 气道升级）
-> - 🌱 TODO：困难气道升级 SOP（BVM→视频喉镜→外科气道）
+> - 🌱 TODO：✅ 已建 [[完整笔记/专题笔记/外科/外科_困难气道与紧急气道]]（BVM→视频喉镜→外科气道 升级 SOP）
 > 
 > ## ✅ 复盘行动
 > - [ ] 默写：会厌炎插管失败+低氧→环甲膜切开（不LMA/不BiPAP/不重复插）
@@ -12185,8 +12185,9 @@ type: 错题数据源
 >   - [[mistakes/uworld-mistakes_2026-06#^Q4053]] 同日 CHF 漏出液 pH（渗出 vs 漏出对照）
 >   - [[mistakes/uworld-mistakes_2026-06#^Q4388]] IVDU 三尖瓣 IE → 脓毒肺栓
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/pulmonary]]（Pleural Effusion + Pulmonary Embolism 段）
+>   - 专题：[[完整笔记/专题笔记/pulmonary/pulmonary_胸腔积液与脓胸]]（PE = 渗出/血性/小量，§五诊断钥匙）/ [[完整笔记/专题笔记/pulmonary/pulmonary_肺栓塞PE]]（PE 诊治主线；本卡 Q4613 已反链于胸腔积液篇）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/neuro]]（MS → 制动）/ [[完整笔记/Peixuan分科笔记/外科]]（VTE 预防）
-> - 🌱 TODO：建议在 pulmonary.md 胸腔积液段补一句"PE → 小量渗出血性积液 + CTPA"（属分科主笔记，需你确认后再加）
+> - 🌱 TODO：✅ 无需新建——"PE → 小量渗出血性积液"已在 [[完整笔记/专题笔记/pulmonary/pulmonary_胸腔积液与脓胸]] 覆盖，仅补全正向链接
 > 
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做
@@ -12241,8 +12242,9 @@ type: 错题数据源
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-06#^Q4613]] 同日 PE 渗出血性积液（渗出对照）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/pulmonary]]（Pleural Effusion / Light's criteria / pH 段）
+>   - 专题：[[完整笔记/专题笔记/pulmonary/pulmonary_胸腔积液与脓胸]]（§渗出vs漏出 Light 标准 + §六 假渗出 Pseudoexudate；本卡 Q4053 已反链于此）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（CHF）/ [[完整笔记/Peixuan分科笔记/肾脏]]（漏出液机制）
-> - 🌱 TODO：pulmonary.md 已含 Light / pH 表，无需新建；"假渗出 pseudoexudate"概念建议补一句（分科主笔记，需你确认）
+> - 🌱 TODO：✅ 无需新建——Light/pH + 假渗出 pseudoexudate 已在 [[完整笔记/专题笔记/pulmonary/pulmonary_胸腔积液与脓胸]] 完整覆盖，仅补全正向链接
 > 
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做
@@ -12409,7 +12411,7 @@ type: 错题数据源
 > - 🔁 同主题错题：慢性/亚急性咳嗽暂无同主题卡（首张）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/pulmonary]]（慢性咳嗽 U→A→G 段）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/免疫，疫苗]]（过敏性鼻炎 → UACS）/ [[完整笔记/Peixuan分科笔记/GI]]（GERD 咳嗽）
-> - 🌱 TODO：pulmonary.md 已含"先排 U → 一代抗组胺"；建议补"亚急性 3–8 周 + URI 后经验治疗"一句（分科主笔记，需你确认）
+> - 🌱 TODO：✅ 已建 [[完整笔记/专题笔记/pulmonary/pulmonary_慢性亚急性咳嗽Cough]]（病程分类 + 急性支气管炎/百日咳 + 慢性 U→A→G + 本题 Q8815 干扰项辨析 + 红旗征；分科笔记只读，知识点已在专题笔记完整覆盖）
 > 
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做
@@ -12466,8 +12468,9 @@ type: 错题数据源
 >   - [[mistakes/uworld-mistakes_2026-06#^Q15961]] 成人会厌炎气道稳 → 颈侧位片
 >   - [[mistakes/uworld-mistakes_2026-06#^Q14717]] 同日 哮吼 Croup（喘鸣对照）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/儿科]]（会厌炎 vs 哮吼 鉴别）/ [[完整笔记/Peixuan分科笔记/pulmonary]]
+>   - 专题：[[完整笔记/专题笔记/儿科/儿科_喘鸣stridor急性气道鉴别]]（§二 会厌炎整行：气道优先/别压舌/thumb sign/ceftriaxone+vanc）/ [[完整笔记/专题笔记/外科/外科_困难气道与紧急气道]]（§一气道升级阶梯 = 本题考点：插管一线→失败+低氧→环甲膜切开；§三儿童改针刺环甲膜）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/感染]]（Hib 病原 + 疫苗）
-> - 🌱 TODO：儿科.md 已含"会厌炎 = drooling+tripod+airway first"，无需新建
+> - 🌱 TODO：✅ 无需新建——本题知识点已在专题笔记完整覆盖（喘鸣鉴别 + 困难气道阶梯，见上 📚 专题链接），仅补全双向链接
 > 
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做
@@ -12529,8 +12532,9 @@ type: 错题数据源
 > ## 🔗 关联
 > - 🔁 同主题错题：COPD 稳定期初始治疗暂无同主题卡（首张）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/pulmonary]]（COPD Management 段）
+>   - 专题：[[完整笔记/专题笔记/pulmonary/pulmonary_COPD]]（§四稳定期管理：LABA+LAMA 一线 / ICS 适应证 / 延寿三件事 / 家庭氧疗指征 / AECOPD）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（COPD → 肺心病）/ [[完整笔记/Peixuan分科笔记/免疫，疫苗]]（COPD 疫苗）
-> - 🌱 TODO：建议在 pulmonary.md COPD 段补"GOLD A/B/E 分组初始治疗（B/E→LABA+LAMA；ICS 适应证）"表（分科主笔记现缺此块，需你确认后再加）
+> - 🌱 TODO：✅ 已建 [[完整笔记/专题笔记/pulmonary/pulmonary_COPD]]（含 GOLD A/B/E 分组初始治疗 + B/E→LABA+LAMA + ICS 适应证；分科笔记只读，知识点已在专题笔记完整覆盖）
 > 
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做
@@ -12575,8 +12579,9 @@ type: 错题数据源
 >   - [[mistakes/uworld-mistakes_2026-06#^Q115197]] 哮吼病因 = Parainfluenza（病因对照）
 >   - [[mistakes/uworld-mistakes_2026-06#^Q3289]] 同日 会厌炎（drooling+tripod，气道急症对照）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/儿科]]（哮吼 vs 会厌炎）/ [[完整笔记/Peixuan分科笔记/pulmonary]]
+>   - 专题：[[完整笔记/专题笔记/儿科/儿科_喘鸣stridor急性气道鉴别]]（§一喘鸣定位 + §二 Croup 整行：副流感/steeple sign/地塞米松±雾化肾上腺素 + §七决策树）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/感染]]（副流感病毒）
-> - 🌱 TODO：儿科.md 已含哮吼定位 + 治疗，无需新建
+> - 🌱 TODO：✅ 无需新建——本题知识点已在专题笔记完整覆盖（[[完整笔记/专题笔记/儿科/儿科_喘鸣stridor急性气道鉴别]]），仅补全双向链接
 > 
 > ## ✅ 复盘行动
 > - [ ] 默写"哮吼=声门下水肿(上气道喘鸣安静缓解)；会厌炎=高热流涎三脚架"
