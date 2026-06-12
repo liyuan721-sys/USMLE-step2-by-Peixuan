@@ -63,6 +63,90 @@ type: 专题笔记
 
 ---
 
+## 三-bis、消化道去污 GI decontamination（活性炭 / 全肠灌洗）⭐
+
+> [!info] 中毒处理三层次（先定位"打哪一环"）
+> ```
+> ① 去污 decontamination     → 阻止"还没吸收的"毒物入血（活性炭 / 全肠灌洗）
+> ② 解毒 antidote            → 中和/拮抗"已入血的"毒物（见 §四）
+> ③ 增强清除 enhanced elimination → 把"已入血的"加速排出（碱化尿、血透 HD (hemodialysis, 血液透析)、MDAC）
+> ```
+> 活性炭横跨 ①（单剂去污）和 ③（多剂 MDAC = "肠道透析"）。
+
+### 活性炭 Activated Charcoal ⭐⭐
+
+> [!tip] 机制 + 时间窗
+> 巨大表面积**吸附 (adsorb)** 肠腔毒物 → 阻断吸收、随粪便排出（**只物理拦截，不中和不解毒**）。
+> **黄金窗 = 摄入后 1 小时内 (within 1 hour) 最有效**（USMLE 默认锚点）；超 1h 后获益随时间递减，但下列情况**可延至 ~2–4 小时仍考虑**：
+> - **大量摄入**（吸收延迟）、**缓释剂型 (extended-release)**、**减慢胃排空的共摄入药**（抗胆碱能 / 阿片）；
+> - **大量对乙酰氨基酚 (acetaminophen, APAP) 过量** —— 经典"可至摄入后 4 小时内"考虑活性炭。
+>
+> ⚠️ 活性炭与列线图**不是二选一，是先后两步**（贴合 UWorld）：
+> - **摄入 <4 小时来诊 → first step = 活性炭**（gastric decontamination 胃肠去污）。1h 内最有效，但**证据支持 4 小时内**给仍减少肝毒性。
+> - **同时安排 ≥4 小时（postingestion）测血药浓度** → 落 **Rumack-Matthew 列线图 (nomogram)** → 高于 treatment line 给 NAC。**两步都做。**
+> - **4–24 小时才来 → 过活性炭窗**，直接测浓度走列线图 ± 经验性 NAC。
+> - ✅ 经验性 NAC（不等列线图直接上）指征：**有肝损证据**（ALT/AST = 谷丙/谷草转氨酶 alanine/aspartate aminotransferase↑、右上腹 RUQ (right upper quadrant, 右上腹) 压痛）**或 ≥8 小时**已过 / 血药浓度要 ≥8h 才能出。
+
+> [!example] UWorld：急性 APAP 过量 initial management 决策树
+> ```
+> 摄入后时间 Time since ingestion
+> ├─ <4 h  → ① 活性炭 activated charcoal（first step）
+> │            ② ≥4h 测 APAP level
+> └─ 4–24 h → 直接 ≥4h 测 APAP level（不给炭）
+>          │
+>          ├─ 经验性 NAC if：肝损证据(ALT/AST↑/RUQ痛) 或 ≥8h
+>          └─ level 出 → 落 Rumack-Matthew nomogram
+>                         → 高于 treatment line → 给 NAC
+> ```
+> Educational objective：**<4h** 单次中毒量（成人 **≥7.5 g**）来诊 → **第一步 = 活性炭去污**，再 ≥4h 测浓度落图定 NAC。
+> 临床 4 期（time from ingestion）：**≤24h** 无症状/恶心 → **24–72h** AST/ALT↑ + RUQ 痛 → **72–96h** 转氨酶峰（可 >10000 U/L）+ PT/INR (凝血酶原时间 / 国际标准化比值 prothrombin time / international normalized ratio)↑ / 低糖 / 乳酸酸中毒 / AKI (acute kidney injury, 急性肾损伤) → **4–14d** 恢复或死亡。
+
+![[{F687D782-5849-4C7A-B995-54904F59909B}.png]]
+*↑ UWorld 原图：急性 APAP 过量 initial management 决策树 —— **<4h → 先活性炭**；4–24h → 直接 ≥4h 测浓度；经验性 NAC 指征（肝损 ALT/AST↑·RUQ 压痛 或 ≥8h）；浓度出 → 落 Rumack-Matthew 列线图 → 高于 treatment line 给 NAC。*
+
+![[{5915A732-D827-445F-A7B1-7EE4088FAD4C}.png]]
+*↑ UWorld 原图：Rumack-Matthew 列线图 (nomogram) —— 纵轴血浆 APAP 浓度（对数 mcg/mL）× 横轴摄入后 4–24h；浓度落在 **Treatment line（实线，4h≈150 mcg/mL）上方 → 给 NAC**。上方虚线为原始 Rumack-Matthew line（4h≈200），实线 = 下移 25% 的安全治疗线。*
+
+![[{C8BA3263-CBF2-49E7-A8A4-40B6DB72F549}.png]]
+*↑ UWorld 原图：急性 APAP 毒性总表 —— 病理（谷胱甘肽 glutathione 耗竭 → 毒性代谢物 NAPQI (N-乙酰对苯醌亚胺)）/ 临床 4 期 / 诊断（4–24h 测浓度）/ 治疗（活性炭 if <4h + NAC）。与上方 §三-bis 文字 + 决策树互为图文对照。*
+
+> [!warning] 活性炭**无效**的毒物 —— 口诀 **PHAILS**
+> 不被吸附，给了也没用（甚至有害）：
+>
+> | 字母 | 毒物 | 中文 |
+> |---|---|---|
+> | **P** | Pesticides（部分）| 农药 |
+> | **H** | Hydrocarbons | 烃类（汽油/煤油）——给炭反增误吸风险 |
+> | **A** | Acids / Alkalis (caustics) | 强酸/强碱（腐蚀剂）|
+> | **I** | Iron | 铁 |
+> | **L** | Lithium | 锂 |
+> | **S** | Solvents / alcohols | 溶剂/醇类（甲醇 methanol / 乙二醇 ethylene glycol / 乙醇 ethanol）|
+>
+> 记忆钩：**金属离子（铁/锂）+ 醇类 + 腐蚀剂 + 烃类 = 炭抓不住**。这几样恰好都有**自己的专属解法**（铁→去铁胺、锂→血透、醇→甲吡唑、腐蚀剂→内镜）。
+
+> [!danger] 禁忌症（高频考"不能给炭"）
+> - **意识改变 (altered mental status) + 气道未保护** → **误吸 (aspiration) 致命** → 必须**先插管保护气道**再给。
+> - **肠梗阻 / 肠穿孔 / 肠鸣音消失** (ileus / perforation)
+> - **腐蚀剂摄入 (caustic)** → 无效 + 妨碍后续内镜评估（呼应 §三：腐蚀剂"不催吐、不中和、不洗胃、不给炭"）
+> - **烃类 (hydrocarbon)** → 误吸风险高、无吸附获益
+
+> [!info] 多剂活性炭 MDAC (Multi-Dose Activated Charcoal, 多剂活性炭)
+> 每 2–4 小时重复给药 → ①拦截缓释药持续释放；②**"肠道透析 gut dialysis"**：打断**肠肝循环 (enterohepatic) / 肠-肠循环**，把已入血的药拉回肠腔。
+> **MDAC 经典适用药**：卡马西平 carbamazepine、氨苯砜 dapsone、苯巴比妥 phenobarbital、奎宁 quinine、茶碱 theophylline。
+
+### 其他去污方式对比
+
+| 方式 | 中英 | 何时优于活性炭 / 备注 |
+|---|---|---|
+| **全肠灌洗** | Whole bowel irrigation (WBI)，聚乙二醇 polyethylene glycol (PEG) | 用于**活性炭无效**的毒物：**铁、锂**、缓释药、体内藏毒包 (body packers) |
+| **洗胃** | Gastric lavage | 几乎已淘汰，仅极早期致命大量摄入且 <1 h |
+| **催吐（吐根）** | Ipecac syrup（吐根糖浆）| **已弃用**，考试选"不推荐" |
+
+> [!success] 一句话锁定（活性炭）
+> **活性炭 = 1 小时内 + 气道安全 + 非 PHAILS 毒物。意识不清先插管；铁/锂/醇/腐蚀剂/烃类一律无效，各有专属解法。**
+
+---
+
 ## 四、中毒解毒剂 antidote 速查表 ⭐
 #难记
 
@@ -197,7 +281,7 @@ type: 专题笔记
   - [[mistakes/uworld-mistakes_2026-06#^Q3856]] 腐蚀剂误服（口咽溃疡 + 流涎 + 意识清）
   - [[mistakes/uworld-mistakes_2026-06#^Q3827]] 铁中毒（呕血 + 高 AG 代酸 + radiopaque）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/GI]]（腐蚀剂食管损伤）/ [[完整笔记/Peixuan分科笔记/外科]]
-- 🧩 专题：[[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]]（§8.3 铁中毒 / §8 高 AG 代酸 MUDPILES）/ [[完整笔记/专题笔记/物质单药/psych_物质_Opioids]]（阿片中毒/纳洛酮）
+- 🧩 专题：[[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]]（§8.3 铁中毒 / §8 高 AG 代酸 MUDPILES）/ [[完整笔记/专题笔记/物质单药/psych_物质_Opioids]]（阿片中毒/纳洛酮）/ [[完整笔记/专题笔记/psych/psych_物质急诊速查]]（戒断/急救/维持——姊妹中毒主笔记；本笔记 §三-bis 去污 + §四解毒剂 ↔ 该笔记 §10 治疗法则，双向互补）
 - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/psych]]（自杀/自伤误服背景）/ [[完整笔记/Peixuan分科笔记/儿科]]（幼儿误服）
 - 🌱 TODO：✅ 已补 §四 中毒解毒剂 antidote 对照表（2026-06-11，兑现 Q3136/Q4487/Q19181/Q4510 等）+ §五 阿片中毒 vs 戒断
 
@@ -212,4 +296,7 @@ type: 专题笔记
 - **v1.4**（2026-06-12）：§四 加两个焊死 callout —— ① CCB 中毒"钙 + 胰岛素-葡萄糖" ≠ 高钾"钙 + 胰岛素-葡萄糖"（机制对照：稳膜/移钾 vs 克服阻滞/HIET 强心 + 剂量差 10 倍）；② β阻滞剂（glucagon，低血糖）vs CCB（钙+HIET，高血糖）解毒对比 + "低糖/高糖"分流钥匙。
 - **v1.5**（2026-06-12）：§四 加磺脲类 sulfonylurea 低血糖 callout —— 奥曲肽 octreotide 机制（生长抑素类似物抑制 β 细胞 Ca²⁺ 内流 → 关胰岛素分泌）+ "光给葡萄糖→反跳性低血糖"陷阱 + SU/外源胰岛素/β阻滞剂三类低血糖处理对比。
 - **v1.6**（2026-06-12）：§五 加 5.1 四药用药原理（受体药理）—— 纳洛酮纯拮抗（半衰期短/催戒断）/ 美沙酮完全激动 / 丁丙诺啡部分激动（封顶效应）/ 可乐定蓝斑 α2 压交感；+ 部分激动剂"沉降性戒断 precipitated withdrawal"陷阱 + Suboxone 防滥用设计。
+- **v1.9**（2026-06-12）：§三-bis 按 UWorld 原图校准 APAP 活性炭窗口 —— **摄入 <4h 来诊 → first step = 活性炭**（1h 内最佳，证据支持 4h 内仍减肝毒性）+ 同步 ≥4h 测浓度落 Rumack-Matthew 列线图 + 经验性 NAC 指征（肝损/≥8h）+ UWorld 决策树 + 临床 4 期；**修正前版"单选选测浓度不选活性炭"的错误**（与 UWorld 矛盾——两步先后非二选一）。psych_物质急诊速查 §10 同步。
+- **v1.10**（2026-06-12）：§三-bis 嵌入 UWorld 三张原图（读图识别后重排为 决策树 → Rumack-Matthew 列线图 → APAP 毒性总表）+ 斜体图注，紧跟 APAP 决策树 callout 作图文对照。
+- **v1.8**（2026-06-12）：加 §三-bis 消化道去污 GI decontamination —— 中毒处理三层次（去污/解毒/增强清除）+ 活性炭（1h 窗 + PHAILS 无效口诀 + 气道禁忌 + MDAC 肠道透析）+ 全肠灌洗 WBI（铁/锂/缓释/藏毒包）+ 洗胃/吐根弃用；补全 PHAILS 各毒物"专属解法"交叉指向 §四。+ §关联回链 [[完整笔记/专题笔记/psych/psych_物质急诊速查]]，与其 §10 互为姊妹页（去污+解毒 ↔ 戒断+急救），双向闭合。
 - **v1.7**（2026-06-12）：§5.1 加可乐定破直觉 [!question] callout —— α2 是抑制性自身受体（Gi→↓NE 释放）→ 激动"刹车受体"= 抗交感（非兴奋）；对比 α1 拮抗剂下游拦截；阿片/可乐定同偶联 Gi 抑制蓝斑；骤停反跳高血压须渐减；同类 methyldopa/dexmedetomidine。
