@@ -162,6 +162,17 @@ MAOI 患者出问题
 > - ❌ 别因"精神药 + 高热"就给**赛庚啶**（SS 才用）或**丹曲林**（NMS/MH 才用）。
 > - 运动相关急症完整谱见 [[完整笔记/专题笔记/心内/心内_运动相关晕厥急症四鉴别]]。
 
+> [!danger] 第六位：经典型（非劳力）热射病 NHS（老人，别误当戒断/脓毒症）⭐
+> [[mistakes/uworld-mistakes_2026-06#^Q3689]]：74 岁 + 热桑拿(高湿) ≥3h + **核心 T≥40°C + AMS** + DIC + 肺水肿 + 血液浓缩 → 误选酒精戒断。
+> - **经典型/非劳力性热射病 (nonexertional / classic heat stroke, NHS)** = **老人/肥胖/慢病/药物**（利尿剂/抗胆碱/β阻滞剂/兴奋剂 → 散热障碍）+ **高湿环境**（>75% 湿度阻蒸发散热）；**无需运动**（vs EHS）。
+> - **诊断**：核心 **T≥40°C + CNS 障碍**（脑病/抽搐）。
+> - **并发症**：**DIC（弥散性血管内凝血 disseminated intravascular coagulation）+ 肺水肿 + 肾/肝衰 + 血液浓缩**（Hb/WBC/PLT/BUN↑因脱水）。
+> - **降温分型钥匙** ⭐：
+>   - **经典型 NHS（老人）→ 蒸发降温 evaporative cooling**（喷温水 + 风扇，耐受好）。
+>   - **劳力型 EHS（年轻）→ 冰水浸泡 ice water immersion**。
+>   - 两者都 **❌ 退热药/丹曲林无效**。
+> - **别误诊**：酒精戒断（该**高血压**非低压 + 震颤幻觉，**DIC/肺水肿非典型**——"最近饮酒多"是诱饵）/ 脓毒症（T>40 不典型）/ MH（需麻醉 + 肌强直，NHS 肌张力反**减**）。
+
 ---
 
 ## 六、CK 经典 stem
@@ -213,6 +224,7 @@ MAOI 患者出问题
   - [[mistakes/uworld-mistakes_2026-05#^Q2501]] NMS vs EPS 鉴别 + NMS 用药
   - [[mistakes/uworld-mistakes_2026-05#^Q20497]] Venlafaxine 剂量依赖性高血压（同 adrenergic 通路）
   - [[mistakes/uworld-mistakes_2026-06#^Q3691]] 劳力性热射病 EHS（第五位高热急症，冰水浸泡；误选赛庚啶）
+  - [[mistakes/uworld-mistakes_2026-06#^Q3689]] 经典型热射病 NHS（老人热桑拿，蒸发降温；误选酒精戒断）
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/psych]]（NMS / SS / 抗精神病药 EPS）
   - [[完整笔记/Peixuan分科笔记/neuro]]（PD 用药 + MAO-B + serotonin）

@@ -1258,6 +1258,7 @@ Step 6: 锁定 → 选答案
   - [[mistakes/uworld-mistakes_2026-05#^Q19929]] Hyperkalemia 紧急（Sine wave ECG 指纹触发 2.6 新增）
   - [[mistakes/uworld-mistakes_2026-06#^Q4511]] 乙二醇中毒（草酸钙结晶尿 + 高 AG + 渗透压间隙 + 低钙 + AKI → 甲吡唑 ✅做对）
   - [[mistakes/uworld-mistakes_2026-06#^Q107283]] 氰化物中毒（火灾 + 樱桃红 + 乳酸↑↑ + SpO₂ 不掉 → 羟钴胺，§5.7 三毒对照 ✅做对）
+  - [[mistakes/uworld-mistakes_2026-06#^Q3223]] CO 中毒（火灾 + 抽搐 + **SpO₂ 假性正常** → 100% 氧，§5.7 三毒对照；误选劳拉西泮）
   - 等内分泌 / 肾 / 血液 / 中毒 / 急诊各类"指纹病"错题积累
 - 📚 **主笔记**：
   - [[完整笔记/Peixuan分科笔记/endocrine]]（内分泌指纹病主战场）
