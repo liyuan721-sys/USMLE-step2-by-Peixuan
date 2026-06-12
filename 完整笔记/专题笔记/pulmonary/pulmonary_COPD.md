@@ -20,9 +20,10 @@ type: 专题笔记
 | **Chronic bronchitis（慢性支气管炎）** | "Blue bloater"（蓝肿型） | smoker + **productive cough（咳痰）** ≥3 月/年 × 2 年；缺氧发绀 + 右心衰 |
 | **Emphysema（肺气肿）** | "Pink puffer"（粉喘型） | 消瘦、缩唇呼吸、桶状胸；肺泡破坏 → DLCO ↓ |
 
-> [!note] 解剖分型
-> - **Centriacinar / centrilobular（小叶中央型）** → 吸烟，**上叶 (upper lobe) 为主**
-> - **Panacinar（全小叶型）** → **alpha-1 antitrypsin deficiency, AATD（α1-抗胰蛋白酶缺乏症）**，**下叶 (basilar) 为主**
+> [!note] 肺气肿 (emphysema) 的解剖分型
+> 这套 acinar（腺泡）分型**专指肺气肿**——按肺泡腺泡 (acinus，气体交换单位) 哪部分被破坏来分；慢性支气管炎 (chronic bronchitis) 是气道/临床诊断（咳痰 ≥3 月/年 × 2 年），**没有**这套分型。
+> - **Centriacinar / centrilobular（小叶中央型）** → 破坏腺泡**近端**（呼吸性细支气管）→ **吸烟**，**上叶 (upper lobe) 为主**
+> - **Panacinar / panlobular（全小叶型）** → 破坏**整个腺泡** → **alpha-1 antitrypsin deficiency, AATD（α1-抗胰蛋白酶缺乏症）**，**下叶 (basilar) 为主**
 
 ---
 
