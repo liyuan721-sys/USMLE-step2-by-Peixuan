@@ -123,6 +123,16 @@ type: 专题笔记
 
 **糖皮质激素（长期高剂量）：**可能唇腭裂风险略增（题目偶尔出现；不如上面高频）
 
+**免疫抑制剂致畸"四杀"（备孕/孕妇换药考点）⭐**
+
+> 致畸必停（停药 → 受孕）：**霉酚酸酯 mycophenolate (MMF)**（唇腭裂 + 小耳畸形 microtia + 流产，停 6 周）｜**甲氨蝶呤 methotrexate (MTX)**（抗叶酸 → NTD，停 ≥3 月，也用于宫外孕/药流）｜**环磷酰胺 cyclophosphamide**（孕早期致畸 + 不孕）｜**来氟米特 leflunomide**（致畸 + 半衰期超长，需消胆胺 cholestyramine 洗脱）。
+>
+> 孕期**首选替代**：**硫唑嘌呤 azathioprine (AZA)**（胎肝缺活化酶 → 胎儿暴露低，移植/IBD/SLE 孕妇首选）｜**CNI 钙调磷酸酶抑制剂**（他克莫司 tacrolimus / 环孢素 cyclosporine）｜**羟氯喹 hydroxychloroquine (HCQ)**（SLE 孕妇续用）｜泼尼松 prednisone。
+>
+> 题眼：备孕/孕妇的**移植 / IBD / SLE** 病人在用 MMF 或 MTX → 答案是**换成 AZA / CNI / HCQ**，不是停掉所有免疫抑制（停 = 排异 / flare）。
+>
+> → 完整机制 + 对照表见 [[完整笔记/专题笔记/免疫/免疫_免疫抑制剂全谱]]（§十一·补 孕期毒性专表）。
+
 **六、情绪药/精神科（USMLE会考“新生儿并发症” + 双相孕期维持）**
 
 **锂（Lithium）**
