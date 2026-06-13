@@ -75,7 +75,7 @@ type: 专题笔记
 ## §二 Hypovolemic（低容量休克）
 
 ### 2.1 类型
-- **出血性 (hemorrhagic)** — 创伤、GI 出血、产科、**ruptured AAA** ⭐（[[mistakes/uworld-mistakes_2026-05#^Q4212]]）
+- **出血性 (hemorrhagic)** — 创伤、GI 出血、产科、**ruptured AAA** ⭐（[[mistakes/uworld-mistakes_2026-05#^Q4212]] / [[mistakes/uworld-mistakes_2026-06#^Q4540]] 创伤失血：颈静脉平 + 小左室腔 + EF↑高动力，镜像心包填塞）
 - **非出血性** — 严重脱水 / GI 丢失 / 烧伤 / 第三间隙（胰腺炎）
 
 ### 2.2 Next-Step

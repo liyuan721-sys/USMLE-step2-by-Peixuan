@@ -127,6 +127,7 @@ type: 专题笔记
 
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes_2026-06#^Q16316]] 气管支气管损伤（持续大漏气）→ 支气管镜
+  - [[mistakes/uworld-mistakes_2026-06#^Q16261]] 新生儿张力气胸（透光增亮 + 纵隔移位）→ 立即针刺胸腔造口（误选停 nCPAP）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/pulmonary]]（Pneumothorax 段：自发 vs 张力 + 管理阶梯）
 - 🏥 跨学科：
   - [[完整笔记/Peixuan分科笔记/外科]]（创伤气胸 / 胸管 / VATS / 大气道损伤）

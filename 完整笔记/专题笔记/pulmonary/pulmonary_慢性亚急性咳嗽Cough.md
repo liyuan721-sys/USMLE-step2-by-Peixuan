@@ -104,6 +104,7 @@ type: 专题笔记
 
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes_2026-06#^Q8815]] URI 后亚急性咳嗽 + 鼻后滴 = UACS → 口服一代抗组胺
+  - [[mistakes/uworld-mistakes_2026-06#^Q10982]] 慢性咳嗽夜间加重 + 抗组胺无效 = 哮喘 → PFT（误选 TTE）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/pulmonary]]（慢性咳嗽 U→A→G 段 + 急性支气管炎）/ [[完整笔记/专题笔记/pulmonary/pulmonary_哮喘Asthma]] / [[完整笔记/专题笔记/pulmonary/pulmonary_COPD]]
 - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/GI]]（GERD 致咳，经验 PPI）；[[完整笔记/Peixuan分科笔记/免疫，疫苗]]（过敏性鼻炎 → UACS）；[[完整笔记/Peixuan分科笔记/心内]]（ACE-I "-pril" 干咳 → 换 ARB）
 - 🌱 TODO（待生成衍生）：攒够百日咳 (pertussis) / 咳嗽变异性哮喘错题后，扩"亚急性咳嗽"专章

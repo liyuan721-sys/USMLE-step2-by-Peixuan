@@ -173,6 +173,7 @@ type: 专题笔记
   - [[mistakes/uworld-mistakes_2026-06#^Q4613]] PE 致渗出性血性胸腔积液（制动 + 突发 + 无浸润影）
   - [[mistakes/uworld-mistakes_2026-06#^Q4388]] IVDU 三尖瓣 IE → 金葡脓毒肺栓（空洞结节，非血栓 PE）
   - [[mistakes/uworld-mistakes_2026-05#^Q19812]] 中心静脉导管相关 VTE（冲管后突发低氧低血压）
+  - [[mistakes/uworld-mistakes_2026-06#^Q3859]] 术后疑 PE + Wells>4 → 直接 CTA（误选 D-二聚体）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/pulmonary]]（Pulmonary Embolism 段：Wells / CTPA / 抗凝阶梯）
 - 🏥 跨学科：
   - [[完整笔记/Peixuan分科笔记/心内]]（massive PE → 梗阻性休克 / 右心衰）
