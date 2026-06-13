@@ -271,7 +271,7 @@ GN 共同 UA = **RBC casts + dysmorphic RBC + 蛋白尿**
 > [!info] Type 1 RTA 常见病因记忆
 > "**SLE-PAS**" — **S**jögren / **L**upus / **E**A multiforme / **P**lasma cell dyscrasia (MM) / **A**mphotericin B ★ / **S**ickle cell
 
-详细 RTA 4 型对比见 [[完整笔记/Peixuan分科笔记/肾脏]] / [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] §2.3
+详细 RTA 4 型对比见 [[完整笔记/专题笔记/肾脏/肾脏_RTA四型完整体系]]（RTA 主笔记）
 
 ### 3.11 药物诱发免疫性肾病（DIL-GN / ANCA-AAV / Membranous）★
 
