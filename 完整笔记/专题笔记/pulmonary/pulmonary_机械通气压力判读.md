@@ -247,6 +247,7 @@ type: 专题笔记
   - [[mistakes/uworld-mistakes_2026-06#^Q4713]] 吸气暂停=平台压=顺应性（误选 PEEP）
   - [[mistakes/uworld-mistakes_2026-06#^Q4931]] 术后肺不张 ABG（通气生理）
   - [[mistakes/uworld-mistakes_2026-06#^Q4932]] 术后肺不张预防
+  - [[mistakes/uworld-mistakes_2026-06#^Q4562]] ARDS 改善氧合 → 加 PEEP（氧合=PEEP+FiO₂；CO₂ 正常不动 RR/VT）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/pulmonary]]（Plateau 看顺应性 / Peak−Plateau 看阻力 段）
 - 📚 相关专题：
   - [[完整笔记/专题笔记/呼吸/呼吸_HighYield速查总览]]（§气道压力判读 tip + 呼吸机旋钮）

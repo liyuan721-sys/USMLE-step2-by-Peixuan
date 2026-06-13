@@ -202,6 +202,7 @@ PEA（电活动有 / 无脉搏）
 > - **早期 / 暖**：心排↑↑（高动力）+ SVR↓↓ → 暖、洪脉
 > - **晚期 / 冷**：心排↓（心肌抑制） → 冷
 > 都用 norepinephrine 升 MAP；冷期加 inotrope 支持。
+> 错题：[[mistakes/uworld-mistakes_2026-06#^Q6942]] 早期脓毒暖期 = 洪脉（SVR↓ + 心指数↑ + 脉压宽；充盈压低，非怒张/S3）。
 
 ### 5.2 Neurogenic Shock（神经源性休克）
 

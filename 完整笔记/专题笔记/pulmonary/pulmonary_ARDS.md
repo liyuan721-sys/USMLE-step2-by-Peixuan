@@ -126,6 +126,7 @@ type: 专题笔记
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes_2026-06#^Q20184]] 溺水后低氧 + 不能护气道 → 气管插管（ARDS 样分流低氧）
   - [[mistakes/uworld-mistakes_2026-06#^Q2303]] 脓毒（坏死性筋膜炎）→ ARDS：吸氧不纠正 + 低顺应性 + 高 A-a（分流生理）
+  - [[mistakes/uworld-mistakes_2026-06#^Q4562]] ARDS 改善氧合 → 加 PEEP 复张减分流（做对不确定）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/pulmonary]]（ARDS 段 + 呼吸机调节 + A-a 梯度/分流）
 - 🏥 跨学科：
   - [[完整笔记/Peixuan分科笔记/感染]]（脓毒症 = ARDS 最常见诱因）
