@@ -12604,6 +12604,11 @@ type: 错题数据源
 > ## Stem 模式
 > 18 月龄女童溺水（俯卧泳池）→ 现场心肺复苏 (CPR, cardiopulmonary resuscitation) + **无气囊气管插管 (uncuffed ETT, endotracheal tube)**。途中 capnography (二氧化碳波形图) 正常。到院 BP 90/50、HR 145、SpO₂ 92%（FiO₂ 100%）；睁眼应声、瞳孔等大对光灵敏、四肢自主活动、双肺哮鸣。**到院后 capnography 变平线 (flat line)**。问波形改变最可能原因。
 > 
+> ![[{BCE6510A-1172-45C6-95E0-9225061B0F81}.png]]
+> 
+> > [!tip]- 图解（UWorld 7 种波形）
+> > **Normal** 矩形 4 相（α/β + phase 0-3，含解剖死腔 + 肺泡平台）；**Hyperventilation** 呼吸↑→ETCO₂↓；**Hypoventilation** 呼吸↓→ETCO₂↑；**Bronchospasm** 失 α 角 + 鲨鱼鳍；**Tube displacement（管移位）= 全相骤然消失/ETCO₂ 骤降**（本题=移位入食管→平线）；**CPR** = 低心输出致 ETCO₂↓；**Apnea** = phase 0-3 全无（平线）。
+> 
 > ## 题干线索→临床意义
 > - **途中波形正常 → 到院变平线** = 插管位置在转运中改变（uncuffed 管易移位）
 > - **无气囊 ETT + 儿童**：管周无气囊封闭 + 小儿气管到食管 (esophagus) 距离短 → 颠簸易滑入食管
