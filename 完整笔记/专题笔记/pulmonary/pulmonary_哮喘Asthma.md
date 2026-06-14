@@ -162,6 +162,13 @@ Auscultate (听诊)
 > **Prednisone（口服慢病）< Methylprednisolone（急救首选）；Dexamethasone（脑水肿/croup，不用于哮喘）。**
 > 口诀：**Pred 用在口服慢病，Methyl 用在急救，Dex 用在水肿。**
 
+> [!danger] SABA / β₂ 激动剂不良反应 —— 大剂量 → 低钾血症（Q3026）⭐
+> **大剂量沙丁胺醇 (albuterol)（持续雾化）激活 Na⁺/K⁺-ATP 酶 → 把钾驱入细胞 → 低钾血症 (hypokalemia)**：
+> - 表现：**肌无力 + 深腱反射减弱 (hyporeflexia) + 震颤 (tremor) + 心动过速/心律失常**（重者室颤）。
+> - 急性哮喘"治疗后数小时新发肌无力 + 反射↓ + 手抖" → 先想**低钾**，下一步 **查血清电解质 + ECG → 补钾**。
+> - **β₂ 常见副作用三连：震颤、心悸/心动过速、低钾**（剂量相关）。
+> - 别误归到中毒：**高铁血红蛋白血症 (methemoglobinemia)**（硝酸盐/氨苯砜 dapsone/苯佐卡因 benzocaine → 吸氧不改善的发绀）与沙丁胺醇无关。
+
 ---
 
 ## 八、Asthma vs COPD 鉴别 ⭐
@@ -192,6 +199,7 @@ Auscultate (听诊)
 
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes_2026-06#^Q2842]] 哮喘 + 鼻息肉 + NSAID = AERD（Samter 三联）→ Montelukast
+  - [[mistakes/uworld-mistakes_2026-06#^Q3026]] 大剂量沙丁胺醇 → 低钾血症（肌无力+反射↓+震颤）→ 查电解质（误选高铁血红蛋白）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/pulmonary]] / [[完整笔记/专题笔记/pulmonary/pulmonary_COPD]]
 - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/免疫疫苗]]（IgE/I 型超敏机制 + 生物制剂靶点）；[[完整笔记/Peixuan分科笔记/儿科]]（儿童哮喘、montelukast 用于夜咳）
 - 🌱 TODO（待生成衍生）：攒够 ABPA / Aspergillosis / 嗜酸相关错题后，整合 → 生成 [[完整笔记/专题笔记/pulmonary/pulmonary_嗜酸性肺病与ABPA]]
