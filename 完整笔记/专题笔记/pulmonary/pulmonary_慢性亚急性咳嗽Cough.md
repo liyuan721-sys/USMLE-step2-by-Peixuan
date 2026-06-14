@@ -11,6 +11,10 @@ type: 专题笔记
 > [!info] 一句话定位
 > 咳嗽分诊第一步是**按病程分类**，再按"非吸烟者 + 查体正常 + 无报警征 → 经验治疗、暂不影像"的思路走。考试钩子：**URI（upper respiratory infection，上呼吸道感染）后 3–8 周咳 + postnasal drip（鼻后滴漏）+ 夜咳 = UACS（upper airway cough syndrome，上气道咳嗽综合征）→ 口服一代抗组胺**。
 
+![[{5D370EBB-8FB6-423B-9E72-EFF91576C151}.png]]
+
+*图：亚急性 / 慢性咳嗽评估流程 —— 左路 = H&P 有指向 → 经验治疗（ACE-I 停药 / UACS 一代 H1 / Asthma PFT / GERD 经验 PPI），无效才 CXR；右路 = 红旗（实质病变 / 脓痰 · 免疫抑制 / 无指向）→ 直接 CXR。*
+
 ---
 
 ## 一、按病程分类 (Duration Classification) ⭐

@@ -181,6 +181,12 @@ pH < 7.20  ← complicated effusion / empyema（脓胸）
                                                     → 分隔严重/引流不畅 → VATS（胸腔镜清除）
 ```
 
+> [!tip] 引流方式：胸管 vs VATS —— 看「分隔」不是看「复杂」（Q20107）⭐
+> 一旦判为 **complicated**（含**革兰染色阳性单独成立**，不必等 pH<7.2），就要引流；选哪种引流看积液形态：
+> - **自由流动 (free-flowing)** → **普通胸管 (chest tube)** 即可，哪怕革兰染色已阳性。
+> - **loculated（分隔粘连）/ 纤维化 / 胸管引流不畅** → 才升级 **VATS（胸腔镜清除）** ± 胸腔内 tPA/DNase。
+> 陷阱：见"complicated"就反射 VATS——错；**自由流动的 complicated 用胸管就够**，VATS 是给分隔/机化的晚期脓胸。
+
 ### 4.2 脓胸经验抗生素（含儿童）
 
 > [!danger] 儿童脓胸经验治疗（高频，详见 ^Q20113）
@@ -277,6 +283,7 @@ pH < 7.20  ← complicated effusion / empyema（脓胸）
 
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes_2026-06#^Q20113]] 儿童脓胸经验治疗加 MRSA 覆盖（万古 + 引流）
+  - [[mistakes/uworld-mistakes_2026-06#^Q20107]] 成人复杂性肺炎旁积液（革兰阳 + 自由流动 → 胸管，非 VATS）✅做对
   - [[mistakes/uworld-mistakes_2026-06#^Q4613]] PE 致渗出性血性胸腔积液（制动 + 突发 + 无浸润影）
   - [[mistakes/uworld-mistakes_2026-06#^Q4053]] CHF 漏出性胸腔积液 → pH 7.45（Light 标准方向）
   - [[mistakes/uworld-mistakes_2026-06#^Q17223]] 肝顶脓肿 → 右侧反应性胸腔积液（跨学科指纹）
