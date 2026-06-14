@@ -266,7 +266,7 @@ type: 专题笔记
   - [[mistakes/uworld-mistakes_2026-06#^Q4562]] ARDS 改善氧合 → 加 PEEP（氧合=PEEP+FiO₂；CO₂ 正常不动 RR/VT）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/pulmonary]]（Plateau 看顺应性 / Peak−Plateau 看阻力 段）
 - 📚 相关专题：
-  - [[完整笔记/专题笔记/呼吸/呼吸_HighYield速查总览]]（§气道压力判读 tip + 呼吸机旋钮）
+  - [[完整笔记/专题笔记/pulmonary/pulmonary_HighYield速查总览]]（§气道压力判读 tip + 呼吸机旋钮）
   - [[完整笔记/专题笔记/pulmonary/pulmonary_ARDS]]（肺保护通气：低 VT + 平台压 <30）
   - [[完整笔记/专题笔记/pulmonary/pulmonary_气胸Pneumothorax]]（张力性气胸 → 平台压骤升）
 - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/外科]]（围术期/ICU 通气、ACS）
