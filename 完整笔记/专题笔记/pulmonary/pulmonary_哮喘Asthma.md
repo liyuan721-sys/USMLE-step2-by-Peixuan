@@ -55,6 +55,9 @@ Allergen (过敏原)
 
 **DLCO（弥散功能）：** Normal to **↑（高，因 gas trapping 气体陷闭）** — 这是与 COPD（DLCO ↓）的关键鉴别点。
 
+> [!info]- 附图：肺野过度充气 CXR（air trapping 气体陷闭；COPD / 哮喘急性发作）
+> ![[{AD410206-F6C3-45E9-8783-11920138A1D2}.png]]
+
 ---
 
 ## 三、诊断 (Diagnostics)

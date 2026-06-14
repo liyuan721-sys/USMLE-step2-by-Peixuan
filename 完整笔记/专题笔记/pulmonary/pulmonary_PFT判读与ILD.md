@@ -90,6 +90,15 @@ type: 专题笔记
 > **干性吸气性 Velcro 爆裂音对肺纤维化敏感，常早于胸片/PFT 异常**——所以**胸片正常不能排 ILD**。疑诊 ILD 的下一步 = **胸部高分辨率 CT (HRCT, high-resolution computed tomography)**（薄层~1mm、step-and-shoot 逐层采集 + 俯卧序列去坠积性肺不张，比常规螺旋 CT 更清晰，可见网状影/蜂窝影并分型）+ **全套 PFT（肺容量 + 弥散）**。
 > 鉴别（[[mistakes/uworld-mistakes_2026-06#^Q20411]]）：缺血性心脏病的干咳+气短易反射做应激超声，但 **JVP 正常 + 无水肿 = 非心源**，干性 Velcro 爆裂音 + 胸片正常 → 走 ILD 路径（HRCT）。CHF 是**湿**啰音 + JVP↑ + 水肿。
 
+> [!info]- 附图：过敏性肺炎 HP（ILD 诱因之一）—— 类型 + 急/慢性 CXR（Q3016）
+> **过敏性肺炎 (HP, hypersensitivity pneumonitis)** = 反复吸入有机抗原 → 免疫介导间质炎症；慢性可进展为不可逆纤维化（属 ILD）。
+> ![[{E6A6067E-F288-4418-A334-8A7700268A61}.png]]
+> ↑ HP 病因类型（农民肺=霉干草 / 鸟饲者肺=禽蛋白羽毛 / 热水浴肺=鸟分枝杆菌…）。
+> ![[{90ACBD22-0FCC-455F-912C-BC037627B25E}.png]]
+> ↑ **急性 HP**：散在微结节网状影 (micronodular reticular opacities)。
+> ![[{53C136B1-64D0-44B9-8AAB-E4F09A248DF7}.png]]
+> ↑ **慢性 HP**：弥漫网状间质影（常不可逆）。
+
 ---
 
 ## 四、石棉相关疾病谱（Asbestos）⭐

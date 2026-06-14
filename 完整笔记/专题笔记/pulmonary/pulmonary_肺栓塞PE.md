@@ -14,6 +14,9 @@ type: 专题笔记
 > **② 诊断路径 —— 先判稳不稳 + Wells 评分 → 稳定走 D-二聚体/CTPA，不稳定走床旁超声**；
 > **③ 治疗 —— 稳的先抗凝，不稳才溶栓/取栓（先救循环）。**
 
+> [!info]- 附图：疑诊 PE 处理流程（UW）
+> ![[{F7AC5FE8-742D-47EA-9D48-B84B3D257EFB}.png]]
+
 > [!note]- 本篇缩写速查（首次全称中英）
 > - **PE** = pulmonary embolism 肺栓塞
 > - **VTE** = venous thromboembolism 静脉血栓栓塞症
