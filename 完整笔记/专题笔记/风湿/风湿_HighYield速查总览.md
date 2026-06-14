@@ -139,14 +139,15 @@ created: 2026-06-12
 - 治疗：PT+NSAIDs → 失败 **TNF-α 抑制剂** 或 **抗 IL-17 (secukinumab 司库奇尤)**
 
 **Psoriatic Arthritis 银屑病关节炎**
-- **DIP 受累 + nail pitting 甲凹点 + 银屑病鳞屑斑 + dactylitis**；X 线 **"pencil-in-cup 笔入帽"**
+- **DIP 受累 + nail pitting 甲凹点 + 银屑病鳞屑斑 + dactylitis 腊肠指**；X 线 **"pencil-in-cup 笔入帽"**
 - 陷阱：DIP+指甲改变 → PsA 不是 RA（RA spares DIP）
+- **next step 钩子**：关节表现疑 PsA 但**无明显皮损**（约 15% 关节炎先于皮损数年）→ **全面皮肤检查 comprehensive skin exam**（头皮/脐/腋/腹股沟隐匿斑）协助确诊。源：[[mistakes/uworld-mistakes_2026-06#^Q4581]]
 
 **Reactive Arthritis 反应性关节炎**
 - 感染后 **1–4 周**、下肢大关节、**不对称寡关节炎**
 - 前驱：GU = Chlamydia trachomatis 沙眼衣原体；GI = Salmonella/Shigella/Yersinia/Campylobacter
 - 三联：**"不能看（结膜炎/葡萄膜炎）、不能尿（尿道炎）、不能爬（关节炎）"** + circinate balanitis 环状龟头炎
-- 治疗：治原发感染 + NSAIDs
+- 治疗：**NSAIDs 一线**；仅治**现症**原发感染（**抗生素不治关节炎、不预防关节炎**，感染已愈则无用）；顽固 → DMARD
 
 ![[风湿_环状龟头炎反应性关节炎.png]]
 *环状龟头炎 (circinate balanitis)：龟头**地图样斑 + 白色隆起边界**——反应性关节炎 (reactive arthritis) 的经典皮肤黏膜征。*

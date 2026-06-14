@@ -67,9 +67,9 @@ created: 2026-06-12
 |---|---|---|---|
 | **前肩脱位 Anterior shoulder dislocation**（最常见） | 手臂外展+**外旋**受力 | X 线 | Closed reduction 闭合复位 + sling；伤 **axillary nerve 腋神经**（三角肌区麻+外展无力） |
 | **后肩脱位 Posterior dislocation** | **SEE** = Seizure 癫痫 / Electrocution 电击 / Extreme trauma；手臂**内旋**贴身 | X 线（腋位） | Closed reduction + sling（癫痫后肩痛=后脱位，易漏） |
-| **肩袖损伤 Rotator cuff** | 中老年慢性肩痛、外展/夜间痛 | **MRI** | PT + 激素，必要时手术；Drop arm test = 冈上肌撕裂 |
+| **肩袖损伤 Rotator cuff** | 中老年慢性肩痛、外展/夜间痛；**脱位后(>40岁)外展无力 + 感觉完整** = 肩袖（感觉丧失=腋神经）| **MRI** | PT + 激素，必要时手术；Drop arm test = 冈上肌撕裂 |
 | **锁骨骨折 Clavicle fracture** | 跌倒护臂 | X 线 | 多保守 sling / figure-8；**脉弱→CTA，无脉→手术** |
-| **网球肘 Lateral epicondylitis** | **伸腕痛**、外上髁 | 临床 | rest/ice/NSAIDs/brace |
+| **网球肘 Lateral epicondylitis** | **抗阻伸腕/被动屈腕痛**、压痛在**外上髁本身**（vs 桡管综合征 radial tunnel：压痛在外上髁**远端**数厘米旋后肌处）| 临床 | rest/ice/NSAIDs/counterforce brace |
 | **高尔夫肘 Medial epicondylitis** | **屈腕/旋前痛**、内上髁 | 临床 | rest/ice/NSAIDs |
 | **腕管综合征 Carpal tunnel** | 拇+食+中指**夜间麻**、甩手缓解；孕/DM/重复劳损 | **NCS 最敏感特异**；Phalen/Tinel 敏感性低 | NSAIDs + **夜间夹板**；正中神经 median nerve |
 | **de Quervain 腱鞘炎** | **新妈妈**抱娃、拇指根痛 | Finkelstein 试验 | 改抱姿 + 激素注射 + 夹板 |
@@ -94,11 +94,14 @@ created: 2026-06-12
 | **后髋脱位 Posterior hip dislocation** | MVC 车祸，腿**短缩+内旋** | X 线 | Closed reduction；伤**坐骨神经 sciatic** |
 | **髋骨折 Hip fracture** | 老人跌倒，腿**短缩+外旋** | X 线；阴性高度疑→**MRI** | ORIF / pinning |
 | **股骨干骨折 Femur shaft fracture** | 高能创伤，仅短缩 | X 线 | 髓内钉 rod；并发 **fat embolism 脂肪栓塞**（数 h–d 后低氧+神经症+瘀点） |
+| **股骨头骨坏死 Osteonecrosis/AVN（缺血性坏死）** | **非创伤**慢性腹股沟痛 + 髋 ROM↓（外展/内旋）；危险因素 **慢性酗酒 / 慢性高剂量激素 / SCD / SLE / 股骨颈骨折** | **X 线低敏**（晚期软骨下硬化/股骨头变扁/新月征）→ 阴性疑诊 **MRI**（T1 蛇形线+骨髓水肿） | 早期保护负重+会诊；晚期 THA 置换 |
 
 ![[骨科_髋骨折类型.png]]
 *常见髋骨折类型：股骨颈骨折 (femoral neck) vs 转子间骨折 (intertrochanteric)。*
 
 > [!warning] 髋部"内旋 vs 外旋"高频对比：腿**内旋**=后脱位；腿**外旋**=骨折。
+
+> [!tip] 成人股骨头骨坏死 (AVN) 的"激素 vs 酒精"陷阱：**短程激素 ≠ AVN 风险**（需慢性、超生理剂量）；慢性大量饮酒才达阈值，风险与"量+时长"成正比。**儿童版股骨头 AVN = LCP (Legg-Calvé-Perthes)**。源：[[mistakes/uworld-mistakes_2026-06#^Q21345]]
 
 **儿童跛行/髋痛按年龄鉴别**
 
@@ -179,6 +182,7 @@ created: 2026-06-12
 肱骨干中段(radial groove) ── Radial nerve 桡神经 ── Wrist drop 腕下垂 + 虎口背麻
 肱骨外科颈/前肩脱位 ──────── Axillary nerve 腋神经 ── 外展难 + 肩外侧(regimental badge)麻
 肱骨远端1/3/髁上骨折 ──────── Median nerve(AIN) 正中神经 ── 不能做OK sign + 肱动脉风险
+Colles骨折(桡骨远端背移) ──── Median nerve 正中神经 ── 急性腕管:拇外展弱+桡侧3½指麻
 后髋脱位 ────────────────── Sciatic nerve 坐骨神经
 腓骨颈骨折 ───────────────── Common peroneal 腓总神经 ── Foot drop 足下垂
 ```
@@ -197,13 +201,15 @@ created: 2026-06-12
 
 **关节液 WBC 阶梯**：正常 <200 → 非炎症 (OA) <2000 → 炎症（晶体/RA）2000–50,000 → **化脓 >50,000**
 
-| | **Gout 痛风** | **CPPD 假性痛风** |
+| | **Gout 痛风** | **CPPD 假性痛风 (pseudogout)** |
 |---|---|---|
 | 晶体 | 负性双折光、**针状 needle** | 正性双折光、**菱形 rhomboid** |
 | 部位 | 第一跖趾 (podagra) | 膝/腕 |
-| 关联 | — | **血色病 hemochromatosis + 甲旁亢 hyperPTH** |
+| **标志/影像** | **Tophi 痛风石**（关节外尿酸盐沉积）| **Chondrocalcinosis 软骨钙化 = 半月板/软骨钙化** |
+| **诱因** | 高嘌呤、利尿剂 | **手术/急性病/创伤**（术后第 1 天急性单关节炎别只想 septic）|
+| 系统关联 | — | **血色病 hemochromatosis + 甲旁亢 hyperPTH** |
 
-> [!warning] Septic arthritis 化脓性关节炎：关节液 WBC >50,000，Gram 染色敏感仅 30–50%（阴性不能排除）；成人最常 S. aureus 金黄色葡萄球菌；年轻性活跃→**淋球菌 disseminated gonococcal**（三联 tenosynovitis 腱鞘炎 + dermatitis 皮炎 + polyarthralgia 多关节痛）。儿童发热阈值 ≥38.5°C；<3 月 S. aureus/GBS/G−杆菌，≥3 月 S. aureus/GAS。
+> [!warning] Septic arthritis 化脓性关节炎：关节液 WBC >50,000，Gram 染色敏感仅 30–50%（阴性不能排除）；成人最常 S. aureus 金黄色葡萄球菌；年轻性活跃→**淋球菌 disseminated gonococcal**（三联 tenosynovitis 腱鞘炎 + dermatitis 皮炎 + polyarthralgia 多关节痛）。儿童发热阈值 ≥38.5°C；<3 月 S. aureus/GBS/G−杆菌，≥3 月 S. aureus/GAS。**儿童经验性万古霉素 (vancomycin)；数日无效 → 加三代头孢 ceftriaxone (头孢曲松) 覆 Kingella kingae (金氏菌) 等革兰阴性**（克林霉素不覆需氧 G−，不能用来扩覆盖）。
 
 ---
 
