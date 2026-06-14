@@ -121,6 +121,13 @@ type: 专题笔记
 >
 > **⑥ 铁律**：**复张后别先撤 PEEP**（去复张 → 低氧反弹）；撤的顺序是先 FiO₂、后 PEEP。
 
+> [!warning] 插管后第一件事：确认 ETT 深度（防右主支气管插管）⭐（Q4632）
+> **ETT 尖端理想位置 = 隆突 (carina) 上 2-5 cm**。右主支气管与气管夹角小/更垂直 → **ETT 过深优先进右主支气管 (right mainstem intubation)** → 右肺过度通气 + 左肺不通气 → **左侧呼吸音明显减低 + 不对称胸廓起伏 + V/Q 失配低氧**。
+> - **识别**：插管后**单侧（尤其左）呼吸音减低 + 无低血压**（无低血压区别于张力性气胸）。
+> - **处理 = 后退导管 (pull back ETT)** 至隆突与声带之间 + 胸片确认。
+> - ⚠️ **别反射放胸管**（[[mistakes/uworld-mistakes_2026-06#^Q4632]]）；**增加潮气量**会加重右肺过度通气 → 禁忌。
+> - 机制（V/Q 失配）详见 [[完整笔记/专题笔记/pulmonary/pulmonary_低氧血症五机制]]。
+
 ---
 
 ## 第2步：评估 —— 测压力 + 查 ABG
@@ -264,6 +271,7 @@ type: 专题笔记
   - [[mistakes/uworld-mistakes_2026-06#^Q4931]] 术后肺不张 ABG（通气生理）
   - [[mistakes/uworld-mistakes_2026-06#^Q4932]] 术后肺不张预防
   - [[mistakes/uworld-mistakes_2026-06#^Q4562]] ARDS 改善氧合 → 加 PEEP（氧合=PEEP+FiO₂；CO₂ 正常不动 RR/VT）
+  - [[mistakes/uworld-mistakes_2026-06#^Q4632]] 右主支气管插管（插管后左侧呼吸音减低 → 后退导管，非胸管）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/pulmonary]]（Plateau 看顺应性 / Peak−Plateau 看阻力 段）
 - 📚 相关专题：
   - [[完整笔记/专题笔记/pulmonary/pulmonary_HighYield速查总览]]（§气道压力判读 tip + 呼吸机旋钮）

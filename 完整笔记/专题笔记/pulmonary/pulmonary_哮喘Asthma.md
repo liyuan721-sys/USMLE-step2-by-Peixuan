@@ -144,6 +144,18 @@ Auscultate (听诊)
 > [!question]- AERD（Samter 三联）为什么首选 Montelukast？
 > AERD = **A**spirin-**E**xacerbated **R**espiratory **D**isease。机制：NSAID 抑制 COX → 花生四烯酸通路转向 **5-LOX → 白三烯过量** → 支气管收缩 + 鼻息肉。所以**抗白三烯药（montelukast）**直击病机。三联 = 哮喘 + 鼻息肉 + aspirin/NSAID 不耐受。
 
+> [!warning] PVFM/VCD：模拟运动诱发哮喘的"假哮喘" ⭐（Q16717）
+> **矛盾性声带运动 (PVFM, paradoxical vocal fold motion；= 声带功能障碍 VCD, vocal cord dysfunction)** = **吸气时声带异常内收** → 喉部梗阻 + **吸气性喘鸣 (inspiratory stridor)**。经典 = **年轻女运动员 + 晋级竞争压力**；运动中起、停后 ~3 分钟速缓；**沙丁胺醇 (albuterol) + 孟鲁司特 (montelukast) 无效**。
+>
+> | | **PVFM / VCD** | **运动诱发哮喘 EIB (exercise-induced bronchospasm)** |
+> |---|---|---|
+> | 喘鸣相 | **吸气性 stridor**（喉部）| **呼气性 wheeze**（下气道）|
+> | 时间 | 运动中起，停后 ~3 分钟速缓 | 运动后 5-15 分钟峰 |
+> | 沙丁胺醇 | **无效** | **有效** |
+> | 确诊 | 喉镜（吸气声带内收）| 运动激发 PFT（FEV₁↓）|
+>
+> **治疗 = 言语病理师 (speech-language pathologist) 行为治疗 + 教育**；急性发作 **"sniff or pant"（嗅/喘）** 外展声带。陷阱：误选**后鼻孔闭锁 (choanal atresia)**——那是**新生儿病**（出生即症状），与运动诱发时间线矛盾（[[mistakes/uworld-mistakes_2026-06#^Q16717]]）。
+
 ---
 
 ## 七、药物分类速查 (Drug Classes)
@@ -200,6 +212,8 @@ Auscultate (听诊)
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes_2026-06#^Q2842]] 哮喘 + 鼻息肉 + NSAID = AERD（Samter 三联）→ Montelukast
   - [[mistakes/uworld-mistakes_2026-06#^Q3026]] 大剂量沙丁胺醇 → 低钾血症（肌无力+反射↓+震颤）→ 查电解质（误选高铁血红蛋白）
+  - [[mistakes/uworld-mistakes_2026-06#^Q16717]] PVFM/VCD（运动诱发吸气性 stridor + 哮喘药无效 → 言语治疗；误选后鼻孔闭锁）
+  - [[mistakes/uworld-mistakes_2026-06#^Q4523]] 过敏反应 anaphylaxis vs 哮喘（荨麻疹一锤定音 → IM 肾上腺素；见 §八）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/pulmonary]] / [[完整笔记/专题笔记/pulmonary/pulmonary_COPD]]
 - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/免疫疫苗]]（IgE/I 型超敏机制 + 生物制剂靶点）；[[完整笔记/Peixuan分科笔记/儿科]]（儿童哮喘、montelukast 用于夜咳）
 - 🌱 TODO（待生成衍生）：攒够 ABPA / Aspergillosis / 嗜酸相关错题后，整合 → 生成 [[完整笔记/专题笔记/pulmonary/pulmonary_嗜酸性肺病与ABPA]]
