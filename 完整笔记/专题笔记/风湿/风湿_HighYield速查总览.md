@@ -260,6 +260,7 @@ created: 2026-06-12
 | 成分 | monosodium urate 尿酸单钠 | calcium pyrophosphate 焦磷酸钙 |
 | 部位 | 第一跖趾 (1st MTP) / 膝 | 膝（最常见） |
 | X 线 | 痛风石 erosion + overhanging edge | **chondrocalcinosis 软骨钙化** |
+| 诱因 | 高嘌呤餐/酒、利尿剂、住院应激 | **手术 / 急性病 / 创伤**（术后第 1 天急性单关节炎**别只想化脓性关节炎 septic arthritis**，菱形晶体直接点 CPPD）|
 | 关联 | 酒/红肉/利尿剂/TLS 肿瘤溶解/CKD | **甲旁亢 / 甲减 / 血色病 hemochromatosis** |
 
 ![[风湿_痛风石手.png]]
@@ -282,7 +283,24 @@ created: 2026-06-12
 
 > [!tip] CPPD 必查继发病因：**甲旁亢（高 PTH→高钙）、甲减、血色病（铁沉积；2nd/3rd MCP、hook 状骨赘、bronze diabetes → phlebotomy 放血）**。
 
-> [!danger] 发热 + 急性单关节炎 → **紧急 arthrocentesis 先排 septic arthritis**（Gram/培养、WBC>50k）。
+> [!danger] 发热 + 急性单关节炎 → **紧急 arthrocentesis 关节穿刺先排化脓性关节炎 septic arthritis**（Gram 染色/培养、WBC>50k）。
+
+### 滑液晶体形状谱（6 种，按形状反射）
+
+> [!info] 形状↔晶体一一对应，只有 CPPD 是"菱形"
+> 题干给晶体形状/双折光 + 临床场景 → 直接定晶体。**菱形 rhomboid 在关节炎里=CPPD 独家签名**；真正和它打架的只有草酸钙（靠透析/中毒场景区分）。
+
+| 晶体 | 形状 | 双折光 | 关键场景（stem 钩子）|
+|---|---|---|---|
+| **MSU 单钠尿酸盐**（Gout 痛风）| 针状 needle | **负性 negative**（平行慢轴=黄）| 第一跖趾 podagra、酒/利尿剂、tophi 痛风石 |
+| **CPPD 焦磷酸钙**（Pseudogout 假性痛风）| **菱形/杆状 rhomboid** | **正性 positive**（平行=蓝）| 膝/腕、chondrocalcinosis 半月板钙化、**术后/急性病诱发** |
+| **Calcium oxalate 草酸钙** | 信封/双锥 envelope / bipyramidal | 正性 | **ESRD 终末期肾病透析患者**、原发性高草酸尿、**乙二醇 ethylene glycol 中毒** |
+| **BCP 碱性磷酸钙 / Hydroxyapatite 羟基磷灰石** | 无定形（光镜看不清，需 **茜素红 alizarin red** 染色）| **无双折光 non-birefringent** | **Milwaukee shoulder 密尔沃基肩**（老年女性破坏性肩关节）、钙化性肌腱炎 |
+| **Cholesterol 胆固醇** | 缺角矩形板 notched plate | 多变 | 慢性积液（RA 类风湿、慢性滑囊炎）|
+| **Charcot-Leyden** | 双锥细长 | — | **不在关节**——嗜酸性粒细胞（哮喘痰/寄生虫），知道排除即可 |
+
+> [!warning] 唯一和"菱形+正性"打架的干扰项
+> **草酸钙 (calcium oxalate)** 某些切面呈菱形样且同为正性双折光 → 但它永远绑定 **透析 / 乙二醇 ethylene glycol 中毒** 场景。靠 stem 临床场景二次定位：术后单关节炎=CPPD vs 透析/中毒=草酸钙。
 
 ---
 
