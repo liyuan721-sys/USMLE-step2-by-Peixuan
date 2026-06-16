@@ -118,6 +118,9 @@ created: 2026-06-12
 
 **儿童其他骨科**：Osgood-Schlatter（青少年胫骨粗隆痛，活动加重）；Nursemaid's elbow 牵拉肘（桡骨头半脱位，前臂旋后复位）；Supracondylar fracture 髁上骨折（伤 AIN + 肱动脉，posterior fat pad sign 提示隐匿骨折）；Sever disease 跟骨骨突炎（儿童双侧后跟痛）。
 
+![[L10949.jpg]]
+*牵拉肘 (Nursemaid's elbow / 桡骨头半脱位 radial head subluxation)：环状韧带 (annular ligament) 滑过桡骨头嵌顿；前臂**旋后 + 屈肘**复位。*
+
 ![[骨科_肱骨髁上脂肪垫征.png]]
 *隐匿性肱骨髁上骨折 (occult supracondylar humerus fracture)：anterior + posterior fat pad sign 脂肪垫征提示关节积血/隐匿骨折。*
 
