@@ -117,6 +117,25 @@ type: 专题笔记
 > **③ 为什么静息 SpO₂ 97% 还要查（弥散储备原理）**
 > ILD 的低氧本质是**弥散障碍**。静息时弥散尚有储备 → SpO₂ 可正常；运动时肺血流加速、红细胞通过增厚肺泡-毛细血管膜的时间缩短，弥散来不及 → **运动诱发去饱和 (exercise desaturation)** = "劳力气短"的生理本质。所以 **DLCO 常最早下降**，**静息血氧正常不能排 ILD**。
 
+> [!tip] 干爆裂音 (Velcro) vs 湿啰音的听诊钥匙
+> **干·细·吸气末·咳不变 → 纤维化 (ILD)**；**湿·粗·咳可变 + 容量超负荷/发热 → 心衰肺水肿 or 肺炎/分泌物。**
+> 完整六维对比表（音质 / 吸气时相 / 随咳嗽 / 分布 / 代表病 / 伴随线索）→ [[完整笔记/专题笔记/pulmonary/pulmonary_肺部查体体征对照]] §三（单一真相源）。
+
+> [!info]- 杵状指 (clubbing 杵状指) 系统鉴别 + 为什么 COPD/哮喘不致（反直觉机制）⭐
+> **病因（按系统）**：
+> - **肺（最常见）**：肺癌【**非小细胞肺癌 (NSCLC, non-small cell lung cancer)**：腺癌/鳞癌常见；**小细胞肺癌 (SCLC, small cell lung cancer)** 反而少见】、支气管扩张 (bronchiectasis)、肺脓肿、囊性纤维化 (CF, cystic fibrosis)、IPF/ILD、间皮瘤 (mesothelioma)
+> - **心**：发绀型先心病 (cyanotic CHD, congenital heart disease，如法洛四联症 TOF / 艾森曼格 Eisenmenger)、感染性心内膜炎 (IE, infective endocarditis)
+> - **消化**：炎症性肠病 (IBD, inflammatory bowel disease)、肝硬化（经肝肺综合征 hepatopulmonary syndrome）、乳糜泻 (celiac)
+> - **内分泌**：甲状腺肢端病 (thyroid acropachy，见于 Graves 病)
+> 
+> **机制**：正常时巨核细胞 (megakaryocytes 巨核细胞)/大血小板团块在肺毛细血管床被滤除；当存在**右向左分流 / 肿瘤新生血管 / 慢性化脓 / 纤维化血管重塑**时，它们抵达指端微血管嵌顿、就地释放 **PDGF/VEGF（血小板源性 / 血管内皮生长因子 platelet-derived / vascular endothelial growth factor）** → 甲床血管 + 软组织增生。**驱动力是这条血管-血小板-生长因子通路，不是低氧本身。**
+> 
+> **为什么 COPD/哮喘不致**：二者是**纯气道气流受限**（管子的问题），肺毛细血管滤过功能保留、无右向左分流/肿瘤血管/慢性化脓 → 缺这条通路；即使缺氧也不杵状。
+> 
+> **钩子**：吸烟 COPD 老人**新发杵状指 ≠ COPD** → 排**肺癌**（也排支气管扩张/IPF）。
+> 
+> **体征**：Lovibond 甲床角 >180°、甲床浮动、**Schamroth 征消失**（两指甲对扣的菱形窗消失）；肺癌/间皮瘤可伴 **HPOA（肥大性肺性骨关节病 hypertrophic pulmonary osteoarthropathy：长骨骨膜炎 + 关节痛）**。
+
 > [!info]- 附图：过敏性肺炎 HP（ILD 诱因之一）—— 类型 + 急/慢性 CXR（Q3016）
 > **过敏性肺炎 (HP, hypersensitivity pneumonitis)** = 反复吸入有机抗原 → 免疫介导间质炎症；慢性可进展为不可逆纤维化（属 ILD）。
 > ![[{E6A6067E-F288-4418-A334-8A7700268A61}.png]]
