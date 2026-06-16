@@ -47,6 +47,23 @@ type: 专题笔记
 > **FEV₁/FVC 分阻塞/限制；TLC 看气困/真限制；DLCO 是"肺实质有没有坏"的开关。**
 > 同样"限制（↓TLC）"，**DLCO↓ = 肺实质病（ILD）**；**DLCO 正常 = 胸壁/肥胖/神经肌肉**——这是高频分水岭。
 
+### 流量-容积环形态四型（Flow-Volume Loop）⭐
+
+> [!tip] 看环辨阻塞部位
+> 上气道阻塞看**哪一支（吸气/呼气）出现平台**定胸内 vs 胸外；实质限制看**环整体变小并右移**。
+
+![[{ADEB9481-6D90-49A0-AA6F-30FD03F46DD5}.png]]
+*可变胸外阻塞 Variable extrathoracic obstruction：吸气支平台（吸气时气道内压↓使可动组织内陷）；病因 laryngomalacia、声带麻痹 vocal cord paralysis*
+
+![[{6E3CF632-2377-487E-A3B5-B321C17519A9}.png]]
+*固定性上气道阻塞 Fixed upper airway obstruction：吸气支+呼气支双平台；病因 前纵隔肿物(甲状腺肿)、气管/声门下狭窄、血管环*
+
+![[{1C0A6130-063E-4B83-8DA0-6AE6A1E2B9AA}.png]]
+*可变胸内阻塞 Variable intrathoracic obstruction：呼气支平台（呼气时胸膜压↑将可动组织推入气道）；病因 气管支气管软化 tracheobronchomalacia、支气管源囊肿*
+
+![[{EF8A7382-9744-4958-B6D8-53A5DB1FDD2B}.png]]
+*实质限制性肺病 Parenchymal restrictive：环变小并右移、↓compliance；病因 ILD/IPF、结节病、肺水肿*
+
 ---
 
 ## 二、五大慢性肺病 PFT 指纹表 ⭐⭐⭐

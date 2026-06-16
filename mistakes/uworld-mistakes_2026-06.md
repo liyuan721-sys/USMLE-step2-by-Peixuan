@@ -705,6 +705,9 @@ type: 错题数据源
 > ![[{B06F45C4-F83C-4003-A94E-335D14227E1E}.png]]
 > *男性泌尿生殖解剖：**膀胱顶 dome**（唯一被腹膜覆盖）破裂 → 尿入腹腔 = **腹膜内**；**前壁 / 膀胱颈**（腹膜返折以下）破裂 → 尿留耻骨后间隙 = **腹膜外**（伴骨盆骨折，FAST 阴性）。*
 > 
+> ![[{1349C189-8E07-4757-A6CD-AC0BB400E3D8}.png]]
+> *开书样骨盆骨折 Open book pelvic fracture：耻骨联合分离 pubic symphysis diastasis + 骶髂关节增宽 —— 本题"骨盆骨折"刺破膀胱前壁/侧壁致**腹膜外**破裂的机制源头。*
+> 
 > ## 普适规则
 > 
 > **膀胱破裂两型鉴别**
@@ -2438,6 +2441,9 @@ type: 错题数据源
 > 
 > ## 核心概念
 > AOM 病原 = **S. pneumoniae + 不可分型 H. influenzae + Moraxella catarrhalis**。一线 **amoxicillin**；二线 amox-clav。**青霉素过敏 → azithromycin 或 clindamycin**。**严重过敏（anaphylaxis/SJS）连头孢也避**（β-内酰胺交叉反应风险）→ 选 **azithromycin**。
+> 
+> ![[{7E98CB68-0CD5-4954-BAB5-8A563A6037C4}.png]]
+> *急性中耳炎 Acute otitis media 耳镜：鼓膜膨隆 bulging TM + 后方化脓积液（vs 正常珠灰色 pearly gray、可活动）—— 对应 stem"双侧黄色膨隆鼓膜"。*
 > 
 > ## 普适规则
 > 

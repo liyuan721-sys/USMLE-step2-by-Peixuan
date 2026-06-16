@@ -31,6 +31,9 @@ parent_topic: 儿童喘鸣 stridor / 急性上气道梗阻鉴别 — 定位 + 4 
 > [!tip] 一句话钥匙
 > **stridor 在上（上气道）、wheeze 在下（下气道）、双相 = 固定狭窄**。先用相位把梗阻"定楼层"，再用招牌定病因。
 
+![[{9192F76E-E97C-42F9-932B-4CA09AAFA258}.png]]
+*纤维喉镜 Fiberoptic laryngoscopy 视野：声带 vocal cords / 会厌 epiglottis / 气管口（动态喘鸣定位金标准）*
+
 > [!tip]- 为什么吸气塌上气道、呼气塌下气道？——跨壁压 (transmural pressure) 机制 ⭐
 > 气道塌不塌，看**管内压 vs 管外压**；分界是**胸廓 (thoracic cage)**，气道分胸腔外 (extrathoracic) 与胸腔内 (intrathoracic) 两段：
 > 
@@ -56,6 +59,12 @@ parent_topic: 儿童喘鸣 stridor / 急性上气道梗阻鉴别 — 定位 + 4 
 | **会厌炎 Epiglottitis** | 未接种 Hib，**突发** | **流涎 + 三脚架位 + 中毒貌高热**（无咳、不能平卧）| **Hib**（接种后 → 肺炎链球菌/GAS/金葡）| 颈侧位 **thumb sign 拇指征** | **先稳气道**（控制下插管/外科气道）+ **头孢曲松 + 万古**；**别压舌/别激惹咽部** |
 | **细菌性气管炎 Bacterial tracheitis** | 任何，常 croup 后恶化 | **高热 + 大量脓痰 + 对肾上腺素无反应** | **金黄色葡萄球菌（S. aureus）** | 似 croup（声门下窄）+ **气管壁不规则** | 稳气道（常需插管）+ IV 抗生素（覆金葡）|
 | **气道异物 Foreign body** | 6 月-3 岁，**突发呛咳** | **突发 + 单侧呼吸音减低/单侧喘鸣**（无前驱感染）| — | 吸/呼气片：**患侧过度充气 + 纵隔移位**（X 线 **30% 正常**）| **硬质支气管镜**取出（金标准）|
+
+![[{240A7A8C-CB0D-47A8-B31E-F88C87E80C53}.png]]
+*哮吼 Croup（喉气管炎 laryngotracheitis）：声门下狭窄 subglottic narrowing + 黏膜水肿（副流感 parainfluenza）*
+
+![[{769E7B37-8D6F-41AC-AA3B-FBB0D535F3F7}.png]]
+*哮吼 Croup 胸片：尖塔征 steeple sign（声门下狭窄）*
 
 > [!danger] 三个救命陷阱
 > - **会厌炎**：**别压舌板查咽、别激惹**——可诱发完全梗阻；**气道优先于一切检查/抗生素**。
@@ -95,6 +104,9 @@ parent_topic: 儿童喘鸣 stridor / 急性上气道梗阻鉴别 — 定位 + 4 
 > | 招牌 | **颈伸展痛/拒动颈 + 吞咽痛 + 后咽壁膨隆** | **单侧扁桃体肿 + 悬雍垂偏向对侧 + 张口困难（trismus）+ 含热土豆音** |
 > | 病原 | 多菌（GAS + 金葡 + 口腔厌氧）| GAS + 厌氧 |
 > | 处理 | 影像（侧位颈片/CT）+ IV 抗生素 ± 引流；警惕**纵隔扩散** | 穿刺/切开引流 + 抗生素 |
+> 
+> ![[{58A89828-4231-46CF-9CF5-5A6B015098CC}.png]]
+> *咽后脓肿 Retropharyngeal abscess 侧位颈片：椎前间隙 prevertebral space 增宽（正常 vs 增宽对照）*
 
 ---
 
@@ -105,6 +117,15 @@ parent_topic: 儿童喘鸣 stridor / 急性上气道梗阻鉴别 — 定位 + 4 
 > - **血管环 Vascular ring（先天性主动脉弓畸形，最常见 双主动脉弓 double aortic arch）**：**双相 stridor + 喂养困难 + 体重不增**，**颈后伸/弓背减轻**（伸展拉松外压环）；环同绕**气管 + 食管** → 呼吸症状（双相喘鸣、反复呼吸道感染）+ 食管症状（喂养困难、呕吐、固体吞咽困难）；**50% 合并室间隔缺损 (VSD, ventricular septal defect)**；胸片右位弓 + 气管旁压迹；**胸部 CT/MR 血管造影 (CT/MR angiography)** 确诊 → 手术矫正。
 > - **气管/声门下狭窄**：双相固定狭窄。
 > 鉴别钥匙：**慢性/反复 + 体位相关 = 先天**（喉软化）；**急性 + 发热/突发 = 感染/异物急症**。
+
+![[{D6D41666-69B2-4D39-B1EB-E2025101C76C}.png]]
+*喉软化 Laryngomalacia 吸气动力学：胸腔扩张 → 喉内压低于大气压 → 软喉塌陷 → 湍流致 stridor（最常见慢性喘鸣）*
+
+![[{34B1313E-D269-47CF-ABE8-8CF87317A2FB}.png]]
+*血管环 Vascular ring / 双主动脉弓 double aortic arch（后视）：环绕压迫气管 + 食管*
+
+![[{DF86DCE7-A791-4125-8DD9-E0C53643F0C0}.png]]
+*血管环 Vascular ring 侧位 + 食管造影 esophagram：异常主动脉弓压迫食管后壁*
 
 ---
 

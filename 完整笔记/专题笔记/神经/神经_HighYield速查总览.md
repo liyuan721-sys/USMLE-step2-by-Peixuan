@@ -262,6 +262,9 @@ type: 专题笔记
 > - 招牌：视神经炎 (optic neuritis，眼痛)、核间性眼肌麻痹 (INO, internuclear ophthalmoplegia)、**Uhthoff 现象**（热加重）、Lhermitte 征（颈屈电击感）。
 > - 症状控制：日间痉挛 baclofen 巴氯芬；夜间痉挛 tizanidine 替扎尼定；尿潴留 bethanechol 氯贝胆碱。
 
+![[{9024D515-3447-456E-B81E-B5DC423AEE52}.png]]
+*多发性硬化 MS MRI：脑室周围白质高信号灶 periventricular white matter lesions（Dawson fingers）*
+
 ---
 
 ## 九、眩晕（中枢 vs 外周）
@@ -311,6 +314,20 @@ type: 专题笔记
 
 🧩 脊髓综合征定位（前索/后索/BS/中央/半切）→ [[完整笔记/专题笔记/神经/神经_脊髓病变]]
 
+### 下肢周围神经定位（图）
+
+![[{A5D65CBB-B045-48CA-88A9-DB866B9F0127}.png]]
+*股神经 Femoral nerve：运动=屈髋+伸膝；皮支=股前 + 隐神经 saphenous（小腿内侧）*
+
+![[{CB8549CC-079F-4AB8-9535-2C7DF9B06BCB}.png]]
+*股三角 Femoral triangle：NAVEL 由外向内 股神经-动脉-静脉；界=腹股沟韧带(上)/缝匠肌(外)/长收肌(内)*
+
+![[{927B25E9-A1B0-418F-9BE7-C12D8A9E41C9}.png]]
+*闭孔神经 Obturator nerve：支配大腿内收肌群(长/短/大收肌、股薄肌) + 大腿内侧皮支*
+
+![[{D03B158B-6291-4834-8EFE-C1C3AAB91BA8}.png]]
+*腓总神经病 Common fibular (peroneal) neuropathy：腓骨头处受压 → 足下垂 foot drop、背屈/趾伸障碍、足背感觉减退*
+
 ---
 
 ## 十二、CNS 感染（脑膜炎 / 脑炎）速查
@@ -326,6 +343,9 @@ type: 专题笔记
 | 免疫抑制 + 亚急性 + **颅内压 ICP (intracranial pressure)↑** | 隐球菌 (Cryptococcus) | 抗真菌 |
 | 旅行南美 + 环形/钙化囊 | 脑囊虫病 (neurocysticercosis，Taenia solium) | albendazole 阿苯达唑 |
 | 蛋白↑糖↓淋巴为主、数周进展 | TB 脑膜炎 | 抗结核 |
+
+![[{CF3B833D-F5A3-47DC-B543-CC3172ECC5F5}.png]]
+*神经囊虫病 Neurocysticercosis MRI：囊内可见头节 scolex + 周边强化囊壁（全球获得性癫痫最常见病因）*
 
 ---
 

@@ -58,6 +58,16 @@
 | +H | **HLHS** | 加 H |
 | +IAA | **IAA** | 加 IAA |
 
+### TGA 解剖 + 并联循环图解 ⭐
+
+![[{A2F48A85-308D-42F6-8EF1-D52EC4FE4C7C}.png]]
+
+*大动脉转位 TGA 解剖：主动脉发自右心室、肺动脉发自左心室（房室连接一致、心室大动脉连接不一致）*
+
+![[{CB8EEDBC-F248-491D-85C2-8404C431B5E5}.png]]
+
+*TGA 并联循环 parallel circulation：体循环与肺循环并联而非串联 → 必须有 mixing shunt(PDA/VSD/ASD/PFO)才能存活，PGE1 维持 PDA*
+
 ---
 
 ## 2. 终极对照表（7 个病 × 12 维度）⭐⭐

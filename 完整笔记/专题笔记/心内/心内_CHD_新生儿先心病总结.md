@@ -287,6 +287,10 @@ source_错题: Q20421（IDM-HCM 触发）+ 整合 2026-05-10 心血管讲课
                         → 立即 PGE1 + Echo + 转 NICU
 ```
 
+![[{501055BB-90F8-4CF5-A5F5-D1E007F09184}.png]]
+
+*新生儿发绀诊断流程 Approach to neonatal cyanosis：外周性(肢端/SpO₂正常→观察) vs 中枢性(黏膜/低SpO₂)→ 给氧试验 O₂ challenge：不改善=心源性 R-to-L 分流(查 TTE、不稳定给 PGE1)；改善=肺源 V/Q 失调*
+
 ### 2.5 紫绀机制分类
 
 | 机制 | 病变 | 关键特征 |

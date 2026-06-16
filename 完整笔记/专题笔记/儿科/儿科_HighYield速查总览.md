@@ -174,6 +174,15 @@ Rooting 觅食   → 约 4 月消失
 | 中耳积液 OME | 鼓膜后积液、**无急性感染**、听力↓ | 先观察；持续 → 鼓膜置管 (tympanostomy tubes) |
 | 外耳道炎 otitis externa | **拉耳廓/压耳屏 (tragus) 痛** | 鼓膜完整 = neomycin 滴耳；穿孔/置管 = **氟喹诺酮滴耳 (ciprofloxacin)** |
 
+![[{4A01BA38-1DB8-400E-8870-A79761BDAE79}.png]]
+*中耳解剖 Middle ear anatomy：锤骨-砧骨-镫骨 malleus-incus-stapes、鼓膜、卵圆窗/圆窗、咽鼓管 eustachian tube*
+
+![[{49B57BD2-9708-4EBB-B4B6-7BAD71633D38}.png]]
+*咽鼓管 Eustachian tube 成人 vs 儿童：儿童更短、更平、更水平 → 引流差、易急性中耳炎*
+
+![[{7E98CB68-0CD5-4954-BAB5-8A563A6037C4}.png]]
+*急性中耳炎 Acute otitis media 耳镜：鼓膜膨隆 bulging TM + 后方化脓积液（vs 正常珠灰色 pearly gray、可活动）*
+
 > [!info] 复发性 AOM → 传导性听力↓ → 影响言语发育
 > 任何言语/语言障碍患儿的**第一步检查 = 听力测试 (hearing test)**（即使无频繁耳感染史）。可控危险因素 = **被动吸烟暴露 (secondhand smoke)**。
 

@@ -103,6 +103,9 @@ type: 专题笔记
 - **机制**：下腹钝伤 + **骨盆骨折**（常在膀胱充盈时）；安全带伤
 - **诊断**：肉眼血尿 + 骨盆骨折（**先排除尿道损伤后**）→ **CT cystography / retrograde cystography**
 
+![[{1349C189-8E07-4757-A6CD-AC0BB400E3D8}.png]]
+*开书样骨盆骨折 Open book pelvic fracture：耻骨联合分离 pubic symphysis diastasis + 骶髂关节增宽 → 易致腹膜外膀胱破裂 / 后尿道损伤*
+
 > [!warning] 诊断方法学陷阱
 > 必须**逆行主动灌注**充分充盈膀胱（≥300 mL）再成像。常规 CT 让膀胱被动充盈 / 夹闭 Foley 被动引流**可能漏诊破裂**。
 

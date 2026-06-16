@@ -108,6 +108,12 @@ Step 2：用一条鉴别钥匙定唯一病原（见 §四-六）
 | **PML** | JC 病毒 | **白质**多灶、**不强化、无占位** | 亚急性局灶神经缺损 + 认知下降 | **优化 ART**（无特异抗病毒）|
 | **隐球菌脑膜炎** | Cryptococcus | 多无占位（脑膜为主）；↑颅压 | India ink / **隐球菌抗原（CrAg）**⊕；亚急性头痛 | Ampho B + Flucytosine → Fluconazole；**反复 LP 降颅压** |
 
+![[{D264391A-B1DD-4FF6-801D-78B28D16427D}.png]]
+*脑弓形虫病 Cerebral toxoplasmosis MRI：多发环形强化灶 ring-enhancing lesions + 周围水肿（CD4<100，常多发、基底节）*
+
+![[{105278E4-0DB0-4672-842E-C68983AD390A}.png]]
+*原发中枢神经淋巴瘤 Primary CNS lymphoma MRI：脑室旁不均质团块（常单发、跨胼胝体；EBV 相关，CD4<50）—— 与弓形虫鉴别*
+
 > [!success] 颅内三连记忆
 > **多发环形 = 虫（Toxo）；单发 = 瘤（淋巴瘤）；不强化白质 = 病毒（PML）。** 隐球菌看脑膜 + CrAg + 高颅压。
 

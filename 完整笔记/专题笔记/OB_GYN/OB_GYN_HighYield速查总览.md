@@ -269,6 +269,9 @@ HELLP (溶血 Hemolysis / 肝酶↑ Elevated LFTs / 血小板↓ Low platelets)
 > - **绝经前 (premenopausal)**：**β-hCG + 超声**（首虑异位妊娠、卵巢扭转）。
 > - **绝经后 (postmenopausal)**：**CA-125 + 超声**（首虑卵巢癌）。
 
+![[{CC9EE5DE-603F-400B-9581-1877CE1475F0}.png]]
+*异位妊娠 Ectopic pregnancy 经阴超声：附件区孕囊 adnexal gestational sac + 周边血流 "ring of fire" 火环征*
+
 - **卵巢扭转 (ovarian torsion)**：包块（常 >5 cm）+ **突发痛 + 恶心呕吐**（自主反射）；多普勒血流↓/消失（非 100% 敏感）→ **急诊手术解扭 (detorsion)**。
 - **上皮性卵巢癌 (epithelial ovarian carcinoma)**：早期无症状 → 晚期腹水/腹胀/早饱（绝经后新发胃肠症状是隐匿表现）；标志物 **↑CA-125**；超声见实性 + 厚分隔 + 腹水；**禁穿刺活检** → 探查性剖腹 (exploratory laparotomy)。
 
@@ -376,6 +379,12 @@ CIN3(非孕) 切除后：6 个月 HPV 检测；切缘(+) → 再切；孕期 CIN
 > - **压力性 (stress)**：咳/笑/运动漏尿 → Kegel/手术（尿道中段悬吊）。
 > - **急迫性 (urge, 逼尿肌过度活动)**：尿急来不及 + 夜尿 → 膀胱训练 → **抗毒蕈碱 (antimuscarinic, 如 oxybutynin)**。
 > - **充溢性 (overflow)**：持续滴尿 + 残余尿↑（如产后尿潴留）→ **导尿减压**（≠观察；抗毒蕈碱会加重）。
+
+> [!info]- 基础解剖参考：子宫位置（低频）
+> 无专门妇科解剖节，附此作基础参考（low-yield，CK 极少直接考）。
+>
+> ![[{D10CDFEC-FA09-44FF-94CC-FDBAFCB1B405}.png]]
+> *子宫位置 Uterine positioning：version=宫颈相对阴道的角度(前倾 anteverted / 后倾 retroverted)；flexion=宫体相对宫颈的角度(前屈 anteflexed / 后屈 retroflexed)*
 
 ---
 
