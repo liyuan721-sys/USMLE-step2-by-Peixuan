@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - USMLE-Step2
   - 内分泌
@@ -42,6 +42,9 @@ type: 专题笔记
 | 下丘脑问题 | 低 | 低/不高 | 低 | TRH 本身不足 |
 
 - **Graves 病 (Graves disease)**：TSH receptor antibody（TSH 受体抗体）+ 眼病 (exophthalmos)；初治 **β 受体阻滞剂 (β-blocker) 缓症 → 甲巯咪唑 (methimazole) / 丙硫氧嘧啶 (PTU)**；根治 = 放射性碘消融 (radioactive iodine ablation) 或手术。
+
+![[{2CE26B3F-3189-4D47-B977-77DDFC449C17}.png|360]]
+*胫前黏液水肿 (pretibial myxedema)：双小腿前侧非凹陷性硬斑 / 结节、橘皮样 → **Graves 病**特异皮肤征（与突眼、杵状指共属甲状腺皮病）。*
 - **外源性甲状腺激素 (exogenous thyroid hormone)**：高 T3/T4 + **低 TSH + 低甲状腺球蛋白 (Tg, thyroglobulin)**（甲状腺停工 → Tg 低，鉴别钥匙）。
 - **毒性多结节甲状腺肿 (toxic multinodular goiter / Plummer disease)**：老年 + 甲亢 + 压迫症状。
 - **甲状腺功能正常病态综合征 (euthyroid sick syndrome)**：人很病但甲状腺没真病；**反 T3 (rT3) 高**，治原病不治甲状腺。

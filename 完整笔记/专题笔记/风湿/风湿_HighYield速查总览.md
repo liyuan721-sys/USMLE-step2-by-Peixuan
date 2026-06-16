@@ -109,6 +109,26 @@ created: 2026-06-12
 
 > [!tip] RA 畸形：Swan-neck 天鹅颈（PIP 过伸+DIP 屈）/ Boutonniere 纽扣花（PIP 屈+DIP 过伸）。
 
+### DIP 受累俱乐部（"谁累及 DIP" 汇总）
+
+> [!danger] 反向钥匙：RA **不**累及 DIP
+> 题干一旦强调 **DIP (distal interphalangeal, 远端指间关节) 受累**，基本把 **RA (rheumatoid arthritis, 类风湿关节炎) 排掉**（RA spares DIP，打 MCP 掌指 / PIP 近端指间 / 腕）→ 往 **OA / PsA / 痛风** 三选一。
+
+| 累及 DIP 的病 | DIP 表现 | 定位钩子 |
+|---|---|---|
+| **OA (osteoarthritis, 骨关节炎)** | **Heberden 结节**（DIP 骨性硬结）；PIP = Bouchard 结节 | 老年、使用相关痛、晨僵 <30 min、无全身炎症、硬骨性增大 |
+| **PsA (psoriatic arthritis, 银屑病关节炎)** | DIP 受累 + nail pitting 甲凹点 / 油滴征；可 dactylitis 香肠指 | **"pencil-in-cup 笔入帽"** X 线、银屑病皮损 |
+| **Gout (痛风)** | 痛风石 tophi 可沉积 DIP；侵蚀带 overhanging edge 悬挑边缘 | 经典首发 1st MTP (podagra 足痛风)，慢性期累及 DIP；MSU 针状负性双折射晶体 |
+| **Erosive (inflammatory) OA 侵蚀性骨关节炎** | OA 变异型，专攻 DIP/PIP，"gull-wing 海鸥翼" 侵蚀 | 绝经后女性、炎症成分比普通 OA 重 |
+
+> [!tip] DIP 上长"结节/包块"三选一
+> ```
+> DIP 硬性骨结节 + 老年 + 无炎症    → Heberden 结节 (OA)
+> DIP 受累 + 银屑病皮损 / 甲改变     → PsA
+> DIP 旁白垩样痛性结节 + 高尿酸     → 痛风石 tophus
+> ```
+> 记忆锁定：**"DIP 俱乐部 = OA / PsA / 痛风"，RA 被挡在门外。** 详见 [[完整笔记/专题笔记/风湿/风湿_脊柱关节病SpA对照]] §四（PsA vs RA 的 DIP 分水岭）。
+
 **DMARD 用药速记**
 
 | 药 | 机制 | 关键副作用/用前筛查 |
@@ -335,6 +355,37 @@ created: 2026-06-12
 | **Fibromyalgia** | 年轻-中年女 | 广泛痛、**无真无力** | 正常 | **正常** | trigger points、化验全正常 |
 | **Polymyositis** | 成人 | **近端无力**、痛轻 | **↑** | 正常/↑ | anti-Jo-1、活检 |
 | **PMR** | >50 岁 | 肩髋带**僵>痛**、无真无力 | 正常 | **↑** | 伴 GCA、激素戏剧性缓解 |
+
+---
+
+## 七、临床图谱补充 (Visual Atlas)
+
+> [!info] 用途
+> 补上文文字条目缺图的体征，配合识别。来源 UWorld 图、已去重（痛风石/痛风X线/CPPD/手OA结节/Heliotrope/Gottron/冷球蛋白紫癜/血色病关节病/Paget 上文已配）。
+
+![[{97E363B0-1F0E-4402-A052-490C82DA4F8C}.png|360]]
+*类风湿结节 (rheumatoid nodules)：质韧、肤色、无痛，好发**压力点（肘 / 尺骨伸侧）**；见于 RF 阳性 RA。*
+
+![[{34483D31-2ABF-4499-A40D-3441349F8356}.png|360]]
+*附着点炎 (enthesitis)：肌腱 / 韧带骨附着处炎症痛，**跟腱止点 (Achilles) 最典型**；脊柱关节病 (spondyloarthropathy) 特征，如强直性脊柱炎 (AS)。*
+
+![[{056F389A-475B-49FC-934B-254E2234B3C2}.png|360]]
+*全身型幼年特发性关节炎 (systemic JIA / Still 病)：**每日高峰热 + 鲑鱼色一过性皮疹 + 大关节炎**；RF/ANA 正常、ferritin 铁蛋白显著↑。*
+
+![[{4FACBAA3-638A-4D91-89AD-1F56F5743538}.png|360]]
+*银屑病关节炎 (psoriatic arthritis, PsA) 临床：DIP 受累 + 香肠指 (dactylitis) + 甲凹点；多有银屑病史。*
+
+![[{652DF5E4-317A-41BB-A731-F81797C8264A}.png|360]]
+*PsA X 线：**"笔入帽" (pencil-in-cup)** = 近节指骨变尖 + 远节指骨杯状侵蚀 + 新骨形成。*
+
+![[{75E7FD75-830A-40F5-87AB-375633F47037}.png|360]]
+*钙质沉着症 (calcinosis cutis)：皮肤钙磷沉积，散在白色丘疹 / 斑块 / 结节；见于 **CREST / 系统性硬化 (systemic sclerosis)**、皮肌炎。*
+
+![[{F73C2DAA-8AE4-4A2D-AC8C-5CBA7AA69278}.png|360]]
+*杵状指评估 (Schamroth 窗征)：双指甲对合**正常菱形窗消失** + Lovibond 角增大 → 杵状指 (clubbing)。*
+
+![[{BA971630-3CEB-4FF7-A39B-2E4B34C01B7C}.png|360]]
+*肥大性骨关节病 (hypertrophic osteoarthropathy, HOA)：杵状指 + 指 / 趾骨骨性肿胀；多由**肺病（囊性纤维化 CF）或恶性肿瘤**引起。*
 
 ---
 
