@@ -42,10 +42,30 @@ type: 专题笔记
 
 ---
 
-## 三、Memory Hook
+## 三、附加音：干爆裂音 vs 湿啰音 ⭐
+
+> [!info] 金表分流"病变性质"，附加音分流"肺里什么在动"
+> 上面金表靠叩诊/语颤/纵隔定**实变/积液/气胸/肺不张**；**附加音 (adventitious sounds 附加呼吸音)** 则区分肺内**纤维化（ILD, interstitial lung disease 间质性肺病 / IPF, idiopathic pulmonary fibrosis 特发性肺纤维化）vs 液体/分泌物**。两套维度互补，常一起判读。
+
+| 维度 | 干爆裂音 fine/dry crackles（Velcro）| 湿啰音 coarse/moist crackles（rales）|
+|---|---|---|
+| 音质 | 干、细、高调，像**撕魔术贴** | 湿、粗、低调，**冒泡感 (bubbling)** |
+| 吸气时相 | **吸气末 (late inspiratory)** | 吸气**早-中相**，可吸呼双相 |
+| 随咳嗽 | **不变**（结构性塌陷-复张）| 可减少/移动（**分泌物**性）|
+| 分布 | **双肺底、胸膜下** | 因病而异（肺水肿双底 / 肺炎局部 / 支扩散在）|
+| 代表病 | **ILD/IPF、石棉肺 asbestosis** | **心衰肺水肿、肺炎、支气管扩张 bronchiectasis** |
+| 伴随线索 | 杵状指 (clubbing)、**无**容量超负荷 | 心衰：颈静脉压 (JVP)↑ / S₃ (第三心音) / 水肿 / 端坐呼吸；肺炎：发热 / 实变 / egophony 羊鸣 |
+
+> [!danger] 钥匙：干·湿一字定方向
+> **干·细·吸气末·咳不变 → 纤维化 (ILD)**；**湿·粗·咳可变 + 容量超负荷/发热 → 心衰肺水肿 or 肺炎/分泌物。**
+
+---
+
+## 四、Memory Hook
 
 > [!success] 一句话
 > **呼吸音增强 = 实变（+语颤增强+egophony+叩浊）。** 其余都减弱：**过清→气胸（推健侧）；浊+推健侧→积液；浊+拉患侧→肺不张。**
+> **附加音：干·细·吸气末·咳不变 = 纤维化（ILD）；湿·粗·咳可变 = 心衰肺水肿 / 肺炎分泌物。**
 
 ---
 
@@ -55,9 +75,9 @@ type: 专题笔记
   - [[mistakes/uworld-mistakes_2026-06#^Q4387]] 叩浊 + 呼吸音增强 = 实变（误选黏液栓肺不张）
   - [[mistakes/uworld-mistakes_2026-06#^Q16261]] 新生儿气胸（呼吸音↓ + 透光增亮 + 纵隔推向健侧）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/pulmonary]]
-- 🧩 专题：[[完整笔记/专题笔记/pulmonary/pulmonary_气胸Pneumothorax]]（气胸体征 + 张力性处理）/ [[完整笔记/专题笔记/pulmonary/pulmonary_胸腔积液与脓胸]]（积液体征 + Light 标准）
+- 🧩 专题：[[完整笔记/专题笔记/pulmonary/pulmonary_气胸Pneumothorax]]（气胸体征 + 张力性处理）/ [[完整笔记/专题笔记/pulmonary/pulmonary_胸腔积液与脓胸]]（积液体征 + Light 标准）/ [[完整笔记/专题笔记/pulmonary/pulmonary_PFT判读与ILD]]（干爆裂音机制深挖 + ILD 听诊延伸）
 - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/感染]]（大叶性肺炎病原）
-- 🌱 TODO：攒够肺部查体题（egophony / whispered pectoriloquy / 支气管呼吸音）→ 扩"听诊异常音速查"
+- 🌱 TODO：✅ 附加音（干/湿爆裂音）已并入 §三；攒够 egophony / whispered pectoriloquy / 哮鸣 wheeze / 胸膜摩擦音 (pleural friction rub) 错题后，扩"听诊异常音全谱速查"
 
 ## ✅ 复盘行动
 
@@ -68,4 +88,5 @@ type: 专题笔记
 
 ## 版本记录
 
+- **v1.1**（2026-06-16）：新增 §三 附加音对比（干爆裂音 Velcro vs 湿啰音 rales：音质/吸气时相/随咳嗽/分布/代表病/伴随线索 + 钥匙），Memory Hook 同步加附加音行；关联补 [[完整笔记/专题笔记/pulmonary/pulmonary_PFT判读与ILD]] 双链；部分兑现"听诊异常音速查"TODO。承接 ILD vs 心衰/肺炎听诊鉴别讨论。
 - **v1**（2026-06-13）：建卡。肺部查体金表（实变/积液/气胸/肺不张/正常）+ 两条决胜钥匙（呼吸音增强=实变；叩诊+纵隔方向分减弱三兄弟）。纳入 Q4387 + Q16261。
