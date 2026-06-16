@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - USMLE-Step2
   - 风湿免疫
@@ -102,7 +102,7 @@ created: 2026-06-12
 | 抗体 | — | **RF（敏感初筛）、anti-CCP（更特异+预后差）** |
 | 治疗 | 减重/肌力/PT → **acetaminophen 对乙酰氨基酚** → NSAIDs(+PPI 或 celecoxib 塞来昔布) → 置换 | flare 短期激素 → **DMARDs** |
 
-![[风湿_手OA结节.png]]
+![[风湿_手OA结节.png|400]]
 *手骨关节炎 (osteoarthritis)：DIP 远端指间关节 Heberden 结节 + PIP 近端指间关节 Bouchard 结节。*
 
 > [!warning] OA 陷阱：ACL（前交叉韧带）损伤 10 年内发继发性 OA（不论是否手术）；OA 非炎症 → 重机械支持+肌力，不是抗炎主导。
@@ -149,7 +149,7 @@ created: 2026-06-12
 - 三联：**"不能看（结膜炎/葡萄膜炎）、不能尿（尿道炎）、不能爬（关节炎）"** + circinate balanitis 环状龟头炎
 - 治疗：**NSAIDs 一线**；仅治**现症**原发感染（**抗生素不治关节炎、不预防关节炎**，感染已愈则无用）；顽固 → DMARD
 
-![[风湿_环状龟头炎反应性关节炎.png]]
+![[风湿_环状龟头炎反应性关节炎.png|400]]
 *环状龟头炎 (circinate balanitis)：龟头**地图样斑 + 白色隆起边界**——反应性关节炎 (reactive arthritis) 的经典皮肤黏膜征。*
 
 **Still / JIA 成人 Still 病 / 幼年特发性关节炎**
@@ -194,6 +194,13 @@ created: 2026-06-12
 - 共性：**对称性近端肌无力**（上楼/起立/梳头难）；CK/aldolase↑；最准 = **肌活检**；治疗 Steroids
 - **PM 多发性肌炎**：细胞介导、无皮肤征
 - **DM 皮肌炎**：补体介导 + **Heliotrope 紫红眼睑 + Gottron 丘疹（关节伸侧）**；抗体 **anti-Jo-1**（提示 ILD）
+
+![[{7535BD07-1A85-4787-964E-5570AB084574}.png|400]]
+*Heliotrope 征：上眼睑紫红色斑——皮肌炎 (dermatomyositis) 特征。*
+
+![[{A8C6DBAB-2CFA-4E26-989D-354DC6FB974F}.png|400]]
+*Gottron 丘疹 (Gottron papules)：掌指/指间关节伸侧紫红色丘疹——皮肌炎。*
+
 - **DM/PM ↑ 恶性肿瘤风险（尤其 DM）→ 诊断后做年龄相应肿瘤筛查**
 - **【源笔记仅列名·补充】Inclusion body myositis 包涵体肌炎**：老年男性、**远端+近端均累及**、对激素反应差
 
@@ -244,7 +251,10 @@ created: 2026-06-12
 | **Cryoglobulinemia 冷球蛋白血症** | — | **HCV 关联**、可触性紫癜+关节痛+肾炎、**低补体** |
 | **IgA vasculitis (Henoch-Schönlein 过敏性紫癜)** | — | 儿童、**紫癜（下肢）+ 腹痛 + 关节炎 + IgA 肾病** |
 
-![[风湿_HSP紫癜四联.png]]
+![[{EC1C8612-3F00-477F-AE59-0F6CA16A2333}.png|400]]
+*冷球蛋白血症性血管炎 (cryoglobulinemic vasculitis)：下肢可触性紫癜 (palpable purpura)，常 HCV 关联。*
+
+![[风湿_HSP紫癜四联.png|400]]
 *IgA 血管炎 / 过敏性紫癜 (Henoch-Schönlein purpura) 四联：肾病 + 腹痛/肠套叠 + 关节炎 + 踝/臀/大腿可触性紫癜。*
 
 ### 可变血管
@@ -263,10 +273,10 @@ created: 2026-06-12
 | 诱因 | 高嘌呤餐/酒、利尿剂、住院应激 | **手术 / 急性病 / 创伤**（术后第 1 天急性单关节炎**别只想化脓性关节炎 septic arthritis**，菱形晶体直接点 CPPD）|
 | 关联 | 酒/红肉/利尿剂/TLS 肿瘤溶解/CKD | **甲旁亢 / 甲减 / 血色病 hemochromatosis** |
 
-![[风湿_痛风石手.png]]
+![[风湿_痛风石手.png|400]]
 *慢性痛风石性痛风 (chronic tophaceous gout)：指间多发白垩样**痛风石 (tophi)**，可红肿溃破。*
 
-![[风湿_痛风骨侵蚀X线.png]]
+![[风湿_痛风骨侵蚀X线.png|400]]
 *痛风足 X 线：关节旁**穿凿样骨侵蚀 (punched-out erosion) + 悬挑边缘 (overhanging edge)**，关节间隙相对保留。*
 
 > [!warning] Gout 急性 vs 慢性
@@ -275,13 +285,16 @@ created: 2026-06-12
 > - **慢性降尿酸（≥2 次/年）**：生活方式 + **allopurinol 别嘌醇 / probenecid 丙磺舒**；**losartan 氯沙坦**辅助促排
 > - **加重痛风的药 = 噻嗪类 thiazide**（急性期勿启动/调整降尿酸药）
 
-![[风湿_软骨钙化CPPD.png]]
+![[风湿_软骨钙化CPPD.png|400]]
 *软骨钙化症 (chondrocalcinosis)：膝关节软骨内钙化线，焦磷酸钙沉积 (CPPD)/假性痛风的影像标志。*
 
-![[风湿_CPPD偏振光晶体.png]]
+![[风湿_CPPD偏振光晶体.png|400]]
 *CPPD 偏振光镜检：**菱形 (rhomboid) + 正性双折射 (positively birefringent)** 焦磷酸钙晶体（对比痛风=针状负性双折射）。*
 
 > [!tip] CPPD 必查继发病因：**甲旁亢（高 PTH→高钙）、甲减、血色病（铁沉积；2nd/3rd MCP、hook 状骨赘、bronze diabetes → phlebotomy 放血）**。
+>
+> ![[{2B55216A-8357-43D9-A043-E8733B4EC27B}.png|400]]
+> *遗传性血色病关节病 (hereditary hemochromatosis arthropathy)：第 2/3 掌指关节 (MCP) 受累 + 钩状骨赘 (hook osteophytes)。*
 
 > [!danger] 发热 + 急性单关节炎 → **紧急 arthrocentesis 关节穿刺先排化脓性关节炎 septic arthritis**（Gram 染色/培养、WBC>50k）。
 
@@ -311,6 +324,9 @@ created: 2026-06-12
 **Fibromyalgia 纤维肌痛**：20–40 女性，**广泛 trigger point 压痛 + 睡眠障碍 + 乏力/抑郁**；**化验全正常**；须排 Cushing/甲减 → **运动/PT + amitriptyline 阿米替林 / gabapentin 加巴喷丁 / pregabalin 普瑞巴林**
 
 **Paget Disease of Bone 骨 Paget 病**：50–60 岁，**听力↓ / 帽子变紧 / 鞋码变大 / 背痛**；破骨异常+骨转换↑；**ALP↑（可能唯一异常）、钙磷 PTH 正常**；**bone scan 最敏感**；并发 osteosarcoma 骨肉瘤 → **bisphosphonates 双膦酸盐**
+
+![[{565ADF8E-BAE8-4882-93D2-F6CEAEE17AD6}.png|400]]
+*骨 Paget 病 (Paget disease of bone)：骨盆 X 线——溶骨灶 + 硬化 + 骨膨大并存。*
 
 ### Fibromyalgia vs PM vs PMR（三联鉴别 ★高频★）
 

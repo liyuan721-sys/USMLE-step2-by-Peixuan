@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - USMLE-Step2
   - 内分泌
@@ -167,6 +167,14 @@ Step 3 定位：垂体 MRI
 > [!warning] 伴随
 > 最常见死因 = 心血管疾病（充血性心衰 CHF）；确诊后必查**结肠镜 (colonoscopy)**（结肠癌风险↑）。
 
+![[{A3FAF8C9-8692-443E-AF42-EDFB0342F8C7}.png|400]]
+
+*肢端肥大症 (acromegaly) 体征：手足增大、面容粗化、眉弓突出、下颌前突 (prognathism)、皮赘、腕管综合征。*
+
+![[{54F10BC4-E4C1-4EAB-AB17-977E501F8E0D}.png|400]]
+
+*生长激素轴：GHRH/生长抑素 (somatostatin) 调控 GH → 肝产 IGF-1 + 直接组织效应（胰岛素抵抗↑、脂解↑）。*
+
 ### 3.3 尿崩症 (DI, diabetes insipidus) vs 精神性烦渴 — 限水 + 去氨加压素
 
 | 诊断 | 限水后尿渗透压 | 给去氨加压素 (desmopressin) 后 | 钥匙 |
@@ -247,6 +255,10 @@ Step 3 定位：垂体 MRI
 
 PTH → ↑骨吸收 + ↑肾钙重吸收 + **↓磷 (phosphate)**。
 
+![[{C463931B-9BDA-4673-8B9A-2406B084B2CE}.png|400]]
+
+*PTH 作用流程：骨吸收↑ + 肾钙重吸收↑、磷重吸收↓ → 血钙↑、尿磷↑。*
+
 ### 5.2 原发性甲状旁腺功能亢进 (primary hyperparathyroidism, PHPT)
 
 **实验室**：高 PTH + 高钙 + **低磷**；最常见病因 = 甲状旁腺腺瘤 (parathyroid adenoma)，问题在腺体本身。
@@ -270,6 +282,22 @@ PTH → ↑骨吸收 + ↑肾钙重吸收 + **↓磷 (phosphate)**。
 > **先 NS 补容量 + 降钙素 (calcitonin)**（救命），不是先做病因诊断（如骨髓活检）。
 > 后续：双膦酸盐 (bisphosphonate)（起效慢但持久）/ 糖皮质激素（病因特异，如肉芽肿/淋巴瘤 1,25-VitD↑）/ 血液透析（肾衰且重度）。
 > 分层：重度 >14 / 中度 12–14 / 轻度 <12 mg/dL。
+
+### 5.5 低钙体征 (signs of hypocalcemia)
+
+低钙血症 (hypocalcemia) → 神经肌肉兴奋性↑ → Trousseau 征 + Chvostek 征（床旁两大体征）。
+
+![[{BAB14DE7-D467-4A7D-9298-1F80006E3C7A}.png|400]]
+
+*低钙体征：Trousseau 征（血压袖带加压诱发腕足痉挛）+ Chvostek 征（叩面神经致同侧面肌抽动）。*
+
+### 5.6 骨软化症 (osteomalacia)
+
+维生素 D 缺乏 (vitamin D deficiency) → 骨基质矿化不足 → 骨软化症 (osteomalacia)；影像钥匙 = 假骨折 (pseudofracture / Looser 带)。
+
+![[{93A45B65-C133-4944-A995-DD9A09E5A596}.png|400]]
+
+*骨软化症假骨折 (osteomalacia pseudofracture / Looser 带)：垂直于皮质的线状透亮带。*
 
 ---
 
