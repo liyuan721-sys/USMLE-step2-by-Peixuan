@@ -74,7 +74,8 @@ HFE 缺陷 → 肝 hepcidin 铁调素 不适当地↓
 
 ## 🔗 关联
 
-- 🔁 同主题错题：暂无（待 UW 血色病题入库后补 `[[mistakes/uworld-mistakes_2026-06#^Q#####]]`）
+- 🔁 同主题错题：
+  - [[mistakes/uworld-mistakes_2026-06#^Q12168]] 海水伤口 + 肝病/血色病 → 创伤弧菌 Vibrio vulnificus（铁=细菌养料）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/hematology oncology]]；[[完整笔记/Peixuan分科笔记/消化腺]]（肝硬化/HCC）；[[完整笔记/专题笔记/血液/血液_HighYield速查总览]]
 - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/endocrine]]（DM + 继发性性腺减退）；[[完整笔记/Peixuan分科笔记/心内]]（铁沉积心肌病）；[[完整笔记/专题笔记/风湿/风湿_HighYield速查总览]]（软骨钙化/假性痛风 CPPD）；[[完整笔记/专题笔记/USMLE/USMLE_多系统重点病总索引]]
 - 🌱 TODO：与 Wilson 病（铜过载）建"铁 vs 铜代谢病对照表"（放血 vs 青霉胺/锌；C282Y vs ATP7B；肝+关节 vs 肝+神经精神 KF 环）

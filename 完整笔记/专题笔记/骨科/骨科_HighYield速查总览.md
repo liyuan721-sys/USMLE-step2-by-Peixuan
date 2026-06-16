@@ -184,7 +184,9 @@ created: 2026-06-12
 肱骨干中段(radial groove) ── Radial nerve 桡神经 ── Wrist drop 腕下垂 + 虎口背麻
 肱骨外科颈/前肩脱位 ──────── Axillary nerve 腋神经 ── 外展难 + 肩外侧(regimental badge)麻
 肱骨远端1/3/髁上骨折 ──────── Median nerve(AIN) 正中神经 ── 不能做OK sign + 肱动脉风险
+内上髁骨折(medial epicondyle) Ulnar nerve 尺神经 ──── 第4-5指麻 + 爪形手(claw hand)倾向
 Colles骨折(桡骨远端背移) ──── Median nerve 正中神经 ── 急性腕管:拇外展弱+桡侧3½指麻
+Smith骨折(桡骨远端掌移) ───── Median nerve 正中神经 ── 同Colles;畸形反向:餐叉↔铲样(garden spade)
 后髋脱位 ────────────────── Sciatic nerve 坐骨神经
 腓骨颈骨折 ───────────────── Common peroneal 腓总神经 ── Foot drop 足下垂
 ```

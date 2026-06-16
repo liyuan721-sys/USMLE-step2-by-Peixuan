@@ -45,7 +45,12 @@ type: 专题笔记
 > - **眶周紫癜 / 巨舌 / M 蛋白 spike** → **AL**
 > - **长期 RA / 慢性炎症 + 肾综** → **AA**
 > - **老年 HFpEF + 腕管** → **ATTR**（先排 AL）
-> - **透析多年 + 肩腕痛/腕管** → **Aβ₂M**
+> - **透析多年 + 肩腕痛/腕管** → **Aβ₂M**（**DRA, dialysis-related amyloidosis 透析相关淀粉样变**；经典三联 = **双肩痛 + 腕管综合征 + 骨囊肿 bone cysts**；β₂-微球蛋白分子量大、不被普通透析膜清除 → 长期蓄积沉积于滑膜/骨）
+
+> [!danger] AA 型肾受累的尿检"反 pattern"钩子（来源 [[mistakes/uworld-mistakes_2026-05#^Q16296]]）
+> AA 淀粉样变是**慢性 RA (rheumatoid arthritis, 类风湿关节炎) 继发肾病综合征 (nephrotic syndrome) 的头号病因**。
+> - 尿检是**肾病范围蛋白尿，但镜下"干净"——无红细胞、无细胞管型 (no cells / no casts)**（沉积在肾小球基底膜，是非炎症性损伤）。
+> - 陷阱：别因"没有血尿 / 红细胞管型"就排除肾病、误判为肾炎综合征 (nephritic)。记：**nephrotic（淀粉样变属此）= 大量蛋白尿 + 镜下干净 + 显著水肿低白蛋白**；**nephritic = 血尿 + 变形红细胞 + RBC 管型**。
 
 ---
 
@@ -71,7 +76,10 @@ type: 专题笔记
 
 ## 🔗 关联
 
-- 🔁 同主题错题：暂无（待 UW 淀粉样变题入库后补 `[[mistakes/uworld-mistakes_2026-06#^Q#####]]`）
+- 🔁 同主题错题：
+  - [[mistakes/uworld-mistakes_2026-05#^Q16296]] 🔴 AA 淀粉样变（长期 RA → 肾综；"无 cells/casts"钩子，反复错）
+  - [[mistakes/uworld-mistakes_2026-06#^Q16296-R0605]] AA 淀粉样变追踪卡（6/5 重做又错）
+  - [[mistakes/uworld-mistakes_2026-05#^Q21041]] 透析相关淀粉样变 DRA（β₂M；双肩痛 + 腕管 + 骨囊肿三联）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/hematology oncology]]（AL / 多发性骨髓瘤）；[[完整笔记/Peixuan分科笔记/肾脏]]（最系统的淀粉样变详表）；[[完整笔记/Peixuan分科笔记/心内]]（限制型心肌病）
 - 🏥 跨学科：[[完整笔记/专题笔记/心内/心内_心包心肌病谱]]（限制型 vs 缩窄性 vs HCM）；[[完整笔记/专题笔记/肾脏/肾脏_肾炎肾病综合征对照]]（肾综病因）；[[完整笔记/Peixuan分科笔记/neuro]]（腕管/周围神经 + 脑淀粉样血管病）；[[完整笔记/专题笔记/USMLE/USMLE_多系统重点病总索引]]
 - 🌱 TODO：建"限制型心肌病鉴别（淀粉样 vs 血色病 vs 结节病 vs 放疗后）"对照

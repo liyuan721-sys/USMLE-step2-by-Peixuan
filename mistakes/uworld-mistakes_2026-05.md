@@ -14645,7 +14645,7 @@
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-05#^Q4848]] 高泌乳素——同为"被正在吃的药诱导归因 → 忽略真病因"陷阱孪生题（Q4848 阿立哌唑 / 本题安非他命）
 >   - （SLE 主题首题，等后续 SLE/lupus nephritis/自身抗体错题积累后横向连）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/免疫疫苗]] / [[完整笔记/Peixuan分科笔记/psych]]
+> - 📚 主笔记：[[完整笔记/专题笔记/风湿/风湿_SLE系统性红斑狼疮]] / [[完整笔记/Peixuan分科笔记/免疫疫苗]] / [[完整笔记/Peixuan分科笔记/psych]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/肾脏]]（lupus nephritis：蛋白尿+血尿）；[[完整笔记/Peixuan分科笔记/hematology oncology]]（SLE 致血小板↓/溶贫/白细胞↓）；[[完整笔记/Peixuan分科笔记/儿科]]（儿童急性精神病罕见 → 必排可逆器质病因）
 > - 🌱 TODO（待生成衍生）：
 >   - 等风湿/免疫「SLE」+ 精神科「急性精神病鉴别」复习完，请 Claude Code 整合「儿童/青少年急性精神病——继发器质病因鉴别决策树（SLE/甲状腺/代谢/物质/药物）」→ 生成 [[完整笔记/专题笔记/_衍生_儿童急性精神病鉴别]]
@@ -30415,13 +30415,14 @@
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-05#^Q16296]] AA Amyloidosis from RA（同日 — 同 amyloidosis 系列 4 型对照）
 > - 📚 主笔记：
+>   - [[完整笔记/专题笔记/血液/血液_淀粉样变Amyloidosis]]（4 型对照专题）
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（line 3834+ Systemic amyloidosis 4 型 + line 4116 β2M dialysis-shoulder + line 4128 β2M bone cysts — 已有完整章节）
 >   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（line 3007 / 2825 Amyloidosis + AL + periorbital purpura）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/外科]]（CTS 鉴别：DRA / Acromegaly / Hypothyroid / Pregnancy / RA / DM）
 >   - [[完整笔记/Peixuan分科笔记/骨科]]（Bone cysts / pathologic fracture 鉴别 — DRA / brown tumor of HPT / multiple myeloma）
 > - 🌱 TODO：
->   - 累积 amyloidosis 4 型 + 同日 Q16296 → 整合 [[完整笔记/专题笔记/肾脏/肾脏_Amyloidosis四型对照]]（4 型前驱-沉积器官-诊断-治疗对照）
+>   - ✅ 已建 [[完整笔记/专题笔记/血液/血液_淀粉样变Amyloidosis]]（四型对照已实现，原计划的肾脏路径未采用）
 >
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做 Q21041 — 必须**正向锁 DRA**（透析 20yr + 三联）不许排除法
@@ -30511,6 +30512,7 @@
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-05#^Q21041]] DRA β2M 透析肩腕骨（同日 — 同 amyloidosis 系列）
 > - 📚 主笔记：
+>   - [[完整笔记/专题笔记/血液/血液_淀粉样变Amyloidosis]]（4 型对照专题）
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（line 3974 / 4150 / 4176 AA amyloidosis 章节 — 已有完整）
 >   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（line 3007 / 3834 Amyloidosis 系列）
 > - 🏥 跨学科：
@@ -30518,7 +30520,7 @@
 >   - [[完整笔记/Peixuan分科笔记/GI]]（IBD → AA / FMF AR 突变 → 反复发作性发热腹痛 + AA）
 >   - [[完整笔记/Peixuan分科笔记/感染]]（TB / 骨髓炎 → AA）
 > - 🌱 TODO：
->   - 累积 Q21041 + Q16296 → 整合 [[完整笔记/专题笔记/肾脏/肾脏_Amyloidosis四型对照]]（4 型前驱-蛋白-器官-诊断-治疗 + 5 选 1 病理对照）
+>   - ✅ 已建 [[完整笔记/专题笔记/血液/血液_淀粉样变Amyloidosis]]（四型对照已实现，原计划的肾脏路径未采用）
 >
 > ## ✅ 复盘行动
 > - [ ] **🔴 2026-06-05 重错（选 B 增殖性免疫沉积）**——上次"选对不确定"这次直接错 → 升 🔴。关键：**长期 RA + 肾综（4+ 蛋白、无 cells/casts）+ 瘀斑 = AA 淀粉样变 → Congo red 阳性、苹果绿双折射**；B（immune deposits + 增殖）是狼疮/增殖性 GN（有 RBC casts + 血尿，本题没有）。
