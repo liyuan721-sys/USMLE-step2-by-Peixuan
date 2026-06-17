@@ -339,7 +339,10 @@ created: 2026-06-12
 
 ## 五、其他
 
-**Raynaud 雷诺现象**：寒冷/紧张诱发指端白→蓝→红；继发线索（大龄新发、溃疡/坏疽）查硬皮病/SLE → **CCB (nifedipine)**
+**Raynaud 雷诺现象**：寒冷/紧张诱发指端白→蓝→红。
+- **原发 RP**：年轻女、对称、无组织损伤、化验正常 → 保暖/戒烟 +（需药时）**CCB (nifedipine 硝苯地平)**。
+- **继发 RP**（线索：>40、不对称、溃疡/坏疽）→ **下一步先做无创血清学：ANA + 炎症标志物（ESR / 补体 C3·C4）** 查硬皮病/SLE；ANA 阳性再查特异抗体（anti-Scl-70 等）。
+- **有创动脉造影 (arteriogram) 排在后面**——用于 Buerger 病（血栓闭塞性脉管炎 thromboangiitis obliterans），且**排除系统性病之后**才做；别因"吸烟 + 指端溃疡"反射造影。（错题 [[mistakes/uworld-mistakes_2026-06#^Q9939]]）
 
 **Fibromyalgia 纤维肌痛**：20–40 女性，**广泛 trigger point 压痛 + 睡眠障碍 + 乏力/抑郁**；**化验全正常**；须排 Cushing/甲减 → **运动/PT + amitriptyline 阿米替林 / gabapentin 加巴喷丁 / pregabalin 普瑞巴林**
 
