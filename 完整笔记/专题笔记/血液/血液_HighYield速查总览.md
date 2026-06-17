@@ -35,6 +35,12 @@ type: 专题笔记
 └─ Best test 起手：CBC + 外周涂片；铁代谢异常 → iron studies
 ```
 
+> [!info] 婴儿生理性贫血 (physiologic anemia of infancy)
+> 出生后**促红细胞生成素 (erythropoietin, EPO)↓** + 胎儿红细胞寿命短 → 血红蛋白 (Hgb) 生理性下降至**最低值 (nadir)**：**足月儿约 2 月龄低至 ~9 g/dL、早产儿约 1 月龄低至 ~7 g/dL**，之后自行回升，**无需处理**。常作"病理性贫血"的干扰（如 [[mistakes/uworld-mistakes_2026-06#^Q15845]] 2 月龄 Hgb 9.8 = 正常 nadir，非白血病/溶血）。
+>
+> ![[{1145EEB0-4CB5-4FF9-B611-F0112A91D9EB}.png]]
+> *足月 vs 早产儿平均血红蛋白曲线：足月 ~2 月 nadir ≈9、早产 ~1 月 nadir ≈7 g/dL（UW，双嵌自卡 [[mistakes/uworld-mistakes_2026-06#^Q15845]]）*
+
 ### 1.1 小细胞性贫血（Microcytic, MCV↓）
 
 | 病 | 钥匙(buzzword) | 铁代谢钥匙 | 下一步 / 治疗 |
