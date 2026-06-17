@@ -150,7 +150,7 @@ type: 专题笔记
 > - **稳定**：肝素 heparin → 华法林 warfarin。**严重肾功能不全 → 普通肝素（UFH, unfractionated heparin）**（"小分子走肾、大分子走血"）。
 > - **稳定 + 出血**：下腔静脉滤器（IVC filter, inferior vena cava 下腔静脉）。
 > - **不稳定（RV 功能障碍 / SBP <90）**：tPA；**不稳定 + 出血**：取栓 embolectomy。
-> 骨折后 → **脂肪栓塞综合征 (fat embolism)**：呼吸窘迫 + 神经功能障碍 + 瘀点皮疹 petechial rash。
+> 骨折后 → **脂肪栓塞综合征 (fat embolism)**：呼吸窘迫 + 神经功能障碍 + 瘀点皮疹 petechial rash。完整体系见 [[完整笔记/专题笔记/pulmonary/pulmonary_肺栓塞PE]] §四。
 
 ### 4.2 肺动脉高压 pulmonary hypertension (PH)
 

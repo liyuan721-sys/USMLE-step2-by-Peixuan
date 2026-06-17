@@ -111,7 +111,7 @@ created: 2026-06-12
 |---|---|---|---|
 | **后髋脱位 Posterior hip dislocation** | MVC 车祸，腿**短缩+内旋** | X 线 | Closed reduction；伤**坐骨神经 sciatic** |
 | **髋骨折 Hip fracture** | 老人跌倒，腿**短缩+外旋** | X 线；阴性高度疑→**MRI** | ORIF / pinning |
-| **股骨干骨折 Femur shaft fracture** | 高能创伤，仅短缩 | X 线 | 髓内钉 rod；并发 **fat embolism 脂肪栓塞**（数 h–d 后低氧+神经症+瘀点） |
+| **股骨干骨折 Femur shaft fracture** | 高能创伤，仅短缩 | X 线 | 髓内钉 rod；并发 **fat embolism 脂肪栓塞**（数 h–d 后低氧+神经症+瘀点；详见 [[完整笔记/专题笔记/pulmonary/pulmonary_肺栓塞PE]] §四） |
 | **股骨头骨坏死 Osteonecrosis/AVN（缺血性坏死）** | **非创伤**慢性腹股沟痛 + 髋 ROM↓（外展/内旋）；危险因素 **慢性酗酒 / 慢性高剂量激素 / SCD / SLE / 股骨颈骨折** | **X 线低敏**（晚期软骨下硬化/股骨头变扁/新月征）→ 阴性疑诊 **MRI**（T1 蛇形线+骨髓水肿） | 早期保护负重+会诊；晚期 THA 置换 |
 
 ![[骨科_髋骨折类型.png]]
