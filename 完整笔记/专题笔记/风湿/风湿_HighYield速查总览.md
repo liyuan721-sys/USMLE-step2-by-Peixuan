@@ -74,7 +74,7 @@ created: 2026-06-12
   单关节 Mono → Gout / OA / Septic
   寡关节 Oligo → 脊柱关节病 Spondyloarthropathy
   多关节 Poly → SLE / RA / 病毒
-  游走 Migratory → "Michael Jordan" = Gonococcal 淋球菌 / Lyme 莱姆 / Rheumatic fever 风湿热
+  游走 Migratory → 先抓 3 感染源「淋·莱·风湿热」= Gonococcal 淋球菌 / Lyme 莱姆 / Rheumatic fever 风湿热（+ SLE / Whipple）
 ```
 
 **关节液 WBC 分级（高频）**
@@ -105,7 +105,7 @@ created: 2026-06-12
 ![[风湿_手OA结节.png|400]]
 *手骨关节炎 (osteoarthritis)：DIP 远端指间关节 Heberden 结节 + PIP 近端指间关节 Bouchard 结节。*
 
-> [!warning] OA 陷阱：ACL（前交叉韧带）损伤 10 年内发继发性 OA（不论是否手术）；OA 非炎症 → 重机械支持+肌力，不是抗炎主导。
+> [!warning] OA 陷阱：ACL（前交叉韧带）损伤 10 年内发继发性 OA（不论是否手术）；OA 非炎症 → 重机械支持+肌力，不是抗炎主导。完整体系（危险因素/分布/治疗阶梯）见 [[完整笔记/专题笔记/骨科/骨科_OA骨关节炎完整体系]]。
 
 > [!tip] RA 畸形：Swan-neck 天鹅颈（PIP 过伸+DIP 屈）/ Boutonniere 纽扣花（PIP 屈+DIP 过伸）。
 
