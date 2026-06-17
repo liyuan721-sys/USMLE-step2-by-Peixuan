@@ -73,26 +73,28 @@ type: 专题笔记
 > [!info] 本质
 > 成纤维细胞功能障碍 → **结缔组织过度纤维化** + **血管病变**。皮肤增厚从肢端（手/足）起，伴皮肤附属器消失（毛囊/汗腺）。
 
-### 2.1 弥漫型 vs 局限型 临床鉴别（★核心★）
+### 2.1 弥漫型 vs 局限型 完整鉴别（按维度 / 系统）
 
-| 鉴别点 | 弥漫型 Diffuse cutaneous | 局限型 Limited / CREST |
+> 共有特征合并写在一格并标「共有」；两型不同的分两列写。
+
+| 维度 / 系统 | 弥漫型 Diffuse cutaneous | 局限型 Limited / CREST |
 |---|---|---|
-| 皮肤范围 | **躯干 + 四肢近端（肘/膝以上）+ 面** | **仅肘/膝以下远端 + 面**（不累及躯干） |
-| 起病 / 进展 | **快**，皮肤短期内快速增厚 | **慢**，数年隐匿 |
-| Raynaud 时序 | 与皮肤改变**几乎同时**（短期内即出现内脏病） | **Raynaud 早于皮肤改变数年** |
-| 内脏受累 | **早、重**：ILD (interstitial lung disease 间质性肺病) / **硬皮病肾危象** | **晚、局限**：**PAH (pulmonary arterial hypertension 肺动脉高压)**（迟发）/ PBC (primary biliary cholangitis 原发性胆汁性胆管炎) |
-| 钙质沉着 / 毛细血管扩张 | 较少 | **突出**（即 CREST 的 C 和 T） |
+| 皮肤范围 | **躯干 + 四肢近端（肘/膝以上）+ 面**，进展**快** | **仅肘/膝以下远端 + 面**（不累及躯干），进展**慢（数年）** |
+| 皮肤征（共有） | sclerodactyly 指端硬化、puffy hands 手肿胀、digital ulcer 指端溃疡 —— **两型都有** | 同左，且 **calcinosis 钙质沉着 / telangiectasia 毛细血管扩张更突出**（CREST 的 C·T） |
+| 血管 Raynaud（共有） | 几乎人人有；与皮肤改变**几乎同时** | 几乎人人有；**早于皮肤改变数年** |
+| 消化 食管（共有） | **食管动力障碍 + GERD (gastroesophageal reflux disease 胃食管反流病)（dysphagia 吞咽困难、LES, lower esophageal sphincter 下食管括约肌 张力↓）—— 两型都有** | 同左（CREST 的 **E**，但**非局限专属、不分型**） |
+| 肺 | **ILD (interstitial lung disease 间质性肺病)**：肺底 fine crackles 细湿啰音 + 气短 | **PAH (pulmonary arterial hypertension 肺动脉高压)**（迟发） |
+| 肾 | **硬皮病肾危象**（恶性 HTN + AKI + MAHA，详见 §2.2） | 罕见 |
+| 心 | 心肌纤维化、心包炎/心包积液（弥漫型为主） | 少见 |
+| 肝 | — | **PBC (primary biliary cholangitis 原发性胆汁性胆管炎)**（常 + 抗线粒体抗体 AMA, anti-mitochondrial antibody） |
 | 特异抗体 | **anti-Scl-70（anti-topoisomerase I 抗拓扑异构酶 I）**；anti-RNA polymerase III（抗 RNA 聚合酶 III，肾危象↑） | **anti-centromere 抗着丝点抗体** |
 | 预后 | **差**（内脏纤维化早） | 相对好 |
 
 > [!tip] CREST = 局限型硬皮病五联
 > **C**alcinosis 钙质沉着 / **R**aynaud 雷诺 / **E**sophageal dysmotility 食管动力障碍 / **S**clerodactyly 指端硬化 / **T**elangiectasia 毛细血管扩张。
 
-> [!info] 两型「共有」特征 → 不能用于分型
-> - **Raynaud 现象**：几乎所有 SSc 都有（两型的入口症状）。
-> - **食管动力障碍 + GERD**：~80–90%，**弥漫 / 局限都有**——CREST 把「E」列进去，但**食管病变不是局限型专属**，不能拿来分型。
-> - **sclerodactyly 指端硬化**：两型都有（定义性皮肤征）。
-> - 分型 = 看**皮肤范围 + 特异抗体 + 哪种内脏并发为主（ILD/肾危象 vs PAH）**，不是看"有没有雷诺/食管病"。
+> [!tip] 一句话分型（共有的别拿来分型）
+> **Raynaud / 食管动力障碍 / sclerodactyly 两型都有** → 不能分型。**分型只看三件事：① 皮肤范围 ② 特异抗体（Scl-70 vs 着丝点）③ 主导内脏并发（ILD/肾危象 = 弥漫 vs PAH = 局限）。**
 
 > [!danger] 抗体一句话锁定（★Q3322 错点★）
 > - **ANA** 几乎所有 SSc 都阳性 → 敏感但**不特异**（不能定型）。
@@ -100,25 +102,14 @@ type: 专题笔记
 > - **anti-centromere** → **局限型 / CREST**。
 > 题干给「皮肤增厚 + Raynaud + 肺底细湿啰音 (ILD)」= 弥漫型 → **选 anti-Scl-70**，不是抗着丝点、更不是抗 CCP（那是 RA）。
 
-### 2.2 临床特征（按系统）
-
-| 系统 | 表现 |
-|---|---|
-| 皮肤 | 指端硬化 sclerodactyly、puffy hands 手肿胀、telangiectasia、calcinosis、digital ulcer |
-| 血管 | **Raynaud（几乎人人有）** |
-| 消化 | **食管动力障碍 → dysphagia 吞咽困难 / GERD (gastroesophageal reflux disease 胃食管反流病)**（LES, lower esophageal sphincter 下食管括约肌 张力↓） |
-| 肺 | **ILD 间质性肺病**（弥漫型，肺底 fine crackles 细湿啰音 + 气短）、PAH（局限型） |
-| 肾 | **硬皮病肾危象 scleroderma renal crisis** |
-| 心 | 心肌纤维化、心包炎/积液 |
-
-### 2.3 硬皮病肾危象（★高频急症★）
+### 2.2 硬皮病肾危象（★高频急症★）
 
 > [!danger] Scleroderma Renal Crisis
 > **恶性高血压 (malignant HTN, hypertension 高血压) + AKI (acute kidney injury 急性肾损伤) + MAHA (microangiopathic hemolytic anemia 微血管病性溶血性贫血)**（血涂片见破碎红细胞 schistocyte）。
 > **首选 ACE-I（angiotensin-converting enzyme inhibitor 血管紧张素转换酶抑制剂）：captopril 卡托普利**——即使肌酐升高也要用，是唯一改善预后的药。
 > ★硬皮病患者突发明显高血压 → 先想肾危象，立刻 ACE-I★
 
-### 2.4 分系统处理 SOP
+### 2.3 分系统处理 SOP
 
 | 问题 | 处理 |
 |---|---|
