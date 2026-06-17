@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - USMLE-Step2
   - 风湿免疫
@@ -316,6 +316,13 @@ created: 2026-06-12
 > ![[{2B55216A-8357-43D9-A043-E8733B4EC27B}.png|400]]
 > *遗传性血色病关节病 (hereditary hemochromatosis arthropathy)：第 2/3 掌指关节 (MCP) 受累 + 钩状骨赘 (hook osteophytes)。*
 
+> [!warning] 「甲旁亢特异」≠「任意高钙」 + 沉积 vs 发作（★易挖的坑★）
+> **不是所有高钙血症都导致 CPPD**——公认关联的是 **原发性甲旁亢 (primary hyperparathyroidism)**，而**不是**恶性肿瘤高钙 (PTHrP, parathyroid hormone-related peptide 甲状旁腺激素相关肽 / 骨转移) / 结节病 sarcoidosis / 维生素 D 中毒 / 噻嗪类 thiazide 等其他高钙病因。
+> - **证据（机制不止血钙）**：只有甲旁亢关联 CPPD；且**切甲状旁腺、血钙正常后关节病常不逆转** → 说明 PTH 本身/慢性病程的作用，不是单纯钙数值。
+> - **沉积（chronic 造成 CPPD 沉积病）** = 甲旁亢 / 血色病 / 低镁 hypomagnesemia / 低磷酸酯酶症 hypophosphatasia / 甲减 / 老龄。
+> - **发作（acute 诱发已有 CPPD 急性假性痛风）** = 手术 / 急性内科病 / 创伤 / **血钙剧烈波动**（含甲状旁腺切除术后钙骤降）。
+> - stem 给「**恶性肿瘤高钙 + 关节炎**」**别反射 CPPD**——CPPD 的代谢钩子是**甲旁亢**，不是任意高钙。
+
 > [!danger] 发热 + 急性单关节炎 → **紧急 arthrocentesis 关节穿刺先排化脓性关节炎 septic arthritis**（Gram 染色/培养、WBC>50k）。
 
 ### 滑液晶体形状谱（6 种，按形状反射）
@@ -340,6 +347,7 @@ created: 2026-06-12
 ## 五、其他
 
 **Raynaud 雷诺现象**：寒冷/紧张诱发指端白→蓝→红。
+![[{6F7A9537-6CCD-4411-B104-2391B86084E9}.png]]
 - **原发 RP**：年轻女、对称、无组织损伤、化验正常 → 保暖/戒烟 +（需药时）**CCB (nifedipine 硝苯地平)**。
 - **继发 RP**（线索：>40、不对称、溃疡/坏疽）→ **下一步先做无创血清学：ANA + 炎症标志物（ESR / 补体 C3·C4）** 查硬皮病/SLE；ANA 阳性再查特异抗体（anti-Scl-70 等）。
 - **有创动脉造影 (arteriogram) 排在后面**——用于 Buerger 病（血栓闭塞性脉管炎 thromboangiitis obliterans），且**排除系统性病之后**才做；别因"吸烟 + 指端溃疡"反射造影。（错题 [[mistakes/uworld-mistakes_2026-06#^Q9939]]）
