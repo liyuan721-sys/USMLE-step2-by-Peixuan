@@ -73,17 +73,26 @@ type: 专题笔记
 > [!info] 本质
 > 成纤维细胞功能障碍 → **结缔组织过度纤维化** + **血管病变**。皮肤增厚从肢端（手/足）起，伴皮肤附属器消失（毛囊/汗腺）。
 
-### 2.1 弥漫型 vs 局限型 (CREST)（★抗体定型★）
+### 2.1 弥漫型 vs 局限型 临床鉴别（★核心★）
 
-| | 弥漫型 Diffuse | 局限型 / CREST |
+| 鉴别点 | 弥漫型 Diffuse cutaneous | 局限型 Limited / CREST |
 |---|---|---|
-| 皮肤范围 | **广泛（躯干+四肢近端）** | **末梢为主**（肘/膝远端、面） |
-| 进展 | 快 | 慢 |
-| 标志并发 | **ILD (interstitial lung disease 间质性肺病) / 硬皮病肾危象** | **PAH (pulmonary arterial hypertension 肺动脉高压)** |
-| 特异抗体 | **anti-Scl-70（anti-topoisomerase I 抗拓扑异构酶 I）**；anti-RNA polymerase III（抗 RNA 聚合酶 III，肾危象风险↑） | **anti-centromere 抗着丝点抗体** |
+| 皮肤范围 | **躯干 + 四肢近端（肘/膝以上）+ 面** | **仅肘/膝以下远端 + 面**（不累及躯干） |
+| 起病 / 进展 | **快**，皮肤短期内快速增厚 | **慢**，数年隐匿 |
+| Raynaud 时序 | 与皮肤改变**几乎同时**（短期内即出现内脏病） | **Raynaud 早于皮肤改变数年** |
+| 内脏受累 | **早、重**：ILD (interstitial lung disease 间质性肺病) / **硬皮病肾危象** | **晚、局限**：**PAH (pulmonary arterial hypertension 肺动脉高压)**（迟发）/ PBC (primary biliary cholangitis 原发性胆汁性胆管炎) |
+| 钙质沉着 / 毛细血管扩张 | 较少 | **突出**（即 CREST 的 C 和 T） |
+| 特异抗体 | **anti-Scl-70（anti-topoisomerase I 抗拓扑异构酶 I）**；anti-RNA polymerase III（抗 RNA 聚合酶 III，肾危象↑） | **anti-centromere 抗着丝点抗体** |
+| 预后 | **差**（内脏纤维化早） | 相对好 |
 
 > [!tip] CREST = 局限型硬皮病五联
 > **C**alcinosis 钙质沉着 / **R**aynaud 雷诺 / **E**sophageal dysmotility 食管动力障碍 / **S**clerodactyly 指端硬化 / **T**elangiectasia 毛细血管扩张。
+
+> [!info] 两型「共有」特征 → 不能用于分型
+> - **Raynaud 现象**：几乎所有 SSc 都有（两型的入口症状）。
+> - **食管动力障碍 + GERD**：~80–90%，**弥漫 / 局限都有**——CREST 把「E」列进去，但**食管病变不是局限型专属**，不能拿来分型。
+> - **sclerodactyly 指端硬化**：两型都有（定义性皮肤征）。
+> - 分型 = 看**皮肤范围 + 特异抗体 + 哪种内脏并发为主（ILD/肾危象 vs PAH）**，不是看"有没有雷诺/食管病"。
 
 > [!danger] 抗体一句话锁定（★Q3322 错点★）
 > - **ANA** 几乎所有 SSc 都阳性 → 敏感但**不特异**（不能定型）。
