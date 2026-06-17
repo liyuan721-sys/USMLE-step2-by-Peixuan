@@ -220,6 +220,31 @@ Smith骨折(桡骨远端掌移) ───── Median nerve 正中神经 ──
 
 ---
 
+## 七·五、骨肿瘤 良性 vs 恶性速记（派生自 Q108723）⭐
+
+> [!tip] 一句话钥匙
+> **X 线"皮质 + 髓腔与母骨连续 (cortical & medullary continuity)" = 良性骨软骨瘤**（与母骨同源）；出现**侵袭性骨膜反应（葱皮 onion-skin / Codman 三角 / sunburst 日光放射）+ 疼痛软组织肿块 = 恶性**。
+
+| 病变 | 性质 | 人群 / 部位 | X 线钥匙 | 临床 / 处理 |
+|---|---|---|---|---|
+| **骨软骨瘤 Osteochondroma（外生骨疣 exostosis）** | **最常见良性骨肿瘤** | 长骨**干骺端 metaphysis**、背离骺板 | **皮质/髓腔与母骨连续**、带软骨帽 (cartilaginous cap) 的骨刺 | **无痛硬块**；**多发 = 遗传性多发外生骨疣 (hereditary multiple exostoses)**；骺板闭合后停长；恶变（→ chondrosarcoma 软骨肉瘤）罕见 → **观察** |
+| **骨样骨瘤 Osteoid osteoma** | 良性 | 青少年、长骨 | 小**透亮巢 nidus** + 周围硬化 | **夜间痛、NSAIDs 显著缓解** |
+| **Ewing 肉瘤 Ewing sarcoma** | 恶性 | 儿童/青少年、骨干 diaphysis | 溶骨 + **葱皮样 (onion-skin/multilayer) 骨膜反应** | 疼痛 ± 发热、软组织肿块；t(11;22) |
+| **骨肉瘤 Osteosarcoma** | 恶性 | 青少年**膝周（股骨远端/胫骨近端）** | **Codman 三角 / sunburst 日光放射**、侵袭性 | 疼痛、夜痛、肿块；可继发 Paget/放疗 |
+
+> [!warning] 易混
+> - **轻微外伤"引起注意"≠ 外伤致病**：骨软骨瘤常因小创伤偶然发现，本身无痛（除非压迫局部神经血管）。
+> - **营养不良性皮肤钙化 (dystrophic calcinosis cutis)**：皮下钙盐结节，见于自身免疫结缔组织病（如 systemic sclerosis 系统性硬化），非健康儿，非骨源。
+> - **骨转移 (bone metastasis)**：青少年罕见，不规则骨破坏 + 硬化 + 全身症状（发热）。
+
+![[{B729FDD6-D667-460A-8EA0-F3FF184D305A}.png|400]]
+*多发性骨软骨瘤 (multiple osteochondromas)：干骺端外生骨疣、**皮质/髓腔与母骨连续**、背离关节生长（良性；多发 = 遗传性多发外生骨疣）。*
+
+![[{5DCEF08B-F53D-4553-B115-2404666066A8}.png|360]]
+*骨肉瘤 (osteosarcoma)：股骨远端 **Codman 三角 + sunburst 日光放射** 侵袭性骨膜反应（恶性）。*
+
+---
+
 ## 八、特殊体征 / 检查速记
 
 | 体征 / 试验 | 阳性 = |
