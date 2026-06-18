@@ -14,6 +14,9 @@ type: 申请追踪
 > 核心顺序见 [[复习入口_Dashboard]] §「考前 10 周计划 / OET+ECFMG 平行线」。
 > **关键认知**：报考 Step 2 只需「**认证资格 eligibility**」（ECFMG 申请状态到 Accepted/Pending），**不是 full certification**。
 
+> [!danger] 2026-06-19 发现重大资格问题 → 详见 [[ECFMG认证资格_问题记录]]
+> 登记的**本科 = 基础医学（非临床）**；ECFMG 认证只认"基础/第一医学学位 + Clinical Medicine" → **本科基本是死路**，唯一活口 = 用**协和临床医学博士走个案审查 (individualized review)**。已发 inquiry 请求 ECFMG 书面裁定。**拿到答复前：别再付费 / 重传本科；下方 Phase 1 暂缓推进。**
+
 ---
 
 ## 关键状态速览（随时回填）
@@ -24,6 +27,7 @@ type: 申请追踪
 | MyIntealth ID | 已有 ✓ | **601079276** |
 | ECFMG 认证申请状态 | 填写中 | |
 | EPIC 学历核验 | ⚠️ 成绩单认证**被驳回**（待 ECFMG 答复）| Case C-25971872 / 2026-06-15 |
+| **学位资格（根本性）** | 🛑 本科=基础医学**非临床**被拒；已请求**个案审用协和博士** | Case C-27110565 / 2026-06-19 → [[ECFMG认证资格_问题记录]] |
 | FSMB Step 2 报考 | 未开始 | |
 | Eligibility 窗（须含 8/20） | — | |
 | Scheduling permit | — | |
