@@ -1444,8 +1444,9 @@ source: GPT/Codex full run
 > - stem_pattern: heat_dehydration_irregular_narrow_complex_af
 > - high_yield_score: 4/5
 
-> [!example]- NBME11A Q063 感染 / 无菌性脑膜炎（CSF 模式题）
+> [!danger]- NBME11A Q063 感染 / 无菌性脑膜炎（CSF 模式题）【❌做错】
 > ^Q063
+> 🔁 错题卡:[[NBME11_错题本#^Q063]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > > [!tip] 发热 + 头痛 + 畏光 + 颈强直提示 **meningitis**，而 CSF 的 **normal glucose + normal protein + mononuclear pleocytosis** 直接把答案推向 **aseptic meningitis**。
