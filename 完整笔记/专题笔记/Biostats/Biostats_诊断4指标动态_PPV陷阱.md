@@ -197,6 +197,7 @@ Stem 说 "PPV 低"
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes_2026-06#^Q21797]] PPV/NPV 定义判读（行指标 vs 列指标 — "of positive/negative result"）
   - [[mistakes/uworld-mistakes_2026-05#^Q21656]] PPV/NPV vs Prevalence（行指标随人群构成变化）
+  - [[NBME11_错题本#^Q003]] 低患病率(<1%) + "我这阳性可信吗" → PPV(误选 +LR)
   - 待 UW 出现 PPV / Sp 联动陷阱题（高 prevalence 但 PPV 低）后继续回填
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]（§111-150 PPV/NPV 基础 + §1015-1027 Cutoff 调整）
 - 🏥 跨学科：

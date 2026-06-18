@@ -8,6 +8,8 @@ source: GPT/Codex full run
 > [!example]- NBME11A Q001 心内 / 热衰竭识别（运动后高热虚脱）
 > ^Q001
 >
+> 🔁 错题卡:[[NBME11_错题本#^Q001]](做错 → 个性化错位分析)
+>
 > ### 💡 一句话锁定
 > > [!tip] 下午跑步后虚脱 + 体温 39 C + 心动过速 + 仍可唤醒，官方答案锁定 **Heat exhaustion**；题干里虽然写了 `cool, clammy, dry skin`，但整体证据仍更接近热衰竭而不是热射病。
 >
@@ -257,6 +259,8 @@ source: GPT/Codex full run
 > [!example]- NBME11A Q003 Biostats_Master / PPV 解释（低患病率阳性）
 > ^Q003
 >
+> 🔁 错题卡:[[NBME11_错题本#^Q003]](做错 → 个性化错位分析)
+>
 > ### 💡 一句话锁定
 > > [!tip] 患者问的是“我这个阳性到底有多真”，而人群患病率又 <1%，所以最直接的统计量是 **positive predictive value**。
 >
@@ -378,6 +382,8 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q004 儿科 / 婴儿 SVT 首选处理
 > ^Q004
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q004]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > > [!tip] 婴儿 + HR 220/min + 窄 QRS 心动过速，且题目在问 next step，首选 **IV adenosine** 终止 SVT。
@@ -739,6 +745,8 @@ source: GPT/Codex full run
 > [!example]- NBME11A Q007 pulmonary / 创伤后气胸识别
 > ^Q007
 >
+> 🔁 错题卡:[[NBME11_错题本#^Q007]](做对但标记 → 个性化分析)
+>
 > ### 💡 一句话锁定
 > > [!tip] MVC 后急性呼吸困难 + 低氧 + unilateral thoracic clue（右侧 supraclavicular distention）= 先想 **pneumothorax**，而且带 tension physiology 味道。
 >
@@ -859,6 +867,8 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q008 GI / 外伤性胰腺炎
 > ^Q008
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q008]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > > [!tip] blunt abdominal trauma 后突发上腹痛、恶心呕吐，再配 amylase 升高，官方答案锁定 **traumatic pancreatitis**；但本题 lipase 正常范围，这个细节需要保留并提醒人工复核。
@@ -1450,6 +1460,8 @@ source: GPT/Codex full run
 > [!example]- NBME11A Q013 pulmonary / 肺栓塞住院死亡风险
 > ^Q013
 >
+> 🔁 错题卡:[[NBME11_错题本#^Q013]](做错 → 个性化错位分析)
+>
 > ### 💡 一句话锁定
 > > [!tip] 长途飞行后胸痛低氧 + JVD + calf tenderness = **PE with DVT**；问住院死亡风险时，最强预测因子先看 **shock**，没有 shock 时在这些选项里选 **advanced age**。
 >
@@ -1571,6 +1583,8 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q014 肾脏 / 幼儿继发性高血压
 > ^Q014
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q014]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > > [!tip] **3 岁**就有重度高血压，先按 **secondary hypertension** 查；四肢血压没有上肢高下肢低，不像 coarctation，下一步做 **renal Doppler ultrasonography**。
@@ -5380,6 +5394,8 @@ source: GPT/Codex full run
 > [!example]- NBME11A Q045 儿科/精神科 / 心因性多饮（间歇性尿频遗尿）
 > ^Q045
 >
+> 🔁 错题卡:[[NBME11_错题本#^Q045]](做错 → 个性化错位分析)
+>
 > ### 💡 一句话锁定
 > > [!tip] **间歇性多饮多尿 + 血糖正常 + 尿比重并非极低 + 明显心理应激**，比起 DI 或 DM，更像 **psychogenic polydipsia**。
 >
@@ -5620,6 +5636,8 @@ source: GPT/Codex full run
 > [!example]- NBME11A Q047 GYN / 妊娠宫颈癌出血（friable cervical ulcer）
 > ^Q047
 >
+> 🔁 错题卡:[[NBME11_错题本#^Q047]](做错 → 个性化错位分析)
+>
 > ### 💡 一句话锁定
 > > [!tip] **孕中晚期无痛性阴道流血** 容易让人先想 placenta previa，但题干已经把 **friable cervical ulcer** 摆在你眼前，出血源头更像 **cervical cancer**。
 >
@@ -5741,6 +5759,8 @@ source: GPT/Codex full run
 > [!example]- NBME11A Q048 newborn care and screening / 新生儿化脓关节（最常见菌）
 > ^Q048
 >
+> 🔁 错题卡:[[NBME11_错题本#^Q048]](做错 → 个性化错位分析)
+>
 > ### 💡 一句话锁定
 > > [!tip] **新生儿发热 + 单关节活动减少 + 关节穿刺出脓液**，先锁定 septic arthritis；病原体默认先背 **Staphylococcus aureus 最常见**。
 >
@@ -5861,6 +5881,8 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q049 psych / 急性肌张力障碍（oculogyric crisis）
 > ^Q049
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q049]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > > [!tip] **刚打过 haloperidol + 眼球上吊 + 颈部僵硬 + 四肢强直但无高热/意识改变**，这是典型 **acute dystonic reaction**，本质上是 **haloperidol adverse effect**。
