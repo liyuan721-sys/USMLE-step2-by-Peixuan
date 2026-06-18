@@ -19,17 +19,23 @@ type: 专题笔记
 
 ## 一、High-Yield 四联鉴别表 ★★★
 
-| 指标 | **NMS** | **Malignant Hyperthermia (MH)** | **Serotonin Syndrome** | **MAOI Tyramine HTN crisis** |
-|---|---|---|---|---|
-| **机制** | 中枢 **DA ↓**（D2 阻断）| 骨骼肌 **RyR1 钙失控** | 中枢/外周 **5-HT ↑** | **NE/Epi 爆发**（tyramine 挤出储存儿茶酚胺）|
-| **递质通路** | DA | 钙（细胞内）| 5-HT | **Adrenergic (NE/Epi)** |
-| **触发** | 抗精神病药（haloperidol / 起始加量）、止吐药（metoclopramide）、**撤帕金森药** | **吸入麻醉 + 琥珀胆碱** | SSRI/SNRI / MAOI / 曲马多 / linezolid / MDMA / DXM / 曲坦 | **MAOI + tyramine 食物**（陈年奶酪/红酒/腌肉）|
-| **起病** | **数天**（1-3 天）缓 | **数分钟-数小时**（麻醉中/后）| **数小时（<24h）** | **数分钟-小时**（餐后急起）|
-| **肌张力 / 反射** | **铅管样强直** + 反射**正常或减弱** | 全身僵硬 + **咬肌痉挛** | **clonus + hyperreflexia**（下肢为主）| **无肌强直 / 无反射异常** |
-| **特征体征** | 流涎、自主紊乱、AMS | **ETCO₂↑**（早期最敏感）、酸中毒 | **clonus / hyperreflexia / 散瞳** | **血压飙升 + 剧烈头痛**（出血/卒中风险）|
-| **CK / 肌溶解** | ↑↑（myoglobinuria）| ↑↑ | 轻度↑ | 一般正常 |
-| **解药** | 停药 + 恢复 DA；BZD；难治 → **bromocriptine** 或 dantrolene | **dantrolene** + 停麻醉药 + 降温 | 停药 + 支持 + **cyproheptadine** | **phentolamine**（α 阻断）/ nitroprusside / labetalol（α+β）|
-| **一句话区分** | "脑里**多巴胺不够**" | "肌肉**钙太多**" | "**5-HT 太多** + 反射亢进/阵挛" | "**NE 太多** + 血压爆" |
+| 指标           | **Neuroleptic malignant syndrome (NMS)**                | **Malignant Hyperthermia (MH)** | **Serotonin Syndrome**                                 | **MAOI Tyramine HTN crisis**                           |
+| ------------ | ------------------------------------------------------- | ------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
+| **机制**       | 中枢 **DA ↓**（D2 阻断）                                      | 骨骼肌 **RyR1 钙失控**                | 中枢/外周 **5-HT ↑**                                       | **NE/Epi 爆发**（tyramine 挤出储存儿茶酚胺）                       |
+| **递质通路**     | DA                                                      | 钙（细胞内）                          | 5-HT                                                   | **Adrenergic (NE/Epi)**                                |
+| **触发**       | 抗精神病药（haloperidol / 起始加量）、止吐药（metoclopramide）、**撤帕金森药** | **吸入麻醉 + 琥珀胆碱**                 | SSRI/SNRI / MAOI / 曲马多 / linezolid / MDMA / DXM / 曲坦   | **MAOI + tyramine 食物**（陈年奶酪/红酒/腌肉）                     |
+| **起病**       | **数天**（1-3 天）缓                                          | **数分钟-数小时**（麻醉中/后）              | **数小时（<24h）**                                          | **数分钟-小时**（餐后急起）                                       |
+| **肌张力 / 反射** | **铅管样强直** + 反射**正常或减弱**                                 | 全身僵硬 + **咬肌痉挛**                 | <font color="#ff0000">**clonus + hyperreflexia**（下肢为主） | </font>**无肌强直 / 无反射异常**                                |
+| **特征体征**     | 流涎、自主紊乱、AMS                                             | **ETCO₂↑**（早期最敏感）、酸中毒           | **clonus / hyperreflexia / 散瞳**                        | <font color="#ff0000">**血压飙升 + 剧烈头痛**</font>（出血/卒中风险）  |
+| **CK / 肌溶解** | ↑↑（myoglobinuria）                                       | ↑↑                              | 轻度↑                                                    | 一般正常                                                   |
+| **解药**       | 停药 + 恢复 DA；BZD；难治 → **bromocriptine** 或 dantrolene      | **dantrolene** + 停麻醉药 + 降温      | 停药 + 支持 + **cyproheptadine**                           | **phentolamine**（α 阻断）/ nitroprusside / labetalol（α+β） |
+| **一句话区分**    | "脑里**多巴胺不够**"                                           | "肌肉**钙太多**"                     | "**5-HT 太多** + 反射亢进/阵挛"                                | "**NE 太多** + 血压爆"                                      |
+
+> [!warning] 别被表头误导：四个里高热"必有度"不同 ⭐
+> 本表名义是"高热四联"，但**高热只对 NMS / MH 是诊断要件**：
+> - **NMS / MH** → **高热必有**（cardinal sign）。
+> - **Serotonin Syndrome（5-羟色胺综合征）** → 高热**程度依赖**：轻症可只有震颤 / 反射亢进 / 出汗，**重症才致命高热**；但阵挛 + 反射亢进恒定。
+> - **MAOI Tyramine HTN crisis（酪胺高血压危象）** → **高热和肌强直都不是要件**，核心是 **血压飙升 + 剧烈头痛（adrenergic，NE/Epi 爆发）**。它进本表纯粹是为了和 **Serotonin Syndrome 鉴别**（都"MAOI 引起 + 急性"），**看触发分流**：吃 tyramine 食物 → HTN crisis；联用 5-HT 能药 → SS（详见 §三）。
 
 > [!info] 两个框架并存（看清你在做哪种题）
 > 上表 §一 = **药源性四联**（NMS / MH / SS / MAOI HTN crisis，都有"解药"，第四位侧重血压）。
@@ -199,6 +205,29 @@ MAOI 患者出问题
 
 ---
 
+## 五-ter、边界鉴别：急性肌张力障碍 ≠ 本急症谱（不发热）⭐
+
+> [!warning] 为什么放这一节
+> **急性肌张力障碍 (acute dystonia)** 不属于本"高热急症谱"——它**不发热、不改变神志、生命体征正常**，是抗精神病药的**锥体外系副作用 (EPS, extrapyramidal symptom)**，主场在 [[完整笔记/专题笔记/psych/psych_四大EPS诊断治疗对照]]。但它和 **NMS** 有两个表面重叠点（**都由抗精神病药触发 + 都"肌肉出问题"**），是高频混淆点，故在此立一刀边界。
+
+| | **急性肌张力障碍 (acute dystonia)** | **NMS（抗精神病药恶性综合征 Neuroleptic Malignant Syndrome）** |
+|---|---|---|
+| **共同点** | 抗精神病药触发 + "肌肉出问题" | 抗精神病药触发 + "肌肉出问题" |
+| **发热** | **无** | **高热（>38–40°C）** ⭐ |
+| **神志** | **清醒** | **意识改变（AMS）** |
+| **肌肉模式** | **局灶 / 节段性持续收缩**：斜颈 (torticollis)、**动眼危象 (oculogyric crisis，眼球上翻)**、牙关紧闭 (trismus)、舌外伸、**喉痉挛 (laryngospasm，可致命)** | **全身铅管样强直 (lead-pipe rigidity)** |
+| **自主神经 / CK** | 正常 | 自主紊乱 + **CK↑↑（肌红蛋白尿 myoglobinuria）** |
+| **起病** | 用药后**数小时–数天**（年轻男性高发）| 数天（1–3 天）|
+| **解药** | **苯海拉明 (diphenhydramine) 或苯扎托品 (benztropine) IV/IM**（抗胆碱，数分钟见效）| 停药 + 支持 + **溴隐亭 (bromocriptine) / 丹曲林 (dantrolene)** |
+
+> [!success] 区分钥匙
+> - **发热 + 神志改变 + 全身僵硬 + CK↑** → **NMS**（致命，停药 + bromocriptine）
+> - **不热 + 清醒 + 局灶痉挛（斜颈 / 眼上翻 / 舌伸）** → **急性肌张力障碍**（良性，抗胆碱秒解）
+> - 机制都是 **D2 阻断**，但 dystonia 是"多巴胺 / 乙酰胆碱失衡"→ **抗胆碱**纠正；NMS 是"多巴胺通路急性崩"→ 需**补多巴胺**。
+> - EPS 全谱（急性肌张力障碍 / 静坐不能 akathisia / 帕金森样 / 迟发性运动障碍 tardive dyskinesia）见 [[完整笔记/专题笔记/psych/psych_四大EPS诊断治疗对照]]。
+
+---
+
 ## 六、CK 经典 stem
 
 > [!question]- Q1: 抗精神病药 1 周后高热 + 铅管样强直 + 流涎 + 反射正常 + CK↑↑↑。诊断 + 治疗？
@@ -250,6 +279,7 @@ MAOI 患者出问题
   - [[mistakes/uworld-mistakes_2026-06#^Q3691]] 劳力性热射病 EHS（第五位高热急症，冰水浸泡；误选赛庚啶）
   - [[mistakes/uworld-mistakes_2026-06#^Q3689]] 经典型热射病 NHS（老人热桑拿，蒸发降温；误选酒精戒断）
   - [[NBME11_错题本#^Q001]] 运动性热衰竭 vs 热射病（T39 可唤醒 = 热衰竭，误选血管迷走晕厥）— §五-bis
+  - [[NBME11_错题本#^Q049]] 急性肌张力障碍 vs NMS（眼上翻 + 清醒无热 = dystonia；误当 NMS）— §五-ter
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/psych]]（NMS / SS / 抗精神病药 EPS）
   - [[完整笔记/Peixuan分科笔记/neuro]]（PD 用药 + MAO-B + serotonin）
