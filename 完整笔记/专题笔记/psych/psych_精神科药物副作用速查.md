@@ -337,10 +337,16 @@ NE 再摄取抑制相对强度（越往下，高剂量越要盯血压）
 
 ### 4.3 Valproate / Carbamazepine 要点
 
-> [!warning] Valproate（丙戊酸）
+> [!warning] Valproate（丙戊酸 valproic acid）
 > - 用于急性躁狂、混合发作、快速循环型；起效快。
 > - **肝毒性**、**胰腺炎**、**血小板减少**；体重增加、震颤、脱发。
-> - **致畸性强**：神经管缺陷（NTD）、低 IQ → **孕妇禁用**。
+> - **致畸性强**：神经管缺陷（neural tube defect, NTD）、低 IQ → **孕妇禁用**。
+
+> [!tip] 丙戊酸 + 黏膜出血 → next step 先查血小板（NBME11 Q146）⭐
+> 服丙戊酸者出现 **鼻出血 (epistaxis) / 瘀点 / 牙龈或皮肤黏膜出血** → 最可能 **丙戊酸所致血小板减少 (valproate-induced thrombocytopenia)**；**下一步 = 先测血小板计数 (platelet count)，不是立即停药**（轻度可减量，明显下降才停）。
+> - **治疗范围内 (level 在 40–100 μg/mL) 也可出现**血液毒性 → 别因"浓度正常"排除。
+> - **症状导向分流**：出血 → 查血小板（血液毒性）；黄疸/RUQ 痛 → 查 AST/肝功（肝毒性）。
+> - **干扰项**：轻度偏高的锂 (lithium) 浓度更对应**震颤 / 多尿 / GI / 共济失调**，不解释鼻出血 → 别去停锂或测安非他酮 (bupropion) 浓度。
 
 > [!warning] Carbamazepine（卡马西平）
 > - **再生障碍性贫血 / 粒细胞缺乏**（查血常规）、低钠血症（SIADH）。
@@ -421,6 +427,7 @@ EPS (锥体外系反应)
   - [[mistakes/uworld-mistakes_2026-05#^Q2499]] SGA 机制（5-HT2A + D2 阻断）
   - [[mistakes/uworld-mistakes_2026-05#^Q20497]] venlafaxine → 剂量依赖性高血压（§1.4 素材）
   - [[mistakes/uworld-mistakes_2026-05#^Q15098]] lamotrigine → 皮疹 / SJS-TEN（§4.2 素材）
+  - [[NBME11_错题本#^Q146]] 丙戊酸 + 鼻出血 → 先查血小板（§4.3 next-step；治疗范围内也能出血液毒性）
   - 其余同主题错题等积累
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/psych]]（NMS / 5-HT 综合征急诊处理见 [[完整笔记/专题笔记/psych/psych_物质急诊速查]] §4 / §5）
 - 🏥 跨学科：

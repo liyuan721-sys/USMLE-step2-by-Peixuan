@@ -201,6 +201,12 @@ PTT = 内源 + 共同通路 (12,11,9,8)      → hemophilia A(VIII)/B(IX)、hepa
 > - **毛细胞白血病 (hairy cell leukemia)**：>55、**巨脾**、**TRAP+** → 嘌呤类似物（克拉屈滨 cladribine / 喷司他丁 pentostatin）。
 > - **LAP↓**：CML / PNH；**LAP↑**：类白血病反应 / PV。
 
+> [!warning] 治疗相关 AML (therapy-related AML, t-AML / 继发性急性髓系白血病) — NBME11 Q143
+> **既往细胞毒化疗（烷化剂 alkylating agents）/ 放疗 (radiation)** 是 AML 经典危险因素，常在原发肿瘤治疗后**多年（数年至 ~10 年）**作为**第二原发恶性肿瘤 (second primary malignancy)** 出现。
+> - **题干模板**：既往肿瘤（如卵巢癌 ovarian cancer）化疗史 + 现 **全血细胞减少 / 三系异常**（贫血 + 血小板↓ 致瘀点鼻出血）+ **外周血见 myeloblasts（原始粒细胞）** → 不是原癌复发，是 **t-AML**。
+> - **病因选"最强关联"**：化疗 / 放疗 ＞＞ **filgrastim (G-CSF, 粒细胞集落刺激因子)**（仅轻度增髓系肿瘤风险，是 NBME 钓饵）＞ 雌激素 (estrogen，偏激素依赖实体瘤) ＞ 原癌复发（不以外周 myeloblasts 表现）。
+> - 反射：**外周血 myeloblasts → 先把题目重新定性为 AML，再回头找风险因子**。
+
 ### 5.2 淋巴瘤（Hodgkin vs Non-Hodgkin）
 
 | | Hodgkin (霍奇金) | Non-Hodgkin (非霍奇金) |
@@ -275,6 +281,7 @@ PTT = 内源 + 共同通路 (12,11,9,8)      → hemophilia A(VIII)/B(IX)、hepa
   - [[mistakes/uworld-mistakes_2026-06#^Q18596]] 脑膜炎球菌血症紫癜 → DIC 查纤维蛋白原
   - [[mistakes/uworld-mistakes_2026-06#^Q14453]] 阿片活性代谢物肾衰蓄积（吗啡 → 换芬太尼）
   - [[mistakes/uworld-mistakes_2026-05#^STQ20260516-05]] LMWH 逆转剂局限（鱼精蛋白只部分逆转）
+  - [[NBME11_错题本#^Q143]] 治疗相关 AML 病因（既往化疗 ＞ filgrastim/雌激素/复发；外周 myeloblasts→AML）
   - 抗凝拮抗剂 4 对自测卡（2026-05-14 Heme-Onc 节）
   - （其余板块错题待积累）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/hematology oncology]]（分科主笔记，只读）/ [[完整笔记/专题笔记/血液/血液_镰刀细胞病SCD]]
@@ -306,3 +313,4 @@ PTT = 内源 + 共同通路 (12,11,9,8)      → hemophilia A(VIII)/B(IX)、hepa
 ## 版本记录
 
 - **v1**（2026-06-12）：通读分科笔记 [[完整笔记/Peixuan分科笔记/hematology oncology]] 全 3475 行提炼建卡。覆盖贫血总框架（retic+MCV 双轴 / 小细胞 IDA-地中海-ACD-铁粒幼 / 大细胞 B12-叶酸 / 溶血 AIHA温冷-G6PD-HS-PNH-MAHA / 再障）、铁代谢 hepcidin、出血性疾病（血小板 ITP/TTP/HUS/HIT + vWD/血友病/DIC + PT/PTT 判读 + 尿毒症血小板障碍）、高凝与抗凝药（FVL/APS/VTE + 4 对拮抗剂）、输血反应（过敏 vs 荨麻疹）、白细胞肿瘤（ALL/AML-APL/CML/CLL/毛细胞 + Hodgkin vs NH + MM/MGUS/Waldenström + 化疗毒性）、骨髓增殖（PV/ET/MF）、肿瘤急症（TLS/高钙/脊髓压迫/SVC/中性粒减少性发热）、实体瘤标志物/副肿瘤。深挖镰刀细胞病双链至已有专题笔记，其余深挖方向列入 🌱 TODO。阈值/数字（PT 11–15 / PTT 25–40 / ITP 30,000 与 100,000 / M-spike>3 + 骨髓>10% / 抗 D 滴度 ≥1:16 / blasts>20%）按源文件原文。
+- **v1.1**（2026-06-18）：NBME11 Q143 错题入库，§5.1 新增 **治疗相关 AML (t-AML)** 增量 callout（既往烷化剂化疗/放疗 = 经典危险因素，多年后第二原发；病因强弱 chemo/放疗 ＞ filgrastim ＞ 雌激素 ＞ 复发；外周 myeloblasts→先定性 AML）+ 关联回链 [[NBME11_错题本#^Q143]]。

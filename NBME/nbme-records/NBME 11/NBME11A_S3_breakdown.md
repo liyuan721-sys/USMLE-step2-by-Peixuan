@@ -3446,6 +3446,8 @@ source: GPT/Codex full run
 > [!example]- NBME11A Q131 儿科 / 婴儿窄QRS心动过速先想 SVT（250/min + poor feeding）
 > ^Q131
 >
+> 🔁 错题卡:[[NBME11_错题本#^Q131]](做对但标记 → 个性化分析)
+>
 > ### 💡 一句话锁定
 > > [!tip] **3 个月婴儿 + pulse 250/min + poor feeding + pallor + regular narrow-complex tachycardia**，先锁定 **supraventricular tachycardia**，不是贫血或心肌炎。
 >
@@ -4008,8 +4010,10 @@ source: GPT/Codex full run
 > - stem_pattern: short_half_life_ssri_stopped_restart_medication
 > - high_yield_score: 4/5
 
-> [!example]- NBME11A Q136 neuro / 肺癌合并近端无力加口干便秘无反射先想 LEMS
+> [!danger]- NBME11A Q136 neuro / 肺癌合并近端无力加口干便秘无反射先想 LEMS【❌做错】
 > ^Q136
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q136]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > > [!tip] **lung cancer + proximal leg weakness + dry mouth/constipation + absent reflexes**，最该锁定 **Lambert-Eaton myasthenic syndrome**，确诊靠 **repetitive nerve stimulation**。
@@ -4122,8 +4126,10 @@ source: GPT/Codex full run
 > - stem_pattern: lung_cancer_autonomic_symptoms_absent_reflexes
 > - high_yield_score: 4/5
 
-> [!example]- NBME11A Q137 ethics / 有决定能力的终末期患者拒绝治疗先尊重自主并询问是否想找人讨论
+> [!danger]- NBME11A Q137 ethics / 有决定能力的终末期患者拒绝治疗先尊重自主并询问是否想找人讨论【❌做错】
 > ^Q137
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q137]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > > [!tip] **terminal illness + clear decisional capacity + requests DNR/no more antibiotics**，下一步不是先叫家属，而是 **ask whether he wants to discuss the decision with anyone else**。
@@ -4237,6 +4243,8 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q138 肾脏 / 儿童 CKD 为防骨病和继发甲旁亢先限磷
 > ^Q138
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q138]](做对但标记 → 个性化分析)
 >
 > ### 💡 一句话锁定
 > > [!tip] **chronic renal failure child + asks how to minimize complications**，最稳的推荐是 **restrict phosphorus intake**，因为 CKD 会导致 **hyperphosphatemia -> secondary hyperparathyroidism**。
@@ -4806,8 +4814,10 @@ source: GPT/Codex full run
 > - stem_pattern: diffuse_goiter_high_tsh_tpo_positive
 > - high_yield_score: 4/5
 
-> [!example]- NBME11A Q143 hematology oncology / 既往化疗后多年出现髓母细胞和三系异常先想治疗相关 AML
+> [!danger]- NBME11A Q143 hematology oncology / 既往化疗后多年出现髓母细胞和三系异常先想治疗相关 AML【❌做错】
 > ^Q143
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q143]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > > [!tip] **prior chemotherapy + anemia/thrombocytopenia + leukocytosis with myeloblasts**，最该想到 **therapy-related AML**，最可能病因是 **chemotherapy**。
@@ -5032,8 +5042,10 @@ source: GPT/Codex full run
 > - stem_pattern: diplopia_weakness_anterior_mediastinal_mass
 > - high_yield_score: 4/5
 
-> [!example]- NBME11A Q145 感染 / 肾盂肾炎合并听力下降时在可选敏感药里优先避开氨基糖苷
+> [!danger]- NBME11A Q145 感染 / 肾盂肾炎合并听力下降时在可选敏感药里优先避开氨基糖苷【❌做错】
 > ^Q145
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q145]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > > [!tip] **fever/chills + CVA tenderness + many bacilli** 是 **pyelonephritis**；既然病人已有 **hearing deterioration**，就在敏感药里优先选 **ciprofloxacin**，避开氨基糖苷的耳毒性。
@@ -5149,6 +5161,8 @@ source: GPT/Codex full run
 ###### Q146
 > [!example]- NBME11A Q146 psych / 双相障碍用丙戊酸后反复鼻出血先查血小板
 > ^Q146
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q146]](做对但标记 → 个性化分析)
 >
 > ### 💡 一句话锁定
 > > [!tip] **epistaxis + valproic acid use** 指向 **valproate-induced thrombocytopenia**；下一步不是立刻停药，而是先查 **platelet count**。
@@ -5493,8 +5507,10 @@ source: GPT/Codex full run
 > - high_yield_score: 4/5
 
 ###### Q149
-> [!example]- NBME11A Q149 儿科 / 急性中耳炎并耳后压痛和耳廓外移先查颞骨 CT
+> [!danger]- NBME11A Q149 儿科 / 急性中耳炎并耳后压痛和耳廓外移先查颞骨 CT【❌做错】
 > ^Q149
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q149]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > > [!tip] **fever + bulging TM + postauricular tenderness + ear displaced laterally**，这是 **mastoiditis with possible subperiosteal abscess**，最合适下一步是 **CT scan of the temporal bone**。

@@ -6,7 +6,7 @@ tags:
   - hospice
 created: 2026-05-25
 type: 专题笔记
-version: v1.1
+version: v1.2
 ---
 
 # Ethics EOL & Hospice 决策框架 — Pediatric Disclosure + End-of-Life Care
@@ -30,6 +30,7 @@ version: v1.1
 >   - [[#§2.7 Home Hospice Care — Eligibility + Common Misconceptions ⭐（Q21142 锚定 — UW 做对题 v1.4.7 新增）]]
 >   - [[#§2.8 Elderly ESRD — Conservative Kidney Care vs Dialysis Counseling ⭐（Q21210 锚定 — UW 做对题 v1.4.7 新增）]]
 >   - [[#§2.9 Levels of Care — 美国老年照护 6 档阶梯 ⭐⭐（v1.1 新增 — Q20431 锚定）]] ⭐⭐ SNF vs Home health 区分
+>   - [[#§2.10 有能力患者拒绝延命治疗 — 先尊重自主并问"是否想找人讨论" ⭐（NBME11 Q137 错题入库）]] ⭐ 正常悲伤≠精神科
 > - [[#🔗 关联（全文件）]]
 > - [[#✅ 学习清单]]
 
@@ -1073,6 +1074,54 @@ Elderly + chronic disease decision-making
 > 「**Home health 触发 3 件套：Stable + Homebound + Intermittent skilled need**」
 > 「**Mild CI + minor injury + 独居 + stable → 永远选 home health（不选 admit / SNF）**」
 
+### §2.10 有能力患者拒绝延命治疗 — 先尊重自主并问"是否想找人讨论" ⭐（NBME11 Q137 错题入库）
+
+#### 反射钩
+
+> [!info]
+> **Terminal illness + decisional capacity intact + 主动要求 DNR / 停抗生素** + **尚未与家人讨论** → 下一步 = **Determine if the patient wants to discuss his decision with anyone else（询问患者是否想与他人讨论）**。
+> ❌ 不替他召集家庭会议（paternalistic 越权）❌ 不默认精神科评估（正常悲伤 ≠ 失能）❌ 不先叫伦理委员会（能力清晰无需）❌ 不直接转 SNF。
+
+#### 核心判断顺序
+
+```
+患者拒绝延命治疗（DNR / 停抗生素 / 拒插管）
+    │
+    ▼
+评估 decisional capacity（能理解 + 推理 + 一致 + 表达选择）
+    │
+    ├─ capacity 完好 → 尊重 autonomy
+    │     │
+    │     ▼
+    │   提供支持：询问"是否想与家人 / 朋友 / 其他人一起讨论这个决定？"
+    │     ※ 先问患者本人，把家属定位为「支持资源」而非「替决定者」
+    │
+    └─ capacity 存疑 → 进一步评估能力；怀疑精神疾病影响判断 → 精神科
+```
+
+#### 三个高频钓饵（NBME 在此设计）
+
+| 钓饵 | 为何错 |
+|---|---|
+| **Obtain psychiatric assessment（精神科评估）** | **正常悲伤（normal sadness）≠ 抑郁致失能**；患者思维过程正常、考虑 3 周无矛盾 = capacity 完好，不触发精神科。仅当怀疑精神疾病（如重度抑郁 major depression）干扰判断力时才精神科 |
+| **Schedule a meeting with patient and family（召集家庭会议）** | 未经患者许可把家属拉进来 = **侵犯自主权（paternalistic）**；应先问患者是否想让他人参与 |
+| **Contact ethics committee（伦理委员会）** | 用于**能力不清 / 代理冲突**；能力清晰患者的明确选择不是伦理委员会的第一步 |
+
+#### 一句话锁
+
+> [!success]
+> 「**能力完好 + 拒绝延命 + 未告知家属 → 先问患者「是否想找人讨论」，不替他叫家属**」
+> 「**正常悲伤 ≠ 需要精神科；家属是支持资源，不是有能力患者的替决定者**」
+
+#### 与本节其他框架的边界
+
+| 触发场景 | 适用框架 |
+|---|---|
+| **有能力患者拒绝治疗 + 未告知家属** ⭐ 本节 | 先问是否想找人讨论（§2.10）|
+| 患者**无能力** + 谁来决定 | Advance directive 决策树 / surrogate hierarchy（§2.3 + Ethics_精简框架 §二）|
+| Surrogate 替无能力患者纠结撤治 | Distressed surrogate 3 技巧（§2.5）|
+| 怎么开口谈 code status | Code Status Discussion 4 原则（§2.6）|
+
 ### §二 关联
 
 - Q21627（NEOT — end-of-life 3 philosophies + surrogate substituted judgment）
@@ -1084,6 +1133,7 @@ Elderly + chronic disease decision-making
 - **Q21142（Home Hospice Care eligibility + 4 大 misconceptions — hospice 不缩短 life expectancy 反而可能 small ↑ survival / early referral enhances quality / aim 不是 hasten death）⭐ v1.4.7 做对题知识补充**
 - **Q21210（Elderly ESRD — Conservative Kidney Care vs Dialysis counseling — dialysis benefit negligible in elderly comorbid + functional decline / conservative care = comfort + 6 mo–2 yr life expectancy / patient asks X → 必 explain X benefits + risks 不 unilateral eliminate）⭐ v1.4.7 做对题知识补充**
 - **[[mistakes/uworld-mistakes_2026-05#^Q20431]]（Home Health Care 适应症 — medically stable + homebound + skilled needs / mild CI + minor injury + 独居 → home health 不是 admit / SNF）⭐ v1.1 错题入库 → §2.9 Levels of Care 6 档阶梯**
+- **[[NBME11_错题本#^Q137]]（NBME11 Q137 — 终末期 Duchenne 有能力拒绝 DNR/停抗生素 + 未告知家属 → 先问"是否想找人讨论"；正常悲伤≠精神科；不召集家庭会议/伦理委员会）⭐ §2.10 新增**
 - 前提是 capacity 无 → [[完整笔记/专题笔记/Ethics/Ethics_精简框架]] §二（Q19048 capacity reassessment + advanced directive 不指定时走 surrogate + POA/guardian 顶层）
 - 跨学科 [[完整笔记/Peixuan分科笔记/neuro]]（Advanced Alzheimer dementia 自然病程 + Acute stroke + tPA criteria）/ [[完整笔记/Peixuan分科笔记/感染]]（重症 sepsis + multi-organ failure 预后）/ [[完整笔记/Peixuan分科笔记/hematology oncology]]（Metastatic cancer ≠ thrombolysis 禁忌 / hospice 仍给 standard of care for treatable acute events）
 
