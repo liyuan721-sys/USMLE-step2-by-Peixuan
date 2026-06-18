@@ -337,6 +337,7 @@ PTH → ↑骨吸收 + ↑肾钙重吸收 + **↓磷 (phosphate)**。
   - [[mistakes/uworld-mistakes_2026-05#^Q2169]] 重度高钙急救（先 NS + 降钙素，不先骨髓活检；🔴 反复错）
   - [[mistakes/uworld-mistakes_2026-05#^Q106299]] CKD-MBD 继发性甲旁亢（骨膜下吸收 → 测 PTH）
   - [[mistakes/uworld-mistakes_2026-05#^Q17169]] 肾上腺危象 vs 过敏性休克（诊断对≠下一步对）
+  - [[NBME11_错题本#^Q045]] 心因性多饮 vs 尿崩（发作性+应激+化验正常=心因性；误选 DI）
   - [[mistakes/uworld-mistakes_2026-05#^Q4848]] 高泌乳素鉴别（药物 vs 瘤 vs 甲减）
   - [[mistakes/uworld-mistakes_2026-05#^Q2353]] AN 住院指征 vs euthyroid sick（甲状腺激素模式）
   - [[mistakes/uworld-mistakes_2026-05#^Q20217]] 低血糖 insulin/C-peptide 鉴别

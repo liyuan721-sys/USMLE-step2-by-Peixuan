@@ -1205,8 +1205,9 @@ source: GPT/Codex full run
 > - stem_pattern: mvc_chest_trauma_troponin_ecg_change
 > - high_yield_score: 4/5
 
-> [!example]- NBME11A Q061 Biostats_Master / 病例对照 OR（甲肝暴发）
+> [!danger]- NBME11A Q061 Biostats_Master / 病例对照 OR（甲肝暴发）【❌做错】
 > ^Q061
+> 🔁 错题卡:[[NBME11_错题本#^Q061]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > > [!tip] 题干已经明说 **“matches cases with control subjects”**，这就是 **case-control study**；病例对照题问统计量，直接锁定 **odds ratio**。
@@ -1320,8 +1321,9 @@ source: GPT/Codex full run
 > - stem_pattern: outbreak_cases_controls_measure
 > - high_yield_score: 5/5
 
-> [!example]- NBME11A Q062 心内 / 脱水诱发房颤（稳定先观察）
+> [!danger]- NBME11A Q062 心内 / 脱水诱发房颤（稳定先观察）【❌做错】
 > ^Q062
+> 🔁 错题卡:[[NBME11_错题本#^Q062]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > > [!tip] 高温劳动后脱水 + ECG 为 **irregular narrow-complex rhythm without P waves** + 心室率只有 74/min，说明是 **hemodynamically stable atrial fibrillation**；补液后下一步是 **observation only**。
@@ -1914,8 +1916,9 @@ source: GPT/Codex full run
 > - stem_pattern: posterior_fossa_vascular_tumor_vhl
 > - high_yield_score: 4/5
 
-> [!example]- NBME11A Q067 感染 / HUS — STEC 感染（血便后 MAHA）
+> [!danger]- NBME11A Q067 感染 / HUS — STEC 感染（血便后 MAHA）【❌做错】
 > ^Q067
+> 🔁 错题卡:[[NBME11_错题本#^Q067]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 >
@@ -2279,8 +2282,9 @@ source: GPT/Codex full run
 > - stem_pattern: splenectomy_postop_vaccine
 > - high_yield_score: 4/5
 
-> [!example]- NBME11A Q070 pulmonary / MAC 肺病先查 AFB 痰涂片
+> [!danger]- NBME11A Q070 pulmonary / MAC 肺病先查 AFB 痰涂片【❌做错】
 > ^Q070
+> 🔁 错题卡:[[NBME11_错题本#^Q070]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 >

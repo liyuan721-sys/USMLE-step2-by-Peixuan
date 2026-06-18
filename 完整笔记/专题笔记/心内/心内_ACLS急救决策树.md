@@ -477,6 +477,9 @@ VF/VT  PEA/  ▼       ▼
 | 多形 VT（TdP）| **Magnesium** |
 | WPW + AFib | **Procainamide / Ibutilide**（**禁** AV 结阻滞剂）|
 
+> [!tip] 婴儿 SVT（NBME11 Q004）
+> 婴儿 SVT = 窄 QRS + **HR 常 >220** + 喂养差/肝大(心衰征);**稳定 → 迷走(冰敷面部 ice to face)→ IV 腺苷;不稳定 → 同步电复律**。**ECG 已确诊 → 先治,不先做 echo**(echo 留急性控制后评估结构)。源:[[NBME11_错题本#^Q004]]
+
 ---
 
 ## Part 7. "看到房颤" 答题决策树 ⭐⭐⭐

@@ -5,7 +5,7 @@ section: S1
 source: GPT/Codex full run
 ---
 
-> [!example]- NBME11A Q001 心内 / 热衰竭识别（运动后高热虚脱）
+> [!danger]- NBME11A Q001 心内 / 热衰竭识别（运动后高热虚脱）【❌做错】
 > ^Q001
 >
 > 🔁 错题卡:[[NBME11_错题本#^Q001]](做错 → 个性化错位分析)
@@ -138,6 +138,13 @@ source: GPT/Codex full run
 > ### 💡 一句话锁定
 > > [!tip] 3 个月内快速恶化的认知功能 + 明显肌阵挛 + 视觉失认 + 新发癫痫，最该想到 **Creutzfeldt-Jakob disease**。
 >
+> > [!warning] 这组合"特异"吗？——高度特征，但**不特异 (not pathognomonic)** ⭐
+> > "痴呆 + 肌阵挛 + 视觉/小脑征"是 CJD 招牌（考试看到选它），但严格说不特异：
+> > - **真正锁定 = 快速 tempo（周–月）+ 确诊检查**；视觉异常 = **Heidenhain 变异型**、小脑征 = **Oppenheimer-Brownell 变异型**。
+> > - **必排可治模仿者**：桥本脑病 (Hashimoto encephalopathy，抗甲状腺抗体↑，激素可逆) / 自身免疫·副肿瘤脑炎 (autoimmune/paraneoplastic encephalitis，anti-NMDA / anti-LGI1，免疫可逆) / 中毒代谢 (锂 lithium / 铋 bismuth / 尿毒症)。
+> > - **特异性靠检查**：MRI **DWI 皮层飘带征 (cortical ribboning) + 基底节高信号** / EEG 周期性尖波 / CSF **RT-QuIC（最特异）**、14-3-3（敏感不特异）；金标准 = 海绵状变性 (spongiform) 活检。
+> > - 完整鉴别 + 可治模仿者见 [[完整笔记/专题笔记/神经/神经_老年痴呆鉴别]] §7.5。
+>
 > ---
 >
 > ### 🔑 Stem 关键词识别
@@ -256,7 +263,7 @@ source: GPT/Codex full run
 > - stem_pattern: 隐藏时间线
 > - high_yield_score: 4/5
 
-> [!example]- NBME11A Q003 Biostats_Master / PPV 解释（低患病率阳性）
+> [!danger]- NBME11A Q003 Biostats_Master / PPV 解释（低患病率阳性）【❌做错】
 > ^Q003
 >
 > 🔁 错题卡:[[NBME11_错题本#^Q003]](做错 → 个性化错位分析)
@@ -380,7 +387,7 @@ source: GPT/Codex full run
 > - stem_pattern: 简短直击
 > - high_yield_score: 5/5
 
-> [!example]- NBME11A Q004 儿科 / 婴儿 SVT 首选处理
+> [!danger]- NBME11A Q004 儿科 / 婴儿 SVT 首选处理【❌做错】
 > ^Q004
 >
 > 🔁 错题卡:[[NBME11_错题本#^Q004]](做错 → 个性化错位分析)
@@ -865,7 +872,7 @@ source: GPT/Codex full run
 > - stem_pattern: age_sex_主诉锁定
 > - high_yield_score: 4/5
 
-> [!example]- NBME11A Q008 GI / 外伤性胰腺炎
+> [!danger]- NBME11A Q008 GI / 外伤性胰腺炎【❌做错】
 > ^Q008
 >
 > 🔁 错题卡:[[NBME11_错题本#^Q008]](做错 → 个性化错位分析)
@@ -1457,7 +1464,7 @@ source: GPT/Codex full run
 > - stem_pattern: age_sex_主诉锁定
 > - high_yield_score: 4/5
 
-> [!example]- NBME11A Q013 pulmonary / 肺栓塞住院死亡风险
+> [!danger]- NBME11A Q013 pulmonary / 肺栓塞住院死亡风险【❌做错】
 > ^Q013
 >
 > 🔁 错题卡:[[NBME11_错题本#^Q013]](做错 → 个性化错位分析)
@@ -1581,7 +1588,7 @@ source: GPT/Codex full run
 > - stem_pattern: 多步推理
 > - high_yield_score: 4/5
 
-> [!example]- NBME11A Q014 肾脏 / 幼儿继发性高血压
+> [!danger]- NBME11A Q014 肾脏 / 幼儿继发性高血压【❌做错】
 > ^Q014
 >
 > 🔁 错题卡:[[NBME11_错题本#^Q014]](做错 → 个性化错位分析)
@@ -5391,7 +5398,7 @@ source: GPT/Codex full run
 > - stem_pattern: smoker_lung_nodule_cushing_features
 > - high_yield_score: 5/5
 
-> [!example]- NBME11A Q045 儿科/精神科 / 心因性多饮（间歇性尿频遗尿）
+> [!danger]- NBME11A Q045 儿科/精神科 / 心因性多饮（间歇性尿频遗尿）【❌做错】
 > ^Q045
 >
 > 🔁 错题卡:[[NBME11_错题本#^Q045]](做错 → 个性化错位分析)
@@ -5633,7 +5640,7 @@ source: GPT/Codex full run
 > - stem_pattern: sickle_cell_child_fever_empiric_antibiotics
 > - high_yield_score: 5/5
 
-> [!example]- NBME11A Q047 GYN / 妊娠宫颈癌出血（friable cervical ulcer）
+> [!danger]- NBME11A Q047 GYN / 妊娠宫颈癌出血（friable cervical ulcer）【❌做错】
 > ^Q047
 >
 > 🔁 错题卡:[[NBME11_错题本#^Q047]](做错 → 个性化错位分析)
@@ -5756,7 +5763,7 @@ source: GPT/Codex full run
 > - stem_pattern: pregnancy_painless_bleeding_visible_cervical_lesion
 > - high_yield_score: 4/5
 
-> [!example]- NBME11A Q048 newborn care and screening / 新生儿化脓关节（最常见菌）
+> [!danger]- NBME11A Q048 newborn care and screening / 新生儿化脓关节（最常见菌）【❌做错】
 > ^Q048
 >
 > 🔁 错题卡:[[NBME11_错题本#^Q048]](做错 → 个性化错位分析)
@@ -5879,7 +5886,7 @@ source: GPT/Codex full run
 > - stem_pattern: neonate_purulent_joint_most_common_organism
 > - high_yield_score: 4/5
 
-> [!example]- NBME11A Q049 psych / 急性肌张力障碍（oculogyric crisis）
+> [!danger]- NBME11A Q049 psych / 急性肌张力障碍（oculogyric crisis）【❌做错】
 > ^Q049
 >
 > 🔁 错题卡:[[NBME11_错题本#^Q049]](做错 → 个性化错位分析)
