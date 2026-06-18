@@ -180,6 +180,9 @@ set: NBME11A
 > ## 核心概念
 > 婴儿 **SVT (supraventricular tachycardia, 室上性心动过速)** = 窄 QRS + HR 极快(常 >220)。处理按血流动力学:**稳定 → 迷走(冰敷面部)→ IV 腺苷;不稳定 → 同步电复律**。
 >
+> ## 机制(为什么婴儿会 SVT)
+> 绝大多数 = **AVRT (atrioventricular reentrant tachycardia, 房室折返性心动过速)**:先天残留的 **accessory pathway (旁路,如 Bundle of Kent)** 把房室电学短路 → 房早 (PAC, premature atrial contraction) 触发**自我维持折返环** → HR 220–300、**突发突止**(区别于渐进窦速)。最常见背景 = **WPW (Wolff-Parkinson-White, 预激综合征)**;窦律时见 **delta 波 + 短 PR**(SVT 发作时 delta 消失)。考点链:**母孕期锂 (lithium) → Ebstein anomaly (三尖瓣下移畸形) → 合并 WPW/SVT**。多数 1 岁内随旁路退化自行缓解。机制详表见主笔记 ACLS §6.2 折叠块。
+>
 > ## 普适规则
 > **诊断要点**:婴儿窄 QRS、HR >220、节律规整 = SVT;心衰征(喂养差/肝大/呼吸促)提示已影响心功能。
 >

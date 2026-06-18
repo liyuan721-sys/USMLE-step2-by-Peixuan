@@ -480,6 +480,22 @@ VF/VT  PEA/  ▼       ▼
 > [!tip] 婴儿 SVT（NBME11 Q004）
 > 婴儿 SVT = 窄 QRS + **HR 常 >220** + 喂养差/肝大(心衰征);**稳定 → 迷走(冰敷面部 ice to face)→ IV 腺苷;不稳定 → 同步电复律**。**ECG 已确诊 → 先治,不先做 echo**(echo 留急性控制后评估结构)。源:[[NBME11_错题本#^Q004]]
 
+> [!info]- 婴儿为什么会 SVT?(机制 — 旁路折返)
+> **绝大多数婴儿 SVT = AVRT (atrioventricular reentrant tachycardia, 房室折返性心动过速)**,病理基础是**先天残留的 accessory pathway (旁路,如 Bundle of Kent)** 把心房与心室电学短路 → 一个房早 (PAC, premature atrial contraction) 时机合适即触发**自我维持的折返环 (reentry loop)** → HR 突飙 220–300、**突发突止**(reentry 标志,区别于渐进的窦速)。
+>
+> | AVRT 类型 | 下传路径 | QRS | 发作时 ECG |
+> |---|---|---|---|
+> | **Orthodromic**(顺向,最常见) | AV 结下传、旁路逆传 | **窄** | 无 delta 波 |
+> | Antidromic(逆向,少见) | 旁路下传 | **宽** | 易误认室速 |
+>
+> **关联解剖/考点链**：
+> - **WPW (Wolff-Parkinson-White, 预激综合征)** = 最常见旁路背景;**窦律**时 ECG 见 **delta 波 + 短 PR**,但 SVT 发作时(orthodromic)delta 波消失 → 查 baseline ECG 找 delta 是关键动作。
+> - **Ebstein anomaly (三尖瓣下移畸形)** 与 WPW 强关联 → 经典链:**母孕期用锂 (lithium) → Ebstein → 易合并 WPW/SVT**。
+> - 多数特发性婴儿 SVT 在 **1 岁内随旁路发育退化自行缓解**,预后好。
+> - **诊断陷阱**:婴儿不会主诉心悸 → SVT 表现为喂养差/激惹/呼吸促/苍白,**与 sepsis (脓毒症)/心衰高度重叠** → "病恹恹 + 心率快到数不清且固定 >220" 立刻上 ECG。
+>
+> 源:今日讨论同步 → [[NBME11_错题本#^Q004]]
+
 ---
 
 ## Part 7. "看到房颤" 答题决策树 ⭐⭐⭐
