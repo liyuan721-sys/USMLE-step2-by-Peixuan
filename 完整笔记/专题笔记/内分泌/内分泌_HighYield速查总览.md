@@ -298,6 +298,12 @@ PTH → ↑骨吸收 + ↑肾钙重吸收 + **↓磷 (phosphate)**。
 
 维生素 D 缺乏 (vitamin D deficiency) → 骨基质矿化不足 → 骨软化症 (osteomalacia)；影像钥匙 = 假骨折 (pseudofracture / Looser 带)。
 
+> [!tip] 实验室指纹 + 病因（NBME11 Q054）⭐
+> **典型化验**：**25-羟维生素 D (25-OH vitamin D)↓↓ + PTH↑（继发性甲旁亢）+ 碱性磷酸酶 (ALP, alkaline phosphatase)↑ + 血钙低-正常 + 磷低-正常**；临床 = 弥漫骨痛 + 近端肌无力（hip flexor）。
+> **常见病因**：**吸收不良（乳糜泻 celiac disease / 胃肠术后）**、日照/摄入不足、慢性肝肾病、抗癫痫药。
+> **易混（高 PTH 陷阱）**：别见高 PTH 就反射原发性甲旁亢——**原发 = 高钙 + 低磷**；本型 = **低/正常钙 + 维 D 极低 = 维 D 缺乏驱动的继发性甲旁亢**。成人叫 osteomalacia，小孩叫 rickets（佝偻病）。
+> 🔁 [[NBME11_错题本#^Q054]]（celiac → 骨软化，做对但标记）
+
 ![[{93A45B65-C133-4944-A995-DD9A09E5A596}.png|400]]
 
 *骨软化症假骨折 (osteomalacia pseudofracture / Looser 带)：垂直于皮质的线状透亮带。*

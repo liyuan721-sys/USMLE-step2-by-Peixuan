@@ -84,6 +84,27 @@ source: 2026-05-18 Claude.ai 草稿 v2 整合（触发错题 Q21530）
 
 ---
 
+## Part 1B. 急性诱因性房颤 — 稳定 + 室率正常先观察 ⭐（NBME11 Q062）
+
+**场景**：明确急性可逆诱因（**脱水 dehydration / 热暴露 / 急性病 / 电解质紊乱 / 酒精 binge / 感染**）+ 新发 AF + **血流动力学稳定 (hemodynamically stable) + 室率正常（HR 不快）** → **纠正诱因 + observation only（仅观察）**，不急于 rate / rhythm control，更不上器械。
+
+### AF 急诊分层（稳定性 × 室率）
+
+| 场景 | 关键特征 | 处理主轴 |
+|---|---|---|
+| 不稳定 AF | 休克 / 缺血 / 肺水肿 / 灌注差 | 紧急同步电复律 (synchronized cardioversion) |
+| 稳定 AF + 室率快（RVR, rapid ventricular response）| HR >100~110 | rate control（β-blocker β阻滞剂 / CCB 钙通道阻滞剂）± 治诱因 |
+| **稳定 AF + 室率正常 + 可逆诱因** | HR 正常、稳定（如 HR 74、脱水）| **纠正诱因 + 观察** |
+| 症状性心动过缓 | 慢 + 灌注差 | atropine（阿托品）→ 起搏 |
+
+> [!danger] 起搏器 (pacemaker) ≠ 房颤处理（Q062 错点）
+> **起搏器治"太慢"**（高度 / 三度房室传导阻滞、病窦综合征、顽固症状性心动过缓），**不治"乱但不慢"的 AF**。Q062 误选起搏器 = 见异常心律就反射器械干预、漏看 **HR 74 = 室率正常**。同理 **adenosine（腺苷）** 只对规则性 SVT（AF 不规则无效）、**lidocaine（利多卡因）** 对室性心律——见"心律乱"别乱套工具。
+
+> [!tip] 一句话锁定（Part 1B）
+> **"房颤先看快不快、塌不塌"**：稳定 + 室率正常 + 有可逆诱因 → 补液 / 治诱因 + 观察。
+
+---
+
 ## Part 2. 心律失常诊断/操作工具 — 适用边界
 
 ### 2.1 核心对照表
@@ -375,6 +396,7 @@ source: 2026-05-18 Claude.ai 草稿 v2 整合（触发错题 Q21530）
 
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes_2026-05#^Q21530]] AF 复发筛 OSA + CSM/Atropine 适用边界（2026-05-18 触发本笔记）
+  - [[NBME11_错题本#^Q062]] 脱水诱发稳定房颤先观察（误选起搏器；触发 Part 1B）
   - 等积累后续：AVNRT 急性处理 / 房扑揭示 F 波 / 下壁 vs 前壁 MI + AV block / Lyme carditis 等
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/心内]] §AF + §AV block 章节

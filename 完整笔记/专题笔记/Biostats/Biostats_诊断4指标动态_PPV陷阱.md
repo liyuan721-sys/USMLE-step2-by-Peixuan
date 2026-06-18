@@ -4,7 +4,7 @@ tags:
   - Biostats
 created: 2026-05-26
 type: 专题笔记
-version: v1.0
+version: v1.1
 ---
 
 # 诊断 4 指标动态 + PPV 陷阱 — Sn / Sp / PPV / NPV
@@ -105,6 +105,20 @@ PPV = TP / (TP + FP)。PPV 低意味着**阳性池被 FP 稀释**。两种根因
 
 > **口诀**：**Sp ↔ PPV 同向，Sn ↔ NPV 同向**（prevalence 固定时）
 
+### 5.1 SpPin / SnNout — 同向规律的临床版口诀 ⭐⭐
+
+| 口诀 | 拆解 | 临床用途 |
+|---|---|---|
+| **SpPin** | **Sp**ecific test, **P**ositive result → rule **in** | 高特异性检查**阳性时**最可信 → **确诊（confirm）** |
+| **SnNout** | **Sn**sitive test, **N**egative result → rule **out** | 高敏感性检查**阴性时**最可信 → **排除（screen）** |
+
+> [!warning] 认知澄清 — "特异性对应 PPV、敏感性对应 NPV" 对吗？
+> **方向对，但不是等号。** 这是常见混淆点：
+> - ✅ **成立的是"驱动关系"**：Sp ↑ 把 PPV 拉高（FP↓）；Sn ↑ 把 NPV 拉高（FN↓）。所以 **Sp 配 PPV、Sn 配 NPV** 在"谁影响谁"层面正确。
+> - ❌ **不成立的是"等同"**：绝不能说 "PPV = 特异性" 或 "NPV = 敏感性"。两套指标性质不同 —— **Sn/Sp 是 tool 固有属性（不随 prevalence 变）；PPV/NPV 还受 prevalence 影响**（见 §二、§七）。
+>
+> 一句话：**Sp/Sn 是"出厂属性"，PPV/NPV 是"放到具体人群里用出来的结果"** —— 配对是因果方向，不是身份等号。
+
 ---
 
 ## 六、Cutoff 调整 → 4 指标完整联动表 ⭐⭐⭐
@@ -184,6 +198,8 @@ Stem 说 "PPV 低"
 
 - **"Sn / Sp = 列指标（tool 固有属性）；PPV / NPV = 行指标（受 prevalence 影响）"**
 - **"Sp ↔ PPV 同向，Sn ↔ NPV 同向"**（prevalence 固定时）
+- **"SpPin / SnNout"** ⭐ — 高 Sp 阳性 rule **in**（确诊）；高 Sn 阴性 rule **out**（排除）
+- **"特异性配 PPV、敏感性配 NPV = 因果方向对，不是等号"** ⭐ — Sn/Sp 是固有属性，PPV/NPV 还看 prevalence
 - **"↑ Prevalence → ↑ PPV 的前提 = tool 性能不变（Sn/Sp 不变）"** ⭐
 - **"Tool positivity rate ≠ Disease prevalence"** ⭐ — 看到 "80% classify positive" 不是 prevalence
 - **"PPV 低的两种根因：① Prevalence 低（分子小）② Sp 低（分母被稀释）"** ⭐⭐⭐

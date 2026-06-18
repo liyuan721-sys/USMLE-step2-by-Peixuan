@@ -363,6 +363,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q054 GI / 骨软化症（celiac vitamin D deficiency）
 > ^Q054
+> 🔁 错题卡:[[NBME11_错题本#^Q054]](做对但标记 → 个性化分析)
 >
 > ### 💡 一句话锁定
 > > [!tip] **celiac disease + 持续腹泻/吸收不良 + bone pain/proximal weakness + very low 25-OH vitamin D + high PTH + high ALP**，成人答案锁定 **osteomalacia**。
@@ -847,6 +848,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q058 儿科 / 男婴发热性 UTI（先做肾脏超声）
 > ^Q058
+> 🔁 错题卡:[[NBME11_错题本#^Q058]](做对但标记 → 个性化分析)
 >
 > ### 💡 一句话锁定
 > > [!tip] **1 岁男婴 + 高热 + 尿 WBC 爆表 + LE+** 是发热性 UTI；男婴本身就提示要查 **先天泌尿道异常**，第一步影像是 **renal ultrasonography**。
@@ -1420,7 +1422,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等心律失常急诊题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_房颤急诊分层与处理]]
+> - ✅ 已并入 [[完整笔记/专题笔记/心内/心内_AF复发与心律失常工具边界]] Part 1B（急性诱因性房颤 — 稳定+室率正常先观察 + AF 急诊分层 + 起搏器禁区）
 >
 > **同类题**：
 > -
@@ -1797,6 +1799,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q066 neuro / VHL 筛查（小脑血管母细胞瘤）
 > ^Q066
+> 🔁 错题卡:[[NBME11_错题本#^Q066]](做对但标记 → 个性化分析)
 >
 > ### 💡 一句话锁定
 >
@@ -1894,7 +1897,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等神经皮肤综合征题目积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_NF_TSC_VHL高频对比]]
+> - ✅ 已建 [[完整笔记/专题笔记/神经/神经_神经皮肤综合征对比_NF_TSC_VHL_SWS]]（NF1/NF2/TSC/VHL/Sturge-Weber 五大对比 + VHL 识别链）
 >
 > **同类题**：
 > -
@@ -2020,7 +2023,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等血栓性微血管病题目积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_TMA四鉴别_HUS_TTP_DIC_ITP]]
+> - ✅ 已建 [[完整笔记/专题笔记/血液/血液_TMA四鉴别_HUS_TTP_DIC_ITP]]（HUS/TTP/DIC/ITP 四鉴别 + 决策树 + 治疗陷阱）
 >
 > **同类题**：
 > - [[NBME14A_S2_breakdown#^Q084]]
@@ -2384,7 +2387,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等分枝杆菌肺病题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_TB与NTM肺病鉴别路径]]
+> - ✅ 已并入 [[完整笔记/专题笔记/感染/感染_肺部感染病原与用药速查]] §NTM/MAC（Lady Windermere 模板 + 先 AFB + MAC vs TB 切分）；积累更多分枝杆菌题后再拆独立"TB 与 NTM 肺病鉴别路径"
 >
 > **同类题**：
 > -

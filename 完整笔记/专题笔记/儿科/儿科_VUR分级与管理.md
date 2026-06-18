@@ -57,6 +57,9 @@ type: 专题笔记
 - **renal US**：筛查 hydronephrosis / 结构异常（敏感但不确诊反流）
 - **VCUG**：**确诊 + 分级**的金标准（直接看到造影剂逆流 + 评级）
 
+> [!tip] 首选影像 = renal US（无创无辐射）（NBME11 Q058）⭐
+> 婴幼儿发热性 UTI **第一步影像 = 肾脏超声 (renal ultrasonography)**（无辐射、看积水/结构）；**男婴 / <2 岁 / 反复**更要查先天畸形（VUR / posterior urethral valves 后尿道瓣膜）。**不**首选 CT / DMSA（二巯丁二酸肾扫描）/ IVP（静脉肾盂造影）——辐射或非首步。**nitrite（亚硝酸盐）阴性不能排除小儿 UTI**（排尿频繁、转化不足）。
+
 ---
 
 ## 四、管理（Management）⭐⭐
@@ -123,6 +126,7 @@ type: 专题笔记
 
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes_2026-05#^Q106084]] Primary VUR — 肾盏变钝=severe→预防性抗生素（本笔记来源）
+  - [[NBME11_错题本#^Q058]] 男婴发热性 UTI 首选 renal US（做对但标记）
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/儿科]]（VUR / febrile UTI / posterior urethral valves）
   - [[完整笔记/Peixuan分科笔记/肾脏]]（hydronephrosis / reflux nephropathy / CKD）
