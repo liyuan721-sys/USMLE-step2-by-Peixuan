@@ -4,7 +4,7 @@ tags:
   - Biostats
 created: 2026-05-26
 type: 专题笔记
-version: v1.1
+version: v1.2
 ---
 
 # 诊断 4 指标动态 + PPV 陷阱 — Sn / Sp / PPV / NPV
@@ -84,6 +84,18 @@ PPV = TP / (TP + FP)。PPV 低意味着**阳性池被 FP 稀释**。两种根因
 > Stem 描述 "tool 把 X% 标 high-risk" + "actual rate 极低" → 优先识别 **根因 B（Sp 低 → PPV 低）**，**不要** 先归因 prevalence。
 >
 > 反例：如果 stem 真给"低 prevalence 人群筛查" → 才是根因 A。
+
+### 4.1 A vs B 秒辨表 ⭐⭐⭐
+
+| 维度 | 根因 A：Prevalence 低 | 根因 B：Specificity 低 ⭐ |
+|---|---|---|
+| **谁的锅** | **人群**（真病人少，分子 TP 小） | **工具**（FP 太多，分母被灌水） |
+| **stem 信号** | "全人群筛查罕见病 / 低危人群" | **"X% 被标阳性，但实际率极低"** |
+| **Sn / Sp** | 检查本身没问题（Sp 可以很高） | **Sp 低**（过度阳性） |
+| **干预** | 用在更高危人群 / 提高 pretest probability | **调高 cutoff / 换工具** |
+
+> [!tip] 一句话锁定
+> **"X% 被标阳性"是工具的嘴有多松（tool positivity rate），不是这病有多常见（disease prevalence）** —— 别把这两个搞混，就是本节全部。
 
 ---
 
