@@ -88,6 +88,35 @@ source: 2026-05-18 Claude.ai 草稿 v2 整合（触发错题 Q21530）
 
 **场景**：明确急性可逆诱因（**脱水 dehydration / 热暴露 / 急性病 / 电解质紊乱 / 酒精 binge / 感染**）+ 新发 AF + **血流动力学稳定 (hemodynamically stable) + 室率正常（HR 不快）** → **纠正诱因 + observation only（仅观察）**，不急于 rate / rhythm control，更不上器械。
 
+### AF 可逆诱因全谱 — PIRATES ⭐
+
+> [!info] 新发 AF 第一反应 = 先找可逆诱因（treat the trigger）
+> 纠正诱因后窦律常能自转。记忆口诀 **PIRATES**：
+
+```
+P — Pulmonary 肺源       PE 肺栓塞(pulmonary embolism)/ 肺炎 / COPD 慢阻肺(chronic obstructive pulmonary disease)急性加重 / 缺氧
+    Pericarditis 心包炎 / Pheochromocytoma 嗜铬细胞瘤(儿茶酚胺↑)
+I — Ischemia 缺血 / MI(心肌梗死，尤其下壁) / Idiopathic 特发性(lone AF)
+R — Rheumatic 风湿性瓣膜病  二尖瓣狭窄(MS, mitral stenosis)→ 左房扩大 ⭐
+    Respiratory 呼吸源
+A — Anemia 贫血 / Atrial dilation 心房扩大 / Atrial myxoma 心房黏液瘤
+T — Thyrotoxicosis 甲亢 ⭐⭐(新发 AF 必查 TSH 促甲状腺激素 thyroid-stimulating hormone) / Theophylline 茶碱
+E — Ethanol 酒精 → Holiday heart syndrome(假日心脏综合征) ⭐
+    Electrolytes 电解质(低钾 hypokalemia / 低镁 hypomagnesemia)
+S — Sepsis 脓毒症 / 全身急性病 / Sleep apnea 阻塞性睡眠呼吸暂停(OSA) ⭐
+    Stimulants 拟交感(可卡因 cocaine/安非他明 amphetamine/咖啡因 caffeine) / Surgery 术后(尤其心胸外科)
+    + 容量不足/脱水 + 热暴露(本节 Q062 诱因)
+```
+
+> [!danger] USMLE 必抓 4 个高频诱因
+> - **甲亢 (hyperthyroidism)** → 新发 AF **必查 TSH**；老年**淡漠型甲亢 (apathetic hyperthyroidism)** 可只表现为 AF + 消瘦。
+> - **酒精 binge → Holiday heart** → 周末/节假日酗酒后**心脏结构正常**者新发 AF，戒酒自转。
+> - **阻塞性睡眠呼吸暂停 (OSA)** → **反复 / 难治性 AF** 要筛 OSA（见 [[mistakes/uworld-mistakes_2026-05#^Q21530]]）。
+> - **急性诱因（脱水 / 感染 / 术后 / 电解质）** → 稳定 + 室率正常时**先纠诱因 + 观察**（见 [[NBME11_错题本#^Q062]]）。
+
+> [!tip] 基础筛查三件套
+> 新发 AF 至少做：**TSH（甲亢）+ 电解质（K/Mg）+ 找急性病/诱因**；稳定且室率不快时，纠诱因 + 观察往往就够。
+
 ### AF 急诊分层（稳定性 × 室率）
 
 | 场景 | 关键特征 | 处理主轴 |

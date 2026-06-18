@@ -826,6 +826,8 @@ set: NBME11A
 > ## Stem 模式
 > 52 岁男，高温下户外劳作 2 天 → 口渴/乏力/头晕，嗜睡但可定向（人）。T 37.2℃、**HR 74 不规则**、BP 95/64。ECG：**不规则窄 QRS、无 P 波** = atrial fibrillation (AF/AFib, 心房颤动)。已在补液。问"除补液外下一步"。
 >
+> ![[Q062_AF_rhythm.png]]
+>
 > ## 题干线索→临床意义
 > - **高温劳作 2 天 + 口渴/乏力/头晕** → 脱水 (dehydration) / 容量不足 = AF 的**可逆诱因 (reversible trigger)**，不是背景废话。
 > - **不规则窄 QRS + 无 P 波** → 锁定 **AF**（不规则已排除规则性 SVT；窄 QRS 排除室速）。
