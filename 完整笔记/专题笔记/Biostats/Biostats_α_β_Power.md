@@ -184,6 +184,7 @@ H₁ = "被告有罪"（你想证明的：有差异 / 药有效）
 
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes_2026-05#Q4121]] Randomization Success 判定（Power 概念首次出现）
+  - [[NBME11_错题本#^Q165]] Type II error 识别（10% vs 6%，p=.07 未过线 + 给 β=0.20 → 假阴性）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
 - 🌱 TODO（待生成）：积累 5+ 道 RCT 质量评估错题后，由 Claude Code 整合进 [[完整笔记/专题笔记/USMLE/USMLE_RCT质量评估]]，本卡作为核心速查部分
 

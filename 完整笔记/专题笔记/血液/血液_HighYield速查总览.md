@@ -204,8 +204,9 @@ PTT = 内源 + 共同通路 (12,11,9,8)      → hemophilia A(VIII)/B(IX)、hepa
 > [!warning] 治疗相关 AML (therapy-related AML, t-AML / 继发性急性髓系白血病) — NBME11 Q143
 > **既往细胞毒化疗（烷化剂 alkylating agents）/ 放疗 (radiation)** 是 AML 经典危险因素，常在原发肿瘤治疗后**多年（数年至 ~10 年）**作为**第二原发恶性肿瘤 (second primary malignancy)** 出现。
 > - **题干模板**：既往肿瘤（如卵巢癌 ovarian cancer）化疗史 + 现 **全血细胞减少 / 三系异常**（贫血 + 血小板↓ 致瘀点鼻出血）+ **外周血见 myeloblasts（原始粒细胞）** → 不是原癌复发，是 **t-AML**。
-> - **病因选"最强关联"**：化疗 / 放疗 ＞＞ **filgrastim (G-CSF, 粒细胞集落刺激因子)**（仅轻度增髓系肿瘤风险，是 NBME 钓饵）＞ 雌激素 (estrogen，偏激素依赖实体瘤) ＞ 原癌复发（不以外周 myeloblasts 表现）。
+> - **病因选"最强关联"**：化疗 / 放疗 ＞＞ **filgrastim (G-CSF, 粒细胞集落刺激因子)**（仅轻度增髓系肿瘤风险，是 NBME 钓饵；filgrastim 全药理对比见 [[完整笔记/专题笔记/血液/血液_造血生长因子对比]]）＞ 雌激素 (estrogen，偏激素依赖实体瘤) ＞ 原癌复发（不以外周 myeloblasts 表现）。
 > - 反射：**外周血 myeloblasts → 先把题目重新定性为 AML，再回头找风险因子**。
+> - 深挖（四大白血病 / APL / 淋巴瘤 / 浆细胞病展开 + ABVD/CHOP 毒性）→ [[完整笔记/专题笔记/血液/血液_血液恶性肿瘤白血病淋巴瘤骨髓瘤]]。
 
 ### 5.2 淋巴瘤（Hodgkin vs Non-Hodgkin）
 

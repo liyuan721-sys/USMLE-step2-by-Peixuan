@@ -371,6 +371,20 @@ CIN3(非孕) 切除后：6 个月 HPV 检测；切缘(+) → 再切；孕期 CIN
 - **乳腺炎 (mastitis)**：金葡菌 → **继续哺乳** + 双氯西林 dicloxacillin。
 - **男性乳腺癌**：Klinefelter / 肥胖 / 肝硬化（雌雄比异常）、BRCA → 乳腺钼靶 (mammography) → 多为浸润性导管癌（激素受体阳性）。
 
+> [!tip] 乳腺癌筛查年龄框架（average-risk 平均风险）⭐
+>
+> | 人群 | 推荐 |
+> |---|---|
+> | average-risk 平均风险，**40–74 岁** | 定期乳腺钼靶 (periodic mammography)，每 1–2 年 |
+> | **≥75 岁** + 预期寿命 (life expectancy) >10 年 | 个体化继续 |
+> | 预期寿命短 / 严重衰弱 (frailty) | 筛查获益下降，可停 |
+> | BRCA / 高危 | 加乳腺 MRI (magnetic resonance imaging) 策略 |
+>
+> **两个高频误读**：① "有慢病 (如 COPD 慢阻肺 / HTN 高血压 / osteoporosis 骨质疏松) = 寿命短 → 停筛"——错，要看**功能状态**（如能走几个街区、查体正常 = 预期寿命尚可）；② "for the rest of her life" 这类**绝对化**选项——75 岁后应个体化，不承诺终身。
+> **年龄大 ≠ 立即停筛**；停筛个体化是 **75 岁后**，不是 71 岁。
+>
+> 关联错题：NBME11A Q155（71 岁 average-risk 功能稳定 → 续筛至 74；误选"按年龄停筛"）→ [[NBME11_错题本#^Q155]]
+
 ---
 
 ## B13. 盆底脱垂 / 尿失禁（Prolapse / Incontinence）

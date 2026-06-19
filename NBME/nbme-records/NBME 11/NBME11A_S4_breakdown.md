@@ -98,10 +98,10 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等海洋毒素题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_海鲜毒素：雪卡毒、河豚毒与贝类毒素]]
+> - ✅ 海洋毒素知识已并入 [[完整笔记/专题笔记/感染/感染_感染性腹泻]]（雪卡/scombroid 神经-胃肠分流）；独立 _衍生_海鲜毒素待题量再积累
 >
 > **同类题**：
-> - 
+> - 🔁 本套错题卡：[[NBME11_错题本#^Q151]]（做对但标记·不确定）
 >
 > ---
 >
@@ -235,7 +235,7 @@ source: GPT/Codex full run
 > - stem_pattern: severe_pneumonia_bilateral_infiltrates_hypoxemia
 > - high_yield_score: 5/5
 
-> [!example]- NBME11A Q153 骨科 / 踝扭伤早期活动和物理治疗
+> [!danger]- NBME11A Q153 骨科 / 踝扭伤早期活动和物理治疗【❌做错】
 > ^Q153
 >
 > ### 💡 一句话锁定
@@ -327,10 +327,10 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等踝损伤题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_踝扭伤与 Ottawa ankle rules]]
+> - ✅ Ottawa rules + 扭伤处理阶梯已并入 [[完整笔记/专题笔记/骨科/骨科_踝足及周围疾病鉴别]]
 >
 > **同类题**：
-> - 
+> - 🔁 本套错题卡：[[NBME11_错题本#^Q153]]（❌做错·选了手术重建）
 >
 > ---
 >
@@ -463,7 +463,7 @@ source: GPT/Codex full run
 > - stem_pattern: dvt_then_acute_limb_ischemia_tee
 > - high_yield_score: 5/5
 
-> [!example]- NBME11A Q155 hematology oncology / 74 岁前继续乳腺筛查
+> [!danger]- NBME11A Q155 hematology oncology / 74 岁前继续乳腺筛查【❌做错】
 > ^Q155
 >
 > ### 💡 一句话锁定
@@ -553,10 +553,10 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等女性筛查题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_女性肿瘤筛查年龄与停筛原则]]
+> - ✅ 乳腺筛查年龄框架已并入 [[完整笔记/专题笔记/OB_GYN/OB_GYN_HighYield速查总览]]；多癌种停筛题再积累可建 _衍生_肿瘤筛查年龄停筛原则
 >
 > **同类题**：
-> - 
+> - 🔁 本套错题卡：[[NBME11_错题本#^Q155]]（❌做错·选了停筛）
 >
 > ---
 >
@@ -575,7 +575,7 @@ source: GPT/Codex full run
 > - stem_pattern: average_risk_age_71_mammography_continue
 > - high_yield_score: 4/5
 
-> [!example]- NBME11A Q156 psych / 产后访视支持（高危环境不等于遗传宿命）
+> [!danger]- NBME11A Q156 psych / 产后访视支持（高危环境不等于遗传宿命）【❌做错】
 > ^Q156
 >
 > ### 💡 一句话锁定
@@ -667,10 +667,10 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等围产期社会风险题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_产后社会支持与CPS触发点]]
+> - ✅ 已建 [[完整笔记/专题笔记/psych/psych_产后社会风险与CPS门槛]]（支持优先 vs CPS 门槛 + 遗传决定论误区）
 >
 > **同类题**：
-> - 
+> - 🔁 本套错题卡：[[NBME11_错题本#^Q156]]（❌做错·误报 CPS）
 >
 > ---
 >
@@ -1469,7 +1469,7 @@ source: GPT/Codex full run
 > - stem_pattern: adolescent_weight_loss_normal_bmi_followup
 > - high_yield_score: 4/5
 
-> [!example]- NBME11A Q164 psych / 酒精成瘾者先静推硫胺素
+> [!danger]- NBME11A Q164 psych / 酒精成瘾者先静推硫胺素【❌做错】
 > ^Q164
 >
 > ### 💡 一句话锁定
@@ -1561,7 +1561,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **同类题**：
-> - 
+> - 🔁 本套错题卡：[[NBME11_错题本#^Q164]]（❌做错·顺序错把葡萄糖放 thiamine 前）
 >
 > ---
 >
@@ -1673,6 +1673,7 @@ source: GPT/Codex full run
 >
 > **同类题**：
 > - [[完整笔记/专题笔记/Biostats_6指标决策树_纯净版]]
+> - 🔁 本套错题卡：[[NBME11_错题本#^Q165]]（做对但标记·不确定）
 >
 > ---
 >

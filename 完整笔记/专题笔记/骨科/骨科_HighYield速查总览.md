@@ -259,6 +259,14 @@ Smith骨折(桡骨远端掌移) ───── Median nerve 正中神经 ──
 ![[{5DCEF08B-F53D-4553-B115-2404666066A8}.png|360]]
 *骨肉瘤 (osteosarcoma)：股骨远端 **Codman 三角 + sunburst 日光放射** 侵袭性骨膜反应（恶性）。*
 
+> [!tip] 软组织肉瘤 (soft tissue sarcoma) 确诊后 → 先做 CT 分期 ⭐
+> **逐渐增大、无痛**的肢体软组织肿块（如 fibrosarcoma 纤维肉瘤）= 软组织肉瘤警示（无痛比"有肿块"更有鉴别价值；常被小外伤"偶然发现"误归血肿）。
+> - 流程：**MRI → 切取活检 (incisional biopsy) 定性 → 影像分期 (staging) → 按分期定治疗**。
+> - **软组织肉瘤经血行转移、好发肺** → 分期查 **CT scan of chest and abdomen（胸 + 腹 CT）**，不是淋巴结清扫式思路。
+> - **活检确诊后下一步 = 分期影像查转移**，**不是**基因检测（基因检测只在特定瘤种指导靶向，如黑色素瘤 BRAF V600E → vemurafenib）。
+>
+> 关联错题：NBME11A Fighter#17（13 岁大腿 fibrosarcoma 活检确诊 → 误选 genetic testing）→ [[NBME11_错题本#^F17]]
+
 ---
 
 ## 八、特殊体征 / 检查速记
