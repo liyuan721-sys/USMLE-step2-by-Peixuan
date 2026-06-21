@@ -29937,6 +29937,7 @@
 >   - [[完整笔记/Peixuan分科笔记/肾脏]]（电解质章节）
 >   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（MM "CRAB" + 副肿瘤 Hypercalcemia）
 >   - [[完整笔记/专题笔记/肾脏/肾脏_电解质急症速查]] §3.1（**已有治疗阶梯但缺 3 级分层 + 急救顺序铁律 + furosemide 精确指征 + glucocorticoid 指征** — 本题入库后将同步增量）
+>   - [[完整笔记/专题笔记/内分泌/内分泌_高钙血症分层与PTH路径]]（诊断分层主场：先测 PTH 决策树 + 严重度分层 + 急救钉子；本卡为其🔴反复错源）
 >   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] §1.9 1°HPT（4 因↑Ca 表已有 PTH / PTHrP / 肉芽肿 / FHH）
 > - 🏥 跨学科：
 >   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（MM / 淋巴瘤 / breast / 前列腺 副肿瘤高钙）

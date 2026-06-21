@@ -277,10 +277,11 @@ PTH → ↑骨吸收 + ↑肾钙重吸收 + **↓磷 (phosphate)**。
 
 > [!tip] 高钙血症 (hypercalcemia) workup 第一步永远是测 PTH ⭐（NBME11A Q072 / [[NBME11_错题本#^Q072]]）
 > 确认高钙后，病因学**第一分叉 = 血清 PTH (parathyroid hormone, 甲状旁腺激素)**：
-> - PTH 高 / 不当正常 → **原发性甲旁亢 (PHPT) / FHH (familial hypocalciuric hypercalcemia, 家族性低尿钙性高钙血症)**（再查 24h 尿钙区分）
-> - PTH 被抑制 → **恶性肿瘤 / 维 D 相关 / 其他**
+> - PTH 高 / 不当正常 → **原发性甲旁亢 (PHPT) / FHH (familial hypocalciuric hypercalcemia, 家族性低尿钙性高钙血症) / 锂 (lithium)**（PHPT vs FHH 再查 24h 尿钙区分）
+> - PTH 被抑制 → **恶性肿瘤 / 维 D 相关 / 噻嗪 (thiazide) / 其他**
 >
-> **尿钙、离子钙 (ionized calcium)、DEXA (双能 X 线骨密度)、核素骨扫描都排在 PTH 之后**。**肾结石 + 高钙 ≈ PHPT 直到排除**。
+> ⚠️ **锂 vs 噻嗪别混支**：锂升 PTH → **PTH 依赖**；噻嗪 (drug-induced) PTH 不升 → **PTH 非依赖**。
+> **尿钙、离子钙 (ionized calcium)、DEXA (双能 X 线骨密度)、核素骨扫描都排在 PTH 之后**。**肾结石 + 高钙 ≈ PHPT 直到排除**。完整决策树 + 严重度分层 → [[完整笔记/专题笔记/内分泌/内分泌_高钙血症分层与PTH路径]]。
 
 ### 5.2 原发性甲状旁腺功能亢进 (primary hyperparathyroidism, PHPT)
 
