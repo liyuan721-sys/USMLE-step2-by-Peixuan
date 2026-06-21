@@ -1835,6 +1835,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q016 感染 / 中心静脉导管菌血症
 > ^Q016
+> > [!danger] 【❌ 做错 2026-06-21 · NBME11 Block5】→ 错题卡 [[NBME11_错题本#^Q016]]（锚定术后腹腔，漏 CLABSI）
 >
 > ### 💡 一句话锁定
 > > [!tip] **TPN + central line + 新发发热白细胞升高**，先把 **CLABSI** 顶到最前面；下一步不是重开腹，而是 **从导管取血培养**。
@@ -1957,6 +1958,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q017 Biostats_Master / 定性研究识别
 > ^Q017
+> > [!danger] 【❌ 做错 2026-06-21 · NBME11 Block5】→ 错题卡 [[NBME11_错题本#^Q017]]（误选 matched case-control）
 >
 > ### 💡 一句话锁定
 > > [!tip] 看到 **moderator-led discussion + attitudes + themes**，就别再想病例对照或 RCT 了，这就是 **qualitative study**。
@@ -2198,6 +2200,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q019 Biostats_Master / ASCVD 风险筛查
 > ^Q019
+> > [!danger] 【❌ 做错 2026-06-21 · NBME11 Block5】→ 错题卡 [[NBME11_错题本#^Q019]]（误选 microalbumin，应查血脂）
 >
 > ### 💡 一句话锁定
 > > [!tip] 这题不是在问“要不要立刻诊断高血压”，而是在问 **有 ASCVD 风险线索时下一步筛什么**；答案是 **serum lipid studies**。
@@ -2318,6 +2321,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q020 newborn care and screening / 新生儿中肠扭转
 > ^Q020
+> > [!danger] 【❌ 做错 2026-06-21 · NBME11 Block5】→ 错题卡 [[NBME11_错题本#^Q020]]（误选钡灌肠，应 upper GI series）
 >
 > ### 💡 一句话锁定
 > > [!tip] **3-day-old + bilious vomiting** 先默认是 **midgut volvulus until proven otherwise**；最能确诊的是 **upper GI series**。
@@ -2440,6 +2444,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q021 骨科 / 膝骨关节炎康复（股四头肌强化）
 > ^Q021
+> > [!danger] 【❌ 做错 2026-06-21 · NBME11 Block5】→ 错题卡 [[NBME11_错题本#^Q021]]（误升级阿片，应 PT 强化股四头肌）
 >
 > ### 💡 一句话锁定
 > > [!tip] **老年人膝痛 + 晨僵很短 + medial joint line tenderness + mild effusion + extension 受限**，先按 **knee osteoarthritis** 处理；这题下一步不是打针，而是 **强化股四头肌的物理治疗**。
@@ -2684,6 +2689,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q023 GI / 溃疡性结肠炎诱导治疗（系统激素）
 > ^Q023
+> > [!warning] 【⚠️ 做对但不确定 2026-06-21 · NBME11 Block5】→ 错题卡 [[NBME11_错题本#^Q023]]（hydrocortisone vs infliximab 犹豫）
 >
 > ### 💡 一句话锁定
 > > [!tip] **bloody diarrhea + rectosigmoid continuous inflammation + crypt abscesses + orthostasis**，就是 **ulcerative colitis** 且症状不轻；下一步诱导缓解选 **systemic glucocorticoid（hydrocortisone）**。
@@ -2808,6 +2814,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q024 感染 / 传染性单核细胞增多症传播预防（无需特殊隔离）
 > ^Q024
+> > [!danger] 【❌ 做错 2026-06-21 · NBME11 Block5】→ 错题卡 [[NBME11_错题本#^Q024]]（误选隔离，mono 无需隔离）
 >
 > ### 💡 一句话锁定
 > > [!tip] **发热咽痛 + cervical LAD + splenomegaly + Monospot positive** 就是 **EBV infectious mononucleosis**；这题问传播预防，结论是 **no specific measures are indicated**。
@@ -3049,6 +3056,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q026 儿科 / VUR 抗生素预防（婴儿发热性 UTI）
 > ^Q026
+> > [!danger] 【❌ 做错 2026-06-21 · NBME11 Block5】→ 错题卡 [[NBME11_错题本#^Q026]]（误选膀胱造口，VUR 应抗菌预防）
 >
 > ### 💡 一句话锁定
 > > [!tip] **4 月龄男婴发热性 E coli UTI + VCUG 证实膀胱输尿管反流**，为防复发性肾盂肾炎和肾瘢痕，下一步是 **continuous daily antibiotic prophylaxis**。
@@ -3296,6 +3304,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q028 psych / Inhalant intoxication（儿童吸入剂中毒）
 > ^Q028
+> > [!danger] 【❌ 做错 2026-06-21 · NBME11 Block5】→ 错题卡 [[NBME11_错题本#^Q028]]（误选 LSD，眼震+体位性低血压=吸入剂）
 >
 > ### 💡 一句话锁定
 > > [!tip] **儿童/青少年 + 脏乱环境 + slurred speech + nystagmus + 嗜睡 + 体位性低血压**，最该想到 **inhalant intoxication**。
@@ -3902,6 +3911,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q033 endocrine / 原醛症模式（高醛固酮低肾素）
 > ^Q033
+> > [!danger] 【❌ 做错 2026-06-21 · NBME11 Block5】→ 错题卡 [[NBME11_错题本#^Q033]]（选 E 高肾素=继发，原发应低肾素）
 >
 > ### 💡 一句话锁定
 > > [!tip] **高血压 + 低钾 + 代谢性碱中毒 + 肌无力** 是原发性醛固酮增多症的经典组合，所以实验室模式应是 **aldosterone increased, renin decreased**。
@@ -4153,6 +4163,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q035 外科 / 糖尿病足先拍片（查骨髓炎和气体）
 > ^Q035
+> > [!warning] 【⚠️ 做对但不确定 2026-06-21 · NBME11 Block5】→ 错题卡 [[NBME11_错题本#^Q035]]（足 X 线 vs 渗透压犹豫）
 >
 > ### 💡 一句话锁定
 > > [!tip] **糖尿病控制差 + 深部足底溃疡 + 发热低血压白细胞高 + 代谢性酸中毒**，最该立刻进一步查的是 **foot x-ray**，看 osteomyelitis 或 soft-tissue gas。

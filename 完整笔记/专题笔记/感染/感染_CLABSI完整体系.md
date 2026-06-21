@@ -310,7 +310,7 @@ ICU CLABSI rate 持续 elevated（详见 [[完整笔记/专题笔记/USMLE/USMLE
 
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes_2026-05#^Q3504]] CVC 置入后必做 CXR（CLABSI 不是直接锚但同 CVC 主题）
-  - 暂无直接 CLABSI 诊治错题（待 UW 出现后回填）
+  - [[NBME11_错题本#^Q016]] TPN 中心静脉导管 + 发热白细胞↑ → 先导管血培养（误选剖腹探查）
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/感染]]（学科主笔记 — ID 整体视角）
   - [[完整笔记/Peixuan分科笔记/外科]]（CVC 维护 + bundle 简版）

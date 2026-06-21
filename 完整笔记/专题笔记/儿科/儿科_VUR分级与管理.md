@@ -127,6 +127,7 @@ type: 专题笔记
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes_2026-05#^Q106084]] Primary VUR — 肾盏变钝=severe→预防性抗生素（本笔记来源）
   - [[NBME11_错题本#^Q058]] 男婴发热性 UTI 首选 renal US（做对但标记）
+  - [[NBME11_错题本#^Q026]] 发热性 UTI + VCUG 反流 → 每日抗生素预防（误选膀胱造口）
 - 📚 主笔记：
   - [[完整笔记/Peixuan分科笔记/儿科]]（VUR / febrile UTI / posterior urethral valves）
   - [[完整笔记/Peixuan分科笔记/肾脏]]（hydronephrosis / reflux nephropathy / CKD）

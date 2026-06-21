@@ -25,6 +25,12 @@ version: v1.0
 
 > 口诀：**"描述生成假设，分析检验假设。"** case report/series 永远是描述性（证据等级最低）。
 
+> [!tip] Qualitative study（定性研究）——单独认 ⭐
+> 研究 **态度/信念/体验/障碍 (attitudes / beliefs / lived experience)** 这类**难以数字化**的现象；数据来自 **focus group(焦点小组) / interview(访谈)**，输出是**主题归纳 (themes)** 而非数值结局。
+> - **钥匙**：moderator-led discussion + 研究"人怎么想/感受" → qualitative。
+> - **陷阱**：`matched by age/BMI`、`randomly selected` 只是抽样/匹配修饰，**不**改变它是定性（判断标准是数据为叙事还是数值）；random **selection**(抽样) ≠ random**ization**(随机分配干预，那才是 RCT)。
+> - 派生自 NBME11 [[NBME11_错题本#^Q017]]（误选 matched case-control）。
+
 ---
 
 ## 二、核心决策树 ⭐⭐⭐

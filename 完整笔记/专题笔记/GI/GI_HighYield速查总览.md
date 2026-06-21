@@ -358,6 +358,7 @@ AST>ALT 提示线粒体损伤 → 酒精性、Wilson、Reye
   - [[mistakes/uworld-mistakes_2026-06#^Q2377]] 强碱误服 → 24h 内镜分级
   - [[mistakes/uworld-mistakes_2026-06#^Q3435]] 吸收不良 → 肠源性高草酸尿（回肠病变钙皂化）
   - [[mistakes/uworld-mistakes_2026-06#^Q17223]] 胆道支架后 RUQ + ALP↑ = 化脓性肝脓肿 → 腹部 CT
+  - [[NBME11_错题本#^Q023]] UC 中重度发作 → 系统激素诱导（biologic 非首选；做对但不确定）
   - [[mistakes/uworld-mistakes_2026-06#^Q3103]] AIDS + 大线状食管溃疡 = CMV 食管炎 → 更昔洛韦
   - [[mistakes/uworld-mistakes_2026-06#^Q12458]] 高热 + 血黏液便 + 儿童惊厥 = 志贺菌肠炎
 - 📚 主笔记（均只读）：[[完整笔记/Peixuan分科笔记/GI]] / [[完整笔记/Peixuan分科笔记/消化腺]] / [[完整笔记/Peixuan分科笔记/消化补充内容]]

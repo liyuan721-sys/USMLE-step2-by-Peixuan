@@ -17233,3 +17233,32 @@ type: 错题数据源
 > 主题:: 反应性关节炎一线治疗（NSAIDs；感染已愈抗生素无用）
 > 状态:: 🔴
 > 错因:: 知识
+
+## 2026-06-21
+
+> [!example]- 🔴 [2026-06-21] Biostats / 研究设计识别（反复错 family 第4次·定性误判追踪） (Q017-R0621)
+> ^Q017-R0621
+>
+> ## 本次错（精简追踪）
+> NBME11 Q017：焦点小组研究"态度" = **qualitative(定性研究)**，误选 **matched case-control**——被 `matched by age/BMI` 修饰词牵走。
+>
+> ## 反射钩
+> 研究设计题先问"**数据是叙事(themes 主题) 还是数值(结局)**"，再看修饰词；`matched` / `randomly selected` 是噪音；random **selection**(抽样) ≠ random**ization**(随机分配干预)。态度/焦点小组/访谈 → qualitative。
+>
+> ## 🔴 反复错谱（研究设计识别 family）
+> - 本次(第 4)：[[NBME11_错题本#^Q017]] qualitative 误判（定性 vs matched case-control）
+> - 第 3：[[mistakes/uworld-mistakes_2026-06#^Q20376]] 比较发病风险 → cohort（误 case-control）
+> - 第 2：[[mistakes/uworld-mistakes_2026-05#^Q20435]] matched control 概念污染
+> - 第 1：[[mistakes/uworld-mistakes_2026-05#^Q20283]] case-control vs cohort 场景适配
+> - 同套旁证：[[NBME11_错题本#^Q061]] case-control 选 OR（"能算什么"角度）
+>
+> ## 🔗 关联
+> - 📚 [[完整笔记/专题笔记/USMLE/USMLE_Study_Design决策树]]（已增补 qualitative）/ [[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - ✅ 复盘：6/25 NBME 13 前把 family 4 题连刷 + 盖答案默写"叙事 vs 数值"分流；再错同类保持 🔴
+>
+> ---
+>
+> 学科:: Biostats
+> 主题:: 研究设计识别
+> 状态:: 🔴
+> 错因:: pattern

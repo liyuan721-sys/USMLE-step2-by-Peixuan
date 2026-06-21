@@ -349,6 +349,7 @@ PTH → ↑骨吸收 + ↑肾钙重吸收 + **↓磷 (phosphate)**。
   - [[NBME11_错题本#^Q045]] 心因性多饮 vs 尿崩（发作性+应激+化验正常=心因性；误选 DI）
   - [[mistakes/uworld-mistakes_2026-05#^Q4848]] 高泌乳素鉴别（药物 vs 瘤 vs 甲减）
   - [[mistakes/uworld-mistakes_2026-05#^Q2353]] AN 住院指征 vs euthyroid sick（甲状腺激素模式）
+  - [[NBME11_错题本#^Q033]] 原醛模式 = 高醛固酮 + 低肾素（误选高肾素=继发）
   - [[mistakes/uworld-mistakes_2026-05#^Q20217]] 低血糖 insulin/C-peptide 鉴别
   - [[mistakes/uworld-mistakes_2026-05#^Q2796]] DKA 血气（AG 代酸 + 呼吸代偿）
   - [[mistakes/uworld-mistakes_2026-06#^Q18467]] 双膦酸盐颌骨坏死 ONJ
