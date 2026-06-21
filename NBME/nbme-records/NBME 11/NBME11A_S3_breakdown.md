@@ -365,8 +365,10 @@ source: GPT/Codex full run
 > - stem_pattern: labor_hiv_positive_intrapartum_prophylaxis
 > - high_yield_score: 5/5
 
-> [!example]- NBME11A Q104 GI / 术后结肠假性梗阻（Ogilvie 综合征）
+> [!danger]- NBME11A Q104 GI / 术后结肠假性梗阻（Ogilvie 综合征）【❌做错】
 > ^Q104
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q104]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > > [!tip] **高龄 + 近期手术 + 阿片使用 + 全结肠明显扩张到肛门**，但没有机械性阻塞证据，这就是 **colonic pseudo-obstruction (Ogilvie syndrome)**。
@@ -485,8 +487,10 @@ source: GPT/Codex full run
 > - stem_pattern: elderly_postop_diffuse_colonic_dilation
 > - high_yield_score: 5/5
 
-> [!example]- NBME11A Q105 Biostats_Master / 两组均值比较（非配对 t 检验）
+> [!danger]- NBME11A Q105 Biostats_Master / 两组均值比较（非配对 t 检验）【❌做错】
 > ^Q105
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q105]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > > [!tip] **两组独立样本 + 连续变量 + 比较均值**，标准答案就是 **Student unpaired t-test**。
@@ -606,8 +610,10 @@ source: GPT/Codex full run
 > - stem_pattern: two_groups_compare_mean_continuous
 > - high_yield_score: 5/5
 
-> [!example]- NBME11A Q106 neuro / 特发性颅内高压（先影像后腰穿）
+> [!danger]- NBME11A Q106 neuro / 特发性颅内高压（先影像后腰穿）【❌做错】
 > ^Q106
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q106]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > 年轻肥胖女性 + 头痛呕吐 + 明显乳头水肿 + 头 CT 正常，下一步不是直接治，而是 **lumbar puncture** 去证实颅压升高。
@@ -717,8 +723,10 @@ source: GPT/Codex full run
 > - stem_pattern: young_obese_woman_headache_papilledema
 > - high_yield_score: 4/5
 
-> [!example]- NBME11A Q107 免疫疫苗 / SLE 胸膜炎（NSAID 一线）
+> [!danger]- NBME11A Q107 免疫疫苗 / SLE 胸膜炎（NSAID 一线）【❌做错】
 > ^Q107
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q107]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > 蝶形红斑 + 光敏感 + 关节痛 + Raynaud + 胸膜摩擦音，胸片还正常时最像 **lupus pleuritis**，先给 **ibuprofen**。
@@ -830,8 +838,10 @@ source: GPT/Codex full run
 > - stem_pattern: malar_rash_pleuritic_pain_friction_rub
 > - high_yield_score: 4/5
 
-> [!example]- NBME11A Q108 Biostats_Master / 假阴性率看 sensitivity
+> [!danger]- NBME11A Q108 Biostats_Master / 假阴性率看 sensitivity【❌做错】
 > ^Q108
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q108]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > 患者关心的是乳腺癌筛查“漏诊率”，本质就是 **false-negative rate**，要从 **sensitivity** 推出来。
@@ -940,8 +950,10 @@ source: GPT/Codex full run
 > - stem_pattern: prior_negative_test_then_disease_found
 > - high_yield_score: 5/5
 
-> [!example]- NBME11A Q109 心内 / 新发 HFrEF 起始用药
+> [!danger]- NBME11A Q109 心内 / 新发 HFrEF 起始用药【❌做错】
 > ^Q109
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q109]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > 明显容量超负荷的新发 HFrEF，已经给了 furosemide，下一步最该补的是 **ACE inhibitor（lisinopril）**，不是先上 beta-blocker。
@@ -1283,6 +1295,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q112 psych / 转换障碍（分心后 tremor 变轻）
 > ^Q112
+> > [!danger] 【❌ 做错 2026-06-21 · NBME11 Block8】→ 错题卡 [[NBME11_错题本#^Q112]]（误选 malingering，应认 distractibility=功能性阳性征；诈病需外部获益）
 >
 > ### 💡 一句话锁定
 > tremor 表现前后不一致，做别的动作时会减轻，MRI 正常，又有明显工作压力，最符合 **conversion disorder / functional neurologic symptom disorder**。
@@ -1397,6 +1410,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q113 儿科 / 百日咳（阵发性咳嗽发绀）
 > ^Q113
+> > [!danger] 【❌ 做错 2026-06-21 · NBME11 Block8】→ 错题卡 [[NBME11_错题本#^Q113]]（误选 RSV，应认间歇肺清+母亲久咳+阵发咳后发绀=百日咳）
 >
 > ### 💡 一句话锁定
 > 4 月龄婴儿 + 阵发性剧咳 + gagging/发绀 + 平时肺部听诊还清，母亲先咳了 3 周，这就是 **Bordetella pertussis**。
@@ -1513,6 +1527,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q114 Biostats_Master / 肥胖一级预防
 > ^Q114
+> > [!danger] 【❌ 做错 2026-06-21 · NBME11 Block8】→ 错题卡 [[NBME11_错题本#^Q114]]（误选减肥比赛发奖，一级预防应选建成环境=步道/自行车道）
 >
 > ### 💡 一句话锁定
 > 问的是整座城市如何 **primary prevention** 肥胖，最佳答案不是筛查或治疗，而是从环境层面增加运动可及性: **improve bike lanes and walking trails**。
@@ -1959,6 +1974,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q118 GI / Dubin-Johnson 综合征
 > ^Q118
+> > [!danger] 【❌ 做错 2026-06-21 · NBME11 Block8】→ 错题卡 [[NBME11_错题本#^Q118]]（误选 Gilbert(非结合)，本题结合胆红素↑+LFT正常=Dubin-Johnson）
 >
 > ### 💡 一句话锁定
 > 青少年黄疸 + **conjugated bilirubin 升高** + 其余肝功正常 + 超声正常，最经典就是 **Dubin-Johnson syndrome**。
@@ -2190,6 +2206,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q120 骨科 / 应力性骨折先固定休息
 > ^Q120
+> > [!danger] 【❌ 做错 2026-06-21 · NBME11 Block8】→ 错题卡 [[NBME11_错题本#^Q120]]（误选足弓垫，X线阴性仍按应力性骨折→制动；局灶骨压痛≠力线）
 >
 > ### 💡 一句话锁定
 > 久坐新兵突然高强度训练后出现 **局灶性第五跖骨痛**，即使 X 线正常，也应先按 **stress fracture** 处理，答案是 **cast immobilization**。
@@ -2530,6 +2547,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q123 endocrine / HHS 所致高渗性低钠（高糖转位性低钠）
 > ^Q123
+> > [!danger] 【❌ 做错 2026-06-21 · NBME11 Block8】→ 错题卡 [[NBME11_错题本#^Q123]]（误归因 ramipril，Glu700→高渗性低钠；低钠先按血清渗透压分类）
 >
 > ### 💡 一句话锁定
 > > [!tip] 老年人多饮多尿、明显脱水、血糖 `700 mg/dL`、HCO3- 正常、Na `125 mEq/L`，这是 **HHS with hypertonic hyponatremia**；低钠的原因是 **hyperglycemia**。
@@ -2875,6 +2893,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q126 OB / 产后剖宫产后发热先想子宫内膜炎（剖宫产 + prolonged labor）
 > ^Q126
+> > [!danger] 【❌ 做错 2026-06-21 · NBME11 Block8】→ 错题卡 [[NBME11_错题本#^Q126]]（误选腹腔出血，发热=感染非出血；剖宫产+难产+子宫压痛=子宫内膜炎）
 >
 > ### 💡 一句话锁定
 > > [!tip] **36 小时内剖宫产后发热 + 下腹/子宫压痛 + leukocytosis + wound clean**，最该先锁定 **postpartum endometritis**，尿里 RBC 多半只是导尿后的噪声线索。
@@ -2988,6 +3007,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q127 心内 / 人工瓣膜做牙科操作需 IE 预防（青霉素过敏选大环内酯）
 > ^Q127
+> > [!danger] 【❌ 做错 2026-06-21 · NBME11 Block8】→ 错题卡 [[NBME11_错题本#^Q127]]（误选氨苄西林=仍青霉素类，青霉素过敏应换大环内酯克拉霉素）
 >
 > ### 💡 一句话锁定
 > > [!tip] **prosthetic valve + dental procedure + penicillin allergy**，IE prophylaxis 仍要做，但药物从 amoxicillin 改成 **clarithromycin** 这类 **macrolide**。
@@ -3104,6 +3124,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q128 感染 / HIV 风险 + exertional desaturation + 双侧弥漫浸润 = PCP
 > ^Q128
+> > [!danger] 【❌ 做错 2026-06-21 · NBME11 Block8】→ 错题卡 [[NBME11_错题本#^Q128]]（误选组织胞浆菌，IVDU→未诊断HIV+弥漫浸润+运动性降氧=PCP）
 >
 > ### 💡 一句话锁定
 > > [!tip] **subacute dyspnea + diffuse bilateral infiltrates + 走几步氧饱就掉很多 + HIV 风险**，最典型就是 **Pneumocystis jirovecii pneumonia**。

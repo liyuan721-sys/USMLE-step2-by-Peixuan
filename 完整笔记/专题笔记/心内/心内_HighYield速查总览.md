@@ -190,6 +190,7 @@ Squatting → preload↑ + afterload↑ → 室腔变大 → HOCM/MVP 变软
 
 > [!success] HFrEF GDMT (guideline-directed medical therapy)（改善生存）
 > 一线 β受体阻滞剂 β-blocker；加 血管紧张素转换酶抑制剂/血管紧张素受体拮抗剂 ACEI/ARB；加 螺内酯 spironolactone；加 钠-葡萄糖共转运蛋白2抑制剂 SGLT-2 inhibitor；地高辛 digoxin = 二线（控症状不改善生存，AF+HFrEF+低血压时有用）。
+> **起始顺序（高频陷阱）**：失代偿 / 明显淤血期**先利尿 + ACEI/ARB**；**β 阻滞剂待容量稳定（euvolemic）后再起始或加量**（淤血时起始 β 阻滞剂的负性肌力会加重低心输出）。〔源：NBME11A Q109 → [[NBME11_错题本#^Q109]]〕
 
 > [!danger] 急性失代偿心衰 ADHF (acute decompensated heart failure) — LMNOP
 > 急性肺水肿 = Lasix(呋塞米 furosemide) + Morphine + Nitrates + Oxygen + Position；目标 = 改善氧合 + 降肺毛细血管压 + 减前后负荷 + 治病因。

@@ -451,6 +451,7 @@ CIN3(非孕) 切除后：6 个月 HPV 检测；切缘(+) → 再切；孕期 CIN
 ## 🔗 关联
 
 - 🔁 同主题错题：
+  - [[NBME11_错题本#^Q126]] 剖宫产 + 难产后发热 + 子宫压痛 = 产后子宫内膜炎（发热≠出血；导尿 RBC 干扰）
   - [[mistakes/uworld-mistakes_2026-05#^Q12033]] 急迫性尿失禁 → 抗毒蕈碱（与充溢性方向相反）
   - [[mistakes/uworld-mistakes_2026-05#^Q4225]] 产后尿潴留 → 导尿减压（滴尿=overflow，≠观察）
   - [[mistakes/uworld-mistakes_2026-05#^Q2552]] Pseudocyesis 假孕 vs 流产谱系（OB 表现 + psych 本质）

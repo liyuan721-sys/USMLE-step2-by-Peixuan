@@ -163,6 +163,11 @@ SLE 多系统地图
 > - 急性发作/重症：**糖皮质激素**；器官威胁（肾/CNS）加**免疫抑制剂**（mycophenolate / cyclophosphamide）。
 > - **防晒**（光敏感）+ 监测心血管（SLE 加速动脉粥样硬化，是远期主要死因之一）。
 
+> [!tip] 浆膜炎 (serositis) 处理 + 胸膜 vs 心包摩擦音鉴别
+> - **轻症浆膜炎（胸膜炎 pleuritis / 心包炎 pericarditis）一线 = NSAID (nonsteroidal anti-inflammatory drug, 非甾体抗炎药；如布洛芬 ibuprofen)**；NSAID 无效或重症 → 系统糖皮质激素。
+> - **胸膜摩擦音 (pleural rub) vs 心包摩擦音 (pericardial rub) 的钥匙 = 屏气**：胸膜摩擦音随呼吸、**屏气消失**；心包摩擦音**屏气仍在**。
+> - 胸片正常**不排除**狼疮性胸膜炎（诊断权重在系统线索 + 听诊）。〔源：NBME11A Q107 → [[NBME11_错题本#^Q107]]〕
+
 > [!danger] 妊娠 / 新生儿狼疮（anti-Ro/SSA）
 > 母体 **anti-Ro/SSA + anti-La/SSB** 经胎盘 → **新生儿狼疮**：暂时性皮疹/血细胞↓（可逆）+ **先天性心脏传导阻滞 (congenital heart block)（不可逆，需起搏器）**。孕前查抗体，孕期胎心监测。
 

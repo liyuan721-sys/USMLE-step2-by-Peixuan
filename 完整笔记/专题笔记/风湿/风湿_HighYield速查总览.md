@@ -245,6 +245,14 @@ created: 2026-06-12
 | 甲亢肌病 | 少 | 正常/↑ | — | **DTR 亢进**、T4↑ |
 | Trichinella 旋毛虫 | 有 | ↑ | — | 生/半熟野味、嗜酸↑、眼周水肿 |
 
+### Sjögren 干燥综合征（Sjögren syndrome）【源笔记未覆盖·补充】
+
+> [!tip] 干眼 + 干口 + 腮腺肿 → 先血清学确认
+> - **三联**：干燥性角结膜炎（眼干红）+ 口干 xerostomia（龋齿↑）+ 腮腺肿大；可原发或继发于 RA / SLE。
+> - **确诊路径**：临床疑诊 → **血清 ANA（抗核抗体 antinuclear antibody）+ 抗 Ro/SSA + 抗 La/SSB** → 必要时 Schirmer 试验 / 唇腺活检（灶性淋巴细胞浸润）。
+> - **并发**：**↑非霍奇金淋巴瘤（NHL, non-Hodgkin lymphoma）风险**（腮腺持续 / 硬肿要警惕）；抗 Ro/SSA 阳性孕妇 → 新生儿狼疮 / 先天性心脏传导阻滞。
+> - **处理**：人工泪液 / 毛果芸香碱 pilocarpine 对症；羟氯喹 hydroxychloroquine 用于全身症状。〔源：NBME11A Q173 → [[NBME11_错题本#^Q173]]〕
+
 ---
 
 ## 三、血管炎 Vasculitis

@@ -2252,6 +2252,8 @@ source: GPT/Codex full run
 > [!example]- NBME11A Q171 GYN / HSV 妊娠传播风险（分娩期新生儿感染）
 > ^Q171
 >
+> 🔁 错题卡:[[NBME11_错题本#^Q171]](做对但标记 → 个性化分析)
+>
 > ### 💡 一句话锁定
 > **疼痛性外阴溃疡 = genital HSV**；这题问的不是“会不会致畸”，而是 **未来妊娠最该担心分娩时把感染传给新生儿**。
 >
@@ -2466,8 +2468,10 @@ source: GPT/Codex full run
 > - stem_pattern: thumb_base_pain_opening_jars
 > - high_yield_score: 4/5
 
-> [!example]- NBME11A Q173 免疫疫苗 / Sjogren 首选血清学确认（ANA/SSA/SSB）
+> [!danger]- NBME11A Q173 免疫疫苗 / Sjogren 首选血清学确认（ANA/SSA/SSB）【❌做错】
 > ^Q173
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q173]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > **口干、眼干、腮腺肿、大量龋齿** 是 Sjogren 的标准画像；下一步不是先吃药或做 CT，而是 **做 ANA/SSA/SSB 血清学确认**。
@@ -2575,8 +2579,10 @@ source: GPT/Codex full run
 > - stem_pattern: sicca_parotid_dental_caries
 > - high_yield_score: 4/5
 
-> [!example]- NBME11A Q174 Biostats_Master / 相对风险下降要看基线风险（RRR 解释）
+> [!danger]- NBME11A Q174 Biostats_Master / 相对风险下降要看基线风险（RRR 解释）【❌做错】
 > ^Q174
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q174]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > **80% relative risk reduction** 听起来很大，但若不知道 **control group 的基线死亡风险**，你根本不知道临床影响到底大不大。
@@ -2682,8 +2688,10 @@ source: GPT/Codex full run
 > - stem_pattern: rct_relative_risk_reduction_interpretation
 > - high_yield_score: 5/5
 
-> [!example]- NBME11A Q175 儿科 / 婴儿 GERD 食管炎（喂后反弓疼痛）
+> [!danger]- NBME11A Q175 儿科 / 婴儿 GERD 食管炎（喂后反弓疼痛）【❌做错】
 > ^Q175
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q175]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > **婴儿喂后吐奶 + hiccups + 反弓 + 像疼痛一样哭闹**，这不是单纯“爱吐奶”，而是更像 **GERD complicated by reflux esophagitis**。
@@ -3562,8 +3570,10 @@ source: GPT/Codex full run
 > - stem_pattern: galactorrhea_hypercalcemia_family_history_men1_next_step
 > - high_yield_score: 5/5
 
-> [!example]- NBME11A Q183 心内 / 房颤先控率（稳定型 RVR）
+> [!danger]- NBME11A Q183 心内 / 房颤先控率（稳定型 RVR）【❌做错】
 > ^Q183
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q183]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > **不规则心率 + ECG 明确 atrial fibrillation + 血流动力学稳定**，眼前最该做的是 **先控率，给 metoprolol**。
@@ -3775,8 +3785,10 @@ source: GPT/Codex full run
 > - stem_pattern: incapacitated_patient_clear_advance_directive_next_step
 > - high_yield_score: 4/5
 
-> [!example]- NBME11A Q185 hematology oncology / 遗传性球形红细胞增多症（预防发作）
+> [!danger]- NBME11A Q185 hematology oncology / 遗传性球形红细胞增多症（预防发作）【❌做错】
 > ^Q185
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q185]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > **家族性贫血 + 黄疸 + 脾大 + Coombs 阴性 + MCHC 升高 + smear 见球形红细胞**，就是 **hereditary spherocytosis**；能预防当前溶血症状加重的措施是 **splenectomy**。
@@ -3997,8 +4009,10 @@ source: GPT/Codex full run
 > - stem_pattern: recurrent_family_nonpruritic_angioedema_airway
 > - high_yield_score: 5/5
 
-> [!example]- NBME11A Q187 GI / 穿孔性消化性溃疡（首选平片）
+> [!danger]- NBME11A Q187 GI / 穿孔性消化性溃疡（首选平片）【❌做错】
 > ^Q187
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q187]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > **既往反酸/上腹痛史 + 突发剧烈腹痛 + 板样腹 + 肝浊音区鼓音 + 肠鸣音消失**，先想 **perforated peptic ulcer**；最合适的下一步诊断是 **upright chest and abdominal x-rays**。
@@ -4218,6 +4232,8 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q189 心内 / 二氢吡啶类降压药致水肿
 > ^Q189
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q189]](做对但标记 → 个性化分析)
 >
 > ### 💡 一句话锁定
 > **本来就有静脉功能不全和下肢水肿，再加一种降压药会更肿**，最该想到 **dihydropyridine CCB**，也就是 **nifedipine**。
@@ -4650,8 +4666,10 @@ source: GPT/Codex full run
 > - stem_pattern: smoker_chronic_cough_obstructive_spirometry_stable_copd
 > - high_yield_score: 5/5
 
-> [!example]- NBME11A Q193 儿科 / 单纯性热性惊厥
+> [!danger]- NBME11A Q193 儿科 / 单纯性热性惊厥【❌做错】
 > ^Q193
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q193]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > **2 岁 + 高热 + generalized shaking 2 分钟 + 醒后神经查体正常 + 鼓膜红且膨隆**，这是 **simple febrile seizure**；下一步不是做 LP 或头 CT，而是 **口服抗生素治疗中耳炎**。

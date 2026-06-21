@@ -372,6 +372,7 @@ Prevalence ≈ Incidence × Duration
 ## 🔗 关联
 
 - 🔁 同主题错题：
+  - [[NBME11_错题本#^Q114]] 一级预防 = 改建成环境(步道)；筛查 = 二级、已病管理/手术 = 三级（误选减肥比赛）
   - [[mistakes/uworld-mistakes_2026-06#^Q21797]] PPV·NPV 行指标 vs 列指标判读
   - [[mistakes/uworld-mistakes_2026-06#^Q20561]] RRR vs ARR 半步陷阱
   - [[mistakes/uworld-mistakes_2026-06#^Q20376]] Study Design — 比较"发病风险"用 cohort（🔴 反复错）

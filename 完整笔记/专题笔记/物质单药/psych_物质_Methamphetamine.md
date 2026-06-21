@@ -43,7 +43,7 @@ Methamphetamine
 | 表现 | 说明 |
 |---|---|
 | **极度躁动 Agitation** ⭐ | 比可卡因更剧烈、更持久的精神运动性激越 |
-| **精神病 Psychosis** | 偏执妄想、幻觉（含触幻觉 "meth bugs"、抓挠致皮肤损伤）|
+| **精神病 Psychosis** | 偏执妄想、幻觉（含**触幻觉/蚁走虫爬感 formication（"meth bugs"）** + 反复抓挠致皮肤抓痕 excoriations）|
 | **舞蹈样 / 刻板动作** ⭐ | choreoathetoid movements、反复无目的动作（"punding"）|
 | **磨牙 Bruxism / Grinding teeth** ⭐ | 下颌紧咬、磨牙 |
 | **烂牙 "Meth mouth"** ⭐ | 慢性使用招牌 — 严重广泛龋齿 / 牙齿脱落（口干 + 磨牙 + 糖食 + 忽视口腔卫生）|
@@ -112,7 +112,7 @@ Methamphetamine
 
 ## 🔗 关联
 
-- 🔁 同主题错题：首页，暂无直接错题 —— 等积累（甲基苯丙胺专题首次单药建页）。
+- 🔁 同主题错题：[[NBME11A_S2_breakdown#^Q085]] 虫爬感 formication + 抓痕 + "见虫子从皮下爬出" → 毒筛冰毒 methamphetamine（NBME11A Q085，✅做对）。
 - 📚 主笔记：[[完整笔记/专题笔记/psych/psych_物质急诊速查]] —— 横向比较总索引（对应 §3 中毒鉴别表、§9 戒断镜像、§11 Stem 模式库、§12 完整管理对照表）。
 - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（meth 致缺血性 MI / 心肌病 / HTN 急症 — 年轻人胸痛与心衰鉴别）。
 - 🌱 TODO（待生成衍生）：等兴奋剂类错题积累 ≥3 题，整合 cocaine / meth / MDMA 横向对比 → 生成 [[完整笔记/专题笔记/_衍生_兴奋剂三剑客对比]]。

@@ -40,6 +40,12 @@ type: 专题笔记
 > 慢性酗酒者 **thiamine（B1）缺乏** → 三联征 **眼肌麻痹 + 共济失调 + 意识混乱**。
 > ⚠️ **先给 thiamine 再给葡萄糖** —— 先给糖会耗尽残余 B1 → 诱发/加重 Wernicke。
 
+> [!info] 慢性饮酒的性功能影响（高频小考点）
+> 慢性酒精 → ↓ 下丘脑-垂体-性腺轴 (HPG axis) + ↓ 一氧化氮 (NO, nitric oxide) 介导的海绵体血管舒张 → **可逆性勃起功能障碍 (ED, erectile dysfunction, 勃起功能障碍)**。
+> - **新发 ED 先除可逆病因（戒酒 / 停相关药）**，再考虑 PDE-5 (phosphodiesterase-5, 磷酸二酯酶 5 型) 抑制剂。
+> - ⚠️ **用硝酸酯 (nitrate, 如硝酸甘油 nitroglycerin) 者禁用 PDE-5 抑制剂（西地那非 sildenafil）** → NO/cGMP 叠加致危险性低血压。
+> - 详见 [[NBME11_错题本#^Q100]]。
+
 ---
 
 ## 戒断 Withdrawal

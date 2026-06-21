@@ -2534,6 +2534,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q072 endocrine / 高钙先查 PTH
 > ^Q072
+> > [!danger] 【❌ 做错 2026-06-21 · NBME11 Block7】→ 错题卡 [[NBME11_错题本#^Q072]]（总钙已确认，误选离子钙，应先测 PTH 分流病因）
 >
 > ### 💡 一句话锁定
 >
@@ -2655,6 +2656,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q073 Biostats_Master / 阳性结果也可能低风险
 > ^Q073
+> > [!danger] 【❌ 做错 2026-06-21 · NBME11 Block7】→ 错题卡 [[NBME11_错题本#^Q073]]（误把高 Sp 当个体阳性可信度，应看低 pretest→低 PPV；🔴 同 Q003 反复错）
 >
 > ### 💡 一句话锁定
 >
@@ -3023,6 +3025,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q076 pulmonary / 门诊 CAP 首选口服治疗
 > ^Q076
+> > [!danger] 【❌ 做错 2026-06-21 · NBME11 Block7】→ 错题卡 [[NBME11_错题本#^Q076]]（被镰状性状/哮喘标签带跑，误选 IV 广谱，应先分层=稳定门诊口服阿奇）
 >
 > ### 💡 一句话锁定
 >
@@ -3392,6 +3395,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q079 心内 / 不能运动时做药物负荷核素
 > ^Q079
+> > [!danger] 【❌ 做错 2026-06-21 · NBME11 Block7】→ 错题卡 [[NBME11_错题本#^Q079]]（误选静息心超，应识别"危险因素+劳力症状→缺血负荷分层；膝OA不能运动→药物负荷"）
 >
 > ### 💡 一句话锁定
 >
@@ -3635,6 +3639,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q081 derm / 花斑癣外用治疗（Malassezia）
 > ^Q081
+> > [!success] 【✅ 做对 2026-06-21 · NBME11 Block7】自信做对（青少年胸背浅色斑+细鳞屑=花斑癣 → 外用硫化硒）。做对不入错题本，知识见本卡 + 皮肤专题。
 >
 > ### 💡 一句话锁定
 >
@@ -4136,6 +4141,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q085 psych / 甲基苯丙胺致虫爬感与抓痕
 > ^Q085
+> > [!success] 【✅ 做对 2026-06-21 · NBME11 Block7】自信做对（虫爬感 formication + 抓痕 → 冰毒 methamphetamine）。做对不入错题本，知识见本卡 + 物质专题。
 >
 > ### 💡 一句话锁定
 >
@@ -5990,6 +5996,7 @@ source: GPT/Codex full run
 
 > [!example]- NBME11A Q100 psych / 酒精相关勃起功能障碍
 > ^Q100
+> > [!danger] 【❌ 做错 2026-06-21 · NBME11 Block7】→ 错题卡 [[NBME11_错题本#^Q100]]（误归因"正常老化无需处理"，应先除可逆病因=戒酒；且硝酸酯禁 PDE-5）
 >
 > ### 💡 一句话锁定
 > > [!tip] **新近出现的 erectile dysfunction** 先找 **可逆病因**；这题最先该处理的是 **alcohol use**，而且他还在用 **nitroglycerin**，所以更不能直接上 sildenafil。

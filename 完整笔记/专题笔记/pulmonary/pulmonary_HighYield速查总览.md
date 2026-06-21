@@ -230,8 +230,10 @@ B  BP low 低血压
 
 ### 6.2 CAP 经验治疗 + 特殊人群
 
-> [!tip] CAP 经验用药（社区获得性肺炎 community-acquired pneumonia）
-> - **门诊 + 住院（ICU）**：β-内酰胺 + 大环内酯 = **头孢曲松 ceftriaxone + 阿奇霉素 azithromycin**；或 β-内酰胺 + 氟喹诺酮（左氧氟沙星 levofloxacin / 莫西沙星 moxifloxacin，老年避免 FQ：C. diff / 肌腱断裂 / 主动脉夹层）。
+> [!tip] CAP 经验用药（社区获得性肺炎 community-acquired pneumonia）——先按严重度分层再选 ⭐
+> - **门诊·健康无共病**：**口服单药** = 阿莫西林 amoxicillin / 多西环素 doxycycline / 大环内酯（阿奇霉素 azithromycin）。⚠️ 生命体征稳定的门诊 CAP **别上 IV 广谱**（[[NBME11_错题本#^Q076]]：被镰状性状/哮喘标签带跑误选 IV 氨苄西林-舒巴坦）。
+> - **门诊·有共病**（心/肺/肝/肾病、糖尿病、酗酒、免疫抑制）：呼吸氟喹诺酮单药，或 β-内酰胺 + 大环内酯。
+> - **住院（含 ICU）**：β-内酰胺 + 大环内酯 = **头孢曲松 ceftriaxone + 阿奇霉素 azithromycin**；或 β-内酰胺 + 氟喹诺酮（左氧氟沙星 levofloxacin / 莫西沙星 moxifloxacin，老年避免 FQ：C. diff / 肌腱断裂 / 主动脉夹层）。
 > - **青霉素过敏 penicillin allergy**：轻（皮疹）可用头孢；重（过敏反应 anaphylaxis）→ 多西环素 doxycycline 或呼吸 FQ。
 > - **HAP（入院≥48h）**：覆盖铜绿假单胞菌 Pseudomonas + MRSA（高危）→ 万古霉素 vancomycin + 哌拉西林-他唑巴坦（Zosyn）或头孢吡肟 cefepime。
 > - **CF + 肺炎**：必覆盖 MRSA → 静脉万古霉素（或利奈唑胺 linezolid）。

@@ -223,6 +223,7 @@ PCP 激素三指征（任一即给,room air,72h内尽早）
 ## 九、🔗 关联
 
 - 🔁 同主题错题：
+  - [[NBME11_错题本#^Q128]] PCP：IVDU → 未诊断 HIV + 双侧弥漫浸润 + 运动后降氧（93→83%）→ TMP-SMX（别选组织胞浆菌/右心心内膜炎）
   - [[NBME11_错题本#^Q093]] HIV 初治"双动作"：新诊断 → 三药 ART 人人 + CD4<200 加 PCP 预防（误选"只 ART"漏预防）— 错题（见 §三前置 callout）
   - [[mistakes/uworld-mistakes_2026-06#^Q2268]] 播散性 MAC（CD4<50 + 血培 NTM + ALP↑ → macrolide）
   - [[mistakes/uworld-mistakes_2026-06#^Q3917]] CMV 结肠炎（CD4<50 血便 vs MAC 水样的鉴别）
