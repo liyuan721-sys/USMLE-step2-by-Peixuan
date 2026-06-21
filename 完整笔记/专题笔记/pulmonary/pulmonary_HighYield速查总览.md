@@ -15,6 +15,21 @@ type: 专题笔记
 
 ---
 
+> [!note]- 目录（点击跳转）
+> 1. [[#一、PFT 判读（Pulmonary function test 肺功能）|PFT 判读]]
+> 2. [[#二、阻塞性肺病（Obstructive）|阻塞性肺病 Obstructive]]
+> 3. [[#三、限制性与间质病（ILD / 肉芽肿 / 尘肺 / 药物毒物）|限制性与间质病 ILD]]
+> 4. [[#四、肺血管（PE / 肺动脉高压）|肺血管 PE/PH]]
+> 5. [[#五、胸膜（胸腔积液 / 气胸 / 脓胸）|胸膜]]
+> 6. [[#六、肺炎（CAP / HAP / 非典型 / 吸入 / PCP）|肺炎]]
+> 7. [[#七、结核 TB（tuberculosis）|结核 TB]]
+> 8. [[#八、肺癌与孤立肺结节（lung cancer / SPN）|肺癌与 SPN]]
+> 9. [[#九、睡眠呼吸障碍（sleep-disordered breathing）|睡眠呼吸障碍]]
+> 10. [[#十、ARDS / 呼衰 / 机械通气（ventilator）|ARDS/呼衰/机械通气]]
+> 11. [[#十一、儿科气道速记（stridor 喘鸣）|儿科气道]]
+> 12. [[#十二、慢性咳嗽与杂项|慢性咳嗽与杂项]]
+> - [[#🔗 关联|关联]] · [[#✅ 复盘行动|复盘行动]]
+
 ## 一、PFT 判读（Pulmonary function test 肺功能）
 
 > [!tip] 一眼分型（先看 FEV1/FVC）

@@ -15,6 +15,17 @@ type: 专题笔记
 
 ---
 
+> [!note]- 目录（点击跳转）
+> 1. [[#一、贫血总框架（Anemia — 先看网织红 + MCV）|贫血总框架 Anemia]]
+> 2. [[#二、出血性疾病（Bleeding — 先分血小板 vs 凝血）|出血性疾病 Bleeding]]
+> 3. [[#三、高凝状态 + 抗凝药（Hypercoagulable & anticoagulants）|高凝状态 + 抗凝药]]
+> 4. [[#四、输血反应（Transfusion reactions）|输血反应]]
+> 5. [[#五、白细胞肿瘤（Leukemia / Lymphoma / Plasma cell）|白细胞肿瘤]]
+> 6. [[#六、骨髓增殖性肿瘤（MPN）|骨髓增殖性肿瘤 MPN]]
+> 7. [[#七、肿瘤急症（Oncologic emergencies）|肿瘤急症]]
+> 8. [[#八、实体瘤标志物 / 副肿瘤（Tumor markers & paraneoplastic）|肿瘤标志物 / 副肿瘤]]
+> - [[#🔗 关联|关联]] · [[#✅ 复盘行动|复盘行动]]
+
 ## 一、贫血总框架（Anemia — 先看网织红 + MCV）
 
 > [!tip] 两个分流轴（最高频"下一步"）

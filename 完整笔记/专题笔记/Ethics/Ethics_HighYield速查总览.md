@@ -16,6 +16,24 @@ type: 专题笔记
 
 ---
 
+> [!note]- 目录（点击跳转）
+> - [[#〇、终极心法（6 条搞定 90% 的题）|〇 终极心法]]
+> - [[#一、4 大伦理原则（Four Principles）|一 4 大伦理原则]]
+> - [[#二、谁说了算？决策能力与代理（Capacity → Directive → Surrogate）|二 谁说了算 Capacity→Directive→Surrogate]]
+> - [[#三、知情同意（Informed Consent）|三 知情同意 Informed Consent]]
+> - [[#四、未成年人同意（Minors）|四 未成年人同意 Minors]]
+> - [[#五、保密与例外（Confidentiality & Mandatory Reporting）|五 保密与例外]]
+> - [[#六、医疗差错披露（Disclosure of Medical Errors）|六 医疗差错披露]]
+> - [[#七、临终关怀（End-of-Life Care）|七 临终关怀]]
+> - [[#八、器官捐献与脑死亡（Organ Donation）|八 器官捐献与脑死亡]]
+> - [[#九、利益冲突 / 收礼 / 边界 / 受损同事（COI, Gifts, Boundaries）|九 利益冲突/收礼/边界]]
+> - [[#十、沟通技巧（Communication）|十 沟通技巧]]
+> - [[#十一、医疗系统：质量、安全、医保（Healthcare Systems）|十一 医疗系统]]
+> - [[#十二、研究伦理（Research Ethics）|十二 研究伦理]]
+> - [[#十三、Malpractice（医疗事故）—— 4 要素|十三 Malpractice]]
+> - [[#复习自测|复习自测]]
+> - [[#🔗 关联|关联]] · [[#✅ 复盘行动|复盘行动]]
+
 ## 〇、终极心法（6 条搞定 90% 的题）
 
 > [!success] 拿不准时按这 6 条选答案

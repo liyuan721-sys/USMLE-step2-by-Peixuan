@@ -15,6 +15,21 @@ type: 专题笔记
 
 ---
 
+> [!note]- 目录（点击跳转）
+> 1. [[#一、急性肾损伤（acute kidney injury, AKI）三分法|AKI 三分法]]
+> 2. [[#二、间质性肾炎 AIN vs ATN vs 慢性间质性肾炎 CTIN|间质性肾炎 AIN/ATN/CTIN]]
+> 3. [[#三、肾炎综合征 vs 肾病综合征（nephritic vs nephrotic）|肾炎 vs 肾病综合征]]
+> 4. [[#四、电解质急症（最危险器官 = 心脏 → 先 ECG）|电解质急症]]
+> 5. [[#五、低钠血症 (hyponatremia) 诊疗 SOP|低钠血症 SOP]]
+> 6. [[#六、酸碱（acid-base）代偿 SOP + AG + RTA|酸碱代偿 + AG + RTA]]
+> 7. [[#七、肾结石 5 型（nephrolithiasis）|肾结石 5 型]]
+> 8. [[#八、囊肿 / 多囊肾（cyst / PKD）|囊肿 / PKD]]
+> 9. [[#九、血尿 (hematuria) 与下尿路梗阻 / BPH|血尿 / BPH]]
+> 10. [[#十、肾移植（transplant）排异与术后|肾移植]]
+> 11. [[#十一、利尿剂 + 紧急透析指征|利尿剂 + 透析指征]]
+> 12. [[#十二、泌尿生殖 GU (genitourinary) 肿瘤（与外科交叉，简表）|GU 肿瘤]]
+> - [[#🔗 关联|关联]] · [[#✅ 复盘行动|复盘行动]]
+
 ## 一、急性肾损伤（acute kidney injury, AKI）三分法
 
 > [!tip] 第一决策：肾前性 (prerenal) vs 肾性 ATN vs 肾后性 (postrenal)

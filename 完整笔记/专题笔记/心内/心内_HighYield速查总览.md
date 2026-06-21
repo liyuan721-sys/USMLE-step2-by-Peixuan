@@ -15,6 +15,20 @@ type: 专题笔记
 
 ---
 
+> [!note]- 目录（点击跳转）
+> 1. [[#一、胸痛鉴别 + 冠心病（Chest pain & CAD）|胸痛鉴别 + 冠心病 CAD]]
+> 2. [[#二、心律失常（Arrhythmias）|心律失常 Arrhythmias]]
+> 3. [[#三、瓣膜病 + 杂音（Valvular disease & murmurs）|瓣膜病 + 杂音]]
+> 4. [[#四、心衰 + 心肌病（HF & cardiomyopathy）|心衰 + 心肌病]]
+> 5. [[#五、心包病 + 休克（Pericardium & shock）|心包病 + 休克]]
+> 6. [[#六、高血压（Hypertension）|高血压 Hypertension]]
+> 7. [[#七、主动脉急症 + 外周血管（Aortic & vascular）|主动脉急症 + 外周血管]]
+> 8. [[#八、感染性心内膜炎（Infective endocarditis）|感染性心内膜炎 IE]]
+> 9. [[#九、晕厥 + 运动猝死（Syncope & exertional)|晕厥 + 运动猝死]]
+> 10. [[#十、先天性心脏病（Congenital heart disease）|先天性心脏病 CHD]]
+> 11. [[#十一、复习题（自测）|复习题（自测）]]
+> - [[#🔗 关联|关联]] · [[#✅ 复盘行动|复盘行动]]
+
 ## 一、胸痛鉴别 + 冠心病（Chest pain & CAD）
 
 ### 1.1 胸痛鉴别速认（钥匙 → 病）

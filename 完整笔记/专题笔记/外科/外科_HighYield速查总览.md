@@ -15,6 +15,20 @@ type: 专题笔记
 
 ---
 
+> [!note]- 目录（点击跳转）
+> 1. [[#一、术前评估（Preoperative evaluation）|术前评估]]
+> 2. [[#二、创伤（Trauma）|创伤 Trauma]]
+> 3. [[#三、胸部急症（Thoracic emergencies）|胸部急症]]
+> 4. [[#四、液体与血制品（Fluids & blood products）|液体与血制品]]
+> 5. [[#五、术后并发症（Postoperative complications）|术后并发症]]
+> 6. [[#六、血管病（Vascular）|血管病 Vascular]]
+> 7. [[#七、颅内出血 + 骨科（Neuro-trauma & Ortho）|颅内出血 + 骨科]]
+> 8. [[#八、普外 GI（General surgery）|普外 GI]]
+> 9. [[#九、泌尿生殖肿瘤（GU oncology）|泌尿生殖肿瘤 GU]]
+> 10. [[#十、手术部位感染预防（SSI prophylaxis）|SSI 预防]]
+> 11. [[#十一、感染速查（识别钥匙 → 经验治疗）|感染速查]]
+> - [[#🔗 关联|关联]] · [[#✅ 复盘行动|复盘行动]]
+
 ## 一、术前评估（Preoperative evaluation）
 
 ### 1.1 心脏风险（最高频）

@@ -15,6 +15,19 @@ type: 专题笔记
 
 ---
 
+> [!note]- 目录（点击跳转）
+> 1. [[#一、免疫球蛋白时相（Immunoglobulin timing）|免疫球蛋白时相]]
+> 2. [[#二、疫苗程序与活/灭活（Vaccine schedule & live/killed）⭐|疫苗程序与活/灭活]]
+> 3. [[#三、超敏反应 4 型（Hypersensitivity）|超敏反应 4 型]]
+> 4. [[#四、原发性免疫缺陷（PID — 反复感染模式定位）⭐|原发性免疫缺陷 PID]]
+> 5. [[#五、自身免疫与血管炎（Vasculitis — 补体分水岭）|自身免疫与血管炎]]
+> 6. [[#六、免疫抑制剂（Immunosuppressants — 移植）|免疫抑制剂]]
+> 7. [[#七、过敏与血管性水肿（Allergy & angioedema）|过敏与血管性水肿]]
+> 8. [[#八、补体通路 & 免疫球蛋白替代（Complement & Ig replacement）|补体通路 & Ig 替代]]
+> 9. [[#九、HIV 与无脾特殊人群（HIV / asplenia）|HIV 与无脾人群]]
+> - [[#复习自测|复习自测]]
+> - [[#🔗 关联|关联]] · [[#✅ 复盘行动|复盘行动]]
+
 ## 一、免疫球蛋白时相（Immunoglobulin timing）
 
 > [!tip] 核心钥匙

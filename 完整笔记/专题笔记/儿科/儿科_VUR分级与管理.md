@@ -30,6 +30,9 @@ type: 专题笔记
 
 ## 二、分级（VCUG 分级 I–V）⭐
 
+![[{088875A2-5B5E-43AA-88F7-12A3C4C67D59}.png]]
+*VUR I–V 分级图（VCUG 排尿性膀胱尿道造影）：Normal 正常 → Grade I 反流仅达输尿管 → II 达肾盂肾盏、无扩张 → III 输尿管/肾盂轻中度扩张+肾盏穹窿轻钝 → IV 肾盏变钝 (blunting of calyces)、乳头压迹尚存 → V 重度扩张迂曲、乳头压迹消失。*
+
 | 级别 | 解剖（VCUG 所见）| 严重度 |
 |---|---|---|
 | **I** | 反流仅达**输尿管**，无扩张 | mild |
@@ -41,6 +44,12 @@ type: 专题笔记
 > [!warning] 考试锚点
 > **肾盏变钝 (blunting of calyces) = 结构损伤 = severe (grade III–IV)**。
 > 题干一旦给"calyceal blunting / 集合系统扩张" → 判 severe → 管理走预防性抗生素 ± 手术线，**不是单纯观察**。
+
+> [!info] 分级边界：I–V 只量"反流"，PUV 本身不分级
+> 这套 I–V 分级**只属于 VUR (vesicoureteral reflux 膀胱输尿管反流)**——量的是"尿往上反流到多高 + 集合系统扩张程度"。
+> - **PUV (posterior urethral valves 后尿道瓣膜)** 的本质是**梗阻 obstruction**，不是反流 → **本身不用 I–V 分级**；其严重度看肾功能 (血肌酐 Cr / 肾发育不良)、膀胱功能、双侧肾积水程度。
+> - 唯一交叉：PUV 可**继发 secondary VUR**（梗阻 → 膀胱内压↑ → 压垮 UVJ 输尿管膀胱连接处 ureterovesical junction）；那个**继发的反流成分**才借用 I–V 描述，但 PUV 这个病不用，且处理**先解除梗阻（导尿 → 瓣膜消融）**。
+> - 一句话：**别拿反流级 (grade I–V) 去套 PUV**。呼应 §五 [[#五、易混陷阱（5 选 1 鉴别）|PUV vs VUR 对比]] 的 Primary vs Secondary——PUV 正是 secondary VUR 的典型病因。
 
 ---
 
@@ -91,6 +100,40 @@ type: 专题笔记
 | **Observation + serial urine cultures** | ❌ 无症状患者**不推荐**连续尿培养（污染致假阳性 → 滥用抗生素/耐药）|
 | **Prophylactic antibiotic** ✅ | severe VUR 正解：保尿无菌防复发 pyelo |
 
+> [!warning] PUV vs VUR 一刀切 + 性别纠正（NBME 高频陷阱）⭐
+> 婴儿尿路畸形最爱混的两病——**靠 VCUG (voiding cystourethrography 排尿性膀胱尿道造影) 表现一刀切**：
+>
+> | 维度 | PUV (posterior urethral valves 后尿道瓣膜) | VUR (vesicoureteral reflux 膀胱输尿管反流) |
+> |---|---|---|
+> | 本质 | **梗阻** obstruction（后尿道膜性残余堵出口）| **逆流** reflux（尿从膀胱倒爬输尿管/肾盂）|
+> | VCUG | 后尿道扩张 + 膀胱壁小梁化/增厚 | 造影剂**逆行上爬到输尿管/肾盂**（定义性）|
+> | 肾超声 | 膀胱壁厚/胀大 + **双侧肾积水**（产前可羊水过少 oligohydramnios）| 可正常（本题即正常）|
+> | 性别 | **男孩专属**（解剖性，女孩无后尿道瓣膜结构）| **男女都有**（非女孩专属）|
+>
+> **一句话**：**PUV 看"堵"（出口梗阻），VUR 看"倒流"（往上反）**。
+>
+> > [!danger] 性别记忆纠正
+> > - **PUV = 男孩 100% 专属**（瓣膜在前列腺部尿道，记死）。
+> > - **VUR ≠ 女孩专属**！男女都会——"女孩多"指的是 **UTI (urinary tract infection 尿路感染) 总体发病**（婴儿期后女孩尿道短易感），不是 VUR 本身的性别限定；**产前/婴儿期原发 VUR 反而男婴偏多**。
+> > - NBME 爱用 **男婴 VUR**（+ "未行包皮环切"干扰项）来埋"VUR=女孩"这个误区——见 [[NBME11_错题本#^Q026]]（4 月龄男婴，VCUG 反流 → 预防性抗生素）。
+
+![[{4051A75F-4B42-4F7E-88A9-312799B449C9}.png]]
+*后尿道瓣膜 PUV (posterior urethral valves)：后尿道膜性梗阻 (urethra obstructed by posterior urethral membrane) → 膀胱壁增厚 (hypertrophied bladder wall) + 膀胱胀大 (distended bladder) + 双侧肾积水 (hydronephrosis)/输尿管积水 (hydroureter) + 继发尿液反流 (urinary reflux)；对照左侧 Normal 正常解剖。*
+
+> [!tip] PUV 临床处理（顺序记死：稳 → 确诊 → 解梗阻 → 随访）⭐
+> PUV 是**男婴最常见的膀胱出口梗阻 (bladder outlet obstruction)**，处理逻辑 = **先快速减压、再根治梗阻**：
+>
+> | 步骤 | 处理 | 要点 |
+> |---|---|---|
+> | **1. 诊断** | 产前超声 (bilateral hydronephrosis + 膀胱壁厚/胀 + 羊水过少 oligohydramnios) → 出生后 **VCUG 确诊**（后尿道扩张） | VCUG 既确诊又看是否继发 VUR |
+> | **2. 初始稳定** | **立即导尿减压**（经尿道 Foley / 耻骨上膀胱造瘘管 suprapubic catheter）+ 纠正电解质/肾功 + 治尿脓毒症 | 第一步是**引流解压**，不是马上手术 |
+> | **3. 根治** | **膀胱镜下经尿道瓣膜消融 (cystoscopic transurethral valve ablation)** | 确定性治疗 = 内镜切瓣膜 |
+> | **4. 早产/太小不能消融** | 暂行**膀胱造口 vesicostomy** 临时尿流改道 | 待长大再消融 |
+> | **5. 长期随访** | 肾功能（部分仍进展 **CKD 慢性肾病 chronic kidney disease**）、**"valve bladder" 膀胱功能障碍**、复发 UTI、血压 | 消融≠一劳永逸 |
+>
+> > [!danger] 对照 Q026 的 VUR 处理别混
+> > **PUV（梗阻）→ 导尿 → 瓣膜消融（解梗阻）**；**原发 severe VUR（反流）→ 每日预防性抗生素 ± 输尿管再植**。两条线机制不同：一个解"堵"，一个保"尿无菌"。
+
 ---
 
 ## 六、Memory Hook ⭐
@@ -135,5 +178,6 @@ type: 专题笔记
   - [[完整笔记/Peixuan分科笔记/感染]]（儿童 febrile UTI 病原 E. coli + 经验治疗）
   - [[完整笔记/专题笔记/肾脏/肾脏_肾结石5型对照]]（梗阻/反流 → hydronephrosis 共同通路）
 - 🌱 TODO（待生成衍生增量）：
-  - 累积儿科泌尿题（posterior urethral valves / 遗尿 enuresis / UTI workup 年龄阈值）→ 扩本笔记为"儿科泌尿系畸形+感染"系列
-  - 遇 secondary VUR（PUV / 神经源性膀胱）专题题 → 补 secondary 段
+  - ✅ PUV（posterior urethral valves 后尿道瓣膜）已补：§五 PUV vs VUR 对比 + 解剖图 + 临床处理 5 步 + §二分级边界（由 Q026 触发，2026-06-21）
+  - 累积儿科泌尿题（遗尿 enuresis / UTI workup 年龄阈值）→ 扩本笔记为"儿科泌尿系畸形+感染"系列
+  - 遇 secondary VUR（**神经源性膀胱 neurogenic bladder** / 膀胱功能障碍）专题题 → 补 secondary 段（PUV 部分已成体系）
