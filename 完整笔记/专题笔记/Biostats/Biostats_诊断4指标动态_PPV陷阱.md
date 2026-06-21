@@ -235,7 +235,7 @@ Stem 说 "PPV 低"
   - [[完整笔记/专题笔记/USMLE/USMLE_患者安全与质量改进工具]] §13.9.1 Falls Prevention（high prevalence 群体 + quantitative score 低 PPV 案例 — Q107151 / Q107152 fall risk tool 类经典 stem）
 - 🌱 TODO：
   - 累积 3+ 道 PPV / Sp 联动陷阱题后回填具体 Q 锚
-  - 累积 Likelihood Ratio (LR+ / LR−) 实题 → 考虑扩 §LR 章节或独立 `Biostats_似然比与pretest_probability`
+  - ✅ 已建独立姊妹篇 [[完整笔记/专题笔记/Biostats/Biostats_似然比与pretest_probability]]（LR+ / LR− + pretest/posttest 贝叶斯更新）；本篇静态指标 ↔ 那篇动态更新，接口 = posttest(阳性) = PPV
   - 累积 ROC / AUC 实题 → 扩展第 11 节（或独立 `Biostats_ROC_AUC_cutoff选择`）
 
 ---
