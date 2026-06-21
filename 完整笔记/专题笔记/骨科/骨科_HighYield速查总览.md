@@ -137,6 +137,19 @@ created: 2026-06-12
 ![[L10949.jpg]]
 *牵拉肘 (Nursemaid's elbow / 桡骨头半脱位 radial head subluxation)：环状韧带 (annular ligament) 滑过桡骨头嵌顿；前臂**旋后 + 屈肘**复位。*
 
+> [!warning] 牵拉肘"复位优先 vs 何时拍片"决策（派生自 NBME11A Q039 错题）
+> 典型牵拉肘 (nursemaid's elbow, 桡骨头半脱位) = **临床诊断**，**直接手法复位，不先拍片**。
+>
+> | 表现 | 下一步 |
+> |---|---|
+> | **典型**：幼儿（1–4 岁）+ 突然拒动患肢 + **肘屈曲、前臂旋前位** + 无肿胀/瘀斑/畸形 + 神经血管完整 | **直接复位**（旋后+屈肘 supination+flexion，或 过度旋前 hyperpronation）；复位成功常可触及弹响 |
+> | 复位**失败** 或 表现不典型 | 再拍 **X 线 (X-ray)** 找隐匿骨折 |
+> | 明显外伤 / 肿胀 / 压痛 / 畸形 | 先 X 线评估骨折 |
+> | 发热 + 红肿热 + 拒负重 | 排查化脓性关节炎 (septic arthritis, 脓毒性关节炎)，关节穿刺 |
+>
+> ⚠️ **陷阱**：① "家长不记得外伤"是牵拉肘常态（牵拉史常缺失），**不要**因此跳去怀疑虐待。② **Skeletal survey（全身骨骼摄片）只在怀疑非意外创伤 (NAT, non-accidental trauma / child abuse, 儿童虐待) 时才做**——经典牵拉肘加 skeletal survey = 过度检查（Q039 误选此项）。③ 见"疼痛拒动"就反射拍片是最强干扰（选项 D 只拍肘+前臂 X 线"看着最稳妥"但错）。
+> 🔁 [[NBME11_错题本#^Q039]]
+
 ![[骨科_肱骨髁上脂肪垫征.png]]
 *隐匿性肱骨髁上骨折 (occult supracondylar humerus fracture)：anterior + posterior fat pad sign 脂肪垫征提示关节积血/隐匿骨折。*
 

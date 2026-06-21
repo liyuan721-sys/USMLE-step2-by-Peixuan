@@ -5134,8 +5134,10 @@ source: GPT/Codex full run
 > - stem_pattern: head_trauma_polyuria_hypernatremia_low_uosm
 > - high_yield_score: 5/5
 
-> [!example]- NBME11A Q093 感染 / HIV 初治加 PCP 预防（CD4<200）
+> [!danger]- NBME11A Q093 感染 / HIV 初治加 PCP 预防（CD4<200）【❌做错】
 > ^Q093
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q093]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 >

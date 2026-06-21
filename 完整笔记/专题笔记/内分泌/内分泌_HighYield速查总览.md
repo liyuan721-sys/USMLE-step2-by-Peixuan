@@ -350,6 +350,7 @@ PTH → ↑骨吸收 + ↑肾钙重吸收 + **↓磷 (phosphate)**。
   - [[mistakes/uworld-mistakes_2026-05#^Q4848]] 高泌乳素鉴别（药物 vs 瘤 vs 甲减）
   - [[mistakes/uworld-mistakes_2026-05#^Q2353]] AN 住院指征 vs euthyroid sick（甲状腺激素模式）
   - [[NBME11_错题本#^Q033]] 原醛模式 = 高醛固酮 + 低肾素（误选高肾素=继发）
+  - [[NBME11_错题本#^Q044]] 异位 ACTH 库欣（吸烟+肺结节+紫纹+低钾）→ 先 24h 尿皮质醇确认；误选嗜铬细胞瘤 metanephrines（变肾上腺素）— 错题（见 §2.1 库欣三步走）
   - [[mistakes/uworld-mistakes_2026-05#^Q20217]] 低血糖 insulin/C-peptide 鉴别
   - [[mistakes/uworld-mistakes_2026-05#^Q2796]] DKA 血气（AG 代酸 + 呼吸代偿）
   - [[mistakes/uworld-mistakes_2026-06#^Q18467]] 双膦酸盐颌骨坏死 ONJ

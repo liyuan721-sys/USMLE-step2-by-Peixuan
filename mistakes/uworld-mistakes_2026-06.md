@@ -2764,7 +2764,7 @@ type: 错题数据源
 > - 🔁 同主题错题：
 >   - （首张脑膜炎球菌血症 / DIC 卡）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/感染]] / [[完整笔记/Peixuan分科笔记/hematology oncology]]（DIC）
-> - 📚 专题：[[完整笔记/专题笔记/感染/感染_抗生素高频20场景秒杀]] §二 #5（脑膜炎经验：Vanc + Ceftri）
+> - 📚 专题：[[完整笔记/专题笔记/感染/感染_抗生素高频20场景秒杀]] §二 #5（脑膜炎经验：Vanc + Ceftri）/ [[完整笔记/专题笔记/血液/血液_出凝血四项判读]]（DIC 在四维判读表：PT↑ PTT↑ 板↓ 纤维蛋白原↓）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/hematology oncology]]（DIC 实验室：板↓/PT-PTT↑/纤维蛋白原↓/D-二聚体↑）/ [[完整笔记/Peixuan分科笔记/endocrine]]（Waterhouse-Friderichsen 肾上腺出血）
 > - 🌱 TODO：累积紫癜/瘀点鉴别题（脑膜炎球菌 DIC / HSP / ITP / TTP / SLE）→ 生成 [[完整笔记/专题笔记/感染/感染_紫癜瘀点鉴别]]
 > 

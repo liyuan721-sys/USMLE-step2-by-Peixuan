@@ -63,6 +63,14 @@ Step 2：用一条鉴别钥匙定唯一病原（见 §四-六）
 
 ---
 
+> [!danger] HIV 初治"双动作"——别只做一半（派生自 NBME11A Q093 错题）
+> 新诊断 HIV (human immunodeficiency virus, 人类免疫缺陷病毒) 的处理永远是**两件事一起**：
+> 1. **所有人立即启动三药联合 ART (antiretroviral therapy, 抗逆转录病毒治疗)** —— 无论有无症状、无论 CD4 高低、无论病毒载量；"无症状"不是观望理由。
+> 2. **按 CD4 阈值加机会性感染 (OI, opportunistic infection) 一级预防** —— CD4 <200/mm³ → PCP (Pneumocystis jirovecii pneumonia, 耶氏肺孢子菌肺炎) 预防，一线 TMP-SMX (trimethoprim-sulfamethoxazole, 复方磺胺甲噁唑)。
+>
+> ⚠️ 当题目把"ART"和"PCP 预防"拆成独立选项，**正确答案常是"两个都要"**：只选 ART（漏预防）或只选预防（漏 ART）都是设计好的陷阱。两药 ART (two-drug) 也错——增加耐药风险，初始标准是三药。
+> 🔁 [[NBME11_错题本#^Q093]]
+
 ## 三、一级预防阈值 + 何时停 ⭐（高频）
 
 > [!warning] 预防 = "在病原能感染之前就开始吃药"
@@ -215,6 +223,7 @@ PCP 激素三指征（任一即给,room air,72h内尽早）
 ## 九、🔗 关联
 
 - 🔁 同主题错题：
+  - [[NBME11_错题本#^Q093]] HIV 初治"双动作"：新诊断 → 三药 ART 人人 + CD4<200 加 PCP 预防（误选"只 ART"漏预防）— 错题（见 §三前置 callout）
   - [[mistakes/uworld-mistakes_2026-06#^Q2268]] 播散性 MAC（CD4<50 + 血培 NTM + ALP↑ → macrolide）
   - [[mistakes/uworld-mistakes_2026-06#^Q3917]] CMV 结肠炎（CD4<50 血便 vs MAC 水样的鉴别）
   - （等积累 PCP / Toxo / Crypto / 食管炎错题继续回流本表）

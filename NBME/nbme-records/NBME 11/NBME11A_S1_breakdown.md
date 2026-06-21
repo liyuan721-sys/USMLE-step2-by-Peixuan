@@ -4542,6 +4542,8 @@ source: GPT/Codex full run
 > [!example]- NBME11A Q038 免疫疫苗 / WAS三联征（湿疹感染血小板低）
 > ^Q038
 >
+> 🔁 错题卡:[[NBME11_错题本#^Q038]](做对但不确定 → 个性化追踪)
+>
 > ### 💡 一句话锁定
 > > [!tip] **男婴 + recurrent otitis + eczema + petechiae + platelets 25,000**，这是教科书级 **Wiskott-Aldrich syndrome** 三联征。
 >
@@ -4669,8 +4671,10 @@ source: GPT/Codex full run
 > - stem_pattern: male_infant_eczema_petechiae_infections
 > - high_yield_score: 5/5
 
-> [!example]- NBME11A Q039 骨科 / 护士肘复位（桡骨头半脱位）
+> [!danger]- NBME11A Q039 骨科 / 护士肘复位（桡骨头半脱位）【❌做错】
 > ^Q039
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q039]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > > [!tip] **4 岁小孩突然不用手臂 + 肘屈曲前臂旋前位 + 无肿胀无畸形**，典型是 **radial head subluxation**；下一步直接做复位，而不是先拍片。
@@ -5286,8 +5290,10 @@ source: GPT/Codex full run
 > - stem_pattern: post_contrast_creatinine_rise
 > - high_yield_score: 5/5
 
-> [!example]- NBME11A Q044 呼吸/内分泌 / 肺癌异位 ACTH 所致库欣
+> [!danger]- NBME11A Q044 呼吸/内分泌 / 肺癌异位 ACTH 所致库欣【❌做错】
 > ^Q044
+>
+> 🔁 错题卡:[[NBME11_错题本#^Q044]](做错 → 个性化错位分析)
 >
 > ### 💡 一句话锁定
 > > [!tip] **肺结节 + 吸烟史 + 紫纹 + 低钾 + 体重增加/高血压**，先当 **Cushing syndrome** 处理；在活检之外，下一步先 **确认高皮质醇**，即 **24 小时尿皮质醇**。

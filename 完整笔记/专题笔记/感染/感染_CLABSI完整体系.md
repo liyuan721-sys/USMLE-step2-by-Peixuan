@@ -131,12 +131,17 @@ HAC（Hospital-Acquired Condition CMS 不报销列表）
 
 ### 5.1 诊断 Workup
 
-1. **取双血培养**：
-   - 一套从 **peripheral vein** 抽
-   - 一套从 **central line** 抽（如果还在用）
+1. **取双血培养（paired blood cultures）**：
+   - 一套从 **peripheral vein**（外周静脉另扎一针）抽
+   - 一套从 **central line**（中心静脉导管管腔）抽（如果还在用）
 2. 若拔管 → 送 **导管尖端培养**（半定量 / 定量）
 3. 评估其他感染源（尿 / 痰 / 伤口）排除二次 BSI
 4. 严重 / S. aureus / Candida → 评估转移灶（**TTE / TEE** 排除 endocarditis；眼底镜排除 endophthalmitis）
+
+> [!tip] "导管"= 抽血来源，不是拔管 ⭐
+> 速查表/口诀里"**导管 + 外周血培养**"的"导管"指 **从中心静脉导管管腔抽血做培养（catheter-drawn blood culture, 导管血培养）**，是诊断动作的一部分 —— **不是拔管 (line removal)**。
+> - 配对原理：导管是感染源时管腔菌量 >> 外周 → 导管血**先报阳** → 用 **DTP ≥ 2h** 证实（见 §5.2）。
+> - 顺序：**先抽配对血培养（导管 + 外周）→ 再上经验性抗生素**；拔管是另一步，仅在 §6.2「5 必拔条件」时才做（血流动力学稳定的疑似 CLABSI 不无脑拔管）。
 
 ### 5.2 微生物诊断标准（CRBSI 严格定义）⭐
 
