@@ -103,12 +103,12 @@ type: 专题笔记
 
 > [!info] 选药速查（中英双语）
 >
-> | 分层 | 一线方案 |
-> |---|---|
-> | **门诊·健康无共病** | 口服单药：**阿莫西林 amoxicillin** / **多西环素 doxycycline** / 大环内酯（**阿奇霉素 azithromycin**，仅在当地耐药率低时）|
-> | **门诊·有共病**（心/肺/肝/肾病、糖尿病、酗酒、恶性肿瘤、无脾、免疫抑制）| **呼吸氟喹诺酮单药**（左氧氟沙星 levofloxacin / 莫西沙星 moxifloxacin）**或** β-内酰胺（阿莫西林-克拉维酸 amoxicillin-clavulanate / 头孢菌素）+ 大环内酯（阿奇霉素 azithromycin）|
-> | **住院·非 ICU** | **头孢曲松 ceftriaxone + 阿奇霉素 azithromycin**，或呼吸氟喹诺酮单药 |
-> | **ICU** | β-内酰胺（头孢曲松 ceftriaxone / 氨苄西林-舒巴坦 ampicillin-sulbactam）+ 大环内酯（阿奇霉素 azithromycin）**或** + 呼吸氟喹诺酮；按风险加 MRSA / 铜绿覆盖 |
+> | 分层 | 给药途径 | 一线方案 | 用药原则 |
+> |---|---|---|---|
+> | **门诊·健康无共病** | **口服 PO** | **amoxicillin** / **doxycycline** / macrolide（**azithromycin**，仅在当地耐药率低时）| 窄谱起步、只需盖典型菌；疗程最短 5 天，且退热 + 临床稳定 48–72h 后才停 |
+> | **门诊·有共病**（心/肺/肝/肾病、糖尿病、酗酒、恶性肿瘤、无脾、免疫抑制）| **口服 PO** | **respiratory fluoroquinolone 单药**（levofloxacin / moxifloxacin）**或** β-lactam（amoxicillin-clavulanate / cephalosporin）+ macrolide（azithromycin）| 必须加盖非典型 + 耐药肺炎球菌；单药首选呼吸 FQ（一药全包，省事）|
+> | **住院·非 ICU** | **静脉 IV**（稳定后转 PO）| **ceftriaxone + azithromycin**，或 respiratory fluoroquinolone 单药 | β-lactam 不盖非典型 → 必配大环内酯/FQ；48–72h 稳定 + 能口服 → IV→PO 序贯，早出院 |
+> | **ICU** | **静脉 IV** | β-lactam（ceftriaxone / ampicillin-sulbactam）+ macrolide（azithromycin）**或** + respiratory fluoroquinolone；按风险加 MRSA / 铜绿覆盖 | 强制双药联合（不可单药）；按 major/minor 风险加挂 MRSA（vancomycin/linezolid）/铜绿（抗铜绿 β-lactam）|
 >
 > **核心逻辑**：所有住院方案都"典型肺炎链球菌 + 非典型菌一次覆盖"。门诊有共病也升级到能压非典型 + 耐药菌的方案。
 
