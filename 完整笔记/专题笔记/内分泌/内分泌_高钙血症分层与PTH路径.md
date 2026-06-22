@@ -187,6 +187,7 @@ type: 专题笔记
 ## 🔗 关联
 
 - 🔁 同主题错题：
+  - [[NBME11_错题本#^Q072]] 高钙 workup 第一步 = 测 PTH 分流（本笔记源卡 · NBME11A Q072）
   - [[mistakes/uworld-mistakes_2026-05#^Q2169]] 重度高钙急救（先 NS + 降钙素，不先骨髓活检；🔴 反复错原卡）
   - [[mistakes/uworld-mistakes_2026-06#^Q2169-R0605]] 同上·第 3 次同坑追踪卡
   - [[mistakes/uworld-mistakes_2026-06#^Q3151]] 慢性高钙四联 → PHPT 背景上的 CPPD 假性痛风

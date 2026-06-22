@@ -239,7 +239,7 @@ PCP 激素三指征（任一即给,room air,72h内尽早）
   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（CNS 淋巴瘤 EBV / Kaposi 肉瘤 HHV-8）
 - 🌱 TODO（待生成衍生）：
   - 等积累 PCP 专题错题（诊断 induced sputum/BAL 银染 + 激素指征 + LDH）→ 可拆 [[完整笔记/专题笔记/感染/感染_PCP诊疗]]
-  - 等积累 HIV 初始评估 / ART 启动 / IRIS 错题 → 生成 [[完整笔记/专题笔记/感染/感染_HIV初始管理与ART]]
+  - ✅ 已建 [[完整笔记/专题笔记/感染/感染_HIV初始管理与ART]]（HIV 初始评估 + ART 启动/方案 + IRIS；2026-06-22 由 NBME11 Q093 驱动）
 
 ---
 

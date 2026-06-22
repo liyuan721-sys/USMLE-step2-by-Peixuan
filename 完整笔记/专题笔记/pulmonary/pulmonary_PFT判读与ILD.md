@@ -145,6 +145,31 @@ type: 专题笔记
 > ![[{53C136B1-64D0-44B9-8AAB-E4F09A248DF7}.png]]
 > ↑ **慢性 HP**：弥漫网状间质影（常不可逆）。
 
+> [!info]- 间质性肺炎也会"累及肺泡"——间质 vs 肺泡填充谱（呼应 PCP「alveolar infiltrate」困惑，[[NBME11_错题本#^Q128]]）
+> **"间质性 (interstitial)"和"肺泡填充 (alveolar/airspace filling)"不是互斥的。** 肺泡壁（间质）与肺泡腔解剖上紧贴，炎症/渗出常同时累及两侧；**磨玻璃影 (GGO, ground-glass opacity) 本身就是肺泡级别的部分填充**。所以影像写 "alveolar infiltrate / 实变 (consolidation)" **绝不排除**"间质性肺炎"。
+>
+> **特发性间质性肺炎 (IIPs, idiopathic interstitial pneumonias) 谁更"肺泡填充"：**
+>
+> | 病 | 间质 vs 肺泡 | 钩子 |
+> |---|---|---|
+> | **UIP / IPF（寻常型间质性肺炎 / 特发性肺纤维化）** | 纯间质纤维化（最"间质"）| 网状 + 蜂窝（基底外周），气腔填充最少 |
+> | **NSIP（非特异性间质性肺炎 nonspecific interstitial pneumonia）** | 间质为主 + 磨玻璃 | 均匀磨玻璃、结缔组织病相关 |
+> | **机化性肺炎 OP / COP（organizing / cryptogenic organizing pneumonia，旧称 BOOP）** | **肺泡腔填充**（肉芽组织 Masson 小体）| **游走性斑片实变**、抗生素无效、激素有效；反晕征 |
+> | **弥漫性肺泡损伤 DAD（diffuse alveolar damage）= AIP（急性间质性肺炎 / Hamman-Rich）/ ARDS** | **肺泡填充**（透明膜 hyaline membrane）| 弥漫实变/磨玻璃 + 急性呼衰 |
+> | **脱屑性间质性肺炎 DIP（desquamative interstitial pneumonia）** | **肺泡腔填充**（巨噬细胞）| 吸烟者、磨玻璃 |
+> | **呼吸性细支气管炎相关 ILD（RB-ILD, respiratory bronchiolitis–ILD）** | 细支气管 + 肺泡 | 吸烟者、小叶中心结节 |
+> | **淋巴细胞性间质性肺炎 LIP（lymphocytic interstitial pneumonia）** | 间质 + 部分气腔 | 干燥综合征 / HIV、囊 + 磨玻璃 |
+>
+> **非"特发性"但常被叫"间质性"且填充肺泡的：**
+> - **感染性"间质性"肺炎**：**PCP（耶氏肺孢子菌肺炎）、CMV（巨细胞病毒 cytomegalovirus）、病毒（流感 influenza / COVID）、支原体 Mycoplasma** —— 病理 = 间质浸润 + 肺泡渗出 → 影像磨玻璃/实变（**这就是 PCP 既"间质"又"alveolar infiltrate"的原因**）
+> - **过敏性肺炎 HP（hypersensitivity pneumonitis）**：细支气管中心 + 肺泡
+> - **嗜酸性肺炎 eosinophilic pneumonia（急/慢性）**：肺泡 + 间质嗜酸细胞；慢性 = 外周实变"肺水肿的照相负片 (photographic negative of pulmonary edema)"
+> - **肺泡蛋白沉积症 PAP（pulmonary alveolar proteinosis）**：纯肺泡填充（铺路石征 crazy paving）
+> - **结节病 sarcoidosis**：多为间质/淋巴管周；少数"肺泡型 sarcoid"呈实变
+>
+> > [!danger] 一句话锁定
+> > **"间质性肺病 (ILD)" = 慢性纤维化谱（UIP/NSIP…）；"间质浸润影像模式" = 可由感染/急性病造成（PCP/CMV/OP/DAD/嗜酸/PAP）。两者别混。** 影像见弥漫"肺泡"浸润 + 免疫抑制 + 运动性降氧 → 先想感染（PCP），别因"alveolar"二字把它排掉。
+
 ---
 
 ## 四、石棉相关疾病谱（Asbestos）⭐
@@ -190,6 +215,7 @@ Velcro爆裂音+胸片可正常 → HRCT优先(+全套PFT)
   - [[mistakes/uworld-mistakes_2026-06#^Q20411]] 早期 ILD → HRCT（Velcro 爆裂音 + 胸片正常）做对但巩固
   - [[mistakes/uworld-mistakes_2026-06#^Q3021]] 石棉+吸烟→支气管肺癌（vs 间皮瘤；空洞肿块）
   - [[mistakes/uworld-mistakes_2026-06#^Q4297]] 肺心病（PAH/肺血管 DLCO 对照）✅做对
+  - [[NBME11_错题本#^Q128]] PCP「alveolar infiltrate」困惑 → §三 间质 vs 肺泡填充谱源题
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/pulmonary]]
 - 🧩 专题：
   - [[完整笔记/专题笔记/pulmonary/pulmonary_哮喘Asthma]]（§八 Asthma vs COPD 的 DLCO 鉴别）
@@ -209,6 +235,7 @@ Velcro爆裂音+胸片可正常 → HRCT优先(+全套PFT)
 
 ## 版本记录
 
+- **v1.3**（2026-06-22）：§三 末尾（§四前）新增可折叠「间质 vs 肺泡填充谱」callout（[[NBME11_错题本#^Q128]] PCP「alveolar infiltrate」困惑驱动）—— IIPs 谁更肺泡填充表（UIP/IPF 最间质 → OP/COP·DAD/AIP·DIP·RB-ILD·LIP 渐肺泡）+ 非特发"间质性"且填肺泡谱（感染 PCP/CMV/病毒/支原体·HP·嗜酸性·PAP·肺泡型结节病）+ 「ILD 慢纤维化谱 ≠ 间质浸润影像模式」一句锁定。
 - **v1.2**（2026-06-16）：§三 HRCT 适应证 callout 后新增可折叠「机制深挖」callout（[[mistakes/uworld-mistakes_2026-06#^Q20411]]）—— 讲清三个"为什么"：① 吸气末 Velcro 爆裂音机制（僵硬肺泡呼气末塌陷→吸气高压弹开，结构性故咳不变、早于影像）② 胸片不敏感 + HRCT 补盲三技术（薄层/锐利重建/俯卧位去坠积伪影）③ 静息 SpO₂ 正常的弥散储备原理（运动去饱和=劳力气短本质，DLCO 最早掉）。补结论之"所以然"，不重复已有结论。
 - **v1.1**（2026-06-14）：新增 §四 石棉相关疾病谱（[[mistakes/uworld-mistakes_2026-06#^Q3021]]：石棉+吸烟 59 倍协同→支气管肺癌；疾病谱表 + 支气管肺癌 vs 间皮瘤 + 胸膜斑≠间皮瘤/空洞肿块=癌两陷阱）+ §三补 HRCT 适应证 callout（[[mistakes/uworld-mistakes_2026-06#^Q20411]]：Velcro 爆裂音+胸片可正常→HRCT 优先；vs CHF 湿啰音）。Memory Hook 同步。
 - **v1**（2026-06-14）：做对题 [[mistakes/uworld-mistakes_2026-06#^Q12459]]（IPF 限制型 PFT）驱动新建。框架 = 三步判读法（FEV₁/FVC→TLC→DLCO）+ 五大慢性肺病 PFT 指纹表（哮喘/COPD/ILD/PAH/胸壁）+ IPF 识别与诱因排查 + 干扰项辨析。素材：pulmonary 分科笔记（只读）。
