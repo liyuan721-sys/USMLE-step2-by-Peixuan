@@ -228,6 +228,8 @@ B  BP low 低血压
 65 age ≥65 岁
 ```
 
+> 细则（各项阈值 + PSI + ICU major/minor + 门诊/住院/ICU 三档选药决策树）见专题：[[完整笔记/专题笔记/pulmonary/pulmonary_CAP门诊与住院分层]]
+
 ### 6.2 CAP 经验治疗 + 特殊人群
 
 > [!tip] CAP 经验用药（社区获得性肺炎 community-acquired pneumonia）——先按严重度分层再选 ⭐

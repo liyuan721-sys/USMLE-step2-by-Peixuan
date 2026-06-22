@@ -3125,7 +3125,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等肺炎题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_CAP门诊与住院分层]]
+> - ✅ 已建（2026-06-22）：[[完整笔记/专题笔记/pulmonary/pulmonary_CAP门诊与住院分层]]（CURB-65 细则 + PSI + ICU major/minor + 门诊/住院/ICU 三档选药决策树）
 >
 > **同类题**：
 > -

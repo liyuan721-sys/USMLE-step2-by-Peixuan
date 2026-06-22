@@ -3631,7 +3631,7 @@ set: NBME11A
 > - 🔁 同主题错题：(本套首张门诊 CAP 题)
 > - 📚 主笔记：[[NBME11A_S2_breakdown#^Q076]]（官方详解）/ [[完整笔记/专题笔记/pulmonary/pulmonary_HighYield速查总览]]（CAP 分层，本卡增补/反链）/ [[完整笔记/Peixuan分科笔记/pulmonary]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/感染]]（CAP 病原与抗生素）
-> - 🌱 TODO：累积肺炎分层题 → 建 [[完整笔记/专题笔记/pulmonary/pulmonary_CAP门诊与住院分层]]（兑现 bd Q076 TODO）
+> - ✅ 已建专题：[[完整笔记/专题笔记/pulmonary/pulmonary_CAP门诊与住院分层]]（2026-06-22 兑现 bd Q076 TODO — CURB-65 细则 + PSI + ICU major/minor + 决策树）
 >
 > ## ✅ 复盘行动
 > - [ ] 默写 CAP 门诊 vs 住院分层 + 各档一线药
