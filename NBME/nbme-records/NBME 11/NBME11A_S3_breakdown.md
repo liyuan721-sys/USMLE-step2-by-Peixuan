@@ -1386,7 +1386,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等功能神经障碍题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_功能性神经症状障碍：distractibility 与 inconsistency]]
+> - ✅ 已建（2026-06-22）→ [[完整笔记/专题笔记/psych/psych_功能性神经症状障碍]]（五大鉴别 + distractibility/entrainment/Hoover 阳性征 + 治疗沟通 + stem 模板）
 >
 > **同类题**：
 > - 
@@ -1503,7 +1503,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等婴儿咳嗽题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_婴儿阵发性咳嗽：百日咳、RSV 与 croup 鉴别]]
+> - ✅ 已建 [[完整笔记/专题笔记/儿科/儿科_婴儿阵发性咳嗽鉴别]]（2026-06-22，兑现 bd Q113 TODO）
 >
 > **同类题**：
 > - 
