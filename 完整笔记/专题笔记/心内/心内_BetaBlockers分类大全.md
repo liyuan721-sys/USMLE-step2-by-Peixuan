@@ -479,7 +479,7 @@ Vasodilatory BB（carvedilol / labetalol / nebivolol）
   - [[完整笔记/Peixuan分科笔记/眼科]]（青光眼局部 timolol）
   - [[完整笔记/专题笔记/USMLE/USMLE_实验室指纹诊断大全]] §5.8（BB 中毒指纹 — 慢心率 + 低血糖 + glucagon 解毒）
 - 🌱 TODO（待生成衍生 / 待扩充本笔记）：
-  - 收集 HFrEF 完整 GDMT 题（ACEI/ARNI + BB + MRA + SGLT2i）→ 生成 [[完整笔记/专题笔记/心内/心内_HFrEF四联药物方案]]（启动顺序与禁忌）
+  - ✅ 已建 [[完整笔记/专题笔记/心内/心内_HFrEF四联药物方案]]（HFrEF 完整 GDMT 总表 + 启动顺序与禁忌，2026-06-22）；继续收集 GDMT 错题回填其 🔁 锚点
   - 收集嗜铬 / 甲亢风暴 / 孕期 HTN 题积累 → 强化本笔记 §七反直觉陷阱
   - 待补 (v2 候选)：ISA 药物（pindolol, acebutolol）详解；β 受体激动剂对照（dobutamine, isoproterenol）；**BB 过量解救 glucagon 机制**（已部分见指纹大全 §5.8）
 

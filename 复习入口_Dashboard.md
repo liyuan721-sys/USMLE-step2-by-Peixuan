@@ -331,6 +331,7 @@ W8 UWSA2(强预测) │ W9 Free120#1 │ W10 Free120#2/#3+UWSA3 → 考试(8/18-
 | ⭐⭐🔴 | **Q20431 Home Health Care**（5-25 + 5-27 反复错 + #考前必看 / 5-28 首次反射 ✓）| 决策树"stable + mild CI + 能 ADL + homebound" 反射建立中 | [[mistakes/uworld-mistakes_2026-05#^Q20431]] — 一次连对计数 1/2 |
 | ⭐⭐🟡 | **Atypical MDD first-line = SSRI（不是 MAOI）**（5-28 新错 + #难记）| UWorld 反射"Atypical = phenelzine"外推到 first-line 错 | [[完整笔记/专题笔记/psych/psych_精神障碍选对治疗SOP]] §3.4.bis v1.1 新增 6 阶梯 + [[mistakes/uworld-mistakes_2026-05#^Q17-2026-05-28]] |
 | ⭐⭐🔴 | **DPN "any of the above" 选项策略**（5-24 + 5-26 反复错 / 5-27 ✓ 1/2）| pattern 反射选最熟悉单选 — USMLE 选项策略反射建立中 | [[mistakes/uworld-mistakes_2026-05#^Q19-2026-05-24]] / [[完整笔记/专题笔记/USMLE/USMLE_答案选项策略]] — 连对计数 1/2 |
+| ⭐⭐🔴 | **Q4454 地高辛中毒钾方向**（5-21 浩斯宾误答高钾，应低钾）| 慢性中毒低钾=因(竞争泵，可补钾) vs 急性大剂量高钾=果(禁补钾 + 禁静脉钙) — 方向反 | [[完整笔记/专题笔记/心内/心内_地高辛毒理与中毒]] §4.4 钾方向陷阱 + [[mistakes/uworld-mistakes_2026-05#^Q4454]] |
 
 ### 🔴 肾 / 电解质急症反复错簇（2026-06-05 一日大批暴露）⚠️⚠️⚠️
 
