@@ -37,6 +37,14 @@ type: 专题笔记
 
 ## 二、主决策树（ASCII，先看结局变量类型）
 
+**图 A — 自变量 × 因变量 2×2 矩阵**（自变量 independent variable, IV / 因变量 dependent variable, DV）：IV 连续 + DV 二分类 → logistic regression（逻辑回归）这格补全了 §五
+
+![[Pasted image 20260622170819.png]]
+
+**图 B — 数据结构速查表**（对应 §一口诀）
+
+![[{BF810AAF-E81F-4F81-B646-975FC07AE65D}.png]]
+
 ```
                   题干 → 先问：结局变量（因变量 Y）是什么类型？
                                   │
