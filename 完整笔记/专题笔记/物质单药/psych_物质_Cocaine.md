@@ -38,6 +38,11 @@ Cocaine
 > [!warning] Stimulant intoxication 通用 + 可卡因特异
 > 通用兴奋剂表现：散瞳（mydriasis）、HTN、tachycardia、hyperthermia、出汗、激越、seizure、精神病。
 
+> [!tip] 触幻觉 formication（"虫爬感"）—— 可卡因经典精神皮肤征 ⭐
+> DA ↑ 致精神病性表现时，可出现**触幻觉 formication（蚁走感 / "虫子在皮下爬"）**，俗称 **"cocaine bugs / coke bugs"**，经典人名征 = **Magnan 征 (Magnan sign，马尼昂征)**。患者反复抓挠 → **多发抓痕 / 抠皮溃疡 (excoriations)**，易被误当原发皮肤病（疥疮 scabies / 带状疱疹 herpes zoster）。
+> - 鉴别：冰毒 methamphetamine 同样高频（"meth mites"，毒筛题常以冰毒为标准答案）；戒酒震颤谵妄 (delirium tremens, DT) 也有触幻觉；神志清 + 慢性单一妄想则想寄生虫妄想 delusional parasitosis (Ekbom 综合征)。
+> - 以"幻觉类型"为入口的完整反查见 [[完整笔记/专题笔记/USMLE/USMLE_毒理幻觉与自主神经体征]] §二。
+
 可卡因**特异并发症**（USMLE 高频）：
 
 | 并发症 | 机制 / 表现 | 一眼线索 |
@@ -116,5 +121,6 @@ Cocaine
 
 - 🔁 同主题错题：首页，暂无直接错题 —— 等积累（可卡因专题首次单药建页）。
 - 📚 主笔记：[[完整笔记/专题笔记/psych/psych_物质急诊速查]] —— 横向比较总索引（对应 §3 中毒鉴别表、§9 戒断镜像、§11 Stem 模式库、§12 完整管理对照表；β-blocker 禁用陷阱见 §17.3）。
+- 🧩 专题：[[完整笔记/专题笔记/USMLE/USMLE_毒理幻觉与自主神经体征]]（触幻觉 formication / "coke bugs" Magnan 征 → 见 §二）。
 - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（cocaine 致冠脉痉挛 / 急性 MI — 年轻人胸痛鉴别、ACS 处理；β-blocker unopposed α 禁忌）。
 - 🌱 TODO（待生成衍生）：等兴奋剂类错题积累 ≥3 题，整合 cocaine / meth / MDMA 横向对比 → 生成 [[完整笔记/专题笔记/_衍生_兴奋剂三剑客对比]]。

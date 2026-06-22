@@ -4243,10 +4243,11 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等毒理精神题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_常见毒理幻觉与自主神经体征]]
+> - ✅ 已建 [[完整笔记/专题笔记/USMLE/USMLE_毒理幻觉与自主神经体征]]（2026-06-22；formication 专攻见 §二）—— 原计划名 `_衍生_常见毒理幻觉与自主神经体征`，按命名规则归 USMLE 子目录。
 >
-> **同类题**：
-> -
+> **同主题（formication / 触幻觉反查）**：
+> - 🧩 [[完整笔记/专题笔记/USMLE/USMLE_毒理幻觉与自主神经体征]] §二 —— formication 见于：可卡因 cocaine（"coke bugs"/Magnan 征）/ 冰毒·苯丙胺 methamphetamine·amphetamine（"meth mites"，本题答案）/ 戒酒震颤谵妄 DT / BZD 戒断；非药物拟态 = 寄生虫妄想 Ekbom。
+> - 📄 [[完整笔记/专题笔记/物质单药/psych_物质_Methamphetamine]]（冰毒虫爬感本体）/ [[完整笔记/专题笔记/物质单药/psych_物质_Cocaine]]（coke bugs / Magnan 征）
 >
 > ---
 >
