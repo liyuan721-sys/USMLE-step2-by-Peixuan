@@ -100,7 +100,7 @@ HAC（Hospital-Acquired Condition CMS 不报销列表）
 | Stem 信号 | 0.5 秒锁 |
 |---|---|
 | Central line ≥ 48h + fever + 培养 **coag-neg Staph** | **CLABSI**（最常见组合）|
-| ICU + **TPN** + 长 abx + fever + 血培养 **酵母 / Candida** | **Candida CLABSI** → 拔管 + 眼科 + 14d |
+| ICU + **TPN** + 长 abx + fever + 血培养 **酵母 / Candida** | **Candida CLABSI** → **拔管** + **棘白菌素(echinocandin)** + **眼底检查**(查念珠菌眼内炎) + **14d（从首次阴血培养算起）** |
 | 透析患者 + 长期 CVC + **MRSA** 菌血症 + 新发杂音 | CLABSI **+ 感染性心内膜炎**（转移灶）|
 | 急诊 femoral line 3 天后 + Pseudomonas | CLABSI（femoral 感染率最高） |
 
