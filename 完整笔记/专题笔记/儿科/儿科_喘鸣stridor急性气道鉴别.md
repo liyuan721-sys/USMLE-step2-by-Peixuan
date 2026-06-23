@@ -12,7 +12,7 @@ parent_topic: 儿童喘鸣 stridor / 急性上气道梗阻鉴别 — 定位 + 4 
 
 > [!info] 笔记定位
 > **喘鸣（stridor）= 上气道梗阻的声音**——儿童急诊高频，套路固定：① **吸气/呼气/双相定位梗阻部位** ② **招牌（犬吠咳 / 流涎 / 突发呛咳）定病因** ③ **气道急症先稳气道、别乱查咽**。
-> 错题驱动：[[mistakes/uworld-mistakes_2026-06#^Q115197]]（croup = 副流感，误选 Hib）。
+> 错题驱动：[[mistakes/uworld-mistakes_2026-06#^Q115197]]（croup = 副流感，误选 Hib）+ [[mistakes/uworld-mistakes_2026-06#^Q4891]]（咽后脓肿 RPA·伸颈痛+椎前增宽，误选会厌炎）。
 > 素材整合自分科主笔记 [[完整笔记/Peixuan分科笔记/pulmonary]] / [[完整笔记/Peixuan分科笔记/儿科]] / [[完整笔记/Peixuan分科笔记/感染]]。
 
 ---
