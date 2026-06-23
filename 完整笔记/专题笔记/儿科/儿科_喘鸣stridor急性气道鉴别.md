@@ -107,6 +107,9 @@ parent_topic: 儿童喘鸣 stridor / 急性上气道梗阻鉴别 — 定位 + 4 
 > 
 > ![[{58A89828-4231-46CF-9CF5-5A6B015098CC}.png]]
 > *咽后脓肿 Retropharyngeal abscess 侧位颈片：椎前间隙 prevertebral space 增宽（正常 vs 增宽对照）*
+> 
+> ![[{953631CC-8A83-4027-B89F-1DDE901ABC22}.png]]
+> *同一征象标注版（UWorld）：**椎前间隙增宽 widening of prevertebral space = RPA 招牌** + 软组织积气 soft tissue emphysema；对照**会厌正常**（≠ 会厌炎 thumb sign）→ 见错题 [[mistakes/uworld-mistakes_2026-06#^Q4891]]（伸颈痛+椎前增宽，误选会厌炎）*
 
 ---
 
