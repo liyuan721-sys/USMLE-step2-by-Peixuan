@@ -13,7 +13,15 @@ type: 申请追踪
 > 我登记给 ECFMG 的**本科学位是「基础医学 Basic Medicine」= 非临床专业**。ECFMG 认证锚定"第一个/基础医学学位 (basic medical degree)"且必须是 **Clinical Medicine 临床医学** → **本科这条路基本是死路**。唯一可能的活口：用**协和临床医学博士 (Professional Doctor Degree of Medicine, Clinical Medicine) 走个案审查 (individualized review)**。
 > **2026-06-19 已正式发邮件请求 ECFMG 书面裁定，等回复。**
 
-相关：[[Match申请追踪]] · [[复习入口_Dashboard]]
+> [!success] 2026-06-24 重大突破：ECFMG 自己的参考指南**接受**协和 2012 临床博士
+> 浏览器实查 WDOMS + ECFMG《Reference Guide》：
+> - **协和 (Peking Union Medical College) 是 ECFMG Sponsor 学校**，认证毕业年份 **1953–Current**（✅ 覆盖我 2012）。
+> - ECFMG《Reference Guide》为协和、**毕业年 2012** 明确列出可接受最终医学文凭：Bachelor / Master / **Doctor of Clinical Medicine**。
+> - 我的学位 = **Doctor of Clinical Medicine（临床医学博士，协和 2012）** → **正好在 ECFMG 官方接受清单上**。
+> → 用博士做 final medical diploma **不再是"赌个案恩准"，而是 ECFMG 白纸黑字接受的学位类型**。§三旧判断（"博士不直接算"）**已被推翻**，详见 §三-补。
+> ⚠️ **仍有未决点（别过度乐观）**：我读的是**临床型专业学位博士**，**读博期间无临床轮转**（病理+科研），本科临床实习也仅 8 周——ECFMG 这条 "Doctor of Clinical Medicine" 是否覆盖我这种"专业型/无轮转、且建立在非临床本科之上"的博士，**仍需 ECFMG 确认**。见 §三-补 C。
+
+相关：[[Match申请追踪]] · [[复习入口_Dashboard]] · 证件清单 [[LGG_Fellowship_申请追踪/05_资质文件清单]]
 
 ---
 
@@ -61,6 +69,61 @@ type: 申请追踪
 - 协和临床博士 = 研究生阶段专科学位 → 标准规则下**不直接当 final diploma**
 - ⇒ **按现行规则两个学位都不直接符合 = 根本性资格风险，非补文件可解**
 
+> [!warning] ⚠️ 2026-06-24 更新：上面这个悲观结论（"博士不直接算"）**已被证伪** — 见下方 §三-补。ECFMG 自己的《Reference Guide》把协和 2012 "Doctor of Clinical Medicine" 列为可接受最终文凭。
+
+---
+
+## 三-补、2026-06-24 实查结论：博士这条路有 ECFMG 官方依据 ✅
+
+> 浏览器实查（Claude in Chrome），两个权威来源。
+
+### A. WDOMS（World Directory of Medical Schools）— 协和的 ECFMG Sponsor Note
+- 学校：**Peking Union Medical College**（FAIMER ID F0001233，China, Beijing）
+- ECFMG Sponsor Note 原文："Students and graduates of this medical school are **eligible to apply for ECFMG Certification**"
+- **Graduation Years: 1953 – Current**（✅ 含我 2012）
+- 文凭称号须见《Reference Guide for Medical Education Credentials》
+- Program Details：协和「Clinical Medicine」项目 Qualification Title = **Doctor of Medicine**（8 年制，临床医学专业认证 2020 通过）
+
+### B. ECFMG《Reference Guide》— 协和按毕业年的可接受文凭
+查 `ecfmg.org/resources/reference-guide` → Search By School → Peking Union → **毕业年 2012**：
+
+| Graduation Year | Acceptable Medical Degree |
+|---|---|
+| 2012 | Bachelor of Clinical Medicine |
+| 2012 | Master of Clinical Medicine |
+| **2012** | **Doctor of Clinical Medicine** ✅ |
+
+→ **"Doctor of Clinical Medicine"（2012）是 ECFMG 接受的最终医学文凭。** 我的协和学位（CDGDC 官方英译 "Professional Doctor Degree of Medicine"，field: Clinical Medicine，授予 2012-07-09）即此类学位。
+
+### C. 三个未决疑点（这是流程 + 真实风险，不是死路也不是稳了）
+
+> [!warning] 我自己提的关键质疑（2026-06-24）：协和有八年制，"Doctor of Clinical Medicine" 会不会指八年制学生？我读的是**临床型专业学位研究生、读博期间没有临床轮转**。
+
+1. **"Doctor of Clinical Medicine" 到底指谁？**
+   - 反证（对我有利）：WDOMS 里协和**八年制「Clinical Medicine」项目**的 Qualification 写的是 "**Doctor of Medicine**"，**不是** "Doctor of Clinical Medicine"。
+   - 所以 ECFMG 清单里的 **"Doctor of Clinical Medicine"** 更像是**研究生学位阶梯**（学士/硕士/博士 = Bachelor/Master/Doctor of Clinical Medicine），**理应包含我这种临床医学博士**，而非八年制。
+   - ⚠️ 但**不能 100% 确定** ECFMG 这条是否区分"学术型 vs 专业型"博士、是否覆盖我这种。**需 ECFMG 明确。**
+2. **临床轮转量偏少（不是零）**——真实风险，但比想象的好：
+   - 准确情况（修正之前"无轮转"的错误说法）：
+     - 本科（Sichuan）：**8 周临床实习**（外科 4 周 + 内科 4 周）
+     - 住院医培训期间：**临床轮转约 2 个月**（内科 1 月 + 外科 1 月；2024 邮件另写有放射 4 周）
+     - 加上协和**解剖病理**专科训练（专长）
+   - ✅ **这些我 2024 邮件已如实告知 ECFMG**（"8 weeks clerkships, 4 surgery + 4 IM" + "rotated surgery/IM/radiology 4 weeks each during residency"）→ **一直诚实且一致，无隐瞒**。
+   - 风险点：相对标准临床医学学位（通常一整年+临床见习），我的**临床轮转量偏少**，ECFMG 若按"临床医学教育实质"深究，这是最可能被掂量的地方。
+   - 缓冲：ECFMG 主要核验"学位名 + 学校 sponsor note + 成绩单"，**通常不逐条卡轮转周数**（学校被 sponsor note 即视为项目达标）；成绩单以协和为准。
+3. **译名对齐**：CDGDC 英译 "Professional Doctor Degree of Medicine"（field Clinical Medicine） vs ECFMG 清单 "Doctor of Clinical Medicine" — 同一学位、措辞略异，个案信里点明为同一 degree。
+
+**要做**：把 medical school of record 改成协和、提交博士证做 final diploma（6/19 已请求方向）；ECFMG 仍会向协和核验 + 查 ≥4 学分年等。**最终裁定权在 ECFMG** —— 现在是"**有官方清单依据 + 几个真实未决点**"，不是稳了，但远好过此前"死路"判断。
+
+> [!tip] 给 ECFMG 的措辞原则（诚实但不自损）
+> **红线**：可以"不主动提"轮转量，但**绝不能谎称**做过没做的（一旦与协和成绩单对不上 → irregular behavior → 可能永久禁申）。成绩单 ECFMG 直接向协和调，**隐瞒无用、撒谎致命**。
+> **稳妥版正文**（全属实、不替对方挑刺）：
+> "My doctorate is a **Doctor of Clinical Medicine** (professional/clinical-track) earned through graduate study at Peking Union Medical College, with a focus on **anatomic pathology**, awarded in 2012. Per ECFMG's own Reference Guide, **Doctor of Clinical Medicine from PUMC, graduation year 2012, is listed as an acceptable final medical diploma**. I request that my medical school of record be updated to PUMC and this diploma be verified accordingly. Please let me know what documentation you require."
+> 注：临床见习我 2024 邮件已如实披露（本科 8 周 + residency 轮转），无需在此重复或回避——以协和成绩单为准。
+
+> [!tip] 跟进信加这句（杀手锏）
+> "Per ECFMG's own Reference Guide for Medical Education Credentials, **Doctor of Clinical Medicine from Peking Union Medical College, graduation year 2012, is listed as an acceptable final medical diploma**. My doctoral degree (Professional Doctor Degree of Medicine, field: Clinical Medicine, PUMC, 2012) is precisely this credential. I therefore request that my medical school of record be updated to Peking Union Medical College and this diploma be verified accordingly."
+
 ---
 
 ## 四、已采取的行动（2026-06-19）
@@ -103,3 +166,4 @@ type: 申请追踪
 
 ## 更新日志
 - **2026-06-19**：建档。查清根因（基础医学非临床）、备齐 4 附件、发 inquiry 请求个案审查。等 ECFMG 回复。
+- **2026-06-24**：浏览器实查 WDOMS + ECFMG《Reference Guide》→ 协和是 ECFMG sponsor（grad 1953–Current），且 **2012 "Doctor of Clinical Medicine" 在 ECFMG 可接受文凭清单上**。§三悲观判断被证伪（见 §三-补）。下一步：跟进信直接引用此条 + 推进把 medical school of record 改为协和。证件官方英文名整理见 [[LGG_Fellowship_申请追踪/05_资质文件清单]]。
