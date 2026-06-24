@@ -387,6 +387,12 @@ Prevalence ≈ Incidence × Duration
 
 - **集中趋势/偏态**："Median 永远在中间"；**右偏（收入）Mode<Median<Mean**；左偏反之。Mean 对 outlier 敏感，偏态优选 Median。Bimodal 双峰 = 两个不同人群。
 - **正态 68/95/99.7 + percentile 换算**：±1SD=68%、±2SD(1.96)=95%、±3SD=99.7%。**percentile = 左侧累计面积**：−2 / −1 / 0 / +1 / +2 / +3 SD → **2.5 / 16 / 50 / 84 / 97.5 / 99.85**th。⚠️ "区间内%"（68/95）≠ percentile（源 [[mistakes/uworld-mistakes_2026-06#^Q20538]]：+2SD = 97.5th）。
+
+> [!info]- 📊 68-95-99.7 正态分布图（各带 % + 双尾，对照 percentile 换算）
+> ![[{D2F4BD49-76A2-4587-8563-72E4610506CE} 1.png]]
+> 
+> 各带由内向外：34% / 13.5% / 2.35% / 0.15%；双尾累计 ±1SD 外 16%、±2SD 外 2.5%、±3SD 外 0.15%。**percentile = 该点左侧累计**（如 +2SD：右侧 2.5% → 左侧 97.5th）。
+
 - **相关系数 r（correlation coefficient）**：散点图（scatter plot）先判**关联类型**（线性/非线性）；线性可算 **r ∈ [−1, +1]**——**符号 = 斜率方向**（升=正 / 降=负）、**绝对值 = 线性贴合度**（越贴线 |r|→1，越散→0）。⚠️ 相关 = **粗分析**：**不控混杂、不证因果**（源 [[mistakes/uworld-mistakes_2026-06#^Q4315]]）。
 - **Prevention 4 级**：Primary 防发病（疫苗/戒烟）→ Secondary 早期发现（筛查）→ Tertiary 治已病防并发症 → Quaternary 避免过度医疗。
 - **Patient Safety 患者安全**：Active error（前线正发生）查 **RCA（root cause analysis 根因分析，反应性/事后）**；Latent error（系统潜伏缺陷）用 **FMEA（failure mode and effects analysis 失效模式与效应分析，主动性/事前预防）**；Near miss（未遂事件）上报（无惩罚文化）。
