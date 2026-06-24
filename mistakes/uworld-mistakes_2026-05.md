@@ -1374,7 +1374,7 @@
 > 状态:: 
 > 错因:: 
 
-> [!example]- [2026-05-12] Biostats / Reporting bias (Q12685)
+> [!example]- [2026-05-12] Biostats / Reporting bias — 🔴 反复错（2026-06-24 同题再错 → 追踪卡 ^Q12685-R0624）(Q12685)
 > ^Q12685
 > 
 > ## Stem 模式
@@ -1485,6 +1485,7 @@
 > - 🔁 同主题错题：
 >   - Q12684 (Item 1 同 vignette) — Observational study identification（做对了，但同一 stem 两个考点 = 高频考法）
 >   - [[mistakes/uworld-mistakes_2026-05#^Q3941]] Bias 鉴别题（如已建）
+>   - [[mistakes/uworld-mistakes_2026-06#^Q12685-R0624]] 🔴 2026-06-24 同题再错（追踪卡，第 2 次仍选 A）
 > - 📚 主笔记：
 >   - [[完整笔记/Peixuan分科笔记/Biostats_Master]]
 >   - [[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]]
@@ -1495,6 +1496,7 @@
 > 
 > ## ✅ 复盘行动
 > 
+> - [ ] 🔴 2026-06-24 第 2 次错（仍选 A Ascertainment）→ 见追踪卡 [[mistakes/uworld-mistakes_2026-06#^Q12685-R0624]]；第 3 次必须对
 > - [ ] 1 周后重做 Q12684 + Q12685 整套 vignette
 > - [ ] 默写 5 大 selection bias + 4 大 measurement bias 触发词（不看答案）
 > - [ ] 默写 "Recall vs Reporting" 一刀切区分
@@ -1505,8 +1507,8 @@
 > 
 > 学科:: Biostats
 > 主题:: Reporting bias
-> 状态:: 
-> 错因:: 
+> 状态:: 🔴
+> 错因:: pattern
 
 > [!example]- [2026-05-12] Biostats / Null Hypothesis (Q3941)
 > ^Q3941

@@ -64,6 +64,13 @@ Stem：Black women compared to non-Hispanic White (NHW) women,
 ### 反射钩
 **"X compared to Y" → X 在前 = X 是暴露**。看到 OR 题第一动作 = **圈出 X 和 Y**，箭头标"X→暴露 / Y→reference"。
 
+### 补充：从文字反推 OR 点估计（"X% greater / lower odds"）⭐
+
+- **"X% greater odds"** → OR = **1 + X%**（"55% greater odds" → OR = **1.55**，不是 1.22）
+- **"X% lower / reduced odds"** → OR = **1 − X%**（"55% lower odds" → OR = **0.45**）
+- 选好点估计后用 p 值卡 CI：**p < 0.05 ⟺ 95% CI 不含 1**；若选项点估计对、但 **CI 含 1**，与"p 显著"自相矛盾 → 划掉。
+- 来源 [[mistakes/uworld-mistakes_2026-06#^Q22326]]（LupMAB 狼疮肾炎广告题：55% greater odds + p=0.031 → OR 1.55 (1.01–2.31)）
+
 ---
 
 ## 三、铁律 ② — Case-Control 只能算 OR，不能算 risk

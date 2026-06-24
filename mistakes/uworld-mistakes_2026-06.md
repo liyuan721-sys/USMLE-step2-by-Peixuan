@@ -18039,3 +18039,573 @@ type: 错题数据源
 > 主题:: 慢性肝病/肝硬化疫苗推荐（常规+甲乙肝+肺炎球菌）
 > 状态:: 🟢
 > 错因:: 无（做对）
+
+## 2026-06-24
+
+> [!example]- [2026-06-24] Biostats / Reporting bias — 🔴 反复错（2026-05-12 ^Q12685 同题再错）(Q12685-R0624)
+> ^Q12685-R0624
+> 
+> ## 本次错在哪
+> 同一 vignette（Item 2 of 2）再做：同人群"集市当面 vs 邮寄匿名"两次自报肥胖/含糖饮料患病率不同。又选 **A. Ascertainment bias**，正确 **E. Reporting bias**。
+> 
+> ## 一句话反射（要建立）
+> stem 写 "response rate + demographics comparable" = 出题人主动划掉 selection bias（Ascertainment / Nonresponse）；剩下两次差异只能来自**测量层面** → 当面 vs 匿名 + 污名话题（肥胖/含糖饮料）= **Reporting bias**（不想说，不是想不起来）。
+> 
+> ## 我为什么又错
+> - 选了：A Ascertainment bias（与 5 月同一个错选项）
+> - 错因：pattern——没把 "comparable response rate/demographics" 当成排除 selection 的暗号；一看"两次结果不同"就反射 selection
+> - 核心陷阱：bias 先分"挑人(selection) vs 测人(measurement)"，本题 stem 已堵死 selection
+> 
+> ---
+> 
+> ## 🔗 关联
+> - 🔁 原卡（含完整 5+4 bias 速查 + Recall vs Reporting 区分）：[[mistakes/uworld-mistakes_2026-05#^Q12685]]
+> - 🔁 同主题：[[mistakes/uworld-mistakes_2026-05#^Q3941]] Null hypothesis（同 vignette 家族）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - 📚 专题：[[完整笔记/专题笔记/USMLE/USMLE_高频陷阱]]
+> - 🏥 跨学科：无（纯 Biostats）
+> - 🌱 TODO：第三次必须做对——默写"测人 4 bias 触发词"，重点 Recall(脑子) vs Reporting(嘴)
+> 
+> ## ✅ 复盘行动
+> - [ ] 当天 + 3 天后重做 Q12684+Q12685 整套
+> - [ ] 默写：看到 "comparable response rate/demographics" → 划掉 selection bias
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: Reporting bias
+> 状态:: 🔴
+> 错因:: pattern
+
+> [!success]- [2026-06-24] Biostats / CI 含 null value → 无统计差异 + 临床决策"两者皆可"(Q21526) ✓ 做对
+> ^Q21526
+> 
+> ## Stem 模式
+> 双题广告题（ADF 交替日断食 vs DCR 每日限热量 减重 RCT）。结果给"两组差值的变化 + 95% CI"。Item1 问哪些指标组间有差异；Item2 问给患者哪种推荐。
+> 
+> ## 核心概念
+> **差值的 CI 是否含 null value（差值 null = 0）** 决定组间有无统计学差异：CI **含 0** → 无显著差异；**不含 0** → 有显著差异。本题所有体重/血压/血脂/血糖差值 CI 都跨 0 → 两组减重与代谢改善**无差异**。
+> 
+> ## 普适规则
+> 
+> | 比较类型 | null value | CI 含此值 = 不显著 |
+> |---|---|---|
+> | 两组**差值**（mean diff / % change diff）| **0** | CI 跨 0 → p≥0.05 |
+> | **比值**（RR / OR / HR）| **1** | CI 跨 1 → p≥0.05 |
+> 
+> - 副作用 ADF 24% vs DCR 32%，**p=0.21 → 不显著**（别被"DCR 副作用多"带跑）。
+> - 12% ADF 不耐受转 DCR = **少数**（不是 most），不构成偏好依据。
+> - 减重/副作用/代谢改善均无差异 → **任选其一皆可（E）**。
+> 
+> ## 易混陷阱（普适）
+> - 看到点估计有差异（−0.7 等）就以为"有差别"——必须看 **CI 是否跨 null**，不是看点估计大小。
+> - 把"p=0.21 的副作用差异"当成临床决策依据（不显著的差异不能用来推荐）。
+> 
+> ## 我为什么"✓做对"
+> - 选了：E（两者皆可），两小问全对
+> - 反射已建立：差值 CI 跨 0 = 无差异；比值 CI 跨 1 = 无差异；不显著的次要结局不影响推荐。
+> 
+> ## Memory Hook
+> **「差值看 0、比值看 1；CI 跨过 null = 没差异。各项都没差 → 哪个都行。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 无卡点，确认 null value：差值/百分比变化 null=0，比值(RR/OR/HR) null=1。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q3909]] p↔CI 互译（CI 不含 null ⟺ p<0.05）
+>   - [[mistakes/uworld-mistakes_2026-06#^Q106495]] 统计显著 vs 临床显著
+>   - [[mistakes/uworld-mistakes_2026-06#^Q22326]] OR+CI（同日错题，比值 null=1）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - 📚 专题：[[完整笔记/专题笔记/Biostats/Biostats_统计显著vs临床显著]] / [[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]
+> - 🏥 跨学科：无（纯 Biostats）
+> - 🌱 TODO：无
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写 null value 速查（差值=0 / 比值=1）
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: CI null value 判读（差值=0/比值=1）
+> 状态:: 🟢
+> 错因:: 无（做对）
+
+> [!example]- [2026-06-24] Biostats / 68-95-99.7 规则 → 求 percentile（+2 SD = 第 97.5 百分位）(Q20538)
+> ^Q20538
+> 
+> ## Stem 模式
+> 给均值+SD（女性 mean 64.5、SD 2.5），正态分布，问 69.5 inch 女性的身高百分位。
+> 
+> ## 核心概念
+> 69.5 = 64.5 + 2×2.5 = **均值 +2 SD**。±2 SD 内含 95% → 两尾各 2.5%，**右尾 2.5% 在其上 → 其下 = 100−2.5 = 97.5% → 第 97.5 百分位（D）**。
+> 
+> ## 普适规则
+> 
+> **68-95-99.7（经验法则）→ percentile 换算**
+> 
+> | 距均值 | 单尾(外)% | 该点 percentile（= 左侧累计%）|
+> |---|---|---|
+> | −2 SD | 左尾 2.5% | **2.5th** |
+> | −1 SD | 左尾 16% | **16th** |
+> | 均值 | — | **50th** |
+> | +1 SD | 右尾 16% | **84th** |
+> | +2 SD | 右尾 2.5% | **97.5th** ⭐ |
+> | +3 SD | 右尾 0.15% | **99.85th** |
+> 
+> - **percentile = 该值左侧（小于它）的累计百分比**（曲线下左侧面积）。
+> - 区间法则速记：±1 SD=68%、±2 SD=95%、±3 SD=99.7%；单尾 = (100−区间)/2。
+> 
+> ## 易混陷阱（普适）
+> - 把 "68.0 / 99.7" 这种**区间内百分比**直接当 percentile 选（C/E 干扰项就是把 68、99.7 摆出来）——区间% ≠ percentile。
+> - percentile 问"**左侧累计**"，不是"区间内"也不是"单尾"。
+> 
+> ## 我为什么错
+> - 选了：C（68.0）
+> - 错因：知识——把"±1 SD 含 68%"的区间百分比当成 percentile；没走"先算几个 SD → 再换左侧累计面积"
+> - 核心陷阱：区间内% vs 累计 percentile 混为一谈
+> 
+> ## Memory Hook
+> **「percentile = 左边面积。+2 SD → 右尾 2.5% → 97.5th。区间% 不是 percentile！」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> percentile 到底指什么？→ 小于该值的观测占比 = 曲线下左侧面积。先把值换成"几个 SD"，再用 68/95/99.7 拆出左侧累计。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q21797]] PPV/NPV 行列指标（同属"定义判读"易混）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - 📚 专题：[[完整笔记/专题笔记/Biostats/Biostats_HighYield速查总览]]
+> - 🏥 跨学科：无（纯 Biostats）
+> - 🌱 TODO：把"68-95-99.7 → percentile 换算表"补进 [[完整笔记/专题笔记/Biostats/Biostats_HighYield速查总览]]
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写 −2/−1/0/+1/+2/+3 SD 对应 percentile（2.5/16/50/84/97.5/99.85）
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: 68-95-99.7 → percentile 换算
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-06-24] Biostats / 测某地"发病率(incidence)"用 cohort——🔴 反复错（同族 Q20376/Q20435/Q20283；本次误选 ecological）(Q4686)
+> ^Q4686
+> 
+> ## Stem 模式
+> A 镇白血病比 B 镇多，问用哪种设计判断"居住地"是否与白血病发病相关。
+> 
+> ## 核心概念
+> 要算 **incidence（新发/随访）** 和 **RR** → 必须**前瞻随访两镇人群** = **cohort（D）**。
+> 
+> ## 普适规则
+> 
+> **"问什么 → 选什么设计"速判**
+> 
+> | 问题 / 目标 | 首选设计 | 能否算 incidence |
+> |---|---|---|
+> | **incidence / RR**、随访发病 | **Cohort** ⭐ | ✅ |
+> | 罕见病/已患病找暴露、OR | Case-control | ❌（只能 OR）|
+> | 某时点 prevalence | Cross-sectional | ❌ |
+> | 干预疗效、随机分组 | RCT | ✅ |
+> | **群体率 vs 群体暴露**（单位=人群）| Ecological | ❌（且有 ecological fallacy）|
+> 
+> - 误选 **E Ecological**：生态学研究单位是**人群**（如比较各国人均糖摄入 vs 糖尿病率），**不能算个体 incidence**、有生态学谬误。本题可随访两镇个体得发病率 → cohort。
+> 
+> ## 易混陷阱（普适）⭐ 我的反复盲点
+> - "比较两个**地点/人群**"≠ ecological。Ecological 关键是**只有群体汇总率、无个体数据**；本题可随访个体 → cohort。
+> - 凡题干要 **incidence / 发病风险 / RR** → 反射 **cohort**（不是 case-control 不是 ecological）。
+> 
+> ## 我为什么错
+> - 选了：E Ecological
+> - 错因：pattern——看到"两个镇(地点)比较"就反射 ecological；忽略目标是"算 incidence → 需个体随访 = cohort"
+> - 核心陷阱：study design 系列**又一次**栽在"目标决定设计"，这次换了 ecological 干扰项
+> 
+> ## Memory Hook
+> **「要 incidence / 发病风险 → cohort（随访个体）。Ecological = 只有群体汇总率、无个体数据 + 谬误。比较两地 ≠ 生态学。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 为什么不是 ecological？→ ecological 单位是人群、用汇总率；本题能随访两镇个体得发病率，是 cohort。RR 只有 cohort/RCT 能算。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题（study design 系列 🔴）：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q20376]] 比较发病风险用 cohort（🔴）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20435]] Cohort vs Case-Control（🔴）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20283]] Case-Control vs Cohort 场景适配
+>   - [[mistakes/uworld-mistakes_2026-06#^Q20503]] 生态学研究 + 生态学谬误
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - 📚 专题：[[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]]
+> - 🏥 跨学科：无（纯 Biostats）
+> - 🌱 TODO：把"目标→设计 + 各设计能否算 incidence"决策表固化进 [[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]]
+> 
+> ## ✅ 复盘行动
+> - [ ] 当天 + 3 天后重做整组 study-design 题（Q4686/Q20376/Q20435/Q20283/Q20503）
+> - [ ] 默写"问 incidence/RR → cohort；群体汇总率 → ecological（有谬误）"
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: Study Design 选择 — incidence/RR 用 cohort
+> 状态:: 🔴
+> 错因:: pattern
+
+> [!example]- [2026-06-24] Biostats / "55% greater odds" → OR=1.55 + 显著则 CI 不含 1（LupMAB）(Q22326)
+> ^Q22326
+> 
+> ## Stem 模式
+> 广告题：LupMAB+标准 vs 标准治疗，狼疮肾炎肾应答 "55% greater odds"，p=0.031。问最可能的 OR + 95% CI。
+> 
+> ## 核心概念
+> 两步：① "55% greater odds" → **OR = 1.55**（不是 1.22）。② p=0.031<0.05 显著 → **CI 必须不含 null（OR null=1）** → 选 **E 1.55 (1.01–2.31)**。
+> 
+> ## 普适规则
+> 
+> **OR 题两道关卡**
+> 
+> | 关卡 | 规则 |
+> |---|---|
+> | **点估计** | "X% greater odds" → OR = 1 + X% = **1.55**；"X% lower odds" → OR = 1 − X% |
+> | **CI 与显著性** | p<0.05 ⟺ 95% CI **不含 1**；p≥0.05 ⟺ CI **含 1** |
+> | OR 方向 | OR>1 暴露↑结局；OR<1 暴露↓结局（OR=0.45 = 低 55% odds）|
+> 
+> - 干扰项：A/B 点估计 0.45 方向反（"greater odds"应 >1）；C/D OR=1.22（55% 算错）；F 1.55 但 CI(0.91–2.19) **含 1** 与 p=0.031 矛盾。
+> 
+> ## 易混陷阱（普适）
+> - "55% greater odds" 当成 OR=**1.22** 或乱配——正确 **1.55**。
+> - 选了点估计对、但 CI **含 1** 的选项（如 F）——与"p 显著"自相矛盾；**显著 ⟺ CI 排除 null**。
+> 
+> ## 我为什么错
+> - 选了：C 1.22 (0.95–1.50)
+> - 错因：计算——"55% greater odds→OR1.55"没换算对（错成 1.22），且选的 CI 含 1 与 p<0.05 冲突未核对
+> - 核心陷阱：OR 题"先定点估计、再用 p 判 CI 含不含 null"两步都要过
+> 
+> ## Memory Hook
+> **「X% greater odds = OR (1+X%)；55%→1.55。p<0.05 ⟺ CI 不含 1。两步都对才选。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> "55% greater odds" 为何是 1.55 不是 1.22？→ greater odds 指 odds 比值高 55%，OR=1.55；1.22 无来源。再用 p=0.031 卡掉所有含 1 的 CI。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21248]] OR-CI 表格判读 + Confounding
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20227]] OR 方向陷阱
+>   - [[mistakes/uworld-mistakes_2026-06#^Q3909]] p↔CI 互译
+>   - [[mistakes/uworld-mistakes_2026-06#^Q21526]] CI 含 null 判读（同日做对题）
+>   - [[mistakes/uworld-mistakes_2026-06#^Q22327]] 同 vignette Item 2（相对 vs 绝对 measures；做对）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - 📚 专题：[[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]
+> - 🏥 跨学科：无（纯 Biostats）
+> - 🌱 TODO：把"X% greater/lower odds → OR 换算 + 显著⟺CI排除null"补进 [[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写 "X% greater odds → OR=1+X%"
+> - [ ] 做 3 道 OR+CI 选择题，每题先算点估计再用 p 卡 CI
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: OR-CI 表格判读
+> 状态:: 🟡
+> 错因:: 计算
+
+> [!example]- [2026-06-24] Biostats / Per-protocol = 排除全部脱落者（≠ ITT 全保留）(Q20458)
+> ^Q20458
+> 
+> ## Stem 模式
+> MCI（mild cognitive impairment 轻度认知障碍）/ 痴呆 dementia 患者 MAKS 多组分疗法干预 RCT（randomized controlled trial 随机对照试验），随机 208 vs 154，最终 271（MAKS 脱落 55、对照 36，共 91）。问 **per-protocol 分析**如何处理脱落者。
+> 
+> ## 核心概念
+> **Per-protocol（PP，符合方案）= 只分析严格依从、完成方案者 → 排除全部 91 名脱落者（C）**。把 91 人全留在原组 = **ITT**，不是 PP。
+> 
+> ## 普适规则
+> 
+> **PP vs ITT**
+> 
+> | | Per-protocol (PP) | Intention-to-treat (ITT) |
+> |---|---|---|
+> | 谁进分析 | 只**依从+完成**者（排除所有脱落/不依从）| **全部按随机分组**保留，不管脱落/转组 |
+> | 估计 | 理想条件"**真实效应**"，但**高估**疗效 | 接近真实临床的"**预期效应**"，更**保守** |
+> | 偏倚 | 破坏随机化 → 可能 selection bias | 保护随机化 |
+> | 本题 | **排除 91 名脱落（C）** | 保留 91 名于原组（D）|
+> 
+> ## 易混陷阱（普适）
+> - PP 和 ITT 处理脱落者**完全相反**：PP **排除**、ITT **保留**。看清题问哪一种。
+> - "exclude 55 / exclude 36 单组"是半套（A、B）——PP 要**两组脱落全排**（91）。
+> 
+> ## 我为什么错
+> - 选了：D（保留全部 91 于原组）
+> - 错因：知识——把 PP 的处理记成了 ITT（保留全部）；二者方向记反
+> - 核心陷阱：per-protocol = 只留乖学生（排脱落）；ITT 才是一个不少全保留
+> 
+> ## Memory Hook
+> **「Per-protocol = 按方案 = 只留完成者，脱落全踢（高估疗效）。ITT = 进了门就算，全保留（更保守）。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> PP 为何高估疗效？→ 排掉因副作用/病重脱落者，剩下"耐受良好"人群，效果看着比真实临床好；ITT 含脱落更贴近实战。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q7690-Item2]] ITT vs as-treated → selection bias
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - 📚 专题：[[完整笔记/专题笔记/Biostats/Biostats_HighYield速查总览]]
+> - 🏥 跨学科：无（纯 Biostats）
+> - 🌱 TODO：把"PP vs ITT 对脱落者相反处理 + 高估/保守"补进 [[完整笔记/专题笔记/Biostats/Biostats_HighYield速查总览]]
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写 PP（排脱落/高估）vs ITT（全保留/保守）一句话
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: PP vs ITT 分析
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-06-24] Biostats / Power 80%→92% 的原因 = 真实效应量更大（4 因素方向）(Q19564)
+> ^Q19564
+> 
+> ## Stem 模式
+> 设计时按 power 80% 算需 320 人(每组160)，实测 power 92%。问最可能原因。
+> 
+> ## 核心概念
+> Power = 真有差异时正确拒绝 H0 的概率。按 80% 设计、结果更高(92%) → 某个增 power 的因素比预期更有利。选 **A：实际两组血脂差异(effect size)比预期大** → power↑。
+> 
+> ## 普适规则
+> 
+> **影响 power 的 4 因素（↑哪个 → power↑）**
+> 
+> | 因素 | 变化 → power |
+> |---|---|
+> | **样本量 n** ↑ | power ↑ |
+> | **效应量 effect size**（组间差）↑ | power ↑ |
+> | **结局变异度 variability/SD** ↓ | power ↑ |
+> | **显著性水平 α** ↑（如 0.05→0.10，门槛更松）| power ↑ |
+> 
+> - n、α 题目已固定（320 人、0.05）→ power 多出来只能来自 **effect size 比预期大**（A）或 variability 比预期小（E）；选项里 A 是直接答案。
+> 
+> ## 易混陷阱（普适）⭐
+> - **α 与 power 同向**：α **更小**（更严）→ power **下降**（B"用了更小 α"会**降** power，方向反，错）。
+> - variability **更大** → power **下降**（E 方向反）。
+> - 完成时间长短(D)与 power **无关**。
+> - 样本量因 attrition **减少**(C) → power **下降**，不能解释升高。
+> 
+> ## 我为什么错
+> - 选了：B（用了更小的显著性水平）
+> - 错因：知识——把 α 与 power 关系记反；更小 α = 更严门槛 = **更难**检出 = power **降**，不可能让 power 升
+> - 核心陷阱：4 因素方向，尤其 α↓→power↓ 这一条记反
+> 
+> ## Memory Hook
+> **「Power↑ 四件事：n↑、effect size↑、变异↓、α↑。α 越严(小) power 越低。题里 n、α 锁死 → power 多出来 = 真差异比预期大。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 更小 α 不是更严谨吗，为何降 power？→ α 是误拒 H0 的容许概率；门槛收紧后真有差异也更难达显著 → β↑、power(1−β)↓。严格性与灵敏度是 trade-off。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q20754]] p 值/α 定义（"X% level"=α）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20057]] ARR 反推样本量（样本量↔效应）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - 📚 专题：[[完整笔记/专题笔记/Biostats/Biostats_α_β_Power]]
+> - 🏥 跨学科：无（纯 Biostats）
+> - 🌱 TODO：无（α/β/Power 专题已覆盖 4 因素方向）
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写 power 4 因素方向（n↑/ES↑/SD↓/α↑ → power↑）
+> - [ ] 反向自测：每个因素相反时 power 怎么变
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: Statistical power 4 因素
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!success]- [2026-06-24] Biostats / HR 0.75 解读 = 复合事件风险↓25%（别读成 75%）(Q21323) ✓ 做对
+> ^Q21323
+> 
+> ## Stem 模式
+> 广告题：Toraflozin（虚构降糖药，副作用谱似 SGLT2 抑制剂 SGLT2 inhibitor）vs 安慰剂 placebo 治 2 型糖尿病 type 2 diabetes + 慢性肾病 CKD，复合终点（CV 死亡/住院/急诊）480 vs 640 事件，**HR = 0.75（95% CI 0.63–0.88）**。问最恰当结论。
+> 
+> ## 核心概念
+> **HR（hazard ratio 风险比）= 0.75 → 治疗组事件风险是对照的 75% → 相对降低 (1−0.75) = 25%**；CI 0.63–0.88 **不含 1 → 显著**。选 **D：toraflozin 使复合事件风险降低约 25%**。
+> 
+> ## 普适规则
+> 
+> | 选项 | 为何对/错 |
+> |---|---|
+> | **D ✅** | HR 0.75 → 风险↓25%，CI 不含 1 显著 → 复合终点获益 |
+> | A ❌ | "降低 75%"——HR 0.75 是降 **25%**，不是 75%（HR 值 ≠ 降幅）|
+> | B ❌ | "DKA 75% more likely"——广告只**定性**列副作用（腹泻 diarrhea / 糖尿病酮症酸中毒 DKA / 生殖道真菌感染），无定量 |
+> | C ❌ | "安慰剂多 160 例 CV 死亡"——640−480=160 是**复合事件**差，不能拆成单看 CV 死亡 |
+> 
+> - HR<1 = 保护；**降幅 = (1−HR)×100%**。HR 0.75→25%、0.6→40%、0.5→50%。
+> - **复合终点（composite endpoint）不能拆**：只知总事件差，不能归因到某单一组分（死亡）。
+> 
+> ## 易混陷阱（普适）
+> - 把 HR 值本身当降幅（0.75 读成"降 75%"）——正确是 1−HR。
+> - 把复合事件差（160）说成某单一组分（CV 死亡）差。
+> - 广告**定性**列的副作用，硬套定量百分比。
+> 
+> ## 我为什么"✓做对"
+> - 选了：D，自信
+> - 反射已建立：HR 0.75 → 降 25% + CI 不含 1 显著；复合终点不拆分。
+> 
+> ## Memory Hook
+> **「HR 0.75 = 风险剩 75% = 降 25%（降幅=1−HR）。CI 不含 1 才显著。复合终点不许拆。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 无卡点。确认：HR/RR/OR 的降幅都是 1−比值；复合终点总差不能归因单组分。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-05#^Q7688]] HR 解读
+>   - [[mistakes/uworld-mistakes_2026-06#^Q7690]] HR 多结局判读（别下没测过的结论）
+>   - [[mistakes/uworld-mistakes_2026-06#^Q20561]] RRR vs ARR 半步陷阱（相对降幅）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - 📚 专题：[[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/内分泌]]（SGLT2 抑制剂心肾获益 + 生殖道真菌感染 / DKA 副作用）
+> - 🌱 TODO：无
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写 HR/RR/OR 降幅 = (1−比值)×100%
+> - [ ] 默写"复合终点不可拆分归因"
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: HR 解读（降幅=1−HR）
+> 状态:: 🟢
+> 错因:: 无（做对）
+
+> [!success]- [2026-06-24] Biostats / 散点图 → 判"关联类型"；近完美上升 = 线性关联（r 接近 +1）(Q4315) ✓ 做对
+> ^Q4315
+> 
+> ## Stem 模式
+> 非糖尿病人急性 MI（myocardial infarction 心肌梗死）后 24h，入院**血糖** vs **室性心律失常次数**散点图，呈近完美上升直线。问关于结果的最佳陈述。
+> 
+> ## 核心概念
+> **散点图（scatter plot）显示关联的"类型"（线性/非线性）**；若线性可算**相关系数 r（correlation coefficient，−1~+1）**描述方向与强度。本图近完美上升 → **线性关联（C）**，r 接近 **+1**。
+> 
+> ## 普适规则
+> 
+> | 选项 | 为何对/错 |
+> |---|---|
+> | **C ✅** | 散点近完美直线 → 线性关联成立（最稳妥、被数据直接支持）|
+> | A ❌ | r 为**正**（上升），不是负 |
+> | B ❌ | 近完美线性 → r 接近 **±1**，不是 0 |
+> | D ❌ | 散点/粗分析**不控制混杂**（病情严重度、交感激活）|
+> | E ❌ | 观察性关联 **≠ 因果**；不能说"高血糖导致心律失常" |
+> 
+> - **r 速记**：方向看斜率（升=正/降=负）；强度看贴合度（越贴线 |r|→1，越散 |r|→0）。
+> - 散点图/相关 = **粗分析**：不校混杂、不证因果。
+> 
+> ## 易混陷阱（普适）
+> - 看到强关联就想选"因果"（E）或"控制了混杂"（D）——散点只证**关联类型**，越界即错。
+> - "最佳陈述"选**最稳妥、被数据直接支持**的（线性关联），不选过度解读的。
+> 
+> ## 我为什么"✓做对"
+> - 选了：C，自信
+> - 反射已建立：散点 = 关联类型；关联 ≠ 因果、≠ 控混杂。
+> 
+> ## Memory Hook
+> **「散点图只说‘有没有线性关联’；r 正负看斜率、大小看贴线。关联 ≠ 因果 ≠ 控混杂——选最不越界那句。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 无卡点。确认：r∈[−1,1]，符号=斜率方向，绝对值=线性贴合度；散点不能推因果/控混杂。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20227]] 关联 ≠ 因果（OR 方向 + CI 不含 1 ≠ causality）
+>   - [[mistakes/uworld-mistakes_2026-06#^Q20503]] 生态学谬误（群体关联 ≠ 个体）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - 📚 专题：[[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]（关联 ≠ 因果铁律）
+> - 🏥 跨学科：无（纯 Biostats）
+> - 🌱 TODO：把"相关系数 r 速查（散点→类型、r 符号/强度、≠因果）"补进 [[完整笔记/专题笔记/Biostats/Biostats_HighYield速查总览]]
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写 r 的范围/符号/强度含义 + 散点图只判关联类型
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: 相关系数 / 散点图判读
+> 状态:: 🟢
+> 错因:: 无（做对）
+
+> [!success]- [2026-06-24] Biostats / 相对 vs 绝对 measures — 绝对差(11%)远小于"55% odds"宣传 (Q22327) ✓ 做对
+> ^Q22327
+> 
+> ## Stem 模式
+> 接 Q22326 同 vignette（LupMAB 狼疮肾炎 lupus nephritis 广告 Item 2 of 2）。LupMAB+标准 43% vs 标准 32% 达肾应答，p<0.05。问对患者的最佳推荐。
+> 
+> ## 核心概念
+> **绝对差 ARR = 43−32 = 11%**；**相对差 = (43−32)/32 = 34%**；广告用"**55% greater odds**"（odds 相对）更夸大。可推荐，但要认清**真实绝对获益(11%)远低于宣传的 55%（C）**。
+> 
+> ## 普适规则
+> 
+> | 选项 | 为何对/错 |
+> |---|---|
+> | **C ✅** | 推荐，但绝对差(11%) ≪ 宣传的 55%（相对/odds 夸大）|
+> | A ❌ | 研究测的是**联合**治疗，不能下"单药 monotherapy 有效"结论 |
+> | B ❌ | 亚组（MMF 霉酚酸酯 vs CA 环磷酰胺-硫唑嘌呤）样本小 + CA 组病情更重、不显著 → 不能据亚组推荐 |
+> | D ❌ | 研究对肾应答**已显著 = power 足**；死亡事件少 ≠ 对肾应答 underpowered（一个结局有 power ≠ 所有结局都有）|
+> | E ❌ | p<0.05 **已**确立显著，**CI 非必需**才能下结论 |
+> 
+> - **相对 measures（RRR / odds %）夸大、绝对 measures（ARR）更贴近真实获益**；广告/论文偏爱相对。
+> - **Power 是针对特定结局的**：主结局显著说明对它有 power；不能反推次要结局（罕见死亡）也有/没有 power。
+> - p<0.05 与 CI 不含 null **等价**——有 p 值就不必再要 CI 才能判显著。
+> 
+> ## 易混陷阱（普适）
+> - 被"55% greater odds"唬住，以为绝对获益也大——绝对差才 11%。
+> - 把"某结局事件少"当成"研究 underpowered"——power 分结局而论。
+> - 以为没给 CI 就不能判显著——p<0.05 已够。
+> 
+> ## 我为什么"✓做对"
+> - 选了：C，3:51 做对
+> - 反射已建立：相对夸大 vs 绝对真实；power 分结局；p 与 CI 等价判显著。
+> 
+> ## Memory Hook
+> **「相对(55% odds / 34% RRR)唬人，绝对(ARR 11%)才真。Power 看具体结局。有 p<0.05 就不必再要 CI。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 无卡点。确认：ARR=绝对差、RRR=相对差；广告用相对放大；power 不可跨结局外推。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q22326]] 同 vignette Item 1（55% greater odds → OR 1.55 + CI；上午做错）
+>   - [[mistakes/uworld-mistakes_2026-06#^Q20561]] RRR vs ARR 半步陷阱
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20057]] ARR 反推样本量
+>   - [[mistakes/uworld-mistakes_2026-06#^Q106495]] 统计显著 vs 临床显著
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - 📚 专题：[[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]] / [[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/肾脏]]（狼疮肾炎治疗 MMF / 环磷酰胺）
+> - 🌱 TODO：无
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写 ARR(绝对) vs RRR(相对)，广告偏好相对
+> - [ ] 默写"power 分结局、p<0.05 等价 CI 不含 null"
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: 相对 vs 绝对 measures
+> 状态:: 🟢
+> 错因:: 无（做对）

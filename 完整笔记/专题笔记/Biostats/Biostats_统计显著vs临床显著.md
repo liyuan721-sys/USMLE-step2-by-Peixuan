@@ -132,6 +132,7 @@ d = (mean₁ − mean₂) / SD_pooled（合并标准差）
 
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes_2026-06#^Q106495]] 统计显著 vs 临床显著（CI 不含 0 但 effect size < 阈值）⭐ 源头
+  - [[mistakes/uworld-mistakes_2026-06#^Q21526]] CI 含 null 判读（差值=0/比值=1；ADF vs DCR 做对题，所有 CI 跨 0 → 无差异 → 两者皆可）
   - [[mistakes/uworld-mistakes_2026-05#^Q3941]] Null Hypothesis（CI/p 与 H₀ 基础）
   - [[mistakes/uworld-mistakes_2026-05#^Q21248]] OR-CI 表格判读（CI 含/不含 null）
   - [[mistakes/uworld-mistakes_2026-05#^Q20227]] CI 不含 1 ≠ 因果（CI 越界陷阱谱系）

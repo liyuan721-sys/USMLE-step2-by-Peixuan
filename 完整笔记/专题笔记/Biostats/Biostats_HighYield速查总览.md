@@ -203,6 +203,7 @@ LR− = (1 − Sn) / Sp                          → 越小越能排除
 | **Crossover** | 同一人先 A 后 B，自做对照 | 同 RCT | 控个体差异；残留效应 carry-over |
 | **Meta-analysis** | 汇总多个研究 | 综合 RR/OR | **↑power、缩窄 CI**；异质性、发表偏倚 |
 | **Case series/report** | 几例/1 例描述 | 无 | 发现新病；无对照不能推因果 |
+| **Ecological 生态学** | 单位是**人群**（群体率 vs 群体暴露，如各国糖摄入 vs 糖尿病率）| 群体层面相关 | ❌ 不能算个体 incidence；有 **ecological fallacy 生态学谬误**（群体关联 ≠ 个体）|
 
 > [!tip] 证据等级
 > Meta > RCT > Cohort > Case-control > Cross-sectional > Case series > Case report。
@@ -220,21 +221,44 @@ LR− = (1 − Sn) / Sp                          → 越小越能排除
 
 补充：Twin study 控基因看环境；Adoption study 控环境看遗传。Clinical Trial Phase：1=安全性(健康志愿者)、2=有效性、3=对比现行标准(关键 RCT)、4=上市后监测。Factorial RCT = ≥2 变量同时随机。
 
+> [!warning] PP vs ITT 分析人群（处理脱落者方向相反）
+> 
+> | | Per-protocol（PP，符合方案）| Intention-to-treat（ITT，意向性分析）|
+> |---|---|---|
+> | 谁进分析 | 只留**依从+完成**者，**排除全部脱落/不依从** | **全部按随机分组保留**，不管脱落/转组 |
+> | 效应估计 | 理想条件"真实效应"，但**高估**疗效 | 更**保守**，贴近真实临床"预期效应" |
+> | 偏倚 | 破坏随机化 → 可能 selection bias | 保护随机化 |
+> 
+> 口诀：**PP = 只留乖学生（排脱落、高估）；ITT = 进门就算（全保留、保守）**。源 [[mistakes/uworld-mistakes_2026-06#^Q20458]]
+
+> [!tip] "比较两个地点/人群" ≠ ecological（高频陷阱）
+> Ecological 关键是**只有群体汇总率、无个体数据**；若能**随访两地个体**得发病率 → 那是 **cohort**（要 incidence / RR 一律 cohort）。源 [[mistakes/uworld-mistakes_2026-06#^Q4686]]
+
 ---
 
 ## 五、偏倚 Bias — 记情境不记定义
 
 ### 5.1 选择偏倚（谁进入研究有问题）
 
+> [!info] UWorld 把系统误差分两大类
+> **选择偏倚 Selection（5 个：谁进入/留存研究有问题）** = Ascertainment / Nonresponse / Berkson / Neyman(Prevalence) / Attrition；**测量观察偏倚 Observational（4 个：怎么测出来有问题）** = Recall / Observer / Reporting / Surveillance（见 §5.2）。先判"挑人 vs 测人"再 5/4 选 1。
+
 | Bias | Stem 钥匙 | 防范 |
 |---|---|---|
+| **Ascertainment（sampling 抽样偏倚）** | "convenience sample" / 单一诊所招募 / **样本 ≠ 目标人群**（撒网地方不对）| 随机抽样、确保样本代表总体 |
+| **Nonresponse / Selection** | "response rate 30%" + 不应答者不同 | 随机抽样、提高应答率 |
 | **Berkson** | "controls from **hospitalized** patients" | 用人群对照 |
-| **Nonresponse / Selection** | "response rate 30%" + 不应答者不同 | 随机抽样 |
-| **Attrition 失访** | "X% lost to follow-up" + 失访者不同 | **意向性分析 intention-to-treat, ITT** |
 | **Neyman (Prevalence)** | 致死病 + "long before disease assessment"（早死/早愈被漏）| 用 incidence |
+| **Attrition 失访** | "X% lost to follow-up" + 失访者不同 | 高随访率 + 如实报告失访；分析用 **ITT** |
 
 > [!success] Berkson 一句话锁定
 > **B**erkson = **B**ed（住院床）—— 看到 "hospital / hospitalized controls" 闭眼选。
+
+> [!warning] Attrition bias 深一层（失访 = selection bias 亚型）
+> - **只有失访原因与结局相关时才成偏倚**（完全随机的失访不致偏）。
+> - **方向双向**：哪一组选择性丢掉高危个体，关联就被**高估或低估**。
+>   - 例（UWorld 高脂 vs 低脂饮食-结直肠癌题）：低脂组因**不依从严格饮食**退出、高脂组因**健康问题（肥胖 obesity / 糖尿病 diabetes / 心血管病 cardiovascular disease, CVD）**退出 → 高危的高脂个体被选择性丢失 → 脂肪-结直肠癌关联被**低估**。
+> - **防范**：力争**高随访率** + **如实报告失访人数**（让读者知晓潜在 selection bias）；分析端用 **ITT（intention-to-treat 意向性分析）** 保留全部随机对象（PP 排脱落会高估，见 §四 PP vs ITT 表）。
 
 ### 5.2 测量/观察偏倚（怎么测出来有问题）
 
@@ -362,7 +386,8 @@ Prevalence ≈ Incidence × Duration
 ## 九、其余高频小点
 
 - **集中趋势/偏态**："Median 永远在中间"；**右偏（收入）Mode<Median<Mean**；左偏反之。Mean 对 outlier 敏感，偏态优选 Median。Bimodal 双峰 = 两个不同人群。
-- **正态 68/95/99.7**：±1SD=68%、±2SD(1.96)=95%、±3SD=99.7%。
+- **正态 68/95/99.7 + percentile 换算**：±1SD=68%、±2SD(1.96)=95%、±3SD=99.7%。**percentile = 左侧累计面积**：−2 / −1 / 0 / +1 / +2 / +3 SD → **2.5 / 16 / 50 / 84 / 97.5 / 99.85**th。⚠️ "区间内%"（68/95）≠ percentile（源 [[mistakes/uworld-mistakes_2026-06#^Q20538]]：+2SD = 97.5th）。
+- **相关系数 r（correlation coefficient）**：散点图（scatter plot）先判**关联类型**（线性/非线性）；线性可算 **r ∈ [−1, +1]**——**符号 = 斜率方向**（升=正 / 降=负）、**绝对值 = 线性贴合度**（越贴线 |r|→1，越散→0）。⚠️ 相关 = **粗分析**：**不控混杂、不证因果**（源 [[mistakes/uworld-mistakes_2026-06#^Q4315]]）。
 - **Prevention 4 级**：Primary 防发病（疫苗/戒烟）→ Secondary 早期发现（筛查）→ Tertiary 治已病防并发症 → Quaternary 避免过度医疗。
 - **Patient Safety 患者安全**：Active error（前线正发生）查 **RCA（root cause analysis 根因分析，反应性/事后）**；Latent error（系统潜伏缺陷）用 **FMEA（failure mode and effects analysis 失效模式与效应分析，主动性/事前预防）**；Near miss（未遂事件）上报（无惩罚文化）。
 - **Aging 衰老生理**：脉压↑（收缩压 systolic BP, SBP↑ / 舒张压 diastolic BP, DBP↓）、快速眼动睡眠（rapid eye movement, REM）↓、残气量（residual volume, RV）↑而总肺活量（total lung capacity, TLC）不变、智商保持稳定（别轻易诊断痴呆 dementia）。
@@ -376,6 +401,9 @@ Prevalence ≈ Incidence × Duration
   - [[mistakes/uworld-mistakes_2026-06#^Q21797]] PPV·NPV 行指标 vs 列指标判读
   - [[mistakes/uworld-mistakes_2026-06#^Q20561]] RRR vs ARR 半步陷阱
   - [[mistakes/uworld-mistakes_2026-06#^Q20376]] Study Design — 比较"发病风险"用 cohort（🔴 反复错）
+  - [[mistakes/uworld-mistakes_2026-06#^Q4686]] Study Design — incidence 用 cohort（误选 ecological；🔴 反复错）
+  - [[mistakes/uworld-mistakes_2026-06#^Q20458]] PP vs ITT — per-protocol 排除全部脱落者
+  - [[mistakes/uworld-mistakes_2026-06#^Q20538]] 68-95-99.7 → percentile 换算（+2SD = 97.5th）
   - [[mistakes/uworld-mistakes_2026-06#^Q3909]] p 值 ↔ CI 互译（不含 null ⟺ p<0.05）
   - [[mistakes/uworld-mistakes_2026-06#^Q106495]] 统计显著 vs 临床显著
   - [[mistakes/uworld-mistakes_2026-05#^Q20227]] OR 方向陷阱 + Case-control 不能算 risk
