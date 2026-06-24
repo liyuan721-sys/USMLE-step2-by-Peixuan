@@ -211,6 +211,7 @@ Stem：adjusted OR = 3.07 (95% CI 1.85-5.10)
   - [[mistakes/uworld-mistakes_2026-05#^Q20787]] Bradford Hill — Dose-Response（铁律 ④ 实例）
   - [[mistakes/uworld-mistakes_2026-05#^Q20283]] Case-Control vs Cohort 场景适配
   - [[mistakes/uworld-mistakes_2026-05#^Q21248]] OR-CI 表格判读 + Confounding
+  - [[mistakes/uworld-mistakes_2026-06#^Q20466]] Case-control 零假设 = OR=1（铁律②：只能 OR；做对）
   - [[mistakes/uworld-mistakes_2026-05#^Q12685]] Reporting bias（同 Biostats 偏倚谱）
   - [[NBME11_错题本#^Q061]] NBME11 甲肝暴发 case-control 选指标 = OR（**新角度：设计→可算指标**，误选 attributable risk；铁律②实例）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]

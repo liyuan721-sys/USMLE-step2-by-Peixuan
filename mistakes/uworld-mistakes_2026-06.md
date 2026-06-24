@@ -1448,6 +1448,7 @@ type: 错题数据源
 >   - [[mistakes/uworld-mistakes_2026-05#^Q20430]] ARP 阳性归因比（害人场景对应指标）
 >   - [[mistakes/uworld-mistakes_2026-05#^Q7708]] / [[mistakes/uworld-mistakes_2026-05#^Q7709]] 复合终点 + NNT（同风险指标家族）
 > - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]]（半步陷阱 + 救人/害人 6 指标）/ [[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - 📚 专题：[[完整笔记/专题笔记/Biostats/Biostats_广告题_相对vs绝对measures]]（RRR 相对放大 vs ARR 真实）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（降压药复合心血管终点解读）
 > - 🌱 TODO：连对 2 道 ARR/RRR/NNT 计算题 → 降 🟢
 > 
@@ -18301,7 +18302,7 @@ type: 错题数据源
 >   - [[mistakes/uworld-mistakes_2026-06#^Q21526]] CI 含 null 判读（同日做对题）
 >   - [[mistakes/uworld-mistakes_2026-06#^Q22327]] 同 vignette Item 2（相对 vs 绝对 measures；做对）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
-> - 📚 专题：[[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]
+> - 📚 专题：[[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]] / [[完整笔记/专题笔记/Biostats/Biostats_广告题_相对vs绝对measures]]（"55% odds"相对放大套路）
 > - 🏥 跨学科：无（纯 Biostats）
 > - 🌱 TODO：把"X% greater/lower odds → OR 换算 + 显著⟺CI排除null"补进 [[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]
 > 
@@ -18476,7 +18477,7 @@ type: 错题数据源
 >   - [[mistakes/uworld-mistakes_2026-06#^Q7690]] HR 多结局判读（别下没测过的结论）
 >   - [[mistakes/uworld-mistakes_2026-06#^Q20561]] RRR vs ARR 半步陷阱（相对降幅）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
-> - 📚 专题：[[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]]
+> - 📚 专题：[[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]] / [[完整笔记/专题笔记/Biostats/Biostats_广告题_相对vs绝对measures]]（HR 降幅 = 1−HR 的相对放大）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/内分泌]]（SGLT2 抑制剂心肾获益 + 生殖道真菌感染 / DKA 副作用）
 > - 🌱 TODO：无
 > 
@@ -18595,7 +18596,7 @@ type: 错题数据源
 >   - [[mistakes/uworld-mistakes_2026-05#^Q20057]] ARR 反推样本量
 >   - [[mistakes/uworld-mistakes_2026-06#^Q106495]] 统计显著 vs 临床显著
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
-> - 📚 专题：[[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]] / [[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]
+> - 📚 专题：[[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]] / [[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]] / [[完整笔记/专题笔记/Biostats/Biostats_广告题_相对vs绝对measures]]（绝对差 11% vs 宣传 55%）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/肾脏]]（狼疮肾炎治疗 MMF / 环磷酰胺）
 > - 🌱 TODO：无
 > 
@@ -18607,5 +18608,63 @@ type: 错题数据源
 > 
 > 学科:: Biostats
 > 主题:: 相对 vs 绝对 measures
+> 状态:: 🟢
+> 错因:: 无（做对）
+
+> [!success]- [2026-06-24] Biostats / Case-control 的 null hypothesis = OR = 1（不是 RR/HR）(Q20466) ✓ 做对
+> ^Q20466
+> 
+> ## Stem 模式
+> 按**疾病状态**选人（cases = 结直肠癌 colorectal cancer, CRC 249 例；controls = 无 CRC 261 例），再回头比 EGF A61G 多态性**暴露频率** → case-control。问最恰当的零假设 null hypothesis。
+> 
+> ## 核心概念
+> Case-control 的关联指标只能是 **OR（odds ratio 比值比）**；**零假设 H₀ = 无关联 → OR = 1（null value）**。选 **C：OR = 1**。
+> 
+> ## 普适规则
+> 
+> | 指标 | null value | 适用设计 |
+> |---|---|---|
+> | **OR** | **= 1** | case-control（按疾病选人，比暴露 odds）⭐ |
+> | RR / HR | = 1 | cohort / RCT（按暴露选人 + 随访发病/生存）|
+> | 差值（mean difference）| = 0 | 任意（连续结局）|
+> 
+> - **H₀ = "无差异 / 无关联"**；比值类 null=1、差值类 null=0。
+> - **case-control 不能算 RR / risk / incidence / HR**（无暴露人群分母、不随访）→ A/B/E/F（HR、RR）全排除。
+> - 选"OR ≠ 1"（备择 H₁）也错——问的是 **null**。
+> 
+> ## 易混陷阱（普适）
+> - 看到"关联研究"就反射 RR/HR——**先认设计**：按疾病选人 = case-control = OR。
+> - null vs alternative 看反：H₀ 永远是"等于 null（= 1 / = 0）"。
+> 
+> ## 我为什么"✓做对"
+> - 选了：C，11 秒秒选
+> - 反射已建立：case-control → OR；H₀ = OR = 1。
+> 
+> ## Memory Hook
+> **「按病选人 = case-control = 只能 OR；零假设 = OR = 1。比值 null=1、差值 null=0。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 无卡点。确认：H₀=无关联、比值指标 null=1；case-control 因无分母/不随访，不能算 RR/HR。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20227]] OR 方向 + case-control 不能算 risk
+>   - [[mistakes/uworld-mistakes_2026-05#^Q3941]] Null hypothesis（H₀ 基础）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21248]] OR-CI 表格判读
+>   - [[mistakes/uworld-mistakes_2026-06#^Q4686]] Study design 识别（按选人方式定设计）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - 📚 专题：[[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]（铁律②：case-control 只能 OR）
+> - 🏥 跨学科：无（纯 Biostats）
+> - 🌱 TODO：无
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写 null value 表（OR/RR/HR=1；差值=0）+ 各设计可算指标
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: Case-control 零假设（OR=1）
 > 状态:: 🟢
 > 错因:: 无（做对）
