@@ -9,24 +9,27 @@ status: 待发送
 
 > 返回 [[00_总览_行动清单]] · [[02_通用材料准备]]
 
-> [!warning] 为什么要发这封信（2026-06-24 核实后的真实情况）
-> 在 Gmail 全面搜索后**没有找到任何 ABMGG 官方邮件或 credential approval 文件**：
-> - `from:abmgg.org` = 0 封；`ABMGG` 关键词只有 2022/2024 申请项目的邮件 + 2 封 ACMG 新闻
-> - UCSF 申请邮件的附件只有 personal statement / 申请表 / CV，**没有 ABMGG 资格文件**
-> - 登不进 ABMGG portal（那个 portal 是给已认证 diplomate 的）
+> [!success] 真实历史已查清（2026-06-24，找到原始文件 `D:\UCLA molecular genetics申请\3-ABMGG\`）
+> **你 2017 年就拿到过 ABMGG 资格审核批准，且 ABMGG 明确接受了你的协和博士。**
+> - **2017-08-07 ABMGG Credentials Response Letter**（`Yuan Li Credentials Response Letter.pdf`，寄旧址 Redondo Beach / 旧邮箱 liyuan_g@263.net→所以 Gmail 搜不到）：
+>   - "**willing to accept your doctoral degree from Peking Union Medical College in lieu of a U.S. earned degree**" ← 协和博士被接受 ✅
+>   - TOEFL 满足英语要求 ✅
+>   - **决定有效期 6 年**（自 2017-08-07 起 → 约 **2023-08 到期**）
+> - **2022-06（263 邮箱 liyuan_6@263.net 查证）**：ABMGG 的 **Molly Yanchulis（Manager of Certification and Assessment）** 回信 **"We have extended your timeline to 6 years. If your entry extends past 6 years, you will need to submit new documentation."** → ABMGG 书面确认延期到 6 年 + 指示"超 6 年入学要交新材料"。
+> - **2023 → 按指示交新材料**：**重考 TOEFL**（用 April 30 那次成绩）+ **UPS 邮寄**新 Credentials Review Request + 全套 + **付 US$150**（Stripe 回执）；**2023-06-06 发邮件催问 ABMGG 是否收到**。
+> - **❗ 2023 之后 ABMGG 再无任何回复**（263 邮箱搜 ABMGG/Yanchulis 全部止于 2022；2023-06-06 那封是用户发出去的催问，无回执、无新决定）→ **这正是这封信要 ABMGG 给的说法**。
 >
-> **关键认知修正**：2023 拿到 UCLA LGG 面试 **≠** 已完成 ABMGG credential review。多数项目要求外国学位者在**入学前**（不是申请/面试前）完成审核；由于从未入学，这份审核**可能根本没走完**。
-> 另：ECFMG 的 credential verification 近期因学位名称问题**被拒**（独立于 ABMGG 的另一条线）。
->
-> → 所以"2023 资格审核到底有没有做、还有没有效"**无法自证，必须直接问 ABMGG**。
+> 关联：完整提交包在 `D:\UCLA molecular genetics申请\3-ABMGG\邮寄文件\`（含 WES 学位评估、成绩单、CV-2023、TOEFL、receipt）；**2022 Molly 延期邮件在 263 邮箱**（可截图/转发作证据）。ECFMG 是另一条独立线，见 [[ECFMG认证资格_问题记录]]。
 
 ---
 
 ## 收发信息
 
 - **收件人**：`abmgg@abmgg.org`（ABMGG 官网 Contact Admin 确认地址）
-- **主题**：`Status of my credential/eligibility review for LGG training — Yuan Li`
-- **附件**：暂不附（先问状态；若对方要材料再补 CV / 学位证 / 译本）
+- **主题**：`Status of my ABMGG credentials review (2017 decision + 2023 renewal) — Yuan Li`
+- **附件**（建议附上，最有力）：① **2017 ABMGG decision letter**（`Yuan Li Credentials Response Letter.pdf`）② **2023 receipt**（`7-…receipt.pdf`）③ 2023 提交的 Credentials Review Request Form。先附这三个证明"我有 2017 批准 + 2023 续期已交款"；其余材料对方要再补
+- **Word 版**：`C:\Users\liyua\Desktop\LGG报名\ABMGG_inquiry_letter_2026-06-24.docx`（填 [PHONE] / [PREFERRED NAME] / Date 即可发）
+- ⚠️ 学位口径统一写 **Professional Doctor Degree of Medicine in Clinical Medicine**（= MD/临床博士，**不加 PhD**，与 ECFMG/CV-2026 一致；理由见对话 2026-06-24：一个学位不能既算 MD 又算 PhD，两线 credential review 会对账）
 
 ---
 
@@ -34,20 +37,22 @@ status: 待发送
 
 Dear ABMGG,
 
-My name is **Yuan Li** (preferred name: **[首选名，如 Peixuan]**). I am a foreign-trained pathologist and a U.S. permanent resident based in California. I am writing to confirm the status of my ABMGG credential/eligibility review, to clarify my doctoral credential, and to request current documentation.
+My name is **Yuan Li** (preferred name: **[首选名，如 Peixuan]**). I am a foreign-trained pathologist and a U.S. permanent resident based in California, planning to apply to ABMGG-accredited **Laboratory Genetics and Genomics (LGG)** fellowship programs for a **July 2027 start**. I am writing to confirm the current status of my ABMGG credentials review and to request an updated decision letter.
 
-**Application history:** In **2022–2023** I applied to ABMGG-accredited **Laboratory Genetics and Genomics (LGG)** fellowship programs, including **UCLA** (through their online application portal) and **UCSF** (by email), and I was invited to **interview at UCLA in 2023**. I have not yet begun fellowship training, and I am now preparing to apply for a **July 2027 start**.
+**History of my ABMGG credentials review:**
 
-**My doctoral credential and practice background:** My doctoral degree is a **clinical medical doctorate** — a Professional Doctor Degree of Medicine in **Clinical Medicine** (specialty: Pathology) from **Peking Union Medical College (2012)**. I have held a **Physician's Practicing License of the People's Republic of China** (type: Clinical Medicine) **since September 2013** and have been in **independent clinical practice ever since**. I was awarded the **intermediate professional (attending) title in Pathology in 2014** and promoted to **Deputy Chief Physician in 2020** at Peking Union Medical College Hospital, personally signing out over 27,000 surgical pathology cases and more than 4,000 intraoperative consultations.
+- On **August 7, 2017**, the ABMGG Credentials Committee issued me a credentials review decision (request received July 19, 2017) **accepting my Peking Union Medical College doctoral degree in lieu of a U.S. earned degree** and confirming my TOEFL-iBT met the English requirement; the decision was **valid for six years**.
+- In **June 2022**, your office (**Ms. Molly Yanchulis, Manager of Certification and Assessment**) confirmed in writing that my timeline had been **extended to six years**, and advised that **if my entry into a training program would fall past the six-year window, I would need to submit new documentation**.
+- Accordingly, **in 2023** — as the six-year window was ending — I **re-took the TOEFL-iBT** and **mailed a new Credentials Review Request with full documentation to ABMGG by UPS**, and **paid the US$150 fee**. On **June 6, 2023** I emailed your office to confirm receipt. **I have not received any acknowledgment or new credentials decision since.**
 
 I would be grateful for your help with the following:
 
-1. **Do you have any record of a credential/eligibility review under my name** (email **liyuan721@gmail.com**)? If a review was completed, what is its date and current status? **If a credentials review was never actually completed, please let me know what I need to do to initiate one** for a July 2027 start.
-2. **Does my Professional Doctor Degree of Medicine in Clinical Medicine (Peking Union Medical College, 2012) qualify** as an acceptable doctoral credential for ABMGG eligibility in Laboratory Genetics and Genomics? If you need my degree reviewed by the Credentials Committee, what is the process and timeline?
-3. **If a review exists, is it still valid** for fellowship programs beginning in **July 2027**, or is there a **time limit / expiration** by which I must begin training? Do I need to **update, renew, or re-submit** anything?
-4. **Can you provide an official letter or document confirming my eligibility status** that I can include with my fellowship applications? Several programs request an ABMGG credential approval letter for foreign-degree applicants.
+1. **What is the status and outcome of my 2023 re-application?** As noted, **I have not received any decision letter** for it. Could you tell me whether a decision was issued, and provide it? (My 2017 decision letter and 2023 payment receipt are available on request.)
+2. **Is my credentials review eligibility currently valid?** If it has expired or my 2023 renewal was not completed, what do I need to do to have a valid decision in place for a **July 2027** fellowship start?
+3. **Could you provide a current/updated decision letter** that I can submit with my LGG fellowship applications?
+4. Please also **update and confirm my records** with my **correct name spelling — Yuan Li** (my 2017 decision letter was addressed to "Yan Li") — and my **current contact information**: email **liyuan721@gmail.com** (my 2017 decision was sent to a former address and email).
 
-If it would help locate my file or assess my credential, please tell me what identifying details or documents you need from me — I am happy to provide my degree certificate (with certified English translation), physician's license, and CV. Thank you very much for your assistance.
+I am happy to provide my 2017 decision letter, my 2023 request and payment receipt, and all supporting documents (Peking Union Medical College doctoral degree with certified CDGDC translation, WES evaluations, transcripts, CV, and TOEFL). Thank you very much for your assistance.
 
 Best regards,
 **Yuan Li**

@@ -31,7 +31,10 @@ I am writing to follow up on my email of **June 19, 2026** (Cases **C-27107384 /
 
 I would like to focus my request on a specific, **documented** basis for my eligibility.
 
-My final medical diploma is a **Professional Doctor Degree of Medicine in Clinical Medicine — i.e., a Doctor of Clinical Medicine —** awarded by **Peking Union Medical College (PUMC)** in **2012**. The doctoral program included **three years of anatomic pathology specialty training** followed by two years of research.
+My final medical diploma is a **Professional Doctor Degree of Medicine in Clinical Medicine — i.e., a Doctor of Clinical Medicine —** awarded by **Peking Union Medical College (PUMC)** in **2012**.
+
+> [!note] 为何删掉"博士课程构成"那句（2026-06-24 决定）
+> 原稿曾写"3 年病理 + 2 年科研 + 1 年 MGH"——逐条列出 = **主动暴露读博期间无临床医学课程/轮转**，自损。已删。学位名（Doctor of Clinical Medicine，证书 field 即 Clinical Medicine、在 ECFMG 清单上）才是强项，不需解释课程。课程实质以协和成绩单为准（核验时 ECFMG 自取），不由本人在信里点破。
 
 According to **ECFMG's own Reference Guide for Medical Education Credentials**, for **Peking Union Medical College, graduation year 2012, a "Doctor of Clinical Medicine" is listed as an acceptable final medical diploma.** Peking Union Medical College is also listed in the World Directory of Medical Schools with an **ECFMG Sponsor Note covering graduation years 1953–Current**. My degree falls squarely within both.
 
@@ -42,7 +45,7 @@ In light of the above, I respectfully request that ECFMG:
 1. **Update my medical school of record to Peking Union Medical College**; and
 2. **Accept and verify my Professional Doctor Degree of Medicine in Clinical Medicine (PUMC, 2012) as my final medical diploma** for ECFMG Certification.
 
-Please let me know **what documentation you require and how to proceed**. I have my degree certificate (with certified CDGDC English translation), physician's license, qualification certificates, and transcripts available, and I am happy to provide anything else needed. I would be deeply grateful for a definitive written determination at the earliest possible time.
+Please let me know **what documentation you require and how to proceed**. I have my doctoral degree certificate (with certified CDGDC English translation), my physician's license, my Deputy Chief Physician qualification certificate (with certified English translations), and my curriculum vitae attached, and I am happy to provide anything else needed, including official transcripts. I would be deeply grateful for a definitive written determination at the earliest possible time.
 
 Thank you very much for your assistance.
 
@@ -68,5 +71,10 @@ liyuan721@gmail.com
 
 ## 跟进记录
 
-- [ ] YYYY-MM-DD 已发送（邮件 + MyIntealth）
-- [ ] 收到回复：________（是否改 school of record / 是否核验博士 / 还要什么材料）
+- [x] **2026-06-24 邮件已发**（回复 6/19 原线程，含 4 附件）
+- [x] **2026-06-24 收到自动回复**（非实质答复）：明说 info@ 只自动回；"PLEASE DO NOT RESPOND"；真实状态看 MyIntealth **My Cases**；**Customer Service 也看不到 portal 以外的细节**。
+  > ❗ 结论：**给 info@ 发邮件推不动实质审查**。策略转向 portal + 电话。
+- [ ] **① 盯 MyIntealth → My Cases**：看 C-27107384 / C-27110565 有无状态变化或新「Action Needed=Yes / 上传入口」→ 有就立刻按提示做
+- [ ] **② 电话 +1-215-386-5900**（美东 9am–5pm ET）问**正确流程**（不是问案子进度）：「如何 ① 把 medical school of record 改成 PUMC ② 用 Doctor of Clinical Medicine 做 qualifying credential / 申请 individualized review，走哪个 case/表？」记接线人 + 工单号
+- [ ] **③ 很可能真正动作在 portal**：CV(C-27110565)已 Rejected，翻盘大概率要在 portal 里**针对协和博士发起新的 credential verification** / 正式改 school of record（具体按②电话问到的流程）
+- [ ] 收到实质回复/状态变化：________

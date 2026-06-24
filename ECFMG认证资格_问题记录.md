@@ -107,7 +107,7 @@ type: 申请追踪
    - 准确情况（修正之前"无轮转"的错误说法）：
      - 本科（Sichuan）：**8 周临床实习**（外科 4 周 + 内科 4 周）
      - 住院医培训期间：**临床轮转约 2 个月**（内科 1 月 + 外科 1 月；2024 邮件另写有放射 4 周）
-     - 协和**解剖病理专科训练 3 年**（读博期间前 3 年）+ 后 2 年科研 = 临床医学专业学位实质内容（专长）
+     - 协和读博期间（2006–2012，共 6 年）：**解剖病理专科训练 3 年 + 科研 2 年 + MGH 联合培养 1 年**（哈佛/麻省总院，research fellow；专长 = anatomic/surgical pathology）
    - ✅ **这些我 2024 邮件已如实告知 ECFMG**（"8 weeks clerkships, 4 surgery + 4 IM" + "rotated surgery/IM/radiology 4 weeks each during residency"）→ **一直诚实且一致，无隐瞒**。
    - 风险点：相对标准临床医学学位（通常一整年+临床见习），我的**临床轮转量偏少**，ECFMG 若按"临床医学教育实质"深究，这是最可能被掂量的地方。
    - 缓冲：ECFMG 主要核验"学位名 + 学校 sponsor note + 成绩单"，**通常不逐条卡轮转周数**（学校被 sponsor note 即视为项目达标）；成绩单以协和为准。
@@ -145,6 +145,34 @@ type: 申请追踪
 
 ---
 
+## 四-补、办理协和（PUMC）博士成绩单 SOP（2026-06-25 现场办）
+
+> [!info] 用途
+> ECFMG 核验最终文凭（协和临床医学博士）需要**官方成绩单**。先办**中文**成绩单，再据此自制**英文**成绩单送研究生院核验盖章。
+
+### 步骤一：中文成绩单（现场办）
+- 地点：北京协和医学院**档案中心**，携带本人证件前往
+- ☎️ **010-65105922**
+- 产出：盖章中文博士成绩单扫描件（英文版的底稿）
+
+### 步骤二：英文成绩单（邮件申请 → 现场领取）
+1. 在研究生院附件中**下载英文成绩单模板**
+2. **根据中文成绩单自行制作英文成绩单**（按模板逐项翻译填写）
+3. 准备《研究生成绩单办理申请表》
+4. 把以下三件发邮件到 **course@pumc.edu.cn**：
+   - 中文成绩单扫描件
+   - 自制英文成绩单
+   - 《研究生成绩单办理申请表》
+5. 研究生院核实后**邮件回复领取方式和时间**
+6. 按回复时间前往 **研究生院 306 办公室** 办理
+   - 地址：**北京市东城区东单三条九号 新18号楼**
+   - ☎️ 英文成绩单咨询 **010-65105825**（研究生院）
+
+> [!warning] 与 ECFMG 的衔接
+> 英文成绩单的**学位称号译名**要和个案信 / WDOMS / Reference Guide 对齐 —— 见 §三-补 C.3（CDGDC 英译 "Professional Doctor Degree of Medicine"，field Clinical Medicine vs ECFMG 清单 "Doctor of Clinical Medicine"）。成绩单 ECFMG 会直接向协和核验，**自制英文版务必与中文逐项一致、不自行美化**。
+
+---
+
 ## 五、ECFMG 回复后看什么（三种结局）
 
 - 🟢 同意改用**协和临床博士 / 走个案审** → 改 medical school of record，按博士线重走核验（**要争取的**）
@@ -164,6 +192,43 @@ type: 申请追踪
 
 ---
 
+## 2026-06-24 MyIntealth My Cases 实查：各案状态 + C-25966832 真相
+
+各案当前状态（截至 2026-06-24，全部 **Action Required = No** → portal 不等你操作）：
+
+| Case | 类型 | 状态 |
+|---|---|---|
+| C-25901694 | Application For Certification（旧）| **Rejected** |
+| **C-27107384** | Application For Certification（新）| **Rejected**（原 In Review→已拒）|
+| C-25971872 | Credential Verification（川大成绩单）| **CV Rejected** |
+| **C-25966832** | Credential Verification（川大文凭）| **CV Accepted** ✅ |
+| C-27110565 / 566 | Credential Verification（新）| **CV Rejected** |
+| C-21156042 | Identity Verification | Account Established ✅ |
+
+### C-25966832「CV Accepted」真相（点进去看到的）
+- 内容 = **Final Medical Diploma**，**West China School of Medicine, Sichuan University，Graduation Year 2005**（= 本科文凭），**Degree Title 空白**。
+- External Status：Sent for Verification → In Review → **CV Accepted**（2025-09-23）。
+- ⚠️ **"CV Accepted" = 学校确认这份文凭是真的（真伪通过），≠ 学位合格可用**。
+  - **Credential Verification** 问的是"文件真不真" → 川大文凭 = 真 ✅
+  - **Application for Certification** 问的是"学位够不够格" → 基础医学 = 不够 ❌（Degree Title 填不出可接受称号）
+- → **本科文凭真伪没问题，问题纯粹是学位类型（基础医学非临床）** → 更坐实解法 = **把协和 Doctor of Clinical Medicine 换进系统、改 medical school of record（现系统记的是川大 2005）**。
+
+### 下一步（portal 无入口 → 必须电话）
+- portal 全拒 + Action=No = 没有"改学校/重交"的现成按钮 → **打 +1-215-386-5900 问流程**：
+  > "My medical school of record is West China/Sichuan (Basic Medicine, 2005), no acceptable degree title. I hold a Doctor of Clinical Medicine from PUMC. **How do I change my medical school of record to PUMC and have that degree verified?**"
+
+## ⚠️ 2026-06-24 重要发现：博士成绩单英文误翻成 "Master Degree"
+
+- 协和**博士研究生成绩单**（`博士成绩.jpg`，入学 2009/9，专业 Pathology and Pathophysiology，研究生院章 2011/12/7）：
+  - 中文标题"北京协和医学院**博士**研究生成绩单" + 课程"临床**博士**专业外语/专业课…"✅
+  - **但英文标题误翻成 "Official Transcript for Master Degree"** ❌（博士→硕士）
+- **风险**：ECFMG/ABMGG 主看英文 → 会把博士读成硕士；与学位证（CDGDC 译 "Professional Doctor Degree of Medicine"✅）**自相矛盾** → **可能是 CV 被拒的因素之一**。
+- **必须做**：重出一份**英文标题为 Doctoral/Doctor** 的成绩单（走 CDGDC 或公证翻译），与学位证口径统一；所有协和文件统一显示"博士/Doctor"。
+- 附带：入学 2009/9 = 博士段（2009→2012）；CV "2006–2012" 可能含硕士，核对日期一致性。
+
 ## 更新日志
 - **2026-06-19**：建档。查清根因（基础医学非临床）、备齐 4 附件、发 inquiry 请求个案审查。等 ECFMG 回复。
-- **2026-06-24**：浏览器实查 WDOMS + ECFMG《Reference Guide》→ 协和是 ECFMG sponsor（grad 1953–Current），且 **2012 "Doctor of Clinical Medicine" 在 ECFMG 可接受文凭清单上**。§三悲观判断被证伪（见 §三-补）。下一步：跟进信直接引用此条 + 推进把 medical school of record 改为协和。证件官方英文名整理见 [[LGG_Fellowship_申请追踪/05_资质文件清单]]。
+- **2026-06-24**：浏览器实查 WDOMS + ECFMG《Reference Guide》→ 协和是 ECFMG sponsor（grad 1953–Current），且 **2012 "Doctor of Clinical Medicine" 在 ECFMG 可接受文凭清单上**。§三悲观判断被证伪（见 §三-补）。证件官方英文名整理见 [[LGG_Fellowship_申请追踪/05_资质文件清单]]。
+- **2026-06-24**：MyIntealth My Cases 查证——**新认证申请 C-27107384 也已 Rejected**，CV C-27110565/566 均 Rejected，仅 C-25966832 CV Accepted（点进去 = **川大本科文凭"真伪通过"，非学位合格**；Degree Title 空白）；全部 Action Required=No（portal 不等你操作=邮件死路，须电话问改 school of record 流程）。**另发现博士成绩单英文误翻成 "Master Degree"（须修，见上）**。详见新增"## 2026-06-24 My Cases 实查"节。
+- **2026-06-24**：**跟进信已发**（回复 6/19 原线程）——援引 Reference Guide + 请求改 school of record 为协和 + 核验博士；附博士学位证/执业证/副高证/CV（删除了"博士课程构成"那句以免自曝无临床轮转）。定稿见 [[LGG_Fellowship_申请追踪/06_ECFMG跟进信]]，Word：`D:\USMLE\ECFMGUSMLE申请\ECFMG_followup_letter_2026-06-24.docx`。**待 ECFMG 回复**；~1–2 周无实质回复则电话 +1-215-386-5900。建议再走 MyIntealth My Cases 同步提交。
+- **2026-06-25**：现场办协和博士成绩单 —— 中文成绩单（档案中心 ☎️010-65105922）→ 自制英文成绩单 + 申请表发 course@pumc.edu.cn 核验 → 研究生院 306 办公室（东单三条九号 新18号楼，☎️010-65105825）领取。流程见 §四-补。
