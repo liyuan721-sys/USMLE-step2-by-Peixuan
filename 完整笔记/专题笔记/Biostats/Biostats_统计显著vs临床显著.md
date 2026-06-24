@@ -57,6 +57,10 @@ d = (mean₁ − mean₂) / SD_pooled（合并标准差）
 | ≈ 0.5 | medium（中）|
 | ≈ 0.8 | large（大）|
 
+> [!tip] Effect size 还决定 power（是 power 4 因素之一）
+> **effect size ↑ → 组间差得越远越容易检测 → power ↑**；算样本量时必须先**假定一个 effect size**（假定越小 → 需要的 n 越大）。详见 [[完整笔记/专题笔记/Biostats/Biostats_α_β_Power]]。
+> 近期实例：[[mistakes/uworld-mistakes_2026-06#^Q21323]] HR 0.75（生存 effect size，降幅=1−HR）/ [[mistakes/uworld-mistakes_2026-06#^Q4315]] 相关系数 r / [[mistakes/uworld-mistakes_2026-06#^Q22327]] 同一组数据的绝对 vs 相对 effect size（ARR 11% vs 55% odds）。
+
 ---
 
 ## 三、四种组合 ⭐
