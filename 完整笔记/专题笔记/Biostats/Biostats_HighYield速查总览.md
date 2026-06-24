@@ -230,6 +230,10 @@ LR− = (1 − Sn) / Sp                          → 越小越能排除
 > | 偏倚 | 破坏随机化 → 可能 selection bias | 保护随机化 |
 > 
 > 口诀：**PP = 只留乖学生（排脱落、高估）；ITT = 进门就算（全保留、保守）**。源 [[mistakes/uworld-mistakes_2026-06#^Q20458]]
+> 
+> ![[{7E1FFA88-108A-4246-9299-66D181F7F6C0}.png]]
+> 
+> 图示（每组 n=10）：PP 剔除 noncompliance/dropout（不依从/脱落）→ 分母缩小（A 3/8、B 4/7）；ITT 全保留 → A 3/10、B 4/10。
 
 > [!tip] "比较两个地点/人群" ≠ ecological（高频陷阱）
 > Ecological 关键是**只有群体汇总率、无个体数据**；若能**随访两地个体**得发病率 → 那是 **cohort**（要 incidence / RR 一律 cohort）。源 [[mistakes/uworld-mistakes_2026-06#^Q4686]]
