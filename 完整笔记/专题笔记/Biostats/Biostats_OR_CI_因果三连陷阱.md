@@ -214,6 +214,9 @@ Stem：adjusted OR = 3.07 (95% CI 1.85-5.10)
   - [[mistakes/uworld-mistakes_2026-06#^Q20466]] Case-control 零假设 = OR=1（铁律②：只能 OR；做对）
   - [[mistakes/uworld-mistakes_2026-05#^Q12685]] Reporting bias（同 Biostats 偏倚谱）
   - [[NBME11_错题本#^Q061]] NBME11 甲肝暴发 case-control 选指标 = OR（**新角度：设计→可算指标**，误选 attributable risk；铁律②实例）
+  - [[mistakes/uworld-mistakes_2026-06#^Q20420]] adjusted vs unadjusted + CI 含 1 → 显著性不可排名（铁律③；只读 adjusted 列）
+  - [[mistakes/uworld-mistakes_2026-06#^Q108443]] Case-control 对照组 = 无病 + 与暴露无关（铁律②延伸：设计→选人逻辑）
+  - [[mistakes/uworld-mistakes_2026-06#^Q12674]] 分层效应不等 = effect modification → 精准医学（vs confounding）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
 - 📋 邻近笔记：[[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]] / [[完整笔记/专题笔记/Biostats/Biostats_α_β_Power]]
 - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/OB]]（pregnancy-related death 流行病学 / 种族差异 — [[mistakes/uworld-mistakes_2026-05#^Q20227]] 原 stem）

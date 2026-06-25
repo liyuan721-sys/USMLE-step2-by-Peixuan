@@ -18668,3 +18668,465 @@ type: 错题数据源
 > 主题:: Case-control 零假设（OR=1）
 > 状态:: 🟢
 > 错因:: 无（做对）
+
+## 2026-06-25
+
+> [!example]- [2026-06-25] Biostats / Sn·Sp 反推（不能推 PPV/accuracy） (Q21644)
+> ^Q21644
+> 
+> ## Stem 模式
+> 同一人群比较两个诊断检验 A/B：报告"病人中 Test A 阳性比例更高""无病者中 Test A 阴性比例更低"。问哪个结论**必然**成立。
+> 
+> ## 核心概念
+> "**diseased 中 test+ 比例**" = **Sensitivity（敏感度）**；"**nondiseased 中 test− 比例**" = **Specificity（特异度）**。Test A 病人阳性更多 → **更敏感**（FNR↓）；无病者阴性更少 → **特异性更低**（FPR↑）。正解 = Test A 假阳性率(FPR)更高。
+> 
+> ## 普适规则
+> 
+> | 文字描述 | 对应指标 | 推论 |
+> |---|---|---|
+> | 病人(diseased)中阳性比例↑ | Sn↑ | FNR = 1−Sn ↓（更少漏诊） |
+> | 无病者(nondiseased)中阴性比例↓ | Sp↓ | FPR = 1−Sp ↑（更多误诊） |
+> 
+> - **Sn/Sp = 列指标**（按疾病状态分母）→ 给文字比例即可比较。
+> - **Accuracy = (TP+TN)/total、PPV = TP/(TP+FP)** = 行指标 → **必须知道样本量 + 实际 Sn/Sp 数值 + 患病率**才能算/比较。
+> 
+> ## 易混陷阱（普适）
+> "更敏感" ≠ "更准/PPV 更高"。只给"哪个比例更高/更低"的定性信息 → 只能推 Sn/Sp 与 FNR/FPR；**accuracy/PPV 缺数字一律不能下结论**。
+> 
+> ## 我为什么错
+> - 选了：B（Test A PPV 更高）
+> - 错因：知识
+> - 核心陷阱：从"更敏感"直接跳到 PPV/accuracy；没意识到无样本量/患病率就无法比较行指标。
+> 
+> ## Memory Hook
+> **「病人里更多阳=更敏(FNR↓)；无病里更少阴=更不特异(FPR↑)；accuracy/PPV 没数字算不出。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 确认：定性比例 → 只动 Sn/Sp/FNR/FPR；PPV/accuracy 需要更多信息（N + 患病率）。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q107539]] ROC 角点（同日 Sn/Sp 几何）
+>   - [[mistakes/uworld-mistakes_2026-06#^Q21797]] PPV/NPV 行指标 vs 列指标判读
+>   - [[NBME11_错题本#^Q003]] 低患病率 + "阳性可信吗" → PPV
+> - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_诊断4指标动态_PPV陷阱]] / [[完整笔记/专题笔记/Biostats/Biostats_HighYield速查总览]]（§二）
+> - 🏥 跨学科：无（纯 Biostats）
+> - 🌱 TODO：无
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写 FNR=1−Sn / FPR=1−Sp + "PPV/accuracy 需 N+患病率"
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: Sn/Sp 反推（不能推 PPV/accuracy）
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-06-25] Biostats / 显著性不可排名 + 只读 adjusted 列 (Q20420)
+> ^Q20420
+> 
+> ## Stem 模式
+> 卒中 tPA（tissue plasminogen activator，组织型纤溶酶原激活剂）患者，HxS+DM vs 无 → 多个结局给 **RR(95%CI) 未调整 vs 调整**两列。问关于关联最恰当的结论。
+> 
+> ## 核心概念
+> **统计显著 = 二元判断**（CI 是否含 1.0），**不能按 RR 偏离程度排"谁更显著"**。下关联结论只看 **adjusted（去混杂）**列——本题调整后只有"discharge to SNF（skilled nursing facility，专业护理机构）"（RR 1.54, CI 1.23–1.94）CI 仍不含 1。
+> 
+> ## 普适规则
+> 
+> | 判断 | 规则 |
+> |---|---|
+> | 关联是否成立 | 永远读 **adjusted** 列（控制了混杂） |
+> | 是否显著 | CI **含 1.0 = 不显著**；**不含 = 显著**（是非题） |
+> | "谁更显著" | ❌ 伪命题——显著性不按效应量/CI 偏离排名 |
+> | 未调整全显著 | ≠ 真实；调整后多数 CI 跨 1 → 混杂制造的假关联 |
+> 
+> ## 易混陷阱（普适）
+> ①拿 **unadjusted** 列下结论；②按 RR 大小排"最显著"（RR 1.84 hospice 最大 ≠ 最显著）；③把"显著/不显著"误当连续刻度。
+> 
+> ## 我为什么错
+> - 选了：B（discharged to hospice 最显著）
+> - 错因：知识
+> - 核心陷阱：误以为显著性可按效应量排序；且凭未调整列直觉。
+> 
+> ## Memory Hook
+> **「显著 = CI 含不含 1（是非题，不排名）；下结论只认 adjusted 列。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 确认：adjusted 去混杂；显著性 yes/no；RR 大 ≠ 更显著。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q3909]] p 值 ↔ CI 互译（不含 null ⟺ p<0.05）
+>   - [[mistakes/uworld-mistakes_2026-06#^Q106495]] 统计显著 vs 临床显著
+>   - [[mistakes/uworld-mistakes_2026-05#^Q21248]] OR-CI 表格判读 + Confounding
+> - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]（§四 CI / §六 adjusted）/ [[完整笔记/专题笔记/Biostats/Biostats_HighYield速查总览]]（§3.3）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/神经]]（卒中 tPA 结局）
+> - 🌱 TODO：无
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写 "CI 含 1=不显著；只读 adjusted；显著性不可排名"
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: 显著性不可排名 + adjusted 列
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-06-25] Biostats / 分层效应不等 → 精准医学 (Q12674)
+> ^Q12674
+> 
+> ## Stem 模式
+> LcPUFA（long-chain polyunsaturated fatty acids，长链多不饱和脂肪酸）孕期补充 vs 安慰剂防子代哮喘；按母亲**基线 LcPUFA 三分位**分层：只有**最低三分位** ARR 显著（p=0.04），中/高三分位不显著。问最准确结论。
+> 
+> ## 核心概念
+> 整体获益**主要来自低基线亚组** → **effect modification（效应修饰，按基线水平）**；推论 = **精准医学**：针对**低基线 LcPUFA**人群补充才可能有效。正解 D。
+> 
+> ## 普适规则
+> - 分层后**各层效应不等** = **效应修饰**（要分层报告，**不能 adjust 掉**）。
+> - 整体阳性但仅某亚组驱动 → **个体化/精准医学**（按基线/基因型/家族史靶向干预）。
+> - 方向以**显著的那一层**为准——本题获益在**低基线**层。
+> 
+> ## 易混陷阱（普适）
+> ①整体显著 → 误外推"人人获益/给高基线人群"；②把中间层绝对差(0.8%)说成相对降低；③据高层无差异否定整体效应。
+> 
+> ## 我为什么错
+> - 选了：B（应给高基线 LcPUFA 人群补充以降风险）
+> - 错因：知识
+> - 核心陷阱：方向反——获益在**低**基线层不是高；没抓"分层效应不等 → 精准医学靶向低基线"逻辑。
+> 
+> ## Memory Hook
+> **「只有低基线层显著 → 补给低基线人群（精准医学）；分层效应不等 = 效应修饰，分层报告别校正掉。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 确认：effect modification 要分层报告；阳性亚组决定靶向方向。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题/做对题：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q12673]] 同 vignette NNT=1/ARR（做对）
+>   - [[mistakes/uworld-mistakes_2026-06#^Q4315]] 相关分析不控混杂/不证因果
+> - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_HighYield速查总览]]（§5.4 Confounding vs Effect modification）/ [[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/OB]]（孕期营养干预）/ [[完整笔记/Peixuan分科笔记/pulmonary]]（儿童哮喘）
+> - 🌱 TODO：无
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写 "分层效应不等=效应修饰→分层报告+精准医学靶向阳性亚组"
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: 效应修饰 → 精准医学
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-06-25] Biostats / Case-control 对照组选取 (Q108443)
+> ^Q108443
+> 
+> ## Stem 模式
+> 计划 case-control 研究柴油暴露与膀胱癌；cases = 膀胱癌患者。问合适的**对照组**。
+> 
+> ## 核心概念
+> case-control 按**结局状态**选人：cases = 有病，**controls = 无病，且选取与暴露无关（regardless of exposure）**。正解 C：**无膀胱癌、不论是否暴露柴油**。
+> 
+> ## 普适规则
+> - **对照铁律：按 outcome 选（无病），绝不按 exposure 选。**
+> - 研究目的 = 比较 cases vs controls 的**暴露频率**；若按暴露挑对照 → 破坏该比较（循环论证 / selection bias）。
+> - ❌ 任何"有病"的人(D/E/F)不能当对照；❌ 按暴露限定对照(A/B 只取无暴露)人为制造关联。
+> 
+> ## 易混陷阱（普适）
+> 误选"无病**且**无暴露"作对照（过度限定）——对照的暴露分布必须能代表源人群，不能预先固定暴露状态。
+> 
+> ## 我为什么错
+> - 选了：E（有膀胱癌但无暴露）
+> - 错因：知识
+> - 核心陷阱：把对照选成"有病"，混淆 case/control 由**结局**定义；没记"对照 = 无病 + 与暴露无关"。
+> 
+> ## Memory Hook
+> **「case-control 对照 = 无病 + 不论暴露（按结局选人，绝不按暴露选）。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 确认：cases/controls 由疾病状态定义；对照暴露分布要代表源人群。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q3922]] 同日 cross-sectional 设计识别
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20227]] OR 方向 + case-control 不能算 risk
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20283]] Case-control vs Cohort 场景适配
+> - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]（§三 设计→可算指标）/ [[完整笔记/专题笔记/Biostats/Biostats_HighYield速查总览]]（§四）
+> - 🏥 跨学科：无（纯 Biostats）
+> - 🌱 TODO：无
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写 "对照 = 无病 + 与暴露无关；按结局选人"
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: Case-control 对照组选取
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-06-25] Biostats / Crude vs Age-standardized mortality (Q108007)
+> ^Q108007
+> 
+> ## Stem 模式
+> 同一医生两地点(L1/L2)测心脏病**粗死亡率 CMR**：L1 的 CMR = L2 的**一半**；但国家数据**年龄标化死亡率 ASMR** 两地**无差异**。问符合的结论。
+> 
+> ## 核心概念
+> **CMR（crude，粗率）受人群年龄构成影响**；**ASMR（age-standardized，年龄标化率）消除年龄差异**。CMR 有差 + ASMR 无差 → 差异**完全由年龄结构不同解释**，非真实心脏病死亡率差异。L1 的 CMR 低一半 → **L1 人群更年轻**。正解 E：L1 患者比 L2 年轻。
+> 
+> ## 普适规则
+> 
+> | 概念 | 定义 | 受年龄构成影响？ |
+> |---|---|---|
+> | **Crude rate（粗率）** | 总事件 / 总人口 | ✅ 受（年龄等构成混杂） |
+> | **Age-standardized rate（标化率 ASMR）** | 用标准人口加权各年龄别率 | ❌ 去除年龄构成差异 → **可跨人群比较** |
+> 
+> - CMR 差但 ASMR 同 → 差异 = **年龄结构混杂**（confounding by age）。
+> - 心脏病死亡随年龄↑ → **CMR 低的一方人群更年轻**。
+> 
+> ## 易混陷阱（普适）
+> ①把 CMR 差异当真实死亡率差异（"L1 心脏病死亡真的低"）；②年龄方向推反（说 CMR 低 = 人更老）。
+> 
+> ## 我为什么错
+> - 选了：A（L1 老年人心脏病死亡更低）
+> - 错因：知识
+> - 核心陷阱：不熟 crude vs age-standardized；把粗率差异当真实差异，且年龄方向没推对（CMR 低 → 更年轻）。
+> 
+> ## Memory Hook
+> **「粗率受年龄构成骗人，标化率去年龄。CMR 低一半但标化无差 → 那群人更年轻。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 确认：crude=受构成混杂、standardized=去混杂可比；rate 低的一方在该死因上人群更年轻。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q4686]] Study design（人群率 vs 个体率）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q4182]] Matching 控制 Confounding（同"去年龄混杂"思路）
+> - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_HighYield速查总览]]（§八 流行病学指标）/ [[完整笔记/Peixuan分科笔记/Biostats_Master]]
+> - 🏥 跨学科：无（纯 Biostats/Epi）
+> - 🌱 TODO：无（已增补 HighYield §八 crude vs standardized）
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写 "crude 受年龄构成 / standardized 去年龄 / CMR 低=人群更年轻"
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: Crude vs Age-standardized rate
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!example]- [2026-06-25] Biostats / ARP=(RR−1)/RR（反复错） (Q4157)
+> ^Q4157
+> 
+> ## Stem 模式
+> 队列随访 7 年，高饱和脂肪 vs 低 → 结直肠癌 **RR = 4.0**（95%CI 1.5–6.5）。问高脂人群结直肠癌中**多少比例可归因于**高脂饮食。
+> 
+> ## 核心概念
+> "暴露者疾病中归因于暴露的百分比" = **ARP（归因危险度百分比）=(RR−1)/RR**。RR=4 → (4−1)/4 = **75%**。正解 C。
+> 
+> ## 普适规则
+> - **ARP =(RR−1)/RR**（只取决于 RR，与绝对风险无关）。
+> 
+> | RR | 2 | **4** | 5 | 10 |
+> |---|---|---|---|---|
+> | **ARP=(RR−1)/RR** | 50% | **75%** | 80% | 90% |
+> 
+> - 关键词："**percentage** of disease in exposed **attributable to** / could be **prevented** by eliminating exposure" → ARP。
+> - ❌ 别和 **1/RR(=25%)** 混；❌ 别停在 ARI（Re−Ru 绝对差）。
+> 
+> ## 易混陷阱（普适）
+> **25% = 1/RR** = 钓饵（取了倒数/补数）；ARP 是 **(RR−1)/RR** 不是 1/RR。
+> 
+> ## 我为什么错
+> - 选了：A（25%）
+> - 错因：计算
+> - 核心陷阱：把 ARP 算成 1/RR=1/4=25%，公式记反（应 (RR−1)/RR）。
+> - 🔴 **ARP 反复错家族**：继 [[mistakes/uworld-mistakes_2026-05#^Q20430]]（×3）后再栽 → 升 🔴。
+> 
+> ## Memory Hook
+> **「ARP=(RR−1)/RR；RR4→75%。25% 是 1/RR 的钓饵，别取倒数。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 反复点：ARP ≠ 1/RR ≠ ARI。问"percentage attributable" 一律 (RR−1)/RR。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20430]] 🔴 ARP 归因比（反复错 ×3 源头）
+>   - [[mistakes/uworld-mistakes_2026-06#^Q20561]] RRR vs ARR 半步陷阱
+>   - [[mistakes/uworld-mistakes_2026-06#^Q20711]] RR 计算
+> - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]]（ARP 捷径 + RR→ARP 阶梯）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/GI]]（结直肠癌危险因素）
+> - 🌱 TODO：连对 2 道 ARP 题 → 可降 🔴
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写 ARP=(RR−1)/RR 阶梯（2→50/4→75/5→80/10→90）
+> - [ ] 找 3 道 "percentage attributable" 题练反射
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: ARP 归因危险度百分比
+> 状态:: 🔴
+> 错因:: 计算
+
+> [!example]- [2026-06-25] Biostats / Cross-sectional 设计识别 (Q3922)
+> ^Q3922
+> 
+> ## Stem 模式
+> 5-lipoxygenase 基因型与动脉粥样硬化；从大学医院**随机抽一个样本**，**同时**测基因型(血)和 CIMT（carotid intima-media thickness，颈动脉内膜中层厚度，超声）；结果两者相关。问研究设计。
+> 
+> ## 核心概念
+> **单一样本、单一时点、同时测暴露(基因型)+疾病(CIMT)** = **Cross-sectional（横断面）"快照"**。正解 B。即便基因型时序上先于疾病，设计仍按"何时测量"判定 → 横断面。
+> 
+> ## 普适规则
+> 
+> | 设计 | 标志 |
+> |---|---|
+> | **Cross-sectional** | 一个时点**同时测**暴露+结局（快照）；出 prevalence/POR |
+> | **Case-control** | 先按**有病/无病**分组，再**回顾**暴露 |
+> | **Cohort** | 按**暴露**分组，**前瞻随访**结局发生 |
+> 
+> - 本题没按疾病分组挑人、没随访 → 排除 case-control / cohort。
+> 
+> ## 易混陷阱（普适）
+> "医院抽样 + 找关联 + 回顾气质" 诱导误判 **case-control**；关键看**是否按结局选人 + 是否单时点同时测**。基因型这类"出生即定"暴露横断面也能显示时序，别因此判 cohort。
+> 
+> ## 我为什么错
+> - 选了：A（case-control）
+> - 错因：pattern
+> - 核心陷阱：没抓"单样本单时点同时测"=横断面，被"医院抽样找关联"诱导。
+> 
+> ## Memory Hook
+> **「单样本 + 一个时点同时测暴露与病 = cross-sectional 快照；没按有病/无病挑人就不是 case-control。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 研究设计识别簇（与 Q20376 / Q4686 🔴 同弱区）；先问"何时测 + 是否按结局/暴露选人"。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q108443]] 同日 case-control 对照组选取
+>   - [[mistakes/uworld-mistakes_2026-06#^Q20376]] 🔴 比较"发病风险"用 cohort
+>   - [[mistakes/uworld-mistakes_2026-06#^Q4686]] 🔴 incidence 用 cohort（误选 ecological）
+> - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_HighYield速查总览]]（§四 研究设计秒认）/ [[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]（§三）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（动脉粥样硬化 / CIMT）
+> - 🌱 TODO：研究设计识别簇 3+ 题 → 考虑拆 `Biostats_研究设计秒认与可算指标`
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写 cross-sectional/case-control/cohort 三标志（何时测+按谁选人）
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: 研究设计识别（cross-sectional）
+> 状态:: 🟡
+> 错因:: pattern
+
+> [!example]- [2026-06-25] Biostats / ROC 角点（阳性全是 FP） (Q107539)
+> ^Q107539
+> 
+> ## Stem 模式
+> ROC 曲线 4 个理论 cut point；点 **E 在右下角 (1−Sp=1.0, Sn=0.0)**。问点 E 含义。
+> ![[{D3505D93-41DD-42FE-8B30-98E2D8C678DC}.png]]
+> ## 核心概念
+> ROC 纵轴=Sn(TPR)、横轴=1−Sp(FPR)。点 E (1.0, 0.0)：**Sn=0%（无真阳）+ FPR=100%（无病者全测阳）** → **所有阳性结果都是假阳性**。正解 A。
+> 
+> ## 普适规则（ROC 四角）
+> 
+> | 位置 | (FPR, Sn) | 含义 |
+> |---|---|---|
+> | 左下 | (0, 0) | cutoff 最高 → **全部判阴** |
+> | 左上 ⭐ | (0, 1) | Sn100% Sp100% → **完美检验（理想点）** |
+> | 右上 | (1, 1) | cutoff 最低 → **全部判阳** |
+> | **右下** | **(1, 0)** | Sn0% FPR100% → **阳性全是假阳（最差，比瞎猜还差）** |
+> 
+> - 最佳 cutoff = 距左上角 (0,1) 最近的点。
+> 
+> ## 易混陷阱（普适）
+> "所有检验结果都阳性"(D) 是**右上角 (1,1)**，不是右下；点 E 是"**阳性全为 FP**"（病人一个没检出 + 无病者全标阳）。
+> 
+> ## 我为什么错
+> - 选了：D（所有检验结果都阳性）
+> - 错因：知识
+> - 核心陷阱：把右下角误当右上角；没分清"阳性全是 FP"(E 点) vs "全部判阳"(右上)。
+> 
+> ## Memory Hook
+> **「ROC 右下角 (FPR100/Sn0)：病人零检出 + 无病者全阳 → 阳性全是假阳。左上才完美。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 四角几何：左上=完美、右上=全阳、左下=全阴、右下=阳性全 FP。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q21644]] 同日 Sn/Sp 反推
+>   - [[mistakes/uworld-mistakes_2026-05#^Q7711]] ROC 曲线 + Cutoff 跷跷板
+> - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_诊断4指标动态_PPV陷阱]]（§十一 ROC/AUC）/ [[完整笔记/专题笔记/Biostats/Biostats_HighYield速查总览]]（§2.5）
+> - 🏥 跨学科：无（纯 Biostats）
+> - 🌱 TODO：无
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写 ROC 四角含义 + 最佳 cutoff = 最近左上角
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: ROC 角点判读
+> 状态:: 🟡
+> 错因:: 知识
+
+> [!success]- [2026-06-25] Biostats / NNT=1/ARR（✅做对） (Q12673)
+> ^Q12673
+> 
+> ## Stem 模式
+> LcPUFA 孕期补充防子代哮喘；整体哮喘 **17.1% vs 24.3%**。问需治疗多少孕妇防 1 例子代哮喘(NNT)。
+> 
+> ## 核心概念
+> **NNT = 1/ARR**。ARR = 24.3%−17.1% = **7.2%** → NNT = 1/0.072 ≈ 13.9 → **14**。正解 B。
+> 
+> ## 普适规则
+> - **NNT = 1/ARR**（向上取整）；ARR = 对照率 − 治疗率（绝对差）；NNT 越小越有效。
+> 
+> ## Memory Hook
+> **「NNT=1/ARR；ARR=24.3−17.1=7.2% → 1/0.072≈14。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 做对（5:26）。自查：别把 ARR 算成相对差。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题/做对题：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q20561]] RRR vs ARR 半步陷阱
+>   - [[mistakes/uworld-mistakes_2026-06#^Q12674]] 同 vignette 分层 → 精准医学
+>   - [[mistakes/uworld-mistakes_2026-05#^Q7708]] 复合终点 + NNT
+> - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_广告题_相对vs绝对measures]]（§三/§五）/ [[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]]
+> - 🏥 跨学科：无（纯 Biostats）
+> - 🌱 TODO：无
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写 NNT=1/ARR 向上取整
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: NNT=1/ARR
+> 状态:: 🟢
+> 错因:: 无（做对）

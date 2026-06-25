@@ -151,7 +151,8 @@
   - [[mistakes/uworld-mistakes_2026-06#^Q20561]] RRR vs ARR 半步陷阱（算到 ARR 就停，漏 ÷Risk_ctrl）
   - [[mistakes/uworld-mistakes_2026-06#^Q20711]] RR 计算 — 多结局图锁定正确结局行
   - [[mistakes/uworld-mistakes_2026-05#^Q20057]] ARR 反推样本量
-  - [[mistakes/uworld-mistakes_2026-05#^Q20430]] ARP 阳性归因比（害人场景）
+  - [[mistakes/uworld-mistakes_2026-05#^Q20430]] 🔴 ARP 阳性归因比（害人场景；反复错 ×3）
+  - [[mistakes/uworld-mistakes_2026-06#^Q4157]] 🔴 ARP=(RR−1)/RR（RR4→75%；误选 25%=1/RR；ARP 第 4 次栽）
   - [[mistakes/uworld-mistakes_2026-05#^Q7708]] / [[mistakes/uworld-mistakes_2026-05#^Q7709]] 复合终点 + NNT
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
 - 📋 邻近笔记：[[完整笔记/专题笔记/Biostats/Biostats_诊断4指标动态_PPV陷阱]]（Sn/Sp/PPV/NPV 诊断指标家族 — 与本卡风险指标家族区分）/ [[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]

@@ -220,6 +220,27 @@ Stem 说 "PPV 低"
 
 ---
 
+## 十一、ROC 曲线四角点判读 ⭐（Q107539）
+
+ROC（receiver operating characteristic，受试者工作特征曲线）：**纵轴 = Sensitivity（真阳性率 TPR）**，**横轴 = 1 − Specificity（假阳性率 FPR）**。四个角点是必考的极端 cutoff：
+
+| 位置 | 坐标 (FPR, Sn) | cutoff | 含义 |
+|---|---|---|---|
+| **左下** | (0, 0) | 最高（最严）| 没人测阳 → **全部判阴**（Sn 0% / FPR 0%）|
+| **左上** ⭐ | (0, 1) | 理想 | **完美检验**：Sn 100% + Sp 100%（最佳 cutoff = 距此点最近）|
+| **右上** | (1, 1) | 最低（最松）| 人人测阳 → **全部判阳**（Sn 100% / FPR 100%）|
+| **右下** | **(1, 0)** | — | Sn 0% + FPR 100% → **病人零检出 + 无病者全标阳 → 阳性结果全是假阳性**（最差，比随机对角线还差）|
+
+> [!danger] 右下角 vs 右上角 别混（Q107539 错点）
+> - **右下 (1,0)**："**阳性全是 FP**"（真患者一个没抓到，无病者却全被标阳）。
+> - **右上 (1,1)**："**全部结果判阳**"（cutoff 拉到最低，谁来都阳）。
+> - 两者都"阳性多"，但右下是**最差的判别力**（落在对角线下方），右上只是 cutoff 极松。
+
+> [!tip] 配合 §六 cutoff 联动
+> 沿 ROC 从左下 → 右上 = cutoff 从高调低（Sn↑、Sp↓、FPR↑）。**对角线 = AUC 0.5 = 瞎猜**；曲线越往左上凸 AUC 越大。
+
+---
+
 ## 🔗 关联
 
 - 🔁 同主题错题：
@@ -228,6 +249,8 @@ Stem 说 "PPV 低"
   - [[NBME11_错题本#^Q003]] 低患病率(<1%) + "我这阳性可信吗" → PPV(误选 +LR)
   - [[NBME11_错题本#^Q073]] 胰腺癌阳性 + 患病率 1% → 不高危(低 pretest probability)（误选高 Sp；🔴 同 Q003 反复错）
   - [[NBME11_错题本#^F18]] 结直肠筛查年龄 50→45（纳入低患病率人群）→ **PPV↓ / NPV↑**（误选反向）
+  - [[mistakes/uworld-mistakes_2026-06#^Q107539]] ROC 四角点 — 右下 (1,0) 阳性全是 FP（§十一）
+  - [[mistakes/uworld-mistakes_2026-06#^Q21644]] Sn/Sp 文字反推（病人阳性比例 = Sn；不能推 PPV/accuracy）
   - 待 UW 出现 PPV / Sp 联动陷阱题（高 prevalence 但 PPV 低）后继续回填
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]（§111-150 PPV/NPV 基础 + §1015-1027 Cutoff 调整）
 - 🏥 跨学科：
@@ -236,7 +259,7 @@ Stem 说 "PPV 低"
 - 🌱 TODO：
   - 累积 3+ 道 PPV / Sp 联动陷阱题后回填具体 Q 锚
   - ✅ 已建独立姊妹篇 [[完整笔记/专题笔记/Biostats/Biostats_似然比与pretest_probability]]（LR+ / LR− + pretest/posttest 贝叶斯更新）；本篇静态指标 ↔ 那篇动态更新，接口 = posttest(阳性) = PPV
-  - 累积 ROC / AUC 实题 → 扩展第 11 节（或独立 `Biostats_ROC_AUC_cutoff选择`）
+  - ✅ 已建 §十一 ROC 四角点判读（Q107539 兑现）；再积累 ROC/AUC cutoff 选择题 → 可拆独立 `Biostats_ROC_AUC_cutoff选择`
 
 ---
 

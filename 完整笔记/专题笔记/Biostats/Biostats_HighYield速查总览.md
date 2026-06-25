@@ -385,6 +385,18 @@ Prevalence ≈ Incidence × Duration
 
 横断面测 Prevalence；队列测 Incidence；Case-fatality rate = 病死数/病例数（疾病致死性）。
 
+### 8.3 Crude rate vs Age-standardized rate（粗率 vs 标化率）⭐
+
+| 概念 | 定义 | 受年龄构成影响？ | 用途 |
+|---|---|---|---|
+| **Crude rate（粗率，如 CMR crude mortality rate）** | 总事件 / 总人口 | ✅ **受**（年龄等人群构成混杂）| 单人群描述 |
+| **Age-standardized / adjusted rate（年龄标化率，ASMR age-standardized mortality rate）** | 用**标准人口**加权各年龄别率 | ❌ **去除**年龄构成差异 | **跨人群比较** |
+
+> [!warning] CMR 差但 ASMR 同 = 差异全由年龄结构解释（confounding by age）
+> - 两地**粗率（CMR）不同**但**标化率（ASMR）相同** → 真实死亡风险无差异，差异 = **年龄构成不同**。
+> - 心脏病等死亡随年龄↑ → **CMR 低的一方人群更年轻**（年轻人群粗率自然低）。
+> - 类比：标化 = 把两人群"拉到同一年龄结构"再比，等同于 confounding 的**控制**（见 §5.4 / Matching）。源 [[mistakes/uworld-mistakes_2026-06#^Q108007]]
+
 ---
 
 ## 九、其余高频小点
@@ -412,6 +424,10 @@ Prevalence ≈ Incidence × Duration
   - [[mistakes/uworld-mistakes_2026-06#^Q20561]] RRR vs ARR 半步陷阱
   - [[mistakes/uworld-mistakes_2026-06#^Q20376]] Study Design — 比较"发病风险"用 cohort（🔴 反复错）
   - [[mistakes/uworld-mistakes_2026-06#^Q4686]] Study Design — incidence 用 cohort（误选 ecological；🔴 反复错）
+  - [[mistakes/uworld-mistakes_2026-06#^Q3922]] Study Design — 单样本单时点同时测 = cross-sectional（误选 case-control）
+  - [[mistakes/uworld-mistakes_2026-06#^Q108443]] Case-control 对照组 = 无病 + 与暴露无关
+  - [[mistakes/uworld-mistakes_2026-06#^Q108007]] Crude vs Age-standardized rate（§8.3；CMR 低 = 人群更年轻）
+  - [[mistakes/uworld-mistakes_2026-06#^Q20420]] 显著性不可排名 + 只读 adjusted 列
   - [[mistakes/uworld-mistakes_2026-06#^Q20458]] PP vs ITT — per-protocol 排除全部脱落者
   - [[mistakes/uworld-mistakes_2026-06#^Q20538]] 68-95-99.7 → percentile 换算（+2SD = 97.5th）
   - [[mistakes/uworld-mistakes_2026-06#^Q3909]] p 值 ↔ CI 互译（不含 null ⟺ p<0.05）
