@@ -24,15 +24,33 @@ version: v1.2
   Test (−)          c               d
 ```
 
-| 指标 | 公式 | 一句话 |
-|---|---|---|
-| **Sensitivity (Sn)** | `a / (a + c)` | **真患者中**被检出比例（**列方向 → 不受 prevalence 影响**） |
-| **Specificity (Sp)** | `d / (b + d)` | **真非患者中**被排除比例（**列方向 → 不受 prevalence 影响**） |
-| **PPV** | `a / (a + b)` | **阳性结果中**真患者比例（**行方向 → 受 prevalence + Sp 影响**） |
-| **NPV** | `d / (c + d)` | **阴性结果中**真非患者比例（**行方向 → 受 prevalence + Sn 影响**） |
+| 指标                   | 公式            | 一句话                                                                          |
+| -------------------- | ------------- | ---------------------------------------------------------------------------- |
+| **Sensitivity (Sn)** | `a / (a + c)` | <font color="#ff0000">**真患者中**被检出比例</font>（**列方向 → 不受 prevalence 影响**）       |
+| **Specificity (Sp)** | `d / (b + d)` | <font color="#ff0000">**真非患者中**被排除比例</font>（**列方向 → 不受 prevalence 影响**）      |
+| **PPV**              | `a / (a + b)` | <font color="#ff0000">**阳性结果中**真患者比例</font>（**行方向 → 受 prevalence + Sp 影响**）  |
+| **NPV**              | `d / (c + d)` | <font color="#ff0000">**阴性结果中**真非患者比例</font>（**行方向 → 受 prevalence + Sn 影响**） |
 
 > Sn/Sp 是**列指标**（按 disease 状态分母） → tool 固有属性。
 > PPV/NPV 是**行指标**（按 test 结果分母） → 与人群构成有关。
+
+### 1.1 派生率 — FPR / FNR（Sn·Sp 的"补数"）⭐
+
+| 率 | 公式（2×2）| = | 含义 |
+|---|---|---|---|
+| **FPR（假阳性率 false positive rate）** | `b / (b + d)` = FP/(FP+TN) | **1 − Specificity** | **无病者中被错标阳性**的比例 |
+| **FNR（假阴性率 false negative rate）** | `c / (a + c)` = FN/(FN+TP) | **1 − Sensitivity** | **有病者中被漏诊（标阴）**的比例 |
+
+> [!tip] 一句话锁定
+> **「FPR 配特异度（无病误判），FNR 配敏感度（有病漏判），都是 1 减。」**
+> - FPR + Sp = 100%（同一批无病者，要么正确测阴=Sp，要么误测阳=FPR）。
+> - FNR + Sn = 100%（同一批有病者，要么正确测阳=Sn，要么漏测阴=FNR）。
+> - **ROC 横轴 = FPR（=1−Sp），纵轴 = Sn**（见 §十一）；**更敏感→FNR↓、更不特异→FPR↑**（源 [[mistakes/uworld-mistakes_2026-06#^Q21644]]）。
+
+> [!info]- 📊 2×2 表 — 四指标公式一图流（TP/FP/FN/TN → Sn/Sp/PPV/NPV + Prevalence）
+> ![[{89F62879-3DB6-4007-8114-640B0C4488C5}.png]]
+> 
+> 列方向（按 Disease 分母）= Sn/Sp（tool 固有）；行方向（按 Test 结果分母）= PPV/NPV（受人群构成）；右下 Prevalence =(TP+FN)/total。
 
 ---
 
@@ -134,6 +152,11 @@ PPV = TP / (TP + FP)。PPV 低意味着**阳性池被 FP 稀释**。两种根因
 ---
 
 ## 六、Cutoff 调整 → 4 指标完整联动表 ⭐⭐⭐
+
+> [!info]- 📊 Cutoff 滑动 → Sn/Sp/PPV/NPV 联动（A=100% Sn cutoff / C=100% Sp cutoff / B=折中）
+> ![[{74ACF7F8-D018-425E-AC0E-6993608EA672}.png]]
+> 
+> 蓝=无病(TN)、红=有病(TP)，重叠区 = FN/FP。**降 cutoff（B→A）**：Sn↑ NPV↑ / Sp↓ PPV↓（FP↑ FN↓）；**升 cutoff（B→C）**：Sp↑ PPV↑ / Sn↓ NPV↓（FP↓）。注：以**低值**诊断的病（如贫血 anemia）TP/TN 在图中左右互换。
 
 ```
 Cutoff 调低（更敏感 / 过度阳性 tool）
