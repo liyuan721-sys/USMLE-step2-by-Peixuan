@@ -18783,7 +18783,7 @@ type: 错题数据源
 > 
 > ## Stem 模式
 > LcPUFA（long-chain polyunsaturated fatty acids，长链多不饱和脂肪酸）孕期补充 vs 安慰剂防子代哮喘；按母亲**基线 LcPUFA 三分位**分层：只有**最低三分位** ARR 显著（p=0.04），中/高三分位不显著。问最准确结论。
-> 
+> ![[{4D0A4CFF-B2D0-4CCC-8B89-F1DC038DB377}.png]]
 > ## 核心概念
 > 整体获益**主要来自低基线亚组** → **effect modification（效应修饰，按基线水平）**；推论 = **精准医学**：针对**低基线 LcPUFA**人群补充才可能有效。正解 D。
 > 
