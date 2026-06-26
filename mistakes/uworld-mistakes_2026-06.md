@@ -18477,7 +18477,7 @@ type: 错题数据源
 >   - [[mistakes/uworld-mistakes_2026-06#^Q7690]] HR 多结局判读（别下没测过的结论）
 >   - [[mistakes/uworld-mistakes_2026-06#^Q20561]] RRR vs ARR 半步陷阱（相对降幅）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
-> - 📚 专题：[[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]] / [[完整笔记/专题笔记/Biostats/Biostats_广告题_相对vs绝对measures]]（HR 降幅 = 1−HR 的相对放大）
+> - 📚 专题：[[完整笔记/专题笔记/Biostats/Biostats_生存分析_KM_HR_logrank]]（HR 完整体系）/ [[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]] / [[完整笔记/专题笔记/Biostats/Biostats_广告题_相对vs绝对measures]]（HR 降幅 = 1−HR 的相对放大）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/内分泌]]（SGLT2 抑制剂心肾获益 + 生殖道真菌感染 / DKA 副作用）
 > - 🌱 TODO：无
 > 
@@ -18812,7 +18812,7 @@ type: 错题数据源
 > - 🔁 同主题错题/做对题：
 >   - [[mistakes/uworld-mistakes_2026-06#^Q12673]] 同 vignette NNT=1/ARR（做对）
 >   - [[mistakes/uworld-mistakes_2026-06#^Q4315]] 相关分析不控混杂/不证因果
-> - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_HighYield速查总览]]（§5.4 Confounding vs Effect modification）/ [[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]
+> - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_HighYield速查总览]]（§5.4 Confounding vs Effect modification）/ [[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]] / [[完整笔记/专题笔记/Biostats/Biostats_生存分析_KM_HR_logrank]]（HR 表判读）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/OB]]（孕期营养干预）/ [[完整笔记/Peixuan分科笔记/pulmonary]]（儿童哮喘）
 > - 🌱 TODO：无
 > 
@@ -19117,7 +19117,7 @@ type: 错题数据源
 >   - [[mistakes/uworld-mistakes_2026-06#^Q20561]] RRR vs ARR 半步陷阱
 >   - [[mistakes/uworld-mistakes_2026-06#^Q12674]] 同 vignette 分层 → 精准医学
 >   - [[mistakes/uworld-mistakes_2026-05#^Q7708]] 复合终点 + NNT
-> - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_广告题_相对vs绝对measures]]（§三/§五）/ [[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]]
+> - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_广告题_相对vs绝对measures]]（§三/§五）/ [[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]] / [[完整笔记/专题笔记/Biostats/Biostats_生存分析_KM_HR_logrank]]（HR 表 → ARR/NNT 绝对脸）
 > - 🏥 跨学科：无（纯 Biostats）
 > - 🌱 TODO：无
 > 

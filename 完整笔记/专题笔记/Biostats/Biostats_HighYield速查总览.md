@@ -437,7 +437,7 @@ Prevalence ≈ Incidence × Duration
   - [[mistakes/uworld-mistakes_2026-05#^Q12685]] Reporting bias
   - [[mistakes/uworld-mistakes_2026-05#^Q4182]] Matching 控制 Confounding
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]（分科主笔记，只读）
-- 🧩 专题深挖：[[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]] / [[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]] / [[完整笔记/专题笔记/Biostats/Biostats_α_β_Power]] / [[完整笔记/专题笔记/Biostats/Biostats_统计显著vs临床显著]] / [[完整笔记/专题笔记/Biostats/Biostats_诊断4指标动态_PPV陷阱]]
+- 🧩 专题深挖：[[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]] / [[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]] / [[完整笔记/专题笔记/Biostats/Biostats_α_β_Power]] / [[完整笔记/专题笔记/Biostats/Biostats_统计显著vs临床显著]] / [[完整笔记/专题笔记/Biostats/Biostats_诊断4指标动态_PPV陷阱]] / [[完整笔记/专题笔记/Biostats/Biostats_广告题_相对vs绝对measures]] / [[完整笔记/专题笔记/Biostats/Biostats_生存分析_KM_HR_logrank]]
 - 🏥 跨学科：
   - [[完整笔记/Peixuan分科笔记/Ethics_Master]]（研究伦理 / 知情同意 / 机构审查委员会 institutional review board, IRB —— 任何 Clinical Trial Phase 前都需 IRB 批准）
   - [[完整笔记/Peixuan分科笔记/newborn care and screening]]（筛查原则：Sn 高优先、lead/length-time bias 评估）
