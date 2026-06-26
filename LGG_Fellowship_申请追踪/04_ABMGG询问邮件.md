@@ -77,6 +77,11 @@ liyuan721@gmail.com
 
 - [x] **2026-06-24 已发送** 至 abmgg@abmgg.org（附 2017 决定信 + 2023 回执等）
 - ✅ 注意：**abmgg@abmgg.org 是真人通道**（2017 决定信、2022 Molly 延期回复都从这里来）——不像 ECFMG 的 info@ 只自动回，**这封有望拿到实质回复**
-- [ ] 收到回复：________（2023 重申结果 / 当前是否有效 / 能否出具 current decision letter）
-- [ ] ~1–2 周无回复 → 回原线程顶一句 "following up"；仍无则电话/再发
-- [ ] 收到后：更新本节 + [[02_通用材料准备]] §二 状态 + 把 decision letter 存档
+- [x] **2026-06-25 已收到回复（仅 1 天！）** —— ABMGG 出具**全新 Credentials Review 裁定信**（签字 Darrel Waggoner, M.D., Assoc. CEO），存档见 [[07_ABMGG资质裁定_2026]]，原件 `C:\Users\liyua\Downloads\Li, Yuan LGG.pdf`
+  - ✅ **协和博士被接受** "in lieu of a U.S. earned doctoral degree"（再次书面确认）
+  - ✅ **TOEFL-iBT 满足英语要求**
+  - ✅ 抬头改对为 **"Dr. Li / Yuan Li"**（2017 那封是 "Yan Li"）、寄到 **Liyuan721@gmail.com**（询问邮件第 4 点要求的改名 + 改邮箱已落实）
+  - ✅ **新裁定有效期 5 年**（自 2026-06-25 起 → **2031-06 前用掉**）；被录取后项目须在此窗口内向 ABMGG 注册
+  - ⬇️ 唯一剩余资格要求：完成 **ACGME 认证的 LGG fellowship 或 CBG** —— 即现在要投的 fellowship 本身
+- [x] 已更新 [[00_总览_行动清单]]（ABMGG danger → success）+ 本节；裁定信全文要点存档 [[07_ABMGG资质裁定_2026]]
+- [ ] 待办：把 decision letter PDF 归档进 fellowship 申请材料包（投递时随 CV / personal statement 一起交）
