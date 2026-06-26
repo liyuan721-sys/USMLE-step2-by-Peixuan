@@ -213,7 +213,12 @@ LR− = (1 − Sn) / Sp                          → 越小越能排除
 > [!tip] 证据等级
 > Meta > RCT > Cohort > Case-control > Cross-sectional > Case series > Case report。
 
-> [!warning] Study Design 决定术语（高频反复错点）
+> [!tip] Cross-sectional vs Case-control 秒辨（Q3922 反复错点）⭐
+> 问两件事:**①何时测？②按谁挑人？**
+> - **单一样本 + 一个时点同时测暴露与疾病（快照）= Cross-sectional**。
+> - **先按"有病/无病"挑人、再回头查暴露 = Case-control**。
+> - **没按"有病/无病"挑人 → 就不是 case-control**——哪怕题干在"找关联 / 医院抽样 / 回顾气质"，只要是一个时点同时测，就是横断面。
+> - ⚠️ 暴露是"出生即定"（如基因型 genotype）时，横断面也能显示时序，但设计仍按"何时测量"判定 → 仍是 cross-sectional，**别因可推时序就判 cohort**。
 > - **RCT / Cohort** → 可算 RR / Risk / Incidence。
 > - **Case-control** → 只能 OR，❌ 不能算 RR / Incidence。
 > - **Cross-sectional** → Prevalence / POR（prevalence odds ratio，患病率比值比），❌ 不能算 RR / Incidence / "Risk"。
