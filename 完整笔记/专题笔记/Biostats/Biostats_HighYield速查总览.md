@@ -219,6 +219,10 @@ LR− = (1 − Sn) / Sp                          → 越小越能排除
 > - **先按"有病/无病"挑人、再回头查暴露 = Case-control**。
 > - **没按"有病/无病"挑人 → 就不是 case-control**——哪怕题干在"找关联 / 医院抽样 / 回顾气质"，只要是一个时点同时测，就是横断面。
 > - ⚠️ 暴露是"出生即定"（如基因型 genotype）时，横断面也能显示时序，但设计仍按"何时测量"判定 → 仍是 cross-sectional，**别因可推时序就判 cohort**。
+
+> [!tip] 怎么判"随机化是否成功"（Q7687）⭐
+> **看两组的 baseline patient characteristics（基线特征表，Table 1）是否均衡**——组间特征相似 = 随机化成功（最小化 selection bias + 混杂、组量near-equal）。
+> - ❌ 别选:**结局指标**（如 annual stroke rate=outcome，受随机化影响，不能反判）/ **compliance（依从）** / **follow-up rate（随访率）** / **subgroup analysis（反而受随机化质量影响）**。
 > - **RCT / Cohort** → 可算 RR / Risk / Incidence。
 > - **Case-control** → 只能 OR，❌ 不能算 RR / Incidence。
 > - **Cross-sectional** → Prevalence / POR（prevalence odds ratio，患病率比值比），❌ 不能算 RR / Incidence / "Risk"。
@@ -228,6 +232,17 @@ LR− = (1 − Sn) / Sp                          → 越小越能排除
 > [!info] Case-control vs Cohort 谁更适合（不是谁更好）
 > - **病罕见 / 长潜伏期 / 多 risk factor** → Case-control（去医院找病人最快）。
 > - **暴露罕见 / 多个 outcome** → Cohort（找暴露人群最快）。
+
+> [!danger] Case-control ↔ Cohort 镜像铁律（Q21684）⭐
+>
+> | | 按什么**选人/分组** | 锁死的（只能 1 个）| 可查多个的 |
+> |---|---|---|---|
+> | **Case-control** | 按 **outcome（有病/无病）** | **outcome**（1 个）| **exposure / risk factor**（≥1）|
+> | **Cohort** | 按 **exposure（暴露/不暴露）** | **exposure**（1 个）| **outcome**（≥1）|
+>
+> - **镜像**:case-control 锁 1 个 **结局**、放多暴露;cohort 锁 1 个 **暴露**、放多结局。
+> - 钓饵 A 型:把"case-control 只能评 1 个结局"**反成**"只能评 1 个暴露"（方向反）。
+> - ⚠️ **Case-control 无随访（回顾性）** → 给它安"**失访偏倚 / 测 time-to-event / 耗时昂贵**"的帽子**全错**（那是 cohort/RCT 的特征);case-control **快又便宜**。
 
 补充：Twin study 控基因看环境；Adoption study 控环境看遗传。Clinical Trial Phase：1=安全性(健康志愿者)、2=有效性、3=对比现行标准(关键 RCT)、4=上市后监测。Factorial RCT = ≥2 变量同时随机。
 
@@ -443,6 +458,10 @@ Prevalence ≈ Incidence × Duration
   - [[mistakes/uworld-mistakes_2026-06#^Q108443]] Case-control 对照组 = 无病 + 与暴露无关
   - [[mistakes/uworld-mistakes_2026-06#^Q108007]] Crude vs Age-standardized rate（§8.3；CMR 低 = 人群更年轻）
   - [[mistakes/uworld-mistakes_2026-06#^Q20420]] 显著性不可排名 + 只读 adjusted 列
+  - [[mistakes/uworld-mistakes_2026-06#^Q22187]] 🔴 多三分位 OR 图 — 趋势需每层显著（§5.4 / 中间层跨 1 = 无梯度）
+  - [[mistakes/uworld-mistakes_2026-06#^Q7687]] 随机化成功 = baseline 特征均衡（§四）
+  - [[mistakes/uworld-mistakes_2026-06#^Q21688]] Cohort = 测 incidence/risk;recall bias 是 case-control 的
+  - [[mistakes/uworld-mistakes_2026-06#^Q21684]] Case-control ↔ Cohort 镜像（单 outcome 多 exposure + 无随访）
   - [[mistakes/uworld-mistakes_2026-06#^Q20458]] PP vs ITT — per-protocol 排除全部脱落者
   - [[mistakes/uworld-mistakes_2026-06#^Q20538]] 68-95-99.7 → percentile 换算（+2SD = 97.5th）
   - [[mistakes/uworld-mistakes_2026-06#^Q3909]] p 值 ↔ CI 互译（不含 null ⟺ p<0.05）

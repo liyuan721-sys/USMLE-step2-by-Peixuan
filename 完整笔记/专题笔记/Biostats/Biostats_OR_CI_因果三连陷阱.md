@@ -119,6 +119,13 @@ case-control **先按结局（outcome）把人分成 cases / controls**，再回
 > **「case-control 对照 = 无病 + 不论暴露（按结局选人，绝不按暴露选）。」**
 > 常与**独立变量**（年龄/性别）做 matching 控混杂，但**绝不按待测暴露** matching。
 
+### 3.2 Case-control ↔ Cohort 镜像 + 无随访（Q21684）⭐
+
+- **镜像**:case-control 按 **outcome** 选人 → **锁死 1 个 outcome、可查多个 exposure**;cohort 按 **exposure** 分组 → **锁死 1 个 exposure、可查多个 outcome**。
+  - 钓饵:把"case-control 只能评 1 个结局"**反成**"只能评 1 个暴露"（A 型方向反）。
+- **无随访**:case-control 回顾性 → **没有 follow-up** → "失访偏倚 / 测 time-to-event / 耗时昂贵" 安在它头上**全错**（那是 cohort/RCT）;case-control **快又便宜**。
+- 完整镜像表 → [[完整笔记/专题笔记/Biostats/Biostats_HighYield速查总览]]（§四）。
+
 ---
 
 ## 四、铁律 ③ — CI 不含 1 ≠ 因果
@@ -195,16 +202,18 @@ Stem：adjusted OR = 3.07 (95% CI 1.85-5.10)
 > [!tip] USMLE 高频考点
 > "Adjusted OR 仍显著 → 还有未测量的 confounders / 残余结构性因素（如 structural racism）" — 常出在种族健康差异 vignette。
 
-### 6.1 多结局 unadjusted/adjusted 双列表怎么读（Q20420）⭐
+### 6.1 多结局 / 多分层 OR·RR 表 / 图怎么读（Q20420 / Q22187）⭐
 
-题给多个结局 × **未调整 / 调整两列 RR(或 OR)+CI**，问"关于关联最恰当结论"。
+题给**多个结局或多个分层（三分位）× CI**（可能含 unadjusted/adjusted 两列），问"关于关联最恰当结论"。
 
-> [!danger] 两条反射
+> [!danger] 三条反射
 > 1. **下结论只读 adjusted（调整）列**——它去了混杂，是"真实关联";unadjusted 全显著常是混杂制造的假象。
-> 2. **显著性是"是非题"，不可排名**:看 CI **含不含 1.0** 判 yes/no，**绝不能按 RR 偏离程度 / CI 宽窄说"谁更显著"**。
+> 2. **显著性是"是非题"，不可排名**:看 CI **含不含 1.0** 判 yes/no，**绝不能按 RR/OR 偏离程度 / CI 宽窄说"谁更显著"**。
+> 3. **"趋势 / dose-response"要每一层都显著且单调**:某一层（如中间三分位）**CI 跨 1** → **没有显著梯度**，不能说"随 X 增加而显著增加/降低"。⭐（Q22187 错点）
 >
-> - 典型钓饵:"discharge to hospice RR 1.84 最大 = 最显著"——**RR 大小 ≠ 更显著**;若它 adjusted CI 跨 1，根本不显著。
-> - 正解套路:adjusted 列里**唯一 CI 不含 1** 的那个结局 = 唯一统计显著关联。
+> - 典型钓饵:"hospice RR 1.84 最大 = 最显著"（按大小排）/ "随三分位显著上升趋势"（中间层跨 1 却硬说趋势）。
+> - 正解套路:**逐层 / 逐结局查 CI 是否含 1**——adjusted 列里 CI 不含 1 的那（几）个 = 唯一显著关联;方向看 **baseline 是哪一层**。
+> - **反向问法**:问"哪个**两组最相似 / 无差异**" → 找 **CI 含 1（HR/OR≈1）** 的那个（Q7686:major bleeding HR 0.96, CI 0.84–1.10）;**"最显著/最不同" → CI 离 1 最远且排除 1**。别只凭点估计"看着接近 1"。
 > - 配套:[[完整笔记/专题笔记/Biostats/Biostats_统计显著vs临床显著]]（显著=非黑即白 vs 临床显著看效应量）。
 
 ---
@@ -252,6 +261,9 @@ Stem：adjusted OR = 3.07 (95% CI 1.85-5.10)
   - [[mistakes/uworld-mistakes_2026-06#^Q20420]] adjusted vs unadjusted + CI 含 1 → 显著性不可排名（铁律③；只读 adjusted 列）
   - [[mistakes/uworld-mistakes_2026-06#^Q108443]] Case-control 对照组 = 无病 + 与暴露无关（铁律②延伸：设计→选人逻辑）
   - [[mistakes/uworld-mistakes_2026-06#^Q12674]] 分层效应不等 = effect modification → 精准医学（vs confounding）
+  - [[mistakes/uworld-mistakes_2026-06#^Q22187]] 🔴 多三分位 OR 图 — 只有 CI 排除 1 的层显著，趋势需每层显著（§6.1）
+  - [[mistakes/uworld-mistakes_2026-06#^Q21684]] Case-control 镜像 — 单 outcome 多 exposure + 无随访（§3.2）
+  - [[mistakes/uworld-mistakes_2026-06#^Q7686]] "两组最相似" = CI 含 1（§6.1 反向问法）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Biostats_Master]]
 - 📋 邻近笔记：[[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]] / [[完整笔记/专题笔记/Biostats/Biostats_α_β_Power]]
 - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/OB]]（pregnancy-related death 流行病学 / 种族差异 — [[mistakes/uworld-mistakes_2026-05#^Q20227]] 原 stem）

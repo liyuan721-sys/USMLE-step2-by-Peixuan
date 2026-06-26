@@ -19130,3 +19130,254 @@ type: 错题数据源
 > 主题:: NNT=1/ARR
 > 状态:: 🟢
 > 错因:: 无（做对）
+
+## 2026-06-26
+
+> [!example]- [2026-06-26] Biostats / 多三分位 OR 图：只有 CI 排除 1 的层显著（反复错） (Q22187)
+> ^Q22187
+> 
+> ## Stem 模式
+> Case-control 研究:AGD（anogenital distance，肛门生殖器距离，子宫内膜异位 in-utero 雄激素暴露 biomarker）与子宫内膜异位症（endometriosis）。Logistic 回归给 **AGD 三分位的 unadjusted + adjusted OR(95%CI)** 图，tertile 3（最长）= baseline。只有 **tertile 1（最短）** 的 OR>1 且 **CI 排除 1**；tertile 2 的 CI **跨 1**。问最恰当结论。
+> 
+> ## 核心概念
+> **只有 95%CI 排除 1 的那一层（tertile 1）才是显著关联**。tertile 2 CI 跨 1 → 不显著 → **不能宣称"随 AGD 变化的显著趋势/dose-response"**（中间层断了就没有单调梯度）。正解 C:只有 tertile 1（最短 AGD）与子宫内膜异位显著关联。
+> 
+> ## 普适规则
+> 
+> | 判断 | 规则 |
+> |---|---|
+> | 哪层显著 | **逐层看 CI 是否含 1**（含=不显著、排除=显著）|
+> | 能否说"趋势/dose-response" | **要每一层都显著且单调**；中间层 CI 跨 1 → ❌ 无显著梯度 |
+> | 方向 | 看 **baseline 是哪层**：baseline=tertile 3（最长），tertile 1 OR>1 → **AGD 越短 → odds 越高**（反向）|
+> 
+> ## 易混陷阱（普适）
+> ① 看到多层 OR 就脑补"dose-response 趋势"——必须每层显著才成立;② 把"某层显著"读成"整体趋势显著";③ 方向看反（忘了 baseline 是最长层）。
+> 
+> ## 我为什么错
+> - 选了：D（odds 随 AGD 距离增加而显著增加）
+> - 错因：知识
+> - 核心陷阱：把它当 dose-response 趋势题（D），没逐层查 CI——tertile 2 跨 1 根本没显著梯度;且方向反（实际 AGD 越短 odds 越高）。
+> - 🔴 **OR/CI 亚组显著性簇反复错**：继 [[mistakes/uworld-mistakes_2026-06#^Q20420]]（显著性不可排名）+ [[mistakes/uworld-mistakes_2026-06#^Q12674]]（分层只某层显著）后再栽 → 升 🔴。
+> 
+> ## Memory Hook
+> **「多三分位 OR 图:只有 CI 排除 1 的层显著;中间层跨 1 → 不能说'趋势/dose-response'。方向看 baseline 是哪层。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 逐层查 CI > 脑补趋势。dose-response 要求每层显著 + 单调。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q20420]] 显著性不可排名 + 只读 adjusted 列（同簇）
+>   - [[mistakes/uworld-mistakes_2026-06#^Q12674]] 分层只某层显著 → 别外推（同簇）
+>   - [[mistakes/uworld-mistakes_2026-06#^Q108443]] Case-control 设计（同设计族）
+> - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]（§四 CI / §6.1 双列表判读）/ [[完整笔记/专题笔记/Biostats/Biostats_HighYield速查总览]]（§5.4 效应修饰）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/GYN]]（子宫内膜异位症）
+> - 🌱 TODO：连对 2 道多层 OR/CI 判读题 → 可降 🔴
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写"逐层查 CI;趋势要每层显著 + 单调;方向看 baseline 层"
+> - [ ] 找 3 道多三分位 OR/HR 图判读题
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: 多层 OR/CI 亚组显著性判读
+> 状态:: 🔴
+> 错因:: 知识
+
+> [!success]- [2026-06-26] Biostats / 随机化成功 = baseline 平衡（✅做对） (Q7687)
+> ^Q7687
+> 
+> ## Stem 模式
+> 共享 stem = **Kalaxin（kalgatran etexilate，虚构抗凝药）vs 华法林 warfarin 治非瓣膜性房颤（atrial fibrillation, AFib）的药品广告**（QUIKFLOW7 试验，2 题中第 2 题）。问:要判断该 RCT **随机化是否成功**，下列哪个信息最有用？
+> 
+> ## 核心概念
+> **随机化成功 = 两组 baseline patient characteristics（基线特征）平衡** → 用 **Table 1 基线特征表**确认（组间特征相似 = 随机化好 = 最小化 selection bias + confounding）。正解 B。
+> 
+> ## 普适规则
+> - **判随机化成功 → 看 baseline characteristics 是否两组均衡**（near-equal 组、低混杂概率）。
+> - ❌ 干扰：**annual stroke rate = 结局**（受随机化影响，不能反过来判随机化）;**compliance / follow-up rate** 非随机化直接标志;**subgroup analysis** 反受随机化质量影响。
+> 
+> ## Memory Hook
+> **「随机化成功 = 两组 baseline characteristics 平衡（Table 1）;别选 outcome / compliance / follow-up。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 做对（1:36）。确认：baseline 平衡是随机化成功的直接证据，outcome 是结果不是判据。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题/做对题：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q20458]] PP vs ITT（随机化保护 vs 破坏）
+>   - [[mistakes/uworld-mistakes_2026-06#^Q21688]] 同日 cohort 设计判读
+> - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_HighYield速查总览]]（§四 RCT / §5.4 confounding）
+> - 🏥 跨学科：无（纯 Biostats）
+> - 🌱 TODO：无
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写"随机化成功 = baseline 平衡，非 outcome/compliance"
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: 随机化成功判断
+> 状态:: 🟢
+> 错因:: 无（做对）
+
+> [!success]- [2026-06-26] Biostats / Cohort 提供 risk measure（✅做对·已标记） (Q21688)
+> ^Q21688
+> 
+> ## Stem 模式
+> Cohort 研究：暴露组（子宫切除 hysterectomy）vs 对照（其他手术），age-matched，5 年随访测高脂血症（hyperlipidemia），校正混杂。问关于此研究设计哪项正确。
+> 
+> ## 核心概念
+> **Cohort = 按暴露分组、前瞻随访测 incidence → 提供 risk（风险）measure**。正解 B。
+> 
+> ## 普适规则
+> 
+> | 选项 | 为何对/错 |
+> |---|---|
+> | **B ✅** | cohort 测 incidence → 可算 risk（风险）|
+> | A ❌ | **ITT（intention-to-treat，意向性分析）只用于 RCT**（随机化研究）;本研究是观察性 cohort，无随机 |
+> | C ❌ | outcome misclassification——高脂血症用**标准实验室标准**诊断，几乎不会错分 |
+> | D ❌ | **recall bias 是 case-control（回顾问卷）的问题**，不是前瞻 cohort |
+> 
+> ## Memory Hook
+> **「Cohort → 测 incidence → 给 risk;ITT 只配 RCT;recall bias 是 case-control 的，不是 cohort。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 做对（3:33，已 Mark）。确认:cohort=incidence/risk;ITT↔RCT;recall bias↔case-control。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q3922]] Study design 识别（cross-sectional）
+>   - [[mistakes/uworld-mistakes_2026-06#^Q4686]] 🔴 incidence 用 cohort
+>   - [[mistakes/uworld-mistakes_2026-06#^Q20376]] 🔴 比较发病风险用 cohort
+> - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_HighYield速查总览]]（§四 研究设计 + 偏倚归属）/ [[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]（§三 设计→可算指标）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/GYN]]（子宫切除术后代谢监测）
+> - 🌱 TODO：无
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写"recall bias=case-control / ITT=RCT / cohort=incidence·risk"
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: 研究设计判读（cohort=risk）
+> 状态:: 🟢
+> 错因:: 无（做对）
+
+> [!success]- [2026-06-26] Biostats / Case-control 镜像（单 outcome 多暴露·无随访）(✅做对) (Q21684)
+> ^Q21684
+> 
+> ## Stem 模式
+> 研究 CHD（congenital heart disease，先天性心脏病）与儿童卒中（pediatric stroke）关联:420 名**有**缺血/出血性卒中史 + 1260 名 age-matched **无**卒中史儿童 → 按**结局（卒中有/无）**选人 = **case-control**;再回头查暴露（CHD）。问关于此设计哪项正确。
+> 
+> ## 核心概念
+> Case-control 按 **1 个 outcome 选人 → 只能评这 1 个 outcome**，但**可查 ≥1 个 exposure**。正解 B（stroke 是唯一能评的 outcome）。
+> 
+> ## 普适规则（两对镜像陷阱）
+> 
+> | 选项 | 对错 | 关键 |
+> |---|---|---|
+> | **B ✅** | ✅ | case-control 锁死 1 个 **outcome** |
+> | A ❌ | ❌ | **方向反**:被锁的是 outcome 不是 exposure;暴露可查多个（CHD + 其他）|
+> | C ❌ | ❌ | "失访偏倚"——**case-control 无随访**（回顾性），失访/attrition 是 cohort 的事 |
+> | D ❌ | ❌ | "耗时贵 + 测 time to stroke"——case-control **快便宜、不测 time-to-event**;那是 cohort/RCT |
+> 
+> > **镜像铁律**:Case-control = **1 outcome 选人 + 多 exposure 可查**;Cohort = **1 exposure 分组 + 多 outcome 可查**。
+> 
+> ## 易混陷阱（普适）
+> ① A 把"单一 outcome"镜像反成"单一 exposure";② C/D 给 case-control 安**前瞻设计的帽子**（失访 / time-to-event / 耗时贵）——这三样全是 cohort/RCT 特征。
+> 
+> ## 我为什么"✓做对"
+> - 选了:B，做对（3:38）
+> - 反射:case-control 锁 outcome、放 exposure;无随访 → 快便宜、无失访偏倚、不测 time-to-event。
+> 
+> ## Memory Hook
+> **「Case-control = 1 个 outcome 选人 + 多暴露可查 + 无随访(快便宜);A 反了镜像、C/D 安了前瞻的帽子。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> 镜像:case-control 锁 outcome / cohort 锁 exposure;case-control 无 follow-up 是 C/D 全错的根。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q108443]] Case-control 对照组选取（无病 + 不论暴露）
+>   - [[mistakes/uworld-mistakes_2026-06#^Q21688]] Cohort = 测 risk;recall bias 属 case-control
+>   - [[mistakes/uworld-mistakes_2026-06#^Q3922]] Study design 识别（cross-sectional）
+>   - [[mistakes/uworld-mistakes_2026-05#^Q20283]] Case-control vs Cohort 场景适配
+> - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_HighYield速查总览]]（§四 研究设计镜像）/ [[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]（§三 case-control）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（CHD）/ [[完整笔记/Peixuan分科笔记/神经]]（儿童卒中）
+> - 🌱 TODO：无
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写镜像「case-control 锁 outcome 放 exposure / cohort 锁 exposure 放 outcome」
+> - [ ] 默写「case-control 无随访 → 无失访偏倚、不测 time-to-event、快便宜」
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: Case-control 设计镜像（单 outcome 多暴露）
+> 状态:: 🟢
+> 错因:: 无（做对）
+
+> [!success]- [2026-06-26] Biostats / "两组最相似" = CI 含 1（✅做对）(Q7686)
+> ^Q7686
+> 
+> ## Stem 模式
+> 共享 stem = **Kalaxin（kalgatran etexilate）vs 华法林 warfarin 抗凝药广告**（QUIKFLOW7，非瓣膜性房颤 atrial fibrillation, AFib，2 题中第 1 题）。问哪种 specific bleeding（出血）在两组间**最相似（most similar）**？
+> 
+> ## 核心概念
+> **"两组最相似 / 无差异" = 找 HR≈1 且 95%CI 含 1.0**（无统计学显著差异）的那个结局。**Major bleeding HR 0.96（CI 0.84–1.10）CI 跨 1 → 两组无显著差异 → 最相似**。正解 D。
+> 
+> ## 普适规则（各出血 HR 对照）
+> 
+> | 选项 | HR (95%CI) | CI 含 1? | 解读 |
+> |---|---|---|---|
+> | A 消化道出血 GI | 1.38 (1.1–1.5) | 否 | Kalaxin **↑** 显著 |
+> | B 颅内出血 ICH | 0.39 (0.21–0.52) | 否 | Kalaxin **↓** 显著（最**不**同）|
+> | C Life-threatening | 0.75 (0.61–0.94) | 否 | ↓ 显著 |
+> | **D Major bleeding ✅** | **0.96 (0.84–1.10)** | **是** | **无显著差异 → 最相似** |
+> | E Total bleeding | 0.91 (0.86–0.96) | 否 | ↓ 显著 |
+> 
+> ## 易混陷阱（普适）
+> - **"最相似 / 无差异" = CI 含 1**;**"最不同 / 最显著" = CI 离 1 最远且排除 1**。
+> - ❌ 别凭 HR 数值"看着接近 1"直觉——必须看 **CI 含不含 1**（HR 0.91 看着也接近 1，但 CI 0.86–0.96 排除 1 = 仍显著）。
+> 
+> ## 我为什么"✓做对"
+> - 选了:D，做对（4:03）
+> - 反射:问"最相似" → 扫哪个 CI 跨 1 → major bleeding HR 0.96 (0.84–1.10)。
+> 
+> ## Memory Hook
+> **「问'两组最相似 / 无差异' → 找 CI 含 1 的那个（HR≈1）;'最显著' → CI 离 1 最远。别只看 HR 数值。」**
+> 
+> ---
+> 
+> ## 🤔 我的提问 / 卡点
+> CI 含 1 = 无差异（相似）;CI 排除 1 = 有差异（显著）。这是 Q20420「显著性不可排名」的反向用法。
+> 
+> ## 🔗 关联
+> - 🔁 同主题错题/做对题：
+>   - [[mistakes/uworld-mistakes_2026-06#^Q20420]] 显著性不可排名 + CI 含 1（同簇，反向用）
+>   - [[mistakes/uworld-mistakes_2026-06#^Q22187]] 🔴 多三分位 OR — 逐层查 CI（同簇）
+>   - [[mistakes/uworld-mistakes_2026-06#^Q7687]] 同 Kalaxin 广告（Item 2/2，随机化）
+>   - [[mistakes/uworld-mistakes_2026-06#^Q21323]] HR 降幅 = 1−HR + 复合终点
+> - 📚 主笔记：[[完整笔记/专题笔记/Biostats/Biostats_OR_CI_因果三连陷阱]]（§6.1 多结局 CI 判读）/ [[完整笔记/专题笔记/Biostats/Biostats_广告题_相对vs绝对measures]]（Kalaxin worked example）
+> - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/心内]]（房颤抗凝 / NOAC（novel oral anticoagulant，新型口服抗凝药）vs warfarin）
+> - 🌱 TODO：无
+> 
+> ## ✅ 复盘行动
+> - [ ] 默写"最相似=CI含1 / 最显著=CI离1最远，别看HR数值"
+> 
+> ---
+> 
+> 学科:: Biostats
+> 主题:: "最相似/无差异" = CI 含 1
+> 状态:: 🟢
+> 错因:: 无（做对）
