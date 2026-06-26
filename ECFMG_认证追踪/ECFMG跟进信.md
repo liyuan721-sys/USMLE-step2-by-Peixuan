@@ -7,7 +7,7 @@ status: 待发送
 
 # ECFMG 跟进信定稿
 
-> 返回 [[00_总览_行动清单]] · 背景与策略见 vault 根目录 [[ECFMG认证资格_问题记录]] · 证件 [[05_资质文件清单]]
+> 返回 ABMGG/LGG [[00_总览_行动清单]] · 背景与策略见同夹 [[ECFMG认证资格_问题记录]] · 证件 [[05_资质文件清单]]
 
 > [!info] 这封信的定位
 > 跟进 6/19 那封（只收到自动回复），**收窄到一个有官方依据的诉求**：援引 ECFMG 自己的 Reference Guide（协和 2012 "Doctor of Clinical Medicine" 是可接受文凭）→ 请求把 medical school of record 改成协和、核验博士学位。

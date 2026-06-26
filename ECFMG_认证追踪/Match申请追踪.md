@@ -50,10 +50,17 @@ type: 申请追踪
 
 ## Phase 1 — ECFMG 认证申请（MyIntealth）→ 拿到 eligibility ⏳进行中
 
+> [!danger] ⭐ 2026-06-26 更新（以此为准，下方旧勾选项部分已过时）
+> **当前认证申请已 Rejected**（本科基础医学非临床）→ 不是"推进旧申请"，而是**重交一份新申请**。详见 [[ECFMG认证资格_问题记录]] §"2026-06-26 浏览器实查" + [[00_ECFMG总览]]。
+> - **Begin Application 在哪**：MyIntealth → 顶部 **Services ▾ → ECFMG Certification → "Application for ECFMG Certification" 标签 → 滚到底 → 【Begin Application】**（深蓝按钮；页面右上角显示 *Application Status: Pending Submission*）。
+> - **"选对医学院"这一步 = 填协和**（PUMC，Peking Union Medical College）**Doctor of Clinical Medicine，2012**（不再填川大）。
+> - **时间线**：交齐材料后 ECFMG 处理约 **3 周** → accepted 后才解锁 Step 2 CK；**但真正瓶颈 = 协和回核验速度**（学校直接向 ECFMG 寄送 diploma + transcript 核验，川大上次压了约 9 个月）。
+> - **顺序红线**：① 先把协和博士英文成绩单改对（Doctor 非 Master）② 电话确认 Begin 新申请填协和是否正确路径 + 不冲突 ③ 两件 OK 才本人点 Begin 提交。
+
 > [!tip] 这一步的目的
 > 不是"拿认证"，是把申请状态推到 **Accepted / Pending Credential Verification** —— 到了这个状态就能去 FSMB 报考。
 
-- [ ] 登录 **MyIntealth**，开启「Application for ECFMG Certification」
+- [ ] 登录 **MyIntealth**，**Begin Application** 开启新「Application for ECFMG Certification」（位置见上方 danger 框）
 - [ ] **姓名**与护照/政府 ID **完全一致**（对照红线 1 核三遍）
 - [ ] **选对医学院**：World Directory 里带 **ECFMG sponsor note** 的那条，别选错同名校
 - [ ] 完成 **Form 186（Certification of Identification Form）**：贴照片 + 按要求公证/认证

@@ -70,7 +70,7 @@ liyuan721@gmail.com
 ## 注意事项
 
 - 措辞用 **"credential/eligibility review"** 而非 "certification"——你还没考板考、不是 diplomate，避免被误解。
-- **不要**在这封信里混入 ECFMG 的事（CV 被拒是另一个机构 ECFMG / Intealth，单独跟进，见 vault 根目录 [[ECFMG认证资格_问题记录]]）。
+- **不要**在这封信里混入 ECFMG 的事（CV 被拒是另一个机构 ECFMG / Intealth，单独跟进，见 ECFMG_认证追踪 文件夹 [[ECFMG认证资格_问题记录]]）。
 - 发出后把回复**存档**到本文件底部，更新 [[02_通用材料准备]] §二 的状态。
 
 ## 跟进记录

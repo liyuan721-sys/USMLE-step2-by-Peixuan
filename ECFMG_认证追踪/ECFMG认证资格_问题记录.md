@@ -223,7 +223,7 @@ type: 申请追踪
 > 北京没线下考点 → 走 **OET@Home（在家远程监考）**，且**正好是 ECFMG 对"本国无考点"考生认可的合规形式**。计划 2026 年 7 月考，覆盖 2027 + 2028 两个 Match 周期。
 
 > [!tip] 复习资料 + 写作/口语模板
-> 详见 [[OET备考_复习资料与写作口语模板]]（转诊信模板 / role-play 六步框架 + 功能句库 / 术语→大白话对照表 / 备考节奏）。
+> 详见 [[00_OET总览]] 及 OET备考 文件夹（[[OET_写作_转诊信模板]] / [[OET_口语_role-play模板]] / [[OET_术语与沟通句库]]）。
 
 ### A. 北京怎么考 —— OET@Home（远程监考）
 
@@ -299,11 +299,68 @@ type: 申请追踪
 - **必须做**：重出一份**英文标题为 Doctoral/Doctor** 的成绩单（走 CDGDC 或公证翻译），与学位证口径统一；所有协和文件统一显示"博士/Doctor"。
 - 附带：入学 2009/9 = 博士段（2009→2012）；CV "2006–2012" 可能含硕士，核对日期一致性。
 
+## 2026-06-26 浏览器实查 MyIntealth + FSMB：Step 2 报名为何"找不到入口"
+
+> [!danger] 一句话
+> 找不到"提交 Step 2 申请"的入口 = 两件事叠加：① **2026-01 起 USMLE 报名已迁出 MyIntealth → 改在 FSMB**；② 我在 FSMB 那边被**红色报错挡住**——"没有 accepted 的 Application for ECFMG Certification"。**认证那道门不开，Step 2 在 FSMB 也报不了。**
+
+### A. MyIntealth 端实查（Claude in Chrome，已登录账户）
+
+- **Services 菜单只有**：ECFMG Certification / EPIC / J-1 Sponsorship / ERAS Support Services / CVS → **无任何 USMLE / Step 选项**（印证报名已迁 FSMB）。
+- **My Cases**：两个 Application For Certification（C-25901694 / C-27107384）均 **Rejected**，全部 Action Required = No（与既有记录一致）。
+- ⭐ **Services → ECFMG Certification → Application 标签**：**Application Status = Pending Submission**，有 **「Begin Application」按钮** → 系统允许**重新发起一份全新认证申请**。
+- 页面原文锁定链路："**Once the Application for ECFMG Certification is accepted, students can apply for examination**… ECFMG will confirm enrollment with each **USMLE Step 2 CK application you submit to USMLE.**"
+- **ECFMG Exam History 标签**：只收 **non-USMLE** 考试（"USMLE exams are NOT included… request from FSMB"）→ Step 记录不在 MyIntealth。
+
+### B. FSMB 端实查（usmle.fsmb.org / Raven，已登录 "Welcome Back, Yuan"）
+
+- **Step 1 = 完整无损** ✅：四步全 check_circle；顶部里程碑 **COMPLETE STEP 1 = done**，当前停在 **COMPLETE STEP 2 CK**。FSMB 账户（Raven）已建好。
+- **Step 1 考试记录**（View USMLE Exam History 实查）：
+
+| 项 | 内容 |
+|---|---|
+| 状态 | Completed ✅（Step 1 现为 Pass/Fail，不显分） |
+| Eligibility Period | 2024-10-01 ~ 2024-12-31 |
+| 实际考试日 | **2024-12-30** |
+| 考点 | Culver City, CA（US/Canada 区） |
+| 出分日 | 2025-01-15 |
+
+- ⚠️ **别被里程碑条骗**：顶部 "APPLY FOR ECFMG CERTIFICATION = Completed ✅" 是**历史路线图**（当年为 Step 1 确完成过），**非实时**；实时状态 = Step 2 CK 页的红色报错（当前认证 Rejected）。
+- **Step 2 CK 标签红色报错**（决定性证据，原文要点）：
+  > "Error: …**You do not have an accepted Application for ECFMG Certification in MyIntealth.** …If you have an Application in progress, **you must wait for your application to be accepted**… Please allow **at least 24 hours** before checking your USMLE eligibility status again."
+- ⭐ **24 小时自动复检机制**：FSMB↔ECFMG 自动对接 —— 认证申请一旦 **Accepted**，FSMB **~24h 内自动解锁** Step 2 报名，无需另行通知 FSMB。
+- **报名流程**（FSMB 写明）：提交 Step 2 申请 + 付费（不退）→ FSMB 核验 eligibility（认证 accepted 后自动过）→ 签发 Scheduling Permit → 约考。
+
+> [!info] 7 年大限锚点
+> Step 1 通过日 **2024-12-30** = ECFMG "7 年规则"起算点 → 须在 **~2031 年底前**考完所有 Step + 拿到认证。现不紧张，但认证拖越久、总时钟越要留意。
+
+### C. 真正的报名路径（实查后确认）
+
+```
+①（MyIntealth）Begin Application → 填新认证申请
+     = 在这里填 school of record + 学位称号（← 放协和 Doctor of Clinical Medicine 的真正入口）
+          ↓ 提交 → ECFMG 核验 → Accepted
+②（FSMB / Raven）Step 2 CK 报名解锁 → 付费 → permit → 约考
+```
+
+> [!warning] 计划改写：从"求他们改旧申请"→ 可能"自己 Begin 新申请"
+> 之前判断"portal 无入口、必须电话求改 school of record"——实查发现**有 Begin Application 入口可重交**。这很可能就是把 school of record 换成协和的真正机制（不必等他们手动改被拒的旧申请）。**修正 §六"Step 2 暂不停"的潜台词**：可以继续复习，但**报名 Step 2 被认证卡死，认证不通 = 考不了**。
+
+> [!danger] 别现在就 Begin + 提交（顺序红线）
+> 我**没有点 Begin Application**——提交认证申请是高风险、近乎不可逆的动作，必须你本人想清楚再做。正确顺序：
+> 1. 先把**协和博士英文成绩单**改对（标题 Doctor 非 Master，见 §四-补步骤二）拿到手
+> 2. 电话/邮件确认：**直接 Begin 一份新申请、school of record 填协和、学位填 Doctor of Clinical Medicine** 是否正确路径？会不会和被拒旧申请冲突？（电话 +1-215-386-5900）
+> 3. 两件都 OK 后，**你本人** Begin Application + 填写 + 提交
+> ⚠️ 任何与协和留档对不上 = irregular behavior = 可能永久禁申（成绩单 ECFMG 直接向协和核）。
+
+---
+
 ## 更新日志
 - **2026-06-19**：建档。查清根因（基础医学非临床）、备齐 4 附件、发 inquiry 请求个案审查。等 ECFMG 回复。
 - **2026-06-24**：浏览器实查 WDOMS + ECFMG《Reference Guide》→ 协和是 ECFMG sponsor（grad 1953–Current），且 **2012 "Doctor of Clinical Medicine" 在 ECFMG 可接受文凭清单上**。§三悲观判断被证伪（见 §三-补）。证件官方英文名整理见 [[LGG_Fellowship_申请追踪/05_资质文件清单]]。
 - **2026-06-24**：MyIntealth My Cases 查证——**新认证申请 C-27107384 也已 Rejected**，CV C-27110565/566 均 Rejected，仅 C-25966832 CV Accepted（点进去 = **川大本科文凭"真伪通过"，非学位合格**；Degree Title 空白）；全部 Action Required=No（portal 不等你操作=邮件死路，须电话问改 school of record 流程）。**另发现博士成绩单英文误翻成 "Master Degree"（须修，见上）**。详见新增"## 2026-06-24 My Cases 实查"节。
-- **2026-06-24**：**跟进信已发**（回复 6/19 原线程）——援引 Reference Guide + 请求改 school of record 为协和 + 核验博士；附博士学位证/执业证/副高证/CV（删除了"博士课程构成"那句以免自曝无临床轮转）。定稿见 [[LGG_Fellowship_申请追踪/06_ECFMG跟进信]]，Word：`D:\USMLE\ECFMGUSMLE申请\ECFMG_followup_letter_2026-06-24.docx`。**待 ECFMG 回复**；~1–2 周无实质回复则电话 +1-215-386-5900。建议再走 MyIntealth My Cases 同步提交。
+- **2026-06-24**：**跟进信已发**（回复 6/19 原线程）——援引 Reference Guide + 请求改 school of record 为协和 + 核验博士；附博士学位证/执业证/副高证/CV（删除了"博士课程构成"那句以免自曝无临床轮转）。定稿见 [[ECFMG跟进信]]，Word：`D:\USMLE\ECFMGUSMLE申请\ECFMG_followup_letter_2026-06-24.docx`。**待 ECFMG 回复**；~1–2 周无实质回复则电话 +1-215-386-5900。建议再走 MyIntealth My Cases 同步提交。
 - **2026-06-25**：现场办协和博士成绩单 —— 中文成绩单（档案中心 ☎️010-65105922）→ 自制英文成绩单 + 申请表发 course@pumc.edu.cn 核验 → 研究生院 306 办公室（东单三条九号 新18号楼，☎️010-65105825）领取。流程见 §四-补。
 - **2026-06-26**：✅ **协和博士中文成绩证明已开好**；下一步 = 翻译英文版（步骤二）。§四-补 加 **4 条翻译红线**（标题 Doctor 非 Master / 学位称号统一 / 与中文逐项一致不美化 / 日期一致）防重蹈 "Master Degree" 覆辙。新增 **§七 EPIC vs Certification 区分表**（两条线/两个电话别混 + 启动 EPIC 前先改好成绩单）。
+- **2026-06-26**：浏览器实查 MyIntealth + FSMB（Claude in Chrome）→ 新增 **「2026-06-26 浏览器实查」节**：① USMLE 报名 2026-01 迁 FSMB（MyIntealth Services 无 USMLE 选项）；② **ECFMG Certification Application = Pending Submission + 有「Begin Application」按钮**（= 可重交新申请、填协和 school of record 的真正入口）；③ FSMB（Raven）已登录、**Step 1 完整无损**（四步 check_circle），**Step 2 CK 被红色报错挡住**："no accepted Application for ECFMG Certification"。计划改写：从"电话求改旧申请"→ 可能"自己 Begin 新申请"；**未点 Begin（高风险动作留用户本人）**，定三步正确顺序（先修博士英文成绩单 → 确认路径 → 本人提交）。
 - **2026-06-26**：查证 OET 报考 → 新增 **§八 OET 报考要点**：北京无线下考点走 **OET@Home**（ECFMG 对"本国无考点"考生认可的合规形式）；达标分 **L/R/S≥350、Writing≥300 一次同场**；有效期按 Match 周期固定日历（2027 Match 须≥2025-01-01），**2026-07 考覆盖 2027+2028 两周期**；提醒**先跑设备自检**防墙内监考软件连不通。OET 是认证独立组件、不解 credential 锁。
