@@ -220,9 +220,24 @@ PCP 激素三指征（任一即给,room air,72h内尽早）
 
 ---
 
+## 八-bis、HIV 远端对称多神经病 DSP（神经并发症）⭐
+
+> [!info] 非机会性感染，但 HIV 高频神经并发症
+> 长病程 HIV（human immunodeficiency virus，人类免疫缺陷病毒）+ 低 CD4 → **distal symmetric polyneuropathy（DSP，远端对称性多神经病）**：远端感觉轴突损伤。
+
+- **表现**：双足→小腿**对称**麻木 + 痛温/触/振动觉↓ + **踝反射减退**，**运动相对保留**；趾/足起病向近端进展。
+- **机制**：HIV 抗原（gp120）累积 + 巨噬/T 细胞浸润 → 轴突损伤；老年 + 高病毒载量 + 低 CD4 + 神经毒性抗逆转录病毒药（去羟肌苷 didanosine / 司他夫定 stavudine）风险高。
+- **治疗**：① 优化 **ART（antiretroviral therapy，抗逆转录病毒治疗）**减少进展；② 对症镇痛**一线 = 加巴喷丁 gabapentin（gabapentinoid）/ 度洛西汀 duloxetine（SNRI）/ 三环类 TCA / 辣椒素 capsaicin**。
+- **陷阱**：泼尼松 prednisone（用于肿瘤性神经痛，HIV 神经病无效 + 加重免疫抑制）；阿片末线；拉莫三嗪 lamotrigine 用于 CNS 病变面痛非周围神经病。
+- **鉴别**：排除糖尿病（血糖正常）、尿毒症（肾功正常）、B12 缺乏（无贫血）。
+- 派生自 [[mistakes/uworld-mistakes_2026-06#^Q18492]]。
+
+---
+
 ## 九、🔗 关联
 
 - 🔁 同主题错题：
+  - [[mistakes/uworld-mistakes_2026-06#^Q18492]] HIV 远端对称多神经病 — 镇痛一线 gabapentin（别选 prednisone）
   - [[NBME11_错题本#^Q128]] PCP：IVDU → 未诊断 HIV + 双侧弥漫浸润 + 运动后降氧（93→83%）→ TMP-SMX（别选组织胞浆菌/右心心内膜炎）
   - [[NBME11_错题本#^Q093]] HIV 初治"双动作"：新诊断 → 三药 ART 人人 + CD4<200 加 PCP 预防（误选"只 ART"漏预防）— 错题（见 §三前置 callout）
   - [[mistakes/uworld-mistakes_2026-06#^Q2268]] 播散性 MAC（CD4<50 + 血培 NTM + ALP↑ → macrolide）

@@ -305,9 +305,27 @@ Acute ischemic stroke + last DOAC dose < 48 hr
 
 ---
 
+## 十一、恶性半球梗死 MHI 与卒中后急性恶化（影像决策）⭐
+
+> [!danger] 大面积卒中后"突然变差" = malignant hemispheric infarction（MHI，恶性半球梗死）
+> 大面积缺血性卒中（常 MCA，middle cerebral artery，大脑中动脉）后**快速神经恶化**（嗜睡迟钝 obtundation、眼偏斜、对侧偏瘫加重）= MHI：大面积**脑水肿** ± **出血转化 hemorrhagic transformation** → 占位 / 颅高压 / 脑疝。
+
+| 并发症 | 机制 / 时相 |
+|---|---|
+| 脑水肿 cerebral edema | 内皮损伤/血脑屏障破坏，多见 24-48h（可达 1 周）→ 占位、ICP（intracranial pressure，颅内压）↑ |
+| 出血转化 hemorrhagic transformation | 血外渗入梗死灶；梗死越大风险越高 |
+
+- **下一步影像 = 急查不增强头 CT（noncontrast CT）**，非 MRI——CT 更**快 + 可及 + 查急性出血敏感**；MRI 对缺血更敏感但慢、急诊不用于定范围。
+- 处理：渗透治疗（甘露醇 mannitol / 高渗盐水）可减水肿但单独观察不够；常需**去骨瓣减压术 decompressive craniectomy**。
+- 注意：大面积卒中后**低热**多为**中枢性体温调节障碍**，非感染（别反射血培养 + 抗生素）。
+- 派生自 [[mistakes/uworld-mistakes_2026-06#^Q12214]]。
+
+---
+
 ## 🔗 关联
 
 - 🔁 同主题错题：
+  - [[mistakes/uworld-mistakes_2026-06#^Q12214]] 恶性半球梗死 — 卒中后急性恶化 → 急查不增强 CT（非 MRI）
   - [[mistakes/uworld-mistakes_2026-05#^Q4469]] AF 抗凝指征 — CHA₂DS₂-VASc 评分是抗凝触发器，不是"有 AF 就抗凝"
   - 抗凝药拮抗剂 4 对（2026-05-14 self-test 卡，无 Q 锚点）— 6 对拮抗剂总表 + Warfarin 急性出血 SOP
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/Peixuan分科笔记/hematology oncology]]

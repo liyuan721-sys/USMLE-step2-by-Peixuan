@@ -150,14 +150,21 @@ type: 申请追踪
 > [!info] 用途
 > ECFMG 核验最终文凭（协和临床医学博士）需要**官方成绩单**。先办**中文**成绩单，再据此自制**英文**成绩单送研究生院核验盖章。
 
-### 步骤一：中文成绩单（现场办）
+### 步骤一：中文成绩单（现场办）✅ 已完成（2026-06-26）
 - 地点：北京协和医学院**档案中心**，携带本人证件前往
 - ☎️ **010-65105922**
-- 产出：盖章中文博士成绩单扫描件（英文版的底稿）
+- 产出：**盖章中文博士成绩证明已开好**（= 英文版的底稿）
+- ⏭️ **下一步 = 翻译英文版**（见步骤二 + 下方红线）
+
+> [!danger] ⚠️ 翻译英文版的 4 条红线（上次"Master Degree"坑就在这一步）
+> 1. **标题必须是"博士 / Doctor / Doctoral"** —— 旧博士成绩单英文标题曾误翻成 **"Official Transcript for Master Degree"**（博士→硕士），与学位证自相矛盾、疑似 CV 被拒因素之一。新版标题写 **"Official Transcript for Doctoral Degree"** 或 **"Doctoral Transcript"**，**全文凡"博士"一律 Doctor/Doctoral，绝不出现 Master**。
+> 2. **学位称号口径统一**：与学位证 CDGDC 官方英译 **"Professional Doctor Degree of Medicine"（field: Clinical Medicine）** 一致；并知会 = ECFMG《Reference Guide》清单里的 **"Doctor of Clinical Medicine"（PUMC 2012）**（同一学位，措辞略异，个案信已点明）。
+> 3. **与中文逐项一致、不自行美化**：ECFMG/EPIC 会**直接向协和核验**，自制英文版任何"优化/补充"只要和协和留档对不上 → irregular behavior 风险（可能永久禁申）。课程名、成绩、学分、日期照译，不增不改。
+> 4. **日期一致性**：博士段入学 2009/9 → 2012；旧 CV 写的 "2006–2012" 可能含硕士段，核对成绩单日期别打架。
 
 ### 步骤二：英文成绩单（邮件申请 → 现场领取）
 1. 在研究生院附件中**下载英文成绩单模板**
-2. **根据中文成绩单自行制作英文成绩单**（按模板逐项翻译填写）
+2. **根据中文成绩单自行制作英文成绩单**（按模板逐项翻译填写，**遵守上方 4 条红线**）
 3. 准备《研究生成绩单办理申请表》
 4. 把以下三件发邮件到 **course@pumc.edu.cn**：
    - 中文成绩单扫描件
@@ -189,6 +196,24 @@ type: 申请追踪
 > [!warning] 决策悬置
 > ECFMG 回复前 **Step 2 暂不停**（万一开口子不想复习断档），但可**降一档强度**给自己喘息；
 > 等书面答复落地、方向明确，再定**全力冲刺 / 转向**。详见 [[复习入口_Dashboard]]、[[Match申请追踪]]。
+
+---
+
+## 七、EPIC vs ECFMG Certification（两条线别混）
+
+> [!info] 两个都归 ECFMG/Intealth，但目的、账号、收费、联系电话都不同
+>
+> | | **EPIC** | **ECFMG Certification** |
+> |---|---|---|
+> | 全称 | Electronic Portfolio of International Credentials（国际证件电子档案）| ECFMG Certification |
+> | 干什么 | 把学位证/成绩单/执照做**原始来源核验 (PSV)** + 存档 → 可发给州医委会/医院/雇主 | 认定你够不够格进 **Match / 住院医** |
+> | 主要用在 | **行医执照 (state medical license)**、就业、跨国行医 | 申请 residency |
+> | 跟 USMLE | 无关 | 必须考过 Step 1/2 |
+> | 邮箱 / 电话 | **info@ecfmgepic.org** / **+1-215-966-3900** | **info@ecfmg.org** / **+1-215-386-5900** |
+> | 现状 | 未启动（[[project_exam_plan_2026]] 写"现在启动"，为将来执照铺路）| C-27110565 **被拒，跟进中** |
+>
+> ⚠️ **两个电话极像**：EPIC = **966**-3900，认证 = **386**-5900。
+> ⚠️ **启动 EPIC 前先把协和博士成绩单英文版改好**（标题 Doctor 非 Master）—— EPIC 会直接向协和核验，口径不一致会出岔；且 EPIC 该提交**协和博士**为主证，别又喂川大基础医学本科。
 
 ---
 
@@ -232,3 +257,4 @@ type: 申请追踪
 - **2026-06-24**：MyIntealth My Cases 查证——**新认证申请 C-27107384 也已 Rejected**，CV C-27110565/566 均 Rejected，仅 C-25966832 CV Accepted（点进去 = **川大本科文凭"真伪通过"，非学位合格**；Degree Title 空白）；全部 Action Required=No（portal 不等你操作=邮件死路，须电话问改 school of record 流程）。**另发现博士成绩单英文误翻成 "Master Degree"（须修，见上）**。详见新增"## 2026-06-24 My Cases 实查"节。
 - **2026-06-24**：**跟进信已发**（回复 6/19 原线程）——援引 Reference Guide + 请求改 school of record 为协和 + 核验博士；附博士学位证/执业证/副高证/CV（删除了"博士课程构成"那句以免自曝无临床轮转）。定稿见 [[LGG_Fellowship_申请追踪/06_ECFMG跟进信]]，Word：`D:\USMLE\ECFMGUSMLE申请\ECFMG_followup_letter_2026-06-24.docx`。**待 ECFMG 回复**；~1–2 周无实质回复则电话 +1-215-386-5900。建议再走 MyIntealth My Cases 同步提交。
 - **2026-06-25**：现场办协和博士成绩单 —— 中文成绩单（档案中心 ☎️010-65105922）→ 自制英文成绩单 + 申请表发 course@pumc.edu.cn 核验 → 研究生院 306 办公室（东单三条九号 新18号楼，☎️010-65105825）领取。流程见 §四-补。
+- **2026-06-26**：✅ **协和博士中文成绩证明已开好**；下一步 = 翻译英文版（步骤二）。§四-补 加 **4 条翻译红线**（标题 Doctor 非 Master / 学位称号统一 / 与中文逐项一致不美化 / 日期一致）防重蹈 "Master Degree" 覆辙。新增 **§七 EPIC vs Certification 区分表**（两条线/两个电话别混 + 启动 EPIC 前先改好成绩单）。

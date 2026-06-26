@@ -276,6 +276,7 @@ MAOI 患者出问题
   - [[mistakes/uworld-mistakes_2026-05#^Q11853]] MDMA + Serotonin Syndrome（MDMA = 强 5-HT 释放剂）
   - [[mistakes/uworld-mistakes_2026-05#^Q2501]] NMS vs EPS 鉴别 + NMS 用药
   - [[mistakes/uworld-mistakes_2026-05#^Q20497]] Venlafaxine 剂量依赖性高血压（同 adrenergic 通路）
+  - [[mistakes/uworld-mistakes_2026-06#^Q15653]] MH 恶性高热（术后 15min：全身肌强直 + 棕尿 myoglobinuria + 高碳酸；触发 = 琥珀胆碱 succinylcholine / 挥发麻醉剂；与 TRALI/DIC 靠"肌强直 + 棕尿"区分）
   - [[mistakes/uworld-mistakes_2026-06#^Q3691]] 劳力性热射病 EHS（第五位高热急症，冰水浸泡；误选赛庚啶）
   - [[mistakes/uworld-mistakes_2026-06#^Q3689]] 经典型热射病 NHS（老人热桑拿，蒸发降温；误选酒精戒断）
   - [[NBME11_错题本#^Q001]] 运动性热衰竭 vs 热射病（T39 可唤醒 = 热衰竭，误选血管迷走晕厥）— §五-bis
