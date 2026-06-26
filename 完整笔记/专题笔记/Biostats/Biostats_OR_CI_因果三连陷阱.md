@@ -195,6 +195,18 @@ Stem：adjusted OR = 3.07 (95% CI 1.85-5.10)
 > [!tip] USMLE 高频考点
 > "Adjusted OR 仍显著 → 还有未测量的 confounders / 残余结构性因素（如 structural racism）" — 常出在种族健康差异 vignette。
 
+### 6.1 多结局 unadjusted/adjusted 双列表怎么读（Q20420）⭐
+
+题给多个结局 × **未调整 / 调整两列 RR(或 OR)+CI**，问"关于关联最恰当结论"。
+
+> [!danger] 两条反射
+> 1. **下结论只读 adjusted（调整）列**——它去了混杂，是"真实关联";unadjusted 全显著常是混杂制造的假象。
+> 2. **显著性是"是非题"，不可排名**:看 CI **含不含 1.0** 判 yes/no，**绝不能按 RR 偏离程度 / CI 宽窄说"谁更显著"**。
+>
+> - 典型钓饵:"discharge to hospice RR 1.84 最大 = 最显著"——**RR 大小 ≠ 更显著**;若它 adjusted CI 跨 1，根本不显著。
+> - 正解套路:adjusted 列里**唯一 CI 不含 1** 的那个结局 = 唯一统计显著关联。
+> - 配套:[[完整笔记/专题笔记/Biostats/Biostats_统计显著vs临床显著]]（显著=非黑即白 vs 临床显著看效应量）。
+
 ---
 
 ## 七、5 个干扰项一刀切（[[mistakes/uworld-mistakes_2026-05#^Q20227]] 类）
