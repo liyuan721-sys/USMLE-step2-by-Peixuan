@@ -49,7 +49,19 @@ type: 总览
 
 - 必须**一次同场考出**四项达标，不能拼分。
 - 上表"ECFMG 达标"= ECFMG（Educational Commission for Foreign Medical Graduates，外国医学毕业生教育委员会）认证对 OET 的最低分要求。
-- 形式：北京走 **OET@Home**（详见 [[ECFMG认证资格_问题记录]] §八 A，含设备自检红线）。
+- 形式：**已订线下机考 OET on computer at a venue**（北京 Prometric 考点；非 OET@Home，无需设备自检）。
+
+> [!success] 已报名确认（2026-06-27 实订）
+> | 项目 | 内容 |
+> |---|---|
+> | **Booking Number** | OET-199254-365651（管理/改约/查询用）|
+> | **Candidate Number** | 3461 7483（查分/对接 ECFMG）|
+> | **Speaking 口语** | **2026-07-25（周六）9:30–10:00**（30 min）|
+> | **笔试 L+R+W** | **2026-07-31（周五）8:30–11:30**（180 min）|
+> | 科目 / 考点 | Medicine / Prometric 北京考试中心（海淀科学院南路2号融科资讯中心A座 407室）|
+> | 报名人 | Yuan Li（须与护照/ECFMG 一致）|
+>
+> ⚠️ **口语在前（7/25）、笔试在后（7/31）**，隔近一周，别漏 7/25。离 CK 暂定 8/18-20 约 2-3 周。
 
 ---
 
@@ -93,7 +105,7 @@ type: 总览
    ├─ Speaking：每天 1-2 个 role-play 出声练，强制做满共情 + check 理解
    ├─ Listening/Reading：各做 2-3 套熟题型即可
    └─ 每天 10 min 背 [[OET_术语与沟通句库]]
-第 2 步  7 月 OET@Home 考（先跑设备自检！）
+第 2 步  7/25 口语 + 7/31 笔试（线下机考，北京 Prometric）
           → 考完回归 Step 2 主线
 ```
 
@@ -105,7 +117,10 @@ type: 总览
 ## 四、待办钩子
 
 - [ ] oet.com 注册账号 + 做 1 套 free sample 摸底
-- [ ] OET@Home 设备/系统自检（墙内监考软件连通性，见 [[ECFMG认证资格_问题记录]] §八 A）
-- [ ] 订 7 月考位
+- [x] ~~OET@Home 设备自检~~ → 改线下机考，无需自检
+- [x] 订 7 月考位 → **已订：7/25 口语 + 7/31 笔试（Booking OET-199254-365651）**
+- [ ] 收报名确认邮件（liyuan721@gmail.com）并存档
+- [ ] 考试当天带与 legal name "Yuan Li" 一致的护照/身份证
 - [ ] 练满 5-8 封转诊信（≥3 封带批改）
 - [ ] 每个 role-play 录音回放，自查有没有跳过共情
+- [ ] 考前一周看机考考场指南（Ultimate Guide to OET Test Day on computer Part 1&2 + Speaking Test Online User Guide）
