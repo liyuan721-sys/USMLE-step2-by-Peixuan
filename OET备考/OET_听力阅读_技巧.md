@@ -97,9 +97,14 @@ type: 备考资料
   - 你的优势：这些题情境常是经典临床 stem（如"splinting+elevation+反复镇痛后剧痛持续"= compartment syndrome 骨筋膜室综合征），**读题就知道答案该是什么**，对你近乎送分。
 - **Part B（6 题，抓主旨 gist）**：素材 = 短职场文本（updates 更新/ guidelines 指南/ policy documents 政策/ memos·emails 备忘邮件/ noticeboard 公告/ online articles 文章）。
   - ⭐ **"分段暂停定主旨"法**：读一段 → 停一下用一句话概括"这段**主要在说什么**" → 再看选项。**别陷进细节**（数字/论据是支撑，不是主旨）。
-  - 单选仍防陷阱（同听力 Part B）：正确答案=同义改写、防相关词诱饵/反义/用原词假答案、看完整段再定。
-- **Part C（16 题，推断·态度·观点）**：先读题（主语+关键词）→ 再读文 → 最后看选项。可回看，用侧边 tab 导航，用 highlight。
+  - 🔴 **连接词翻转主旨（最核心陷阱）**：看到 **however / but / although / nevertheless**，**重点永远在转折之后**；OET 故意把"看似否定正确答案"的干扰句放在转折**之前**（例：前句"不一定要患者在场"诱你排除"让患者参与"，however 后"变更须与患者商定"才是主旨=正确）。**必读完整段、盯连接词**（即 `A but B → B 重要`）。
+  - 单选仍防陷阱（同听力 Part B），且**名词半也要匹配**：选项"动词半+名词半"任一半对不上即排除（例：选项"考虑*治疗变更*的成本"，原文只说"避免*昂贵治疗*"，成本没挂到"治疗变更"→名词半不符→排除；选项"*recommend* 替代服务"，原文"*avoid* 无效治疗"→动词半方向相反→排除）。
+- **Part C（16 题，推断·态度·观点）**：素材 = 观点性长文（opinion pieces 评论 / professional body journals 学会期刊 / review articles 综述）。先读题（主语+关键词）→ 再读文 → 最后看选项。可回看，用侧边 tab 导航，用 highlight。
+  - ⭐ **先把选项翻成大白话**："understand the answer options"——选项是"名词短语+限定短语"的学术堆叠，先在脑中转成大白话（the simultaneous production of X and X receptors → "X 和 X 受体同时产生"），再去原文对，比硬啃措辞快。
+  - 🔴 **"事实 ≠ 观点"陷阱（Part C 最核心）**：题干含**评价词**（impressed/surprised/concerned/believes/argues…）时，答案**必须带作者/人物的态度**，不是客观事实。干扰项常是"原文确实写过的事实"——**被提到 ≠ 是答案**。读到"眼熟"选项先问：这句是**事实陈述**还是**带立场**？只有带立场的才匹配。
+  - 推断靠**评价性措辞**：如答案由 "the brain has **cleverly designed**…"（巧妙设计）推出"他赞叹(impressed)"；"as… **so do**…" 推出"同时发生"。
   - 单选防陷阱同听力 Part C：正确答案=言外之意改写、拆动词半+名词半。
+  - 选词学习**要克制**："choose words to learn carefully"——语境特定/低频的词（conventionally/judicious/nuanced…）不值得背，别浪费精力（呼应总览"别背单词表"）。
 - 时间分配：B 约 10min，C 约 35min。
 - 逻辑同听力：`A but B → B 重要`。
 - 材料：官方 Practice Book + 5 Sample tests 够用，每周 2 套保持手感。
