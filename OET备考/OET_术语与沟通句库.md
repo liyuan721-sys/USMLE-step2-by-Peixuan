@@ -19,32 +19,32 @@ type: 备考资料
 
 > [!info] Speaking/Writing 对病人时一律换成右列。
 
-| 医学术语 | 患者大白话 |
-|---|---|
-| Myocardial infarction | a heart attack |
-| Hypertension | high blood pressure |
-| Hypotension | low blood pressure |
-| Dyspnea | shortness of breath / trouble breathing |
-| Edema | swelling (fluid build-up) |
-| Hyperlipidemia | high cholesterol / high fats in the blood |
-| Benign | not cancer / harmless |
-| Malignant | cancerous |
-| Biopsy | take a small tissue sample to look at under a microscope |
-| Prognosis | the likely course / what we expect to happen |
-| Chronic | long-term / ongoing |
-| Acute | sudden / short-term |
-| Inflammation | redness, swelling and irritation |
-| Anemia | low level of red blood cells / "low blood" |
-| Arrhythmia | an irregular heartbeat |
-| Fracture | a broken bone |
-| Hemorrhage | heavy bleeding |
-| Sepsis | a serious infection spreading through the body |
-| Antibiotics | medicine that fights bacterial infection |
-| Anticoagulant | blood-thinning medicine |
-| Lesion | an abnormal area / a spot |
-| Metastasis | the cancer has spread to other parts |
-| Remission | the disease is under control / signs have gone |
-| Diabetes (poorly controlled) | your blood sugar has been running high |
+| 医学术语                         | 患者大白话                                                    |
+| ---------------------------- | -------------------------------------------------------- |
+| Myocardial infarction        | a heart attack                                           |
+| Hypertension                 | high blood pressure                                      |
+| Hypotension                  | low blood pressure                                       |
+| Dyspnea                      | shortness of breath / trouble breathing                  |
+| Edema                        | swelling (fluid build-up)                                |
+| Hyperlipidemia               | high cholesterol / high fats in the blood                |
+| Benign                       | not cancer / harmless                                    |
+| Malignant                    | cancerous                                                |
+| Biopsy                       | take a small tissue sample to look at under a microscope |
+| Prognosis                    | the likely course / what we expect to happen             |
+| Chronic                      | long-term / ongoing                                      |
+| Acute                        | sudden / short-term                                      |
+| Inflammation                 | redness, swelling and irritation                         |
+| Anemia                       | low level of red blood cells / "low blood"               |
+| Arrhythmia                   | an irregular heartbeat                                   |
+| Fracture                     | a broken bone                                            |
+| Hemorrhage                   | heavy bleeding                                           |
+| Sepsis                       | a serious infection spreading through the body           |
+| Antibiotics                  | medicine that fights bacterial infection                 |
+| Anticoagulant                | blood-thinning medicine                                  |
+| Lesion                       | an abnormal area / a spot                                |
+| Metastasis                   | the cancer has spread to other parts                     |
+| Remission                    | the disease is under control / signs have gone           |
+| Diabetes (poorly controlled) | your blood sugar has been running high                   |
 
 ---
 
