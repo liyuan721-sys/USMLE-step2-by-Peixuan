@@ -105,6 +105,23 @@ type: 备考资料
   - 推断靠**评价性措辞**：如答案由 "the brain has **cleverly designed**…"（巧妙设计）推出"他赞叹(impressed)"；"as… **so do**…" 推出"同时发生"。
   - 单选防陷阱同听力 Part C：正确答案=言外之意改写、拆动词半+名词半。
   - 选词学习**要克制**："choose words to learn carefully"——语境特定/低频的词（conventionally/judicious/nuanced…）不值得背，别浪费精力（呼应总览"别背单词表"）。
-- 时间分配：B 约 10min，C 约 35min。
 - 逻辑同听力：`A but B → B 重要`。
+
+> [!danger] Reading 时间纪律（最大杀手是时间，听力没有的额外维度）
+> ```
+> Part A ── 15 min（单独计时，先交）── 20 题  → 卡壳先跳，最后回补
+> ───────────────────────────────────────────
+> Part B + C 共享 45 min：
+>   Part B ── ≤10 min ──  6 题   ← 10 分钟一到就撤，别恋战
+>   Part C ── ~35 min  ── 16 题  ← 留足 35 分钟给 2 篇长文（占分大头）
+> ```
+> 关键：Part B 题少（6 题）**10 分钟必走**，把时间让给 Part C 那 16 题。
+
+> [!tip] 考中操作清单（官方 During Reading 三页）
+> **Part A**：先 glance 扫四篇文本知道哪篇讲啥 → 按顺序做 → **答案逐字抄准**（拼错/漏词算错）→ 卡壳先跳最后回补。
+> **Part B**：先懂文本背景定调 → 聚焦选项差异 → **核对所有选项再定**（防 however 翻转）→ 10 分钟内做完。
+> **Part C**：从头到尾顺读 → 读题+选项（先翻大白话）→ **评估每题难度**（简单先拿、难的标记）→ 每题独立处理 → 管好 35 分钟。
+
+> [!success] Reading 备考 4 原则
+> **VARIETY**（多体裁：指南/政策/期刊/评论）· **NO DICTIONARY**（练习不查词，上下文猜义）· **NOT JUST PRACTICE TESTS**（也读真实医疗文本，别只刷样题）· **TIME MANAGEMENT**（阅读最大杀手是时间，平时就计时练）。
 - 材料：官方 Practice Book + 5 Sample tests 够用，每周 2 套保持手感。
