@@ -84,8 +84,22 @@ type: 备考资料
 
 ## 二、Reading（保 B 即可，省时间给听力）
 
+> [!danger] 题数权重修正（官方 Masterclass，2026-06-27）：Part A 不是"小部分"
+> 全卷 **42 题，每题等权(weighted equally)**：**Part A 20 题（~48%）/ Part B 6 题 / Part C 16 题**。
+> → **Part A 这 20 题最值钱**：题目直接、答案是原文复制粘贴，是**全卷性价比最高的板块**。别因为"赶"就糊弄它——15 分钟拿满这 20 题，B 即稳。考的技能：A=skimming(略读)+scanning(扫读) / B=gist·purpose·main points·detail / C=inference·attitude·opinion。
+
 - **Part A（15min/20题，最赶）**：先 skim 四篇文本+脚注 → 找题干限定词 → 原文定位 → 直接复制粘贴。**不用 highlight 工具**（浪费时间，答案很直接）。数字写范围、剂量单位看清。
-- **Part B/C（45min）**：先读题（主语+关键词）→ 再读文 → 最后看选项。可回看，用侧边 tab 导航。C 部分用 highlight。
+  - 素材 = **Workplace Texts**（同一主题 4 篇）：treatment protocols（治疗方案）/ diagnosis tools（诊断量表）/ medication information（用药信息）/ treatment paths（治疗路径）。
+  - ⭐ **双线索解题法**（每道题高亮两块，分工不同）：
+    - **疑问词 = 答案"类型"**：What **analgesic**（镇痛药）→ 扫**药名**；What **condition** → 扫**病名**；What dose/time/site → 扫剂量/时间/部位。
+    - **限定细节 = "去哪定位"**：题干那串状语（"if allergic to morphine 对吗啡过敏" / "if severe pain persists after splinting, elevation and repeated analgesia"）= 原文定位坐标。
+    - 流程：圈两块 → 原文扫**与限定词同款措辞**的句子（Part A 定位词常和原文**逐字对应**）→ 摘出疑问词那个类型的词，**直接抄原文、不改写**（如 fentanyl 芬太尼 / compartment syndrome 骨筋膜室综合征）。
+  - 你的优势：这些题情境常是经典临床 stem（如"splinting+elevation+反复镇痛后剧痛持续"= compartment syndrome 骨筋膜室综合征），**读题就知道答案该是什么**，对你近乎送分。
+- **Part B（6 题，抓主旨 gist）**：素材 = 短职场文本（updates 更新/ guidelines 指南/ policy documents 政策/ memos·emails 备忘邮件/ noticeboard 公告/ online articles 文章）。
+  - ⭐ **"分段暂停定主旨"法**：读一段 → 停一下用一句话概括"这段**主要在说什么**" → 再看选项。**别陷进细节**（数字/论据是支撑，不是主旨）。
+  - 单选仍防陷阱（同听力 Part B）：正确答案=同义改写、防相关词诱饵/反义/用原词假答案、看完整段再定。
+- **Part C（16 题，推断·态度·观点）**：先读题（主语+关键词）→ 再读文 → 最后看选项。可回看，用侧边 tab 导航，用 highlight。
+  - 单选防陷阱同听力 Part C：正确答案=言外之意改写、拆动词半+名词半。
 - 时间分配：B 约 10min，C 约 35min。
 - 逻辑同听力：`A but B → B 重要`。
 - 材料：官方 Practice Book + 5 Sample tests 够用，每周 2 套保持手感。
