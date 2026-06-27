@@ -69,6 +69,61 @@ Yours sincerely,
 
 ---
 
+## Sandwich 结构思维（段落功能 > 话题分段）
+
+> [!info] 来自《The OET Sandwich》方法论
+> 整封信 = 三明治：**首段、尾段固定，中间馅可变**。写每段先问"**这段在 DOING 什么**"（讲过去 / 讲现状 / 要求对方做事），别按话题堆。
+
+```
+① Introduction（上面包，永远第1段）   2句：Who/Where/Why + 信型+总请求
+② 中间馅：Timeline / Current / Background
+③ Requests（下面包，永远最后1段）     请求 reader 做的事
+```
+
+- **铁律：所有"要对方未来做的事"一律进尾段 Requests**，哪怕话题和某中间段相同（别留在中间段 = mixed paragraph 大忌）。
+- **首段 2 句**：句1 `I am writing regarding Mr X, who was admitted ... due to [诊断].`（意外用 **due to**，计划用 **for**）；句2 信型+总请求（referral 用 `is being referred ... requires further assessment`）。
+- **中间馅**：Timeline 用日期推进（`On 19 March, ... During her stay, ... Currently, ...`）；**reader 已认识病人 → 不写 Background**。
+- **筛信息三分法**（反 panic）：① relevant 需细节 ② relevant 只需 summarise ③ 删。多数内容在第②类——用一句话概括 / listing / comparison（`her symptoms were the same/worse`）。
+
+---
+
+## 出院 / 转院信模板（discharge / transfer letter）
+
+> [!tip] 和 referral 的区别
+> referral = 转给**不认识**患者的专科/医生（要给相关全史）；discharge/transfer = 转回**已认识**患者的 GP（General Practitioner，全科医生）/ 接收方（**删掉对方已知的背景**）。
+
+```
+Dr [收信人] / [职位] / [Hospital] / [Address]
+
+[日期：月份全拼]
+
+Dear Dr [姓],
+
+Re: [Title 名 姓], DOB: dd/mm/yyyy
+
+I am writing regarding [全名], a XX-year-old [职业], who was admitted on
+dd/mm/yyyy due to [诊断]. He/She is being discharged back into your care.
+
+On admission, [过去式 —— Medical Background]
+During hospitalization, [过去式 —— Nursing Management；多则总结 "focused on XXX"]
+Currently, [现在完成时/现在时 —— Assessment + progress]
+
+In your care, it would be appreciated if you could [Plan].
+If you have any queries, please contact me.
+
+Yours sincerely,
+Doctor
+```
+
+> [!danger] Transfer 铁律
+> 收信人已熟悉患者 → **删** marital status / residence / next of kin / past medical history / social history（写了 = 冗余失分）。
+> **急诊/urgent 信**：把 Current Condition 放 Timeline 之前（最重要信息优先），但要用清晰日期标明时间倒退。
+
+> [!tip] 写完逐项扫雷
+> 配套 [[OET_写作_高频陷阱]]（时态/介词/冠词/拼写/措辞的"错→对"清单 + Top 10 反射点）。
+
+---
+
 ## 练习记录（后续往下加）
 
 > 用法：每练 1 封登 1 行，标注是否带批改、主要扣分点，方便回看进步。
