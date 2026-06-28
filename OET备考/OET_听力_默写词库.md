@@ -20,6 +20,56 @@ type: 备考资料
 
 ---
 
+## 🔑 英式拼写规则速查（OET 必用英式 — 默写前先扫这一屏）
+
+> [!danger] 规则 1 · ae 规则（主线伤口，连续 3 天翻车）
+> 🎯 **代表词：Haemorrhage（出血）** — 见到它就触发「a 在前 e 在后」。
+> **美式单个 e → 英式 ae**（希腊/拉丁医学词根）；记死一句 **「a 永远在前，e 在后」**。
+>
+> | 中文 | 英式 ✅ | 美式 ❌ |
+> |---|---|---|
+> | 出血 | H**ae**morrhage | hemorrhage |
+> | 痔疮 | H**ae**morrhoids | hemorrhoids |
+> | 贫血 | An**ae**mia | anemia |
+> | 低血糖 | Hypoglyc**ae**mia | hypoglycemia |
+> | 白血病 | Leuk**ae**mia | leukemia |
+> | 缺血 | Isch**ae**mia | ischemia |
+> | 儿科的 | P**ae**diatric | pediatric |
+> | 盲肠 | C**ae**cum | cecum |
+>
+> ⚠️ **不要过度纠正**：Asthma（哮喘）、Eczema（湿疹）**本来就没有 ae**，别乱加（你 Day3 写过 aesthma）。
+
+> [!warning] 规则 2 · oe 规则 + -oea 家族
+> 🎯 **代表词：Diarrhoea（腹泻）** — 一词集齐「oe + 插 o + 双 r」。
+> **美式 e → 英式 oe**；**美式 -ea/-rrhea → 英式 -oea/-rrhoea（插 o）**。
+>
+> | 中文 | 英式 ✅ | 美式 ❌ |
+> |---|---|---|
+> | 腹泻 | Diarrh**oea** | diarrhea |
+> | 呼吸困难 | Dyspn**oea** | dyspnea |
+> | 淋病 | Gonorrh**oea** | gonorrhea |
+> | 水肿 | **Oe**dema | edema |
+> | 食管 | **Oe**sophagus | esophagus |
+> | 腹腔的 | C**oe**liac | celiac |
+
+> [!warning] 规则 3 · 其他英式词尾（OET 录音用英式）
+> 🎯 **代表词：Physiotherapy（物理治疗）+ Fibre（纤维）** — 整词英式 + -re 双示范。
+> | 类型 | 英式 ✅ | 美式 ❌ | 例 |
+> |---|---|---|---|
+> | -ise（非 -ize）| organis**e** / immunise | organize | 策划 organiser |
+> | -re（非 -er）| fibr**e** / centre / litre | fiber | 纤维 fibre |
+> | -our（非 -or）| tum**our** / colour | tumor | 肿瘤 tumour |
+> | -ll-（双 l）| counsel**l**ing / labelled | counseling | 咨询 counselling |
+> | 整词不同 | physio**therapy** / nappy | physical therapy / diaper | 物理治疗 / 尿布疹 nappy rash |
+
+> [!tip] 规则 4 · 双写字母 & 不发音字母（与英美无关，纯拼写）
+> 🎯 **代表词：Pneumococcal（肺炎球菌的）** — 不发音 p + 双 c 一词集齐。
+> - **双写**：sca**rr**ing（瘢痕）· swa**ll**owing（吞咽）· a**rr**hythmia（心律失常）· pneumoco**cc**al（肺炎球菌的，双 c）· dia**rr**hoea
+> - **不发音字母照写**：num**b**ness（麻木 b）· phleg**m**（痰，g 不发音）· **p**neumococcal（p 不发音）· **p**sychiatry（p）
+> - **别漏后缀**：scar → scar**ring** · numb → numb**ness**（写了词根不算完整）
+
+---
+
 ## §一 中→英默写版
 
 ## 怎么用（每天 ~50 词 = 2 类）
