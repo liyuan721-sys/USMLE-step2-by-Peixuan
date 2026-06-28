@@ -49,16 +49,38 @@ type: 专题笔记
   右 MLF 坏: 左眼外展+眼震, 右眼"过不了中线"内收不能 = 右侧 INO
 ```
 
-## 四、诊断
+## 四、诊断（Q3644）⭐
 
-- 临床**时空多发** + **MRI** 脑室周围 T2/FLAIR 高信号脱髓鞘斑块
-- **CSF（cerebrospinal fluid，脑脊液）寡克隆带（oligoclonal IgG bands）**
-- 急性发作：大剂量糖皮质激素 glucocorticoid；缓解期：疾病修饰治疗 DMT
+- 核心 = 临床**时空多发（DIT/DIS，disseminated in time & space）** + **MRI** 脑室周围 T2/FLAIR 高信号脱髓鞘斑块。
+- **CSF（cerebrospinal fluid，脑脊液）= 细胞数正常、T 淋巴细胞为主、寡克隆 IgG 带（oligoclonal IgG bands，>85% MS 阳性）**；开放压/蛋白一般正常。
+- **LP（lumbar puncture，腰穿）指征**：表现/MRI 不典型或有混杂因素（如年轻男性、近期感染）时做以佐证。
+
+> [!warning] CSF 鉴别（防错选）
+> - **白蛋白细胞分离 albuminocytologic dissociation**（蛋白↑、细胞正常）= **GBS（Guillain-Barré 综合征）**；GBS 是 **LMN/反射↓**（与 MS 的 UMN 相反）。
+> - **VDRL（venereal disease research laboratory）阳性** = 神经梅毒（neurosyphilis）；可有振动觉↓，但伴 **LMN**（vs MS 的 UMN）。
+> - **中性粒 pleocytosis** = 细菌性脑膜炎；**开放压↑** 非 MS。
+
+- 治疗：急性发作 = 大剂量糖皮质激素（glucocorticoid）；缓解期 = 疾病修饰治疗（DMT，disease-modifying therapy）；**各症状对症见 §五**。
+
+## 五、症状对症管理（Q19797）⭐
+
+| 症状 | 一线对症 |
+|---|---|
+| **痉挛 spasticity** | **baclofen（巴氯芬，GABA-B 激动剂）/ tizanidine（替扎尼定，α2 激动剂）** + 物理治疗/拉伸；难治 → 肉毒毒素 botulinum toxin / 鞘内 baclofen |
+| 疲劳 fatigue | amantadine（金刚烷胺）/ modafinil（莫达非尼）；规律运动、睡眠卫生 |
+| 神经病理性疼痛 | gabapentin（加巴喷丁）/ duloxetine（度洛西汀）|
+| 急迫性尿失禁 urge incontinence | 抗胆碱（oxybutynin 奥昔布宁 / tolterodine 托特罗定）+ 定时排尿 |
+| 抑郁 depression | SSRI / SNRI |
+
+> [!tip] 痉挛 vs 不宁腿陷阱
+> MS + 肌张力↑ + 反射亢进 + 痛性痉挛 = **spasticity → baclofen/tizanidine**；别误当**不宁腿（RLS）**用多巴胺激动剂（pramipexole 普拉克索）。
 
 ## 🔗 关联
 
-- 🔁 同主题做对题：
-  - [[mistakes/uworld-mistakes_2026-06#^Q2285]] INO 核间性眼肌麻痹定位（right MLF）
+- 🔁 同主题错题/做对题：
+  - [[mistakes/uworld-mistakes_2026-06#^Q2285]] INO 核间性眼肌麻痹定位（right MLF）⚠️ 2026-06-28 回退做错 → 追踪卡 [[mistakes/uworld-mistakes_2026-06#^Q2285-R0628]]
+  - [[mistakes/uworld-mistakes_2026-06#^Q3644]] MS 诊断（CSF 寡克隆带，§四）
+  - [[mistakes/uworld-mistakes_2026-06#^Q19797]] MS 痉挛对症治疗（baclofen/tizanidine，§五）
   - [[mistakes/uworld-mistakes_2026-06#^Q15402]] MS 危险因素（vit D 缺乏）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]]
 - 🏥 跨学科：[[完整笔记/专题笔记/感染]]（EBV 单核样综合征）/ [[完整笔记/专题笔记/神经/神经_眩晕鉴别谱]]

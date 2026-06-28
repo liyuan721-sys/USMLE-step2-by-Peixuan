@@ -322,10 +322,35 @@ Acute ischemic stroke + last DOAC dose < 48 hr
 
 ---
 
+## 十二、华法林相关 ICH 逆转 + 抗凝逆转总表（Q3737）⭐
+
+> [!danger] 抗凝相关颅内出血（ICH，intracranial hemorrhage）= 立即逆转对应抗凝药
+> **华法林（warfarin）相关 ICH → IV 维生素 K（vitamin K，起效慢 12-24h 但持久，促肝合成依赖性凝血因子）+ 4F-PCC（four-factor prothrombin complex concentrate，四因子凝血酶原复合物，数分钟快速、容量小）**。PCC 优于 FFP（fresh frozen plasma，新鲜冰冻血浆：起效慢、容量大）。
+
+### 抗凝逆转总表 ⭐⭐⭐
+
+| 抗凝药 | 机制 | 逆转 |
+|---|---|---|
+| **华法林 warfarin** | 抑制维生素 K 依赖因子（II/VII/IX/X）| **维生素 K + 4F-PCC**（FFP 次选）|
+| **dabigatran（达比加群）** | 直接抑制凝血酶 IIa | **idarucizumab（依达赛珠单抗）** |
+| **Xa 抑制剂（-xaban 类）** | 抑制因子 Xa | **andexanet alfa** / 4F-PCC |
+| **肝素 heparin / LMWH** | 激活抗凝血酶 | **鱼精蛋白 protamine** |
+
+> [!warning] 易混陷阱（华法林 ICH 场景）
+> - **氨甲环酸 TXA（tranexamic acid）** = 抗纤溶药，**不逆转 INR**，无华法林 ICH 适应症（栽过：[[mistakes/uworld-mistakes_2026-06#^Q3737]] 误选 TXA）。
+> - **血小板输注** = 用于血小板减少/抗血小板药逆转；INR 高 + 血小板正常时无用。
+> - **腰穿 LP / tPA / 抗血小板** = ICH 禁用；降压（尼卡地平/拉贝洛尔将 SBP<140）是配套，不是核心逆转。
+> - 停诱因：对乙酰氨基酚（acetaminophen，增强华法林）+ phenylephrine（升压）等 OTC 也要停。
+
+- 派生自 [[mistakes/uworld-mistakes_2026-06#^Q3737]]（华法林丘脑出血 → vit K + PCC）。
+
+---
+
 ## 🔗 关联
 
 - 🔁 同主题错题：
-  - [[mistakes/uworld-mistakes_2026-06#^Q12214]] 恶性半球梗死 — 卒中后急性恶化 → 急查不增强 CT（非 MRI）
+  - [[mistakes/uworld-mistakes_2026-06#^Q12214]] 恶性半球梗死 — 卒中后急性恶化 → 急查不增强 CT（非 MRI）⚠️ 2026-06-28 反复错 → [[mistakes/uworld-mistakes_2026-06#^Q12214-R0628]]
+  - [[mistakes/uworld-mistakes_2026-06#^Q3737]] 华法林相关 ICH 逆转 — vit K + PCC（§十二；误选 TXA）
   - [[mistakes/uworld-mistakes_2026-05#^Q4469]] AF 抗凝指征 — CHA₂DS₂-VASc 评分是抗凝触发器，不是"有 AF 就抗凝"
   - 抗凝药拮抗剂 4 对（2026-05-14 self-test 卡，无 Q 锚点）— 6 对拮抗剂总表 + Warfarin 急性出血 SOP
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/Peixuan分科笔记/心内]] / [[完整笔记/Peixuan分科笔记/hematology oncology]]
