@@ -85,6 +85,9 @@ Yours sincerely,
 - **中间馅**：Timeline 用日期推进（`On 19 March, ... During her stay, ... Currently, ...`）；**reader 已认识病人 → 不写 Background**。
 - **筛信息三分法**（反 panic）：① relevant 需细节 ② relevant 只需 summarise ③ 删。多数内容在第②类——用一句话概括 / listing / comparison（`her symptoms were the same/worse`）。
 
+> [!tip] 优先筛这 4 类（考经文傲）
+> 病例笔记里**最该挑出来写**的四类相关信息：① **既往诊断**（previous diagnoses）② **用药情况**（medications）③ **检查结果**（investigation results）④ **social history**（饮酒 / 吸烟等）。其余与转诊目的无关的一律删。
+
 ---
 
 ## 出院 / 转院信模板（discharge / transfer letter）

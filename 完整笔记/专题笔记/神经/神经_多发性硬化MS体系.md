@@ -34,6 +34,7 @@ type: 专题笔记
 | **INO（internuclear ophthalmoplegia，核间性眼肌麻痹）** | 见下方专节 |
 | **Lhermitte 征** | 屈颈时沿脊背电击样感 |
 | **Uhthoff 现象** | 体温升高（运动/热水浴）→ 症状一过性加重 |
+| **PBA（pseudobulbar affect，假性球麻痹性情感失禁）** | 不自主、与情境不符的强哭强笑；提示双侧皮质延髓束斑块 → 见下方专节 |
 
 ## 三、INO 定位规则（Q2285）⭐
 
@@ -52,6 +53,10 @@ type: 专题笔记
 ## 四、诊断（Q3644）⭐
 
 - 核心 = 临床**时空多发（DIT/DIS，disseminated in time & space）** + **MRI** 脑室周围 T2/FLAIR 高信号脱髓鞘斑块。
+
+![[{828E3CD6-528E-4675-AB28-D298571D7F9C}.png]]
+*UWorld MS 头颅 MRI（轴位 FLAIR）：箭头 = 脑室周围白质病灶（periventricular white matter lesions，脱髓鞘斑块）。读片钩子：卵圆形病灶**垂直于侧脑室 / 沿胼胝体放射** = **Dawson fingers（道森指）**，MS 招牌征。*
+
 - **CSF（cerebrospinal fluid，脑脊液）= 细胞数正常、T 淋巴细胞为主、寡克隆 IgG 带（oligoclonal IgG bands，>85% MS 阳性）**；开放压/蛋白一般正常。
 - **LP（lumbar puncture，腰穿）指征**：表现/MRI 不典型或有混杂因素（如年轻男性、近期感染）时做以佐证。
 
@@ -74,6 +79,39 @@ type: 专题笔记
 
 > [!tip] 痉挛 vs 不宁腿陷阱
 > MS + 肌张力↑ + 反射亢进 + 痛性痉挛 = **spasticity → baclofen/tizanidine**；别误当**不宁腿（RLS）**用多巴胺激动剂（pramipexole 普拉克索）。
+
+## 六、PBA 假性球麻痹性情感失禁（Q2285 背景）⭐
+
+> [!danger] PBA（pseudobulbar affect，假性球麻痹性情感失禁 / 强哭强笑）
+> = **不自主、刻板、阵发**的哭或笑，**与内在情绪不相称（incongruent）**。病人控制不住，主观情绪体验和外在表现**脱节**（内心没那么悲伤却在哭）。
+
+**机制（为什么叫"假性"）**：正常时**额叶皮层经皮质延髓束（corticobulbar tracts）抑制脑干的情绪表达运动程序**；当**双侧皮质延髓束**受损（MS 斑块、ALS、双侧卒中、痴呆晚期），这个"刹车"失灵 → 脑干被**去抑制（disinhibition）** → 轻微刺激就触发夸张哭笑。
+
+```
+正常:  额叶皮层 ──抑制──> 脑干情绪表达中枢 → 受控哭笑
+PBA :  额叶皮层 ──X断裂X──> 脑干(去抑制) → 阵发/夸张/不自主哭笑
+              ↑ 双侧皮质延髓束(corticobulbar)受损
+```
+
+**真性 vs 假性球麻痹（高频对比）**
+
+| | **真性球麻痹（bulbar palsy）** | **假性球麻痹（pseudobulbar palsy）** |
+|---|---|---|
+| 病灶 | 延髓**下运动神经元 LMN（lower motor neuron）**本身 | LMN **上方**：双侧**皮质延髓束 UMN（upper motor neuron）** |
+| 典型病因 | ALS（amyotrophic lateral sclerosis，肌萎缩侧索硬化）延髓型、延髓梗死 | MS、双侧卒中、ALS（UMN 成分）、痴呆 |
+| 情感失禁 | 无 | **有（PBA 强哭强笑）** |
+| 舌 | **舌肌萎缩 + 束颤（fasciculation，肌束颤动）** + 瘫软（弛缓性）| 痉挛性舌（spastic tongue，僵硬/伸舌动作慢）、**无萎缩、无束颤** |
+| 下颌反射 jaw jerk | 减弱/消失 | **亢进** |
+| 构音/吞咽 | 弛缓性 | 痉挛性 |
+
+> [!warning] 别误当抑郁症（高频陷阱）
+> - **MDD（major depressive disorder，重性抑郁障碍）**：哭泣 = 持续内在悲伤的**真实外显**，伴 SIG-E-CAPS（睡眠/兴趣/内疚/精力/注意/食欲/精神运动/自杀意念）。
+> - **PBA**：哭笑是**运动性发作**，与内在情绪**不匹配**，**无**持续心境障碍。
+> - 反射：young woman + 神经体征 + "uncontrollable laughing/crying" → 想 **PBA / MS**，别直接选抑郁。
+> - 治疗（CK 偶考）：**dextromethorphan–quinidine（右美沙芬-奎尼丁）** 复方；或 SSRI / TCA（三环类抗抑郁药）。
+
+> [!tip] 在 Q2285 里的作用
+> PBA 提示**双侧皮质延髓束**有斑块 = MS 的又一个独立病灶（**空间多发 DIS**），和 INO（脑干 MLF 病灶）、视神经炎/感觉障碍一起凑齐"时空多发"，把诊断钉死在 MS。
 
 ## 🔗 关联
 

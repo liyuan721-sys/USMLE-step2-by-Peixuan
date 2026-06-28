@@ -91,6 +91,30 @@ type: 备考资料
 
 ---
 
+## 格式 / 缩写 / 冠词 / 介词（考经文傲补）
+
+> [!tip] 这些是写作机械细节，扫一眼就能避开
+> - **缩写要展开**：mins → minutes；BID → twice daily；TID → three times daily（信里不留缩写）。
+> - **药名大小写**：**品牌名（商品名）首字母大写**（如 Panadol 必理痛），**学名（通用名）小写**（如 paracetamol 对乙酰氨基酚）。
+> - **报告症状 / 用药动词**："The patient **reports** feeling pain in the lower back."；"**discharged with a prescription for** XXX" / "**was prescribed** XXX"。
+> - **BMI 表达**："with a BMI of XX"。
+> - **主谓一致**：尤其 **there be** 句式注意单复数（there **is** one lesion / there **are** two lesions）。
+
+| 冠词（article） | 规则 |
+|---|---|
+| 器官前 | 一般加 **the**（the liver） |
+| 检查方法前 | 一般加 **a/an**（a chest X-ray） |
+| 药物前 | **不加**冠词 |
+| 家属前 | 加 **his / her**（his wife, her son） |
+
+| 介词（时间） | 规则 |
+|---|---|
+| **in** + 月份 / 年 | in June, in 2026 |
+| **on** + 具体日期 | on 11/01/2018 |
+| **at** + 具体时间 | at 9 a.m. |
+
+---
+
 ## 被认可的开头/结尾范式
 
 - **转诊（refer 新病人）**：`I am writing to refer Mr X, a [age]-year-old [职业], who has features suggestive of [诊断]. Your further assessment and management would be highly appreciated.`

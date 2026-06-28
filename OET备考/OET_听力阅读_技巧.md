@@ -37,6 +37,10 @@ type: 备考资料
 11. **剂量单位**：single dose（单次）vs maximum daily dose（每日上限）。
 12. 剩余时间**通读检查语法+拼写**。
 
+> [!tip] 考经文傲补：两类高频空型
+> - **疼痛描述空**：固定结构 `Pain akin to ___ (e.g., burning)` 或 `___ pain (e.g., burning)`——空里填性质词（burning / throbbing / stabbing…）。
+> - **时间空的多种壳**：`initiate around ___` / `over ___` / `___ after the return` / `in the past ___` / `___ prior` / `recent onset ___` / `follow-up schedule for ___` / `___ ago`。除听数字外**留意空前是否缺介词**（如 `three years **ago**`，漏 ago 算错）。
+
 ### Part B / C — 逻辑题
 
 - 先分**主旨题 vs 细节题**。细节题：主语+限定词去原文定位。

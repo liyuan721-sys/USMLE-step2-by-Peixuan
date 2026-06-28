@@ -265,6 +265,43 @@ type: 申请追踪
 
 ---
 
+## 九、Pathways 申请流程（考经文傲，2026-06-28 入库）
+
+> [!warning] 这是"将来要走的下一关"的操作参考，不是现在能做的
+> 我现在卡在**认证申请被拒（学位类型）**这道门——Pathways 是认证申请被 Accepted **之后**才碰的下一关。下面是文傲的实操记录，**先收着、到时按自己情况核实**（尤其哪条 pathway，见下"⚠️ 我大概率走 Pathway 1"）。源文档：OET 备考文件夹 `源资料/OET 考经.docx`。
+
+### A. 概念关系（文傲口径）
+
+```
+ECFMG 认证 = Step 1 + Step 2 + Pathway
+Pathway     = 其中一个 Step + OET（英语）+ 临床技能（6 个 mini-CEX，
+              mini Clinical Evaluation Exercise，迷你临床评估）
+```
+
+> [!danger] Pathway 有有效期 —— 卡 PGY1 结束前必须仍有效
+> 例：2026 年的 pathway 有效期到 **2028 年 12 月底**；这个有效期必须保证**到你 PGY1（第一年住院医）结束前都有效**，否则要**重新认证**。
+> → 文傲建议：**提前一个 Match cycle 申请 pathway**，保证该 cycle 不出错、之后不用重新 validate。
+> ⚠️ **交钱选定某条 pathway 后不能随意改**到别的 pathway → **先弄清自己走哪条再交钱**。
+
+### B. 申请 6 步（系统实操）
+
+1. 进 pathway 系统，第一个问题：**是否在美国境外持有医师执照**？选**是**→自动进 **Pathway 1**；选**否**→跳 Pathway 3 或 6（符合 3 走 3，否则走 6）。
+2. 第一步**先交钱 $925**，交完进下一步。
+3. 第二步：**提交 OET**（在 OET 网站选择把成绩公布给 ECFMG，几天后自动通过这一项）+ 填 **6 个 clinical encounters**。
+4. clinical encounters 从专门 dashboard 进入；**同一个医生评估两次要输入两次信息**；每条只需填**医生姓名 + 邮箱**。
+5. 系统自动给医生发邮件：**接受**期限 2 周（过期作废）；接受后 **2 周内**完成 mini-CEX 评估（过期作废）。**评估时间必须晚于接受时间**。
+6. mini-CEX 全部完成 + OET 显示完成 → 系统显示通过 → **耐心等 approve**，无其他步骤。
+
+> [!tip] ⚠️ 我大概率走 Pathway 1（待核实）
+> 我在中国持有医师执照（副主任医师）→ "境外有医师执照"= 是 → 多半进 **Pathway 1**（凭现行执照），**不必走 Pathway 6**（无资格者的 6 项临床技能路径）。但 **6 个 mini-CEX 的临床技能评估是各 pathway 通用要求**（原 CS 考试停考后的替代），所以无论哪条 pathway 都要做这 6 个 encounters。报名前去 [ECFMG Pathways 页](https://www.ecfmg.org/certification-pathways/) 核当年精确规则。
+
+### C. 出分时间（文傲实测）
+
+- **普洱文考场机考**：成绩 **10 个工作日内**公布。
+- **在家考（OET@Home）**：成绩 **2 天内**公布。
+
+---
+
 ## 2026-06-24 MyIntealth My Cases 实查：各案状态 + C-25966832 真相
 
 各案当前状态（截至 2026-06-24，全部 **Action Required = No** → portal 不等你操作）：
@@ -364,3 +401,4 @@ type: 申请追踪
 - **2026-06-26**：✅ **协和博士中文成绩证明已开好**；下一步 = 翻译英文版（步骤二）。§四-补 加 **4 条翻译红线**（标题 Doctor 非 Master / 学位称号统一 / 与中文逐项一致不美化 / 日期一致）防重蹈 "Master Degree" 覆辙。新增 **§七 EPIC vs Certification 区分表**（两条线/两个电话别混 + 启动 EPIC 前先改好成绩单）。
 - **2026-06-26**：浏览器实查 MyIntealth + FSMB（Claude in Chrome）→ 新增 **「2026-06-26 浏览器实查」节**：① USMLE 报名 2026-01 迁 FSMB（MyIntealth Services 无 USMLE 选项）；② **ECFMG Certification Application = Pending Submission + 有「Begin Application」按钮**（= 可重交新申请、填协和 school of record 的真正入口）；③ FSMB（Raven）已登录、**Step 1 完整无损**（四步 check_circle），**Step 2 CK 被红色报错挡住**："no accepted Application for ECFMG Certification"。计划改写：从"电话求改旧申请"→ 可能"自己 Begin 新申请"；**未点 Begin（高风险动作留用户本人）**，定三步正确顺序（先修博士英文成绩单 → 确认路径 → 本人提交）。
 - **2026-06-26**：查证 OET 报考 → 新增 **§八 OET 报考要点**：北京无线下考点走 **OET@Home**（ECFMG 对"本国无考点"考生认可的合规形式）；达标分 **L/R/S≥350、Writing≥300 一次同场**；有效期按 Match 周期固定日历（2027 Match 须≥2025-01-01），**2026-07 考覆盖 2027+2028 两周期**；提醒**先跑设备自检**防墙内监考软件连不通。OET 是认证独立组件、不解 credential 锁。
+- **2026-06-28**：入库文傲 OET 考经的 Pathways 部分 → 新增 **§九 Pathways 申请流程**：概念关系（认证=Step1+Step2+Pathway；Pathway=一个Step+OET+6个mini-CEX）；**Pathway 有有效期须覆盖到 PGY1 结束**（建议提前一个 Match cycle 申请）、交钱定 pathway 后不可改；申请 6 步（境外执照→Pathway 1 / $925 / OET 公布给 ECFMG / 6 clinical encounters：医生姓名+邮箱、接受 2 周+评估 2 周、评估晚于接受）；出分时间（机考 10 工作日 / 在家 2 天）。**标注我大概率走 Pathway 1（持中国执照），但 6 个 mini-CEX 各 pathway 通用**——待认证 Accepted 后按当年规则核实。考经其余部分（OET 四科技巧）已拆进 OET 备考文件夹对应分项笔记。

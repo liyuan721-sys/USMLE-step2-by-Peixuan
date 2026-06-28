@@ -6,9 +6,9 @@ created: 2026-06-27
 type: 备考资料
 ---
 
-# OET 听力 — 默写词库（811 词，三表合一去重）
+# OET 听力 — 默写词库（811 词 + 考经 sample-test 65 词，三表合一去重）
 
-> 返回 [[00_OET总览]] · 技巧见 [[OET_听力阅读_技巧]] · 来源：范昊词表 + Part A 高频词表 + 考经196词
+> 返回 [[00_OET总览]] · 技巧见 [[OET_听力阅读_技巧]] · 来源：范昊词表 + Part A 高频词表 + 考经196词 + **考经 sample-test 易写词 65（2026-06-28 补，见 §一末「考经 sample-test 批次」）**
 
 > [!warning] 为什么要背（推翻"OET 不用背词"的偷懒）
 > 听力 **Part A 是听音填空、拼对才得分**，是你最难的一科。这里不是认冷僻词，而是**把听到的医学词当场拼对**（英式 ae/oe、双写、希腊词根最易翻车）。每天 ~50 词，读出声练"读音→拼写"反射。
@@ -871,6 +871,81 @@ type: 备考资料
 | 27 | 安全 | Security |
 | 28 | 外科医生 | Surgeon |
 | 29 | 毒理学家 | toxicologist |
+
+---
+
+## 📦 考经 sample-test 批次（65 词，2026-06-28 补）
+
+> [!warning] 为什么单列
+> 这批来自文傲考经**顶部「单词会写 sample test」**清单，是默写词库原 811 词**没收录**的（appendix 196 词已并入上面各类，这批是另一份 list）。**⚠️ 标记 = 英式/美式拼写陷阱**（organiser / fibre / counselling / nappy 是英式，OET 用英式拼写，听到别写成美式）。
+
+| 类别 | 中文 | English |
+|---|---|---|
+| 症状/描述 | 唇疱疹 | cold sores |
+| 症状/描述 | 烧心、胃灼热 | heartburn |
+| 症状/描述 | 痒的 | itchy |
+| 症状/描述 | 水疱 | blisters |
+| 症状/描述 | 腹胀 | bloating |
+| 症状/描述 | 便秘 | constipation |
+| 症状/描述 | 吞咽 | swallowing |
+| 症状/描述 | 恶心 | nausea |
+| 症状/描述 | 瘢痕形成 | scarring |
+| 症状/描述 | 视物模糊 | fuzzy |
+| 症状/描述 | 心悸（注意复数） | palpitations |
+| 症状/描述 | 麻木 | numbness |
+| 症状/描述 | 鳞屑样粉红（皮损） | scaly pink |
+| 症状/描述 | 擦伤 | graze / grazing |
+| 症状/描述 | 反酸、胃酸反流 | acid reflux |
+| 症状/描述 | 食欲 | appetite |
+| 症状/描述 | 静脉曲张、曲张静脉 | dilated veins / varices |
+| 症状/描述 | 时差反应 | jet lag |
+| 症状/描述 | 持续的 | constant |
+| 症状/描述 | 难以预测的 | unpredictable |
+| 症状/描述 | 使人丧失能力的、极严重的 | incapacitating |
+| 检查/操作/治疗 | 超声 | ultrasound |
+| 检查/操作/治疗 | 活检 | biopsy |
+| 检查/操作/治疗 | 食物过敏检测 | food allergy tests |
+| 检查/操作/治疗 ⚠️ | 物理治疗 | physiotherapy |
+| 检查/操作/治疗 | 肿块切除术 | lumpectomy |
+| 检查/操作/治疗 | 胃切除术 | gastrectomy |
+| 检查/操作/治疗 | 透析 | dialysis |
+| 检查/操作/治疗 | 洗手 | hand washing |
+| 检查/操作/治疗 | 医疗许可（评估后准予） | medical clearance |
+| 检查/操作/治疗 | 已接种疫苗 | vaccinated |
+| 药物/物质 | 抗病毒乳膏 | anti-viral cream |
+| 药物/物质 | 皮质类固醇（糖皮质激素） | corticosteroids |
+| 药物/物质 | 抗酸药 | antacids |
+| 药物/物质 | 贝特类降脂药 | fibrates |
+| 药物/物质 | 液态吗啡 | liquid morphine |
+| 药物/物质 | 口服避孕药 | contraceptive pills |
+| 药物/物质 | 鱼油 | fish oil |
+| 药物/物质 | 维生素 D | vitamin D |
+| 药物/物质 | 胆固醇 | cholesterol |
+| 疾病/诊断 | 肝炎 | hepatitis |
+| 疾病/诊断 ⚠️ | 尿布疹（英式 nappy / 美式 diaper rash） | nappy rash |
+| 职业/人物 ⚠️ | 活动策划（英式 organiser） | events organiser |
+| 职业/人物 | 会计 | accountant |
+| 职业/人物 | 招聘顾问 | recruitment consultant |
+| 职业/人物 | 主厨 | chef |
+| 职业/人物 ⚠️ | 心理咨询（英式 counselling） | counselling / counseling |
+| 物品/其他 ⚠️ | 热敷垫 | heat pad / heatpad |
+| 物品/其他 | 冰袋 | ice pack |
+| 物品/其他 | 弹力带 | resistance band |
+| 物品/其他 | 油漆厂 | paint factory |
+| 物品/其他 | 病菌 | germs |
+| 物品/其他 | 橄榄球 | rugby |
+| 物品/其他 | 南极洲 | antarctica |
+| 物品/其他 | 手掌 | palm |
+| 物品/其他 | 日记 | diary |
+| 物品/其他 ⚠️ | 纤维、膳食纤维（英式 fibre） | fibre |
+| 物品/其他 | 少食多餐方案 | little and often regime for meals |
+| 形容/状态 | 舒适的 | comfortable |
+| 形容/状态 | 混乱的 | chaotic |
+| 形容/状态 | 焦虑的 | anxious |
+| 形容/状态 | 无法治愈的 | untreatable |
+| 形容/状态 | 被降职 | demoted |
+| 形容/状态 | 被收养的 | adopted |
+| 情绪 | 悲伤、居丧 | grief |
 
 ---
 
