@@ -358,8 +358,9 @@ Acute ischemic stroke + last DOAC dose < 48 hr
   - [[完整笔记/Peixuan分科笔记/心内]]（AF 抗凝是 DOAC 最常见适应症 → stroke + AF on DOAC 是经典叠加 stem）
   - [[完整笔记/Peixuan分科笔记/hematology oncology]]（DOAC 逆转药 / TFPI 机制 / 凝血瀑布）
   - [[完整笔记/Peixuan分科笔记/GI]]（DOAC 相关 GI 出血是 andexanet 另一适应症场景）
+- 🏥 姊妹篇：[[完整笔记/专题笔记/神经/神经_急性卒中影像与溶栓取栓决策]]（影像选择 CT/MRI/CTA/CTP + tPA 时间窗/禁忌/血压门槛 + 取栓 LVO 窗口 —— 本卡专注抗凝叠加溶栓的逆转分叉，影像+通用再灌注看姊妹篇）
 - 🌱 TODO（待生成衍生）：
-  - 等积累 3+ 道 acute stroke 错题 → 整合 [[完整笔记/专题笔记/神经/神经_急性卒中_完整决策]]（涵盖 tPA candidacy + BP 管理 + 影像门槛 + thrombectomy + 病因二级预防）
+  - ✅ 影像门槛 + tPA candidacy + BP 管理 + thrombectomy 已落入 [[完整笔记/专题笔记/神经/神经_急性卒中影像与溶栓取栓决策]]（2026-06-28 建）；待积累 3+ 病因二级预防错题再评估是否合并"完整决策"总卡
   - 等积累 3+ 道抗凝逆转错题 → 整合 [[完整笔记/专题笔记/_衍生_抗凝药拮抗剂_4对]]（已在 2026-05-14 self-test 卡里 TODO）
 
 ---
