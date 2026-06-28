@@ -1139,6 +1139,36 @@ Elderly + chronic disease decision-making
 
 ---
 
+## §三 姑息症状控制药物速查 (Palliative Symptom Management)
+
+> [!info] 来源 + 定位
+> 2026-06-28 从 Demi RF/Screening/Vaccine 大全 §Weird Social Science 增量。EOL 题除了**决策伦理**（§一/§二）还高频考**具体症状给哪个药**——这是 pharm 反射，不是伦理判断。诊断 bias / QI / 成瘾筛查见 [[完整笔记/专题笔记/USMLE/USMLE_患者安全_Cognitive诊断错误]] / [[完整笔记/专题笔记/USMLE/USMLE_患者安全_QI工具]] / [[完整笔记/专题笔记/psych/psych_MAT速查]]。
+
+### §3.1 症状 → 首选药速查表
+
+| 症状（终末期 / 姑息）| 首选 | 关键点 |
+|---|---|---|
+| **厌食 / 恶病质 (anorexia / cachexia)** | 甲地孕酮 (megestrol, 孕激素) / 屈大麻酚 (dronabinol, 大麻素) / 糖皮质激素 (corticosteroids) | **不延长生存、不减并发症**，仅改善食欲/舒适 |
+| **临终抑郁（预期寿命短）** | **哌甲酯 (methylphenidate, 兴奋剂)** | 起效快；SSRI 太慢来不及；极焦虑可加苯二氮䓬 (benzodiazepine) |
+| **呼吸困难 (dyspnea, 转移癌)** | **阿片类 (opioids, 如吗啡 morphine)** + 通便方案 | 阿片是姑息呼吸困难一线 |
+| **化疗恶心呕吐 (chemo N/V)** | **昂丹司琼 (ondansetron, 5-HT3 拮抗剂)** | 不良反应 = **QT 间期延长** |
+| **颅压升高致恶心（如终末期 GBM 多形性胶质母细胞瘤 glioblastoma）** | **糖皮质激素降颅压 (ICP, intracranial pressure 颅内压)** | 针对病因（水肿），非单纯止吐 |
+| **神经病理性疼痛 (neuropathic pain)** | 三环抗抑郁药 (TCA, tricyclic antidepressant) / SNRI（度洛西汀 duloxetine）/ 加巴喷丁 (gabapentin) / 普瑞巴林 (pregabalin) | 烧灼/麻刺感 → 不用纯阿片 |
+| **广泛肝肾转移的癌痛** | **芬太尼贴剂 (fentanyl patch)** | **肝肾衰避免吗啡 (morphine)**（活性代谢物蓄积）|
+| **吗啡已加量仍剧痛** | **继续加量 / 加频** | 阿片无封顶；疼痛未控就上调 |
+
+### §3.2 姑息止痛要避开的药
+
+> [!danger] 两个"别选"
+> - **哌替啶 (meperidine)** —— 代谢物去甲哌替啶蓄积 → **癫痫**，姑息止痛避免。
+> - **曲马多 (tramadol)** —— 偏弱 + 药物相互作用多；与抗抑郁药合用 → **5-羟色胺综合征 (serotonin syndrome)**（发热 + 肌阵挛），不适合癌痛。
+
+> [!tip] 姑息 vs 临终关怀（概念别混）
+> - **姑息治疗 (palliative care)**：任何阶段都可与**根治性治疗并行**——治愈意图的癌症病人**也能**同时接受姑息。
+> - **临终关怀 (hospice)**：需医生判定**预期寿命 < 6 个月**才启动；可居家。
+
+---
+
 ## 🔗 关联（全文件）
 
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/Ethics_Master]] / [[完整笔记/专题笔记/Ethics/Ethics_精简框架]]（核心 ethics 框架）
