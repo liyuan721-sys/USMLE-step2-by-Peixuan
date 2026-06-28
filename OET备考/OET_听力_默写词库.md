@@ -54,6 +54,7 @@ type: 备考资料
 
 > [!warning] 规则 3 · 其他英式词尾（OET 录音用英式）
 > 🎯 **代表词：Physiotherapy（物理治疗）+ Fibre（纤维）** — 整词英式 + -re 双示范。
+>
 > | 类型 | 英式 ✅ | 美式 ❌ | 例 |
 > |---|---|---|---|
 > | -ise（非 -ize）| organis**e** / immunise | organize | 策划 organiser |
