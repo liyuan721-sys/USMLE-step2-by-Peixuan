@@ -21148,7 +21148,7 @@ type: 错题数据源
 >   - [[mistakes/uworld-mistakes_2026-06#^Q4410]] Actinic keratosis（同日晒区肿瘤谱）
 > - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Basal cell carcinoma 段）/ [[完整笔记/专题笔记/皮肤/皮肤_皮肤肿瘤与癌前]]（§〇 活检决策 + §一 BCC）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/外科]]（切缘与活检方式选择）
-> - 🌱 TODO：无（已并入 HighYield总览 §八.1）
+> - 🌱 TODO：无（已并入 [[完整笔记/专题笔记/皮肤/皮肤_皮肤肿瘤与癌前]]）
 > 
 > ## ✅ 复盘行动
 > - [ ] 1 周后重做
