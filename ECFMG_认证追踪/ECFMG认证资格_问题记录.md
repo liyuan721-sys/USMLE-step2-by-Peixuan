@@ -182,6 +182,13 @@ type: 申请追踪
 
 ## 五、ECFMG 回复后看什么（三种结局）
 
+> [!info] 2026-06-29 进展：6/24 跟进信已被**人工接收并转后端**（非实质裁决）
+> 收到 ECFMG **Applicant Information Services** advisor **Yao Nunoo**（info@ecfmg.org）回信：「Your request has been received and **forwarded to the appropriate department**. You will be notified via email once processing is completed.」
+> - 性质 = **路由确认（routing acknowledgment）**，比 6/19 纯自动回执前进一步（真人经手 + 明确分流）。AIS（Applicant Information Services，申请人信息服务部）一线无学历裁决权 → 已转后端学历核验团队（很可能 Medical Education Credentials，医学教育证件部门）。
+> - 实质两项（① 改 school of record 为协和 ② 接受/核验 2012 PUMC 临床博士做 final diploma）**仍未决**。
+> - **下一步**：暂不再追（刚转交，给后端时间）；**~7/10**（约 7–10 工作日）仍无实质回复 → 发简短 follow-up（锚定 Cases C-27107384 / C-27110565 + 本次 6/29 人工确认）或电话 +1-215-386-5900。材料（博士证 CDGDC 英译 / 执照 / 副高证 / CV）已齐待命。
+> - 邮件存档：`Desktop\step2报名\ECFMG邮件沟通\06292026 ECFMG回复.docx`
+
 - 🟢 同意改用**协和临床博士 / 走个案审** → 改 medical school of record，按博士线重走核验（**要争取的**）
 - 🟡 认可本科 → 几乎不可能（本科非临床）
 - 🔴 明确不行 → 正视这堵墙，再议申诉 / 转方向
