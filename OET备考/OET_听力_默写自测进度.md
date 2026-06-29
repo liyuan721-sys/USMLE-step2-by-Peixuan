@@ -22,45 +22,52 @@ type: 备考资料
 ## 🔁 错词回收池（优先重测，连续拼对 2 次清出）
 
 > 拼错/拼不确定进这里，次日混进新题。括号内英式正确拼写。✓N/2 = 已连续拼对次数。
-> **⚠️ 当前池 28 词（>25 阈值）→ Day 4 减新词、先清池。**
+> **⚠️ 当前池 31 词（>25 阈值）→ Day 5 继续减新词、先清池。**
 
-**✅ 已出池（连续 2 次拼对，2026-06-28 Day 3）**：Palpitation、Rheumatoid
+**✅ 已出池（连续 2 次拼对）**：Palpitation、Rheumatoid（Day 3）｜**Osteoporosis、Tuberculosis（Day 4）**🎉
 
 **差 1 次出池（✓1/2，再对 1 次即清）**
-- [ ] 骨质疏松症 → Osteoporosis（Oste-o-po-rosis）｜✓1/2
-- [ ] 肺结核 → Tuberculosis（名词 -osis；≠形容词 tubercular）｜✓1/2
-- [ ] 氢氯噻嗪 → Hydrochlorothiazide（Hydro-chloro-thiazide）｜✓1/2 🎉首次对
-- [ ] 胆囊炎 → Cholecystitis（Chole-cyst-itis）｜✓1/2
-- [ ] 心律失常 → Arrhythmia（双 r + 内含 rhythm）｜✓1/2 🎉首次对
-- [ ] 痔疮 → Haemorrhoids（Hae- + 双 r + 复数 -s）｜✓1/2 🎉首次对
+- [ ] 出血 → Haemorrhage（**hae** 非 hea；双 r）｜✓1/2 🎉Day4 首次对（连续 3 天主线伤口愈合）
+- [ ] 低血糖 → Hypoglycaemia（-c**ae**mia 非 -ceamia）｜✓1/2 🎉Day4 首次对
+- [ ] 贫血 → Anaemia（An-**ae**-mia，a 先 e 后）｜✓1/2 🎉Day4 首次对
+- [ ] 肺炎球菌的 → Pneumococcal（**Pneu**-，双 c）｜✓1/2 🎉Day4 首次对
+- [ ] 痰 → Phlegm（phl**e**gm，g 不发音）｜✓1/2 🎉Day4 首次对
+- [ ] 憩室炎 → Diverticulitis（-itis≠-osis）｜✓1/2
+- [ ] 瘢痕形成 → Scarring（双 r + -ing）｜✓1/2
+- [ ] 麻木 → Numbness（numb + ness）｜✓1/2
+- [ ] 物理治疗 → Physiotherapy（英式；≠physical therapy）｜✓1/2
+- [ ] 痒的 → Itchy（itch+y，无 s）｜✓1/2
+- [ ] 水疱 → Blisters（bullae 是医学同义词，默写按 blisters）｜✓1/2
+- [ ] 腹胀 → Bloating｜✓1/2
 
-**仍 0/2 · 英式 ae/oe ⭐（主线伤口，连续第 3 天）**
-- [ ] 出血 → Haemorrhage（**hae** 非 hea；双 r）｜✓0/2 ［Day3 写 heamorrhage］
-- [ ] 低血糖 → Hypoglycaemia（-c**ae**mia 非 -ceamia）｜✓0/2 ［写 hypoglyceamia］
-- [ ] 贫血 → Anaemia（An-**ae**-mia，a 先 e 后）｜✓0/2 ［写 arreamia］
-- [ ] 哮喘 → Asthma（**无 ae**，别过度纠正）｜✓0/2 ［写 aesthma］
-- [ ] 呼吸困难 → Dyspnoea（英式 -p**noea**，非美式 dyspnea）｜✓0/2 ［Day3 又错，重置］
-- [ ] 腹泻 → Diarrhoea（英式 -rr**hoea**）｜✓0/2 ［又错，重置］
+**仍 0/2 · 退档重置（Day 3 赢了 Day 4 又丢，最可惜）⚠️**
+- [ ] 氢氯噻嗪 → Hydrochlorothiazide（Hydro-chloro-**thia**-zide）｜✓0/2 ［Day4 写 thyzide 漏 -othia-，退档重置］
+- [ ] 胆囊炎 → Cholecystitis（**Chole**-cyst-itis 胆汁词根）｜✓0/2 ［Day4 写 choly-，退档重置］
+- [ ] 心律失常 → Arrhythmia（双 r + 内含 rhythm，**无 e**）｜✓0/2 ［Day4 写 arrhythemia 多 e，退档重置］
+- [ ] 痔疮 → Haemorrhoids（Hae- + 双 r + 复数 -s）｜✓0/2 ［Day4 写 hemorrhoid 漏 ae+漏 s，退档重置］
 
-**仍 0/2 · 长药名 + 其他**
-- [ ] 甲氨蝶呤 → Methotrexate（Me-tho-trex-ate）｜✓0/2 ［写 maxothexate］
-- [ ] 左甲状腺素 → Levothyroxine（-thyr**ox**-ine，别漏 r）｜✓0/2 ［写 levothytoxine］
-- [ ] 肺炎球菌的 → Pneumococcal（**Pneu**-，双 c）｜✓0/2 ［写 pneamococal］
-- [ ] 痰 → Phlegm（phl**e**gm，g 不发音）｜✓0/2 ［写 phlagm］
-- [ ] 憩室炎 → Diverticulitis（-itis≠-osis）｜✓0/2 ［Day3 跳过未答］
-- [ ] 结膜炎 → Conjunctivitis（-it**is** 非 -ities）｜✓0/2 ［写 conjunctivities，重置］
+**仍 0/2 · 英式 ae/oe ⭐（-oea 双元音 + 过度纠正）**
+- [ ] 哮喘 → Asthma（**无 ae**，别过度纠正！希腊词 ásthma 纯 a）｜✓0/2 ［Day4 过度泛化写 aesthma］
+- [ ] 呼吸困难 → Dyspnoea（英式 -p**noea**，非美式 dyspnea）｜✓0/2 ［Day4 写 dyspnae 漏 o］
+- [ ] 腹泻 → Diarrhoea（Di-a-rr-**hoea**）｜✓0/2 ［Day4 写 diaerrhea，乱序+串美式］
 
-**新入池 · Day 3 核心词（✓0/2）**
-- [ ] 瘢痕形成 → Scarring（双 r + -ing）
-- [ ] 吞咽 → Swallowing（双 l）
-- [ ] 静脉曲张 → Varices（单数 varix）
-- [ ] 麻木 → Numbness（numb + ness）
-- [ ] 唇疱疹 → Cold sores（两词 + 复数 s）
-- [ ] 使人丧失能力的 → Incapacitating（in-capa-cita-ting；≠inability）
-- [ ] 物理治疗 → Physiotherapy（英式；≠physical therapy）
-- [ ] 痒的 → Itchy（itch+y，无 s）
-- [ ] 水疱 → Blisters（bullae 是医学同义词，默写按 blisters）
-- [ ] 腹胀 → Bloating
+**仍 0/2 · 长药名 + 后缀**
+- [ ] 甲氨蝶呤 → Methotrexate（Me-tho-trex-ate）｜✓0/2 ［Day4 写 methoxatrate 音节乱］
+- [ ] 左甲状腺素 → Levothyroxine（Levo-thyr-**ox**-ine）｜✓0/2 ［Day4 写 levothyxodine］
+- [ ] 结膜炎 → Conjunctivitis（-it**is** 非 -ities）｜✓0/2 ［Day4 又写 conjunctivities］
+
+**仍 0/2 · 记错词（不是拼错，是记成别的词）**
+- [ ] 静脉曲张 → Varices（单数 varix）｜✓0/2 ［Day4 写 vericeous］
+- [ ] 使人丧失能力的 → Incapacitating（in-capa-cita-ting）｜✓0/2 ［Day4 写 incapable，意思近但错词］
+- [ ] 吞咽 → Swallowing（双 l）｜✓0/2 ［Day4 写 swollowning］
+- [ ] 唇疱疹 → Cold sores（两词 + 复数 s）｜✓0/2 ［Day3-4 连续跳过未答］
+
+**新入池 · Day 4 考经批次 2 错词（✓0/2）**
+- [ ] 皮质类固醇 → Corticosteroids（Cortico-steroids）｜✓0/2 ［Day4 写 corticoid 缺 -stero-］
+- [ ] 抗酸药 → Antacids（**ant**acids 无 i + 复数 s）｜✓0/2 ［Day4 写 antiacid］
+- [ ] 心理咨询 → Counselling（英式双 l；≠consultant 顾问）｜✓0/2 ［Day4 写 consultant 记错词］
+- [ ] 尿布疹 → Nappy rash（英式 nappy≠diaper）｜✓0/2 ［Day4 写 nondiper rash］
+- [ ] 活动策划者 → Events organiser（organiser 英式 + 复数 events）｜✓0/2 ［Day4 写 event organiser，organiser 拼对漏复数 s］
 
 ---
 
@@ -68,9 +75,9 @@ type: 备考资料
 
 | 指标 | 数值 |
 |---|---|
-| 已测 | 41 / 876（核心 318 优先）|
-| 错词池待清 | 28（6 差 1 次 + 22 仍 0/2）|
-| 连续打卡 | Day 3 ✅ |
+| 已测 | 46 / 876（核心 318 优先；Day4 新增 5 词出池入已测）|
+| 错词池待清 | 31（12 差 1 次 + 19 仍 0/2）|
+| 连续打卡 | Day 4 ✅ |
 
 ---
 
@@ -137,6 +144,19 @@ A 组对的 10 词（nausea/appetite/constipation/palpitations/unpredictable/ult
 
 ---
 
+### Day 4 — 2026-06-29（清池优先：28 回收 + 10 新词考经批次 2）
+
+得分：**19 / 40**（A 回收 14/28 + B 新词 5/10）。轨迹 Day1 1/15(7%) → Day2 6/20(30%) → Day3 18/40(45%) → Day4 19/38(50%)。
+🎉🎉 **英式 ae 主线伤口愈合（连犯 3 天）**：Haemorrhage、Hypoglycaemia、Anaemia 三连**首次全对** + Pneumococcal、Phlegm 也首次对。
+🎉 出池：**Osteoporosis、Tuberculosis**（连对 2 次清出）。
+**退档（最可惜）**：Day3 首次拿下的 Hydrochlorothiazide、Arrhythmia、Haemorrhoids、Cholecystitis 今天又错 → 重置 0/2（这四个赢了没巩固住）。
+**新暴露的 pattern**：① ae 规则**过度泛化** → Asthma 写成 aesthma（哮喘无 ae）；② 英式 -oea 仍不稳（dyspnae / diaerrhea）；③ 后缀 -ities 复发（conjunctivities）；④ **记错词**非拼错 → Incapacitating→incapable、Counselling→consultant（咨询≠顾问）、Varices→vericeous；⑤ 英式词不知道 → Nappy rash 写 nondiper。
+新词对的 5（Gastrectomy/Lumpectomy/Dialysis/Hepatitis/Fibre）入已测；错的 5 + A 组错的进回收池（见顶部，现 31 词）。
+
+**下个动作**：池仍 31（>25）→ Day 5 继续清池、新词再减（或暂停新词，先把 12 个 ✓1/2 推出池）。重点盯：退档 4 词（Hydrochlorothiazide/Arrhythmia/Haemorrhoids/Cholecystitis）+ Asthma 过度纠正 + -oea 双元音。
+
+---
+
 ## 📖 Day 3 已测卡 ✅（2026-06-28）— 错词已转回收池，此卡留作拼写参考
 
 > **新规则起点**：20 新词（核心冲刺·考经批次 1）+ 回收池 20 词（独立混测）。加粗=最易错处。
@@ -177,6 +197,8 @@ A 组对的 10 词（nausea/appetite/constipation/palpitations/unpredictable/ult
 > 累加，每天把当日 15 词的英文加进来。
 
 Day1: Haemorrhage, Hypoglycaemia, Dyspnoea, Osteoporosis, Osteoarthritis, Tuberculosis, Methotrexate, Levothyroxine, Hydrochlorothiazide, Diverticulitis, Conjunctivitis, Rheumatoid, Cholecystitis, Pneumococcal, Palpitation
+
+Day4（5 个新词出池入已测，2026-06-29）: Gastrectomy, Lumpectomy, Dialysis, Hepatitis, Fibre　（+ 28 回收重测 + 5 新词错入池：Corticosteroids, Antacids, Counselling, Nappy rash, Events organiser）
 
 Day2（14 回收 + 1 新 + 5 加测）: Diarrhoea（新）；其余 14 同 Day1 重测；加测新词: Anaemia, Asthma, Arrhythmia, Phlegm, Haemorrhoids
 
