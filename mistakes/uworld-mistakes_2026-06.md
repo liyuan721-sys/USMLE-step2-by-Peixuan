@@ -21146,7 +21146,7 @@ type: 错题数据源
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-06#^Q4319]] 下唇 SCC（同"可疑皮肤癌先活检"）
 >   - [[mistakes/uworld-mistakes_2026-06#^Q4410]] Actinic keratosis（同日晒区肿瘤谱）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Basal cell carcinoma 段）/ [[完整笔记/专题笔记/皮肤/皮肤_HighYield速查总览]]（§八.1 皮肤癌先活检）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Basal cell carcinoma 段）/ [[完整笔记/专题笔记/皮肤/皮肤_皮肤肿瘤与癌前]]（§〇 活检决策 + §一 BCC）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/外科]]（切缘与活检方式选择）
 > - 🌱 TODO：无（已并入 HighYield总览 §八.1）
 > 
@@ -21198,7 +21198,7 @@ type: 错题数据源
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-06#^Q4319]] 下唇 SCC（AK→SCC 谱）
 >   - [[mistakes/uworld-mistakes_2026-06#^Q14489]] BCC 先活检（日晒区肿瘤）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Actinic keratosis 段）/ [[完整笔记/专题笔记/皮肤/皮肤_HighYield速查总览]]（§五图谱 + §八.1）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Actinic keratosis 段）/ [[完整笔记/专题笔记/皮肤/皮肤_皮肤肿瘤与癌前]]（§三 AK）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/外科]]（皮肤肿瘤处理）
 > - 🌱 TODO：无
 > 
@@ -21252,7 +21252,7 @@ type: 错题数据源
 >   - [[mistakes/uworld-mistakes_2026-06#^Q14489]] BCC 先活检
 >   - [[mistakes/uworld-mistakes_2026-06#^Q4410]] Actinic keratosis（SCC 癌前）
 >   - [[mistakes/uworld-mistakes_2026-06#^Q4011]] HSV 手部（疱疹病程/形态对照）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Squamous cell carcinoma 段）/ [[完整笔记/专题笔记/皮肤/皮肤_HighYield速查总览]]（§三.4 + §八.1）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Squamous cell carcinoma 段）/ [[完整笔记/专题笔记/皮肤/皮肤_皮肤肿瘤与癌前]]（§二 SCC）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/外科]]（切缘）
 > - 🌱 TODO：无
 > 
@@ -21304,7 +21304,7 @@ type: 错题数据源
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-06#^Q4314]] PCT（同 HCV 相关皮肤病）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Lichen planus 段）/ [[完整笔记/专题笔记/皮肤/皮肤_HighYield速查总览]]（§一 buzzword + §四）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Lichen planus 段）/ [[完整笔记/专题笔记/皮肤/皮肤_湿疹与丘疹鳞屑]]（§二 扁平苔藓）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/感染]]（HCV 皮肤外表现）
 > - 🌱 TODO：无
 > 
@@ -21355,7 +21355,7 @@ type: 错题数据源
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：无（本批唯一痤疮题）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Drug-induced acne / Acne 段）/ [[完整笔记/专题笔记/皮肤/皮肤_HighYield速查总览]]（§四 痤疮阶梯）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Drug-induced acne / Acne 段）/ [[完整笔记/专题笔记/皮肤/皮肤_毛囊皮脂腺与附属器]]（§一-§二 痤疮）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/风湿]]（SLE 用激素背景）
 > - 🌱 TODO：无
 > 
@@ -21406,7 +21406,7 @@ type: 错题数据源
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-06#^Q4812]] 药物性痤疮（"痤疮"形态学对照）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Erythema toxicum / 新生儿疹）/ [[完整笔记/专题笔记/皮肤/皮肤_HighYield速查总览]]（§八.6 新生儿良性皮疹）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Erythema toxicum / 新生儿疹）/ [[完整笔记/专题笔记/皮肤/皮肤_浅表感染]]（§五 新生儿头部脓疱病）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/儿科]] / [[完整笔记/Peixuan分科笔记/newborn care and screening]]
 > - 🌱 TODO：无（已并入 HighYield总览 §八.6）
 > 
@@ -21457,7 +21457,7 @@ type: 错题数据源
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-06#^Q14489]] BCC（皮肤结节鉴别）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Kaposi sarcoma 段）/ [[完整笔记/专题笔记/皮肤/皮肤_HighYield速查总览]]（§八.2 Kaposi）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Kaposi sarcoma 段）/ [[完整笔记/专题笔记/皮肤/皮肤_皮肤肿瘤与癌前]]（§六 Kaposi）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/感染]]（HHV-8 / 移植后机会性肿瘤）；[[完整笔记/Peixuan分科笔记/肾脏]]（移植免疫抑制）
 > - 🌱 TODO：无
 > 
@@ -21508,7 +21508,7 @@ type: 错题数据源
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-06#^Q16843]] 钱币状湿疹（同"干燥/屏障"皮炎谱）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Atopic / 角化异常）/ [[完整笔记/专题笔记/皮肤/皮肤_HighYield速查总览]]（§八.4 鱼鳞病）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Atopic / 角化异常）/ [[完整笔记/专题笔记/皮肤/皮肤_湿疹与丘疹鳞屑]]（§二 鱼鳞病）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/儿科]]（遗传性皮肤病）
 > - 🌱 TODO：无
 > 
@@ -21663,7 +21663,7 @@ type: 错题数据源
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-06#^Q16890]] 体癣治疗（真菌谱对照）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Seborrheic dermatitis 段）/ [[完整笔记/专题笔记/皮肤/皮肤_HighYield速查总览]]（§三.7 脂溢性皮炎 vs SLE）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Seborrheic dermatitis 段）/ [[完整笔记/专题笔记/皮肤/皮肤_湿疹与丘疹鳞屑]]（§一 脂溢性皮炎）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/神经]]（帕金森病关联）；[[完整笔记/Peixuan分科笔记/感染]]（泛发 SD 查 HIV）
 > - 🌱 TODO：无
 > 
@@ -21766,7 +21766,7 @@ type: 错题数据源
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-06#^Q16843]] 钱币状湿疹 vs 体癣（环形鉴别）
 >   - [[mistakes/uworld-mistakes_2026-06#^Q2755]] 脂溢性皮炎（真菌相关皮病谱）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Tinea corporis 段）/ [[完整笔记/专题笔记/皮肤/皮肤_HighYield速查总览]]（§四 真菌）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Tinea corporis 段）/ [[完整笔记/专题笔记/皮肤/皮肤_浅表感染]]（§二 真菌）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/感染]]（抗真菌谱）
 > - 🌱 TODO：无
 > 
@@ -21816,7 +21816,7 @@ type: 错题数据源
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-06#^Q16890]] 体癣治疗（环形 vs 实心斑）
 >   - [[mistakes/uworld-mistakes_2026-06#^Q22174]] 鱼鳞病（干燥/屏障谱）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Atopic / 湿疹谱）/ [[完整笔记/专题笔记/皮肤/皮肤_HighYield速查总览]]（§六图谱 钱币状湿疹）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Atopic / 湿疹谱）/ [[完整笔记/专题笔记/皮肤/皮肤_湿疹与丘疹鳞屑]]（§一 钱币状湿疹）
 > - 🏥 跨学科：无
 > - 🌱 TODO：无
 > 
@@ -21867,7 +21867,7 @@ type: 错题数据源
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-06#^Q4011]] HSV 手部（herpetic whitlow）
 >   - [[mistakes/uworld-mistakes_2026-06#^Q16581]] Bullous impetigo（手部/糜烂鉴别）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Herpes / Atopic 段）/ [[完整笔记/专题笔记/皮肤/皮肤_HighYield速查总览]]（§二 急症 疱疹性湿疹）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Herpes / Atopic 段）/ [[完整笔记/专题笔记/皮肤/皮肤_浅表感染]]（§三 疱疹性湿疹）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/感染]]（HSV 播散）；[[完整笔记/Peixuan分科笔记/儿科]]
 > - 🌱 TODO：无
 > 
@@ -21917,7 +21917,7 @@ type: 错题数据源
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-06#^Q16581]] Bullous impetigo（瘙痒/水疱鉴别）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Scabies 段）/ [[完整笔记/专题笔记/皮肤/皮肤_HighYield速查总览]]（§六图谱 疥疮）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Scabies 段）/ [[完整笔记/专题笔记/皮肤/皮肤_浅表感染]]（§四 疥疮）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/感染]]（接触传染防控）
 > - 🌱 TODO：无
 > 
@@ -21966,7 +21966,7 @@ type: 错题数据源
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：无（本批唯一附属器病）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Hidradenitis suppurativa 段 / Hurley 分级）/ [[完整笔记/专题笔记/皮肤/皮肤_HighYield速查总览]]（§八.3 HS）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Hidradenitis suppurativa 段 / Hurley 分级）/ [[完整笔记/专题笔记/皮肤/皮肤_毛囊皮脂腺与附属器]]（§四 HS）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/外科]]（重度切除）；[[完整笔记/Peixuan分科笔记/内分泌]]（代谢综合征/肥胖）
 > - 🌱 TODO：无
 > 
@@ -22016,7 +22016,7 @@ type: 错题数据源
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：无
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/外科]] / [[完整笔记/Peixuan分科笔记/内分泌]]（糖尿病并发症）/ [[完整笔记/专题笔记/皮肤/皮肤_HighYield速查总览]]（§八.7 糖尿病足）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/外科]] / [[完整笔记/Peixuan分科笔记/内分泌]]（糖尿病并发症）/ [[完整笔记/专题笔记/皮肤/皮肤_HighYield速查总览]]（§八 索引 糖尿病足）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/感染]]（骨髓炎诊治）
 > - 🌱 TODO：攒够骨髓炎/糖尿病足题 → 可建"骨髓炎诊断流程"专题
 > 
@@ -22168,7 +22168,7 @@ type: 错题数据源
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-06#^Q16404]] Lichen planus（被误选项的本体）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Verrucae vulgaris 段）/ [[完整笔记/专题笔记/皮肤/皮肤_HighYield速查总览]]（§八.5 疣）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Verrucae vulgaris 段）/ [[完整笔记/专题笔记/皮肤/皮肤_浅表感染]]（§三 疣）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/感染]]（HPV）
 > - 🌱 TODO：无
 > 
@@ -22267,7 +22267,7 @@ type: 错题数据源
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-06#^Q4314]] PCT（HCV 相关皮病对照）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Vitiligo 段）/ [[完整笔记/专题笔记/皮肤/皮肤_HighYield速查总览]]（§六图谱 白癜风）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Vitiligo 段）/ [[完整笔记/专题笔记/皮肤/皮肤_色素异常]]（§一 白癜风）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/内分泌]]（自免甲状腺病 / 多腺体自免）
 > - 🌱 TODO：无
 > 
@@ -22372,7 +22372,7 @@ type: 错题数据源
 >   - [[mistakes/uworld-mistakes_2026-06#^Q21013]] 疱疹性湿疹（HSV）
 >   - [[mistakes/uworld-mistakes_2026-06#^Q16581]] Bullous impetigo（手部水疱鉴别）
 >   - [[mistakes/uworld-mistakes_2026-06#^Q114873]] 多形红斑（HSV 诱发）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Herpes 段）/ [[完整笔记/专题笔记/皮肤/皮肤_HighYield速查总览]]（§六图谱 疱疹性瘭疽）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Herpes 段）/ [[完整笔记/专题笔记/皮肤/皮肤_浅表感染]]（§三 HSV 瘭疽）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/感染]]（HSV / STI）
 > - 🌱 TODO：无
 > 
