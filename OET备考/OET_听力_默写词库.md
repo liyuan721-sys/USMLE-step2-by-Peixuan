@@ -124,7 +124,7 @@ type: 备考资料
 | 36 | 通用名 | Generic name |
 | 37 | 庆大霉素 | gentamicin |
 | 38 | 甘精胰岛素（长效胰岛素） | Glargine |
-| 39 | 氯噻吨（利尿剂） | Hydrochlorothiazide |
+| 39 | 氯噻吨（利尿剂） | Hydrochlor<font color="#ff0000">othia</font>zide |
 | 40 | 布洛芬（商品名 / 通用名） | Ibuprofen |
 | 41 | 异丙托溴铵(支扩) | Ipratropium |
 | 42 | 头孢氨苄（商品名） | Keflex |
@@ -137,7 +137,7 @@ type: 备考资料
 | 49 | 喉片；含片 | lozenges |
 | 50 | 马拉隆(抗疟药) | Malarone |
 | 51 | 美沙酮 | methadone |
-| 52 | 甲氨蝶呤（抗癌药） | Methotrexate |
+| 52 | 甲氨蝶呤（抗癌药） | Metho<font color="#ff0000">trex</font>ate |
 | 53 | 美托洛尔（β阻滞剂） | Metoprolol |
 | 54 | 甲硝唑 | Metronidazole |
 | 55 | 莫沙必利(促胃动力) | Mosapride |
@@ -273,7 +273,7 @@ type: 备考资料
 | 1 | 跟腱炎 | Achilles tendonitis |
 | 2 | 贫血 | Anaemia ⚠️ |
 | 3 | 阑尾炎 | Appendicitis |
-| 4 | 哮喘 | Asthma ⚠️ |
+| 4 | 哮喘 | A<font color="#ff0000">s</font>thma ⚠️ |
 | 5 | 动脉粥样硬化 | Atherosclerosis |
 | 6 | 巴顿骨折（肱骨髁部骨折） | Barton Fracture |
 | 7 | 良性阵发性位置性眩晕 | Benign paroxysmal positional vertigo |
@@ -283,7 +283,7 @@ type: 备考资料
 | 11 | 蜂窝织炎 | Cellulitis |
 | 12 | 脑瘫 | cerebral palsy |
 | 13 | 颈淋巴结肿大 | Cervical lymphadenopathy |
-| 14 | 胆囊炎 | Cholecystitis |
+| 14 | 胆囊炎 | Chol<font color="#ff0000">e</font>cystitis |
 | 15 | 结肠炎 | Colitis |
 | 16 | 开放性骨折 | Compound fracture |
 | 17 | 结膜炎 | Conjunctivitis |
@@ -514,7 +514,7 @@ type: 备考资料
 | 158 | 粘性物质；脏东西 | Gunk                                     |
 | 159 | 溶血的 | haemolytic ⚠️                            |
 | 160 | 血友病 | haemophilia ⚠️                           |
-| 161 | 出血，出血量大 | Haemorrhage ⚠️                           |
+| 161 | 出血，出血量大 | H<font color="#ff0000">ae</font>morrhage ⚠️                           |
 | 162 | 痔疮 | h<font color="#ff0000">ae</font>morrhoids ⚠️                          |
 | 163 | 锤状趾 | Hammer toe ⚠️                            |
 | 164 | 大腿后侧肌肉 | Hamstring                                |
@@ -684,7 +684,7 @@ type: 备考资料
 | 328 | 石膏；绷带 | Plaster                                  |
 | 329 | 血小板 | Platelets                                |
 | 330 | 胸膜积液 | Pleural effusion                         |
-| 331 | 肺炎球菌的 | Pneumococcal ⚠️                          |
+| 331 | 肺炎球菌的 | Pn<font color="#ff0000">eu</font>moco<font color="#ff0000">cc</font>al ⚠️                          |
 | 332 | 足病科转诊 | Podiatrist referral                      |
 | 333 | 足病学 | Podiatry                                 |
 | 334 | 脊髓灰质炎 | Polio                                    |
@@ -938,7 +938,7 @@ type: 备考资料
 | 症状/描述 | 水疱 | blisters |
 | 症状/描述 | 腹胀 | bloating |
 | 症状/描述 | 便秘 | constipation |
-| 症状/描述 | 吞咽 | swallowing |
+| 症状/描述 | 吞咽 | sw<font color="#ff0000">a</font>llowing |
 | 症状/描述 | 恶心 | nausea |
 | 症状/描述 | 瘢痕形成 | scarring |
 | 症状/描述 | 视物模糊 | fuzzy |
@@ -948,11 +948,11 @@ type: 备考资料
 | 症状/描述 | 擦伤 | graze / grazing |
 | 症状/描述 | 反酸、胃酸反流 | acid reflux |
 | 症状/描述 | 食欲 | appetite |
-| 症状/描述 | 静脉曲张、曲张静脉 | dilated veins / varices |
+| 症状/描述 | 静脉曲张、曲张静脉 | dilated veins / var<font color="#ff0000">ic</font>es |
 | 症状/描述 | 时差反应 | jet lag |
 | 症状/描述 | 持续的 | constant |
 | 症状/描述 | 难以预测的 | unpredictable |
-| 症状/描述 | 使人丧失能力的、极严重的 | incapacitating |
+| 症状/描述 | 使人丧失能力的、极严重的 | incapa<font color="#ff0000">cita</font>ting |
 | 检查/操作/治疗 | 超声 | ultrasound |
 | 检查/操作/治疗 | 活检 | biopsy |
 | 检查/操作/治疗 | 食物过敏检测 | food allergy tests |
