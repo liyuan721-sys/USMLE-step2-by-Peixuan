@@ -45,8 +45,8 @@ type: 备考资料
 >
 > | 中文 | 英式 ✅ | 美式 ❌ |
 > |---|---|---|
-> | 腹泻 | Diarrh**oea** | diarrhea |
-> | 呼吸困难 | Dyspn**oea** | dyspnea |
+> | 腹泻 | Diarrh**<font color="#ff0000">o</font>ea** | diarrhea |
+> | 呼吸困难 | Dyspn**<font color="#ff0000">o</font>ea** | dyspnea |
 > | 淋病 | Gonorrh**oea** | gonorrhea |
 > | 水肿 | **Oe**dema | edema |
 > | 食管 | **Oe**sophagus | esophagus |
@@ -129,7 +129,7 @@ type: 备考资料
 | 41 | 异丙托溴铵(支扩) | Ipratropium |
 | 42 | 头孢氨苄（商品名） | Keflex |
 | 43 | 左氧氟沙星（抗生素） | Levofloxacin |
-| 44 | 左甲状腺素（治疗甲状腺功能减退） | Levothyroxine |
+| 44 | 左甲状腺素（治疗甲状腺功能减退） | Levothy<font color="#ff0000">rox</font>ine |
 | 45 | 擦剂；涂剂 | liniment |
 | 46 | 液氮 | Liquid nitrogen |
 | 47 | 赖诺普利(ACEI) | Lisinopril |
@@ -301,7 +301,7 @@ type: 备考资料
 | 29 | 疝气；突出 | Hernia |
 | 30 | 疝气；突出 | herniated |
 | 31 | 高脂血症 | Hyperlipidaemia ⚠️ |
-| 32 | 低血糖 | hypoglycaemia ⚠️ |
+| 32 | 低血糖 | hypo<font color="#ff0000">g</font>lycaemia ⚠️ |
 | 33 | 低镁血症 | Hypomagnesemia |
 | 34 | 嵌入性骨折 | impacted fracture |
 | 35 | 腹股沟疝 | Inguinal hernia |
@@ -352,493 +352,493 @@ type: 备考资料
 
 ## 🩺 症状 · 体征 · 描述 · 杂项　（485 词）
 
-| # | 中文 | English |
-|---|---|---|
-| 1 | 腹部的 | Abdominal |
-| 2 | 腹围 | Abdominal girth |
-| 3 | 腺病毒 | Adenovirus |
-| 4 | (服药)依从性 | Adherence |
-| 5 | 有氧运动 | Aerobics ⚠️ |
-| 6 | AU 口音 fe- 更短。 | Afebrile |
-| 7 | 极度痛苦的 | Agonizing |
-| 8 | 对齐；排列 | alignment |
-| 9 | 缓解 | Alleviate |
-| 10 | 羊水量 | Amniotic level |
-| 11 | 阿米巴痢疾 | Amoebic Dysentery ⚠️ |
-| 12 | 截肢术 | amputation |
-| 13 | 被截肢者 | amputee |
-| 14 | 动脉瘤 | aneurysm ⚠️ |
-| 15 | 心绞痛 | Angina |
-| 16 | （不是antiacid） | Antacid |
-| 17 | 主动脉 | Aorta |
-| 18 | 呼吸困难 / 呼吸暂停 | apnoea ⚠️ |
-| 19 | 水的 | Aqueous |
-| 20 | 脚弓；弓形结构 | Arches |
-| 21 | 心律失常 | Arrhythmia ⚠️ |
-| 22 | 石棉 | Asbestos |
-| 23 | 散光 | Astigmatism |
-| 24 | 心房 | Atrium |
-| 25 | 先兆；气场 | Aura |
-| 26 | 尸体解剖；验尸 | autopsy ⚠️ |
-| 27 | 癫痫大发作 | a grand mal seizure |
-| 28 | 气球 | Balloon |
-| 29 | 钡餐（X线检查） | Barium swallow |
-| 30 | 良性前列腺增生 | Benign prostate hyperplasia |
-| 31 | 过氧化苯甲酰（用于治疗痤疮） | Benzoyl Peroxide |
-| 32 | AU 口音短音。 | Bicuspid valve |
-| 33 | 酗酒 / 暴饮暴食 | Binge drinking |
-| 34 | 骨刺 | Bone spurs |
-| 35 | 支撑 | Bracing |
-| 36 | 心动过缓的 / 心动过速的 | Bradycardiac |
-| 37 | 大脑皮层 | brain cortex |
-| 38 | 脑干 | brain stem |
-| 39 | 臀位 | Breech |
-| 40 | 无外伤瘀斑 | Bruising without trauma |
-| 41 | 磨牙症 | Bruxism |
-| 42 | 膨胀，突出 | Bulging |
-| 43 | 椎间盘突出 | Bulging disc |
-| 44 | 肿块/碰撞 | bump |
-| 45 | 平房 | Bungalow |
-| 46 | 拇囊肿；脚拇囊炎 | Bunion |
-| 47 | 打嗝 | Burp |
-| 48 | 打嗝 | burping |
-| 49 | 咖啡因 | Caffeine |
-| 50 | 老茧；硬皮 | Callus |
-| 51 | 毛细血管壁 | capillary wall |
-| 52 | 碳水化合物 | Carbohydrates |
-| 53 | 心脏停搏 | cardiac arrest |
-| 54 | 软骨 | Cartilage |
-| 55 | 卡维地洛(β阻滞剂) | Carvedilol |
-| 56 | 急诊室；伤亡人员 | Casualty |
-| 57 | 乳糜泻的 | Celiac |
-| 58 | 细胞的；多孔的 | Cellular |
-| 59 | 小脑 | cerebellum |
-| 60 | 大脑的；脑的 | cerebral |
-| 61 | AU 口音中 cerebro- 更短；IR 口音卷舌。 | Cerebrospinal fluid |
-| 62 | 嘴唇皲裂 | Chapped lips |
-| 63 | 水痘 | Chickenpox |
-| 64 | 发抖；寒战；冷颤 | chills |
-| 65 | 脊椎推拿治疗 | Chiropractic treatment |
-| 66 | 氯 | Chlorine |
-| 67 | 噎住/窒息 | Choking |
-| 68 | 循环系统 | Circulatory system |
-| 69 | 绞痛性·间歇性 | Colicky Intermittent |
-| 70 | 锁骨 | Collarbone |
-| 71 | 依从性 | Compliance |
-| 72 | 脑震荡；震伤 | concussion |
-| 73 | 堵塞 | Congestion |
-| 74 | 意识 | Consciousness |
-| 75 | 便秘的 | Constipated |
-| 76 | 隐形眼镜 | Contact lenses |
-| 77 | 脚后跟皲裂 | Cracked heels |
-| 78 | 头盖的；颅骨的 | Cranial |
-| 79 | 骨擦音/捻发音 | Crepitus |
-| 80 | 失去行动能力的人（避免使用该词） | Cripple |
-| 81 | 曲度 | Curvature |
-| 82 | 甲床发绀 | Cyanotic nailbeds |
-| 83 | 乳制品 | Dairy |
-| 84 | 头皮屑 | Dandruff |
-| 85 | 像头皮屑一样的脱落 | Dandruff-like Flaking |
-| 86 | 耳聋；听力丧失 | Deafness |
-| 87 | 根深蒂固的信念 | deep‑seated belief |
-| 88 | 缺乏 | Deficiency |
-| 89 | 畸形；残疾 | deformities |
-| 90 | 缺乏；剥夺 | Deprivation |
-| 91 | 缺乏；剥夺 | Deprive |
-| 92 | 恶化 | Deteriorate |
-| 93 | 恶化 | deterioration |
-| 94 | 膈肌；隔膜 | Diaphragm |
-| 95 | 腹泻 | Diarrhea ⚠️ |
-| 96 | 舒张压 | diastolic pressure |
-| 97 | 地尔硫卓(钙拮抗剂) | Diltiazem |
-| 98 | 酒窝 | Dimple |
-| 99 | 膨胀，胀气 | Distension |
-| 100 | 利尿剂 | Diuretic |
-| 101 | 头晕 | Dizziness |
-| 102 | 足背动脉 | dorsalis pedis artery |
-| 103 | 打瞌睡 | Doze off |
-| 104 | 糟糕的/可怕的 | Dreadful |
-| 105 | 眼睑下垂 | Drooping of the eyelid |
-| 106 | 视网膜斑点 | Drusen |
-| 107 | 暗沉发青的 | Dusky |
-| 108 | 尘螨 | Dust mites |
-| 109 | 消化不良 | Dyspepsia |
-| 110 | 吞咽困难 | Dysphagia |
-| 111 | 呼吸困难 / 呼吸暂停 | Dyspnoea ⚠️ |
-| 112 | 酗酒 / 暴饮暴食 | eating |
-| 113 | AU 口音短音。 | Elastic support stocking |
-| 114 | 电解质 | Electrolytes |
-| 115 | 排除饮食 | elimination diet |
-| 116 | 外源性的 / 内源性的 | endogenous |
-| 117 | 勃起困难 | Erectile difficulty |
-| 118 | 伦理；道德准则 | Ethic |
-| 119 | 加重 | Exacerbate |
-| 120 | 剧烈的，极度痛苦的 | Excruciating |
-| 121 | 努力，过度用力 | Exertion |
-| 122 | 呼气 | Exhale |
-| 123 | 外源性的 / 内源性的 | Exogenous |
-| 124 | 四肢；末端 | Extremity |
-| 125 | AU 口音 fe- 更短。 | Febrile |
-| 126 | 纤维性的 | Fibrous |
-| 127 | 皲裂的 | Fissured |
-| 128 | 脱皮的，剥落的 | Flaky |
-| 129 | 症状加剧 | Flare-ups |
-| 130 | 扁平足 | flat feet |
-| 131 | 肠胃胀气 | Flatulence |
-| 132 | 飞蚊与暗点 | Floaters and dark spots |
-| 133 | 波动 | Fluctuation |
-| 134 | 液体摄入 | Fluid Intake |
-| 135 | 低FODMAP饮食（用于治疗肠易激综合症） | FODMAP Diet |
-| 136 | 叶酸 | Folic acid |
-| 137 | 食物日记 | Food Journal |
-| 138 | 钳子 | Forcep |
-| 139 | 弗里德赖希共济失调 | Friedreich Ataxia |
-| 140 | 泡沫；泡沫样痰 | froth |
-| 141 | 全身麻醉；GA | GA |
-| 142 | 步态 | Gait |
-| 143 | 胆结石 | Gallstones |
-| 144 | 腱鞘囊肿；神经节 | ganglion |
-| 145 | 坏疽 | Gangrene |
-| 146 | 胀气的 | Gassy |
-| 147 | 胃肠病学的 | Gastroenterological ⚠️ |
-| 148 | 全身麻醉；GA | General anaesthetic ⚠️ |
-| 149 | 老年医学的；老人的 | geriatric |
-| 150 | 耀眼的光 | Glare |
-| 151 | 葡萄糖 | Glucose |
-| 152 | 胶耳（耳部液体积聚） | Glue Ear |
-| 153 | 麸质 | Gluten |
-| 154 | 护目镜 | goggle |
-| 155 | 油腻饮食 | Greasy meals |
-| 156 | 腹股沟 | Groin |
-| 157 | 咖啡渣样物；医学上指呕吐物呈咖啡渣样（消化道出血征象） | Ground coffee |
-| 158 | 粘性物质；脏东西 | Gunk |
-| 159 | 溶血的 | haemolytic ⚠️ |
-| 160 | 血友病 | haemophilia ⚠️ |
-| 161 | 出血，出血量大 | Haemorrhage ⚠️ |
-| 162 | 痔疮 | haemorrhoids ⚠️ |
-| 163 | 锤状趾 | Hammer toe ⚠️ |
-| 164 | 大腿后侧肌肉 | Hamstring |
-| 165 | 刺激性肥皂 | Harsh soap |
-| 166 | 心脏杂音 | Heart murmur |
-| 167 | 幽门螺旋杆菌 | Helicobacter pylori |
-| 168 | 半球 | Hemisphere |
-| 169 | 出血 | Hemorrhage ⚠️ |
-| 170 | 痔疮 | Hemorrhoids ⚠️ |
-| 171 | 带状疱疹 | Herpes shingles |
-| 172 | 组胺（过敏介质） | histamine |
-| 173 | 麻疹；荨麻疹 | hives |
-| 174 | 全人关怀；整体护理 | holistic care |
-| 175 | 激素 | Hormone |
-| 176 | 热水瓶 | Hot water flask |
-| 177 | 加湿器 | Humidifier |
-| 178 | 哼声 | Humming |
-| 179 | 驼背 | Hump back |
-| 180 | 驼背 | Hunch back |
-| 181 | 沙哑的嗓音 | husky voice |
-| 182 | 卫生 | Hygiene |
-| 183 | 下丘脑 | Hypothalamus |
-| 184 | 免疫抑制剂 | Immunosuppressant |
-| 185 | 阻生牙 | Impacted teeth |
-| 186 | 切牙 | Incisor |
-| 187 | 失禁 | Incontinence |
-| 188 | 遗传特质 | inherited traits |
-| 189 | 驱虫剂 | Insect repellent |
-| 190 | 鞋垫 | Insole |
-| 191 | 不稳定 | Instability |
-| 192 | 间歇的 | Intermittent |
-| 193 | 椎间盘 | Intervertebral disc |
-| 194 | 颅内压 | Intracranial pressure |
-| 195 | 眼内压 | Intraocular pressure |
-| 196 | 虹膜 | Iris |
-| 197 | 刺激 | Irritation |
-| 198 | 震动/刺耳的 | jarring |
-| 199 | 黄疸 | Jaundice |
-| 200 | 巩膜黄染 | Jaundiced sclera |
-| 201 | 下巴线 | Jawline |
-| 202 | 腿无力（口语） | jelly legs |
-| 203 | 关节畸形 | Joint deformities |
-| 204 | 震动，猛击 | Jolt |
-| 205 | 幼儿园 | Kindergarten |
-| 206 | 膝盖减震器 | knee shock absorber |
-| 207 | 局麻药；局部麻醉 | LA |
-| 208 | 内耳迷路 | Labyrinth |
-| 209 | 撕裂伤 | Laceration |
-| 210 | 泪腺 | Lacrimal gland |
-| 211 | 喉；喉炎；喉镜 | laryngoscope |
-| 212 | 喉；喉炎；喉镜 | Larynx |
-| 213 | 洗衣粉 | Laundry detergent |
-| 214 | 泻药 | Laxative |
-| 215 | 非专业人士；外行 | lay person |
-| 216 | 弱视（俗称） | Lazy eye |
-| 217 | 损伤；病变 | lesion |
-| 218 | 韧带 | Ligament |
-| 219 | 头昏目眩 | Light‑headedness |
-| 220 | 酒店；售酒店 | Liquor store |
-| 221 | 局麻药；局部麻醉 | Local anaesthetic ⚠️ |
-| 222 | 牙关紧闭 | lock jaw |
-| 223 | 远视 | Long‑sightedness |
-| 224 | 低酸饮食 | Low acidic diet |
-| 225 | 润滑剂 | Lubricant |
-| 226 | 微温的 | Lukewarm |
-| 227 | 温水洗浴 | Lukewarm water bathing |
-| 228 | 肺萎陷；气胸 | lung collapse |
-| 229 | 多音节词；口音差异主要体现在元音长度。 | Lupus erythematosus |
-| 230 | 淋巴的；淋巴系统的 | lymphatic |
-| 231 | 黄斑水肿 | Macular edema |
-| 232 | 可管理的 | Manageable |
-| 233 | 下颌的；颌骨的 | Mandibular |
-| 234 | 枕头/床垫 | Mattress |
-| 235 | 麻疹；荨麻疹 | Measles |
-| 236 | 胎粪 | Meconium |
-| 237 | 内侧半月板 | medial meniscus |
-| 238 | 内侧半月板 | medical meniscus |
-| 239 | 半月板 | Meniscus |
-| 240 | 水银；汞 | mercury |
-| 241 | 新陈代谢 | metabolism |
-| 242 | 掌骨 | metacarpal bone |
-| 243 | （肿瘤）转移 | metastasize |
-| 244 | 地铁 | Metro |
-| 245 | AU 口音短音。 | MI |
-| 246 | 偏头痛 | Migraines |
-| 247 | 微片（短效避孕药） | Mini‑Pill |
-| 248 | 小碰撞 | Minor Collision |
-| 249 | 连指手套 | Mittens |
-| 250 | 保湿霜 | Moisturizer |
-| 251 | 臼齿 | molar teeth |
-| 252 | 呼气测醉器 | mouth breathalyser |
-| 253 | 口角下垂 | Mouth Drooping |
-| 254 | 听不清的；闷声的 | Muffled |
-| 255 | 多因素的 | Multifactorial |
-| 256 | 肌肉骨骼的 | Musculoskeletal |
-| 257 | 肌肉骨骼系统 | Musculoskeletal system |
-| 258 | 哑巴；无声的 | Mute |
-| 259 | AU 口音短音。 | Myocardial infarction |
-| 260 | 近视 | Myopia |
-| 261 | 近视的 | Myopic |
-| 262 | 鼻塞或鼻阻塞 | Nasal congestion or obstruction |
-| 263 | 鼻喷剂 | Nasal spray |
-| 264 | 严重/讨厌的 | nasty |
-| 265 | 肚脐 | Navel |
-| 266 | 坏死性的 | necrotizing |
-| 267 | 针 | Needles |
-| 268 | 中性的；中立的 | neutral |
-| 269 | 二氧化氮 | nitrogen dioxide |
-| 270 | 结节；小结 | nodule |
-| 271 | 不褪色皮疹 | Non-blanching rash |
-| 272 | 不缝合 | Non-stitching |
-| 273 | 非侵入性的 | Non‑invasive |
-| 274 | 鼻内卷砂条 | Nose bolster |
-| 275 | 鼻孔 | nostril |
-| 276 | 养育；滋养 | nourish |
-| 277 | 非甾体抗炎药 | NSAIDs (non‑steroidal anti‑inflammatory |
-| 278 | 眼球震颤 | Nystagmus |
-| 279 | 强迫症 | obsessive‑compulsive disorder |
-| 280 | 光学相干断层扫描 | OCT |
-| 281 | 吞咽痛 | Odynophagia |
-| 282 | 软膏 | Ointment |
-| 283 | 欧米伽‑3 脂肪酸 | Omega‑3 fatty acids |
-| 284 | 眼科学 | Ophthalmology ⚠️ |
-| 285 | 有机化学物质 | Organic chemicals |
-| 286 | 开放复位内固定术 | ORIF |
-| 287 | 牙齿矫正的 | orthodontic |
-| 288 | 矫形椅 | Orthopedic chair |
-| 289 | 直立性低血压 | Orthostatic hypotension (postural |
-| 290 | 非处方（药） | OTC |
-| 291 | 外耳炎 | Otitis externa |
-| 292 | 中耳炎 | Otitis media |
-| 293 | 耳鼻喉科 | Otolaryngology |
-| 294 | 耳镜 | Otoscope |
-| 295 | 氧气瓶 | Oxygen cylinder |
-| 296 | 苍白湿冷 | Pale and clammy |
-| 297 | 临终关怀；姑息疗法 | palliative care |
-| 298 | 心悸 | Palpitation |
-| 299 | 带可待因的扑热息痛（商品名） | Panadeine Forte |
-| 300 | 大流行；流行病 | pandemic |
-| 301 | 麻痹；无力 | paralysis |
-| 302 | 鼻窦感染 | Paranasal sinus infection |
-| 303 | 寄生虫 | parasite |
-| 304 | 甲状旁腺 | parathyroid gland |
-| 305 | 帕金森病 | Parkinson’s |
-| 306 | 甲周炎 | paronychia |
-| 307 | 贴片 | Patch |
-| 308 | 鼓膜穿孔 | Perforated ear drum |
-| 309 | 出汗；汗水 | Perspiration |
-| 310 | 出汗；汗水 | Perspire |
-| 311 | 杀虫剂 | pesticide |
-| 312 | 瘀点性皮疹 | Petechial rash |
-| 313 | 牙科仿头模型 | Phantom heads |
-| 314 | 咽；咽炎 | Pharynx |
-| 315 | 痰 | Phlegm ⚠️ |
-| 316 | 恐声 | phonophobia |
-| 317 | 磷酸盐 | phosphates |
-| 318 | 畏光 | Photophobia |
-| 319 | 光敏感 | photosensitivity |
-| 320 | 色素 | Pigment |
-| 321 | 痔疮 | Piles |
-| 322 | 枕头/床垫 | Pillow |
-| 323 | 掐皮肤（皮肤弹性测试） | Pinch the skin |
-| 324 | 凹陷性水肿 | pitting edema |
-| 325 | 垂体；脑垂体 | Pituitary |
-| 326 | 瘟疫；灾难 | Plague |
-| 327 | 工厂 | Plant |
-| 328 | 石膏；绷带 | Plaster |
-| 329 | 血小板 | Platelets |
-| 330 | 胸膜积液 | Pleural effusion |
-| 331 | 肺炎球菌的 | Pneumococcal ⚠️ |
-| 332 | 足病科转诊 | Podiatrist referral |
-| 333 | 足病学 | Podiatry |
-| 334 | 脊髓灰质炎 | Polio |
-| 335 | 多囊肾 | Polycystic kidney |
-| 336 | 体位对线 | Postural alignment |
-| 337 | 精准 | Precision |
-| 338 | 前臼齿 | premolar |
-| 339 | 防腐剂；防腐的 | preservative |
-| 340 | 保存；腌制 | preserve |
-| 341 | 刺痛感 | Pricking sensation |
-| 342 | 前驱症状 | Prodrome |
-| 343 | 喷射性的；抛射物 | Projectile |
-| 344 | 预防性用药 | Prophylactic medication |
-| 345 | 预防措施 | prophylaxis |
-| 346 | 假体 | prosthesis |
-| 347 | 假肢的；义肢的 | Prosthetic |
-| 348 | 蛋白尿 | Proteinuria |
-| 349 | 供应；准备 | Provision |
-| 350 | 瘙痒 | Pruritus |
-| 351 | 精神病学转诊 | Psychiatric Referral ⚠️ |
-| 352 | 一口；喷气 | Puff |
-| 353 | 虚肿；水肿 | Puffiness |
-| 354 | 脚踝浮肿 | Puffy ankles |
-| 355 | 肺的 | Pulmonary |
-| 356 | 肺水肿 | Pulmonary oedema ⚠️ |
-| 357 | 化脓的 | Purulent |
-| 358 | 脓性渗出物 | Purulent exudate |
-| 359 | 拼图，难题 | Puzzles |
-| 360 | 藜麦 | Quinoa |
-| 361 | 狂犬病 | Rabies |
-| 362 | 受体；接受者 | Recipient |
-| 363 | 握力下降 | Reduced grip strength |
-| 364 | 反流；回流 | regurgitation |
-| 365 | 复发；故态复萌 | relapse |
-| 366 | 松弛剂；放松药 | relaxant |
-| 367 | 缓解期 | remission |
-| 368 | 防护剂；驱虫剂 | repellent |
-| 369 | 救援 | Rescue |
-| 370 | 宿主；储藏处 | reservoir |
-| 371 | 修复；牙体修复 | Restoration |
-| 372 | 视网膜脱落 | Retina detachment |
-| 373 | 血管再通术 | Revascularization |
-| 374 | 重新膨胀；重新充气 | re‑inflate |
-| 375 | 类风湿的 | Rheumatoid |
-| 376 | 安全期避孕法 | rhythm method |
-| 377 | 肋骨 | Ribcage |
-| 378 | 右外踝 | right lateral malleolus |
-| 379 | 发抖；寒战；冷颤 | rigors |
-| 380 | 癣；皮癣 | Ringworm |
-| 381 | 黑麦 | Rye |
-| 382 | 血性的 | sanguineous |
-| 383 | 大隐静脉 | Saphenous vein |
-| 384 | 痂；疤 | scab |
-| 385 | 坐骨神经痛 | Sciatic |
-| 386 | 巩膜 | Sclera |
-| 387 | 久坐的 | Sedentary |
-| 388 | 英式非卷舌；爱尔兰口音卷舌明显。 | Sepsis |
-| 389 | 血清血性的 | serosanguineous |
-| 390 | 发抖；寒战；冷颤 | Shiver |
-| 391 | 肩胛骨 | Shoulder blades |
-| 392 | 硅植入物 | Silicone implant |
-| 393 | 睡眠呼吸暂停 | Sleep Apnea |
-| 394 | 吊带；吊腕带 | slings |
-| 395 | 脱位 | Slipped |
-| 396 | 打喷嚏 | sneezing |
-| 397 | 打鼾 | Snoring |
-| 398 | 痉挛；抽搐 | Spasm |
-| 399 | 痉挛状态 | Spasticity |
-| 400 | 括约肌 | Sphincter |
-| 401 | 脊柱裂（应为 spina bifida） | Spinal bifida |
-| 402 | 脊髓 | Spinal cord |
-| 403 | 脊髓 | spinal marrow |
-| 404 | 剧烈头痛 | Splitting headaches |
-| 405 | 自发性鼻出血 | Spontaneous nosebleeds |
-| 406 | 扭伤 | Sprain |
-| 407 | 喷雾；喷洒 | spray |
-| 408 | 痰 | sputum |
-| 409 | 鳞状细胞 | squamous cell |
-| 410 | 挤压；南瓜 | squash |
-| 411 | 蹲下 | Squat |
-| 412 | 潦草的笔迹；波形 | squiggle |
-| 413 | 眯眼/斜视 | Squinting |
-| 414 | 喷射；挤压 | Squirt |
-| 415 | 听诊器 | Stethoscope |
-| 416 | 僵硬；硬度 | stiffness |
-| 417 | 刺痛 | Stinging |
-| 418 | 剧烈活动 | Strenuous activity |
-| 419 | 紧张的 | Strung |
-| 420 | 麦粒肿 | stye |
-| 421 | 皮下的 | subcutaneous |
-| 422 | 舌下的 | Sublingual |
-| 423 | 枕下肌群 | suboccipital muscles |
-| 424 | 甲下的 | Subungual |
-| 425 | 蔗糖 | Sucrose |
-| 426 | 糖 | Sugar |
-| 427 | 套房（suit与suite鉴别） | Suite |
-| 428 | 眼睛凹陷 | sunken eyes |
-| 429 | 退休金；养老金计划 | superannuation |
-| 430 | 易感性 | Susceptibility |
-| 431 | 腿部肿胀 | Swollen legs |
-| 432 | 晕厥 | Syncope |
-| 433 | 合成叶酸 | Synthetic folate |
-| 434 | 收缩压 | Systolic |
-| 435 | 收缩压 | systolic pressure |
-| 436 | 心动过缓的 / 心动过速的 | Tachycardiac |
-| 437 | 起作用 | Take effect |
-| 438 | 柏油样/咖啡渣样 | Tarry Coffee-ground |
-| 439 | 肺结核；结核病 | TB |
-| 440 | 太阳穴 | Temple |
-| 441 | 温水 | tepid water |
-| 442 | 破伤风 | tetanus |
-| 443 | 质地改良饮食 | Texture-modified diet |
-| 444 | 治疗的 | Therapeutic |
-| 445 | 胸的；胸廓的 | Thoracic |
-| 446 | AU 口音短音。 | Three‑dimensional image |
-| 447 | 阈值；门槛 | threshold |
-| 448 | 撕裂痛 | Throbbing |
-| 449 | 紧张感；疲劳 | Tightness |
-| 450 | 倾斜 | Tilting |
-| 451 | 癣；皮癣 | tinea |
-| 452 | 麻刺感 | Tingling |
-| 453 | 耳鸣 | Tinnitus |
-| 454 | 紧张感；疲劳 | tiredness |
-| 455 | 烟草 | Tobacco |
-| 456 | 可忍受的 | Tolerable |
-| 457 | 局部外用的 | Topical |
-| 458 | 折磨人的 | Torturous |
-| 459 | 气管 | Trachea |
-| 460 | 移行便 | Translational stools |
-| 461 | 传播 | Transmission |
-| 462 | 斜方肌 | Traps |
-| 463 | 牙关紧闭 | Trismus |
-| 464 | 肚子 | tummy |
-| 465 | 突然阵痛 | Twinge |
-| 466 | 难以忍受的 | Unbearable |
-| 467 | 上呼吸道感染 | URTI |
-| 468 | 荨麻疹样的 | Urticarial |
-| 469 | 迷走神经刺激 | Vagal Nerve Stimulation |
-| 470 | 静脉曲张 | Varicose Vein |
-| 471 | 媒介传播的 | vector borne |
-| 472 | 腔静脉 | Vena cava |
-| 473 | 毒液 | Venom |
-| 474 | 前庭的 | Vestibular |
-| 475 | 声带 | Vocal cords |
-| 476 | 呕吐（没有两个t） | Vomiting |
-| 477 | 风团；疤痕 | Weal |
-| 478 | 渗液/流泪的 | Weeping |
-| 479 | 流泪的眼睛 | Weepy eyes |
-| 480 | 鞭痕；条状疤痕 | Welt |
-| 481 | 颈部扭伤 | whiplash |
-| 482 | 百日咳 | Whooping cough |
-| 483 | 气管 | windpipe |
-| 484 | 智齿 | Wisdom teeth |
-| 485 | 摇动的；不稳定的 | Wobbly |
+| # | 中文 | English                                  |
+| --- | --------------------------- | ---------------------------------------- |
+| 1 | 腹部的 | Abdominal                                |
+| 2 | 腹围 | Abdominal girth                          |
+| 3 | 腺病毒 | Adenovirus                               |
+| 4 | (服药)依从性 | Adherence                                |
+| 5 | 有氧运动 | Aerobics ⚠️                              |
+| 6 | AU 口音 fe- 更短。 | Afebrile                                 |
+| 7 | 极度痛苦的 | Agonizing                                |
+| 8 | 对齐；排列 | alignment                                |
+| 9 | 缓解 | Alleviate                                |
+| 10 | 羊水量 | Amniotic level                           |
+| 11 | 阿米巴痢疾 | Amoebic Dysentery ⚠️                     |
+| 12 | 截肢术 | amputation                               |
+| 13 | 被截肢者 | amputee                                  |
+| 14 | 动脉瘤 | aneurysm ⚠️                              |
+| 15 | 心绞痛 | Angina                                   |
+| 16 | （不是antiacid） | Antacid                                  |
+| 17 | 主动脉 | Aorta                                    |
+| 18 | 呼吸困难 / 呼吸暂停 | apnoea ⚠️                                |
+| 19 | 水的 | Aqueous                                  |
+| 20 | 脚弓；弓形结构 | Arches                                   |
+| 21 | 心律失常 | Arr<font color="#ff0000">h</font>ythmia ⚠️                            |
+| 22 | 石棉 | Asbestos                                 |
+| 23 | 散光 | Astigmatism                              |
+| 24 | 心房 | Atrium                                   |
+| 25 | 先兆；气场 | Aura                                     |
+| 26 | 尸体解剖；验尸 | autopsy ⚠️                               |
+| 27 | 癫痫大发作 | a grand mal seizure                      |
+| 28 | 气球 | Balloon                                  |
+| 29 | 钡餐（X线检查） | Barium swallow                           |
+| 30 | 良性前列腺增生 | Benign prostate hyperplasia              |
+| 31 | 过氧化苯甲酰（用于治疗痤疮） | Benzoyl Peroxide                         |
+| 32 | AU 口音短音。 | Bicuspid valve                           |
+| 33 | 酗酒 / 暴饮暴食 | Binge drinking                           |
+| 34 | 骨刺 | Bone spurs                               |
+| 35 | 支撑 | Bracing                                  |
+| 36 | 心动过缓的 / 心动过速的 | Bradycardiac                             |
+| 37 | 大脑皮层 | brain cortex                             |
+| 38 | 脑干 | brain stem                               |
+| 39 | 臀位 | Breech                                   |
+| 40 | 无外伤瘀斑 | Bruising without trauma                  |
+| 41 | 磨牙症 | Bruxism                                  |
+| 42 | 膨胀，突出 | Bulging                                  |
+| 43 | 椎间盘突出 | Bulging disc                             |
+| 44 | 肿块/碰撞 | bump                                     |
+| 45 | 平房 | Bungalow                                 |
+| 46 | 拇囊肿；脚拇囊炎 | Bunion                                   |
+| 47 | 打嗝 | Burp                                     |
+| 48 | 打嗝 | burping                                  |
+| 49 | 咖啡因 | Caffeine                                 |
+| 50 | 老茧；硬皮 | Callus                                   |
+| 51 | 毛细血管壁 | capillary wall                           |
+| 52 | 碳水化合物 | Carbohydrates                            |
+| 53 | 心脏停搏 | cardiac arrest                           |
+| 54 | 软骨 | Cartilage                                |
+| 55 | 卡维地洛(β阻滞剂) | Carvedilol                               |
+| 56 | 急诊室；伤亡人员 | Casualty                                 |
+| 57 | 乳糜泻的 | Celiac                                   |
+| 58 | 细胞的；多孔的 | Cellular                                 |
+| 59 | 小脑 | cerebellum                               |
+| 60 | 大脑的；脑的 | cerebral                                 |
+| 61 | AU 口音中 cerebro- 更短；IR 口音卷舌。 | Cerebrospinal fluid                      |
+| 62 | 嘴唇皲裂 | Chapped lips                             |
+| 63 | 水痘 | Chickenpox                               |
+| 64 | 发抖；寒战；冷颤 | chills                                   |
+| 65 | 脊椎推拿治疗 | Chiropractic treatment                   |
+| 66 | 氯 | Chlorine                                 |
+| 67 | 噎住/窒息 | Choking                                  |
+| 68 | 循环系统 | Circulatory system                       |
+| 69 | 绞痛性·间歇性 | Colicky Intermittent                     |
+| 70 | 锁骨 | Collarbone                               |
+| 71 | 依从性 | Compliance                               |
+| 72 | 脑震荡；震伤 | concussion                               |
+| 73 | 堵塞 | Congestion                               |
+| 74 | 意识 | Consciousness                            |
+| 75 | 便秘的 | Constipated                              |
+| 76 | 隐形眼镜 | Contact lenses                           |
+| 77 | 脚后跟皲裂 | Cracked heels                            |
+| 78 | 头盖的；颅骨的 | Cranial                                  |
+| 79 | 骨擦音/捻发音 | Crepitus                                 |
+| 80 | 失去行动能力的人（避免使用该词） | Cripple                                  |
+| 81 | 曲度 | Curvature                                |
+| 82 | 甲床发绀 | Cyanotic nailbeds                        |
+| 83 | 乳制品 | Dairy                                    |
+| 84 | 头皮屑 | Dandruff                                 |
+| 85 | 像头皮屑一样的脱落 | Dandruff-like Flaking                    |
+| 86 | 耳聋；听力丧失 | Deafness                                 |
+| 87 | 根深蒂固的信念 | deep‑seated belief                       |
+| 88 | 缺乏 | Deficiency                               |
+| 89 | 畸形；残疾 | deformities                              |
+| 90 | 缺乏；剥夺 | Deprivation                              |
+| 91 | 缺乏；剥夺 | Deprive                                  |
+| 92 | 恶化 | Deteriorate                              |
+| 93 | 恶化 | deterioration                            |
+| 94 | 膈肌；隔膜 | Diaphragm                                |
+| 95 | 腹泻 | Diarrhea ⚠️                              |
+| 96 | 舒张压 | diastolic pressure                       |
+| 97 | 地尔硫卓(钙拮抗剂) | Diltiazem                                |
+| 98 | 酒窝 | Dimple                                   |
+| 99 | 膨胀，胀气 | Distension                               |
+| 100 | 利尿剂 | Diuretic                                 |
+| 101 | 头晕 | Dizziness                                |
+| 102 | 足背动脉 | dorsalis pedis artery                    |
+| 103 | 打瞌睡 | Doze off                                 |
+| 104 | 糟糕的/可怕的 | Dreadful                                 |
+| 105 | 眼睑下垂 | Drooping of the eyelid                   |
+| 106 | 视网膜斑点 | Drusen                                   |
+| 107 | 暗沉发青的 | Dusky                                    |
+| 108 | 尘螨 | Dust mites                               |
+| 109 | 消化不良 | Dyspepsia                                |
+| 110 | 吞咽困难 | Dysphagia                                |
+| 111 | 呼吸困难 / 呼吸暂停 | Dyspn<font color="#ff0000">o</font>ea ⚠️ |
+| 112 | 酗酒 / 暴饮暴食 | eating                                   |
+| 113 | AU 口音短音。 | Elastic support stocking                 |
+| 114 | 电解质 | Electrolytes                             |
+| 115 | 排除饮食 | elimination diet                         |
+| 116 | 外源性的 / 内源性的 | endogenous                               |
+| 117 | 勃起困难 | Erectile difficulty                      |
+| 118 | 伦理；道德准则 | Ethic                                    |
+| 119 | 加重 | Exacerbate                               |
+| 120 | 剧烈的，极度痛苦的 | Excruciating                             |
+| 121 | 努力，过度用力 | Exertion                                 |
+| 122 | 呼气 | Exhale                                   |
+| 123 | 外源性的 / 内源性的 | Exogenous                                |
+| 124 | 四肢；末端 | Extremity                                |
+| 125 | AU 口音 fe- 更短。 | Febrile                                  |
+| 126 | 纤维性的 | Fibrous                                  |
+| 127 | 皲裂的 | Fissured                                 |
+| 128 | 脱皮的，剥落的 | Flaky                                    |
+| 129 | 症状加剧 | Flare-ups                                |
+| 130 | 扁平足 | flat feet                                |
+| 131 | 肠胃胀气 | Flatulence                               |
+| 132 | 飞蚊与暗点 | Floaters and dark spots                  |
+| 133 | 波动 | Fluctuation                              |
+| 134 | 液体摄入 | Fluid Intake                             |
+| 135 | 低FODMAP饮食（用于治疗肠易激综合症） | FODMAP Diet                              |
+| 136 | 叶酸 | Folic acid                               |
+| 137 | 食物日记 | Food Journal                             |
+| 138 | 钳子 | Forcep                                   |
+| 139 | 弗里德赖希共济失调 | Friedreich Ataxia                        |
+| 140 | 泡沫；泡沫样痰 | froth                                    |
+| 141 | 全身麻醉；GA | GA                                       |
+| 142 | 步态 | Gait                                     |
+| 143 | 胆结石 | Gallstones                               |
+| 144 | 腱鞘囊肿；神经节 | ganglion                                 |
+| 145 | 坏疽 | Gangrene                                 |
+| 146 | 胀气的 | Gassy                                    |
+| 147 | 胃肠病学的 | Gastroenterological ⚠️                   |
+| 148 | 全身麻醉；GA | General anaesthetic ⚠️                   |
+| 149 | 老年医学的；老人的 | geriatric                                |
+| 150 | 耀眼的光 | Glare                                    |
+| 151 | 葡萄糖 | Glucose                                  |
+| 152 | 胶耳（耳部液体积聚） | Glue Ear                                 |
+| 153 | 麸质 | Gluten                                   |
+| 154 | 护目镜 | goggle                                   |
+| 155 | 油腻饮食 | Greasy meals                             |
+| 156 | 腹股沟 | Groin                                    |
+| 157 | 咖啡渣样物；医学上指呕吐物呈咖啡渣样（消化道出血征象） | Ground coffee                            |
+| 158 | 粘性物质；脏东西 | Gunk                                     |
+| 159 | 溶血的 | haemolytic ⚠️                            |
+| 160 | 血友病 | haemophilia ⚠️                           |
+| 161 | 出血，出血量大 | Haemorrhage ⚠️                           |
+| 162 | 痔疮 | h<font color="#ff0000">ae</font>morrhoids ⚠️                          |
+| 163 | 锤状趾 | Hammer toe ⚠️                            |
+| 164 | 大腿后侧肌肉 | Hamstring                                |
+| 165 | 刺激性肥皂 | Harsh soap                               |
+| 166 | 心脏杂音 | Heart murmur                             |
+| 167 | 幽门螺旋杆菌 | Helicobacter pylori                      |
+| 168 | 半球 | Hemisphere                               |
+| 169 | 出血 | Hemorrhage ⚠️                            |
+| 170 | 痔疮 | Hemorrhoids ⚠️                           |
+| 171 | 带状疱疹 | Herpes shingles                          |
+| 172 | 组胺（过敏介质） | histamine                                |
+| 173 | 麻疹；荨麻疹 | hives                                    |
+| 174 | 全人关怀；整体护理 | holistic care                            |
+| 175 | 激素 | Hormone                                  |
+| 176 | 热水瓶 | Hot water flask                          |
+| 177 | 加湿器 | Humidifier                               |
+| 178 | 哼声 | Humming                                  |
+| 179 | 驼背 | Hump back                                |
+| 180 | 驼背 | Hunch back                               |
+| 181 | 沙哑的嗓音 | husky voice                              |
+| 182 | 卫生 | Hygiene                                  |
+| 183 | 下丘脑 | Hypothalamus                             |
+| 184 | 免疫抑制剂 | Immunosuppressant                        |
+| 185 | 阻生牙 | Impacted teeth                           |
+| 186 | 切牙 | Incisor                                  |
+| 187 | 失禁 | Incontinence                             |
+| 188 | 遗传特质 | inherited traits                         |
+| 189 | 驱虫剂 | Insect repellent                         |
+| 190 | 鞋垫 | Insole                                   |
+| 191 | 不稳定 | Instability                              |
+| 192 | 间歇的 | Intermittent                             |
+| 193 | 椎间盘 | Intervertebral disc                      |
+| 194 | 颅内压 | Intracranial pressure                    |
+| 195 | 眼内压 | Intraocular pressure                     |
+| 196 | 虹膜 | Iris                                     |
+| 197 | 刺激 | Irritation                               |
+| 198 | 震动/刺耳的 | jarring                                  |
+| 199 | 黄疸 | Jaundice                                 |
+| 200 | 巩膜黄染 | Jaundiced sclera                         |
+| 201 | 下巴线 | Jawline                                  |
+| 202 | 腿无力（口语） | jelly legs                               |
+| 203 | 关节畸形 | Joint deformities                        |
+| 204 | 震动，猛击 | Jolt                                     |
+| 205 | 幼儿园 | Kindergarten                             |
+| 206 | 膝盖减震器 | knee shock absorber                      |
+| 207 | 局麻药；局部麻醉 | LA                                       |
+| 208 | 内耳迷路 | Labyrinth                                |
+| 209 | 撕裂伤 | Laceration                               |
+| 210 | 泪腺 | Lacrimal gland                           |
+| 211 | 喉；喉炎；喉镜 | laryngoscope                             |
+| 212 | 喉；喉炎；喉镜 | Larynx                                   |
+| 213 | 洗衣粉 | Laundry detergent                        |
+| 214 | 泻药 | Laxative                                 |
+| 215 | 非专业人士；外行 | lay person                               |
+| 216 | 弱视（俗称） | Lazy eye                                 |
+| 217 | 损伤；病变 | lesion                                   |
+| 218 | 韧带 | Ligament                                 |
+| 219 | 头昏目眩 | Light‑headedness                         |
+| 220 | 酒店；售酒店 | Liquor store                             |
+| 221 | 局麻药；局部麻醉 | Local anaesthetic ⚠️                     |
+| 222 | 牙关紧闭 | lock jaw                                 |
+| 223 | 远视 | Long‑sightedness                         |
+| 224 | 低酸饮食 | Low acidic diet                          |
+| 225 | 润滑剂 | Lubricant                                |
+| 226 | 微温的 | Lukewarm                                 |
+| 227 | 温水洗浴 | Lukewarm water bathing                   |
+| 228 | 肺萎陷；气胸 | lung collapse                            |
+| 229 | 多音节词；口音差异主要体现在元音长度。 | Lupus erythematosus                      |
+| 230 | 淋巴的；淋巴系统的 | lymphatic                                |
+| 231 | 黄斑水肿 | Macular edema                            |
+| 232 | 可管理的 | Manageable                               |
+| 233 | 下颌的；颌骨的 | Mandibular                               |
+| 234 | 枕头/床垫 | Mattress                                 |
+| 235 | 麻疹；荨麻疹 | Measles                                  |
+| 236 | 胎粪 | Meconium                                 |
+| 237 | 内侧半月板 | medial meniscus                          |
+| 238 | 内侧半月板 | medical meniscus                         |
+| 239 | 半月板 | Meniscus                                 |
+| 240 | 水银；汞 | mercury                                  |
+| 241 | 新陈代谢 | metabolism                               |
+| 242 | 掌骨 | metacarpal bone                          |
+| 243 | （肿瘤）转移 | metastasize                              |
+| 244 | 地铁 | Metro                                    |
+| 245 | AU 口音短音。 | MI                                       |
+| 246 | 偏头痛 | Migraines                                |
+| 247 | 微片（短效避孕药） | Mini‑Pill                                |
+| 248 | 小碰撞 | Minor Collision                          |
+| 249 | 连指手套 | Mittens                                  |
+| 250 | 保湿霜 | Moisturizer                              |
+| 251 | 臼齿 | molar teeth                              |
+| 252 | 呼气测醉器 | mouth breathalyser                       |
+| 253 | 口角下垂 | Mouth Drooping                           |
+| 254 | 听不清的；闷声的 | Muffled                                  |
+| 255 | 多因素的 | Multifactorial                           |
+| 256 | 肌肉骨骼的 | Musculoskeletal                          |
+| 257 | 肌肉骨骼系统 | Musculoskeletal system                   |
+| 258 | 哑巴；无声的 | Mute                                     |
+| 259 | AU 口音短音。 | Myocardial infarction                    |
+| 260 | 近视 | Myopia                                   |
+| 261 | 近视的 | Myopic                                   |
+| 262 | 鼻塞或鼻阻塞 | Nasal congestion or obstruction          |
+| 263 | 鼻喷剂 | Nasal spray                              |
+| 264 | 严重/讨厌的 | nasty                                    |
+| 265 | 肚脐 | Navel                                    |
+| 266 | 坏死性的 | necrotizing                              |
+| 267 | 针 | Needles                                  |
+| 268 | 中性的；中立的 | neutral                                  |
+| 269 | 二氧化氮 | nitrogen dioxide                         |
+| 270 | 结节；小结 | nodule                                   |
+| 271 | 不褪色皮疹 | Non-blanching rash                       |
+| 272 | 不缝合 | Non-stitching                            |
+| 273 | 非侵入性的 | Non‑invasive                             |
+| 274 | 鼻内卷砂条 | Nose bolster                             |
+| 275 | 鼻孔 | nostril                                  |
+| 276 | 养育；滋养 | nourish                                  |
+| 277 | 非甾体抗炎药 | NSAIDs (non‑steroidal anti‑inflammatory  |
+| 278 | 眼球震颤 | Nystagmus                                |
+| 279 | 强迫症 | obsessive‑compulsive disorder            |
+| 280 | 光学相干断层扫描 | OCT                                      |
+| 281 | 吞咽痛 | Odynophagia                              |
+| 282 | 软膏 | Ointment                                 |
+| 283 | 欧米伽‑3 脂肪酸 | Omega‑3 fatty acids                      |
+| 284 | 眼科学 | Ophthalmology ⚠️                         |
+| 285 | 有机化学物质 | Organic chemicals                        |
+| 286 | 开放复位内固定术 | ORIF                                     |
+| 287 | 牙齿矫正的 | orthodontic                              |
+| 288 | 矫形椅 | Orthopedic chair                         |
+| 289 | 直立性低血压 | Orthostatic hypotension (postural        |
+| 290 | 非处方（药） | OTC                                      |
+| 291 | 外耳炎 | Otitis externa                           |
+| 292 | 中耳炎 | Otitis media                             |
+| 293 | 耳鼻喉科 | Otolaryngology                           |
+| 294 | 耳镜 | Otoscope                                 |
+| 295 | 氧气瓶 | Oxygen cylinder                          |
+| 296 | 苍白湿冷 | Pale and clammy                          |
+| 297 | 临终关怀；姑息疗法 | palliative care                          |
+| 298 | 心悸 | Palpitation                              |
+| 299 | 带可待因的扑热息痛（商品名） | Panadeine Forte                          |
+| 300 | 大流行；流行病 | pandemic                                 |
+| 301 | 麻痹；无力 | paralysis                                |
+| 302 | 鼻窦感染 | Paranasal sinus infection                |
+| 303 | 寄生虫 | parasite                                 |
+| 304 | 甲状旁腺 | parathyroid gland                        |
+| 305 | 帕金森病 | Parkinson’s                              |
+| 306 | 甲周炎 | paronychia                               |
+| 307 | 贴片 | Patch                                    |
+| 308 | 鼓膜穿孔 | Perforated ear drum                      |
+| 309 | 出汗；汗水 | Perspiration                             |
+| 310 | 出汗；汗水 | Perspire                                 |
+| 311 | 杀虫剂 | pesticide                                |
+| 312 | 瘀点性皮疹 | Petechial rash                           |
+| 313 | 牙科仿头模型 | Phantom heads                            |
+| 314 | 咽；咽炎 | Pharynx                                  |
+| 315 | 痰 | Phlegm ⚠️                                |
+| 316 | 恐声 | phonophobia                              |
+| 317 | 磷酸盐 | phosphates                               |
+| 318 | 畏光 | Photophobia                              |
+| 319 | 光敏感 | photosensitivity                         |
+| 320 | 色素 | Pigment                                  |
+| 321 | 痔疮 | Piles                                    |
+| 322 | 枕头/床垫 | Pillow                                   |
+| 323 | 掐皮肤（皮肤弹性测试） | Pinch the skin                           |
+| 324 | 凹陷性水肿 | pitting edema                            |
+| 325 | 垂体；脑垂体 | Pituitary                                |
+| 326 | 瘟疫；灾难 | Plague                                   |
+| 327 | 工厂 | Plant                                    |
+| 328 | 石膏；绷带 | Plaster                                  |
+| 329 | 血小板 | Platelets                                |
+| 330 | 胸膜积液 | Pleural effusion                         |
+| 331 | 肺炎球菌的 | Pneumococcal ⚠️                          |
+| 332 | 足病科转诊 | Podiatrist referral                      |
+| 333 | 足病学 | Podiatry                                 |
+| 334 | 脊髓灰质炎 | Polio                                    |
+| 335 | 多囊肾 | Polycystic kidney                        |
+| 336 | 体位对线 | Postural alignment                       |
+| 337 | 精准 | Precision                                |
+| 338 | 前臼齿 | premolar                                 |
+| 339 | 防腐剂；防腐的 | preservative                             |
+| 340 | 保存；腌制 | preserve                                 |
+| 341 | 刺痛感 | Pricking sensation                       |
+| 342 | 前驱症状 | Prodrome                                 |
+| 343 | 喷射性的；抛射物 | Projectile                               |
+| 344 | 预防性用药 | Prophylactic medication                  |
+| 345 | 预防措施 | prophylaxis                              |
+| 346 | 假体 | prosthesis                               |
+| 347 | 假肢的；义肢的 | Prosthetic                               |
+| 348 | 蛋白尿 | Proteinuria                              |
+| 349 | 供应；准备 | Provision                                |
+| 350 | 瘙痒 | Pruritus                                 |
+| 351 | 精神病学转诊 | Psychiatric Referral ⚠️                  |
+| 352 | 一口；喷气 | Puff                                     |
+| 353 | 虚肿；水肿 | Puffiness                                |
+| 354 | 脚踝浮肿 | Puffy ankles                             |
+| 355 | 肺的 | Pulmonary                                |
+| 356 | 肺水肿 | Pulmonary oedema ⚠️                      |
+| 357 | 化脓的 | Purulent                                 |
+| 358 | 脓性渗出物 | Purulent exudate                         |
+| 359 | 拼图，难题 | Puzzles                                  |
+| 360 | 藜麦 | Quinoa                                   |
+| 361 | 狂犬病 | Rabies                                   |
+| 362 | 受体；接受者 | Recipient                                |
+| 363 | 握力下降 | Reduced grip strength                    |
+| 364 | 反流；回流 | regurgitation                            |
+| 365 | 复发；故态复萌 | relapse                                  |
+| 366 | 松弛剂；放松药 | relaxant                                 |
+| 367 | 缓解期 | remission                                |
+| 368 | 防护剂；驱虫剂 | repellent                                |
+| 369 | 救援 | Rescue                                   |
+| 370 | 宿主；储藏处 | reservoir                                |
+| 371 | 修复；牙体修复 | Restoration                              |
+| 372 | 视网膜脱落 | Retina detachment                        |
+| 373 | 血管再通术 | Revascularization                        |
+| 374 | 重新膨胀；重新充气 | re‑inflate                               |
+| 375 | 类风湿的 | Rheumatoid                               |
+| 376 | 安全期避孕法 | rhythm method                            |
+| 377 | 肋骨 | Ribcage                                  |
+| 378 | 右外踝 | right lateral malleolus                  |
+| 379 | 发抖；寒战；冷颤 | rigors                                   |
+| 380 | 癣；皮癣 | Ringworm                                 |
+| 381 | 黑麦 | Rye                                      |
+| 382 | 血性的 | sanguineous                              |
+| 383 | 大隐静脉 | Saphenous vein                           |
+| 384 | 痂；疤 | scab                                     |
+| 385 | 坐骨神经痛 | Sciatic                                  |
+| 386 | 巩膜 | Sclera                                   |
+| 387 | 久坐的 | Sedentary                                |
+| 388 | 英式非卷舌；爱尔兰口音卷舌明显。 | Sepsis                                   |
+| 389 | 血清血性的 | serosanguineous                          |
+| 390 | 发抖；寒战；冷颤 | Shiver                                   |
+| 391 | 肩胛骨 | Shoulder blades                          |
+| 392 | 硅植入物 | Silicone implant                         |
+| 393 | 睡眠呼吸暂停 | Sleep Apnea                              |
+| 394 | 吊带；吊腕带 | slings                                   |
+| 395 | 脱位 | Slipped                                  |
+| 396 | 打喷嚏 | sneezing                                 |
+| 397 | 打鼾 | Snoring                                  |
+| 398 | 痉挛；抽搐 | Spasm                                    |
+| 399 | 痉挛状态 | Spasticity                               |
+| 400 | 括约肌 | Sphincter                                |
+| 401 | 脊柱裂（应为 spina bifida） | Spinal bifida                            |
+| 402 | 脊髓 | Spinal cord                              |
+| 403 | 脊髓 | spinal marrow                            |
+| 404 | 剧烈头痛 | Splitting headaches                      |
+| 405 | 自发性鼻出血 | Spontaneous nosebleeds                   |
+| 406 | 扭伤 | Sprain                                   |
+| 407 | 喷雾；喷洒 | spray                                    |
+| 408 | 痰 | sputum                                   |
+| 409 | 鳞状细胞 | squamous cell                            |
+| 410 | 挤压；南瓜 | squash                                   |
+| 411 | 蹲下 | Squat                                    |
+| 412 | 潦草的笔迹；波形 | squiggle                                 |
+| 413 | 眯眼/斜视 | Squinting                                |
+| 414 | 喷射；挤压 | Squirt                                   |
+| 415 | 听诊器 | Stethoscope                              |
+| 416 | 僵硬；硬度 | stiffness                                |
+| 417 | 刺痛 | Stinging                                 |
+| 418 | 剧烈活动 | Strenuous activity                       |
+| 419 | 紧张的 | Strung                                   |
+| 420 | 麦粒肿 | stye                                     |
+| 421 | 皮下的 | subcutaneous                             |
+| 422 | 舌下的 | Sublingual                               |
+| 423 | 枕下肌群 | suboccipital muscles                     |
+| 424 | 甲下的 | Subungual                                |
+| 425 | 蔗糖 | Sucrose                                  |
+| 426 | 糖 | Sugar                                    |
+| 427 | 套房（suit与suite鉴别） | Suite                                    |
+| 428 | 眼睛凹陷 | sunken eyes                              |
+| 429 | 退休金；养老金计划 | superannuation                           |
+| 430 | 易感性 | Susceptibility                           |
+| 431 | 腿部肿胀 | Swollen legs                             |
+| 432 | 晕厥 | Syncope                                  |
+| 433 | 合成叶酸 | Synthetic folate                         |
+| 434 | 收缩压 | Systolic                                 |
+| 435 | 收缩压 | systolic pressure                        |
+| 436 | 心动过缓的 / 心动过速的 | Tachycardiac                             |
+| 437 | 起作用 | Take effect                              |
+| 438 | 柏油样/咖啡渣样 | Tarry Coffee-ground                      |
+| 439 | 肺结核；结核病 | TB                                       |
+| 440 | 太阳穴 | Temple                                   |
+| 441 | 温水 | tepid water                              |
+| 442 | 破伤风 | tetanus                                  |
+| 443 | 质地改良饮食 | Texture-modified diet                    |
+| 444 | 治疗的 | Therapeutic                              |
+| 445 | 胸的；胸廓的 | Thoracic                                 |
+| 446 | AU 口音短音。 | Three‑dimensional image                  |
+| 447 | 阈值；门槛 | threshold                                |
+| 448 | 撕裂痛 | Throbbing                                |
+| 449 | 紧张感；疲劳 | Tightness                                |
+| 450 | 倾斜 | Tilting                                  |
+| 451 | 癣；皮癣 | tinea                                    |
+| 452 | 麻刺感 | Tingling                                 |
+| 453 | 耳鸣 | Tinnitus                                 |
+| 454 | 紧张感；疲劳 | tiredness                                |
+| 455 | 烟草 | Tobacco                                  |
+| 456 | 可忍受的 | Tolerable                                |
+| 457 | 局部外用的 | Topical                                  |
+| 458 | 折磨人的 | Torturous                                |
+| 459 | 气管 | Trachea                                  |
+| 460 | 移行便 | Translational stools                     |
+| 461 | 传播 | Transmission                             |
+| 462 | 斜方肌 | Traps                                    |
+| 463 | 牙关紧闭 | Trismus                                  |
+| 464 | 肚子 | tummy                                    |
+| 465 | 突然阵痛 | Twinge                                   |
+| 466 | 难以忍受的 | Unbearable                               |
+| 467 | 上呼吸道感染 | URTI                                     |
+| 468 | 荨麻疹样的 | Urticarial                               |
+| 469 | 迷走神经刺激 | Vagal Nerve Stimulation                  |
+| 470 | 静脉曲张 | Varicose Vein                            |
+| 471 | 媒介传播的 | vector borne                             |
+| 472 | 腔静脉 | Vena cava                                |
+| 473 | 毒液 | Venom                                    |
+| 474 | 前庭的 | Vestibular                               |
+| 475 | 声带 | Vocal cords                              |
+| 476 | 呕吐（没有两个t） | Vomiting                                 |
+| 477 | 风团；疤痕 | Weal                                     |
+| 478 | 渗液/流泪的 | Weeping                                  |
+| 479 | 流泪的眼睛 | Weepy eyes                               |
+| 480 | 鞭痕；条状疤痕 | Welt                                     |
+| 481 | 颈部扭伤 | whiplash                                 |
+| 482 | 百日咳 | Whooping cough                           |
+| 483 | 气管 | windpipe                                 |
+| 484 | 智齿 | Wisdom teeth                             |
+| 485 | 摇动的；不稳定的 | Wobbly                                   |
 
 ## 😟 情绪 · 精神状态　（44 词）
 

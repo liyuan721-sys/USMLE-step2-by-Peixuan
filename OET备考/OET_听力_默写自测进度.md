@@ -22,52 +22,44 @@ type: 备考资料
 ## 🔁 错词回收池（优先重测，连续拼对 2 次清出）
 
 > 拼错/拼不确定进这里，次日混进新题。括号内英式正确拼写。✓N/2 = 已连续拼对次数。
-> **⚠️ 当前池 31 词（>25 阈值）→ Day 5 继续减新词、先清池。**
+> **✅ 当前池 21 词（<25，回到安全区）→ Day 6 可恢复少量新词 + 继续清池。**
 
-**✅ 已出池（连续 2 次拼对）**：Palpitation、Rheumatoid（Day 3）｜**Osteoporosis、Tuberculosis（Day 4）**🎉
+**✅ 已出池（连续 2 次拼对）**：Palpitation、Rheumatoid（Day 3）｜Osteoporosis、Tuberculosis（Day 4）｜**Haemorrhage、Anaemia、Phlegm、Diverticulitis、Scarring、Numbness、Physiotherapy、Itchy、Blisters、Bloating（Day 5，一次清 10 个）🎉🎉**
 
 **差 1 次出池（✓1/2，再对 1 次即清）**
-- [ ] 出血 → Haemorrhage（**hae** 非 hea；双 r）｜✓1/2 🎉Day4 首次对（连续 3 天主线伤口愈合）
-- [ ] 低血糖 → Hypoglycaemia（-c**ae**mia 非 -ceamia）｜✓1/2 🎉Day4 首次对
-- [ ] 贫血 → Anaemia（An-**ae**-mia，a 先 e 后）｜✓1/2 🎉Day4 首次对
-- [ ] 肺炎球菌的 → Pneumococcal（**Pneu**-，双 c）｜✓1/2 🎉Day4 首次对
-- [ ] 痰 → Phlegm（phl**e**gm，g 不发音）｜✓1/2 🎉Day4 首次对
-- [ ] 憩室炎 → Diverticulitis（-itis≠-osis）｜✓1/2
-- [ ] 瘢痕形成 → Scarring（双 r + -ing）｜✓1/2
-- [ ] 麻木 → Numbness（numb + ness）｜✓1/2
-- [ ] 物理治疗 → Physiotherapy（英式；≠physical therapy）｜✓1/2
-- [ ] 痒的 → Itchy（itch+y，无 s）｜✓1/2
-- [ ] 水疱 → Blisters（bullae 是医学同义词，默写按 blisters）｜✓1/2
-- [ ] 腹胀 → Bloating｜✓1/2
+- [ ] 氢氯噻嗪 → Hydrochlorothiazide（Hydro-chloro-**thia**-zide）｜✓1/2 🎉Day5 退档夺回
+- [ ] 胆囊炎 → Cholecystitis（**Chole**-cyst-itis 胆汁词根）｜✓1/2 🎉Day5 退档夺回
+- [ ] 哮喘 → Asthma（**无 ae**，别过度纠正）｜✓1/2 🎉Day5 首次对（不再写 aesthma）
+- [ ] 甲氨蝶呤 → Methotrexate（Me-tho-trex-ate）｜✓1/2 🎉Day5 首次对
+- [ ] 结膜炎 → Conjunctivitis（-it**is** 非 -ities）｜✓1/2 🎉Day5 首次对
+- [ ] 唇疱疹 → Cold sores（两词 + 复数 s）｜✓1/2 🎉Day5 首次对
+- [ ] 尿布疹 → Nappy rash（英式 nappy≠diaper）｜✓1/2 🎉Day5 首次对
+- [ ] 活动策划者 → Events organiser（organiser 英式 + 复数 events）｜✓1/2 🎉Day5 首次对
 
-**仍 0/2 · 退档重置（Day 3 赢了 Day 4 又丢，最可惜）⚠️**
-- [ ] 氢氯噻嗪 → Hydrochlorothiazide（Hydro-chloro-**thia**-zide）｜✓0/2 ［Day4 写 thyzide 漏 -othia-，退档重置］
-- [ ] 胆囊炎 → Cholecystitis（**Chole**-cyst-itis 胆汁词根）｜✓0/2 ［Day4 写 choly-，退档重置］
-- [ ] 心律失常 → Arrhythmia（双 r + 内含 rhythm，**无 e**）｜✓0/2 ［Day4 写 arrhythemia 多 e，退档重置］
-- [ ] 痔疮 → Haemorrhoids（Hae- + 双 r + 复数 -s）｜✓0/2 ［Day4 写 hemorrhoid 漏 ae+漏 s，退档重置］
+**仍 0/2 · 英式 -oea 双元音 ⭐（Day5 新主线伤口，连续写美式漏 o）**
+- [ ] 呼吸困难 → Dyspnoea（英式 -p**noea**，非美式 dyspnea）｜✓0/2 ［Day5 写 dyspnea 漏 o，串美式］
+- [ ] 腹泻 → Diarrhoea（Di-a-rr-**hoea**）｜✓0/2 ［Day5 写 diarrhea 漏 o，串美式］
 
-**仍 0/2 · 英式 ae/oe ⭐（-oea 双元音 + 过度纠正）**
-- [ ] 哮喘 → Asthma（**无 ae**，别过度纠正！希腊词 ásthma 纯 a）｜✓0/2 ［Day4 过度泛化写 aesthma］
-- [ ] 呼吸困难 → Dyspnoea（英式 -p**noea**，非美式 dyspnea）｜✓0/2 ［Day4 写 dyspnae 漏 o］
-- [ ] 腹泻 → Diarrhoea（Di-a-rr-**hoea**）｜✓0/2 ［Day4 写 diaerrhea，乱序+串美式］
+**仍 0/2 · 退档复发（Day3 赢→Day4 丢→Day5 又丢）⚠️**
+- [ ] 心律失常 → Arrhythmia（双 r + 内含 **rhythm**，无 e）｜✓0/2 ［Day5 写 arrythmia 漏 h，丢了 rhythm］
+- [ ] 痔疮 → Haemorrhoids（**Hae**- + 双 r + 复数 -s）｜✓0/2 ［Day5 写 hemorrhoids 漏 ae（Haemorrhage 对了没迁移过来）］
+
+**仍 0/2 · ✓1/2 退档（Day5 丢，可惜）⚠️**
+- [ ] 低血糖 → Hypoglycaemia（hypo-**gly**-caemia）｜✓0/2 ［Day5 写 hypolycaemia 漏 g］
+- [ ] 肺炎球菌的 → Pneumococcal（**Pneu**- 无 ae，双 c）｜✓0/2 ［Day5 写 pnaeumococal 过度加 ae + 单 c］
 
 **仍 0/2 · 长药名 + 后缀**
-- [ ] 甲氨蝶呤 → Methotrexate（Me-tho-trex-ate）｜✓0/2 ［Day4 写 methoxatrate 音节乱］
-- [ ] 左甲状腺素 → Levothyroxine（Levo-thyr-**ox**-ine）｜✓0/2 ［Day4 写 levothyxodine］
-- [ ] 结膜炎 → Conjunctivitis（-it**is** 非 -ities）｜✓0/2 ［Day4 又写 conjunctivities］
+- [ ] 左甲状腺素 → Levothyroxine（Levo-thyr-**ox**-ine）｜✓0/2 ［Day5 写 levothyzine 漏 rox］
+- [ ] 皮质类固醇 → Corticosteroids（Cortico-**stero**-ids + 复数 s）｜✓0/2 ［Day5 写 corticorsteroid 多 r + 漏复数 s］
+
+**仍 0/2 · 拼写/复数细节**
+- [ ] 抗酸药 → Antacids（**ant**- 无 i + 复数 s）｜✓0/2 ［Day5 写 antacid，ant- 修对了🎉 但漏复数 s］
+- [ ] 心理咨询 → Counselling（英式双 l；**coun**-sell-ing）｜✓0/2 ［Day5 写 consoulling 词干错（不再写 consultant）］
 
 **仍 0/2 · 记错词（不是拼错，是记成别的词）**
-- [ ] 静脉曲张 → Varices（单数 varix）｜✓0/2 ［Day4 写 vericeous］
-- [ ] 使人丧失能力的 → Incapacitating（in-capa-cita-ting）｜✓0/2 ［Day4 写 incapable，意思近但错词］
-- [ ] 吞咽 → Swallowing（双 l）｜✓0/2 ［Day4 写 swollowning］
-- [ ] 唇疱疹 → Cold sores（两词 + 复数 s）｜✓0/2 ［Day3-4 连续跳过未答］
-
-**新入池 · Day 4 考经批次 2 错词（✓0/2）**
-- [ ] 皮质类固醇 → Corticosteroids（Cortico-steroids）｜✓0/2 ［Day4 写 corticoid 缺 -stero-］
-- [ ] 抗酸药 → Antacids（**ant**acids 无 i + 复数 s）｜✓0/2 ［Day4 写 antiacid］
-- [ ] 心理咨询 → Counselling（英式双 l；≠consultant 顾问）｜✓0/2 ［Day4 写 consultant 记错词］
-- [ ] 尿布疹 → Nappy rash（英式 nappy≠diaper）｜✓0/2 ［Day4 写 nondiper rash］
-- [ ] 活动策划者 → Events organiser（organiser 英式 + 复数 events）｜✓0/2 ［Day4 写 event organiser，organiser 拼对漏复数 s］
+- [ ] 静脉曲张 → Varices（单数 varix）｜✓0/2 ［Day5 写 varies 漏 c］
+- [ ] 使人丧失能力的 → Incapacitating（in-capa-cita-ting）｜✓0/2 ［Day5 又写 incapable，连续记错词］
+- [ ] 吞咽 → Swallowing（双 l）｜✓0/2 ［Day5 写 swollown，元音错+漏 -ing］
 
 ---
 
@@ -75,9 +67,9 @@ type: 备考资料
 
 | 指标 | 数值 |
 |---|---|
-| 已测 | 46 / 876（核心 318 优先；Day4 新增 5 词出池入已测）|
-| 错词池待清 | 31（12 差 1 次 + 19 仍 0/2）|
-| 连续打卡 | Day 4 ✅ |
+| 已测 | 56 / 876（核心 318 优先；Day5 新增 10 词出池入已测）|
+| 错词池待清 | 21（8 差 1 次 + 13 仍 0/2）|
+| 连续打卡 | Day 5 ✅ |
 
 ---
 
@@ -157,6 +149,24 @@ A 组对的 10 词（nausea/appetite/constipation/palpitations/unpredictable/ult
 
 ---
 
+### Day 5 — 2026-06-30（清池冲刺：31 回收，暂停新词）
+
+得分：**18 / 31（58%）**。轨迹 Day1 1/15(7%) → Day2 6/20(30%) → Day3 18/40(45%) → Day4 19/38(50%) → Day5 18/31(58%)。
+🎉🎉 **一次清 10 词出池**：Haemorrhage、Anaemia、Phlegm、Diverticulitis、Scarring、Numbness、Physiotherapy、Itchy、Blisters、Bloating（12 个 ✓1/2 清掉 10）。
+🎉 **退档夺回**：Hydrochlorothiazide、Cholecystitis（Day4 丢的夺回 2 个）。
+🎉 **Asthma 首次对**：不再过度纠正写 aesthma（ae 过度泛化在哮喘上收敛了）。
+🎉 其他首次对：Methotrexate、Conjunctivitis（-itis 终于不写 -ities）、Cold sores、Nappy rash、Events organiser。
+**新主线伤口：英式 -oea** — Dyspnoea→dyspnea、Diarrhoea→diarrhea 又写美式漏 o。ae 主线愈合后，-oea 接棒成头号问题 → 死记"英式 -oea 要插 o"。
+**ae 过度泛化转移**：Asthma 改对了，但 Pneumococcal→pnaeumococal 反而乱加 ae（✓1/2 退档）。规则只针对美式单 e→ae，Pneu/Asthma 本就无 ae。
+**退档复发**：Arrhythmia→arrythmia（漏 h 丢了 rhythm）、Haemorrhoids→hemorrhoids（Haemorrhage 对了但 haem 没迁移）。
+**漏字母/记错词**：Hypoglycaemia→hypolycaemia（漏 g，✓1/2 退档）、Levothyroxine→levothyzine、Varices→varies（漏 c）、Incapacitating→incapable（连续记错词）、Swallowing→swollown。
+**小赢**：Antacids 的 ant-（不再 anti-）改对，只差复数 s；Counselling 不再写 consultant（词干仍错）。
+池从 31 → 21（回到 <25 安全区）。
+
+**下个动作**：Day 6 可恢复少量新词（核心 318 还剩约 262）。重点盯 3 类：① -oea 双元音（Dyspnoea/Diarrhoea）② 退档复发 4 词（Arrhythmia/Haemorrhoids/Hypoglycaemia/Pneumococcal）③ Pneumococcal 别乱加 ae。
+
+---
+
 ## 📖 Day 3 已测卡 ✅（2026-06-28）— 错词已转回收池，此卡留作拼写参考
 
 > **新规则起点**：20 新词（核心冲刺·考经批次 1）+ 回收池 20 词（独立混测）。加粗=最易错处。
@@ -195,6 +205,8 @@ A 组对的 10 词（nausea/appetite/constipation/palpitations/unpredictable/ult
 ## ✅ 已测词索引（防重复，英文）
 
 > 累加，每天把当日 15 词的英文加进来。
+
+Day5（10 词出池入已测，2026-06-30）: Haemorrhage, Anaemia, Phlegm, Diverticulitis, Scarring, Numbness, Physiotherapy, Itchy, Blisters, Bloating
 
 Day1: Haemorrhage, Hypoglycaemia, Dyspnoea, Osteoporosis, Osteoarthritis, Tuberculosis, Methotrexate, Levothyroxine, Hydrochlorothiazide, Diverticulitis, Conjunctivitis, Rheumatoid, Cholecystitis, Pneumococcal, Palpitation
 
