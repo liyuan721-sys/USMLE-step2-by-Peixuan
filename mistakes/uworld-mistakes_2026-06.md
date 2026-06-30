@@ -21146,7 +21146,7 @@ type: 错题数据源
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-06#^Q4319]] 下唇 SCC（同"可疑皮肤癌先活检"）
 >   - [[mistakes/uworld-mistakes_2026-06#^Q4410]] Actinic keratosis（同日晒区肿瘤谱）
-> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Basal cell carcinoma 段）/ [[完整笔记/专题笔记/皮肤/皮肤_皮肤肿瘤与癌前]]（§〇 活检决策 + §一 BCC）
+> - 📚 主笔记：[[完整笔记/Peixuan分科笔记/derm]]（Basal cell carcinoma 段）/ [[完整笔记/专题笔记/皮肤/皮肤_皮肤肿瘤与癌前]]（§〇 活检决策 + §一 BCC；本卡"incisional vs excisional 活检"展开见 §二 Bowen 段"活检≠全片切除 + 取样误差"三 callout）
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/外科]]（切缘与活检方式选择）
 > - 🌱 TODO：无（已并入 [[完整笔记/专题笔记/皮肤/皮肤_皮肤肿瘤与癌前]]）
 > 
