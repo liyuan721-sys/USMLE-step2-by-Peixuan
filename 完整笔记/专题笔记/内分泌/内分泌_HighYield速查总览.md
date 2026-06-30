@@ -315,6 +315,8 @@ PTH → ↑骨吸收 + ↑肾钙重吸收 + **↓磷 (phosphate)**。
 
 *低钙体征：Trousseau 征（血压袖带加压诱发腕足痉挛）+ Chvostek 征（叩面神经致同侧面肌抽动）。*
 
+> 低钙血症深度展开（病因按 PTH 分流 / 先纠镁 / 长 QT / 术后甲旁减急救）见 [[完整笔记/专题笔记/内分泌/内分泌_低钙血症完整体系]]。
+
 ### 5.6 骨软化症 (osteomalacia)
 
 维生素 D 缺乏 (vitamin D deficiency) → 骨基质矿化不足 → 骨软化症 (osteomalacia)；影像钥匙 = 假骨折 (pseudofracture / Looser 带)。

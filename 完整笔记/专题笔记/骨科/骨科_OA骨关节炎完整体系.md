@@ -53,6 +53,9 @@ type: 专题笔记
 > [!tip] X 线"LOSS"四字口诀
 > **L** oss of joint space 间隙窄 / **O** steophytes 骨赘 / **S** ubchondral sclerosis 软骨下硬化 / **S** ubchondral cysts 软骨下囊肿。
 
+![[{92E953DF-C038-4134-8F6C-59E7ABCF55E1}.png|400]]
+*手骨关节炎 (hand osteoarthritis) X 线：**骨赘 (osteophytes) + 软骨下硬化 (subchondral sclerosis) + 关节间隙变窄 (narrowed joint space)**——LOSS 四联的影像对照（第一腕掌 + 指间关节）。*
+
 > [!tip] 膝 OA 查体定位钥匙：痛点多在**内侧关节线 (medial joint line)**
 > OA 最常累及**内侧间室 (medial compartment)**（多数人下肢轻度内翻 varus 力线 → 内侧负荷大 → 内侧软骨先磨损），所以膝 OA 的关节线压痛**典型偏内侧**，X 线也是内侧间隙先变窄。
 > ⚠️ 但"关节线压痛"本身**不特异**——**半月板撕裂 (meniscus tear)** 也压痛；靠 **OA = 慢性 + 骨擦感 + 无交锁**、**半月板 = 急性扭转史 + locking + McMurray 阳性**区分（详见 [[完整笔记/专题笔记/骨科/骨科_膝及周围疾病鉴别]] §一/§三）。
@@ -195,4 +198,4 @@ OA 常见受累关节
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/骨科]] / [[完整笔记/专题笔记/骨科/骨科_HighYield速查总览]]（§三 膝）
 - 🏥 跨学科：[[完整笔记/专题笔记/风湿/风湿_HighYield速查总览]]（OA vs RA + DIP 受累俱乐部）/ [[完整笔记/Peixuan分科笔记/内分泌]]（维 D 缺乏→骨软化对照）
 - 🧩 姊妹篇（部位鉴别）：[[完整笔记/专题笔记/骨科/骨科_膝及周围疾病鉴别]]（§六 膝 OA 管理 + 间室 + unloader 原理）/ [[完整笔记/专题笔记/骨科/骨科_髋及周围疾病鉴别]]（髋 OA 定位）
-- 🌱 TODO：如积累 OA 影像题，可加 X 线"LOSS"四联配图组
+- 🌱 TODO：✅ 已加手 OA X 线 LOSS 四联配图（2026-06-30）；后续可补膝/髋 OA X 线对照。
