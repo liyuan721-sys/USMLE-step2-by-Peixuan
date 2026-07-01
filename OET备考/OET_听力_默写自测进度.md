@@ -22,44 +22,35 @@ type: 备考资料
 ## 🔁 错词回收池（优先重测，连续拼对 2 次清出）
 
 > 拼错/拼不确定进这里，次日混进新题。括号内英式正确拼写。✓N/2 = 已连续拼对次数。
-> **✅ 当前池 21 词（<25，回到安全区）→ Day 6 可恢复少量新词 + 继续清池。**
+> **✅ 当前池 18 词（Day 6 清出 8 + 纳入 5 新词错 → 净 −3）。8 词 ✓1/2 一步之遥。**
 
-**✅ 已出池（连续 2 次拼对）**：Palpitation、Rheumatoid（Day 3）｜Osteoporosis、Tuberculosis（Day 4）｜**Haemorrhage、Anaemia、Phlegm、Diverticulitis、Scarring、Numbness、Physiotherapy、Itchy、Blisters、Bloating（Day 5，一次清 10 个）🎉🎉**
+**✅ 已出池（连续 2 次拼对）**：Palpitation、Rheumatoid（Day 3）｜Osteoporosis、Tuberculosis（Day 4）｜**Haemorrhage、Anaemia、Phlegm、Diverticulitis、Scarring、Numbness、Physiotherapy、Itchy、Blisters、Bloating（Day 5，一次清 10 个）🎉🎉**｜**Hydrochlorothiazide、Cholecystitis、Asthma、Methotrexate、Conjunctivitis、Cold sores、Nappy rash、Events organiser（Day 6，8 个差1次全清）🎉🎉**
 
-**差 1 次出池（✓1/2，再对 1 次即清）**
-- [ ] 氢氯噻嗪 → Hydrochlorothiazide（Hydro-chloro-**thia**-zide）｜✓1/2 🎉Day5 退档夺回
-- [ ] 胆囊炎 → Cholecystitis（**Chole**-cyst-itis 胆汁词根）｜✓1/2 🎉Day5 退档夺回
-- [ ] 哮喘 → Asthma（**无 ae**，别过度纠正）｜✓1/2 🎉Day5 首次对（不再写 aesthma）
-- [ ] 甲氨蝶呤 → Methotrexate（Me-tho-trex-ate）｜✓1/2 🎉Day5 首次对
-- [ ] 结膜炎 → Conjunctivitis（-it**is** 非 -ities）｜✓1/2 🎉Day5 首次对
-- [ ] 唇疱疹 → Cold sores（两词 + 复数 s）｜✓1/2 🎉Day5 首次对
-- [ ] 尿布疹 → Nappy rash（英式 nappy≠diaper）｜✓1/2 🎉Day5 首次对
-- [ ] 活动策划者 → Events organiser（organiser 英式 + 复数 events）｜✓1/2 🎉Day5 首次对
+**差 1 次出池（✓1/2，再对 1 次即清）— Day 6 一次推进 8 个到此档 🎉**
+- [ ] 心律失常 → Arrhythmia（双 r + 内含 **rhythm**，无 e）｜✓1/2 🎉Day6 退档复发终于对
+- [ ] 痔疮 → Haemorrhoids（**Hae**- + 双 r + 复数 -s）｜✓1/2 🎉Day6 haem 迁移成功
+- [ ] 低血糖 → Hypoglycaemia（hypo-**gly**-caemia）｜✓1/2 🎉Day6 没再漏 g
+- [ ] 肺炎球菌的 → Pneumococcal（**Pneu**- 无 ae，双 c）｜✓1/2 🎉Day6 没乱加 ae + 双 c 都对
+- [ ] 呼吸困难 → Dyspnoea（英式 -p**noea**，非美式 dyspnea）｜✓1/2 🎉Day6 -oea 插 o 成功
+- [ ] 腹泻 → Diarrhoea（Di-a-rr-**hoea**）｜✓1/2 🎉Day6 -oea 插 o 成功
+- [ ] 心理咨询 → Counselling（英式双 l；**coun**-sell-ing）｜✓1/2 🎉Day6 词干+双 l 全对
+- [ ] 吞咽 → Swallowing（双 l）｜✓1/2 🎉Day6 双 l + -ing 全对
 
-**仍 0/2 · 英式 -oea 双元音 ⭐（Day5 新主线伤口，连续写美式漏 o）**
-- [ ] 呼吸困难 → Dyspnoea（英式 -p**noea**，非美式 dyspnea）｜✓0/2 ［Day5 写 dyspnea 漏 o，串美式］
-- [ ] 腹泻 → Diarrhoea（Di-a-rr-**hoea**）｜✓0/2 ［Day5 写 diarrhea 漏 o，串美式］
+**仍 0/2 · 长药名整体崩（老大难，连续多天）⚠️**
+- [ ] 左甲状腺素 → Levothyroxine（Levo-thyr-**ox**-ine）｜✓0/2 ［Day6 写 levothyroxide，词尾 -ine 写成 -ide；Day5 漏 rox］
+- [ ] 皮质类固醇 → Corticosteroids（Cortico-**stero**-ids + 复数 s）｜✓0/2 ［Day6 写 corticorsteroids 多 r（连续第 3 次多 r）］
 
-**仍 0/2 · 退档复发（Day3 赢→Day4 丢→Day5 又丢）⚠️**
-- [ ] 心律失常 → Arrhythmia（双 r + 内含 **rhythm**，无 e）｜✓0/2 ［Day5 写 arrythmia 漏 h，丢了 rhythm］
-- [ ] 痔疮 → Haemorrhoids（**Hae**- + 双 r + 复数 -s）｜✓0/2 ［Day5 写 hemorrhoids 漏 ae（Haemorrhage 对了没迁移过来）］
+**仍 0/2 · 记错词 / 漏字母（不是拼错，是记成别的词）⚠️**
+- [ ] 静脉曲张 → Varices（单数 varix）｜✓0/2 ［Day6 又写 varies 漏 c（连续第 3 次漏 c）］
+- [ ] 使人丧失能力的 → Incapacitating（in-capa-cita-ting）｜✓0/2 ［Day6 写 incapacibiliting 词中段崩；连续记错词］
+- [ ] 抗酸药 → Antacids（**ant**- 无 i + 复数 s）｜✓0/2 ［Day6 漏做未答，仍留池］
 
-**仍 0/2 · ✓1/2 退档（Day5 丢，可惜）⚠️**
-- [ ] 低血糖 → Hypoglycaemia（hypo-**gly**-caemia）｜✓0/2 ［Day5 写 hypolycaemia 漏 g］
-- [ ] 肺炎球菌的 → Pneumococcal（**Pneu**- 无 ae，双 c）｜✓0/2 ［Day5 写 pnaeumococal 过度加 ae + 单 c］
-
-**仍 0/2 · 长药名 + 后缀**
-- [ ] 左甲状腺素 → Levothyroxine（Levo-thyr-**ox**-ine）｜✓0/2 ［Day5 写 levothyzine 漏 rox］
-- [ ] 皮质类固醇 → Corticosteroids（Cortico-**stero**-ids + 复数 s）｜✓0/2 ［Day5 写 corticorsteroid 多 r + 漏复数 s］
-
-**仍 0/2 · 拼写/复数细节**
-- [ ] 抗酸药 → Antacids（**ant**- 无 i + 复数 s）｜✓0/2 ［Day5 写 antacid，ant- 修对了🎉 但漏复数 s］
-- [ ] 心理咨询 → Counselling（英式双 l；**coun**-sell-ing）｜✓0/2 ［Day5 写 consoulling 词干错（不再写 consultant）］
-
-**仍 0/2 · 记错词（不是拼错，是记成别的词）**
-- [ ] 静脉曲张 → Varices（单数 varix）｜✓0/2 ［Day5 写 varies 漏 c］
-- [ ] 使人丧失能力的 → Incapacitating（in-capa-cita-ting）｜✓0/2 ［Day5 又写 incapable，连续记错词］
-- [ ] 吞咽 → Swallowing（双 l）｜✓0/2 ［Day5 写 swollown，元音错+漏 -ing］
+**仍 0/2 · Day6 新入池（新词首测错）**
+- [ ] 沙丁胺醇 → Salbutamol（沙丁胺醇；英式名，非美式 albuterol；Sal-buta-mol）｜✓0/2 ［Day6 空白，不认识英式名］
+- [ ] 对乙酰氨基酚 → Paracetamol（对乙酰氨基酚；英式名，非美式 acetaminophen；Para-ceta-mol）｜✓0/2 ［Day6 空白，不认识英式名］
+- [ ] 呋塞米 → Furosemide（呋塞米；Furo-**semi**-de）｜✓0/2 ［Day6 写 furoside 漏 sem］
+- [ ] 甲硝唑 → Metronidazole（甲硝唑；Metro-nida-zole）｜✓0/2 ［Day6 空白］
+- [ ] 麻醉药 → Anaesthetic（麻醉药；英式 **ae**，an-**aes**-thetic；美式 anesthetic）｜✓0/2 ［Day6 写 anesthetics 漏 ae（ae 规则未迁移到本词）+ 多复数 s］
 
 ---
 
@@ -67,9 +58,9 @@ type: 备考资料
 
 | 指标 | 数值 |
 |---|---|
-| 已测 | 56 / 876（核心 318 优先；Day5 新增 10 词出池入已测）|
-| 错词池待清 | 21（8 差 1 次 + 13 仍 0/2）|
-| 连续打卡 | Day 5 ✅ |
+| 已测 | 71 / 876（核心 318 优先；Day6 新增 8 出池 + 7 新词首测对）|
+| 错词池待清 | 18（8 差 1 次 + 10 仍 0/2）|
+| 连续打卡 | Day 6 ✅ |
 
 ---
 
@@ -167,6 +158,18 @@ A 组对的 10 词（nausea/appetite/constipation/palpitations/unpredictable/ult
 
 ---
 
+### Day 6 — 2026-07-01（清池 21 + 恢复新词 12：ae/oe 家族巩固）
+
+得分：**23 / 33（70%）**（A 回收 16/21 + B 新词 7/12）。轨迹 Day1 1/15(7%) → Day2 6/20(30%) → Day3 18/40(45%) → Day4 19/38(50%) → Day5 18/31(58%) → **Day6 23/33(70%)**（单次新高）。
+🎉🎉 **8 个差1次一次全清出池**：Hydrochlorothiazide、Cholecystitis、Asthma、Methotrexate、Conjunctivitis、Cold sores、Nappy rash、Events organiser。
+🎉🎉 **Day5 圈定的 3 大重点全部拿下**：① -oea（Dyspnoea、Diarrhoea 插 o 成功）② 退档复发 4 词（Arrhythmia、Haemorrhoids、Hypoglycaemia、Pneumococcal 全对）③ Pneumococcal 没乱加 ae——全部升 ✓1/2，下次再对即清。
+🎉 **ae/oe 主线从伤口变得分点，并迁移到新词**：Oedema、Oesophagus（oe）+ Leukaemia、Ischaemia、Paediatric（ae）5 个新词首测全对；Eczema 也没踩「乱加 ae」的坑（本词无 ae）。
+**仍 0/2 顽固**：① 长药名 Levothyroxine（-ine 写成 -ide）、Corticosteroids（连续第 3 次多 r → corticorsteroids）② 记错词 Varices（连续第 3 次漏 c → varies）、Incapacitating（词中段崩 incapacibiliting）③ Antacids 漏做没答。
+**新词 5 个入池**：Salbutamol / Paracetamol（英式药名不认识，空白）、Furosemide（漏 sem → furoside）、Metronidazole（空白）、Anaesthetic（写 anesthetics 漏 ae——ae 规则唯一没迁移到的词 + 多复数 s）。
+新词对的 7（Warfarin、Oedema、Oesophagus、Leukaemia、Ischaemia、Paediatric、Eczema）入已测；错的 5 入回收池；池从 21 → 18。
+
+**下个动作**：Day 7 重点盯 3 类：① 长药名拆音节写——Levo-thyr-**ox**-ine（词尾 -ine 别写 -ide）、Cortico-**stero**-ids（别多 r）② 记错词 Varices（varix→varices 插 c）/ Incapacitating ③ 英式药名新记——Salbutamol / Paracetamol / Metronidazole。8 个 ✓1/2 再对一次即出池，池可望降到 ~10。
+
 ## 📖 Day 3 已测卡 ✅（2026-06-28）— 错词已转回收池，此卡留作拼写参考
 
 > **新规则起点**：20 新词（核心冲刺·考经批次 1）+ 回收池 20 词（独立混测）。加粗=最易错处。
@@ -205,6 +208,8 @@ A 组对的 10 词（nausea/appetite/constipation/palpitations/unpredictable/ult
 ## ✅ 已测词索引（防重复，英文）
 
 > 累加，每天把当日 15 词的英文加进来。
+
+Day6（8 出池 + 7 新词首测对，2026-07-01）: [出池] Hydrochlorothiazide, Cholecystitis, Asthma, Methotrexate, Conjunctivitis, Cold sores, Nappy rash, Events organiser｜[新词对] Warfarin, Oedema, Oesophagus, Leukaemia, Ischaemia, Paediatric, Eczema　（+ 新词错入池: Salbutamol, Paracetamol, Furosemide, Metronidazole, Anaesthetic）
 
 Day5（10 词出池入已测，2026-06-30）: Haemorrhage, Anaemia, Phlegm, Diverticulitis, Scarring, Numbness, Physiotherapy, Itchy, Blisters, Bloating
 
