@@ -17841,6 +17841,9 @@ type: 错题数据源
 > ## Stem 模式
 > 8 月龄男婴，3 天发热 + 拒食 + 嗜睡 + **高调哭声（high-pitched cry）**；T 40；**前囟膨隆（bulging anterior fontanelle）**；瞳孔等大反射好、眼动正常、**无局灶神经体征**；清醒、生命体征对年龄正常；血常规 + 血培养已送。问最恰当下一步。→ **腰穿（lumbar puncture, LP，D）**。
 > 
+> ![[{F01F891B-A9AB-451E-8917-4666E94D845E}.png]]
+> *Q3633 截图（UWorld）：含"细菌性脑膜炎（bacterial meningitis，>1 月龄）管理"流程图——稳定 / 无 ICP（intracranial pressure，颅内压）征 → 血培养 → 腰穿（LP）→ 经验抗生素；快速恶化 / 影像指征 → 抗生素 + 地塞米松（dexamethasone）→ CT → 稳定后 LP。*
+> 
 > ## 题干线索 → 临床意义 ⭐
 > 
 > | 题干发现 | 临床意义 |
