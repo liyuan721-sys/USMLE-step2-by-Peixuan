@@ -698,6 +698,7 @@ tag:#薄弱点 tag:#考前必看 -file:"_考前必看" -file:"复习入口_Dashb
 - [[完整笔记/专题笔记/pulmonary/pulmonary_肺栓塞PE]]（先判稳不稳 / Wells→D-dimer/CTPA / 稳的先抗凝不稳才溶栓）
 - [[完整笔记/专题笔记/pulmonary/pulmonary_气胸Pneumothorax]]（自发 vs 张力 / 过清音 + 气管偏健侧 / 针刺减压 vs 胸管阶梯）
 - [[完整笔记/专题笔记/pulmonary/pulmonary_ARDS]]（Berlin 标准 / 分流靠 PEEP / 低潮气量肺保护 + 别撤 PEEP）
+- [[完整笔记/专题笔记/眼科/眼科_青光眼]]（开角[流出↓] vs 闭角[瞳孔阻滞] / 降压药机制大全 / 两个"固定瞳孔"鉴别 / 先降压再激光虹膜切开）
 
 ### 错题与记录
 - [[错题本]]

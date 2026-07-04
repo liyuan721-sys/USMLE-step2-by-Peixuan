@@ -78,6 +78,9 @@ created: 2026-06-12
 | 诊断 | tonometry（IOP↑）、视盘 cupping、cup/disc↑ | **gonioscopy > tonometry** |
 | 治疗 | **1st: topical prostaglandin (latanoprost/bimatoprost)** + timolol（哮喘慎用）+ laser trabeculoplasty | **先降压：IV acetazolamide + timolol/pilocarpine/apraclonidine ± mannitol → laser iridotomy 根治** |
 
+> [!info] 机制深挖 → [[完整笔记/专题笔记/眼科/眼科_青光眼]]
+> 房水循环解剖、开角(流出↓)vs 闭角(瞳孔阻滞)病理、每个降压药的作用机制与陷阱、两个"固定瞳孔"与红眼横向鉴别、小儿青光眼三联征，都在该专题。
+
 ![[眼科_急性青光眼外眼.jpeg]]
 *正常眼 vs 急性闭角青光眼 (acute angle-closure glaucoma)：角膜水肿混浊 + 固定中度散大瞳 + 结膜充血。*
 
