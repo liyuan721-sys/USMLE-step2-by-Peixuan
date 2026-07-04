@@ -1008,7 +1008,7 @@ type: 备考资料
 > [!warning] 这节是干嘛的
 > **Peixuan 做 OET 听力（尤其 Part A）当场没听懂/不会写的词，随手发给 Claude Code → 自动查证 + 中英双语 + 归类 + 回填到这里。** 一天的词攒进同一批次，跨天开新的「YYYY-MM-DD 补」小批次，方便按天切块默写。**⚠️ = 拼写或含义陷阱**（英式 ae/oe、双写、同词不同义）；标「库内已有」的是原词库其它分类已收、这里只做 Part A 复习入口，别重复背。
 
-### 2026-07-04 补（8 词）
+### 2026-07-04 补（12 词）
 
 | 类别 | 中文 | English |
 |---|---|---|
@@ -1020,6 +1020,10 @@ type: 备考资料
 | 动作/短语 | 抵御、防止（疾病/攻击）；= fend off / stave off | ward off |
 | 疾病/诊断 | 坐骨神经痛（库内已有 #疾病表 Sciatica，复习即可） | sciatica |
 | 身体部位 | 锁骨（= clavicle；库内已有 Collarbone，复习即可） | collar bone |
+| 药物/物质 ⚠️ | 洛哌丁胺（= loperamide）止泻药商品名，大写 I；外周 μ-阿片受体激动剂，血便/痢疾禁用 | Imodium |
+| 症状/描述 | 喘息（哮喘标志性体征；wheeze 动词/名词，wheezing 现在分词作形容词） | wheezing |
+| 检查/操作 | 胃镜检查（lay 说法 "the tube down from the top"；库内已有 Barium enema 同场景） | gastroscopy |
+| 动作/短语 | 排气、放屁（委婉语；pass very smelly wind 排很臭的气） | pass wind |
 
 ---
 
