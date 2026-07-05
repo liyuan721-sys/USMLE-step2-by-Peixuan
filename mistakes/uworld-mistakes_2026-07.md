@@ -228,6 +228,19 @@ type: 错题数据源
 > [!example]- [2026-07-03] 皮肤 / 婴儿血管瘤 Infantile hemangioma (Q4404)
 > ^Q4404
 > 
+> ![[{12DD6FDE-D5D4-4551-B2C3-65432B670500}.png]]
+> 儿童常见血管性病变对照：**Nevus flammeus 鲜红斑痣 (port-wine stain)**（红紫斑、不退、过中线）/ **Nevus simplex 单纯痣（salmon patch 鲑鱼斑）**（褪色、自消）/ **Hemangioma 血管瘤**（鲜红隆起、增生后消退）。
+> ![[{8DC81B2F-CE57-4F12-8D1A-652D63C6BC54}.png]]
+> β 受体阻滞剂 (beta blocker，如 propranolol 普萘洛尔) 治疗指征：毁容 / 溃疡 / 致残（眼睑血管瘤致斜视）/ 危及生命（气管病灶）的复杂血管瘤——收缩血管 + 抑制生长因子促消退。
+> ![[{1747AB96-8F35-4A94-AFDA-37ED5B0AEF09}.png]]
+> 干扰·樱桃状血管瘤 (cherry angioma)：**成人**躯干鲜红小丘疹，随龄增多（非婴儿快速增大）。
+> ![[{47F2188A-BC88-4C4D-8E6D-C211A1129D91}.png]]
+> 干扰·鲜红斑痣 (nevus flammeus / port-wine stain)：出生即有的可褪色红斑，**永不消退**。
+> ![[{5D87B34F-197E-4B8C-A562-363B4ABC0EA1}.png]]
+> 干扰·单纯痣 (nevus simplex / salmon patch, stork bite)：眼睑/眉间/项部褪色粉斑，多 1-2 岁自消。
+> ![[{B6B8DEA9-EAB8-4EEE-9F56-AFE00DC38778}.png]]
+> 干扰·化脓性肉芽肿 (pyogenic granuloma)：鲜红圆顶丘疹、易出血、**不消退**。
+> 
 > ## Stem 模式
 > 5 月龄女婴臀部皮损；**生后数周**现小红斑（被当虫咬），外用氢化可的松无效，**近 2 月进行性增大**；图 = 鲜红隆起斑块。
 > 
@@ -355,6 +368,13 @@ type: 错题数据源
 > [!example]- [2026-07-03] 皮肤 / 扁平苔藓（反复错 R2）Lichen planus (Q16404-R0703)
 > ^Q16404-R0703
 > 
+> ![[{C76CB94D-BAD2-4BD3-8649-B2647519C667}.png]]
+> 扁平苔藓 (lichen planus, LP) 腕部（标注）：**瘙痒、紫色 (violaceous)、多角形丘疹 (pruritic purple polygonal papules)**——5P 经典指纹。
+> ![[{C9A3A594-0AFC-43B9-AA63-065DCA837434}.png]]
+> 干扰·LP 累及足底：扁平、多角形丘疹/斑块；与跖疣 (plantar wart) 区别在**紫色 + 瘙痒**。
+> ![[{A2C6F30E-39A0-4D1C-981F-096DE31E39CE}.png]]
+> 干扰·传染性软疣 (molluscum contagiosum，痘病毒)：圆顶、粉/肤色、**中央脐凹 (central umbilication)** 丘疹——本例无。
+> 
 > ## 反复错追踪
 > - **本次（2026-07-03）又错**：选了 **C（Erythema multiforme 多形红斑）**；上次（2026-06-29）选 **B（Dermatitis herpetiformis）**——**两次不同错法** = 整个丘疹鳞屑鉴别仍混乱。
 > - **反射未建立点**：紫色多角形痒丘疹的 **5P** 没形成反射。
@@ -458,6 +478,11 @@ type: 错题数据源
 > [!success]- [2026-07-03] ✅做对 皮肤 / 变应性接触性皮炎 ACD（记忆 T 细胞）(Q20937)
 > ^Q20937
 > 
+> ![[{BD49F6D6-4B76-4F26-85AB-9BA12002F99D}.png]]
+> 急性变应性接触性皮炎 (allergic contact dermatitis, ACD)：接触 *Rhus* 毒漆植物（poison ivy 毒常春藤）后**线状排列**的痒性红斑 + 水疱。
+> ![[{CA8F02F9-7CCC-43B2-841C-F18DB28FBBDC}.png]]
+> 干扰·镍接触性皮炎（慢性）：低水平长期接触过敏原（如镍质衣扣）→ 鳞屑、**苔藓化 (lichenification)**、皲裂。
+> 
 > ## Stem 模式
 > 21 岁女露营 / 徒步（科罗拉多）后**上肢 + 躯干痒性红疹 → 小疱**；自述**跌入灌木 + 数处虫咬**；问皮损最可能的**病因机制**。
 > 
@@ -507,6 +532,11 @@ type: 错题数据源
 > ## Stem 模式
 > 16 岁女**上臂后侧** 3 年小"痘"，**冬季轻痒**，无症状但在意外观（穿短袖时），问诊断。
 > ![[{2D2688D1-19D4-45BF-AF77-7DFB1DDD67F2}.png]]
+> ![[{1A68F2DE-738E-45E2-9D0C-9396EAA901D1}.png]]
+> 毛周角化症 (keratosis pilaris, KP) 上臂后侧：**毛囊性丘疹 + 毛周红斑 (follicular papules with perifollicular erythema)**（标注）。
+> ![[{CBE269E8-EA8A-4D2D-B40D-97891A6215D6}.png]]
+> KP 特写：密集**毛囊角栓 (follicular keratin plugs)** 呈"鸡皮"样粗糙。
+> 
 > ## 核心概念
 > **Keratosis pilaris 毛周角化症 (KP)** = 毛囊内**角栓潴留 (retained keratin plugs)**，表现小**毛囊性丘疹 + 粗糙 + 毛周红斑**。
 > 
@@ -725,6 +755,11 @@ type: 错题数据源
 > [!example]- [2026-07-04] 眼科 / 婴儿鼻泪管阻塞 vs 泪囊炎 (Q17225)
 > ^Q17225
 > 
+> ![[{9E56036F-30F1-46B7-9C35-1CABEA5D5EDD}.png]]
+> 鼻泪管阻塞 (nasolacrimal duct obstruction, NLDO / dacryostenosis 鼻泪管狭窄) 解剖：正常泪液引流 vs 远端阻塞 → 泪液淤滞、溢泪 + 黏液分泌。
+> ![[{12903569-6C15-4C89-8E09-B5A662B5892E}.png]]
+> NLDO 临床（标注）：**结膜清亮 (clear conjunctiva)** + 溢泪 (tearing) + **少量黏液分泌 (scant mucoid discharge)**——无充血是与结膜炎/泪囊炎的分界。
+> 
 > ## Stem 模式
 > 2 周龄男婴，数日来晨起单眼睫毛结痂粘住、易清理，结膜双侧清亮，脸/下睑几条线状抓痕，荧光素在角膜结膜均匀分布。
 > 
@@ -773,6 +808,13 @@ type: 错题数据源
 
 > [!example]- [2026-07-04] 眼科 / 外麦粒肿 → 热敷 (Q2374)
 > ^Q2374
+> 
+> ![[{85A4EB17-6BD6-42A7-B87F-28E41F9F53CE}.png]]
+> 外麦粒肿 (external hordeolum / stye 睑腺炎)：睑缘红肿触痛结节——Zeis 腺/睫毛毛囊急性炎症（*S. aureus* 金黄色葡萄球菌或无菌）。
+> ![[{FA46D5A6-FF2E-46A7-BB9B-8424032311CE}.png]]
+> 干扰·眶隔前蜂窝织炎 (preseptal cellulitis)：眶隔前眼睑感染，**弥漫**红肿 + 发热 + 白细胞增多 → 口服抗生素（如 doxycycline 多西环素）。
+> ![[{A64B4195-06A2-47D0-9250-D904E5572EC6}.png]]
+> 干扰·病毒性角膜炎 (viral keratitis)：单纯疱疹病毒 (herpes simplex virus, HSV) / 水痘带状疱疹病毒 (varicella zoster virus, VZV) → 角膜水疱、混浊、**树枝状溃疡 (dendritic ulcer)**；治 topical ganciclovir 更昔洛韦 / trifluridine 曲氟尿苷。
 > 
 > ## Stem 模式
 > 33 岁男，右下睑痛性红肿结节 2 天，睑缘局限触痛，无结膜充血、无分泌物、视力正常；问初始处理。
