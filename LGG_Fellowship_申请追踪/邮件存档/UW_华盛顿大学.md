@@ -12,6 +12,7 @@ status: 已发送-等回复
 
 ## 项目速查（2026-07-05 官网实时核实 ✅）
 
+- **所属科室**：Department of Laboratory Medicine and Pathology（DLMP，检验医学与病理科）
 - **招生**：2027–2029 cohort，**July 2027 入学**，正在招
 - **窗口**：2026/3/1 – **8/1**（今天 7/5，窗口开着）
 - **投递**：UW Fellowship 在线系统（Fellowship Program 下拉选 Laboratory Genetics and Genomics），上传 CV + PS + transcripts

@@ -3,7 +3,7 @@ title: Greenwood Genetic Center（南卡罗来纳）— LGG 申请邮件存档
 type: 申请邮件存档
 school: Greenwood Genetic Center
 created: 2026-07-05
-status: 待发送
+status: 已发送-等回复
 ---
 
 # Greenwood Genetic Center（南卡罗来纳，SC）— LGG 申请邮件存档
@@ -12,6 +12,7 @@ status: 待发送
 
 ## 项目速查（2026-07-05 官网实时核实 ✅）
 
+- **所属科室**：Greenwood Genetic Center（独立的非营利医学遗传中心，非医院科室；诊断实验室含细胞遗传/分子遗传）
 - **学制**：36 个月（July 2027 入学 → 2027–2030）
 - **截止**：入学前一年 **8/1** → July 2027 对应 **2026/8/1**（窗口开着，和 UW 同日截止）
 - **名额**：官网写 **variable（可变，某些年不招）** → **必须先发信问 2027 是否开放**
@@ -30,9 +31,9 @@ status: 待发送
 
 ## 邮件往来
 
-### ① 询问信 + 索取申请表（待发送）
+### ① 询问信 + 索取申请表（已发送）
 
-- **状态**：⬜ 待发送　→　发送日期：______
+- **状态**：📤 已发送，等回复　→　发送日期：**2026-07-05**
 - **收件人**：lmt@ggc.org（Leta Tribble, PhD）
 - **主题**：Prospective applicant — LGG Fellowship (July 2027 start) & application form request
 - **附件**：CV（`Desktop\step2报名\YUAN LI's CV-MD-2026.docx`）+ ABMGG 信（`Desktop\LGG报名\Li, Yuan LGG-2026.pdf`）
