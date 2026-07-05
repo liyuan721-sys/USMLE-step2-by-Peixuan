@@ -23,14 +23,14 @@ type: 听力PartA实战
 
 **题头**: Extract 1, questions 1 to 12. For questions 1 to 12, complete the notes with a word or short phrase. You now have 30 seconds to look at the notes.
 
-**D (Dr Dixon)**: Good morning, Mr Bloomfield. My name's Dr Dixon. I'm a locum GP standing in for Dr Wright. What can we do for you?
+**D (Dr Dixon)**: Good morning, Mr Bloomfield. My name's Dr Dixon. I'm a <font color="#ff0000">locum GP</font> <font color="#ff0000">standing in for</font> Dr Wright. What can we do for you?
 **P**: I've been having some problems with my breathing.
 **D**: Can you tell me a little bit more about this?
-**P**: Well, I keep getting breathlessness and wheezing in my chest. It all started about three weeks ago, and I've been coughing a lot with it, some white phlegm. I thought it might be a cold coming on, but then after about another week I started finding it more and more difficult to catch my breath.
-**D**: Right, so you've had the wheezing and the breathlessness for roughly three weeks?
-**P**: Yes, give or take a day.
-**D**: And do you get these bouts of wheezing and shortness of breath every day?
-**P**: No, they come and go.
+**P**: Well, I keep getting breathlessness and <font color="#ff0000">wheezing</font> in my chest. It all started about three weeks ago, and I've been coughing a lot with it, some white <font color="#ff0000">phlegm</font>. I thought it might be a cold coming on, but then after about another week I started finding it more and more difficult to catch my breath.
+**D**: Right, so you've had the <font color="#ff0000">wheezing</font> and the breathlessness for roughly three weeks?
+**P**: Yes, <font color="#ff0000">give or take</font> a day.
+**D**: And do you get these <font color="#ff0000">bouts of</font> <font color="#ff0000">wheezing</font> and shortness of breath every day?
+**P**: No, they <font color="#ff0000">come and go</font>.
 **D**: How frequently do you get them?
 **P**: The first week there was only one, I think, and then they started getting worse — three, four times a week. It's not being able to get my breath that's really worrying.
 **D**: And so the attacks, have they increased in the past two weeks?
@@ -46,9 +46,9 @@ type: 听力PartA实战
 **D**: Was that the worst so far?
 **P**: Yeah.
 **D**: And have you had anything else with it?
-**P**: I felt a bit tight across the chest.
+**P**: I felt a bit <font color="#ff0000">tight across the chest</font>.
 **D**: Any pain with it?
-**P**: No, just tightness.
+**P**: No, just <font color="#ff0000">tightness</font>.
 **D**: Are you aware of anything that triggers the attacks?
 **P**: Like what?
 **D**: Well, dust, feathers, new carpets?
@@ -66,12 +66,12 @@ type: 听力PartA实战
 **D**: Everything okay at home?
 **P**: Yeah, things are fine.
 **D**: And what about work? I see you're a civil servant. Any stress or problems at work or anything like that?
-**P**: Work's been getting me down recently.
+**P**: Work's been <font color="#ff0000">getting me down</font> recently.
 **D**: In what way?
-**P**: Well, there's been a lot of changes going on recently, and I suppose I'm a bit anxious what with the mortgage and that.
+**P**: Well, there's been a lot of changes going on recently, and I suppose I'm a bit anxious <font color="#ff0000">what with the mortgage and that</font>.
 **D**: Hmm, and this has been getting to you?
 **P**: Yes, more and more.
-**D**: I see. And does the wheezing etc. continue over the weekends?
+**D**: I see. And does the <font color="#ff0000">wheezing</font> etc. continue over the weekends?
 **P**: Um, no. When I come to think about it, it doesn't.
 **D**: Okay. Some general questions. Have you ever had anything like this before?
 **P**: No, never.
@@ -79,7 +79,7 @@ type: 听力PartA实战
 **P**: No, nothing like that. This is the first time I've been ill in my life.
 **D**: Has anyone in your family had anything similar?
 **P**: No, not as far as I know.
-**D**: What about eczema? Anyone in your family with that?
+**D**: What about <font color="#ff0000">eczema</font>? Anyone in your family with that?
 **P**: Both my sister and my mother have it.
 
 ### 1.2 Q1–12 答案与分析
@@ -120,32 +120,32 @@ type: 听力PartA实战
 **D**: Okay, that's fine. Okay, so Barbara, I'm seeing you today, but I think it's usually Dr Brown that sees you, is that right?
 **P**: Yes, Dr Brown's my doctor.
 **D**: Okay. What is it that's brought you to see me today?
-**P**: Well, I've come about my tummy problem. I've got terrible trouble with my stomach, and Dr Brown just doesn't seem to be able to get to the bottom of it, and I thought perhaps I'd come and see you, to see if you could help.
-**D**: Right, okay. Can you tell me a bit more about your tummy problems?
-**P**: Well, I have this terrible discomfort nearly all the time. It very often feels bloated. I swing between being constipated and having diarrhoea. I have sort of cramping feelings sometimes, and other times it stabs — it's a real stabbing feeling. I often have the urge to go to the toilet, and I pass very smelly wind.
+**P**: Well, I've come about my <font color="#ff0000">tummy</font> problem. I've got terrible trouble with my stomach, and Dr Brown just doesn't seem to be able to <font color="#ff0000">get to the bottom of it</font>, and I thought perhaps I'd come and see you, to see if you could help.
+**D**: Right, okay. Can you tell me a bit more about your <font color="#ff0000">tummy</font> problems?
+**P**: Well, I have this terrible discomfort nearly all the time. It very often feels <font color="#ff0000">bloated</font>. I swing between being <font color="#ff0000">constipated</font> and having <font color="#ff0000">diarrhoea</font>. I have sort of <font color="#ff0000">cramping</font> feelings sometimes, and other times it <font color="#ff0000">stabs</font> — it's a real <font color="#ff0000">stabbing</font> feeling. I often have the urge to go to the toilet, and I <font color="#ff0000">pass very smelly wind</font>.
 **D**: So quite a few symptoms there, and some of them sound quite troublesome to you.
 **P**: Yes.
 **D**: Okay. And how long has this been going on?
-**P**: Well, I've traced it back to a holiday I had in Egypt about four years ago. I had a horrible bout of sickness and diarrhoea.
+**P**: Well, I've traced it back to a holiday I had in Egypt about four years ago. I had a horrible <font color="#ff0000">bout of</font> sickness and <font color="#ff0000">diarrhoea</font>.
 **D**: And what sort of treatments have you tried for this before?
-**P**: Well, Dr Brown gave me some muscle relaxants at the beginning, but I've been to the health shop and they've been really helpful — they've given me lots of different tablets and medicines for different things. ... Oh, and Imodium. I have Imodium in my handbag all the time, just in case.
+**P**: Well, Dr Brown gave me some <font color="#ff0000">muscle relaxants</font> at the beginning, but I've been to the health shop and they've been really helpful — they've given me lots of different tablets and medicines for different things. ... Oh, and <font color="#ff0000">Imodium</font>. I have <font color="#ff0000">Imodium</font> in my handbag all the time, just in case.
 **D**: So these different tablets that you've got from the herbal shop — how are you taking them? ... What about tests? Have you had any tests for these problems?
-**P**: Yes, in the early days I had a gastroscopy.
-**D**: Was that the tube down from the top?
-**P**: (Yes.) And at the same time I had a barium enema. That was very uncomfortable.
+**P**: Yes, in the early days I had a <font color="#ff0000">gastroscopy</font>.
+**D**: Was that <font color="#ff0000">the tube down from the top</font>?
+**P**: (Yes.) And at the same time I had a <font color="#ff0000">barium enema</font>. That was very uncomfortable.
 **D**: Right. Okay. Well, it sounds like you've had these problems now for about four years. You've got a lot of various symptoms in your stomach, you've tried a lot of tablets — some prescribed, some herbal remedies — and you've had some investigations, but you're not entirely happy that you've been investigated thoroughly enough. Is that — have I got the story right?
 **P**: I'd say so, yes.
 **D**: And I know you've been seeing Dr Brown about this for the last few years. What is it that he's said he thinks might be wrong with you?
-**P**: Well, he thinks it's all in my head, you know. I mean, it can't all be in my head — I get too much physical pain for it to be in my head. I mean, it's real. It's a real pain.
+**P**: Well, he thinks it's <font color="#ff0000">all in my head</font>, you know. I mean, it can't all be in my head — I get too much physical pain for it to be in my head. I mean, it's real. It's a real pain.
 **D**: And have you had any thoughts yourself about what you think might be causing it?
-**P**: Well, I mean, I did think that perhaps it was an infection that hadn't cleared up, in the early stages. But sometimes I think it's IBS — a friend of mine's got that and it sounds similar. And then other times I'll think, I wonder if it's an ulcer. On a really bad day I start to think it might be cancer.
-**D**: Right. Given that we've tried medication for you and we've tried investigations, and we've drawn a blank really with those — none of those have really helped you.
+**P**: Well, I mean, I did think that perhaps it was an infection that hadn't cleared up, in the early stages. But sometimes I think it's IBS — a friend of mine's got that and it sounds similar. And then other times I'll think, I wonder if it's an <font color="#ff0000">ulcer</font>. On a really bad day I start to think it might be cancer.
+**D**: Right. Given that we've tried medication for you and we've tried investigations, and we've <font color="#ff0000">drawn a blank</font> really with those — none of those have really helped you.
 **P**: No.
 **D**: I guess I'm wondering whether now it would be a good idea to try a different approach to your problems.
 **P**: Oh, I don't know. I don't know...
-**D**: And I guess what I'd be wondering is whether one of the approaches we need to be using now is thinking about what you do with your life and what you do with your day, and maybe trying to bring back some of those pleasurable things — you know, even if it's just meeting up with your female friends once a week — and whether actually doing those sorts of things might generally improve your quality of life. I'm also thinking about the tablets that you're taking, and the fact that you seem to be taking quite a lot of them, and wondering whether it's worth us sitting and looking at them, and maybe trying to rationalise them a little bit, and really decide which are helping you, which are doing nothing, and which may actually be making some of your symptoms worse. What would you think about trying that slightly different approach for, say, two or three months, just to see whether or not it makes any difference?
-**P**: Well, two or three months is a long time if there is something going on. I mean, that's what happened to my mother-in-law. You know, they left her and didn't spot it and...
-**D**: Well, I guess if we did decide to work together like this — this new approach — I'd be seeing you regularly. We can keep an eye on your symptoms, and if they change, then we can investigate as appropriate. But if they stay the same, then, you know, we could be pretty clear that there's nothing new happening that we're missing.
+**D**: And I guess what I'd be wondering is whether one of the approaches we need to be using now is thinking about what you do with your life and what you do with your day, and maybe trying to bring back some of those pleasurable things — you know, even if it's just meeting up with your female friends once a week — and whether actually doing those sorts of things might generally improve your quality of life. I'm also thinking about the tablets that you're taking, and the fact that you seem to be taking quite a lot of them, and wondering whether it's worth us sitting and looking at them, and maybe trying to <font color="#ff0000">rationalise</font> them a little bit, and really decide which are helping you, which are doing nothing, and which may actually be making some of your symptoms worse. What would you think about trying that slightly different approach for, say, two or three months, just to see whether or not it makes any difference?
+**P**: Well, two or three months is a long time if there is something going on. I mean, that's what happened to my mother-in-law. You know, they left her and didn't <font color="#ff0000">spot it</font> and...
+**D**: Well, I guess if we did decide to work together like this — this new approach — I'd be seeing you regularly. We can <font color="#ff0000">keep an eye on</font> your symptoms, and if they change, then we can investigate as appropriate. But if they stay the same, then, you know, we could be pretty clear that there's nothing new happening that we're missing.
 
 ### 2.2 Q13–24 答案与分析
 
