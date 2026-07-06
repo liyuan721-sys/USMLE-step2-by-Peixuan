@@ -18,7 +18,7 @@ parent_topic: 咯血 hemoptysis 病因鉴别 + 遗传性出血性毛细血管扩
 > - **HHT** = hereditary hemorrhagic telangiectasia 遗传性出血性毛细血管扩张症（= Osler-Weber-Rendu 综合征）
 > - **AVM** = arteriovenous malformation 动静脉畸形
 > - **GPA** = granulomatosis with polyangiitis 肉芽肿性多血管炎
-> - **GN** = glomerulonephritis 肺小球肾炎
+> - **GN** = glomerulonephritis 肾小球肾炎
 > - **TB** = tuberculosis 结核
 > - **GI** = gastrointestinal 胃肠道
 > - **CVA** = cerebrovascular accident 脑血管意外

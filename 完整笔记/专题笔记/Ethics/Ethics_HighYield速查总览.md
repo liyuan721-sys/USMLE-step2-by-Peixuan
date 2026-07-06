@@ -85,7 +85,7 @@ type: 专题笔记
 
 > [!warning] CK 高频陷阱（Capacity）
 > - 病人做了你觉得"非理性 / 不对"的决定（如 Jehovah's Witness 耶和华见证人拒输血、老人拒化疗）→ **不要立刻判 incapacity**，先评估 4 要素；符合就**尊重**。
-> - **自杀念头（suicidal）的患者视为 lack capacity** → 不可让其离开，必要时非自愿留观（involuntary hold）。
+> - **有自杀意念（suicidal）的患者，在"拒绝防自伤 / 救命干预"这一决定上视为缺 capacity** → 不可让其离开，必要时非自愿留观（involuntary hold）。（capacity 是**决策特异性**的，不等于对一切医疗决定一律无能力。）
 > - Capacity 是**动态**的：暂时谵妄 / 醉酒 / 镇静恢复后可重评 → surrogate 决定权**不是永久标签**（详见 🧩 + 错题 Q19048）。
 
 ### 2.2 Surrogate（代理决策）顺序 + 决策标准
@@ -287,7 +287,7 @@ STDs/STI 检查与治疗   ← 所有州
 |---|---|
 | **Voluntary（自愿）** | 必须基于自愿同意 |
 | **Cannot be sold（不可买卖）** | 商业化器官交易违法 |
-| **Family has final say** | 即使病人生前同意，家属仍有最终决定权 |
+| **第一人授权优先（first-person authorization）** | 死者生前已登记/明确表达捐献（驾照/州登记）= **法律绑定，家属无权否决**；**仅当死者未表达意愿时**，才由近亲属决定 |
 | **团队分离** | 治疗团队 ≠ 器官获取团队（OPO，Organ Procurement Organization）；**不能因器官需求提前终止治疗** |
 | **死亡判定在先** | 必须先确诊死亡（含脑死亡），才谈捐献 |
 

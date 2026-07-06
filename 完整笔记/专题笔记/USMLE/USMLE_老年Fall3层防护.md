@@ -272,8 +272,8 @@ PPV = TP / (TP + FP)
 | 工具 | 用途 | 触发 |
 |---|---|---|
 | **FRAX** | 10-year major osteoporotic fracture risk 评估（基于 clinical risk factors）| Postmenopausal women / men 50+ + fall risk |
-| **DEXA** | 骨密度 T-score 测量；osteoporosis 诊断（T ≤ -2.5）| FRAX 提示 + 全 65+ women / 70+ men |
-| **Bisphosphonate**（alendronate / risedronate / zoledronic acid）| Osteoporosis 一线治疗 | **10-year major fracture risk >2.5%** 或 T ≤ -2.5 |
+| **DEXA** | 骨密度 T-score 测量；osteoporosis 诊断（T ≤ -2.5）| **全 65+ women = USPSTF 明确推荐**；70+ men 属 NOF/ISCD（USPSTF 对男性未明确推荐，别在"USPSTF 立场"题上踩） |
+| **Bisphosphonate**（alendronate / risedronate / zoledronic acid）| Osteoporosis 一线治疗 | **10 年髋部骨折 ≥3% 或 major osteoporotic 骨折 ≥20%**（FRAX）或 T ≤ -2.5 |
 
 ### 6.2 决策树
 
@@ -282,7 +282,7 @@ Post-fall 老人
   ├─ Primary prevention 已实施（exercise + home safety + medication review）
   └─ 问"额外 reduce serious injury"
        ↓
-  Bone density 优化（FRAX → DEXA → bisphosphonate if risk >2.5%）
+  Bone density 优化（FRAX → DEXA → bisphosphonate if 髋≥3% / major≥20%）
        ↓
   减 hip fracture
        ↓
@@ -357,7 +357,7 @@ Stem 关键词 → 0.3 秒锁的答案
 > [!success]
 > - **"老年 Fall 3 层：发生 (primary) → severity (secondary) → recovery (tertiary)"**
 > - **"Reduce serious fall injury = reduce hip fracture = optimize bone density"**
-> - **"FRAX >2.5% → DEXA → bisphosphonate"**
+> - **"FRAX（髋≥3% / major≥20%）→ DEXA → bisphosphonate"**
 > - **"Multifactorial 7 维：Vision + Hearing + Proprioception + Strength + Medication + Home safety + Bone density"**
 > - **"Age → proprioception ↓ → vision reliance ↑ → vision deficit = 高 fall risk"**
 > - **"反 pattern 4 联：call alarm / hip protector / stop anticoag / cane for fear"**

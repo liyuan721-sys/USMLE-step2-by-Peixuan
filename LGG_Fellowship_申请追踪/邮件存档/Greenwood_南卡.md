@@ -3,7 +3,7 @@ title: Greenwood Genetic Center（南卡罗来纳）— LGG 申请邮件存档
 type: 申请邮件存档
 school: Greenwood Genetic Center
 created: 2026-07-05
-status: 已发送-等回复
+status: 已回复-可申请（2027开放·符合资格·已收申请表）
 ---
 
 # Greenwood Genetic Center（南卡罗来纳，SC）— LGG 申请邮件存档
@@ -64,6 +64,41 @@ status: 已发送-等回复
 
 ### 回复记录
 
-- **日期**：______
-- **内容**（2027 是否开放 / 是否符合 / 申请表 / 其他材料）：______
-- **下一步**：______
+- **日期**：**2026-07-06**
+- **回信人**：Leta M. Tribble, PhD（协调员，lmt@ggc.org；地址 101 Gregor Mendel Circle, Greenwood）
+- **内容**（原文三点回答）：
+  1. ✅ **目前正在接收 2027 入学（July 2027 start）的申请** → 本轮开放
+  2. ✅ **符合申请资格**（"Yes, you are eligible to apply"）— 未质疑资格
+  3. ✅ **随信附上申请表**（application form 附件）→ ⏬ 需下载填写
+- **下一步**：
+  - [ ] 保存申请表附件到 `Desktop\LGG报名\Greenwood\`（或 vault 存档）
+  - [ ] 回信致谢 + 表达继续申请意向（见下方 ② 回复草稿）
+  - [ ] 填写申请表 + 备齐 CV / statement of intent / **3 封推荐信**（电子 + 签名纸质双份）
+  - [ ] 确认截止（官网 8/1；July 2027 对应 **2026/8/1**）→ 抓紧约推荐人，留足打印手签邮寄时间
+  - [ ] 回信里顺便问：电子版推荐信能否先受理、纸质随后补（截止前排期用）
+
+### ② 回复致谢信（待发送）
+
+- **状态**：📝 草稿，待发送
+- **收件人**：lmt@ggc.org（Leta M. Tribble, PhD）
+- **主题**：Re: LGG Fellowship — thank you & application form received
+
+**正文：**
+
+> Dear Dr. Tribble,
+>
+> Thank you very much for your prompt reply and for confirming my eligibility. I am delighted to hear that Greenwood Genetic Center is accepting applications for the July 2027 start, and I appreciate you sending the application form.
+>
+> I am very enthusiastic about the opportunity to train at Greenwood, and I will complete the application form and prepare my supporting materials — CV, statement of intent, and three letters of recommendation — for submission.
+>
+> To help me plan accordingly, I would be grateful if you could confirm two points:
+>
+> 1. Is there a specific deadline for the July 2027 cycle that I should aim for?
+> 2. For the letters of recommendation, would e-mailed copies be accepted for initial review, with signed hard copies to follow by mail?
+>
+> Thank you again for your time and guidance. I look forward to submitting my application.
+>
+> Sincerely,
+> Yuan Li, MD
+> (424) 206-0307
+> liyuan721@gmail.com

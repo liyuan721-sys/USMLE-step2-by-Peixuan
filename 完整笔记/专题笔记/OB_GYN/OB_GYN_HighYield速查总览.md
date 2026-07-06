@@ -109,7 +109,7 @@ HELLP (溶血 Hemolysis / 肝酶↑ Elevated LFTs / 血小板↓ Low platelets)
 > [!danger] 硫酸镁中毒 (magnesium toxicity) 阶梯 + 解药
 > 轻度：恶心/潮红/头痛 + **腱反射减弱 (hyporeflexia)** → 中度：**腱反射消失 (areflexia)** + 低钙 + 嗜睡 → 重度：**呼吸麻痹 / 心脏骤停**。
 > **处理：停镁 + IV 葡萄糖酸钙 (calcium gluconate) bolus**。
-> 机制：镁竞争性拮抗钙 → 抑制突触前乙酰胆碱释放（∴ **重症肌无力 myasthenia gravis 绝对禁用**，改用丙戊酸 valproic acid）。
+> 机制：镁竞争性拮抗钙 → 抑制突触前乙酰胆碱释放（∴ **重症肌无力 myasthenia gravis 绝对禁用**，避镁改用**左乙拉西坦 levetiracetam 或苯二氮䓬类 benzodiazepine**；⚠️ 丙戊酸 valproic acid 孕期致畸，非此处替代）。
 > **降压安全药**：拉贝洛尔 labetalol / 肼屈嗪 hydralazine / 硝苯地平 nifedipine / 甲基多巴 methyldopa。
 
 🧩 子痫前期呼吸鉴别等深挖见分科笔记原文（OB.md 892 行起）
@@ -120,10 +120,10 @@ HELLP (溶血 Hemolysis / 肝酶↑ Elevated LFTs / 血小板↓ Low platelets)
 
 - **妊娠剧吐 (hyperemesis gravidarum)**：顽固呕吐 + 体重↓ + 酮症/电解质紊乱 → 补液 + 止吐。
 - **妊娠期糖尿病 (GDM, gestational diabetes)**
-  - **筛查**：**28 周**（高危更早）。激素元凶 = **人胎盘催乳素 (hPL, human placental lactogen)**。
+  - **筛查**：**24–28 周**（高危更早）。激素元凶 = **人胎盘催乳素 (hPL, human placental lactogen)**。
   - 检测：**1 小时葡萄糖耐量 (1-hr GTT) 最敏感** → **3 小时 GTT 最特异**确诊。
   - 管理：轻 → 生活方式；重 → **胰岛素 (insulin)** + 生活方式（口服降糖一般不用）。
-  - **产后 1 个月查 2 小时糖耐量**（排查显性糖尿病）。
+  - **产后 4–12 周查 75g 2 小时糖耐量**（排查显性糖尿病）。
 
 ---
 
@@ -131,7 +131,7 @@ HELLP (溶血 Hemolysis / 肝酶↑ Elevated LFTs / 血小板↓ Low platelets)
 
 > [!tip] NST / BPP / CST
 > - **无应激试验 (NST, nonstress test)**：**有反应 (reactive) = 2 次加速 (accelerations)**。无反应 → 声振刺激 → BPP。
-> - **生物物理评分 (BPP, biophysical profile)** 4 项 + NST：胎动 / 张力 / 呼吸 / 羊水。**8 = 正常**；2–8 = 复查；**<2 → 宫缩应激试验 (CST)**。
+> - **生物物理评分 (BPP, biophysical profile)** 4 项 + NST（满分 10）：胎动 / 张力 / 呼吸 / 羊水。**8–10 = 正常**；**6 = 可疑（24h 复查）**；**≤4 → 考虑分娩（或 CST 宫缩应激试验）**。
 > - **宫缩应激试验 (CST, contraction stress test)**：用缩宫素；**阳性 (late decels) = 紧急分娩**。
 
 **减速类型（VEAL CHOP 逻辑）**
@@ -205,7 +205,7 @@ HELLP (溶血 Hemolysis / 肝酶↑ Elevated LFTs / 血小板↓ Low platelets)
 
 - **保胎 (tocolysis, <32 周)**：争取糖皮质激素促肺成熟窗口。
 - **GBS（B 族链球菌 group B strep）**
-  - **筛查 35–37（源文件 37–38）周**；阳性 → **产时青霉素 (intrapartum penicillin)**（替代：头孢唑林 cefazolin / 克林霉素 / 红霉素）。
+  - **筛查 36–37⁺⁶ 周**（现行 ACOG/CDC；旧版 35–37 已废）；阳性 → **产时青霉素 (intrapartum penicillin)**（替代：头孢唑林 cefazolin / 克林霉素 / 红霉素）。
   - **自动经验性治疗**（不需培养）：既往 GBS 患儿、产时状态不明、**破膜 ROM >18 h**、母体发热。
 - **羊水异常**：羊水过多 (polyhydramnios) ← 胎儿消化道梗阻，风险 = 早产；羊水过少 (oligohydramnios) ← 肾发育问题，风险 = **肺发育不良 (pulmonary hypoplasia)**。
 

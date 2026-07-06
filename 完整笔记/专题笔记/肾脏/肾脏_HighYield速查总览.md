@@ -139,8 +139,9 @@ Step 1：看 ECV（容量状态）
   高容量 → 心衰 HF / 肝硬化 / 肾综（有效循环↓ → 抗利尿激素 ADH 开）
 ```
 
-> [!danger] 纠钠红线（双向）
-> ΔNa ≤ 0.5 mEq/L/hr ≈ ≤ 10–12 mEq/L/day。
+> [!danger] 纠钠红线（双向，方向不同数值不同）
+> **纠正低钠（升 Na）：≤8 mEq/L/24h**（慢性；ΔNa ≤0.5/hr）——防 ODS。
+> **纠正高钠（降 Na）：≤10–12 mEq/L/day**——防脑水肿。
 > **Low to High, your pons will die**（低钠补太快 → 渗透性脱髓鞘 ODS / 桥脑）；**High to Low, your brain will blow**（高钠降太快 → 脑水肿）。
 > 重症（Na<120 或 seizure / 重度意识障碍）→ **3% 高张盐水**（NS 反加重，HCO3 无效）。
 
@@ -302,7 +303,7 @@ Step 1：看 ECV（容量状态）
 - [ ] 默写"AIN = WBC casts + 嗜酸 vs DIL = RBC casts"分水岭
 - [ ] 默写肾炎 vs 肾病分型 + 低补体 5 病 vs 补体正常 2 病
 - [ ] 默写高钾三级火箭（钙 → 胰岛素 → 排 K）+ ECG 进展口诀
-- [ ] 默写纠钠红线（≤10–12 mEq/L/d）+ ODS 口诀 + 重症 = 3% 盐水
+- [ ] 默写纠钠红线（升低钠 ≤8/24h；降高钠 ≤10–12/d）+ ODS 口诀 + 重症 = 3% 盐水
 - [ ] 默写 RTA 三型（pH>5.5 远端 / 近端 / Type4 高钾）+ Winters 公式
 - [ ] 默写结石 5 型 pH 方向（尿酸/胱氨酸酸性石 → 碱化尿；struvite 碱性）
 - [ ] 默写移植肾 RAS = ACEI 后 Cr↑ → 停药 + Doppler（不加量）

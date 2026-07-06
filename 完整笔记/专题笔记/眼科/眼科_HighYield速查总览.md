@@ -210,13 +210,13 @@ Meyer's loop/颞叶 ── 对侧上象限盲 "Pie in the sky"
 
 | 时间窗 | 病因 | 治疗 |
 |---|---|---|
-| **0–24h** | Chemical conjunctivitis | 冲洗 |
-| **第 1 周** | **Gonococcal 淋球菌** | **Ceftriaxone** |
-| **第 2 周** | **Chlamydial 衣原体** | **Azithromycin** |
-| **第 3 周** | **HSV**（伴头皮病灶线索） | **Acyclovir** |
+| **<24h** | Chemical 化学性 | 人工泪液 / 冲洗 |
+| **2–5 天** | **Gonococcal 淋球菌** | **头孢曲松 ceftriaxone**（高胆红素婴儿改头孢噻肟 cefotaxime） |
+| **5–14 天** | **Chlamydial 衣原体** | **口服红霉素 oral erythromycin ×14 天**（首选；阿奇霉素 azithromycin 仅替代。⚠️单剂 azithromycin 是**沙眼 trachoma** 的答案，别混） |
+| **约 1–2 周（出生–2 周内）** | **HSV**（伴头皮/皮肤疱疹线索） | **阿昔洛韦 acyclovir** |
 
 > [!tip] Pearls
-> - 最常见**新生儿失明 = Chlamydia**；最常见**先天性失明 = CMV**。
+> - 最常见**新生儿感染性结膜炎/致盲病原 = Chlamydia 衣原体**。（"最常见先天性失明病因"无单一权威定论，**勿把 CMV 巨细胞病毒当标准答案**；CMV 只是最常见**先天性感染**。）
 > - 2 周婴儿单侧水样分泌物 + 结膜清亮 → **congenital dacryostenosis 鼻泪管狭窄**，6–12 月自愈，持续 → probing。
 
 ---
@@ -275,7 +275,7 @@ Meyer's loop/颞叶 ── 对侧上象限盲 "Pie in the sky"
 | **Pinhole test** 改善 / 不改善 | 屈光不正 / 角膜·晶状体·视网膜·视神经结构病变 |
 
 - **Slit lamp = 前段**（角膜/前房/虹膜/晶状体）；**Fundoscopy = 后段**（视网膜/视盘/黄斑/血管）
-- 视力筛查：常规 **age 4** 起；4 岁 >20/40、≥5 岁 >20/30 → 转眼科；斜视筛查至 age 5
+- 视力筛查：常规 **age 4** 起；3–5 岁 >20/40、**≥6 岁 >20/30** → 转眼科；斜视筛查至 age 5
 - **高度近视 ≥6 diopters** → 视网膜变薄 → 脱离风险
 
 ---
@@ -292,4 +292,4 @@ Meyer's loop/颞叶 ── 对侧上象限盲 "Pie in the sky"
 > 急性**闭角青光眼**；**gonioscopy**（> tonometry）。先 IV acetazolamide + 降压眼药，再 laser iridotomy。
 
 > [!question]- Q4. 出生后第 6 天双眼大量脓性分泌物。最可能病原与治疗？
-> **淋球菌 (Gonococcal)** → **Ceftriaxone**（第 2 周才轮到 Chlamydia → azithromycin）。
+> **淋球菌 (Gonococcal)** → **头孢曲松 ceftriaxone**（大量脓性分泌物 = 淋球菌特征；衣原体 chlamydia 窗为 5–14 天、多黏液脓性，首选口服红霉素 oral erythromycin，非 azithromycin）。

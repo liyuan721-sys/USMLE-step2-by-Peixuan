@@ -64,14 +64,15 @@ type: 专题笔记
 
 ### 2.1 哮喘 asthma 升阶治疗（stepwise）
 
-**诊断**：支气管舒张试验 FEV1↑ 15–20%；或**乙酰甲胆碱激发 (methacholine challenge)** FEV1↓ >15–20%。嗜酸性粒细胞 eosinophilia。
+**诊断**：支气管舒张试验 FEV1↑ **≥12% 且 ≥200 mL**（SABA 后）；或**乙酰甲胆碱激发 (methacholine challenge)** FEV1↓ >15–20%。嗜酸性粒细胞 eosinophilia。
 
 ```
-① 低剂量 ICS-formoterol（吸入糖皮质激素 inhaled corticosteroid + 福莫特罗）
-② 中剂量 ICS-formoterol
-③ 加 LABA（沙美特罗 salmeterol）或 孟鲁司特 montelukast
-④ 加 口服激素 oral steroids
+Step 1–2（间断发作）：ICS-formoterol PRN（按需）
+Step 3（大多数天有症状）：低剂量 ICS-formoterol 每日 + PRN（MART，一支两用）
+Step 4（每日症状 + FEV1↓）：中/高剂量 ICS-formoterol 每日 + PRN
+Step 5（仍未控制 + 频繁需 OCS）：高剂量 ICS-LABA + 加 LAMA + 生物制剂（抗 IgE / 抗 IL-5），必要时短程 OCS
 ```
+> [!warning] 阶梯以 **ICS-formoterol** 为轴（GINA track 1）——formoterol 起效快可兼当 reliever；**salmeterol 沙美特罗起效慢，不能当 reliever，只做维持、绝不单用**。详见规范卡 [[完整笔记/专题笔记/pulmonary/pulmonary_哮喘Asthma]]。
 
 > [!tip] 特殊型哮喘 → 特定药
 > - **运动诱发 (exercise-induced)**：活动前用沙丁胺醇 albuterol。
@@ -80,7 +81,7 @@ type: 专题笔记
 
 > [!danger] 哮喘急性发作 (asthma exacerbation)
 > **听诊优先**：**无气流/无呼吸音 → 立即插管 intubate**（不是好转，是没气进出）。
-> 有喘鸣 wheezing → **氧 + 动脉血气 ABG** → 阶梯：沙丁胺醇 albuterol → 异丙托溴铵 ipratropium → 静脉激素（甲泼尼龙 IV methylprednisolone）。出院给口服激素 3 周（长期用需减量 taper）。
+> 有喘鸣 wheezing → **氧 + 动脉血气 ABG** → 阶梯：沙丁胺醇 albuterol → 异丙托溴铵 ipratropium → 静脉激素（甲泼尼龙 IV methylprednisolone）。出院给口服激素**短程 5–7 天 burst，不需减量 taper**（疗程短不抑制 HPA 轴）。
 
 ### 2.2 COPD 分级与急性加重
 

@@ -319,7 +319,7 @@ created: 2026-06-12
 
 > [!warning] Gout 急性 vs 慢性
 > - 诊断：arthrocentesis 关节穿刺 → 滑液晶体分析（金标准）
-> - **急性发作（抗炎，非降尿酸）**：一般 → **NSAIDs (indomethacin 吲哚美辛)**；酗酒者 → **colchicine 秋水仙碱**；PUD/肾衰 → **关节内/全身激素**
+> - **急性发作（抗炎，非降尿酸）**：一般 → **NSAIDs (indomethacin 吲哚美辛)**；**酗酒者 / PUD / 肾衰 → 优先关节内/全身激素**（colchicine 秋水仙碱在酗酒者 GI 不耐受、需谨慎）
 > - **慢性降尿酸（≥2 次/年）**：生活方式 + **allopurinol 别嘌醇 / probenecid 丙磺舒**；**losartan 氯沙坦**辅助促排
 > - **加重痛风的药 = 噻嗪类 thiazide**（急性期勿启动/调整降尿酸药）
 

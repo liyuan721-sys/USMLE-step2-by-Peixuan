@@ -269,7 +269,7 @@ GN 共同 UA = **RBC casts + dysmorphic RBC + 蛋白尿**
 > 治：换 liposomal 制剂 + 补 K + 补 Mg + IV NS 水化
 
 > [!info] Type 1 RTA 常见病因记忆
-> "**SLE-PAS**" — **S**jögren / **L**upus / **E**A multiforme / **P**lasma cell dyscrasia (MM) / **A**mphotericin B ★ / **S**ickle cell
+> "**SLE-PAS**" — **S**jögren / **L**upus / **E**A multiforme（⚠️ 多形红斑非真实远端 RTA 病因，仅凑首字母、勿当考点）/ **P**lasma cell dyscrasia (MM) / **A**mphotericin B ★ / **S**ickle cell
 
 详细 RTA 4 型对比见 [[完整笔记/专题笔记/肾脏/肾脏_RTA四型完整体系]]（RTA 主笔记）
 

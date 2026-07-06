@@ -47,7 +47,7 @@ type: 专题笔记
 | **U 波** | **低钾 / 低镁** | 利尿剂、呕吐、CYP 干扰 |
 | **长 QT (>500ms)** | **低 K / 低 Mg / 低 Ca / 药物 / 先天 LQTS** | TdP 风险 |
 | **短 QT** | **高钙 / 高钾 / Digoxin 治疗效应** | 评估病因（高钙 phase2 / 高钾 phase3）|
-| **Osborn (J) 波** | **低温**（<32°C）⭐ / SAH / 高钙 / ICH | 测体温！ |
+| **Osborn (J) 波** | **低温**（体温<35°C 为低温定义；Osborn 波多见于 T<32–33°C）⭐ / SAH / 高钙 / ICH | 测体温！ |
 | **Scooped ST ("Dali")** | Digoxin **治疗剂量效应**（≠ 中毒）| 看用药 |
 | **Bidirectional VT** | **Digoxin 中毒** ⭐ | 老人 + 黄视 + 低 K |
 | **Wide QRS + R 波 aVR** | **TCA 中毒** | 抗胆碱综合征 |
@@ -100,7 +100,7 @@ type: 专题笔记
 
 ### 2.1 高钙 → **短 QT**
 
-- 校正 QTc 缩短（<350ms）
+- QT/ST 缩短（高钙主要缩短 **ST 段**；QTc 可偏短，但**不必卡死 <350ms 硬阈值**——短 QT 综合征另有诊断标准）
 - 重度：J 波 / 类 Osborn 波；可室颤
 - 鉴别：恶性肿瘤（PTHrP / 溶骨）/ 原发甲旁亢 / 肉芽肿 / 噻嗪 thiazide / VitD（维生素 D）中毒
 

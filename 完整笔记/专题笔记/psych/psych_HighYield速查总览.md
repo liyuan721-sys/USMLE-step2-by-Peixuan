@@ -47,7 +47,7 @@ type: 专题笔记
 └─ Schizoaffective 分裂情感性障碍             > 6 个月 + 必须有 ≥2 周「单纯幻觉/妄想、无情绪症状」
 
 创伤谱系（生命威胁事件后）
-├─ Acute stress disorder 急性应激障碍 (ASD)    < 1 个月
+├─ Acute stress disorder 急性应激障碍 (ASD)    3 天–1 个月
 └─ PTSD 创伤后应激障碍                        > 1 个月
 
 应激源相关
