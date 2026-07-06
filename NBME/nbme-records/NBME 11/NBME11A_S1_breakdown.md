@@ -110,7 +110,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等热相关疾病题目积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_热病分层与降温策略]]
+> - 等热相关疾病题目积累后，请 Claude Code 生成 [[完整笔记/专题笔记/急诊/急诊_热病分层与降温策略]]
 >
 > **同类题**：
 > -
@@ -241,7 +241,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等相关题足够后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_快速进展性痴呆鉴别]]
+> - 等相关题足够后，请 Claude Code 生成 [[完整笔记/专题笔记/神经/神经_老年痴呆鉴别]]
 >
 > **同类题**：
 > -
@@ -362,10 +362,10 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **相关专题笔记**：
-> - [[完整笔记/专题笔记/Biostats_6指标决策树_纯净版]]
+> - [[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]]
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等同类题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_PPV与LR临床提问翻译]]
+> - 等同类题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/Biostats/Biostats_似然比与pretest_probability]]
 >
 > **同类题**：
 > -
@@ -485,7 +485,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等儿科心律失常题目积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_儿科SVT急性处理路径]]
+> - 等儿科心律失常题目积累后，请 Claude Code 生成 [[完整笔记/专题笔记/儿科/儿科_婴儿室上速SVT识别与处理]]
 >
 > **同类题**：
 > -
@@ -607,7 +607,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等抗结核药不良反应题目积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_RIPE副作用一页对照]]
+> - 等抗结核药不良反应题目积累后，请 Claude Code 生成 [[完整笔记/专题笔记/感染/感染_RIPE副作用一页对照]]
 >
 > **同类题**：
 > -
@@ -727,7 +727,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等门脉高压题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_肝硬化并发症筛查路径]]
+> - 等门脉高压题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/GI/GI_门脉高压治疗]]
 >
 > **同类题**：
 > -
@@ -850,7 +850,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等胸部创伤题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_胸部创伤一页鉴别]]
+> - 等胸部创伤题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/外科/外科_胸部创伤速查]]
 >
 > **同类题**：
 > -
@@ -970,7 +970,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等胰腺题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_胰腺炎病因与实验室陷阱]]
+> - 等胰腺题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/GI/GI_胰腺炎病因与实验室陷阱]]
 >
 > **同类题**：
 > -
@@ -1087,7 +1087,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等 Biostats 因果推断题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_BradfordHill题干翻译表]]
+> - 等 Biostats 因果推断题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/Biostats/Biostats_BradfordHill因果判据]]
 >
 > **同类题**：
 > -
@@ -1202,7 +1202,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等结核筛查题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_PPD与IGRA判读路径]]
+> - 等结核筛查题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/感染/感染_PPD与IGRA判读路径]]
 >
 > **同类题**：
 > -
@@ -1323,7 +1323,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等 pleural effusion / empyema 题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_胸腔积液分层与引流指征]]
+> - 等 pleural effusion / empyema 题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/pulmonary/pulmonary_胸腔积液与脓胸]]
 >
 > **同类题**：
 > -
@@ -1442,7 +1442,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等 entrapment neuropathy 题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_上肢卡压神经定位速查]]
+> - 等 entrapment neuropathy 题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/神经/神经_周围神经卡压治疗阶梯]]
 >
 > **同类题**：
 > -
@@ -1559,14 +1559,14 @@ source: GPT/Codex full run
 > - 问 mortality risk factor 时，要主动把“诊断提示线索”和“预后变量”分开
 >
 > **UWorld / 其他套题同类题**：
-> - 可回看 [[完整笔记/专题笔记/_衍生_高频评分_公式]]
+> - 可回看 [[完整笔记/专题笔记/USMLE/USMLE_高频评分_公式]]
 >
 > ---
 >
 > ### 🔗 关联 vault
 >
 > **精准专题**：
-> - [[完整笔记/专题笔记/_衍生_高频评分_公式]]
+> - [[完整笔记/专题笔记/USMLE/USMLE_高频评分_公式]]
 >
 > **同类题**：
 > -
@@ -1687,7 +1687,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等 pediatric hypertension 题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_儿童高血压病因与初筛路径]]
+> - 等 pediatric hypertension 题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/儿科/儿科_儿童高血压病因与初筛]]
 >
 > **同类题**：
 > -
@@ -1811,7 +1811,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等中毒与昏迷题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_意识障碍瞳孔与呼吸模式定位]]
+> - 等中毒与昏迷题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/USMLE/USMLE_中毒昏迷五轴床旁鉴别]]
 >
 > **同类题**：
 > -
@@ -1934,7 +1934,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等导管相关感染题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_院内发热与导管感染]]
+> - 等导管相关感染题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/感染/感染_CLABSI完整体系]]
 >
 > **同类题**：
 > - Q006（住院场景下的筛查与非题干核心噪音识别）
@@ -2055,7 +2055,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **已有关联专题**：
-> - [[完整笔记/专题笔记/Biostats_6指标决策树_纯净版]]
+> - [[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]]
 >
 > **同类题**：
 > - Q003（Biostats 题干中找真正被考的概念）
@@ -2176,7 +2176,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等创伤休克题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_创伤性休克床旁定位]]
+> - 等创伤休克题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/心内/心内_Shock分类与next-step]]
 >
 > **同类题**：
 > - Q015（意识与生命体征中提取最有判别力的急诊线索）
@@ -2297,7 +2297,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **已有关联专题**：
-> - [[完整笔记/专题笔记/Biostats_6指标决策树_纯净版]]
+> - [[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]]
 >
 > **同类题**：
 > - Q002（时间轴与线索权重决定主轴，而不是被单个噪音牵着走）
@@ -2420,7 +2420,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等新生儿外科腹症题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_新生儿胆汁性呕吐鉴别]]
+> - 等新生儿外科腹症题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/儿科/儿科_新生儿胆汁性呕吐鉴别]]
 >
 > **同类题**：
 > - Q004（年龄窗口和急诊定位在线索分流中的价值）
@@ -2546,7 +2546,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等退变性关节病题目积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_骨关节炎一线处理分层]]
+> - 等退变性关节病题目积累后，请 Claude Code 生成 [[完整笔记/专题笔记/骨科/骨科_OA骨关节炎完整体系]]
 >
 > **同类题**：
 > - Q023（都在考“初始治疗先选最合理的一线”）
@@ -2665,7 +2665,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等 psych 药理题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_抗抑郁药副作用定向选择]]
+> - 等 psych 药理题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/psych/psych_精神科药物副作用速查]]
 >
 > **同类题**：
 > -
@@ -2790,7 +2790,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等 IBD 药物题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_炎症性肠病诱导与维持治疗分层]]
+> - 等 IBD 药物题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/GI/GI_HighYield速查总览]]
 >
 > **同类题**：
 > -
@@ -2911,10 +2911,10 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **相关专题**：
-> - [[完整笔记/专题笔记/TORCH]]
+> - [[完整笔记/专题笔记/OB_GYN/OB_GYN_TORCH]]
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等常见病毒性综合征题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_常见传染病隔离与生活指导]]
+> - 等常见病毒性综合征题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/感染/感染_常见传染病隔离与生活指导]]
 >
 > **同类题**：
 > -
@@ -3032,7 +3032,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等泌尿/肿瘤筛查题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_前列腺异常筛查后的诊断路径]]
+> - 等泌尿/肿瘤筛查题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/肾脏/肾脏_BPH药物治疗]]
 >
 > **同类题**：
 > -
@@ -3155,7 +3155,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等儿科泌尿题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_儿科VUR与反复UTI处理]]
+> - 等儿科泌尿题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/儿科/儿科_VUR分级与管理]]
 >
 > **同类题**：
 > -
@@ -3280,7 +3280,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等 hypersensitivity 题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_III型超敏反应临床识别]]
+> - 等 hypersensitivity 题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/免疫/免疫_超敏反应4型分类]]
 >
 > **同类题**：
 > -
@@ -3405,7 +3405,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等 substance intoxication 题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_常见物质中毒体征对比]]
+> - 等 substance intoxication 题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/USMLE/USMLE_毒物综合征toxidrome速查]]
 >
 > **同类题**：
 > -
@@ -3524,7 +3524,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等一级预防题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_无症状人群何时不必心脏筛查]]
+> - 等一级预防题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/心内/心内_负荷试验选择决策树]]
 >
 > **同类题**：
 > -
@@ -3644,7 +3644,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等热带病题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_旅行归来发热的病原定位]]
+> - 等热带病题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/感染/感染_军人旅行归来感染速查]]
 >
 > **同类题**：
 > -
@@ -3764,7 +3764,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等异常子宫出血题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_痛经伴月经过多的子宫病变鉴别]]
+> - 等异常子宫出血题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/OB_GYN/OB_GYN_痛经伴月经过多子宫病变鉴别]]
 >
 > **同类题**：
 > -
@@ -3887,7 +3887,7 @@ source: GPT/Codex full run
 >
 > ### 🔗 关联 vault
 >
-> - [[完整笔记/专题笔记/Biostats_6指标决策树_纯净版]]
+> - [[完整笔记/专题笔记/Biostats/Biostats_6指标决策树]]
 >
 > **同类题**：
 > -
@@ -4013,7 +4013,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等继发性高血压题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_高血压合并低钾的病因模式图]]
+> - 等继发性高血压题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/心内/心内_继发性高血压鉴别框架]]
 >
 > **同类题**：
 > -
@@ -4139,7 +4139,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等生物恐袭题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_生物恐袭病原与皮疹识别]]
+> - 等生物恐袭题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/感染/感染_生物恐袭病原与皮疹识别]]
 >
 > **同类题**：
 > -
@@ -4266,7 +4266,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等糖尿病足题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_糖尿病足感染的影像与手术指征]]
+> - 等糖尿病足题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/外科/外科_糖尿病足感染影像与手术指征]]
 >
 > **同类题**：
 > -
@@ -4392,7 +4392,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等盆腔器官脱垂题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_盆腔器官脱垂定位与症状速查]]
+> - 等盆腔器官脱垂题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/OB_GYN/OB_GYN_盆腔器官脱垂定位与症状]]
 >
 > **同类题**：
 > -
@@ -4517,7 +4517,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等 neonatal lupus 题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_新生儿心动过缓与先天性房室传导阻滞]]
+> - 等 neonatal lupus 题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/儿科/儿科_新生儿心动过缓与先天性AV阻滞]]
 >
 > **同类题**：
 > -
@@ -4649,7 +4649,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等原发免疫缺陷题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_原发免疫缺陷三联征速查]]
+> - 等原发免疫缺陷题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/免疫/免疫_原发性免疫缺陷鉴别]]
 >
 > **同类题**：
 > -
@@ -4775,7 +4775,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等儿童常见急诊骨关节题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_儿童上肢拒动的快速定位]]
+> - 等儿童常见急诊骨关节题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/骨科/骨科_儿童骨折分型]]
 >
 > **同类题**：
 > -
@@ -4899,7 +4899,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等双胎妊娠题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_双胎绒毛膜羊膜膜型与并发症对照]]
+> - 等双胎妊娠题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/OB_GYN/OB_GYN_双胎绒毛膜羊膜膜型与并发症]]
 >
 > **同类题**：
 > -
@@ -5019,7 +5019,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等妊娠并发症题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_早孕恶心呕吐与妊娠剧吐鉴别]]
+> - 等妊娠并发症题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/OB_GYN/OB_GYN_早孕恶心呕吐与妊娠剧吐鉴别]]
 >
 > **同类题**：
 > - Q040 双胎分型并发症
@@ -5143,7 +5143,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等婴幼儿营养题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_婴儿喂养与营养补充时间轴]]
+> - 等婴幼儿营养题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/儿科/儿科_婴儿喂养与营养补充时间轴]]
 >
 > **同类题**：
 > -
@@ -5268,7 +5268,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等 AKI 题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_AKI常见病因与造影剂肾病预防]]
+> - 等 AKI 题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/肾脏/肾脏_AKI病因全谱]]
 >
 > **同类题**：
 > -
@@ -5393,7 +5393,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等内分泌肿瘤题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_库欣综合征诊断路径与异位ACTH]]
+> - 等内分泌肿瘤题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/内分泌/内分泌_库欣综合征与库欣病]]
 >
 > **同类题**：
 > -
@@ -5517,7 +5517,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等儿科鉴别诊断题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_多饮多尿鉴别：DM、DI与心因性多饮]]
+> - 等儿科鉴别诊断题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/内分泌/内分泌_DI尿崩与多饮多尿鉴别]]
 >
 > **同类题**：
 > -
@@ -5635,7 +5635,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等镰状细胞病题目积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_镰状细胞病急症：发热、急性胸综合征与脾扣押]]
+> - 等镰状细胞病题目积累后，请 Claude Code 生成 [[完整笔记/专题笔记/血液/血液_镰刀细胞病SCD]]
 >
 > **同类题**：
 > -
@@ -5758,7 +5758,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等妇科肿瘤题目积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_妊娠期阴道出血鉴别：胎盘性与宫颈性原因]]
+> - 等妇科肿瘤题目积累后，请 Claude Code 生成 [[完整笔记/专题笔记/OB_GYN/OB_GYN_孕期出血鉴别]]
 >
 > **同类题**：
 > -
@@ -5881,7 +5881,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等新生儿感染题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_新生儿骨关节感染：septic arthritis 与 osteomyelitis]]
+> - 等新生儿感染题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/儿科/儿科_新生儿骨关节感染]]
 >
 > **同类题**：
 > -
@@ -6000,7 +6000,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等精神科药理题目积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_抗精神病药锥体外系副作用与 NMS 鉴别]]
+> - 等精神科药理题目积累后，请 Claude Code 生成 [[完整笔记/专题笔记/psych/psych_四大EPS诊断治疗对照]]
 >
 > **同类题**：
 > -
@@ -6125,7 +6125,7 @@ source: GPT/Codex full run
 > ### 🔗 关联 vault
 >
 > **🌱 TODO（待生成衍生笔记）**：
-> - 等精神科创伤题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/_衍生_急性应激障碍与 PTSD 鉴别]]
+> - 等精神科创伤题积累后，请 Claude Code 生成 [[完整笔记/专题笔记/psych/psych_急性应激障碍与PTSD鉴别]]
 >
 > **同类题**：
 > -
