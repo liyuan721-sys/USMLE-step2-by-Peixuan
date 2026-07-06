@@ -1025,7 +1025,7 @@ type: 备考资料
 | 检查/操作 | 胃镜检查（lay 说法 "the tube down from the top"；库内已有 Barium enema 同场景） | gastroscopy |
 | 动作/短语 | 排气、放屁（委婉语；pass very smelly wind 排很臭的气） | pass wind |
 
-### 2026-07-06 补（9 词）
+### 2026-07-06 补（12 词）
 
 | 类别 | 中文 | English |
 |---|---|---|
@@ -1038,6 +1038,9 @@ type: 备考资料
 | 动作/短语 ⚠️ | 拖、拉；(货运)一程。**long-haul flight** 长途飞行（≥6 小时）——OET 里几乎绑定 DVT (deep vein thrombosis, 深静脉血栓) 危险因素："recently returned from a long-haul flight"→填 risk factors 栏；反义 short-haul 短途；习语 in for the long haul 打持久战（慢病管理/康复语境）。拼写陷阱：haul /hɔːl/ 与 **hall**（大厅）完全同音，靠语境分——飞机/货运→h-a-u-l | haul（long-haul flight） |
 | 动作/短语 ⚠️ | 关于、事由（读 /riː/；源自拉丁语 in re "在……事情上"，≈ regarding / with reference to；**不是任何词的缩写**）。医疗文书高频：转诊信标题 "Re: Mrs Jones"；口头 "refer to cardiologist re review of medication" 转心内科、事由=药物复审。听辨陷阱：别把 "X re review" 听成 "re-review 再复查"——re 是独立介词，断句在它前后 | re（Re:） |
 | 动作/短语 ⚠️ | 在病房里来回走动（**up and down** = 来回；**ward** = 病房——术后康复/理疗 physiotherapy 评估活动能力语境，"walking up and down the ward" ≈ 活动恢复良好、接近出院；近义：**up and about** 已能下床活动、**mobilising** 活动/下地）。⚠️ 同词不同义：**ward** 病房 ≠ **ward off** 抵御、防止（库内已收 ward off，别混）；surgical ward 外科病房、maternity ward 产科病房 | (walking) up and down the ward |
+| 职业/人物 ⚠️ | 脊椎按摩师、整脊师（**库内已有 #职业表 #6 chiropractor + 考经批次 #65 Chiropractic treatment，复习即可**）。拼写陷阱：首音 /ˈkaɪrəʊ-/ 听着像 k，但希腊词根 cheir（手）拼 **ch-**——c-h-i-r-o-practor，别写成 "kiro-"。易混：**chiropractor** 整脊师（调脊椎，背痛 back pain 语境）≠ **chiropodist** 足病医生（英式叫法，= podiatrist，管脚部胼胝 callus/嵌甲 ingrown toenail）——两词都 chiro- 开头，靠语境分：背→practor，脚→podist | chiropractor |
+| 症状/描述 ⚠️ | 轻微持续的小痛、隐隐不适（名词/动词；患者口语高频淡化说法："it's just a **niggle** in my back" / "a **niggling** pain that won't go away" 一直好不了的小隐痛——OET 里属于 hedging 式轻描淡写，填空时可能要还原成 mild/persistent discomfort）；也指小烦恼、小疑虑（a niggling doubt 挥之不去的小疑虑）。拼写陷阱：双写 **gg**——n-i-**gg**-l-e；听感易与 wiggle（扭动）/ giggle（咯咯笑）混，靠语境定 | niggle（niggling pain） |
+| 形容/状态 ⚠️ | 令人难以置信的、（信息/数字）多到脑子转不过来（患者/家属语境："the amount of information is a bit **mind-boggling**" 信息量大得懵了——诊断告知 breaking bad news/新确诊糖尿病 diabetes 宣教后家属常这么说）。⚠️ **误听陷阱：正确是 mind-boggling，不存在 "mindgobbling"**——是 **boggle**（惊得发懵）不是 **gobble**（狼吞虎咽）；拼写 b-o-**gg**-l-i-n-g 双写 gg + 连字符 mind-boggling | mind-boggling |
 
 ---
 
