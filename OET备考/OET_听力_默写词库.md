@@ -1025,7 +1025,7 @@ type: 备考资料
 | 检查/操作 | 胃镜检查（lay 说法 "the tube down from the top"；库内已有 Barium enema 同场景） | gastroscopy |
 | 动作/短语 | 排气、放屁（委婉语；pass very smelly wind 排很臭的气） | pass wind |
 
-### 2026-07-06 补（8 词）
+### 2026-07-06 补（9 词）
 
 | 类别 | 中文 | English |
 |---|---|---|
@@ -1037,6 +1037,7 @@ type: 备考资料
 | 症状/描述 ⚠️ | 短暂丧失、断片、疏漏（OET 高频搭配：**memory lapses** 记忆断片、lapses in concentration 注意力走神——痴呆 dementia/老年科问诊常见；动词=失效，如 her prescription lapsed 处方过期失效）。易混：**lapse** 偶发断片/疏漏 ≠ **relapse** 复发（戒断后又复吸/病情卷土重来）；戒烟戒酒语境两词都出现：a lapse 偶尔破戒一次，a relapse 完全回到老样子 | lapse |
 | 动作/短语 ⚠️ | 拖、拉；(货运)一程。**long-haul flight** 长途飞行（≥6 小时）——OET 里几乎绑定 DVT (deep vein thrombosis, 深静脉血栓) 危险因素："recently returned from a long-haul flight"→填 risk factors 栏；反义 short-haul 短途；习语 in for the long haul 打持久战（慢病管理/康复语境）。拼写陷阱：haul /hɔːl/ 与 **hall**（大厅）完全同音，靠语境分——飞机/货运→h-a-u-l | haul（long-haul flight） |
 | 动作/短语 ⚠️ | 关于、事由（读 /riː/；源自拉丁语 in re "在……事情上"，≈ regarding / with reference to；**不是任何词的缩写**）。医疗文书高频：转诊信标题 "Re: Mrs Jones"；口头 "refer to cardiologist re review of medication" 转心内科、事由=药物复审。听辨陷阱：别把 "X re review" 听成 "re-review 再复查"——re 是独立介词，断句在它前后 | re（Re:） |
+| 动作/短语 ⚠️ | 在病房里来回走动（**up and down** = 来回；**ward** = 病房——术后康复/理疗 physiotherapy 评估活动能力语境，"walking up and down the ward" ≈ 活动恢复良好、接近出院；近义：**up and about** 已能下床活动、**mobilising** 活动/下地）。⚠️ 同词不同义：**ward** 病房 ≠ **ward off** 抵御、防止（库内已收 ward off，别混）；surgical ward 外科病房、maternity ward 产科病房 | (walking) up and down the ward |
 
 ---
 
