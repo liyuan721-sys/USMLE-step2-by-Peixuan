@@ -3,7 +3,7 @@ title: University of Pittsburgh（匹兹堡）— LGG 申请邮件存档
 type: 申请邮件存档
 school: University of Pittsburgh
 created: 2026-07-05
-status: 已发送-等回复
+status: ✅ 已回复-2027 周期开放·可申请
 ---
 
 # University of Pittsburgh（匹兹堡，UPMC）— LGG 申请邮件存档
@@ -69,6 +69,26 @@ status: 已发送-等回复
 
 ### 回复记录
 
-- **日期**：______
-- **内容**（2027 是否开放 / 申请表 / 成绩单 official? / 其他）：______
-- **下一步**：______
+- **2026-07-06　✅ 正式回复（Nicole Lang）**：
+
+> Good Day,
+>
+> Thank you for your interest UPMC Medical Education, UPMC Magee-Womens Hospital Laboratory Genetics and Genomics Fellowship. Our program has two fellowship positions at a time. Our next fellow will start July 2027 or after. Please visit the following website for more information about our program, eligibility requirements, and directions on how to apply. **Please also note that letters of recommendation should be sent from the reference directly to me in a PDF format with a signature.**
+>
+> https://obgyn.medicine.pitt.edu/fellowships/laboratory-genetics-genomics
+>
+> Yes we are still accepting applications for a July 2027 start. If you have any questions, please let me know.
+>
+> Thanks,
+> Nicole
+
+- **要点**：
+  - ✅ **July 2027 周期确认开放、仍在收申请** —— 官网"AY25–26 已招满"确实是旧文案，实际在收（我询问信第 1 问已解决）。
+  - **同时 2 个 fellow 名额**（此前官网写"每年 1 人"→ 实为 2 坑，竞争面稍宽）。
+  - 未质疑资格（外国 MD / ABMGG）→ 资格口径没被卡，可直接按官网走申请。
+  - ⚠️ **LOR 硬要求：推荐人本人直接发给 Nicole（Langnm@upmc.edu），PDF + 手写/电子签名** —— 不能经我转交。约推荐人时务必交代这条格式要求。
+- **下一步（待办）**：
+  - [ ] 上官网 https://obgyn.medicine.pitt.edu/fellowships/laboratory-genetics-genomics 抠**申请表 + eligibility + how to apply** 细则（截止日 / 材料清单 / 提交方式）。
+  - [ ] 备齐材料：CV + PS（cover letter 格式）+ **成绩单**（⚠️ 博士英文成绩单还在办，见 [[ECFMG认证资格_问题记录]] §四-补，盯时间）+ **3 封 LOR**。
+  - [ ] **给 3 位推荐人发正式邀约**，明确告知：LOR 需**本人直接 email 给 Langnm@upmc.edu，PDF + 签名**。
+  - [ ] 收齐后按官网方式正式提交 → 状态升 🎯 已提交。
