@@ -79,3 +79,27 @@ status: 已回复-本轮出局（下轮 2028-2030 可再投）
   - 本轮无动作（无坑位）。
   - **⏰ 若 2027 年 4 月仍需 / 尚未落位** → 主动重投 WashU（burr@wustl.edu / cao.yang@wustl.edu），届时资格已确认无碍、直接问申请表即可。
   - 可作为 2028 周期的**已知友好备选**（协调员态度友好、留了明确重投时点）。
+
+### ② 我的回复致谢信（客气收尾 + 留口子）
+
+- **状态**：✅ **已发送（2026-07-06）**
+- **收件人**：burr@wustl.edu（Naomi Rattler）
+- **主题**：Re: LGG Fellowship — thank you
+- **已发送 Word 版**：`Desktop\LGG报名\各学校沟通邮件\WashU_LGG_reply_email.docx`
+- **用途**：礼貌收尾 + 表达对未来周期（AY2028–2030）的兴趣，为 2027 年 4 月重投铺垫
+
+**正文（版本 1 · 留口子，推荐）：**
+
+> Dear Naomi,
+>
+> Thank you very much for letting me know, and for the helpful details about your recruitment timeline. I understand that the AY2027–2029 positions have been filled. I remain very interested in your program and would be grateful to be considered in future recruitment cycles.
+>
+> Best regards,
+> Yuan Li
+
+**备选（版本 2 · 纯客气收尾，不再申则用）：**
+
+> … I understand that the AY2027–2029 positions have been filled. I appreciate your time and kind response, and I wish you and your team a smooth recruitment season.
+>
+> Best regards,
+> Yuan Li

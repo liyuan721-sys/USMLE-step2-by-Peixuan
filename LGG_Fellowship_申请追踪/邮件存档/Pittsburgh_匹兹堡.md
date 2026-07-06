@@ -92,3 +92,21 @@ status: ✅ 已回复-2027 周期开放·可申请
   - [ ] 备齐材料：CV + PS（cover letter 格式）+ **成绩单**（⚠️ 博士英文成绩单还在办，见 [[ECFMG认证资格_问题记录]] §四-补，盯时间）+ **3 封 LOR**。
   - [ ] **给 3 位推荐人发正式邀约**，明确告知：LOR 需**本人直接 email 给 Langnm@upmc.edu，PDF + 签名**。
   - [ ] 收齐后按官网方式正式提交 → 状态升 🎯 已提交。
+
+### ② 我的回复致谢信（已发送）
+
+- **状态**：✅ **已发送（2026-07-06）**
+- **收件人**：Langnm@upmc.edu（Nicole Lang）
+- **主题**：Re: Prospective applicant — LGG Fellowship (July 2027 start)
+- **已发送 Word 版**：`Desktop\LGG报名\各学校沟通邮件\Pittsburgh_LGG_reply_email.docx`
+
+**正文：**
+
+> Dear Nicole,
+>
+> Thank you very much for your reply and for confirming that the program is accepting applications for 2027. I am delighted to hear it and very interested in the LGG Fellowship at UPMC. I have reviewed the program website and will prepare my application in accordance with the instructions there.
+>
+> Best regards,
+> Yuan Li, MD
+> (424) 206-0307
+> liyuan721@gmail.com

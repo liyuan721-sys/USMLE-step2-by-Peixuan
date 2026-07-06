@@ -79,9 +79,10 @@ status: 已回复-可申请（2027开放·符合资格·已收申请表）
 
 ### ② 回复致谢信（待发送）
 
-- **状态**：📝 草稿，待发送
+- **状态**：✅ **已发送（2026-07-06）**
 - **收件人**：lmt@ggc.org（Leta M. Tribble, PhD）
 - **主题**：Re: LGG Fellowship — thank you & application form received
+- **已发送 Word 版**：`Desktop\LGG报名\各学校沟通邮件\Greenwood_LGG_reply_email.docx`
 
 **正文：**
 
