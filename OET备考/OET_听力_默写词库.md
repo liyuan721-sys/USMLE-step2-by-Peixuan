@@ -1025,6 +1025,12 @@ type: 备考资料
 | 检查/操作 | 胃镜检查（lay 说法 "the tube down from the top"；库内已有 Barium enema 同场景） | gastroscopy |
 | 动作/短语 | 排气、放屁（委婉语；pass very smelly wind 排很臭的气） | pass wind |
 
+### 2026-07-06 补（1 词）
+
+| 类别 | 中文 | English |
+|---|---|---|
+| 职业/人物 ⚠️ | 抽血技术员、静脉采血员（库内已有 #职业表 #24 Phlebotomist，复习即可）。拼写陷阱：词首 **ph-** 发 /f/ 音，别写成 "fl-/fle-"；完整 p-h-l-e-b-o-t-o-m-i-s-t | phlebotomist |
+
 ---
 
 ## §二 挖空版（拼写骨架）
