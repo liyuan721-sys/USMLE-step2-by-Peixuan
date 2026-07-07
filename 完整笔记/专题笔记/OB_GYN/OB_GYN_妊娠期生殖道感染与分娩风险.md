@@ -86,5 +86,5 @@ genital HSV infection (生殖器疱疹)
   - [[mistakes/uworld-mistakes_2026-07#^Q15409]] 孕期 HSV 病史无发作 → 36 周阿昔洛韦抑制至分娩
   - [[mistakes/uworld-mistakes_2026-07#^Q4757]] GBS 状态不明 + ROM ≥18h → 产时青霉素预防
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/OB]]
-- 🏥 跨学科：[[完整笔记/专题笔记/OB_GYN/OB_GYN_产科新生儿感染抗生素]]（GBS 产时青霉素预防 / 新生儿感染抗生素）
+- 🏥 跨学科：[[完整笔记/专题笔记/OB_GYN/OB_GYN_产科新生儿感染抗生素]]（GBS 产时青霉素预防 / 新生儿感染抗生素）/ [[完整笔记/专题笔记/OB_GYN/OB_GYN_GBS_产时抗生素预防IAP]]（IAP 决策树 + 青霉素过敏路径）
 - 🌱 源题：[[NBME/nbme-records/NBME 11/NBME11A_S4_breakdown#^Q171]]

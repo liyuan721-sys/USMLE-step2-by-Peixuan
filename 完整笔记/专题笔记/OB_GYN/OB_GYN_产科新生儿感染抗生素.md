@@ -271,5 +271,5 @@
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes_2026-07#^Q4757]] GBS 状态不明 + ROM ≥18h → 产时青霉素预防（IAP 指征）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/OB]] / [[完整笔记/Peixuan分科笔记/newborn care and screening]]
-- 🏥 跨学科：[[完整笔记/专题笔记/OB_GYN/OB_GYN_妊娠期生殖道感染与分娩风险]]（GBS/HSV 垂直传播预防）
+- 🏥 跨学科：[[完整笔记/专题笔记/OB_GYN/OB_GYN_妊娠期生殖道感染与分娩风险]]（GBS/HSV 垂直传播预防）/ [[完整笔记/专题笔记/OB_GYN/OB_GYN_GBS_产时抗生素预防IAP]]（IAP 指征/风险因素/防GBS vs 治宫内感染分岔）
 - 🌱 TODO：无

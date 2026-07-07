@@ -114,6 +114,31 @@ type: 备考资料
   - 选词学习**要克制**："choose words to learn carefully"——语境特定/低频的词（conventionally/judicious/nuanced…）不值得背，别浪费精力（呼应总览"别背单词表"）。
 - 逻辑同听力：`A but B → B 重要`。
 
+### Part C — 长难句句型积累（2026-07-07 补，读医学叙事文章攒的）
+
+> [!tip] 句型 1：`If X was ..., it was even more so for/because ...`（假让步、真递进）
+> 例句：**If** the narrative was striking, it was **even more so for** its inclusion in a medical journal.
+> → 如果说这段叙述本身已经很震撼，那么它能登在医学期刊上就更加令人惊讶了。
+> - **if ≠ 条件**：这里是让步/递进修辞 =「如果说……的话」（姑且承认 X）
+> - **so = 前面的形容词**（striking），避免重复：even more so = even more striking
+> - **for = because**：引出"更 striking"的原因
+> - **考点信号**：这是作者态度题的典型句式——表面平静、实际在**加码评价**（surprised/impressed 类选项）。见到 `if ... was [评价词], it was even more so ...` → 作者态度 = 该评价词的**强化版**。
+
+> [!tip] 句型 2：固定搭配拆开 + 提前 —— `the impact that X can have on sb`
+> 例句：I was surprised by **the impact that** even lightly sketched case histories **can have on** readers.
+> → 我很惊讶，即使寥寥数笔的病例报告也能对读者产生如此大的影响。
+> - 还原：case histories **have an impact on** readers（搭配被定语从句拆开，impact 提前做先行词）
+> - 同款拆分（Part C 高频，见到就还原回原搭配再理解）：
+>
+> | 原搭配 | 拆开后的样子 |
+> |---|---|
+> | have an impact on sb | the impact (that) X has on sb |
+> | have an effect on sb | the effect (that) X has on sb |
+> | play a role in sth | the role (that) X plays in sth |
+>
+> - 顺带：`even lightly sketched` = 即使只是轻描淡写勾勒的（sketch 素描→简述）；**even + 弱化修饰语**也是态度信号（"连这么简略的都有效"→ 作者在强调 impact 之大）。
+> - 相关态度信号词（已入默写词库 2026-07-07 批）：**not a panacea**（不是万灵药 → 有保留的赞同 qualified approval）、**tentative**（试探性的 → 不确定语气）。
+
 > [!danger] Reading 时间纪律（最大杀手是时间，听力没有的额外维度）
 > ```
 > Part A ── 15 min（单独计时，先交）── 20 题  → 卡壳先跳，最后回补
