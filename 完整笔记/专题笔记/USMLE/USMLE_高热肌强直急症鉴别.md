@@ -19,17 +19,17 @@ type: 专题笔记
 
 ## 一、High-Yield 四联鉴别表 ★★★
 
-| 指标           | **Neuroleptic malignant syndrome (NMS)**                | **Malignant Hyperthermia (MH)** | **Serotonin Syndrome**                                 | **MAOI Tyramine HTN crisis**                           |
-| ------------ | ------------------------------------------------------- | ------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
-| **机制**       | 中枢 **DA ↓**（D2 阻断）                                      | 骨骼肌 **RyR1 钙失控**                | 中枢/外周 **5-HT ↑**                                       | **NE/Epi 爆发**（tyramine 挤出储存儿茶酚胺）                       |
-| **递质通路**     | DA                                                      | 钙（细胞内）                          | 5-HT                                                   | **Adrenergic (NE/Epi)**                                |
-| **触发**       | 抗精神病药（haloperidol / 起始加量）、止吐药（metoclopramide）、**撤帕金森药** | **吸入麻醉 + 琥珀胆碱**                 | SSRI/SNRI / MAOI / 曲马多 / linezolid / MDMA / DXM / 曲坦   | **MAOI + tyramine 食物**（陈年奶酪/红酒/腌肉）                     |
-| **起病**       | **数天**（1-3 天）缓                                          | **数分钟-数小时**（麻醉中/后）              | **数小时（<24h）**                                          | **数分钟-小时**（餐后急起）                                       |
-| **肌张力 / 反射** | **铅管样强直** + 反射**正常或减弱**                                 | 全身僵硬 + **咬肌痉挛**                 | <font color="#ff0000">**clonus + hyperreflexia**（下肢为主） | </font>**无肌强直 / 无反射异常**                                |
-| **特征体征**     | 流涎、自主紊乱、AMS                                             | **ETCO₂↑**（早期最敏感）、酸中毒           | **clonus / hyperreflexia / 散瞳**                        | <font color="#ff0000">**血压飙升 + 剧烈头痛**</font>（出血/卒中风险）  |
-| **CK / 肌溶解** | ↑↑（myoglobinuria）                                       | ↑↑                              | 轻度↑                                                    | 一般正常                                                   |
-| **解药**       | 停药 + 恢复 DA；BZD；难治 → **bromocriptine** 或 dantrolene      | **dantrolene** + 停麻醉药 + 降温      | 停药 + 支持 + **cyproheptadine**                           | **phentolamine**（α 阻断）/ nitroprusside / labetalol（α+β） |
-| **一句话区分**    | "脑里**多巴胺不够**"                                           | "肌肉**钙太多**"                     | "**5-HT 太多** + 反射亢进/阵挛"                                | "**NE 太多** + 血压爆"                                      |
+| 指标           | **Neuroleptic malignant syndrome (NMS)**                | **Malignant Hyperthermia (MH)**                    | **Serotonin Syndrome**                                 | **MAOI Tyramine HTN crisis**                           |
+| ------------ | ------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
+| **机制**       | 中枢 **DA ↓**（D2 阻断）                                      | 骨骼肌 **RyR1 钙失控**                                   | 中枢/外周 **5-HT ↑**                                       | **NE/Epi 爆发**（tyramine 挤出储存儿茶酚胺）                       |
+| **递质通路**     | DA                                                      | 钙（细胞内）                                             | 5-HT                                                   | **Adrenergic (NE/Epi)**                                |
+| **触发**       | 抗精神病药（haloperidol / 起始加量）、止吐药（metoclopramide）、**撤帕金森药** | **吸入麻醉 + 琥珀胆碱**                                    | SSRI/SNRI / MAOI / 曲马多 / linezolid / MDMA / DXM / 曲坦   | **MAOI + tyramine 食物**（陈年奶酪/红酒/腌肉）                     |
+| **起病**       | **数天**（1-3 天）缓                                          | **数分钟-数小时**（麻醉中/后）                                 | **数小时（<24h）**                                          | **数分钟-小时**（餐后急起）                                       |
+| **肌张力 / 反射** | **铅管样强直** + 反射**正常或减弱**                                 | 全身僵硬 + **咬肌痉挛**                                    | <font color="#ff0000">**clonus + hyperreflexia**（下肢为主） | </font>**无肌强直 / 无反射异常**                                |
+| **特征体征**     | 流涎、自主紊乱、AMS                                             | <font color="#ff0000">**ETCO₂↑**（早期最敏感）、酸中毒</font> | **clonus / hyperreflexia / 散瞳**                        | <font color="#ff0000">**血压飙升 + 剧烈头痛**</font>（出血/卒中风险）  |
+| **CK / 肌溶解** | ↑↑（myoglobinuria）                                       | ↑↑                                                 | 轻度↑                                                    | 一般正常                                                   |
+| **解药**       | 停药 + 恢复 DA；BZD；难治 → **bromocriptine** 或 dantrolene      | **dantrolene** + 停麻醉药 + 降温                         | 停药 + 支持 + **cyproheptadine**                           | **phentolamine**（α 阻断）/ nitroprusside / labetalol（α+β） |
+| **一句话区分**    | "脑里**多巴胺不够**"                                           | "肌肉**钙太多**"                                        | "**5-HT 太多** + 反射亢进/阵挛"                                | "**NE 太多** + 血压爆"                                      |
 
 > [!warning] 别被表头误导：四个里高热"必有度"不同 ⭐
 > 本表名义是"高热四联"，但**高热只对 NMS / MH 是诊断要件**：
@@ -277,6 +277,7 @@ MAOI 患者出问题
   - [[mistakes/uworld-mistakes_2026-05#^Q2501]] NMS vs EPS 鉴别 + NMS 用药
   - [[mistakes/uworld-mistakes_2026-05#^Q20497]] Venlafaxine 剂量依赖性高血压（同 adrenergic 通路）
   - [[mistakes/uworld-mistakes_2026-06#^Q15653]] MH 恶性高热（术后 15min：全身肌强直 + 棕尿 myoglobinuria + 高碳酸；触发 = 琥珀胆碱 succinylcholine / 挥发麻醉剂；与 TRALI/DIC 靠"肌强直 + 棕尿"区分）
+  - [[mistakes/uworld-mistakes_2026-07#^Q16208]] MH 恶性高热（产科：子痫前期输镁 + 全麻剖宫产诱导后分钟级肌僵硬 + 高热 + 难通气；破"正在用镁 → 镁中毒"陷阱）
   - [[mistakes/uworld-mistakes_2026-06#^Q3691]] 劳力性热射病 EHS（第五位高热急症，冰水浸泡；误选赛庚啶）
   - [[mistakes/uworld-mistakes_2026-06#^Q3689]] 经典型热射病 NHS（老人热桑拿，蒸发降温；误选酒精戒断）
   - [[NBME11_错题本#^Q001]] 运动性热衰竭 vs 热射病（T39 可唤醒 = 热衰竭，误选血管迷走晕厥）— §五-bis
