@@ -54,6 +54,10 @@ type: 专题笔记
 > - **完全流产**：hCG **迅速下降** + 宫内空虚 + 内膜薄。
 > - **稽留流产**：出血少甚至无，靠"早孕反应消退 + US 无胎心"抓。
 
+![[L16818.jpg]]
+
+*流产分型 (abortion types)：Missed 稽留（无出血 + 宫颈闭 + 空孕囊/无胎心）· Threatened 先兆（出血 + 宫颈闭 + 有胎心）· Inevitable 难免（出血 + 宫颈开）· Incomplete 不全 · Complete 完全*
+
 ### 2.2 异位妊娠 (Ectopic pregnancy, 异位妊娠)
 
 - **诱因**：盆腔炎 (PID, pelvic inflammatory disease) / 输卵管手术或既往异位史 / 宫内节育器 (IUD, intrauterine device) / 辅助生殖。
@@ -107,6 +111,10 @@ type: 专题笔记
   - 胎心 (FHR, fetal heart rate, 胎心率) 见**复发性晚期减速 (late decelerations)** → 胎盘灌注受损。
 - **首选检查**：**临床诊断**！**超声阴性不能排除**（仅 ± 见胎盘后血肿 retroplacental hematoma）。
 - **并发症**：胎儿缺氧/早产/死亡；母体出血、**DIC**（剥离面释放组织因子 tissue factor → 激活外源凝血）；**Couvelaire 子宫**（血液渗入肌层 → 蓝紫色 → 产后宫缩乏力性出血）。
+
+![[L16446.jpg]]
+
+*Abruptio placentae 胎盘早剥：胎盘过早剥离 + 胎盘后血肿 (retroplacental hematoma) → 痛性阴道出血 + 子宫强直压痛*
 
 > [!danger] 妊娠期钝性腹部创伤 → 早剥 → 失血性休克：抢救优先级
 > ① **母体稳定**（气道 + **血制品输血**）→ ② 子宫复苏（**左侧卧位 + 氧疗**）→ ③ 胎儿评估（连续 FHR 监测 4–24h）→ ④ Rh(−) 者查 **KB 试验 (Kleihauer-Betke)** 指导 anti-D 剂量。

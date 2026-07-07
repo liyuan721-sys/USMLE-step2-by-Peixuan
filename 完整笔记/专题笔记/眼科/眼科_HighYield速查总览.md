@@ -255,8 +255,16 @@ Meyer's loop/颞叶 ── 对侧上象限盲 "Pie in the sky"
 ![[眼科_前葡萄膜炎.png]]
 *前葡萄膜炎 (anterior uveitis)：裂隙灯见睫状充血 (ciliary flush) + 角膜后沉着，伴疼痛畏光。*
 
+![[L84322.jpg]]
+
+*Anterior uveitis 前葡萄膜炎：睫状充血 / 角膜缘周围充血 (perilimbal injection / ciliary flush) + 前房积脓 (hypopyon)——痛性红眼 + 畏光*
+
 - 住院 + 中心静脉导管/TPN + 飞蚊 + 眼底白棉球浸润 → **Candida endophthalmitis**
 - 前额单侧痛 + 皮疹 + **Hutchinson sign（鼻尖）** → **Herpes zoster ophthalmicus (V1)** → oral valacyclovir
+
+![[L49884.jpg]]
+
+*头颈皮节：三叉神经眼支 (V1, ophthalmic) 支配角膜与鼻尖——HZ ophthalmicus 累及 V1 时角膜受累；Hutchinson 征（鼻尖疱疹）预示眼部受累*
 - 白内障术后 1 周突发痛/红/脓/视力快降 → **术后细菌性 endophthalmitis** → intravitreal antibiotics
 - 2 岁斗鸡眼 + **red reflex 不对称** → 下一步 **dilated funduscopy（排 retinoblastoma）**
 - 婴幼儿 opsoclonus-myoclonus + 腹部包块 + **periorbital ecchymosis（眶转移）** → **Neuroblastoma**

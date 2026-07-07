@@ -43,6 +43,12 @@ type: 专题笔记
 > - **< 32 周 → 硫酸镁 magnesium sulfate 胎儿神经保护**
 > - **< 37 周 → 据情况保胎 (tocolysis) + GBS 预防**
 
+PPROM (Preterm Premature Rupture Of Membranes, 未足月胎膜早破) 管理流程：
+
+![[L29779.png]]
+
+*PPROM 未足月胎膜早破管理：<34 周无并发症 → 期待 + latency 抗生素 (ampicillin + azithromycin) + 糖皮质激素 + 胎监；34–<37 周 → 分娩 + GBS 预防；感染/胎儿受累 → 分娩*
+
 ---
 
 ## 三、药物分工与"促宫缩药"黑名单

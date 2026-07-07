@@ -103,6 +103,10 @@ type: 专题笔记
 | **Vesicovaginal fistula** | 膀胱 ↔ 阴道**直接通道** | **术后 2-4 周** | **持续** watery 漏尿 + 无尿失禁感（缺血坏死形成瘘需时间）|
 | **Ureterovaginal fistula** | Ureter ↔ 阴道**直接通道** | 术后 2-4 周 | 类似 vesicovaginal + Cr 可↑（取决侧）|
 
+![[L29721.jpg]]
+
+*Vesicovaginal fistula 膀胱阴道瘘：膀胱与阴道间异常通道 → 持续无痛性漏尿（盆腔手术/分娩损伤后）*
+
 > [!warning] 反 pattern 锁定 ⭐
 > **"Vaginal cuff appears closed" ≠ 排除 uroperitoneum** — 闭合的 cuff 缝线缝隙仍能让液体渗出。USMLE stem 故意写 "cuff appears closed" 来钓"排除 uroperitoneum / 转向 SBO"反射，**这是陷阱不是排除**。
 

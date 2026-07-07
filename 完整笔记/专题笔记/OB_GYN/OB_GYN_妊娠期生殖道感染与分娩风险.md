@@ -47,6 +47,10 @@ genital HSV infection (生殖器疱疹)
 > - 妊娠 **≥36 周起 acyclovir / valacyclovir (阿昔洛韦 / 伐昔洛韦) 抑制治疗**，减少临产时复发与病灶
 > - 识别要点：**painful (疼痛性)** 外阴溃疡/水疱 → HSV；无痛硬下疳 (painless chancre) → 梅毒 (syphilis)
 
+![[L32500.png]]
+
+*妊娠合并 HSV 管理：孕期有 HSV 病史 → 36 周起抗病毒抑制 (acyclovir/valacyclovir)；临产时有活动性病灶/前驱症状 → 剖宫产，否则可阴道分娩*
+
 ---
 
 ## 三、GBS (B 族链球菌) 对照

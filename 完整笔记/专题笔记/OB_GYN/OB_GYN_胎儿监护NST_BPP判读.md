@@ -71,6 +71,24 @@ Variable:    V   或  \_/    与宫缩无关、急促 → 脐带受压
 > - **L**ate → P**l**acental insufficiency（胎盘）
 > 口诀 VEAL CHOP：**V**ariable-**C**ord / **E**arly-**H**ead / **A**ccel-**O**K / **L**ate-**P**lacental。
 
+四类描记图对照（early / late / variable / 心动过缓）：
+
+![[L20976.jpg]]
+
+*Early deceleration 早期减速：与宫缩镜像、谷底对宫缩峰、缓降缓升 → 胎头受压 (head compression)，良性（Q8962 考点）*
+
+![[L37723.png]]
+
+*Late deceleration 晚期减速：宫缩峰后延迟触底、缓慢对称 → 子宫胎盘功能不全 (uteroplacental insufficiency)，最不祥*
+
+![[L37724.png]]
+
+*Variable deceleration 变异减速：急降急升 ≥15 bpm、与宫缩无固定关系 → 脐带受压 (cord compression)*
+
+![[L28513.jpg]]
+
+*Fetal bradycardia 胎儿心动过缓：基线骤降至 ~60 bpm 且不恢复 (no recovery)——与减速的区别在于减速会回到基线*
+
 ---
 
 ## 三、三类 FHR 分类系统（NICHD Category I / II / III）
