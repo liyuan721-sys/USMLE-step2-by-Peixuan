@@ -89,6 +89,10 @@ Variable:    V   或  \_/    与宫缩无关、急促 → 脐带受压
 
 *Fetal bradycardia 胎儿心动过缓：基线骤降至 ~60 bpm 且不恢复 (no recovery)——与减速的区别在于减速会回到基线*
 
+![[L31736.png]]
+
+*Fetal tachycardia 胎儿心动过速：基线 >160 bpm（图示 ~180）+ 变异性降低 (minimal variability)。最常见病因 = **母体发热 / 绒毛膜羊膜炎 (chorioamnionitis)**；其他包括母体甲亢、拟交感药、胎儿贫血/缺氧。处理指向病因（如疑感染 → 查找并治疗宫内感染），非单纯胎心问题*
+
 ---
 
 ## 三、三类 FHR 分类系统（NICHD Category I / II / III）

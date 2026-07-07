@@ -112,6 +112,7 @@ tags:
 
 ## 关联
 - 源错题：[[mistakes/uworld-mistakes_2026-07#^Q12034]]（产后尿潴留 = 膀胱失张力）
+- 源错题：[[mistakes/uworld-mistakes_2026-07#^Q16489]]（子宫乏力 PPH 宫缩剂禁忌：高血压禁甲基麦角新碱 / 哮喘禁卡前列素）
 - [[完整笔记/专题笔记/OB_GYN/OB_GYN_产后发热鉴别]]
 - [[完整笔记/专题笔记/OB_GYN/OB_GYN_HighYield速查总览]]
 - [[完整笔记/Peixuan分科笔记/OB]]

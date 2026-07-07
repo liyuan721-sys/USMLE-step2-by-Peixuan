@@ -69,6 +69,28 @@ type: 专题笔记
 
 ---
 
+## 三-bis、孕期疫苗三分层（完整清单）⭐（Q12361）
+
+> [!info] 三层：常规推荐 / 高危才打 / 禁用
+
+| 层级 | 疫苗 |
+|---|---|
+| **常规推荐 (recommended)** | **Tdap（百白破，27-36 周每次妊娠）、灭活流感 (inactivated influenza，任何孕周)、Rho(D) 免疫球蛋白 (anti-D)** |
+| **高危才打 (indicated for high-risk)** | 乙肝 HepB、甲肝 HepA、肺炎球菌 pneumococcus、b 型流感嗜血杆菌 Hib、脑膜炎球菌 meningococcus、水痘-带状疱疹免疫球蛋白 VZIG (varicella-zoster immune globulin) |
+| **禁用 (contraindicated，均为活疫苗)** | **HPV（人乳头瘤病毒 human papillomavirus）、MMR、鼻喷减毒流感 (live attenuated influenza)、水痘 varicella** |
+
+> [!warning] 水痘暴露的处理逻辑（Q12361 陷阱）
+> 孕妇接触水痘 (varicella) → **先看她自己免不免疫**：
+> - **水痘 IgG 阳性 = 已免疫 → 无需处理**（哪怕刚暴露）。
+> - **水痘 IgG 阴性（非免疫）+ 暴露 → 给 VZIG（水痘-带状疱疹免疫球蛋白，被动免疫）**；活的水痘疫苗孕期禁用。
+
+> [!tip] Q12361 为什么选灭活流感而非其他
+> - **风疹 IgG/IgM 阴性（非免疫）→ MMR 是活疫苗孕期禁**（产后补），现在不能打。
+> - **anti-D 常规在 28 周**给，20 周还没到。
+> - **Tdap 在 27-36 周**，20 周也还没到。
+> - **水痘 IgG 阳性 → 免疫**，无需 VZIG。
+> - → 唯一现在该打 = **灭活流感疫苗**（9 月流感季 + 任何孕周安全，越早越好）。
+
 ## 四、复习题
 
 > [!question]- 产后 6 周复查，孕期记录示 rubella nonimmune，产程顺利、无不适。下一步？
@@ -84,7 +106,8 @@ type: 专题笔记
 
 ## 🔗 关联
 
-- 🔁 同主题错题：（待补）
+- 🔁 同主题错题：
+  - [[mistakes/uworld-mistakes_2026-07#^Q12361]] 孕 20 周流感季 → 灭活流感疫苗（水痘 IgG+ 免疫免 VZIG；MMR/anti-D/Tdap 时机未到）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/OB]] / [[完整笔记/专题笔记/OB_GYN/OB_GYN_HighYield速查总览]]
 - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/免疫疫苗]]（活疫苗 vs 灭活疫苗孕期使用规则）
 - 🌱 反链：[[NBME/nbme-records/NBME 11/NBME11A_S3_breakdown#^Q129]]
