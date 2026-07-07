@@ -1039,6 +1039,16 @@ type: 备考资料
 | 症状/描述 ⚠️ | 轻微持续的小痛、隐隐不适（名词/动词；患者口语高频淡化说法："it's just a **niggle** in my back" / "a **niggling** pain that won't go away" 一直好不了的小隐痛——OET 里属于 hedging 式轻描淡写，填空时可能要还原成 mild/persistent discomfort）；也指小烦恼、小疑虑（a niggling doubt 挥之不去的小疑虑）。拼写陷阱：双写 **gg**——n-i-**gg**-l-e；听感易与 wiggle（扭动）/ giggle（咯咯笑）混，靠语境定 | niggle（niggling pain） |
 | 形容/状态 ⚠️ | 令人难以置信的、（信息/数字）多到脑子转不过来（患者/家属语境："the amount of information is a bit **mind-boggling**" 信息量大得懵了——诊断告知 breaking bad news/新确诊糖尿病 diabetes 宣教后家属常这么说）。⚠️ **误听陷阱：正确是 mind-boggling，不存在 "mindgobbling"**——是 **boggle**（惊得发懵）不是 **gobble**（狼吞虎咽）；拼写 b-o-**gg**-l-i-n-g 双写 gg + 连字符 mind-boggling | mind-boggling |
 
+### 2026-07-07 补（5 词，阅读来源）
+
+| 类别 | 中文 | English |
+|---|---|---|
+| 药物/物质 ⚠️ | 万灵药、灵丹妙药（希腊神话医药全能女神 Panacea 得名；/ˌpænəˈsiːə/ 重音在 -ce-）。**实际使用几乎全是否定/贬义的比喻**："X is **not a panacea** (for Y)" X 不是包治百病的灵丹（Reading Part C 作者态度题高频句式，表转折保留意见）；"there is no panacea for..." ……没有万全之策。近义：cure-all（口语版万灵药）、magic bullet（特效药/一招制胜）。拼写陷阱：词尾是 **-cea**（c 发 /s/），别写成 "panasea/panecia"——pan-（全）+ acea，p-a-n-a-c-e-a | panacea |
+| 症状/描述 ⚠️ | 痛苦、折磨；疾患（比 disease 更带"人受苦"色彩的正式词，医学人文/叙事医学 narrative medicine 文章高频；动词 **afflict**：those **afflicted with/by** dementia 罹患痴呆的人 = suffering from 的书面版）。语域对照：disease 疾病本体 / illness 患病体验 / ailment 小恙 / **affliction** 折磨性病痛。拼写陷阱：①双写 **ff**；②词尾 **-ction** 直接接在 afflict 后，**不是 "-cation"**——受 application 干扰误写成 "afflication" 是最常见错法（本次收词即因此误记） | affliction |
+| 形容/状态 ⚠️ | 无生命的（in- 否定 + anima 拉丁语"灵魂/气息"；同根：animated 有生气的、unanimous 全体一致的）。感染控制高频：病原体可在 **inanimate objects**（门把手/听诊器 stethoscope 等无生命物体）表面存活——即 **fomites**（污染媒介物）的定义；医学人文语境=批评把患者"物化"。发音陷阱：形容词词尾弱读 /-mət/，**不是** /-meɪt/（后者是动词 animate 制作动画/使有生命——同拼写不同词性不同读音，类似 separate/graduate） | inanimate |
+| 形容/状态 ⚠️ | 暂定的、初步的、试探性的（拉丁 tentare 尝试）。临床最高频搭配：**tentative diagnosis** 初步诊断/拟诊（= provisional / working diagnosis，待检查确认）；日程语境：a tentative appointment 暂定的预约（待确认）；描述动作/态度=犹豫试探的：first **tentative** steps（术后/康复初次下地的试探性步伐）、a tentative smile。**OET 双重身份**：它既是词汇，也是 Writing/Speaking 评分概念——不确定的诊断要用 **tentative language**（试探性措辞：may / might / possibly / it appears that），写转诊信把拟诊写成确诊会扣分。拼写陷阱：中间元音是 **a**——tent-**a**-tive，别写成 "tentitive/tentetive"；双 t 结构 t-e-n-t-a-t-i-v-e | tentative |
+| 动作/短语 ⚠️ | 反复唠叨、喋喋不休地说（harp 竖琴→"反复弹同一根弦"；常带自嘲缓和语气——医生宣教戒烟/减重/依从性 adherence 语境高频："sorry to **harp on**, but..." 恕我啰嗦）；固定搭配 **harp on about + 话题**："my doctor keeps harping on about my weight"。配套短语 **get through**：（反复说的信息）被真正听进去/理解——"until the message **gets through**"；get through **to** sb 说得通、让某人听进去。**误听陷阱：harping /ˈhɑːpɪŋ/ ≈ hopping /ˈhɒpɪŋ/（跳）**——后接 on about + 话题的一定是 harp；"keep" 弱读别听成不存在的 "heep"（本次收词即因此误记 "heep hopping"） | harp on (about) |
+
 ---
 
 ## §二 挖空版（拼写骨架）
