@@ -80,7 +80,8 @@ type: 专题笔记
 
 ## 🔗 关联
 
-- 🔁 待补：等早产/保胎题积累后回填同主题错题
+- 🔁 同主题错题：
+  - [[mistakes/uworld-mistakes_2026-07#^Q16233]] PPROM <34 周（无并发症）→ 预防性 latency 抗生素 + 激素（不保胎；<32 周才加镁）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/OB]]
 - 🏥 跨学科：[[完整笔记/专题笔记/OB_GYN/OB_GYN_产科新生儿感染抗生素]]（GBS 预防用药与新生儿感染防治衔接）
 - 🌱 源题：[[NBME/nbme-records/NBME 11/NBME11A_S2_breakdown#^Q098]]

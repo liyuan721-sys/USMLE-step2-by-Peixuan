@@ -185,6 +185,8 @@ type: 专题笔记
 
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes_2026-06#^Q047]] 妊娠期宫颈癌出血（friable ulcer / 胎盘后底排前置 / 宫颈口闭排流产）
+  - [[mistakes/uworld-mistakes_2026-07#^Q12318]] 稽留流产（β-hCG 下降 + 空孕囊，自然流产分型）
+  - [[mistakes/uworld-mistakes_2026-07#^Q2535]] 孕期钝性腹外伤 → 胎盘早剥 + 失血性休克（母体复苏优先输血）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/OB]] / [[完整笔记/Peixuan分科笔记/GYN]] / [[完整笔记/专题笔记/OB_GYN/OB_GYN_HighYield速查总览]]（A6 产前出血）
 - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/感染]]（HPV → 宫颈癌）；[[完整笔记/专题笔记/血液/血液_TMA四鉴别_HUS_TTP_DIC_ITP]]（胎盘早剥 → DIC）
 - 🌱 TODO：积累 vasa previa / 胎盘植入 / 葡萄胎追踪 hCG 的独立错题后，按需细化各病专卡
