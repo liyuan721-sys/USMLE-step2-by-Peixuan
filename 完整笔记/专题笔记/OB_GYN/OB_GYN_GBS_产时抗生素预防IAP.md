@@ -166,6 +166,33 @@ type: 专题笔记
 > **"氨苄盖 G+（含头孢盖不了的肠球菌/李斯特），庆大盖 G−，剖了再加厌氧"**；和产后内膜炎的区别是**起手药换了头**（绒毛膜=氨苄起手，产后=克林起手）。
 > 另记两点：① 治疗必须**绑定 prompt delivery（尽快分娩）**——感染源要娩出，剖宫产是另有产科指征而非因感染本身；② 疗程短，多数分娩后即停或再补一剂。
 
+### 5.2 宫内感染 (IAI) 完整治疗四件套
+
+> [!info] 术语
+> **IAI = Intraamniotic Infection（宫内感染）**，即旧称 chorioamnionitis（绒毛膜羊膜炎），现也称 **"Triple I"（intrauterine inflammation and/or infection，宫内炎症和/或感染）**。
+
+治疗不止抗生素，共四件套：
+
+| # | 措施 | 要点 |
+|---|---|---|
+| ① | **广谱抗生素（一诊断即上）** | Ampicillin（氨苄西林）+ Gentamicin（庆大霉素）；剖宫产加 Clindamycin（克林霉素）/Metronidazole（甲硝唑）补厌氧。疗程短：阴道分娩产后补一剂即停，剖宫产至少再补 |
+| ② | **退热 Antipyretics** | **Acetaminophen（对乙酰氨基酚）**降母体体温——母体发热本身 → 胎儿心动过速 (fetal tachycardia)，降温改善胎心、减少误判胎儿窘迫 |
+| ③ | **尽快分娩 prompt delivery** | 加快产程、经**最安全路径**分娩；**首选阴道分娩**（见下方 danger） |
+| ④ | **通知新生儿科** | 新生儿按 **early-onset neonatal sepsis（早发型新生儿败血症）** 风险评估/监测 |
+
+> [!danger] 最高频陷阱："尽快分娩" ≠ "立刻剖宫产"
+> - **IAI 本身不是剖宫产指征**；首选**阴道分娩**，可**继续催产 (oxytocin augmentation)** 推进产程。
+> - 只有**另有产科指征**（胎儿窘迫 Category III、产程停滞、胎位异常等）才剖。
+> - 逻辑：感染源（受感染的宫腔内容物）**娩出**才是根治，抗生素只是配合——不是"有感染就赶紧剖"。
+
+> [!info] 诊断标准（理解为什么这么治）
+> - **确诊性发热**：单次 **≥39.0°C**；或 **38.0–38.9°C + 至少一条**（胎儿心动过速 >160/min、母体 WBC >15,000、脓性宫颈分泌物 purulent cervical discharge）。
+> - **Isolated maternal fever（孤立性母体发热）**：38.0–38.9°C 且无其他征象——多数仍给抗生素。
+
+> [!warning] 不治的后果（记忆动机）
+> - 母体：sepsis（脓毒症）、**产后宫缩乏力 (uterine atony) → 产后出血 (postpartum hemorrhage, PPH)**、产后子宫内膜炎。
+> - 胎儿/新生儿：sepsis、肺炎、脑损伤。
+
 ---
 
 ## 六、鉴别一眼过
