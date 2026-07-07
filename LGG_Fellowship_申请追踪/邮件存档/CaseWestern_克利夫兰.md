@@ -3,7 +3,7 @@ title: Case Western / UH Cleveland（克利夫兰）— LGG 申请邮件存档
 type: 申请邮件存档
 school: Case Western / University Hospitals Cleveland
 created: 2026-07-05
-status: 已发送-资格存疑-等回复
+status: ❌ 已回复-出局（硬性要求 PhD，MD 不合格）
 ---
 
 # Case Western / UH Cleveland（克利夫兰）— LGG 申请邮件存档
@@ -56,6 +56,36 @@ status: 已发送-资格存疑-等回复
 
 ### 回复记录
 
-- **日期**：______
-- **内容**（MD 是否可报 / 是否只收 PhD）：______
-- **下一步**：______（可报 → 备 CV + cover letter + 3 封推荐信，9/15 前投；不可报 → 划掉）
+- **2026-07-07　❌ 正式回复（Mindy Focarelli-Gjerek, MBA, Pathology Program Administrator）**：
+
+> Hello Yuan!
+>
+> Thank you for your interest in the Laboratory Genetics and Genomics Fellowship at University Hospitals/Case Western Reserve University.
+>
+> **Having a PhD is a requirement for this program.**
+>
+> Thank you,
+> Mindy Focarelli-Gjerek, MBA
+
+- **结论**：❌ **本轮出局** —— PhD 是**硬性要求**（原"偏好 PhD"实为必须）；你的 **Doctor of Clinical Medicine（MD 性质）+ ABMGG 认可**不满足，灰色地带被关闭。资格确认信探口风的策略成功省下了备全套材料的功夫。
+- **未来**：无路径（除非将来拿到生物科学 PhD，本轮不适用）→ **干净划掉**。
+
+### ② 我的回复致谢信（已发送）
+
+- **状态**：✅ **已发送（2026-07-07）**（礼貌收尾，保持关系）
+- **收件人**：PathologyFellowship@UHhospitals.org（Mindy Focarelli-Gjerek）
+- **主题**：Re: Eligibility question — LGG Fellowship (July 2027 start)
+- **Word 版**：`Desktop\LGG报名\各学校沟通邮件\已发送\CaseWestern_LGG_reply_email.docx`
+
+**正文：**
+
+> Dear Mindy,
+>
+> Thank you very much for your prompt reply and for clarifying the program's requirements. I understand that a PhD is required for the Laboratory Genetics and Genomics Fellowship at University Hospitals / Case Western Reserve University, and I appreciate you letting me know before I prepared a full application.
+>
+> Thank you again for your time and consideration, and I wish you and the program all the best.
+>
+> Best regards,
+> Yuan Li, MD
+> (424) 206-0307
+> liyuan721@gmail.com
