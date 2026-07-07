@@ -51,14 +51,30 @@ type: 专题笔记
 > - **停滞**（宫缩已足够 MVU≥200，却 ≥4h 不开）→ 再加缩宫素/再等都无益 → **剖**。
 > - **别因胎心正常（Category 1）就选"再观察"**——停滞的处理由**产程标准**决定，不由胎心决定。
 
-### 3. 第二产程停滞（顺带记）
+### 3. 第二产程停滞 ⭐（Q15688）
 
-| 情况 | 停滞定义（无进展时长） |
-|---|---|
-| 初产妇 (nulliparous) | ≥3h（有硬膜外）/ ≥2h（无硬膜外） |
-| 经产妇 (multiparous) | ≥2h（有硬膜外）/ ≥1h（无硬膜外） |
+> [!warning] 时长判据：有硬膜外 = 更长（+1h），别记反
+> 第二产程（宫口开全 → 胎儿娩出）用力无进一步下降达下列时长 = **第二产程停滞 (second-stage arrest)**。**硬膜外镇痛 (epidural) 会延长第二产程 → 有硬膜外的阈值比无硬膜外多 1 小时**（不是更短）。
 
-第二产程停滞 → 据先露高低/条件选**器械助产 (operative vaginal delivery)** 或**剖宫产**。
+| 产次 | 无硬膜外 | 有硬膜外 |
+|---|---|---|
+| 初产妇 (nulliparous) | ≥3h | **≥4h** |
+| 经产妇 (multiparous) | ≥2h | **≥3h** |
+
+> [!tip] 第二产程停滞 → 器械助产 vs 剖宫产（怎么选）
+> 关键看**胎头下降程度 + 有无头盆不称 (cephalopelvic disproportion, CPD)**：
+> - **胎头已充分下降（如 +3）+ 位置有利（枕前位 OA/LOA）+ 无 molding/caput（无 CPD）** → **器械助产 (operative vaginal delivery)**：真空胎吸 (vacuum) / 产钳 (forceps) 加速娩出。
+> - **胎头高浮 / 头盆不称 / 位置不利** → **剖宫产 (cesarean delivery)**。
+>
+> 器械助产其他指征：**产妇精疲力竭 (maternal exhaustion)**、胎儿窘迫、母体禁用 Valsalva 用力（如肥厚型心肌病 hypertrophic cardiomyopathy）。
+
+> [!danger] 高频陷阱：宫底加压 ≠ 加速手段
+> **宫底加压 (fundal pressure)** 是向最头端子宫施加外部压力，**不提高自发阴道分娩率**、不解决停滞——第二产程停滞 + 胎头已下降无 CPD 的正解是**器械助产**，不是宫底加压、不是内倒转（单胎臀位禁忌）、不是把胎头转成枕后位 OP（更大径线、降低自发分娩率）。
+
+> [!question]- 28 岁初产妇，硬膜外，开全 + 胎头 +3，用力 4h 精疲力竭，LOA 位无 molding/caput，胎重估 3.4kg，胎心 Category 1。下一步？（干扰：宫底加压 / 降硬膜外速度 / 内倒转 / 转 OP 位）
+> **器械助产（真空胎吸 vacuum-assisted delivery）**。
+> - 硬膜外初产妇用力 ≥4h 无下降 = 第二产程停滞；胎头已 +3、LOA、无 molding/caput（无 CPD）+ 骨盆合适 → 有下降空间 → 器械助产加速娩出（而非剖宫产）。
+> - 宫底加压不改善分娩率；内倒转仅用于双胎第二胎、单胎禁忌；转 OP 位增大径线降低成功率。
 
 ### 4. 停滞病因（3P）
 
@@ -199,6 +215,7 @@ type: 专题笔记
 
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes_2026-07#^Q3116]] 活跃期停滞（≥6cm + MVU240 + 4h 无变化 → 剖；误选再等 2h）
+  - [[mistakes/uworld-mistakes_2026-07#^Q15688]] 第二产程停滞（硬膜外初产 ≥4h + 胎头 +3 无 CPD → 器械助产；误选宫底加压）
   - [[mistakes/uworld-mistakes_2026-07#^Q4794]] 肩难产 → McRoberts 屈髋首选（误选 Zavanelli 推头回纳）
   - [[mistakes/uworld-mistakes_2026-07#^Q15691]] 胎先露不明 → 经腹超声（误选人工破膜）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/OB]] / [[完整笔记/专题笔记/OB_GYN/OB_GYN_HighYield速查总览]]

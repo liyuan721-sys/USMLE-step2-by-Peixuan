@@ -72,6 +72,10 @@ type: 专题笔记
 > - β-hCG **> 3,500 且宫腔空虚** → 异位妊娠。
 > - 策略：等 hCG 达辨别带后复查 US，仍不见宫内孕方诊断异位。
 
+![[L16263.png]]
+
+*可疑异位妊娠处理流程 (management of suspected ectopic pregnancy)：阳性尿 hCG + 下腹痛/阴道出血 →【血流动力学稳定】做 TVUS → 附件包块 = 治异位；宫内孕 = 排除；不确定 (nondiagnostic) → 查血 β-hCG（**≥3,500 IU/L** 且宫腔空 → 2 天后复查 hCG + TVUS；**<3,500 IU/L** → 2 天后复查 hCG）。【血流动力学不稳定】→ 立即手术会诊 (immediate surgical consultation)*
+
 ### 2.3 葡萄胎 (Hydatidiform mole, 葡萄胎)
 
 - **典型 stem 钩子 → 临床意义**：
