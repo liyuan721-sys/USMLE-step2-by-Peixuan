@@ -100,5 +100,5 @@ GDM 产后
   - [[mistakes/uworld-mistakes_2026-07#^Q4793]] GDM 饮食控制失败 → 胰岛素（二线首选）
   - [[mistakes/uworld-mistakes_2026-07#^Q4794]] GDM 巨大儿 → 肩难产 → McRoberts（GDM 并发症链）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/OB]] / [[完整笔记/Peixuan分科笔记/endocrine]]
-- 🏥 跨学科：[[完整笔记/专题笔记/内分泌/内分泌_HighYield速查总览]]（糖尿病药物 / 孕期安全性）/ [[完整笔记/专题笔记/OB_GYN/OB_GYN_肩难产处理BECALM]]（巨大儿 → 肩难产）
+- 🏥 跨学科：[[完整笔记/专题笔记/内分泌/内分泌_HighYield速查总览]]（糖尿病药物 / 孕期安全性）/ [[完整笔记/专题笔记/OB_GYN/OB_GYN_产时异常与难产]]（巨大儿 → 肩难产）
 - 🌱 TODO：无

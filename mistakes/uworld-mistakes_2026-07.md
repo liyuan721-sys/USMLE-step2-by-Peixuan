@@ -1952,7 +1952,7 @@ type: 错题数据源
 > ## 🔗 关联
 > - 🔁 同主题错题：
 >   - [[mistakes/uworld-mistakes_2026-07#^Q16208]] 恶性高热（同"高热肌强直急症"鉴别，镁中毒是反射消失方向的对立面）
-> - 📚 主笔记：[[完整笔记/专题笔记/USMLE/USMLE_高热肌强直急症鉴别]]（镁中毒 vs MH/NMS/SS 反射方向）/ [[完整笔记/Peixuan分科笔记/OB]]
+> - 📚 主笔记：[[完整笔记/专题笔记/OB_GYN/OB_GYN_硫酸镁临床应用与镁中毒]]（完整版：用途/机制/阶梯/处理）/ [[完整笔记/专题笔记/USMLE/USMLE_高热肌强直急症鉴别]]（镁中毒 vs MH/NMS/SS 反射方向）/ [[完整笔记/Peixuan分科笔记/OB]]
 > - 🏥 跨学科：[[完整笔记/专题笔记/外科/外科_麻醉并发症恶性高热]]（镁中毒在 MH 鉴别表内）/ [[完整笔记/Peixuan分科笔记/肾脏]]（镁经肾排、少尿→蓄积）
 > - 🌱 TODO：无
 > 
@@ -2053,9 +2053,9 @@ type: 错题数据源
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：无
-> - 📚 主笔记：[[完整笔记/专题笔记/OB_GYN/OB_GYN_肩难产处理BECALM]] / [[完整笔记/Peixuan分科笔记/OB]] / [[完整笔记/专题笔记/OB_GYN/OB_GYN_HighYield速查总览]]
+> - 📚 主笔记：[[完整笔记/专题笔记/OB_GYN/OB_GYN_产时异常与难产]] / [[完整笔记/Peixuan分科笔记/OB]] / [[完整笔记/专题笔记/OB_GYN/OB_GYN_HighYield速查总览]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/儿科]]（臂丛损伤 Erb 麻痹）
-> - 🌱 TODO：✅ 已建 [[完整笔记/专题笔记/OB_GYN/OB_GYN_肩难产处理BECALM]]
+> - 🌱 TODO：✅ 已建 [[完整笔记/专题笔记/OB_GYN/OB_GYN_产时异常与难产]]
 > 
 > ## ✅ 复盘行动
 > - [ ] 默写 BE-CALM 顺序
@@ -2100,7 +2100,7 @@ type: 错题数据源
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：无
-> - 📚 主笔记：[[完整笔记/专题笔记/OB_GYN/OB_GYN_产后并发症鉴别]]（PPH/子宫乏力）/ [[完整笔记/Peixuan分科笔记/OB]]
+> - 📚 主笔记：[[完整笔记/专题笔记/OB_GYN/OB_GYN_产科用药总览]]（§二 PPH 宫缩剂阶梯：麦角怕高压 / 前列素怕哮喘）/ [[完整笔记/专题笔记/OB_GYN/OB_GYN_产后并发症鉴别]]（PPH/子宫乏力）/ [[完整笔记/Peixuan分科笔记/OB]]
 > - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/pulmonary]]（卡前列素诱发支气管痉挛 / 哮喘）
 > - 🌱 TODO：无
 > 
@@ -2147,9 +2147,9 @@ type: 错题数据源
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：无
-> - 📚 主笔记：[[完整笔记/专题笔记/OB_GYN/OB_GYN_产程异常延缓与停滞]] / [[完整笔记/Peixuan分科笔记/OB]] / [[完整笔记/专题笔记/OB_GYN/OB_GYN_HighYield速查总览]]
+> - 📚 主笔记：[[完整笔记/专题笔记/OB_GYN/OB_GYN_产时异常与难产]] / [[完整笔记/Peixuan分科笔记/OB]] / [[完整笔记/专题笔记/OB_GYN/OB_GYN_HighYield速查总览]]
 > - 🏥 跨学科：无
-> - 🌱 TODO：✅ 已建 [[完整笔记/专题笔记/OB_GYN/OB_GYN_产程异常延缓与停滞]]
+> - 🌱 TODO：✅ 已建 [[完整笔记/专题笔记/OB_GYN/OB_GYN_产时异常与难产]]
 > 
 > ## ✅ 复盘行动
 > - [ ] 默写延缓 vs 停滞定义 + 处理
@@ -2195,9 +2195,9 @@ type: 错题数据源
 > 
 > ## 🔗 关联
 > - 🔁 同主题错题：无
-> - 📚 主笔记：[[完整笔记/专题笔记/OB_GYN/OB_GYN_胎先露异常与脐带脱垂]] / [[完整笔记/Peixuan分科笔记/OB]] / [[完整笔记/专题笔记/OB_GYN/OB_GYN_HighYield速查总览]]
+> - 📚 主笔记：[[完整笔记/专题笔记/OB_GYN/OB_GYN_产时异常与难产]] / [[完整笔记/Peixuan分科笔记/OB]] / [[完整笔记/专题笔记/OB_GYN/OB_GYN_HighYield速查总览]]
 > - 🏥 跨学科：无
-> - 🌱 TODO：✅ 已建 [[完整笔记/专题笔记/OB_GYN/OB_GYN_胎先露异常与脐带脱垂]]
+> - 🌱 TODO：✅ 已建 [[完整笔记/专题笔记/OB_GYN/OB_GYN_产时异常与难产]]
 > 
 > ## ✅ 复盘行动
 > - [ ] 默写"先露不明 → 经腹超声"+ 破膜致脐带脱垂机制
@@ -2218,6 +2218,13 @@ type: 错题数据源
 > 
 > ## 核心概念
 > **脓毒性盆腔血栓性静脉炎 (septic pelvic thrombophlebitis, SPT)**：盆腔/卵巢深静脉血栓继发感染。**产后发热最常见是子宫内膜炎 (endometritis) → 经验广谱抗生素**；若**广谱抗生素无效的持续发热 + 感染学检查阴性（血/尿培养、UA 阴性）→ SPT（排除性诊断）**。治疗 = **抗凝 (anticoagulation) + 广谱抗生素**。
+> 
+> ## 病理与诱因
+> **本质**：**深盆腔静脉或卵巢静脉 (deep pelvic / ovarian veins) 的血栓继发感染**（→ 查体**双侧下腹压痛 bilateral lower quadrant tenderness** 是线索）。
+> **产后易栓三诱因（= Virchow 三要素）**：
+> - **妊娠高凝状态 (hypercoagulable state of pregnancy)**
+> - **盆腔静脉淤滞与扩张 (pelvic venous stasis & dilation)**
+> - **分娩时感染 / 创伤致内皮损伤 (endothelial damage from infection/trauma during delivery)**
 > 
 > ## 普适规则（产后发热"抗生素无效"思路）
 > 

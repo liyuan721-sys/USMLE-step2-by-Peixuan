@@ -58,7 +58,7 @@ type: 专题笔记
 
 - **典型出现时间**：POD 2–3（产后 >24h）。
 - **题干钩子**：发热 + **子宫底压痛 (uterine fundal tenderness)** + **恶露脓臭 (purulent/foul lochia)** + 白细胞增多 (leukocytosis)。
-  - → 临床意义：题干常**只写"弥漫下腹压痛"不直写 uterus**，本质是子宫压痛（Q126 考点）。
+  - → 临床意义：题干常**只写"<font color="#ff0000">弥漫下腹压痛</font>"不直写 uterus**，本质是子宫压痛（Q126 考点）。
 - **高危因素**：**剖宫产（最大）**、难产/产程延长 (prolonged labor)、胎膜破裂时间久（prolonged ROM, rupture of membranes，胎膜破裂）、绒毛膜羊膜炎 (chorioamnionitis)、反复阴道检查、B 族链球菌 (GBS, Group B Streptococcus) 定植、器械助产。
 - **病原**：**多菌混合 (polymicrobial)** — 厌氧 + 需氧 G− + GBS/肠球菌。
 - **处理**：**IV 克林霉素 clindamycin + 庆大霉素 gentamicin**（首选，覆盖厌氧 + G−）；疗效差 / 疑肠球菌 (Enterococcus) → **加氨苄西林 ampicillin**（头孢常覆盖不到肠球菌）。退热 48h 后可停。
@@ -85,6 +85,12 @@ type: 专题笔记
 - **典型出现时间**：产后/术后，**抗生素治疗数天后**仍发热。
 - **机制**：盆腔静脉（多卵巢静脉 ovarian vein）内**感染性血栓**持续播散菌血症 → 抗生素难穿透血栓。
 - **题干钩子**：持续 spiking fever **+ 对抗生素无反应** + 影像（CT/MRI）可见盆腔/卵巢静脉血栓（但常为临床/排除诊断）。
+- **本质定义**：**深盆腔静脉或卵巢静脉 (deep pelvic / ovarian veins) 的血栓继发感染**——血栓 + 感染两件事叠加。
+- **查体线索**：**双侧下腹压痛 (bilateral lower quadrant tenderness)**（对应深盆腔/卵巢静脉走行区）。
+- **易栓三诱因（= Virchow 三要素在产后的体现）**：
+  - **妊娠高凝状态 (hypercoagulable state of pregnancy)** —— 高凝
+  - **盆腔静脉淤滞与扩张 (pelvic venous stasis & dilation)** —— 血流淤滞
+  - **分娩时感染 / 创伤致内皮损伤 (endothelial damage from infection/trauma during delivery)** —— 内皮损伤
 - **诊断性试验 / 处理**：**经验性加用肝素 (heparin) 抗凝** —— **加肝素后退热 = 既是诊断又是治疗**（"therapeutic + diagnostic trial of heparin"）；同时**继续广谱抗生素**。
   - 记忆：**抗生素无效的产后持续热 → 试肝素，热退即确诊。**
 

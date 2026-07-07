@@ -1049,9 +1049,19 @@ type: 备考资料
 | 形容/状态 ⚠️ | 暂定的、初步的、试探性的（拉丁 tentare 尝试）。临床最高频搭配：**tentative diagnosis** 初步诊断/拟诊（= provisional / working diagnosis，待检查确认）；日程语境：a tentative appointment 暂定的预约（待确认）；描述动作/态度=犹豫试探的：first **tentative** steps（术后/康复初次下地的试探性步伐）、a tentative smile。**OET 双重身份**：它既是词汇，也是 Writing/Speaking 评分概念——不确定的诊断要用 **tentative language**（试探性措辞：may / might / possibly / it appears that），写转诊信把拟诊写成确诊会扣分。拼写陷阱：中间元音是 **a**——tent-**a**-tive，别写成 "tentitive/tentetive"；双 t 结构 t-e-n-t-a-t-i-v-e | tentative |
 | 动作/短语 ⚠️ | 反复唠叨、喋喋不休地说（harp 竖琴→"反复弹同一根弦"；常带自嘲缓和语气——医生宣教戒烟/减重/依从性 adherence 语境高频："sorry to **harp on**, but..." 恕我啰嗦）；固定搭配 **harp on about + 话题**："my doctor keeps harping on about my weight"。配套短语 **get through**：（反复说的信息）被真正听进去/理解——"until the message **gets through**"；get through **to** sb 说得通、让某人听进去。**误听陷阱：harping /ˈhɑːpɪŋ/ ≈ hopping /ˈhɒpɪŋ/（跳）**——后接 on about + 话题的一定是 harp；"keep" 弱读别听成不存在的 "heep"（本次收词即因此误记 "heep hopping"） | harp on (about) |
 
----
+### 2026-07-07 补（9 词，听力 Part C：concussion 访谈 + SPRINT 讲座）
 
-## §二 挖空版（拼写骨架）
+| 类别 | 中文 | English |
+|---|---|---|
+| 动作/短语 ⚠️ | 试用、试验（动词！trial 名词"试验"大家都认识，但 OET 爱用它做动词 = test / try out："They're **trialing** helmet sensors" 他们在试用头盔传感器）。**误听陷阱：听感像 "trilling"（颤音）**——语境是设备/方案测试的一定是 trial 动词。拼写：**美式单 L trialing**（英式 trialling 双 L，听到不用管，写美式） | trialing（动词 trial） |
+| 症状/描述 ⚠️ | （症状）消退、平息（"shouldn't play again until warning signs have completely **subsided**" 等症状完全消退；= settle / die down / clear up——四个都是"症状退了"的同义替换链，填空互换高频）。拼写陷阱：sub- + side，**-side 不是 -cide**（-cide 是"杀"：suicide/pesticide）——s-u-b-s-i-d-e；名词 subsidence | subside |
+| 症状/描述 ⚠️ | 累积叠加效应（"the **compounding** effect of one concussion followed by another" 一次脑震荡接着又一次的叠加效应 = **cumulative** effect / **add up** over the player's career 在职业生涯中日积月累——三种说法同一个意思，Part C 正确项爱用 cumulative 替换音频里的 compounding/add up）。⚠️ 同词不同义：compound 此处"复利式加重" ≠ 库内已有 compound fracture 开放性骨折 | compounding / cumulative effect |
+| 症状/描述 ⚠️ | 定向障碍的、晕头转向的（脑震荡 concussion（库内已有 #72，复习即可）三联征之一："they become **disoriented** or experience headaches, nausea or vomiting"）。拼写：**美式 disoriented**（英式 disorientated 多个 -ta- 音节，听到长版别慌，写美式短版）；dis-orient-ed，orient = 定方位 | disoriented |
+| 检查/监测 ⚠️ | 动态（血压）监测、非卧床的（**24-hour ambulatory BP monitoring** 24 小时动态血压监测 = 患者带着袖带 arm cuff 正常活动；词根 ambul- 行走：ambulance 救护车、ambulant 可走动的患者）。拼写陷阱：amb-u-**la**-tory，中间是 **-ula-** 别写成 "ambulotory/ambultory" | ambulatory (monitoring) |
+| 检查/监测 ⚠️ | 白大衣综合征/白大衣高血压（患者一见医护血压就升高——SPRINT 试验的对策：**automated machine**（自动测量仪）**three readings averaged**（三次读数取平均）+ **staff out of the room**（工作人员离开房间 = 患者独处 alone）；这套测量细节本身就是考点） | white coat syndrome |
+| 疾病/诊断 ⚠️ | 慢性创伤性脑病 CTE (chronic traumatic encephalopathy)（美式橄榄球 American football 反复头部撞击累积所致——"players use their helmets and heads almost like weapons"；区别于一次性 concussion 脑震荡）。拼写攻坚：en-**cephal**-o-pathy（cephal- 头 + -pathy 病变），/ɪnˌsefəˈlɒpəθi/——e-n-c-e-p-h-a-l-o-p-a-t-h-y，**ph 发 /f/** | (chronic traumatic) encephalopathy |
+| 逻辑/连接词 ⚠️ | 话虽如此、尽管这么说（= that said / even so / nevertheless；**让步转折信号词**——先承认前句某观点，再往回补充修正："rugby is more dangerous, **but having said that**, it's just as likely to affect kids in a park"）。⚠️ Part C 钥匙：**听到它后面才是考点**，前半句常是干扰。别听成 having "set" that | having said that |
+| 形容/状态 ⚠️ | （担忧/说法）没有根据的、未被证实的（"this concern turned out to be **unfounded**" 这个担忧被证明毫无根据——SPRINT 里"120 目标对 75 岁以上太低"的顾虑被推翻）。**Part C "提到即否定"陷阱标志词**之一：unfounded / this wasn't an issue / the evidence is slim，后面跟的旧观点都是干扰项。拼写：un-**found**-ed（found 找到/建立的过去分词，非 fund 资金）——别写成 "unfunded"（无资金的，完全不同词） | unfounded |
 
 ## 怎么用
 1. 看**中文** → 先盲拼整词；卡住了再看「拼写骨架」（已给首字母+末字母+长度）兜底补全。
