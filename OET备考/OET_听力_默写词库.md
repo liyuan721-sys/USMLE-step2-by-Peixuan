@@ -14,7 +14,7 @@ type: 备考资料
 > 做题时不会的词随手发给 Claude Code，会自动查证 + 归类 + 回填到那节（按日期分批）。点上面链接直接跳过去，不用往下翻。
 
 > [!warning] 为什么要背（推翻"OET 不用背词"的偷懒）
-> 听力 **Part A 是听音填空、拼对才得分**，是你最难的一科。这里不是认冷僻词，而是**把听到的医学词当场拼对**（英式 ae/oe、双写、希腊词根最易翻车）。每天 ~50 词，读出声练"读音→拼写"反射。
+> 听力 **Part A 是听音填空、拼对才得分**，是你最难的一科。这里不是认冷僻词，而是**把听到的医学词当场拼对**（双写、不发音字母、药名后缀最易翻车；拼写统一用美式即可，见下方速查）。每天 ~50 词，读出声练"读音→拼写"反射。
 
 > [!tip] 两种练法
 > - **§一 中→英默写版**：遮右列看中文盲拼 → 日常快刷、简单词。
@@ -23,54 +23,51 @@ type: 备考资料
 
 ---
 
-## 🔑 英式拼写规则速查（OET 必用英式 — 默写前先扫这一屏）
+## 🔑 拼写策略速查（本库已统一美式 — 默写前先扫这一屏）
 
-> [!danger] 规则 1 · ae 规则（主线伤口，连续 3 天翻车）
-> 🎯 **代表词：Haemorrhage（出血）** — 见到它就触发「a 在前 e 在后」。
-> **美式单个 e → 英式 ae**（希腊/拉丁医学词根）；记死一句 **「a 永远在前，e 在后」**。
->
-> | 中文 | 英式 ✅ | 美式 ❌ |
-> |---|---|---|
-> | 出血 | H**ae**morrhage | hemorrhage |
-> | 痔疮 | H**ae**morrhoids | hemorrhoids |
-> | 贫血 | An**ae**mia | anemia |
-> | 低血糖 | Hypoglyc**ae**mia | hypoglycemia |
-> | 白血病 | Leuk**ae**mia | leukemia |
-> | 缺血 | Isch**ae**mia | ischemia |
-> | 儿科的 | P**ae**diatric | pediatric |
-> | 盲肠 | C**ae**cum | cecum |
->
-> ⚠️ **不要过度纠正**：Asthma（哮喘）、Eczema（湿疹）**本来就没有 ae**，别乱加（你 Day3 写过 aesthma）。
+> [!success] 大原则：OET 英式、美式拼写都算对 → 你统一用美式，ae/oe 规则整条扔掉
+> OET 是国际考试，官方明确接受两种拼写。**本词库答案列已全部改成美式（2026-07-07）**，你对着美式拼即可，不会因为没用英式扣分。听力里听到的还是英式发音，但你写美式照样得分。
 
-> [!warning] 规则 2 · oe 规则 + -oea 家族
-> 🎯 **代表词：Diarrhoea（腹泻）** — 一词集齐「oe + 插 o + 双 r」。
-> **美式 e → 英式 oe**；**美式 -ea/-rrhea → 英式 -oea/-rrhoea（插 o）**。
+> [!danger] 头号陷阱：别写「半英半美的混血词」
+> 你最常犯的不是"该不该去 ae"，而是**去了 ae 却拼成第三种样子**。选美式，就把美式那**一个**固定形状记死：
 >
-> | 中文 | 英式 ✅ | 美式 ❌ |
-> |---|---|---|
-> | 腹泻 | Diarrh**<font color="#ff0000">o</font>ea** | diarrhea |
-> | 呼吸困难 | Dyspn**<font color="#ff0000">o</font>ea** | dyspnea |
-> | 淋病 | Gonorrh**oea** | gonorrhea |
-> | 水肿 | **Oe**dema | edema |
-> | 食管 | **Oe**sophagus | esophagus |
-> | 腹腔的 | C**oe**liac | celiac |
-
-> [!warning] 规则 3 · 其他英式词尾（OET 录音用英式）
-> 🎯 **代表词：Physiotherapy（物理治疗）+ Fibre（纤维）** — 整词英式 + -re 双示范。
->
-> | 类型 | 英式 ✅ | 美式 ❌ | 例 |
+> | 中文 | 美式 ✅（记这个）| 你写过的错 ❌ | 英式（听到不用管）|
 > |---|---|---|---|
-> | -ise（非 -ize）| organis**e** / immunise | organize | 策划 organiser |
-> | -re（非 -er）| fibr**e** / centre / litre | fiber | 纤维 fibre |
-> | -our（非 -or）| tum**our** / colour | tumor | 肿瘤 tumour |
-> | -ll-（双 l）| counsel**l**ing / labelled | counseling | 咨询 counselling |
-> | 整词不同 | physio**therapy** / nappy | physical therapy / diaper | 物理治疗 / 尿布疹 nappy rash |
+> | 出血 | Hemorrhage | hemorrhage ✔ | haemorrhage |
+> | 痔疮 | Hemorrhoids | hemorrhoids ✔ | haemorrhoids |
+> | 贫血 | Anemia | aenemia | anaemia |
+> | 低血糖 | Hypoglycemia | hypoglyceamia | hypoglycaemia |
+> | 高脂血症 | Hyperlipidemia | hyperlipid | hyperlipidaemia |
+> | 水肿 | Edema | eadema | oedema |
+> | 肺水肿 | Pulmonary edema | — | pulmonary oedema |
+> | 阿米巴 | Amebic | aemeba | amoebic |
+> | 溶血的 | Hemolytic | — | haemolytic |
+> | 血友病 | Hemophilia | — | haemophilia |
+> | 麻醉 | Anesthetic | — | anaesthetic |
+> | 腹泻 | Diarrhea | — | diarrhoea |
+> | 呼吸困难 | Dyspnea | — | dyspnoea |
+>
+> **记忆钩子**：美式「血症」一律 **-emia**（an**emia** / hypoglyc**emia** / hyperlipid**emia** / leuk**emia** / isch**emia**）；「水肿/食管/阿米巴」把 o 去掉就对（**e**dema / **e**sophagus / am**e**bic）。
 
-> [!tip] 规则 4 · 双写字母 & 不发音字母（与英美无关，纯拼写）
+> [!warning] 美式救不了的词：药名 + 冷门词（英美拼法一样，必须硬记）
+> 换美式对这些**无效**，它们两种拼法完全相同——你今天错的一半在这里：
+>
+> | 中文 | 正确（英美同形）|
+> |---|---|
+> | 氢氯噻嗪 | Hydrochloro**thia**zide |
+> | 左甲状腺素 | Levothy**rox**ine |
+> | 甲氨蝶呤 | Metho**trex**ate |
+> | 静脉曲张(名词复数) | Vari**c**es |
+> | 静脉炎 | **Phleb**itis |
+> | 眼科学 | O**phth**almology |
+> | 使人丧失能力的 | Incapa**citat**ing |
+
+> [!tip] 通用拼写陷阱（与英美无关，纯拼写 — 这几条永远要盯）
 > 🎯 **代表词：Pneumococcal（肺炎球菌的）** — 不发音 p + 双 c 一词集齐。
-> - **双写**：sca**rr**ing（瘢痕）· swa**ll**owing（吞咽）· a**rr**hythmia（心律失常）· pneumoco**cc**al（肺炎球菌的，双 c）· dia**rr**hoea
+> - **双写**：sca**rr**ing（瘢痕）· swa**ll**owing（吞咽）· a**rr**hythmia（心律失常）· pneumoco**cc**al（肺炎球菌的，双 c）· dia**rr**hea
 > - **不发音字母照写**：num**b**ness（麻木 b）· phleg**m**（痰，g 不发音）· **p**neumococcal（p 不发音）· **p**sychiatry（p）
-> - **别漏后缀**：scar → scar**ring** · numb → numb**ness**（写了词根不算完整）
+> - **别漏后缀**：scar → scar**ring** · numb → numb**ness** · varix → vari**ces**（写了词根不算完整）
+> - ⚠️ **不要过度纠正**：Asthma（哮喘）、Eczema（湿疹）**本来就没有 ae**，别乱加。
 
 ---
 
@@ -80,7 +77,7 @@ type: 备考资料
 1. **遮住右列**（English），看中文 → 在纸/文本编辑器里**拼写**出英文 → 对答案。
 2. 拼错的词抄进「个人易错本」，第二天重默。
 3. 真考是"听音拼写"，所以最好**读出声**或用手机把中文录成听写音轨；重点练"读音→拼写"的反射。
-4. ⚠️ = 高危拼写（英式 ae/oe、双写、不发音字母、希腊词根），优先盯。
+4. ⚠️ = 高危拼写（双写、不发音字母、药名后缀；拼写统一用美式，别写英美混血），优先盯。
 5. 每类按字母排序、自带序号，可按天切块（如药物今天 1–30、明天 31–60）。
 
 ---
@@ -211,7 +208,7 @@ type: 备考资料
 | 10 | 颈动脉多普勒 | Carotid dopplers |
 | 11 | 白内障手术 | Cataract surgery |
 | 12 | 导管 | Catheter |
-| 13 | 认知行为治疗 | Cognitive‑behavioural therapy |
+| 13 | 认知行为治疗 | Cognitive‑behavioral therapy |
 | 14 | 结肠镜检查 | Colonoscopy |
 | 15 | 弹力袜 | Compression stocking |
 | 16 | 整容手术 | Cosmetic surgery |
@@ -274,7 +271,7 @@ type: 备考资料
 | # | 中文 | English |
 |---|---|---|
 | 1 | 跟腱炎 | Achilles tendonitis |
-| 2 | 贫血 | Anaemia ⚠️ |
+| 2 | 贫血 | Anemia ⚠️ |
 | 3 | 阑尾炎 | Appendicitis |
 | 4 | 哮喘 | A<font color="#ff0000">s</font>thma ⚠️ |
 | 5 | 动脉粥样硬化 | Atherosclerosis |
@@ -303,8 +300,8 @@ type: 备考资料
 | 28 | 隐裂/发丝样骨折 | Hairline fracture |
 | 29 | 疝气；突出 | Hernia |
 | 30 | 疝气；突出 | herniated |
-| 31 | 高脂血症 | Hyperlipidaemia ⚠️ |
-| 32 | 低血糖 | hypo<font color="#ff0000">g</font>lycaemia ⚠️ |
+| 31 | 高脂血症 | Hyperlipidemia ⚠️ |
+| 32 | 低血糖 | hypo<font color="#ff0000">g</font>lycemia ⚠️ |
 | 33 | 低镁血症 | Hypomagnesemia |
 | 34 | 嵌入性骨折 | impacted fracture |
 | 35 | 腹股沟疝 | Inguinal hernia |
@@ -367,14 +364,14 @@ type: 备考资料
 | 8 | 对齐；排列 | alignment                                |
 | 9 | 缓解 | Alleviate                                |
 | 10 | 羊水量 | Amniotic level                           |
-| 11 | 阿米巴痢疾 | Amoebic Dysentery ⚠️                     |
+| 11 | 阿米巴痢疾 | Amebic Dysentery ⚠️                     |
 | 12 | 截肢术 | amputation                               |
 | 13 | 被截肢者 | amputee                                  |
 | 14 | 动脉瘤 | aneurysm ⚠️                              |
 | 15 | 心绞痛 | Angina                                   |
 | 16 | （不是antiacid） | Antacid                                  |
 | 17 | 主动脉 | Aorta                                    |
-| 18 | 呼吸困难 / 呼吸暂停 | apnoea ⚠️                                |
+| 18 | 呼吸困难 / 呼吸暂停 | apnea ⚠️                                |
 | 19 | 水的 | Aqueous                                  |
 | 20 | 脚弓；弓形结构 | Arches                                   |
 | 21 | 心律失常 | Arr<font color="#ff0000">h</font>ythmia ⚠️                            |
@@ -467,7 +464,7 @@ type: 备考资料
 | 108 | 尘螨 | Dust mites                               |
 | 109 | 消化不良 | Dyspepsia                                |
 | 110 | 吞咽困难 | Dysphagia                                |
-| 111 | 呼吸困难 / 呼吸暂停 | Dyspn<font color="#ff0000">o</font>ea ⚠️ |
+| 111 | 呼吸困难 / 呼吸暂停 | Dyspnea ⚠️ |
 | 112 | 酗酒 / 暴饮暴食 | eating                                   |
 | 113 | AU 口音短音。 | Elastic support stocking                 |
 | 114 | 电解质 | Electrolytes                             |
@@ -504,7 +501,7 @@ type: 备考资料
 | 145 | 坏疽 | Gangrene                                 |
 | 146 | 胀气的 | Gassy                                    |
 | 147 | 胃肠病学的 | Gastroenterological ⚠️                   |
-| 148 | 全身麻醉；GA | General anaesthetic ⚠️                   |
+| 148 | 全身麻醉；GA | General anesthetic ⚠️                   |
 | 149 | 老年医学的；老人的 | geriatric                                |
 | 150 | 耀眼的光 | Glare                                    |
 | 151 | 葡萄糖 | Glucose                                  |
@@ -515,10 +512,10 @@ type: 备考资料
 | 156 | 腹股沟 | Groin                                    |
 | 157 | 咖啡渣样物；医学上指呕吐物呈咖啡渣样（消化道出血征象） | Ground coffee                            |
 | 158 | 粘性物质；脏东西 | Gunk                                     |
-| 159 | 溶血的 | haemolytic ⚠️                            |
-| 160 | 血友病 | haemophilia ⚠️                           |
-| 161 | 出血，出血量大 | H<font color="#ff0000">ae</font>morrhage ⚠️                           |
-| 162 | 痔疮 | h<font color="#ff0000">ae</font>morrhoids ⚠️                          |
+| 159 | 溶血的 | hemolytic ⚠️                            |
+| 160 | 血友病 | hemophilia ⚠️                           |
+| 161 | 出血，出血量大 | Hemorrhage ⚠️                           |
+| 162 | 痔疮 | hemorrhoids ⚠️                          |
 | 163 | 锤状趾 | Hammer toe ⚠️                            |
 | 164 | 大腿后侧肌肉 | Hamstring                                |
 | 165 | 刺激性肥皂 | Harsh soap                               |
@@ -577,7 +574,7 @@ type: 备考资料
 | 218 | 韧带 | Ligament                                 |
 | 219 | 头昏目眩 | Light‑headedness                         |
 | 220 | 酒店；售酒店 | Liquor store                             |
-| 221 | 局麻药；局部麻醉 | Local anaesthetic ⚠️                     |
+| 221 | 局麻药；局部麻醉 | Local anesthetic ⚠️                     |
 | 222 | 牙关紧闭 | lock jaw                                 |
 | 223 | 远视 | Long‑sightedness                         |
 | 224 | 低酸饮食 | Low acidic diet                          |
@@ -608,7 +605,7 @@ type: 备考资料
 | 249 | 连指手套 | Mittens                                  |
 | 250 | 保湿霜 | Moisturizer                              |
 | 251 | 臼齿 | molar teeth                              |
-| 252 | 呼气测醉器 | mouth breathalyser                       |
+| 252 | 呼气测醉器 | mouth breathalyzer                       |
 | 253 | 口角下垂 | Mouth Drooping                           |
 | 254 | 听不清的；闷声的 | Muffled                                  |
 | 255 | 多因素的 | Multifactorial                           |
@@ -712,7 +709,7 @@ type: 备考资料
 | 353 | 虚肿；水肿 | Puffiness                                |
 | 354 | 脚踝浮肿 | Puffy ankles                             |
 | 355 | 肺的 | Pulmonary                                |
-| 356 | 肺水肿 | Pulmonary oedema ⚠️                      |
+| 356 | 肺水肿 | Pulmonary edema ⚠️                      |
 | 357 | 化脓的 | Purulent                                 |
 | 358 | 脓性渗出物 | Purulent exudate                         |
 | 359 | 拼图，难题 | Puzzles                                  |
@@ -931,7 +928,7 @@ type: 备考资料
 ## 📦 考经 sample-test 批次（65 词，2026-06-28 补）
 
 > [!warning] 为什么单列
-> 这批来自文傲考经**顶部「单词会写 sample test」**清单，是默写词库原 811 词**没收录**的（appendix 196 词已并入上面各类，这批是另一份 list）。**⚠️ 标记 = 英式/美式拼写陷阱**（organiser / fibre / counselling / nappy 是英式，OET 用英式拼写，听到别写成美式）。
+> 这批来自文傲考经**顶部「单词会写 sample test」**清单，是默写词库原 811 词**没收录**的（appendix 196 词已并入上面各类，这批是另一份 list）。**⚠️ 标记 = 英美拼写差异词**（OET 英式、美式拼写都接受；本库已统一改成美式，你写 organizer / fiber / counseling / diaper rash 等美式拼法即可，nappy rash 是英式说法，听到就照写）。
 
 | 类别 | 中文 | English |
 |---|---|---|
@@ -977,11 +974,11 @@ type: 备考资料
 | 药物/物质 | 胆固醇 | cholesterol |
 | 疾病/诊断 | 肝炎 | hepatitis |
 | 疾病/诊断 ⚠️ | 尿布疹（英式 nappy / 美式 diaper rash） | nappy rash |
-| 职业/人物 ⚠️ | 活动策划（英式 organiser） | events organiser |
+| 职业/人物 ⚠️ | 活动策划（美式 organizer；英式 organiser，都接受） | events organizer |
 | 职业/人物 | 会计 | accountant |
 | 职业/人物 | 招聘顾问 | recruitment consultant |
 | 职业/人物 | 主厨 | chef |
-| 职业/人物 ⚠️ | 心理咨询（英式 counselling） | counselling / counseling |
+| 职业/人物 ⚠️ | 心理咨询（美式 counseling；英式 counselling，都接受） | counseling |
 | 物品/其他 ⚠️ | 热敷垫 | heat pad / heatpad |
 | 物品/其他 | 冰袋 | ice pack |
 | 物品/其他 | 弹力带 | resistance band |
@@ -991,7 +988,7 @@ type: 备考资料
 | 物品/其他 | 南极洲 | antarctica |
 | 物品/其他 | 手掌 | palm |
 | 物品/其他 | 日记 | diary |
-| 物品/其他 ⚠️ | 纤维、膳食纤维（英式 fibre） | fibre |
+| 物品/其他 ⚠️ | 纤维、膳食纤维（美式 fiber；英式 fibre，都接受） | fiber |
 | 物品/其他 | 少食多餐方案 | little and often regime for meals |
 | 形容/状态 | 舒适的 | comfortable |
 | 形容/状态 | 混乱的 | chaotic |
@@ -1006,7 +1003,7 @@ type: 备考资料
 ## 📦 Part A 听力实战生词（持续收录，按日期分批）
 
 > [!warning] 这节是干嘛的
-> **Peixuan 做 OET 听力（尤其 Part A）当场没听懂/不会写的词，随手发给 Claude Code → 自动查证 + 中英双语 + 归类 + 回填到这里。** 一天的词攒进同一批次，跨天开新的「YYYY-MM-DD 补」小批次，方便按天切块默写。**⚠️ = 拼写或含义陷阱**（英式 ae/oe、双写、同词不同义）；标「库内已有」的是原词库其它分类已收、这里只做 Part A 复习入口，别重复背。
+> **Peixuan 做 OET 听力（尤其 Part A）当场没听懂/不会写的词，随手发给 Claude Code → 自动查证 + 中英双语 + 归类 + 回填到这里。** 一天的词攒进同一批次，跨天开新的「YYYY-MM-DD 补」小批次，方便按天切块默写。**⚠️ = 拼写或含义陷阱**（双写、不发音字母、同词不同义；拼写统一用美式）；标「库内已有」的是原词库其它分类已收、这里只做 Part A 复习入口，别重复背。
 
 ### 2026-07-04 补（12 词）
 
@@ -1030,9 +1027,9 @@ type: 备考资料
 | 类别 | 中文 | English |
 |---|---|---|
 | 职业/人物 ⚠️ | 抽血技术员、静脉采血员（库内已有 #职业表 #24 Phlebotomist，复习即可）。拼写陷阱：词首 **ph-** 发 /f/ 音，别写成 "fl-/fle-"；完整 p-h-l-e-b-o-t-o-m-i-s-t | phlebotomist |
-| 症状/描述 ⚠️ | 皮肤湿冷、黏腻（休克 shock/低血糖 hypoglycaemia/心肌梗死 MI (myocardial infarction) 经典描述，常与 pale 连用；库内已有 §一 #296 "Pale and clammy"，复习即可）。拼写陷阱：听感像 "clummy"，但正确是 **cla**mmy——元音是 **a** 不是 u，且双写 **mm** | clammy |
-| 形容/状态 ⚠️ | 面色灰暗、灰白（危重患者面容描述，"he looked grey and clammy" = 面色灰白+湿冷，提示循环差/休克）。拼写陷阱：OET 用英式 **grey**（-ey），别写成美式 gray（-ay） | grey |
-| 疾病/诊断 ⚠️ | 静脉曲张 varicose veins（库内已有 §一 #470 Varicose Vein + 考经批次 varices，复习即可）。拼写陷阱：听感像 "varicus"，正确词尾是 **-ose**（var-i-c-**ose**，尾音 /əʊs/）；易混：**varicose** 形容词（varicose veins 曲张的静脉）≠ **varices** 名词复数（如 oesophageal varices 食管静脉曲张，单数 varix） | varicose |
+| 症状/描述 ⚠️ | 皮肤湿冷、黏腻（休克 shock/低血糖 hypoglycemia/心肌梗死 MI (myocardial infarction) 经典描述，常与 pale 连用；库内已有 §一 #296 "Pale and clammy"，复习即可）。拼写陷阱：听感像 "clummy"，但正确是 **cla**mmy——元音是 **a** 不是 u，且双写 **mm** | clammy |
+| 形容/状态 ⚠️ | 面色灰暗、灰白（危重患者面容描述，"he looked grey and clammy" = 面色灰白+湿冷，提示循环差/休克）。拼写：**gray / grey 都接受**（你统一写美式 **gray** 即可；英式 grey 听到不用管） | gray |
+| 疾病/诊断 ⚠️ | 静脉曲张 varicose veins（库内已有 §一 #470 Varicose Vein + 考经批次 varices，复习即可）。拼写陷阱：听感像 "varicus"，正确词尾是 **-ose**（var-i-c-**ose**，尾音 /əʊs/）；易混：**varicose** 形容词（varicose veins 曲张的静脉）≠ **varices** 名词复数（如 esophageal varices 食管静脉曲张，单数 varix） | varicose |
 | 症状/描述 ⚠️ | **-lapse 家族**（听感像 "blapse" = 首音节弱读被吞，三词都可能；均库内已有：#62 / #228 / #365，复习即可）：① **prolapse** /prəˈlæps/ 脱垂（prolapsed disc 椎间盘突出 (slipped disc)、uterine prolapse 子宫脱垂）② **collapse** /kəˈlæps/ 晕倒、虚脱（he collapsed at home）/ 肺萎陷 lung collapse ③ **relapse** /rɪˈlæps/ 复发（症状好转后又回来）。听辨钥匙：靠语境定首音节——椎间盘/子宫→pro；人倒地→col；病情反复→re | prolapse / collapse / relapse |
 | 症状/描述 ⚠️ | 短暂丧失、断片、疏漏（OET 高频搭配：**memory lapses** 记忆断片、lapses in concentration 注意力走神——痴呆 dementia/老年科问诊常见；动词=失效，如 her prescription lapsed 处方过期失效）。易混：**lapse** 偶发断片/疏漏 ≠ **relapse** 复发（戒断后又复吸/病情卷土重来）；戒烟戒酒语境两词都出现：a lapse 偶尔破戒一次，a relapse 完全回到老样子 | lapse |
 | 动作/短语 ⚠️ | 拖、拉；(货运)一程。**long-haul flight** 长途飞行（≥6 小时）——OET 里几乎绑定 DVT (deep vein thrombosis, 深静脉血栓) 危险因素："recently returned from a long-haul flight"→填 risk factors 栏；反义 short-haul 短途；习语 in for the long haul 打持久战（慢病管理/康复语境）。拼写陷阱：haul /hɔːl/ 与 **hall**（大厅）完全同音，靠语境分——飞机/货运→h-a-u-l | haul（long-haul flight） |
@@ -1049,7 +1046,7 @@ type: 备考资料
 ## 怎么用
 1. 看**中文** → 先盲拼整词；卡住了再看「拼写骨架」（已给首字母+末字母+长度）兜底补全。
 2. 骨架里 `_` = 缺一个字母，连字符/空格保留 → 既提示词长又不直接给答案。
-3. 拼完盖住「答案」列核对；⚠️ = 高危拼写（英式 ae/oe、双写、希腊词根），错了必抄易错本。
+3. 拼完盖住「答案」列核对；⚠️ = 高危拼写（双写、不发音字母、药名后缀；拼写统一用美式），错了必抄易错本。
 4. 比纯默写更适合**攻坚长难词**（药名、希腊词根病名）。简单词建议直接用「中→英默写版」。
 
 ---
@@ -1180,7 +1177,7 @@ type: 备考资料
 | 10 | 颈动脉多普勒 | `C_____d d______s` | Carotid dopplers |
 | 11 | 白内障手术 | `C______t s_____y` | Cataract surgery |
 | 12 | 导管 | `C______r` | Catheter |
-| 13 | 认知行为治疗 | `C________‑__________l t_____y` | Cognitive‑behavioural therapy |
+| 13 | 认知行为治疗 | `C________‑__________l t_____y` | Cognitive‑behavioral therapy |
 | 14 | 结肠镜检查 | `C_________y` | Colonoscopy |
 | 15 | 弹力袜 | `C_________n s______g` | Compression stocking |
 | 16 | 整容手术 | `C______c s_____y` | Cosmetic surgery |
@@ -1243,7 +1240,7 @@ type: 备考资料
 | # | 中文 | 拼写骨架 | 答案 |
 |---|---|---|---|
 | 1 | 跟腱炎 | `A______s t________s` | Achilles tendonitis |
-| 2 | 贫血 | `A_____a` | Anaemia ⚠️ |
+| 2 | 贫血 | `A_____a` | Anemia ⚠️ |
 | 3 | 阑尾炎 | `A__________s` | Appendicitis |
 | 4 | 哮喘 | `A____a` | Asthma ⚠️ |
 | 5 | 动脉粥样硬化 | `A_____________s` | Atherosclerosis |
@@ -1272,8 +1269,8 @@ type: 备考资料
 | 28 | 隐裂/发丝样骨折 | `H______e f______e` | Hairline fracture |
 | 29 | 疝气；突出 | `H____a` | Hernia |
 | 30 | 疝气；突出 | `h_______d` | herniated |
-| 31 | 高脂血症 | `H_____________a` | Hyperlipidaemia ⚠️ |
-| 32 | 低血糖 | `h___________a` | hypoglycaemia ⚠️ |
+| 31 | 高脂血症 | `H_____________a` | Hyperlipidemia ⚠️ |
+| 32 | 低血糖 | `h___________a` | hypoglycemia ⚠️ |
 | 33 | 低镁血症 | `H____________a` | Hypomagnesemia |
 | 34 | 嵌入性骨折 | `i______d f______e` | impacted fracture |
 | 35 | 腹股沟疝 | `I______l h____a` | Inguinal hernia |
@@ -1336,14 +1333,14 @@ type: 备考资料
 | 8 | 对齐；排列 | `a_______t` | alignment |
 | 9 | 缓解 | `A_______e` | Alleviate |
 | 10 | 羊水量 | `A______c l___l` | Amniotic level |
-| 11 | 阿米巴痢疾 | `A_____c D_______y` | Amoebic Dysentery ⚠️ |
+| 11 | 阿米巴痢疾 | `A_____c D_______y` | Amebic Dysentery ⚠️ |
 | 12 | 截肢术 | `a________n` | amputation |
 | 13 | 被截肢者 | `a_____e` | amputee |
 | 14 | 动脉瘤 | `a______m` | aneurysm ⚠️ |
 | 15 | 心绞痛 | `A____a` | Angina |
 | 16 | （不是antiacid） | `A_____d` | Antacid |
 | 17 | 主动脉 | `A___a` | Aorta |
-| 18 | 呼吸困难 / 呼吸暂停 | `a____a` | apnoea ⚠️ |
+| 18 | 呼吸困难 / 呼吸暂停 | `a____a` | apnea ⚠️ |
 | 19 | 水的 | `A_____s` | Aqueous |
 | 20 | 脚弓；弓形结构 | `A____s` | Arches |
 | 21 | 心律失常 | `A________a` | Arrhythmia ⚠️ |
@@ -1436,7 +1433,7 @@ type: 备考资料
 | 108 | 尘螨 | `D__t m___s` | Dust mites |
 | 109 | 消化不良 | `D_______a` | Dyspepsia |
 | 110 | 吞咽困难 | `D_______a` | Dysphagia |
-| 111 | 呼吸困难 / 呼吸暂停 | `D______a` | Dyspnoea ⚠️ |
+| 111 | 呼吸困难 / 呼吸暂停 | `D______a` | Dyspnea ⚠️ |
 | 112 | 酗酒 / 暴饮暴食 | `e____g` | eating |
 | 113 | AU 口音短音。 | `E_____c s_____t s______g` | Elastic support stocking |
 | 114 | 电解质 | `E__________s` | Electrolytes |
@@ -1473,7 +1470,7 @@ type: 备考资料
 | 145 | 坏疽 | `G______e` | Gangrene |
 | 146 | 胀气的 | `G___y` | Gassy |
 | 147 | 胃肠病学的 | `G_________________l` | Gastroenterological ⚠️ |
-| 148 | 全身麻醉；GA | `G_____l a_________c` | General anaesthetic ⚠️ |
+| 148 | 全身麻醉；GA | `G_____l a_________c` | General anesthetic ⚠️ |
 | 149 | 老年医学的；老人的 | `g_______c` | geriatric |
 | 150 | 耀眼的光 | `G___e` | Glare |
 | 151 | 葡萄糖 | `G_____e` | Glucose |
@@ -1484,10 +1481,10 @@ type: 备考资料
 | 156 | 腹股沟 | `G___n` | Groin |
 | 157 | 咖啡渣样物；医学上指呕吐物呈咖啡渣样（消化道出血征象） | `G____d c____e` | Ground coffee |
 | 158 | 粘性物质；脏东西 | `G__k` | Gunk |
-| 159 | 溶血的 | `h________c` | haemolytic ⚠️ |
-| 160 | 血友病 | `h_________a` | haemophilia ⚠️ |
-| 161 | 出血，出血量大 | `H_________e` | Haemorrhage ⚠️ |
-| 162 | 痔疮 | `h__________s` | haemorrhoids ⚠️ |
+| 159 | 溶血的 | `h________c` | hemolytic ⚠️ |
+| 160 | 血友病 | `h_________a` | hemophilia ⚠️ |
+| 161 | 出血，出血量大 | `H_________e` | Hemorrhage ⚠️ |
+| 162 | 痔疮 | `h__________s` | hemorrhoids ⚠️ |
 | 163 | 锤状趾 | `H____r t__` | Hammer toe ⚠️ |
 | 164 | 大腿后侧肌肉 | `H_______g` | Hamstring |
 | 165 | 刺激性肥皂 | `H___h s__p` | Harsh soap |
@@ -1546,7 +1543,7 @@ type: 备考资料
 | 218 | 韧带 | `L______t` | Ligament |
 | 219 | 头昏目眩 | `L____‑_________s` | Light‑headedness |
 | 220 | 酒店；售酒店 | `L____r s___e` | Liquor store |
-| 221 | 局麻药；局部麻醉 | `L___l a_________c` | Local anaesthetic ⚠️ |
+| 221 | 局麻药；局部麻醉 | `L___l a_________c` | Local anesthetic ⚠️ |
 | 222 | 牙关紧闭 | `l__k j__` | lock jaw |
 | 223 | 远视 | `L___‑__________s` | Long‑sightedness |
 | 224 | 低酸饮食 | `L__ a____c d__t` | Low acidic diet |
@@ -1577,7 +1574,7 @@ type: 备考资料
 | 249 | 连指手套 | `M_____s` | Mittens |
 | 250 | 保湿霜 | `M_________r` | Moisturizer |
 | 251 | 臼齿 | `m___r t___h` | molar teeth |
-| 252 | 呼气测醉器 | `m___h b__________r` | mouth breathalyser |
+| 252 | 呼气测醉器 | `m___h b__________r` | mouth breathalyzer |
 | 253 | 口角下垂 | `M___h D______g` | Mouth Drooping |
 | 254 | 听不清的；闷声的 | `M_____d` | Muffled |
 | 255 | 多因素的 | `M____________l` | Multifactorial |
@@ -1681,7 +1678,7 @@ type: 备考资料
 | 353 | 虚肿；水肿 | `P_______s` | Puffiness |
 | 354 | 脚踝浮肿 | `P___y a____s` | Puffy ankles |
 | 355 | 肺的 | `P_______y` | Pulmonary |
-| 356 | 肺水肿 | `P_______y o____a` | Pulmonary oedema ⚠️ |
+| 356 | 肺水肿 | `P_______y o____a` | Pulmonary edema ⚠️ |
 | 357 | 化脓的 | `P______t` | Purulent |
 | 358 | 脓性渗出物 | `P______t e_____e` | Purulent exudate |
 | 359 | 拼图，难题 | `P_____s` | Puzzles |
