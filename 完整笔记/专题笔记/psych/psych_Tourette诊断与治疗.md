@@ -372,6 +372,7 @@ DA 太少 → 治 PD     （增 DA：levodopa / DA 激动剂）
   - [[mistakes/uworld-mistakes_2026-05#^Q3375]] Tourette 药物升级（α2 失败 → 抗 DA；2026-05-23；**治疗侧** — 本衍生 §四 + §五核心来源）
   - [[mistakes/uworld-mistakes_2026-05#^Q20930]] 儿童 GAD + Tetrabenazine 干扰项（2026-05-23；**tetrabenazine 双面钩**反向对照）
   - [[mistakes/uworld-mistakes_2026-05#^Q14348]] ADHD 成人 atomoxetine（2026-05-23；**共病 ADHD 用药** — α2 / atomoxetine vs 兴奋剂）
+  - [[mistakes/uworld-mistakes_2026-07#^Q20778]] TS 严重致残 → VMAT2 抑制剂 tetrabenazine 首选（做对；2026-07-08）
   - [[mistakes/uworld-mistakes_2026-05#^Q107408]] PMT + ADHD 跨场所标准（2026-05-22；**儿童 ADHD 药物三档**镜像）
   - [[mistakes/uworld-mistakes_2026-05#^Q16066]] TD 识别 + EPS 四兄弟（2026-05-20；**同 D2 通路 + 方向三角** — TD 是 D2 慢性阻断后的反弹，Tourette 是原发 DA 过度活跃，两条路径殊途同归 VMAT2）
   - [[mistakes/uworld-mistakes_2026-05#^Q2505]] 急性 dystonic reaction（2026-05-21；**抗胆碱治 EPS ≠ 治 tic 反陷阱**）

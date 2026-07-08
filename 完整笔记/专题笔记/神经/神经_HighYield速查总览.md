@@ -144,6 +144,7 @@ type: 专题笔记
 | 硬膜外 epidural | 侧方外伤 + **清醒间期 lucid interval（分钟）** | 脑膜中**动脉**（急症）| 非增强 CT → **手术** |
 | 硬膜下 subdural | 老人/酗酒、桥静脉、延迟数日–周 | 桥静脉 | CT |
 | 蛛网膜下 SAH | "一生最痛"、脑膜刺激征 | 浆果样动脉瘤 | 见下 ▼ |
+| **弥漫性轴索损伤 DAI** | 车祸/坠落 + **GCS 低但 CT 干净** + 损害>影像 | 白质剪切微出血 | **MRI**（白质点状出血 + 灰白交界模糊）|
 
 > [!danger] SAH 诊断 + 处理流程（钥匙密集）
 > ```
@@ -161,6 +162,14 @@ type: 专题笔记
 > **预防并发症**：尼莫地平 (nimodipine，CCB) 防 **3–14 天血管痉挛**；硫酸镁 (MgSO₄) 防癫痫。
 > **并发症时间线**：再出血 (rebleeding)（前 24h 最常见）→ 血管痉挛/迟发缺血（>3 天）→ 脑积水 / 癫痫 / 低钠（抗利尿激素分泌失调 SIADH, syndrome of inappropriate ADH secretion）。
 > **动脉瘤定位钥匙**：最常见前交通动脉 (AComm, anterior communicating artery)；**多囊肾 (PKD, polycystic kidney disease) 相关 → 后交通动脉 (PComm, posterior communicating artery)**。
+
+> [!warning] DAI（diffuse axonal injury，弥漫性轴索损伤）— CT 阴性别放过
+> **车祸/坠落 + GCS ≤8 但初次 CT 无血肿/骨折 = 疑 DAI** → **MRI**（更敏感）见**白质微小点状出血 (punctate hemorrhages) + 灰白质交界模糊**。招牌 = **损害重、影像轻（impairment > imaging）**；处理 = 支持 + ICP 管理，无特效。⚠️ 别把"CT 干净 + 昏迷"错配成脑萎缩（萎缩是数月-数年后远期）。
+
+> [!danger] 重型 TBI 颅高压：降 ICP 用渗透治疗，激素禁用
+> - **重型创伤性脑损伤 (TBI, traumatic brain injury) + 脑水肿 / ICP↑（Cushing 三联 = 高血压 + 心动过缓 + 呼吸不规则）→ 首选高渗盐水 (hypertonic saline) / 甘露醇 (mannitol)**（渗透脱水）；配合抬头 30° + 镇静 + 过度通气（短效桥接）+ 去骨瓣减压。
+> - ❌ **糖皮质激素 (glucocorticoid) 在 TBI 增加死亡率（CRASH 试验）→ 禁用**；激素只对**肿瘤 / 脓肿的血管源性水肿**有效。
+> - ❌ **尼莫地平 (nimodipine)**（扩脑血管 ↑ICP，只用于动脉瘤性 SAH）；❌ **腰穿 LP**（诱发脑疝）。详见 [[完整笔记/专题笔记/神经/神经_颅压增高诊疗顺序]]。
 
 ---
 
