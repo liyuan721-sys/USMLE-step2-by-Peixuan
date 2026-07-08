@@ -1911,3 +1911,25 @@ type: 备考资料
 | 27 | 安全 | `S______y` | Security |
 | 28 | 外科医生 | `S_____n` | Surgeon |
 | 29 | 毒理学家 | `t__________t` | toxicologist |
+
+---
+
+## ✍️ 个人易错本（中→英默写打分留痕，按日期）
+
+> [!warning] 这节是干嘛的
+> 文件里 §一 / §二 反复说「拼错的词必抄个人易错本第二天重默」，这就是那本。**Claude Code 给我做中→英默写打分时拼错的词落这里，红标写错/漏掉的字母，第二天开新一轮时自动滚进来重默。** 同一个词累计错满 **3 次** → 回 §一主表把错字母也标红（见规则 [[feedback_oet_dictation_redden_repeat_errors]] 精神）。
+
+### 2026-07-08（默写第 1 天 · 高危拼写轮）
+
+**当日仍未拿下（明天必重默）**
+
+| 中文 | 正确（红=陷阱字母）| 我写成 | 陷阱一句话 |
+|---|---|---|---|
+| 静脉炎 | Phle<font color="#ff0000">b</font>itis | phle**g**itis（❌错2次）| 词根 phle**b**-（静脉，同 §职业表 #24 Phlebotomist）；ph 发 /f/。**本日头号反复错** |
+| 眼球震颤 | Nystag<font color="#ff0000">mus</font> | nystag**a**us | stag 后**直接** mus，中间**别插 a** |
+| 除颤仪 | Defibrillat<font color="#ff0000">or</font> | defibrill**ation** | 器械名结尾 -**or**；-ation 是「除颤」这个**动作** |
+| 坐骨神经痛 | Scia<font color="#ff0000">tica</font> | sciatic**i**a | 结尾 -ti**ca**，**只一个 i**（同 §听力实战 2026-07-04 sciatica）|
+
+**当日重默已纠正（一次错、复默拿下 — 明天抽查即可）**
+
+arrhythmia（无 -emia，同 rhythm）· pneumococcal（双 c 在后半 -coccal）· levothyroxine（-ine 不是 -ide）· methotrexate（tr**e**x）· ophthalmology（**phth**）· aneurysm（-ysm 不是 -ythm）· amebic dysentery（痢疾≠diarrhea）· diaphragm（-g**m** 不发音 g 要写）· dysphagia（phag=吞）· crepitus（cre-pi-tus）· psoriasis（**p** 不发音）
