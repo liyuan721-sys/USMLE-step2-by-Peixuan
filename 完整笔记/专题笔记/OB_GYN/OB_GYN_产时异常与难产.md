@@ -71,6 +71,20 @@ type: 专题笔记
 > [!danger] 高频陷阱：宫底加压 ≠ 加速手段
 > **宫底加压 (fundal pressure)** 是向最头端子宫施加外部压力，**不提高自发阴道分娩率**、不解决停滞——第二产程停滞 + 胎头已下降无 CPD 的正解是**器械助产**，不是宫底加压、不是内倒转（单胎臀位禁忌）、不是把胎头转成枕后位 OP（更大径线、降低自发分娩率）。
 
+> [!warning] 宫底加压什么时候"可以用"？（+ 别和宫底按摩搞混）
+> **先分清两个"压宫底"**：
+>
+> | 名词 | 是什么 | 用途 | 地位 |
+> |---|---|---|---|
+> | **宫底加压 (fundal pressure)** | 产程中从宫底向下推、想把胎儿挤出产道 | 加速阴道分娩 | ⚠️ 阴道分娩里**几乎永远是错的** |
+> | **宫底按摩 (uterine/fundal massage)** | 产后揉软子宫底促其收缩 | **宫缩乏力性产后出血 (uterine atony PPH) 一线**（→ [[完整笔记/专题笔记/OB_GYN/OB_GYN_产后并发症鉴别]]）| ✅ 正确 |
+>
+> **fundal pressure 真正合法的唯一场景**：**剖宫产术中 (during cesarean delivery)** 切开子宫后助手轻柔加压，帮胎头/胎体从切口娩出。
+>
+> **阴道分娩里为什么错**：不提高自发分娩率 + **加重肩难产**（前肩更紧压向耻骨联合，故肩难产用**耻骨上加压 suprapubic pressure** 不是宫底加压）+ **子宫破裂 (uterine rupture)** 风险（尤其瘢痕子宫 prior C-section）+ 母胎损伤。
+>
+> 一句话：**宫底加压加速阴道分娩 = 错；唯一"能用"是剖宫产术中帮娩出。第二产程停滞→器械助产；肩难产→耻骨上加压；产后子宫软出血→那是宫底按摩（另一回事）。**
+
 > [!question]- 28 岁初产妇，硬膜外，开全 + 胎头 +3，用力 4h 精疲力竭，LOA 位无 molding/caput，胎重估 3.4kg，胎心 Category 1。下一步？（干扰：宫底加压 / 降硬膜外速度 / 内倒转 / 转 OP 位）
 > **器械助产（真空胎吸 vacuum-assisted delivery）**。
 > - 硬膜外初产妇用力 ≥4h 无下降 = 第二产程停滞；胎头已 +3、LOA、无 molding/caput（无 CPD）+ 骨盆合适 → 有下降空间 → 器械助产加速娩出（而非剖宫产）。
@@ -91,6 +105,37 @@ type: 专题笔记
 
 > [!question]- 活跃期宫口扩张 <1cm/2h，宫缩 MVU 只有 150。下一步？
 > **加缩宫素 (oxytocin)**。这是**延缓**（宫缩不足、还在慢慢开），先补足产力；不是停滞（未达 MVU≥200 + 4h 标准），不该直接剖。
+
+### 5. molding / caput 查体线索 → 判断有无 CPD ⭐
+
+> [!info] 两个词是什么（stem 里的查体描述）
+> 都是**胎头被产道机械性挤压后留下的痕迹**，宫颈指检时摸胎头即可评估：
+> - **Molding（胎头塑形 / 颅骨重叠）**：胎儿颅骨（顶骨 parietal、枕骨 occipital、额骨 frontal）之间的骨缝未闭，过产道受挤时**颅骨互相重叠**、头型变长变尖。摸矢状缝能感到骨缘叠在一起；程度越重 = 挤压越厉害。
+> - **Caput（= caput succedaneum，产瘤 / 先锋头）**：先露头皮**水肿**，因宫颈口像环一样卡住胎头、环以下头皮静脉回流受阻所致。特点是**跨越骨缝 (crosses suture lines)** —— 这也是与新生儿 **cephalohematoma（头颅血肿，骨膜下、不跨缝）** 鉴别的经典考点。
+
+> [!tip] 决策钥匙：molding/caput = 胎头被挤的痕迹
+> stem 写这个是在告诉你**胎头受机械挤压的程度**，用来判断停滞是不是 **CPD（头盆不称 cephalopelvic disproportion，= 3P 里的 Passage）** 引起的：
+>
+> ```text
+> 活跃期停滞（≥6cm + MVU≥200 + ≥4h 不开）
+> │
+> ├─ 明显 molding + 大 caput（± 胎头不下降）
+> │   → 有机械梗阻证据 = CPD / obstructed labor
+> │   → 宫缩再强也压不过去 → Cesarean delivery（剖）
+> │
+> └─ 无 molding / 无 caput
+>     → 无机械梗阻证据（Passage 不是问题）
+>     → 回到 Power：先看 MVU 够不够
+>         ├─ <200 MVU（宫缩不足）→ Oxytocin 加强
+>         └─ ≥200 MVU × 4h 仍无进展 → 才剖
+> ```
+>
+> 一句话：**有 molding/caput = 挤不过去（CPD → 剖）；无 = 可能只是推力不够（→ 先缩宫素）**。同理第二产程停滞时"无 molding/caput"= 无 CPD → 有下降空间 → 倾向器械助产而非剖（见 §一.3）。
+
+> [!question]- G1P0 39周，活跃期 6cm 停滞 4h，胎头 −1，IUPC（宫内压导管 intrauterine pressure catheter）170 MVU，查体 "no molding, no caput"，胎心 Category I。下一步？（干扰：剖宫产）
+> **缩宫素加强 (oxytocin augmentation)**。
+> - MVU 170 <200 = 宫缩**不足**，尚未达停滞标准（未满足 MVU≥200 × 4h）；"no molding/caput" = 无 CPD 机械梗阻 → 病因指向 **Power 不够** → 先补产力，不是剖。
+> - 若 stem 改成 "3+ molding, large caput" 或 MVU≥200 仍 4h 不开 → 才选剖宫产。
 
 ---
 
