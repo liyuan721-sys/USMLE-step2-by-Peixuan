@@ -68,7 +68,8 @@ type: 专题笔记
 
 ## 🔗 关联
 
-- 🔁 待补：等妊娠并发症题积累后回填同主题错题
+- 🔁 同主题错题：
+  - [[mistakes/uworld-mistakes_2026-07#^Q12235]] 妊娠剧吐 → Wernicke 脑病（B1 缺乏三联：脑病+眼震+共济失调；18 周太早排 AFLP，反射消失排 HELLP；补糖前先补 B1）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/OB]]
 - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/endocrine]]（早孕 hCG effect 致生理性 TSH 抑制，与真性甲亢鉴别）
 - 🌱 源题：[[NBME/nbme-records/NBME 11/NBME11A_S1_breakdown#^Q041]]

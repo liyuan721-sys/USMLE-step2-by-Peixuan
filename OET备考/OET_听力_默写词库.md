@@ -1063,6 +1063,12 @@ type: 备考资料
 | 逻辑/连接词 ⚠️ | 话虽如此、尽管这么说（= that said / even so / nevertheless；**让步转折信号词**——先承认前句某观点，再往回补充修正："rugby is more dangerous, **but having said that**, it's just as likely to affect kids in a park"）。⚠️ Part C 钥匙：**听到它后面才是考点**，前半句常是干扰。别听成 having "set" that | having said that |
 | 形容/状态 ⚠️ | （担忧/说法）没有根据的、未被证实的（"this concern turned out to be **unfounded**" 这个担忧被证明毫无根据——SPRINT 里"120 目标对 75 岁以上太低"的顾虑被推翻）。**Part C "提到即否定"陷阱标志词**之一：unfounded / this wasn't an issue / the evidence is slim，后面跟的旧观点都是干扰项。拼写：un-**found**-ed（found 找到/建立的过去分词，非 fund 资金）——别写成 "unfunded"（无资金的，完全不同词） | unfounded |
 
+### 2026-07-08 补（1 词）
+
+| 类别 | 中文 | English |
+|---|---|---|
+| 动作/短语 ⚠️ | 争执、打架斗殴（急诊/外伤病史高频："He was **involved in an altercation** outside a bar" 在酒吧外与人发生争执/斗殴——受伤机制 mechanism of injury 的委婉说法，= fight / physical confrontation / dispute，Part A 病史栏填空常直接要这个词）。⚠️ 拼写陷阱：**只比 alteration（改变、修改）多一个 c**——alter-**c**-ation，/ˌɔːltərˈkeɪʃn/ 听到 /k/ 音别丢 c；alteration 是"病情/剂量改变"，两词语境完全不同别混 | altercation |
+
 ## 怎么用
 1. 看**中文** → 先盲拼整词；卡住了再看「拼写骨架」（已给首字母+末字母+长度）兜底补全。
 2. 骨架里 `_` = 缺一个字母，连字符/空格保留 → 既提示词长又不直接给答案。

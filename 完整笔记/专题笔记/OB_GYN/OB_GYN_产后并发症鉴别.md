@@ -95,6 +95,8 @@ tags:
 - **Postpartum hemorrhage 产后出血 (PPH)**：产后失血过多（阴道分娩 ≥500 mL / 剖宫产 ≥1000 mL），子宫收缩乏力最常见。
 - **Endometritis 子宫内膜炎**：产后**发热 + 子宫压痛**（另见 [[完整笔记/专题笔记/OB_GYN/OB_GYN_产后发热鉴别]]）。
 - **Retained products of conception 胎盘残留**：可致晚发产后出血 + 子宫复旧不良。
+- **Postdural puncture headache 硬脊膜穿刺后头痛 (PDPH)**：椎管内麻醉 (硬膜外/腰麻) 后 72h 内**体位性头痛**（坐/站加重、平卧缓解，CSF 漏低颅压）；多自限，重症用硬膜外血补片。**区别于子痫前期头痛（非体位性 + 高血压）**。见 [[mistakes/uworld-mistakes_2026-07#^Q14756]]。
+- **Stress urinary incontinence 产后压力性尿失禁 (SUI)**：Valsalva 漏尿 + 无尿急；产后 <6 周多自限 → 观察 + Kegel。另见 [[完整笔记/专题笔记/OB_GYN/OB_GYN_盆腔器官脱垂定位与症状]]。
 
 ---
 
@@ -113,6 +115,8 @@ tags:
 ## 关联
 - 源错题：[[mistakes/uworld-mistakes_2026-07#^Q12034]]（产后尿潴留 = 膀胱失张力）
 - 源错题：[[mistakes/uworld-mistakes_2026-07#^Q16489]]（子宫乏力 PPH 宫缩剂禁忌：高血压禁甲基麦角新碱 / 哮喘禁卡前列素）
+- [[mistakes/uworld-mistakes_2026-07#^Q14756]]（产后体位性头痛 = PDPH 硬脊膜穿刺后头痛；做对）
+- [[mistakes/uworld-mistakes_2026-07#^Q18633]]（产后压力性尿失禁 SUI → 观察 + Kegel）
 - [[完整笔记/专题笔记/OB_GYN/OB_GYN_产后发热鉴别]]
 - [[完整笔记/专题笔记/OB_GYN/OB_GYN_HighYield速查总览]]
 - [[完整笔记/Peixuan分科笔记/OB]]

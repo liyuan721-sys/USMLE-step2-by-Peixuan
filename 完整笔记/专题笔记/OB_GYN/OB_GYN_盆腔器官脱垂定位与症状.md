@@ -36,6 +36,10 @@ type: 专题笔记
 > - 体检明确 `anterior vaginal segment descends` → cystocele。
 > - Stem 特意写 `normal cervix / rectal exam normal` = 帮你排掉子宫脱垂与直肠膨出。
 
+> [!info]- 附：子宫位置 (uterine version / flexion) 基础解剖（low-yield，从速查总览下沉）
+> ![[{D10CDFEC-FA09-44FF-94CC-FDBAFCB1B405}.png]]
+> *子宫位置 Uterine positioning：version = 宫颈相对阴道的角度（前倾 anteverted / 后倾 retroverted）；flexion = 宫体相对宫颈的角度（前屈 anteflexed / 后屈 retroflexed）*
+
 ---
 
 ## 二、核心鉴别表
@@ -125,6 +129,7 @@ stress urinary incontinence + vaginal bulge
 
 - 🔁 同主题错题：
   - [[NBME/nbme-records/NBME 11/NBME11A_S1_breakdown#^Q036]] 膀胱膨出（前壁脱垂致压力性漏尿）
+  - [[mistakes/uworld-mistakes_2026-07#^Q18633]] 产后压力性尿失禁（Valsalva 漏尿 + 无尿急；产后<6 周自限 → 观察+Kegel；mirabegron 只用于急迫性）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/GYN]]
 - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/OB]]（阴道分娩 / 多产是盆底损伤与脱垂的核心风险）
 - 🌱 TODO（待补）：等尿失禁题积累后，扩展压力性 vs 急迫性 (urge) vs 溢出性 (overflow) 尿失禁鉴别专题

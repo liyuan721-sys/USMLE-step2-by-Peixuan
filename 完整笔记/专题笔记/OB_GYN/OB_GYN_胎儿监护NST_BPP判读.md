@@ -65,6 +65,13 @@ Variable:    V   或  \_/    与宫缩无关、急促 → 脐带受压
 > 胎头下降贴近宫颈 → 宫缩压迫胎头 → **前囟 (anterior fontanelle) 变窄** → 一过性脑血流改变 → **迷走反射 (vagal response)** → FHR 减慢。
 > 关键结论：**良性生理现象，不代表缺氧，不需要任何干预 → 继续观察 (expectant management)**。别被"nonreassuring 病史 / 刚破膜 / 产程进展"诱导去 tocolytic（保胎药）/ 剖宫产 / 减硬膜外——那些是 late / category III 才需要的动作。
 
+> [!warning] 胎粪染色羊水 (meconium-stained amniotic fluid, MSAF) ≠ 剖宫产指征（Q4757 触发）
+> **决定要不要紧急娩出、胎儿有没有缺氧，看的是胎心 tracing，不是羊水颜色。**
+> - 胎粪排出**可能**反映过某次应激，但足月/过期妊娠时胎儿肠道成熟、排胎粪很常见，多数良性。它只提示**分娩时备新生儿复苏团队**（防胎粪吸入综合征 MAS, meconium aspiration syndrome），**不改变分娩方式**。
+> - **绿羊水 + 胎心 reactive（中等变异 + 早期减速/无晚期减速）= Category I → 继续产程**，不剖。
+> - 真正要考虑紧急剖的是 **Category III**（变异消失 + 晚期减速/心动过缓/正弦波），与羊水颜色无关。
+> - 反射钩子：题干给"meconium/绿羊水"想诱导你选剖宫产，**先去看胎心**——中等变异就是安心信号。
+
 > [!tip] 三个 "C" 助记（英文首字母对机制）
 > - Ea**rl**y → **H**ead compression（胎头）
 > - **V**ariable → Cor**d** compression（脐带 = umbilical **c**ord）
@@ -253,5 +260,6 @@ BPP 评分下降（羊水项 + 行为项同时丢分）→ ≤4 提示危险 →
 ## 关联
 - 源错题：[[mistakes/uworld-mistakes_2026-07#^Q3112]]（41 周 BPP 4 分 = 子宫胎盘功能不全）
 - 相关：[[mistakes/uworld-mistakes_2026-07#^Q17175]]（羊水过少）/ [[mistakes/uworld-mistakes_2026-07#^Q3280]]（FGR）
+- [[mistakes/uworld-mistakes_2026-07#^Q4757]]（绿羊水 + 胎心可靠 ≠ 剖宫产；GBS 未知 + ROM≥18h → 青霉素）
 - [[完整笔记/专题笔记/OB_GYN/OB_GYN_HighYield速查总览]]
 - [[完整笔记/Peixuan分科笔记/OB]]

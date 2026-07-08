@@ -76,6 +76,10 @@ type: 专题笔记
 
 *可疑异位妊娠处理流程 (management of suspected ectopic pregnancy)：阳性尿 hCG + 下腹痛/阴道出血 →【血流动力学稳定】做 TVUS → 附件包块 = 治异位；宫内孕 = 排除；不确定 (nondiagnostic) → 查血 β-hCG（**≥3,500 IU/L** 且宫腔空 → 2 天后复查 hCG + TVUS；**<3,500 IU/L** → 2 天后复查 hCG）。【血流动力学不稳定】→ 立即手术会诊 (immediate surgical consultation)*
 
+![[{CC9EE5DE-603F-400B-9581-1877CE1475F0}.png]]
+
+*异位妊娠 (ectopic pregnancy) 经阴超声 (TVUS)：附件区孕囊 (adnexal gestational sac) + 周边血流 "ring of fire" 火环征（从速查总览下沉）*
+
 ### 2.3 葡萄胎 (Hydatidiform mole, 葡萄胎)
 
 - **典型 stem 钩子 → 临床意义**：
@@ -101,6 +105,15 @@ type: 专题笔记
 - **查体**：**禁指检**；先超声定位。
 - **首选检查**：**经腹超声 (TAUS, transabdominal ultrasound) → 经阴超声 (TVUS)**，见胎盘覆盖/接近宫颈内口。
 - **处理**：禁性交、禁指检、出血发作住院；**持续型 → 36–37 周计划性剖宫产 (cesarean delivery)**。
+
+> [!tip] 胎心 reactive = 出血是母体来源（前置胎盘 vs 早剥的第二判别器）
+> 前置胎盘出血机制 = 胎盘从宫颈**部分剥离**、**母体血窦出血**（不是胎儿血），所以**早期胎儿不受累 → 胎心 reactive/可靠**：
+> - **baseline 110–160（如 150）+ 中等变异 (moderate variability) + 有加速 (accelerations) + 无减速 (no decelerations)** = Category I → 指向前置胎盘。
+> - 只有母体持续大量失血、失代偿后才继发胎儿受累。
+>
+> 对比 **胎盘早剥 (abruption)**：剥离面直接损害**子宫胎盘灌注** → 胎儿窘迫 → **复发性晚期减速 / 心动过缓 / 变异消失**，母体还可能 **DIC**。
+>
+> **所以题干"痛不痛"没标清时，胎心就是钥匙**：reactive（无减速）→ previa；晚期减速/心动过缓 → abruption。（Q2523 = nonpainful contractions + baseline 150 + 中等变异 + 加速 + 无减速 → 双证据锁 previa。）
 
 > [!warning] 胎盘植入 (Placenta accreta spectrum, 胎盘植入)
 > **前置胎盘 + 既往子宫手术（剖宫产 / 诊刮 D&C / 肌瘤剔除 myomectomy）= 最强预警**。产前 US 见胎盘陷窝 (placental lacunae) + 肌层变薄 (myometrial thinning)。
@@ -168,9 +181,13 @@ type: 专题笔记
 | 宫颈癌 cervical cancer | 任意 | **无痛** | **宫颈可视脆性溃疡/病灶** | 局部 | **宫颈活检** | 多学科定时机 |
 
 > [!tip] 三组易混对决（出题最爱）
-> - **前置胎盘 vs 胎盘早剥**：无痛 vs 剧痛；US 阳性 vs **临床（US 阴性不排除）**。
+> - **前置胎盘 vs 胎盘早剥**：无痛 vs 剧痛；US 阳性 vs **临床（US 阴性不排除）**。**第二判别器 = 胎心**：前置胎盘出血是**母体来源**，早期胎儿不受累 → **胎心 reactive（有加速、无减速）**；早剥胎盘灌注受损 → **晚期减速/胎心异常**（甚至母体 DIC）。
 > - **前置胎盘 vs 前置血管**：都无痛，但前置血管=**胎儿出血 + 破膜后胎心骤恶**，量少也致命。
 > - **流产 vs 宫颈癌（Q047）**：都"孕期出血"，但宫颈癌=**无痛 + 宫颈可视溃疡 + 宫颈口闭**；流产=**绞痛 + 宫颈口开 + 妊娠物**。看到宫颈可视 friable lesion 直接跳宫颈癌，别困在产科病因里。
+
+> [!question]- 读题技巧：题干没高亮"痛不痛"，怎么分 previa vs abruption？（Q2523 触发）
+> **别默认"没提到=不疼"——先回头找题干里"宫缩/腹痛"的措辞。** UWorld 想让你选 abruption 时会明确给"**painful** contractions / 腹背剧痛 / 子宫强直压痛 + 触发因素（外伤/可卡因/子痫前期/PPROM）"；想让你选 previa 时会给"**nonpainful** contractions / 无痛"（常不高亮，易漏）。
+> **两把钥匙一起用**：① 题干措辞（无痛 → previa）② **胎心**（reactive 无减速 → previa；晚期减速 → abruption）。Q2523 既写了 "nonpainful contractions" 又给了 reactive FHR → 双证据锁 previa，不是靠"默认不疼"。
 
 ---
 
@@ -199,6 +216,9 @@ type: 专题笔记
   - [[mistakes/uworld-mistakes_2026-06#^Q047]] 妊娠期宫颈癌出血（friable ulcer / 胎盘后底排前置 / 宫颈口闭排流产）
   - [[mistakes/uworld-mistakes_2026-07#^Q12318]] 稽留流产（β-hCG 下降 + 空孕囊，自然流产分型）
   - [[mistakes/uworld-mistakes_2026-07#^Q2535]] 孕期钝性腹外伤 → 胎盘早剥 + 失血性休克（母体复苏优先输血）
+  - [[mistakes/uworld-mistakes_2026-07#^Q2523]] 前置胎盘（无痛大出血 + 子宫软 + 胎心可靠，母体来源，禁指检）
+  - [[mistakes/uworld-mistakes_2026-07#^Q12056]] 宫角异位妊娠破裂 + 血流动力学不稳 → 手术探查（双角子宫为特异危险因素）
+  - [[mistakes/uworld-mistakes_2026-07#^Q2532]] 子宫破裂（瘢痕子宫 + 突发剧痛 + **胎先露回缩** + 晚期减速）— 做对
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/OB]] / [[完整笔记/Peixuan分科笔记/GYN]] / [[完整笔记/专题笔记/OB_GYN/OB_GYN_HighYield速查总览]]（A6 产前出血）
 - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/感染]]（HPV → 宫颈癌）；[[完整笔记/专题笔记/血液/血液_TMA四鉴别_HUS_TTP_DIC_ITP]]（胎盘早剥 → DIC）
 - 🌱 TODO：积累 vasa previa / 胎盘植入 / 葡萄胎追踪 hCG 的独立错题后，按需细化各病专卡
