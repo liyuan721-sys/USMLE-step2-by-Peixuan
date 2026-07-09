@@ -1049,7 +1049,18 @@ type: 备考资料
 | 形容/状态 ⚠️ | 暂定的、初步的、试探性的（拉丁 tentare 尝试）。临床最高频搭配：**tentative diagnosis** 初步诊断/拟诊（= provisional / working diagnosis，待检查确认）；日程语境：a tentative appointment 暂定的预约（待确认）；描述动作/态度=犹豫试探的：first **tentative** steps（术后/康复初次下地的试探性步伐）、a tentative smile。**OET 双重身份**：它既是词汇，也是 Writing/Speaking 评分概念——不确定的诊断要用 **tentative language**（试探性措辞：may / might / possibly / it appears that），写转诊信把拟诊写成确诊会扣分。拼写陷阱：中间元音是 **a**——tent-**a**-tive，别写成 "tentitive/tentetive"；双 t 结构 t-e-n-t-a-t-i-v-e | tentative |
 | 动作/短语 ⚠️ | 反复唠叨、喋喋不休地说（harp 竖琴→"反复弹同一根弦"；常带自嘲缓和语气——医生宣教戒烟/减重/依从性 adherence 语境高频："sorry to **harp on**, but..." 恕我啰嗦）；固定搭配 **harp on about + 话题**："my doctor keeps harping on about my weight"。配套短语 **get through**：（反复说的信息）被真正听进去/理解——"until the message **gets through**"；get through **to** sb 说得通、让某人听进去。**误听陷阱：harping /ˈhɑːpɪŋ/ ≈ hopping /ˈhɒpɪŋ/（跳）**——后接 on about + 话题的一定是 harp；"keep" 弱读别听成不存在的 "heep"（本次收词即因此误记 "heep hopping"） | harp on (about) |
 
-### 2026-07-07 补（9 词，听力 Part C：concussion 访谈 + SPRINT 讲座）
+### 2026-07-08 补（1 词）
+
+| 类别 | 中文 | English |
+|---|---|---|
+| 动作/短语 ⚠️ | 争执、打架斗殴（急诊/外伤病史高频："He was **involved in an altercation** outside a bar" 在酒吧外与人发生争执/斗殴——受伤机制 mechanism of injury 的委婉说法，= fight / physical confrontation / dispute，Part A 病史栏填空常直接要这个词）。⚠️ 拼写陷阱：**只比 alteration（改变、修改）多一个 c**——alter-**c**-ation，/ˌɔːltərˈkeɪʃn/ 听到 /k/ 音别丢 c；alteration 是"病情/剂量改变"，两词语境完全不同别混 | altercation |
+
+## 📦 Part C 听力实战生词（独立收录，不与 Part A 合并）
+
+> [!warning] 这节是干嘛的
+> **Part C（专业讲座 / 医患访谈）的实战生词单独收在这里**，与上面的 Part A（医患对话填空）分开。Part C **不考拼写默写**，重点是**听懂长句 + 抓同义替换 / 立场信号词**（正确项常把音频原词换成同义词），所以这节价值在「中文含义 + 陷阱标注」，拼写只对少数关键医学词 / 药名要求。⚠️ = 含义陷阱 / 同义替换 / 立场信号词 / 关键拼写。
+
+### 2026-07-07 补（9 词，Part C：concussion 脑震荡访谈 + SPRINT 讲座）
 
 | 类别 | 中文 | English |
 |---|---|---|
@@ -1063,20 +1074,48 @@ type: 备考资料
 | 逻辑/连接词 ⚠️ | 话虽如此、尽管这么说（= that said / even so / nevertheless；**让步转折信号词**——先承认前句某观点，再往回补充修正："rugby is more dangerous, **but having said that**, it's just as likely to affect kids in a park"）。⚠️ Part C 钥匙：**听到它后面才是考点**，前半句常是干扰。别听成 having "set" that | having said that |
 | 形容/状态 ⚠️ | （担忧/说法）没有根据的、未被证实的（"this concern turned out to be **unfounded**" 这个担忧被证明毫无根据——SPRINT 里"120 目标对 75 岁以上太低"的顾虑被推翻）。**Part C "提到即否定"陷阱标志词**之一：unfounded / this wasn't an issue / the evidence is slim，后面跟的旧观点都是干扰项。拼写：un-**found**-ed（found 找到/建立的过去分词，非 fund 资金）——别写成 "unfunded"（无资金的，完全不同词） | unfounded |
 
-### 2026-07-08 补（1 词）
+### 2026-07-09 补（6 词，Part C：concussion 脑震荡访谈）
 
 | 类别 | 中文 | English |
 |---|---|---|
-| 动作/短语 ⚠️ | 争执、打架斗殴（急诊/外伤病史高频："He was **involved in an altercation** outside a bar" 在酒吧外与人发生争执/斗殴——受伤机制 mechanism of injury 的委婉说法，= fight / physical confrontation / dispute，Part A 病史栏填空常直接要这个词）。⚠️ 拼写陷阱：**只比 alteration（改变、修改）多一个 c**——alter-**c**-ation，/ˌɔːltərˈkeɪʃn/ 听到 /k/ 音别丢 c；alteration 是"病情/剂量改变"，两词语境完全不同别混 | altercation |
-
-### 2026-07-09 补（4 词）
-
-| 类别 | 中文 | English |
-|---|---|---|
-| 形容/状态 ⚠️ | （证据/可能性）薄弱的、不足的（concussion 脑震荡访谈原句："I think **the evidence is fairly slim** for that" 支持那个说法的证据相当薄弱 = weak / scant / limited / flimsy evidence）。⚠️ **同词不同义**：日常义"苗条的"（a slim figure），OET Part C 里 **slim evidence（证据薄弱）/ slim chance（机会渺茫）** 全是"少、弱"义，跟身材无关。**Part C "提到即否定"标志词**（与 unfounded 同一家族，见 7-07 批次）：说话人先摆旧观点（"It used to be thought..."），再用 the evidence is slim 把它推翻——**旧观点是干扰项，转折后（What we do know...）才是答案** | slim (evidence / chance) |
+| 形容/状态 ⚠️ | （证据/可能性）薄弱的、不足的（concussion 脑震荡访谈原句："I think **the evidence is fairly slim** for that" 支持那个说法的证据相当薄弱 = weak / scant / limited / flimsy evidence）。⚠️ **同词不同义**：日常义"苗条的"（a slim figure），OET Part C 里 **slim evidence（证据薄弱）/ slim chance（机会渺茫）** 全是"少、弱"义，跟身材无关。**Part C "提到即否定"标志词**（与 unfounded 同一家族）：说话人先摆旧观点（"It used to be thought..."），再用 the evidence is slim 把它推翻——**旧观点是干扰项，转折后（What we do know...）才是答案** | slim (evidence / chance) |
 | 动作/短语 ⚠️ | 挨了（一记击打）、成为…的承受方（concussion 脑震荡访谈原句："people playing rugby **stand more chance of being at the receiving end of such a blow**" 玩橄榄球的人更容易挨上这样一记撞击——固定习语，字面"站在接收端"）。核心医学词 **blow = （一记）击打、撞击**（a blow to the head 头部受击，外伤/脑震荡病史标准受伤机制用词，= hit / impact / knock）。⚠️ 同词不同义：blow 名词"击打" ≠ 动词"吹"（blow your nose 擤鼻涕）；听力里 "a blow to..." 一定是"击打"义。搭配 **stand more chance of...** = 更有可能… | (be) at the receiving end of a blow |
 | 形容/状态 ⚠️ | 确定性的、决定性的（医学高频搭配：**definitive diagnosis** 确定诊断/确诊（对应 provisional/working diagnosis 初步诊断）、**definitive treatment/management** 根治性治疗（对应 symptomatic/supportive 对症支持）；Part C 访谈常说 "there's **no definitive answer/evidence** yet" 尚无定论——又是**留悬念/否定旧观点**的信号词）。⚠️ 易混：**definitive（决定性的、最终的）≠ definite（明确的、肯定的）**——definite improvement 明确的好转 vs definitive treatment 根治治疗，考"最终解决"义必须用 definitive。拼写陷阱：de-fin-**i**-tive，中间是 **-ini-** 别写成 "definative/defintive" | definitive |
 | 形容/状态 ⚠️ | 过分地、过度地、不必要地（副词，= excessively / overly；un- 否定 + duly 恰当地 ← due 应当的）。医学访谈固定出现在**安抚句**："Parents **shouldn't be unduly worried/alarmed/concerned**" 家长不必过分担心；形容词形式 **undue**（不必要的）："avoid causing **undue** anxiety" 避免造成不必要的焦虑。**Part C 立场缓和信号词**：说话人刚讲完风险就用它往回收（"有风险但别恐慌"），正确项常改写成 reassure（安抚）/ keep it in perspective（理性看待），夸大风险的选项是干扰。拼写：un-du-ly 就 6 个字母，**别写成 "unduely"**（不是 due+ly 直接拼接，e 要去掉） | unduly / undue |
+| 形容/状态 ⚠️ | 一次性的、单次的（英式高频；concussion 脑震荡访谈原句："concussion is a **one-off** event following a significant blow to the head" 脑震荡是头部一次重击后的一次性事件 = single / isolated event，对立面 = **repeated / recurrent**（反复的））。**Part C 钥匙**：one-off（单次）vs repeated impact（反复撞击）正是区分 concussion 与 CTE (chronic traumatic encephalopathy 慢性创伤性脑病) 的分界线——听到 one-off 就是在把两个概念切开。也可作名词："it was just a one-off" 只是偶发一次。拼写：one-off **带连字符**，别写成 "one off/oneoff" | one-off |
+| 职业/人物 ⚠️ | 合唱团、唱诗班（Part A 社会史 social history / 生活方式栏也高频："She **sings in a local choir**" 她参加当地合唱团；心理健康话题里常作非药物建议——joining a choir 应对情绪低落 / 社会隔离 social isolation 的社交活动处方）。⚠️ **拼写与读音完全脱节**：发音 /ˈkwaɪər/ 听着像 "quire/kwire"，实际拼 **ch-o-i-r**——ch 发 /kw/ 是极少数例外，听写时脑子里想着 "chorus（合唱曲）同族" 就能锚定 ch 开头；别按读音写成 "quire/kwire/qior" | choir |
+
+### 2026-07-09 补（25 词，Part C：social prescribing 社会处方 + cystic fibrosis 囊性纤维化）
+
+关联分析笔记：[[OET备考/听力PartC/2026-07-09_听力PartC_socialprescribing+CF_分析]]
+
+| 类别 | 中文 | English |
+|---|---|---|
+| 概念/术语 | 社会处方（GP 全科医生给有心理/社交问题的患者"开处方"去参加社区活动，如园艺/合唱/散步，链接非医疗支持 non-medical support；本篇 Extract 1 主题） | social prescribing |
+| 归属感/社交 | 归属感（"the feeling of **belonging to a community**" 归属于社区的感觉；社会处方缓解 loneliness 孤独 / isolation 隔离的核心） | a sense of belonging |
+| 形容/状态 ⚠️ | 令人却步的、使人气馁的（**Q34 考点句**："digging might be a **daunting** prospect" 挖地令人望而却步 = off-putting / intimidating；正确项改写成 "**put off** by the demanding nature of the work"）。同义替换链：daunting = put off = discouraging | daunting |
+| 动作/短语 ⚠️ | 使某人深刻意识到 / 体会到（idiom：**bring sth home to sb**——"something a patient said **brought home to me** the value of..." 患者的话让我深切体会到…的价值 = made me realize）。别按字面理解成"带回家" | bring sth home to sb |
+| 形容/状态 ⚠️ | 怀疑的、将信将疑的（"I'd been unnecessarily **sceptical**" 我之前过于怀疑 = doubtful / unconvinced）。⚠️ 拼写：美式 **skeptical**（k），英式 sceptical（c）——OET 两版都接受，默写写美式 skeptical | skeptical（英式 sceptical） |
+| 动作/短语 | （志愿者）打理、照料（"a community garden **tended by** volunteers" 由志愿者打理的社区花园；tend = 照料/看护，tend to a patient 照顾患者） | tended by |
+| 动作/短语 ⚠️ | 是好兆头、预示良好（idiom：**bode well**——"it all **boded well** for future initiatives" 都预示未来项目会顺利 = a good sign for；反义 bode ill）。⚠️ Q35 干扰点：这是**医生的展望**不是患者反馈 | bode well |
+| 动作/短语 | 俯身、弯腰（"unable to bend or **stoop** down" 无法弯腰俯身；描述腰背活动受限的病史高频） | stoop (down) |
+| 动作/短语 | 量身调整、因人而异地定制（"**tailor** the activities to suit the patient's abilities" 按患者能力量身安排活动 = adapt / customize；tailor A to B） | tailor (to suit) |
+| 疾病/诊断 ⚠️ | 囊性纤维化（遗传病，CFTR 基因突变 → 分泌物 mucus 又稠又黏，堵塞肺 / 胰；本篇 Extract 2 主题）。⚠️ 拼写攻坚：**cystic fibrosis**——c-y-s-t-i-c，fi-**bro**-sis（不是 fibrocis / fybrosis） | cystic fibrosis |
+| 症状/物质 ⚠️ | 黏液、痰液（"**mucus** to be thicker and stickier" 黏液又稠又黏）。⚠️ 名词 **mucus**（us）≠ 形容词 **mucous**（ous，mucous membrane 黏膜）——听写考名词写 mucus | mucus |
+| 动作/情绪 ⚠️ | 抵触、怨恨（"might **resent** this ordeal" 会抵触这种煎熬 = be unwilling / begrudge——青少年对长期服药的排斥情绪）。别与 present / represent 混 | resent |
+| 名词 | 磨难、煎熬（"resent this **ordeal**" 这种折磨——把长期繁重治疗形容成 ordeal，负面情绪词） | ordeal |
+| 动作/短语 ⚠️ | 蒙混过关、侥幸逃脱（idiom：**get away with (it)**——"if they think they can **get away with** it" 如果他们觉得能蒙混过去 / 不服药也没事）。字面 ≠ "逃走" | get away with (it) |
+| 动作/短语 | 应对、对付（棘手的事）（"the most difficult things we have to **contend with**" 我们必须应对的最难的事 = deal with / cope with） | contend with |
+| 概念/术语 ⚠️ | 分心疗法（用 VR virtual reality 虚拟现实头显等让患者治疗时分散注意、放松；**Q39 考点**）。Q39 正确项："it can be **related to** the treatment"——因为 VR 场景"对应 correspond to 患者要做的活动"（骑固定单车 stationary bike 配虚拟户外骑行） | distraction therapy |
+| 动作 | 施予、给予（治疗 / 药物）（"easier to **administer** breathing treatments" 更容易实施呼吸治疗；administer medication 给药——正式用词，别只想到"管理"） | administer |
+| 动作/短语 ⚠️ | 接受、配合、参与进来（idiom：**get on board**——"it took a while for him to **get on board**" 他过了一阵才接受配合 = accept / cooperate / come round）。字面 ≠ "上船" | get on board |
+| 动作 | 阻碍、妨碍（"he stop **hindering** his treatment" 他不再抗拒 / 妨碍治疗 = obstruct / impede；反义 help / aid） | hinder |
+| 疾病/概念 ⚠️ | 交叉感染（"kept apart to avoid **cross-infection**" 隔开以防交叉感染——CF 病友不能见面的原因；Q41 背景）。带连字符 cross-infection | cross-infection |
+| 名词/短语 ⚠️ | 不得不承受的苦、沉重负担（idiom：**a cross to bear**——"one more **cross to bear**" 又多一重要背负的苦；源自背十字架，指长期的困难 / 病痛）。别理解成字面"十字" | a cross to bear |
+| 名词/短语 ⚠️ | 病友、同病相怜者（"a network of **fellow sufferers**" 病友网络 = others with the same condition / going through the same thing；**Q41 正确答案钥匙**——CF 患者想和**同病**的人交流，选 "with the condition" 不是 "different condition"） | fellow sufferers |
+| 名词/短语 ⚠️ | 即将到来、在望（idiom：**on the horizon**——"advances **on the horizon**" 即将出现的进展 = upcoming / in the near future）。字面"地平线上" | on the horizon |
+| 概念/术语 | 基因治疗（"**gene therapy**...genetic mutation replaced with a healthy gene" 用健康基因替换致病突变——CF 未来根治 definitive cure 方向） | gene therapy |
+| 药物 ⚠️ | 鲁玛卡托 + 依伐卡托（lumacaftor + ivacaftor，品牌 **Orkambi 奥卡姆比**）——CFTR modulator（CFTR 调节剂）组合药，改善体内水盐平衡 → 稀释黏液 mucus。⚠️ Whisper 常把 Orkambi 误转成 "or Kambi"；药名难拼，认读即可 | lumacaftor + ivacaftor (Orkambi) |
 
 ## 怎么用
 1. 看**中文** → 先盲拼整词；卡住了再看「拼写骨架」（已给首字母+末字母+长度）兜底补全。
