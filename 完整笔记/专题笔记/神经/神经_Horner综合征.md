@@ -261,6 +261,7 @@ type: 专题笔记
   - （等后续 Pancoast / 颈动脉夹层 / Wallenberg / Cluster headache 错题积累）
 
 - 📚 主笔记：
+  - [[完整笔记/专题笔记/神经/神经_瞳孔异常鉴别]]（光-近分离 schema：ARP vs Adie；Anisocoria 两步定位；本篇 Horner 是其中一支）
   - [[完整笔记/Peixuan分科笔记/neuro]]（Wallenberg / Syringomyelia / MS / 脑干综合征章节）
   - [[完整笔记/Peixuan分科笔记/眼科]]（Anisocoria workup / Ptosis 鉴别 / CN III palsy）
 
