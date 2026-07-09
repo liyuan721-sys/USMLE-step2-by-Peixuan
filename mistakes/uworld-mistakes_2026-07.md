@@ -2777,6 +2777,10 @@ type: 错题数据源
 > ## 核心概念
 > **宫角/间质部异位妊娠 (cornual/interstitial ectopic) 破裂 + 血流动力学不稳 → 急诊手术探查 (surgical exploration)。** 宫角血供丰富（子宫 + 卵巢双重供血），破裂可致命性腹腔内出血。不稳定患者不做进一步检查，直接手术止血。
 > 
+> ![[L29366.png]]
+> 
+> *异位妊娠着床部位：tubal 输卵管（最常见）/ **cornual/interstitial 宫角·间质部**（本题，血供丰富破裂凶险）/ abdominal 腹腔 / cervical 宫颈 / ovarian 卵巢*
+> 
 > ## 普适规则（异位妊娠管理）
 > - **稳定 + 未破裂 + 早期** → **甲氨蝶呤 (methotrexate)** 药物治疗（需随访 β-hCG 至转阴）。
 > - **不稳定 / 破裂 / 腹腔积血** → **手术**（探查/腹腔镜或开腹止血）。
@@ -3264,6 +3268,10 @@ type: 错题数据源
 > | Caput succedaneum 产瘤 | 皮下 | **跨缝** | 出生即有, 软/凹陷性, 界限不清, 数天消 |
 > | **Cephalohematoma 头颅血肿** | 骨膜下 | **不跨缝** | 生后数小时现, 硬/不波动, 界清, 高胆红素风险, ~1 月吸收 |
 > | Subgaleal hemorrhage 帽状腱膜下出血 | 骨膜与帽状腱膜间 | **跨缝** | 数天扩大, 软/波动, 弥漫, ±淤斑, **可致命大失血** |
+> 
+> ![[{880B25B3-5D4E-46EF-860E-DBC2EDA41F10}.png]]
+> 
+> *左 cephalohematoma 骨膜下、不跨骨缝；右 caput succedaneum 骨膜浅层水肿、跨骨缝*
 > 
 > ## 题干线索→临床意义
 > - "产钳助产" → cephalohematoma / subgaleal 的风险因素。

@@ -3,7 +3,7 @@ title: UNC Chapel Hill（教堂山）— LGG 申请邮件存档
 type: 申请邮件存档
 school: UNC Chapel Hill
 created: 2026-07-07
-status: ✅ 已回复-积极·GME 核实中（~7/14 需跟进）
+status: ✅ 资格确认·可申请（GME 已清关 7-8）
 ---
 
 # UNC Chapel Hill（北卡教堂山，UNC Hospitals）— LGG 申请邮件存档
@@ -13,8 +13,8 @@ status: ✅ 已回复-积极·GME 核实中（~7/14 需跟进）
 > [!success] 积极回复：国际医学学位"应该没问题"，只要 ABMGG 满足要求
 > 协调员 Jan Badstein 明确说不认为你的**国际 MD** 会是障碍（前提 ABMGG 已认可，你已过 ✅），只是走流程送 **GME Office** 核实一下。UNC 官网本就是**唯一点名 ABMGG 通道**的学校（[[01_项目详情卡]]），匹配最干净。**T2 → T1。**
 
-> [!warning] ⏰ 行动死线：~2026-07-14（下周）主动跟进
-> 协调员原话 "**Please reach out to me by next week if you have not heard back from me.**" → 若到 **7/14（周一）左右**仍无 GME 核实结果，**主动 email Jan Badstein 跟进**。别错过这个窗口。
+> [!success] ✅ GME 已清关（2026-07-08）—— 无需再等 7/14 跟进
+> 原定 ~7/14 主动跟进的窗口**已作废**：GME Office **主动**回复协调员，明确"**we should be good, especially since the ABMGG has accepted the educational component**"。资格核实**通过**，UNC 是**第一家把资格问题彻底走完流程确认合格**的学校。→ 下一步 = 备齐材料正式投（招满即止，早投早好）。
 
 ## 项目速查（2026-07-05 官网核实 ✅）
 
@@ -74,6 +74,45 @@ status: ✅ 已回复-积极·GME 核实中（~7/14 需跟进）
 > I will follow up with you next week if I have not yet heard back, as you suggested. In the meantime, please let me know if there is anything further you need from me.
 >
 > Thank you again for your time and assistance.
+>
+> Best regards,
+> Yuan Li, MD
+> (424) 206-0307
+> liyuan721@gmail.com
+
+### ③ GME 清关回复（2026-07-08）
+
+- **2026-07-08　✅ Jan Badstein 回复（GME 核实结果）**：
+
+> The GME Office reached out to me and wanted to let me know we should be good, especially since the ABMGG has accepted the educational component.
+>
+> Have a great day and I look forward to receiving more information from you soon.
+>
+> Cheers,
+> Janice
+
+- **要点**：
+  - ✅ **GME Office 核实通过** —— "we should be good"，明确点名"**ABMGG has accepted the educational component**"（= 你的 ABMGG 认可正是清关关键）。资格问题**彻底走完确认合格**，UNC 是首家。
+  - 📩 **"look forward to receiving more information from you soon"** —— 协调员在等你的**申请材料**（Applicant Info Sheet + 3 封 LOR + ABMGG 信 + 其他 PDF）。
+- **下一步（待办）**：
+  - [ ] 📝 发致谢回信（已起草，见 ④）
+  - [ ] 🎯 **尽快备齐材料正式投**：Applicant Info Sheet + CV + ABMGG 信 + **3 封 LOR（推荐人直发）** + 其他 PDF；**招满即止（窗口至 8/31）早投早好**
+
+### ④ 我的回复致谢信（GME 清关后，已发送 2026-07-08）
+
+- **收件人**：jan.badstein2@unchealth.unc.edu（Janice Badstein）
+- **主题**：Re: Prospective applicant — LGG Fellowship (July 2027 start)
+- **Word 版**：`Desktop\LGG报名\各学校沟通邮件\已发送\UNC_LGG_reply2_email.docx`
+
+**正文：**
+
+> Dear Janice,
+>
+> Thank you so much for the wonderful news, and please pass along my thanks to the GME Office for looking into this. I am very glad the educational component is settled and that my ABMGG credentials review meets the requirement.
+>
+> I am very enthusiastic about the LGG Fellowship at UNC and will move forward with assembling my full application — the Applicant Information Sheet, CV, my ABMGG credentials letter, and three letters of recommendation (sent directly by my referees). I will have these to you as soon as possible, and I will reach out if I have any questions about the required materials.
+>
+> Thank you again for your time and for guiding me through the eligibility process.
 >
 > Best regards,
 > Yuan Li, MD

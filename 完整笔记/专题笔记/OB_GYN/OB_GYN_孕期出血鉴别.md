@@ -66,6 +66,10 @@ type: 专题笔记
 - **首选检查**：**经阴超声 (TVUS, transvaginal ultrasound)** + 定量 **β-hCG（β 人绒毛膜促性腺激素 β-human chorionic gonadotropin）**。
 - **处理**：稳定/未破裂 → **甲氨蝶呤 (MTX, methotrexate)**；破裂/不稳定 → 手术。
 
+![[L29366.png]]
+
+*异位妊娠着床部位 (ectopic pregnancy locations)：输卵管 tubal（最常见）、**宫角/间质部 cornual/interstitial**（血供丰富、破裂出血凶险，特异危险因素 = 子宫畸形双角/单角 + IVF，见 [[mistakes/uworld-mistakes_2026-07#^Q12056]]）、腹腔 abdominal、宫颈 cervical、卵巢 ovarian*
+
 > [!warning] 辨别带 Discriminatory zone（高频陷阱）
 > **β-hCG < 3,500 mIU/mL 时，即使 TVUS 没看到宫内孕，也不能直接诊断异位妊娠**（可能只是太早）。
 > - β-hCG 上升缓慢（48h 增幅 < 35%）或平台 → 异位 / 早期流产。
