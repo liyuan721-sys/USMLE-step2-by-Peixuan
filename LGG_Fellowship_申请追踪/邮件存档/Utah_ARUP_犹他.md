@@ -3,7 +3,7 @@ title: University of Utah / ARUP（犹他）— LGG 申请邮件存档
 type: 申请邮件存档
 school: University of Utah / ARUP Laboratories
 created: 2026-07-05
-status: ✅ 已回复(7-9)·三问全确认·T1·⏳ 待发致谢回信
+status: ✅ 已回复(7-9)·三问全确认·T1·📧 我已回信 7-9
 ---
 
 # University of Utah / ARUP Laboratories（犹他）— LGG 申请邮件存档
@@ -87,7 +87,7 @@ status: ✅ 已回复(7-9)·三问全确认·T1·⏳ 待发致谢回信
 
 ### ③ 我的回信（致谢 + 确认下一步·定稿）
 
-- **状态**：✅ 定稿　→　发送日期：______（直接在 Gmail 原线程 Reply 粘贴即可，无需附件）
+- **状态**：📧 **已发送（2026-07-09）**（Gmail 原线程 Reply，无附件）
 - **收件人**：michelle.larsen@aruplab.com（Mi'Chelle Larsen, Program Coordinator）
 - **主题**：Re: Prospective applicant — LGG Fellowship (July 2027 start)
 - **可发送 Word 版**：`Desktop\LGG报名\各学校沟通邮件\Utah_ARUP_LGG_reply_email.docx`
