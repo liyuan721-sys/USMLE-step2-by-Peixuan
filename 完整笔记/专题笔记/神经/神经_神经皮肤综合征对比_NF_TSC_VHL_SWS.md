@@ -169,6 +169,10 @@ VHL  →  后颅窝/视网膜高血管结节 + 双肾多发囊肿/肿瘤
 >
 > 记忆：和助记词 **CICLOPSS** 同一批体征，只是加了"数量阈值 + 家族史"。2021 更新版另把 **脉络膜异常**（OCT 光学相干断层扫描可见）和 **致病性 NF1 基因变异** 也列入，但 CK 考经典 7 条。
 
+![](https://apps.uworld.com/media/L36987.jpg)
+![](https://apps.uworld.com/media/L28710.jpg)
+![](https://apps.uworld.com/media/L86230.png)
+![](https://apps.uworld.com/media/L45661.png)
 ### 6.2 TSC 诊断（2012/2021 标准：2 主 或 1 主 + ≥2 次）
 
 > [!tip] 确诊规则

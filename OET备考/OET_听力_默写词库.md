@@ -1117,6 +1117,13 @@ type: 备考资料
 | 概念/术语 | 基因治疗（"**gene therapy**...genetic mutation replaced with a healthy gene" 用健康基因替换致病突变——CF 未来根治 definitive cure 方向） | gene therapy |
 | 药物 ⚠️ | 鲁玛卡托 + 依伐卡托（lumacaftor + ivacaftor，品牌 **Orkambi 奥卡姆比**）——CFTR modulator（CFTR 调节剂）组合药，改善体内水盐平衡 → 稀释黏液 mucus。⚠️ Whisper 常把 Orkambi 误转成 "or Kambi"；药名难拼，认读即可 | lumacaftor + ivacaftor (Orkambi) |
 
+### 2026-07-09 补（2 词，症状：味觉/嗅觉障碍）
+
+| 类别 | 中文 | English |
+|---|---|---|
+| 症状/描述 ⚠️ | 味觉障碍、味觉异常/减退（患者主诉"吃东西没味道 / 味道变怪"；OET Part A 病史 + 神经/营养话题高频，锌 zinc 缺乏、上呼吸道感染、化疗后都可出现）。⚠️ **希腊词根拼写攻坚**：dys-**geu**-sia，dys- 障碍 + geusis 味觉——中间是 **-geu-** 别写成 "gusia / geusa / gusea"；同族 **ageusia** 味觉完全丧失（a- 无）、hypogeusia 味觉减退 | dysgeusia |
+| 症状/描述 ⚠️ | 嗅觉丧失（"loss of smell"；COVID/上感、鼻窦炎、颅底外伤、神经退行病史高频，常与 dysgeusia 味觉障碍成对出现）。⚠️ 拼写：a-n-o-s-m-i-a，an- 无 + osme 气味——**单个 s**（不是 anossmia），-sm- 辅音簇易漏；别与 **amnesia** 记忆丧失混。同族 **hyposmia** 嗅觉减退、**parosmia** 嗅觉倒错（闻到不存在/扭曲的味） | anosmia |
+
 ## 怎么用
 1. 看**中文** → 先盲拼整词；卡住了再看「拼写骨架」（已给首字母+末字母+长度）兜底补全。
 2. 骨架里 `_` = 缺一个字母，连字符/空格保留 → 既提示词长又不直接给答案。
