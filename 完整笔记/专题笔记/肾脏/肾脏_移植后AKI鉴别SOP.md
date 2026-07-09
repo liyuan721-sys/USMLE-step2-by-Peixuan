@@ -46,7 +46,7 @@ Post-Transplant Cr ↑
    │     - 治疗：减免疫抑制 + Cidofovir (BK 重症) / Ganciclovir (CMV)
    │
    └─ ⑤ ATN / Mechanical Obstruction
-         - 病程：ATN 多 post-tx **第 1 周**（围手术期缺血）；梗阻不一
+         - 病程：ATN 多 post-tx 第 1 周（围手术期缺血）；梗阻不一
          - 临床：ATN 急升 + muddy brown casts；梗阻 ↓ urine output ± hydronephrosis
          - 诊断：UA (muddy brown for ATN)；transplant US (hydronephrosis for 梗阻)
          - 治疗：ATN 支持等待恢复；梗阻 → 介入解除（输尿管支架 / PCN）

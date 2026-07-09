@@ -1344,12 +1344,12 @@ Procedure 发生 complication
 Bedside ultrasound-guided paracentesis → bowel wall penetration（0.5% known complication）
         │
         ▼
-要 sue malpractice 必须 prove **deviation from standard of care**
+要 sue malpractice 必须 prove deviation from standard of care
         │
         ├─ 选项 A "no additional facts" → ❌ 必须 establish deviation
         ├─ 选项 B "lost work earnings"（damages）→ ❌ 已有 physical harm = damages 充分；lost income 非 necessary
         ├─ 选项 C "different treatment for homeless"（discrimination）→ ❌ 拒治 homeless 是 deviation，但选 different treatment for safety preference 不是
-        ├─ 选项 D "previously penetrated another patient"（pattern of errors）→ ❌ Single instance 不 establish deviation in **this case**；高 error rate 才 suggest negligent practice
+        ├─ 选项 D "previously penetrated another patient"（pattern of errors）→ ❌ Single instance 不 establish deviation in this case；高 error rate 才 suggest negligent practice
         └─ 选项 E "incorrect technique" → ✅ 直接 establish deviation
 ```
 

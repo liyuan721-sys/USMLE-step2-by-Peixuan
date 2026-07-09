@@ -299,6 +299,7 @@ Tourette + "failed α2 (guanfacine OR clonidine) + still significant tics"
 
 ### 5.x.2 原 §五 同型反 pattern 表（保留）
 
+```
 DA 提升 → 加重 tic   （Stimulant 毒药区 — 见 5.x）
 DA 太少 → 治 PD     （增 DA：levodopa / DA 激动剂）
 ```

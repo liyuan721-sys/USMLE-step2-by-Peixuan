@@ -103,8 +103,8 @@ source_错题: Q4725
    ▼                          ▼
 1. Defibrillation 200J 双相  1. CPR x 2 min
 2. CPR x 2 min                2. IV / IO access
-3. IV / IO access             3. **Epi 1 mg q3-5 min**
-4. **Epi 1 mg q3-5 min**      4. Treat reversible (5H5T)
+3. IV / IO access             3. Epi 1 mg q3-5 min
+4. Epi 1 mg q3-5 min      4. Treat reversible (5H5T)
    │                          │
    ▼                          ▼
 重新评估节律                重新评估节律
@@ -229,7 +229,7 @@ ROSC → 复苏后管理（targeted temp / 心导管 / ICU）
         长 7-10 cm，连接 20 mL 注射器 + 三通
 2. 体位：仰卧 30-45° 抬头位（积液重力下沉到心包下部 → 易抽）
 3. 进针点：剑突左下方约 1-2 cm
-4. 方向：朝**左肩尖**方向，与皮肤成 30-45°
+4. 方向：朝左肩尖方向，与皮肤成 30-45°
    （而不是垂直 — 垂直会刺向腹腔）
 5. 监测：
    - 持续 ECG → 触到心外膜会出现 ST↑ / PVC → 立即回撤
@@ -531,7 +531,7 @@ VF/VT  PEA/  ▼       ▼
 
 3. WPW 患者？
    - 是 → Procainamide / Ibutilide / 电复律
-       **禁用 AV 结阻滞剂**（β / CCB / Adenosine / Digoxin → VF）
+       禁用 AV 结阻滞剂（β / CCB / Adenosine / Digoxin → VF）
    - 否 → 率控（β / Diltiazem）或律转（amiodarone / 择期 cardio）
 
 4. 长期管理：

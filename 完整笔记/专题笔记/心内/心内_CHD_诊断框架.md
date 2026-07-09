@@ -72,8 +72,8 @@ source: 2026-05-16 Claude.ai 草稿 v2 整合（Q2429 TOF 触发）
         │
         ▼
 临床推论：
-- **贫血**病人不易紫绀（Hb 总量少 → 即使 SaO₂ 低也不到 5 g/dL deoxy）
-- **红细胞增多**病人易紫绀（Hb 高 → 容易超过 5 g/dL deoxy）
+- 贫血病人不易紫绀（Hb 总量少 → 即使 SaO₂ 低也不到 5 g/dL deoxy）
+- 红细胞增多病人易紫绀（Hb 高 → 容易超过 5 g/dL deoxy）
 ```
 
 ### 0.2 紫绀 4 大分类总览
@@ -201,7 +201,7 @@ MetHb 中铁 = Fe³⁺（不能携氧）
         ↓
 SaO₂ 看起来正常 / SpO₂ 卡在 85% 不变
         ↓
-吸 100% O₂ **不改善**紫绀 ⭐⭐ 关键鉴别
+吸 100% O₂ 不改善紫绀 ⭐⭐ 关键鉴别
         ↓
 血液呈 "chocolate-brown" 巧克力棕色 ⭐
         ↓
@@ -209,7 +209,7 @@ ABG: PaO₂ 正常但 SaO₂ 低（co-oximetry 测 MetHb%↑）
         ↓
 诊断：Methemoglobinemia
         ↓
-治疗：**Methylene Blue IV** ⭐
+治疗：Methylene Blue IV ⭐
 （G6PD 缺乏者禁用，改用 Vitamin C / Ascorbic acid）
 ```
 
@@ -385,37 +385,37 @@ STEP 1: 紫绀吗？
 (5T + H)   (VAPP + 阻塞)
 
 STEP 2: 发病时间窗？
-   ├─ 出生 24-48h → **TGA, HLHS, Truncus, Pulm atresia**
-   ├─ 数天-数周  → **TAPVR, HLHS 晚发, 大 VSD**
-   ├─ 数月       → **TOF** ⭐（最常见此时期紫绀型）
-   ├─ 数岁-成年  → **ASD, 小 VSD, CoA**
+   ├─ 出生 24-48h → TGA, HLHS, Truncus, Pulm atresia
+   ├─ 数天-数周  → TAPVR, HLHS 晚发, 大 VSD
+   ├─ 数月       → TOF ⭐（最常见此时期紫绀型）
+   ├─ 数岁-成年  → ASD, 小 VSD, CoA
    └─ 诱发性     → Tet spell, Eisenmenger
 
 STEP 3: S2 怎样？
-   ├─ **Single S2** → 5T 类（TOF, TGA, Truncus, severe PS）
-   ├─ **固定分裂 S2** → **ASD** ⭐ 经典
-   ├─ **响亮 P2** → 肺动脉高压 / Eisenmenger
+   ├─ Single S2 → 5T 类（TOF, TGA, Truncus, severe PS）
+   ├─ 固定分裂 S2 → ASD ⭐ 经典
+   ├─ 响亮 P2 → 肺动脉高压 / Eisenmenger
    └─ 正常 → VSD, PDA, 轻型 lesions
 
 STEP 4: 杂音特征？
-   ├─ **位置**：
+   ├─ 位置：
    │   - LUSB（左上）→ PS, ASD, PDA, CoA
    │   - LLSB（左下）→ VSD, TR
    │   - RUSB（右上）→ AS
    │
-   ├─ **形状**：
+   ├─ 形状：
    │   - Holosystolic (▭▭▭) → VSD / MR / TR
    │   - Crescendo-decrescendo (▲▼) → AS / PS / TOF
    │   - Continuous machine-like → PDA
    │   - 收缩+舒张 → Truncus
    │
-   └─ **无杂音** → TGA / HLHS / 严重梗阻
+   └─ 无杂音 → TGA / HLHS / 严重梗阻
 
 STEP 5: 4 肢血压差？
    ├─ 4 肢相等 → 不是 CoA
-   ├─ 上肢 > 下肢 (>10 mmHg) → **CoA** ⭐
-   ├─ 上肢正常 + 下肢紫绀 → **Differential cyanosis** (Eisenmenger / PDA-dependent)
-   └─ 上肢紫绀 + 下肢正常 → **Reversed diff cyanosis** = TGA+PDA ⭐
+   ├─ 上肢 > 下肢 (>10 mmHg) → CoA ⭐
+   ├─ 上肢正常 + 下肢紫绀 → Differential cyanosis (Eisenmenger / PDA-dependent)
+   └─ 上肢紫绀 + 下肢正常 → Reversed diff cyanosis = TGA+PDA ⭐
 ```
 
 > [!tip] 5 步法口诀

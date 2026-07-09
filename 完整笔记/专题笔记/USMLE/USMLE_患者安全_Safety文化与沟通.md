@@ -294,7 +294,7 @@ Error 发生 → 判断 behavior category：
     ▼
 是 unintentional slip / mistake？（人在 following expected steps 时 slip）
     │
-    ├─ ✓ Yes → **Human Error** → **Consoling** + 改 system design
+    ├─ ✓ Yes → Human Error → Consoling + 改 system design
     │
     └─ ❌ No, 是 conscious choice
            │
@@ -302,10 +302,10 @@ Error 发生 → 判断 behavior category：
        有 legitimate rationale (system pressure / time / resource)？
            │
            ├─ ✓ Yes（system pressure + 不完全 appreciate risk + no prior disciplinary）
-           │     → **At-risk Behavior** → **Coaching** ⭐ + 同时改 system conditions
+           │     → At-risk Behavior → Coaching ⭐ + 同时改 system conditions
            │
            └─ ❌ No legitimate rationale（明知 + 故意 + 通常 repeated pattern）
-                 → **Reckless Behavior** → **Sanctioning**
+                 → Reckless Behavior → Sanctioning
 ```
 
 ##### Q126013 4 信号识别 At-risk Behavior（停在 coaching 不升 sanctioning）⭐
@@ -506,7 +506,7 @@ Step 3: 她知道协议吗？
     ▼
 Step 4: 最终判定 — At-risk Behavior ⭐
     │
-    → Response: **Coaching**（A 正解）✅
+    → Response: Coaching（A 正解）✅
     │
     → 同时改 system conditions：
         ├─ 改善 staffing（不再让她 cover 2 bays）
@@ -1082,7 +1082,7 @@ Time-out = 起飞前最后 read-back
     ▼ （仅次于 SBT 的辅助）
 ② Team debriefings after adverse event
     • 仅 involved team 受益（reach 有限）
-    • 改善沟通协调，但**不如 SBT 改善技术 skills**
+    • 改善沟通协调，但不如 SBT 改善技术 skills
     │
     ▼
 ③ RCA — 仅当 systematic error / preventable 时
@@ -1149,7 +1149,7 @@ Time-out = 起飞前最后 read-back
 ③ 高怀疑 / confirmed → Mandatory report
     • Child abuse → CPS（Child Protective Services）
     • Elder abuse → APS（Adult Protective Services）
-    • IPV → 鼓励 patient self-report，**不是** mandatory（成年 capacity decision）⭐
+    • IPV → 鼓励 patient self-report，不是 mandatory（成年 capacity decision）⭐
     │
     ▼
 ④ ❌ 不要先做（不能 delay 评估）：
@@ -1426,7 +1426,7 @@ Surgeon 评 nurse 高（88）— 因为 nurse 通常 follow instructions
 Nurse 评 surgeon 低（48）— 因为 surgeon 没充分 acknowledge input
     │
     ▼
-不对称感知 = **不是 cognitive bias，是定义不一致 (role + goal mismatch)**
+不对称感知 = 不是 cognitive bias，是定义不一致 (role + goal mismatch)
 ```
 
 ##### 反 pattern 钓饵：把 Cognitive Bias 误归因 Team Dynamic ⚠️

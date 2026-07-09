@@ -49,7 +49,7 @@ type: 专题笔记
                           ↓
             经腹根 → white ramus → 交感链 (sympathetic chain)
                           ↓
-            绕过 **lung apex（肺尖）** + 锁骨下动脉
+            绕过 lung apex（肺尖） + 锁骨下动脉
                           ↓
             穿 stellate ganglion (星状神经节，无突触)
                           ↓
@@ -68,7 +68,7 @@ type: 专题笔记
                 ② Iris dilator muscle (虹膜开大肌) → miosis
                 ③ 面部汗腺、皮肤血管 → anhidrosis
                 
-            ⚠️ 关键：面部汗腺纤维**沿颈外动脉 (ECA) 分支走**
+            ⚠️ 关键：面部汗腺纤维沿颈外动脉 (ECA) 分支走
                 → 三级（ICA 分支后）损伤可保留出汗 = "Partial Horner"
 ```
 

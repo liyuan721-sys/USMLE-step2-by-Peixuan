@@ -598,7 +598,7 @@ Stem 关键词 → 0.3 秒锁
 "Screening / vaccination omission"                   → CDSS reminders
 "Knowledge deficiency / trainee / rare disease"      → training（不选 CDSS）
 "Hierarchy / hesitate / fear"                        → psych safety（不选 CDSS）
-"Initial differential formation + 一般 patient + 防 cognitive bias" → **Metacognition**（不选 CDSS — 见 §13.5.y）⚠️
+"Initial differential formation + 一般 patient + 防 cognitive bias" → Metacognition（不选 CDSS — 见 §13.5.y）⚠️
 ```
 
 ---
@@ -618,20 +618,20 @@ Stem 关键词 → 0.3 秒锁
 ```
 防 Diagnostic Error 5 层（强度递减 — primary 在顶）：
     │
-    ├─ ① **Metacognition** ⭐⭐⭐ primary（Q19785 答）
+    ├─ ① Metacognition ⭐⭐⭐ primary（Q19785 答）
     │     理解 + self-monitor 自己 cognitive patterns
     │     工具：Diagnostic time-out + M&M conferences + critical reflection
-    │     → **直接 address clinical reasoning**
+    │     → 直接 address clinical reasoning
     │
-    ├─ ② **Analytical (System 2) thinking**
+    ├─ ② Analytical (System 2) thinking
     │     慢思考 + 主动考虑 alternate dx
     │     vs Intuitive (System 1) = 快思考 = bias 源
     │
-    ├─ ③ **Independent reconsideration**
+    ├─ ③ Independent reconsideration
     │     不 prioritize past providers' dx
     │     防 anchoring + framing biases
     │
-    ├─ ④ **CDSS** ⭐ adjunct（不是 primary — Q19785 钓饵）
+    ├─ ④ CDSS ⭐ adjunct（不是 primary — Q19785 钓饵）
     │     工具层 — 不直接 address clinical reasoning
     │     若 clinicians lack understanding of unconscious biases → CDSS 不能挽救
     │

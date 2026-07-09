@@ -100,8 +100,8 @@ Turner: 单条 X 染色体（缺失或异常）
 
 ```
 新生儿期：
-+ **Lymphedema of hands/feet**（手脚淋巴水肿）⭐
-+ **Nuchal cystic hygroma**（颈部水囊瘤）
++ Lymphedema of hands/feet（手脚淋巴水肿）⭐
++ Nuchal cystic hygroma（颈部水囊瘤）
 + Cardiac defect（coarctation / bicuspid AV）
 + Wide-spaced nipples
 + Short stature growth chart

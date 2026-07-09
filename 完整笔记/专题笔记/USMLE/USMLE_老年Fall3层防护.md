@@ -109,9 +109,9 @@ Fall risk substantially elevated
     │
     ├─ 自己起立 + 不 ataxic + 走得稳 → 低 risk
     │
-    ├─ **Pushes with arms when rising** ⭐⭐⭐
-    │     → **下肢 strength / muscle imbalance 阳性**
-    │     → **高 fall risk** → **supervised strength training** 必备
+    ├─ Pushes with arms when rising ⭐⭐⭐
+    │     → 下肢 strength / muscle imbalance 阳性
+    │     → 高 fall risk → supervised strength training 必备
     │     → （即使 walks briskly without ataxia 仍获益）
     │
     ├─ Walks slowly / unsteady gait / 需 cane | walker → 高 risk

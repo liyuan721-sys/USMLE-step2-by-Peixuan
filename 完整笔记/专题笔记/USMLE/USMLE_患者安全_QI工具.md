@@ -432,21 +432,21 @@ CK / AMBOSS 反复在 Lean 和 Six Sigma 之间钓选项。**5 维对照**：
 ```
 看到 Patient Safety 题，扫 stem → 识别"如何防 error"路径
     │
-    ├─ "Multiple measures **simultaneously** / concurrently"
+    ├─ "Multiple measures simultaneously / concurrently"
     │  + 列举 ≥ 2 不同性质维度
-    │     → **Swiss Cheese Model**（多片奶酪同时叠加）⭐
+    │     → Swiss Cheese Model（多片奶酪同时叠加）⭐
     │
-    ├─ "**Physically** incompatible / cannot enter wrong"
+    ├─ "Physically incompatible / cannot enter wrong"
     │  单一物理设计强制
-    │     → **Hard stop / Forcing function**
+    │     → Hard stop / Forcing function
     │
-    ├─ "**Automated** / smart pump / EHR alert / barcode"
+    ├─ "Automated / smart pump / EHR alert / barcode"
     │  计算机替代人工
-    │     → **Automation**
+    │     → Automation
     │
-    └─ "**Repeated cycles** / iterative / pilot then refine"
+    └─ "Repeated cycles / iterative / pilot then refine"
        小规模试点 + 反复调整
-         → **PDSA**
+         → PDSA
 ```
 
 #### 反 pattern 警示 ⭐⭐⭐
@@ -1035,7 +1035,7 @@ Step 2: 扫选项找匹配描述
     │     → 这是 FMEA 描述 → 若 stem prospective → 选这个 ✓
     │     → 若 stem retrospective → ❌ 钓饵，跳过
     │
-    └─ 注意：RCA 也找 system-level latent factors，但**primary purpose 句式**必须用 "underlying causes of past events"，不是 "future vulnerabilities"
+    └─ 注意：RCA 也找 system-level latent factors，但primary purpose 句式必须用 "underlying causes of past events"，不是 "future vulnerabilities"
 
 Step 3: 校验匹配 → 选答案
 ```

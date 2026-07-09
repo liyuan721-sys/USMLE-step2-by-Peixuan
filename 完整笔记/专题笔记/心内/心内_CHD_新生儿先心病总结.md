@@ -471,10 +471,10 @@ Step 4: 动作反应（Valsalva / 下蹲 / 握拳 / 站立 / 吸气）
        ▼
 SpO₂ < 85% 或休克 + Hyperoxia test (PaO₂ < 100 after 100% O₂)?
        │
-       ├─ 是 → 怀疑 Duct-dependent CHD → **PGE1 立即开始**
+       ├─ 是 → 怀疑 Duct-dependent CHD → PGE1 立即开始
        │            │
        │            ├─ 维持 PDA → 改善体循环或肺循环灌注
-       │            └─ 副作用：**Apnea**（25% 发生率，需备插管）⭐
+       │            └─ 副作用：Apnea（25% 发生率，需备插管）⭐
        │
        └─ 否 → 寻肺源 / 代谢源
 ```

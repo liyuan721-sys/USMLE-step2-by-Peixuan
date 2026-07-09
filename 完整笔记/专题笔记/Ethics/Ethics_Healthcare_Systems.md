@@ -291,7 +291,7 @@ Managed care bonus 与 reduced utilization 挂钩
     │     ✓ 节省的 cost 通过 incentive 部分回流 physician
     │     ✓ 不 violate beneficence
     │
-    └─ 决策 = withhold **medically necessary** care
+    └─ 决策 = withhold medically necessary care
           ❌ Violates beneficence
           ❌ Places financial interest above patient welfare
           ❌ Impermissible COI

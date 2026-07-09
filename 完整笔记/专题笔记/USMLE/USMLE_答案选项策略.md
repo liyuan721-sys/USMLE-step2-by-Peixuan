@@ -164,7 +164,7 @@ USMLE 几乎不给 all of above 当答案，因为：
     │     │     ├─ ✓ 是 → 选剩余具体药
     │     │     └─ ❌ 否 → 选 any of above ⭐
     │     │
-    │     └─ 不要字母 anchor，确认 D 选项**实际**是 any of above
+    │     └─ 不要字母 anchor，确认 D 选项实际是 any of above
     │
     ├─ 见 "all of the above" / "none of the above"
     │     → 通常错（钓饵），排除

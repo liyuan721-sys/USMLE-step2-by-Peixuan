@@ -169,15 +169,15 @@ type: 专题笔记
 ```
 肝硬化 + Cr 上升
   ├─ ① Prerenal volume depletion（GI 出血 / 利尿过度 / 第三间隙）
-  │     → 扩容 (NS + albumin) **改善** → 是这个
+  │     → 扩容 (NS + albumin) 改善 → 是这个
   ├─ ② ATN（缺血 / 造影剂 / aminoglycoside / cephalosporin 数天后）
-  │     → UA: **muddy brown casts** + ↑ FENa
+  │     → UA: muddy brown casts + ↑ FENa
   ├─ ③ AIN（药物 — 抗生素 / NSAIDs / PPI）
   │     → UA: WBC casts + eosinophiluria + 皮疹 / 嗜酸 / 发热
   ├─ ④ Glomerular（HCV-MPGN / IgA / HBV-MN）
   │     → UA: RBC casts + proteinuria
   └─ ⑤ HRS ⭐（排除诊断）
-        → 扩容 NS + albumin **无改善** + UA **bland** + 肾正常大小
+        → 扩容 NS + albumin 无改善 + UA bland + 肾正常大小
         → Type 1: 急性 / Type 2: 慢性 + 难治腹水
 ```
 

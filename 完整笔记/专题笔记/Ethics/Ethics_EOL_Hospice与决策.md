@@ -229,7 +229,7 @@ Parent 表达："I don't want my child to know about [diagnosis/risk]"
    • Approach: parent first 单独？parent + physician 一起？physician 单独?
    • Extent: 哪些 details 现在分享 / 哪些后续?
    ※ Joint disclosure：family + physician 一起 deliver
-   ※ 计划允许 parent **"rehearse" difficult discussion**
+   ※ 计划允许 parent "rehearse" difficult discussion
 ```
 
 #### 4 大反 pattern（钓饵选项）
@@ -520,7 +520,7 @@ Patient lacks capacity（incapacitated）
     ▼
 有 Living will 明确 cover 当前情境？
     │
-    ├─ ✅ 有 → **按 Living will**（优先于 POA + family 的意见）⭐
+    ├─ ✅ 有 → 按 Living will（优先于 POA + family 的意见）⭐
     │      ※ Conflict 时 Living will overrules health care proxy
     │      ※ 例：Living will refuse intubation → POA 想 intubate → 不 intubate
     │

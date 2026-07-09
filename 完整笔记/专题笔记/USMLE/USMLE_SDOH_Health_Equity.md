@@ -204,7 +204,7 @@ Minority / immigrant patient hesitant for screening / treatment
 ③ Family-centered discussion（仅在 certain cultures + patient prefer 时）
     │
     ▼
-④ Culturally appropriate materials（**adjunct**，不是 first step）
+④ Culturally appropriate materials（adjunct，不是 first step）
 ```
 
 ### 非白人 patient 常见 cancer screening perceptions

@@ -46,7 +46,7 @@ version: v1
    │      → 立即同步电复律 (synchronized cardioversion) 0.5–1 J/kg
    │
    └─ 稳定
-          ├─ ① 迷走刺激 (vagal maneuvers)：婴儿用 **冰水/冰袋敷面 (ice to face)**
+          ├─ ① 迷走刺激 (vagal maneuvers)：婴儿用 冰水/冰袋敷面 (ice to face)
           │
           └─ ② 无效 → 腺苷 (adenosine) IV 快速推注（首选药物）
                      （Q004 考点：稳定婴儿 SVT 首选 adenosine，非维拉帕米）

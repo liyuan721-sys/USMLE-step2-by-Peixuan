@@ -918,13 +918,13 @@ Patient 急性精神病 + 听到/看到 hallucinations
    ▼
    Step 2: Verbal Deescalation ⭐ 核心
      • Calm voice + nonconfrontational approach
-     • **Provide for basic needs**（offer food, drink, blanket）⭐ 高频考点
+     • Provide for basic needs（offer food, drink, blanket）⭐ 高频考点
      • Listen attentively to clarify wants/needs
      • Set clear expectations: 暴力不被接受 + 强调 patient won't be harmed
      • Offer choices when appropriate（如 oral vs IM medications）
    ▼
    Step 3: Chemical / Physical restraint
-     • **仅 verbal deescalation 失败 AND violence imminent 时**
+     • 仅 verbal deescalation 失败 AND violence imminent 时
 ```
 
 #### 为什么 "offer food/drink" 是高频正确答案
@@ -989,16 +989,16 @@ Patient 急性精神病 + 听到/看到 hallucinations
 ③ Patient Education ⭐
    • Explain expected duration（days to weeks）+ self-limited course
    • Explain antibiotics lack efficacy for viral URI
-   • **Reframe as "cold" / "chest cold"** ⭐
+   • Reframe as "cold" / "chest cold" ⭐
      ※ "Bronchitis" sounds serious + needs antibiotics
      ※ "Chest cold" sounds benign + self-limited
-   • Clarify antibiotics have **risks + adverse effects**（C. difficile / 过敏 / resistance）
+   • Clarify antibiotics have risks + adverse effects（C. difficile / 过敏 / resistance）
     │
     ▼
 ④ Symptomatic Management
    • OTC: guaifenesin / tea with honey
    • Rx: benzonatate（cough suppressant）
-   • Consider **delayed antibiotic prescription**：
+   • Consider delayed antibiotic prescription：
      "Fill this Rx only if no improvement after X days"
      ※ 给患者控制感 + 多数情境无需 fill
 ```
@@ -1055,7 +1055,7 @@ Patient 决定使用 nonstandard harmful therapy
            ▼
         ④ Continue to be involved in care ⭐
            • 不 abandon patient（医生 abandon = 患者继续 risky 行为 + 无 monitoring）
-           • Develop **stronger therapeutic alliance**
+           • Develop stronger therapeutic alliance
            │
            ▼
         ⑤ Frequent follow-up ⭐ 答案核心
@@ -1192,7 +1192,7 @@ Patient gives gift
     ├─ ❌ Mood episode (mania / 严重 depression / acute psychosis)
     │      / cognitive impairment / 任何 impaired judgment
     │      ▼
-    │   **Politely decline regardless of cost/type** ⭐
+    │   Politely decline regardless of cost/type ⭐
     │      • "Thank you for thinking of me... but I am unable to accept this gift"
     │      • 解释 rationale: "I am concerned your condition is influencing your decisions"
     │      • 不 ask rationale for gift（不改变 decline 义务）
@@ -1552,13 +1552,13 @@ Patient 觉得被 singled out / accused of being addict
 ```
 ① Introduction + Rapport
    • Introduce 自己 + role + accompanying healthcare workers
-   • Address patient by **preferred name + pronoun**
-   • Sit at **eye level** with patient
+   • Address patient by preferred name + pronoun
+   • Sit at eye level with patient
    • Confirm patient 同意 family/caregiver 在场（capacity present 时）
     │
     ▼
 ② Active Listening + Allow Uninterrupted Speaking ⭐
-   • Patient 至少 **uninterrupted 60 seconds** 开场（最高频 CK 考点）
+   • Patient 至少 uninterrupted 60 seconds 开场（最高频 CK 考点）
    • Polite interrupt only if time constraint
     │
     ▼
@@ -1707,13 +1707,13 @@ USMLE Ethics 题里 "transfer to attending / seek care elsewhere / change provid
 ```
 ① Introduce interpreter to patient（建立 3-way trust）
 ② Position:
-    • Spoken language: 翻译稍**站后** or **next to** patient
-    • Sign language: 翻译**站 clinician 后**（patient 看 clinician + 翻译）
-③ Address patient（不是 interpreter）+ maintain **eye contact** with patient ⭐
+    • Spoken language: 翻译稍站后 or next to patient
+    • Sign language: 翻译站 clinician 后（patient 看 clinician + 翻译）
+③ Address patient（不是 interpreter）+ maintain eye contact with patient ⭐
 ④ Avoid 3rd-person statements（"Tell her..."）→ 用 "you" 直接对 patient
 ⑤ Keep phrases short + ask ONE question at a time
-⑥ Use **teach-back method** ⭐
-⑦ Allow **extra time** for interview（实际 1.5-2x 正常时长）
+⑥ Use teach-back method ⭐
+⑦ Allow extra time for interview（实际 1.5-2x 正常时长）
 ```
 
 #### 为什么不用 Family Member 当 Interpreter
@@ -1875,9 +1875,9 @@ Stage identification（§12.23）
     │
     ▼
 ⑤ Physical exam:
-   • Inform patient they determine **pace + continuation**
+   • Inform patient they determine pace + continuation
    • Patient can signal stop at any time for emotional/physical discomfort
-   • Ask permission **before each part** of exam
+   • Ask permission before each part of exam
     │
     ▼
 ⑥ Let patient know friend/family member 可在场 for support
@@ -2039,7 +2039,7 @@ Stage identification（§12.23）
     │
     ▼
 ⑦ Offer contact between parents + stillborn baby after delivery ⭐
-   （研究显示 promotes healing；可拒绝但**主动 offer**）
+   （研究显示 promotes healing；可拒绝但主动 offer）
     │
     ▼
 ⑧ Educate about psychotherapy options + support groups + future family planning
@@ -2173,7 +2173,7 @@ Stage identification（§12.23）
 ① Use normal tone of voice + talk directly to patient（不对 caregiver 说）⭐
 ② Caregivers 可补充信息但 patient 是主要 sources
 ③ Ask patient if needs assistance — 不 assume help is needed
-④ Use **person-first language** ⭐："a person with a disability"（不 "the disabled person"）
+④ Use person-first language ⭐："a person with a disability"（不 "the disabled person"）
 ⑤ Make eye contact
 ⑥ If physical examination needed，不 miss any relevant components
 ⑦ Only address patient's disability if relevant to visit
@@ -2193,7 +2193,7 @@ Stage identification（§12.23）
 #### Speech Difficulties Patients
 
 ```
-① If you have difficulty understanding，ask patient to **write down** info
+① If you have difficulty understanding，ask patient to write down info
 ② Repeat info provided by patient to ensure correct interpretation
 ③ Eliminate background noise + distractions
 ```

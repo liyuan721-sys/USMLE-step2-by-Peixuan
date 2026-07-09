@@ -86,7 +86,7 @@ Step 1：SSRI / SNRI（仍是一线 — 大多数 MDD 起手）
          ▼
 Step 2：Bupropion 或 Mirtazapine（atypical 偏好早登场）⭐
          理由：atypical 三联（嗜睡 / 增重 / leaden paralysis）→ bupropion 抗嗜睡 + 不增重；
-              mirtazapine 改善失眠但增重（适合**已失眠**型 atypical）
+              mirtazapine 改善失眠但增重（适合已失眠型 atypical）
          │ 失败
          ▼
 Step 3：Augment（Li / T3 / aripiprazole）— 通用 TRD 选项

@@ -279,11 +279,11 @@ CAC = 0    CAC 1-99    CAC ≥100 或 ≥75th %ile
                               ↓
                   通用措施：限糖 / 限脂 / 运动 / 减重 / statin ✅
                               ↓
-                  特殊措施：**限酒**（TG <500 不必完全戒酒，但必须减）
+                  特殊措施：限酒（TG <500 不必完全戒酒，但必须减）
                               ↓
                   ASCVD 风险高 → 可考虑 + icosapent ethyl 或 fibrate
                               ↓
-                  题目问"add to statin best next" → **E. Reduced alcohol intake**
+                  题目问"add to statin best next" → E. Reduced alcohol intake
                   （生活方式 > 加药；statin + fibrate combo 风险大无获益）
 ```
 
@@ -346,7 +346,7 @@ Step 4: Bempedoic acid / Inclisiran（罕见）
          ├─ ① 查 TSH（亚临床甲减 ↑ 风险）+ 药物相互作用 + Vit D
          ├─ ② 短暂停药 2-4 周 → rechallenge 同药
          ├─ ③ 换另一种 high-intensity statin（atorva ↔ rosuva）
-         ├─ ④ 降到 moderate-intensity（**prava / pitava / fluva**）
+         ├─ ④ 降到 moderate-intensity（prava / pitava / fluva）
          ├─ ⑤ 隔日服药（every-other-day dosing）
          └─ ⑥ 完全不耐受 → Ezetimibe 单药 / PCSK9i 单药
 ```
