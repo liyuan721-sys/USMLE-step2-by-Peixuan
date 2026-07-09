@@ -1069,6 +1069,15 @@ type: 备考资料
 |---|---|---|
 | 动作/短语 ⚠️ | 争执、打架斗殴（急诊/外伤病史高频："He was **involved in an altercation** outside a bar" 在酒吧外与人发生争执/斗殴——受伤机制 mechanism of injury 的委婉说法，= fight / physical confrontation / dispute，Part A 病史栏填空常直接要这个词）。⚠️ 拼写陷阱：**只比 alteration（改变、修改）多一个 c**——alter-**c**-ation，/ˌɔːltərˈkeɪʃn/ 听到 /k/ 音别丢 c；alteration 是"病情/剂量改变"，两词语境完全不同别混 | altercation |
 
+### 2026-07-09 补（4 词）
+
+| 类别 | 中文 | English |
+|---|---|---|
+| 形容/状态 ⚠️ | （证据/可能性）薄弱的、不足的（concussion 脑震荡访谈原句："I think **the evidence is fairly slim** for that" 支持那个说法的证据相当薄弱 = weak / scant / limited / flimsy evidence）。⚠️ **同词不同义**：日常义"苗条的"（a slim figure），OET Part C 里 **slim evidence（证据薄弱）/ slim chance（机会渺茫）** 全是"少、弱"义，跟身材无关。**Part C "提到即否定"标志词**（与 unfounded 同一家族，见 7-07 批次）：说话人先摆旧观点（"It used to be thought..."），再用 the evidence is slim 把它推翻——**旧观点是干扰项，转折后（What we do know...）才是答案** | slim (evidence / chance) |
+| 动作/短语 ⚠️ | 挨了（一记击打）、成为…的承受方（concussion 脑震荡访谈原句："people playing rugby **stand more chance of being at the receiving end of such a blow**" 玩橄榄球的人更容易挨上这样一记撞击——固定习语，字面"站在接收端"）。核心医学词 **blow = （一记）击打、撞击**（a blow to the head 头部受击，外伤/脑震荡病史标准受伤机制用词，= hit / impact / knock）。⚠️ 同词不同义：blow 名词"击打" ≠ 动词"吹"（blow your nose 擤鼻涕）；听力里 "a blow to..." 一定是"击打"义。搭配 **stand more chance of...** = 更有可能… | (be) at the receiving end of a blow |
+| 形容/状态 ⚠️ | 确定性的、决定性的（医学高频搭配：**definitive diagnosis** 确定诊断/确诊（对应 provisional/working diagnosis 初步诊断）、**definitive treatment/management** 根治性治疗（对应 symptomatic/supportive 对症支持）；Part C 访谈常说 "there's **no definitive answer/evidence** yet" 尚无定论——又是**留悬念/否定旧观点**的信号词）。⚠️ 易混：**definitive（决定性的、最终的）≠ definite（明确的、肯定的）**——definite improvement 明确的好转 vs definitive treatment 根治治疗，考"最终解决"义必须用 definitive。拼写陷阱：de-fin-**i**-tive，中间是 **-ini-** 别写成 "definative/defintive" | definitive |
+| 形容/状态 ⚠️ | 过分地、过度地、不必要地（副词，= excessively / overly；un- 否定 + duly 恰当地 ← due 应当的）。医学访谈固定出现在**安抚句**："Parents **shouldn't be unduly worried/alarmed/concerned**" 家长不必过分担心；形容词形式 **undue**（不必要的）："avoid causing **undue** anxiety" 避免造成不必要的焦虑。**Part C 立场缓和信号词**：说话人刚讲完风险就用它往回收（"有风险但别恐慌"），正确项常改写成 reassure（安抚）/ keep it in perspective（理性看待），夸大风险的选项是干扰。拼写：un-du-ly 就 6 个字母，**别写成 "unduely"**（不是 due+ly 直接拼接，e 要去掉） | unduly / undue |
+
 ## 怎么用
 1. 看**中文** → 先盲拼整词；卡住了再看「拼写骨架」（已给首字母+末字母+长度）兜底补全。
 2. 骨架里 `_` = 缺一个字母，连字符/空格保留 → 既提示词长又不直接给答案。

@@ -31,9 +31,9 @@ status: 定稿-待发送
 
 ## 邮件往来
 
-### ① 询问信（定稿·待发送）
+### ① 询问信（已发送）
 
-- **状态**：✅ 定稿·待发送　→　发送日期：______
+- **状态**：✅ 已发送（2026-07-05）　→　✅ 已收到回复（2026-07-09）
 - **收件人**：michelle.larsen@aruplab.com（Mi'Chelle Larsen, Program Coordinator）
 - **主题**：Prospective applicant — LGG Fellowship (July 2027 start)
 - **附件**：CV（`Desktop\LGG报名\Li_Yuan_CV.pdf`）+ ABMGG 信（`Desktop\LGG报名\Li, Yuan LGG-2026.pdf`）
@@ -62,8 +62,48 @@ status: 定稿-待发送
 > (424) 206-0307
 > liyuan721@gmail.com
 
-### 回复记录
+### ② 回复记录（Mi'Chelle Larsen，2026-07-09 收到）
 
-- **日期**：______
-- **内容**（外国 MD + ABMGG 是否合格 / USMLE 是否必须 / 2027 是否开放 / 其他）：______
-- **下一步**：______
+> [!success] 三问全部确认 ✅ —— 资质通过、无 USMLE、职位开放、材料清单准确
+> 项目协调员逐条红字回复，全部正面。
+
+- **日期**：2026-07-09（对方 07-09 5:27 AM 发出）
+- **回复原文（逐条）**：
+  1. **外国 MD + ABMGG 是否合格 / 是否需要 USMLE + 执照？**
+     → *"Yes, your ABMGG-reviewed foreign MD meets the credential requirements. You are correct that we do **not** require USMLE scores or a medical license for this program."*
+     → ✅ ABMGG 审过的外国 MD **符合资质**；lab/doctoral track **不需要 USMLE，也不需要美国执照**。
+  2. **截止 2026-09-01 / July 2027 入学 / 3 年制是否正确，职位是否开放？**
+     → *"These dates are correct and we are hiring for this position."*
+     → ✅ 日期正确，**正在招人（职位开放）**。
+  3. **材料是否为：申请表 + CV + 一页 PS + 3 封推荐人直发 LOR？**
+     → *"Correct – I will also add your ABMGG review paperwork to your file."*
+     → ✅ 材料清单正确；对方**主动把你的 ABMGG 审核文件加进你的档案**。
+- **下一步**：
+  - [ ] 备齐正式申请材料：**申请表 + CV + 一页 PS + 3 封 LOR**（推荐人直发 michelle.larsen@aruplab.com）
+  - [ ] 提交前确认材料**终版**（Utah 规定提交后不可更新）
+  - [ ] 落实 3 位推荐人 → 提前给 LOR 直发指引 + 邮箱
+  - [ ] **9/1/2026** 截止前电子版一次性投递（不收纸质）
+  - [ ] 无需再追问资质 —— 协调员已确认并把 ABMGG 文件归档
+
+### ③ 我的回信（致谢 + 确认下一步·定稿）
+
+- **状态**：✅ 定稿　→　发送日期：______（直接在 Gmail 原线程 Reply 粘贴即可，无需附件）
+- **收件人**：michelle.larsen@aruplab.com（Mi'Chelle Larsen, Program Coordinator）
+- **主题**：Re: LGG Fellowship — thank you (application to follow)
+
+**正文：**
+
+> Dear Mi'Chelle Larsen,
+>
+> Thank you very much for your clear and prompt reply, and for confirming my eligibility. I am reassured to know that my ABMGG-reviewed foreign MD meets the credential requirements and that USMLE scores and a U.S. medical license are not required for this track.
+>
+> I also appreciate your adding my ABMGG review paperwork to my file.
+>
+> I will prepare and submit my complete application — the application form, CV, a one-page personal statement, and three letters of recommendation — well before the September 1, 2026 deadline, and I will ask my referees to send their letters directly to this address. I understand that materials cannot be updated after submission, so I will make sure everything is finalized before I submit.
+>
+> Please let me know if there is anything further you need from me in the meantime. Thank you again for your time and assistance.
+>
+> Sincerely,
+> Yuan Li, MD
+> (424) 206-0307
+> liyuan721@gmail.com
