@@ -1124,12 +1124,14 @@ type: 备考资料
 | 症状/描述 ⚠️ | 味觉障碍、味觉异常/减退（患者主诉"吃东西没味道 / 味道变怪"；OET Part A 病史 + 神经/营养话题高频，锌 zinc 缺乏、上呼吸道感染、化疗后都可出现）。⚠️ **希腊词根拼写攻坚**：dys-**geu**-sia，dys- 障碍 + geusis 味觉——中间是 **-geu-** 别写成 "gusia / geusa / gusea"；同族 **ageusia** 味觉完全丧失（a- 无）、hypogeusia 味觉减退 | dysgeusia |
 | 症状/描述 ⚠️ | 嗅觉丧失（"loss of smell"；COVID/上感、鼻窦炎、颅底外伤、神经退行病史高频，常与 dysgeusia 味觉障碍成对出现）。⚠️ 拼写：a-n-o-s-m-i-a，an- 无 + osme 气味——**单个 s**（不是 anossmia），-sm- 辅音簇易漏；别与 **amnesia** 记忆丧失混。同族 **hyposmia** 嗅觉减退、**parosmia** 嗅觉倒错（闻到不存在/扭曲的味） | anosmia |
 
-### 2026-07-10 补（2 词，动作/短语）
+### 2026-07-10 补（4 词）
 
 | 类别 | 中文 | English |
 |---|---|---|
 | 动作/短语 ⚠️ | 感染上、患上（疾病）——正式说法，= catch / acquire（如 contract HIV 人类免疫缺陷病毒 / hepatitis B 乙型肝炎 / TB 结核 tuberculosis）。<font color="#ff0000">contract</font>。⚠️ **同词不同义**：作动词「患病」重音在后 con-**TRACT** /kənˈtrækt/；作名词「合同」重音在前 **CON**-tract /ˈkɒntrækt/。⚠️ OET 听力**同义改写高频**：contract ≈ catch（口语）≈ **acquire**（hospital-**acquired** infection 院内感染）≈ **come down with**（口语得了…病）≈ develop——听到 catch/acquire 别愣，都是"染上病" | contract |
 | 动作/短语 ⚠️ | 分配、拨给、划拨（把资源/时间/床位/资金指定分给某用途或某人；如 time **allocated** for the consultation 分给问诊的时间、a bed has been **allocated** 已分配床位）。<font color="#ff0000">allocated</font>（allocate 的过去式）。⚠️ **USMLE Biostats 交叉**：RCT（randomized controlled trial 随机对照试验）里 randomly **allocated** = randomly **assigned** 随机分组。⚠️ OET 同义改写：allocate ≈ **assign** / **distribute** / **set aside · earmark**（专门留出）/ apportion。词根 loc=地点（location）→ 给资源"安排位置" | allocated |
+| 概念/术语 ⚠️ | ①（历史上的）精神病收容院、疯人院——mental asylums / lunatic asylums，OET Part B/C 讲精神卫生史高频（**deinstitutionalisation 去机构化**：关掉 asylums → community care 社区照护）；现代正式说法是 **psychiatric hospital 精神病医院 / mental health facility 精神卫生机构**，asylum 带贬义只用于历史语境。②庇护、避难——**asylum seeker 寻求庇护者**（refugee health 难民健康话题高频，seek / be granted asylum 寻求/获得庇护）。⚠️ **同词不同义**：听到复数 asylums 多半是①"旧精神病院"；单数 + seeker/grant 是②"庇护"。⚠️ 拼写：a-s-**y**-l-u-m——中间是 **y** 不是 i（别写 asilum），结尾 -lum **无 n**（别受 column 影响写成 asylumn）；发音 /əˈsaɪləm/ 重音第二音节 | asylums |
+| 概念/术语 ⚠️ | 疯人院（19 世纪对精神病院的旧称，lunatic = 疯子、精神失常者，**现为贬义/冒犯词**，只出现在历史语境；OET Part B/C 精神卫生史话题与 mental asylums 同义互换，配套词 **lunacy** 精神错乱（旧称，如 Lunacy Act 精神错乱法案））。词根 **luna 月亮**——旧时认为月相变化致疯（同源：lunar 月球的、lunar cycle 月经周期相关表述）。⚠️ 拼写：l-u-n-a-t-i-c——**-atic 结尾**（别写 lunitic/lunetic，元音是 **a**）；发音 /ˈluːnətɪk/ 重音在首音节。⚠️ 听力提示：历史音频里 lunatic asylums ≈ mental asylums ≈ institutions，都指向"旧精神病院"，别当成新病名 | lunatic asylums |
 
 ## 怎么用
 1. 看**中文** → 先盲拼整词；卡住了再看「拼写骨架」（已给首字母+末字母+长度）兜底补全。
