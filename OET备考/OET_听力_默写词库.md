@@ -1133,6 +1133,25 @@ type: 备考资料
 | 概念/术语 ⚠️ | ①（历史上的）精神病收容院、疯人院——mental asylums / lunatic asylums，OET Part B/C 讲精神卫生史高频（**deinstitutionalisation 去机构化**：关掉 asylums → community care 社区照护）；现代正式说法是 **psychiatric hospital 精神病医院 / mental health facility 精神卫生机构**，asylum 带贬义只用于历史语境。②庇护、避难——**asylum seeker 寻求庇护者**（refugee health 难民健康话题高频，seek / be granted asylum 寻求/获得庇护）。⚠️ **同词不同义**：听到复数 asylums 多半是①"旧精神病院"；单数 + seeker/grant 是②"庇护"。⚠️ 拼写：a-s-**y**-l-u-m——中间是 **y** 不是 i（别写 asilum），结尾 -lum **无 n**（别受 column 影响写成 asylumn）；发音 /əˈsaɪləm/ 重音第二音节 | asylums |
 | 概念/术语 ⚠️ | 疯人院（19 世纪对精神病院的旧称，lunatic = 疯子、精神失常者，**现为贬义/冒犯词**，只出现在历史语境；OET Part B/C 精神卫生史话题与 mental asylums 同义互换，配套词 **lunacy** 精神错乱（旧称，如 Lunacy Act 精神错乱法案））。词根 **luna 月亮**——旧时认为月相变化致疯（同源：lunar 月球的、lunar cycle 月经周期相关表述）。⚠️ 拼写：l-u-n-a-t-i-c——**-atic 结尾**（别写 lunitic/lunetic，元音是 **a**）；发音 /ˈluːnətɪk/ 重音在首音节。⚠️ 听力提示：历史音频里 lunatic asylums ≈ mental asylums ≈ institutions，都指向"旧精神病院"，别当成新病名 | lunatic asylums |
 
+### 2026-07-10 补（7 词，Part C：IPF（idiopathic pulmonary fibrosis，特发性肺纤维化）本地监测门诊访谈）
+
+关联分析笔记：[[OET备考/听力PartC/2026-07-10_听力PartC_IPF_Q37-42_分析]]
+
+| 类别 | 中文 | English |
+|---|---|---|
+| 形容/状态 ⚠️ | 公平的、一视同仁的（每个患者都得到**同等质量**的照护："ensuring all patients receive **equitable**, high-quality care"）。⚠️ **本次 Q41 错点——equitable ≠ inclusive**：equitable = 公平/人人同等（fair, for all）；inclusive = 包容/纳入更多群体（如照顾少数/边缘人群）。两个别划等号。⚠️ 更深的坑：equitable/high-quality care 是某措施的**效果/目的**，题干问 "doing"（做什么）时它是**诱饵**，答案要找措施本身（care pathway）。拼写：e-qui-**table**，词根 equal 公平 | <font color="#ff0000">equitable</font> |
+| 逻辑/立场 ⚠️ | 完全没预料到的、意外的（= totally unexpected / didn't expect；"one that was **totally unanticipated**"）。**Part C "most surprising" 题的钥匙信号词**（Q39 考点）——问"最意外"就锁 unanticipated / didn't expect；反过来说话人说 "**we were expecting that**"（意料之中）的选项一律排除。拼写：un- + anticipate（预期）+ -d，anti-**cip**-ated | unanticipated |
+| 形容/状态 ⚠️ | 使人虚弱的、使人衰弱的（"IPF is a **debilitating** condition" 让患者身体机能严重下降的疾病 = severely weakening / incapacitating）。⚠️ 与库内 **incapacitating**（使丧失能力的，见拼写速查）同义，描述慢病/重病严重程度的高频形容词。拼写：de-**bil**-itat-ing | debilitating |
+| 短语/idiom ⚠️ | 漏网、被系统遗漏（idiom：**fall through the net**——"it doesn't allow anybody to **fall through the net**" 不让任何人被遗漏 = no one is missed / overlooked / slips through the cracks）。别字面理解成"掉进网里"，实指"该被照护的人被系统漏掉"；医疗/社会服务话题描述"确保全覆盖"高频 | fall through the net |
+| 概念/术语 ⚠️ | 诊疗路径、照护路径（一套贯穿整个病程 disease trajectory、给医护遵循的**标准化流程**："a **structured care pathway** for staff to use with patients"）。⚠️ **Q41 正确答案钥匙**：题问她热衷"做什么"→ 建这套 care pathway = **improving management procedures**（改进管理流程）；把它和"效果 equitable care"分清 | (structured) care pathway |
+| 形容/状态 ⚠️ | 关键的、举足轻重的、核心的（"these have been absolutely **pivotal** for operation" = crucial / central / vital / key）。pivot = 支点 → pivotal 起决定性支撑作用的；Part C 强调"某措施至关重要"的立场词 | pivotal |
+| 症状/描述 ⚠️ | 共病、合并症（复数：患者**同时患有的多种其他疾病**——"many have significant **comorbidities**"；老年 IPF 患者高频，与 oxygen therapy 氧疗、travel difficulty 同段出现）。co- 共同 + morbidity 病态。⚠️ 拼写：co-**morbid**-ities，中间是 morbid（病态的）；单数 comorbidity | comorbidities |
+
+> [!tip] 本批复习入口（库内已有，不重复收）
+> - **adherence**（服药依从性 = compliance）→ 见 §一 症状节 #4 / 依从性 #71；Q39 "rise in adherence" = 用药依从性上升。
+> - **palliative care**（临终关怀 / 姑息治疗）→ 见 §一 #297。
+> - **draw up**（起草、制定，如 draw up a protocol document 制定协议文件）→ Q42 建议本体的动词，认读即可。
+
 ## 怎么用
 1. 看**中文** → 先盲拼整词；卡住了再看「拼写骨架」（已给首字母+末字母+长度）兜底补全。
 2. 骨架里 `_` = 缺一个字母，连字符/空格保留 → 既提示词长又不直接给答案。
