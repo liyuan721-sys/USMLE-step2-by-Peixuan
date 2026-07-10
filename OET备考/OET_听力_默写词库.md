@@ -1093,7 +1093,7 @@ type: 备考资料
 |---|---|---|
 | 概念/术语 | 社会处方（GP 全科医生给有心理/社交问题的患者"开处方"去参加社区活动，如园艺/合唱/散步，链接非医疗支持 non-medical support；本篇 Extract 1 主题） | social prescribing |
 | 归属感/社交 | 归属感（"the feeling of **belonging to a community**" 归属于社区的感觉；社会处方缓解 loneliness 孤独 / isolation 隔离的核心） | a sense of belonging |
-| 形容/状态 ⚠️ | 令人却步的、使人气馁的（**Q34 考点句**："digging might be a **daunting** prospect" 挖地令人望而却步 = off-putting / intimidating；正确项改写成 "**put off** by the demanding nature of the work"）。同义替换链：daunting = put off = discouraging | daunting |
+| 形容/状态 ⚠️ | 令人却步的、使人气馁的（**Q34 考点句**："digging might be a **daunting** prospect" 挖地令人望而却步 = off-putting / intimidating；正确项改写成 "**put off** by the demanding nature of the work"）。同义替换链：daunting = put off = discouraging。**daunting prospect** = 令人发怵的前景（prospect 前景/可能发生的事） | <font color="#ff0000">daunting</font> |
 | 动作/短语 ⚠️ | 使某人深刻意识到 / 体会到（idiom：**bring sth home to sb**——"something a patient said **brought home to me** the value of..." 患者的话让我深切体会到…的价值 = made me realize）。别按字面理解成"带回家" | bring sth home to sb |
 | 形容/状态 ⚠️ | 怀疑的、将信将疑的（"I'd been unnecessarily **sceptical**" 我之前过于怀疑 = doubtful / unconvinced）。⚠️ 拼写：美式 **skeptical**（k），英式 sceptical（c）——OET 两版都接受，默写写美式 skeptical | skeptical（英式 sceptical） |
 | 动作/短语 | （志愿者）打理、照料（"a community garden **tended by** volunteers" 由志愿者打理的社区花园；tend = 照料/看护，tend to a patient 照顾患者） | tended by |
@@ -1102,8 +1102,8 @@ type: 备考资料
 | 动作/短语 | 量身调整、因人而异地定制（"**tailor** the activities to suit the patient's abilities" 按患者能力量身安排活动 = adapt / customize；tailor A to B） | tailor (to suit) |
 | 疾病/诊断 ⚠️ | 囊性纤维化（遗传病，CFTR 基因突变 → 分泌物 mucus 又稠又黏，堵塞肺 / 胰；本篇 Extract 2 主题）。⚠️ 拼写攻坚：**cystic fibrosis**——c-y-s-t-i-c，fi-**bro**-sis（不是 fibrocis / fybrosis） | cystic fibrosis |
 | 症状/物质 ⚠️ | 黏液、痰液（"**mucus** to be thicker and stickier" 黏液又稠又黏）。⚠️ 名词 **mucus**（us）≠ 形容词 **mucous**（ous，mucous membrane 黏膜）——听写考名词写 mucus | mucus |
-| 动作/情绪 ⚠️ | 抵触、怨恨（"might **resent** this ordeal" 会抵触这种煎熬 = be unwilling / begrudge——青少年对长期服药的排斥情绪）。别与 present / represent 混 | resent |
-| 名词 | 磨难、煎熬（"resent this **ordeal**" 这种折磨——把长期繁重治疗形容成 ordeal，负面情绪词） | ordeal |
+| 动作/情绪 ⚠️ | 抵触、怨恨（"might **resent** this ordeal" 会抵触这种煎熬 = be unwilling / begrudge——青少年对长期服药的排斥情绪）。别与 present / represent 混 | <font color="#ff0000">resent</font> |
+| 名词 | 磨难、煎熬（"resent this **ordeal**" 这种折磨——把长期繁重治疗形容成 ordeal，负面情绪词） | <font color="#ff0000">ordeal</font> |
 | 动作/短语 ⚠️ | 蒙混过关、侥幸逃脱（idiom：**get away with (it)**——"if they think they can **get away with** it" 如果他们觉得能蒙混过去 / 不服药也没事）。字面 ≠ "逃走" | get away with (it) |
 | 动作/短语 | 应对、对付（棘手的事）（"the most difficult things we have to **contend with**" 我们必须应对的最难的事 = deal with / cope with） | contend with |
 | 概念/术语 ⚠️ | 分心疗法（用 VR virtual reality 虚拟现实头显等让患者治疗时分散注意、放松；**Q39 考点**）。Q39 正确项："it can be **related to** the treatment"——因为 VR 场景"对应 correspond to 患者要做的活动"（骑固定单车 stationary bike 配虚拟户外骑行） | distraction therapy |
@@ -1123,6 +1123,13 @@ type: 备考资料
 |---|---|---|
 | 症状/描述 ⚠️ | 味觉障碍、味觉异常/减退（患者主诉"吃东西没味道 / 味道变怪"；OET Part A 病史 + 神经/营养话题高频，锌 zinc 缺乏、上呼吸道感染、化疗后都可出现）。⚠️ **希腊词根拼写攻坚**：dys-**geu**-sia，dys- 障碍 + geusis 味觉——中间是 **-geu-** 别写成 "gusia / geusa / gusea"；同族 **ageusia** 味觉完全丧失（a- 无）、hypogeusia 味觉减退 | dysgeusia |
 | 症状/描述 ⚠️ | 嗅觉丧失（"loss of smell"；COVID/上感、鼻窦炎、颅底外伤、神经退行病史高频，常与 dysgeusia 味觉障碍成对出现）。⚠️ 拼写：a-n-o-s-m-i-a，an- 无 + osme 气味——**单个 s**（不是 anossmia），-sm- 辅音簇易漏；别与 **amnesia** 记忆丧失混。同族 **hyposmia** 嗅觉减退、**parosmia** 嗅觉倒错（闻到不存在/扭曲的味） | anosmia |
+
+### 2026-07-10 补（2 词，动作/短语）
+
+| 类别 | 中文 | English |
+|---|---|---|
+| 动作/短语 ⚠️ | 感染上、患上（疾病）——正式说法，= catch / acquire（如 contract HIV 人类免疫缺陷病毒 / hepatitis B 乙型肝炎 / TB 结核 tuberculosis）。<font color="#ff0000">contract</font>。⚠️ **同词不同义**：作动词「患病」重音在后 con-**TRACT** /kənˈtrækt/；作名词「合同」重音在前 **CON**-tract /ˈkɒntrækt/。⚠️ OET 听力**同义改写高频**：contract ≈ catch（口语）≈ **acquire**（hospital-**acquired** infection 院内感染）≈ **come down with**（口语得了…病）≈ develop——听到 catch/acquire 别愣，都是"染上病" | contract |
+| 动作/短语 ⚠️ | 分配、拨给、划拨（把资源/时间/床位/资金指定分给某用途或某人；如 time **allocated** for the consultation 分给问诊的时间、a bed has been **allocated** 已分配床位）。<font color="#ff0000">allocated</font>（allocate 的过去式）。⚠️ **USMLE Biostats 交叉**：RCT（randomized controlled trial 随机对照试验）里 randomly **allocated** = randomly **assigned** 随机分组。⚠️ OET 同义改写：allocate ≈ **assign** / **distribute** / **set aside · earmark**（专门留出）/ apportion。词根 loc=地点（location）→ 给资源"安排位置" | allocated |
 
 ## 怎么用
 1. 看**中文** → 先盲拼整词；卡住了再看「拼写骨架」（已给首字母+末字母+长度）兜底补全。
