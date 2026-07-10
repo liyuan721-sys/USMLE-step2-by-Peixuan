@@ -10,10 +10,12 @@ type: 备考资料
 
 > 返回 [[00_OET总览]] · 词库 [[OET_听力_默写词库]]（共 876 词；核心冲刺 318 词 = 药物105+检查操作69+疾病诊断79+考经65）
 
-> [!info] 规则（2026-06-28 更新：20 新词/天 + 回收池独立）
-> - 每天 **20 个新词**（看中文 + 首字母提示默写，OET 用**英式拼写**）。**回收池单独计名额**，不挤占新词——回收多少做多少，混在当天测里但不算进 20。
-> - **出题优先核心 318 词**：💊药物(105) + 🔬检查操作治疗(69) + 🦠疾病诊断(79) + 📦考经批次(65)。这四类先清完（目标 7-20 前），剩 558 词（症状杂项/情绪/职业）考前快速过眼熟、不强求默写。
-> - 同类内**优先高危拼写**（英式 ae/oe、双写、希腊词根、常考药名）。
+> [!info] 规则（2026-07-10 更新：判分改美式拼写）
+> - 每天 **20 个新词**（看中文 + 首字母提示默写）。**回收池单独计名额**，不挤占新词——回收多少做多少，混在当天测里但不算进 20。
+> - ⭐ **判分用美式拼写**（Peixuan 考试写美式；OET 官方英美式都接受，美式拼对不判错）。**豁免仅限同词拼写变体**：ae/oe→e（Hemorrhage/Hypoglycemia）、-oea→-ea（Dyspnea/Diarrhea）、-ise→-ize、单/双 l（Counseling）。
+> - ⚠️ **药名例外**：美式豁免**不覆盖英式药名换美式名**——Salbutamol≠Albuterol、Paracetamol≠Acetaminophen、Frusemide/Furosemide 是不同词，真实听写要写录音说的那个（澳/英配音多说英式名），故英式药名仍要认识。
+> - **出题优先核心 318 词**：💊药物(105) + 🔬检查操作治疗(69) + 🦠疾病诊断(79) + 📦考经批次(65)。这四类先清完，剩 558 词考前快速过眼熟、不强求默写。
+> - 同类内**优先高危拼写**（双写、希腊词根、常考药名、易漏音节）。
 > - **错词次日回收重测**，连续 2 次拼对才算过。回收池堆太大（>25）时当天减新词、先清池。
 > - 进度记在本文件：错词池 + 每日记录 + 已测清单（防跨天重复）。
 
@@ -21,36 +23,39 @@ type: 备考资料
 
 ## 🔁 错词回收池（优先重测，连续拼对 2 次清出）
 
-> 拼错/拼不确定进这里，次日混进新题。括号内英式正确拼写。✓N/2 = 已连续拼对次数。
-> **✅ 当前池 18 词（Day 6 清出 8 + 纳入 5 新词错 → 净 −3）。8 词 ✓1/2 一步之遥。**
+> 拼错/拼不确定进这里，次日混进新题。括号内正确拼写（**美式**）。✓N/2 = 已连续拼对次数。
+> **✅ 当前池 20 词（Day 7 美式判：清出 7 + 6 升 ✓1/2 + 9 新词错入池 + Counseling 记错词退档）。**
+> ⭐ **Day 7 主线教训（隔 9 天后测 + 改美式判）：① 改美式判后 ae/oe/oea 那批「假退档」全变对了，一口气清 7 个 ② 真正的老大难——长药名/记错词——首次全部攻克升 ✓1/2 ③ 剩下的硬伤是「英式药名」和「新词音节」。**
 
-**✅ 已出池（连续 2 次拼对）**：Palpitation、Rheumatoid（Day 3）｜Osteoporosis、Tuberculosis（Day 4）｜**Haemorrhage、Anaemia、Phlegm、Diverticulitis、Scarring、Numbness、Physiotherapy、Itchy、Blisters、Bloating（Day 5，一次清 10 个）🎉🎉**｜**Hydrochlorothiazide、Cholecystitis、Asthma、Methotrexate、Conjunctivitis、Cold sores、Nappy rash、Events organiser（Day 6，8 个差1次全清）🎉🎉**
+**✅ 已出池（连续 2 次拼对，美式）**：Palpitation、Rheumatoid（Day 3）｜Osteoporosis、Tuberculosis（Day 4）｜**Hemorrhage、Anemia、Phlegm、Diverticulitis、Scarring、Numbness、Physiotherapy、Itchy、Blisters、Bloating（Day 5）🎉🎉**｜**Hydrochlorothiazide、Cholecystitis、Asthma、Methotrexate、Conjunctivitis、Cold sores、Nappy rash、Events organiser（Day 6）🎉🎉**｜**Arrhythmia、Hemorrhoids、Hypoglycemia、Pneumococcal、Dyspnea、Diarrhea、Swallowing（Day 7，一次清 7 个）🎉🎉**
 
-**差 1 次出池（✓1/2，再对 1 次即清）— Day 6 一次推进 8 个到此档 🎉**
-- [ ] 心律失常 → Arrhythmia（双 r + 内含 **rhythm**，无 e）｜✓1/2 🎉Day6 退档复发终于对
-- [ ] 痔疮 → Haemorrhoids（**Hae**- + 双 r + 复数 -s）｜✓1/2 🎉Day6 haem 迁移成功
-- [ ] 低血糖 → Hypoglycaemia（hypo-**gly**-caemia）｜✓1/2 🎉Day6 没再漏 g
-- [ ] 肺炎球菌的 → Pneumococcal（**Pneu**- 无 ae，双 c）｜✓1/2 🎉Day6 没乱加 ae + 双 c 都对
-- [ ] 呼吸困难 → Dyspnoea（英式 -p**noea**，非美式 dyspnea）｜✓1/2 🎉Day6 -oea 插 o 成功
-- [ ] 腹泻 → Diarrhoea（Di-a-rr-**hoea**）｜✓1/2 🎉Day6 -oea 插 o 成功
-- [ ] 心理咨询 → Counselling（英式双 l；**coun**-sell-ing）｜✓1/2 🎉Day6 词干+双 l 全对
-- [ ] 吞咽 → Swallowing（双 l）｜✓1/2 🎉Day6 双 l + -ing 全对
+**差 1 次出池（✓1/2，再对 1 次即清）— Day 7：老大难 6 个首次拿下 🎉🎉**
+- [ ] 左甲状腺素 Levothyroxine（左甲状腺素；Levo-thyr-**ox**-ine）｜✓1/2 🎉Day7 词尾 -ine 终于不写 -ide（连崩多天后首次对）
+- [ ] 皮质类固醇 Corticosteroids（皮质类固醇；Cortico-**stero**-ids + 复数 s）｜✓1/2 🎉Day7 不再多 r（连续 3 次多 r 后首次对）
+- [ ] 静脉曲张 Varices（静脉曲张；单数 varix → 复数插 c）｜✓1/2 🎉Day7 没再漏 c（连续 3 次漏 c 后首次对）
+- [ ] 使人丧失能力的 Incapacitating（in-capa-cita-ting）｜✓1/2 🎉Day7 词中段不崩了
+- [ ] 抗酸药 Antacids（抗酸药；**ant**- 无 i + 复数 s）｜✓1/2 🎉Day7 首次答对
+- [ ] 对乙酰氨基酚 Acetaminophen（对乙酰氨基酚；美式名，英式 Paracetamol）｜✓1/2 🎉Day7 美式名对 ⚠️听写若录音说 Paracetamol 要写英式名
 
-**仍 0/2 · 长药名整体崩（老大难，连续多天）⚠️**
-- [ ] 左甲状腺素 → Levothyroxine（Levo-thyr-**ox**-ine）｜✓0/2 ［Day6 写 levothyroxide，词尾 -ine 写成 -ide；Day5 漏 rox］
-- [ ] 皮质类固醇 → Corticosteroids（Cortico-**stero**-ids + 复数 s）｜✓0/2 ［Day6 写 corticorsteroids 多 r（连续第 3 次多 r）］
+**仍 0/2 · 记错词（不是拼错，是记成别的词）⚠️**
+- [ ] 心理咨询 Counseling（心理咨询；美式单 l，**coun**-sel-ing）｜✓0/2 ［Day7 写 consaultant，记成 consultant 顾问（第 2 次记错词）］
 
-**仍 0/2 · 记错词 / 漏字母（不是拼错，是记成别的词）⚠️**
-- [ ] 静脉曲张 → Varices（单数 varix）｜✓0/2 ［Day6 又写 varies 漏 c（连续第 3 次漏 c）］
-- [ ] 使人丧失能力的 → Incapacitating（in-capa-cita-ting）｜✓0/2 ［Day6 写 incapacibiliting 词中段崩；连续记错词］
-- [ ] 抗酸药 → Antacids（**ant**- 无 i + 复数 s）｜✓0/2 ［Day6 漏做未答，仍留池］
+**仍 0/2 · 英式药名（美式救不了，必须硬记；真实听写按录音）⚠️**
+- [ ] 沙丁胺醇 Salbutamol（沙丁胺醇；英式名，美式 Albuterol；Sal-buta-mol）｜✓0/2 ［Day7 写 salbuterol，两名混杂］
+- [ ] 呋塞米 Furosemide（呋塞米；Furo-**semi**-de；英式亦作 Frusemide）｜✓0/2 ［Day7 写 fluroximine 完全崩］
+- [ ] 甲硝唑 Metronidazole（甲硝唑；Metro-nida-zole）｜✓0/2 ［Day7 写 methematraxate，混成 methotrexate］
+- [ ] 麻醉药 Anesthetic（麻醉药；美式 an-**es**-thetic；英式 Anaesthetic）｜✓0/2 ［Day7 空白］
 
-**仍 0/2 · Day6 新入池（新词首测错）**
-- [ ] 沙丁胺醇 → Salbutamol（沙丁胺醇；英式名，非美式 albuterol；Sal-buta-mol）｜✓0/2 ［Day6 空白，不认识英式名］
-- [ ] 对乙酰氨基酚 → Paracetamol（对乙酰氨基酚；英式名，非美式 acetaminophen；Para-ceta-mol）｜✓0/2 ［Day6 空白，不认识英式名］
-- [ ] 呋塞米 → Furosemide（呋塞米；Furo-**semi**-de）｜✓0/2 ［Day6 写 furoside 漏 sem］
-- [ ] 甲硝唑 → Metronidazole（甲硝唑；Metro-nida-zole）｜✓0/2 ［Day6 空白］
-- [ ] 麻醉药 → Anaesthetic（麻醉药；英式 **ae**，an-**aes**-thetic；美式 anesthetic）｜✓0/2 ［Day6 写 anesthetics 漏 ae（ae 规则未迁移到本词）+ 多复数 s］
+**仍 0/2 · Day7 新入池（新词首测错，美式）**
+- [ ] 脑膜炎 Meningitis（脑膜炎；一个 -itis，非 -ititis）｜✓0/2 ［Day7 写 meningititis 多一节 -it］
+- [ ] 坐骨神经痛 Sciatica（坐骨神经痛；Sci-**at**-ica）｜✓0/2 ［Day7 写 sciacesia 整体崩］
+- [ ] 动脉粥样硬化 Atherosclerosis（动脉粥样硬化；Athero-**sclero**-sis）｜✓0/2 ［Day7 空白］
+- [ ] 结肠镜检查 Colonoscopy（结肠镜检查；colon-**o**-scopy 插 o）｜✓0/2 ［Day7 写 colonscopy 漏 o］
+- [ ] 子宫切除术 Hysterectomy（子宫切除术；Hyster-**ec**-tomy）｜✓0/2 ［Day7 写 hystrecotomy 字母错位］
+- [ ] 清创术 Debridement（清创术；法语源，De-**bride**-ment）｜✓0/2 ［Day7 写 discohesion 记成别的词］
+- [ ] 除颤仪 Defibrillator（除颤仪；**De**-fibrill-ator + 双 l）｜✓0/2 ［Day7 写 disfibrillator，de- 写成 dis-］
+- [ ] 阿莫西林 Amoxicillin（阿莫西林；Amox-**ici**-llin）｜✓0/2 ［Day7 写 amoxillin 漏 ci］
+- [ ] 环丙沙星 Ciprofloxacin（环丙沙星；Cipro-**flox**-acin）｜✓0/2 ［Day7 空白］
 
 ---
 
@@ -58,9 +63,9 @@ type: 备考资料
 
 | 指标 | 数值 |
 |---|---|
-| 已测 | 71 / 876（核心 318 优先；Day6 新增 8 出池 + 7 新词首测对）|
-| 错词池待清 | 18（8 差 1 次 + 10 仍 0/2）|
-| 连续打卡 | Day 6 ✅ |
+| 已测 | 81 / 876（核心 318 优先；Day7 美式判 7 出池 + 3 新词首测对）|
+| 错词池待清 | 20（6 差 1 次 + 14 仍 0/2）|
+| 连续打卡 | Day 7 ✅（距 Day6 隔 9 天；判分改美式）|
 
 ---
 
@@ -170,6 +175,23 @@ A 组对的 10 词（nausea/appetite/constipation/palpitations/unpredictable/ult
 
 **下个动作**：Day 7 重点盯 3 类：① 长药名拆音节写——Levo-thyr-**ox**-ine（词尾 -ine 别写 -ide）、Cortico-**stero**-ids（别多 r）② 记错词 Varices（varix→varices 插 c）/ Incapacitating ③ 英式药名新记——Salbutamol / Paracetamol / Metronidazole。8 个 ✓1/2 再对一次即出池，池可望降到 ~10。
 
+---
+
+### Day 7 — 2026-07-10（隔 9 天回测：18 回收 + 12 新词 = 30 题；⭐判分改美式）
+
+得分（**美式判**）：**16 / 30（53%）**（A 回收 13/18 + B 新词 3/12）。轨迹 Day1 1/15(7%) → Day2 6/20(30%) → Day3 18/40(45%) → Day4 19/38(50%) → Day5 18/31(58%) → Day6 23/33(70%) → **Day7 16/30(53%)**（隔 9 天未练略回落，但比按英式判的 11/30 高 5 分）。
+⭐ **本日起判分改美式**：Peixuan 考试写美式，OET 英美式都接受。原按英式判的 4 个「退档」（hemorrhoids/hypoglycemia/dyspnea/diarrhea）美式下全对。
+🎉🎉 **出池 7 个**：Arrhythmia、Hemorrhoids、Hypoglycemia、Pneumococcal、Dyspnea、Diarrhea、Swallowing（Day6 ✓1/2 连对 2 次清出）。
+🎉🎉 **6 个长期 0/2 老大难首次拿下升 ✓1/2**：Levothyroxine（-ine 不写 -ide）、Corticosteroids（不多 r，连崩 3 次后）、Varices（不漏 c，连崩 3 次后）、Incapacitating（词中段不崩）、Antacids、Acetaminophen——**「拆音节死记 + 记错词」这条线愈合了**。
+🎉 新词首测对 3：Appendicitis、Cellulitis、**Psoriasis（P 不发音全对）**。
+
+**⚠️ Day7 真正的硬伤（美式也救不了的）**：
+① **记错词** Counseling→consaultant（第 2 次记成 consultant 顾问）。
+② **英式药名不认识**（美式豁免不覆盖换名）：Salbutamol→salbuterol（两名混杂）、Furosemide→fluroximine（崩）、Metronidazole→methematraxate（混 methotrexate）、Anesthetic 空白。真实听写按录音写，澳/英配音多说英式名，故仍要认识。
+③ **新词音节**：Meningitis→meningititis（多 -it）、Colonoscopy→colonscopy（漏 o）、Hysterectomy→hystrecotomy（错位）、Debridement→discohesion（记错词）、Defibrillator→disfibrillator（de-→dis-）、Amoxicillin→amoxillin（漏 ci）、Sciatica/Atherosclerosis/Ciprofloxacin 崩或空。
+
+**下个动作**：Day 8 重点盯 2 类：① **英式药名硬记**（美式换不掉，考试听写要认）——Salbutamol / Furosemide / Metronidazole / Anesthetic + Counseling（拆音节：Sal-buta-mol / Furo-semi-de / Metro-nida-zole / an-es-thetic / coun-sel-ing）。② **新词音节补血**——Colonoscopy(插o) / Hysterectomy / Amoxicillin(记ici) / Defibrillator(de-) / Meningitis(单-itis)。6 个 ✓1/2 再对一次即出池，池可望降到 ~10。⭐ **教训：改美式判后策略变了——不再练 ae/oe/oea（考试写美式即可），省下的精力全砸「英式药名 + 长词音节」。拼写仍要「隔几天回测」防退化。**
+
 ## 📖 Day 3 已测卡 ✅（2026-06-28）— 错词已转回收池，此卡留作拼写参考
 
 > **新规则起点**：20 新词（核心冲刺·考经批次 1）+ 回收池 20 词（独立混测）。加粗=最易错处。
@@ -208,6 +230,8 @@ A 组对的 10 词（nausea/appetite/constipation/palpitations/unpredictable/ult
 ## ✅ 已测词索引（防重复，英文）
 
 > 累加，每天把当日 15 词的英文加进来。
+
+Day7（美式判 7 出池 + 3 新词首测对，2026-07-10）: [出池] Arrhythmia, Hemorrhoids, Hypoglycemia, Pneumococcal, Dyspnea, Diarrhea, Swallowing｜[新词对] Appendicitis, Cellulitis, Psoriasis　（+ 新词错入池: Meningitis, Sciatica, Atherosclerosis, Colonoscopy, Hysterectomy, Debridement, Defibrillator, Amoxicillin, Ciprofloxacin）
 
 Day6（8 出池 + 7 新词首测对，2026-07-01）: [出池] Hydrochlorothiazide, Cholecystitis, Asthma, Methotrexate, Conjunctivitis, Cold sores, Nappy rash, Events organiser｜[新词对] Warfarin, Oedema, Oesophagus, Leukaemia, Ischaemia, Paediatric, Eczema　（+ 新词错入池: Salbutamol, Paracetamol, Furosemide, Metronidazole, Anaesthetic）
 

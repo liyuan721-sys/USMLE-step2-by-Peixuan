@@ -19,6 +19,33 @@ type: 专题笔记
 
 ---
 
+> [!success] ⭐ 30 秒速记版（第一遍只背这个，机制深挖在后面折叠）
+> **场景**：AF（atrial fibrillation，房颤）患者吃着抗凝药，突发卒中，能不能打溶栓 tPA（tissue plasminogen activator，组织型纤溶酶原激活物 / alteplase）？只有一个分叉：
+>
+> **① 是哪种 DOAC（direct oral anticoagulant，直接口服抗凝药）？（决定能不能 tPA）**
+> - **dabigatran（达比加群，-gatran 类）** → 先给 **idarucizumab（依达赛珠单抗）** 5 min 完全中和 → **可以接着打 tPA**
+> - **-xaban 家族（rivaroxaban 利伐沙班 / apixaban 阿哌沙班 / edoxaban 依度沙班）**，48h 内吃过 → **tPA 禁用**；andexanet（andexanet alfa）**不能**搭桥去 tPA
+> - 记忆钩：**"-gatran 有 Idaru 救，-xaban 没药救"**
+>
+> **② 不能打 tPA 怎么办？**
+> - **大血管堵了（LVO，large vessel occlusion，大血管闭塞：ICA 颈内动脉 / MCA 大脑中动脉 M1-M2 段 / 基底动脉 basilar / 椎动脉 vertebral）** → **机械取栓 mechanical thrombectomy**（不打药 → 不怕抗凝）
+> - **不是 LVO** → 只能支持治疗（permissive HTN 允许性高血压 + 抗血小板 antiplatelet + 二级预防）
+>
+> **③ 解药总表（高频，务必背）**
+>
+> | 抗凝药 | 解药 |
+> |---|---|
+> | 华法林 warfarin | 维生素 K vitamin K + 4F-PCC（四因子凝血酶原复合物） |
+> | dabigatran 达比加群 | idarucizumab 依达赛珠单抗 |
+> | -xaban（Xa 抑制剂） | andexanet alfa / 4F-PCC |
+> | 肝素 heparin / 低分子肝素 LMWH（low-molecular-weight heparin） | 鱼精蛋白 protamine |
+>
+> **④ 卒中后重启抗凝："1-3-6-12" rule** —— TIA（transient ischemic attack，短暂性脑缺血发作）→1天 / 小梗死→3天 / 中→6天 / 大→12天（梗死越大越晚，怕出血转化 hemorrhagic transformation）
+>
+> > [!info]- 下面 §五 整节（andexanet 为什么"没药救" / TFPI（tissue factor pathway inhibitor，组织因子通路抑制剂）耗竭 / ANNEXA-I 试验数字 / 药价）是**原理深挖**，只要记住结论"-xaban 没药救"就够了，第一遍可跳过。
+
+---
+
 ## 一、核心矛盾
 
 急性缺血性卒中（acute ischemic stroke）的黄金治疗是 **tPA（alteplase）静脉溶栓**，但 tPA 的最大并发症是 **symptomatic intracranial hemorrhage（sICH）**，自然发生率 ~6%。
