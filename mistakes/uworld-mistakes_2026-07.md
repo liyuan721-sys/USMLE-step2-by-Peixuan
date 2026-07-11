@@ -4376,6 +4376,8 @@ type: 错题数据源
 > ## Stem 模式
 > 71 岁男，1 年行为改变；数年记忆问题（忘孙辈名）、**找词困难 (word-finding difficulty)**、走失（在自己公寓迷路）；患者本人否认（jokingly excuses）。**足底反射双侧向下 (plantar reflexes downgoing = 无 UMN 征)**；神经查体余正常；**MoCA（Montreal Cognitive Assessment，蒙特利尔认知评估）15/30**（正常 ≥26）；血常规/电解质/TSH/血糖/血脂全正常。问 MRI 最可能异常。（错，选 A 弥漫皮质+皮质下梗死）
 > 
+> ⏱️ **病程读法（易被绕）**：stem 的「1 年」= **行为改变**起点，但记忆问题**已数年** → 真实病程 = **数年、隐匿渐进**，正是 AD 节奏，不是"发展太快"。读痴呆 stem 找**最早的认知症状起点**，别只看最近那段行为/功能恶化。真·**数月内**快速进展 (rapidly progressive dementia, RPD) 才转向 CJD（Creutzfeldt-Jakob disease，克-雅病）/ 自身免疫性脑炎（autoimmune encephalitis）（见 [[完整笔记/专题笔记/神经/神经_老年痴呆鉴别]] §二 病程速度分诊）。
+> 
 > ## 核心概念
 > **阿尔茨海默病 (Alzheimer disease, AD, 阿尔茨海默病)** = 老年最常见痴呆，**早期突出记忆丧失**进行性加重，伴找词困难、视空间/执行功能↓（在熟悉环境走失）。MRI 早期常**正常**；**颞叶萎缩 (temporal lobe atrophy)，最显著于海马 (hippocampi) 与内侧颞叶 (medial temporal lobe)，为较晚期表现**。正解 **E（颞叶萎缩）**。神经影像主要用于排除其他病因（占位/硬膜下/梗死/NPH）。
 > 
