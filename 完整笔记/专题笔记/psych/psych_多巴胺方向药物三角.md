@@ -7,7 +7,7 @@ tags:
   - 神经
 created: 2026-05-23
 type: 专题笔记
-source: 错题驱动 Q3375 Tourette + Q16066 TD + Q12152 PD psychosis + Q20930 tetrabenazine 钓饵（2026-05-23）整合 v1
+source: 错题驱动 Q3375 Tourette + Q16066 TD + Q12152 PD psychosis + Q20930 tetrabenazine 钓饵（2026-05-23）整合 v1；v1.1 补 tetrabenazine 助记抓手（词根/reserpine 认亲/帕金森照镜，2026-07-11 讨论驱动）
 ---
 
 # 多巴胺方向药物三角 — 神经药理 USMLE Step 2 全套
@@ -71,6 +71,11 @@ source: 错题驱动 Q3375 Tourette + Q16066 TD + Q12152 PD psychosis + Q20930 t
 
 > [!tip] VMAT2 三兄弟记忆
 > **Tetra → HD / Tourette / TD 通用；Deu → HD + TD；Val → TD 专属。** 都是耗竭突触前 DA 包装（VMAT2 = vesicular monoamine transporter 2），所以**不阻 D2 受体 → 无 EPS 风险**，但**仍可诱发抑郁 / 嗜睡 / parkinsonism**（DA 总量降低的副作用）。
+
+> [!tip] 记不住 tetrabenazine（丁苯那嗪）？三个助记抓手
+> ① **拆词根**：tetra-**BENA**-zine → 读成"囊泡 **BE N**ot **A**ble 存 DA"（VMAT2 装货工被抑制 → DA 装不进囊泡 → 被 MAO（monoamine oxidase，单胺氧化酶）降解 → 突触前耗竭）。词尾 **-benazine** = VMAT2 家族标志（tetra / deu / val 都带）。
+> ② **认亲戚**：**reserpine（利血平）** 也是 VMAT 抑制剂（老降压药，同样耗竭单胺致抑郁）→ **tetrabenazine = "运动障碍专用版 reserpine"**，记住一个带出另一个。
+> ③ **照镜子**：**帕金森 = DA 太少（hypokinetic）→ 补 DA（levodopa 左旋多巴）**；**亨廷顿 = 动太多（hyperkinetic）→ 抽干 DA（tetrabenazine）**。一句话："**动太多就抽 DA**"。
 
 #### B. D2 拮抗剂（突触后阻断）
 
