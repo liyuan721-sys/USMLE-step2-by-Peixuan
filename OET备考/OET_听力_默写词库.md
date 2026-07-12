@@ -1152,6 +1152,17 @@ type: 备考资料
 > - **palliative care**（临终关怀 / 姑息治疗）→ 见 §一 #297。
 > - **draw up**（起草、制定，如 draw up a protocol document 制定协议文件）→ Q42 建议本体的动词，认读即可。
 
+### 2026-07-12 补（4 词，Part C：hand hygiene 手卫生讲座）
+
+关联分析笔记：[[OET备考/听力PartC/2026-07-12_听力PartC_handhygiene_Q37-42_分析]]
+
+| 类别 | 中文 | English |
+|---|---|---|
+| 形容/状态 ⚠️ | 根深蒂固的、已养成习惯的（"procedures that should already be **ingrained**" 本该早已成习惯的流程 = deeply established / habitual / second nature）。⚠️ **本篇 Q42 母题**：讲座核心就是手卫生**还没** ingrained/hardwired（根深蒂固/本能化），要变成 automatic action——ingrained ≈ hardwired ≈ instinctive ≈ subconscious，一条"本能化"同义链。拼写：in-**grain**-ed（grain 纹理/颗粒 → 深入纹理里）| ingrained |
+| 逻辑/立场 ⚠️ | 自满、松懈、麻痹大意（对已知风险不当回事、放松警惕）。⚠️ **本篇 Q38 正确答案核心词**：她用触目惊心的数据（1/25、70 万/年、7.5 万死）反衬医护 complacency——数据 support 的是"自满/忽视"这个**态度**，不是"患者增加"。同义链：complacency ≈ neglect（忽视）≈ forgetfulness ≈ laziness ≈ "doesn't set off alarm bells"（不当回事）。⚠️ 拼写：com-pla-**cency**（-cency 结尾，不是 -sency）；形容词 complacent 自满的。别与 complacent's 近音的 **complaisance**（殷勤，罕见）混 | complacency |
+| 名词 ⚠️ | 决定性的一点、一锤定音的关键（引出**最有分量的论据/数字**："The **clincher**, however, is... 75,000 patients die" 但最触目惊心的是——7.5 万人死亡）。⚠️ **Part C 信号词**：听到 the clincher / the bottom line / the key point，后面紧跟的就是**说话人最想强调的重点**（常是考点）。来自动词 clinch（敲定、一举拿下）。拼写：c-l-i-n-**ch**-er | the clincher |
+| 动作/短语 ⚠️ | 循规蹈矩、遵守规定 / 服从纪律（"if healthcare workers don't **toe the line**" 如果医护不守规矩 = comply / follow the rules / conform）。⚠️⚠️ **高危拼写陷阱——是 <font color="#ff0000">toe</font>（脚趾）the line，不是 tow（拖拽）the line！** 你这次就写成了 tow。字面源自赛跑起跑时脚尖踩在起跑线上（脚尖 toe 抵线 = 守规矩），跟"拖 tow"毫无关系。记忆锚：脚趾尖尖顶着线 = 规规矩矩。发音 toe /toʊ/ 与 tow /toʊ/ 同音，所以只能靠记忆区分，听力里靠语境（守规矩）判 | <font color="#ff0000">toe</font> the line |
+
 ## 怎么用
 1. 看**中文** → 先盲拼整词；卡住了再看「拼写骨架」（已给首字母+末字母+长度）兜底补全。
 2. 骨架里 `_` = 缺一个字母，连字符/空格保留 → 既提示词长又不直接给答案。
