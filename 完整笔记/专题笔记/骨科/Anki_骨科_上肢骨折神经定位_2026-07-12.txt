@@ -1,0 +1,13 @@
+#separator:Tab
+#html:true
+#deck:USMLE::骨科_上肢骨折神经定位
+#notetype:Basic
+肩外侧一小片（军徽 regimental badge 区）麻木 + 外展无力，且感觉丧失。→ 哪条神经？源自哪个骨折/损伤？	<b>腋神经 Axillary nerve (C5–C6)</b><br>骨折：肱骨外科颈 surgical neck / 前肩脱位 anterior dislocation。<br>三角肌 deltoid → 外展 15–90° 无力。<br>⚠️ 若感觉完整、仅外展弱 = 肩袖损伤 rotator cuff（不是腋神经）。
+醒来后抬手时腕下垂（wrist drop）+ 第 1–2 指虎口背侧（dorsal first webspace）麻，但伸肘正常。→ 神经？定位在哪一段？	<b>桡神经 Radial nerve</b><br>定位：肱骨干中段 mid-shaft（radial groove 桡神经沟）。<br>Saturday night palsy / 止血带同机制。<br>伸肘正常 = 病变在螺旋沟以下（三头肌支已发出）。
+儿童 FOOSH 跌倒后肘痛，不能做 OK 手势（拇食指捏不成圆圈），纯运动、无感觉丧失。→ 神经？骨折？下一步最关键？	<b>正中神经 / AIN（骨间前神经）</b><br>骨折：肱骨髁上骨折 supracondylar（儿童最常见肘部骨折）。<br>下一步：先查<b>桡动脉搏动 + 毛细血管充盈</b>（肱动脉损伤）→ 防 Volkmann 缺血性挛缩。<br>AIN 纯运动：FPL + 食指 FDP 瘫 → 捏不成圈。
+第 4–5 指麻 + 爪形手（claw hand）倾向，Froment 征阳性。→ 神经？骨折？	<b>尺神经 Ulnar nerve</b><br>骨折：内上髁 medial epicondyle（"麻筋 funny bone"处）/ 肘管综合征 cubital tunnel。<br>手内在肌（骨间肌 / 3-4 蚓状肌）瘫 → 爪形手。<br>Froment 征：拇内收肌瘫 → 用 FPL 代偿屈拇。
+老年女性跌倒后腕痛、餐叉样畸形（dinner fork），复位/肿胀后逐渐出现拇/食/中指麻 + 拇外展无力。→ 神经？骨折？综合征？	<b>正中神经 Median nerve → 急性腕管综合征</b><br>骨折：桡骨远端 Colles（背侧移位）/ Smith（掌侧移位）。<br>桡侧 3½ 指麻 + 拇短展肌 APB 无力。<br>时间线钥匙：初无症状、复位后<b>逐渐</b>出现麻 = 急性腕管。
+FOOSH 后腕桡侧痛，解剖鼻烟窝（anatomical snuffbox）压痛，早期 X 线未见骨折。→ 骨折？有无神经损伤？关键风险 + 下一步？	<b>舟骨 Scaphoid 骨折｜通常无神经损伤</b><br>血供逆行（远→近）→ 近端骨折易 <b>AVN 缺血坏死</b> + 不愈合。<br>下一步：拇人字石膏 thumb spica 固定 + 1–2 周复查 X 线 / MRI（早期 X 线可阴性，别放走）。<br>钥匙：FOOSH + 鼻烟窝痛 = 想血供，不是想神经。
+陷阱：肩脱位/外伤后外展无力——如何一步区分腋神经损伤 vs 肩袖损伤？	看<b>肩外侧麻不麻</b>：<br>麻（肩外侧感觉丧失）= <b>腋神经损伤</b>。<br>感觉完整 + 中老年 = <b>肩袖损伤 rotator cuff</b>（影像选 MRI）。
+陷阱：腕部骨折 + 手麻，很多人反射选尺神经——对吗？为什么？	<b>错。</b><br>桡骨远端走<b>腕管</b> → 压的是<b>正中神经</b>（急性腕管）。<br>尺神经走 Guyon 管（钩骨那侧），不被桡骨远端骨折压。<br>记死：Colles → 正中。
+陷阱：儿童髁上骨折，神经和血管先查哪个？漏了会怎样？	先查<b>血管（桡动脉搏动 + 毛细血管充盈）</b>。<br>威胁肱动脉 brachial artery → 漏诊 → <b>Volkmann 缺血性挛缩</b>（永久残疾）。<br>同时提示 AIN（正中）损伤 = 不能做 OK 手势。
