@@ -1,0 +1,25 @@
+皮质类固醇	Corticosteroids	拆: Cortico-stero-ids<br>陷阱: 别多 r + 别漏复数 s<br>【✓差1次】
+麻醉药	Anesthetic	拆: an-es-thetic（美式；英式 Anaesthetic）<br>陷阱: 单数别加 s<br>【✓差1次】
+脑膜炎	Meningitis	拆: Mening-itis<br>陷阱: 一个 -itis（不是 meningititis）<br>【-itis=炎】
+结肠镜检查	Colonoscopy	拆: colon-o-scopy<br>陷阱: 中间插 o（不是 colonscopy）<br>【✓差1次】
+子宫切除术	Hysterectomy	拆: Hyster-ec-tomy<br>陷阱: 字母别错位<br>【-ectomy=切除】
+除颤仪	Defibrillator	拆: De-fibrill-ator<br>陷阱: de- 不是 dis- + 双 l<br>【✓差1次】
+阿莫西林	Amoxicillin	拆: Amox-ici-llin<br>陷阱: 别漏 ci<br>【✓差1次】
+心理咨询	Counseling	拆: coun-sel-ing（美式单 l）<br>语义: counsel=劝导/咨询 ≠ consultant 顾问<br>【记错词·错3次】
+清创术	Debridement	拆: De-bride-ment（法语源）<br>语义: 清创/削腐肉<br>【记错词】
+对乙酰氨基酚	Acetaminophen	拆: Acet-a-min-o-phen（美式；英式 Paracetamol）<br>陷阱: 第4节 min 不是 men<br>【记错词】
+脑炎	Encephalitis	拆: Encephal-itis<br>语义: -itis=炎 ≠ Encephalopathy 脑病(-pathy)<br>【记错词·-itis=炎】
+沙丁胺醇	Salbutamol	拆: Sal-buta-mol（英式；美式 Albuterol）<br>陷阱: 词尾 -mol 别写 -erol<br>【英式药名】
+呋塞米	Furosemide	拆: Furo-semi-de（英式亦作 Frusemide）<br>陷阱: furo- 不是 fluro- + 别丢 semi<br>【英式药名】
+甲硝唑	Metronidazole	拆: Metro-nida-zole<br>语义: 甲硝唑 ≠ Methotrexate 甲氨蝶呤<br>【英式药名/记错词·混2次】
+坐骨神经痛	Sciatica	拆: Sci-at-ica<br>陷阱: 中间有 c（不是 sciatia）<br>【音节】
+动脉粥样硬化	Atherosclerosis	拆: Ather-o-sclerosis<br>陷阱: ather 的 e 别写 o<br>【音节】
+环丙沙星	Ciprofloxacin	拆: Cipro-flox-acin<br>陷阱: 分三段，别放弃<br>【音节】
+乳腺X线摄影	Mammography	拆: Ma-mmo-graphy<br>陷阱: 双 m（片子 Mammogram 也双 m）<br>【双写】
+纤维肌痛症	Fibromyalgia	拆: Fibro-my-algia<br>语义: 纤维 + 肌痛 myalgia（不是 phalgia）<br>【词根 myalgia=肌痛】
+椎板切除术	Laminectomy	拆: Lamin-ec-tomy<br>语义: 椎板 lamina + 切除 ectomy<br>【-ectomy=切除】
+扁桃体切除术	Tonsillectomy	拆: Tonsill-ec-tomy<br>陷阱: 双 l + 结尾 -ectomy<br>【-ectomy=切除】
+脊柱侧凸	Scoliosis	拆: Sco-li-o-sis<br>陷阱: 别写 scleroscopy<br>【记错词/音节】
+腹膜炎	Peritonitis	拆: Perito-ni-tis<br>语义: 腹膜炎 ≠ Pericarditis 心包炎（都 -itis）<br>【-itis=炎】
+听诊	Auscultation	拆: Aus-cul-ta-tion<br>【新词】
+肺功能检查	Spirometry	拆: Spiro-me-try<br>【新词】
