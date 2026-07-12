@@ -1,0 +1,25 @@
+皮质类固醇	Corticosteroids<br>拆: Cortico-stero-ids<br>陷阱: 别多 r（不是 corticorsteroids）+ 别漏复数 s<br>【✓差1次】
+麻醉药	Anesthetic<br>拆: an-es-thetic（美式；英式 Anaesthetic）<br>陷阱: 单数别加 s（anesthetic 不是 anesthetics）<br>【✓差1次·英式药名相关】
+脑膜炎	Meningitis<br>拆: Mening-itis<br>陷阱: 一个 -itis，不是 meningit-itis<br>【✓差1次·后缀-itis=炎】
+结肠镜检查	Colonoscopy<br>拆: colon-o-scopy<br>陷阱: 中间要插 o（不是 colonscopy）<br>【✓差1次】
+子宫切除术	Hysterectomy<br>拆: Hyster-ec-tomy<br>陷阱: 字母别错位（不是 hystrecotomy）<br>【✓差1次·-ectomy=切除】
+除颤仪	Defibrillator<br>拆: De-fibrill-ator<br>陷阱: de- 不是 dis- + 双 l<br>【✓差1次】
+阿莫西林	Amoxicillin<br>拆: Amox-ici-llin<br>陷阱: 别漏 ci（不是 amoxillin）<br>【✓差1次】
+心理咨询	Counseling<br>拆: coun-sel-ing（美式单 l）<br>语义: counsel = 劝导/咨询 ≠ consultant 顾问（你错 3 次了！）<br>【记错词·头号顽疾】
+清创术	Debridement<br>拆: De-bride-ment（法语源）<br>语义: 清创/削去腐肉，≠ 别的词<br>【记错词】
+对乙酰氨基酚	Acetaminophen<br>拆: Acet-a-min-o-phen（美式名；英式 Paracetamol）<br>陷阱: 第4节是 min 不是 men<br>【记错词/拼写】
+脑炎	Encephalitis<br>拆: Encephal-itis<br>语义: -itis = 炎 ≠ Encephalopathy 脑病(-pathy)<br>【记错词·后缀-itis=炎】
+沙丁胺醇	Salbutamol<br>拆: Sal-buta-mol（英式名；美式 Albuterol）<br>陷阱: 词尾 -mol 别混成美式 -erol（salbuterol✗）<br>【英式药名·硬记】
+呋塞米	Furosemide<br>拆: Furo-semi-de（英式亦作 Frusemide）<br>陷阱: furo- 不是 fluro- + 别丢 semi<br>【英式药名·硬记】
+甲硝唑	Metronidazole<br>拆: Metro-nida-zole<br>语义: 甲硝唑 ≠ Methotrexate 甲氨蝶呤（你混 2 次了！）<br>【英式药名/记错词】
+坐骨神经痛	Sciatica<br>拆: Sci-at-ica<br>陷阱: 中间有 c（不是 sciatia）<br>【新词音节】
+动脉粥样硬化	Atherosclerosis<br>拆: Ather-o-sclerosis<br>陷阱: ather 的 e 别写成 o（athor✗）<br>【新词音节】
+环丙沙星	Ciprofloxacin<br>拆: Cipro-flox-acin<br>陷阱: 分三段记，别放弃<br>【新词音节】
+乳腺X线摄影	Mammography<br>拆: Ma-mmo-graphy<br>陷阱: 双 m（mammo-）；片子 Mammogram 也双 m<br>【新词·双写】
+纤维肌痛症	Fibromyalgia<br>拆: Fibro-my-algia<br>语义: = 纤维 + 肌痛 myalgia（不是 phalgia）<br>【新词·词根myalgia=肌痛】
+椎板切除术	Laminectomy<br>拆: Lamin-ec-tomy<br>语义: = 椎板 lamina + 切除 ectomy<br>【新词·-ectomy=切除】
+扁桃体切除术	Tonsillectomy<br>拆: Tonsill-ec-tomy<br>陷阱: 双 l + 结尾焊上 -ectomy<br>【新词·-ectomy=切除】
+脊柱侧凸	Scoliosis<br>拆: Sco-li-o-sis<br>陷阱: 别写成 scleroscopy<br>【记错词/音节】
+腹膜炎	Peritonitis<br>拆: Perito-ni-tis<br>语义: 腹膜炎 ≠ Pericarditis 心包炎（都 -itis 炎，对照背）<br>【新词·后缀-itis=炎】
+听诊	Auscultation<br>拆: Aus-cul-ta-tion<br>陷阱: 不认识就先记<br>【新词】
+肺功能检查	Spirometry<br>拆: Spiro-me-try<br>陷阱: 不认识就先记<br>【新词】
