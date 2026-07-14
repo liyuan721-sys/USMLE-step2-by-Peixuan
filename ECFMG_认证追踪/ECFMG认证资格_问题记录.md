@@ -193,6 +193,13 @@ type: 申请追踪
 > - **下一步**：暂不再追（刚转交，给后端时间）；**~7/10**（约 7–10 工作日）仍无实质回复 → 发简短 follow-up（锚定 Cases C-27107384 / C-27110565 + 本次 6/29 人工确认）或电话 +1-215-386-5900。材料（博士证 CDGDC 英译 / 执照 / 副高证 / CV）已齐待命。
 > - 邮件存档：`Desktop\step2报名\ECFMG邮件沟通\06292026 ECFMG回复.docx`
 
+> [!success] 2026-07-13 进展：☎️ 打电话，ECFMG 已把 case **escalate（升级）**
+> 我今天打了 ECFMG（认证线 +1-215-386-5900），接线人告知：**已把我的 case 升级 (escalated) 处理**，让我**等邮件通知**。
+> - 性质 = 案件被**上抬到更高层/专责团队**处理（比 6/29 的"routing acknowledgment 路由确认"又前进一步 = 有人实质推进）。
+> - 实质两项（① school of record 改协和 ② 接受/核验 2012 PUMC 临床博士做 final diploma）**仍待书面裁决**。
+> - **下一步**：等邮件，不主动催（刚升级，给他们处理时间）；材料（协和博士证 CDGDC 英译 / 执照 / 副高证 / CV / 博士英文成绩单）备齐待命。若 **~2 周**仍无邮件 → 再致电锚定本次 escalate 记录追进度。
+> - ⚠️ 打完电话**没记下接线人姓名 / 工单号**——下次通话务必记（§四待办里早列过这条）。
+
 - 🟢 同意改用**协和临床博士 / 走个案审** → 改 medical school of record，按博士线重走核验（**要争取的**）
 - 🟡 认可本科 → 几乎不可能（本科非临床）
 - 🔴 明确不行 → 正视这堵墙，再议申诉 / 转方向
@@ -403,6 +410,52 @@ Pathway     = 其中一个 Step + OET（英语）+ 临床技能（6 个 mini-CEX
 
 ---
 
+## 2026-07-13 实查：川大/华西（本科母校）WDOMS + Reference Guide 学位口径
+
+> [!info] 为什么查这个
+> 我登记的本科 school of record = **West China School of Medicine, Sichuan University（华西临床医学院）, 2005 毕业**（见 §2026-06-24 My Cases：C-25966832 那份 2005 本科文凭，Degree Title 空白）。核对 ECFMG / WDOMS 对这所学校**按毕业年**认可的学位名，看 2005 年的"合法学位口径"到底是什么。
+
+### A. ECFMG《Reference Guide》— 华西按毕业年的可接受文凭
+- 学校实体：**West China School of Medicine, Sichuan University**（ECFMG Entity ID **ENT-0002402**）
+- 数据现势：Data current as of **July 6, 2026**（是 ECFMG **现行**回溯清单，非 2005 年当年 IMED 快照，但 ECFMG 判资格用的就是这份）
+- **毕业年 2005** 列出三个可接受最终医学文凭：
+
+| Graduation Year | Acceptable Medical Degree |
+|---|---|
+| 2005 | Bachelor of Medicine in Medicine |
+| 2005 | Doctor of Clinical Medicine |
+| 2005 | MBBS |
+
+- 学位名逐年演变：**1969–2001 只有 "Bachelor of Medicine in Medicine"** → 2002–2003 加 MBBS → **2004 起** 才三个并列（含 "Doctor of Clinical Medicine"）。
+
+### B. WDOMS（World Directory of Medical Schools）— 华西学校档案
+- FAIMER School ID **F0000992**（= ENT-0002402 同一校）；Public；Year Instruction Started 1910；Currently operational。
+- 曾用名：华西医科大学 West China University of Medical Sciences（1985–2000）/ 四川医学院 Sichuan Medical College（1953–1985）/ … West China Union University（1910）。
+- 2000-09 三校合并（原四川大学 + 成都科技大学 + 华西医科大学）成现四川大学。
+- **ECFMG Sponsor Note**：Students and graduates **eligible to apply for ECFMG Certification**；**Graduation Years: 1953 – Current**（✅ 含 2005）；文凭称号见《Reference Guide》。
+- **Program Details（各专业 Qualification Title/学位名原文）：**
+
+| Program（专业） | Qualification Title（学位名） | 开始年 | 学制 |
+|---|---|---|---|
+| 5-year Clinical Medicine（五年制临床医学 Clinical Medicine） | Bachelor of Medicine | 2000 | 5 年 |
+| MBBS Program | Bachelor of Medicine, Bachelor of Surgery (M.B.B.S.) | 2001（2008 改 6 年） | 6 年 |
+| 8-year Clinical Medicine（八年制临床医学） | Doctor of Medicine | 2004 | 8 年 |
+| （七年制，2006 停办） | Master of Medicine | 2000 | 7 年 |
+
+### C. 对我 case 的意义（关键）
+
+> [!danger] 华西 WDOMS 档案里**没有「基础医学 Basic Medicine」这个 program**
+> WDOMS 列的四个 program **全是临床线**（临床五/八年、MBBS、临床七年硕士），学位名全部落在 Bachelor of Medicine / MBBS / Doctor of Medicine / Master of Medicine。
+> - 我本科读的 **「基础医学 Basic / Preclinical Medicine」** 挂在川大**基础医学与法医学院 School of Basic Medical Sciences & Forensic Medicine**下，**不属于** WDOMS 这所"medical school（华西临床）"实体，**也没有对应可接受学位名** → 名录层面坐实了 ECFMG 判本科非临床、不合格的硬依据。
+> - 反过来，这更说明**唯一活口仍是把 school of record 换成协和 (PUMC)、用 2012 "Doctor of Clinical Medicine" 做 final diploma**（协和 WDOMS/Reference Guide 数据见 §三-补）。
+> - 附带旁证：华西清单里 **"Doctor of Clinical Medicine" 从 2004 起也是 ECFMG 官方承认的可接受学位名**（同一措辞在中国医学院是研究生学位阶梯 Bachelor/Master/Doctor of Clinical Medicine），间接支持协和 2012 同名学位可用。
+
+**Sources**（可复查）：
+- ECFMG Reference Guide：`ecfmg.org/resources/reference-guide` → Search By School → Sichuan → West China School of Medicine（ENT-0002402）→ 选毕业年
+- WDOMS：`search.wdoms.org` → 搜 "West China School of Medicine" → School Detail F0000992 → Program Details / Sponsor Notes
+
+---
+
 ## 更新日志
 - **2026-06-19**：建档。查清根因（基础医学非临床）、备齐 4 附件、发 inquiry 请求个案审查。等 ECFMG 回复。
 - **2026-06-24**：浏览器实查 WDOMS + ECFMG《Reference Guide》→ 协和是 ECFMG sponsor（grad 1953–Current），且 **2012 "Doctor of Clinical Medicine" 在 ECFMG 可接受文凭清单上**。§三悲观判断被证伪（见 §三-补）。证件官方英文名整理见 [[LGG_Fellowship_申请追踪/05_资质文件清单]]。
@@ -412,4 +465,5 @@ Pathway     = 其中一个 Step + OET（英语）+ 临床技能（6 个 mini-CEX
 - **2026-06-26**：✅ **协和博士中文成绩证明已开好**；下一步 = 翻译英文版（步骤二）。§四-补 加 **4 条翻译红线**（标题 Doctor 非 Master / 学位称号统一 / 与中文逐项一致不美化 / 日期一致）防重蹈 "Master Degree" 覆辙。新增 **§七 EPIC vs Certification 区分表**（两条线/两个电话别混 + 启动 EPIC 前先改好成绩单）。
 - **2026-06-26**：浏览器实查 MyIntealth + FSMB（Claude in Chrome）→ 新增 **「2026-06-26 浏览器实查」节**：① USMLE 报名 2026-01 迁 FSMB（MyIntealth Services 无 USMLE 选项）；② **ECFMG Certification Application = Pending Submission + 有「Begin Application」按钮**（= 可重交新申请、填协和 school of record 的真正入口）；③ FSMB（Raven）已登录、**Step 1 完整无损**（四步 check_circle），**Step 2 CK 被红色报错挡住**："no accepted Application for ECFMG Certification"。计划改写：从"电话求改旧申请"→ 可能"自己 Begin 新申请"；**未点 Begin（高风险动作留用户本人）**，定三步正确顺序（先修博士英文成绩单 → 确认路径 → 本人提交）。
 - **2026-06-26**：查证 OET 报考 → 新增 **§八 OET 报考要点**：北京无线下考点走 **OET@Home**（ECFMG 对"本国无考点"考生认可的合规形式）；达标分 **L/R/S≥350、Writing≥300 一次同场**；有效期按 Match 周期固定日历（2027 Match 须≥2025-01-01），**2026-07 考覆盖 2027+2028 两周期**；提醒**先跑设备自检**防墙内监考软件连不通。OET 是认证独立组件、不解 credential 锁。
+- **2026-07-13**：☎️ 打电话给 ECFMG（认证线 +1-215-386-5900）→ 对方告知 **case 已 escalate（升级）、等邮件通知**；进展记入 §五（比 6/29 路由确认更进一步，实质裁决仍待邮件）。⚠️ 未记接线人姓名/工单号，下次务必记。另**浏览器实查华西/川大母校 WDOMS + Reference Guide**（新增 §2026-07-13 节）：华西 Entity **ENT-0002402** / FAIMER **F0000992**，毕业年 **2005** 可接受文凭 = Bachelor of Medicine in Medicine / Doctor of Clinical Medicine / MBBS；Sponsor Note grad 1953–Current；**四个 program 全临床线、无「基础医学 Basic Medicine」** → 名录层面坐实本科非临床、更坐实唯一活口 = 换协和 school of record。
 - **2026-06-28**：入库文傲 OET 考经的 Pathways 部分 → 新增 **§九 Pathways 申请流程**：概念关系（认证=Step1+Step2+Pathway；Pathway=一个Step+OET+6个mini-CEX）；**Pathway 有有效期须覆盖到 PGY1 结束**（建议提前一个 Match cycle 申请）、交钱定 pathway 后不可改；申请 6 步（境外执照→Pathway 1 / $925 / OET 公布给 ECFMG / 6 clinical encounters：医生姓名+邮箱、接受 2 周+评估 2 周、评估晚于接受）；出分时间（机考 10 工作日 / 在家 2 天）。**标注我大概率走 Pathway 1（持中国执照），但 6 个 mini-CEX 各 pathway 通用**——待认证 Accepted 后按当年规则核实。考经其余部分（OET 四科技巧）已拆进 OET 备考文件夹对应分项笔记。
