@@ -39,6 +39,9 @@ type: 专题笔记
 >40 min   难治性: 气管插管 + 麻醉剂量(咪达唑仑/丙泊酚 propofol) 持续输注 + EEG 监测
 ```
 
+![[L23196.png]]
+*GCSE 管理流程（UWorld）：稳定 ABC + BZD 终止 → **辅助 IV AED（左乙拉西坦/磷苯妥英/丙戊酸）** → 发作止？→ 未止才「持续输注 + EEG 监测（难治性）」。EEG 在"未终止"分支，不是 BZD 后常规下一步。（双嵌自卡 [[mistakes/uworld-mistakes_2026-07#^Q14370]]）*
+
 > [!tip] 考点反射
 > 院前已用 BZD 仍发作 → 上**二线负荷药**，并查**继发损伤**（皮质层状坏死）；同时纠正缺氧/低糖/电解质。
 
@@ -60,6 +63,7 @@ type: 专题笔记
 ## 🔗 关联
 
 - 🔁 同主题错题：
+  - [[mistakes/uworld-mistakes_2026-07#^Q14370]] GCSE 顺序（BZD 终止后 → 负荷 AED 防复发；误把 EEG 提前，§三）
   - [[mistakes/uworld-mistakes_2026-06#^Q4089]] SE 并发症（皮质层状坏死）
   - [[mistakes/uworld-mistakes_2026-06#^Q19890]] GCSE 治疗后持续不应答 → EEG（查非惊厥 SE，§四）
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]]

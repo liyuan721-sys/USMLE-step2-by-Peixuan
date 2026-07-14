@@ -57,11 +57,30 @@ type: 专题笔记
 - 谵妄 + **发热 + 啰音 + WBC↑** → **胸片**（抓肺炎）。
 - 关键：谵妄检查**永远跟着异常发现走**，不盲目影像。
 
+## 五、激越性谵妄的处理（治病因 + 何时用药 + 选哪种）⭐
+
+> [!danger] 用药前先记住：谵妄治疗第一位是**治病因 + 非药物**，不是镇静
+> ① **治诱因**：UTI → 抗生素、脱水 → 补液、缺氧 → 给氧、停致谵妄药（阿片/BZD/抗胆碱）。
+> ② **非药物**：重定向（钟表/日历）、白天活动夜间睡眠、家属陪伴、**最小化约束与导管**、助听/助视。
+
+> [!warning] 何时上镇静药 + 选哪种（高频考点）
+> **仅当激越 severe agitation 危及自身安全 / 妨碍必要治疗时**才药物镇静：
+> - **首选低剂量 haloperidol 氟哌啶醇**（典型抗精神病药；起效快、可 IM（intramuscular，肌注）、抗胆碱负担低）；非典型 **quetiapine 喹硫平 / risperidone 利培酮** 亦可。
+> - **用最低剂量、最短疗程** —— 抗精神病药**增加老年患者死亡率**、延长 QT。
+> - **⚠️ 苯二氮䓬 (BZD, benzodiazepine，如 lorazepam 劳拉西泮) 在老年谵妄中避免**：反常激越 (paradoxical agitation)、跌倒、呼吸抑制、半衰期长。
+>   - **BZD 才对的两个例外**：① **酒精/BZD 戒断性谵妄（DT, delirium tremens，震颤谵妄）**（见 [[mistakes/uworld-mistakes_2026-07#^Q18287]]）；② 抗精神病药禁忌（严重 QT 延长 / 过敏）。
+> - **⚠️ 路易体痴呆 (DLB, dementia with Lewy bodies) / 帕金森病 (PD, Parkinson disease)**：对典型抗精神病药有**神经阻滞剂高敏 (neuroleptic hypersensitivity)** → 激越改用 **quetiapine 喹硫平**，别用 haloperidol（见 [[完整笔记/专题笔记/神经/神经_老年痴呆鉴别]]）。
+
+> [!tip] 一句话决策
+> **激越性谵妄危及安全 → 低剂量 haloperidol + 治病因；BZD 只留给戒断（DT）；路易体/PD 换 quetiapine。**（源 [[mistakes/uworld-mistakes_2026-07#^Q4622]]，错选 lorazepam）
+
 ## 🔗 关联
 
-- 🔁 同主题做对题：
-  - [[mistakes/uworld-mistakes_2026-06#^Q4644]] 谵妄初始评估（UA 优先）
-  - [[mistakes/uworld-mistakes_2026-06#^Q21331]] 谵妄异常发现导向（肺炎征 → 胸片）
+- 🔁 同主题错题/做对题：
+  - [[mistakes/uworld-mistakes_2026-07#^Q4622]] 激越性谵妄镇静用药（首选 haloperidol，错选 lorazepam）❌做错
+  - [[mistakes/uworld-mistakes_2026-06#^Q4644]] 谵妄初始评估（UA 优先）✅做对
+  - [[mistakes/uworld-mistakes_2026-06#^Q21331]] 谵妄异常发现导向（肺炎征 → 胸片）✅做对
+  - [[mistakes/uworld-mistakes_2026-07#^Q18287]] 酒精戒断 DT（BZD 才对的例外）✅做对
 - 📚 主笔记：[[完整笔记/Peixuan分科笔记/neuro]] / [[完整笔记/Peixuan分科笔记/psych]]
 - 🏥 跨学科：[[完整笔记/专题笔记/感染/感染_CAUTI完整体系]]（老年 UTI 致谵妄）/ [[完整笔记/专题笔记/Ethics/Ethics_EOL_Hospice与决策]]（谵妄 vs 决策能力）
 - 🌱 TODO：无

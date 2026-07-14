@@ -137,7 +137,7 @@ type: 专题笔记
 | 情境 | 钥匙 | 下一步 |
 |---|---|---|
 | 霹雳样头痛 thunderclap | "一生最痛"、年轻人半夜急诊 | **非增强 CT → 阴性疑诊查 LP**（见三、SAH）|
-| 假性脑瘤 pseudotumor cerebri（特发性颅内高压 IIH, idiopathic intracranial hypertension）| 育龄肥胖女、维生素 A 过量、视乳头水肿 | **CT 正常 + LP 开放压↑** → acetazolamide 乙酰唑胺 + 治疗性 LP + 停诱因药 |
+| 🔴 假性脑瘤 pseudotumor cerebri（特发性颅内高压 IIH, idiopathic intracranial hypertension）| 育龄肥胖女、维生素 A 过量、视乳头水肿、一过性黑矇；**无尿失禁**（尿失禁=NPH，见下表）；横窦狭窄但 **MRV 无血栓 ≠ CVST** | **先影像排占位 → CT 正常 + LP 开放压↑** → acetazolamide 乙酰唑胺 + 治疗性 LP + 停诱因药（**反复错 Q3162/Q107461**）|
 
 ---
 
@@ -233,6 +233,9 @@ type: 专题笔记
 > 阶梯下降 = 血管性；行为先变 = FTD；视幻觉 + 帕金森 = DLB；**快速痴呆 + 肌阵挛 = CJD**；步态 + 尿失禁 + 痴呆 = NPH。
 
 🧩 痴呆全面鉴别（含 pseudodementia）→ [[完整笔记/专题笔记/神经/神经_老年痴呆鉴别]]
+
+> [!warning] 谵妄 delirium 激越镇静用药（vs 痴呆，别搞混）
+> 老年**激越性谵妄**危及安全/妨碍治疗 → **首选低剂量 haloperidol 氟哌啶醇** + **治病因**（如 UTI 给抗生素）。**苯二氮䓬 (BZD, benzodiazepine，lorazepam 劳拉西泮) 在老年谵妄避免**（反常激越/跌倒/呼吸抑制）——**只用于酒精/BZD 戒断性谵妄 (DT)**。**路易体痴呆 DLB / 帕金森病 PD 换 quetiapine 喹硫平**（禁 haloperidol）。详见 [[完整笔记/专题笔记/神经/神经_谵妄评估delirium]]（源 Q4622 错选 lorazepam）。
 
 ---
 
