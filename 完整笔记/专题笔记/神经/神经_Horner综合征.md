@@ -31,46 +31,48 @@ type: 专题笔记
 
 ## 二、解剖通路 — 三级神经元
 
-```
-                        【一级神经元】
-            下丘脑后外侧 (Posterior Hypothalamus)
-                          ↓
-            经脑干被盖部 (brainstem tegmentum) 下行
-                          ↓
-            延髓外侧 (lateral medulla) — Wallenberg 位置
-                          ↓
-            脊髓侧索 (lateral funiculus)
-                          ↓
-            ──→ Ciliospinal center of Budge (T1–T2 lateral horn)
-                ⭐ 一级末端、二级起点
-
-                        【二级神经元 / 节前 Preganglionic】
-            T1–T2 lateral horn (脊髓外侧角)
-                          ↓
-            经腹根 → white ramus → 交感链 (sympathetic chain)
-                          ↓
-            绕过 lung apex（肺尖） + 锁骨下动脉
-                          ↓
-            穿 stellate ganglion (星状神经节，无突触)
-                          ↓
-            ──→ Superior Cervical Ganglion (SCG, 颈上神经节)
-                ⭐ 二级末端、三级起点
-
-                        【三级神经元 / 节后 Postganglionic】
-            SCG → 攀附 Internal Carotid Artery (ICA, 颈内动脉)
-                          ↓
-            穿 cavernous sinus (海绵窦) ── 与 CN VI 并行
-                          ↓
-            随 long ciliary nerves (V1 分支) 入眶
-                          ↓
-            ──→ 三个靶器官：
-                ① Müller's muscle (上睑提肌辅助) → ptosis
-                ② Iris dilator muscle (虹膜开大肌) → miosis
-                ③ 面部汗腺、皮肤血管 → anhidrosis
-                
-            ⚠️ 关键：面部汗腺纤维沿颈外动脉 (ECA) 分支走
-                → 三级（ICA 分支后）损伤可保留出汗 = "Partial Horner"
-```
+> [!info]- 三级神经元完整解剖通路（点开看推导）
+> 
+> ```
+>                         【一级神经元】
+>             下丘脑后外侧 (Posterior Hypothalamus)
+>                           ↓
+>             经脑干被盖部 (brainstem tegmentum) 下行
+>                           ↓
+>             延髓外侧 (lateral medulla) — Wallenberg 位置
+>                           ↓
+>             脊髓侧索 (lateral funiculus)
+>                           ↓
+>             ──→ Ciliospinal center of Budge (T1–T2 lateral horn)
+>                 ⭐ 一级末端、二级起点
+> 
+>                         【二级神经元 / 节前 Preganglionic】
+>             T1–T2 lateral horn (脊髓外侧角)
+>                           ↓
+>             经腹根 → white ramus → 交感链 (sympathetic chain)
+>                           ↓
+>             绕过 lung apex（肺尖） + 锁骨下动脉
+>                           ↓
+>             穿 stellate ganglion (星状神经节，无突触)
+>                           ↓
+>             ──→ Superior Cervical Ganglion (SCG, 颈上神经节)
+>                 ⭐ 二级末端、三级起点
+> 
+>                         【三级神经元 / 节后 Postganglionic】
+>             SCG → 攀附 Internal Carotid Artery (ICA, 颈内动脉)
+>                           ↓
+>             穿 cavernous sinus (海绵窦) ── 与 CN VI 并行
+>                           ↓
+>             随 long ciliary nerves (V1 分支) 入眶
+>                           ↓
+>             ──→ 三个靶器官：
+>                 ① Müller's muscle (上睑提肌辅助) → ptosis
+>                 ② Iris dilator muscle (虹膜开大肌) → miosis
+>                 ③ 面部汗腺、皮肤血管 → anhidrosis
+>                 
+>             ⚠️ 关键：面部汗腺纤维沿颈外动脉 (ECA) 分支走
+>                 → 三级（ICA 分支后）损伤可保留出汗 = "Partial Horner"
+> ```
 
 > [!warning] USMLE 三个解剖必背关键点
 > 1. **一级二级交界 = T1–T2 lateral horn**（Syringomyelia 阶段 2 命中此处）
@@ -152,6 +154,24 @@ type: 专题笔记
 > **治疗**：抗血小板 或 抗凝（防卒中）；血管内介入
 > 
 > **USMLE 钩子**：**"颈痛 + Horner = 颈动脉夹层，直到证明不是"** — 任何延误 = 卒中风险
+
+> [!question]- 为什么颈动脉夹层能表现为**一过性 TIA (Transient Ischemic Attack, 短暂性脑缺血发作)（症状自行缓解、"能好"）**？⭐
+> 夹层的病理是内膜撕裂 → 血液钻入血管壁 → **壁内血肿 (intramural hematoma)**。它造成脑/视网膜缺血有两条路径，**两条都可逆**，所以症状可以来了又走：
+> 
+> **① 血流动力学性狭窄 (hemodynamic / flow-limiting)**
+> - 壁内血肿把管腔从外面压窄，但**通常没有完全闭塞**。
+> - 灌注压一波动（体位改变、血压一过性下降）→ 狭窄段远端一过性低灌注 → 出症状；血压回来 → 症状消失。
+> - 特点：**忽好忽坏、姿势相关**（临界狭窄 + 血流依赖），很像普通 TIA。
+> 
+> **② 动脉-动脉栓塞 (artery-to-artery embolism)**
+> - 撕裂处内膜下暴露 → 局部血栓 → 小栓子脱落打到远端（视网膜动脉 / MCA (middle cerebral artery, 大脑中动脉) 分支）。
+> - 小栓子可**自发溶解或再通** → 症状自行缓解 = **amaurosis fugax（一过性黑矇）** 或短暂偏侧无力。
+> - 但下一颗栓子可能更大 → 升级为**完全性卒中**。
+> 
+> > [!danger] 一过性缓解 ≠ 良性
+> > CAD 的 "TIA 阶段" 是**完全性卒中的危险前驱窗**。这正是治疗要**抗血小板 ± 抗凝**的原因——趁栓子还没变大、管腔还没堵死时阻断进展。看到"年轻人 + 单侧头颈痛 + partial Horner + 一过性视觉/神经症状"→ 立刻当 CAD 处理，别当良性 TIA 观察。
+> 
+> **一句话**：壁内血肿 → 管腔**次全**狭窄（没堵死）+ 会脱落又会自溶的小栓子 → 症状能来能走，但随时升级成永久卒中。
 
 > [!example]- ⑦ Cluster Headache（丛集性头痛）
 > **Stem 模式**：男性 20–40 岁 + **半夜痛醒** + 单侧**眶周/眼后**钻刺痛 + **15–180 min** + **同侧 Horner + 流泪 + 流涕 + 鼻塞 + 结膜充血** + **踱步躁动**（不像 migraine 躲暗室）

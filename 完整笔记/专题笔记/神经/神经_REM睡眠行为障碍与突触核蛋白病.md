@@ -17,7 +17,7 @@ type: 专题笔记
 
 REM 睡眠行为障碍 (REM sleep behavior disorder, RBD)：正常 REM 期本应有的 **骨骼肌张力抑制 (REM atonia)** 丢失，患者把梦境动作真实做出来（dream enactment）。
 
-> [!info] 核心机制
+> [!info]- 核心机制
 > ```text
 > 脑干（延髓/桥脑）REM atonia 环路的 α-synuclein 神经退变
 >   -> REM 期骨骼肌张力抑制丢失（loss of REM atonia）

@@ -147,18 +147,18 @@ type: 专题笔记
 
 ### 5.2 为什么"反而加重血栓"—— 机制层面
 
-Andexanet alfa 是个**重组诱饵 factor Xa**（catalytically inactive 突变体），原始设计逻辑：
-- 用诱饵 Xa "吸住" 血液里的 -xaban → 内源性 Xa 重新可用 → 凝血恢复
-
-**致命副作用**：
-
-> 它**同时结合并耗竭 TFPI（tissue factor pathway inhibitor，组织因子通路抑制剂）**
-
-TFPI 是人体内源性抗凝系统的关键刹车。TFPI 被耗竭后：
-
-- TF–FVIIa–Xa 复合物失去抑制
-- 凝血系统 **rebound 性激活**
-- 进入 **promothrombotic state（促血栓状态）**，持续数小时
+> [!info]- 机制：诱饵 Xa 顺手耗竭 TFPI → rebound 促血栓
+> Andexanet alfa 是个**重组诱饵 factor Xa**（catalytically inactive 突变体），原始设计逻辑：
+> - 用诱饵 Xa "吸住" 血液里的 -xaban → 内源性 Xa 重新可用 → 凝血恢复
+> 
+> **致命副作用**：
+> 
+> > 它**同时结合并耗竭 TFPI（tissue factor pathway inhibitor，组织因子通路抑制剂）**
+> 
+> TFPI 是人体内源性抗凝系统的关键刹车。TFPI 被耗竭后：
+> - TF–FVIIa–Xa 复合物失去抑制
+> - 凝血系统 **rebound 性激活**
+> - 进入 **promothrombotic state（促血栓状态）**，持续数小时
 
 > [!danger] ANNEXA-I 试验震撼结果（NEJM 2024）
 > 急性 ICH（脑出血）+ Xa inhibitor 患者随机 andexanet vs usual care（多为 4F-PCC）：
@@ -171,16 +171,17 @@ TFPI 是人体内源性抗凝系统的关键刹车。TFPI 被耗竭后：
 
 ### 5.3 为什么"tPA 前不能用"是衍生问题
 
-套到卒中场景：
-
-1. 患者已经**急性缺血性卒中**（本身就是血栓造成的）
-2. 给 andexanet → **进一步促血栓状态** → 可能扩大梗死 / 新发血栓
-3. 即使逆转了 Xa 抑制，再给 tPA：
-   - 无 RCT 数据支持安全性
-   - Andexanet 半衰期短（~1 小时），**rebound 效应**在 tPA 起效时段重叠
-   - 凝血状态：reversed → procoagulant → 给 tPA 后又 fibrinolytic，整个凝血轴**剧烈震荡**
-
-→ 指南（AHA/ASA 2019 + 2021 update）**明确不推荐** andexanet 用于 tPA 前桥接。
+> [!info]- 推导：为什么"tPA 前不能用"是衍生问题
+> 套到卒中场景：
+> 
+> 1. 患者已经**急性缺血性卒中**（本身就是血栓造成的）
+> 2. 给 andexanet → **进一步促血栓状态** → 可能扩大梗死 / 新发血栓
+> 3. 即使逆转了 Xa 抑制，再给 tPA：
+>    - 无 RCT 数据支持安全性
+>    - Andexanet 半衰期短（~1 小时），**rebound 效应**在 tPA 起效时段重叠
+>    - 凝血状态：reversed → procoagulant → 给 tPA 后又 fibrinolytic，整个凝血轴**剧烈震荡**
+> 
+> → 指南（AHA/ASA 2019 + 2021 update）**明确不推荐** andexanet 用于 tPA 前桥接。
 
 ### 5.4 实际临床定位
 

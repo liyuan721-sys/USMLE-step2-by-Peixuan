@@ -77,7 +77,7 @@ created: 2026-06-12
 | Bull's eye 扩大 + 蜱叮 | **Erythema migrans 游走性红斑** (Lyme 莱姆病) |
 | Wickham striae 白色蕾丝纹 + 5P | **Lichen planus 扁平苔藓** |
 | 茶/酒色尿 + 日晒区无痛水疱 + HepC | **PCT 迟发性皮肤卟啉病** |
-| Umbilicated 脐凹丘疹 | **Molluscum contagiosum 传染性软疣** |
+| Umbilicated 脐凹丘疹 | **Molluscum contagiosum 传染性软疣**（⚠️ 若 **AIDS + CD4<100 + 头痛/发热/神经症状** → 别反射选软疣，考虑**播散性隐球菌病 disseminated cryptococcosis** 皮损，也见播散性组织胞浆菌 histoplasma；→ [[完整笔记/专题笔记/感染/感染_AIDS机会性感染按CD4谱]] §五）|
 | **Painless** black eschar 无痛黑焦痂 | **Anthrax 炭疽** (Bacillus anthracis) → ciprofloxacin 环丙沙星 |
 | **Painful** eschar 疼痛焦痂 | **Brown recluse 棕色隐士蜘蛛咬伤** |
 | Wood-grain 木纹样同心带 | **Erythema gyratum repens**（副肿瘤，先于癌诊断） |

@@ -24,20 +24,22 @@ version: v1
 
 ## §二 机制对比（突触前 vs 突触后）
 
-```text
-突触前神经末梢
-   │  电压门控钙通道 (voltage-gated calcium channel, VGCC)
-   │     └─ LEMS 抗体攻击此处 → Ca²⁺ 内流↓ → ACh 释放↓
-   ▼
-突触间隙（ACh）
-   ▼
-突触后膜
-      乙酰胆碱受体 (AChR)
-         └─ MG 抗体攻击此处 → 可结合受体↓
-```
-
-- **LEMS**：反复刺激 / 运动 → 突触前 Ca²⁺ 逐渐蓄积 → ACh 释放回升 → 力量**短暂改善**（facilitation，增幅现象）。
-- **MG**：反复活动 → ACh 耗竭 → 力量**进行性下降**（疲劳，decrement）。
+> [!info]- 突触前 vs 突触后（点开看机制推导：facilitation vs decrement）
+> 
+> ```text
+> 突触前神经末梢
+>    │  电压门控钙通道 (voltage-gated calcium channel, VGCC)
+>    │     └─ LEMS 抗体攻击此处 → Ca²⁺ 内流↓ → ACh 释放↓
+>    ▼
+> 突触间隙（ACh）
+>    ▼
+> 突触后膜
+>       乙酰胆碱受体 (AChR)
+>          └─ MG 抗体攻击此处 → 可结合受体↓
+> ```
+> 
+> - **LEMS**：反复刺激 / 运动 → 突触前 Ca²⁺ 逐渐蓄积 → ACh 释放回升 → 力量**短暂改善**（facilitation，增幅现象）。
+> - **MG**：反复活动 → ACh 耗竭 → 力量**进行性下降**（疲劳，decrement）。
 
 ---
 

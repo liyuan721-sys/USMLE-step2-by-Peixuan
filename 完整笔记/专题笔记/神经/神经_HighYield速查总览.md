@@ -10,7 +10,7 @@ type: 专题笔记
 
 > [!info] 用途
 > 整科"**下一步 next step**"决策速查，派生自 [[完整笔记/Peixuan分科笔记/neuro]]（分科主笔记，只读）的高频提炼。
-> 各深挖主题已有独立专题笔记 → 本卡只放**决策骨架 + 钥匙（buzzword）+ 阈值/时间窗**，深挖点 🧩 指向。
+> **本卡只留：背诵考点（决策骨架 + 钥匙 buzzword + 阈值/时间窗 + 鉴别对比表）+ 易错点（红旗/陷阱）**；所有病理机制、通路推导、"为什么"深挖**均折叠进各 🧩 专题笔记**，本卡只留一句结论 + 双链。
 > 阈值/数字均按分科笔记原文，未自行补充。
 
 ---
@@ -33,7 +33,7 @@ type: 专题笔记
 
 ## 一、卒中（Stroke）⭐ 最高频
 
-> [!info] 缩写约定（首次给全称）
+> [!note]- 缩写约定（首次给全称，点开查）
 > TIA = transient ischemic attack（短暂性脑缺血发作）；CT = 计算机断层（computed tomography）；MRI = 磁共振成像；CTA = CT angiography（CT 血管造影）；DSA = digital subtraction angiography（数字减影血管造影）；ICH = intracranial hemorrhage（颅内出血）；SAH = subarachnoid hemorrhage（蛛网膜下腔出血）；CEA = carotid endarterectomy（颈动脉内膜剥脱术）；AFib = atrial fibrillation（房颤）；CCB = calcium channel blocker（钙通道阻滞剂）。
 
 ### 1.1 第一步永远是"有没有血"
