@@ -266,6 +266,17 @@ Step 3 定位：垂体 MRI
 > [!tip] 大血管风险↓最有效
 > 戒烟 + 血压控制 + 他汀 (statin)（不是只盯血糖）。
 
+### 4.6 糖尿病手部/结缔组织并发症（Diabetic hand）
+
+> [!tip] 糖尿病手部三联 + 机制（骨科/内分泌交叉高频）⭐
+> 长病程糖尿病 (long-standing DM, diabetes mellitus 糖尿病) → **胶原非酶糖基化 (nonenzymatic glycation of collagen) + 结缔组织增生/僵硬**，手部三种病变常一起考：
+> - **Dupuytren 掌腱膜挛缩 (Dupuytren contracture)** — 掌腱膜纤维化 → 第 4、5 指屈曲挛缩、伸不开、**无痛无弹响**。DM 是其第二大危险因素（第一为**酒精 alcohol / 肝硬化 cirrhosis**）。
+> - **扳机指 (trigger finger, stenosing tenosynovitis 狭窄性腱鞘炎)** — 屈肌腱 A1 滑车狭窄 → 屈指后卡住再"咔"弹开；首选**局部激素注射 (intralesional glucocorticoid)**。
+> - **糖尿病手关节病 (diabetic cheiroarthropathy / limited joint mobility, 关节活动受限)** — 招牌 = **祈祷征 (prayer sign) 阳性**：双手合十时手指关节不能完全并拢/伸直、掌面留缝。
+>
+> 再加 **腕管综合征 (carpal tunnel syndrome, CTS, 正中神经 median nerve 卡压)**——DM 是其常见诱因（同 孕/甲减/肢端肥大）——共同构成"糖尿病手"谱系。这些是**慢性微血管/结缔组织并发症**的手部表现，提示血糖控制不佳。
+> 📄 出处：本节 4.6；鉴别体征（tabletop test / 治疗阶梯 collagenase→fasciectomy）详见 [[完整笔记/专题笔记/骨科/骨科_腕手及周围疾病鉴别#四、D. 挛缩 / 包块 / 伸肌损伤]]。
+
 ---
 
 ## 五、钙磷骨代谢（Calcium / PTH / Bone）
