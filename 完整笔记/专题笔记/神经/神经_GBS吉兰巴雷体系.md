@@ -84,6 +84,9 @@ GBS 进展方向（上行性）
 >
 > GBS 关键 = **细胞不高、蛋白高** → "分离"。别和病毒性脑膜炎（细胞升）混。
 
+> [!tip] GBS 蛋白高 vs MS 寡克隆带（造 vs 漏）
+> 同样"CSF 蛋白高"，**GBS ＝ 漏**（血里的**白蛋白 albumin** 经受损的 blood-nerve barrier 被动漏入，定量、无克隆性）；**MS ＝ 造**（CNS 鞘内合成克隆性 **IgG**，定性、电泳成离散带）。完整"造 vs 漏"对比表见 [[完整笔记/专题笔记/神经/神经_多发性硬化MS体系]] §四的可折叠 callout。
+
 ## 五、处理 ⭐
 
 > [!danger] 最紧急步骤 = 肺功能测定（PFT，pulmonary function test）
