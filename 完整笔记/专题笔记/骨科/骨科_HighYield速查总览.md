@@ -90,6 +90,9 @@ created: 2026-06-12
 > | **Spinal epidural abscess 硬膜外脓肿** | 三联：发热 + 局部脊柱痛 + 神经缺损；IVDU/免疫抑制 | — | 急诊 MRI + IV 抗生素 ± 引流 |
 > | **Neurovascular injury 神经血管损伤** | 骨折/脱位伴脉弱、血肿、神经缺损 | 「有脉但弱→CTA；无脉/缺血→直接手术」 | 复位后**必查神经血管** |
 
+> [!danger] Compartment syndrome 三大"假阴性"陷阱（关联错题 [[mistakes/uworld-mistakes_2026-07#^Q15654]]）
+> **脉搏可触及 / 感觉正常 / X 线无骨折 —— 三者都不能排除骨筋膜室综合征**（脉搏消失、感觉丧失都是晚期表现）。挤压伤 + 疼痛不成比例 + 被动牵拉痛即高度怀疑 → **测室压（delta 压 = 舒张压 − 室压 ≤30 mmHg）→ 紧急 fasciotomy**。别被"脉搏正常"劝退去查动脉造影 / CT。
+
 ---
 
 ## 一、上肢 Upper Extremity
