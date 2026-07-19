@@ -317,6 +317,19 @@ created: 2026-06-12
 ![[风湿_痛风骨侵蚀X线.png|400]]
 *痛风足 X 线：关节旁**穿凿样骨侵蚀 (punched-out erosion) + 悬挑边缘 (overhanging edge)**，关节间隙相对保留。*
 
+> [!info] 痛风累及浅表滑囊三型（鹰嘴 / 髌前）+ 痛风石 X 线钥匙 ⭐（[[mistakes/uworld-mistakes_2026-07#^Q20191]]）
+> 痛风不止累及关节，也常沉积于浅表滑囊——**鹰嘴滑囊 (olecranon bursa)** / **髌前滑囊 (prepatellar bursa)**，三种表现别混：
+>
+> | 表现 | 特征 | 钩子 |
+> |---|---|---|
+> | 急性滑囊炎 | 痛风急性发作：红、热、肿、痛，迅速升级 | 像急性痛风，炎症明显 |
+> | 慢性滑囊炎 | 大、圆、**波动性 (fluctuant) 积液** | 波动感 = 液体 |
+> | **滑囊痛风石 (bursal tophus)** | 缓慢增大的**硬块**，仅轻度炎症或**无痛** | 硬、非波动（本题 Q20191：3 年渐大无痛硬块）|
+>
+> **痛风石 (tophus, 痛风石) X 线钥匙**：软组织肿块 + **骨侵蚀 (bone erosion) + 悬挑/隆起边缘 (overhanging edges)**；尿酸盐本身 X 线**可透 (radiolucent)**，钙沉积时才变致密。
+> - 陷阱：鹰嘴部位硬块反射"**慢性鹰嘴滑囊炎 (chronic olecranon bursitis)**"——但滑囊炎是**波动性积液**不是硬块；硬块 + 骨侵蚀隆起边缘 + 痛风/CKD 史 = **痛风石**。
+> - **慢性肾病 (chronic kidney disease, CKD) ↔ 痛风双向**：CKD 尿酸排泄↓ 加重痛风；慢性高尿酸沉积肾间质 = **尿酸盐肾病 (urate nephropathy)** 反致 / 加重 CKD。
+
 > [!warning] Gout 急性 vs 慢性
 > - 诊断：arthrocentesis 关节穿刺 → 滑液晶体分析（金标准）
 > - **急性发作（抗炎，非降尿酸）**：一般 → **NSAIDs (indomethacin 吲哚美辛)**；**酗酒者 / PUD / 肾衰 → 优先关节内/全身激素**（colchicine 秋水仙碱在酗酒者 GI 不耐受、需谨慎）
