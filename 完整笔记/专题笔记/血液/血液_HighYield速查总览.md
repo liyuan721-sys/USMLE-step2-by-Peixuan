@@ -65,6 +65,15 @@ type: 专题笔记
 > 炎症/慢病/铁过载 → **hepcidin↑**（扣铁，ferritin↑）；血色病 hemochromatosis → **hepcidin 不当地低** → ferroportin 继续放铁 → 肠道吸铁↑、组织铁沉积。
 > **铅中毒 (lead poisoning, 铅中毒)** = 获得性铁粒幼细胞性贫血：腹痛 + 神经症状；治疗 **EDTA / 二巯丁二酸 (succimer / DMSA)**，儿童铅脑病重症加 **二巯基丙醇 (dimercaprol, BAL)**。
 
+> [!danger] 关节痛的老人贫血：先看关节是"炎"还是"磨"
+> **骨关节炎 (osteoarthritis, OA) 不是炎症性关节病 → 不引起 ACD。** ACD 的机制是**炎症细胞因子**（白细胞介素-6 interleukin-6 → 铁调素 hepcidin↑ → 铁被扣在巨噬细胞内），主场是**类风湿关节炎 (rheumatoid arthritis, RA)、系统性红斑狼疮 (systemic lupus erythematosus, SLE)、慢性感染、恶性肿瘤**。
+> - 有**滑膜炎 / 关节积液 / 红斑** → 想 ACD
+> - **只有骨赘骨性肥大、无积液无红斑（OA）** → 别选 ACD，去看他**为止痛吃了什么**：**非甾体抗炎药 (nonsteroidal anti-inflammatory drug, NSAID) + 小剂量阿司匹林 → 消化道慢性隐性失血 → 缺铁性贫血**。⚠️ 小剂量阿司匹林常被患者当"保健品"不主动报告，老年用药史必须追问非处方药。
+> - ⭐**成人查出缺铁 ≠ 终点诊断**，而是"**去找出血源**"的起点（低度慢性出血可预示日后灾难性大出血）→ 老年/男性/绝经后女性一律**双向内镜 (bidirectional endoscopy)**。
+> - 老年还有**"老年特发性贫血 (idiopathic anemia of ageing)"** 这一基线，且常合并心衰/慢性肺病 → **对轻度贫血耐受很差**，不能因"只是轻度"就不查。〔源：Q3936 → [[mistakes/uworld-mistakes_2026-07#^Q3936]]〕
+
+🧩 成人缺铁的病因追查与评估链深挖 → [[完整笔记/专题笔记/血液/血液_成人缺铁性贫血病因与评估]]
+
 ### 1.2 大细胞性贫血（Macrocytic, MCV>100）
 
 | 病 | 钥匙 | 鉴别钩子 | 治疗 |
@@ -326,3 +335,5 @@ PTT = 内源 + 共同通路 (12,11,9,8)      → hemophilia A(VIII)/B(IX)、hepa
 
 - **v1**（2026-06-12）：通读分科笔记 [[完整笔记/Peixuan分科笔记/hematology oncology]] 全 3475 行提炼建卡。覆盖贫血总框架（retic+MCV 双轴 / 小细胞 IDA-地中海-ACD-铁粒幼 / 大细胞 B12-叶酸 / 溶血 AIHA温冷-G6PD-HS-PNH-MAHA / 再障）、铁代谢 hepcidin、出血性疾病（血小板 ITP/TTP/HUS/HIT + vWD/血友病/DIC + PT/PTT 判读 + 尿毒症血小板障碍）、高凝与抗凝药（FVL/APS/VTE + 4 对拮抗剂）、输血反应（过敏 vs 荨麻疹）、白细胞肿瘤（ALL/AML-APL/CML/CLL/毛细胞 + Hodgkin vs NH + MM/MGUS/Waldenström + 化疗毒性）、骨髓增殖（PV/ET/MF）、肿瘤急症（TLS/高钙/脊髓压迫/SVC/中性粒减少性发热）、实体瘤标志物/副肿瘤。深挖镰刀细胞病双链至已有专题笔记，其余深挖方向列入 🌱 TODO。阈值/数字（PT 11–15 / PTT 25–40 / ITP 30,000 与 100,000 / M-spike>3 + 骨髓>10% / 抗 D 滴度 ≥1:16 / blasts>20%）按源文件原文。
 - **v1.1**（2026-06-18）：NBME11 Q143 错题入库，§5.1 新增 **治疗相关 AML (t-AML)** 增量 callout（既往烷化剂化疗/放疗 = 经典危险因素，多年后第二原发；病因强弱 chemo/放疗 ＞ filgrastim ＞ 雌激素 ＞ 复发；外周 myeloblasts→先定性 AML）+ 关联回链 [[NBME11_错题本#^Q143]]。
+
+- **v1.2**（2026-07-22）：做对题知识补充。§1.1 后新增「关节痛的老人贫血：先看关节是炎还是磨」[!danger] callout —— 骨关节炎非炎症性不引起 ACD、NSAID + 小剂量阿司匹林致慢性隐性失血、成人缺铁必须双向内镜找病因、老年特发性贫血与耐受差。双链新建专题 [[完整笔记/专题笔记/血液/血液_成人缺铁性贫血病因与评估]]。源：Q3936。
