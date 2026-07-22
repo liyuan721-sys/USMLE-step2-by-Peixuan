@@ -1,7 +1,8 @@
 ---
 tags:
   - USMLE-Step2
-  - GYN
+  - 妇产科
+  - 妇科
 created: 2026-06-23
 type: 专题笔记
 parent_topic: HPV 相关病变谱 — 病毒学（低危/高危）+ 全身病变谱系（疣/CIN/各部位癌/RRP）+ 疫苗

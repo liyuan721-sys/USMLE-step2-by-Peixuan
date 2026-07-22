@@ -1,7 +1,7 @@
 ---
 tags:
   - USMLE-Step2
-  - 风湿免疫
+  - 风湿
   - 儿科
 created: 2026-07-18
 type: 专题笔记

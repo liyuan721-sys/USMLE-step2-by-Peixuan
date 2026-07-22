@@ -1,7 +1,8 @@
 ---
 tags:
   - USMLE-Step2
-  - GYN
+  - 妇产科
+  - 妇科
   - 外科
 created: 2026-05-28
 type: 专题笔记

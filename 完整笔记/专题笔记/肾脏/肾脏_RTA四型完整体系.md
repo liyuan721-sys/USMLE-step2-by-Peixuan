@@ -1,7 +1,7 @@
 ---
 tags:
   - USMLE-Step2
-  - 肾
+  - 肾脏
 created: 2026-06-13
 type: 专题笔记
 ---

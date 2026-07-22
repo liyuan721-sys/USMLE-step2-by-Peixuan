@@ -1,7 +1,7 @@
 ---
 tags:
   - USMLE-Step2
-  - OB-GYN
+  - 妇产科
 created: 2026-06-22
 type: 专题笔记
 ---
