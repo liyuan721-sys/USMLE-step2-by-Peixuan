@@ -155,9 +155,22 @@ type: 专题笔记
 
 ---
 
+## ⭐ 直肠脱垂 (rectal prolapse)（Q19033 锚定）
+
+直肠脱垂 = 直肠经肛门脱出，多因盆底/直肠筋膜缺陷。最常见于女 >40；危险因素：多产、阴道分娩、慢性便秘/用力、卒中/痴呆、盆底功能障碍。
+
+| 维度 | 要点 |
+|---|---|
+| 典型征 | ⭐红斑肿块 + 同心环 (concentric rings)、用力(Valsalva)时增大、放松回缩 = 全层脱垂 (full-thickness)；放射状皱襞 (radial invaginations) = 非全层 |
+| 症状 | 排便梗阻感/便秘、大便失禁、肿块脱出 |
+| 处理 | 全层或致残症状（失禁/便秘）→ 手术（直肠固定术 rectopexy 首选）；非全层/体弱 → 纤维 + 盆底肌锻炼 ± 生物反馈 |
+
+> [!warning] 一眼分 直肠脱垂 vs 脱垂内痔
+> 直肠脱垂 = 红斑肿块 + 同心环 → 手术；脱垂内痔 (prolapsed hemorrhoid) = 蓝紫色隆起 → 橡皮圈套扎 (rubber band ligation)。别把脱垂当痔套扎。
+
 ## 🔗 关联
 
-- 🔁 同主题错题：[[mistakes/uworld-mistakes_2026-07#^Q16095]] 肛瘘（脓肿后遗）→ 手术评估
+- 🔁 同主题错题：[[mistakes/uworld-mistakes_2026-07#^Q16095]] 肛瘘（脓肿后遗）→ 手术评估；[[mistakes/uworld-mistakes_2026-07#^Q19033]] 全层直肠脱垂 → 手术修复
 - 📚 主笔记：[[完整笔记/专题笔记/GI/GI_HighYield速查总览]] / [[完整笔记/Peixuan分科笔记/GI]]
 - 🏥 跨学科：[[完整笔记/Peixuan分科笔记/外科]]（急性脓肿 I&D vs 择期瘘管切开的时相分流）
 - 🌱 TODO：待遇到克罗恩病肛周病变或肛管鳞状细胞癌 (anal squamous cell carcinoma, 与人乳头瘤病毒 human papillomavirus, HPV / HIV 相关) 的题目后，把"肛周病变 → 提示全身病（IBD / HIV / 结核 / 恶性）"这条反向索引补成本笔记 §七，并与 [[完整笔记/专题笔记/GI/GI_HighYield速查总览]] §五 IBD 节交叉链接

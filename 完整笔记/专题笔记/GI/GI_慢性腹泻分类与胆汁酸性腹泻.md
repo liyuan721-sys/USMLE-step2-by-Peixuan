@@ -365,7 +365,30 @@ type: 专题笔记
 
 ---
 
+## ⭐ 器质性"红旗"清单 + 贾第虫病 (giardiasis)（Q3887 锚定）
+
+> [!danger] 慢性腹泻器质性红旗（任一 → 必进一步检查，不能选"无进一步检查"）
+> - 年龄 >50
+> - 夜间症状 (nocturnal symptoms)
+> - 系统症状（发热、体重下降 weight loss）
+> - 直肠出血
+> - 实验室异常（炎症标志物升高）
+> - 结肠癌 / IBD 家族史
+
+贾第虫病 (giardiasis)：原虫 Giardia lamblia，粪口传播（污染食水、日托 day care、拥挤、免疫缺陷如 CVID/IgA 缺乏/CF/HIV）。绒毛钝化 + 破坏上皮紧密连接 → 吸收不良。
+
+| 维度 | 要点 |
+|---|---|
+| 表现 | 亚急性(<4周)或慢性（数月）；油腻恶臭非血便；腹胀胀气；体重下降；维生素缺乏 |
+| 诊断 | ⭐粪抗原 (stool antigen) 或 PCR（灵敏度高）；粪镜找滋养体/包囊灵敏度低；Giardia 不能培养 |
+| 治疗 | 一线 tinidazole 或 nitazoxanide；替代 metronidazole（甲硝唑）；孕早期 paromomycin |
+
+> [!tip] 反射
+> 恶臭油便 + 日托/水源暴露 + 慢性 → 贾第虫 → 粪抗原/PCR。且"夜间拉 + 掉秤"= 红旗 → 别选"无进一步检查"。
+
 ## 🔗 关联
+
+- 🔁 同主题错题：[[mistakes/uworld-mistakes_2026-07#^Q3887]] 慢性腹泻红旗 → 贾第虫（粪抗原）
 - 🔁 同主题错题：
   - [[mistakes/uworld-mistakes_2026-07#^Q19449]] 胆囊切除术后胆汁酸性腹泻 → 考来烯胺
   - [[mistakes/uworld-mistakes_2026-07#^Q105705]] 回盲部切除后 SIBO → 碳水呼气试验
